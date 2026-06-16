@@ -1,0 +1,140 @@
+{
+  "overall_ok": true,
+  "failed_checks": [],
+  "hashes": {
+    "official_pdf_sha256": "af85c706a53d3b3bbad818bcce7415ac9a2284ea14f79fe7f54ce1248a7bdac9",
+    "github_level1_sha256": "79a6c710013cc86617d5db65871f59b2d67dee72415d380a2cc7145a51450fe4",
+    "local_level1_sha256": "79a6c710013cc86617d5db65871f59b2d67dee72415d380a2cc7145a51450fe4",
+    "unihan_zip_sha256": "f7a48b2b545acfaa77b2d607ae28747404ce02baefee16396c5d2d7a8ef34b5e"
+  },
+  "counts": {
+    "local_level1": 3500,
+    "local_level1_unique": 3500,
+    "wikisource_level1": 3500,
+    "github_level1": 3500,
+    "github_level2": 3000,
+    "github_level3": 1605,
+    "used_chars": 247,
+    "used_unique": 247,
+    "out_of_level1": 0,
+    "level1_missing_strokes": 0,
+    "used_missing_strokes": 0,
+    "level_tsv_mismatches": 0,
+    "used_tsv_mismatches": 0
+  },
+  "statistics": {
+    "level1_min_strokes": 1,
+    "level1_max_strokes": 24,
+    "level1_avg_strokes": 9.7037,
+    "used_min_strokes": 1,
+    "used_max_strokes": 17,
+    "used_avg_strokes": 7.5425,
+    "used_max_chars": "糟"
+  },
+  "checks": [
+    {
+      "name": "local_vs_github_bytes",
+      "ok": true
+    },
+    {
+      "name": "local_vs_github_chars",
+      "ok": true
+    },
+    {
+      "name": "github_vs_wikisource_level1_chars_normalized",
+      "ok": true
+    },
+    {
+      "name": "level1_count_3500",
+      "ok": true
+    },
+    {
+      "name": "level1_unique_3500",
+      "ok": true
+    },
+    {
+      "name": "wikisource_level1_count_3500",
+      "ok": true
+    },
+    {
+      "name": "wikisource_level1_numbers_contiguous",
+      "ok": true
+    },
+    {
+      "name": "github_8105_total",
+      "ok": true
+    },
+    {
+      "name": "local_single_codepoint_each_line",
+      "ok": true
+    },
+    {
+      "name": "local_no_utf8_bom",
+      "ok": true
+    },
+    {
+      "name": "local_lf_line_endings_no_crlf",
+      "ok": true
+    },
+    {
+      "name": "level1_all_have_unihan_ktotalstrokes",
+      "ok": true
+    },
+    {
+      "name": "level1_all_strokes_numeric_single_value",
+      "ok": true
+    },
+    {
+      "name": "level1_stroke_tsv_rows_3500",
+      "ok": true
+    },
+    {
+      "name": "level1_stroke_tsv_exact_match_unihan",
+      "ok": true
+    },
+    {
+      "name": "used_chars_count_247",
+      "ok": true
+    },
+    {
+      "name": "used_chars_unique_247",
+      "ok": true
+    },
+    {
+      "name": "used_all_in_level1",
+      "ok": true
+    },
+    {
+      "name": "used_all_have_strokes",
+      "ok": true
+    },
+    {
+      "name": "used_stroke_tsv_rows_247",
+      "ok": true
+    },
+    {
+      "name": "used_stroke_tsv_exact_match_unihan",
+      "ok": true
+    },
+    {
+      "name": "level1_first_10_expected",
+      "ok": true
+    },
+    {
+      "name": "level1_last_5_expected",
+      "ok": true
+    },
+    {
+      "name": "level1_max_stroke_24",
+      "ok": true
+    },
+    {
+      "name": "used_max_stroke_17_zhao",
+      "ok": true
+    }
+  ],
+  "normalization_notes": [
+    "Wikisource entry 1360 {{!|珊󠄁|⿰⺩册}} normalized to 珊",
+    "Wikisource entry 2885 零{{fn|a1}} normalized to 零"
+  ]
+}

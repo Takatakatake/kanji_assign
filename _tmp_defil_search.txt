@@ -1,0 +1,3 @@
+_audit_singlechar.json | {"root": "marŝ", "cur": "步", "jp": "［自］行進する, 前進する; （比較的長い距離を）歩いて行く", "cn": "行进，步行，跋涉"}
+_audit_singlechar.json | {"root": "vic", "cur": "列", "jp": "列, 行列, 並び; 番, 順番; 【数】数列", "cn": "一列，队列；顺序，次序；轮次；（数）数列"}
+_audit_singlechar.json | {"root": "manifestaci", "cur": "示", "jp": "【政】デモ, 示威運動, 示威行進, >>parado, >>procesio", "cn": "示威游行"}

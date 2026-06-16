@@ -1,0 +1,4153 @@
+{
+    "total":  296,
+    "results":  [
+                    {
+                        "root":  "viol",
+                        "current":  "堇",
+                        "action":  "reduce",
+                        "newk":  "紫花",
+                        "reason":  "堇は二级。一级の紫(むらさき)+花でスミレの中心像(紫の花)に到達。やや汎用だが一级優先(蟒→巨蛇方式)。"
+                    },
+                    {
+                        "root":  "framb",
+                        "current":  "莓",
+                        "action":  "untargeted",
+                        "newk":  "",
+                        "reason":  "莓は二级で一级に苺類の字なし。果は汎用すぎラズベリーの中心義に届かず、一级で透明に表せないため未対応。"
+                    },
+                    {
+                        "root":  "frag",
+                        "current":  "莓",
+                        "action":  "reduce",
+                        "newk":  "甜酱",
+                        "reason":  "中心義はジャム(プレザーブ)。一级の甜(甘)+酱(ペースト/ジャム)で甘いジャムに到達。苺自体は一级不能だがジャムの中心義は表せる。"
+                    },
+                    {
+                        "root":  "ronk",
+                        "current":  "鼾",
+                        "action":  "reduce",
+                        "newk":  "哼",
+                        "reason":  "鼾は二级、齁も非一级。一级の哼(鼻を鳴らす/うなる)でいびき・ごうごううなる(\u003e\u003egrunti)の中心音像に到達。"
+                    },
+                    {
+                        "root":  "vidv",
+                        "current":  "鳏",
+                        "action":  "reduce",
+                        "newk":  "寡",
+                        "reason":  "鳏は二级(やもめの男)。一级の寡が『配偶者を失った/やもめ』の中心義を直接表す。"
+                    },
+                    {
+                        "root":  "kret",
+                        "current":  "垩",
+                        "action":  "reduce",
+                        "newk":  "白石",
+                        "reason":  "垩(白垩=チョーク)は二级。一级の白+石で白亜質(白い石灰岩)の中心像に到達。やや汎用だが一级優先。"
+                    },
+                    {
+                        "root":  "koks",
+                        "current":  "胯",
+                        "action":  "reduce",
+                        "newk":  "股",
+                        "reason":  "胯・髋とも二级。一级の股(もも/股関節部)が股関節の中心義に到達。"
+                    },
+                    {
+                        "root":  "miaŭ",
+                        "current":  "喵",
+                        "action":  "reduce",
+                        "newk":  "咪",
+                        "reason":  "喵は二级。一级の咪(咪咪=猫の鳴き声/猫を呼ぶ語)がニャアの擬音に到達。"
+                    },
+                    {
+                        "root":  "panic",
+                        "current":  "黍",
+                        "action":  "reduce",
+                        "newk":  "粟团",
+                        "reason":  "黍は二级。一级の粟(キビ/雑穀)+团(団子)でキビ団子の中心義に到達。"
+                    },
+                    {
+                        "root":  "angil",
+                        "current":  "鳗",
+                        "action":  "untargeted",
+                        "newk":  "",
+                        "reason":  "鳗・鳝・鳅とも二级。一级は鱼(汎用)のみでウナギを透明に表せず、別物化するため未対応(方針の鳗→未対応に一致)。"
+                    },
+                    {
+                        "root":  "cikoni",
+                        "current":  "鹳",
+                        "action":  "untargeted",
+                        "newk":  "",
+                        "reason":  "コウノトリは特定の大型渉禽。一级にコウノトリを指す字なし。鹤(鶴)は別種で誤読となり中心義に到達不可。鳗/鲟と同様に未対応。"
+                    },
+                    {
+                        "root":  "emajl",
+                        "current":  "釉",
+                        "action":  "untargeted",
+                        "newk":  "",
+                        "reason":  "ほうろう/釉薬を引く動詞。一级に釉(うわぐすり)に当たる字も透明な熟語もなく、瓷漆等は中心義と別物。未対応。"
+                    },
+                    {
+                        "root":  "fag",
+                        "current":  "山毛榉",
+                        "action":  "untargeted",
+                        "newk":  "",
+                        "reason":  "榉が二级。ブナは特定樹種で一级に語なし。鳗と同様、一级では中心義に到達不可。未対応。"
+                    },
+                    {
+                        "root":  "haring",
+                        "current":  "鲱鱼",
+                        "action":  "untargeted",
+                        "newk":  "",
+                        "reason":  "鲱が二级。ニシンは特定魚種で一级に語なし。鲟と同様未対応。"
+                    },
+                    {
+                        "root":  "jug",
+                        "current":  "轭",
+                        "action":  "reduce",
+                        "newk":  "束缚",
+                        "reason":  "轭が二级。中心義はくびき=束縛・隷属させる。束缚(両字一级)で縛る/拘束する中心義に透明に到達。"
+                    },
+                    {
+                        "root":  "lacert",
+                        "current":  "蜥蜴",
+                        "action":  "reduce",
+                        "newk":  "壁虎",
+                        "reason":  "蜥蜴とも二级。壁虎(両字一级)はヤモリ=最も身近なトカゲ類で、トカゲの中心義(爬虫の小型四足)に透明到達。蟒→巨蛇式の汎用優先。"
+                    },
+                    {
+                        "root":  "lap",
+                        "current":  "牛蒡",
+                        "action":  "untargeted",
+                        "newk":  "",
+                        "reason":  "蒡が二级。ゴボウは特定植物種で一级に語なし。牛草等は無意味で中心義に到達不可。未対応。"
+                    },
+                    {
+                        "root":  "limak",
+                        "current":  "蛞蝓",
+                        "action":  "reduce",
+                        "newk":  "蜗牛",
+                        "reason":  "蛞蝓とも二级。蜗牛(両字一级)=殻なしカタツムリに等しく、のろのろした軟体動物という中心義・転義に透明到達。蟒→巨蛇式。同字衝突は識別子で解消。"
+                    },
+                    {
+                        "root":  "mirtel",
+                        "current":  "蓝莓",
+                        "action":  "untargeted",
+                        "newk":  "",
+                        "reason":  "莓が二级。一级に漿果(莓)を指す字なし。蓝は色のみで蓝果は造語・非透明。中心義(ビルベリー類の果実)に到達不可。未対応。"
+                    },
+                    {
+                        "root":  "pekl",
+                        "current":  "腌",
+                        "action":  "reduce",
+                        "newk":  "盐浸",
+                        "reason":  "腌が二级。料理で塩漬けにする中心義。盐浸(両字一级)=塩に浸す→塩漬け/塩蔵に透明到達。"
+                    },
+                    {
+                        "root":  "tern",
+                        "current":  "喷嚏",
+                        "action":  "reduce",
+                        "newk":  "喷",
+                        "reason":  "嚏は二级。喷(一级)は噴出の意で、くしゃみ(鼻からの突発噴出)の中心義に到達可能。嚏を落とし一级単字化。"
+                    },
+                    {
+                        "root":  "veruk",
+                        "current":  "疣",
+                        "action":  "reduce",
+                        "newk":  "瘤",
+                        "reason":  "疣は二级。瘤(一级)はこぶ・隆起の意で、語義のこぶ・小隆起・皮膚の突起という中心義に到達。やや汎用だが一级優先。"
+                    },
+                    {
+                        "root":  "nikel",
+                        "current":  "镍",
+                        "action":  "untargeted",
+                        "newk":  "",
+                        "reason":  "金属元素ニッケル。一级に該当字も透明な一级表現も無く、一级化は完全な別物になるため未対応。"
+                    },
+                    {
+                        "root":  "kobalt",
+                        "current":  "钴",
+                        "action":  "untargeted",
+                        "newk":  "",
+                        "reason":  "金属元素コバルト。一级に該当・代替が無く、一级化は誤読となるため未対応。"
+                    },
+                    {
+                        "root":  "magnezi",
+                        "current":  "镁",
+                        "action":  "untargeted",
+                        "newk":  "",
+                        "reason":  "元素マグネシウム(酸化マグネシウム)。一级に該当・代替が無いため未対応。"
+                    },
+                    {
+                        "root":  "fluor",
+                        "current":  "氟",
+                        "action":  "untargeted",
+                        "newk":  "",
+                        "reason":  "ハロゲン元素フッ素。一级に該当・代替が無いため未対応。"
+                    },
+                    {
+                        "root":  "arsen",
+                        "current":  "砷",
+                        "action":  "untargeted",
+                        "newk":  "",
+                        "reason":  "非金属元素ヒ素。一级に該当・代替が無いため未対応。"
+                    },
+                    {
+                        "root":  "uran",
+                        "current":  "铀",
+                        "action":  "reduce",
+                        "newk":  "天王星",
+                        "reason":  "語義はウラン元素ではなく天空神ウラノス/天王星。天王星は全て一级字で中心義に透明到達。"
+                    },
+                    {
+                        "root":  "liti",
+                        "current":  "锂",
+                        "action":  "untargeted",
+                        "newk":  "",
+                        "reason":  "アルカリ金属元素リチウム。一级に該当・代替が無いため未対応。"
+                    },
+                    {
+                        "root":  "bari",
+                        "current":  "钡",
+                        "action":  "untargeted",
+                        "newk":  "",
+                        "reason":  "金属元素バリウム(造影剤)。一级に該当・代替が無いため未対応。"
+                    },
+                    {
+                        "root":  "spor",
+                        "current":  "孢",
+                        "action":  "reduce",
+                        "newk":  "胞子",
+                        "reason":  "孢は二级。胞(L1,細胞)+子(L1)で胞子=生殖細胞=胞子の中心義に透明到達。語義glossも『胞子』。"
+                    },
+                    {
+                        "root":  "az",
+                        "current":  "酶",
+                        "action":  "untargeted",
+                        "newk":  "",
+                        "reason":  "酶は二级で酵素専用字。一级に酵素を表す字・透明な熟語が無い(素等では別物)。維持不可のため未対応。"
+                    },
+                    {
+                        "root":  "kard",
+                        "current":  "蓟",
+                        "action":  "reduce",
+                        "newk":  "刺草",
+                        "reason":  "蓟は二级(アザミ専用)。一级にアザミ字無し。刺(L1,とげ)+草(L1)で『とげのある草=アザミ』の中心義にやや汎用ながら到達(巨蛇方式)。"
+                    },
+                    {
+                        "root":  "falk",
+                        "current":  "隼",
+                        "action":  "reduce",
+                        "newk":  "鹰",
+                        "reason":  "隼は表外/二级外でL1に無い。鹰(L1,猛禽)でハヤブサ=猛禽の中心義に到達(やや汎用だが一级優先)。"
+                    },
+                    {
+                        "root":  "koral",
+                        "current":  "珊瑚",
+                        "action":  "untargeted",
+                        "newk":  "",
+                        "reason":  "瑚が二级。珊単独はサンゴを表さず、一级のみでサンゴ(海産刺胞動物/その骨格)へ透明到達する表現が無い。未対応。"
+                    },
+                    {
+                        "root":  "pale",
+                        "current":  "内稃",
+                        "action":  "reduce",
+                        "newk":  "内壳",
+                        "reason":  "稃が二级。内(L1)+壳(L1,殻/もみ殻)で『小穂の内側のもみ殻状包=内稃(palea)』の中心義に到達。"
+                    },
+                    {
+                        "root":  "kojn",
+                        "current":  "楔",
+                        "action":  "untargeted",
+                        "newk":  "",
+                        "reason":  "楔は二级でくさび専用字。一级に楔形の道具を透明に表す単字・熟語が無い(尖等では別物)。未対応。"
+                    },
+                    {
+                        "root":  "cian",
+                        "current":  "氰",
+                        "action":  "untargeted",
+                        "newk":  "",
+                        "reason":  "氰は二级で系統化学字(シアン)。一级に該当語が無く、一级化すると完全な別物。未対応。"
+                    },
+                    {
+                        "root":  "konjug",
+                        "current":  "共轭",
+                        "action":  "untargeted",
+                        "newk":  "",
+                        "reason":  "轭が二级。共単独では数学/化学の『共役(対をなす結合)』に到達できず、一级のみの透明表現が無い。未対応。"
+                    },
+                    {
+                        "root":  "brom",
+                        "current":  "溴",
+                        "action":  "untargeted",
+                        "newk":  "",
+                        "reason":  "溴は二级の元素字(臭素)。一级に対応元素字が無く一级化は誤読。元素字は未対応方針。"
+                    },
+                    {
+                        "root":  "aldehid",
+                        "current":  "醛",
+                        "action":  "untargeted",
+                        "newk":  "",
+                        "reason":  "アルデヒドは化学官能基。一级に該当字なく、一级化すると全く別物になる。系統化学字のため未対応。"
+                    },
+                    {
+                        "root":  "tetra",
+                        "current":  "榛鸡",
+                        "action":  "reduce",
+                        "newk":  "野鸡",
+                        "reason":  "エゾライチョウは野生のキジ類。野(2265)鸡(928)とも一级で、野生のキジ・雷鳥という中心義に到達。二级の榛を排除。"
+                    },
+                    {
+                        "root":  "eter",
+                        "current":  "醚",
+                        "action":  "untargeted",
+                        "newk":  "",
+                        "reason":  "エーテルは化学化合物群。一级に該当字なく、一级化は別義になる。系統化学字のため未対応。"
+                    },
+                    {
+                        "root":  "alo",
+                        "current":  "芦荟",
+                        "action":  "untargeted",
+                        "newk":  "",
+                        "reason":  "アロエは特定の多肉植物種。荟は二级で、一级に同義字や透明な二字熟語なし。一级化は別物になるため未対応。"
+                    },
+                    {
+                        "root":  "lau^s",
+                        "current":  "虱",
+                        "action":  "untargeted",
+                        "newk":  "",
+                        "reason":  "シラミ(脊椎動物・植物に寄生する非跳躍昆虫)。虱は二级で、一级に対応字なし。虫では汎用すぎ別義。未対応。"
+                    },
+                    {
+                        "root":  "mosk",
+                        "current":  "麝",
+                        "action":  "reduce",
+                        "newk":  "香",
+                        "reason":  "語義の中心は「じゃ香の香りのする・麝香的」。香(1548)は一级で芳香の核心に到達。二级の麝を排除。"
+                    },
+                    {
+                        "root":  "mustel",
+                        "current":  "鼬",
+                        "action":  "untargeted",
+                        "newk":  "",
+                        "reason":  "イタチ(鼬属/イタチ・テン総称)。鼬は二级で、一级にイタチ類の字なし。狸等は別動物で誤読。未対応。"
+                    },
+                    {
+                        "root":  "tinus",
+                        "current":  "鲔",
+                        "action":  "untargeted",
+                        "newk":  "",
+                        "reason":  "ビンナガ(マグロ)という特定魚種。鲔は二级で一级に該当字なし(鳗・鲟と同様)。魚では汎用すぎ。未対応。"
+                    },
+                    {
+                        "root":  "tantal",
+                        "current":  "钽",
+                        "action":  "untargeted",
+                        "newk":  "",
+                        "reason":  "タンタル(原子番号73の金属元素)。元素字であり一级に該当なし。一级化は別物。未対応。"
+                    },
+                    {
+                        "root":  "kromi",
+                        "current":  "铬",
+                        "action":  "untargeted",
+                        "newk":  "",
+                        "reason":  "クロム(原子番号24の金属元素)。元素字であり一级に該当なし。一级化は別物。未対応。"
+                    },
+                    {
+                        "root":  "amin",
+                        "current":  "胺",
+                        "action":  "untargeted",
+                        "newk":  "",
+                        "reason":  "化学のアミン類。一级に該当字なし(氨=アンモニアで別物)。二级維持不可。"
+                    },
+                    {
+                        "root":  "testik",
+                        "current":  "睾丸",
+                        "action":  "reduce",
+                        "newk":  "丸",
+                        "reason":  "睾(二级)不使用。睾丸の中心義=球状の腺。一级『丸』(ボール/玉)が形象的中核で透明。"
+                    },
+                    {
+                        "root":  "vinil",
+                        "current":  "烯",
+                        "action":  "untargeted",
+                        "newk":  "",
+                        "reason":  "化学(アルケン/ビニル)。一级に該当字なし。二级維持不可。"
+                    },
+                    {
+                        "root":  "aniz",
+                        "current":  "茴",
+                        "action":  "untargeted",
+                        "newk":  "",
+                        "reason":  "特定香辛植物アニス。一级に該当語なし(香では別物・汎用過ぎ)。二级維持不可。"
+                    },
+                    {
+                        "root":  "urani",
+                        "current":  "铀",
+                        "action":  "untargeted",
+                        "newk":  "",
+                        "reason":  "元素ウラン。一级に元素字なし。二级維持不可。"
+                    },
+                    {
+                        "root":  "rap",
+                        "current":  "芜菁",
+                        "action":  "reduce",
+                        "newk":  "萝卜",
+                        "reason":  "菁(二级)不使用。中心義=根菜カブ/ダイコン類。一级『萝卜』で透明に到達。"
+                    },
+                    {
+                        "root":  "muskat",
+                        "current":  "肉豆蔻",
+                        "action":  "untargeted",
+                        "newk":  "",
+                        "reason":  "特定香辛料ナツメグ。核字『蔻』(二级)不可、一级に該当語なし。二级維持不可。"
+                    },
+                    {
+                        "root":  "sepal",
+                        "current":  "萼",
+                        "action":  "untargeted",
+                        "newk":  "",
+                        "reason":  "植物の萼片。一级に該当字なし(叶=葉で汎用過ぎ・別部位)。二级維持不可。"
+                    },
+                    {
+                        "root":  "amid",
+                        "current":  "酰胺",
+                        "action":  "untargeted",
+                        "newk":  "",
+                        "reason":  "化学アミド。酰・胺とも二级、一级に該当語なし。二级維持不可。"
+                    },
+                    {
+                        "root":  "rakit",
+                        "current":  "佝偻",
+                        "action":  "untargeted",
+                        "newk":  "",
+                        "reason":  "医学のくる病(骨変形)。佝偻とも二级、一级に該当語なし。二级維持不可。"
+                    },
+                    {
+                        "root":  "papav",
+                        "current":  "罂",
+                        "action":  "untargeted",
+                        "newk":  "",
+                        "reason":  "ケシ/ポピー属。罂粟の罂が二级で、一级にケシを透明に表す単字も二字熟語も無い(花は汎用過ぎ中心義に届かない)。一级で表せず未対応。"
+                    },
+                    {
+                        "root":  "selen",
+                        "current":  "硒",
+                        "action":  "untargeted",
+                        "newk":  "",
+                        "reason":  "セレン(元素)。元素字に一级の代替は無く、一级化は別物・誤読になる。未対応。"
+                    },
+                    {
+                        "root":  "neon",
+                        "current":  "氖",
+                        "action":  "untargeted",
+                        "newk":  "",
+                        "reason":  "ネオン(元素)。元素字に一级の代替は無い。未対応。"
+                    },
+                    {
+                        "root":  "pedik",
+                        "current":  "虱",
+                        "action":  "untargeted",
+                        "newk":  "",
+                        "reason":  "ヒトジラミ属。虱は非一级。一级で「シラミ」に透明に届く語が無い(虫=汎用過ぎ、蚤=ノミで別種・誤読)。鳗/鲟同様に未対応。"
+                    },
+                    {
+                        "root":  "metan",
+                        "current":  "甲烷",
+                        "action":  "reduce",
+                        "newk":  "沼气",
+                        "reason":  "メタン。烷が二级。沼气(沼=一级+气=一级)はメタン(沼気)を表す標準的で透明な一级二字熟語。中心義に到達。"
+                    },
+                    {
+                        "root":  "bram",
+                        "current":  "鲂",
+                        "action":  "untargeted",
+                        "newk":  "",
+                        "reason":  "ブリーム(コイ科の特定淡水魚)。鲂は二级。一级にブリームを表す字が無く、鱼は汎用過ぎ・鲤は別種。鳗/鲟同様に未対応。"
+                    },
+                    {
+                        "root":  "ostr",
+                        "current":  "蚝",
+                        "action":  "reduce",
+                        "newk":  "蚌",
+                        "reason":  "カキ/牡蠣・イタボガキ属。蚝が二级。蚌(一级)は二枚貝・貝類の意で、汎用的だがカキ(海産二枚貝)の中心義に到達(蟒→巨蛇式)。"
+                    },
+                    {
+                        "root":  "kelat",
+                        "current":  "螯",
+                        "action":  "untargeted",
+                        "newk":  "",
+                        "reason":  "キレート(化学錯体)。螯は二级。一级の钳/夹は「やっとこ/挟む」で、化学キレート化合物の専門義としては完全な別物・誤読になる。元素字同様に未対応。"
+                    },
+                    {
+                        "root":  "mespil",
+                        "current":  "欧楂",
+                        "action":  "untargeted",
+                        "newk":  "",
+                        "reason":  "セイヨウカリン(メドラー)。楂が二级。一级にメドラーを表す字が無く、欧+果等は曖昧で中心義に届かない。未対応。"
+                    },
+                    {
+                        "root":  "talp",
+                        "current":  "鼹",
+                        "action":  "reduce",
+                        "newk":  "地鼠",
+                        "reason":  "モグラ。鼹は二级。地鼠(地=一级+鼠=一级)は地中に穴を掘るネズミ状の小獣の意で、汎用的だがモグラの中心義に到達(蟒→巨蛇式)。"
+                    },
+                    {
+                        "root":  "makzel",
+                        "current":  "颚",
+                        "action":  "untargeted",
+                        "newk":  "",
+                        "reason":  "顎(あご)を表す一级字なし。颚/颌は二级。牙(歯)・口(口)では中心義の『あご』に到達できず別物になるため未対応。"
+                    },
+                    {
+                        "root":  "tribord",
+                        "current":  "右舷",
+                        "action":  "reduce",
+                        "newk":  "右边",
+                        "reason":  "舷は二级。starboard=船の右側。右(一级)+边(一级)=右边で『右側』という中心義に透明に到達。一级のみで可。"
+                    },
+                    {
+                        "root":  "rut",
+                        "current":  "芸香",
+                        "action":  "untargeted",
+                        "newk":  "",
+                        "reason":  "芸は二级。Ruta(ヘンルーダ)は特定植物属。香草等の一级表現は別の汎用香草を指し中心義に到達できないため未対応。"
+                    },
+                    {
+                        "root":  "fenol",
+                        "current":  "酚",
+                        "action":  "untargeted",
+                        "newk":  "",
+                        "reason":  "酚は二级の系統化学字(フェノール)。一级に該当語なく、一级化すると完全な別物になるため未対応。"
+                    },
+                    {
+                        "root":  "brank",
+                        "current":  "鳃",
+                        "action":  "untargeted",
+                        "newk":  "",
+                        "reason":  "鳃は二级。『えら』を表す一级字なし。鱼(魚)では器官『えら』に到達できないため未対応。"
+                    },
+                    {
+                        "root":  "cist",
+                        "current":  "岩蔷",
+                        "action":  "untargeted",
+                        "newk":  "",
+                        "reason":  "蔷は二级。Cistus(ゴジアオイ)は特定植物属。一级に該当語なく中心義に到達できないため未対応。"
+                    },
+                    {
+                        "root":  "kinon",
+                        "current":  "醌",
+                        "action":  "untargeted",
+                        "newk":  "",
+                        "reason":  "醌は二级の系統化学字(キノン)。一级に該当語なく、一级化すると別物になるため未対応。"
+                    },
+                    {
+                        "root":  "arde",
+                        "current":  "鹭",
+                        "action":  "untargeted",
+                        "newk":  "",
+                        "reason":  "鹭は二级。Ardea(アオサギ)は特定鳥属。鸟(鳥)では汎用すぎて中心義に到達できず、一级に該当字なしのため未対応。"
+                    },
+                    {
+                        "root":  "fenil",
+                        "current":  "苯基",
+                        "action":  "untargeted",
+                        "newk":  "",
+                        "reason":  "苯は二级の系統化学字(フェニル基C6H5-)。一级に該当語なく、一级化すると別物になるため未対応。"
+                    },
+                    {
+                        "root":  "herni",
+                        "current":  "疝",
+                        "action":  "untargeted",
+                        "newk":  "",
+                        "reason":  "疝は二级。ヘルニアを表す一级字なし。病では汎用すぎ中心義に到達できないため未対応。"
+                    },
+                    {
+                        "root":  "avel",
+                        "current":  "榛",
+                        "action":  "reduce",
+                        "newk":  "坚果",
+                        "reason":  "榛は二级。ハシバミの実=堅果。一级の坚+果でナッツの中心義に到達(やや汎用だが一级優先)。"
+                    },
+                    {
+                        "root":  "perk",
+                        "current":  "鲈",
+                        "action":  "untargeted",
+                        "newk":  "",
+                        "reason":  "鲈・鲱・鳕等は二级で、パーチを表す一级魚名が無い。鱼単字では中心義に届かず誤認(鳗/鲟と同様)。"
+                    },
+                    {
+                        "root":  "sau^r",
+                        "current":  "蜥",
+                        "action":  "reduce",
+                        "newk":  "爬虫",
+                        "reason":  "蜥は二级。亀・蛇を除く爬虫類の総称=爬行動物。一级の爬+虫で爬虫類の中心義に到達。"
+                    },
+                    {
+                        "root":  "propen",
+                        "current":  "丙烯",
+                        "action":  "untargeted",
+                        "newk":  "",
+                        "reason":  "烯(アルケン)は二级で一级に代替が無い。丙単字ではプロペン(C3H6)に到達できず別物化。系統化学名。"
+                    },
+                    {
+                        "root":  "aspleni",
+                        "current":  "铁角蕨",
+                        "action":  "untargeted",
+                        "newk":  "",
+                        "reason":  "蕨(シダ)は二级で一级にシダを表す字が無い。チャセンシダ属(Asplenium)の中心義に一级で到達不能。"
+                    },
+                    {
+                        "root":  "sakrilegi",
+                        "current":  "渎",
+                        "action":  "reduce",
+                        "newk":  "辱",
+                        "reason":  "渎は二级。神聖を汚す=辱(けがす・はずかしめる)。一级の辱で冒涜・罰当たりの中心義に到達。"
+                    },
+                    {
+                        "root":  "klupe",
+                        "current":  "鲱",
+                        "action":  "untargeted",
+                        "newk":  "",
+                        "reason":  "鲱は二级で、ニシンを表す一级魚名が無い。鱼単字では中心義に届かず誤認(鳗/鲟と同様)。"
+                    },
+                    {
+                        "root":  "artis^ok",
+                        "current":  "洋蓟",
+                        "action":  "untargeted",
+                        "newk":  "",
+                        "reason":  "蓟(アザミ)は二级で一级に代替が無い。アーティチョーク(チョウセンアザミ)の中心義に一级で到達不能。菜では別物化。"
+                    },
+                    {
+                        "root":  "gad",
+                        "current":  "鳕",
+                        "action":  "untargeted",
+                        "newk":  "",
+                        "reason":  "鳕は二级で、タラを表す一级魚名が無い。鱼単字では中心義に届かず誤認(鳗/鲟と同様)。"
+                    },
+                    {
+                        "root":  "tekton",
+                        "current":  "柚木",
+                        "action":  "reduce",
+                        "newk":  "硬木",
+                        "reason":  "柚は二级で且つチークは柚(ブンタン)と無関係。チーク=熱帯の良質硬材。一级の硬+木で硬材の中心義に到達。"
+                    },
+                    {
+                        "root":  "alkan",
+                        "current":  "烷",
+                        "action":  "untargeted",
+                        "newk":  "",
+                        "reason":  "アルカン(飽和炭化水素CnH2n+2)は体系的化学命名の専門字。一级に烷に相当する字も透明な一级二字熟語も無く、中心義に到達不能。"
+                    },
+                    {
+                        "root":  "skolop",
+                        "current":  "鹬",
+                        "action":  "untargeted",
+                        "newk":  "",
+                        "reason":  "タシギ(Gallinago)という特定の渉禽種。一级は鳥/水鳥程度しか出せず種を表せない。鳗/鲟同様に未対応。"
+                    },
+                    {
+                        "root":  "konidi",
+                        "current":  "孢",
+                        "action":  "untargeted",
+                        "newk":  "",
+                        "reason":  "分生子(無性の真菌胞子)。一级に胞子の字が無く、一级の胞は細胞=cellで誤読。中心義に到達不能。"
+                    },
+                    {
+                        "root":  "betel",
+                        "current":  "蒌",
+                        "action":  "untargeted",
+                        "newk":  "",
+                        "reason":  "キンマ(Piper betle)という特定植物。一级に該当語が無く、透明な一级代替で種に到達できない。"
+                    },
+                    {
+                        "root":  "vanil",
+                        "current":  "香荚兰",
+                        "action":  "reduce",
+                        "newk":  "香兰",
+                        "reason":  "二级の荚(莢)を除去。バニラはラン科で芳香があり、香(一级)+兰(一级)=芳香のランで中心義バニラに透明到達。"
+                    },
+                    {
+                        "root":  "propan",
+                        "current":  "丙烷",
+                        "action":  "untargeted",
+                        "newk":  "",
+                        "reason":  "プロパン(C3H8)。丙は一级だがアルカンを示す烷が必須で一级に代替が無い。丙气等は誤読。中心義に到達不能。"
+                    },
+                    {
+                        "root":  "karbazid",
+                        "current":  "碳肼",
+                        "action":  "untargeted",
+                        "newk":  "",
+                        "reason":  "カルバジド(炭酸ジヒドラジド)。碳は一级だが肼(ヒドラジン)に一级の代替字が無く、専門化合物に到達不能。"
+                    },
+                    {
+                        "root":  "benzen",
+                        "current":  "苯",
+                        "action":  "untargeted",
+                        "newk":  "",
+                        "reason":  "ベンゼンの基幹字。一级にベンゼン/芳香環を表す字が無く、一级化すれば完全な別物になる。未対応。"
+                    },
+                    {
+                        "root":  "gres",
+                        "current":  "莎",
+                        "action":  "reduce",
+                        "newk":  "牧草",
+                        "reason":  "語義は牧草・芝草(herboとは別の飼料/芝草)。牧(一级)+草(一级)=牧草で中心義に透明到達。同字共有は許容。"
+                    },
+                    {
+                        "root":  "grapfrukt",
+                        "current":  "柚",
+                        "action":  "untargeted",
+                        "newk":  "",
+                        "reason":  "グレープフルーツ(特定の柑橘種)。一级の橘=ミカン/橙=オレンジは別果実でfalse friend。一级で種に到達不能。"
+                    },
+                    {
+                        "root":  "angelik",
+                        "current":  "欧白芷",
+                        "action":  "untargeted",
+                        "newk":  "",
+                        "reason":  "芷は二级。アンゼリカ(シシウド属)は特定の植物で、一级に該当字も透明な一级二字熟語も無く、一级化すると別物になる。"
+                    },
+                    {
+                        "root":  "majn",
+                        "current":  "鹩哥",
+                        "action":  "untargeted",
+                        "newk":  "",
+                        "reason":  "鹩は二级。キュウカンチョウは特定の鳴き鳥で、鸟だけでは汎用過ぎ、一级で中心義に到達する透明な代替が無い。"
+                    },
+                    {
+                        "root":  "oksiur",
+                        "current":  "蛲",
+                        "action":  "untargeted",
+                        "newk":  "",
+                        "reason":  "蛲は二级。蟯虫(ピンワーム)は特定の寄生線虫で、虫では汎用過ぎ、一级に該当字が無い(鳗/鲟と同様)。"
+                    },
+                    {
+                        "root":  "butan",
+                        "current":  "丁烷",
+                        "action":  "untargeted",
+                        "newk":  "",
+                        "reason":  "烷(アルカン)は系統化学字で一级に無い。ブタンは特定アルカンで一级では中心義に到達不能。"
+                    },
+                    {
+                        "root":  "karadri",
+                        "current":  "鸻",
+                        "action":  "untargeted",
+                        "newk":  "",
+                        "reason":  "鸻は二级。チドリは特定の渉禽で、鸟では汎用過ぎ、一级で透明に表せる代替が無い。"
+                    },
+                    {
+                        "root":  "krisol",
+                        "current":  "坩埚",
+                        "action":  "reduce",
+                        "newk":  "熔锅",
+                        "reason":  "坩埚は二级。るつぼ(=fandvazo 熔融容器)。熔(3158)+锅(2662)で『溶かす鍋』=るつぼに透明到達、共に一级。"
+                    },
+                    {
+                        "root":  "forniks",
+                        "current":  "穹窿",
+                        "action":  "reduce",
+                        "newk":  "脑弓",
+                        "reason":  "穹は一级外。語義は『脳弓』(脳内の弓状構造=fornix)。脑(2001)+弓(63)で訳語そのものに到達、共に一级。"
+                    },
+                    {
+                        "root":  "hemoroid",
+                        "current":  "痔",
+                        "action":  "untargeted",
+                        "newk":  "",
+                        "reason":  "痔は一级に無い特定疾患。一级の肛+肿/瘤等では別概念(肛門腫瘍等)となり誤読、透明な一级代替が無い。"
+                    },
+                    {
+                        "root":  "cianat",
+                        "current":  "氰酸",
+                        "action":  "untargeted",
+                        "newk":  "",
+                        "reason":  "氰(シアノ/CN基)は系統化学字で一级に無い。シアン酸は一级では中心義に到達不能。"
+                    },
+                    {
+                        "root":  "aceton",
+                        "current":  "丙酮",
+                        "action":  "untargeted",
+                        "newk":  "",
+                        "reason":  "酮(ケトン基)は系統化学字で一级に無い。アセトンは最簡ケトンで一级では中心義に到達不能。"
+                    },
+                    {
+                        "root":  "hajk",
+                        "current":  "俳句",
+                        "action":  "reduce",
+                        "newk":  "短诗",
+                        "reason":  "俳は二级。俳句の中心義は『短い詩形』。短(一级)+诗(一级)で短詩=短い詩に到達できる。"
+                    },
+                    {
+                        "root":  "salm",
+                        "current":  "鲑",
+                        "action":  "untargeted",
+                        "newk":  "",
+                        "reason":  "鲑は二级でサケ属の特定魚種。一级には鱼しかなく汎用すぎ別物になる。鳗・鲟同様、一级で種に到達不能。"
+                    },
+                    {
+                        "root":  "peptid",
+                        "current":  "肽",
+                        "action":  "untargeted",
+                        "newk":  "",
+                        "reason":  "肽は二级の系統化学用語(ペプチド)。一级に対応字・対応語が無く、一级化すると別概念になる。"
+                    },
+                    {
+                        "root":  "ermen",
+                        "current":  "白鼬",
+                        "action":  "untargeted",
+                        "newk":  "",
+                        "reason":  "鼬(イタチ)は二级、貂も表外。白は一级だが種を担う字が一级に無く、オコジョ/アーミンの中心義に一级で到達不能。"
+                    },
+                    {
+                        "root":  "veratr",
+                        "current":  "藜芦",
+                        "action":  "untargeted",
+                        "newk":  "",
+                        "reason":  "藜は二级、芦(一级)はアシで誤義。バイケイソウという特定有毒植物を一级のみで透明に表せない。"
+                    },
+                    {
+                        "root":  "rukt",
+                        "current":  "嗝",
+                        "action":  "untargeted",
+                        "newk":  "",
+                        "reason":  "げっぷの専用字(嗝・嗳・呃・噎)はいずれも二级以上。吐/呕(一级)は嘔吐で別動作になり誤義。一级で到達不能。"
+                    },
+                    {
+                        "root":  "arbut",
+                        "current":  "莓",
+                        "action":  "reduce",
+                        "newk":  "红果",
+                        "reason":  "莓は二级。中心義は『赤く丸い小果実』。红(一级)+果(一级)で红果=赤い実に到達できる。"
+                    },
+                    {
+                        "root":  "histeri",
+                        "current":  "癔",
+                        "action":  "reduce",
+                        "newk":  "狂",
+                        "reason":  "癔は二级。ヒステリックの中心義は『病的に興奮・狂乱した状態』。狂(一级)で到達できる。"
+                    },
+                    {
+                        "root":  "pentan",
+                        "current":  "戊烷",
+                        "action":  "untargeted",
+                        "newk":  "",
+                        "reason":  "烷(アルカン)は二级の系統化学字で一级に対応無し。戊は一级だが烷を一级化できず、ペンタンに到達不能。"
+                    },
+                    {
+                        "root":  "gerani",
+                        "current":  "天竺葵",
+                        "action":  "untargeted",
+                        "newk":  "",
+                        "reason":  "竺は二级。葵(一级)単独はアオイ/ヒマワリで別種。フウロソウ/ゼラニウムの特定園芸種を一级のみで透明に表せない。"
+                    },
+                    {
+                        "root":  "epilepsi",
+                        "current":  "痫",
+                        "action":  "untargeted",
+                        "newk":  "",
+                        "reason":  "てんかんを表す一级字は存在せず、一级では中心義に到達不可。二级維持不可のため未対応。"
+                    },
+                    {
+                        "root":  "tarz",
+                        "current":  "睑板",
+                        "action":  "reduce",
+                        "newk":  "眼板",
+                        "reason":  "睑(二级)を一级の眼で置換。眼板=まぶたの線維板(瞼板)の中心義に到達。両字とも一级(眼2263・板1025)。"
+                    },
+                    {
+                        "root":  "keton",
+                        "current":  "酮",
+                        "action":  "untargeted",
+                        "newk":  "",
+                        "reason":  "ケトン基(C=O)を表す系統化学字。一级に該当字なし、一级化は別物となる。未対応。"
+                    },
+                    {
+                        "root":  "medikag",
+                        "current":  "苜蓿",
+                        "action":  "reduce",
+                        "newk":  "牧草",
+                        "reason":  "苜蓿(両字二级)を置換。ムラサキウマゴヤシは代表的飼料作物=牧草で中心義に到達。牧1126・草1408とも一级。やや汎用だが一级優先。"
+                    },
+                    {
+                        "root":  "turt",
+                        "current":  "鸠",
+                        "action":  "reduce",
+                        "newk":  "鸽",
+                        "reason":  "鸠(二级)を一级の鸽(ハト)で置換。キジバトはハトの一種で中心義に到達。鸽2349は一级。"
+                    },
+                    {
+                        "root":  "oktan",
+                        "current":  "辛烷",
+                        "action":  "untargeted",
+                        "newk":  "",
+                        "reason":  "烷(二级)はアルカン系統字。一级にアルカン相当字なし、一级では表せない。未対応。"
+                    },
+                    {
+                        "root":  "indi",
+                        "current":  "铟",
+                        "action":  "untargeted",
+                        "newk":  "",
+                        "reason":  "インジウム(元素番号49)の元素字。一级に該当元素字なく、一级化は誤読・別物。未対応。"
+                    },
+                    {
+                        "root":  "sole",
+                        "current":  "鳎",
+                        "action":  "untargeted",
+                        "newk":  "",
+                        "reason":  "シタビラメ(特定種)。一级の鱼は汎用すぎて種を失い、鳎相当の一级語なし。鳗等同様に未対応。"
+                    },
+                    {
+                        "root":  "heli",
+                        "current":  "氦",
+                        "action":  "untargeted",
+                        "newk":  "",
+                        "reason":  "ヘリウム元素字。一级に該当元素字なく、一级化は別物。未対応。"
+                    },
+                    {
+                        "root":  "pampelmus",
+                        "current":  "柚",
+                        "action":  "untargeted",
+                        "newk":  "",
+                        "reason":  "ザボン/ブンタン(大型柑橘の特定種)。一级に該当する果実字・語なし。未対応。"
+                    },
+                    {
+                        "root":  "toluen",
+                        "current":  "甲苯",
+                        "action":  "untargeted",
+                        "newk":  "",
+                        "reason":  "苯はベンゼン環を表す系統化学字。トルエンの中心義(メチルベンゼン)は一级に対応字がなく、甲だけでは別物になる。"
+                    },
+                    {
+                        "root":  "endivi",
+                        "current":  "苦苣",
+                        "action":  "reduce",
+                        "newk":  "苦菜",
+                        "reason":  "苣は二级。苦#999・菜#2207はともに一级。エンダイブは苦味のある葉野菜(チコリ類)で『苦菜』により中心義に到達できる。"
+                    },
+                    {
+                        "root":  "tibi",
+                        "current":  "胫",
+                        "action":  "untargeted",
+                        "newk":  "",
+                        "reason":  "胫は二级。脛骨という膝下の解剖学的特定部位。一级に脛を透明に表す字がなく、腿(もも)・脚(あし全体)では誤読となる。"
+                    },
+                    {
+                        "root":  "etan",
+                        "current":  "乙烷",
+                        "action":  "untargeted",
+                        "newk":  "",
+                        "reason":  "烷はアルカンを表す系統化学字で二级。エタンの中心義は一级に対応字がなく到達できない。"
+                    },
+                    {
+                        "root":  "bismut",
+                        "current":  "铋",
+                        "action":  "untargeted",
+                        "newk":  "",
+                        "reason":  "铋は元素字(二级)。ビスマスを表す一级字は存在せず、一级化すると完全な別物になる。"
+                    },
+                    {
+                        "root":  "pelikan",
+                        "current":  "鹈鹕",
+                        "action":  "untargeted",
+                        "newk":  "",
+                        "reason":  "鹈鹕は特定の大型水鳥種を表す二级字。一级に該当字がなく、鸟だけでは汎用すぎてペリカンの中心義に到達できない。"
+                    },
+                    {
+                        "root":  "akar",
+                        "current":  "螨",
+                        "action":  "untargeted",
+                        "newk":  "",
+                        "reason":  "螨は二级。ダニという微小節足動物の中心義に一级で到達できる字がなく、虫では汎用すぎて別物になる。"
+                    },
+                    {
+                        "root":  "koc^",
+                        "current":  "胭虫",
+                        "action":  "reduce",
+                        "newk":  "红虫",
+                        "reason":  "胭は二级。红#589・虫#423はともに一级。コチニールは紅色染料を採る虫で『红虫』により中心義に到達できる。"
+                    },
+                    {
+                        "root":  "anhidrid",
+                        "current":  "酐",
+                        "action":  "untargeted",
+                        "newk":  "",
+                        "reason":  "酐は酸無水物を表す化学術語字(二级)。無水物という物質名を透明に表す一级表現がなく、无水では形容詞的で物質名にならない。"
+                    },
+                    {
+                        "root":  "mile",
+                        "current":  "黍",
+                        "action":  "reduce",
+                        "newk":  "黄米",
+                        "reason":  "黍は二级。黄#2201・米#533はともに一级。キビは中国語で黄米とも呼ばれる黄色い穀粒で『黄米』により中心義に到達できる。"
+                    },
+                    {
+                        "root":  "niob",
+                        "current":  "铌",
+                        "action":  "untargeted",
+                        "newk":  "",
+                        "reason":  "元素Nb。一级に元素字なく、置換すれば別物。維持不可のため未対応。"
+                    },
+                    {
+                        "root":  "acetil",
+                        "current":  "乙酰",
+                        "action":  "untargeted",
+                        "newk":  "",
+                        "reason":  "アセチル基(CH3CO-)。酰(アシル)に一级形なし。乙基ではエチルで別物。中心義に一级で到達不能。"
+                    },
+                    {
+                        "root":  "akant",
+                        "current":  "叶蓟",
+                        "action":  "reduce",
+                        "newk":  "草",
+                        "reason":  "アカンサスは葉の美しい草本。蓟は二级。一级の草で『草本植物』の中心義に到達(汎用だが中心義可)。"
+                    },
+                    {
+                        "root":  "arek",
+                        "current":  "槟",
+                        "action":  "reduce",
+                        "newk":  "棕",
+                        "reason":  "アレカはヤシ(ビンロウ)。槟は二级。一级の棕(棕櫚=ヤシ類)でヤシの中心義に到達。"
+                    },
+                    {
+                        "root":  "kapreol",
+                        "current":  "狍",
+                        "action":  "reduce",
+                        "newk":  "鹿",
+                        "reason":  "ノロはシカ科。狍は二级。一级の鹿でシカの中心義に到達(蟒→巨蛇と同様の汎用化)。"
+                    },
+                    {
+                        "root":  "amarant",
+                        "current":  "苋",
+                        "action":  "reduce",
+                        "newk":  "菜",
+                        "reason":  "アマランサス(ヒユ)は食用葉菜。苋は二级。一级の菜で食用葉菜の中心義に到達。"
+                    },
+                    {
+                        "root":  "aliz",
+                        "current":  "花楸",
+                        "action":  "reduce",
+                        "newk":  "果",
+                        "reason":  "ナナカマドの実。語義は『の実』。楸は二级。一级の果で果実の中心義に到達。"
+                    },
+                    {
+                        "root":  "singult",
+                        "current":  "嗝",
+                        "action":  "reduce",
+                        "newk":  "逆气",
+                        "reason":  "しゃっくり。嗝は二级。逆(一级)+气(一级)『逆气』は古典的なしゃっくり/噯気の語で中心義に到達。"
+                    },
+                    {
+                        "root":  "petromiz",
+                        "current":  "鳃鳗",
+                        "action":  "untargeted",
+                        "newk":  "",
+                        "reason":  "ヤツメウナギ。鳃・鳗とも二级。無顎の特定種で一级に魚種字なし。鱼単独は別物。未対応(鳗の方針に準拠)。"
+                    },
+                    {
+                        "root":  "salmon",
+                        "current":  "鲑",
+                        "action":  "untargeted",
+                        "newk":  "",
+                        "reason":  "サケ。鲑は二级。特定魚種で一级に該当字なし。鱼単独では別物。未対応(鳗/鲟の方針に準拠)。"
+                    },
+                    {
+                        "root":  "irid",
+                        "current":  "鸢尾",
+                        "action":  "untargeted",
+                        "newk":  "",
+                        "reason":  "鸢は二级。アヤメ(Iris属)は特定の花。一级で透明に表せる代替が無く、紫花等は汎用すぎて中心義(特定の花)に到達できない。二级維持不可のため未対応。"
+                    },
+                    {
+                        "root":  "lavend",
+                        "current":  "薰衣",
+                        "action":  "reduce",
+                        "newk":  "香草",
+                        "reason":  "薰は二级。ラベンダーの中心義=芳香植物。一级のみの香草(芳しい草)で中心義(芳香植物)に到達。やや汎用だが一级優先(蟒→巨蛇に同じ)。"
+                    },
+                    {
+                        "root":  "ambos",
+                        "current":  "砧",
+                        "action":  "reduce",
+                        "newk":  "铁床",
+                        "reason":  "砧は二级。中心義=鉄床(かなとこ)。一级の铁+床で『鉄の台』を透明に表し中心義に到達。"
+                    },
+                    {
+                        "root":  "moru",
+                        "current":  "鳕",
+                        "action":  "untargeted",
+                        "newk":  "",
+                        "reason":  "鳕は二级。タラは特定魚種で一级に語が無い。海鱼等は別物・汎用すぎ。鳗→未対応の方針に同じ。二级維持不可。"
+                    },
+                    {
+                        "root":  "unc",
+                        "current":  "盎",
+                        "action":  "untargeted",
+                        "newk":  "",
+                        "reason":  "盎は二级(盎司=音訳的)。オンスは度量単位で一级にすると両/钱/斤等の別単位になり誤読。一级表現が存在せず未対応。"
+                    },
+                    {
+                        "root":  "kornus",
+                        "current":  "山茱萸",
+                        "action":  "untargeted",
+                        "newk":  "",
+                        "reason":  "茱萸は二级。ミズキ(Cornus属)は特定植物属。一级で特定属に到達する透明表現が無く、树/木は汎用すぎ。二级維持不可。"
+                    },
+                    {
+                        "root":  "cimbal",
+                        "current":  "钹",
+                        "action":  "reduce",
+                        "newk":  "铜盘",
+                        "reason":  "钹は二级。シンバル=打ち合わせる真鍮円盤。一级の铜+盘で『銅の皿』を透明に表し中心義(打楽器の金属円盤)に到達。"
+                    },
+                    {
+                        "root":  "argonau^t",
+                        "current":  "船蛸",
+                        "action":  "untargeted",
+                        "newk":  "",
+                        "reason":  "蛸は二级。タコブネ(Argonauta属)は特定のタコ属。一级で特定属に到達する透明表現が無い。二级維持不可で未対応。"
+                    },
+                    {
+                        "root":  "butilhidroksi",
+                        "current":  "丁羟",
+                        "action":  "untargeted",
+                        "newk":  "",
+                        "reason":  "羟は二级(ヒドロキシ=系統化学字)。一级にヒドロキシ基を表す字が無く、一级化すると完全な別物になる。系統化学字のため未対応。"
+                    },
+                    {
+                        "root":  "perdrik",
+                        "current":  "鸪",
+                        "action":  "untargeted",
+                        "newk":  "",
+                        "reason":  "鸪は二级。ヤマウズラ(属)は特定の鳥種。一级化すると山鸡=キジ等の別鳥に誤読。透明な一级表現が無く、鲟→未対応に同じ。二级維持不可。"
+                    },
+                    {
+                        "root":  "radium",
+                        "current":  "镭",
+                        "action":  "untargeted",
+                        "newk":  "",
+                        "reason":  "ラジウム(原子番号88)の元素字。镭は二级で一级に対応字なし。一级化すると別物・誤読となるため未対応。"
+                    },
+                    {
+                        "root":  "platenat",
+                        "current":  "铂",
+                        "action":  "untargeted",
+                        "newk":  "",
+                        "reason":  "白金(プラチナ)の元素字。铂は二级で一级に白金を表す字なし。一级では中心義に到達できず未対応。"
+                    },
+                    {
+                        "root":  "karbazon",
+                        "current":  "碳肼缩",
+                        "action":  "untargeted",
+                        "newk":  "",
+                        "reason":  "カルバゾン(ケトン/アルデヒドとカルバジドの反応生成物)。肼=ヒドラジン(二级)・缩=縮合で、ヒドラジンに相当する一级字が無い系統化学名。未対応。"
+                    },
+                    {
+                        "root":  "kromiat",
+                        "current":  "铬",
+                        "action":  "untargeted",
+                        "newk":  "",
+                        "reason":  "クロム酸塩/重クロム酸塩。铬=クロム元素字(二级)で一级に対応字なし。一级化は別元素・誤読となるため未対応。"
+                    },
+                    {
+                        "root":  "ozid",
+                        "current":  "苷",
+                        "action":  "untargeted",
+                        "newk":  "",
+                        "reason":  "配糖体(加水分解で単糖を生じる物質)。苷は二级、専門化学概念で一级に透明な対応語なし(糖は別概念)。未対応。"
+                    },
+                    {
+                        "root":  "piknidi",
+                        "current":  "孢器",
+                        "action":  "untargeted",
+                        "newk":  "",
+                        "reason":  "分生子殻(ピクニジウム)。孢=胞子(二级)・器(二级)を含む専門菌学構造で、一级に透明な対応表現なし。未対応。"
+                    },
+                    {
+                        "root":  "nukleaz",
+                        "current":  "核酸酶",
+                        "action":  "untargeted",
+                        "newk":  "",
+                        "reason":  "ヌクレアーゼ(核酸分解酵素)。核・酸は一级だが酶=酵素は二级で一级に酵素を表す字なし。中核義に必須の酶が一级化不能のため未対応。"
+                    },
+                    {
+                        "root":  "kokleari",
+                        "current":  "岩荠",
+                        "action":  "untargeted",
+                        "newk":  "",
+                        "reason":  "トモシリソウ属(Cochlearia)。荠(二级)を含む特定植物属で、一级にすると草等の汎称となり別物。中心義に到達できず未対応。"
+                    },
+                    {
+                        "root":  "izentrop",
+                        "current":  "等熵",
+                        "action":  "untargeted",
+                        "newk":  "",
+                        "reason":  "等エントロピーの。熵=エントロピー(二级)で一级に対応字なし。等のみでは「同じ」の意となり物理概念を喪失するため未対応。"
+                    },
+                    {
+                        "root":  "eu^forbi",
+                        "current":  "大戟",
+                        "action":  "untargeted",
+                        "newk":  "",
+                        "reason":  "トウダイグサ属(Euphorbia)。戟(二级)を含む特定植物属の確立名で、一级化すると別物・誤読。中心義に到達できず未対応。"
+                    },
+                    {
+                        "root":  "alken",
+                        "current":  "烯",
+                        "action":  "untargeted",
+                        "newk":  "",
+                        "reason":  "烯は系統化学の接尾字(アルケン/-ene)。一级に該当字なし。汎用一级では不飽和炭化水素の中心義に到達できず別物になるため未対応。"
+                    },
+                    {
+                        "root":  "adiant",
+                        "current":  "铁线蕨",
+                        "action":  "reduce",
+                        "newk":  "铁线草",
+                        "reason":  "蕨(二级)を一级の草に置換。铁线(一级)で黒く細い針金状の茎というクジャクシダの特徴を表し、草でシダ植物の中心義に到達。全字一级。"
+                    },
+                    {
+                        "root":  "ricin",
+                        "current":  "蓖麻",
+                        "action":  "untargeted",
+                        "newk":  "",
+                        "reason":  "蓖が二级。蓖麻はトウゴマ(Ricinus)を特定する語で、麻単独は大麻、油麻はゴマを指し別物になる。一级にヒマを表す字がなく未対応。"
+                    },
+                    {
+                        "root":  "reni",
+                        "current":  "铼",
+                        "action":  "untargeted",
+                        "newk":  "",
+                        "reason":  "铼は元素レニウム(Re)の元素字。一级に該当字なし、汎用字では誤読となるため未対応。"
+                    },
+                    {
+                        "root":  "alcioni",
+                        "current":  "软珊瑚",
+                        "action":  "untargeted",
+                        "newk":  "",
+                        "reason":  "瑚が二级。珊瑚は珊瑚で一語をなし、珊単独では珊瑚を意味しない。一级に『珊瑚』を表す手段がなく軟珊瑚の中心義に到達できないため未対応。"
+                    },
+                    {
+                        "root":  "trombidi",
+                        "current":  "螨",
+                        "action":  "untargeted",
+                        "newk":  "",
+                        "reason":  "螨が二级。一级のダニ字なし。虫は最汎用の昆虫/虫一般でダニ(微小なクモ綱寄生虫)の中心義に到達できず別物になるため未対応。"
+                    },
+                    {
+                        "root":  "akril",
+                        "current":  "丙烯",
+                        "action":  "untargeted",
+                        "newk":  "",
+                        "reason":  "烯が二级で不飽和(プロペニル基)を担う中核字。丙(一级)だけではC3=プロピル基となり不飽和の意が失われアクリルに到達しない。系統化学のため未対応。"
+                    },
+                    {
+                        "root":  "borat",
+                        "current":  "硼酸",
+                        "action":  "untargeted",
+                        "newk":  "",
+                        "reason":  "硼(ホウ素)が二级。一级にホウ素を表す元素字がなく、酸だけでは硼酸塩(ボレート)の中心義に到達できないため未対応。"
+                    },
+                    {
+                        "root":  "anet",
+                        "current":  "莳萝",
+                        "action":  "untargeted",
+                        "newk":  "",
+                        "reason":  "莳が二级でディルの同定を担う。萝は一级だが単独では蘿蔔(大根)等を連想させディルを意味しない。一级にディルを表す字がなく未対応。"
+                    },
+                    {
+                        "root":  "blat",
+                        "current":  "蟑螂",
+                        "action":  "untargeted",
+                        "newk":  "",
+                        "reason":  "蟑・螂とも二级。一级にゴキブリを表す字なし。虫は最汎用の虫一般でゴキブリの中心義に到達せず別物になるため未対応。"
+                    },
+                    {
+                        "root":  "katekol",
+                        "current":  "儿茶酚",
+                        "action":  "untargeted",
+                        "newk":  "",
+                        "reason":  "酚(フェノール基)は二级。化学基「酚」に相当する一级字が存在せず、カテコールの中心義に一级で到達不可。"
+                    },
+                    {
+                        "root":  "pepsin",
+                        "current":  "胃酶",
+                        "action":  "untargeted",
+                        "newk":  "",
+                        "reason":  "酶(酵素)は二级。「酵素」を表す一级字がなく、胃単独では『胃』の意で酵素=ペプシンに到達できない。"
+                    },
+                    {
+                        "root":  "mefit",
+                        "current":  "臭鼬",
+                        "action":  "untargeted",
+                        "newk":  "",
+                        "reason":  "鼬(イタチ)は二级。スカンク/イタチを表す一级の動物字がなく、臭単独では『臭い』の意のみで種に到達不可。"
+                    },
+                    {
+                        "root":  "koron",
+                        "current":  "日冕",
+                        "action":  "reduce",
+                        "newk":  "日光环",
+                        "reason":  "冕は二级。コロナ=太陽大気の輝く環(光環)。日(一级)+光(一级)+环(一级)で『太陽の光の環』=コロナの中心義に透明到達。"
+                    },
+                    {
+                        "root":  "telur",
+                        "current":  "碲",
+                        "action":  "untargeted",
+                        "newk":  "",
+                        "reason":  "碲は二级の元素字。テルル(原子番号52)に相当する一级字がなく、一级化は別物になる。"
+                    },
+                    {
+                        "root":  "piton",
+                        "current":  "蟒",
+                        "action":  "reduce",
+                        "newk":  "巨蛇",
+                        "reason":  "蟒は二级。ニシキヘビの中心義=大型の蛇。巨(一级)+蛇(一级)で到達(指示例 蟒→巨蛇 準拠)。"
+                    },
+                    {
+                        "root":  "vipur",
+                        "current":  "蝰",
+                        "action":  "reduce",
+                        "newk":  "毒蛇",
+                        "reason":  "蝰は二级。クサリヘビ/マムシの中心義=毒蛇。毒(一级)+蛇(一级)で到達(指示例 蝰→毒蛇 準拠)。"
+                    },
+                    {
+                        "root":  "mugil",
+                        "current":  "鲻",
+                        "action":  "untargeted",
+                        "newk":  "",
+                        "reason":  "鲻は二级。ボラの特定魚種に相当する一级字がなく、鱼単独では汎用すぎて別物。鳗/鲟と同様一级で表せない。"
+                    },
+                    {
+                        "root":  "sukcen",
+                        "current":  "琥珀",
+                        "action":  "untargeted",
+                        "newk":  "",
+                        "reason":  "琥・珀とも二级。琥珀(化石樹脂の特定物質)を透明に表す一级語がなく、樹脂(松脂)では化石でない別物になる。"
+                    },
+                    {
+                        "root":  "kareks",
+                        "current":  "薹",
+                        "action":  "untargeted",
+                        "newk":  "",
+                        "reason":  "薹は二级。スゲ(Carex属)の特定植物に相当する一级字がなく、草では汎用すぎてスゲの中心義に到達できない。"
+                    },
+                    {
+                        "root":  "skabi",
+                        "current":  "疥",
+                        "action":  "reduce",
+                        "newk":  "癣",
+                        "reason":  "疥は二级。一级の癣(皮膚の真菌性疾患)で『皮癬・疥癬』の皮膚病の中心義に到達。一级単字で透明。"
+                    },
+                    {
+                        "root":  "mamut",
+                        "current":  "猛犸",
+                        "action":  "reduce",
+                        "newk":  "巨象",
+                        "reason":  "犸は二级。一级の巨(101)+象(2361)で『巨大な象=マンモス』の中心義(巨大な)に到達。"
+                    },
+                    {
+                        "root":  "molibden",
+                        "current":  "钼",
+                        "action":  "untargeted",
+                        "newk":  "",
+                        "reason":  "元素字。モリブデンを表す一级字は存在せず、一级化すると別物になる。二级維持不可のため未対応。"
+                    },
+                    {
+                        "root":  "prognat",
+                        "current":  "突颚",
+                        "action":  "untargeted",
+                        "newk":  "",
+                        "reason":  "颚は二级。顎(makzelo)を表す一级字(颚/腭/颌)が無く、突嘴等にすると鼻口部(snout)と別物・誤読。一级で中心義(前突した顎)に到達不能。"
+                    },
+                    {
+                        "root":  "rubus",
+                        "current":  "莓",
+                        "action":  "untargeted",
+                        "newk":  "",
+                        "reason":  "莓は二级。キイチゴ/ブラックベリー(Rubus属)の特定漿果を表す一级字が無く、果(fruit)では汎用過ぎ別物。特定種につき未対応。"
+                    },
+                    {
+                        "root":  "kaos",
+                        "current":  "混沌",
+                        "action":  "reduce",
+                        "newk":  "混乱",
+                        "reason":  "沌は二级。一级の混(2420)+乱(762)『混乱』で無秩序・混乱の中心義に透明に到達。"
+                    },
+                    {
+                        "root":  "acipenser",
+                        "current":  "鲟",
+                        "action":  "untargeted",
+                        "newk":  "",
+                        "reason":  "鲟は二级。チョウザメ(Acipenser属)を表す一级魚名が無い。例示通り鲟→未対応。"
+                    },
+                    {
+                        "root":  "pluvi",
+                        "current":  "鸻",
+                        "action":  "untargeted",
+                        "newk":  "",
+                        "reason":  "鸻は二级。チドリ(Charadrius等)を表す一级鳥名が無い特定種。一级化は別物となるため未対応。"
+                    },
+                    {
+                        "root":  "kondil",
+                        "current":  "髁",
+                        "action":  "untargeted",
+                        "newk":  "",
+                        "reason":  "髁は二级。関節の球状隆起(顆)を表す一级解剖字が無く、骨では汎用過ぎ別物。専門概念につき未対応。"
+                    },
+                    {
+                        "root":  "divan",
+                        "current":  "榻",
+                        "action":  "reduce",
+                        "newk":  "长椅",
+                        "reason":  "榻は二级。一级の长(127)+椅(2569)『长椅』で背・肘掛けのない長椅子(ディバン)の中心義に到達。"
+                    },
+                    {
+                        "root":  "lici",
+                        "current":  "枸杞",
+                        "action":  "untargeted",
+                        "newk":  "",
+                        "reason":  "クコ(Lycium)は特定の薬用低木で、一级に該当字が無い。草/果/树では中心義(クコという種)に到達できず別物になるため未対応。"
+                    },
+                    {
+                        "root":  "antraks",
+                        "current":  "炭疽",
+                        "action":  "reduce",
+                        "newk":  "炭疮",
+                        "reason":  "炭疽(炭のように黒い潰瘍)の中心義を保持。疽(二级)を同義の一级『疮』(潰瘍・できもの)に置換。炭・疮とも一级で炭疽病に透明に到達。"
+                    },
+                    {
+                        "root":  "alkin",
+                        "current":  "炔",
+                        "action":  "untargeted",
+                        "newk":  "",
+                        "reason":  "アルキン(三重結合炭化水素)は系統的化学命名で、炔に当たる一级字が存在しない。一级では別概念になるため未対応。"
+                    },
+                    {
+                        "root":  "sold",
+                        "current":  "饷",
+                        "action":  "reduce",
+                        "newk":  "钱",
+                        "reason":  "饷=俸給/旧通貨スーで中心義は『金銭・給与』。一级『钱』(金銭)で透明に到達できる。饷は二级。"
+                    },
+                    {
+                        "root":  "apterig",
+                        "current":  "鹬鸵",
+                        "action":  "untargeted",
+                        "newk":  "",
+                        "reason":  "キーウィ(Apteryx,NZの無翼鳥)は特定属。一级『鸵鸟』は別種(ダチョウ)で誤読、『鸟』は汎用過ぎて中心義に届かないため未対応。"
+                    },
+                    {
+                        "root":  "demodeks",
+                        "current":  "蠕螨",
+                        "action":  "untargeted",
+                        "newk":  "",
+                        "reason":  "Demodexはダニ(螨/akaro)。一级に螨(ダニ)字が無く、蠕虫にすると別分類群(蠕虫=helminth)へ誤読するため未対応。"
+                    },
+                    {
+                        "root":  "kobitid",
+                        "current":  "鳅",
+                        "action":  "untargeted",
+                        "newk":  "",
+                        "reason":  "ドジョウは特定の底生小魚で、鳅に当たる一级字が無い。鱼は汎用過ぎて中心義(ドジョウ)に届かないため未対応(鳗と同様)。"
+                    },
+                    {
+                        "root":  "hirud",
+                        "current":  "蛭",
+                        "action":  "reduce",
+                        "newk":  "吸血虫",
+                        "reason":  "蛭=ヒルは吸血環形動物で中心義は『吸血する虫』。一级の吸+血+虫で透明に到達(ヒルは吸血虫の典型)。蛭は二级。"
+                    },
+                    {
+                        "root":  "gimnot",
+                        "current":  "电鳗",
+                        "action":  "reduce",
+                        "newk":  "电鱼",
+                        "reason":  "gloss自体が『電気魚』。鳗(ウナギ)は一级で表せない(未対応方針)ので、電+鱼=電気魚で中心義(電気を出す魚)に到達。電・鱼とも一级。"
+                    },
+                    {
+                        "root":  "vizon",
+                        "current":  "水貂",
+                        "action":  "untargeted",
+                        "newk":  "",
+                        "reason":  "ミンク(半水生のイタチ科)。貂/鼬/獭等の該当字が一级に無く、水単独や水鼠では中心義(ミンク)に届かず誤読するため未対応。"
+                    },
+                    {
+                        "root":  "ambr",
+                        "current":  "龙涎",
+                        "action":  "reduce",
+                        "newk":  "龙香",
+                        "reason":  "涎は二级。龙(一级)+香(一级)で『竜の香』=竜涎香/アンバーグリス(芳香物質)の中心義に到達。"
+                    },
+                    {
+                        "root":  "sorp",
+                        "current":  "花楸",
+                        "action":  "untargeted",
+                        "newk":  "",
+                        "reason":  "楸は二级。ナナカマド(Sorbus)は特定樹種で一级に語が無く、一级化すると全くの別物・過度に汎用化。二级維持不可のため未対応。"
+                    },
+                    {
+                        "root":  "lipaz",
+                        "current":  "脂酶",
+                        "action":  "untargeted",
+                        "newk":  "",
+                        "reason":  "酶は二级。『酵素』を表す字が一级に存在せず、リパーゼの中心義(脂質加水分解酵素)に一级で到達不能。系統化学・生化学字のため未対応。"
+                    },
+                    {
+                        "root":  "tranc^e",
+                        "current":  "壕",
+                        "action":  "reduce",
+                        "newk":  "沟",
+                        "reason":  "壕は二级。沟(一级)で塹壕・溝の中心義に透明に到達。"
+                    },
+                    {
+                        "root":  "busprit",
+                        "current":  "斜桅",
+                        "action":  "untargeted",
+                        "newk":  "",
+                        "reason":  "桅は二级。一级に『檣(マスト)』を表す字が無く、バウスプリット(船首の斜檣)の中心義に到達不能。斜帆では帆と誤読し別物。未対応。"
+                    },
+                    {
+                        "root":  "salp",
+                        "current":  "海樽",
+                        "action":  "reduce",
+                        "newk":  "海桶",
+                        "reason":  "樽は二级。桶(一级)は樽・バレルの中心義に到達。海桶=樽形の海生サルパを海樽と同構成で表現。"
+                    },
+                    {
+                        "root":  "maksil",
+                        "current":  "颌",
+                        "action":  "untargeted",
+                        "newk":  "",
+                        "reason":  "颌は二级。『顎骨(上顎)』を表す字が一级に無く、牙・齿は歯で別物(誤読)。中心義に一级で到達不能のため未対応。"
+                    },
+                    {
+                        "root":  "kalmar",
+                        "current":  "鱿",
+                        "action":  "untargeted",
+                        "newk":  "",
+                        "reason":  "鱿は二级。イカ専用字で一级に語が無く、鱼は魚で別物(イカは頭足類)。海鱼等は誤読かつ過度に汎用。中心義到達不能で未対応。"
+                    },
+                    {
+                        "root":  "ftal",
+                        "current":  "苯酐",
+                        "action":  "untargeted",
+                        "newk":  "",
+                        "reason":  "苯・酐とも二级/系統化学字。一级にベンゼン・無水物を表す字が無く、フタル酸無水物/フタリル基の中心義に到達不能。未対応。"
+                    },
+                    {
+                        "root":  "fosforil",
+                        "current":  "磷酰",
+                        "action":  "untargeted",
+                        "newk":  "",
+                        "reason":  "酰は二级(アシル基の系統化学字)。一级に該当字が無く、磷(一级)だけではホスホリル基の中心義に到達不能。未対応。"
+                    },
+                    {
+                        "root":  "sporotrik",
+                        "current":  "孢子丝菌",
+                        "action":  "untargeted",
+                        "newk":  "",
+                        "reason":  "Sporothrixは不完全菌の特定属。一级では真菌/霉菌など属名と無関係な総称にしかならず中心義(特定属)に到達不可。二级維持も不可のため未対応。"
+                    },
+                    {
+                        "root":  "kivi",
+                        "current":  "鹬鸵",
+                        "action":  "untargeted",
+                        "newk":  "",
+                        "reason":  "キウイは特定の飛べないNZ鳥。一级の鸵は鸵鸟(ダチョウ)で誤読、鸟は過度に総称的。一级で種同定不可のため未対応。"
+                    },
+                    {
+                        "root":  "alkadien",
+                        "current":  "二烯",
+                        "action":  "untargeted",
+                        "newk":  "",
+                        "reason":  "二重結合2つの不飽和炭化水素(系統化学命名)。烯(アルケン)も烃(炭化水素)も一级に無く、一级では化学的中心義に到達不可。未対応。"
+                    },
+                    {
+                        "root":  "skombr",
+                        "current":  "鲐",
+                        "action":  "untargeted",
+                        "newk":  "",
+                        "reason":  "サバ(Scomber属)の特定魚。一级の青鱼は別魚(黒鯇)で誤、鱼は総称的すぎ。一级にサバ相当語が無く鳗/鲟同様に未対応。"
+                    },
+                    {
+                        "root":  "tanin",
+                        "current":  "鞣酸",
+                        "action":  "reduce",
+                        "newk":  "单宁",
+                        "reason":  "タンニンの定訳「单宁」は单・宁とも一级で中心義に透明到達。鞣(二级)を回避。"
+                    },
+                    {
+                        "root":  "saltier",
+                        "current":  "绶",
+                        "action":  "reduce",
+                        "newk":  "带",
+                        "reason":  "首から胸に垂れるリボン/飾帯。带(一级)は帯・リボン・綬帯の意で中心義に到達。绶(二级)を回避。"
+                    },
+                    {
+                        "root":  "anchov",
+                        "current":  "鳀",
+                        "action":  "untargeted",
+                        "newk":  "",
+                        "reason":  "アンチョビ/カタクチイワシ(Engraulis)の特定小魚。沙丁鱼はイワシで別物、一级にアンチョビ相当語が無く未対応。"
+                    },
+                    {
+                        "root":  "impotent",
+                        "current":  "阳痿",
+                        "action":  "reduce",
+                        "newk":  "性无能",
+                        "reason":  "性的不能の意。性・无・能とも一级で「性无能」はインポテンスの実用語。中心義に到達し痿(二级)を回避。"
+                    },
+                    {
+                        "root":  "tili",
+                        "current":  "椴",
+                        "action":  "untargeted",
+                        "newk":  "",
+                        "reason":  "ボダイジュ/シナノキ(Tilia)の特定樹属。一级の菩提树はFicus religiosaで別種、Tiliaを一级で同定不可のため未対応。"
+                    },
+                    {
+                        "root":  "chevron",
+                        "current":  "椽",
+                        "action":  "reduce",
+                        "newk":  "梁",
+                        "reason":  "垂木(屋根の梁材)。梁(一级)は屋根の梁・梁材を指しやや汎用だが中心義(屋根材)に到達。椽(二级)を回避。"
+                    },
+                    {
+                        "root":  "divertikul",
+                        "current":  "憩室",
+                        "action":  "reduce",
+                        "newk":  "囊室",
+                        "reason":  "憩は二级。憩室=憩室(diverticulum)はsakforma kavo(袋状の腔)。一级の囊(袋)+室(腔・室)で『袋状の腔室』を透明に表せ中心義に到達。両字とも一级。"
+                    },
+                    {
+                        "root":  "osmi",
+                        "current":  "锇",
+                        "action":  "untargeted",
+                        "newk":  "",
+                        "reason":  "锇は二级。オスミウム(元素76)に対応する一级字が存在せず、一级化すると完全な別物・誤読になる。元素字のため未対応。"
+                    },
+                    {
+                        "root":  "cedrat",
+                        "current":  "香橼",
+                        "action":  "reduce",
+                        "newk":  "香柑",
+                        "reason":  "橼は二级。シトロンは厚皮の柑橘類。一级に橼は無いが柑(柑橘)があり、香+柑で『香り高い柑橘』として中心義(柑橘果)に到達。両字とも一级、やや汎用だが一级優先。"
+                    },
+                    {
+                        "root":  "raj",
+                        "current":  "鳐",
+                        "action":  "reduce",
+                        "newk":  "扁鱼",
+                        "reason":  "鳐は二级。中心義は《般》エイ(平たい魚)。一级に鳐・魟は無いが、扁(平たい)+鱼で『扁平な魚=エイ』を透明に表せ中心義に到達。両字とも一级。"
+                    },
+                    {
+                        "root":  "komet",
+                        "current":  "彗星",
+                        "action":  "reduce",
+                        "newk":  "扫星",
+                        "reason":  "彗は二级。彗星の古称は扫帚星(箒星)。一级の扫(掃く)+星で『掃く星=彗星』を透明に表せ中心義に到達。両字とも一级。"
+                    },
+                    {
+                        "root":  "pau^t",
+                        "current":  "撅嘴",
+                        "action":  "reduce",
+                        "newk":  "翘嘴",
+                        "reason":  "撅は二级。口をとがらす・ふくれ面。一级の翘(突き上げる・反らす)+嘴(口)で『口を突き出す=ふくれ面』を表せ中心義に到達。両字とも一级。"
+                    },
+                    {
+                        "root":  "gali",
+                        "current":  "镓",
+                        "action":  "untargeted",
+                        "newk":  "",
+                        "reason":  "镓は二级。ガリウム(元素31)に対応する一级字が存在せず、一级化すると完全な別物・誤読になる。元素字のため未対応。"
+                    },
+                    {
+                        "root":  "etilen",
+                        "current":  "乙烯",
+                        "action":  "untargeted",
+                        "newk":  "",
+                        "reason":  "烯は二级。エチレンの-ene(烯)系統化学命名に対応する一级字が存在しない。一级化すると別物になる特定化合物のため未対応。"
+                    },
+                    {
+                        "root":  "s^il",
+                        "current":  "乳糜",
+                        "action":  "reduce",
+                        "newk":  "乳液",
+                        "reason":  "糜は二级。乳糜(chyle)は乳白色の体液。一级の乳(乳・乳白)+液(液体)で『乳白色の液=乳糜』を表せ中心義に到達。両字とも一级。"
+                    },
+                    {
+                        "root":  "eten",
+                        "current":  "乙烯",
+                        "action":  "untargeted",
+                        "newk":  "",
+                        "reason":  "烯は二级。エテン(エチレンCH2=CH2)の-ene(烯)系統化学命名に対応する一级字が存在しない。一级化すると別物になる特定化合物のため未対応。"
+                    },
+                    {
+                        "root":  "lantan",
+                        "current":  "镧",
+                        "action":  "untargeted",
+                        "newk":  "",
+                        "reason":  "元素ランタン(La,57)。一级に元素字なく、一级化すると別物・誤読。未対応。"
+                    },
+                    {
+                        "root":  "kojon",
+                        "current":  "睾丸",
+                        "action":  "reduce",
+                        "newk":  "卵",
+                        "reason":  "口語のtestiko(睾丸)。一级『卵』は卵子・玉の義で口語で睾丸を指し中心義に到達。睾(二级)回避。"
+                    },
+                    {
+                        "root":  "s^ankr",
+                        "current":  "下疳",
+                        "action":  "reduce",
+                        "newk":  "毒疮",
+                        "reason":  "下疳=性器の潰瘍(\u003e\u003eulcero)。一级『毒』+『疮(できもの・潰瘍)』で感染性の瘡=中心義に到達。疳(二级)回避。"
+                    },
+                    {
+                        "root":  "nukleotid",
+                        "current":  "核苷酸",
+                        "action":  "untargeted",
+                        "newk":  "",
+                        "reason":  "ヌクレオチド。系統生化学語で苷(二级)が要。一级の『核酸』では核酸(高分子)になり別物。未対応。"
+                    },
+                    {
+                        "root":  "seraf",
+                        "current":  "炽天使",
+                        "action":  "reduce",
+                        "newk":  "天使",
+                        "reason":  "セラフィム=最高位の天使。一级『天使』で中心義(天使)に到達。やや汎用だが許容。炽(二级)回避。"
+                    },
+                    {
+                        "root":  "sien",
+                        "current":  "赭",
+                        "action":  "reduce",
+                        "newk":  "红土",
+                        "reason":  "シエンナ=赤褐色の土性顔料。一级『红(赤)』+『土』で赤土・黄土系顔料の中心義に到達。赭(二级)回避。"
+                    },
+                    {
+                        "root":  "koril",
+                        "current":  "榛",
+                        "action":  "untargeted",
+                        "newk":  "",
+                        "reason":  "ハシバミ(Corylus,特定属)。一级にハシバミの語なく、木/树では完全に汎用化し中心義を失う。未対応。"
+                    },
+                    {
+                        "root":  "putor",
+                        "current":  "林鼬",
+                        "action":  "untargeted",
+                        "newk":  "",
+                        "reason":  "ケナガイタチ(イタチ科,特定種)。一级にイタチ/鼬類の字なく、鼠等は別動物で誤読。未対応。"
+                    },
+                    {
+                        "root":  "slang",
+                        "current":  "俚",
+                        "action":  "reduce",
+                        "newk":  "俗语",
+                        "reason":  "スラング・俗語(\u003e\u003ej^argono)。一级『俗』+『语』で俗語・口語表現=中心義に到達。俚(二级)回避。"
+                    },
+                    {
+                        "root":  "board",
+                        "current":  "戗",
+                        "action":  "reduce",
+                        "newk":  "迎风",
+                        "reason":  "まぎる=風上へジグザグ帆走(タッキング)。一级『迎(向かう)』+『风』で風に逆らい走る中心義に到達。戗(二级)回避。"
+                    },
+                    {
+                        "root":  "steroid",
+                        "current":  "甾",
+                        "action":  "untargeted",
+                        "newk":  "",
+                        "reason":  "系統化学(ステロイド骨格)の専門字。一级に該当語なく、一级化すると完全な別物になるため未対応。"
+                    },
+                    {
+                        "root":  "helebor",
+                        "current":  "嚏根草",
+                        "action":  "untargeted",
+                        "newk":  "",
+                        "reason":  "ヘレボルス(クリスマスローズ)属の特定植物。一级に種名表現がなく中心義に到達できないため未対応。"
+                    },
+                    {
+                        "root":  "kurm",
+                        "current":  "花楸",
+                        "action":  "untargeted",
+                        "newk":  "",
+                        "reason":  "ナナカマド類の梨形の果実(sorbo)という特定植物種。一级に該当語がなく未対応。"
+                    },
+                    {
+                        "root":  "tenon",
+                        "current":  "榫",
+                        "action":  "reduce",
+                        "newk":  "凸",
+                        "reason":  "ほぞ=継手の突き出た凸部。一级『凸』で中心義(突出した接合部)に透明に到達できる。"
+                    },
+                    {
+                        "root":  "vaginal",
+                        "current":  "鞘",
+                        "action":  "reduce",
+                        "newk":  "套",
+                        "reason":  "解剖の鞘=組織が包む鞘・さや。一级『套』(覆い・套子)で中心義に到達できる。"
+                    },
+                    {
+                        "root":  "kenopodi",
+                        "current":  "藜",
+                        "action":  "untargeted",
+                        "newk":  "",
+                        "reason":  "アカザ属の特定植物。一级に種名表現がなく中心義に到達できないため未対応。"
+                    },
+                    {
+                        "root":  "kalikl",
+                        "current":  "副萼",
+                        "action":  "untargeted",
+                        "newk":  "",
+                        "reason":  "副萼=花のがく構造。『萼』に当たる一级字がなく、一级化すると別物になるため未対応。"
+                    },
+                    {
+                        "root":  "roku",
+                        "current":  "胭",
+                        "action":  "untargeted",
+                        "newk":  "",
+                        "reason":  "ベニノキ由来カロテノイド色素(annatto)という特定染料物質。一级化(红等)では色一般になり別物。未対応。"
+                    },
+                    {
+                        "root":  "oks",
+                        "current":  "犍",
+                        "action":  "untargeted",
+                        "newk":  "",
+                        "reason":  "去勢した雄牛。一级に去勢を表す字がなく、公牛では去勢前の雄牛で逆義・誤読となるため未対応。"
+                    },
+                    {
+                        "root":  "ingven",
+                        "current":  "疝",
+                        "action":  "untargeted",
+                        "newk":  "",
+                        "reason":  "鼠径ヘルニア(脱腸)。一级にヘルニアを単字で表す字がなく中心義に到達できないため未対応。"
+                    },
+                    {
+                        "root":  "furunk",
+                        "current":  "疖",
+                        "action":  "reduce",
+                        "newk":  "毒疮",
+                        "reason":  "せつ/ねぶと=化膿性の腫物。一级の疮(できもの・腫物)に毒を冠し毒疮で中心義に到達。疖は一级に無い。"
+                    },
+                    {
+                        "root":  "kvast",
+                        "current":  "缨",
+                        "action":  "reduce",
+                        "newk":  "穗",
+                        "reason":  "ふさ飾り=房状の垂れ飾り。一级の穗(穗子=ふさ・たれ房)で到達。缨は一级に無い。"
+                    },
+                    {
+                        "root":  "halebard",
+                        "current":  "戟",
+                        "action":  "reduce",
+                        "newk":  "矛",
+                        "reason":  "矛槍系の長柄武器。戟は一级に無く、一级の矛(ほこ・長柄の刺突武器)で中心義に到達。"
+                    },
+                    {
+                        "root":  "h^elicer",
+                        "current":  "螯",
+                        "action":  "reduce",
+                        "newk":  "钳",
+                        "reason":  "鋏角=把握する鋏状の付属肢(glossにprenilo)。螯は一级に無く、一级の钳(はさみ・把握具)で到達。"
+                    },
+                    {
+                        "root":  "balist",
+                        "current":  "弩炮",
+                        "action":  "reduce",
+                        "newk":  "弓炮",
+                        "reason":  "バリスタ=矢石を射出する弓式攻城機。弩は一级に無く、一级の弓+炮(射出機械)で弓炮として到達。"
+                    },
+                    {
+                        "root":  "ament",
+                        "current":  "荑",
+                        "action":  "reduce",
+                        "newk":  "穗",
+                        "reason":  "尾状花序=densa spiko(密な穂)。荑は一级に無く、一级の穗(穂状)で中心義に到達。穗の同字衝突は識別子で解消。"
+                    },
+                    {
+                        "root":  "ru",
+                        "current":  "沤",
+                        "action":  "reduce",
+                        "newk":  "浸",
+                        "reason":  "繊維をとるため水に浸す=漬ける。沤は一级に無く、一级の浸(ひたす・つける)で到達。"
+                    },
+                    {
+                        "root":  "kinaz",
+                        "current":  "激酶",
+                        "action":  "untargeted",
+                        "newk":  "",
+                        "reason":  "キナーゼ=リン酸転移酵素。酶(酵素)は一级に無く、一级化すると酵素概念に到達不能で完全な別物となる。"
+                    },
+                    {
+                        "root":  "glazur",
+                        "current":  "釉",
+                        "action":  "untargeted",
+                        "newk":  "",
+                        "reason":  "うわ薬(陶磁の釉薬)。釉は一级に無く、瓷(磁器)等で代替すると別物・誤読。一级表現が存在しない。"
+                    },
+                    {
+                        "root":  "h^aos",
+                        "current":  "混沌",
+                        "action":  "reduce",
+                        "newk":  "混乱",
+                        "reason":  "=kaosa(混沌・無秩序)。沌は一级に無いが、一级の混+乱で混乱として中心義(混沌・無秩序)に透明に到達。"
+                    },
+                    {
+                        "root":  "skarlat",
+                        "current":  "绯",
+                        "action":  "reduce",
+                        "newk":  "红",
+                        "reason":  "绯は二级。中心義は赤/深紅。一级の红(赤)で透明に到達。"
+                    },
+                    {
+                        "root":  "sulfon",
+                        "current":  "砜",
+                        "action":  "untargeted",
+                        "newk":  "",
+                        "reason":  "スルホンは系統化学語。一级に該当語なく(硫は硫黄で別物)、一级表現が存在しない。"
+                    },
+                    {
+                        "root":  "poloni",
+                        "current":  "钋",
+                        "action":  "untargeted",
+                        "newk":  "",
+                        "reason":  "元素ポロニウムの専用字。一级に該当字がなく代替不能。"
+                    },
+                    {
+                        "root":  "patn",
+                        "current":  "檩",
+                        "action":  "reduce",
+                        "newk":  "梁",
+                        "reason":  "檩は二级で屋根の横梁(母屋)。一级の梁(はり)で中心義に到達。"
+                    },
+                    {
+                        "root":  "kupol",
+                        "current":  "穹顶",
+                        "action":  "reduce",
+                        "newk":  "圆顶",
+                        "reason":  "穹は二级。ドーム=丸天井。一级のみの圆顶(丸い天井)で透明に到達。"
+                    },
+                    {
+                        "root":  "frikas",
+                        "current":  "烩",
+                        "action":  "reduce",
+                        "newk":  "煮",
+                        "reason":  "烩は二级で煮込み。中心義は煮ること。一级の煮で到達(やや汎用だが中心義可)。"
+                    },
+                    {
+                        "root":  "kadmi",
+                        "current":  "镉",
+                        "action":  "untargeted",
+                        "newk":  "",
+                        "reason":  "元素カドミウムの専用字。一级に該当字なく代替不能。"
+                    },
+                    {
+                        "root":  "silur",
+                        "current":  "鲇",
+                        "action":  "untargeted",
+                        "newk":  "",
+                        "reason":  "ナマズの特定魚種。一级に該当魚字がなく、一级化は別物・不可(鳗/鲟と同様)。"
+                    },
+                    {
+                        "root":  "ftalein",
+                        "current":  "酞",
+                        "action":  "untargeted",
+                        "newk":  "",
+                        "reason":  "フタレインは系統化学語。一级に該当語なく一级表現が存在しない。"
+                    },
+                    {
+                        "root":  "mel",
+                        "current":  "獾",
+                        "action":  "untargeted",
+                        "newk":  "",
+                        "reason":  "アナグマの特定動物種。一级に該当獣字がなく代替不能。"
+                    },
+                    {
+                        "root":  "anilin",
+                        "current":  "苯胺",
+                        "action":  "untargeted",
+                        "newk":  "",
+                        "reason":  "アニリンは特定有機化合物。苯・胺とも二级で代替不能、一级に該当語なし。一级にすると別物となる。"
+                    },
+                    {
+                        "root":  "pavez",
+                        "current":  "舷墙",
+                        "action":  "reduce",
+                        "newk":  "船墙",
+                        "reason":  "舷(二级)を船(一级)に置換。船墙=船側の壁で舷墻(bulwark)の中心義に到達。両字一级。"
+                    },
+                    {
+                        "root":  "vrak",
+                        "current":  "残骸",
+                        "action":  "reduce",
+                        "newk":  "残船",
+                        "reason":  "骸(二级)を一级で代替。残船=破船の残骸で中心義(船・乗物の難破残骸)に到達。両字一级。"
+                    },
+                    {
+                        "root":  "elitr",
+                        "current":  "鞘翅",
+                        "action":  "reduce",
+                        "newk":  "硬翅",
+                        "reason":  "鞘(二级)を硬(一级)に置換。硬翅=硬い前翅でさやばね(翅鞘)の中心義に到達。両字一级。"
+                    },
+                    {
+                        "root":  "karbunkl",
+                        "current":  "痈",
+                        "action":  "reduce",
+                        "newk":  "毒疮",
+                        "reason":  "痈(二级)を一级2字で代替。毒疮=毒性の腫れもので癰(carbuncle)の中心義に到達。両字一级。"
+                    },
+                    {
+                        "root":  "simbrank",
+                        "current":  "合鳃",
+                        "action":  "untargeted",
+                        "newk":  "",
+                        "reason":  "Synbranchus属(合鳃魚)の特定分類群。鳃(二级)を含み一级に該当語なし。一级では別物となる。"
+                    },
+                    {
+                        "root":  "gulas^",
+                        "current":  "炖牛",
+                        "action":  "reduce",
+                        "newk":  "煮牛",
+                        "reason":  "炖(二级)を煮(一级)に置換。煮牛=煮込んだ牛肉でグラッシュ(牛肉シチュー)の中心義に到達。両字一级。"
+                    },
+                    {
+                        "root":  "pjel",
+                        "current":  "肾盂",
+                        "action":  "reduce",
+                        "newk":  "肾盆",
+                        "reason":  "盂(二级)を盆(一级)に置換。肾盆=腎臓の盆状部で腎盂(renal pelvis)の中心義に到達。両字一级。"
+                    },
+                    {
+                        "root":  "ciper",
+                        "current":  "莎",
+                        "action":  "untargeted",
+                        "newk":  "",
+                        "reason":  "Cyperus(莎草)属の特定植物属。莎は二级、一级で透明に表せず草等では別物。該当一级なし。"
+                    },
+                    {
+                        "root":  "zibel",
+                        "current":  "黑貂",
+                        "action":  "untargeted",
+                        "newk":  "",
+                        "reason":  "クロテン(テン属の特定種)。貂(二级)に対応する一级字なく、黑単独や鼠では別物。該当一级なし。"
+                    },
+                    {
+                        "root":  "promontor",
+                        "current":  "岬",
+                        "action":  "reduce",
+                        "newk":  "海角",
+                        "reason":  "岬は二级。一级のみの海角(海に突き出た角=岬/みさき)で中心義に到達。海=2074,角=814は一级。"
+                    },
+                    {
+                        "root":  "pamflet",
+                        "current":  "檄",
+                        "action":  "reduce",
+                        "newk":  "批文",
+                        "reason":  "檄は二级。批(批判・攻撃)+文(文書)の一级2字で『批判攻撃文書』の中心義に到達。批=622,文=161は一级。"
+                    },
+                    {
+                        "root":  "tril",
+                        "current":  "啭",
+                        "action":  "reduce",
+                        "newk":  "颤歌",
+                        "reason":  "啭は二级。颤(声を震わせる)+歌(さえずる/歌う)の一级2字でトリル(声を震わせて歌う)に到達。颤=3465,歌=3084は一级。"
+                    },
+                    {
+                        "root":  "miksin",
+                        "current":  "盲鳗",
+                        "action":  "untargeted",
+                        "newk":  "",
+                        "reason":  "鳗(eel)は二级で一级に該当字なし。盲鳗の核は鳗類でありヌタウナギ特定種。一级では表せず別物になるため未対応(方針の鳗→未対応に一致)。"
+                    },
+                    {
+                        "root":  "lug^",
+                        "current":  "橇",
+                        "action":  "reduce",
+                        "newk":  "雪车",
+                        "reason":  "橇は二级。一级のみの雪车(雪上をすべる車=橇/リュージュ)で中心義に到達。雪=2249,车=100は一级。"
+                    },
+                    {
+                        "root":  "link",
+                        "current":  "猞猁",
+                        "action":  "reduce",
+                        "newk":  "山猫",
+                        "reason":  "猞猁は両字とも二级。語釈の大山猫より、一级のみの山猫(オオヤマネコ)で中心義に到達。山=39,猫=2367は一级。"
+                    }
+                ],
+    "reduced":  [
+                    {
+                        "root":  "viol",
+                        "current":  "堇",
+                        "action":  "reduce",
+                        "newk":  "紫花",
+                        "reason":  "堇は二级。一级の紫(むらさき)+花でスミレの中心像(紫の花)に到達。やや汎用だが一级優先(蟒→巨蛇方式)。"
+                    },
+                    {
+                        "root":  "frag",
+                        "current":  "莓",
+                        "action":  "reduce",
+                        "newk":  "甜酱",
+                        "reason":  "中心義はジャム(プレザーブ)。一级の甜(甘)+酱(ペースト/ジャム)で甘いジャムに到達。苺自体は一级不能だがジャムの中心義は表せる。"
+                    },
+                    {
+                        "root":  "ronk",
+                        "current":  "鼾",
+                        "action":  "reduce",
+                        "newk":  "哼",
+                        "reason":  "鼾は二级、齁も非一级。一级の哼(鼻を鳴らす/うなる)でいびき・ごうごううなる(\u003e\u003egrunti)の中心音像に到達。"
+                    },
+                    {
+                        "root":  "vidv",
+                        "current":  "鳏",
+                        "action":  "reduce",
+                        "newk":  "寡",
+                        "reason":  "鳏は二级(やもめの男)。一级の寡が『配偶者を失った/やもめ』の中心義を直接表す。"
+                    },
+                    {
+                        "root":  "kret",
+                        "current":  "垩",
+                        "action":  "reduce",
+                        "newk":  "白石",
+                        "reason":  "垩(白垩=チョーク)は二级。一级の白+石で白亜質(白い石灰岩)の中心像に到達。やや汎用だが一级優先。"
+                    },
+                    {
+                        "root":  "koks",
+                        "current":  "胯",
+                        "action":  "reduce",
+                        "newk":  "股",
+                        "reason":  "胯・髋とも二级。一级の股(もも/股関節部)が股関節の中心義に到達。"
+                    },
+                    {
+                        "root":  "miaŭ",
+                        "current":  "喵",
+                        "action":  "reduce",
+                        "newk":  "咪",
+                        "reason":  "喵は二级。一级の咪(咪咪=猫の鳴き声/猫を呼ぶ語)がニャアの擬音に到達。"
+                    },
+                    {
+                        "root":  "panic",
+                        "current":  "黍",
+                        "action":  "reduce",
+                        "newk":  "粟团",
+                        "reason":  "黍は二级。一级の粟(キビ/雑穀)+团(団子)でキビ団子の中心義に到達。"
+                    },
+                    {
+                        "root":  "jug",
+                        "current":  "轭",
+                        "action":  "reduce",
+                        "newk":  "束缚",
+                        "reason":  "轭が二级。中心義はくびき=束縛・隷属させる。束缚(両字一级)で縛る/拘束する中心義に透明に到達。"
+                    },
+                    {
+                        "root":  "lacert",
+                        "current":  "蜥蜴",
+                        "action":  "reduce",
+                        "newk":  "壁虎",
+                        "reason":  "蜥蜴とも二级。壁虎(両字一级)はヤモリ=最も身近なトカゲ類で、トカゲの中心義(爬虫の小型四足)に透明到達。蟒→巨蛇式の汎用優先。"
+                    },
+                    {
+                        "root":  "limak",
+                        "current":  "蛞蝓",
+                        "action":  "reduce",
+                        "newk":  "蜗牛",
+                        "reason":  "蛞蝓とも二级。蜗牛(両字一级)=殻なしカタツムリに等しく、のろのろした軟体動物という中心義・転義に透明到達。蟒→巨蛇式。同字衝突は識別子で解消。"
+                    },
+                    {
+                        "root":  "pekl",
+                        "current":  "腌",
+                        "action":  "reduce",
+                        "newk":  "盐浸",
+                        "reason":  "腌が二级。料理で塩漬けにする中心義。盐浸(両字一级)=塩に浸す→塩漬け/塩蔵に透明到達。"
+                    },
+                    {
+                        "root":  "tern",
+                        "current":  "喷嚏",
+                        "action":  "reduce",
+                        "newk":  "喷",
+                        "reason":  "嚏は二级。喷(一级)は噴出の意で、くしゃみ(鼻からの突発噴出)の中心義に到達可能。嚏を落とし一级単字化。"
+                    },
+                    {
+                        "root":  "veruk",
+                        "current":  "疣",
+                        "action":  "reduce",
+                        "newk":  "瘤",
+                        "reason":  "疣は二级。瘤(一级)はこぶ・隆起の意で、語義のこぶ・小隆起・皮膚の突起という中心義に到達。やや汎用だが一级優先。"
+                    },
+                    {
+                        "root":  "uran",
+                        "current":  "铀",
+                        "action":  "reduce",
+                        "newk":  "天王星",
+                        "reason":  "語義はウラン元素ではなく天空神ウラノス/天王星。天王星は全て一级字で中心義に透明到達。"
+                    },
+                    {
+                        "root":  "spor",
+                        "current":  "孢",
+                        "action":  "reduce",
+                        "newk":  "胞子",
+                        "reason":  "孢は二级。胞(L1,細胞)+子(L1)で胞子=生殖細胞=胞子の中心義に透明到達。語義glossも『胞子』。"
+                    },
+                    {
+                        "root":  "kard",
+                        "current":  "蓟",
+                        "action":  "reduce",
+                        "newk":  "刺草",
+                        "reason":  "蓟は二级(アザミ専用)。一级にアザミ字無し。刺(L1,とげ)+草(L1)で『とげのある草=アザミ』の中心義にやや汎用ながら到達(巨蛇方式)。"
+                    },
+                    {
+                        "root":  "falk",
+                        "current":  "隼",
+                        "action":  "reduce",
+                        "newk":  "鹰",
+                        "reason":  "隼は表外/二级外でL1に無い。鹰(L1,猛禽)でハヤブサ=猛禽の中心義に到達(やや汎用だが一级優先)。"
+                    },
+                    {
+                        "root":  "pale",
+                        "current":  "内稃",
+                        "action":  "reduce",
+                        "newk":  "内壳",
+                        "reason":  "稃が二级。内(L1)+壳(L1,殻/もみ殻)で『小穂の内側のもみ殻状包=内稃(palea)』の中心義に到達。"
+                    },
+                    {
+                        "root":  "tetra",
+                        "current":  "榛鸡",
+                        "action":  "reduce",
+                        "newk":  "野鸡",
+                        "reason":  "エゾライチョウは野生のキジ類。野(2265)鸡(928)とも一级で、野生のキジ・雷鳥という中心義に到達。二级の榛を排除。"
+                    },
+                    {
+                        "root":  "mosk",
+                        "current":  "麝",
+                        "action":  "reduce",
+                        "newk":  "香",
+                        "reason":  "語義の中心は「じゃ香の香りのする・麝香的」。香(1548)は一级で芳香の核心に到達。二级の麝を排除。"
+                    },
+                    {
+                        "root":  "testik",
+                        "current":  "睾丸",
+                        "action":  "reduce",
+                        "newk":  "丸",
+                        "reason":  "睾(二级)不使用。睾丸の中心義=球状の腺。一级『丸』(ボール/玉)が形象的中核で透明。"
+                    },
+                    {
+                        "root":  "rap",
+                        "current":  "芜菁",
+                        "action":  "reduce",
+                        "newk":  "萝卜",
+                        "reason":  "菁(二级)不使用。中心義=根菜カブ/ダイコン類。一级『萝卜』で透明に到達。"
+                    },
+                    {
+                        "root":  "metan",
+                        "current":  "甲烷",
+                        "action":  "reduce",
+                        "newk":  "沼气",
+                        "reason":  "メタン。烷が二级。沼气(沼=一级+气=一级)はメタン(沼気)を表す標準的で透明な一级二字熟語。中心義に到達。"
+                    },
+                    {
+                        "root":  "ostr",
+                        "current":  "蚝",
+                        "action":  "reduce",
+                        "newk":  "蚌",
+                        "reason":  "カキ/牡蠣・イタボガキ属。蚝が二级。蚌(一级)は二枚貝・貝類の意で、汎用的だがカキ(海産二枚貝)の中心義に到達(蟒→巨蛇式)。"
+                    },
+                    {
+                        "root":  "talp",
+                        "current":  "鼹",
+                        "action":  "reduce",
+                        "newk":  "地鼠",
+                        "reason":  "モグラ。鼹は二级。地鼠(地=一级+鼠=一级)は地中に穴を掘るネズミ状の小獣の意で、汎用的だがモグラの中心義に到達(蟒→巨蛇式)。"
+                    },
+                    {
+                        "root":  "tribord",
+                        "current":  "右舷",
+                        "action":  "reduce",
+                        "newk":  "右边",
+                        "reason":  "舷は二级。starboard=船の右側。右(一级)+边(一级)=右边で『右側』という中心義に透明に到達。一级のみで可。"
+                    },
+                    {
+                        "root":  "avel",
+                        "current":  "榛",
+                        "action":  "reduce",
+                        "newk":  "坚果",
+                        "reason":  "榛は二级。ハシバミの実=堅果。一级の坚+果でナッツの中心義に到達(やや汎用だが一级優先)。"
+                    },
+                    {
+                        "root":  "sau^r",
+                        "current":  "蜥",
+                        "action":  "reduce",
+                        "newk":  "爬虫",
+                        "reason":  "蜥は二级。亀・蛇を除く爬虫類の総称=爬行動物。一级の爬+虫で爬虫類の中心義に到達。"
+                    },
+                    {
+                        "root":  "sakrilegi",
+                        "current":  "渎",
+                        "action":  "reduce",
+                        "newk":  "辱",
+                        "reason":  "渎は二级。神聖を汚す=辱(けがす・はずかしめる)。一级の辱で冒涜・罰当たりの中心義に到達。"
+                    },
+                    {
+                        "root":  "tekton",
+                        "current":  "柚木",
+                        "action":  "reduce",
+                        "newk":  "硬木",
+                        "reason":  "柚は二级で且つチークは柚(ブンタン)と無関係。チーク=熱帯の良質硬材。一级の硬+木で硬材の中心義に到達。"
+                    },
+                    {
+                        "root":  "vanil",
+                        "current":  "香荚兰",
+                        "action":  "reduce",
+                        "newk":  "香兰",
+                        "reason":  "二级の荚(莢)を除去。バニラはラン科で芳香があり、香(一级)+兰(一级)=芳香のランで中心義バニラに透明到達。"
+                    },
+                    {
+                        "root":  "gres",
+                        "current":  "莎",
+                        "action":  "reduce",
+                        "newk":  "牧草",
+                        "reason":  "語義は牧草・芝草(herboとは別の飼料/芝草)。牧(一级)+草(一级)=牧草で中心義に透明到達。同字共有は許容。"
+                    },
+                    {
+                        "root":  "krisol",
+                        "current":  "坩埚",
+                        "action":  "reduce",
+                        "newk":  "熔锅",
+                        "reason":  "坩埚は二级。るつぼ(=fandvazo 熔融容器)。熔(3158)+锅(2662)で『溶かす鍋』=るつぼに透明到達、共に一级。"
+                    },
+                    {
+                        "root":  "forniks",
+                        "current":  "穹窿",
+                        "action":  "reduce",
+                        "newk":  "脑弓",
+                        "reason":  "穹は一级外。語義は『脳弓』(脳内の弓状構造=fornix)。脑(2001)+弓(63)で訳語そのものに到達、共に一级。"
+                    },
+                    {
+                        "root":  "hajk",
+                        "current":  "俳句",
+                        "action":  "reduce",
+                        "newk":  "短诗",
+                        "reason":  "俳は二级。俳句の中心義は『短い詩形』。短(一级)+诗(一级)で短詩=短い詩に到達できる。"
+                    },
+                    {
+                        "root":  "arbut",
+                        "current":  "莓",
+                        "action":  "reduce",
+                        "newk":  "红果",
+                        "reason":  "莓は二级。中心義は『赤く丸い小果実』。红(一级)+果(一级)で红果=赤い実に到達できる。"
+                    },
+                    {
+                        "root":  "histeri",
+                        "current":  "癔",
+                        "action":  "reduce",
+                        "newk":  "狂",
+                        "reason":  "癔は二级。ヒステリックの中心義は『病的に興奮・狂乱した状態』。狂(一级)で到達できる。"
+                    },
+                    {
+                        "root":  "tarz",
+                        "current":  "睑板",
+                        "action":  "reduce",
+                        "newk":  "眼板",
+                        "reason":  "睑(二级)を一级の眼で置換。眼板=まぶたの線維板(瞼板)の中心義に到達。両字とも一级(眼2263・板1025)。"
+                    },
+                    {
+                        "root":  "medikag",
+                        "current":  "苜蓿",
+                        "action":  "reduce",
+                        "newk":  "牧草",
+                        "reason":  "苜蓿(両字二级)を置換。ムラサキウマゴヤシは代表的飼料作物=牧草で中心義に到達。牧1126・草1408とも一级。やや汎用だが一级優先。"
+                    },
+                    {
+                        "root":  "turt",
+                        "current":  "鸠",
+                        "action":  "reduce",
+                        "newk":  "鸽",
+                        "reason":  "鸠(二级)を一级の鸽(ハト)で置換。キジバトはハトの一種で中心義に到達。鸽2349は一级。"
+                    },
+                    {
+                        "root":  "endivi",
+                        "current":  "苦苣",
+                        "action":  "reduce",
+                        "newk":  "苦菜",
+                        "reason":  "苣は二级。苦#999・菜#2207はともに一级。エンダイブは苦味のある葉野菜(チコリ類)で『苦菜』により中心義に到達できる。"
+                    },
+                    {
+                        "root":  "koc^",
+                        "current":  "胭虫",
+                        "action":  "reduce",
+                        "newk":  "红虫",
+                        "reason":  "胭は二级。红#589・虫#423はともに一级。コチニールは紅色染料を採る虫で『红虫』により中心義に到達できる。"
+                    },
+                    {
+                        "root":  "mile",
+                        "current":  "黍",
+                        "action":  "reduce",
+                        "newk":  "黄米",
+                        "reason":  "黍は二级。黄#2201・米#533はともに一级。キビは中国語で黄米とも呼ばれる黄色い穀粒で『黄米』により中心義に到達できる。"
+                    },
+                    {
+                        "root":  "akant",
+                        "current":  "叶蓟",
+                        "action":  "reduce",
+                        "newk":  "草",
+                        "reason":  "アカンサスは葉の美しい草本。蓟は二级。一级の草で『草本植物』の中心義に到達(汎用だが中心義可)。"
+                    },
+                    {
+                        "root":  "arek",
+                        "current":  "槟",
+                        "action":  "reduce",
+                        "newk":  "棕",
+                        "reason":  "アレカはヤシ(ビンロウ)。槟は二级。一级の棕(棕櫚=ヤシ類)でヤシの中心義に到達。"
+                    },
+                    {
+                        "root":  "kapreol",
+                        "current":  "狍",
+                        "action":  "reduce",
+                        "newk":  "鹿",
+                        "reason":  "ノロはシカ科。狍は二级。一级の鹿でシカの中心義に到達(蟒→巨蛇と同様の汎用化)。"
+                    },
+                    {
+                        "root":  "amarant",
+                        "current":  "苋",
+                        "action":  "reduce",
+                        "newk":  "菜",
+                        "reason":  "アマランサス(ヒユ)は食用葉菜。苋は二级。一级の菜で食用葉菜の中心義に到達。"
+                    },
+                    {
+                        "root":  "aliz",
+                        "current":  "花楸",
+                        "action":  "reduce",
+                        "newk":  "果",
+                        "reason":  "ナナカマドの実。語義は『の実』。楸は二级。一级の果で果実の中心義に到達。"
+                    },
+                    {
+                        "root":  "singult",
+                        "current":  "嗝",
+                        "action":  "reduce",
+                        "newk":  "逆气",
+                        "reason":  "しゃっくり。嗝は二级。逆(一级)+气(一级)『逆气』は古典的なしゃっくり/噯気の語で中心義に到達。"
+                    },
+                    {
+                        "root":  "lavend",
+                        "current":  "薰衣",
+                        "action":  "reduce",
+                        "newk":  "香草",
+                        "reason":  "薰は二级。ラベンダーの中心義=芳香植物。一级のみの香草(芳しい草)で中心義(芳香植物)に到達。やや汎用だが一级優先(蟒→巨蛇に同じ)。"
+                    },
+                    {
+                        "root":  "ambos",
+                        "current":  "砧",
+                        "action":  "reduce",
+                        "newk":  "铁床",
+                        "reason":  "砧は二级。中心義=鉄床(かなとこ)。一级の铁+床で『鉄の台』を透明に表し中心義に到達。"
+                    },
+                    {
+                        "root":  "cimbal",
+                        "current":  "钹",
+                        "action":  "reduce",
+                        "newk":  "铜盘",
+                        "reason":  "钹は二级。シンバル=打ち合わせる真鍮円盤。一级の铜+盘で『銅の皿』を透明に表し中心義(打楽器の金属円盤)に到達。"
+                    },
+                    {
+                        "root":  "adiant",
+                        "current":  "铁线蕨",
+                        "action":  "reduce",
+                        "newk":  "铁线草",
+                        "reason":  "蕨(二级)を一级の草に置換。铁线(一级)で黒く細い針金状の茎というクジャクシダの特徴を表し、草でシダ植物の中心義に到達。全字一级。"
+                    },
+                    {
+                        "root":  "koron",
+                        "current":  "日冕",
+                        "action":  "reduce",
+                        "newk":  "日光环",
+                        "reason":  "冕は二级。コロナ=太陽大気の輝く環(光環)。日(一级)+光(一级)+环(一级)で『太陽の光の環』=コロナの中心義に透明到達。"
+                    },
+                    {
+                        "root":  "piton",
+                        "current":  "蟒",
+                        "action":  "reduce",
+                        "newk":  "巨蛇",
+                        "reason":  "蟒は二级。ニシキヘビの中心義=大型の蛇。巨(一级)+蛇(一级)で到達(指示例 蟒→巨蛇 準拠)。"
+                    },
+                    {
+                        "root":  "vipur",
+                        "current":  "蝰",
+                        "action":  "reduce",
+                        "newk":  "毒蛇",
+                        "reason":  "蝰は二级。クサリヘビ/マムシの中心義=毒蛇。毒(一级)+蛇(一级)で到達(指示例 蝰→毒蛇 準拠)。"
+                    },
+                    {
+                        "root":  "skabi",
+                        "current":  "疥",
+                        "action":  "reduce",
+                        "newk":  "癣",
+                        "reason":  "疥は二级。一级の癣(皮膚の真菌性疾患)で『皮癬・疥癬』の皮膚病の中心義に到達。一级単字で透明。"
+                    },
+                    {
+                        "root":  "mamut",
+                        "current":  "猛犸",
+                        "action":  "reduce",
+                        "newk":  "巨象",
+                        "reason":  "犸は二级。一级の巨(101)+象(2361)で『巨大な象=マンモス』の中心義(巨大な)に到達。"
+                    },
+                    {
+                        "root":  "kaos",
+                        "current":  "混沌",
+                        "action":  "reduce",
+                        "newk":  "混乱",
+                        "reason":  "沌は二级。一级の混(2420)+乱(762)『混乱』で無秩序・混乱の中心義に透明に到達。"
+                    },
+                    {
+                        "root":  "divan",
+                        "current":  "榻",
+                        "action":  "reduce",
+                        "newk":  "长椅",
+                        "reason":  "榻は二级。一级の长(127)+椅(2569)『长椅』で背・肘掛けのない長椅子(ディバン)の中心義に到達。"
+                    },
+                    {
+                        "root":  "antraks",
+                        "current":  "炭疽",
+                        "action":  "reduce",
+                        "newk":  "炭疮",
+                        "reason":  "炭疽(炭のように黒い潰瘍)の中心義を保持。疽(二级)を同義の一级『疮』(潰瘍・できもの)に置換。炭・疮とも一级で炭疽病に透明に到達。"
+                    },
+                    {
+                        "root":  "sold",
+                        "current":  "饷",
+                        "action":  "reduce",
+                        "newk":  "钱",
+                        "reason":  "饷=俸給/旧通貨スーで中心義は『金銭・給与』。一级『钱』(金銭)で透明に到達できる。饷は二级。"
+                    },
+                    {
+                        "root":  "hirud",
+                        "current":  "蛭",
+                        "action":  "reduce",
+                        "newk":  "吸血虫",
+                        "reason":  "蛭=ヒルは吸血環形動物で中心義は『吸血する虫』。一级の吸+血+虫で透明に到達(ヒルは吸血虫の典型)。蛭は二级。"
+                    },
+                    {
+                        "root":  "gimnot",
+                        "current":  "电鳗",
+                        "action":  "reduce",
+                        "newk":  "电鱼",
+                        "reason":  "gloss自体が『電気魚』。鳗(ウナギ)は一级で表せない(未対応方針)ので、電+鱼=電気魚で中心義(電気を出す魚)に到達。電・鱼とも一级。"
+                    },
+                    {
+                        "root":  "ambr",
+                        "current":  "龙涎",
+                        "action":  "reduce",
+                        "newk":  "龙香",
+                        "reason":  "涎は二级。龙(一级)+香(一级)で『竜の香』=竜涎香/アンバーグリス(芳香物質)の中心義に到達。"
+                    },
+                    {
+                        "root":  "tranc^e",
+                        "current":  "壕",
+                        "action":  "reduce",
+                        "newk":  "沟",
+                        "reason":  "壕は二级。沟(一级)で塹壕・溝の中心義に透明に到達。"
+                    },
+                    {
+                        "root":  "salp",
+                        "current":  "海樽",
+                        "action":  "reduce",
+                        "newk":  "海桶",
+                        "reason":  "樽は二级。桶(一级)は樽・バレルの中心義に到達。海桶=樽形の海生サルパを海樽と同構成で表現。"
+                    },
+                    {
+                        "root":  "tanin",
+                        "current":  "鞣酸",
+                        "action":  "reduce",
+                        "newk":  "单宁",
+                        "reason":  "タンニンの定訳「单宁」は单・宁とも一级で中心義に透明到達。鞣(二级)を回避。"
+                    },
+                    {
+                        "root":  "saltier",
+                        "current":  "绶",
+                        "action":  "reduce",
+                        "newk":  "带",
+                        "reason":  "首から胸に垂れるリボン/飾帯。带(一级)は帯・リボン・綬帯の意で中心義に到達。绶(二级)を回避。"
+                    },
+                    {
+                        "root":  "impotent",
+                        "current":  "阳痿",
+                        "action":  "reduce",
+                        "newk":  "性无能",
+                        "reason":  "性的不能の意。性・无・能とも一级で「性无能」はインポテンスの実用語。中心義に到達し痿(二级)を回避。"
+                    },
+                    {
+                        "root":  "chevron",
+                        "current":  "椽",
+                        "action":  "reduce",
+                        "newk":  "梁",
+                        "reason":  "垂木(屋根の梁材)。梁(一级)は屋根の梁・梁材を指しやや汎用だが中心義(屋根材)に到達。椽(二级)を回避。"
+                    },
+                    {
+                        "root":  "divertikul",
+                        "current":  "憩室",
+                        "action":  "reduce",
+                        "newk":  "囊室",
+                        "reason":  "憩は二级。憩室=憩室(diverticulum)はsakforma kavo(袋状の腔)。一级の囊(袋)+室(腔・室)で『袋状の腔室』を透明に表せ中心義に到達。両字とも一级。"
+                    },
+                    {
+                        "root":  "cedrat",
+                        "current":  "香橼",
+                        "action":  "reduce",
+                        "newk":  "香柑",
+                        "reason":  "橼は二级。シトロンは厚皮の柑橘類。一级に橼は無いが柑(柑橘)があり、香+柑で『香り高い柑橘』として中心義(柑橘果)に到達。両字とも一级、やや汎用だが一级優先。"
+                    },
+                    {
+                        "root":  "raj",
+                        "current":  "鳐",
+                        "action":  "reduce",
+                        "newk":  "扁鱼",
+                        "reason":  "鳐は二级。中心義は《般》エイ(平たい魚)。一级に鳐・魟は無いが、扁(平たい)+鱼で『扁平な魚=エイ』を透明に表せ中心義に到達。両字とも一级。"
+                    },
+                    {
+                        "root":  "komet",
+                        "current":  "彗星",
+                        "action":  "reduce",
+                        "newk":  "扫星",
+                        "reason":  "彗は二级。彗星の古称は扫帚星(箒星)。一级の扫(掃く)+星で『掃く星=彗星』を透明に表せ中心義に到達。両字とも一级。"
+                    },
+                    {
+                        "root":  "pau^t",
+                        "current":  "撅嘴",
+                        "action":  "reduce",
+                        "newk":  "翘嘴",
+                        "reason":  "撅は二级。口をとがらす・ふくれ面。一级の翘(突き上げる・反らす)+嘴(口)で『口を突き出す=ふくれ面』を表せ中心義に到達。両字とも一级。"
+                    },
+                    {
+                        "root":  "s^il",
+                        "current":  "乳糜",
+                        "action":  "reduce",
+                        "newk":  "乳液",
+                        "reason":  "糜は二级。乳糜(chyle)は乳白色の体液。一级の乳(乳・乳白)+液(液体)で『乳白色の液=乳糜』を表せ中心義に到達。両字とも一级。"
+                    },
+                    {
+                        "root":  "kojon",
+                        "current":  "睾丸",
+                        "action":  "reduce",
+                        "newk":  "卵",
+                        "reason":  "口語のtestiko(睾丸)。一级『卵』は卵子・玉の義で口語で睾丸を指し中心義に到達。睾(二级)回避。"
+                    },
+                    {
+                        "root":  "s^ankr",
+                        "current":  "下疳",
+                        "action":  "reduce",
+                        "newk":  "毒疮",
+                        "reason":  "下疳=性器の潰瘍(\u003e\u003eulcero)。一级『毒』+『疮(できもの・潰瘍)』で感染性の瘡=中心義に到達。疳(二级)回避。"
+                    },
+                    {
+                        "root":  "seraf",
+                        "current":  "炽天使",
+                        "action":  "reduce",
+                        "newk":  "天使",
+                        "reason":  "セラフィム=最高位の天使。一级『天使』で中心義(天使)に到達。やや汎用だが許容。炽(二级)回避。"
+                    },
+                    {
+                        "root":  "sien",
+                        "current":  "赭",
+                        "action":  "reduce",
+                        "newk":  "红土",
+                        "reason":  "シエンナ=赤褐色の土性顔料。一级『红(赤)』+『土』で赤土・黄土系顔料の中心義に到達。赭(二级)回避。"
+                    },
+                    {
+                        "root":  "slang",
+                        "current":  "俚",
+                        "action":  "reduce",
+                        "newk":  "俗语",
+                        "reason":  "スラング・俗語(\u003e\u003ej^argono)。一级『俗』+『语』で俗語・口語表現=中心義に到達。俚(二级)回避。"
+                    },
+                    {
+                        "root":  "board",
+                        "current":  "戗",
+                        "action":  "reduce",
+                        "newk":  "迎风",
+                        "reason":  "まぎる=風上へジグザグ帆走(タッキング)。一级『迎(向かう)』+『风』で風に逆らい走る中心義に到達。戗(二级)回避。"
+                    },
+                    {
+                        "root":  "tenon",
+                        "current":  "榫",
+                        "action":  "reduce",
+                        "newk":  "凸",
+                        "reason":  "ほぞ=継手の突き出た凸部。一级『凸』で中心義(突出した接合部)に透明に到達できる。"
+                    },
+                    {
+                        "root":  "vaginal",
+                        "current":  "鞘",
+                        "action":  "reduce",
+                        "newk":  "套",
+                        "reason":  "解剖の鞘=組織が包む鞘・さや。一级『套』(覆い・套子)で中心義に到達できる。"
+                    },
+                    {
+                        "root":  "furunk",
+                        "current":  "疖",
+                        "action":  "reduce",
+                        "newk":  "毒疮",
+                        "reason":  "せつ/ねぶと=化膿性の腫物。一级の疮(できもの・腫物)に毒を冠し毒疮で中心義に到達。疖は一级に無い。"
+                    },
+                    {
+                        "root":  "kvast",
+                        "current":  "缨",
+                        "action":  "reduce",
+                        "newk":  "穗",
+                        "reason":  "ふさ飾り=房状の垂れ飾り。一级の穗(穗子=ふさ・たれ房)で到達。缨は一级に無い。"
+                    },
+                    {
+                        "root":  "halebard",
+                        "current":  "戟",
+                        "action":  "reduce",
+                        "newk":  "矛",
+                        "reason":  "矛槍系の長柄武器。戟は一级に無く、一级の矛(ほこ・長柄の刺突武器)で中心義に到達。"
+                    },
+                    {
+                        "root":  "h^elicer",
+                        "current":  "螯",
+                        "action":  "reduce",
+                        "newk":  "钳",
+                        "reason":  "鋏角=把握する鋏状の付属肢(glossにprenilo)。螯は一级に無く、一级の钳(はさみ・把握具)で到達。"
+                    },
+                    {
+                        "root":  "balist",
+                        "current":  "弩炮",
+                        "action":  "reduce",
+                        "newk":  "弓炮",
+                        "reason":  "バリスタ=矢石を射出する弓式攻城機。弩は一级に無く、一级の弓+炮(射出機械)で弓炮として到達。"
+                    },
+                    {
+                        "root":  "ament",
+                        "current":  "荑",
+                        "action":  "reduce",
+                        "newk":  "穗",
+                        "reason":  "尾状花序=densa spiko(密な穂)。荑は一级に無く、一级の穗(穂状)で中心義に到達。穗の同字衝突は識別子で解消。"
+                    },
+                    {
+                        "root":  "ru",
+                        "current":  "沤",
+                        "action":  "reduce",
+                        "newk":  "浸",
+                        "reason":  "繊維をとるため水に浸す=漬ける。沤は一级に無く、一级の浸(ひたす・つける)で到達。"
+                    },
+                    {
+                        "root":  "h^aos",
+                        "current":  "混沌",
+                        "action":  "reduce",
+                        "newk":  "混乱",
+                        "reason":  "=kaosa(混沌・無秩序)。沌は一级に無いが、一级の混+乱で混乱として中心義(混沌・無秩序)に透明に到達。"
+                    },
+                    {
+                        "root":  "skarlat",
+                        "current":  "绯",
+                        "action":  "reduce",
+                        "newk":  "红",
+                        "reason":  "绯は二级。中心義は赤/深紅。一级の红(赤)で透明に到達。"
+                    },
+                    {
+                        "root":  "patn",
+                        "current":  "檩",
+                        "action":  "reduce",
+                        "newk":  "梁",
+                        "reason":  "檩は二级で屋根の横梁(母屋)。一级の梁(はり)で中心義に到達。"
+                    },
+                    {
+                        "root":  "kupol",
+                        "current":  "穹顶",
+                        "action":  "reduce",
+                        "newk":  "圆顶",
+                        "reason":  "穹は二级。ドーム=丸天井。一级のみの圆顶(丸い天井)で透明に到達。"
+                    },
+                    {
+                        "root":  "frikas",
+                        "current":  "烩",
+                        "action":  "reduce",
+                        "newk":  "煮",
+                        "reason":  "烩は二级で煮込み。中心義は煮ること。一级の煮で到達(やや汎用だが中心義可)。"
+                    },
+                    {
+                        "root":  "pavez",
+                        "current":  "舷墙",
+                        "action":  "reduce",
+                        "newk":  "船墙",
+                        "reason":  "舷(二级)を船(一级)に置換。船墙=船側の壁で舷墻(bulwark)の中心義に到達。両字一级。"
+                    },
+                    {
+                        "root":  "vrak",
+                        "current":  "残骸",
+                        "action":  "reduce",
+                        "newk":  "残船",
+                        "reason":  "骸(二级)を一级で代替。残船=破船の残骸で中心義(船・乗物の難破残骸)に到達。両字一级。"
+                    },
+                    {
+                        "root":  "elitr",
+                        "current":  "鞘翅",
+                        "action":  "reduce",
+                        "newk":  "硬翅",
+                        "reason":  "鞘(二级)を硬(一级)に置換。硬翅=硬い前翅でさやばね(翅鞘)の中心義に到達。両字一级。"
+                    },
+                    {
+                        "root":  "karbunkl",
+                        "current":  "痈",
+                        "action":  "reduce",
+                        "newk":  "毒疮",
+                        "reason":  "痈(二级)を一级2字で代替。毒疮=毒性の腫れもので癰(carbuncle)の中心義に到達。両字一级。"
+                    },
+                    {
+                        "root":  "gulas^",
+                        "current":  "炖牛",
+                        "action":  "reduce",
+                        "newk":  "煮牛",
+                        "reason":  "炖(二级)を煮(一级)に置換。煮牛=煮込んだ牛肉でグラッシュ(牛肉シチュー)の中心義に到達。両字一级。"
+                    },
+                    {
+                        "root":  "pjel",
+                        "current":  "肾盂",
+                        "action":  "reduce",
+                        "newk":  "肾盆",
+                        "reason":  "盂(二级)を盆(一级)に置換。肾盆=腎臓の盆状部で腎盂(renal pelvis)の中心義に到達。両字一级。"
+                    },
+                    {
+                        "root":  "promontor",
+                        "current":  "岬",
+                        "action":  "reduce",
+                        "newk":  "海角",
+                        "reason":  "岬は二级。一级のみの海角(海に突き出た角=岬/みさき)で中心義に到達。海=2074,角=814は一级。"
+                    },
+                    {
+                        "root":  "pamflet",
+                        "current":  "檄",
+                        "action":  "reduce",
+                        "newk":  "批文",
+                        "reason":  "檄は二级。批(批判・攻撃)+文(文書)の一级2字で『批判攻撃文書』の中心義に到達。批=622,文=161は一级。"
+                    },
+                    {
+                        "root":  "tril",
+                        "current":  "啭",
+                        "action":  "reduce",
+                        "newk":  "颤歌",
+                        "reason":  "啭は二级。颤(声を震わせる)+歌(さえずる/歌う)の一级2字でトリル(声を震わせて歌う)に到達。颤=3465,歌=3084は一级。"
+                    },
+                    {
+                        "root":  "lug^",
+                        "current":  "橇",
+                        "action":  "reduce",
+                        "newk":  "雪车",
+                        "reason":  "橇は二级。一级のみの雪车(雪上をすべる車=橇/リュージュ)で中心義に到達。雪=2249,车=100は一级。"
+                    },
+                    {
+                        "root":  "link",
+                        "current":  "猞猁",
+                        "action":  "reduce",
+                        "newk":  "山猫",
+                        "reason":  "猞猁は両字とも二级。語釈の大山猫より、一级のみの山猫(オオヤマネコ)で中心義に到達。山=39,猫=2367は一级。"
+                    }
+                ],
+    "unt":  [
+                {
+                    "root":  "framb",
+                    "current":  "莓",
+                    "action":  "untargeted",
+                    "newk":  "",
+                    "reason":  "莓は二级で一级に苺類の字なし。果は汎用すぎラズベリーの中心義に届かず、一级で透明に表せないため未対応。"
+                },
+                {
+                    "root":  "angil",
+                    "current":  "鳗",
+                    "action":  "untargeted",
+                    "newk":  "",
+                    "reason":  "鳗・鳝・鳅とも二级。一级は鱼(汎用)のみでウナギを透明に表せず、別物化するため未対応(方針の鳗→未対応に一致)。"
+                },
+                {
+                    "root":  "cikoni",
+                    "current":  "鹳",
+                    "action":  "untargeted",
+                    "newk":  "",
+                    "reason":  "コウノトリは特定の大型渉禽。一级にコウノトリを指す字なし。鹤(鶴)は別種で誤読となり中心義に到達不可。鳗/鲟と同様に未対応。"
+                },
+                {
+                    "root":  "emajl",
+                    "current":  "釉",
+                    "action":  "untargeted",
+                    "newk":  "",
+                    "reason":  "ほうろう/釉薬を引く動詞。一级に釉(うわぐすり)に当たる字も透明な熟語もなく、瓷漆等は中心義と別物。未対応。"
+                },
+                {
+                    "root":  "fag",
+                    "current":  "山毛榉",
+                    "action":  "untargeted",
+                    "newk":  "",
+                    "reason":  "榉が二级。ブナは特定樹種で一级に語なし。鳗と同様、一级では中心義に到達不可。未対応。"
+                },
+                {
+                    "root":  "haring",
+                    "current":  "鲱鱼",
+                    "action":  "untargeted",
+                    "newk":  "",
+                    "reason":  "鲱が二级。ニシンは特定魚種で一级に語なし。鲟と同様未対応。"
+                },
+                {
+                    "root":  "lap",
+                    "current":  "牛蒡",
+                    "action":  "untargeted",
+                    "newk":  "",
+                    "reason":  "蒡が二级。ゴボウは特定植物種で一级に語なし。牛草等は無意味で中心義に到達不可。未対応。"
+                },
+                {
+                    "root":  "mirtel",
+                    "current":  "蓝莓",
+                    "action":  "untargeted",
+                    "newk":  "",
+                    "reason":  "莓が二级。一级に漿果(莓)を指す字なし。蓝は色のみで蓝果は造語・非透明。中心義(ビルベリー類の果実)に到達不可。未対応。"
+                },
+                {
+                    "root":  "nikel",
+                    "current":  "镍",
+                    "action":  "untargeted",
+                    "newk":  "",
+                    "reason":  "金属元素ニッケル。一级に該当字も透明な一级表現も無く、一级化は完全な別物になるため未対応。"
+                },
+                {
+                    "root":  "kobalt",
+                    "current":  "钴",
+                    "action":  "untargeted",
+                    "newk":  "",
+                    "reason":  "金属元素コバルト。一级に該当・代替が無く、一级化は誤読となるため未対応。"
+                },
+                {
+                    "root":  "magnezi",
+                    "current":  "镁",
+                    "action":  "untargeted",
+                    "newk":  "",
+                    "reason":  "元素マグネシウム(酸化マグネシウム)。一级に該当・代替が無いため未対応。"
+                },
+                {
+                    "root":  "fluor",
+                    "current":  "氟",
+                    "action":  "untargeted",
+                    "newk":  "",
+                    "reason":  "ハロゲン元素フッ素。一级に該当・代替が無いため未対応。"
+                },
+                {
+                    "root":  "arsen",
+                    "current":  "砷",
+                    "action":  "untargeted",
+                    "newk":  "",
+                    "reason":  "非金属元素ヒ素。一级に該当・代替が無いため未対応。"
+                },
+                {
+                    "root":  "liti",
+                    "current":  "锂",
+                    "action":  "untargeted",
+                    "newk":  "",
+                    "reason":  "アルカリ金属元素リチウム。一级に該当・代替が無いため未対応。"
+                },
+                {
+                    "root":  "bari",
+                    "current":  "钡",
+                    "action":  "untargeted",
+                    "newk":  "",
+                    "reason":  "金属元素バリウム(造影剤)。一级に該当・代替が無いため未対応。"
+                },
+                {
+                    "root":  "az",
+                    "current":  "酶",
+                    "action":  "untargeted",
+                    "newk":  "",
+                    "reason":  "酶は二级で酵素専用字。一级に酵素を表す字・透明な熟語が無い(素等では別物)。維持不可のため未対応。"
+                },
+                {
+                    "root":  "koral",
+                    "current":  "珊瑚",
+                    "action":  "untargeted",
+                    "newk":  "",
+                    "reason":  "瑚が二级。珊単独はサンゴを表さず、一级のみでサンゴ(海産刺胞動物/その骨格)へ透明到達する表現が無い。未対応。"
+                },
+                {
+                    "root":  "kojn",
+                    "current":  "楔",
+                    "action":  "untargeted",
+                    "newk":  "",
+                    "reason":  "楔は二级でくさび専用字。一级に楔形の道具を透明に表す単字・熟語が無い(尖等では別物)。未対応。"
+                },
+                {
+                    "root":  "cian",
+                    "current":  "氰",
+                    "action":  "untargeted",
+                    "newk":  "",
+                    "reason":  "氰は二级で系統化学字(シアン)。一级に該当語が無く、一级化すると完全な別物。未対応。"
+                },
+                {
+                    "root":  "konjug",
+                    "current":  "共轭",
+                    "action":  "untargeted",
+                    "newk":  "",
+                    "reason":  "轭が二级。共単独では数学/化学の『共役(対をなす結合)』に到達できず、一级のみの透明表現が無い。未対応。"
+                },
+                {
+                    "root":  "brom",
+                    "current":  "溴",
+                    "action":  "untargeted",
+                    "newk":  "",
+                    "reason":  "溴は二级の元素字(臭素)。一级に対応元素字が無く一级化は誤読。元素字は未対応方針。"
+                },
+                {
+                    "root":  "aldehid",
+                    "current":  "醛",
+                    "action":  "untargeted",
+                    "newk":  "",
+                    "reason":  "アルデヒドは化学官能基。一级に該当字なく、一级化すると全く別物になる。系統化学字のため未対応。"
+                },
+                {
+                    "root":  "eter",
+                    "current":  "醚",
+                    "action":  "untargeted",
+                    "newk":  "",
+                    "reason":  "エーテルは化学化合物群。一级に該当字なく、一级化は別義になる。系統化学字のため未対応。"
+                },
+                {
+                    "root":  "alo",
+                    "current":  "芦荟",
+                    "action":  "untargeted",
+                    "newk":  "",
+                    "reason":  "アロエは特定の多肉植物種。荟は二级で、一级に同義字や透明な二字熟語なし。一级化は別物になるため未対応。"
+                },
+                {
+                    "root":  "lau^s",
+                    "current":  "虱",
+                    "action":  "untargeted",
+                    "newk":  "",
+                    "reason":  "シラミ(脊椎動物・植物に寄生する非跳躍昆虫)。虱は二级で、一级に対応字なし。虫では汎用すぎ別義。未対応。"
+                },
+                {
+                    "root":  "mustel",
+                    "current":  "鼬",
+                    "action":  "untargeted",
+                    "newk":  "",
+                    "reason":  "イタチ(鼬属/イタチ・テン総称)。鼬は二级で、一级にイタチ類の字なし。狸等は別動物で誤読。未対応。"
+                },
+                {
+                    "root":  "tinus",
+                    "current":  "鲔",
+                    "action":  "untargeted",
+                    "newk":  "",
+                    "reason":  "ビンナガ(マグロ)という特定魚種。鲔は二级で一级に該当字なし(鳗・鲟と同様)。魚では汎用すぎ。未対応。"
+                },
+                {
+                    "root":  "tantal",
+                    "current":  "钽",
+                    "action":  "untargeted",
+                    "newk":  "",
+                    "reason":  "タンタル(原子番号73の金属元素)。元素字であり一级に該当なし。一级化は別物。未対応。"
+                },
+                {
+                    "root":  "kromi",
+                    "current":  "铬",
+                    "action":  "untargeted",
+                    "newk":  "",
+                    "reason":  "クロム(原子番号24の金属元素)。元素字であり一级に該当なし。一级化は別物。未対応。"
+                },
+                {
+                    "root":  "amin",
+                    "current":  "胺",
+                    "action":  "untargeted",
+                    "newk":  "",
+                    "reason":  "化学のアミン類。一级に該当字なし(氨=アンモニアで別物)。二级維持不可。"
+                },
+                {
+                    "root":  "vinil",
+                    "current":  "烯",
+                    "action":  "untargeted",
+                    "newk":  "",
+                    "reason":  "化学(アルケン/ビニル)。一级に該当字なし。二级維持不可。"
+                },
+                {
+                    "root":  "aniz",
+                    "current":  "茴",
+                    "action":  "untargeted",
+                    "newk":  "",
+                    "reason":  "特定香辛植物アニス。一级に該当語なし(香では別物・汎用過ぎ)。二级維持不可。"
+                },
+                {
+                    "root":  "urani",
+                    "current":  "铀",
+                    "action":  "untargeted",
+                    "newk":  "",
+                    "reason":  "元素ウラン。一级に元素字なし。二级維持不可。"
+                },
+                {
+                    "root":  "muskat",
+                    "current":  "肉豆蔻",
+                    "action":  "untargeted",
+                    "newk":  "",
+                    "reason":  "特定香辛料ナツメグ。核字『蔻』(二级)不可、一级に該当語なし。二级維持不可。"
+                },
+                {
+                    "root":  "sepal",
+                    "current":  "萼",
+                    "action":  "untargeted",
+                    "newk":  "",
+                    "reason":  "植物の萼片。一级に該当字なし(叶=葉で汎用過ぎ・別部位)。二级維持不可。"
+                },
+                {
+                    "root":  "amid",
+                    "current":  "酰胺",
+                    "action":  "untargeted",
+                    "newk":  "",
+                    "reason":  "化学アミド。酰・胺とも二级、一级に該当語なし。二级維持不可。"
+                },
+                {
+                    "root":  "rakit",
+                    "current":  "佝偻",
+                    "action":  "untargeted",
+                    "newk":  "",
+                    "reason":  "医学のくる病(骨変形)。佝偻とも二级、一级に該当語なし。二级維持不可。"
+                },
+                {
+                    "root":  "papav",
+                    "current":  "罂",
+                    "action":  "untargeted",
+                    "newk":  "",
+                    "reason":  "ケシ/ポピー属。罂粟の罂が二级で、一级にケシを透明に表す単字も二字熟語も無い(花は汎用過ぎ中心義に届かない)。一级で表せず未対応。"
+                },
+                {
+                    "root":  "selen",
+                    "current":  "硒",
+                    "action":  "untargeted",
+                    "newk":  "",
+                    "reason":  "セレン(元素)。元素字に一级の代替は無く、一级化は別物・誤読になる。未対応。"
+                },
+                {
+                    "root":  "neon",
+                    "current":  "氖",
+                    "action":  "untargeted",
+                    "newk":  "",
+                    "reason":  "ネオン(元素)。元素字に一级の代替は無い。未対応。"
+                },
+                {
+                    "root":  "pedik",
+                    "current":  "虱",
+                    "action":  "untargeted",
+                    "newk":  "",
+                    "reason":  "ヒトジラミ属。虱は非一级。一级で「シラミ」に透明に届く語が無い(虫=汎用過ぎ、蚤=ノミで別種・誤読)。鳗/鲟同様に未対応。"
+                },
+                {
+                    "root":  "bram",
+                    "current":  "鲂",
+                    "action":  "untargeted",
+                    "newk":  "",
+                    "reason":  "ブリーム(コイ科の特定淡水魚)。鲂は二级。一级にブリームを表す字が無く、鱼は汎用過ぎ・鲤は別種。鳗/鲟同様に未対応。"
+                },
+                {
+                    "root":  "kelat",
+                    "current":  "螯",
+                    "action":  "untargeted",
+                    "newk":  "",
+                    "reason":  "キレート(化学錯体)。螯は二级。一级の钳/夹は「やっとこ/挟む」で、化学キレート化合物の専門義としては完全な別物・誤読になる。元素字同様に未対応。"
+                },
+                {
+                    "root":  "mespil",
+                    "current":  "欧楂",
+                    "action":  "untargeted",
+                    "newk":  "",
+                    "reason":  "セイヨウカリン(メドラー)。楂が二级。一级にメドラーを表す字が無く、欧+果等は曖昧で中心義に届かない。未対応。"
+                },
+                {
+                    "root":  "makzel",
+                    "current":  "颚",
+                    "action":  "untargeted",
+                    "newk":  "",
+                    "reason":  "顎(あご)を表す一级字なし。颚/颌は二级。牙(歯)・口(口)では中心義の『あご』に到達できず別物になるため未対応。"
+                },
+                {
+                    "root":  "rut",
+                    "current":  "芸香",
+                    "action":  "untargeted",
+                    "newk":  "",
+                    "reason":  "芸は二级。Ruta(ヘンルーダ)は特定植物属。香草等の一级表現は別の汎用香草を指し中心義に到達できないため未対応。"
+                },
+                {
+                    "root":  "fenol",
+                    "current":  "酚",
+                    "action":  "untargeted",
+                    "newk":  "",
+                    "reason":  "酚は二级の系統化学字(フェノール)。一级に該当語なく、一级化すると完全な別物になるため未対応。"
+                },
+                {
+                    "root":  "brank",
+                    "current":  "鳃",
+                    "action":  "untargeted",
+                    "newk":  "",
+                    "reason":  "鳃は二级。『えら』を表す一级字なし。鱼(魚)では器官『えら』に到達できないため未対応。"
+                },
+                {
+                    "root":  "cist",
+                    "current":  "岩蔷",
+                    "action":  "untargeted",
+                    "newk":  "",
+                    "reason":  "蔷は二级。Cistus(ゴジアオイ)は特定植物属。一级に該当語なく中心義に到達できないため未対応。"
+                },
+                {
+                    "root":  "kinon",
+                    "current":  "醌",
+                    "action":  "untargeted",
+                    "newk":  "",
+                    "reason":  "醌は二级の系統化学字(キノン)。一级に該当語なく、一级化すると別物になるため未対応。"
+                },
+                {
+                    "root":  "arde",
+                    "current":  "鹭",
+                    "action":  "untargeted",
+                    "newk":  "",
+                    "reason":  "鹭は二级。Ardea(アオサギ)は特定鳥属。鸟(鳥)では汎用すぎて中心義に到達できず、一级に該当字なしのため未対応。"
+                },
+                {
+                    "root":  "fenil",
+                    "current":  "苯基",
+                    "action":  "untargeted",
+                    "newk":  "",
+                    "reason":  "苯は二级の系統化学字(フェニル基C6H5-)。一级に該当語なく、一级化すると別物になるため未対応。"
+                },
+                {
+                    "root":  "herni",
+                    "current":  "疝",
+                    "action":  "untargeted",
+                    "newk":  "",
+                    "reason":  "疝は二级。ヘルニアを表す一级字なし。病では汎用すぎ中心義に到達できないため未対応。"
+                },
+                {
+                    "root":  "perk",
+                    "current":  "鲈",
+                    "action":  "untargeted",
+                    "newk":  "",
+                    "reason":  "鲈・鲱・鳕等は二级で、パーチを表す一级魚名が無い。鱼単字では中心義に届かず誤認(鳗/鲟と同様)。"
+                },
+                {
+                    "root":  "propen",
+                    "current":  "丙烯",
+                    "action":  "untargeted",
+                    "newk":  "",
+                    "reason":  "烯(アルケン)は二级で一级に代替が無い。丙単字ではプロペン(C3H6)に到達できず別物化。系統化学名。"
+                },
+                {
+                    "root":  "aspleni",
+                    "current":  "铁角蕨",
+                    "action":  "untargeted",
+                    "newk":  "",
+                    "reason":  "蕨(シダ)は二级で一级にシダを表す字が無い。チャセンシダ属(Asplenium)の中心義に一级で到達不能。"
+                },
+                {
+                    "root":  "klupe",
+                    "current":  "鲱",
+                    "action":  "untargeted",
+                    "newk":  "",
+                    "reason":  "鲱は二级で、ニシンを表す一级魚名が無い。鱼単字では中心義に届かず誤認(鳗/鲟と同様)。"
+                },
+                {
+                    "root":  "artis^ok",
+                    "current":  "洋蓟",
+                    "action":  "untargeted",
+                    "newk":  "",
+                    "reason":  "蓟(アザミ)は二级で一级に代替が無い。アーティチョーク(チョウセンアザミ)の中心義に一级で到達不能。菜では別物化。"
+                },
+                {
+                    "root":  "gad",
+                    "current":  "鳕",
+                    "action":  "untargeted",
+                    "newk":  "",
+                    "reason":  "鳕は二级で、タラを表す一级魚名が無い。鱼単字では中心義に届かず誤認(鳗/鲟と同様)。"
+                },
+                {
+                    "root":  "alkan",
+                    "current":  "烷",
+                    "action":  "untargeted",
+                    "newk":  "",
+                    "reason":  "アルカン(飽和炭化水素CnH2n+2)は体系的化学命名の専門字。一级に烷に相当する字も透明な一级二字熟語も無く、中心義に到達不能。"
+                },
+                {
+                    "root":  "skolop",
+                    "current":  "鹬",
+                    "action":  "untargeted",
+                    "newk":  "",
+                    "reason":  "タシギ(Gallinago)という特定の渉禽種。一级は鳥/水鳥程度しか出せず種を表せない。鳗/鲟同様に未対応。"
+                },
+                {
+                    "root":  "konidi",
+                    "current":  "孢",
+                    "action":  "untargeted",
+                    "newk":  "",
+                    "reason":  "分生子(無性の真菌胞子)。一级に胞子の字が無く、一级の胞は細胞=cellで誤読。中心義に到達不能。"
+                },
+                {
+                    "root":  "betel",
+                    "current":  "蒌",
+                    "action":  "untargeted",
+                    "newk":  "",
+                    "reason":  "キンマ(Piper betle)という特定植物。一级に該当語が無く、透明な一级代替で種に到達できない。"
+                },
+                {
+                    "root":  "propan",
+                    "current":  "丙烷",
+                    "action":  "untargeted",
+                    "newk":  "",
+                    "reason":  "プロパン(C3H8)。丙は一级だがアルカンを示す烷が必須で一级に代替が無い。丙气等は誤読。中心義に到達不能。"
+                },
+                {
+                    "root":  "karbazid",
+                    "current":  "碳肼",
+                    "action":  "untargeted",
+                    "newk":  "",
+                    "reason":  "カルバジド(炭酸ジヒドラジド)。碳は一级だが肼(ヒドラジン)に一级の代替字が無く、専門化合物に到達不能。"
+                },
+                {
+                    "root":  "benzen",
+                    "current":  "苯",
+                    "action":  "untargeted",
+                    "newk":  "",
+                    "reason":  "ベンゼンの基幹字。一级にベンゼン/芳香環を表す字が無く、一级化すれば完全な別物になる。未対応。"
+                },
+                {
+                    "root":  "grapfrukt",
+                    "current":  "柚",
+                    "action":  "untargeted",
+                    "newk":  "",
+                    "reason":  "グレープフルーツ(特定の柑橘種)。一级の橘=ミカン/橙=オレンジは別果実でfalse friend。一级で種に到達不能。"
+                },
+                {
+                    "root":  "angelik",
+                    "current":  "欧白芷",
+                    "action":  "untargeted",
+                    "newk":  "",
+                    "reason":  "芷は二级。アンゼリカ(シシウド属)は特定の植物で、一级に該当字も透明な一级二字熟語も無く、一级化すると別物になる。"
+                },
+                {
+                    "root":  "majn",
+                    "current":  "鹩哥",
+                    "action":  "untargeted",
+                    "newk":  "",
+                    "reason":  "鹩は二级。キュウカンチョウは特定の鳴き鳥で、鸟だけでは汎用過ぎ、一级で中心義に到達する透明な代替が無い。"
+                },
+                {
+                    "root":  "oksiur",
+                    "current":  "蛲",
+                    "action":  "untargeted",
+                    "newk":  "",
+                    "reason":  "蛲は二级。蟯虫(ピンワーム)は特定の寄生線虫で、虫では汎用過ぎ、一级に該当字が無い(鳗/鲟と同様)。"
+                },
+                {
+                    "root":  "butan",
+                    "current":  "丁烷",
+                    "action":  "untargeted",
+                    "newk":  "",
+                    "reason":  "烷(アルカン)は系統化学字で一级に無い。ブタンは特定アルカンで一级では中心義に到達不能。"
+                },
+                {
+                    "root":  "karadri",
+                    "current":  "鸻",
+                    "action":  "untargeted",
+                    "newk":  "",
+                    "reason":  "鸻は二级。チドリは特定の渉禽で、鸟では汎用過ぎ、一级で透明に表せる代替が無い。"
+                },
+                {
+                    "root":  "hemoroid",
+                    "current":  "痔",
+                    "action":  "untargeted",
+                    "newk":  "",
+                    "reason":  "痔は一级に無い特定疾患。一级の肛+肿/瘤等では別概念(肛門腫瘍等)となり誤読、透明な一级代替が無い。"
+                },
+                {
+                    "root":  "cianat",
+                    "current":  "氰酸",
+                    "action":  "untargeted",
+                    "newk":  "",
+                    "reason":  "氰(シアノ/CN基)は系統化学字で一级に無い。シアン酸は一级では中心義に到達不能。"
+                },
+                {
+                    "root":  "aceton",
+                    "current":  "丙酮",
+                    "action":  "untargeted",
+                    "newk":  "",
+                    "reason":  "酮(ケトン基)は系統化学字で一级に無い。アセトンは最簡ケトンで一级では中心義に到達不能。"
+                },
+                {
+                    "root":  "salm",
+                    "current":  "鲑",
+                    "action":  "untargeted",
+                    "newk":  "",
+                    "reason":  "鲑は二级でサケ属の特定魚種。一级には鱼しかなく汎用すぎ別物になる。鳗・鲟同様、一级で種に到達不能。"
+                },
+                {
+                    "root":  "peptid",
+                    "current":  "肽",
+                    "action":  "untargeted",
+                    "newk":  "",
+                    "reason":  "肽は二级の系統化学用語(ペプチド)。一级に対応字・対応語が無く、一级化すると別概念になる。"
+                },
+                {
+                    "root":  "ermen",
+                    "current":  "白鼬",
+                    "action":  "untargeted",
+                    "newk":  "",
+                    "reason":  "鼬(イタチ)は二级、貂も表外。白は一级だが種を担う字が一级に無く、オコジョ/アーミンの中心義に一级で到達不能。"
+                },
+                {
+                    "root":  "veratr",
+                    "current":  "藜芦",
+                    "action":  "untargeted",
+                    "newk":  "",
+                    "reason":  "藜は二级、芦(一级)はアシで誤義。バイケイソウという特定有毒植物を一级のみで透明に表せない。"
+                },
+                {
+                    "root":  "rukt",
+                    "current":  "嗝",
+                    "action":  "untargeted",
+                    "newk":  "",
+                    "reason":  "げっぷの専用字(嗝・嗳・呃・噎)はいずれも二级以上。吐/呕(一级)は嘔吐で別動作になり誤義。一级で到達不能。"
+                },
+                {
+                    "root":  "pentan",
+                    "current":  "戊烷",
+                    "action":  "untargeted",
+                    "newk":  "",
+                    "reason":  "烷(アルカン)は二级の系統化学字で一级に対応無し。戊は一级だが烷を一级化できず、ペンタンに到達不能。"
+                },
+                {
+                    "root":  "gerani",
+                    "current":  "天竺葵",
+                    "action":  "untargeted",
+                    "newk":  "",
+                    "reason":  "竺は二级。葵(一级)単独はアオイ/ヒマワリで別種。フウロソウ/ゼラニウムの特定園芸種を一级のみで透明に表せない。"
+                },
+                {
+                    "root":  "epilepsi",
+                    "current":  "痫",
+                    "action":  "untargeted",
+                    "newk":  "",
+                    "reason":  "てんかんを表す一级字は存在せず、一级では中心義に到達不可。二级維持不可のため未対応。"
+                },
+                {
+                    "root":  "keton",
+                    "current":  "酮",
+                    "action":  "untargeted",
+                    "newk":  "",
+                    "reason":  "ケトン基(C=O)を表す系統化学字。一级に該当字なし、一级化は別物となる。未対応。"
+                },
+                {
+                    "root":  "oktan",
+                    "current":  "辛烷",
+                    "action":  "untargeted",
+                    "newk":  "",
+                    "reason":  "烷(二级)はアルカン系統字。一级にアルカン相当字なし、一级では表せない。未対応。"
+                },
+                {
+                    "root":  "indi",
+                    "current":  "铟",
+                    "action":  "untargeted",
+                    "newk":  "",
+                    "reason":  "インジウム(元素番号49)の元素字。一级に該当元素字なく、一级化は誤読・別物。未対応。"
+                },
+                {
+                    "root":  "sole",
+                    "current":  "鳎",
+                    "action":  "untargeted",
+                    "newk":  "",
+                    "reason":  "シタビラメ(特定種)。一级の鱼は汎用すぎて種を失い、鳎相当の一级語なし。鳗等同様に未対応。"
+                },
+                {
+                    "root":  "heli",
+                    "current":  "氦",
+                    "action":  "untargeted",
+                    "newk":  "",
+                    "reason":  "ヘリウム元素字。一级に該当元素字なく、一级化は別物。未対応。"
+                },
+                {
+                    "root":  "pampelmus",
+                    "current":  "柚",
+                    "action":  "untargeted",
+                    "newk":  "",
+                    "reason":  "ザボン/ブンタン(大型柑橘の特定種)。一级に該当する果実字・語なし。未対応。"
+                },
+                {
+                    "root":  "toluen",
+                    "current":  "甲苯",
+                    "action":  "untargeted",
+                    "newk":  "",
+                    "reason":  "苯はベンゼン環を表す系統化学字。トルエンの中心義(メチルベンゼン)は一级に対応字がなく、甲だけでは別物になる。"
+                },
+                {
+                    "root":  "tibi",
+                    "current":  "胫",
+                    "action":  "untargeted",
+                    "newk":  "",
+                    "reason":  "胫は二级。脛骨という膝下の解剖学的特定部位。一级に脛を透明に表す字がなく、腿(もも)・脚(あし全体)では誤読となる。"
+                },
+                {
+                    "root":  "etan",
+                    "current":  "乙烷",
+                    "action":  "untargeted",
+                    "newk":  "",
+                    "reason":  "烷はアルカンを表す系統化学字で二级。エタンの中心義は一级に対応字がなく到達できない。"
+                },
+                {
+                    "root":  "bismut",
+                    "current":  "铋",
+                    "action":  "untargeted",
+                    "newk":  "",
+                    "reason":  "铋は元素字(二级)。ビスマスを表す一级字は存在せず、一级化すると完全な別物になる。"
+                },
+                {
+                    "root":  "pelikan",
+                    "current":  "鹈鹕",
+                    "action":  "untargeted",
+                    "newk":  "",
+                    "reason":  "鹈鹕は特定の大型水鳥種を表す二级字。一级に該当字がなく、鸟だけでは汎用すぎてペリカンの中心義に到達できない。"
+                },
+                {
+                    "root":  "akar",
+                    "current":  "螨",
+                    "action":  "untargeted",
+                    "newk":  "",
+                    "reason":  "螨は二级。ダニという微小節足動物の中心義に一级で到達できる字がなく、虫では汎用すぎて別物になる。"
+                },
+                {
+                    "root":  "anhidrid",
+                    "current":  "酐",
+                    "action":  "untargeted",
+                    "newk":  "",
+                    "reason":  "酐は酸無水物を表す化学術語字(二级)。無水物という物質名を透明に表す一级表現がなく、无水では形容詞的で物質名にならない。"
+                },
+                {
+                    "root":  "niob",
+                    "current":  "铌",
+                    "action":  "untargeted",
+                    "newk":  "",
+                    "reason":  "元素Nb。一级に元素字なく、置換すれば別物。維持不可のため未対応。"
+                },
+                {
+                    "root":  "acetil",
+                    "current":  "乙酰",
+                    "action":  "untargeted",
+                    "newk":  "",
+                    "reason":  "アセチル基(CH3CO-)。酰(アシル)に一级形なし。乙基ではエチルで別物。中心義に一级で到達不能。"
+                },
+                {
+                    "root":  "petromiz",
+                    "current":  "鳃鳗",
+                    "action":  "untargeted",
+                    "newk":  "",
+                    "reason":  "ヤツメウナギ。鳃・鳗とも二级。無顎の特定種で一级に魚種字なし。鱼単独は別物。未対応(鳗の方針に準拠)。"
+                },
+                {
+                    "root":  "salmon",
+                    "current":  "鲑",
+                    "action":  "untargeted",
+                    "newk":  "",
+                    "reason":  "サケ。鲑は二级。特定魚種で一级に該当字なし。鱼単独では別物。未対応(鳗/鲟の方針に準拠)。"
+                },
+                {
+                    "root":  "irid",
+                    "current":  "鸢尾",
+                    "action":  "untargeted",
+                    "newk":  "",
+                    "reason":  "鸢は二级。アヤメ(Iris属)は特定の花。一级で透明に表せる代替が無く、紫花等は汎用すぎて中心義(特定の花)に到達できない。二级維持不可のため未対応。"
+                },
+                {
+                    "root":  "moru",
+                    "current":  "鳕",
+                    "action":  "untargeted",
+                    "newk":  "",
+                    "reason":  "鳕は二级。タラは特定魚種で一级に語が無い。海鱼等は別物・汎用すぎ。鳗→未対応の方針に同じ。二级維持不可。"
+                },
+                {
+                    "root":  "unc",
+                    "current":  "盎",
+                    "action":  "untargeted",
+                    "newk":  "",
+                    "reason":  "盎は二级(盎司=音訳的)。オンスは度量単位で一级にすると両/钱/斤等の別単位になり誤読。一级表現が存在せず未対応。"
+                },
+                {
+                    "root":  "kornus",
+                    "current":  "山茱萸",
+                    "action":  "untargeted",
+                    "newk":  "",
+                    "reason":  "茱萸は二级。ミズキ(Cornus属)は特定植物属。一级で特定属に到達する透明表現が無く、树/木は汎用すぎ。二级維持不可。"
+                },
+                {
+                    "root":  "argonau^t",
+                    "current":  "船蛸",
+                    "action":  "untargeted",
+                    "newk":  "",
+                    "reason":  "蛸は二级。タコブネ(Argonauta属)は特定のタコ属。一级で特定属に到達する透明表現が無い。二级維持不可で未対応。"
+                },
+                {
+                    "root":  "butilhidroksi",
+                    "current":  "丁羟",
+                    "action":  "untargeted",
+                    "newk":  "",
+                    "reason":  "羟は二级(ヒドロキシ=系統化学字)。一级にヒドロキシ基を表す字が無く、一级化すると完全な別物になる。系統化学字のため未対応。"
+                },
+                {
+                    "root":  "perdrik",
+                    "current":  "鸪",
+                    "action":  "untargeted",
+                    "newk":  "",
+                    "reason":  "鸪は二级。ヤマウズラ(属)は特定の鳥種。一级化すると山鸡=キジ等の別鳥に誤読。透明な一级表現が無く、鲟→未対応に同じ。二级維持不可。"
+                },
+                {
+                    "root":  "radium",
+                    "current":  "镭",
+                    "action":  "untargeted",
+                    "newk":  "",
+                    "reason":  "ラジウム(原子番号88)の元素字。镭は二级で一级に対応字なし。一级化すると別物・誤読となるため未対応。"
+                },
+                {
+                    "root":  "platenat",
+                    "current":  "铂",
+                    "action":  "untargeted",
+                    "newk":  "",
+                    "reason":  "白金(プラチナ)の元素字。铂は二级で一级に白金を表す字なし。一级では中心義に到達できず未対応。"
+                },
+                {
+                    "root":  "karbazon",
+                    "current":  "碳肼缩",
+                    "action":  "untargeted",
+                    "newk":  "",
+                    "reason":  "カルバゾン(ケトン/アルデヒドとカルバジドの反応生成物)。肼=ヒドラジン(二级)・缩=縮合で、ヒドラジンに相当する一级字が無い系統化学名。未対応。"
+                },
+                {
+                    "root":  "kromiat",
+                    "current":  "铬",
+                    "action":  "untargeted",
+                    "newk":  "",
+                    "reason":  "クロム酸塩/重クロム酸塩。铬=クロム元素字(二级)で一级に対応字なし。一级化は別元素・誤読となるため未対応。"
+                },
+                {
+                    "root":  "ozid",
+                    "current":  "苷",
+                    "action":  "untargeted",
+                    "newk":  "",
+                    "reason":  "配糖体(加水分解で単糖を生じる物質)。苷は二级、専門化学概念で一级に透明な対応語なし(糖は別概念)。未対応。"
+                },
+                {
+                    "root":  "piknidi",
+                    "current":  "孢器",
+                    "action":  "untargeted",
+                    "newk":  "",
+                    "reason":  "分生子殻(ピクニジウム)。孢=胞子(二级)・器(二级)を含む専門菌学構造で、一级に透明な対応表現なし。未対応。"
+                },
+                {
+                    "root":  "nukleaz",
+                    "current":  "核酸酶",
+                    "action":  "untargeted",
+                    "newk":  "",
+                    "reason":  "ヌクレアーゼ(核酸分解酵素)。核・酸は一级だが酶=酵素は二级で一级に酵素を表す字なし。中核義に必須の酶が一级化不能のため未対応。"
+                },
+                {
+                    "root":  "kokleari",
+                    "current":  "岩荠",
+                    "action":  "untargeted",
+                    "newk":  "",
+                    "reason":  "トモシリソウ属(Cochlearia)。荠(二级)を含む特定植物属で、一级にすると草等の汎称となり別物。中心義に到達できず未対応。"
+                },
+                {
+                    "root":  "izentrop",
+                    "current":  "等熵",
+                    "action":  "untargeted",
+                    "newk":  "",
+                    "reason":  "等エントロピーの。熵=エントロピー(二级)で一级に対応字なし。等のみでは「同じ」の意となり物理概念を喪失するため未対応。"
+                },
+                {
+                    "root":  "eu^forbi",
+                    "current":  "大戟",
+                    "action":  "untargeted",
+                    "newk":  "",
+                    "reason":  "トウダイグサ属(Euphorbia)。戟(二级)を含む特定植物属の確立名で、一级化すると別物・誤読。中心義に到達できず未対応。"
+                },
+                {
+                    "root":  "alken",
+                    "current":  "烯",
+                    "action":  "untargeted",
+                    "newk":  "",
+                    "reason":  "烯は系統化学の接尾字(アルケン/-ene)。一级に該当字なし。汎用一级では不飽和炭化水素の中心義に到達できず別物になるため未対応。"
+                },
+                {
+                    "root":  "ricin",
+                    "current":  "蓖麻",
+                    "action":  "untargeted",
+                    "newk":  "",
+                    "reason":  "蓖が二级。蓖麻はトウゴマ(Ricinus)を特定する語で、麻単独は大麻、油麻はゴマを指し別物になる。一级にヒマを表す字がなく未対応。"
+                },
+                {
+                    "root":  "reni",
+                    "current":  "铼",
+                    "action":  "untargeted",
+                    "newk":  "",
+                    "reason":  "铼は元素レニウム(Re)の元素字。一级に該当字なし、汎用字では誤読となるため未対応。"
+                },
+                {
+                    "root":  "alcioni",
+                    "current":  "软珊瑚",
+                    "action":  "untargeted",
+                    "newk":  "",
+                    "reason":  "瑚が二级。珊瑚は珊瑚で一語をなし、珊単独では珊瑚を意味しない。一级に『珊瑚』を表す手段がなく軟珊瑚の中心義に到達できないため未対応。"
+                },
+                {
+                    "root":  "trombidi",
+                    "current":  "螨",
+                    "action":  "untargeted",
+                    "newk":  "",
+                    "reason":  "螨が二级。一级のダニ字なし。虫は最汎用の昆虫/虫一般でダニ(微小なクモ綱寄生虫)の中心義に到達できず別物になるため未対応。"
+                },
+                {
+                    "root":  "akril",
+                    "current":  "丙烯",
+                    "action":  "untargeted",
+                    "newk":  "",
+                    "reason":  "烯が二级で不飽和(プロペニル基)を担う中核字。丙(一级)だけではC3=プロピル基となり不飽和の意が失われアクリルに到達しない。系統化学のため未対応。"
+                },
+                {
+                    "root":  "borat",
+                    "current":  "硼酸",
+                    "action":  "untargeted",
+                    "newk":  "",
+                    "reason":  "硼(ホウ素)が二级。一级にホウ素を表す元素字がなく、酸だけでは硼酸塩(ボレート)の中心義に到達できないため未対応。"
+                },
+                {
+                    "root":  "anet",
+                    "current":  "莳萝",
+                    "action":  "untargeted",
+                    "newk":  "",
+                    "reason":  "莳が二级でディルの同定を担う。萝は一级だが単独では蘿蔔(大根)等を連想させディルを意味しない。一级にディルを表す字がなく未対応。"
+                },
+                {
+                    "root":  "blat",
+                    "current":  "蟑螂",
+                    "action":  "untargeted",
+                    "newk":  "",
+                    "reason":  "蟑・螂とも二级。一级にゴキブリを表す字なし。虫は最汎用の虫一般でゴキブリの中心義に到達せず別物になるため未対応。"
+                },
+                {
+                    "root":  "katekol",
+                    "current":  "儿茶酚",
+                    "action":  "untargeted",
+                    "newk":  "",
+                    "reason":  "酚(フェノール基)は二级。化学基「酚」に相当する一级字が存在せず、カテコールの中心義に一级で到達不可。"
+                },
+                {
+                    "root":  "pepsin",
+                    "current":  "胃酶",
+                    "action":  "untargeted",
+                    "newk":  "",
+                    "reason":  "酶(酵素)は二级。「酵素」を表す一级字がなく、胃単独では『胃』の意で酵素=ペプシンに到達できない。"
+                },
+                {
+                    "root":  "mefit",
+                    "current":  "臭鼬",
+                    "action":  "untargeted",
+                    "newk":  "",
+                    "reason":  "鼬(イタチ)は二级。スカンク/イタチを表す一级の動物字がなく、臭単独では『臭い』の意のみで種に到達不可。"
+                },
+                {
+                    "root":  "telur",
+                    "current":  "碲",
+                    "action":  "untargeted",
+                    "newk":  "",
+                    "reason":  "碲は二级の元素字。テルル(原子番号52)に相当する一级字がなく、一级化は別物になる。"
+                },
+                {
+                    "root":  "mugil",
+                    "current":  "鲻",
+                    "action":  "untargeted",
+                    "newk":  "",
+                    "reason":  "鲻は二级。ボラの特定魚種に相当する一级字がなく、鱼単独では汎用すぎて別物。鳗/鲟と同様一级で表せない。"
+                },
+                {
+                    "root":  "sukcen",
+                    "current":  "琥珀",
+                    "action":  "untargeted",
+                    "newk":  "",
+                    "reason":  "琥・珀とも二级。琥珀(化石樹脂の特定物質)を透明に表す一级語がなく、樹脂(松脂)では化石でない別物になる。"
+                },
+                {
+                    "root":  "kareks",
+                    "current":  "薹",
+                    "action":  "untargeted",
+                    "newk":  "",
+                    "reason":  "薹は二级。スゲ(Carex属)の特定植物に相当する一级字がなく、草では汎用すぎてスゲの中心義に到達できない。"
+                },
+                {
+                    "root":  "molibden",
+                    "current":  "钼",
+                    "action":  "untargeted",
+                    "newk":  "",
+                    "reason":  "元素字。モリブデンを表す一级字は存在せず、一级化すると別物になる。二级維持不可のため未対応。"
+                },
+                {
+                    "root":  "prognat",
+                    "current":  "突颚",
+                    "action":  "untargeted",
+                    "newk":  "",
+                    "reason":  "颚は二级。顎(makzelo)を表す一级字(颚/腭/颌)が無く、突嘴等にすると鼻口部(snout)と別物・誤読。一级で中心義(前突した顎)に到達不能。"
+                },
+                {
+                    "root":  "rubus",
+                    "current":  "莓",
+                    "action":  "untargeted",
+                    "newk":  "",
+                    "reason":  "莓は二级。キイチゴ/ブラックベリー(Rubus属)の特定漿果を表す一级字が無く、果(fruit)では汎用過ぎ別物。特定種につき未対応。"
+                },
+                {
+                    "root":  "acipenser",
+                    "current":  "鲟",
+                    "action":  "untargeted",
+                    "newk":  "",
+                    "reason":  "鲟は二级。チョウザメ(Acipenser属)を表す一级魚名が無い。例示通り鲟→未対応。"
+                },
+                {
+                    "root":  "pluvi",
+                    "current":  "鸻",
+                    "action":  "untargeted",
+                    "newk":  "",
+                    "reason":  "鸻は二级。チドリ(Charadrius等)を表す一级鳥名が無い特定種。一级化は別物となるため未対応。"
+                },
+                {
+                    "root":  "kondil",
+                    "current":  "髁",
+                    "action":  "untargeted",
+                    "newk":  "",
+                    "reason":  "髁は二级。関節の球状隆起(顆)を表す一级解剖字が無く、骨では汎用過ぎ別物。専門概念につき未対応。"
+                },
+                {
+                    "root":  "lici",
+                    "current":  "枸杞",
+                    "action":  "untargeted",
+                    "newk":  "",
+                    "reason":  "クコ(Lycium)は特定の薬用低木で、一级に該当字が無い。草/果/树では中心義(クコという種)に到達できず別物になるため未対応。"
+                },
+                {
+                    "root":  "alkin",
+                    "current":  "炔",
+                    "action":  "untargeted",
+                    "newk":  "",
+                    "reason":  "アルキン(三重結合炭化水素)は系統的化学命名で、炔に当たる一级字が存在しない。一级では別概念になるため未対応。"
+                },
+                {
+                    "root":  "apterig",
+                    "current":  "鹬鸵",
+                    "action":  "untargeted",
+                    "newk":  "",
+                    "reason":  "キーウィ(Apteryx,NZの無翼鳥)は特定属。一级『鸵鸟』は別種(ダチョウ)で誤読、『鸟』は汎用過ぎて中心義に届かないため未対応。"
+                },
+                {
+                    "root":  "demodeks",
+                    "current":  "蠕螨",
+                    "action":  "untargeted",
+                    "newk":  "",
+                    "reason":  "Demodexはダニ(螨/akaro)。一级に螨(ダニ)字が無く、蠕虫にすると別分類群(蠕虫=helminth)へ誤読するため未対応。"
+                },
+                {
+                    "root":  "kobitid",
+                    "current":  "鳅",
+                    "action":  "untargeted",
+                    "newk":  "",
+                    "reason":  "ドジョウは特定の底生小魚で、鳅に当たる一级字が無い。鱼は汎用過ぎて中心義(ドジョウ)に届かないため未対応(鳗と同様)。"
+                },
+                {
+                    "root":  "vizon",
+                    "current":  "水貂",
+                    "action":  "untargeted",
+                    "newk":  "",
+                    "reason":  "ミンク(半水生のイタチ科)。貂/鼬/獭等の該当字が一级に無く、水単独や水鼠では中心義(ミンク)に届かず誤読するため未対応。"
+                },
+                {
+                    "root":  "sorp",
+                    "current":  "花楸",
+                    "action":  "untargeted",
+                    "newk":  "",
+                    "reason":  "楸は二级。ナナカマド(Sorbus)は特定樹種で一级に語が無く、一级化すると全くの別物・過度に汎用化。二级維持不可のため未対応。"
+                },
+                {
+                    "root":  "lipaz",
+                    "current":  "脂酶",
+                    "action":  "untargeted",
+                    "newk":  "",
+                    "reason":  "酶は二级。『酵素』を表す字が一级に存在せず、リパーゼの中心義(脂質加水分解酵素)に一级で到達不能。系統化学・生化学字のため未対応。"
+                },
+                {
+                    "root":  "busprit",
+                    "current":  "斜桅",
+                    "action":  "untargeted",
+                    "newk":  "",
+                    "reason":  "桅は二级。一级に『檣(マスト)』を表す字が無く、バウスプリット(船首の斜檣)の中心義に到達不能。斜帆では帆と誤読し別物。未対応。"
+                },
+                {
+                    "root":  "maksil",
+                    "current":  "颌",
+                    "action":  "untargeted",
+                    "newk":  "",
+                    "reason":  "颌は二级。『顎骨(上顎)』を表す字が一级に無く、牙・齿は歯で別物(誤読)。中心義に一级で到達不能のため未対応。"
+                },
+                {
+                    "root":  "kalmar",
+                    "current":  "鱿",
+                    "action":  "untargeted",
+                    "newk":  "",
+                    "reason":  "鱿は二级。イカ専用字で一级に語が無く、鱼は魚で別物(イカは頭足類)。海鱼等は誤読かつ過度に汎用。中心義到達不能で未対応。"
+                },
+                {
+                    "root":  "ftal",
+                    "current":  "苯酐",
+                    "action":  "untargeted",
+                    "newk":  "",
+                    "reason":  "苯・酐とも二级/系統化学字。一级にベンゼン・無水物を表す字が無く、フタル酸無水物/フタリル基の中心義に到達不能。未対応。"
+                },
+                {
+                    "root":  "fosforil",
+                    "current":  "磷酰",
+                    "action":  "untargeted",
+                    "newk":  "",
+                    "reason":  "酰は二级(アシル基の系統化学字)。一级に該当字が無く、磷(一级)だけではホスホリル基の中心義に到達不能。未対応。"
+                },
+                {
+                    "root":  "sporotrik",
+                    "current":  "孢子丝菌",
+                    "action":  "untargeted",
+                    "newk":  "",
+                    "reason":  "Sporothrixは不完全菌の特定属。一级では真菌/霉菌など属名と無関係な総称にしかならず中心義(特定属)に到達不可。二级維持も不可のため未対応。"
+                },
+                {
+                    "root":  "kivi",
+                    "current":  "鹬鸵",
+                    "action":  "untargeted",
+                    "newk":  "",
+                    "reason":  "キウイは特定の飛べないNZ鳥。一级の鸵は鸵鸟(ダチョウ)で誤読、鸟は過度に総称的。一级で種同定不可のため未対応。"
+                },
+                {
+                    "root":  "alkadien",
+                    "current":  "二烯",
+                    "action":  "untargeted",
+                    "newk":  "",
+                    "reason":  "二重結合2つの不飽和炭化水素(系統化学命名)。烯(アルケン)も烃(炭化水素)も一级に無く、一级では化学的中心義に到達不可。未対応。"
+                },
+                {
+                    "root":  "skombr",
+                    "current":  "鲐",
+                    "action":  "untargeted",
+                    "newk":  "",
+                    "reason":  "サバ(Scomber属)の特定魚。一级の青鱼は別魚(黒鯇)で誤、鱼は総称的すぎ。一级にサバ相当語が無く鳗/鲟同様に未対応。"
+                },
+                {
+                    "root":  "anchov",
+                    "current":  "鳀",
+                    "action":  "untargeted",
+                    "newk":  "",
+                    "reason":  "アンチョビ/カタクチイワシ(Engraulis)の特定小魚。沙丁鱼はイワシで別物、一级にアンチョビ相当語が無く未対応。"
+                },
+                {
+                    "root":  "tili",
+                    "current":  "椴",
+                    "action":  "untargeted",
+                    "newk":  "",
+                    "reason":  "ボダイジュ/シナノキ(Tilia)の特定樹属。一级の菩提树はFicus religiosaで別種、Tiliaを一级で同定不可のため未対応。"
+                },
+                {
+                    "root":  "osmi",
+                    "current":  "锇",
+                    "action":  "untargeted",
+                    "newk":  "",
+                    "reason":  "锇は二级。オスミウム(元素76)に対応する一级字が存在せず、一级化すると完全な別物・誤読になる。元素字のため未対応。"
+                },
+                {
+                    "root":  "gali",
+                    "current":  "镓",
+                    "action":  "untargeted",
+                    "newk":  "",
+                    "reason":  "镓は二级。ガリウム(元素31)に対応する一级字が存在せず、一级化すると完全な別物・誤読になる。元素字のため未対応。"
+                },
+                {
+                    "root":  "etilen",
+                    "current":  "乙烯",
+                    "action":  "untargeted",
+                    "newk":  "",
+                    "reason":  "烯は二级。エチレンの-ene(烯)系統化学命名に対応する一级字が存在しない。一级化すると別物になる特定化合物のため未対応。"
+                },
+                {
+                    "root":  "eten",
+                    "current":  "乙烯",
+                    "action":  "untargeted",
+                    "newk":  "",
+                    "reason":  "烯は二级。エテン(エチレンCH2=CH2)の-ene(烯)系統化学命名に対応する一级字が存在しない。一级化すると別物になる特定化合物のため未対応。"
+                },
+                {
+                    "root":  "lantan",
+                    "current":  "镧",
+                    "action":  "untargeted",
+                    "newk":  "",
+                    "reason":  "元素ランタン(La,57)。一级に元素字なく、一级化すると別物・誤読。未対応。"
+                },
+                {
+                    "root":  "nukleotid",
+                    "current":  "核苷酸",
+                    "action":  "untargeted",
+                    "newk":  "",
+                    "reason":  "ヌクレオチド。系統生化学語で苷(二级)が要。一级の『核酸』では核酸(高分子)になり別物。未対応。"
+                },
+                {
+                    "root":  "koril",
+                    "current":  "榛",
+                    "action":  "untargeted",
+                    "newk":  "",
+                    "reason":  "ハシバミ(Corylus,特定属)。一级にハシバミの語なく、木/树では完全に汎用化し中心義を失う。未対応。"
+                },
+                {
+                    "root":  "putor",
+                    "current":  "林鼬",
+                    "action":  "untargeted",
+                    "newk":  "",
+                    "reason":  "ケナガイタチ(イタチ科,特定種)。一级にイタチ/鼬類の字なく、鼠等は別動物で誤読。未対応。"
+                },
+                {
+                    "root":  "steroid",
+                    "current":  "甾",
+                    "action":  "untargeted",
+                    "newk":  "",
+                    "reason":  "系統化学(ステロイド骨格)の専門字。一级に該当語なく、一级化すると完全な別物になるため未対応。"
+                },
+                {
+                    "root":  "helebor",
+                    "current":  "嚏根草",
+                    "action":  "untargeted",
+                    "newk":  "",
+                    "reason":  "ヘレボルス(クリスマスローズ)属の特定植物。一级に種名表現がなく中心義に到達できないため未対応。"
+                },
+                {
+                    "root":  "kurm",
+                    "current":  "花楸",
+                    "action":  "untargeted",
+                    "newk":  "",
+                    "reason":  "ナナカマド類の梨形の果実(sorbo)という特定植物種。一级に該当語がなく未対応。"
+                },
+                {
+                    "root":  "kenopodi",
+                    "current":  "藜",
+                    "action":  "untargeted",
+                    "newk":  "",
+                    "reason":  "アカザ属の特定植物。一级に種名表現がなく中心義に到達できないため未対応。"
+                },
+                {
+                    "root":  "kalikl",
+                    "current":  "副萼",
+                    "action":  "untargeted",
+                    "newk":  "",
+                    "reason":  "副萼=花のがく構造。『萼』に当たる一级字がなく、一级化すると別物になるため未対応。"
+                },
+                {
+                    "root":  "roku",
+                    "current":  "胭",
+                    "action":  "untargeted",
+                    "newk":  "",
+                    "reason":  "ベニノキ由来カロテノイド色素(annatto)という特定染料物質。一级化(红等)では色一般になり別物。未対応。"
+                },
+                {
+                    "root":  "oks",
+                    "current":  "犍",
+                    "action":  "untargeted",
+                    "newk":  "",
+                    "reason":  "去勢した雄牛。一级に去勢を表す字がなく、公牛では去勢前の雄牛で逆義・誤読となるため未対応。"
+                },
+                {
+                    "root":  "ingven",
+                    "current":  "疝",
+                    "action":  "untargeted",
+                    "newk":  "",
+                    "reason":  "鼠径ヘルニア(脱腸)。一级にヘルニアを単字で表す字がなく中心義に到達できないため未対応。"
+                },
+                {
+                    "root":  "kinaz",
+                    "current":  "激酶",
+                    "action":  "untargeted",
+                    "newk":  "",
+                    "reason":  "キナーゼ=リン酸転移酵素。酶(酵素)は一级に無く、一级化すると酵素概念に到達不能で完全な別物となる。"
+                },
+                {
+                    "root":  "glazur",
+                    "current":  "釉",
+                    "action":  "untargeted",
+                    "newk":  "",
+                    "reason":  "うわ薬(陶磁の釉薬)。釉は一级に無く、瓷(磁器)等で代替すると別物・誤読。一级表現が存在しない。"
+                },
+                {
+                    "root":  "sulfon",
+                    "current":  "砜",
+                    "action":  "untargeted",
+                    "newk":  "",
+                    "reason":  "スルホンは系統化学語。一级に該当語なく(硫は硫黄で別物)、一级表現が存在しない。"
+                },
+                {
+                    "root":  "poloni",
+                    "current":  "钋",
+                    "action":  "untargeted",
+                    "newk":  "",
+                    "reason":  "元素ポロニウムの専用字。一级に該当字がなく代替不能。"
+                },
+                {
+                    "root":  "kadmi",
+                    "current":  "镉",
+                    "action":  "untargeted",
+                    "newk":  "",
+                    "reason":  "元素カドミウムの専用字。一级に該当字なく代替不能。"
+                },
+                {
+                    "root":  "silur",
+                    "current":  "鲇",
+                    "action":  "untargeted",
+                    "newk":  "",
+                    "reason":  "ナマズの特定魚種。一级に該当魚字がなく、一级化は別物・不可(鳗/鲟と同様)。"
+                },
+                {
+                    "root":  "ftalein",
+                    "current":  "酞",
+                    "action":  "untargeted",
+                    "newk":  "",
+                    "reason":  "フタレインは系統化学語。一级に該当語なく一级表現が存在しない。"
+                },
+                {
+                    "root":  "mel",
+                    "current":  "獾",
+                    "action":  "untargeted",
+                    "newk":  "",
+                    "reason":  "アナグマの特定動物種。一级に該当獣字がなく代替不能。"
+                },
+                {
+                    "root":  "anilin",
+                    "current":  "苯胺",
+                    "action":  "untargeted",
+                    "newk":  "",
+                    "reason":  "アニリンは特定有機化合物。苯・胺とも二级で代替不能、一级に該当語なし。一级にすると別物となる。"
+                },
+                {
+                    "root":  "simbrank",
+                    "current":  "合鳃",
+                    "action":  "untargeted",
+                    "newk":  "",
+                    "reason":  "Synbranchus属(合鳃魚)の特定分類群。鳃(二级)を含み一级に該当語なし。一级では別物となる。"
+                },
+                {
+                    "root":  "ciper",
+                    "current":  "莎",
+                    "action":  "untargeted",
+                    "newk":  "",
+                    "reason":  "Cyperus(莎草)属の特定植物属。莎は二级、一级で透明に表せず草等では別物。該当一级なし。"
+                },
+                {
+                    "root":  "zibel",
+                    "current":  "黑貂",
+                    "action":  "untargeted",
+                    "newk":  "",
+                    "reason":  "クロテン(テン属の特定種)。貂(二级)に対応する一级字なく、黑単独や鼠では別物。該当一级なし。"
+                },
+                {
+                    "root":  "miksin",
+                    "current":  "盲鳗",
+                    "action":  "untargeted",
+                    "newk":  "",
+                    "reason":  "鳗(eel)は二级で一级に該当字なし。盲鳗の核は鳗類でありヌタウナギ特定種。一级では表せず別物になるため未対応(方針の鳗→未対応に一致)。"
+                }
+            ]
+}

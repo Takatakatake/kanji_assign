@@ -1,0 +1,11 @@
+﻿segment	override	headwords(h-system,カンマ区切り)	note
+graf	伯	graf/o,graf/in/o,graf/land/o,graf/a	伯爵(貴族)。結合形 -graf-=记 とは別義
+epi	后	epi/log/o,epi/taf/o,epi/gon/o	epi-=「後」の義。既定 epi=表(表層)とは別
+krom	铬	krom/o,krom/at/o	クロム(元素)。前置詞 krom=外 とは別
+bor	硼	bor/o	ホウ素(元素)。動詞 bor/i=穿孔(钻)とは別
+titan	钛	titan/o	チタン(元素)。巨人 titan は別途
+tetr	四	tetr/	tetra-接頭辞(4炭素)の定義見出し。鳥 tetr/o=琴鸡 が既定。接頭辞は別セグメント tetra=四 で処理
+kaj	码	kaj/o,kaj/oj	埠頭/河岸。接続詞 kaj=和 とは別義
+log	诱	log/i,log/aj^/o	誘う・誘惑。接尾辞 -log-=学家(学問) とは別義
+c^iel	天	c^iel/o,c^iel/a	空・天。相関詞 ĉiel=全样(あらゆる方法で) とは別義
+c^ar	车	c^ar/o,c^ar/ist/o	車・荷車。接続詞 ĉar=因(なぜなら) とは別義

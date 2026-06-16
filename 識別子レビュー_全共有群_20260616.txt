@@ -1,0 +1,6318 @@
+﻿# 識別子レビュー(GAS/仕様§5 位置ベース・§3厳密・§6a別文字 確定版): 全共有群・全メンバー・語義付き
+
+【鱼】 26件
+  fiŝ            鱼          F=83    basic   
+  haring         鱼ᴴ         F=5     basic   
+  angil          鱼ᴬ         F=4     basic   
+  ezok           鱼ᴱ         F=2     basic   
+  gobi           鱼ᴳ         F=2     basic   
+  tinus          鱼ᵀ         F=6     pejvo   
+  bram           鱼ᴮ         F=5     pejvo   
+  gad            鱼ᴳᴰ        F=4     pejvo   
+  klupe          鱼ᴷ         F=4     pejvo   
+  perk           鱼ᴾ         F=4     pejvo   
+  moru           鱼ᴹ         F=3     pejvo   
+  petromiz       鱼ᴾᵀ        F=3     pejvo   
+  sole           鱼ˢ         F=3     pejvo   
+  salm           鱼ˢᴹ        F=3     pejvo   
+  anc^ov         鱼ᴬᶜ̂       F=2     pejvo   
+  kobitid        鱼ᴷᴮ        F=2     pejvo   
+  mugil          鱼ᴹᴳ        F=2     pejvo   
+  skombr         鱼ˢᴷ        F=2     pejvo   
+  silur          鱼ˢᴿ        F=2     pejvo   
+  anchov         鱼ᴬᶜ        F=0     pejvo   
+  salmon         鱼ˢᴺ        F=3     piv     【動】サケ属
+  acipenser      鱼ᴬᴾ        F=2     piv     【動】チョウザメ
+  iktio          鱼ᴵ         F=2     piv     【動】魚類学者
+  kalmar         鱼ᴷᴹ        F=2     piv     【動】ヤリイカ
+  miksin         鱼ᴹᴷ        F=2     piv     【動】ヌタウナギ
+  simbrank       鱼ˢᴮ        F=2     piv     【動】タウナギ属
+
+【草】 20件
+  herb           草          F=67    basic   
+  pajl           草ᴾ         F=18    basic   
+  skiz           草ˢ         F=6     basic   
+  alo            草ᴬ         F=7     pejvo   
+  papav          草ᴾᴾ        F=5     pejvo   
+  cist           草ᶜ         F=4     pejvo   
+  rut            草ᴿ         F=4     pejvo   
+  angelik        草ᴬᴳ        F=3     pejvo   
+  akant          草ᴬᴷ        F=3     pejvo   
+  betel          草ᴮ         F=3     pejvo   
+  veratr         草ⱽ         F=3     pejvo   
+  anet           草ᴬᴺ        F=2     pejvo   
+  eu^forbi       草ᴱ         F=2     pejvo   
+  helebor        草ᴴᴸ        F=2     pejvo   
+  krokiz         草ᴷ         F=2     pejvo   
+  kokleari       草ᴷᴷ        F=2     pejvo   
+  kenopodi       草ᴷᴺ        F=2     pejvo   
+  kareks         草ᴷˢ        F=2     pejvo   
+  aspleni        草ᴬˢ        F=4     piv     【植】チャセンシダ属
+  ciper          草ᶜᴾ        F=2     piv     【植】カヤツリグサ属
+
+【果】 15件
+  frukt          果          F=65    basic   
+  nuks           果ᴺ         F=14    basic   
+  rezult         果ᴿ         F=14    basic   
+  konsekvenc     果ᴷ         F=11    basic   
+  frag           果ᶠᴳ        F=9     basic   
+  framb          果ᶠᴹ        F=2     basic   
+  mirtel         果ᴹ         F=2     basic   
+  aniz           果ᴬ         F=6     pejvo   
+  mespil         果ᴹˢ        F=5     pejvo   
+  aliz           果ᴬᴸ        F=3     pejvo   
+  grapfrukt      果ᴳ         F=3     pejvo   
+  pampelmus      果ᴾ         F=3     pejvo   
+  lici           果ᴸ         F=2     pejvo   
+  rubus          果ᴿᴮ        F=2     pejvo   
+  kurm           果ᴷᴿ        F=2     piv     【植】ナナカマドの実
+
+【虫】 12件
+  verm           虫          F=22    basic   
+  insekt         虫ᴵ         F=19    basic   
+  koral          虫ᴷ         F=11    pejvo   
+  pedik          虫ᴾ         F=5     pejvo   
+  akar           虫ᴬ         F=3     pejvo   
+  argonau^t      虫ᴬᴿ        F=2     pejvo   
+  blat           虫ᴮ         F=2     pejvo   
+  entom          虫ᴱ         F=2     pejvo   
+  lau^s          虫ᴸ         F=7     piv     【動】シラミ
+  alcioni        虫ᴬᴸ        F=2     piv     【動】ウミトサカ属
+  demodeks       虫ᴰ         F=2     piv     【動】ニキビダニ
+  trombidi       虫ᵀ         F=2     piv     【動】ツツガムシ属(トロンビジウム)
+
+【鸟】 12件
+  bird           鸟          F=63    basic   
+  cikoni         鸟ᶜ         F=3     basic   
+  arde           鸟ᴬ         F=4     pejvo   
+  skolop         鸟ˢ         F=4     pejvo   
+  majn           鸟ᴹ         F=3     pejvo   
+  ornit          鸟ᴼ         F=3     pejvo   
+  pelikan        鸟ᴾ         F=3     pejvo   
+  kivi           鸟ᴷ         F=2     pejvo   
+  perdrik        鸟ᴾᴿ        F=2     pejvo   
+  karadri        鸟ᴷᴿ        F=3     piv     【動】チドリ
+  apterig        鸟ᴬᴾ        F=2     piv     【動】キーウィ
+  pluvi          鸟ᴾⱽ        F=2     piv     【動】チドリ
+
+【菌】 10件
+  fung           菌          F=42    basic   
+  bakteri        菌ᴮ         F=36    basic   
+  bacil          菌ᴮᶜ        F=7     basic   
+  truf           菌ᵀ         F=4     pejvo   
+  fungus         菌ᶠˢ        F=3     pejvo   
+  micet          菌ᴹᶜ        F=17    piv     【生】菌(放線菌)
+  miko           菌ᴹ         F=6     piv     【生】菌類
+  kandid         菌ᴷ         F=3     piv     【菌】カンジダ
+  mikot          菌ᴹᴵ        F=2     piv     【菌】担子菌門
+  sporotrik      菌ˢ         F=2     piv     【植】スポロトリックス菌
+
+【射】 9件
+  paf            射          F=46    basic   
+  radi           射ᴿ         F=120   basic   
+  projekci       射ᴾᴿ        F=12    pejvo   
+  incid          射ᴵ         F=7     pejvo   
+  s^ot           射ˢ̂        F=6     pejvo   
+  ejakul         射ᴱ         F=3     pejvo   
+  katapult       射ᴷ         F=2     pejvo   
+  aktin          射ᴬ         F=9     piv     日射計(放射)
+  jekci          射ᴶ         F=7     piv     【数】写像
+
+【鼠】 9件
+  mus            鼠          F=15    basic   
+  rat            鼠ᴿ         F=6     basic   
+  mustel         鼠ᴹˢ        F=6     pejvo   
+  ermen          鼠ᴱ         F=3     pejvo   
+  mefit          鼠ᴹᶠ        F=2     pejvo   
+  mel            鼠ᴹᴸ        F=2     pejvo   
+  putor          鼠ᴾ         F=2     pejvo   
+  vizon          鼠ⱽ         F=2     pejvo   
+  zibel          鼠ᶻ         F=2     pejvo   
+
+【糖】 9件
+  suker          糖          F=39    basic   
+  konfit         糖ᴷ         F=5     basic   
+  bombon         糖ᴮ         F=4     basic   
+  kand           糖ᴷᴰ        F=5     pejvo   
+  glukoz         糖ᴳ         F=2     pejvo   
+  sakarid        糖ˢᴰ        F=9     piv     【化】二糖(糖類)
+  gluk           糖ᴳᴸ        F=4     piv     【化】ブドウ糖
+  glik           糖ᴳᴵ        F=3     piv     【化】グリコール
+  glucid         糖ᴳᶜ        F=2     piv     【化】糖質
+
+【团】 9件
+  mas            团          F=36    basic   
+  grup           团ᴳ         F=26    basic   
+  bul            团ᴮ         F=23    basic   
+  trup           团ᵀ         F=20    basic   
+  solidar        团ˢ         F=4     basic   
+  regiment       团ᴿ         F=3     basic   
+  aglomer        团ᴬ         F=4     pejvo   
+  bolus          团ᴮˢ        F=2     pejvo   
+  konglomer      团ᴷ         F=3     piv     凝集させる
+
+【复】 9件
+  kopi           复          F=31    basic   
+  ripet          复ᴿ         F=13    basic   
+  kompleks       复ᴷˢ        F=12    basic   
+  komplik        复ᴷᴹ        F=9     basic   
+  restau^r       复ᴿˢ        F=5     pejvo   
+  faksimil       复ᶠ         F=2     pejvo   
+  recidiv        复ᴿᶜ        F=3     piv     【医】再発
+  anafor         复ᴬ         F=2     piv     【修辞】首句反復
+  reprograf      复ᴿᴿ        F=2     piv     複写する
+
+【带】 9件
+  zon            带          F=43    basic   
+  bend           带ᴮ         F=35    basic   
+  rimen          带ᴿ         F=14    basic   
+  ruband         带ᴿᴮ        F=13    basic   
+  laĉ            带ᴸ         F=6     basic   
+  balte          带ᴮᴸ        F=3     pejvo   
+  kordon         带ᴷ         F=3     pejvo   
+  banderol       带ᴮᴿ        F=2     pejvo   
+  saltier        带ˢ         F=2     piv     頸飾り綬
+
+【散】 8件
+  dis            散          F=205   pref    
+  distr          散ᴰᵀ        F=12    basic   
+  diverg^        散ᴰⱽ        F=10    pejvo   
+  dispers        散ᴰᴾ        F=8     pejvo   
+  difuz          散ᴰᶠ        F=6     pejvo   
+  eman           散ᴱ         F=6     pejvo   
+  loz            散ᴸ         F=2     pejvo   
+  sporad         散ˢ         F=2     pejvo   
+
+【脂】 8件
+  gras           脂          F=36    basic   
+  lard           脂ᴸ         F=11    basic   
+  rezin          脂ᴿ         F=12    pejvo   
+  seb            脂ˢ         F=8     pejvo   
+  lipid          脂ᴸᴾ        F=7     piv     【生化】脂質
+  adip           脂ᴬ         F=4     piv     【化】脂肪
+  steat          脂ˢᵀ        F=4     piv     脂肪
+  kopal          脂ᴷ         F=3     piv     【化】コーパル樹脂
+
+【主】 8件
+  mastr          主          F=37    basic   
+  prezid         主ᴾ         F=13    basic   
+  subjekt        主ˢ         F=7     basic   
+  precip         主ᴾᶜ        F=3     basic   
+  nominativ      主ᴺ         F=1     basic   
+  subjektiv      主ˢⱽ        F=0     basic   
+  tonik          主ᵀ         F=3     pejvo   
+  senjor         主ˢᴺ        F=2     piv     【史】領主
+
+【生】 8件
+  nask           生          F=68    basic   
+  okaz           生ᴼ         F=28    basic   
+  biologi        生ᴮ         F=0     basic   
+  gen            生ᴳ         F=65    sci     
+  bio            生ᴮᴼ        F=44    sci     
+  bi             生ᴮᴵ        F=20    pejvo   
+  gener          生ᴳᴿ        F=18    pejvo   
+  plazi          生ᴾ         F=5     piv     【医】形成・増殖
+
+【旋】 8件
+  gir            旋          F=5     pejvo   
+  spiral         旋ˢ         F=14    pejvo   
+  rotaci         旋ᴿ         F=12    pejvo   
+  pivot          旋ᴾ         F=8     pejvo   
+  ciklon         旋ᶜ         F=5     pejvo   
+  turb           旋ᵀ         F=4     pejvo   
+  giro           旋ᴳᴼ        F=2     pejvo   
+  piruet         旋ᴾᴿ        F=2     pejvo   
+
+【装】 8件
+  ŝarg           装          F=43    basic   
+  kostum         装ᴷ         F=14    basic   
+  munt           装ᴹ         F=14    basic   
+  instal         装ᴵ         F=13    basic   
+  bind           装ᴮ         F=12    basic   
+  garn           装ᴳ         F=4     basic   
+  afekt          装ᴬ         F=14    pejvo   
+  stiv           装ˢ         F=2     pejvo   
+
+【分】 8件
+  divid          分          F=28    basic   
+  molekul        分ᴹᴸ        F=12    basic   
+  frakci         分ᶠ         F=8     basic   
+  minut          分ᴹ         F=7     basic   
+  on             分ᴼ         F=0     suf     
+  ekvinoks       分ᴱ         F=8     pejvo   
+  gros^          分ᴳ         F=6     pejvo   
+  deci           分ᴰᶜ        F=3     pejvo   
+
+【木】 8件
+  lign           木          F=51    basic   
+  ksil           木ᴷ         F=6     pejvo   
+  muskat         木ᴹ         F=6     pejvo   
+  ĵaŭd           木ĵ         F=3     cal     
+  kornus         木ᴷᴿ        F=2     pejvo   
+  sorp           木ˢ         F=2     pejvo   
+  tili           木ᵀ         F=2     pejvo   
+  koril          木ᴷᴵ        F=2     piv     【植】ハシバミ属
+
+【气】 8件
+  aer            气          F=95    basic   
+  gas            气ᴳ         F=84    basic   
+  odor           气ᴼ         F=26    basic   
+  veter          气ⱽ         F=20    basic   
+  atmosfer       气ᴬᵀ        F=10    basic   
+  meteo          气ᴹ         F=9     pejvo   
+  pneu^matik     气ᴾᴷ        F=4     pejvo   
+  pneu^mat       气ᴾ         F=3     pejvo   
+
+【异】 8件
+  fremd          异          F=19    basic   
+  diferenc       异ᴰ         F=18    basic   
+  hetero         异ᴴ         F=11    pejvo   他律・異質
+  diferencial    异ᴰᴸ        F=5     pejvo   
+  ekzot          异ᴱ         F=3     pejvo   
+  pagan          异ᴾ         F=3     pejvo   
+  anomali        异ᴬ         F=2     pejvo   
+  disident       异ᴰˢ        F=2     pejvo   
+
+【报】 8件
+  gazet          报          F=30    basic   
+  raport         报ᴿ         F=19    basic   
+  bulten         报ᴮ         F=4     basic   
+  telegraf       报ᵀ         F=0     basic   
+  telegram       报ᵀᴹ        F=0     basic   
+  depes^         报ᴰ         F=3     pejvo   
+  refer          报ᴿᶠ        F=3     pejvo   
+  riport         报ᴿᴵ        F=2     piv     報道する
+
+【极】 8件
+  ekstrem        极          F=21    basic   
+  maksimum       极ᴹ         F=10    basic   
+  arkt           极ᴬ         F=5     basic   
+  polus          极ᴾ         F=32    sci     
+  polar          极ᴾᴿ        F=25    sci     
+  ultra          极ᵁ         F=10    pejvo   
+  elektrod       极ᴱᴸ        F=4     pejvo   
+  paroks         极ᴾᴷ        F=2     pejvo   
+
+【车】 8件
+  aŭt            车          F=61    basic   
+  trajn          车ᵀ         F=19    basic   
+  bicikl         车ᴮᶜ        F=11    basic   
+  bus            车ᴮ         F=10    basic   
+  kamion         车ᴷ         F=9     basic   
+  aŭtomobil      车ᴬᴹ        F=0     basic   
+  kales^         车ᴷᴸ        F=10    pejvo   
+  torn           车ᵀᴺ        F=10    pejvo   
+
+【辩】 8件
+  pled           辩          F=6     basic   
+  elokvent       辩ᴱ         F=7     basic   
+  advokat        辩ᴬ         F=5     basic   
+  debat          辩ᴰ         F=5     pejvo   
+  polemik        辩ᴾᴹ        F=4     pejvo   
+  apologi        辩ᴬᴾ        F=3     pejvo   
+  ekskuz         辩ᴱᴷ        F=2     pejvo   
+  retor          辩ᴿ         F=2     pejvo   
+
+【顶】 8件
+  supr           顶          F=58    basic   
+  tegment        顶ᵀ         F=19    basic   
+  plafon         顶ᴾ         F=4     basic   
+  vert           顶ⱽ         F=3     basic   
+  vertic         顶ⱽᶜ        F=1     basic   
+  kulmin         顶ᴷ         F=5     pejvo   
+  imperial       顶ᴵ         F=3     pejvo   
+  klimaks        顶ᴷᴷ        F=2     piv     【文】クライマックス
+
+【印】 7件
+  pres           印          F=44    basic   
+  stamp          印ˢ         F=18    basic   
+  sigel          印ˢᴳ        F=15    basic   
+  impres         印ᴵ         F=10    basic   
+  print          印ᴾᴺ        F=5     pejvo   
+  mime           印ᴹ         F=2     pejvo   
+  patric         印ᴾᵀ        F=2     pejvo   
+
+【隔】 7件
+  izol           隔          F=38    basic   
+  vand           隔ⱽ         F=6     pejvo   
+  adiabat        隔ᴬ         F=5     pejvo   
+  sept           隔ˢ         F=5     pejvo   
+  separ          隔ˢᴿ        F=4     pejvo   
+  kvaranten      隔ᴷ         F=3     pejvo   
+  separat        隔ˢᵀ        F=2     piv     【政】分離独立主義
+
+【学】 7件
+  logi           学          F=233   suf     
+  lern           学ᴸᴿ        F=78    basic   
+  nomi           学ᴺ         F=19    suf     
+  student        学ˢ         F=15    basic   
+  universitat    学ᵁ         F=9     basic   
+  lingvistik     学ᴸᴺ        F=8     basic   
+  ik             学ᴵ         F=12    pejvo   
+
+【滑】 7件
+  glit           滑          F=45    basic   
+  glat           滑ᴳᴬ        F=14    basic   
+  ski            滑ˢ         F=12    basic   
+  sinovi         滑ˢᴺ        F=4     pejvo   
+  sket           滑ˢᵀ        F=5     piv     滑る
+  s^us           滑ˢ̂        F=3     piv     滑り降りること
+  skut           滑ˢᵁ        F=2     piv     スキーで滑走する
+
+【管】 7件
+  tub            管          F=81    basic   
+  administr      管ᴬ         F=14    basic   
+  dukt           管ᴰ         F=12    pejvo   
+  administraci   管ᴬᶜ        F=7     pejvo   
+  intendant      管ᴵ         F=7     pejvo   
+  s^alm          管ˢ̂        F=6     pejvo   
+  kateter        管ᴷ         F=2     pejvo   
+
+【球】 7件
+  glob           球          F=37    basic   
+  sfer           球ˢ         F=29    basic   
+  pilk           球ᴾ         F=20    basic   
+  bulb           球ᴮ         F=14    basic   
+  balon          球ᴮᴺ        F=9     basic   
+  futbal         球ᶠ         F=6     basic   
+  glomerul       球ᴳᴹ        F=2     piv     【解】糸球体
+
+【偶】 7件
+  par            偶          F=32    basic   
+  pup            偶ᴾᴾ        F=11    basic   
+  hazard         偶ᴴ         F=8     basic   
+  eventual       偶ᴱ         F=7     basic   
+  kontingenc     偶ᴷ         F=3     pejvo   
+  marionet       偶ᴹ         F=2     pejvo   
+  akcidenc       偶ᴬ         F=2     piv     【哲】偶有性
+
+【幻】 7件
+  rev            幻          F=20    basic   
+  iluzi          幻ᴵ         F=11    basic   
+  fantazi        幻ᶠ         F=9     basic   
+  halucin        幻ᴴ         F=8     pejvo   
+  h^imer         幻ᴴ̂        F=5     pejvo   
+  vizi           幻ⱽ         F=3     pejvo   
+  fantast        幻ᶠˢ        F=2     piv     幻想文学
+
+【浸】 7件
+  tremp          浸          F=4     basic   
+  macer          浸ᴹ         F=6     pejvo   
+  perkol         浸ᴾ         F=6     pejvo   
+  marin          浸ᴹᴿ        F=4     pejvo   
+  ru             浸ᴿ         F=2     pejvo   
+  infiltr        浸ᴵ         F=2     piv     【医】浸潤する
+  impregn        浸ᴵᴹ        F=2     piv     防腐含浸する
+
+【整】 7件
+  tut            整          F=37    basic   
+  aranĝ          整ᴬ         F=30    basic   
+  apret          整ᴬᴾ        F=4     pejvo   
+  entjer         整ᴱ         F=3     pejvo   
+  rektif         整ᴿ         F=3     pejvo   
+  rektifik       整ᴿᴷ        F=3     pejvo   
+  apretur        整ᴬᴿ        F=2     pejvo   
+
+【精】 7件
+  ekzakt         精          F=7     basic   
+  rafin          精ᴿ         F=13    pejvo   
+  fajn           精ᶠ         F=9     pejvo   
+  nimf           精ᴺ         F=3     pejvo   
+  niks           精ᴺᴷ        F=2     pejvo   
+  spermat        精ˢ         F=2     piv     【生】精母細胞
+  spermati       精ˢᴵ        F=2     piv     【植】精子(不動精子)
+
+【俗】 7件
+  mor            俗          F=6     basic   
+  vulgar         俗ⱽ         F=9     basic   
+  profan         俗ᴾ         F=7     pejvo   
+  laik           俗ᴸ         F=4     pejvo   
+  sekular        俗ˢ         F=4     pejvo   
+  filistr        俗ᶠ         F=3     pejvo   
+  kic^           俗ᴷ         F=2     pejvo   
+
+【代】 7件
+  agent          代          F=15    basic   
+  anstataŭ       代ᴬᴺ        F=12    prep    
+  generaci       代ᴳ         F=7     basic   
+  pronom         代ᴾ         F=6     basic   
+  surogat        代ˢ         F=4     pejvo   
+  prokur         代ᴾᴷ        F=3     pejvo   
+  era            代ᴱ         F=2     pejvo   
+
+【板】 7件
+  lad            板          F=30    basic   
+  tabul          板ᵀ         F=49    basic   
+  karton         板ᴷ         F=13    basic   
+  bret           板ᴮ         F=10    basic   
+  plank          板ᴾ         F=8     basic   
+  plak           板ᴾᴷ        F=12    pejvo   
+  panel          板ᴾᴺ        F=8     pejvo   
+
+【表】 7件
+  epi            表          F=24    pref    
+  esprim         表ᴱˢ        F=28    basic   
+  tabel          表ᵀ         F=24    basic   
+  list           表ᴸ         F=22    basic   
+  etat           表ᴱᵀ        F=5     basic   
+  reprezent      表ᴿ         F=0     basic   
+  ekspresion     表ᴱᴷ        F=2     pejvo   表現(主義)
+
+【脉】 7件
+  vejn           脉          F=14    basic   
+  arteri         脉ᴬ         F=6     basic   
+  puls           脉ᴾ         F=10    pejvo   
+  angi           脉ᴬᴺ        F=9     pejvo   
+  vaskul         脉ⱽˢ        F=7     piv     【医】血管(血管炎)
+  sfigm          脉ˢ         F=4     piv     【医】脈拍
+  fleb           脉ᶠ         F=2     piv     【医】静脈
+
+【雕】 7件
+  agl            雕          F=21    basic   
+  skulpt         雕ˢ         F=9     basic   
+  c^iz           雕ᶜ̂        F=11    pejvo   
+  relief         雕ᴿ         F=7     pejvo   
+  cizel          雕ᶜ         F=4     pejvo   
+  anaglif        雕ᴬᴺ        F=2     piv     浮彫り装飾;アナグリフ
+  skulptur       雕ˢᴿ        F=2     piv     彫刻
+
+【节】 7件
+  diet           节          F=10    basic   
+  silab          节ˢ         F=23    basic   
+  artik          节ᴬ         F=19    basic   
+  strof          节ˢᵀ        F=3     basic   
+  artr           节ᴬᴿ        F=9     pejvo   
+  gangli         节ᴳ         F=3     pejvo   
+  dietik         节ᴰᴷ        F=2     piv     食餌療法学
+
+【证】 7件
+  viz            证          F=9     basic   
+  atest          证ᴬ         F=19    basic   
+  diplom         证ᴰ         F=14    basic   
+  pruv           证ᴾ         F=9     basic   
+  kvitanc        证ᴷ         F=3     basic   
+  demonstr       证ᴰᴹ        F=8     pejvo   
+  depozici       证ᴰᶻ        F=2     pejvo   
+
+【转】 7件
+  turn           转          F=62    basic   
+  ĝir            转ĝ         F=20    basic   
+  rivolu         转ᴿ         F=7     basic   
+  konvert        转ᴷ         F=12    pejvo   
+  relajs         转ᴿᴸ        F=6     pejvo   
+  invert         转ᴵ         F=4     pejvo   
+  transpon       转ᵀˢ        F=4     pejvo   
+
+【镜】 7件
+  spegul         镜          F=22    basic   
+  lupe           镜ᴸ         F=1     basic   
+  teleskop       镜ᵀ         F=0     basic   
+  skop           镜ˢᴷ        F=89    sci     
+  lens           镜ᴸᴺ        F=16    pejvo   
+  lorn           镜ᴸᴿ        F=3     pejvo   
+  reflektor      镜ᴿ         F=2     pejvo   
+
+【饼】 7件
+  tort           饼          F=7     basic   
+  biskvit        饼ᴮ         F=3     basic   
+  vafl           饼ⱽ         F=5     pejvo   
+  pic            饼ᴾ         F=3     pejvo   
+  kresp          饼ᴷ         F=2     pejvo   
+  kraken         饼ᴷᴷ        F=2     pejvo   
+  oblat          饼ᴼ         F=2     pejvo   
+
+【因】 6件
+  ĉar            因          F=35    func    
+  kaŭz           因ᴷ         F=18    basic   
+  pro            因ᴾ         F=17    prep    
+  faktor         因ᶠ         F=8     basic   
+  eti            因ᴱ         F=3     pejvo   
+  tial,          因ᵀ         F=2     pejvo   
+
+【丑】 6件
+  skandal        丑          F=5     basic   
+  arleken        丑ᴬ         F=3     pejvo   
+  klau^n         丑ᴷ         F=3     pejvo   
+  histrion       丑ᴴ         F=2     pejvo   
+  pajac          丑ᴾ         F=2     pejvo   
+  pulc^inel      丑ᴾᴸ        F=2     pejvo   
+
+【外】 6件
+  krom           外          F=41    prep    
+  ekster         外ᴱ         F=78    prep    
+  ekzo           外ᴱᶻ        F=8     pejvo   外婚・異系交配(外)
+  ekto           外ᴱᴷ        F=2     piv     【生】外胚葉
+  ekt            外ᴱᵀ        F=2     piv     【生】外胚葉
+  ksen           外ᴷˢ        F=2     piv     異邦人・外来
+
+【概】 6件
+  probabl        概          F=8     basic   
+  koncept        概ᴷ         F=7     basic   
+  resum          概ᴿ         F=1     basic   要約・概要
+  sinoptik       概ˢ         F=4     pejvo   
+  kompendi       概ᴷᴹ        F=2     pejvo   
+  noci           概ᴺ         F=2     pejvo   
+
+【冠】 6件
+  kron           冠          F=49    basic   
+  krest          冠ᴷˢ        F=10    basic   
+  ĉampion        冠ĉ         F=5     basic   
+  mitr           冠ᴹ         F=5     pejvo   
+  kalot          冠ᴷᴸ        F=2     piv     【数】球冠
+  koronari       冠ᴷᴿ        F=2     piv     【解】冠状動脈(の)
+
+【巨】 6件
+  eg             巨          F=269   suf     
+  gigant         巨ᴳ         F=4     basic   
+  kolos          巨ᴷ         F=5     pejvo   
+  titan          巨ᵀ         F=4     pejvo   
+  megalo         巨ᴹ         F=3     pejvo   
+  ciklop         巨ᶜ         F=2     pejvo   
+
+【教】 6件
+  instru         教          F=40    basic   
+  eklezi         教ᴱ         F=19    basic   
+  civiliz        教ᶜ         F=0     basic   
+  pedagogi       教ᴾᴵ        F=3     pejvo   
+  didaktik       教ᴰ         F=2     pejvo   
+  pedagog        教ᴾ         F=2     pejvo   
+
+【狂】 6件
+  mani           狂          F=28    basic   
+  furioz         狂ᶠ         F=9     basic   
+  delir          狂ᴰ         F=6     basic   
+  rabi           狂ᴿ         F=6     pejvo   
+  fanatik        狂ᶠᴺ        F=5     pejvo   
+  histeri        狂ᴴ         F=3     pejvo   
+
+【琴】 6件
+  pian           琴          F=12    basic   
+  harmonik       琴ᴴᴹ        F=7     pejvo   
+  harp           琴ᴴ         F=5     pejvo   
+  lir            琴ᴸ         F=5     pejvo   
+  orgen          琴ᴼ         F=4     pejvo   
+  citr           琴ᶜ         F=2     pejvo   
+
+【形】 6件
+  form           形          F=222   basic   
+  figur          形ᶠᴳ        F=28    basic   
+  formal         形ᶠᴸ        F=12    basic   
+  adjektiv       形ᴬ         F=2     basic   
+  morf           形ᴹ         F=49    sci     
+  morfi          形ᴹᴵ        F=13    piv     【数】形・同型(自己同型)
+
+【原】 6件
+  pra            原          F=66    pref    
+  original       原ᴼ         F=9     basic   
+  primitiv       原ᴾᴹ        F=3     basic   
+  proto          原ᴾᵀ        F=6     pejvo   
+  primar         原ᴾᴿ        F=3     pejvo   
+  pamp           原ᴾᴾ        F=2     piv     【地理】パンパ
+
+【古】 6件
+  antikv         古          F=6     basic   
+  arkeo          古ᴬᴼ        F=6     pejvo   
+  arka           古ᴬᴿ        F=4     pejvo   
+  paleont        古ᴾᴺ        F=3     pejvo   
+  arh^e          古ᴬᴴ̂       F=2     pejvo   古い・始原の
+  paleo          古ᴾ         F=2     pejvo   
+
+【合】 6件
+  kombin         合          F=19    basic   
+  konform        合ᴷᴺ        F=21    basic   
+  sintez         合ˢ         F=15    pejvo   
+  kluc^          合ᴷᴸ        F=14    pejvo   
+  kongru         合ᴷᴳ        F=6     pejvo   
+  konjunkci      合ᴷᴶ        F=4     pejvo   
+
+【菜】 6件
+  legom          菜          F=15    basic   
+  brasik         菜ᴮ         F=31    basic   
+  lap            菜ᴸᴾ        F=2     basic   
+  artis^ok       菜ᴬ         F=4     pejvo   
+  amarant        菜ᴬᴹ        F=3     pejvo   
+  o-brasik       菜ᴼ         F=2     piv     【植】セイヨウアブラナ
+
+【使】 6件
+  ig             使          F=2032  suf     
+  ambasador      使ᴬᴿ        F=5     basic   
+  ambasad        使ᴬ         F=3     basic   
+  apostol        使ᴬᴾ        F=2     basic   
+  misi           使ᴹ         F=5     pejvo   
+  nunci          使ᴺ         F=2     pejvo   
+
+【刺】 6件
+  pik            刺          F=44    basic   
+  dorn           刺ᴰ         F=18    basic   
+  spron          刺ˢ         F=5     pejvo   
+  punktur        刺ᴾᴺ        F=5     piv     【医】刺針
+  lancin         刺ᴸ         F=3     piv     【医】刺すように痛む
+  strid          刺ˢᵀ        F=2     piv     きしむ音を発する
+
+【斜】 6件
+  klin           斜          F=38    basic   
+  oblikv         斜ᴼ         F=8     basic   
+  strab          斜ˢ         F=7     pejvo   
+  kursiv         斜ᴷᴿ        F=4     pejvo   
+  bevel          斜ᴮ         F=3     pejvo   
+  diagonal       斜ᴰ         F=3     pejvo   
+
+【酒】 6件
+  vin            酒          F=68    basic   
+  bier           酒ᴮ         F=20    basic   
+  brand          酒ᴮᴺ        F=11    basic   
+  likvor         酒ᴸ         F=9     pejvo   
+  g^in           酒ᴳ̂        F=4     pejvo   
+  sake           酒ˢ         F=2     pejvo   
+
+【省】 6件
+  ŝpar           省          F=27    basic   
+  guberni        省ᴳ         F=9     basic   
+  provinc        省ᴾ         F=6     basic   
+  apostrof       省ᴬ         F=3     pejvo   
+  elizi          省ᴱ         F=2     pejvo   
+  provincial     省ᴾᴸ        F=2     pejvo   
+
+【信】 6件
+  fid            信          F=19    basic   
+  kred           信ᴷ         F=49    basic   
+  leter          信ᴸ         F=45    basic   
+  konfid         信ᴷᴺ        F=11    basic   
+  mesaĝ          信ᴹ         F=7     basic   
+  epistol        信ᴱ         F=2     pejvo   
+
+【静】 6件
+  kviet          静          F=20    basic   
+  trankvil       静ᵀ         F=18    basic   
+  statik         静ˢ         F=16    pejvo   
+  sedativ        静ˢᴰ        F=2     pejvo   
+  kalm           静ᴷᴸ        F=3     piv     無風
+  kvi            静ᴷⱽ        F=2     piv     静穏な
+
+【操】 6件
+  operaci        操          F=19    basic   
+  gimnastik      操ᴳ         F=8     basic   
+  manovr         操ᴹ         F=6     basic   
+  manipul        操ᴹᴾ        F=6     basic   
+  gimnast        操ᴳᴵ        F=2     pejvo   
+  fik            操ᶠ         F=4     piv     性交する(俗語)
+
+【套】 6件
+  jung           套          F=11    basic   
+  muf            套ᴹ         F=6     pejvo   
+  gain           套ᴳ         F=4     pejvo   
+  ensembl        套ᴱ         F=3     pejvo   
+  stereotip      套ˢ         F=3     pejvo   
+  vaginal        套ⱽ         F=2     piv     【解】鞘膜
+
+【凸】 6件
+  ĝib            凸          F=13    basic   
+  konveks        凸ᴷ         F=10    pejvo   
+  tenon          凸ᵀ         F=2     pejvo   
+  bos            凸ᴮ         F=3     piv     【建】粗面石積み
+  galb           凸ᴳ         F=3     piv     凸状輪郭
+  protrud        凸ᴾ         F=2     piv     【解】突出した
+
+【皮】 6件
+  fel            皮          F=17    basic   
+  haŭt           皮ᴴ         F=37    basic   
+  pelt           皮ᴾ         F=9     basic   
+  derm           皮ᴰ         F=22    sci     
+  dermat         皮ᴰᵀ        F=5     pejvo   
+  kortik         皮ᴷ         F=4     piv     【解】皮質
+
+【帽】 6件
+  ĉap            帽          F=16    basic   
+  ĉapel          帽ĉᴸ        F=22    basic   
+  kasked         帽ᴷ         F=1     basic   
+  kapucen        帽ᴷᶜ        F=3     pejvo   
+  kuf            帽ᴷᶠ        F=3     pejvo   
+  kapuc^         帽ᴷᴾ        F=3     pejvo   
+
+【面】 6件
+  fac            面          F=7     basic   
+  surfac         面ˢ         F=17    basic   
+  edr            面ᴱ         F=22    sci     
+  are            面ᴬ         F=10    pejvo   
+  nudel          面ᴺ         F=5     pejvo   
+  spaget         面ˢᴾ        F=2     pejvo   
+
+【裂】 6件
+  ŝir            裂          F=24    basic   
+  fend           裂ᶠ         F=36    basic   
+  krev           裂ᴷ         F=7     basic   
+  brec^          裂ᴮ         F=6     pejvo   
+  dehisk         裂ᴰ         F=5     pejvo   
+  skism          裂ˢ         F=5     pejvo   
+
+【炉】 6件
+  forn           炉          F=27    basic   
+  kamen          炉ᴷ         F=10    basic   
+  stov           炉ˢ         F=3     basic   
+  fornel         炉ᶠᴸ        F=4     pejvo   
+  mufl           炉ᴹ         F=2     pejvo   
+  etuv           炉ᴱ         F=2     piv     【医】恒温器・乾燥滅菌炉
+
+【册】 6件
+  kajer          册          F=9     basic   
+  broŝur         册ᴮ         F=6     basic   
+  ekzempler      册ᴱ         F=5     basic   
+  album          册ᴬ         F=3     basic   
+  volum          册ⱽ         F=3     basic   
+  prospekt       册ᴾ         F=2     pejvo   
+
+【乐】 6件
+  muzik          乐          F=48    basic   
+  plezur         乐ᴾ         F=13    basic   
+  orkestr        乐ᴼ         F=8     basic   
+  optim          乐ᴼᴾ        F=3     pejvo   
+  sangvin        乐ˢ         F=2     pejvo   
+  hedon          乐ᴴ         F=2     piv     【哲】快楽主義
+
+【兽】 6件
+  best           兽          F=49    basic   
+  zo             兽ᶻ         F=16    basic   
+  animal         兽ᴬ         F=8     basic   
+  zoologi        兽ᶻᴸ        F=0     basic   
+  teri           兽ᵀ         F=3     piv     【動】獣亜綱
+  besti          兽ᴮᴵ        F=2     piv     野獣
+
+【划】 6件
+  plan           划          F=43    basic   
+  strek          划ˢ         F=38    basic   
+  rem            划ᴿ         F=16    basic   
+  skarifik       划ˢᴷ        F=4     pejvo   
+  pagaj          划ᴾᴳ        F=2     pejvo   
+  hac^           划ᴴ         F=4     piv     ハッチング線
+
+【动】 6件
+  mov            动          F=100   basic   
+  motor          动ᴹᵀ        F=35    basic   
+  aŭtomat        动ᴬ         F=18    basic   
+  verb           动ⱽ         F=11    basic   
+  kinet          动ᴷ         F=4     pejvo   
+  kinez          动ᴷᶻ        F=7     piv     【医】運動(運動障害)
+
+【压】 6件
+  prem           压          F=102   basic   
+  tensi          压ᵀ         F=17    pejvo   
+  katiz          压ᴷ         F=5     pejvo   
+  markot         压ᴹ         F=3     pejvo   
+  preg           压ᴾᴳ        F=2     piv     【技】型打ち、プレス成形
+  presuriz       压ᴾˢ        F=2     piv     加圧する
+
+【检】 6件
+  kontrol        检          F=33    basic   
+  ekzamen        检ᴱ         F=31    basic   
+  inspektor      检ᴵ         F=1     basic   
+  detekt         检ᴰ         F=12    pejvo   
+  inspekt        检ᴵᴺ        F=7     pejvo   
+  skrutini       检ˢ         F=2     piv     開票検査
+
+【热】 6件
+  ard            热          F=14    basic   
+  hejt           热ᴴ         F=23    basic   
+  entuziasm      热ᴱ         F=9     basic   
+  fervor         热ᶠ         F=8     basic   
+  termik         热ᵀ         F=9     pejvo   
+  furor          热ᶠᴿ        F=7     pejvo   
+
+【现】 6件
+  nun            现          F=14    func    
+  fenomen        现ᶠ         F=22    basic   
+  aper           现ᴬ         F=19    basic   
+  aktual         现ᴬᴷ        F=10    basic   
+  modern         现ᴹ         F=10    basic   
+  kontant        现ᴷ         F=8     basic   
+
+【缩】 6件
+  ful            缩          F=6     pejvo   
+  miniatur       缩ᴹ         F=6     pejvo   
+  s^rump         缩ˢ̂        F=4     pejvo   
+  deflaci        缩ᴰ         F=3     pejvo   
+  sistol         缩ˢ         F=2     pejvo   
+  kontrah        缩ᴷ         F=3     piv     【生】筋肉を収縮させる
+
+【药】 6件
+  medikament     药          F=11    basic   
+  apotek         药ᴬ         F=3     basic   
+  drog           药ᴰ         F=8     pejvo   
+  farmaci        药ᶠᶜ        F=4     pejvo   
+  oficin         药ᴼ         F=3     pejvo   
+  farmak         药ᶠ         F=2     pejvo   
+
+【论】 6件
+  teori          论          F=25    basic   
+  diskut         论ᴰ         F=18    basic   
+  ese            论ᴱ         F=3     basic   
+  argument       论ᴬ         F=9     pejvo   
+  disert         论ᴰᴿ        F=4     pejvo   
+  silog          论ˢ         F=2     pejvo   
+
+【调】 6件
+  ton            调          F=33    basic   
+  agord          调ᴬ         F=13    basic   
+  melodi         调ᴹ         F=4     basic   
+  klimatiz       调ᴷ         F=0     basic   
+  modul          调ᴹᴰ        F=11    pejvo   
+  tonal          调ᵀᴸ        F=9     pejvo   
+
+【风】 6件
+  vent           风          F=81    basic   
+  stil           风ˢ         F=27    basic   
+  tajfun         风ᵀ         F=2     basic   
+  esk            风ᴱ         F=11    pejvo   
+  ventol         风ⱽᴸ        F=6     pejvo   
+  anem           风ᴬ         F=3     pejvo   
+
+【委】 5件
+  deleg          委          F=8     basic   
+  komitat        委ᴷᵀ        F=16    basic   
+  komisi         委ᴷ         F=13    basic   
+  komision       委ᴷᴺ        F=10    basic   
+  mandat         委ᴹ         F=7     basic   
+
+【架】 5件
+  rak            架          F=6     pejvo   
+  c^arpent       架ᶜ̂        F=8     pejvo   
+  stabl          架ˢ         F=5     pejvo   
+  skafald        架ˢᴷ        F=3     pejvo   
+  trus           架ᵀ         F=3     pejvo   
+
+【角】 5件
+  korn           角          F=33    basic   
+  angul          角ᴬ         F=85    basic   
+  rol            角ᴿ         F=9     basic   
+  goni           角ᴳ         F=5     piv     【測】角度
+  kerat          角ᴷᵀ        F=5     piv     【医】角膜
+
+【感】 5件
+  sent           感          F=52    basic   
+  sens           感ˢˢ        F=33    basic   
+  estez          感ᴱ         F=19    suf     
+  induk          感ᴵ         F=10    pejvo   
+  influenc       感ᴵᶠ        F=2     pejvo   
+
+【器】 5件
+  uj             器          F=414   suf     
+  organ          器ᴼ         F=59    basic   
+  aparat         器ᴬ         F=28    basic   
+  instrument     器ᴵ         F=17    basic   
+  vaz            器ⱽ         F=17    basic   
+
+【吸】 5件
+  suĉ            吸          F=36    basic   
+  sorb           吸ˢᴿ        F=30    basic   
+  absorb         吸ᴬ         F=6     pejvo   
+  inhal          吸ᴵ         F=5     pejvo   
+  s^mac          吸ˢ̂        F=3     pejvo   
+
+【虚】 5件
+  vant           虚          F=11    basic   
+  fikci          虚ᶠ         F=10    basic   
+  virtual        虚ⱽᴿ        F=8     pejvo   
+  fiktiv         虚ᶠᵀ        F=4     pejvo   
+  imaginar       虚ᴵ         F=2     pejvo   
+
+【敬】 5件
+  pi             敬          F=17    basic   
+  respekt        敬ᴿ         F=15    basic   
+  omag^          敬ᴼ         F=4     pejvo   
+  piet           敬ᴾᵀ        F=2     pejvo   
+  devot          敬ᴰ         F=4     piv     【宗】敬虔
+
+【抗】 5件
+  anti           抗          F=55    pref    
+  rezist         抗ᴿ         F=28    basic   
+  protest        抗ᴾ         F=11    basic   
+  protestant     抗ᴾᴺ        F=0     basic   
+  rezistanc      抗ᴿᴺ        F=4     pejvo   
+
+【硬】 5件
+  rigid          硬          F=14    basic   
+  hard           硬ᴴ         F=12    pejvo   
+  skler          硬ˢ         F=6     pejvo   
+  dur            硬ᴰ         F=3     pejvo   
+  ciroz          硬ᶜ         F=2     pejvo   
+
+【香】 5件
+  spic           香          F=12    basic   
+  parfum         香ᴾ         F=6     basic   
+  arom           香ᴬ         F=10    pejvo   
+  incens         香ᴵ         F=10    pejvo   
+  mosk           香ᴹ         F=6     pejvo   
+
+【市】 5件
+  urb            市          F=72    basic   
+  merkat         市ᴹ         F=25    basic   
+  civit          市ᶜ         F=15    basic   
+  bors           市ᴮ         F=13    basic   
+  bazar          市ᴮᶻ        F=13    basic   
+
+【字】 5件
+  liter          字          F=33    basic   
+  alfabet        字ᴬ         F=11    basic   
+  karaktr        字ᴷ         F=6     pejvo   
+  uskl           字ᵁ         F=4     pejvo   
+  aboc           字ᴬᴮ        F=2     pejvo   
+
+【治】 5件
+  reg            治          F=55    basic   
+  domin          治ᴰ         F=9     pejvo   
+  krat           治ᴷ         F=5     pejvo   
+  krati          治ᴷᴵ        F=3     pejvo   
+  regi           治ᴿᴵ        F=3     pejvo   
+
+【式】 5件
+  mod            式          F=14    basic   
+  manier         式ᴹᴺ        F=27    basic   
+  ceremoni       式ᶜ         F=12    basic   
+  formul         式ᶠ         F=6     basic   
+  modal          式ᴹᴸ        F=3     pejvo   
+
+【女】 5件
+  in             女          F=359   suf     
+  feminism       女ᶠ         F=0     basic   
+  femin          女ᶠᴱ        F=4     pejvo   
+  ginek          女ᴳ         F=2     pejvo   
+  nj             女ᴺ         F=2     pejvo   
+
+【升】 5件
+  litr           升          F=7     basic   
+  promoci        升ᴾ         F=9     pejvo   
+  his            升ᴴ         F=6     pejvo   
+  parvenu        升ᴾⱽ        F=3     pejvo   
+  dies           升ᴰ         F=2     pejvo   
+
+【情】 5件
+  pati           情          F=30    suf     
+  humor          情ᴴ         F=18    basic   
+  emoci          情ᴱ         F=11    basic   
+  pasi           情ᴾˢ        F=7     basic   
+  afekci         情ᴬ         F=3     pejvo   
+
+【色】 5件
+  kolor          色          F=106   basic   
+  volupt         色ⱽ         F=13    basic   
+  erotik         色ᴱ         F=3     basic   
+  kromat         色ᴷᴿ        F=15    pejvo   
+  erot           色ᴱᴿ        F=5     piv     性愛・エロス
+
+【心】 5件
+  kor            心          F=62    basic   
+  mens           心ᴹ         F=16    basic   
+  psikologi      心ᴾ         F=0     basic   
+  psik           心ᴾˢ        F=37    sci     
+  kardi          心ᴷᴰ        F=18    sci     
+
+【推】 5件
+  puŝ            推          F=48    basic   
+  ŝov            推ŝ         F=46    basic   
+  rezon          推ᴿ         F=10    basic   
+  inferenc       推ᴵ         F=2     piv     【哲】推論
+  propuls        推ᴾᴿ        F=2     piv     【技】推進する
+
+【雀】 5件
+  alaŭd          雀          F=6     basic   
+  paser          雀ᴾ         F=5     basic   
+  kanari         雀ᴷ         F=4     basic   
+  emberiz        雀ᴱ         F=2     pejvo   
+  pirol          雀ᴾᴿ        F=2     pejvo   
+
+【成】 5件
+  iĝ             成          F=1513  suf     
+  sukces         成ˢ         F=19    basic   
+  konsist        成ᴷ         F=7     basic   
+  adolt          成ᴬ         F=2     pejvo   
+  igx            成ᴵᴳ        F=2     pejvo   
+
+【星】 5件
+  stel           星          F=46    basic   
+  astr           星ᴬ         F=17    basic   
+  satelit        星ˢᵀ        F=10    basic   
+  planed         星ᴾ         F=8     basic   
+  sider          星ˢᴰ        F=4     pejvo   
+
+【切】 5件
+  tomi           切          F=22    suf     
+  tranĉ          切ᵀᴿ        F=52    basic   
+  sekc           切ˢ         F=20    sci     
+  tangent        切ᵀᴺ        F=3     pejvo   
+  inciz          切ᴵ         F=4     piv     切開
+
+【折】 5件
+  fald           折          F=36    basic   
+  rabat          折ᴿ         F=10    basic   
+  refrakt        折ᴿᶠ        F=14    pejvo   
+  zigzag         折ᶻ         F=5     pejvo   
+  plis           折ᴾ         F=3     pejvo   
+
+【穿】 5件
+  tra            穿          F=139   prep    
+  penetr         穿ᴾ         F=20    basic   
+  permeabl       穿ᴾᴿ        F=6     pejvo   
+  tred           穿ᵀᴰ        F=2     pejvo   
+  perfor         穿ᴾᶠ        F=2     piv     穿孔する
+
+【槽】 5件
+  fold           槽          F=6     pejvo   
+  kanel          槽ᴷ         F=9     pejvo   
+  alveol         槽ᴬ         F=6     pejvo   
+  trog           槽ᵀ         F=6     pejvo   
+  rabet          槽ᴿ         F=2     piv     【技】溝(さねはぎ)
+
+【存】 5件
+  depon          存          F=11    basic   
+  konserv        存ᴷ         F=19    basic   
+  ekzist         存ᴱ         F=14    basic   
+  konservativ    存ᴷᵀ        F=5     pejvo   
+  ekzistencial   存ᴱᴺ        F=2     pejvo   
+
+【体】 5件
+  korp           体          F=44    basic   
+  sport          体ˢ         F=19    basic   
+  fart           体ᶠ         F=7     basic   
+  somat          体ˢᵀ        F=4     piv     【生】体細胞
+  som            体ˢᴹ        F=2     piv     【生】〜ソーム(小器官)
+
+【台】 5件
+  podi           台          F=7     basic   
+  teras          台ᵀ         F=3     basic   
+  peron          台ᴾᴿ        F=1     basic   
+  bufed          台ᴮ         F=5     pejvo   
+  konzol         台ᴷ         F=2     pejvo   
+
+【棚】 5件
+  bud            棚          F=7     basic   
+  laŭb           棚ᴸ         F=2     basic   
+  barak          棚ᴮᴿ        F=2     pejvo   
+  markez         棚ᴹ         F=2     pejvo   
+  s^ed           棚ˢ̂        F=3     piv     家畜小屋・差掛け小屋
+
+【地】 5件
+  ter            地          F=142   basic   
+  geo            地ᴳ         F=49    pref    
+  teren          地ᵀᴺ        F=14    basic   
+  geografi       地ᴳᴳ        F=0     basic   
+  topo           地ᵀᴾ        F=8     pejvo   
+
+【注】 5件
+  atent          注          F=16    basic   
+  injekt         注ᴵ         F=7     basic   
+  komentari      注ᴷ         F=4     basic   
+  glos           注ᴳ         F=6     pejvo   
+  skoli          注ˢ         F=2     piv     古注・注釈
+
+【填】 5件
+  plomb          填          F=4     pejvo   
+  rembur         填ᴿ         F=10    pejvo   
+  kalfatr        填ᴷ         F=5     pejvo   
+  farc^          填ᶠ         F=3     pejvo   
+  stup           填ˢ         F=3     pejvo   
+
+【同】 5件
+  sam            同          F=86    basic   
+  homo           同ᴴ         F=25    pref    
+  ident          同ᴵ         F=10    basic   
+  asimil         同ᴬ         F=6     basic   
+  unison         同ᵁ         F=2     pejvo   
+
+【特】 5件
+  ekstr          特          F=6     basic   
+  special        特ˢᴸ        F=11    basic   
+  specif         特ˢ         F=9     basic   
+  trajt          特ᵀ         F=1     basic   
+  karakteriz     特ᴷ         F=0     basic   
+
+【毒】 5件
+  venen          毒          F=20    basic   
+  virus          毒ⱽᴿ        F=13    basic   
+  toks           毒ᵀ         F=21    sci     
+  toksin         毒ᵀᴺ        F=5     pejvo   
+  virulent       毒ⱽᴸ        F=3     pejvo   
+
+【内】 5件
+  endo           内          F=20    pref    
+  intern         内ᴵ         F=32    basic   
+  en             内ᴱᴺ        F=0     prep    
+  imanent        内ᴵᴹ        F=2     pejvo   
+  intra          内ᴵᴿ        F=3     piv     筋肉内の
+
+【能】 5件
+  iv             能          F=126   suf     
+  pov            能ᴾ         F=58    basic   
+  energi         能ᴱ         F=55    basic   
+  kapabl         能ᴷ         F=29    basic   
+  kompetent      能ᴷᴹ        F=8     basic   
+
+【派】 5件
+  deput          派          F=8     basic   
+  deriv          派ᴰᴿ        F=13    pejvo   
+  sekt           派ˢ         F=6     pejvo   
+  skol           派ˢᴸ        F=4     pejvo   
+  konfesi        派ᴷ         F=2     pejvo   
+
+【秘】 5件
+  sekret         秘          F=20    basic   
+  sekretari      秘ˢᴿ        F=9     basic   
+  konfidenc      秘ᴷ         F=8     basic   
+  esoter         秘ᴱ         F=3     pejvo   
+  kabal          秘ᴷᴮ        F=3     pejvo   
+
+【封】 5件
+  kovert         封          F=2     basic   
+  feu^d          封ᶠ         F=15    pejvo   
+  apanag^        封ᴬ         F=3     pejvo   
+  hermetik       封ᴴ         F=2     pejvo   
+  defens         封ᴰ         F=2     piv     放牧を禁じる
+
+【文】 5件
+  kler           文          F=11    basic   
+  tekst          文ᵀ         F=27    basic   
+  literatur      文ᴸ         F=17    basic   
+  artikol        文ᴬ         F=7     basic   
+  beletr         文ᴮ         F=5     pejvo   
+
+【泡】 5件
+  ampol          泡          F=4     basic   
+  bobel          泡ᴮ         F=5     pejvo   
+  infuz          泡ᴵ         F=5     pejvo   
+  efervesk       泡ᴱ         F=3     pejvo   
+  blaz           泡ᴮᴸ        F=3     piv     【医】水疱
+
+【磨】 5件
+  muel           磨          F=26    basic   
+  polur          磨ᴾ         F=13    basic   
+  fajl           磨ᶠ         F=8     pejvo   
+  erod           磨ᴱ         F=3     pejvo   
+  pumik          磨ᴾᴹ        F=2     pejvo   
+
+【魔】 5件
+  sorĉ           魔          F=20    basic   
+  diabl          魔ᴰ         F=14    basic   
+  magi           魔ᴹ         F=10    basic   
+  satan          魔ˢᵀ        F=7     basic   
+  demon          魔ᴰᴹ        F=8     pejvo   
+
+【民】 5件
+  popol          民          F=38    basic   
+  civil          民ᶜ         F=30    basic   
+  demokrati      民ᴰ         F=13    basic   
+  demokrat       民ᴰᴱ        F=12    pejvo   
+  pleb           民ᴾᴸ        F=2     pejvo   
+
+【名】 5件
+  nom            名          F=80    basic   
+  fam            名ᶠ         F=21    basic   
+  substantiv     名ˢ         F=5     basic   
+  onim           名ᴼ         F=12    pejvo   
+  nominal        名ᴺᴺ        F=5     pejvo   
+
+【理】 5件
+  prav           理          F=12    basic   
+  trakt          理ᵀ         F=17    basic   
+  raci           理ᴿ         F=11    basic   
+  logik          理ᴸ         F=6     basic   
+  racional       理ᴿᴺ        F=9     pejvo   
+
+【粒】 5件
+  er             粒          F=87    suf     
+  grajn          粒ᴳ         F=26    basic   
+  granul         粒ᴳᴺ        F=8     pejvo   
+  partikl        粒ᴾ         F=6     pejvo   
+  korpuskl       粒ᴷ         F=4     pejvo   
+
+【冲】 5件
+  impuls         冲          F=11    basic   
+  konflikt       冲ᴷ         F=12    basic   
+  spurt          冲ˢ         F=3     piv     スパート
+  elan           冲ᴱ         F=2     piv     勢い
+  sprint         冲ˢᴺ        F=2     piv     短距離走・スプリント
+
+【卷】 5件
+  rul            卷          F=75    basic   
+  volv           卷ⱽ         F=42    basic   
+  friz           卷ᶠ         F=14    basic   
+  bukl           卷ᴮ         F=6     basic   
+  cirus          卷ᶜ         F=3     pejvo   
+
+【袍】 5件
+  rob            袍          F=13    basic   
+  surtut         袍ˢ         F=3     basic   
+  tunik          袍ᵀ         F=4     pejvo   
+  frok           袍ᶠ         F=3     piv     修道服・僧衣
+  kut            袍ᴷ         F=2     piv     【史】鎧の上着・サーコート
+
+【伪】 5件
+  fals           伪          F=22    basic   
+  pseŭdo         伪ᴾ         F=29    pref    
+  kamufl         伪ᴷ         F=5     pejvo   
+  apokrif        伪ᴬ         F=2     pejvo   
+  postic^        伪ᴾᵀ        F=2     pejvo   
+
+【减】 5件
+  minus          减          F=5     func    
+  redukt         减ᴿ         F=14    basic   
+  subtrah        减ˢ         F=3     basic   
+  diskont        减ᴰ         F=6     pejvo   
+  dekrement      减ᴰᴷ        F=2     pejvo   
+
+【剧】 5件
+  dram           剧          F=10    basic   
+  teatr          剧ᵀ         F=21    basic   
+  komedi         剧ᴷ         F=9     basic   
+  skeĉ           剧ˢ         F=1     basic   
+  fars           剧ᶠ         F=6     pejvo   
+
+【囊】 5件
+  vezik          囊          F=20    basic   
+  kapsul         囊ᴷ         F=7     pejvo   
+  folikl         囊ᶠ         F=5     pejvo   
+  ask            囊ᴬ         F=5     piv     【植】子嚢
+  burs           囊ᴮ         F=2     piv     【解】滑液包
+
+【审】 5件
+  revizi         审          F=6     basic   
+  cenzur         审ᶜ         F=7     pejvo   
+  revizor        审ᴿᴿ        F=4     pejvo   
+  asiz           审ᴬ         F=3     pejvo   
+  reviz          审ᴿᴱ        F=3     pejvo   
+
+【导】 5件
+  gvid           导          F=29    basic   
+  konduk         导ᴷ         F=35    basic   
+  direktor       导ᴰ         F=5     basic   
+  kondukt        导ᴷᵀ        F=22    sci     
+  c^ic^eron      导ᶜ̂        F=2     pejvo   
+
+【废】 5件
+  rub            废          F=22    basic   
+  ruin           废ᴿᴺ        F=13    basic   
+  abol           废ᴬ         F=3     pejvo   
+  abolici        废ᴬᶜ        F=3     pejvo   
+  abrog          废ᴬᴿ        F=2     piv     廃止・撤廃
+
+【护】 5件
+  zorg           护          F=28    basic   
+  protekt        护ᴾ         F=21    basic   
+  fleg           护ᶠ         F=10    basic   
+  eskort         护ᴱ         F=4     pejvo   
+  konvoj         护ᴷ         F=2     pejvo   
+
+【摇】 5件
+  sku            摇          F=21    basic   
+  balanc         摇ᴮ         F=10    basic   
+  lul            摇ᴸ         F=10    basic   
+  ŝancel         摇ŝ         F=9     basic   
+  vobl           摇ⱽ         F=3     piv     振れ回る
+
+【测】 5件
+  mezur          测          F=57    basic   
+  metri          测ᴹᵀ        F=60    sci     
+  bir            测ᴮ         F=6     pejvo   
+  gau^g^         测ᴳ         F=5     pejvo   
+  test           测ᵀ         F=4     pejvo   
+
+【环】 5件
+  ring           环          F=49    basic   
+  cikl           环ᶜ         F=42    basic   
+  cirkul         环ᶜᴿ        F=8     basic   
+  bracelet       环ᴮ         F=2     basic   
+  tor            环ᵀ         F=2     pejvo   
+
+【电】 5件
+  elektr         电          F=161   basic   
+  elektronik     电ᴱᴺ        F=7     basic   
+  pil            电ᴾ         F=7     basic   
+  bateri         电ᴮ         F=3     basic   
+  galvan         电ᴳ         F=12    pejvo   
+
+【确】 5件
+  cert           确          F=18    basic   
+  konfirm        确ᴷ         F=6     basic   
+  konstat        确ᴷˢ        F=3     basic   
+  ja             确ᴶ         F=1     func    
+  definitiv      确ᴰ         F=8     pejvo   
+
+【种】 5件
+  sem            种          F=33    basic   
+  spec           种ˢᴾ        F=24    basic   
+  ras            种ᴿ         F=20    sci     
+  speci          种ˢᴵ        F=13    pejvo   
+  inokul         种ᴵ         F=5     pejvo   
+
+【结】 5件
+  lig            结          F=49    basic   
+  nod            结ᴺ         F=18    basic   
+  konklud        结ᴷ         F=6     basic   
+  bant           结ᴮ         F=3     basic   
+  tuberkul       结ᵀ         F=7     pejvo   
+
+【编】 5件
+  plekt          编          F=18    basic   
+  redakt         编ᴿ         F=12    basic   
+  kompil         编ᴷ         F=10    basic   
+  redaktor       编ᴿᴿ        F=5     basic   
+  editor         编ᴱ         F=2     piv     校訂者・編集者
+
+【联】 5件
+  uni            联          F=5     basic   
+  asoci          联ᴬ         F=11    basic   
+  federaci       联ᶠ         F=10    basic   
+  feder          联ᶠᴱ        F=9     pejvo   
+  federal        联ᶠᴸ        F=2     pejvo   
+
+【胶】 5件
+  glu            胶          F=32    basic   
+  gum            胶ᴳᴹ        F=19    basic   
+  kaŭĉuk         胶ᴷ         F=17    basic   
+  koloid         胶ᴷᴸ        F=5     pejvo   
+  aglutin        胶ᴬ         F=3     pejvo   
+
+【荡】 5件
+  vag            荡          F=26    basic   
+  diboc^         荡ᴰ         F=13    pejvo   
+  fluktu         荡ᶠ         F=3     pejvo   
+  libertin       荡ᴸ         F=3     pejvo   
+  vagabond       荡ⱽᴮ        F=2     pejvo   
+
+【议】 5件
+  konsil         议          F=27    basic   
+  parlament      议ᴾᴸ        F=16    basic   
+  propon         议ᴾ         F=13    basic   
+  konsili        议ᴷᴵ        F=10    basic   
+  palavr         议ᴾⱽ        F=2     piv     長い協議
+
+【记】 5件
+  not            记          F=26    basic   
+  memor          记ᴹ         F=51    basic   
+  ĵurnal         记ĵ         F=10    basic   
+  rekord         记ᴿ         F=9     basic   
+  graf           记ᴳ         F=123   sci     
+
+【诗】 5件
+  poem           诗          F=7     basic   
+  poezi          诗ᴾᶻ        F=8     basic   
+  poet           诗ᴾᵀ        F=5     basic   
+  muz            诗ᴹ         F=3     pejvo   
+  poez           诗ᴾᴼ        F=6     piv     【生】造血
+
+【谐】 5件
+  humur          谐          F=7     basic   
+  harmoni        谐ᴴᴿ        F=8     basic   
+  harmon         谐ᴴᴬ        F=12    pejvo   
+  burlesk        谐ᴮ         F=5     pejvo   
+  skerc          谐ˢ         F=2     pejvo   
+
+【适】 5件
+  taŭg           适          F=14    basic   
+  moder          适ᴹ         F=14    basic   
+  konven         适ᴷ         F=11    basic   
+  adapt          适ᴬ         F=9     basic   
+  akomod         适ᴬᴷ        F=3     pejvo   
+
+【钻】 5件
+  bor            钻          F=28    basic   
+  diamant        钻ᴰ         F=4     basic   
+  alez           钻ᴬ         F=4     pejvo   
+  dril           钻ᴰᴿ        F=3     pejvo   
+  spil           钻ˢ         F=2     pejvo   
+
+【锅】 5件
+  pat            锅          F=21    basic   
+  kaldron        锅ᴷ         F=11    basic   
+  kaserol        锅ᴷˢ        F=2     basic   
+  retort         锅ᴿ         F=3     pejvo   
+  marmit         锅ᴹ         F=2     pejvo   
+
+【队】 5件
+  team           队          F=10    basic   
+  karavan        队ᴷ         F=6     basic   
+  rot            队ᴿ         F=3     pejvo   
+  band           队ᴮ         F=2     pejvo   
+  skadr          队ˢ         F=2     pejvo   
+
+【题】 5件
+  tem            题          F=11    basic   
+  problem        题ᴾ         F=20    basic   
+  titol          题ᵀᵀ        F=11    basic   
+  tez            题ᵀᶻ        F=6     basic   
+  topik          题ᵀᴾ        F=2     piv     論題・主題
+
+【骗】 5件
+  tromp          骗          F=21    basic   
+  fripon         骗ᶠ         F=7     basic   
+  mistifik       骗ᴹ         F=2     basic   
+  c^arlatan      骗ᶜ̂        F=5     pejvo   
+  truk           骗ᵀᴷ        F=4     pejvo   
+
+【鸣】 5件
+  tint           鸣          F=12    basic   
+  blek           鸣ᴮ         F=8     basic   
+  hup            鸣ᴴ         F=3     pejvo   
+  c^irp          鸣ᶜ̂        F=2     pejvo   
+  kvivit         鸣ᴷ         F=2     piv     チチッ(小鳥の鳴き声)
+
+【位】 4件
+  situ           位          F=2     basic   
+  pozici         位ᴾ         F=6     basic   
+  bit            位ᴮ         F=12    pejvo   
+  apozici        位ᴬ         F=2     pejvo   
+
+【意】 4件
+  ide            意          F=31    basic   
+  senc           意ˢ         F=36    basic   
+  signif         意ˢᴳ        F=15    basic   
+  intenc         意ᴵᴺ        F=12    basic   
+
+【院】 4件
+  kort           院          F=19    basic   
+  akademi        院ᴬ         F=5     basic   
+  institut       院ᴵ         F=4     basic   
+  kolegi         院ᴷᴸ        F=4     basic   
+
+【桶】 4件
+  kuv            桶          F=7     basic   
+  barel          桶ᴮ         F=15    basic   
+  sitel          桶ˢ         F=2     basic   
+  tin            桶ᵀ         F=3     pejvo   
+
+【音】 4件
+  prononc        音          F=8     basic   
+  fonetik        音ᶠ         F=4     basic   
+  akustik        音ᴬ         F=3     pejvo   
+  fonet          音ᶠᴼ        F=2     pejvo   
+
+【科】 4件
+  scienc         科          F=56    basic   
+  sekci          科ˢᴷ        F=4     basic   
+  ed             科ᴱ         F=17    pejvo   
+  ac             科ᴬ         F=8     pejvo   
+
+【芽】 4件
+  ĝerm           芽          F=11    basic   
+  burĝon         芽ᴮ         F=8     basic   
+  s^os           芽ˢ̂        F=6     pejvo   
+  spros          芽ˢ         F=2     pejvo   
+
+【会】 4件
+  kongres        会          F=22    basic   
+  asemble        会ᴬ         F=5     basic   
+  konferenc      会ᴷᶠ        F=5     basic   
+  sesi           会ˢ         F=3     pejvo   
+
+【解】 4件
+  liz            解          F=19    suf     【化】溶解・分解
+  kompren        解ᴷ         F=35    basic   
+  solv           解ˢ         F=31    basic   
+  disoci         解ᴰ         F=5     pejvo   
+
+【叶】 4件
+  foli           叶          F=98    basic   
+  lob            叶ᴸ         F=7     pejvo   
+  frond          叶ᶠᴿ        F=3     pejvo   
+  limb           叶ᴸᴹ        F=2     pejvo   
+
+【官】 4件
+  oficial        官          F=11    basic   
+  burokrat       官ᴮ         F=4     basic   
+  magistrat      官ᴹ         F=5     pejvo   
+  tribunus       官ᵀ         F=2     piv     【史】護民官
+
+【机】 4件
+  maŝin          机          F=88    basic   
+  ŝanc           机ŝ         F=8     basic   
+  meĥanism       机ᴹĥ        F=0     basic   
+  meh^an         机ᴹᴴ̂       F=6     pejvo   
+
+【期】 4件
+  dat            期          F=49    basic   
+  period         期ᴾ         F=27    basic   
+  dum            期ᴰᴹ        F=13    prep    
+  semestr        期ˢ         F=4     pejvo   
+
+【技】 4件
+  teknik         技          F=26    basic   
+  inĝenier       技ᴵ         F=12    basic   
+  teknologi      技ᵀᴸ        F=7     basic   
+  teĥnik         技ᵀĥ        F=2     basic   
+
+【客】 4件
+  gast           客          F=24    basic   
+  pasaĝer        客ᴾ         F=9     basic   
+  klient         客ᴷ         F=3     basic   
+  objektiv       客ᴼ         F=0     basic   
+
+【胸】 4件
+  brust          胸          F=30    basic   
+  steto          胸ˢ         F=4     pejvo   
+  torak          胸ᵀ         F=3     pejvo   
+  bust           胸ᴮˢ        F=2     pejvo   
+
+【曲】 4件
+  kurb           曲          F=23    basic   
+  kanzon         曲ᴷᴺ        F=4     basic   
+  hiperbol       曲ᴴ         F=3     pejvo   
+  romanc         曲ᴿ         F=2     pejvo   
+
+【金】 4件
+  or             金          F=61    basic   
+  metal          金ᴹ         F=33    basic   
+  blond          金ᴮ         F=3     basic   
+  vendred        金ⱽ         F=4     cal     
+
+【空】 4件
+  vak            空          F=12    basic   
+  spac           空ˢ         F=29    basic   
+  vaku           空ⱽᵁ        F=16    pejvo   
+  idl            空ᴵ         F=3     piv     空転する
+
+【径】 4件
+  trotuar        径          F=3     basic   
+  kalibr         径ᴷ         F=6     pejvo   
+  pad            径ᴾ         F=2     pejvo   
+  radial         径ᴿ         F=2     pejvo   
+
+【系】 4件
+  sistem         系          F=58    basic   
+  fakultat       系ᶠ         F=12    pejvo   
+  genea          系ᴳ         F=4     pejvo   
+  spalir         系ˢᴾ        F=2     pejvo   
+
+【血】 4件
+  sang           血          F=86    basic   
+  emi            血ᴱ         F=26    suf     
+  hemo           血ᴴ         F=7     piv     
+  hemat          血ᴴᵀ        F=3     piv     【動】ミヤコドリ
+
+【源】 4件
+  origin         源          F=10    basic   
+  genez          源ᴳ         F=32    sci     
+  etim           源ᴱ         F=5     pejvo   
+  deven          源ᴰ         F=4     pejvo   
+
+【己】 4件
+  si             己          F=95    func    
+  propr          己ᴾ         F=32    basic   
+  egoist         己ᴱ         F=0     basic   
+  propriet       己ᴾᵀ        F=8     pejvo   
+
+【口】 4件
+  buŝ            口          F=33    basic   
+  faŭk           口ᶠ         F=5     basic   
+  luk            口ᴸ         F=4     basic   
+  stomat         口ˢ         F=6     piv     【医】口腔
+
+【甲】 4件
+  kiras          甲          F=15    pejvo   
+  skarab         甲ˢ         F=13    pejvo   
+  metil          甲ᴹ         F=7     pejvo   
+  blend          甲ᴮ         F=3     pejvo   
+
+【膏】 4件
+  cir            膏          F=4     basic   
+  balzam         膏ᴮ         F=7     pejvo   
+  kataplasm      膏ᴷ         F=2     pejvo   
+  pomad          膏ᴾ         F=2     pejvo   
+
+【航】 4件
+  aviad          航          F=30    basic   
+  navig          航ᴺ         F=10    pejvo   
+  navigaci       航ᴺᶜ        F=2     pejvo   
+  nau^tik        航ᴺᵁ̆       F=2     piv     航海術
+
+【昏】 4件
+  sven           昏          F=10    basic   
+  krepusk        昏ᴷ         F=7     basic   
+  komat          昏ᴷᴹ        F=5     pejvo   
+  stupor         昏ˢᵀ        F=4     piv     【医】昏迷
+
+【叉】 4件
+  fork           叉          F=18    basic   
+  harpun         叉ᴴ         F=5     pejvo   
+  bifid          叉ᴮ         F=2     piv     二分した
+  dikotom        叉ᴰ         F=2     piv     【植】二叉分枝の
+
+【索】 4件
+  indeks         索          F=4     basic   
+  rig            索ᴿ         F=5     pejvo   
+  staj           索ˢ         F=4     pejvo   
+  funikl         索ᶠ         F=2     pejvo   
+
+【算】 4件
+  kalkul         算          F=48    basic   
+  komput         算ᴷᴹ        F=37    basic   
+  budĝet         算ᴮ         F=1     basic   
+  aritmetik      算ᴬ         F=7     pejvo   
+
+【支】 4件
+  apog           支          F=23    basic   
+  fili           支ᶠ         F=3     basic   
+  bronk          支ᴮ         F=8     pejvo   
+  klad           支ᴷ         F=5     piv     【植】分岐群・クレード
+
+【事】 4件
+  ke             事          F=9     func    
+  afer           事ᴬ         F=24    basic   
+  fakt           事ᶠ         F=4     basic   
+  event          事ᴱ         F=3     basic   
+
+【室】 4件
+  ĉambr          室          F=68    basic   
+  kamer          室ᴷ         F=12    pejvo   
+  studi          室ˢ         F=2     pejvo   
+  lokal          室ᴸ         F=3     piv     室・店舗
+
+【社】 4件
+  soci           社          F=29    basic   
+  social         社ˢᴸ        F=21    basic   
+  klub           社ᴷ         F=14    basic   
+  societ         社ˢᵀ        F=14    basic   
+
+【舟】 4件
+  boat           舟          F=26    basic   
+  gondol         舟ᴳ         F=2     pejvo   
+  kanu           舟ᴷ         F=2     pejvo   
+  kanot          舟ᴷᵀ        F=2     pejvo   
+
+【集】 4件
+  kolekt         集          F=40    basic   
+  koncentr       集ᴷᴺ        F=12    basic   
+  foir           集ᶠ         F=9     basic   
+  kolektiv       集ᴷⱽ        F=0     basic   
+
+【巡】 4件
+  kroz           巡          F=9     pejvo   
+  patrol         巡ᴾ         F=7     pejvo   
+  turne          巡ᵀ         F=2     pejvo   
+  rund           巡ᴿ         F=2     piv     巡回・見回り
+
+【症】 4件
+  fobi           症          F=8     pejvo   
+  simptom        症ˢ         F=6     pejvo   
+  sindrom        症ˢᴺ        F=4     pejvo   
+  semio          症ˢᴱ        F=2     piv     【医】症候学・記号論
+
+【植】 4件
+  plant          植          F=75    basic   
+  botanik        植ᴮ         F=9     basic   
+  vegetal        植ⱽ         F=5     basic   
+  fit            植ᶠ         F=10    pejvo   
+
+【人】 4件
+  hom            人          F=90    basic   
+  person         人ᴾ         F=30    basic   
+  oni            人ᴼ         F=8     func    
+  antrop         人ᴬ         F=16    pejvo   
+
+【正】 4件
+  ĝust           正          F=21    basic   
+  pozitiv        正ᴾ         F=25    basic   
+  normal         正ᴺ         F=14    basic   
+  legitim        正ᴸ         F=7     pejvo   
+
+【声】 4件
+  son            声          F=95    basic   
+  voĉ            声ⱽ         F=55    basic   
+  fonograf       声ᶠ         F=0     basic   
+  foni           声ᶠᴵ        F=2     pejvo   
+
+【接】 4件
+  kontakt        接          F=23    basic   
+  junt           接ᴶ         F=11    pejvo   
+  splis          接ˢ         F=4     pejvo   
+  tang^          接ᵀ         F=3     pejvo   
+
+【宣】 4件
+  anonc          宣          F=15    basic   
+  reklam         宣ᴿ         F=21    basic   
+  deklar         宣ᴰ         F=11    basic   
+  proklam        宣ᴾ         F=6     pejvo   
+
+【栓】 4件
+  kran           栓          F=9     basic   
+  bolt           栓ᴮ         F=7     pejvo   
+  embol          栓ᴱ         F=3     pejvo   
+  dubel          栓ᴰ         F=2     piv     【技】アンカープラグ、栓
+
+【前】 4件
+  antaŭ          前          F=174   prep    
+  front          前ᶠ         F=27    basic   
+  avan           前ᴬⱽ        F=3     pejvo   
+  pre            前ᴾ         F=2     piv     前(接頭辞)
+
+【塑】 4件
+  plast          塑          F=14    basic   
+  plastik        塑ᴾᴷ        F=4     basic   
+  modl           塑ᴹ         F=8     pejvo   
+  plasti         塑ᴾᴸ        F=3     piv     【医】形成術
+
+【租】 4件
+  lu             租          F=17    basic   
+  farm           租ᶠ         F=11    basic   
+  rent           租ᴿ         F=3     basic   
+  c^art          租ᶜ̂        F=9     pejvo   
+
+【相】 4件
+  relativ        相          F=20    basic   
+  faz            相ᶠ         F=17    pejvo   
+  fizionomi      相ᶠᴺ        F=2     pejvo   
+  vezir          相ⱽ         F=2     pejvo   
+
+【族】 4件
+  naci           族          F=94    basic   
+  etn            族ᴱ         F=15    basic   
+  gent           族ᴳ         F=15    basic   
+  trib           族ᵀ         F=6     pejvo   
+
+【替】 4件
+  altern         替          F=20    basic   
+  alternativ     替ᴬᵀ        F=0     basic   
+  substitu       替ˢ         F=5     pejvo   
+  dubl           替ᴰ         F=4     pejvo   
+
+【退】 4件
+  emerit         退          F=7     basic   
+  degener        退ᴰ         F=7     pejvo   
+  regres         退ᴿ         F=4     pejvo   
+  retret         退ᴿᵀ        F=2     pejvo   
+
+【段】 4件
+  etap           段          F=2     basic   
+  epizod         段ᴱᴾ        F=3     basic   
+  segment        段ˢ         F=5     pejvo   
+  metamer        段ᴹ         F=2     piv     
+
+【柱】 4件
+  mast           柱          F=21    basic   
+  kolon          柱ᴷ         F=23    basic   
+  fost           柱ᶠ         F=13    basic   
+  kegl           柱ᴷᴳ        F=6     pejvo   
+
+【定】 4件
+  fiks           定          F=38    basic   
+  difin          定ᴰ         F=15    basic   
+  determin       定ᴰᵀ        F=12    basic   
+  destin         定ᴰˢ        F=6     basic   
+
+【程】 4件
+  program        程          F=37    basic   
+  proces         程ᴾᶜ        F=8     basic   
+  procedur       程ᴾᴰ        F=7     pejvo   
+  procez         程ᴾᶻ        F=6     pejvo   
+
+【洞】 4件
+  kav            洞          F=35    basic   
+  kavern         洞ᴷᴿ        F=11    basic   
+  grot           洞ᴳ         F=1     basic   
+  sinus          洞ˢ         F=9     pejvo   
+
+【日】 4件
+  tag            日          F=80    basic   
+  helio          日ᴴ         F=10    pejvo   
+  dimanĉ         日ᴰᴹ        F=5     cal     
+  diurn          日ᴰ         F=2     pejvo   
+
+【乳】 4件
+  mam            乳          F=24    basic   
+  lakt           乳ᴸ         F=48    basic   
+  emulsi         乳ᴱ         F=8     pejvo   
+  cic            乳ᶜ         F=3     pejvo   
+
+【排】 4件
+  ekskluziv      排          F=11    basic   
+  kompost        排ᴷ         F=13    pejvo   
+  dren           排ᴰ         F=8     pejvo   
+  kotlet         排ᴷᵀ        F=4     pejvo   
+
+【杯】 4件
+  tas            杯          F=7     basic   
+  glas           杯ᴳ         F=15    basic   
+  pokal          杯ᴾ         F=6     basic   
+  kalik          杯ᴷ         F=8     pejvo   
+
+【配】 4件
+  distribu       配          F=16    basic   
+  gami           配ᴳ         F=15    pejvo   無性生殖の・無性の
+  asign          配ᴬ         F=4     pejvo   
+  kopulaci       配ᴷ         F=2     pejvo   
+
+【拍】 4件
+  fot            拍          F=87    basic   
+  takt           拍ᵀ         F=17    basic   
+  raked          拍ᴿ         F=1     basic   
+  ikt            拍ᴵ         F=2     piv     
+
+【麦】 4件
+  horde          麦          F=5     basic   
+  tritik         麦ᵀ         F=6     basic   
+  fagopir        麦ᶠ         F=6     pejvo   
+  elim           麦ᴱ         F=2     pejvo   
+
+【箱】 4件
+  kest           箱          F=42    basic   
+  valiz          箱ⱽ         F=4     basic   
+  kofr           箱ᴷᶠ        F=4     pejvo   
+  kontener       箱ᴷᴺ        F=3     piv     コンテナ
+
+【伴】 4件
+  kompani        伴          F=22    basic   
+  kamarad        伴ᴷᴿ        F=8     basic   
+  koleg          伴ᴷᴸ        F=7     basic   
+  partner        伴ᴾ         F=2     pejvo   
+
+【判】 4件
+  juĝ            判          F=40    basic   
+  kondamn        判ᴷ         F=8     basic   
+  verdikt        判ⱽ         F=3     pejvo   
+  konvikt        判ᴷⱽ        F=2     piv     有罪立証
+
+【反】 4件
+  mal            反          F=1357  pref    
+  ironi          反ᴵ         F=7     basic   
+  opon           反ᴼ         F=6     basic   
+  kontra         反ᴷ         F=2     piv     【楽】コントラファゴット
+
+【叛】 4件
+  ribel          叛          F=10    basic   
+  perfid         叛ᴾ         F=10    basic   
+  renegat        叛ᴿᴺ        F=3     pejvo   
+  apostat        叛ᴬ         F=2     pejvo   
+
+【悲】 4件
+  aflikt         悲          F=4     basic   
+  tragedi        悲ᵀ         F=4     basic   
+  pesim          悲ᴾ         F=3     pejvo   
+  trist          悲ᵀˢ        F=3     pejvo   
+
+【微】 4件
+  mikro          微          F=50    pref    
+  nuanc          微ᴺ         F=3     basic   
+  infinitezim    微ᴵ         F=3     pejvo   
+  liliput        微ᴸ         F=3     pejvo   
+
+【鼻】 4件
+  naz            鼻          F=37    basic   
+  rin            鼻ᴿ         F=6     pejvo   【医】鼻
+  rostr          鼻ᴿˢ        F=3     pejvo   
+  nazal          鼻ᴺᴸ        F=2     pejvo   
+
+【布】 4件
+  tol            布          F=22    basic   
+  ŝtof           布ŝ         F=11    basic   
+  tik            布ᵀᴷ        F=3     pejvo   
+  kalikot        布ᴷ         F=2     pejvo   
+
+【附】 4件
+  adher          附          F=4     pejvo   
+  incident       附ᴵ         F=4     pejvo   
+  enkliz         附ᴱ         F=2     piv     【語】後接辞化
+  prokliz        附ᴾ         F=2     piv     【言】前接化
+
+【部】 4件
+  part           部          F=49    basic   
+  ministeri      部ᴹ         F=15    basic   
+  redakci        部ᴿ         F=3     basic   
+  departement    部ᴰ         F=3     pejvo   
+
+【服】 4件
+  obe            服          F=11    basic   
+  konvink        服ᴷ         F=12    basic   
+  jak            服ᴶ         F=8     basic   
+  persvad        服ᴾ         F=5     pejvo   
+
+【粉】 4件
+  farun          粉          F=10    basic   
+  pulvor         粉ᴾ         F=23    basic   
+  pudr           粉ᴾᴰ        F=5     basic   
+  polen          粉ᴾᴺ        F=10    pejvo   
+
+【偏】 4件
+  devi           偏          F=9     pejvo   
+  jor            偏ᴶ         F=2     pejvo   
+  bias           偏ᴮ         F=4     piv     
+  deviaci        偏ᴰᶜ        F=2     piv     【史】偏向(党路線からの逸脱)
+
+【鞭】 4件
+  vip            鞭          F=10    basic   
+  skurg^         鞭ˢ         F=2     pejvo   
+  flagel         鞭ᶠ         F=5     piv     【生】鞭毛
+  knut           鞭ᴷ         F=2     piv     ナガヤ鞭・革鞭
+
+【保】 4件
+  asekur         保          F=30    basic   
+  garanti        保ᴳ         F=10    basic   
+  patron         保ᴾ         F=6     basic   
+  kau^ci         保ᴷ         F=2     pejvo   
+
+【包】 4件
+  pak            包          F=32    basic   
+  bulk           包ᴮ         F=7     basic   
+  bandaĝ         包ᴮᴺ        F=5     basic   
+  tek            包ᵀ         F=8     pejvo   
+
+【方】 4件
+  kub            方          F=18    basic   
+  direkt         方ᴰ         F=34    basic   
+  kvadrat        方ᴷⱽ        F=10    basic   
+  recept         方ᴿ         F=3     basic   
+
+【法】 4件
+  jur            法          F=19    basic   
+  metod          法ᴹ         F=17    basic   
+  rimed          法ᴿ         F=14    basic   
+  metodik        法ᴹᴷ        F=2     pejvo   
+
+【胞】 4件
+  ĉel            胞          F=47    basic   
+  celul          胞ᶜ         F=2     pejvo   
+  cito           胞ᶜᵀ        F=6     piv     【生】細胞
+  citoz          胞ᶜᶻ        F=5     piv     【生】サイトーシス(小胞輸送)
+
+【暴】 4件
+  ŝtorm          暴          F=11    basic   
+  tiran          暴ᵀ         F=8     pejvo   
+  violent        暴ⱽ         F=5     pejvo   
+  brutal         暴ᴮ         F=4     piv     乱暴者
+
+【密】 4件
+  dens           密          F=43    basic   
+  kompakt        密ᴷ         F=12    pejvo   
+  c^ifr          密ᶜ̂        F=10    pejvo   
+  dec^ifr        密ᴰᶜ̂       F=5     pejvo   
+
+【盟】 4件
+  sindikat       盟          F=12    basic   
+  koalici        盟ᴷᴸ        F=9     pejvo   
+  alianc         盟ᴬ         F=7     pejvo   
+  kartel         盟ᴷ         F=3     pejvo   
+
+【律】 4件
+  leĝ            律          F=39    basic   
+  ritm           律ᴿ         F=9     basic   
+  disciplin      律ᴰ         F=9     pejvo   
+  kadenc         律ᴷ         F=4     pejvo   
+
+【硫】 4件
+  sulf           硫          F=26    sci     
+  sulfur         硫ˢᴿ        F=10    pejvo   
+  sulfin         硫ˢᴺ        F=2     piv     【化】スルフィン酸
+  tionat         硫ᵀ         F=2     piv     【化】チオン酸塩
+
+【梁】 4件
+  trab           梁          F=23    sci     
+  bau^           梁ᴮ         F=2     pejvo   
+  c^evron        梁ᶜ̂        F=2     pejvo   
+  patn           梁ᴾ         F=2     piv     母屋(もや)
+
+【良】 4件
+  bon            良          F=152   basic   
+  konscienc      良ᴷ         F=7     basic   
+  benign         良ᴮᴳ        F=2     pejvo   
+  eu^            良ᴱ         F=5     piv     良・正常
+
+【令】 4件
+  ordon          令          F=14    basic   
+  komand         令ᴷ         F=15    basic   
+  edikt          令ᴱ         F=3     pejvo   
+  imperativ      令ᴵ         F=2     pejvo   
+
+【冷】 4件
+  indiferent     冷          F=6     basic   
+  frid           冷ᶠ         F=15    pejvo   
+  algid          冷ᴬ         F=2     piv     【医】低体温
+  frigid         冷ᶠᴳ        F=2     piv     【医】不感症
+
+【廊】 4件
+  koridor        廊          F=3     basic   
+  galeri         廊ᴳ         F=4     pejvo   
+  nav            廊ᴺ         F=2     pejvo   
+  ambulatori     廊ᴬ         F=2     piv     回廊
+
+【和】 4件
+  pac            和          F=47    basic   
+  kaj            和ᴷ         F=41    func    
+  akord          和ᴬ         F=12    basic   
+  pacif          和ᴾᶠ        F=2     pejvo   
+
+【价】 4件
+  prez           价          F=43    basic   
+  tarif          价ᵀ         F=14    basic   
+  kurz           价ᴷ         F=17    pejvo   
+  valent         价ⱽ         F=10    pejvo   
+
+【拜】 4件
+  ador           拜          F=11    basic   
+  kult           拜ᴷ         F=10    basic   
+  riverenc       拜ᴿ         F=2     basic   
+  pilgrim        拜ᴾ         F=9     pejvo   
+
+【无】 4件
+  sen            无          F=689   prep    
+  neni           无ᴺ         F=10    basic   
+  infinit        无ᴵ         F=4     pejvo   
+  nihil          无ᴺᴴ        F=2     pejvo   
+
+【游】 4件
+  naĝ            游          F=47    basic   
+  turism         游ᵀ         F=18    basic   
+  ekskurs        游ᴱ         F=7     basic   
+  tramp          游ᵀᴹ        F=2     pejvo   
+
+【硅】 4件
+  silic          硅          F=4     pejvo   
+  silik          硅ˢᴷ        F=3     pejvo   
+  silici         硅ˢᴵ        F=2     elem    
+  siliciat       硅ˢᵀ        F=8     piv     【鉱】ケイ酸塩
+
+【丝】 4件
+  silk           丝          F=22    basic   
+  faden          丝ᶠ         F=39    basic   
+  filament       丝ᶠᴸ        F=3     pejvo   
+  filigran       丝ᶠᴳ        F=2     pejvo   
+
+【亲】 4件
+  kar            亲          F=16    basic   
+  intim          亲ᴵ         F=12    basic   
+  parenc         亲ᴾ         F=10    basic   
+  simpati        亲ˢ         F=8     basic   
+
+【传】 4件
+  komunik        传          F=41    basic   
+  propagand      传ᴾ         F=5     basic   
+  legend         传ᴸ         F=4     basic   
+  transmisi      传ᵀ         F=5     pejvo   
+
+【值】 4件
+  ind            值          F=116   suf     
+  valor          值ⱽ         F=58    basic   
+  merit          值ᴹ         F=15    basic   
+  vac^           值ⱽᶜ̂       F=2     pejvo   
+
+【偿】 4件
+  kvit           偿          F=4     pejvo   
+  amortiz        偿ᴬ         F=6     pejvo   
+  solvent        偿ˢ         F=4     pejvo   
+  ristorn        偿ᴿ         F=2     pejvo   
+
+【养】 4件
+  nutr           养          F=40    basic   
+  bred           养ᴮ         F=15    basic   
+  vart           养ⱽ         F=12    basic   
+  trofi          养ᵀ         F=11    pejvo   
+
+【创】 4件
+  kre            创          F=22    basic   
+  iniciat        创ᴵᶜ        F=9     basic   
+  invent         创ᴵ         F=8     basic   
+  trau^mat       创ᵀ         F=6     pejvo   
+
+【单】 4件
+  mono           单          F=30    pref    
+  fraŭl          单ᶠ         F=8     basic   
+  menu           单ᴹᴱ        F=6     basic   
+  singular       单ˢ         F=2     basic   
+
+【变】 4件
+  ŝanĝ           变          F=62    basic   
+  vari           变ⱽ         F=24    basic   
+  transmutaci    变ᵀ         F=3     pejvo   
+  krement        变ᴷ         F=4     piv     増減操作
+
+【响】 4件
+  klak           响          F=18    basic   
+  sonor          响ˢ         F=23    basic   
+  laŭt           响ᴸ         F=17    basic   
+  bac            响ᴮ         F=2     piv     【史】バーツ(旧独貨幣)
+
+【喷】 4件
+  ŝpruc          喷          F=27    basic   
+  tern           喷ᵀ         F=6     basic   
+  jet            喷ᴶ         F=3     basic   
+  erupci         喷ᴱ         F=4     pejvo   
+
+【图】 4件
+  map            图          F=14    basic   
+  ilustr         图ᴵ         F=7     basic   
+  grafik         图ᴳ         F=12    pejvo   
+  skem           图ˢ         F=10    pejvo   
+
+【坚】 4件
+  firm           坚          F=15    basic   
+  fortik         坚ᶠᵀ        F=17    basic   
+  persist        坚ᴾ         F=8     basic   
+  insist         坚ᴵ         F=7     basic   
+
+【壳】 4件
+  ŝel            壳          F=28    basic   
+  krust          壳ᴷ         F=11    basic   
+  kartoc^        壳ᴷᵀ        F=12    pejvo   
+  hul            壳ᴴ         F=3     pejvo   
+
+【夹】 4件
+  kramp          夹          F=11    basic   
+  sandviĉ        夹ˢ         F=7     basic   
+  klem           夹ᴷᴸ        F=3     pejvo   
+  klip           夹ᴷᴾ        F=2     pejvo   
+
+【实】 4件
+  real           实          F=34    basic   
+  efektiv        实ᴱ         F=0     basic   
+  pragmat        实ᴾ         F=2     pejvo   
+  reel           实ᴿᴱ        F=2     piv     【数】実数
+
+【对】 4件
+  kontraŭ        对          F=163   prep    
+  kontrast       对ᴷˢ        F=8     basic   
+  opozici        对ᴼ         F=8     basic   
+  jes            对ᴶ         F=7     func    
+
+【庆】 4件
+  fest           庆          F=31    basic   
+  festival       庆ᶠⱽ        F=4     basic   
+  Pask           庆ᴾ         F=3     basic   
+  celebr         庆ᶜ         F=2     basic   
+
+【库】 4件
+  kas            库          F=18    basic   
+  bibliotek      库ᴮ         F=5     basic   
+  garaĝ          库ᴳ         F=3     basic   
+  remiz          库ᴿ         F=2     pejvo   
+
+【弹】 4件
+  bomb           弹          F=26    basic   
+  elast          弹ᴱ         F=19    basic   
+  kugl           弹ᴷ         F=10    basic   
+  obus           弹ᴼ         F=4     pejvo   
+
+【损】 4件
+  difekt         损          F=21    basic   
+  kompromit      损ᴷ         F=7     basic   
+  damaĝ          损ᴰᴹ        F=6     basic   
+  averi          损ᴬ         F=2     pejvo   
+
+【标】 4件
+  cel            标          F=45    basic   
+  mark           标ᴹ         F=37    basic   
+  etiked         标ᴱ         F=4     pejvo   
+  brisur         标ᴮ         F=2     piv     【紋章】区別記号
+
+【沉】 4件
+  merg           沉          F=13    pejvo   
+  sediment       沉ˢ         F=10    pejvo   
+  precipit       沉ᴾ         F=4     pejvo   
+  sink           沉ˢᴺ        F=3     pejvo   
+
+【涉】 4件
+  vad            涉          F=7     basic   
+  koncern        涉ᴷ         F=8     basic   
+  interfer       涉ᴵ         F=8     pejvo   
+  padel          涉ᴾ         F=3     pejvo   
+
+【皱】 4件
+  ĉif            皱          F=5     basic   
+  grimac         皱ᴳ         F=3     basic   
+  krisp          皱ᴷ         F=6     pejvo   
+  falt           皱ᶠ         F=5     pejvo   
+
+【盘】 4件
+  disk           盘          F=48    basic   
+  teler          盘ᵀ         F=15    basic   
+  plet           盘ᴾ         F=4     basic   
+  inventar       盘ᴵ         F=3     pejvo   
+
+【矿】 4件
+  min            矿          F=43    basic   
+  mineral        矿ᴹᴿ        F=9     basic   
+  erc            矿ᴱ         F=15    pejvo   
+  minera         矿ᴹᴵ        F=2     pejvo   
+
+【签】 4件
+  lot            签          F=13    basic   
+  paraf          签ᴾ         F=2     pejvo   
+  tab            签ᵀ         F=2     pejvo   
+  signatur       签ˢ         F=2     piv     署名
+
+【级】 4件
+  klas           级          F=30    basic   
+  rang           级ᴿ         F=21    basic   
+  kaskad         级ᴷˢ        F=4     pejvo   
+  hierarki       级ᴴ         F=3     pejvo   
+
+【纹】 4件
+  tatu           纹          F=5     pejvo   
+  frang^         纹ᶠᴺ        F=8     pejvo   
+  jasp           纹ᴶ         F=4     pejvo   
+  fret           纹ᶠ         F=3     pejvo   
+
+【线】 4件
+  lini           线          F=85    basic   
+  drat           线ᴰ         F=31    basic   
+  linear         线ᴸᴿ        F=6     pejvo   
+  line           线ᴸᴱ        F=5     pejvo   
+
+【织】 4件
+  teks           织          F=30    basic   
+  trik           织ᵀᴿ        F=14    basic   
+  trikot         织ᵀᵀ        F=5     basic   
+  hist           织ᴴ         F=8     pejvo   
+
+【缓】 4件
+  lant           缓          F=5     pejvo   
+  rilaks         缓ᴿ         F=4     pejvo   
+  paliativ       缓ᴾ         F=2     pejvo   
+  remit          缓ᴿᴹ        F=2     piv     【医】寛解
+
+【营】 4件
+  bivak          营          F=2     pejvo   
+  kazern         营ᴷ         F=4     pejvo   
+  kantonment     营ᴷᴺ        F=3     pejvo   
+  kvartir        营ᴷⱽ        F=3     pejvo   
+
+【蓝】 4件
+  blu            蓝          F=41    basic   
+  indig          蓝ᴵ         F=7     pejvo   
+  lazur          蓝ᴸ         F=3     pejvo   
+  vajd           蓝ⱽ         F=2     piv     【植】ホソバタイセイ(藍)
+
+【补】 4件
+  flik           补          F=14    basic   
+  kompens        补ᴷ         F=16    basic   
+  komplement     补ᴷᴸ        F=11    basic   
+  suplement      补ˢ         F=3     basic   
+
+【规】 4件
+  regul          规          F=53    basic   
+  cirkel         规ᶜ         F=7     basic   
+  preskrib       规ᴾ         F=2     basic   
+  reglament      规ᴿᴹ        F=2     pejvo   
+
+【觉】 4件
+  konsci         觉          F=27    basic   
+  rimark         觉ᴿ         F=11    basic   
+  percept        觉ᴾ         F=7     pejvo   
+  bodi           觉ᴮ         F=3     pejvo   
+
+【评】 4件
+  taks           评          F=24    basic   
+  kritik         评ᴷ         F=21    basic   
+  koment         评ᴷᴹ        F=5     basic   
+  recenz         评ᴿ         F=5     basic   
+
+【诉】 4件
+  akuz           诉          F=10    basic   
+  plend          诉ᴾ         F=9     basic   
+  apel           诉ᴬᴾ        F=3     pejvo   【軍】点呼
+  reklamaci      诉ᴿ         F=2     pejvo   
+
+【谋】 4件
+  intrig         谋          F=5     pejvo   
+  konspir        谋ᴷ         F=7     pejvo   
+  komplot        谋ᴷᴹ        F=4     pejvo   
+  koluzi         谋ᴷᴸ        F=2     pejvo   
+
+【质】 4件
+  esenc          质          F=11    basic   
+  materi         质ᴹ         F=22    basic   
+  kvalit         质ᴷ         F=13    basic   
+  substanc       质ˢ         F=9     basic   
+
+【贵】 4件
+  nobl           贵          F=13    basic   
+  nobel          贵ᴺᴱ        F=10    pejvo   
+  aristokrat     贵ᴬ         F=4     pejvo   
+  patrici        贵ᴾ         F=2     pejvo   
+
+【赞】 4件
+  laŭd           赞          F=11    basic   
+  konsent        赞ᴷ         F=24    basic   
+  kompliment     赞ᴷᴹ        F=4     basic   
+  ovaci          赞ᴼ         F=2     pejvo   
+
+【边】 4件
+  rand           边          F=28    basic   
+  marg^en        边ᴹ         F=7     pejvo   
+  later          边ᴸ         F=6     pejvo   
+  listel         边ᴸˢ        F=2     pejvo   
+
+【过】 4件
+  int            过          F=126   suf     
+  pas            过ᴾ         F=54    basic   
+  preter         过ᴾᴿ        F=38    prep    
+  transit        过ᵀ         F=3     piv     通過の・トランジット
+
+【进】 4件
+  import         进          F=9     basic   
+  progres        进ᴾ         F=18    basic   
+  progresi       进ᴾᴵ        F=4     pejvo   
+  avanc          进ᴬ         F=3     pejvo   
+
+【远】 4件
+  tele           远          F=111   pref    
+  apoge          远ᴬ         F=2     pejvo   
+  hipermetrop    远ᴴ         F=2     pejvo   
+  lontan         远ᴸ         F=2     piv     遠方
+
+【连】 4件
+  eĉ             连          F=2     func    
+  konekt         连ᴷᴺ        F=20    sci     
+  kupl           连ᴷ         F=14    pejvo   
+  koneks         连ᴷˢ        F=3     pejvo   
+
+【钉】 4件
+  najl           钉          F=11    basic   
+  kejl           钉ᴷ         F=7     basic   
+  nit            钉ᴺᵀ        F=4     pejvo   
+  vinkt          钉ⱽ         F=3     pejvo   
+
+【钩】 4件
+  hok            钩          F=25    basic   
+  kroĉ           钩ᴷ         F=12    basic   
+  kroc^et        钩ᴷᶜ̂       F=3     pejvo   
+  grapl          钩ᴳ         F=2     pejvo   
+
+【闪】 4件
+  fulm           闪          F=27    basic   
+  flagr          闪ᶠᴳ        F=10    basic   
+  strobo         闪ˢ         F=3     pejvo   
+  blink          闪ᴮ         F=6     piv     点滅光
+
+【颂】 4件
+  himn           颂          F=5     basic   
+  panegir        颂ᴾ         F=3     pejvo   
+  ditiramb       颂ᴰ         F=2     pejvo   
+  od             颂ᴼ         F=2     pejvo   
+
+【饰】 4件
+  ornam          饰          F=22    basic   
+  dekoraci       饰ᴰ         F=6     basic   
+  dekor          饰ᴰᴱ        F=3     pejvo   
+  garnitur       饰ᴳ         F=2     pejvo   
+
+【鹰】 4件
+  falk           鹰          F=14    pejvo   
+  akcipitr       鹰ᴬ         F=4     pejvo   
+  bute           鹰ᴮ         F=4     pejvo   
+  niz            鹰ᴺ         F=2     pejvo   
+
+【哀】 3件
+  kondolenc      哀          F=4     basic   
+  ve             哀ⱽ         F=11    pejvo   
+  lament         哀ᴸ         F=6     pejvo   
+
+【暗】 3件
+  alud           暗          F=4     basic   
+  obskur         暗ᴼ         F=8     pejvo   
+  tenebr         暗ᵀ         F=2     piv     暗闇、暗黒
+
+【医】 3件
+  kurac          医          F=40    basic   
+  medicin        医ᴹ         F=28    basic   
+  hospital       医ᴴ         F=11    basic   
+
+【郁】 3件
+  tulip          郁          F=2     basic   
+  melankoli      郁ᴹ         F=3     pejvo   
+  splen          郁ˢ         F=2     pejvo   
+
+【瓜】 3件
+  melon          瓜          F=5     basic   
+  kukurb         瓜ᴷᴿ        F=9     basic   
+  kukum          瓜ᴷ         F=3     basic   
+
+【影】 3件
+  film           影          F=44    basic   
+  ombr           影ᴼ         F=22    basic   
+  influ          影ᴵ         F=7     basic   
+
+【王】 3件
+  reĝ            王          F=39    basic   
+  rag^           王ᴿᴳ̂       F=2     pejvo   
+  rojal          王ᴿᴶ        F=2     pejvo   
+
+【温】 3件
+  temperatur     温          F=12    basic   
+  termi          温ᵀᴿ        F=5     pejvo   
+  tepid          温ᵀᴾ        F=2     pejvo   
+
+【下】 3件
+  sub            下          F=230   prep    
+  subaltern      下ˢᴸ        F=2     pejvo   
+  sob            下ˢᴼ        F=2     piv     下へ
+
+【家】 3件
+  ist            家          F=1291  suf     
+  hejm           家ᴴ         F=42    basic   
+  famili         家ᶠ         F=24    basic   
+
+【花】 3件
+  flor           花          F=87    basic   
+  gerani         花ᴳ         F=3     pejvo   
+  irid           花ᴵ         F=3     pejvo   
+
+【怪】 3件
+  monstr         怪          F=5     basic   
+  grotesk        怪ᴳ         F=6     basic   
+  ekstravaganc   怪ᴱ         F=4     pejvo   
+
+【改】 3件
+  korekt         改          F=22    basic   
+  modif          改ᴹ         F=7     basic   
+  amend          改ᴬ         F=2     pejvo   
+
+【械】 3件
+  mekanik        械          F=18    basic   
+  meĥanik        械ᴹĥ        F=1     basic   
+  mekanism       械ᴹˢ        F=0     basic   
+
+【灰】 3件
+  griz           灰          F=21    basic   
+  cindr          灰ᶜ         F=22    basic   
+  kalk           灰ᴷ         F=21    basic   
+
+【界】 3件
+  lim            界          F=68    basic   
+  mond           界ᴹ         F=63    basic   
+  horizont       界ᴴ         F=4     basic   
+
+【柿】 3件
+  persimon       柿          F=2     pejvo   
+  kakinok        柿ᴷ         F=3     piv     【植】カキノキ
+  diospir        柿ᴰ         F=2     piv     【植】カキノキ属
+
+【格】 3件
+  karakter       格          F=30    basic   
+  latis          格ᴸ         F=9     pejvo   
+  deklinaci      格ᴰ         F=4     pejvo   
+
+【活】 3件
+  viv            活          F=147   basic   
+  aktiv          活ᴬ         F=40    basic   
+  vigl           活ⱽᴳ        F=18    basic   
+
+【干】 3件
+  sek            干          F=55    basic   
+  trunk          干ᵀ         F=12    basic   
+  kser           干ᴷ         F=3     piv     【医】乾燥
+
+【款】 3件
+  fason          款          F=5     basic   
+  regal          款ᴿ         F=4     basic   
+  klau^z         款ᴷ         F=4     pejvo   
+
+【甘油】 3件
+  glicerin       甘油         F=4     pejvo   
+  glicerol       甘油ᴳᴸ       F=3     pejvo   
+  glicer         甘油ᴳᶜ       F=3     piv     【化】グリセリル基
+
+【含】 3件
+  inkluziv       含          F=7     basic   
+  implic         含ᴵᴹ        F=11    pejvo   
+  inklud         含ᴵᴰ        F=3     pejvo   
+
+【奇】 3件
+  strang         奇          F=8     basic   
+  kurioz         奇ᴷ         F=5     basic   
+  mirakl         奇ᴹ         F=5     basic   
+
+【旗】 3件
+  flag           旗          F=19    basic   
+  standard       旗ˢ         F=3     basic   
+  veksil         旗ⱽ         F=2     piv     旗章学
+
+【徽】 3件
+  insign         徽          F=2     basic   
+  blazon         徽ᴮ         F=7     pejvo   
+  heraldik       徽ᴴ         F=2     pejvo   
+
+【妓】 3件
+  prostitu       妓          F=9     pejvo   
+  putin          妓ᴾᵀ        F=2     pejvo   
+  meretric       妓ᴹ         F=2     piv     娼婦
+
+【疑】 3件
+  dub            疑          F=23    basic   
+  suspekt        疑ˢ         F=11    basic   
+  skeptik        疑ˢᴷ        F=4     pejvo   
+
+【逆】 3件
+  retro          逆          F=43    pref    
+  invers         逆ᴵ         F=14    basic   
+  spit           逆ˢ         F=7     basic   
+
+【求】 3件
+  pet            求          F=39    basic   
+  postul         求ᴾˢ        F=16    basic   
+  petici         求ᴾᶜ        F=2     pejvo   
+
+【距】 3件
+  distanc        距          F=23    basic   
+  s^pur          距ˢ̂        F=4     pejvo   
+  tal            距ᵀ         F=2     piv     【解】距骨
+
+【供】 3件
+  liver          供          F=9     basic   
+  proviz         供ᴾ         F=17    basic   
+  ofert          供ᴼ         F=6     basic   
+
+【凝】 3件
+  kaze           凝          F=9     pejvo   
+  kondens        凝ᴷᴺ        F=10    pejvo   
+  koagul         凝ᴷᴳ        F=6     pejvo   
+
+【禁】 3件
+  tabu           禁          F=6     basic   
+  prohibici      禁ᴾ         F=3     pejvo   
+  embarg         禁ᴱ         F=2     pejvo   
+
+【句】 3件
+  fraz           句          F=26    basic   
+  vers           句ⱽ         F=21    basic   
+  propozici      句ᴾ         F=7     basic   
+
+【区】 3件
+  region         区          F=20    basic   
+  kvartal        区ᴷ         F=19    basic   
+  distrikt       区ᴰ         F=9     basic   
+
+【具】 3件
+  il             具          F=1276  suf     
+  mebl           具ᴹ         F=16    basic   
+  konkret        具ᴷ         F=6     basic   
+
+【愚】 3件
+  idiot          愚          F=6     basic   
+  stult          愚ˢ         F=5     basic   
+  fol            愚ᶠ         F=2     piv     ふざけた狂気・道化
+
+【寓】 3件
+  apartament     寓          F=3     basic   
+  fabl           寓ᶠ         F=6     pejvo   
+  alegori        寓ᴬᴸ        F=2     pejvo   
+
+【警】 3件
+  polic          警          F=20    basic   
+  alarm          警ᴬ         F=12    basic   
+  avert          警ᴬⱽ        F=5     basic   
+
+【欠】 3件
+  ŝuld           欠          F=23    basic   
+  debet          欠ᴰ         F=5     basic   
+  osced          欠ᴼ         F=3     basic   
+
+【月】 3件
+  lun            月          F=35    basic   
+  monat          月ᴹ         F=26    basic   
+  lund           月ᴸᴰ        F=3     cal     
+
+【献】 3件
+  ofer           献          F=24    basic   
+  dediĉ          献ᴰ         F=6     basic   
+  konsekr        献ᴷ         F=4     pejvo   
+
+【股】 3件
+  koks           股          F=8     basic   
+  femur          股ᶠ         F=8     basic   
+  akci           股ᴬ         F=7     basic   
+
+【鼓】 3件
+  tambur         鼓          F=12    basic   
+  aplaŭd         鼓ᴬ         F=5     basic   
+  timbal         鼓ᵀᴸ        F=2     pejvo   
+
+【交】 3件
+  trafik         交          F=29    basic   
+  diplomat       交ᴰ         F=10    basic   
+  koit           交ᴷ         F=3     pejvo   
+
+【公】 3件
+  publik         公          F=46    basic   
+  just           公ᴶ         F=18    basic   
+  public         公ᴾᶜ        F=3     pejvo   
+
+【好】 3件
+  amator         好          F=8     basic   
+  hobi           好ᴴ         F=2     basic   
+  diletant       好ᴰ         F=4     pejvo   
+
+【攻】 3件
+  atak           攻          F=23    basic   
+  agres          攻ᴬᴳ        F=10    pejvo   
+  ofensiv        攻ᴼ         F=3     pejvo   
+
+【耕】 3件
+  kultur         耕          F=46    basic   
+  plug           耕ᴾ         F=17    basic   
+  s^pat          耕ˢ̂        F=3     pejvo   
+
+【衡】 3件
+  pes            衡          F=22    basic   
+  ekvilibr       衡ᴱ         F=19    basic   
+  bilanc         衡ᴮ         F=2     pejvo   
+
+【降】 3件
+  bemol          降          F=2     pejvo   
+  degrad         降ᴰ         F=4     pejvo   
+  kapitulac      降ᴷ         F=4     pejvo   
+
+【高】 3件
+  alt            高          F=94    basic   
+  altitud        高ᴬᵀ        F=3     pejvo   
+  hips           高ᴴ         F=3     pejvo   
+
+【号】 3件
+  numer          号          F=21    basic   
+  signal         号ˢ         F=22    basic   
+  semafor        号ˢᴹ        F=2     pejvo   
+
+【刻】 3件
+  moment         刻          F=13    basic   
+  gravur         刻ᴳ         F=16    pejvo   
+  noc^           刻ᴺ         F=6     pejvo   
+
+【告】 3件
+  inform         告          F=33    basic   
+  herold         告ᴴ         F=2     basic   
+  aviz           告ᴬ         F=6     pejvo   
+
+【国】 3件
+  land           国          F=114   basic   
+  ŝtat           国ŝ         F=59    basic   
+  regn           国ᴿ         F=22    basic   
+
+【座】 3件
+  ing            座          F=63    suf     
+  tron           座ᵀ         F=11    pejvo   
+  katedr         座ᴷ         F=3     pejvo   
+
+【彩】 3件
+  bunt           彩          F=4     pejvo   
+  loteri         彩ᴸ         F=3     pejvo   
+  polikromi      彩ᴾ         F=2     pejvo   
+
+【才】 3件
+  geni           才          F=4     basic   
+  talent         才ᵀ         F=5     basic   
+  apenaŭ         才ᴬ         F=3     func    
+
+【裁】 3件
+  tajl           裁          F=7     basic   
+  tajlor         裁ᵀᴿ        F=9     basic   
+  arbitraci      裁ᴬ         F=6     pejvo   
+
+【罪】 3件
+  pek            罪          F=21    basic   
+  krim           罪ᴷ         F=23    basic   
+  kulp           罪ᴷᴸ        F=22    basic   
+
+【刷】 3件
+  bros           刷          F=10    basic   
+  strigl         刷ˢ         F=2     pejvo   
+  skovel         刷ˢᴷ        F=2     piv     管掃除ブラシ
+
+【指】 3件
+  fingr          指          F=35    basic   
+  indik          指ᴵ         F=21    basic   
+  indikator      指ᴵᵀ        F=6     pejvo   
+
+【枝】 3件
+  verg           枝          F=13    basic   
+  branĉ          枝ᴮ         F=24    basic   
+  rabd           枝ᴿ         F=3     piv     占い棒・ダウジングロッド
+
+【至】 3件
+  ĝis            至          F=30    prep    
+  almenaŭ        至ᴬ         F=1     func    
+  solstic        至ˢ         F=7     pejvo   
+
+【似】 3件
+  oid            似          F=66    suf     
+  simil          似ˢ         F=16    basic   
+  analog         似ᴬ         F=6     pejvo   
+
+【侍】 3件
+  kelner         侍          F=3     basic   
+  pag^i          侍ᴾ         F=2     pejvo   
+  stevard        侍ˢ         F=2     pejvo   
+
+【示】 3件
+  montr          示          F=36    basic   
+  manifestaci    示ᴹᶠ        F=3     basic   
+  sugest         示ˢ         F=3     basic   
+
+【鹿】 3件
+  cerv           鹿          F=18    basic   
+  dama           鹿ᴰ         F=3     pejvo   
+  kapreol        鹿ᴷ         F=3     pejvo   
+
+【漆】 3件
+  lak            漆          F=8     basic   
+  vernis         漆ⱽ         F=4     pejvo   
+  urus^i         漆ᵁ         F=2     piv     【植】漆・ウルシ
+
+【煮】 3件
+  poc^           煮          F=3     pejvo   
+  stuf           煮ˢ         F=6     pejvo   
+  frikas         煮ᶠ         F=2     pejvo   
+
+【弱】 3件
+  febl           弱          F=2     pejvo   
+  asteni         弱ᴬ         F=4     pejvo   
+  debil          弱ᴰ         F=3     piv     【医】虚弱な
+
+【臭】 3件
+  fetor          臭          F=3     pejvo   
+  haladz         臭ᴴ         F=6     pejvo   
+  stink          臭ˢ         F=2     piv     悪臭を放つ
+
+【十】 3件
+  dek            十          F=65    num     
+  decimal        十ᴰᶜ        F=6     pejvo   
+  deka           十ᴰᴬ        F=5     pejvo   
+
+【柔】 3件
+  mild           柔          F=9     basic   
+  tener          柔ᵀ         F=2     basic   
+  supl           柔ˢ         F=3     pejvo   
+
+【重】 3件
+  pez            重          F=50    basic   
+  grav           重ᴳ         F=19    basic   
+  akcent         重ᴬ         F=8     basic   
+
+【出】 3件
+  el             出          F=449   prep    
+  eksport        出ᴱᴷ        F=7     basic   
+  emerg^         出ᴱᴹ        F=5     pejvo   
+
+【初】 3件
+  debut          初          F=4     pejvo   
+  novic          初ᴺ         F=3     pejvo   
+  rudiment       初ᴿ         F=2     pejvo   
+
+【除】 3件
+  ektomi         除          F=24    suf     【医】切除
+  escept         除ᴱˢ        F=8     basic   
+  elimin         除ᴱᴸ        F=5     basic   
+
+【商】 3件
+  komerc         商          F=48    basic   
+  firma          商ᶠ         F=4     basic   
+  kvocient       商ᴷⱽ        F=5     pejvo   
+
+【将】 3件
+  ont            将          F=24    suf     
+  general        将ᴳ         F=5     basic   
+  baldaŭ         将ᴮ         F=4     func    
+
+【小】 3件
+  et             小          F=655   suf     
+  minuskl        小ᴹ         F=2     basic   
+  minor          小ᴹᴿ        F=9     pejvo   
+
+【称】 3件
+  pretend        称          F=8     basic   
+  simetri        称ˢ         F=7     pejvo   
+  kvalifik       称ᴷ         F=6     pejvo   
+
+【唇】 3件
+  lip            唇          F=22    basic   
+  labi           唇ᴸᴮ        F=2     pejvo   
+  labial         唇ᴸᴸ        F=2     pejvo   
+
+【新】 3件
+  nov            新          F=104   basic   
+  neologism      新ᴺᴸ        F=0     basic   
+  neo            新ᴺᴱ        F=7     pejvo   
+
+【神】 3件
+  di             神          F=63    basic   
+  dio,Di         神ᴰ,        F=0     pejvo   
+  numen          神ᴺ         F=2     piv     【宗】ヌーメン
+
+【震】 3件
+  ŝok            震          F=9     basic   
+  sism           震ˢ         F=3     pejvo   
+  seism          震ˢᴱ        F=6     piv     地震
+
+【垂】 3件
+  perpendikl     垂          F=2     pejvo   
+  perpendikular  垂ᴾᴿ        F=3     pejvo   
+  ptoz           垂ᴾᵀ        F=2     piv     【医】下垂
+
+【水】 3件
+  akv            水          F=201   basic   
+  hidr           水ᴴ         F=63    pref    
+  merkred        水ᴹ         F=4     cal     
+
+【数】 3件
+  nombr          数          F=78    basic   
+  cifer          数ᶜ         F=25    basic   
+  numeral        数ᴺᴿ        F=3     basic   
+
+【性】 3件
+  ec             性          F=1190  suf     
+  seks           性ˢ         F=62    basic   
+  amor           性ᴬ         F=14    basic   
+
+【清】 3件
+  net            清          F=19    basic   
+  klar           清ᴷ         F=48    basic   
+  likvid         清ᴸ         F=12    pejvo   
+
+【析】 3件
+  analiz         析          F=13    basic   
+  analitik       析ᴬᵀ        F=3     pejvo   
+  skand          析ˢ         F=2     pejvo   
+
+【石】 3件
+  ŝton           石          F=95    basic   
+  diant          石ᴰ         F=5     basic   
+  spat           石ˢ         F=4     pejvo   
+
+【脊】 3件
+  spin           脊          F=8     pejvo   
+  first          脊ᶠ         F=7     pejvo   
+  raki           脊ᴿ         F=3     piv     【医】脊椎(脊柱)
+
+【千】 3件
+  mil            千          F=32    num     
+  kilometr       千ᴷ         F=0     basic   
+  kilo           千ᴷᴵ        F=9     pejvo   
+
+【占】 3件
+  okup           占          F=17    basic   
+  au^gur         占ᴬ         F=10    pejvo   
+  orakol         占ᴼᴿ        F=2     pejvo   
+
+【尖】 3件
+  pint           尖          F=44    basic   
+  kuspid         尖ᴷ         F=3     piv     【解】咬頭
+  apeks          尖ᴬ         F=2     piv     【解】尖端
+
+【洗】 3件
+  lav            洗          F=39    basic   
+  bapt           洗ᴮ         F=22    basic   
+  deterg         洗ᴰ         F=2     pejvo   洗浄する
+
+【染】 3件
+  infekt         染          F=17    basic   
+  tinktur        染ᵀ         F=8     basic   
+  kontag^        染ᴷ         F=7     pejvo   
+
+【潜鸟】 3件
+  gavi           潜鸟         F=3     pejvo   
+  greb           潜鸟ᴳᴿ       F=2     piv     【鳥】カイツブリ類
+  podicip        潜鸟ᴾ        F=2     piv     【動】カイツブリ属
+
+【全】 3件
+  integr         全          F=19    basic   
+  komplet        全ᴷ         F=15    basic   
+  holo           全ᴴ         F=10    pejvo   
+
+【素】 3件
+  element        素          F=20    basic   
+  vegetar        素ⱽ         F=4     basic   
+  vegan          素ⱽᴺ        F=2     pejvo   
+
+【僧】 3件
+  monah^         僧          F=11    pejvo   
+  monak          僧ᴹᴷ        F=6     pejvo   
+  bonz           僧ᴮ         F=2     pejvo   
+
+【双】 3件
+  ge             双          F=52    pref    
+  dual           双ᴰ         F=6     pejvo   
+  g^emin         双ᴳ̂        F=4     piv     【解】二つで対をなす
+
+【想】 3件
+  imag           想          F=15    basic   
+  opini          想ᴼ         F=23    basic   
+  ideal          想ᴵᴰ        F=7     basic   
+
+【束】 3件
+  fask           束          F=12    basic   
+  garb           束ᴳ         F=5     basic   
+  buked          束ᴮ         F=4     basic   
+
+【速】 3件
+  rapid          速          F=75    basic   
+  ekspres        速ᴱ         F=11    basic   
+  taki           速ᵀ         F=3     piv     【技】速度
+
+【多】 3件
+  mult           多          F=92    basic   
+  poli           多ᴾ         F=43    pref    
+  plur           多ᴾᴿ        F=57    pejvo   
+
+【打】 3件
+  bat            打          F=67    basic   
+  tajp           打ᵀ         F=13    basic   
+  dras^          打ᴰ         F=7     pejvo   
+
+【滞】 3件
+  stagn          滞          F=6     pejvo   
+  histerez       滞ᴴ         F=3     pejvo   
+  staz           滞ˢᶻ        F=8     piv     【医】停滞・止血
+
+【袋】 3件
+  sak            袋          F=46    basic   
+  poŝ            袋ᴾ         F=24    basic   
+  marsupi        袋ᴹ         F=2     piv     【動】育児嚢
+
+【大】 3件
+  grand          大          F=105   basic   
+  majuskl        大ᴹ         F=6     basic   
+  maj^or         大ᴹᴶ̂       F=8     pejvo   
+
+【谷】 3件
+  val            谷          F=13    basic   
+  gren           谷ᴳ         F=15    basic   
+  cereal         谷ᶜ         F=3     pejvo   
+
+【淡】 3件
+  fad            淡          F=7     pejvo   
+  flegm          淡ᶠᴸ        F=4     pejvo   
+  pas^tel        淡ᴾ         F=4     pejvo   
+
+【智】 3件
+  saĝ            智          F=22    basic   
+  intelekt       智ᴵ         F=11    basic   
+  sprit          智ˢᴾ        F=11    basic   
+
+【痴】 3件
+  demenc         痴          F=4     pejvo   
+  kreten         痴ᴷ         F=2     pejvo   
+  imbecil        痴ᴵ         F=2     piv     【医】中等度知的障害者
+
+【中】 3件
+  mez            中          F=91    basic   
+  neŭtral        中ᴺ         F=11    basic   
+  neu^tr         中ᴺᵁ̆       F=11    pejvo   
+
+【猪】 3件
+  pork           猪          F=18    basic   
+  apr            猪ᴬ         F=3     basic   
+  sued           猪ˢ         F=2     piv     【植】マツナ属
+
+【超】 3件
+  hiper          超          F=25    pref    
+  meta           超ᴹ         F=26    pejvo   
+  transcend      超ᵀ         F=3     pejvo   
+
+【停】 3件
+  halt           停          F=31    basic   
+  kape           停ᴷ         F=2     pejvo   
+  suspend        停ˢ         F=2     piv     停止
+
+【剃】 3件
+  raz            剃          F=13    basic   
+  barbir         剃ᴮ         F=3     basic   
+  tonsur         剃ᵀ         F=2     pejvo   
+
+【帝】 3件
+  imperi         帝          F=14    basic   
+  car            帝ᶜ         F=2     pejvo   
+  imperator      帝ᴵᵀ        F=2     piv     【史】凱旋将軍の称号
+
+【梯】 3件
+  lift           梯          F=5     basic   
+  trapez         梯ᵀ         F=4     pejvo   
+  eskal          梯ᴱ         F=3     pejvo   
+
+【泥】 3件
+  kot            泥          F=12    basic   
+  s^lim          泥ˢ̂        F=12    pejvo   
+  pure           泥ᴾ         F=3     pejvo   
+
+【典】 3件
+  klasik         典          F=12    basic   
+  enciklopedi    典ᴱ         F=4     basic   
+  kodeks         典ᴷᴰ        F=2     pejvo   
+
+【展】 3件
+  evolu          展          F=17    basic   
+  ekspozici      展ᴱᴷ        F=14    basic   
+  ekspon         展ᴱᴺ        F=16    pejvo   
+
+【点】 3件
+  punkt          点          F=69    basic   
+  desert         点ᴰ         F=4     basic   
+  poent          点ᴾᵀ        F=4     basic   
+
+【吐】 3件
+  vom            吐          F=16    basic   
+  kraĉ           吐ᴷ         F=11    basic   
+  sput           吐ˢ         F=7     pejvo   
+
+【屠】 3件
+  buĉ            屠          F=13    basic   
+  masakr         屠ᴹ         F=2     pejvo   
+  s^oh^t         屠ˢ̂        F=2     piv     【聖】律法に従い屠る
+
+【土】 3件
+  grund          土          F=23    basic   
+  sabat          土ˢ         F=5     cal     
+  saturn         土ˢᵀ        F=3     pejvo   
+
+【等】 3件
+  izo            等          F=36    pref    
+  egal           等ᴱ         F=47    basic   
+  ekvivalent     等ᴱᴷ        F=11    pejvo   
+
+【逃】 3件
+  fuĝ            逃          F=6     basic   
+  eskap          逃ᴱ         F=7     basic   
+  dizert         逃ᴰ         F=3     pejvo   
+
+【撞】 3件
+  kolizi         撞          F=9     basic   
+  perkut         撞ᴾ         F=6     pejvo   
+  karambol       撞ᴷᴿ        F=2     pejvo   
+
+【童】 3件
+  infan          童          F=59    basic   
+  fabel          童ᶠ         F=10    basic   
+  pedo           童ᴾ         F=3     pejvo   
+
+【道】 3件
+  avenu          道          F=1     basic   
+  bulvard        道ᴮ         F=3     basic   
+  tao            道ᵀ         F=2     pejvo   
+
+【督】 3件
+  prefekt        督          F=7     pejvo   
+  banus          督ᴮ         F=3     piv     【史】バン(太守)
+  vojevod        督ⱽ         F=2     piv     【史】総督
+
+【毒疮】 3件
+  s^ankr         毒疮         F=2     pejvo   
+  furunk         毒疮ᶠ        F=2     pejvo   
+  karbunkl       毒疮ᴷ        F=2     pejvo   
+
+【突】 3件
+  impet          突          F=11    basic   
+  subit          突ˢ         F=5     basic   
+  sturm          突ˢᵀ        F=5     pejvo   
+
+【尿】 3件
+  urin           尿          F=18    basic   
+  pis            尿ᴾ         F=7     pejvo   
+  uro            尿ᵁᴼ        F=3     piv     【医】尿
+
+【任】 3件
+  kapric         任          F=4     basic   
+  ajn            任ᴬ         F=0     func    
+  investitur     任ᴵ         F=2     pejvo   
+
+【忍】 3件
+  toler          忍          F=20    basic   
+  pacienc        忍ᴾ         F=10    basic   
+  stoik          忍ˢ         F=5     pejvo   
+
+【帆】 3件
+  vel            帆          F=24    basic   
+  j^ib           帆ᴶ̂        F=3     pejvo   
+  velar          帆ⱽᴿ        F=3     pejvo   
+
+【否】 3件
+  negativ        否          F=21    basic   
+  veto           否ⱽ         F=2     pejvo   
+  neg            否ᴺᴱ        F=3     piv     否定する
+
+【庇】 3件
+  ŝirm           庇          F=35    basic   
+  azil           庇ᴬ         F=4     pejvo   
+  mecenat        庇ᴹ         F=2     pejvo   
+
+【百】 3件
+  cent           百          F=45    num     
+  hekto          百ᴴ         F=6     pejvo   
+  centezimal     百ᶜᶻ        F=2     pejvo   
+
+【票】 3件
+  ĉek            票          F=10    basic   
+  bilet          票ᴮ         F=23    basic   
+  balot          票ᴮᴬ        F=21    basic   
+
+【瓶】 3件
+  botel          瓶          F=32    basic   
+  karaf          瓶ᴷ         F=2     basic   
+  flakon         瓶ᶠ         F=3     pejvo   
+
+【敷】 3件
+  pans           敷          F=4     pejvo   
+  foment         敷ᶠ         F=5     pejvo   
+  kompres        敷ᴷ         F=2     pejvo   
+
+【普】 3件
+  ordinar        普          F=19    basic   
+  universal      普ᵁ         F=22    basic   
+  cens           普ᶜ         F=3     pejvo   
+
+【腐】 3件
+  putr           腐          F=14    basic   
+  seps           腐ˢ         F=15    pejvo   
+  sapr           腐ˢᴿ        F=7     piv     【生態】腐生物質(枯死有機物)
+
+【片】 3件
+  pec            片          F=35    basic   
+  lamen          片ᴸ         F=14    basic   
+  split          片ˢ         F=8     basic   
+
+【防】 3件
+  defend         防          F=24    basic   
+  prevent        防ᴾ         F=10    pejvo   
+  profilaktik    防ᴾᶠ        F=2     pejvo   
+
+【牧】 3件
+  paŝt           牧          F=14    basic   
+  pastr          牧ᴾˢ        F=14    basic   
+  nomad          牧ᴺ         F=5     pejvo   
+
+【翻】 3件
+  renvers        翻          F=8     basic   
+  revers         翻ᴿⱽ        F=3     pejvo   
+  lop            翻ᴸ         F=2     pejvo   
+
+【麻】 3件
+  kanab          麻          F=4     pejvo   
+  narkot         麻ᴺ         F=7     pejvo   
+  ricin          麻ᴿ         F=2     pejvo   
+
+【命】 3件
+  sort           命          F=10    basic   
+  fatal          命ᶠ         F=7     basic   
+  vital          命ⱽ         F=3     pejvo   
+
+【木瓜】 3件
+  papaj          木瓜         F=3     pejvo   
+  cidoni         木瓜ᶜ        F=6     pejvo   
+  karik          木瓜ᴷ        F=2     pejvo   
+
+【余】 3件
+  rest           余          F=25    basic   
+  ceter          余ᶜ         F=4     basic   
+  sald           余ˢ         F=5     pejvo   
+
+【容】 3件
+  mien           容          F=16    basic   
+  kapacit        容ᴷ         F=5     pejvo   
+  kapacitanc     容ᴷᴺ        F=2     pejvo   
+
+【羊】 3件
+  ŝaf            羊          F=27    basic   
+  kapr           羊ᴷ         F=15    basic   
+  ovi            羊ᴼ         F=2     piv     【動】ヒツジ属
+
+【抑】 3件
+  damp           抑          F=2     pejvo   
+  inhibici       抑ᴵ         F=2     pejvo   
+  inhib          抑ᴵᴺ        F=7     piv     抑制
+
+【螺】 3件
+  ŝraŭb          螺          F=46    basic   
+  helik          螺ᴴ         F=8     pejvo   
+  helic          螺ᴴᶜ        F=7     pejvo   
+
+【乱】 3件
+  konfuz         乱          F=14    basic   
+  turbul         乱ᵀ         F=6     pejvo   
+  pelmel         乱ᴾ         F=3     pejvo   
+
+【卵】 3件
+  ov             卵          F=41    basic   
+  ovol           卵ᴼᴸ        F=6     pejvo   
+  kojon          卵ᴷ         F=2     piv     睾丸
+
+【利】 3件
+  favor          利          F=28    basic   
+  profit         利ᴾ         F=33    basic   
+  interez        利ᴵ         F=4     basic   
+
+【旅】 3件
+  vojaĝ          旅          F=42    basic   
+  turist         旅ᵀ         F=1     basic   
+  brigad         旅ᴮ         F=9     pejvo   
+
+【亮】 3件
+  hel            亮          F=27    basic   
+  bril           亮ᴮ         F=30    basic   
+  leu^cin        亮ᴸ         F=2     piv     【化】イソロイシン
+
+【量】 3件
+  kvant          量          F=20    basic   
+  doz            量ᴰ         F=13    pejvo   
+  metrik         量ᴹ         F=2     pejvo   
+
+【林】 3件
+  ale            林          F=1     basic   
+  forst          林ᶠ         F=7     pejvo   
+  bosk           林ᴮ         F=3     pejvo   
+
+【淋】 3件
+  duŝ            淋          F=10    basic   
+  eluvi          淋ᴱⱽ        F=6     piv     【地質】溶脱層
+  elu            淋ᴱ         F=4     piv     【化】溶離
+
+【礼】 3件
+  donac          礼          F=13    basic   
+  ĝentil         礼ĝ         F=12    basic   
+  etiket         礼ᴱ         F=3     pejvo   
+
+【列】 3件
+  vic            列          F=57    basic   
+  seri           列ˢ         F=15    basic   
+  procesi        列ᴾ         F=9     pejvo   
+
+【路】 3件
+  voj            路          F=132   basic   
+  cirkvit        路ᶜ         F=16    basic   
+  ŝose           路ŝ         F=6     basic   
+
+【六】 3件
+  ses            六          F=35    num     
+  heks           六ᴴ         F=3     pejvo   
+  heksa          六ᴴᴬ        F=2     pejvo   
+
+【傲】 3件
+  arogant        傲          F=0     basic   
+  arog           傲ᴬᴿ        F=7     pejvo   
+  orgojl         傲ᴼ         F=2     pejvo   
+
+【剪】 3件
+  tond           剪          F=20    basic   
+  stuc           剪ˢ         F=2     pejvo   
+  c^izoj         剪ᶜ̂        F=2     piv     金切りばさみ
+
+【喘】 3件
+  astm           喘          F=3     pejvo   
+  anhel          喘ᴬᴺ        F=2     pejvo   
+  stertor        喘ˢ         F=2     pejvo   
+
+【嘶】 3件
+  hen            嘶          F=2     pejvo   
+  sibl           嘶ˢ         F=4     pejvo   
+  s^us^          嘶ˢ̂        F=2     piv     歯擦音
+
+【坡】 3件
+  dekliv         坡          F=13    basic   
+  talus          坡ᵀ         F=3     pejvo   
+  eskarp         坡ᴱ         F=2     pejvo   
+
+【奸】 3件
+  kokr           奸          F=3     pejvo   
+  adult          奸ᴬ         F=8     pejvo   
+  stukac^        奸ˢ         F=2     piv     密告者
+
+【媚】 3件
+  flat           媚          F=14    basic   
+  koket          媚ᴷ         F=6     basic   
+  lake           媚ᴸ         F=5     pejvo   
+
+【嵌】 3件
+  marketr        嵌          F=3     pejvo   
+  inkrust        嵌ᴵ         F=3     pejvo   
+  damasken       嵌ᴰ         F=2     pejvo   
+
+【弃】 3件
+  rezign         弃          F=4     basic   
+  abnegaci       弃ᴬ         F=2     pejvo   
+  abandon        弃ᴬᴰ        F=3     piv     【保険】委付
+
+【愿】 3件
+  vol            愿          F=48    basic   
+  volont         愿ⱽᴺ        F=10    basic   
+  bonvol         愿ᴮ         F=0     basic   
+
+【扣】 3件
+  buton          扣          F=20    basic   
+  buk            扣ᴮᴷ        F=5     basic   
+  agraf          扣ᴬ         F=5     pejvo   
+
+【插】 3件
+  stik           插          F=4     pejvo   
+  insert         插ᴵ         F=4     pejvo   
+  interpol       插ᴵᵀ        F=2     pejvo   
+
+【收】 3件
+  ricev          收          F=23    basic   
+  adopt          收ᴬ         F=16    basic   
+  ferl           收ᶠ         F=4     pejvo   
+
+【效】 3件
+  efik           效          F=34    basic   
+  efekt          效ᴱᵀ        F=22    basic   
+  valid          效ⱽ         F=13    basic   
+
+【杰】 3件
+  hero           杰          F=10    basic   
+  eminent        杰ᴱ         F=15    basic   
+  prod           杰ᴾ         F=2     piv     【史】勇者(騎士)
+
+【档】 3件
+  dosier         档          F=21    basic   
+  dokument       档ᴰᴷ        F=14    basic   
+  arkiv          档ᴬ         F=4     pejvo   
+
+【渣】 3件
+  feĉ            渣          F=5     basic   
+  rekrement      渣ᴿ         F=5     pejvo   
+  skori          渣ˢ         F=2     pejvo   
+
+【烟】 3件
+  fum            烟          F=49    basic   
+  tabak          烟ᵀ         F=15    basic   
+  cigared        烟ᶜ         F=7     basic   
+
+【爬】 3件
+  ramp           爬          F=11    basic   
+  grimp          爬ᴳ         F=19    basic   
+  krabl          爬ᴷ         F=2     pejvo   
+
+【猜】 3件
+  diven          猜          F=25    basic   
+  konjekt        猜ᴷ         F=5     basic   
+  spekulativ     猜ˢ         F=3     pejvo   
+
+【玻】 3件
+  vitr           玻          F=53    basic   
+  glac           玻ᴳ         F=2     pejvo   
+  vitre          玻ⱽᴱ        F=2     piv     【解】硝子体
+
+【痒】 3件
+  juk            痒          F=7     basic   
+  tikl           痒ᵀ         F=7     basic   
+  urtik          痒ᵁ         F=4     pejvo   
+
+【瘤】 3件
+  veruk          瘤          F=4     basic   
+  tumor          瘤ᵀ         F=7     pejvo   
+  varik          瘤ⱽᴬ        F=4     pejvo   
+
+【穗】 3件
+  spik           穗          F=7     basic   
+  kvast          穗ᴷ         F=2     pejvo   
+  ament          穗ᴬ         F=2     piv     【植】尾状花序
+
+【网】 3件
+  ret            网          F=64    basic   
+  tenis          网ᵀ         F=8     basic   
+  retikul        网ᴿᴷ        F=3     piv     
+
+【罩】 3件
+  mask           罩          F=21    basic   
+  kitel          罩ᴷ         F=2     basic   
+  klos^          罩ᴷᴸ        F=7     pejvo   
+
+【醉】 3件
+  rav            醉          F=9     basic   
+  ebri           醉ᴱ         F=11    basic   
+  ekstaz         醉ᴱᴷ        F=5     pejvo   
+
+【黑】 3件
+  nigr           黑          F=60    basic   
+  negr           黑ᴺᴱ        F=7     pejvo   
+  melan          黑ᴹ         F=4     piv     黒・メラニン
+
+【丛】 3件
+  tuf            丛          F=13    basic   
+  vepr           丛ⱽ         F=4     pejvo   
+  makis          丛ᴹ         F=2     pejvo   
+
+【严】 3件
+  sever          严          F=7     basic   
+  serioz         严ˢᴿ        F=10    basic   
+  rigor          严ᴿ         F=8     pejvo   
+
+【仿】 3件
+  imit           仿          F=16    basic   
+  mim            仿ᴹ         F=2     pejvo   
+  pastic^        仿ᴾ         F=2     pejvo   
+
+【优】 3件
+  avantaĝ        优          F=6     basic   
+  elit           优ᴱ         F=2     pejvo   
+  optimum        优ᴼ         F=2     pejvo   
+
+【伞】 3件
+  ombrel         伞          F=5     basic   
+  paraŝut        伞ᴾ         F=8     basic   
+  umbel          伞ᵁ         F=2     pejvo   
+
+【倾】 3件
+  em             倾          F=436   suf     
+  inklin         倾ᴵ         F=8     basic   
+  tak            倾ᵀ         F=2     piv     タカ(バングラデシュ通貨)
+
+【偷】 3件
+  ŝtel           偷          F=33    basic   
+  marod          偷ᴹ         F=2     pejvo   
+  klepto         偷ᴷ         F=2     piv     盗癖(の)
+
+【办】 3件
+  ag             办          F=55    basic   
+  entrepren      办ᴱ         F=19    basic   
+  proced         办ᴾ         F=5     basic   
+
+【务】 3件
+  serv           务          F=81    basic   
+  task           务ᵀ         F=13    basic   
+  obligaci       务ᴼ         F=6     pejvo   
+
+【卫】 3件
+  gvardi         卫          F=9     basic   
+  higien         卫ᴴ         F=6     basic   
+  sanitar        卫ˢ         F=5     pejvo   
+
+【厅】 3件
+  hal            厅          F=5     basic   
+  salon          厅ˢ         F=12    basic   
+  atri           厅ᴬ         F=2     piv     
+
+【员】 3件
+  membr          员          F=19    basic   
+  an             员ᴬ         F=0     suf     
+  komiz          员ᴷ         F=5     pejvo   
+
+【咕】 3件
+  murmur         咕          F=6     basic   
+  kver           咕ᴷ         F=4     pejvo   
+  kluk           咕ᴷᴸ        F=4     pejvo   
+
+【喂】 3件
+  he             喂          F=2     func    
+  ho             喂ᴴᴼ        F=4     pejvo   
+  hoj            喂ᴴᴶ        F=2     pejvo   
+
+【围】 3件
+  ĉirkaŭ         围          F=71    prep    
+  peri           围ᴾ         F=13    pejvo   
+  sieg^          围ˢ         F=9     pejvo   
+
+【圣】 3件
+  sankt          圣          F=44    basic   
+  hagi           圣ᴴ         F=2     piv     聖人伝作者・聖典著者
+  sakral         圣ˢᴷ        F=2     piv     神聖な
+
+【场】 3件
+  scen           场          F=16    basic   
+  plac           场ᴾ         F=3     basic   
+  agor           场ᴬ         F=2     pejvo   
+
+【块】 3件
+  blok           块          F=28    basic   
+  parcel         块ᴾ         F=5     pejvo   
+  grumel         块ᴳ         F=3     piv     凝固塊
+
+【处】 3件
+  lok            处          F=77    basic   
+  dispon         处ᴰ         F=6     basic   
+  dispozici      处ᴰᶻ        F=3     pejvo   
+
+【备】 3件
+  pret           备          F=28    basic   
+  prepar         备ᴾᴾ        F=14    basic   
+  ekip           备ᴱ         F=11    basic   
+
+【头】 3件
+  kap            头          F=102   basic   
+  cefal          头ᶜ         F=16    pejvo   
+  pru            头ᴾ         F=2     pejvo   
+
+【妆】 3件
+  tualet         妆          F=15    basic   
+  s^mink         妆ˢ̂        F=8     pejvo   
+  kosmetik       妆ᴷ         F=2     pejvo   
+
+【宽】 3件
+  larĝ           宽          F=29    basic   
+  liberal        宽ᴸᴮ        F=3     basic   
+  larg           宽ᴸᴳ        F=2     piv     【海】横風受け・幅広
+
+【层】 3件
+  etaĝ           层          F=16    basic   
+  tavol          层ᵀ         F=22    basic   
+  stratus        层ˢ         F=4     pejvo   
+
+【开】 3件
+  ŝalt           开          F=25    basic   
+  inaŭgur        开ᴵ         F=5     basic   
+  apert          开ᴬ         F=4     pejvo   
+
+【强】 3件
+  fort           强          F=121   basic   
+  trud           强ᵀ         F=34    basic   
+  emfaz          强ᴱ         F=3     basic   
+
+【录】 3件
+  registr        录          F=33    basic   
+  protokol       录ᴾ         F=7     basic   
+  katalog        录ᴷ         F=4     basic   
+
+【总】 3件
+  sum            总          F=19    basic   
+  ĝeneral        总ĝ         F=20    basic   
+  total          总ᵀ         F=7     basic   
+
+【惊】 3件
+  mir            惊          F=18    basic   
+  surpriz        惊ˢ         F=8     basic   
+  konstern       惊ᴷ         F=7     pejvo   
+
+【战】 3件
+  milit          战          F=92    basic   
+  batal          战ᴮ         F=45    basic   
+  polem          战ᴾ         F=2     piv     【政】戦争学者
+
+【扰】 3件
+  ĝen            扰          F=23    basic   
+  perturb        扰ᴾ         F=12    pejvo   
+  j^am           扰ᴶ̂        F=2     piv     電波妨害する
+
+【敌】 3件
+  rival          敌          F=5     pejvo   
+  antagon        敌ᴬᴺ        F=3     pejvo   
+  advers         敌ᴬ         F=2     pejvo   
+
+【显】 3件
+  aspekt         显          F=10    basic   
+  evident        显ᴱ         F=8     basic   
+  manifest       显ᴹ         F=5     pejvo   
+
+【晕】 3件
+  halo           晕          F=4     pejvo   
+  vertig^        晕ⱽ         F=3     pejvo   
+  areol          晕ᴬ         F=2     piv     【解】乳輪・暈
+
+【权】 3件
+  rajt           权          F=62    basic   
+  aŭtoritat      权ᴬ         F=6     basic   
+  suveren        权ˢ         F=5     pejvo   
+
+【枣】 3件
+  daktil         枣          F=8     basic   
+  jujub          枣ᴶ         F=4     pejvo   
+  zizif          枣ᶻ         F=3     pejvo   
+
+【栏】 3件
+  kolumn         栏          F=2     basic   
+  rubrik         栏ᴿ         F=1     basic   
+  barier         栏ᴮ         F=4     pejvo   
+
+【树】 3件
+  arb            树          F=150   basic   
+  fag            树ᶠ         F=18    basic   
+  dendro         树ᴰ         F=3     piv     【植】樹木
+
+【样】 3件
+  specimen       样          F=5     basic   
+  sampl          样ˢᴹ        F=3     piv     【統計】標本・サンプル
+  muestr         样ᴹ         F=2     piv     【統計】標本
+
+【步】 3件
+  paŝ            步          F=48    basic   
+  marŝ           步ᴹ         F=11    basic   
+  promen         步ᴾᴿ        F=10    basic   
+
+【汇】 3件
+  trat           汇          F=4     pejvo   
+  konverg^       汇ᴷᴺ        F=8     pejvo   
+  kambi          汇ᴷ         F=6     pejvo   
+
+【沟】 3件
+  sulk           沟          F=18    basic   
+  kloak          沟ᴷ         F=10    pejvo   
+  tranc^e        沟ᵀ         F=2     pejvo   
+
+【涡】 3件
+  kirl           涡          F=16    pejvo   
+  turbin         涡ᵀ         F=12    pejvo   
+  vortic         涡ⱽ         F=2     pejvo   
+
+【渗】 3件
+  osmoz          渗          F=9     pejvo   
+  eksud          渗ᴱ         F=3     pejvo   
+  sufuz          渗ˢ         F=2     piv     【医】溢血する・滲出する
+
+【渴】 3件
+  soif           渴          F=9     basic   
+  aspir          渴ᴬ         F=4     pejvo   
+  dipso          渴ᴰ         F=2     piv     【医】渇酒症・飲酒衝動
+
+【灾】 3件
+  katastrof      灾          F=6     basic   
+  plag           灾ᴾ         F=2     basic   
+  sinistr        灾ˢ         F=3     piv     【保険】災害・損害事故
+
+【烤】 3件
+  bak            烤          F=17    basic   
+  rost           烤ᴿ         F=27    basic   
+  graten         烤ᴳ         F=6     pejvo   
+
+【狱】 3件
+  infer          狱          F=8     basic   
+  prizon         狱ᴾ         F=4     pejvo   
+  gehen          狱ᴳ         F=3     pejvo   
+
+【瘫】 3件
+  pane           瘫          F=5     basic   
+  paraliz        瘫ᴾᴿ        F=10    pejvo   
+  plegi          瘫ᴾᴸ        F=3     piv     
+
+【碱】 3件
+  lesiv          碱          F=8     basic   
+  alkal          碱ᴬ         F=11    pejvo   
+  sod            碱ˢ         F=6     pejvo   
+
+【磷】 3件
+  fosf           磷          F=15    pejvo   
+  fosfor         磷ᶠᴿ        F=4     elem    
+  fosfo          磷ᶠᴼ        F=4     piv     【化】ホスホリパーゼ
+
+【竞】 3件
+  konkur         竞          F=15    basic   
+  konkurs        竞ᴷˢ        F=20    basic   
+  konkurenc      竞ᴷᴺ        F=9     pejvo   
+
+【简】 3件
+  simpl          简          F=21    basic   
+  konciz         简ᴷ         F=6     basic   
+  lakon          简ᴸ         F=7     pejvo   
+
+【类】 3件
+  klasifik       类          F=6     basic   
+  kategori       类ᴷᵀ        F=6     basic   
+  analogi        类ᴬ         F=4     pejvo   
+
+【粪】 3件
+  sterk          粪          F=9     basic   
+  fek            粪ᶠ         F=11    pejvo   
+  ekskrement     粪ᴱ         F=3     pejvo   
+
+【约】 3件
+  kontrakt       约          F=18    basic   
+  konvenci       约ᴷⱽ        F=8     basic   
+  rendevu        约ᴿ         F=3     basic   
+
+【组】 3件
+  op             组          F=37    suf     
+  kompon         组ᴷ         F=18    basic   
+  organiz        组ᴼᴿ        F=0     basic   
+
+【终】 3件
+  fin            终          F=50    basic   
+  final          终ᶠᴸ        F=5     pejvo   
+  finis^         终ᶠˢ̂       F=2     piv     【ス】ラストスパート
+
+【肠】 3件
+  kolbas         肠          F=11    basic   
+  intest         肠ᴵ         F=10    basic   
+  enter          肠ᴱ         F=11    pejvo   
+
+【胀】 3件
+  puf            胀          F=15    pejvo   
+  inflaci        胀ᴵ         F=3     pejvo   
+  turg           胀ᵀ         F=4     piv     【生】膨圧で膨れる
+
+【脑】 3件
+  cerb           脑          F=33    basic   
+  encefal        脑ᴱ         F=11    pejvo   
+  cerebr         脑ᶜᴿ        F=2     piv     【解】大脳
+
+【舰】 3件
+  flot           舰          F=3     pejvo   
+  fregat         舰ᶠᴿ        F=3     pejvo   
+  vesel          舰ⱽ         F=2     pejvo   
+
+【蚀】 3件
+  korod          蚀          F=7     pejvo   
+  kau^stik       蚀ᴷᵁ̆       F=9     pejvo   
+  erozi          蚀ᴱ         F=3     pejvo   
+
+【观】 3件
+  observ         观          F=17    basic   
+  ideologi       观ᴵ         F=0     basic   
+  spekt          观ˢ         F=14    pejvo   
+
+【视】 3件
+  televid        视          F=20    basic   
+  vide           视ⱽ         F=13    pejvo   
+  opt            视ᴼ         F=4     piv     【医】視力
+
+【认】 3件
+  kon            认          F=44    basic   
+  konfes         认ᴷᶠ        F=12    basic   
+  agnosk         认ᴬ         F=3     pejvo   
+
+【让】 3件
+  ced            让          F=22    basic   
+  konced         让ᴷ         F=3     pejvo   
+  alien          让ᴬ         F=5     piv     【法】譲渡
+
+【讲】 3件
+  lekci          讲          F=2     basic   
+  preleg         讲ᴾ         F=4     basic   
+  predik         讲ᴾᴰ        F=10    pejvo   
+
+【许】 3件
+  permes         许          F=21    basic   
+  licenc         许ᴸ         F=5     basic   
+  lic            许ᴸᴵ        F=2     pejvo   
+
+【访】 3件
+  vizit          访          F=19    basic   
+  intervju       访ᴵ         F=6     basic   
+  frekvent       访ᶠ         F=2     pejvo   
+
+【货】 3件
+  var            货          F=18    basic   
+  karg           货ᴷ         F=18    pejvo   
+  frajt          货ᶠ         F=17    pejvo   
+
+【贩】 3件
+  brokant        贩          F=9     basic   
+  s^akr          贩ˢ̂        F=5     pejvo   
+  kolport        贩ᴷ         F=4     pejvo   
+
+【轰】 3件
+  fulmin         轰          F=2     pejvo   
+  detonaci       轰ᴰ         F=6     pejvo   
+  bombard        轰ᴮ         F=3     pejvo   
+
+【选】 3件
+  elekt          选          F=39    basic   
+  antologi       选ᴬ         F=1     basic   
+  selekt         选ˢ         F=5     pejvo   
+
+【释】 3件
+  ekzegez        释          F=3     pejvo   
+  eksplik        释ᴱˢ        F=2     pejvo   
+  eksplic        释ᴱᶜ        F=2     piv     明確に説明する
+
+【铲】 3件
+  ŝovel          铲          F=7     basic   
+  trul           铲ᵀ         F=3     pejvo   
+  spatel         铲ˢ         F=2     pejvo   
+
+【长】 3件
+  estr           长          F=90    suf     
+  long           长ᴸ         F=82    basic   
+  kapitan        长ᴷ         F=5     pejvo   
+
+【阁】 3件
+  moŝt           阁          F=10    basic   
+  kabinet        阁ᴷ         F=5     basic   
+  ekscelenc      阁ᴱ         F=3     pejvo   
+
+【阶】 3件
+  ŝtup           阶          F=20    basic   
+  stadi          阶ˢ         F=3     basic   
+  gam            阶ᴳ         F=8     pejvo   
+
+【颜】 3件
+  farb           颜          F=12    basic   
+  vizaĝ          颜ⱽ         F=16    basic   
+  faci           颜ᶠᶜ        F=2     piv     【解】顔・顔面
+
+【馆】 3件
+  muze           馆          F=5     basic   
+  hotel          馆ᴴ         F=7     basic   
+  pavilon        馆ᴾ         F=2     pejvo   
+
+【驳】 3件
+  refut          驳          F=4     basic   
+  replik         驳ᴿᴾ        F=3     pejvo   
+  barg^          驳ᴮ         F=2     pejvo   
+
+【驾】 3件
+  ŝofor          驾          F=2     basic   
+  stir           驾ˢ         F=24    pejvo   
+  koc^er         驾ᴷ         F=2     pejvo   
+
+【验】 3件
+  spert          验          F=21    basic   
+  eksperiment    验ᴱ         F=12    basic   
+  empiri         验ᴱᴹ        F=7     pejvo   
+
+【鸽】 3件
+  kolomb         鸽          F=22    basic   
+  turt           鸽ᵀ         F=3     pejvo   
+  livi           鸽ᴸ         F=2     pejvo   
+
+【粟】 2件
+  panic          粟          F=2     basic   
+  mili           粟ᴹ         F=6     pejvo   
+
+【案】 2件
+  projekt        案          F=10    basic   
+  pupitr         案ᴾᴾ        F=2     pejvo   
+
+【杏】 2件
+  abrikot        杏          F=5     basic   
+  anzu           杏ᴬᴺ        F=3     piv     【植】アンズ
+
+【位似】 2件
+  homotet        位似         F=2     piv     【数】相似拡大であること
+  homoteti       位似ᴴᴵ       F=2     piv     【数】相似拡大
+
+【胃】 2件
+  stomak         胃          F=19    basic   
+  gastr          胃ᴳ         F=22    sci     
+
+【育】 2件
+  eduk           育          F=35    basic   
+  kresk          育ᴷ         F=43    basic   
+
+【引】 2件
+  cit            引          F=23    basic   
+  gravit         引ᴳ         F=14    pejvo   
+
+【淫】 2件
+  porn           淫          F=13    pejvo   
+  obscen         淫ᴼ         F=3     pejvo   
+
+【院长】 2件
+  abat           院长         F=4     pejvo   
+  prior          院长ᴾ        F=4     pejvo   
+
+【宇】 2件
+  kosm           宇          F=21    basic   
+  univers        宇ᵁ         F=3     basic   
+
+【羽】 2件
+  plum           羽          F=34    basic   
+  volan          羽ⱽ         F=3     pejvo   
+
+【云】 2件
+  nub            云          F=24    basic   
+  nef            云ᴺᶠ        F=2     piv     【気】雲量計
+
+【映】 2件
+  kin            映          F=9     basic   
+  enantio        映ᴱ         F=6     piv     【化】対掌の・鏡像の
+
+【疫】 2件
+  epidemi        疫          F=6     basic   
+  pest           疫ᴾ         F=6     pejvo   
+
+【益】 2件
+  util           益          F=28    basic   
+  benefic        益ᴮ         F=2     pejvo   
+
+【悦】 2件
+  plaĉ           悦          F=13    basic   
+  delekt         悦ᴰ         F=3     piv     楽しませる・喜ばせる
+
+【越】 2件
+  trans          越          F=153   prep    
+  ju             越ᴶ         F=3     pejvo   
+
+【宴】 2件
+  festen         宴          F=7     basic   
+  banked         宴ᴮ         F=4     pejvo   
+
+【炎】 2件
+  katar          炎          F=9     basic   
+  inflam         炎ᴵ         F=25    sci     
+
+【央】 2件
+  centr          央          F=61    basic   
+  central        央ᶜᴸ        F=19    basic   
+
+【往】 2件
+  ir             往          F=140   basic   
+  o-re           往ᴼ         F=2     pejvo   
+
+【横】 2件
+  horizontal     横          F=10    basic   
+  transvers      横ᵀ         F=6     pejvo   
+
+【黄】 2件
+  flav           黄          F=31    basic   
+  flavin         黄ᶠᴺ        F=3     piv     【化】フラビン
+
+【黄铜】 2件
+  latun          黄铜         F=4     basic   
+  tombak         黄铜ᵀ        F=2     pejvo   
+
+【化】 2件
+  iz             化          F=166   suf     
+  ĥemi           化ĥ         F=2     basic   
+
+【加】 2件
+  plus           加          F=8     func    
+  adici          加ᴬ         F=4     basic   
+
+【寡】 2件
+  vidv           寡          F=7     basic   
+  oligo          寡ᴼ         F=5     piv     【生】微量・少数
+
+【火】 2件
+  fajr           火          F=61    basic   
+  mard           火ᴹ         F=4     cal     
+
+【火枪】 2件
+  musked         火枪         F=3     pejvo   
+  musket         火枪ᴹᵀ       F=2     pejvo   
+
+【花环】 2件
+  girland        花环         F=2     basic   
+  feston         花环ᶠ        F=2     pejvo   
+
+【蚊】 2件
+  moskit         蚊          F=5     basic   
+  kul            蚊ᴷ         F=2     pejvo   
+
+【我】 2件
+  mi             我          F=20    func    
+  atm            我ᴬ         F=2     piv     【理】蒸発計
+
+【雅】 2件
+  graci          雅          F=8     basic   
+  elegant        雅ᴱ         F=9     basic   
+
+【介电】 2件
+  permitiv       介电         F=3     pejvo   
+  dielektrik     介电ᴰ        F=6     pejvo   
+
+【快】 2件
+  agrabl         快          F=10    basic   
+  alegr          快ᴬᴸ        F=4     pejvo   
+
+【悔】 2件
+  pent           悔          F=12    basic   
+  rimors         悔ᴿ         F=2     piv     後悔・良心の呵責
+
+【海胆】 2件
+  ekin           海胆         F=4     pejvo   
+  eh^in          海胆ᴱᴴ̂      F=2     piv     【動】ウニ
+
+【芥】 2件
+  mustard        芥          F=4     basic   
+  sinap          芥ˢ         F=3     pejvo   
+
+【外科】 2件
+  kirurg         外科         F=2     basic   
+  kirurgi        外科ᴷᴵ       F=6     basic   
+
+【害】 2件
+  noc            害          F=6     pejvo   
+  atenc          害ᴬ         F=9     pejvo   
+
+【蛙】 2件
+  ran            蛙          F=8     basic   
+  batrak         蛙ᴮ         F=2     pejvo   
+
+【廓】 2件
+  profil         廓          F=7     pejvo   
+  kontur         廓ᴷ         F=5     pejvo   
+
+【核】 2件
+  kern           核          F=29    basic   
+  nukle          核ᴺ         F=44    basic   
+
+【革】 2件
+  led            革          F=28    basic   
+  revoluci       革ᴿ         F=11    basic   
+
+【割】 2件
+  serp           割          F=3     pejvo   
+  sekant         割ˢᴷ        F=2     pejvo   
+
+【褐】 2件
+  brun           褐          F=28    basic   
+  bistr          褐ᴮˢ        F=2     pejvo   
+
+【汗】 2件
+  ŝvit           汗          F=22    basic   
+  h^an           汗ᴴ̂        F=3     pejvo   
+
+【丸】 2件
+  pilol          丸          F=3     basic   
+  testik         丸ᵀ         F=6     pejvo   
+
+【玩】 2件
+  lud            玩          F=87    basic   
+  petol          玩ᴾ         F=11    basic   
+
+【癌】 2件
+  kancer         癌          F=19    basic   
+  karcinom       癌ᴷᴿ        F=2     piv     【医】癌腫
+
+【企鹅】 2件
+  pingven        企鹅         F=2     pejvo   
+  sfenisk        企鹅ˢ        F=2     piv     【動】ケープペンギン属
+
+【危】 2件
+  kriz           危          F=15    basic   
+  danĝer         危ᴰ         F=13    basic   
+
+【喜】 2件
+  ĝoj            喜          F=25    basic   
+  ŝat            喜ŝ         F=15    basic   
+
+【基】 2件
+  baz            基          F=47    basic   
+  fundament      基ᶠ         F=19    basic   
+
+【寄】 2件
+  visk           寄          F=3     pejvo   
+  konsign        寄ᴷ         F=2     piv     委託販売に送る
+
+【季】 2件
+  sezon          季          F=23    basic   
+  trimestr       季ᵀ         F=2     pejvo   
+
+【稀】 2件
+  rar            稀          F=5     pejvo   
+  dilu           稀ᴰ         F=5     pejvo   
+
+【菊】 2件
+  krizantem      菊          F=5     basic   
+  kompozit       菊ᴷᴹ        F=2     pejvo   
+
+【虐】 2件
+  turment        虐          F=13    basic   
+  molest         虐ᴹ         F=2     pejvo   
+
+【牛】 2件
+  bov            牛          F=37    basic   
+  oks            牛ᴼ         F=2     piv     去勢牛
+
+【共】 2件
+  kun            共          F=249   prep    
+  komun          共ᴷᴹ        F=53    basic   
+
+【境】 2件
+  medi           境          F=51    basic   
+  eko            境ᴱ         F=13    pejvo   
+
+【峡】 2件
+  istm           峡          F=3     pejvo   
+  ravin          峡ᴿ         F=2     pejvo   
+
+【怯】 2件
+  timid          怯          F=2     pejvo   
+  poltron        怯ᴾ         F=2     pejvo   
+
+【玉】 2件
+  gem            玉          F=2     pejvo   
+  jad            玉ᴶ         F=2     pejvo   
+
+【勤】 2件
+  diligent       勤          F=10    basic   
+  asidu          勤ᴬ         F=2     piv     勤勉な・皆勤の
+
+【筋】 2件
+  muskol         筋          F=16    basic   
+  tenden         筋ᵀ         F=5     pejvo   
+
+【芹】 2件
+  celeri         芹          F=7     pejvo   
+  api            芹ᴬ         F=2     pejvo   
+
+【近】 2件
+  proksim        近          F=28    basic   
+  miop           近ᴹ         F=4     basic   
+
+【苦】 2件
+  sufer          苦          F=16    basic   
+  amar           苦ᴬ         F=5     basic   
+
+【掘】 2件
+  fos            掘          F=27    basic   
+  sape           掘ˢ         F=3     pejvo   
+
+【栗】 2件
+  kaŝtan         栗          F=12    basic   
+  maron          栗ᴹ         F=3     pejvo   
+
+【君主】 2件
+  monark         君主         F=4     pejvo   
+  monarki        君主ᴹᴵ       F=3     pejvo   
+
+【群】 2件
+  ar             群          F=501   suf     
+  greg           群ᴳ         F=5     basic   
+
+【刑】 2件
+  kriminal       刑          F=8     pejvo   
+  linc^          刑ᴸ         F=3     pejvo   
+
+【型】 2件
+  tip            型          F=42    basic   
+  muld           型ᴹ         F=9     pejvo   
+
+【景】 2件
+  pejzaĝ         景          F=4     basic   
+  panoram        景ᴾᴺ        F=4     basic   
+
+【桂】 2件
+  cinam          桂          F=5     basic   
+  lau^r          桂ᴸ         F=9     pejvo   
+
+【茎】 2件
+  tig            茎          F=17    basic   
+  kulm           茎ᴷ         F=2     pejvo   
+
+【激】 2件
+  ekscit         激          F=19    basic   
+  stimul         激ˢ         F=9     basic   
+
+【激素】 2件
+  hormon         激素         F=2     pejvo   
+  stimulin       激素ˢ        F=2     piv     【生】刺激物質
+
+【血虫】 2件
+  bilharzi       血虫         F=2     piv     【医】住血吸虫
+  skistosom      血虫ˢ        F=2     piv     【動】住血吸虫
+
+【健】 2件
+  san            健          F=91    basic   
+  salubr         健ˢᴸ        F=4     piv     【医】健康によい
+
+【券】 2件
+  kupon          券          F=6     basic   
+  bil            券ᴮ         F=4     pejvo   
+
+【建】 2件
+  fond           建          F=21    basic   
+  konstru        建ᴷ         F=51    basic   
+
+【建筑】 2件
+  arkitekt       建筑         F=4     pejvo   
+  arkitektur     建筑ᴬᴿ       F=2     pejvo   
+
+【犬】 2件
+  hund           犬          F=60    basic   
+  dog            犬ᴰ         F=2     pejvo   
+
+【肩】 2件
+  ŝultr          肩          F=19    basic   
+  skapol         肩ˢ         F=4     pejvo   
+
+【元】 2件
+  vokal          元          F=5     basic   
+  vokoid         元ⱽᴰ        F=2     piv     【語】母音的音、ボコイド
+
+【限】 2件
+  fini           限          F=3     piv     【数】有限の
+  restrikt       限ᴿ         F=3     piv     制限・制約
+
+【糊】 2件
+  past           糊          F=19    basic   
+  amel           糊ᴬ         F=9     pejvo   
+
+【鼓膜】 2件
+  timpan         鼓膜         F=5     pejvo   
+  miring         鼓膜ᴹ        F=3     piv     【医】鼓膜
+
+【五】 2件
+  kvin           五          F=31    num     
+  penta          五ᴾ         F=3     pejvo   
+
+【互】 2件
+  reciprok       互          F=11    basic   
+  mutual         互ᴹ         F=4     pejvo   
+
+【侯】 2件
+  princ          侯          F=17    basic   
+  markiz         侯ᴹ         F=4     pejvo   
+
+【后】 2件
+  post           后          F=106   prep    
+  aposterior     后ᴬ         F=2     pejvo   
+
+【喉】 2件
+  gorĝ           喉          F=15    basic   
+  laring         喉ᴸ         F=11    pejvo   
+
+【宏】 2件
+  grandioz       宏          F=5     basic   
+  makro          宏ᴹ         F=13    pejvo   
+
+【校】 2件
+  lice           校          F=5     basic   
+  gimnazi        校ᴳ         F=4     basic   
+
+【梗】 2件
+  infarkt        梗          F=4     pejvo   
+  pedunkl        梗ᴾ         F=3     pejvo   
+
+【甲状】 2件
+  tiroid         甲状         F=9     pejvo   
+  tire           甲状ᵀᴱ       F=2     piv     【解】甲状軟骨
+
+【行】 2件
+  ad             行          F=1555  suf     
+  andant         行ᴬᴺ        F=2     pejvo   
+
+【香柑】 2件
+  cedrat         香柑         F=2     pejvo   
+  bergamot       香柑ᴮ        F=5     pejvo   
+
+【克】 2件
+  gram           克          F=54    basic   
+  konker         克ᴷ         F=4     pejvo   
+
+【腰】 2件
+  tali           腰          F=9     basic   
+  lumb           腰ᴸ         F=5     basic   
+
+【忽】 2件
+  ignor          忽          F=6     basic   
+  neglekt        忽ᴺ         F=3     basic   
+
+【骨】 2件
+  ost            骨          F=52    basic   
+  skelet         骨ˢ         F=7     basic   
+
+【此】 2件
+  cis            此          F=2     pejvo   
+  c^i-tie        此ᶜ̂        F=2     pejvo   
+
+【婚】 2件
+  fianĉ          婚          F=16    basic   
+  nupt           婚ᴺ         F=3     pejvo   
+
+【根】 2件
+  radik          根          F=41    basic   
+  radikl         根ᴿᴸ        F=3     piv     【医】神経根
+
+【混】 2件
+  miks           混          F=43    basic   
+  sinkret        混ˢ         F=2     pejvo   
+
+【混乱】 2件
+  kaos           混乱         F=2     pejvo   
+  h^aos          混乱ᴴ̂       F=2     pejvo   
+
+【再】 2件
+  re             再          F=367   pref    
+  bis            再ᴮ         F=4     func    
+
+【塞】 2件
+  kork           塞          F=7     basic   
+  plosiv         塞ᴾ         F=2     pejvo   
+
+【祭】 2件
+  mes            祭          F=11    pejvo   
+  hieratik       祭ᴴ         F=2     pejvo   
+
+【在】 2件
+  ant            在          F=664   suf     
+  ĉe             在ĉ         F=22    prep    
+
+【材】 2件
+  material       材          F=21    basic   
+  statur         材ˢ         F=7     basic   
+
+【作】 2件
+  verk           作          F=37    basic   
+  aŭtor          作ᴬ         F=10    basic   
+
+【三】 2件
+  tri            三          F=128   num     
+  terciar        三ᵀᶜ        F=3     pejvo   
+
+【三角】 2件
+  trigonometri   三角         F=3     pejvo   
+  trigon         三角ᵀᴿ       F=2     piv     【解】三角
+
+【参】 2件
+  stab           参          F=7     basic   
+  referenc       参ᴿ         F=6     basic   
+
+【山核桃】 2件
+  karj           山核桃        F=2     piv     【植】ヒッコリー
+  pekan          山核桃ᴾ       F=3     piv     【植】ペカン
+
+【餐】 2件
+  restoraci      餐          F=4     basic   
+  supe           餐ˢ         F=2     piv     晩餐
+
+【残】 2件
+  kruel          残          F=11    basic   
+  kripl          残ᴷᴾ        F=6     basic   
+
+【史】 2件
+  histori        史          F=32    basic   
+  anal           史ᴬ         F=2     piv     【史】年代記
+
+【史诗】 2件
+  epope          史诗         F=2     pejvo   
+  epik           史诗ᴱᴷ       F=2     piv     叙事詩
+
+【四】 2件
+  kvar           四          F=75    num     
+  kvaternar      四ᴷᵀ        F=2     pejvo   
+
+【士】 2件
+  kavalir        士          F=12    pejvo   
+  licenci        士ᴸ         F=4     pejvo   
+
+【始】 2件
+  ek             始          F=147   pref    
+  komenc         始ᴷ         F=24    basic   
+
+【姿】 2件
+  gest           姿          F=13    basic   
+  poz            姿ᴾ         F=4     pejvo   
+
+【子】 2件
+  id             子          F=108   suf     
+  atom           子ᴬ         F=32    basic   
+
+【志】 2件
+  ambici         志          F=4     basic   
+  grafi          志ᴳ         F=94    sci     【医】書字障害(失書)
+
+【思】 2件
+  pens           思          F=49    basic   
+  medit          思ᴹ         F=5     basic   
+
+【止】 2件
+  ĉes            止          F=10    basic   
+  apne           止ᴬ         F=2     pejvo   
+
+【死】 2件
+  mort           死          F=100   basic   
+  nekr           死ᴺ         F=5     pejvo   
+
+【私】 2件
+  privat         私          F=17    basic   
+  partikular     私ᴾᵀ        F=3     pejvo   
+
+【次】 2件
+  foj            次          F=39    basic   
+  sekundar       次ˢ         F=2     pejvo   
+
+【磁】 2件
+  magnet         磁          F=66    basic   
+  magnetofon     磁ᴹᶠ        F=0     basic   
+
+【自治】 2件
+  au^tonom       自治         F=7     pejvo   
+  au^tonomi      自治ᴬᴵ       F=3     pejvo   
+
+【自发】 2件
+  spontan        自发         F=4     pejvo   
+  spontane       自发ˢᴱ       F=7     pejvo   
+
+【湿】 2件
+  humid          湿          F=3     basic   
+  higr           湿ᴴᴳ        F=5     pejvo   
+
+【蛇】 2件
+  serpent        蛇          F=20    basic   
+  meandr         蛇ᴹ         F=2     pejvo   
+
+【邪】 2件
+  pervers        邪          F=3     pejvo   
+  perversi       邪ᴾᴵ        F=2     pejvo   
+
+【勺】 2件
+  kuler          勺          F=9     basic   
+  s^kop          勺ˢ̂        F=2     piv     あか汲み
+
+【主祭】 2件
+  prepost        主祭         F=2     pejvo   
+  pontifik       主祭ᴾᴺ       F=3     pejvo   
+
+【守】 2件
+  gard           守          F=49    basic   
+  garnizon       守ᴳᴺ        F=5     pejvo   
+
+【手】 2件
+  man            手          F=82    basic   
+  kiral          手ᴷ         F=2     piv     【理】キラルな
+
+【朱】 2件
+  cinabr         朱          F=4     pejvo   
+  vermiljon      朱ⱽ         F=2     pejvo   
+
+【首】 2件
+  ĉef            首          F=93    pref    
+  arki           首ᴬ         F=3     piv     【宗】司教代理
+
+【受】 2件
+  it             受          F=949   suf     
+  akcept         受ᴬ         F=14    basic   
+
+【授】 2件
+  profesor       授          F=9     basic   
+  inic           授ᴵ         F=5     pejvo   
+
+【酬】 2件
+  rekompenc      酬          F=4     basic   
+  honorari       酬ᴴ         F=2     pejvo   
+
+【汁】 2件
+  suk            汁          F=26    basic   
+  most           汁ᴹ         F=2     pejvo   
+
+【祝】 2件
+  ben            祝          F=10    basic   
+  tost           祝ᵀ         F=3     basic   
+
+【熟】 2件
+  matur          熟          F=19    basic   
+  familiar       熟ᶠ         F=8     basic   
+
+【述】 2件
+  rakont         述          F=15    basic   
+  dikt           述ᴰ         F=4     basic   
+
+【准】 2件
+  preciz         准          F=16    basic   
+  akurat         准ᴬ         F=3     basic   
+
+【醇】 2件
+  alkohol        醇          F=22    basic   
+  glikol         醇ᴳ         F=2     piv     【化】グリコール(1,2-プロパンジオール)
+
+【所】 2件
+  ej             所          F=743   suf     
+  kontor         所ᴷ         F=4     pejvo   
+
+【助】 2件
+  help           助          F=53    basic   
+  adjunkt        助ᴬ         F=3     pejvo   
+
+【序】 2件
+  ord            序          F=47    basic   
+  sekvenc        序ˢ         F=2     piv     
+
+【唱】 2件
+  kant           唱          F=49    basic   
+  ĥor            唱ĥ         F=14    basic   
+
+【庄】 2件
+  bien           庄          F=13    basic   
+  solen          庄ˢ         F=16    basic   
+
+【照】 2件
+  fotograf       照          F=0     basic   
+  ilumin         照ᴵ         F=10    pejvo   
+
+【笑】 2件
+  rid            笑          F=31    basic   
+  komik          笑ᴷ         F=7     basic   
+
+【障】 2件
+  bar            障          F=32    basic   
+  handikap       障ᴴ         F=7     pejvo   
+
+【上】 2件
+  sur            上          F=129   prep    
+  super          上ˢᴾ        F=160   prep    
+
+【条】 2件
+  stri           条          F=24    basic   
+  lat            条ᴸ         F=8     pejvo   
+
+【拭】 2件
+  viŝ            拭          F=16    basic   
+  s^vabr         拭ˢ̂        F=3     pejvo   
+
+【殖】 2件
+  koloni         殖          F=18    basic   
+  prolifer       殖ᴾ         F=3     piv     増殖する
+
+【触】 2件
+  tuŝ            触          F=40    basic   
+  tikso          触ᵀᴷ        F=2     piv     【理】チキソトロピー性
+
+【食】 2件
+  manĝ           食          F=86    basic   
+  eklips         食ᴱ         F=16    pejvo   
+
+【辱】 2件
+  blasfem        辱          F=5     basic   
+  sakrilegi      辱ˢ         F=4     pejvo   
+
+【伸】 2件
+  etend          伸          F=14    basic   
+  ekstens        伸ᴱᴷ        F=3     piv     伸展
+
+【信风】 2件
+  trad           信风         F=3     pejvo   
+  alize          信风ᴬ        F=2     piv     貿易風
+
+【振】 2件
+  vibr           振          F=15    pejvo   
+  oscil          振ᴼ         F=17    pejvo   
+
+【疹】 2件
+  tif            疹          F=4     pejvo   
+  ekzantem       疹ᴱ         F=3     pejvo   
+
+【真】 2件
+  ver            真          F=34    basic   
+  au^tentik      真ᴬ         F=3     pejvo   
+
+【神经】 2件
+  nerv           神经         F=22    basic   
+  neŭr           神经ᴺŭ       F=20    sci     
+
+【臣】 2件
+  ministr        臣          F=33    basic   
+  vasal          臣ⱽ         F=2     pejvo   
+
+【逗】 2件
+  kom            逗          F=9     basic   
+  ŝerc           逗ŝ         F=13    basic   
+
+【吹】 2件
+  blov           吹          F=31    basic   
+  blag           吹ᴮᴳ        F=2     pejvo   
+
+【睡】 2件
+  dorm           睡          F=46    basic   
+  piĵam          睡ᴾ         F=1     basic   
+
+【衰】 2件
+  atenu          衰          F=6     pejvo   
+  kah^eksi       衰ᴷ         F=2     piv     【医】悪液質
+
+【数据】 2件
+  daten          数据         F=12    pejvo   
+  datum          数据ᴰᴹ       F=5     pejvo   
+
+【制服】 2件
+  uniform        制服         F=6     basic   
+  livre          制服ᴸ        F=2     pejvo   
+
+【政】 2件
+  politik        政          F=50    basic   
+  polit          政ᴾᴼ        F=2     pejvo   
+
+【精液】 2件
+  sperm          精液         F=11    pejvo   
+  c^ur           精液ᶜ̂       F=3     piv     精液(俗語)
+
+【誓】 2件
+  ĵur            誓          F=19    basic   
+  vot            誓ⱽ         F=4     pejvo   
+
+【醒】 2件
+  vek            醒          F=13    basic   
+  sobr           醒ˢ         F=7     basic   
+
+【税】 2件
+  impost         税          F=44    basic   
+  akciz          税ᴬ         F=5     pejvo   
+
+【斥】 2件
+  eksklud        斥          F=4     pejvo   
+  skold          斥ˢ         F=2     piv     叱責
+
+【雪松】 2件
+  cedr           雪松         F=4     pejvo   
+  himalaj        雪松ᴴ        F=2     pejvo   
+
+【雪车】 2件
+  sled           雪车         F=2     basic   
+  lug^           雪车ᴸ        F=2     pejvo   
+
+【潜】 2件
+  plonĝ          潜          F=7     basic   
+  latent         潜ᴸ         F=6     pejvo   
+
+【煽动】 2件
+  demagog        煽动         F=2     pejvo   
+  demagogi       煽动ᴰᴵ       F=2     pejvo   
+
+【粗】 2件
+  krud           粗          F=22    basic   
+  rasp           粗ᴿ         F=11    pejvo   
+
+【相关】 2件
+  korelaci       相关         F=3     pejvo   
+  korelativ      相关ᴷᵀ       F=3     pejvo   
+
+【草原】 2件
+  step           草原         F=5     pejvo   
+  preri          草原ᴾ        F=3     pejvo   
+
+【送】 2件
+  send           送          F=41    basic   
+  eksped         送ᴱ         F=6     basic   
+
+【霜】 2件
+  frost          霜          F=33    basic   
+  prujn          霜ᴾ         F=5     pejvo   
+
+【像】 2件
+  ŝajn           像          F=34    basic   
+  statu          像ˢ         F=5     basic   
+
+【促】 2件
+  akcel          促          F=15    basic   
+  forc           促ᶠ         F=7     pejvo   
+
+【即】 2件
+  tuj            即          F=15    func    
+  ekstemporal    即ᴱ         F=2     pejvo   
+
+【足】 2件
+  pied           足          F=81    basic   
+  pod            足ᴾᴼ        F=29    sci     
+
+【属】 2件
+  aparten        属          F=6     basic   
+  genr           属ᴳ         F=6     pejvo   
+
+【尊】 2件
+  dign           尊          F=10    basic   
+  estim          尊ᴱ         F=9     basic   
+
+【他】 2件
+  li             他          F=7     func    
+  altru          他ᴬ         F=3     pejvo   
+
+【待】 2件
+  ot             待          F=21    suf     
+  atend          待ᴬ         F=15    basic   
+
+【腿】 2件
+  krur           腿          F=18    basic   
+  gamb           腿ᴳ         F=4     basic   
+
+【袋鼠】 2件
+  makrop         袋鼠         F=2     pejvo   
+  kanguru        袋鼠ᴷ        F=2     pejvo   
+
+【大豆】 2件
+  soj            大豆         F=10    pejvo   
+  glicin         大豆ᴳ        F=2     pejvo   
+
+【托】 2件
+  kolb           托          F=2     pejvo   
+  korbel         托ᴷᴿ        F=3     pejvo   
+
+【探】 2件
+  esplor         探          F=30    basic   
+  sond           探ˢ         F=13    pejvo   
+
+【炭】 2件
+  karb           炭          F=49    basic   
+  brag^          炭ᴮ         F=2     pejvo   
+
+【短】 2件
+  kurt           短          F=5     pejvo   
+  efemer         短ᴱ         F=5     pejvo   
+
+【短裤】 2件
+  kulot          短裤         F=6     pejvo   
+  s^ort          短裤ˢ̂       F=2     piv     【服】ショートパンツ
+
+【胆】 2件
+  gal            胆          F=9     basic   
+  kole           胆ᴷ         F=9     piv     【医】胆(胆汁血症)
+
+【断】 2件
+  asert          断          F=3     basic   
+  intermit       断ᴵ         F=9     pejvo   
+
+【知】 2件
+  sci            知          F=46    basic   
+  gnostik        知ᴳ         F=4     piv     【宗】グノーシス
+
+【逐】 2件
+  ekzil          逐          F=5     pejvo   
+  proskrib       逐ᴾ         F=2     pejvo   
+
+【窒】 2件
+  sufok          窒          F=9     basic   
+  asfiksi        窒ᴬ         F=2     pejvo   
+
+【茶】 2件
+  te             茶          F=41    basic   
+  kameli         茶ᴷ         F=3     pejvo   
+
+【忠】 2件
+  fidel          忠          F=13    basic   
+  lojal          忠ᴸ         F=9     basic   
+
+【抽】 2件
+  abstrakt       抽          F=13    basic   
+  ekstrakt       抽ᴱ         F=3     pejvo   
+
+【抽筋】 2件
+  spasm          抽筋         F=8     pejvo   
+  kramf          抽筋ᴷ        F=3     pejvo   
+
+【著】 2件
+  signifik       著          F=2     piv     【数】有意である
+  signifikanc    著ˢᴺ        F=3     piv     【統計】有意性
+
+【丁香】 2件
+  siring         丁香         F=3     pejvo   
+  kariofil       丁香ᴷ        F=6     pejvo   
+
+【兆】 2件
+  bilion         兆          F=1     num     
+  megom          兆ᴹ         F=2     pejvo   【理】メグオーム計
+
+【跳】 2件
+  salt           跳          F=47    basic   
+  kapriol        跳ᴷ         F=2     pejvo   
+
+【直】 2件
+  rekt           直          F=38    basic   
+  orto           直ᴼ         F=9     pejvo   
+
+【痛】 2件
+  algi           痛          F=20    suf     
+  dolor          痛ᴰ         F=42    basic   
+
+【通】 2件
+  korespond      通          F=10    basic   
+  dia            通ᴰ         F=21    pejvo   
+
+【爪】 2件
+  ung            爪          F=15    basic   
+  klik           爪ᴷ         F=11    pejvo   
+
+【低】 2件
+  bas            低          F=7     pejvo   
+  depresi        低ᴰ         F=4     pejvo   
+
+【底】 2件
+  fon            底          F=79    basic   
+  fund           底ᶠᴰ        F=23    basic   
+
+【提】 2件
+  menci          提          F=5     basic   
+  suflor         提ˢ         F=6     pejvo   
+
+【摘】 2件
+  pluk           摘          F=5     pejvo   
+  enukle         摘ᴱ         F=2     pejvo   
+
+【笛】 2件
+  fajf           笛          F=10    basic   
+  flut           笛ᶠᴸ        F=10    pejvo   
+
+【哲】 2件
+  filozofi       哲          F=4     basic   
+  filozof        哲ᶠᴵ        F=2     pejvo   
+
+【天】 2件
+  paradiz        天          F=7     basic   
+  astronomi      天ᴬ         F=1     basic   
+
+【天使】 2件
+  anĝel          天使         F=9     basic   
+  seraf          天使ˢ        F=2     pejvo   
+
+【田】 2件
+  kamp           田          F=66    basic   
+  hub            田ᴴ         F=2     pejvo   
+
+【堵】 2件
+  ŝtop           堵          F=37    basic   
+  obtur          堵ᴼ         F=6     pejvo   
+
+【徒】 2件
+  van            徒          F=12    basic   
+  adept          徒ᴬ         F=2     pejvo   
+
+【杜松】 2件
+  juniper        杜松         F=3     pejvo   
+  sabin          杜松ˢ        F=2     piv     【植】サビナビャクシン
+
+【度】 2件
+  grad           度          F=30    basic   
+  skal           度ˢ         F=13    basic   
+
+【怒】 2件
+  koler          怒          F=18    basic   
+  kolerik        怒ᴷᴷ        F=2     piv     【医】胆汁質
+
+【倒】 2件
+  kusp           倒          F=5     pejvo   
+  inversi        倒ᴵ         F=3     pejvo   
+
+【投】 2件
+  ĵet            投          F=67    basic   
+  spekul         投ˢ         F=7     pejvo   
+
+【灯】 2件
+  lamp           灯          F=34    basic   
+  lucern         灯ᴸᶜ        F=2     pejvo   
+
+【当】 2件
+  deĵor          当          F=13    basic   
+  lombard        当ᴸ         F=9     pejvo   
+
+【痘】 2件
+  akn            痘          F=2     basic   
+  variol         痘ⱽ         F=7     pejvo   
+
+【豆】 2件
+  fab            豆          F=9     basic   
+  fazeol         豆ᶠᶻ        F=3     basic   
+
+【同伦】 2件
+  homotop        同伦         F=2     piv     【数】ホモトピー的
+  homotopi       同伦ᴴᴵ       F=2     piv     【数】ホモトピー
+
+【堂区】 2件
+  parok          堂区         F=7     pejvo   
+  paroh^         堂区ᴾᴴ̂      F=6     pejvo   
+
+【特许】 2件
+  patent         特许         F=11    pejvo   
+  koncesi        特许ᴷ        F=6     pejvo   
+
+【独】 2件
+  unik           独          F=7     basic   
+  apart          独ᴬ         F=13    basic   
+
+【橡】 2件
+  kverk          橡          F=8     basic   
+  glan           橡ᴳ         F=5     pejvo   
+
+【南】 2件
+  sud            南          F=28    basic   
+  antarkt        南ᴬ         F=5     basic   
+
+【肉】 2件
+  karn           肉          F=27    basic   
+  viand          肉ⱽ         F=21    basic   
+
+【粘】 2件
+  muk            粘          F=14    pejvo   
+  viskoz         粘ⱽ         F=8     pejvo   
+
+【破】 2件
+  romp           破          F=69    basic   
+  ĉifon          破ĉ         F=12    basic   
+
+【背】 2件
+  dors           背          F=33    basic   
+  parker         背ᴾ         F=5     pejvo   
+
+【肺】 2件
+  pulm           肺          F=15    basic   
+  pneu^mon       肺ᴾᴺ        F=7     pejvo   
+
+【倍】 2件
+  obl            倍          F=56    suf     
+  ploid          倍ᴾ         F=9     piv     二倍体の(倍数性)
+
+【媒】 2件
+  svat           媒          F=7     basic   
+  medium         媒ᴹ         F=4     pejvo   
+
+【博】 2件
+  doktor         博          F=11    basic   
+  erudici        博ᴱ         F=3     pejvo   
+
+【白】 2件
+  blank          白          F=68    basic   
+  albin          白ᴬ         F=3     pejvo   
+
+【八】 2件
+  ok             八          F=24    num     
+  okta           八ᴼᵀ        F=2     piv     正八面体
+
+【八度】 2件
+  oktav          八度         F=3     pejvo   
+  okt            八度ᴼᴷ       F=2     piv     【楽】オクターブ
+
+【半】 2件
+  hemi           半          F=13    pejvo   
+  semi           半ˢ         F=3     piv     【化】セミカルバジド
+
+【反射】 2件
+  reflekt        反射         F=12    basic   
+  refleks        反射ᴿˢ       F=6     pejvo   
+
+【帆索】 2件
+  bras           帆索         F=2     piv     【海】帆桁の操り綱、ブレース
+  hals           帆索ᴴ        F=2     piv     タック索
+
+【帆船】 2件
+  skun           帆船         F=2     pejvo   
+  lugr           帆船ᴸ        F=2     pejvo   
+
+【版】 2件
+  versi          版          F=7     basic   
+  format         版ᶠ         F=12    basic   
+
+【卑】 2件
+  fi             卑          F=12    pref    
+  trivial        卑ᵀ         F=6     pejvo   
+
+【批】 2件
+  ratif          批          F=2     pejvo   
+  ratifik        批ᴿᴷ        F=4     pejvo   
+
+【比】 2件
+  ol             比          F=26    func    
+  proporci       比ᴾ         F=14    basic   
+
+【被】 2件
+  at             被          F=232   suf     
+  pasiv          被ᴾ         F=6     basic   
+
+【避】 2件
+  evit           避          F=14    basic   
+  rifuĝ          避ᴿ         F=7     basic   
+
+【尾】 2件
+  vost           尾          F=37    basic   
+  kulas          尾ᴷ         F=4     pejvo   
+
+【微分同胚】 2件
+  difeomorf      微分同胚       F=2     piv     【数】微分同相性
+  difeomorfi     微分同胚ᴰᴵ     F=2     piv     【数】微分同相写像
+
+【微风】 2件
+  briz           微风         F=2     pejvo   
+  zefir          微风ᶻ        F=3     pejvo   
+
+【菱】 2件
+  romb           菱          F=8     pejvo   
+  lozang^        菱ᴸ         F=2     pejvo   
+
+【必】 2件
+  neces          必          F=18    basic   
+  nepr           必ᴺᴾ        F=5     basic   
+
+【百万】 2件
+  milion         百万         F=7     num     
+  mega           百万ᴹᴳ       F=9     pejvo   
+
+【豹】 2件
+  panter         豹          F=3     pejvo   
+  leopard        豹ᴸ         F=4     pejvo   
+
+【敏】 2件
+  sagac          敏          F=5     basic   
+  prompt         敏ᴾ         F=4     piv     敏捷
+
+【富】 2件
+  oz             富          F=138   suf     
+  riĉ            富ᴿ         F=69    basic   
+
+【怖】 2件
+  teror          怖          F=12    pejvo   
+  horor          怖ᴴ         F=3     pejvo   
+
+【浮】 2件
+  bu             浮          F=5     pejvo   
+  pelag          浮ᴾ         F=3     piv     【生態】遠洋生物
+
+【符】 2件
+  sign           符          F=83    basic   
+  simbol         符ˢᴹ        F=14    basic   
+
+【侮】 2件
+  ofend          侮          F=11    basic   
+  insult         侮ᴵ         F=7     basic   
+
+【舞】 2件
+  danc           舞          F=31    basic   
+  bal            舞ᴮ         F=6     basic   
+
+【副】 2件
+  adverb         副          F=1     basic   
+  akcesor        副ᴬᴷ        F=5     pejvo   
+
+【福】 2件
+  beat           福          F=3     pejvo   
+  elize          福ᴱ         F=3     pejvo   
+
+【腹】 2件
+  ventr          腹          F=20    basic   
+  lapar          腹ᴸ         F=4     pejvo   
+
+【覆】 2件
+  teg            覆          F=14    basic   
+  mulc^          覆ᴹ         F=2     pejvo   
+
+【物】 2件
+  aĵ             物          F=1546  suf     
+  objekt         物ᴼ         F=30    basic   
+
+【物理】 2件
+  fizik          物理         F=31    basic   
+  fizi           物理ᶠᴵ       F=8     pejvo   
+
+【平】 2件
+  eben           平          F=28    basic   
+  nivel          平ᴺ         F=36    basic   
+
+【柄】 2件
+  ans            柄          F=3     pejvo   
+  stip           柄ˢ         F=2     pejvo   
+
+【米】 2件
+  metr           米          F=166   basic   
+  riz            米ᴿ         F=30    basic   
+
+【壁】 2件
+  mur            壁          F=39    basic   
+  pariet         壁ᴾ         F=3     pejvo   
+
+【偏执】 2件
+  bigot          偏执         F=4     pejvo   
+  paranoj        偏执ᴾ        F=2     pejvo   
+
+【募】 2件
+  varb           募          F=7     basic   
+  kvest          募ᴷ         F=3     piv     募金・喜捨集め
+
+【宝】 2件
+  juvel          宝          F=9     basic   
+  trezor         宝ᵀ         F=5     basic   
+
+【烹】 2件
+  kuir           烹          F=41    basic   
+  gastronomi     烹ᴳ         F=0     basic   
+
+【蓬】 2件
+  vil            蓬          F=3     pejvo   
+  hirt           蓬ᴴ         F=8     pejvo   
+
+【蜂】 2件
+  abel           蜂          F=21    basic   
+  vesp           蜂ⱽ         F=4     basic   
+
+【忘】 2件
+  forges         忘          F=13    basic   
+  amnezi         忘ᴬ         F=2     pejvo   
+
+【暴风】 2件
+  uragan         暴风         F=3     basic   
+  tempest        暴风ᵀ        F=3     basic   
+
+【望】 2件
+  esper          望          F=28    basic   
+  perspektiv     望ᴾ         F=5     pejvo   
+
+【膨】 2件
+  dilat          膨          F=19    pejvo   
+  ekspansi       膨ᴱ         F=8     pejvo   
+
+【墨】 2件
+  ink            墨          F=16    basic   
+  tuc^           墨ᵀ         F=12    pejvo   
+
+【朴】 2件
+  naiv           朴          F=7     basic   
+  rustik         朴ᴿ         F=2     piv     【建】素朴な
+
+【牧草】 2件
+  gres           牧草         F=3     pejvo   
+  medikag        牧草ᴹ        F=3     pejvo   
+
+【盆】 2件
+  pelv           盆          F=7     basic   
+  basen          盆ᴮ         F=5     pejvo   
+
+【幕】 2件
+  akt            幕          F=10    basic   
+  kulis          幕ᴷ         F=3     pejvo   
+
+【慢】 2件
+  kronik         慢          F=8     pejvo   
+  adag^          慢ᴬ         F=2     pejvo   
+
+【魅】 2件
+  ĉarm           魅          F=10    basic   
+  fascin         魅ᶠ         F=5     pejvo   
+
+【蜜】 2件
+  miel           蜜          F=9     basic   
+  nektar         蜜ᴺ         F=3     pejvo   
+
+【矛】 2件
+  lanc           矛          F=8     basic   
+  halebard       矛ᴴ         F=2     pejvo   
+
+【明】 2件
+  morgaŭ         明          F=6     func    
+  eksplicit      明ᴱ         F=2     pejvo   
+
+【迷】 2件
+  superstiĉ      迷          F=2     basic   
+  zelot          迷ᶻ         F=2     pejvo   
+
+【棉】 2件
+  vat            棉          F=16    basic   
+  koton          棉ᴷ         F=20    basic   
+
+【模】 2件
+  model          模          F=14    basic   
+  s^ablon        模ˢ̂        F=5     pejvo   
+
+【毛】 2件
+  har            毛          F=82    basic   
+  lan            毛ᴸ         F=27    basic   
+
+【盲】 2件
+  blind          盲          F=18    basic   
+  anopsi         盲ᴬ         F=2     piv     【医】半盲・視野欠損
+
+【木棉】 2件
+  kapok          木棉         F=4     pejvo   
+  bombak         木棉ᴮ        F=2     piv     【植】キワタ属
+
+【目】 2件
+  okul           目          F=67    basic   
+  oftalm         目ᴼᶠ        F=8     pejvo   
+
+【野鸡】 2件
+  tetra          野鸡         F=7     pejvo   
+  fazan          野鸡ᶠ        F=3     pejvo   
+
+【役】 2件
+  servut         役          F=5     pejvo   
+  kampanj        役ᴷ         F=10    pejvo   
+
+【柳】 2件
+  salik          柳          F=6     basic   
+  vimen          柳ⱽ         F=4     pejvo   
+
+【愈】 2件
+  des            愈          F=4     basic   
+  konvalesk      愈ᴷ         F=2     piv     【医】快復・回復期
+
+【愈疮木】 2件
+  gajak          愈疮木        F=2     pejvo   
+  gvajak         愈疮木ᴳⱽ      F=2     pejvo   
+
+【油】 2件
+  ole            油          F=73    basic   
+  petrol         油ᴾ         F=23    basic   
+
+【油菜】 2件
+  nap            油菜         F=5     pejvo   
+  kolz           油菜ᴷ        F=2     pejvo   
+
+【勇】 2件
+  brav           勇          F=8     basic   
+  kuraĝ          勇ᴷ         F=19    basic   
+
+【有】 2件
+  hav            有          F=78    basic   
+  posed          有ᴾ         F=15    basic   
+
+【幼】 2件
+  jun            幼          F=41    basic   
+  neoten         幼ᴺ         F=2     piv     【生】幼形成熟
+
+【用】 2件
+  uz             用          F=54    basic   
+  aplik          用ᴬ         F=10    basic   
+
+【欲】 2件
+  dezir          欲          F=16    basic   
+  apetit         欲ᴬ         F=11    basic   
+
+【落】 2件
+  fal            落          F=67    basic   
+  decidu         落ᴰ         F=2     piv     【解】脱落膜
+
+【酪】 2件
+  krem           酪          F=19    basic   
+  fromaĝ         酪ᶠ         F=9     basic   
+
+【李】 2件
+  prun           李          F=4     basic   
+  prunus         李ᴾˢ        F=6     pejvo   
+
+【率】 2件
+  procent        率          F=7     basic   
+  susceptibl     率ˢ         F=2     pejvo   
+
+【立葵】 2件
+  alte           立葵         F=2     pejvo   
+  alce           立葵ᴬᶜ       F=2     piv     【植】タチアオイ属
+
+【流】 2件
+  flu            流          F=85    basic   
+  reo            流ᴿ         F=2     pejvo   
+
+【力】 2件
+  potenc         力          F=23    basic   
+  dinamik        力ᴰ         F=11    pejvo   
+
+【厘】 2件
+  centimetr      厘          F=0     basic   
+  centi          厘ᶜᴱ        F=5     pejvo   
+
+【例】 2件
+  kaz            例          F=6     basic   
+  ekzempl        例ᴱ         F=9     basic   
+
+【露】 2件
+  ros            露          F=14    basic   
+  ekshibici      露ᴱ         F=2     piv     露出症
+
+【漏】 2件
+  lik            漏          F=7     pejvo   
+  stomi          漏ˢ         F=2     pejvo   
+
+【老】 2件
+  veteran        老          F=2     basic   
+  senil          老ˢ         F=4     pejvo   
+
+【湾】 2件
+  golf           湾          F=23    basic   
+  sinu           湾ˢ         F=3     piv     湾曲
+
+【个】 2件
+  individu       个          F=11    basic   
+  individual     个ᴵᴸ        F=2     pejvo   
+
+【乘】 2件
+  vetur          乘          F=72    basic   
+  multiplik      乘ᴹ         F=8     basic   
+
+【舒】 2件
+  komfort        舒          F=12    basic   
+  diastol        舒ᴰ         F=2     pejvo   
+
+【佛】 2件
+  budh           佛          F=13    basic   
+  buda           佛ᴮᴬ        F=3     pejvo   
+
+【假】 2件
+  feri           假          F=7     basic   
+  fint           假ᶠᴺ        F=2     pejvo   
+
+【兔】 2件
+  lepor          兔          F=14    basic   
+  kunikl         兔ᴷ         F=4     basic   
+
+【决】 2件
+  decid          决          F=37    basic   
+  rezoluci       决ᴿ         F=3     basic   
+
+【况】 2件
+  situaci        况          F=10    basic   
+  cirkonstanc    况ᶜ         F=7     basic   
+
+【刮】 2件
+  skrap          刮          F=28    basic   
+  rugin          刮ᴿ         F=2     piv     【医】骨膜剥離器
+
+【辨】 2件
+  disting        辨          F=16    basic   
+  diskrimin      辨ᴰᴷ        F=2     piv     識別する
+
+【厂】 2件
+  fabrik         厂          F=22    basic   
+  uzin           厂ᵁ         F=2     basic   
+
+【听】 2件
+  aŭd            听          F=29    basic   
+  aŭskult        听ᴬˢ        F=12    basic   
+
+【咏】 2件
+  c^ant          咏          F=3     pejvo   
+  psalm          咏ᴾ         F=6     pejvo   
+
+【咒】 2件
+  anatem         咒          F=2     pejvo   
+  envult         咒ᴱ         F=2     pejvo   
+
+【啼】 2件
+  grak           啼          F=2     pejvo   
+  kokerik        啼ᴷ         F=2     pejvo   
+
+【嗅】 2件
+  flar           嗅          F=16    basic   
+  olfakt         嗅ᴼ         F=2     piv     【生】嗅覚
+
+【噪】 2件
+  bru            噪          F=27    basic   
+  kakofoni       噪ᴷ         F=2     piv     不協和音、耳障りな音
+
+【圈】 2件
+  boben          圈          F=15    pejvo   
+  cirk           圈ᶜ         F=3     pejvo   
+
+【堡】 2件
+  fuort          堡          F=2     pejvo   
+  burg           堡ᴮ         F=2     piv     【史】城塞
+
+【夸】 2件
+  fanfaron       夸          F=6     basic   
+  bombast        夸ᴮ         F=2     pejvo   
+
+【孕】 2件
+  graved         孕          F=9     basic   
+  koncip         孕ᴷ         F=13    pejvo   
+
+【屎】 2件
+  kak            屎          F=2     pejvo   
+  merd           屎ᴹ         F=3     piv     糞・くそ
+
+【巫】 2件
+  mag            巫          F=2     pejvo   
+  s^aman         巫ˢ̂        F=2     pejvo   
+
+【并】 2件
+  paralel        并          F=18    basic   
+  aneks          并ᴬ         F=5     pejvo   
+
+【广】 2件
+  vast           广          F=31    basic   
+  ampleks        广ᴬ         F=14    basic   
+
+【怕】 2件
+  tim            怕          F=44    basic   
+  fob            怕ᶠ         F=2     piv     恐怖症
+
+【扁桃】 2件
+  migdal         扁桃         F=10    pejvo   
+  tonsil         扁桃ᵀ        F=3     pejvo   
+
+【揉】 2件
+  kned           揉          F=8     basic   
+  tau^z          揉ᵀ         F=7     pejvo   
+
+【无政府】 2件
+  anark          无政府        F=2     pejvo   無政府主義
+  anarki         无政府ᴬᴵ      F=5     pejvo   
+
+【无产】 2件
+  prolet         无产         F=6     basic   
+  proletari      无产ᴾᴿ       F=1     basic   
+
+【杆】 2件
+  stang          杆          F=43    basic   
+  kornic         杆ᴷ         F=4     pejvo   
+
+【框】 2件
+  kadr           框          F=25    basic   
+  fram           框ᶠ         F=6     pejvo   
+
+【棕】 2件
+  palm           棕          F=22    basic   
+  arek           棕ᴬ         F=3     piv     【植】ビンロウジュ属
+
+【榴】 2件
+  granat         榴          F=4     pejvo   
+  punik          榴ᴾ         F=3     piv     【植】ザクロ属
+
+【气管】 2件
+  trake          气管         F=6     pejvo   
+  trah^e         气管ᵀᴴ̂      F=3     pejvo   
+
+【淤】 2件
+  aluvi          淤          F=4     pejvo   
+  kongest        淤ᴷ         F=3     pejvo   
+
+【炸】 2件
+  frit           炸          F=9     basic   
+  dinamit        炸ᴰ         F=2     basic   
+
+【炮】 2件
+  kanon          炮          F=22    sci     
+  petard         炮ᴾ         F=2     pejvo   
+
+【猴桃】 2件
+  kiv            猴桃         F=3     pejvo   
+  aktinidi       猴桃ᴬ        F=2     piv     【植】マタタビ属
+
+【瓣】 2件
+  klap           瓣          F=25    pejvo   
+  petal          瓣ᴾ         F=14    pejvo   
+
+【盒】 2件
+  kased          盒          F=7     basic   
+  skatol         盒ˢ         F=16    basic   
+
+【碎】 2件
+  frakas         碎          F=7     basic   
+  fragment       碎ᶠᴳ        F=4     pejvo   
+
+【窗】 2件
+  fenestr        窗          F=35    basic   
+  giĉet          窗ᴳ         F=1     basic   
+
+【罐】 2件
+  amfor          罐          F=2     pejvo   
+  bokal          罐ᴮ         F=2     pejvo   
+
+【羚】 2件
+  c^am           羚          F=3     pejvo   
+  antilop        羚ᴬ         F=2     pejvo   
+
+【翅】 2件
+  pter           翅          F=18    sci     【動】翼・ひれ(ナガスクジラ属)
+  pterig         翅ᴾᴳ        F=7     pejvo   
+
+【耙】 2件
+  erp            耙          F=2     pejvo   
+  rast           耙ᴿ         F=4     pejvo   
+
+【耻骨】 2件
+  pub            耻骨         F=7     pejvo   
+  pubi           耻骨ᴾᴵ       F=2     piv     【医】恥骨切開
+
+【肛交】 2件
+  sodomi         肛交         F=4     pejvo   
+  bugr           肛交ᴮ        F=2     piv     肛門性交する
+
+【胚】 2件
+  embri          胚          F=13    pejvo   
+  blast          胚ᴮ         F=10    piv     【生】胚・胚葉
+
+【胖】 2件
+  obez           胖          F=3     pejvo   
+  korpulent      胖ᴷ         F=2     pejvo   
+
+【臀】 2件
+  pug            臀          F=8     pejvo   
+  grop           臀ᴳ         F=4     piv     【動】尻
+
+【蚌】 2件
+  ostr           蚌          F=5     pejvo   
+  mitul          蚌ᴹ         F=3     pejvo   
+
+【蝗】 2件
+  akrid          蝗          F=3     basic   
+  lokust         蝗ᴸ         F=2     pejvo   
+
+【蠕】 2件
+  helmint        蠕          F=4     piv     【動】蠕虫
+  peristalt      蠕ᴾ         F=3     piv     【生理】蠕動
+
+【衫】 2件
+  ĉemiz          衫          F=14    basic   
+  bluz           衫ᴮ         F=2     basic   
+
+【醋】 2件
+  acet           醋          F=7     pejvo   
+  vinagr         醋ⱽ         F=10    pejvo   
+
+【醋栗】 2件
+  rib            醋栗         F=11    basic   
+  gros           醋栗ᴳ        F=4     pejvo   
+
+【雹】 2件
+  hajl           雹          F=7     basic   
+  grajl          雹ᴳ         F=2     pejvo   
+
+【勒】 2件
+  brid           勒          F=13    basic   
+  string         勒ˢ         F=4     pejvo   
+
+【韵】 2件
+  rim            韵          F=15    basic   
+  asonanc        韵ᴬ         F=2     pejvo   
+
+【髓】 2件
+  mjel           髓          F=7     pejvo   
+  medol          髓ᴹᴰ        F=12    pejvo   
+
+【德】 2件
+  virt           德          F=11    basic   
+  moral          德ᴹ         F=22    basic   
+
+【炫】 2件
+  parad          炫          F=8     pejvo   
+  bravur         炫ᴮ         F=2     piv     【楽】超絶技巧
+
+【东】 2件
+  orient         东          F=43    basic   
+  oriental       东ᴼᴸ        F=2     pejvo   
+
+【举】 2件
+  lev            举          F=44    basic   
+  kondut         举ᴷ         F=9     basic   
+
+【义】 2件
+  justic         义          F=9     pejvo   
+  deont          义ᴰ         F=2     piv     【哲】義務論・倫理学
+
+【书】 2件
+  libr           书          F=93    basic   
+  skrib          书ˢ         F=104   basic   
+
+【产】 2件
+  produkt        产          F=50    basic   
+  akuŝ           产ᴬ         F=17    basic   
+
+【仓】 2件
+  magazen        仓          F=5     basic   
+  sil            仓ˢ         F=2     pejvo   
+
+【份】 2件
+  da             份          F=15    prep    
+  porci          份ᴾ         F=7     basic   
+
+【伤】 2件
+  vund           伤          F=43    basic   
+  lez            伤ᴸ         F=3     pejvo   
+
+【储】 2件
+  rezerv         储          F=29    basic   
+  stok           储ˢ         F=5     basic   
+
+【兰】 2件
+  orkid          兰          F=4     pejvo   
+  orkide         兰ᴼᴱ        F=2     pejvo   
+
+【关】 2件
+  rilat          关          F=22    basic   
+  dogan          关ᴰ         F=10    basic   
+
+【军】 2件
+  arme           军          F=18    basic   
+  militar        军ᴹ         F=6     pejvo   
+
+【农】 2件
+  agr            农          F=14    pejvo   
+  agrikultur     农ᴬᴷ        F=5     pejvo   
+
+【冻】 2件
+  krio           冻          F=5     piv     【理】寒冷・低温
+  kongel         冻ᴷᴺ        F=2     piv     冷凍する
+
+【击倒】 2件
+  nokau^t        击倒         F=2     pejvo   
+  knokau^t       击倒ᴷ        F=2     pejvo   
+
+【剑】 2件
+  glav           剑          F=14    basic   
+  spad           剑ˢ         F=6     pejvo   
+
+【协】 2件
+  kooperativ     协          F=6     basic   
+  kooper         协ᴷᴼ        F=8     pejvo   
+
+【厌】 2件
+  enu            厌          F=8     basic   
+  abomen         厌ᴬ         F=9     basic   
+
+【发】 2件
+  lanĉ           发          F=9     basic   
+  emisi          发ᴱ         F=4     pejvo   
+
+【发电】 2件
+  dinam          发电         F=7     pejvo   
+  generator      发电ᴳ        F=11    pejvo   
+
+【变色龙】 2件
+  kameleon       变色龙        F=2     pejvo   
+  h^ameleon      变色龙ᴴ̂      F=2     pejvo   
+
+【吨】 2件
+  tun            吨          F=6     basic   
+  tonel          吨ᵀᴸ        F=5     pejvo   
+
+【启】 2件
+  inspir         启          F=6     basic   
+  revelaci       启ᴿ         F=4     pejvo   
+
+【哼】 2件
+  ronk           哼          F=3     basic   
+  grunt          哼ᴳ         F=2     pejvo   
+
+【啃】 2件
+  rod            啃          F=4     pejvo   
+  rong^          啃ᴿᴺ        F=3     pejvo   
+
+【啪】 2件
+  krak           啪          F=18    pejvo   
+  knal           啪ᴷᴺ        F=2     piv     パンと鳴る
+
+【喻】 2件
+  trop           喻          F=20    pejvo   
+  metafor        喻ᴹ         F=4     pejvo   
+
+【嚎】 2件
+  hurl           嚎          F=3     pejvo   
+  ulul           嚎ᵁ         F=3     pejvo   
+
+【囤】 2件
+  stapl          囤          F=4     pejvo   
+  akapar         囤ᴬ         F=3     pejvo   
+
+【园】 2件
+  park           园          F=19    basic   
+  ĝarden         园ĝ         F=39    basic   
+
+【圆】 2件
+  rond           圆          F=36    basic   
+  cirkl          圆ᶜ         F=23    basic   
+
+【圣餐】 2件
+  komuni         圣餐         F=4     pejvo   
+  eu^karisti     圣餐ᴱ        F=2     pejvo   
+
+【坛】 2件
+  forum          坛          F=2     basic   
+  altar          坛ᴬ         F=5     pejvo   
+
+【垛】 2件
+  stak           垛          F=3     pejvo   
+  krenel         垛ᴷ         F=5     pejvo   
+
+【垫】 2件
+  kusen          垫          F=14    basic   
+  matrac         垫ᴹ         F=5     basic   
+
+【壶】 2件
+  pot            壶          F=27    basic   
+  kruĉ           壶ᴷ         F=9     basic   
+
+【宁】 2件
+  seren          宁          F=9     basic   
+  prefer         宁ᴾ         F=10    basic   
+
+【宫】 2件
+  palac          宫          F=7     basic   
+  uter           宫ᵁ         F=16    pejvo   
+
+【寻】 2件
+  serĉ           寻          F=22    basic   
+  klaft          寻ᴷ         F=2     pejvo   
+
+【师】 2件
+  majstr         师          F=16    basic   
+  divizi         师ᴰ         F=4     pejvo   
+
+【态】 2件
+  stat           态          F=41    basic   
+  ekologi        态ᴱ         F=0     basic   
+
+【恶】 2件
+  malic          恶          F=9     basic   
+  malign         恶ᴹᴳ        F=3     pejvo   
+
+【恼】 2件
+  irit           恼          F=3     basic   
+  ĉagren         恼ĉ         F=6     basic   
+
+【惯】 2件
+  rutin          惯          F=8     pejvo   
+  inerci         惯ᴵ         F=9     pejvo   
+
+【戏仿】 2件
+  parodi         戏仿         F=3     pejvo   
+  travesti       戏仿ᵀ        F=3     pejvo   
+
+【执】 2件
+  ekzekut        执          F=5     basic   
+  ekzekuci       执ᴱᶜ        F=3     pejvo   
+
+【扫】 2件
+  bala           扫          F=13    basic   
+  skan           扫ˢ         F=8     pejvo   
+
+【拖】 2件
+  tren           拖          F=16    basic   
+  traktor        拖ᵀᴷ        F=2     basic   
+
+【拟】 2件
+  mimik          拟          F=3     pejvo   
+  simul          拟ˢ         F=3     pejvo   
+
+【拧】 2件
+  tord           拧          F=30    basic   
+  vring          拧ⱽ         F=3     pejvo   
+
+【拼】 2件
+  ortografi      拼          F=0     basic   
+  parget         拼ᴾ         F=3     pejvo   
+
+【换】 2件
+  komut          换          F=11    pejvo   
+  permut         换ᴾ         F=6     pejvo   
+
+【揭】 2件
+  rivel          揭          F=11    basic   
+  denunc         揭ᴰ         F=5     basic   
+
+【时效】 2件
+  uzukap         时效         F=2     pejvo   
+  preskript      时效ᴾ        F=3     pejvo   
+
+【杀】 2件
+  icid           杀          F=10    pejvo   
+  murd           杀ᴹ         F=6     pejvo   
+
+【杂】 2件
+  divers         杂          F=24    basic   
+  hibrid         杂ᴴ         F=6     pejvo   
+
+【构】 2件
+  struktur       构          F=14    basic   
+  instituci      构ᴵ         F=6     pejvo   
+
+【枪】 2件
+  fusil          枪          F=4     pejvo   
+  pistol         枪ᴾ         F=6     pejvo   
+
+【栅】 2件
+  krad           栅          F=20    basic   
+  hurd           栅ᴴ         F=3     pejvo   
+
+【桩】 2件
+  stump          桩          F=9     basic   
+  palis          桩ᴾ         F=8     basic   
+
+【椭圆】 2件
+  oval           椭圆         F=3     basic   
+  elips          椭圆ᴱ        F=5     pejvo   
+
+【樱】 2件
+  ĉeriz          樱          F=13    basic   
+  meriz          樱ᴹ         F=2     pejvo   
+
+【氮】 2件
+  nitr           氮          F=19    sci     
+  azot           氮ᴬ         F=3     pejvo   
+
+【污】 2件
+  makul          污          F=18    basic   
+  polu           污ᴾ         F=23    sci     
+
+【沥青】 2件
+  pec^           沥青         F=7     pejvo   
+  bitum          沥青ᴮ        F=6     pejvo   
+
+【浆】 2件
+  plasm          浆          F=12    pejvo   
+  morter         浆ᴹ         F=3     pejvo   
+
+【涂】 2件
+  ŝmir           涂          F=19    basic   
+  stuk           涂ˢ         F=7     pejvo   
+
+【满】 2件
+  plen           满          F=151   basic   
+  kontent        满ᴷ         F=18    basic   
+
+【灵】 2件
+  spirit         灵          F=23    basic   
+  spiritual      灵ˢᴸ        F=2     pejvo   
+
+【炼】 2件
+  kupel          炼          F=3     piv     【化】灰吹きする
+  afinaci        炼ᴬ         F=2     piv     製鋼・精錬
+
+【烦】 2件
+  ted            烦          F=8     basic   
+  agac           烦ᴬ         F=4     pejvo   
+
+【烧】 2件
+  febr           烧          F=22    basic   
+  kalcin         烧ᴷ         F=3     pejvo   
+
+【烫】 2件
+  glad           烫          F=9     basic   
+  brog           烫ᴮ         F=4     pejvo   
+
+【焊】 2件
+  lut            焊          F=10    pejvo   
+  veld           焊ⱽ         F=5     pejvo   
+
+【猎】 2件
+  ĉas            猎          F=44    basic   
+  pred           猎ᴾ         F=5     pejvo   
+
+【疗】 2件
+  terapi         疗          F=55    sci     
+  terapeu^tik    疗ᵀᵁ̆       F=2     pejvo   
+
+【疮】 2件
+  ulcer          疮          F=7     pejvo   
+  aft            疮ᴬ         F=2     pejvo   
+
+【监】 2件
+  gvat           监          F=7     pejvo   
+  monitor        监ᴹ         F=4     pejvo   
+
+【盔】 2件
+  kask           盔          F=12    pejvo   
+  helm           盔ᴴ         F=3     piv     【史】中世の兜
+
+【矾】 2件
+  alun           矾          F=5     pejvo   
+  vitriol        矾ⱽ         F=7     pejvo   
+
+【码】 2件
+  kod            码          F=27    basic   
+  jard           码ᴶ         F=2     pejvo   
+
+【碳】 2件
+  karbon         碳          F=33    basic   
+  karbur         碳ᴷᴿ        F=5     pejvo   
+
+【离子】 2件
+  jon            离子         F=14    pejvo   
+  ion            离子ᴵ        F=3     piv     【化】イオン
+
+【积】 2件
+  volumen        积          F=3     basic   
+  kumulus        积ᴷ         F=4     pejvo   
+
+【稳】 2件
+  stabil         稳          F=15    basic   
+  aplomb         稳ᴬ         F=2     pejvo   
+
+【窝】 2件
+  ricel          窝          F=4     pejvo   
+  fove           窝ᶠ         F=2     piv     【解】小窩、中心窩
+
+【笔】 2件
+  penik          笔          F=9     basic   
+  krajon         笔ᴷ         F=15    basic   
+
+【紧】 2件
+  streĉ          紧          F=36    basic   
+  strikt         紧ˢᴷ        F=7     pejvo   
+
+【红】 2件
+  ruĝ            红          F=68    basic   
+  skarlat        红ˢ         F=2     pejvo   
+
+【红树】 2件
+  mangl          红树         F=2     pejvo   
+  rizofor        红树ᴿ        F=2     piv     【植】ヒルギ属
+
+【纤】 2件
+  fibr           纤          F=18    sci     
+  gracil         纤ᴳ         F=2     pejvo   
+
+【纬】 2件
+  latitud        纬          F=7     basic   
+  veft           纬ⱽ         F=3     pejvo   
+
+【纱】 2件
+  vual           纱          F=11    basic   
+  gaz            纱ᴳ         F=3     pejvo   
+
+【纸草】 2件
+  papirus        纸草         F=2     pejvo   
+  papir          纸草ᴾᴬ       F=3     piv     パピルス(紙草)
+
+【细】 2件
+  detal          细          F=19    basic   
+  delikat        细ᴰᴸ        F=27    basic   
+
+【经】 2件
+  bibli          经          F=11    basic   
+  varp           经ⱽ         F=7     pejvo   
+
+【经济】 2件
+  ekonomi        经济         F=33    basic   
+  ekonomik       经济ᴱᴷ       F=5     basic   
+
+【绒】 2件
+  velur          绒          F=4     basic   
+  plus^          绒ᴾ         F=3     pejvo   
+
+【结核】 2件
+  ftiz           结核         F=4     pejvo   
+  skrofol        结核ˢ        F=2     pejvo   
+
+【绞】 2件
+  vinc^          绞          F=3     pejvo   
+  strangol       绞ˢ         F=3     pejvo   
+
+【统】 2件
+  tradici        统          F=6     basic   
+  prezident      统ᴾ         F=6     basic   
+
+【续】 2件
+  daŭr           续          F=40    basic   
+  kontinu        续ᴷ         F=23    sci     
+
+【缀】 2件
+  sufiks         缀          F=5     basic   
+  prefiks        缀ᴾ         F=3     basic   
+
+【缆】 2件
+  kabl           缆          F=19    pejvo   
+  tiravir        缆ᵀ         F=2     piv     巻き上げ用二重綱
+
+【缎】 2件
+  saten          缎          F=4     pejvo   
+  damask         缎ᴰ         F=4     pejvo   
+
+【缘】 2件
+  border         缘          F=3     pejvo   
+  afin           缘ᴬ         F=4     piv     類縁・親和
+
+【缝】 2件
+  kudr           缝          F=27    basic   
+  steb           缝ˢ         F=5     pejvo   
+
+【缠】 2件
+  implik         缠          F=11    basic   
+  obsed          缠ᴼ         F=4     pejvo   
+
+【罚】 2件
+  pun            罚          F=28    basic   
+  penal          罚ᴾᴸ        F=3     pejvo   
+
+【职】 2件
+  ofic           职          F=38    basic   
+  profesi        职ᴾ         F=13    basic   
+
+【肾】 2件
+  ren            肾          F=10    basic   
+  nefr           肾ᴺ         F=11    piv     【医】腎(腎炎)
+
+【脓】 2件
+  pus            脓          F=5     basic   
+  pio            脓ᴾᴵ        F=5     piv     【医】膿
+
+【舔吸】 2件
+  midz           舔吸         F=2     piv     フェラチオする
+  sesdeknau^     舔吸ˢ        F=2     piv     シックスナイン
+
+【艺】 2件
+  art            艺          F=81    basic   
+  meti           艺ᴹ         F=11    basic   
+
+【茧】 2件
+  kal            茧          F=5     basic   
+  kokon          茧ᴷᴷ        F=3     pejvo   
+
+【荣】 2件
+  glor           荣          F=23    basic   
+  prosper        荣ᴾ         F=12    basic   
+
+【获】 2件
+  akir           获          F=21    basic   
+  rikolt         获ᴿ         F=12    basic   
+
+【萝卜】 2件
+  rafan          萝卜         F=3     basic   
+  rap            萝卜ᴿᴾ       F=6     pejvo   
+
+【虾】 2件
+  kankr          虾          F=4     basic   
+  leandr         虾ᴸ         F=2     piv     【動】テナガエビ
+
+【裤】 2件
+  kalson         裤          F=7     basic   
+  pantalon       裤ᴾ         F=12    basic   
+
+【计】 2件
+  statistik      计          F=9     basic   
+  termometr      计ᵀ         F=0     basic   
+
+【订】 2件
+  abon           订          F=24    basic   
+  mend           订ᴹ         F=21    basic   
+
+【训】 2件
+  trejn          训          F=11    basic   
+  instrukci      训ᴵ         F=6     pejvo   
+
+【讽】 2件
+  karikatur      讽          F=4     basic   
+  sarkasm        讽ˢ         F=2     pejvo   
+
+【设】 2件
+  supoz          设          F=14    basic   
+  establ         设ᴱ         F=11    basic   
+
+【诈】 2件
+  frau^d         诈          F=6     pejvo   
+  artifik        诈ᴬ         F=7     pejvo   
+
+【词】 2件
+  vort           词          F=87    basic   
+  termin         词ᵀ         F=7     basic   
+
+【译】 2件
+  traduk         译          F=23    basic   
+  interpret      译ᴵ         F=12    basic   
+
+【诚】 2件
+  honest         诚          F=18    basic   
+  sincer         诚ˢ         F=7     basic   
+
+【话】 2件
+  parol          话          F=73    basic   
+  dialog         话ᴰ         F=0     basic   
+
+【语】 2件
+  lingv          语          F=188   basic   
+  idiom          语ᴵ         F=3     pejvo   
+
+【诱】 2件
+  tent           诱          F=6     basic   
+  indukt         诱ᴵ         F=22    pejvo   
+
+【课】 2件
+  kurs           课          F=26    basic   
+  lecion         课ᴸ         F=4     basic   
+
+【谜】 2件
+  enigm          谜          F=7     basic   
+  mister         谜ᴹ         F=4     basic   
+
+【谦】 2件
+  humil          谦          F=13    basic   
+  modest         谦ᴹ         F=8     basic   
+
+【谨】 2件
+  diskret        谨          F=6     pejvo   
+  skrupul        谨ˢ         F=5     pejvo   
+
+【贡】 2件
+  kontribu       贡          F=5     basic   
+  tribut         贡ᵀ         F=3     pejvo   
+
+【责】 2件
+  riproĉ         责          F=10    basic   
+  respons        责ᴿˢ        F=4     pejvo   
+
+【败】 2件
+  fiask          败          F=2     basic   
+  defet          败ᴰ         F=3     piv     敗北を覚悟する
+
+【账】 2件
+  kont           账          F=25    basic   
+  faktur         账ᶠ         F=3     basic   
+
+【贬】 2件
+  devalut        贬          F=2     pejvo   
+  deprec         贬ᴰᴾ        F=3     piv     価値低下・減価
+
+【贴】 2件
+  afiŝ           贴          F=10    basic   
+  afrank         贴ᴬᴿ        F=4     basic   
+
+【费】 2件
+  kost           费          F=21    basic   
+  premium        费ᴾ         F=2     piv     保険料
+
+【资】 2件
+  kapital        资          F=26    basic   
+  burĝ           资ᴮ         F=8     basic   
+
+【赏】 2件
+  aprez          赏          F=2     pejvo   
+  gratifik       赏ᴳ         F=2     pejvo   
+
+【赛】 2件
+  matĉ           赛          F=2     basic   
+  turnir         赛ᵀ         F=5     pejvo   
+
+【跷】 2件
+  stilz          跷          F=5     pejvo   
+  baskul         跷ᴮ         F=13    pejvo   
+
+【轧】 2件
+  grinc          轧          F=4     basic   
+  laminat        轧ᴸ         F=4     pejvo   
+
+【轨】 2件
+  rel            轨          F=31    basic   
+  orbit          轨ᴼ         F=6     pejvo   
+
+【轮】 2件
+  rad            轮          F=60    basic   
+  verticil       轮ⱽ         F=6     piv     【植】輪生
+
+【软骨】 2件
+  kartilag       软骨         F=3     pejvo   
+  kondr          软骨ᴷᴺ       F=4     piv     【解】軟骨
+
+【轴】 2件
+  aks            轴          F=18    basic   
+  s^aft          轴ˢ̂        F=5     pejvo   
+
+【较】 2件
+  kompar         较          F=14    basic   
+  komparativ     较ᴷᵀ        F=4     pejvo   
+
+【辅】 2件
+  asist          辅          F=7     basic   
+  konsonant      辅ᴷ         F=4     basic   
+
+【迁】 2件
+  migr           迁          F=35    basic   
+  emigr          迁ᴱ         F=2     piv     亡命する
+
+【运】 2件
+  port           运          F=70    basic   
+  fortun         运ᶠ         F=4     basic   
+
+【还】 2件
+  plu            还          F=21    func    
+  ankoraŭ        还ᴬ         F=4     func    
+
+【邮】 2件
+  poŝt           邮          F=56    basic   
+  filatel        邮ᶠ         F=2     basic   
+
+【针】 2件
+  nadl           针          F=8     basic   
+  pingl          针ᴾ         F=22    basic   
+
+【钟】 2件
+  hor            钟          F=41    basic   
+  horloĝ         钟ᴴᴸ        F=32    basic   
+
+【钠】 2件
+  natri          钠          F=10    elem    
+  natr           钠ᴺᴬ        F=3     pejvo   
+
+【钱】 2件
+  mon            钱          F=78    basic   
+  sold           钱ˢ         F=2     pejvo   
+
+【钳】 2件
+  tenajl         钳          F=4     pejvo   
+  h^elicer       钳ᴴ̂        F=2     piv     【動】鋏角
+
+【银】 2件
+  bank           银          F=34    basic   
+  arĝent         银ᴬ         F=10    basic   
+
+【铺】 2件
+  stern          铺          F=8     basic   
+  pavim          铺ᴾ         F=8     pejvo   
+
+【链】 2件
+  ĉen            链          F=46    basic   
+  katen          链ᴷ         F=13    basic   
+
+【销】 2件
+  stift          销          F=10    pejvo   
+  debit          销ᴰ         F=3     pejvo   
+
+【锁】 2件
+  ŝlos           锁          F=26    basic   
+  serur          锁ˢ         F=7     basic   
+
+【锈】 2件
+  rust           锈          F=13    basic   
+  ured           锈ᵁ         F=3     piv     【植】さび菌
+
+【锐】 2件
+  akr            锐          F=26    basic   
+  akut           锐ᴬᵀ        F=9     pejvo   
+
+【锥】 2件
+  konus          锥          F=16    pejvo   
+  piramid        锥ᴾ         F=6     pejvo   
+
+【镑】 2件
+  pund           镑          F=2     pejvo   
+  sterling       镑ˢ         F=3     pejvo   
+
+【长椅】 2件
+  divan          长椅         F=2     pejvo   
+  kanap          长椅ᴷ        F=2     pejvo   
+
+【门】 2件
+  pord           门          F=37    basic   
+  filum          门ᶠ         F=2     piv     【生】門(分類階級)
+
+【问】 2件
+  salut          问          F=15    basic   
+  demand         问ᴰ         F=26    basic   
+
+【阳具】 2件
+  kac            阳具         F=4     piv     陰茎(俗語)
+  falus          阳具ᶠ        F=3     piv     陰茎像(ファロス)
+
+【陡】 2件
+  krut           陡          F=10    basic   
+  abrupt         陡ᴬ         F=4     basic   
+
+【隐】 2件
+  ermit          隐          F=6     pejvo   
+  marabut        隐ᴹ         F=2     piv     【イスラム】隠者・聖者
+
+【项】 2件
+  term           项          F=61    basic   
+  nuk            项ᴺ         F=5     basic   
+
+【顽】 2件
+  bub            顽          F=6     basic   
+  obstin         顽ᴼ         F=7     basic   
+
+【颁】 2件
+  dekret         颁          F=4     pejvo   
+  promulg        颁ᴾ         F=2     piv     公布する
+
+【预】 2件
+  anticip        预          F=4     pejvo   
+  predikt        预ᴾ         F=2     pejvo   
+
+【颈】 2件
+  kol            颈          F=36    basic   
+  cervik         颈ᶜ         F=5     pejvo   
+
+【额】 2件
+  frunt          额          F=3     basic   
+  kontingent     额ᴷ         F=4     pejvo   
+
+【颠】 2件
+  tang           颠          F=3     pejvo   
+  atrop          颠ᴬ         F=3     piv     【植】ベラドンナ属
+
+【饮】 2件
+  trink          饮          F=26    basic   
+  drink          饮ᴰ         F=16    basic   
+
+【饰带】 2件
+  galon          饰带         F=2     pejvo   
+  pasament       饰带ᴾ        F=3     pejvo   
+
+【饱】 2件
+  sat            饱          F=27    basic   
+  satur          饱ˢᴿ        F=14    pejvo   
+
+【马车】 2件
+  fiakr          马车         F=3     pejvo   
+  faeton         马车ᶠᵀ       F=2     pejvo   
+
+【骑】 2件
+  rajd           骑          F=24    basic   
+  kavaleri       骑ᴷ         F=2     pejvo   
+
+【鲤】 2件
+  karp           鲤          F=3     basic   
+  ciprin         鲤ᶜ         F=2     pejvo   
+
+【鲸】 2件
+  balen          鲸          F=14    basic   
+  cetac          鲸ᶜ         F=3     pejvo   
+
+【鸡】 2件
+  kok            鸡          F=28    basic   
+  galin          鸡ᴳ         F=2     piv     【動】ニワトリ属
+
+【鸥】 2件
+  mev            鸥          F=3     basic   
+  lar            鸥ᴸ         F=3     pejvo   
+
+【鸦】 2件
+  korv           鸦          F=7     basic   
+  kornik         鸦ᴷᴺ        F=3     basic   
+
+【鸦片】 2件
+  opi            鸦片         F=7     pejvo   
+  teba           鸦片ᵀ        F=2     piv     アヘンの
+
+【齿】 2件
+  dent           齿          F=95    basic   
+  dental         齿ᴰᴸ        F=3     pejvo   
+
+【龙骨】 2件
+  kil            龙骨         F=5     pejvo   
+  karen          龙骨ᴷᴿ       F=5     pejvo   
+

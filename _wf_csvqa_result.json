@@ -1,0 +1,1916 @@
+{
+    "count":  2664,
+    "flags":  [
+                  {
+                      "eo":  "Esperanto",
+                      "current":  "未対応",
+                      "verdict":  "policy",
+                      "suggest":  "",
+                      "reason":  "方針§7では純粋固有名詞は未対応。ただし『世界语』(世界+语)は意味訳が成立する言語名で、Pariz等の純音訳固有名詞とは性質が異なる。未対応のままか意味訳(世界语)を許すかは固有名詞境界の方針判断点(§15『固有名詞の意味訳境界』)。"
+                  },
+                  {
+                      "eo":  "advokato",
+                      "current":  "辩",
+                      "verdict":  "doubtful",
+                      "suggest":  "",
+                      "reason":  "cn中心義は『律师』(弁護士)。辩は『議論・弁論』が中心義で、辩護人(advocate)義は拾えるが職業名『弁護士』を透明に表さず『議論する』と誤読されうる。一级内に弁護士を1字で表す適字が乏しく要確認(辩で代弁者義を当てる妥協か)。"
+                  },
+                  {
+                      "eo":  "adopti",
+                      "current":  "收",
+                      "verdict":  "doubtful",
+                      "suggest":  "",
+                      "reason":  "cn中心義は『收养(養子にする)』。收は『受け取る・集める』が中心義でricev=收と同字。単独の收は『受領』と読まれ、養子縁組(adopt)・採用の含意が透明に出ない。透明性R4の観点で要確認(收养は2字化で明確だが冗長)。"
+                  },
+                  {
+                      "eo":  "agi",
+                      "current":  "办",
+                      "verdict":  "doubtful",
+                      "suggest":  "做",
+                      "reason":  "办は『事務を処理する(办事)』に偏り、agiの一般的『行動する/作用する』より狭い。做/行の方が中心義に近い。"
+                  },
+                  {
+                      "eo":  "agrabla",
+                      "current":  "快",
+                      "verdict":  "mismatch",
+                      "suggest":  "悦",
+                      "reason":  "快の中国語中心義は『速い』。『快い/愉快』義は束縛的(愉快・痛快)で、単字では速度と誤読。日中乖離・透明性不足。agrabla=快適/心地よいには悦/愉が透明。"
+                  },
+                  {
+                      "eo":  "akcento",
+                      "current":  "重",
+                      "verdict":  "doubtful",
+                      "suggest":  "",
+                      "reason":  "重は単字で『重い』と読まれ、アクセント(重音)義は束縛的で透明性が低い。語義推測が困難。"
+                  },
+                  {
+                      "eo":  "akto",
+                      "current":  "为",
+                      "verdict":  "doubtful",
+                      "suggest":  "",
+                      "reason":  "为は抽象的『する/ために』で、cnの中心(幕・正式な行為・文書)のうち行為のみを弱く覆う。名詞『行為/幕/証書』として不透明。"
+                  },
+                  {
+                      "eo":  "alfabeto",
+                      "current":  "字",
+                      "verdict":  "doubtful",
+                      "suggest":  "",
+                      "reason":  "字は『文字/語』を指し、alphabet(字母表)の核は『母(字母)』。字単独では『アルファベット』を透明に表せず字義とずれる。"
+                  },
+                  {
+                      "eo":  "almenaŭ",
+                      "current":  "至",
+                      "verdict":  "doubtful",
+                      "suggest":  "",
+                      "reason":  "至は単字で『至る/極』で、『少なくとも』義は至少の『少』が担う。至単独では『at least』を透明に推測できない(ĝis=至との共有も含め不透明)。"
+                  },
+                  {
+                      "eo":  "alumeto",
+                      "current":  "柴",
+                      "verdict":  "doubtful",
+                      "suggest":  "",
+                      "reason":  "柴の中心義は薪・粗朶であり、マッチ棒(火柴)ではない。単字では「火柴」の意が推測不能で語義不透明。透明化するなら火柴等の検討要。"
+                  },
+                  {
+                      "eo":  "amatoro",
+                      "current":  "好",
+                      "verdict":  "mismatch",
+                      "suggest":  "",
+                      "reason":  "好は方針明記の日中乖離回避字(好→良)。かつ好の中心義は『良い』で、amatoro=アマチュア/愛好者と核義がずれる。乖離字の不要使用。"
+                  },
+                  {
+                      "eo":  "anĝelo",
+                      "current":  "天使",
+                      "verdict":  "policy",
+                      "suggest":  "使",
+                      "reason":  "方針§9で anĝel=使ᴬ を基本形として明示済み。1字で立つため2字『天使』はR1冗長2字化に抵触。識別子付き使に統一すべき論点。"
+                  },
+                  {
+                      "eo":  "animalo",
+                      "current":  "兽",
+                      "verdict":  "doubtful",
+                      "suggest":  "",
+                      "reason":  "兽の中心義は『野獣・けもの』で範囲が狭く、cn『动物』(動物一般)より限定的。animalo=動物一般との核義ずれの可能性。要確認。"
+                  },
+                  {
+                      "eo":  "aludi",
+                      "current":  "暗",
+                      "verdict":  "doubtful",
+                      "suggest":  "",
+                      "reason":  "暗の中心義は『暗い』。aludi=ほのめかす/暗示の意は暗示・暗指など熟語で出るが、単字では『暗い』と読まれ語義推測がやや不透明。要確認。"
+                  },
+                  {
+                      "eo":  "aplaŭdi",
+                      "current":  "鼓",
+                      "verdict":  "doubtful",
+                      "suggest":  "掌",
+                      "reason":  "cn中心義は鼓掌(拍手)。鼓単独は『太鼓・打つ』義が前面で拍手の連想が弱い。掌の方が手を打つ動作を直接喚起しうる。鼓励(励ます)とも混同しやすい。"
+                  },
+                  {
+                      "eo":  "arbitra",
+                      "current":  "断",
+                      "verdict":  "doubtful",
+                      "suggest":  "擅",
+                      "reason":  "cnは任意的・武断的。断単独は『切る・判断・断つ』義が中心で『恣意的』の語義推測が弱い。擅(ほしいまま)等の方が恣意・専断の中心義に近い。"
+                  },
+                  {
+                      "eo":  "asocio",
+                      "current":  "联",
+                      "verdict":  "doubtful",
+                      "suggest":  "会",
+                      "reason":  "cnの中心義は「協会・社団」(組織体)で名詞。联(联=連)は「連合・連想」の動的義に寄り、組織体としての名詞義が薄い。会の方が「協会」名詞義を透明に表す。共有可能だが要確認。"
+                  },
+                  {
+                      "eo":  "aŭto",
+                      "current":  "车",
+                      "verdict":  "doubtful",
+                      "suggest":  "",
+                      "reason":  "cnは「汽車(自動車)」。车は車両一般で外延が広いが、aŭtomobiloと完全同字共有(R1字種最小化に整合)。透明性は許容範囲だが上位語化のため要確認。"
+                  },
+                  {
+                      "eo":  "bandaĝo",
+                      "current":  "包",
+                      "verdict":  "doubtful",
+                      "suggest":  "绷",
+                      "reason":  "cn中心義は绷带(包帯)。包の中心義は包む/袋/小包であり包帯そのものを指さず透明性が弱い。一级内の绷が包帯の精確字。"
+                  },
+                  {
+                      "eo":  "banko",
+                      "current":  "银",
+                      "verdict":  "doubtful",
+                      "suggest":  "",
+                      "reason":  "cn中心義は银行(銀行)。割当字の银単体は『銀(金属)』が中心義で、学習者は『銀行』を推測できず部分抽出的。1字透明代替が乏しいため要確認。"
+                  },
+                  {
+                      "eo":  "biblioteko",
+                      "current":  "库",
+                      "verdict":  "doubtful",
+                      "suggest":  "书库",
+                      "reason":  "库の中心義は倉庫(仓库)。cn主義の図書館(图书馆)を見て倉庫と誤読しやすく透明性に難。計算機の程序库義のみ一致。書庫(书库)等の方が図書館義が透明。両字一级。"
+                  },
+                  {
+                      "eo":  "biciklo",
+                      "current":  "车",
+                      "verdict":  "doubtful",
+                      "suggest":  "",
+                      "reason":  "车の中心義は車両一般。cn=（两轮）自行车の「自転車」特定性が出ず、より広い車両系語根と被って透明性低下。ただし1字で自転車を音訳なしに表すのは困難で代替が乏しい。"
+                  },
+                  {
+                      "eo":  "benzino",
+                      "current":  "油",
+                      "verdict":  "doubtful",
+                      "suggest":  "汽油",
+                      "reason":  "油は油一般を指し広い(oleo等と共有)。cn=汽油はガソリン特定。汽油(両字一级)の方が透明・精確。音訳回避は満たすが特定性が低い。"
+                  },
+                  {
+                      "eo":  "bindi",
+                      "current":  "装",
+                      "verdict":  "doubtful",
+                      "suggest":  "订",
+                      "reason":  "装の中心義は据付・着衣・荷積みで広く、製本の意は中心から外れる。cn=装订/装帧の「綴じる」義は订(一级)の方が透明。"
+                  },
+                  {
+                      "eo":  "brasiko",
+                      "current":  "菜",
+                      "verdict":  "doubtful",
+                      "suggest":  "",
+                      "reason":  "cnは具体的に卷心菜(キャベツ)だが菜は『野菜/料理』の総称で過度に広く、語義特定性が弱い。広義(芸薹属蔬菜)を取れば許容範囲だが要確認。"
+                  },
+                  {
+                      "eo":  "butero",
+                      "current":  "油",
+                      "verdict":  "doubtful",
+                      "suggest":  "黄油",
+                      "reason":  "cn中心義は黄油(バター)。油単字は油脂全般/oleoを指し、バターと不透明・日中で範囲乖離。透明な黄油が望ましい。"
+                  },
+                  {
+                      "eo":  "buĝeto",
+                      "current":  "预",
+                      "verdict":  "mismatch",
+                      "suggest":  "预算",
+                      "reason":  "budgetのcn語義は预算。预単字は『あらかじめ/予』の意で予算を一意に表せず不透明(预算からの切落としで語義推測不能)。"
+                  },
+                  {
+                      "eo":  "cemento",
+                      "current":  "胶",
+                      "verdict":  "mismatch",
+                      "suggest":  "水泥",
+                      "reason":  "cn中心義は水泥(セメント)。胶は接着剤/glueで別物質、中心義と乖離。透明な水泥が妥当。"
+                  },
+                  {
+                      "eo":  "centralo",
+                      "current":  "央",
+                      "verdict":  "doubtful",
+                      "suggest":  "",
+                      "reason":  "centraloは発電所/交換局等の中央『施設・機関』を指すが、央(中央)は施設の含意を透明に伝えない。centro=央と同字共有でもあり、施設義の透明化を要確認。"
+                  },
+                  {
+                      "eo":  "cigno",
+                      "current":  "鹅",
+                      "verdict":  "mismatch",
+                      "suggest":  "天鹅",
+                      "reason":  "鹅はガチョウ(goose)。cn=天鹅(swan/白鳥)で別の鳥。単字の白鳥(鹄)は一级外のため、透明な2字「天鹅」が妥当。"
+                  },
+                  {
+                      "eo":  "civilizi",
+                      "current":  "教",
+                      "verdict":  "doubtful",
+                      "suggest":  "化",
+                      "reason":  "教は『教える/指導』寄りで civilize の中心義からややずれる。cnの中心義 教化/开化 は『化』の方が透明(开化=civilize)。一级内。"
+                  },
+                  {
+                      "eo":  "deklivo",
+                      "current":  "斜",
+                      "verdict":  "doubtful",
+                      "suggest":  "坡",
+                      "reason":  "cnの中心義は『斜面、坡』。斜は形容詞『斜め』の傾向が強く名詞『坡(斜面・傾斜地)』の方が中心義を直接表す。透明性はあるが要確認。"
+                  },
+                  {
+                      "eo":  "deputi",
+                      "current":  "派",
+                      "verdict":  "doubtful",
+                      "suggest":  "",
+                      "reason":  "delegi(委派)と意味が近接。cnは『選出して代表として派遣』で派は妥当だが、delegi=委との識別軸が弱い。派でも透明だが要確認。"
+                  },
+                  {
+                      "eo":  "dialogo",
+                      "current":  "话",
+                      "verdict":  "doubtful",
+                      "suggest":  "对",
+                      "reason":  "cn『対話』。话単独では『言葉・話』一般で、dialogo(対話=双方向)の核である『対』のニュアンスが落ちる。话でも近いが対話性は弱い。"
+                  },
+                  {
+                      "eo":  "doktoro",
+                      "current":  "博",
+                      "verdict":  "doubtful",
+                      "suggest":  "博",
+                      "reason":  "博单字中心义为「广博・渊博」，不透明指向「博士／医生」。博士需「士」方成义；単字割当语义推测困难，但作为博士头字尚可保留，建议确认。"
+                  },
+                  {
+                      "eo":  "digesti",
+                      "current":  "消",
+                      "verdict":  "doubtful",
+                      "suggest":  "消",
+                      "reason":  "消単字中心义为「消失・消除」，消化(digest)需「化」。単字「消」易误解为extinguish，语义透明性弱，建议确认是否取「化」或保留。"
+                  },
+                  {
+                      "eo":  "eduki",
+                      "current":  "培",
+                      "verdict":  "doubtful",
+                      "suggest":  "育",
+                      "reason":  "cn中心義は『教育』。培は単字で『土を盛る/栽培』が中心で、教育義は培养/培育の合成依存。栽培はcnの古義(括弧)に過ぎず中心義とずれる。育(教育/培育)の方が透明。"
+                  },
+                  {
+                      "eo":  "eklezio",
+                      "current":  "教",
+                      "verdict":  "doubtful",
+                      "suggest":  "",
+                      "reason":  "cn中心義は『教会(組織体)』。教は単字では『教える/宗教・教義』が中心で、特定の教会組織を透明に推測しにくい。宗教ドメインで近縁だが中心義がeklezio(教会)とは一段ずれる要確認点。"
+                  },
+                  {
+                      "eo":  "ekskursi",
+                      "current":  "逛",
+                      "verdict":  "doubtful",
+                      "suggest":  "",
+                      "reason":  "cn中心義は远足(目的ある遠出・遠足)だが逛は街などをぶらつく散策の意で、遠足/小旅行を透明には表さない。語義のズレを要確認。"
+                  },
+                  {
+                      "eo":  "fabelo",
+                      "current":  "童",
+                      "verdict":  "doubtful",
+                      "suggest":  "",
+                      "reason":  "cnは童话(おとぎ話)。童は単独で『子供』を意味し、『話/物語』の核は話の側。童だけでは『童話』でなく『児童』を喚起しやすくR4透明性が弱い。要確認。"
+                  },
+                  {
+                      "eo":  "eĥo",
+                      "current":  "回",
+                      "verdict":  "doubtful",
+                      "suggest":  "响",
+                      "reason":  "cnは回声(こだま/反響)。回の中心義は『戻る/回る』で、単独では『こだま』を直接喚起しにくい。响(響)の方が音の反響として透明。回声の一字採用としては許容範囲だが要確認。"
+                  },
+                  {
+                      "eo":  "evolui",
+                      "current":  "展",
+                      "verdict":  "doubtful",
+                      "suggest":  "",
+                      "reason":  "cn主義は进化/演化(進化)。展は『広げる/発展』で发展は表すが進化の核ではない。进化の核は进/化寄り。発展義なら可だが進化義としては透明性やや弱く要確認。"
+                  },
+                  {
+                      "eo":  "fajfi",
+                      "current":  "笛",
+                      "verdict":  "doubtful",
+                      "suggest":  "哨",
+                      "reason":  "cnは吹口哨・鸣哨・鸣笛=「口笛を吹く/笛を鳴らす」という動作・音。笛の中心義は楽器のフルートで、別の物体を指し動作「whistle」と直接一致しない。哨(口哨/鸣哨/鸣笛)の方が透明で語義と合致。"
+                  },
+                  {
+                      "eo":  "fakto",
+                      "current":  "事",
+                      "verdict":  "doubtful",
+                      "suggest":  "实",
+                      "reason":  "cnは事实=fact。事の中心義は「事柄・物事」で、fact(事実)とは別概念。事単独では「事実」を推測しにくい。事实の核は実。"
+                  },
+                  {
+                      "eo":  "farbo",
+                      "current":  "颜",
+                      "verdict":  "doubtful",
+                      "suggest":  "漆",
+                      "reason":  "cnは颜料・涂料・油漆=塗料/絵具。颜の中心義は色・顔(方針の日中乖离で面→颜=顔)であり、塗料の意は颜料の合成でのみ成立。単字颜では「ペンキ/絵具」が不透明。漆(塗料・ラッカー)が直接的。"
+                  },
+                  {
+                      "eo":  "farti",
+                      "current":  "体",
+                      "verdict":  "doubtful",
+                      "suggest":  "",
+                      "reason":  "cnは(身体)感觉・过得=調子・体調が「どう過ごす/感じる」かの状態。体の中心義は「からだ」そのもので、状態・調子を表す語義とはずれる。透明な代替単字が乏しくpolicy上の論点。"
+                  },
+                  {
+                      "eo":  "ferio",
+                      "current":  "暇",
+                      "verdict":  "doubtful",
+                      "suggest":  "假",
+                      "reason":  "cn中心義は『假日/休息日/假期』で核字は假。暇は中国語では『閑暇(leisure)』寄りで、日本語の休暇に引きずられた日中乖離の懸念。休日・休暇の語義は假/休が透明。"
+                  },
+                  {
+                      "eo":  "fianĉo",
+                      "current":  "婚",
+                      "verdict":  "doubtful",
+                      "suggest":  "",
+                      "reason":  "cn=未婚夫(婚約者=人)だが婚の中心義は『結婚・婚礼』で、婚約・婚約者そのものではない。婚は婚姻の意味場として透明で許容範囲だが、人(夫)・婚約段階のニュアンスとずれがあり要確認。"
+                  },
+                  {
+                      "eo":  "flustri",
+                      "current":  "悄",
+                      "verdict":  "doubtful",
+                      "suggest":  "语",
+                      "reason":  "悄の中心義は『静か・ひそやか』で、cn中心義『低语・耳语(ささやく)』という発話動作そのものを直接表さない。悄声/悄悄话で低声の含意はあるが単字では発話義が不透明。語(ささやく)等の検討余地。"
+                  },
+                  {
+                      "eo":  "fraŭlo",
+                      "current":  "单",
+                      "verdict":  "doubtful",
+                      "suggest":  "",
+                      "reason":  "单は『単一』が中心義で『未婚男子』を直接示さない(単身の連想に依存)。透明性はやや弱いが現代語『単身』に通じ、識別子で解消されるため許容範囲。確認推奨。"
+                  },
+                  {
+                      "eo":  "funkcio",
+                      "current":  "功",
+                      "verdict":  "doubtful",
+                      "suggest":  "能",
+                      "reason":  "cn中心義は職能・作用・機能・函数(function)。功の中心義は功績・手柄であり、function義は功能(能が担う)に依存。能の方が中心義に近い。"
+                  },
+                  {
+                      "eo":  "ganto",
+                      "current":  "套",
+                      "verdict":  "doubtful",
+                      "suggest":  "手套",
+                      "reason":  "套単独は覆い・セット・カバー(避妊套等)で多義・不透明、手套(手袋)を一意に表さない。手+套の透明2字が適切。"
+                  },
+                  {
+                      "eo":  "gramatiko",
+                      "current":  "语",
+                      "verdict":  "doubtful",
+                      "suggest":  "语法",
+                      "reason":  "语单字=「言語・言葉」でlingvo/parolo相当の総称義。cn中心義「语法(文法)」を表せず、語義推測不能かつ言語系語根と概念衝突。语(言語)+法(規則)の各字が寄与する透明2字が妥当でR1の冗長2字に当たらない。"
+                  },
+                  {
+                      "eo":  "helikoptero",
+                      "current":  "机",
+                      "verdict":  "doubtful",
+                      "suggest":  "旋翼机",
+                      "reason":  "机は『機械/飛行機』一般で語義過小特定。ヘリコプター(直升机)を推測不能でR4透明性に反する。旋翼(回転翼)等の限定字が望ましい。"
+                  },
+                  {
+                      "eo":  "heroldo",
+                      "current":  "告",
+                      "verdict":  "doubtful",
+                      "reason":  "heroldoは『伝令官・使者(人)』。告は『告げる(動作)』で布告機能は捉えるが、人=使者の核を直接表さない。使等の人字との整合を要確認。",
+                      "suggest":  ""
+                  },
+                  {
+                      "eo":  "horloĝo",
+                      "current":  "计",
+                      "verdict":  "mismatch",
+                      "suggest":  "钟",
+                      "reason":  "计の中心義は『計算・計る・メーター』で時計そのものではない。cn中心義は钟/表(置時計・時計)。計時器の『計』を取った部分的着想だが語義透明性R4で時計を直接想起できず不透明。钟が直截。"
+                  },
+                  {
+                      "eo":  "horo",
+                      "current":  "钟",
+                      "verdict":  "doubtful",
+                      "suggest":  "时",
+                      "reason":  "horo=hour(小时)。钟の中心義は『鐘・置時計』でhorloĝo(時計)寄り。cn中心義の『小时・时刻』には时がより透明。加えてhorloĝo=计と役割が逆転しており、時計に计・時間に钟は不整合。"
+                  },
+                  {
+                      "eo":  "horizonto",
+                      "current":  "界",
+                      "verdict":  "doubtful",
+                      "suggest":  "",
+                      "reason":  "cn第一義は『地平线』だが界の中心義は『境界・世界・分野』で地平線を直接想起しにくい。界は副義『眼界・范围』のみ被覆。透明性に難。1字で地平线を表す適字は乏しく要検討。"
+                  },
+                  {
+                      "eo":  "hordeo",
+                      "current":  "麦",
+                      "verdict":  "doubtful",
+                      "suggest":  "",
+                      "reason":  "hordeo=barley(大麦)。麦は既定で『小麦(wheat)』を想起させ、大麦との区別が曖昧。大麦は『麦』を含むため誤りではないが、麦類総称化で他穀物根と共有時に識別性低下の懸念。"
+                  },
+                  {
+                      "eo":  "idealo",
+                      "current":  "想",
+                      "verdict":  "doubtful",
+                      "suggest":  "理",
+                      "reason":  "cn中心義は「理想・崇高な目標」。想は「思う/想像」で imagi=想と同字衝突し、ideal=理想の論理推測が弱い。理(理想の核字)が透明。"
+                  },
+                  {
+                      "eo":  "ili",
+                      "current":  "具",
+                      "verdict":  "mismatch",
+                      "suggest":  "他们",
+                      "reason":  "ili=三人称複数「彼ら」。具は道具/具える義で語義無関係。作業ファイルでも ili/a=他们・他の代名詞(mi我/ni我们/li他/vi你)と整合せず明確な誤り。"
+                  },
+                  {
+                      "eo":  "ilustri",
+                      "current":  "图",
+                      "verdict":  "policy",
+                      "suggest":  "",
+                      "reason":  "方針§4.4の日中乖離回避ペアに「図→画」あり。ただし cn は「插图/图解/说明」で图自体が中国語の核形態素のため R2c(中国語義基準)では妥当。乖離リストとの整合を要確認。"
+                  },
+                  {
+                      "eo":  "influi",
+                      "current":  "化",
+                      "verdict":  "doubtful",
+                      "suggest":  "影",
+                      "reason":  "cn中心義は『影响』(影響/影響を与える)。化の中心義は『変化・〜化』で、influenceとは別物寄り。感化/同化に含まれるが単字では『変える』と読まれ透明性に欠ける。影响の影の方が語義推測可能。"
+                  },
+                  {
+                      "eo":  "instinkto",
+                      "current":  "本",
+                      "verdict":  "doubtful",
+                      "suggest":  "",
+                      "reason":  "cnは『本能』。本の中心義は『根本・もと・この』で、単字では『本能(instinct)』を推測しにくい。本能という二字熟語の構成字に過ぎず、単字透明性が弱い。直觉=直の線や、二字化の要否を要検討。"
+                  },
+                  {
+                      "eo":  "inĝeniero",
+                      "current":  "技",
+                      "verdict":  "doubtful",
+                      "suggest":  "工",
+                      "reason":  "cn中心義は『工程师(技师)』=技術者という職能。技は『技能・技術』そのものを指し『技師という人/工学分野』への透明性が弱い。工(工程)の方が分野を示し推測可能。"
+                  },
+                  {
+                      "eo":  "ironio",
+                      "current":  "反",
+                      "verdict":  "doubtful",
+                      "suggest":  "讽",
+                      "reason":  "cn中心義は『反语(皮肉・嘲弄)』。反単独は『反対・逆』で、mal-接頭の反と全面衝突し皮肉の語義を透明に導けない。讽(諷刺)など皮肉を示す字が透明。"
+                  },
+                  {
+                      "eo":  "jako",
+                      "current":  "服",
+                      "verdict":  "doubtful",
+                      "suggest":  "",
+                      "reason":  "cn語義は『短上衣・夹克(ジャケット)』という特定衣類。服は『衣服全般』で総称的すぎ、上着/ジャケットを限定推測できず vesto 等と区別不能。ただし夹克は音訳で不可のため代替難。"
+                  },
+                  {
+                      "eo":  "jubileo",
+                      "current":  "庆典",
+                      "verdict":  "policy",
+                      "suggest":  "庆",
+                      "reason":  "R1冗長2字の論点。庆単独で『祝い・祝典』が立ち、cn『周年纪念庆典』の核を表せる。典を足す必然が薄く1字化を検討すべき。"
+                  },
+                  {
+                      "eo":  "juna",
+                      "current":  "幼",
+                      "verdict":  "doubtful",
+                      "suggest":  "少",
+                      "reason":  "juna=若い(若年一般)。幼は『幼小・乳幼児』寄りで、cn中心義の『年轻(若い)』とニュアンス乖離。少(年少)や青(青年)が『若い』をより素直に表す。"
+                  },
+                  {
+                      "eo":  "kajo",
+                      "current":  "和",
+                      "verdict":  "mismatch",
+                      "suggest":  "码",
+                      "reason":  "和は『調和・と・混ぜる』で、cn『码头(埠頭)・河岸货场・站台』と無関係。中心義が完全に別物。埠頭=码头の意味担字『码』(一级内)が適切。岸も可。データ誤りの可能性が高い。"
+                  },
+                  {
+                      "eo":  "karaktero",
+                      "current":  "格",
+                      "verdict":  "doubtful",
+                      "suggest":  "性",
+                      "reason":  "格 単字の中心義は「枠・規格・マス目」で、cnの中心義「性格・个性(character/人格)」を透明に表さない。性格の中核は性。性なら character/性質 を直に示す。"
+                  },
+                  {
+                      "eo":  "karoto",
+                      "current":  "萝",
+                      "verdict":  "mismatch",
+                      "suggest":  "",
+                      "reason":  "萝 単字は「つる草」で、carrot(胡萝卜)を表さない。萝卜は大根、胡萝卜が人参で、萝 だけでは語義推測不能。部分音訳的・不透明。胡萝 等の透明化か、人参系の意訳/未対応を検討。"
+                  },
+                  {
+                      "eo":  "katalogo",
+                      "current":  "录",
+                      "verdict":  "doubtful",
+                      "suggest":  "目",
+                      "reason":  "录 単字の中心義は「記録する」で、catalog(目录)を表さない。目录の中核は目(一覧の項目)。录 だけでは「記録」と読まれ「カタログ・一覧」が不透明。"
+                  },
+                  {
+                      "eo":  "kastelo",
+                      "current":  "城",
+                      "verdict":  "doubtful",
+                      "suggest":  "堡",
+                      "reason":  "cnは城堡(castle)。方針の日中乖離例で城→市(city)とされる通り城 単字は「都市/城壁」と読まれ、城=都市と他語根で衝突しやすい。castle の中核は堡(とりで)で、堡なら城塞義が透明。"
+                  },
+                  {
+                      "eo":  "kaŭĉuko",
+                      "current":  "胶",
+                      "verdict":  "doubtful",
+                      "suggest":  "橡",
+                      "reason":  "cnは橡胶(rubber/ゴム)。胶 単字の中心義は「にかわ・接着剤(glue)」で rubber と別物に読まれる。ゴムの中核は橡。胶 のみだと glue と乖離。"
+                  },
+                  {
+                      "eo":  "kapro",
+                      "current":  "羊",
+                      "verdict":  "doubtful",
+                      "suggest":  "",
+                      "reason":  "cnは山羊(goat)。羊 は ovine 一般で sheep(ŝafo)と同字共有になり山羊/绵羊の別が消える。同字共有自体は許容だが、kapro=goat の特異性が失われるため要確認(山羊側に識別子前提なら可)。"
+                  },
+                  {
+                      "eo":  "kino",
+                      "current":  "映",
+                      "verdict":  "doubtful",
+                      "suggest":  "影",
+                      "reason":  "cn=电影(映画)。映の中心義は『反射・放映(投影)』で、映画そのものを表す中心字は影(电影/影片)。映は連想的で透明性がやや弱い。影なら『電影』の核として語義推測が容易。"
+                  },
+                  {
+                      "eo":  "kirurgio",
+                      "current":  "科",
+                      "verdict":  "doubtful",
+                      "suggest":  "外科",
+                      "reason":  "cn=外科(手術・外科学)。科単字の中心義は『部門・学科・科目』で汎用的すぎ、どの科か特定できず『外科(手術)』を透明に表せない。R4の語義推測不能。1字で立たないため外科の2字が透明。"
+                  },
+                  {
+                      "eo":  "klimato",
+                      "current":  "候",
+                      "verdict":  "doubtful",
+                      "suggest":  "气候",
+                      "reason":  "cn=气候。候単字の中心義は『待つ・時候(季節)』で、単独では『気候』を透明に示せない。气候は气との2字で初めて気候義が成立。"
+                  },
+                  {
+                      "eo":  "knabo",
+                      "current":  "郎",
+                      "verdict":  "doubtful",
+                      "suggest":  "",
+                      "reason":  "cn=男孩(少年)。郎の中心義は『若い男・(新)郎・男性の敬称』で『男の子(児童)』より年長寄り。ただし男=vir・童=infan が既使用で、郎は両者と弁別する選択として一応成立。透明性の観点で要確認。"
+                  },
+                  {
+                      "eo":  "kompanio",
+                      "current":  "伴",
+                      "verdict":  "mismatch",
+                      "suggest":  "司",
+                      "reason":  "cnの第一義は『公司(会社)』。伴は『伙伴/陪伴』の従義のみを表し中心義の企業・会社を表せず不透明。司(公司の核字)が中心義に合致。"
+                  },
+                  {
+                      "eo":  "kompari",
+                      "current":  "较",
+                      "verdict":  "doubtful",
+                      "suggest":  "比",
+                      "reason":  "cn『比较,对比』の中心は比。较も比較義を持つが中国語では比がより基礎・透明(一级・直接的)。比を推奨、较は許容範囲だが要確認。"
+                  },
+                  {
+                      "eo":  "kompliki",
+                      "current":  "复",
+                      "verdict":  "doubtful",
+                      "suggest":  "繁",
+                      "reason":  "复は単字では「再び/回復」が中心義で「複雑にする」は复杂の合成語頼み。透明性は弱め。ただし复杂で通じる範囲で許容圏。"
+                  },
+                  {
+                      "eo":  "koncerto",
+                      "current":  "奏",
+                      "verdict":  "doubtful",
+                      "suggest":  "",
+                      "reason":  "cn中心義は「音楽会(イベント)」だが奏は「演奏する(動作)」。音楽分野で透明だが名詞イベントとの一致はやや弱い。"
+                  },
+                  {
+                      "eo":  "kondiĉo",
+                      "current":  "件",
+                      "verdict":  "doubtful",
+                      "suggest":  "",
+                      "reason":  "件は単字で「品/個(助数詞)」が中心義。「条件」は条件の二字合成に依存し、件単独からは「条件」を推測しにくく透明性が弱い。適切な一字代替も乏しく要確認。"
+                  },
+                  {
+                      "eo":  "konduti",
+                      "current":  "举",
+                      "verdict":  "doubtful",
+                      "suggest":  "",
+                      "reason":  "举の中心義は「持ち上げる/挙げる」。「振る舞い/行為」は举止・举动の合成語義で、单字からの推測はやや弱い。"
+                  },
+                  {
+                      "eo":  "konscienco",
+                      "current":  "德",
+                      "verdict":  "doubtful",
+                      "suggest":  "良",
+                      "reason":  "德は徳・道徳一般。cn中心義「良心」は良心の良が直接的。德は道徳心は表すが「良心(conscience)」固有義からやや外れる。"
+                  },
+                  {
+                      "eo":  "konsenti",
+                      "current":  "赞",
+                      "verdict":  "doubtful",
+                      "suggest":  "许",
+                      "reason":  "赞の中心義は称賛・賞賛で、cn「同意(consent)」とずれる。同意・賛成の意は文脈依存。许(承諾)等のほうが同意義に近い。"
+                  },
+                  {
+                      "eo":  "konsili",
+                      "current":  "议",
+                      "verdict":  "doubtful",
+                      "suggest":  "劝",
+                      "reason":  "议の中心義は議論・討議。cn中心義は「建议，劝告，忠告」=助言・忠告で、劝(勧告)が語義に直接的。议は相談・討議寄り。"
+                  },
+                  {
+                      "eo":  "kravato",
+                      "current":  "领",
+                      "verdict":  "doubtful",
+                      "suggest":  "领带",
+                      "reason":  "cn中心義は「领带(ネクタイ)」。领単字は襟・首・率いる等の意で多義かつ「ネクタイ」を論理推測しづらい(R4透明性)。带を補い领带とするか要検討。"
+                  },
+                  {
+                      "eo":  "kreski",
+                      "current":  "育",
+                      "verdict":  "doubtful",
+                      "suggest":  "长",
+                      "reason":  "cnは『生长，成长』(自動詞的に育つ・伸びる)。育の中心義は『養育・教育』で他動詞的『育てる』寄り。自身が成長するkreskiとはやや乖離。长(生长)の方が透明。"
+                  },
+                  {
+                      "eo":  "kreto",
+                      "current":  "垩",
+                      "verdict":  "policy",
+                      "suggest":  "粉",
+                      "reason":  "垩は白垩で意味的には正確だが《通用规范汉字表》一级外字(§12.4により要フラグ)。一级内なら粉(粉笔=白墨)が代替候補。"
+                  },
+                  {
+                      "eo":  "kruco",
+                      "current":  "十",
+                      "verdict":  "doubtful",
+                      "suggest":  "",
+                      "reason":  "cnは『十字架・十字形』。十の中心義は数字の『十』であり、単字では『ten』と誤読される恐れ。十字形の慣用字ではあるが透明性に難。1字代替が乏しく要判断。"
+                  },
+                  {
+                      "eo":  "kubo",
+                      "current":  "方",
+                      "verdict":  "doubtful",
+                      "suggest":  "立",
+                      "reason":  "cnは『立方体・立方』(3D立方体)。方の中心義は『四角・方向』で2D寄り、立方体を直接表さない。立(立方)の方が3D立方体として透明。"
+                  },
+                  {
+                      "eo":  "kuzo",
+                      "current":  "堂",
+                      "verdict":  "doubtful",
+                      "suggest":  "",
+                      "reason":  "堂の中心義は『広間・本堂』で、単字では『いとこ』が透明に推測できない。中国語では堂兄弟の連結語素として正しいが、孤立した堂からcousin義は不明瞭。表(従いとこ)も同様に単字では不透明で代替難。要再検討(複合語境界の論点)。"
+                  },
+                  {
+                      "eo":  "kvin",
+                      "current":  "静",
+                      "verdict":  "mismatch",
+                      "suggest":  "五",
+                      "reason":  "kvin=五(five)だが割当字「静」は静か(kvietaと同字の誤コピー)。語義と完全に無関係。五に修正必須。"
+                  },
+                  {
+                      "eo":  "lado",
+                      "current":  "板",
+                      "verdict":  "doubtful",
+                      "suggest":  "",
+                      "reason":  "lado=金属薄板/铁皮(马口铁)だが「板」は木板も含む汎用の板で「金属」性が読み取れない。cnの中心義は金属薄板ゆえ透明性やや低い。薄板の語義は含むため許容範囲だが要確認。"
+                  },
+                  {
+                      "eo":  "lilio",
+                      "current":  "合",
+                      "verdict":  "mismatch",
+                      "suggest":  "百合",
+                      "reason":  "合の中心義は『合わせる/閉じる/結合』でユリとは無関係。cnの百合から第2字だけを切り出した部分音訳的縮約で語義不透明・推測不能(R4違反)。単字で透明に表せないため二字『百合』を保持すべき。"
+                  },
+                  {
+                      "eo":  "logi",
+                      "current":  "学家",
+                      "verdict":  "mismatch",
+                      "suggest":  "诱",
+                      "reason":  "logi の中国語義は『引诱・吸引』(誘う・引きつける)。割当『学家』は接尾辞 -log(=学家、例 biolog→生物学家)の漢字を取り違えたもので、語義と全く無関係。R4不透明・中心義不一致。誘惑の『诱』(一级)が適切。"
+                  },
+                  {
+                      "eo":  "maizo",
+                      "current":  "米",
+                      "verdict":  "doubtful",
+                      "suggest":  "玉米",
+                      "reason":  "cn は『玉米』(トウモロコシ)。中国語の『米』単独は稲・コメ(さらに本プロジェクトでは 米=metr の基本形, riz=米ᴿ と共有)で、トウモロコシの意は出ない。日中精度上の乖離。玉・米とも一级で透明2字『玉米』が中国語の中心語に一致し稲/メートルと弁別できる。"
+                  },
+                  {
+                      "eo":  "mekaniko",
+                      "current":  "械",
+                      "verdict":  "doubtful",
+                      "suggest":  "",
+                      "reason":  "械の中心義は『機械・器具』で、cn主義の『力学/机械学(学問)』とはずれる。ただしmekanismo(械)と同語源で、R5系統化(同語源は共通核漢字)に沿い、cn副義『机械学』とは関連するため許容範囲。学問義の透明性が弱い点のみ要確認。"
+                  },
+                  {
+                      "eo":  "menuo",
+                      "current":  "单",
+                      "verdict":  "doubtful",
+                      "suggest":  "",
+                      "reason":  "单は中国語で「リスト/伝票」(菜单/账单/清单)の意があり菜单の略として一応透明だが、単独では「単一/フォーム」と読まれメニューの中心義が弱い。菜单の核字なら『菜』寄りも検討。許容範囲だが要確認。"
+                  },
+                  {
+                      "eo":  "minimumo",
+                      "current":  "最",
+                      "verdict":  "doubtful",
+                      "suggest":  "最小",
+                      "reason":  "最は『最も(程度の最上級)』で最大/最小を区別せず、minimum固有の『最小』が透明に立たない。maksimumoと同字衝突しR4透明性を欠く。最小とすべき(2字だが概念上分離不可)。"
+                  },
+                  {
+                      "eo":  "minus",
+                      "current":  "矿",
+                      "verdict":  "mismatch",
+                      "suggest":  "减",
+                      "reason":  "矿は鉱石・鉱物の意でcn(减号/负号/减去=マイナス・減算)と全く無関係。明らかなデータ混入誤り。master(_kanji_map_master.tsv 202行)も func minus 减 で正は减。"
+                  },
+                  {
+                      "eo":  "motoro",
+                      "current":  "动",
+                      "verdict":  "doubtful",
+                      "suggest":  "机",
+                      "reason":  "cnは发动机/马达という装置(名詞)だが、动は『動く・運動』の意で装置を指さない。movi(动)と同字共有でも、motoroの中心義『エンジン』が推測しにくい。机/擎等の検討余地。"
+                  },
+                  {
+                      "eo":  "naturo",
+                      "current":  "然",
+                      "verdict":  "mismatch",
+                      "suggest":  "自",
+                      "reason":  "然単独は『そうである・しかり』の意で『自然/天性』を表さない。自然の語義透明性を担うのは自であり、然はR4不透明。自を推奨。"
+                  },
+                  {
+                      "eo":  "muzeo",
+                      "current":  "馆",
+                      "verdict":  "doubtful",
+                      "suggest":  "",
+                      "reason":  "cnは博物馆(博物館)だが、馆は飯館・図書館等の汎用施設語で『博物館』特定性が弱い。ただし館系施設として透明性はあり許容範囲か要確認。"
+                  },
+                  {
+                      "eo":  "nervo",
+                      "current":  "神",
+                      "verdict":  "doubtful",
+                      "suggest":  "神经",
+                      "reason":  "神の中心義は『精神・神霊』で、単独では『神経(nerve)』を透明に推測できない。神経=神+经であり、同義の学術接頭辞neŭrは別途『神经』(2字)に割当てられており内部不整合。R4透明性の観点から『神经』への統一が望ましい。"
+                  },
+                  {
+                      "eo":  "nun",
+                      "current":  "嘿",
+                      "verdict":  "mismatch",
+                      "suggest":  "今",
+                      "reason":  "cn=现在(今)。嘿は感嘆詞(へい/ふん)で『今』の意と全く無関係。中心義不一致。透明な『今』に修正すべき。"
+                  },
+                  {
+                      "eo":  "oni",
+                      "current":  "分",
+                      "verdict":  "mismatch",
+                      "suggest":  "人",
+                      "reason":  "cnは『人，人们（泛指）』=不定の総称代名詞だが、分の中心義は『分ける/分・割合』で語義が全く無関係。語義透明性R4違反。総称『人』を表す字が適切(文法代名詞ゆえ識別子で解消)。"
+                  },
+                  {
+                      "eo":  "okazi",
+                      "current":  "生",
+                      "verdict":  "doubtful",
+                      "suggest":  "",
+                      "reason":  "cnは『发生(起こる)/举行』。生の中心義は『生まれる/生きる』で、发生の核は『发』寄り。生でも『生じる』を読めるが透明性はやや弱く要確認。"
+                  },
+                  {
+                      "eo":  "oscedi",
+                      "current":  "欠",
+                      "verdict":  "doubtful",
+                      "suggest":  "呵欠",
+                      "reason":  "欠の現代中心義は『欠ける・借りがある』。あくびは哈欠/呵欠で欠は束縛形態素。単字欠から学習者はあくびを推測できず透明性不足。"
+                  },
+                  {
+                      "eo":  "palto",
+                      "current":  "袄",
+                      "verdict":  "doubtful",
+                      "suggest":  "大衣",
+                      "reason":  "袄は綿入れの短い上着(棉袄)で、cnの外套・大衣(長いコート)とは別物寄り。paltoはオーバーコートなので大衣が中心義に合致。"
+                  },
+                  {
+                      "eo":  "pano",
+                      "current":  "包",
+                      "verdict":  "doubtful",
+                      "suggest":  "面包",
+                      "reason":  "パンは面包。単字包の中心義は包む/饅頭(包子)でパンを推測できず、しかもpako(包裹)=包と同字衝突。透明性のため面包が妥当。"
+                  },
+                  {
+                      "eo":  "pantoflo",
+                      "current":  "鞋",
+                      "verdict":  "doubtful",
+                      "suggest":  "拖鞋",
+                      "reason":  "スリッパはcnの通り拖鞋。鞋単字は一般の『靴』でŝuo(靴)と中心義が重なりスリッパの限定義が立たない。"
+                  },
+                  {
+                      "eo":  "papo",
+                      "current":  "皇",
+                      "verdict":  "doubtful",
+                      "suggest":  "教皇",
+                      "reason":  "cnは『罗马教皇』(ローマ教皇)。皇単独の中心義は皇帝・君主で、世俗の皇帝(皇帝)と読まれ宗教指導者=教皇に不透明。教(宗教)を冠した教皇なら透明。"
+                  },
+                  {
+                      "eo":  "pasporto",
+                      "current":  "照",
+                      "verdict":  "doubtful",
+                      "suggest":  "护照",
+                      "reason":  "cnは『护照』(パスポート)。照単独の中心義は照らす・写真・許可証であり、護照の意は推測不能。护(保護)+照で初めて透明。"
+                  },
+                  {
+                      "eo":  "pensio",
+                      "current":  "养",
+                      "verdict":  "doubtful",
+                      "suggest":  "",
+                      "reason":  "cn中心義は退休金/养老金(年金=金銭)。养は『養う・育てる』の動詞義が中心で、年金そのものの語義は推測しづらい。养老金の構成字として透明性は部分的。要確認。"
+                  },
+                  {
+                      "eo":  "pomo",
+                      "current":  "苹",
+                      "verdict":  "doubtful",
+                      "suggest":  "",
+                      "reason":  "苹は単字では「りんご」を表さない束縛形態素(りんご=苹果)。R4意味透明性として単字で語義回復不能の懸念。ただし果=果実は特定性を失う。要確認(束縛字の可否)。"
+                  },
+                  {
+                      "eo":  "populara",
+                      "current":  "众",
+                      "verdict":  "doubtful",
+                      "suggest":  "",
+                      "reason":  "popularの中心義は「受歓迎・流行(好まれる/広まる)」。众の中心義は「群衆・大衆」で『大众化』には寄与するが好かれる・流行という中核義と一致しない。流行は2字で冗長。要確認。"
+                  },
+                  {
+                      "eo":  "porti",
+                      "current":  "运",
+                      "verdict":  "doubtful",
+                      "suggest":  "带",
+                      "reason":  "portiの中心義は『携える/運ぶ/身につける/担う』と広い。运は『運送(遠距離輸送)・運勢』寄りで中心義より狭い。cn筆頭の携带に直結する带の方が中心義を透明に表す。"
+                  },
+                  {
+                      "eo":  "prava",
+                      "current":  "理",
+                      "verdict":  "doubtful",
+                      "suggest":  "正",
+                      "reason":  "pravaは形容詞『正しい/もっともな』。理の中心義は名詞『道理/理屈/管理』で、非漢字圏学習者は『正しい』を直接推測しにくい。cn筆頭義(正确的)を透明に示すには正(正确)が候補。"
+                  },
+                  {
+                      "eo":  "problemo",
+                      "current":  "问",
+                      "verdict":  "doubtful",
+                      "suggest":  "题",
+                      "reason":  "问の中心義は『たずねる(动词)』で、cnの中心『问题・难题・课题(名詞=問題/課題)』とずれる。题は难题・课题・问题すべてを担い名詞『問題』により透明。"
+                  },
+                  {
+                      "eo":  "preteksto",
+                      "current":  "借口",
+                      "verdict":  "policy",
+                      "suggest":  "托",
+                      "reason":  "2字。借単独は『借りる』で中心義が別物のため借口で補っているが、托(托词=口実)は単字で『口実・言い訳』を透明に表しR1字種最小化に適合。"
+                  },
+                  {
+                      "eo":  "prozo",
+                      "current":  "散",
+                      "verdict":  "doubtful",
+                      "suggest":  "文",
+                      "reason":  "散単独は『散らばる/ばらける』が中心義で、散文(prose)を表すには文が必要。散だけでは語義推測が困難。詩(verso)と対の文体概念として文の方が透明。"
+                  },
+                  {
+                      "eo":  "pulvo",
+                      "current":  "炸",
+                      "verdict":  "doubtful",
+                      "suggest":  "",
+                      "reason":  "pulvoは火薬/爆薬という粉状の物質。炸の中心義は『爆発する/揚げる』という動作・状態で、物質そのものを直接指さない。動作字を名詞義に当てており語義のずれあり。"
+                  },
+                  {
+                      "eo":  "rabato",
+                      "current":  "减",
+                      "verdict":  "doubtful",
+                      "suggest":  "折",
+                      "reason":  "rabato=割引/リベート。cn中心義は折扣(割引)。减は『減らす・引く』の一般義で、見て『割引』を一意に推測しにくい。割引の核字は折(折扣)。"
+                  },
+                  {
+                      "eo":  "rafano",
+                      "current":  "萝",
+                      "verdict":  "doubtful",
+                      "suggest":  "萝卜",
+                      "reason":  "大根=萝卜。萝単字は『つる草(女萝・茑萝)』が本義で、大根義は複合語萝卜でのみ成立。単字萝は不透明で語義推測不能。透明化には萝卜が必要。"
+                  },
+                  {
+                      "eo":  "ravi",
+                      "current":  "醉",
+                      "verdict":  "doubtful",
+                      "suggest":  "迷",
+                      "reason":  "ravi=魅了/陶酔させる。醉の中心義は『酒に酔う』で、第一に飲酒を連想させる。陶酔義は比喩派生。魅了の意は迷(着迷・迷人)の方が直接的。"
+                  },
+                  {
+                      "eo":  "regali",
+                      "current":  "款",
+                      "verdict":  "doubtful",
+                      "suggest":  "",
+                      "reason":  "款の中心義は『金額・条項』で『もてなす』は熟語款待が担う。ただし款には古語で誠待・款留の意があり款待の慣用字でもあるため軽度。単字での透明性を要確認。"
+                  },
+                  {
+                      "eo":  "relativa",
+                      "current":  "相",
+                      "verdict":  "doubtful",
+                      "suggest":  "对",
+                      "reason":  "cn『相对的』。相単体の中心義は『互い・様相』でreciproka(互)と意味域が重なる。『相対的』の弁別義は对が担うため、単字相では『relative』を透明に推測しづらい。korelativ=相关(2字)との整合も要確認。"
+                  },
+                  {
+                      "eo":  "reprezenti",
+                      "current":  "表",
+                      "verdict":  "doubtful",
+                      "suggest":  "代",
+                      "reason":  "cn中心義は『代表』で核は代。表単体は『表面・表す』で『代表する=represent』を透明に推測しにくい。ただし代はanstataŭ(代)と衝突するため共有可否含め要確認。"
+                  },
+                  {
+                      "eo":  "respubliko",
+                      "current":  "共",
+                      "verdict":  "doubtful",
+                      "suggest":  "",
+                      "reason":  "cn『共和制，共和国』。共単体はkun/komunと同じく『共通・共に』を表し、共和国の弁別義『和』が欠落するため『republic』を単字共で透明に推測しづらい。共有自体は方針上許容だが透明性を要確認。"
+                  },
+                  {
+                      "eo":  "revuo",
+                      "current":  "阅",
+                      "verdict":  "doubtful",
+                      "suggest":  "刊",
+                      "reason":  "cnの中心義は『雑誌・定期刊行物』だが阅は『読む・閲覧する』動作義で、雑誌そのものを透明に推測できない。刊行物を表す刊や誌の方が中心義に近い。検閲・歌舞雑耍など派生義のみ阅が合うが主義を外す。"
+                  },
+                  {
+                      "eo":  "rolo",
+                      "current":  "役",
+                      "verdict":  "mismatch",
+                      "suggest":  "角",
+                      "reason":  "役は日本語で『役割=role』だが、中国語の役の中心義は労役・兵役・戦役でroleの意味は無い。cn=角色。日中乖離字の不要使用。中国語でroleを表すのは角(主角・角色)。役は同字共有先のkampanj=战役/servut=劳役では正しいが、rolはその中国語義に該当しない。"
+                  },
+                  {
+                      "eo":  "romano",
+                      "current":  "篇",
+                      "verdict":  "doubtful",
+                      "suggest":  "说",
+                      "reason":  "romano=小説の中心義(cn=长篇小说=小说)。篇は『文章・編・量詞』であり小説そのものを透明に表さない。読者は篇を見て『記事・エッセイ』を想起しnovelを推測しにくい。小说由来の说が中心義に近い。"
+                  },
+                  {
+                      "eo":  "ronki",
+                      "current":  "鼾",
+                      "verdict":  "policy",
+                      "suggest":  "",
+                      "reason":  "鼾(snore)は語義透明で適切(鼻+干、打鼾)だが《通用规范汉字表》一级3500外字。§12で一级外字は即フラグし個別判断要。探索順③(部首鼻が意味分野を示す)で正当化は可能だが要明示確認。"
+                  },
+                  {
+                      "eo":  "sago",
+                      "current":  "矢",
+                      "verdict":  "policy",
+                      "suggest":  "箭",
+                      "reason":  "cn中心義「箭(矢)」。中国語で「矢」は古語/日本語寄りで、現代中国語の通常字は『箭』。方針4.4の日中乖離回避により、同じ一级内の透明な代替『箭』が存在するため『箭』が望ましい。"
+                  },
+                  {
+                      "eo":  "salajro",
+                      "current":  "酬",
+                      "verdict":  "doubtful",
+                      "suggest":  "薪",
+                      "reason":  "cnは「工资，报酬」で第一義は給料(工资)。『酬』の中心義は報いる/返礼(报酬)で賃金そのものではない。一级の『薪』(薪水/工资)の方が給料義を透明に表す。"
+                  },
+                  {
+                      "eo":  "scienco",
+                      "current":  "科",
+                      "verdict":  "policy",
+                      "suggest":  "",
+                      "reason":  "『科』単体の中心義は部門/学科/分野で『科学』そのものではない。本来透明な『学』は既に logi/lern 等に使用済みのため代替として『科』採用は合理的だが、語義透明性R4の観点で要判断。"
+                  },
+                  {
+                      "eo":  "sekretario",
+                      "current":  "秘",
+                      "verdict":  "doubtful",
+                      "suggest":  "书",
+                      "reason":  "cn語義は『秘书，书记』(秘書・書記=人/役職)だが、秘単字の中心義は『秘密・神秘』でsekreto(秘)と同義になり、役職の意が透明に出ない。語義透明性R4の観点で秘书の頭字採用は不透明。書記の意を表す書(书)等を検討すべき。"
+                  },
+                  {
+                      "eo":  "sobra",
+                      "current":  "醒",
+                      "verdict":  "policy",
+                      "suggest":  "节",
+                      "reason":  "cnの中心義は『饮食有度(節制)』+清醒。醒は『目覚める/酔いがさめる』が中心で清醒(副次義)寄り。方針v2 §9自体がsobr=节ˢᴮと例示しており節(節制)がcn中心義に合致。"
+                  },
+                  {
+                      "eo":  "sindikato",
+                      "current":  "盟",
+                      "verdict":  "doubtful",
+                      "suggest":  "",
+                      "reason":  "cn中心義は工会(労働組合)/経済利益団体。盟は同盟・連盟で『辛迪加(syndicate)』寄りには通じるが、現代中心義の工会は会/団系がより的確。透明性は許容範囲だが要確認。"
+                  },
+                  {
+                      "eo":  "skio",
+                      "current":  "滑",
+                      "verdict":  "doubtful",
+                      "suggest":  "",
+                      "reason":  "cnは滑雪板(スキー)。滑単字の中心義は『滑る/滑らか』で、ski(滑雪)の部分のみ。単字では『スキー』が論理推測しづらく語義やや不透明。"
+                  },
+                  {
+                      "eo":  "spezi",
+                      "current":  "兑",
+                      "verdict":  "mismatch",
+                      "suggest":  "账",
+                      "reason":  "cn中心義は『収支・出納・款項の出入処理(会計)』。兑の中心義は『両替/引き換える』で会計の収支・出納とずれる。出納・収支を表す账(账目/出纳)等が適切。"
+                  },
+                  {
+                      "eo":  "sporto",
+                      "current":  "体",
+                      "verdict":  "doubtful",
+                      "suggest":  "竞",
+                      "reason":  "体の中心義は『身体』で、cn中心義の体育運動・竞技から透明に推測しにくい。竞(竞技/竞赛)の方がcnの竞技に直結し透明。体育の頭字としては許容余地もあるため doubtful。"
+                  },
+                  {
+                      "eo":  "stalo",
+                      "current":  "马棚",
+                      "verdict":  "policy",
+                      "suggest":  "厩",
+                      "reason":  "cn中心は厩・畜舍(家畜小屋一般)。马棚は2字かつ馬に過剰特定(R1冗長・cnは畜舍一般)。厩(1字)が語義一致だが二级(R2は一级優先)。一级で1字化するなら棚も候補。冗長2字の解消が論点。"
+                  },
+                  {
+                      "eo":  "staturo",
+                      "current":  "材",
+                      "verdict":  "doubtful",
+                      "suggest":  "",
+                      "reason":  "材の中心義は材料・木材・才能で、cnの身高・身材(背丈・体格)から透明に推測しにくい。身材の連語頭としては弱く、語義透明性R4の観点で要確認。"
+                  },
+                  {
+                      "eo":  "stilo",
+                      "current":  "风",
+                      "verdict":  "doubtful",
+                      "suggest":  "格",
+                      "reason":  "风の中心義は『風』で、cn中心の文体・样式・风格(スタイル)は二次義。读み手は风→wind と取りやすく透明性が弱い。格(风格/格调=様式)の方がスタイルに近い。要確認。"
+                  },
+                  {
+                      "eo":  "suno",
+                      "current":  "阳",
+                      "verdict":  "doubtful",
+                      "suggest":  "日",
+                      "reason":  "阳は太阳/阳光で太陽を表せ透明だが、celestial bodyとしての『太陽』の最直接・基礎字は日(より少画・通用度高)。ただし日は『日(day)/曜日=日』と衝突しうるため阳での回避も合理。中心義は合致しているので要確認レベル。"
+                  },
+                  {
+                      "eo":  "surtuto",
+                      "current":  "袍",
+                      "verdict":  "doubtful",
+                      "suggest":  "",
+                      "reason":  "袍は伝統的な長衣(ローブ・ガウン)を指すが、surtutoの中国語義は大衣・外套(オーバーコート)。衣類の種別がややずれる。大衣相当を表す字(例:衣の系列や外+衣)も検討の余地。透明性は許容範囲だが要確認。"
+                  },
+                  {
+                      "eo":  "tajpi",
+                      "current":  "打",
+                      "verdict":  "doubtful",
+                      "suggest":  "",
+                      "reason":  "cn義は打字(タイプする)。打単字の中心義は『叩く・打つ』で、単独では『タイプ』を透明に推測しにくい。1字では適切な代替が乏しく打字の打を流用した形だが、R4透明性上の論点として要確認。"
+                  },
+                  {
+                      "eo":  "tasko",
+                      "current":  "务",
+                      "verdict":  "doubtful",
+                      "suggest":  "",
+                      "reason":  "cn義は任务(タスク・仕事)。务単字の中心義は『事務・従事する・つとめ』で、task=任务を单字務だけで透明に表すか微妙。任との比較も含め要確認(意味は近く許容範囲)。"
+                  },
+                  {
+                      "eo":  "tegmento",
+                      "current":  "顶",
+                      "verdict":  "doubtful",
+                      "suggest":  "",
+                      "reason":  "cn義は屋顶(屋根)。顶単字の中心義は『頂・てっぺん』で、屋根そのものではなく『家のてっぺん=屋根』という推論を要する。一级内に屋根を表す適切な単字代替が乏しく許容範囲だが、語義のずれとして要確認。"
+                  },
+                  {
+                      "eo":  "tikli",
+                      "current":  "痒",
+                      "verdict":  "doubtful",
+                      "suggest":  "挠",
+                      "reason":  "cnの中心は『使发痒/胳肢(くすぐる)』という他動作用。『痒』はかゆい状態の語で、くすぐる行為そのものとはややずれる。tikli=くすぐる動作なら『挠(かく/くすぐる)』の方が動作義に近い。要確認。"
+                  },
+                  {
+                      "eo":  "tiom",
+                      "current":  "那量",
+                      "verdict":  "policy",
+                      "suggest":  "那",
+                      "reason":  "『那量』は造語的2字でR1冗長の疑い。相関詞tiom(それだけの量)は『那』系で表すが、量を示す字が必要なら『许』等の既存語との整合も含め再検討。透明性も低め。"
+                  },
+                  {
+                      "eo":  "titolo",
+                      "current":  "题",
+                      "verdict":  "doubtful",
+                      "suggest":  "衔",
+                      "reason":  "cnは『书名,篇名;称号,头衔;资格』。『题』は表題義はカバーするが、称号・頭衔義は弱い。ただし表題が第一義なら許容範囲。要確認。"
+                  },
+                  {
+                      "eo":  "trafiko",
+                      "current":  "交",
+                      "verdict":  "doubtful",
+                      "suggest":  "通",
+                      "reason":  "cn『交通,往来;运输』。『交』単独では『交わる』が中心で交通義の透明性が弱い。『通』の方が交通・往来義に直結し透明。要確認。"
+                  },
+                  {
+                      "eo":  "trajto",
+                      "current":  "特",
+                      "verdict":  "mismatch",
+                      "suggest":  "貌",
+                      "reason":  "cn第一義は『相貌,容貌(顔立ち・容貌)』、第二義が『特征』。『特』は『特別』が中心義で容貌義を表さず、第二義の特征に偏る。中心義の容貌を表す『貌』が適切。"
+                  },
+                  {
+                      "eo":  "trotuaro",
+                      "current":  "径",
+                      "verdict":  "doubtful",
+                      "suggest":  "",
+                      "reason":  "cnは人行道(都市の歩道)。径の中心義は山道・小道(自然の細道)で、都市の歩道とはニュアンスがずれる。歩く道という点で透明性はあり許容範囲だが、便道=歩道の意を径が的確に表すか要確認。"
+                  },
+                  {
+                      "eo":  "turismo",
+                      "current":  "游",
+                      "verdict":  "policy",
+                      "suggest":  "旅",
+                      "reason":  "同語源の turist (旅) と別基底字。R5は同語源を共通核漢字で系統化すべしと規定。turismo(游)/turisto(旅)で基底字が割れており一貫性違反。どちらかに統一し識別子で区別すべき。"
+                  },
+                  {
+                      "eo":  "turisto",
+                      "current":  "旅",
+                      "verdict":  "policy",
+                      "suggest":  "游",
+                      "reason":  "同語源の turismo (游) と別基底字。turism- 系列は共通基底字で統一し識別子で解消するのが方針。游/旅いずれかへ揃えるべき。"
+                  },
+                  {
+                      "eo":  "vakcino",
+                      "current":  "苗",
+                      "verdict":  "doubtful",
+                      "suggest":  "疫",
+                      "reason":  "苗の中心義は『芽・苗木』でワクチンと無関係。『疫苗』の複合内でのみ意味が立つ字でR4透明性に難。語義を担うのは疫(疫病)側。1字なら疫が透明。"
+                  },
+                  {
+                      "eo":  "uniformo",
+                      "current":  "服",
+                      "verdict":  "doubtful",
+                      "suggest":  "制服",
+                      "reason":  "服単体の中心義は『衣服』全般で、制服(uniform)を特定できない。uniformの弁別義を担うのは制(規格・統一)。透明性確保には制服が妥当。"
+                  },
+                  {
+                      "eo":  "universitato",
+                      "current":  "学",
+                      "verdict":  "doubtful",
+                      "suggest":  "",
+                      "reason":  "学単体の中心義は『学ぶ・学問』で大学(university)を特定しにくい(同字共有は許容だが弁別義は大学の大が担う)。透明性が薄く要確認。"
+                  },
+                  {
+                      "eo":  "venĝi",
+                      "current":  "仇",
+                      "verdict":  "doubtful",
+                      "suggest":  "报",
+                      "reason":  "venĝiは動詞「復讐する」。仇の中心義は名詞「敵・恨み」で、動作性は复仇/报仇の連語に依存。動詞義を直接担う报(报复/报仇)の方が透明。要確認。"
+                  },
+                  {
+                      "eo":  "verbo",
+                      "current":  "动",
+                      "verdict":  "doubtful",
+                      "suggest":  "",
+                      "reason":  "动単独の中心義は「動く」で、「動詞」義は动词の連語でのみ成立。ただし名/动/形は中国語の品詞略号慣習として透明とも言え、許容範囲。品詞略号方針の一貫性を要確認。"
+                  },
+                  {
+                      "eo":  "vidvo",
+                      "current":  "寡",
+                      "verdict":  "mismatch",
+                      "suggest":  "鳏",
+                      "reason":  "vidvoは男やもめ(鰥夫)。cnも明示的に「鳏,鳏夫」。寡は女性のやもめ(寡妇)で性別が逆。鳏は二级だがcn語義に正確一致。"
+                  },
+                  {
+                      "eo":  "veŝto",
+                      "current":  "坎",
+                      "verdict":  "doubtful",
+                      "suggest":  "",
+                      "reason":  "坎単独は「穴・くぼみ・敷居」でベストの意味なし。背心(=坎肩)の語義は坎肩という二字でのみ成立し坎単独では推測不能。透明性に難。1字代替も困難で要検討。"
+                  },
+                  {
+                      "eo":  "vetero",
+                      "current":  "气",
+                      "verdict":  "doubtful",
+                      "suggest":  "",
+                      "reason":  "cn=天气(天候)。气単独は空気・気体・怒りで「天候」を表さない。天候義は天气の二字で成立し气単独からは語義推測不能。"
+                  },
+                  {
+                      "eo":  "vitro",
+                      "current":  "玻",
+                      "verdict":  "doubtful",
+                      "suggest":  "",
+                      "reason":  "玻は実質玻璃以外で単独使用されない束縛形態素(由来は音訳系)。単独では語義透明性が弱い。"
+                  },
+                  {
+                      "eo":  "volumeno",
+                      "current":  "积",
+                      "verdict":  "doubtful",
+                      "suggest":  "容",
+                      "reason":  "cnは体积・容积・容量(空間体積/容量)。积の中心義は『蓄積・(数学の)積』で、単字では空間的volumeが透明に読み取れない。容(容积/容量)の方が容量・体積を直接喚起し透明性が高い。"
+                  },
+                  {
+                      "eo":  "vualo",
+                      "current":  "纱",
+                      "verdict":  "doubtful",
+                      "suggest":  "",
+                      "reason":  "cnは面纱・头巾(ベール)。纱の中心義は『紗・薄絹/糸』で、単字ではベールそのものより素材(ガーゼ/糸)を指す。面纱の特徴字で喚起力はあるが、単字義がveilと一段ずれるため要確認。"
+                  },
+                  {
+                      "eo":  "ĉielo",
+                      "current":  "全样",
+                      "verdict":  "mismatch",
+                      "suggest":  "天",
+                      "reason":  "全样は相関詞ĉiel(=各種の方法で)の割当であり、語根ĉielo(天・天空・天堂)とは無関係。cn中心義は『天，天空』。検証セットでも元はĉiel天。語義不透明で誤り。天へ修正。"
+                  },
+                  {
+                      "eo":  "ĵurnalo",
+                      "current":  "记",
+                      "verdict":  "doubtful",
+                      "suggest":  "报",
+                      "reason":  "cnの中心義は『报纸(日刊新聞)』。记は『記録/メモ』で日記・日志には合うが、第一義の新聞を透明に推測できない。新聞を中心義とするなら报が妥当。"
+                  },
+                  {
+                      "eo":  "ŝanco",
+                      "current":  "机",
+                      "verdict":  "doubtful",
+                      "suggest":  "",
+                      "reason":  "机会の語素ではあるが、机単字の最も顕著な義は『機械/飛行機』(日本語では『机=つくえ』)で多義過剰。『チャンス/好機』を単字から透明に推測しにくい日中乖離気味の選択。要確認。"
+                  },
+                  {
+                      "eo":  "ŝinko",
+                      "current":  "腿",
+                      "verdict":  "mismatch",
+                      "suggest":  "火腿",
+                      "reason":  "cnは『火腿(ハム)』。腿の中心義は『脚/もも』で別物。腿単字ではハムを推測不能。火腿(2字)が妥当で、ここは1字化が成立しない例外。"
+                  },
+                  {
+                      "eo":  "ŝoforo",
+                      "current":  "驾",
+                      "verdict":  "doubtful",
+                      "suggest":  "",
+                      "reason":  "cnは『司机・駕駛員』という人(職業)を指す名詞だが、駕は『(車を)駕する』動作字で人を表さない。駕駛の核心義は伝わり透明性はあるため許容範囲だが、行為字で人名詞を表す点が要確認。"
+                  },
+                  {
+                      "eo":  "Biblio",
+                      "current":  "书",
+                      "verdict":  "doubtful",
+                      "suggest":  "经",
+                      "reason":  "cnは『圣经』(聖書)という特定の聖典。书は『本/書く』の汎用字でskrib/librの核字と共有しており、Bible/聖典という中心義を透明に推測できない。経(経典/聖典)の方が語義透明。"
+                  },
+                  {
+                      "eo":  "abstrakta",
+                      "current":  "抽",
+                      "verdict":  "doubtful",
+                      "suggest":  "抽象",
+                      "reason":  "抽の単字中心義は『引き抜く/抽出する』で『抽象的』とは別物。抽象は2字で初めて意味が立ち、抽の単字は語の断片で不透明・誤導的。透明性を保つなら抽象(2字)とすべき。"
+                  },
+                  {
+                      "eo":  "akuzativo",
+                      "current":  "宾",
+                      "verdict":  "doubtful",
+                      "suggest":  "",
+                      "reason":  "宾の中心義は『客』で、宾格(対格)の単字としては不透明。ただし中国語の文法用語『宾语/宾格』の確立した語根であり、文法カテゴリの慣用としては許容範囲。要確認。"
+                  },
+                  {
+                      "eo":  "arkta",
+                      "current":  "极",
+                      "verdict":  "policy",
+                      "suggest":  "北",
+                      "reason":  "cnは『北极的』(北極の)。极は『極/極限』の核字(polus/ekstrem/maksimum等と共有)で『北』の方向を表せず、対のantarkta=南(南)と整合しない。北極=北/南極=南の透明なN/S対にすべき。"
+                  },
+                  {
+                      "eo":  "ceremonio",
+                      "current":  "式",
+                      "verdict":  "doubtful",
+                      "suggest":  "礼",
+                      "reason":  "式単独は『様式・形式』が中心義で、典礼・儀式の語義は『仪式』の組合せ依存。礼の方が儀礼の語義が透明。ただし式典の連用で許容範囲のためdoubtful。"
+                  },
+                  {
+                      "eo":  "dialekto",
+                      "current":  "言",
+                      "verdict":  "doubtful",
+                      "suggest":  "",
+                      "reason":  "方言の中心は『方』にあり言単独は『ことば・発言』一般を指し方言性が推測しにくい。ただし言語系列の基底字として共有なら許容、要確認。"
+                  },
+                  {
+                      "eo":  "diplomato",
+                      "current":  "交",
+                      "verdict":  "mismatch",
+                      "suggest":  "",
+                      "reason":  "交の中心義は「交換/手渡し/交わる」。diplomat(外交官)の語義は単字交から論理的に推測できない(外交の「外」が核)。R4透明性不足。1字困難なら「使」(使节)等の透明字か未対応を検討。"
+                  },
+                  {
+                      "eo":  "ekologio",
+                      "current":  "态",
+                      "verdict":  "doubtful",
+                      "suggest":  "",
+                      "reason":  "态の中心義は「状態/態度(态度)」。ecologyは生态(学)で、态単字からは「状態」と読まれ生態学を推測できない。透明性に懸念。"
+                  },
+                  {
+                      "eo":  "emfazo",
+                      "current":  "强",
+                      "verdict":  "doubtful",
+                      "suggest":  "",
+                      "reason":  "强の中心義は「強い/力」。emphasis(强调)の「調」が核で、强単字は「強い」と読まれ「強調する」が推測しにくい。"
+                  },
+                  {
+                      "eo":  "diskriminacio",
+                      "current":  "歧",
+                      "verdict":  "doubtful",
+                      "suggest":  "",
+                      "reason":  "歧の中心義は「分岐/枝分かれ(歧路)」。discrimination(歧视)は「視」が核で、歧単字では「差別」より「分岐」と読まれやすい。"
+                  },
+                  {
+                      "eo":  "dinamito",
+                      "current":  "炸",
+                      "verdict":  "doubtful",
+                      "suggest":  "",
+                      "reason":  "炸は動詞「爆発する/揚げる」。dynamiteは物質(炸药)で、炸单字では行為「爆発」と読まれ「火薬/爆薬」という物が推測しにくい。"
+                  },
+                  {
+                      "eo":  "enciklopedio",
+                      "current":  "典",
+                      "verdict":  "doubtful",
+                      "suggest":  "",
+                      "reason":  "典の中心義は「規範/辞書(词典)/儀式」。encyclopedia(百科全书)は百科が核で、典単字は「辞典」と混同されうる。"
+                  },
+                  {
+                      "eo":  "eseo",
+                      "current":  "论",
+                      "verdict":  "doubtful",
+                      "suggest":  "",
+                      "reason":  "论の中心義は「議論/論述/理論」。cn主義は随笔(軽い随想)。论は堅い論説寄りで随笔とずれ、かつ论は多語根と高頻度共有の懸念。"
+                  },
+                  {
+                      "eo":  "fatalo",
+                      "current":  "致命",
+                      "verdict":  "mismatch",
+                      "suggest":  "命",
+                      "reason":  "cnは『宿命・厄运(運命/定め)』。致命は形容詞fatala『致命的(deadly)』の義で名詞fatalo=運命と中心義がずれ、かつ冗長2字。命(宿命/天命)が透明。"
+                  },
+                  {
+                      "eo":  "hobio",
+                      "current":  "好",
+                      "verdict":  "policy",
+                      "suggest":  "爱",
+                      "reason":  "好は方針§4.4の日中乖離回避リスト筆頭(好→良)。中国語の中心義は『良い』で趣味ではなく、cn=业余爱好の核は『爱(好)』。好単独では語義不透明かつ乖離字の不要使用に該当。爱を推奨。"
+                  },
+                  {
+                      "eo":  "grimaco",
+                      "current":  "皱",
+                      "verdict":  "doubtful",
+                      "suggest":  "脸",
+                      "reason":  "cnの中心義は鬼脸/怪相(しかめ面・変な顔)。皱は『しわ・眉をひそめる』で顔の表情そのものより皺寄せ寄り。grimaco=顔のゆがみの核は『脸/相』。皱単独だと語義推測が弱い。"
+                  },
+                  {
+                      "eo":  "futbalo",
+                      "current":  "球",
+                      "verdict":  "doubtful",
+                      "suggest":  "",
+                      "reason":  "cn=足球(サッカー)。球単独は『ボール一般』で足球の限定義が落ち、球技他種(bal等)と区別不能になりやすい。最終識別子で解消されるなら許容範囲だが透明性は弱め。要確認。"
+                  },
+                  {
+                      "eo":  "ideologio",
+                      "current":  "观",
+                      "verdict":  "doubtful",
+                      "suggest":  "",
+                      "reason":  "cn中心義は意识形态(ideology)。观は『見方・観点』で観念形态に接するが、观単独ではideologyの体系的含意が薄く語義がやや細い。許容圏だが要確認。"
+                  },
+                  {
+                      "eo":  "glui",
+                      "current":  "胶",
+                      "verdict":  "doubtful",
+                      "suggest":  "",
+                      "reason":  "cnは動詞『粘,贴(くっつける)』。胶は名詞『にかわ・接着剤』で物質を指す。語義方向(動作 vs 物)がずれる。粘の方がcn中心義に直接対応。許容圏だが要確認。"
+                  },
+                  {
+                      "eo":  "kalko",
+                      "current":  "钙",
+                      "verdict":  "mismatch",
+                      "suggest":  "灰",
+                      "reason":  "钙は元素カルシウムの字で、別語根kalci(=钙)と中心義が衝突。kalkのcn義は石灰(CaO/CaCO3)であり元素ではない。石灰を表す一级字『灰』が適切で日中とも透明。"
+                  },
+                  {
+                      "eo":  "kaprico",
+                      "current":  "随",
+                      "verdict":  "doubtful",
+                      "suggest":  "任",
+                      "reason":  "cn中心義は任性・反復無常(気まぐれ)。随は『従う/随意』で、むしろ意に従う意で気まぐれの核(意に任せて変わる=任性)とずれる。任(任性)の方がcn義に近い。"
+                  },
+                  {
+                      "eo":  "kariero",
+                      "current":  "涯",
+                      "verdict":  "doubtful",
+                      "suggest":  "",
+                      "reason":  "cnは職業生涯(career)。涯は単字では『涯=端/際/限り』で、生涯の語の一部としてのみ職業生涯を示唆。単字での語義推測がやや不透明。"
+                  },
+                  {
+                      "eo":  "jeto",
+                      "current":  "喷",
+                      "verdict":  "doubtful",
+                      "suggest":  "",
+                      "reason":  "cnは喷气式飞机(ジェット機)。喷は『噴出/吹き出す』でジェット推進原理を喩示するが、単字では『噴く』であり『ジェット機』自体の推測がやや弱い。"
+                  },
+                  {
+                      "eo":  "kokso",
+                      "current":  "股",
+                      "verdict":  "mismatch",
+                      "suggest":  "胯",
+                      "reason":  "cnは髋部・胯部(=股関節/腰まわり)。股は中国語で主に『もも/分け前』を意味し中心義がずれる。日中乖離も絡む。胯(腰・股関節周辺)が透明。難字なら髋だが一级外の懸念あり。"
+                  },
+                  {
+                      "eo":  "klimatizi",
+                      "current":  "调",
+                      "verdict":  "doubtful",
+                      "suggest":  "",
+                      "reason":  "cnは空気調節/空調設置。调単字は『調整・調律』一般で気候・空気の含意がなく、空调の中心義(空気調節)を透明に推測しづらい。气や空の付与で透明化を要検討。"
+                  },
+                  {
+                      "eo":  "konsonanto",
+                      "current":  "辅",
+                      "verdict":  "doubtful",
+                      "suggest":  "",
+                      "reason":  "cnは辅音(子音)。辅単字の中心義は『補助・輔佐』で、音の概念が無く子音と推測困難。元音(母音)との対で辅音とすべきだが、1字統一方針との兼ね合いで音字付与を要確認。"
+                  },
+                  {
+                      "eo":  "kvitanci",
+                      "current":  "证",
+                      "verdict":  "doubtful",
+                      "suggest":  "据",
+                      "reason":  "cnの中心義は『収据(レシート)を発行する/受領証明書を出す』。证は『証明・証書』で凭证として近いが、收据=领収書のより直接的な字は据(收据)。证は契約や身分証も広く指し焦点がぼやけるため要確認。"
+                  },
+                  {
+                      "eo":  "melodio",
+                      "current":  "律",
+                      "verdict":  "doubtful",
+                      "suggest":  "调",
+                      "reason":  "律の中心義は『法・規律・音律』で、旋律(melody)の義は旋律の二字でのみ現れる。単字では『規律』と誤読され得る。melodyの中心義『調べ』を表す调の方が透明。"
+                  },
+                  {
+                      "eo":  "monopolo",
+                      "current":  "垄",
+                      "verdict":  "doubtful",
+                      "suggest":  "专",
+                      "reason":  "垄の中心義は『畑の畝』で、独占の義は垄断の熟語でのみ生じる。単字では語義推測困難で不透明。専売・独占を直に示す专(专卖)の方が透明。"
+                  },
+                  {
+                      "eo":  "miaŭi",
+                      "current":  "喵",
+                      "verdict":  "policy",
+                      "suggest":  "",
+                      "reason":  "喵は猫の鳴き声の標準擬音で意味透明だが、《通用规范汉字表》二级で一级外。§12は一级優先・一级外字は要フラグのため方針上の論点として提示(擬声語の例外扱い可否)。"
+                  },
+                  {
+                      "eo":  "orta",
+                      "current":  "角",
+                      "verdict":  "doubtful",
+                      "suggest":  "直",
+                      "reason":  "ortaは「垂直・直角の」が中心義(cn=直角的)。角は一般的な『角度・かど』で、定義要素である『直角・垂直』を表せず透明性不足。直(垂直・まっすぐ)の方が中心義に合致。"
+                  },
+                  {
+                      "eo":  "panico",
+                      "current":  "黍",
+                      "verdict":  "policy",
+                      "suggest":  "",
+                      "reason":  "黍は《通用规范汉字表》一级外(米偏で穀物分野は示し、cn=黍,稷と完全一致するため探索順③として正当化の余地あり)。一级外字につき方針上フラグ。代替の粟/谷は一级だが属が不一致(Panicum≠粟)で精度低下。"
+                  },
+                  {
+                      "eo":  "pikniko",
+                      "current":  "餐",
+                      "verdict":  "doubtful",
+                      "suggest":  "野餐",
+                      "reason":  "cn=野餐。単字『餐』は『食事』一般を指し、ピクニックの弁別要素『野(屋外)』が落ちて『meal』と区別できず語義復元が困難。透明性の観点で要確認。"
+                  },
+                  {
+                      "eo":  "redakcio",
+                      "current":  "部",
+                      "verdict":  "doubtful",
+                      "suggest":  "编",
+                      "reason":  "cnは「编辑部」(編集部)。「部」だけでは部門一般を指し編集の意が脱落し不透明。ただしredaktoro=编と衝突。redakcio=编/redaktoro=编者など要検討。"
+                  },
+                  {
+                      "eo":  "satelito",
+                      "current":  "星",
+                      "verdict":  "doubtful",
+                      "suggest":  "卫",
+                      "reason":  "cn中心義は卫星。星単独はstar=stelo(同字基本形)を表し『衛星』が推測できない。区別形態素は卫(守る)。R4透明性上、卫の方が衛星義を担う。"
+                  },
+                  {
+                      "eo":  "silabo",
+                      "current":  "节",
+                      "verdict":  "doubtful",
+                      "suggest":  "音",
+                      "reason":  "cnは音节。节の中心義は節/段/関節で、strof・artik・diet・artr・gangli等と多重共有し『音節』が推測しにくい。区別形態素は音(音节=sound-segment)。"
+                  },
+                  {
+                      "eo":  "tajfuno",
+                      "current":  "风",
+                      "verdict":  "doubtful",
+                      "suggest":  "飓",
+                      "reason":  "cn=台风(台風)。风は単なる「風」で激烈な暴風雨を表せず透明性不足。vent(风)と全く同字で無差別化、かつ同系のuragan(颶風)には飓を割当済み。台風には嵐系の字(飓/飙/暴)で差別化すべき。台は音訳ゆえ不可、その点は妥当。"
+                  },
+                  {
+                      "eo":  "stabo",
+                      "current":  "参",
+                      "verdict":  "doubtful",
+                      "reason":  "cn=参谋部(参謀部/スタッフ・司令部)。参は単独では「参加・参照」が中心義で、「幕僚・本部」の意は熟語参谋にのみ宿る部分抽出。単字から語義推測不能で不透明。",
+                      "suggest":  ""
+                  },
+                  {
+                      "eo":  "superstiĉo",
+                      "current":  "迷",
+                      "verdict":  "doubtful",
+                      "reason":  "cn=迷信(迷信)。迷は単独では「迷う・夢中・ファン」が中心義で、「迷信」の意は熟語迷信のみに依存。単字の独立義と乖離し透明性に欠ける。",
+                      "suggest":  ""
+                  },
+                  {
+                      "eo":  "teleskopo",
+                      "current":  "镜",
+                      "verdict":  "doubtful",
+                      "suggest":  "远镜",
+                      "reason":  "cn=望远镜。方針はmikroskop→微镜と弁別要素+镜の2字を範例とする。镜単字は鏡/レンズ一般で顕微鏡等と区別できず透明性不足。望遠の弁別字(远/望)を補うのが整合的。"
+                  },
+                  {
+                      "eo":  "teniso",
+                      "current":  "网",
+                      "verdict":  "doubtful",
+                      "suggest":  "网球",
+                      "reason":  "cn=网球(テニス)。网単字は『網・ネット・インターネット』一般で、テニスへ論理推測できず透明性不足。弁別の球を補うべき。"
+                  },
+                  {
+                      "eo":  "tropiko",
+                      "current":  "热",
+                      "verdict":  "mismatch",
+                      "suggest":  "热带",
+                      "reason":  "cn中心義=回归线/热带地区。热単字は『熱い・熱』で、熱帯/回帰線へ推測不能(R4不透明)。带を補い热带とすべき。"
+                  },
+                  {
+                      "eo":  "tulipo",
+                      "current":  "郁",
+                      "verdict":  "doubtful",
+                      "suggest":  "郁金香",
+                      "reason":  "cn=郁金香。郁単字は『茂る・憂鬱・芳しい』で、チューリップとは無関係な語頭片(部分音訳的)で不透明。語全体は郁金香だが郁単字では語義推測不能。"
+                  },
+                  {
+                      "eo":  "vegeti",
+                      "current":  "茂",
+                      "verdict":  "doubtful",
+                      "suggest":  "",
+                      "reason":  "cn=生长/(転)無生気に過ごす。茂は『繁茂・旺盛』で生長は表すが、vegetiの中心的含意(惰性的・無為に生きる)とは語感が逆向き。中立な生長字の方が安全。"
+                  },
+                  {
+                      "eo":  "viruso",
+                      "current":  "毒",
+                      "verdict":  "doubtful",
+                      "suggest":  "",
+                      "reason":  "cn核心は病毒(ウイルス)だが毒単独は「poison」と読まれvenen/toksと同字共有。病毒の中心字とも言え許容範囲だが語義透明性はやや弱い。識別子で解消可。"
+                  },
+                  {
+                      "eo":  "Pasko",
+                      "current":  "庆",
+                      "verdict":  "doubtful",
+                      "suggest":  "",
+                      "reason":  "cnは復活節という特定の祭日。庆は祝う/祭典(fest/celebr/festival共有)で「祝祭」としては透明だが「復活節」特定性は弱い。宗教祭日方針次第。"
+                  },
+                  {
+                      "eo":  "angilo",
+                      "current":  "鳗",
+                      "verdict":  "policy",
+                      "suggest":  "",
+                      "reason":  "鳗(ウナギ)は意味はcn(鳗鲡属鱼类)と完全一致だが《通用规范汉字表》一级3500外(二级字)。§12ラダー違反。一级内に透明な単字相当が無いため、③探索順での個別正当化か未対応へ倒すか要判断。"
+                  },
+                  {
+                      "eo":  "aveno",
+                      "current":  "麦",
+                      "verdict":  "doubtful",
+                      "suggest":  "燕",
+                      "reason":  "aveno=オート麦(燕麦)。麦は単独だと小麦(tritiko)を指し、tritikoと衝突かつ語義が小麦に寄る。燕麦の特定字(燕)等で区別が望ましい。"
+                  },
+                  {
+                      "eo":  "bapti",
+                      "current":  "洗",
+                      "verdict":  "doubtful",
+                      "suggest":  "礼",
+                      "reason":  "bapti=洗礼を施す/命名。洗は単独で「洗う」(lavi)で、洗礼の中心義が透明に伝わらず洗う系と衝突。礼(洗礼)等が透明。"
+                  },
+                  {
+                      "eo":  "beto",
+                      "current":  "菜",
+                      "verdict":  "doubtful",
+                      "suggest":  "甜",
+                      "reason":  "beto=甜菜(ビート)。菜は単独で「野菜」一般(legomo)を指し汎用過ぎてビート特定義が消え、野菜系と衝突。甜菜の弁別字が望ましい。"
+                  },
+                  {
+                      "eo":  "bifsteko",
+                      "current":  "牛",
+                      "verdict":  "doubtful",
+                      "suggest":  "排",
+                      "reason":  "bifsteko=牛排(ビフテキ)。牛は単独で「牛」(bovo)を指し「ステーキ/排」の核が欠落、bovoと衝突。排(肉排)等で透明化を。"
+                  },
+                  {
+                      "eo":  "brando",
+                      "current":  "酒",
+                      "verdict":  "doubtful",
+                      "suggest":  "",
+                      "reason":  "brando=ブランデー/蒸留酒。酒は単独で酒一般を指しvino/alkoholo等と衝突、ブランデー(蒸留酒)の特定性が消える。蒸留を示す弁別が望ましい。"
+                  },
+                  {
+                      "eo":  "burĝo",
+                      "current":  "资",
+                      "verdict":  "doubtful",
+                      "suggest":  "绅",
+                      "reason":  "cn中心義は『資産階級の市民(人)』。资は資本・資金の意で、階級・人を直接表さず語義推測がやや不透明。人を表す字(例:绅)の検討余地。ただし资产阶级の語根字ではある。"
+                  },
+                  {
+                      "eo":  "dianto",
+                      "current":  "石",
+                      "verdict":  "doubtful",
+                      "suggest":  "",
+                      "reason":  "cn中心義はナデシコ/カーネーション(石竹属の花)。石の中心義は『石』で花とは無関係、単字では誤導的で語義推測不能。石竹の片字だが透明性を欠く。適切な単字は乏しく要再検討。"
+                  },
+                  {
+                      "eo":  "doto",
+                      "current":  "妆",
+                      "verdict":  "doubtful",
+                      "suggest":  "嫁",
+                      "reason":  "cn中心義は『嫁妆=持参金』。妆単字の中心義は化粧/装い飾りで、持参金を透明に推測しにくい。嫁(嫁入り)の方が嫁資の語義を喚起しやすい。"
+                  },
+                  {
+                      "eo":  "emajlo",
+                      "current":  "釉",
+                      "verdict":  "policy",
+                      "suggest":  "",
+                      "reason":  "釉は珐琅/搪瓷/牙釉质を正確に表し語義透明だが、《通用规范汉字表》一级外字。§12により要フラグ。意味的代替が乏しく③として正当化し採用可だが個別判断対象。"
+                  },
+                  {
+                      "eo":  "fago",
+                      "current":  "山毛榉",
+                      "verdict":  "policy",
+                      "suggest":  "",
+                      "reason":  "山毛榉はbeechの正確な訳だが、榉が一级外字かつ3字で冗長(R1)。植物分類名の意味訳境界(§7/§15)に該当し個別判断要。一级内での簡略化(例:木+α)を検討。"
+                  },
+                  {
+                      "eo":  "fajenco",
+                      "current":  "陶土",
+                      "verdict":  "doubtful",
+                      "suggest":  "陶",
+                      "reason":  "cn義は『彩釉陶器(ファイアンス焼)』=釉薬陶器という完成品。陶土は『陶器用の粘土(素材)』を指し、完成した陶器そのものとずれる。陶単字で陶器系を表す方が中心義に近い。"
+                  },
+                  {
+                      "eo":  "fendo",
+                      "current":  "劈",
+                      "verdict":  "doubtful",
+                      "suggest":  "裂",
+                      "reason":  "cnは『缝,裂缝,隙』=割れ目・裂け目(名詞)。劈は『たたき割る』動作(動詞)で、裂け目そのものを表さない。裂(さける/裂け目)の方がcn中心義に合致し透明。"
+                  },
+                  {
+                      "eo":  "foso",
+                      "current":  "掘",
+                      "verdict":  "mismatch",
+                      "suggest":  "沟",
+                      "reason":  "foso/cnは『坑,壕沟』=溝・濠(名詞)。掘は『掘る』動作(動詞)で対象物を表さず語義が逆向き。沟(みぞ・濠)が中心義。"
+                  },
+                  {
+                      "eo":  "fonografo",
+                      "current":  "声",
+                      "verdict":  "mismatch",
+                      "suggest":  "留声机",
+                      "reason":  "cnは『留声机』=蓄音機(装置)。声=『音・声』だけでは録音再生装置という語義が推測不能で不透明。装置を示す語が必要。"
+                  },
+                  {
+                      "eo":  "fojno",
+                      "current":  "草",
+                      "verdict":  "doubtful",
+                      "suggest":  "干草",
+                      "reason":  "fojno=干し草(cn『干草』)だが、草はherb(草)と共有しgrassと区別できず『干し草』の特定性が失われる。共有自体は許容だが乾草の語義透明性は弱い。"
+                  },
+                  {
+                      "eo":  "fulgo",
+                      "current":  "煤",
+                      "verdict":  "mismatch",
+                      "suggest":  "烟灰",
+                      "reason":  "煤の中心義は『石炭』。cnは『煤烟・烟灰・烟垢』=すす/煤煙であり石炭ではない。中心義が別物。透明2字『烟灰』(煙+灰=すす)が一级内で意味一致。"
+                  },
+                  {
+                      "eo":  "gesti",
+                      "current":  "姿",
+                      "verdict":  "doubtful",
+                      "suggest":  "",
+                      "reason":  "姿の中心義は『姿勢・容姿(静的なポーズ・見た目)』。cnは『做手势=身ぶり/ジェスチャーをする』という動作。手势(手の合図)の能動的動作義を姿は捉えきれず、語義推測がややずれる。"
+                  },
+                  {
+                      "eo":  "grinci",
+                      "current":  "轧",
+                      "verdict":  "doubtful",
+                      "suggest":  "",
+                      "reason":  "轧の中心義は『(車輪で)轢く・圧延する』。cnの主義は『发出刺耳声=きしむ・きしみ音/磨牙』。轧轧の擬音義は副次的で、読者は轧から先に『轢く』を想起しやすく中心義がずれる。"
+                  },
+                  {
+                      "eo":  "haringo",
+                      "current":  "鲱鱼",
+                      "verdict":  "policy",
+                      "suggest":  "",
+                      "reason":  "鲱は一级外(二级)。種名として正確で透明だが、方針の字種ラダー上は一级外字につき要個別承認(③として正当化可)。"
+                  },
+                  {
+                      "eo":  "jugo",
+                      "current":  "套",
+                      "verdict":  "doubtful",
+                      "suggest":  "",
+                      "reason":  "cn中心義は轭(くびき)。套の核義は『覆う/ひと組/掛ける』で、束縛・くびきは転義。轭は二级で代替不可のため套は許容範囲だが中心義との一致は弱い。jungi(套牲口)との同字共有で一貫性は得られる。"
+                  },
+                  {
+                      "eo":  "kaprica",
+                      "current":  "随",
+                      "verdict":  "doubtful",
+                      "suggest":  "任",
+                      "reason":  "cn=任性，无常(気まぐれ)。随の核義は『従う/つき従う』で、気まぐれ・わがままは推測しにくく透明性が弱い。任性の任の方が中心義に近い。"
+                  },
+                  {
+                      "eo":  "kilometro",
+                      "current":  "千",
+                      "verdict":  "mismatch",
+                      "suggest":  "千米",
+                      "reason":  "千は『千(thousand)』の意で、cn『千米(キロメートル)』を表せない。メートル要素(米)が欠落し、読み手は『千』を距離単位と推測不能。kilo=千＋metr=米で千米とすべき。"
+                  },
+                  {
+                      "eo":  "kirurgo",
+                      "current":  "外科",
+                      "verdict":  "doubtful",
+                      "suggest":  "外科医",
+                      "reason":  "外科は『外科(surgery=診療科)』を指し、cn『外科医生(外科医=人)』の人・職能の核が欠落。語義は外科分野に透明だが、職業を表すなら医を補う検討要。"
+                  },
+                  {
+                      "eo":  "laboratorio",
+                      "current":  "实验",
+                      "verdict":  "doubtful",
+                      "suggest":  "实验室",
+                      "reason":  "实验は『実験(行為)』を意味し、cn語義の実验室(=場所)とは概念がずれる。室を落とすと学習者は『laboratory(場所)』でなく『experiment(行為)』と読む恐れ。3字回避方針はあるが、ここは意味が別物になるため実验室が妥当。"
+                  },
+                  {
+                      "eo":  "meĥaniko",
+                      "current":  "械",
+                      "verdict":  "doubtful",
+                      "suggest":  "",
+                      "reason":  "cnの中心義は学問としての「力学／机械学」だが、械単独は道具・機械部品・武器の意で学問分野を透明に表せない。meĥanismo=机との対で差別化しているが語義透明性が弱い。要確認。"
+                  },
+                  {
+                      "eo":  "milimetro",
+                      "current":  "毫",
+                      "verdict":  "doubtful",
+                      "suggest":  "毫米",
+                      "reason":  "毫単独は「ミリ(1/1000)」の接頭辞義にとどまりmetro(米)成分を欠く。cn=毫米でmillimeterは単位。1根=毫米とした方がcn中心義に透明一致。"
+                  },
+                  {
+                      "eo":  "mirtelo",
+                      "current":  "蓝莓",
+                      "verdict":  "policy",
+                      "suggest":  "越橘",
+                      "reason":  "莓が一级外(方針12:一级外字は要フラグ)。加えて蓝莓=blueberryでcn第一義の越橘(bilberry/欧洲越橘)とずれる。越橘は越・橘とも一级でcn第一義に一致。"
+                  },
+                  {
+                      "eo":  "orienti",
+                      "current":  "东",
+                      "verdict":  "mismatch",
+                      "suggest":  "向",
+                      "reason":  "东は『東』の意で方角の一つ。orientiの語義は『方位を定める・向きを定める/明確にする』(cn 定方位・使朝向)。動詞『定向する』を東(east)で表すのは中心義が別物。向(方向に向ける)が透明。"
+                  },
+                  {
+                      "eo":  "olivo",
+                      "current":  "榄",
+                      "verdict":  "doubtful",
+                      "suggest":  "橄榄",
+                      "reason":  "榄は一级内だが単独でオリーブを表さず、中国語のオリーブは橄榄(二字固定語)。単字榄は語義推測不能で不透明。橄も一级内のため橄榄で透明化すべき。"
+                  },
+                  {
+                      "eo":  "palmo",
+                      "current":  "椰",
+                      "verdict":  "doubtful",
+                      "suggest":  "棕",
+                      "reason":  "椰はココヤシ(椰子)1種に限定され、palmo=ヤシ科全般(cn 棕榈科植物通称)より狭い。一级内の棕(棕榈)がヤシ全般を表す透明字で適切。"
+                  },
+                  {
+                      "eo":  "pekli",
+                      "current":  "盐",
+                      "verdict":  "doubtful",
+                      "suggest":  "腌/腊",
+                      "reason":  "盐は名詞『塩』で、別語根salo(塩)と同字衝突しpekli=『塩漬けにする(動詞)』の動作義(cn 盐腌・盐渍)が失われ不透明。腌は一级外、代替に腊(塩漬け・保存)等を検討。"
+                  },
+                  {
+                      "eo":  "opozicii",
+                      "current":  "对",
+                      "verdict":  "doubtful",
+                      "suggest":  "抗",
+                      "reason":  "对の中心義は『正しい・向かう・対』で、cn『反対派の立場に立つ』の対立・反抗義は弱く透明性に欠ける。oponi=反は既使用のため、抗(対抗)等のほうが語義透明。"
+                  },
+                  {
+                      "eo":  "orto",
+                      "current":  "角",
+                      "verdict":  "doubtful",
+                      "suggest":  "直角",
+                      "reason":  "角は『角度』一般を表すが、orto=直角(cn 直角)の核である『直(垂直)』が脱落。angulo(角)と同字衝突で識別不能化のおそれ。直角で透明化が望ましい。"
+                  },
+                  {
+                      "eo":  "paralelo",
+                      "current":  "并",
+                      "verdict":  "doubtful",
+                      "suggest":  "行",
+                      "reason":  "并の中心義は『合併・並べる・…と』で、cn『平行線・纬线』の幾何学的『平行』義は二次的。標準語は平行(平行线)。透明性の観点で平行系の字(行)を検討。"
+                  },
+                  {
+                      "eo":  "pipo",
+                      "current":  "斗",
+                      "verdict":  "doubtful",
+                      "suggest":  "烟",
+                      "reason":  "斗単独は枡・ひしゃくの意で「煙管(pipe)」を透明に表せない。cnは烟斗で煙(烟)が意味を担保。R4透明性の観点で斗のみは推測困難。"
+                  },
+                  {
+                      "eo":  "piloto",
+                      "current":  "领航",
+                      "verdict":  "doubtful",
+                      "suggest":  "航",
+                      "reason":  "航のみで航海・操縦の語義が立ちR1最小化に適う可能性。ただし领航も透明で誤りではない。要確認の論点。"
+                  },
+                  {
+                      "eo":  "reklami",
+                      "current":  "宣",
+                      "verdict":  "doubtful",
+                      "suggest":  "",
+                      "reason":  "cn中心義は『为…做广告，宣传』(広告・宣伝)。宣単字は『公布・宣告』が中心で、商業的『広告』義への透明性がやや弱い。ただし宣传の基字であり意訳として許容範囲。要確認。"
+                  },
+                  {
+                      "eo":  "stameno",
+                      "current":  "蕊",
+                      "verdict":  "doubtful",
+                      "suggest":  "雄蕊",
+                      "reason":  "cnは雄蕊(おしべ)だが蕊は花蕊全般で雌蕊(pistilo)と区別不能。雄を補い系列で識別すべきか要確認(同字共有で許容の余地あり)。"
+                  },
+                  {
+                      "eo":  "starti",
+                      "current":  "发动",
+                      "verdict":  "doubtful",
+                      "suggest":  "起",
+                      "reason":  "cnの中心義は起跑・开始・出发(走り出す/出発する)。发动は機械の始動義に偏り2字。R1上1字「起」で核義(start)が立つ。"
+                  },
+                  {
+                      "eo":  "telegrafo",
+                      "current":  "报",
+                      "verdict":  "doubtful",
+                      "suggest":  "电报",
+                      "reason":  "报単独は新聞/報告が中心義で「電信機」が透明に推測不能。telegraph固有の「電」要素が欠落。电报で透明化(telegramoと同字共有可)。"
+                  },
+                  {
+                      "eo":  "telegramo",
+                      "current":  "报",
+                      "verdict":  "doubtful",
+                      "suggest":  "电报",
+                      "reason":  "cn=电报。报単独は新聞/報告義が中心で「電報(電信メッセージ)」が透明でない。电报が中国語義に一致。"
+                  },
+                  {
+                      "eo":  "tempesto",
+                      "current":  "暴",
+                      "verdict":  "doubtful",
+                      "suggest":  "暴风",
+                      "reason":  "cn=暴风,暴风雨(嵐)。暴単独は「乱暴/急激」が中心義で「嵐」が論理推測不能。暴风/风暴で透明化。"
+                  },
+                  {
+                      "eo":  "terni",
+                      "current":  "喷",
+                      "verdict":  "doubtful",
+                      "suggest":  "喷嚏",
+                      "reason":  "cn=打喷嚏(くしゃみ)。喷単独は「噴出/吹き付ける」が中心義で「くしゃみ」と別物。嚏は一级外のため喷嚏(2字)が必要だが、喷単独は語義推測不能。"
+                  },
+                  {
+                      "eo":  "susuri",
+                      "current":  "沙响",
+                      "verdict":  "doubtful",
+                      "suggest":  "",
+                      "reason":  "沙响は標準語でなく沙(砂)+响(音)の造語。擬音の意訳としては透明だが実在語でない点を確認(沙沙作响から沙でも可)。"
+                  },
+                  {
+                      "eo":  "veruko",
+                      "current":  "瘤",
+                      "verdict":  "mismatch",
+                      "suggest":  "疣",
+                      "reason":  "cn は疣（いぼ＝wart）。瘤は腫瘍（こぶ/tumor）で別概念。中心義がずれる。標準字は疣。"
+                  },
+                  {
+                      "eo":  "tribunalo",
+                      "current":  "院",
+                      "verdict":  "doubtful",
+                      "suggest":  "法院",
+                      "reason":  "cnは法院/法庭（裁判所）。院単独は中庭・病院・学院など多義で『裁判所』を透明に推測できない。法院の頭字のみでは不透明。"
+                  },
+                  {
+                      "eo":  "ĉaro",
+                      "current":  "因",
+                      "verdict":  "mismatch",
+                      "suggest":  "车",
+                      "reason":  "因の中心義は『原因・理由』で、cn『畜力車・車』とは無関係の別物。明確な誤り。車(车)が正。"
+                  },
+                  {
+                      "eo":  "ĥemio",
+                      "current":  "化",
+                      "verdict":  "doubtful",
+                      "suggest":  "化",
+                      "reason":  "化の中心義は『変化・転化』で、単字では『化学』を論理的に推測しにくく不透明(R4)。ただ化学の核字でもあり共有上やむを得ない面あり。要確認。"
+                  }
+              ]
+}

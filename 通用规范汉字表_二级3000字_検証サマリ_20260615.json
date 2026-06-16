@@ -1,0 +1,22 @@
+{
+  "level1_count": 3500,
+  "level1_unique": 3500,
+  "level2_count": 3000,
+  "level2_unique": 3000,
+  "level2_sha256": "d597a6e99ea7b8c41215081f824c6e8587bf1c9a3f45fb13086a826306789785",
+  "wikisource_level2_count": 3000,
+  "wikisource_level2_unique": 3000,
+  "wikisource_matches_github_level2": true,
+  "wikisource_duplicate_rows_ignored": 3000,
+  "wikisource_number_conflict_count": 0,
+  "level1_level2_overlap_count": 0,
+  "level2_stroke_missing_count": 0,
+  "level2_stroke_ambiguous_count": 0,
+  "level2_stroke_ambiguous": {},
+  "unihan_zip_sha256": "f7a48b2b545acfaa77b2d607ae28747404ce02baefee16396c5d2d7a8ef34b5e",
+  "wikisource_raw_sha256": "62aed6211e6504928949efcc04b9204dfbbf9c39c9e6a9069d54bffa1bc8a04b",
+  "github_level2_raw_sha256": "d597a6e99ea7b8c41215081f824c6e8587bf1c9a3f45fb13086a826306789785",
+  "local_level2_sha256": "d597a6e99ea7b8c41215081f824c6e8587bf1c9a3f45fb13086a826306789785",
+  "stroke_tsv_sha256": "32d1178b5b1f4d497de277706acd3855cf065e96aa0c9478ccae87714b9d888b",
+  "stroke_tsv_rows_excluding_header": 3000
+}

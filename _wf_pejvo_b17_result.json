@@ -1,0 +1,1896 @@
+﻿{
+    "roots":  [
+                  {
+                      "root":  "vobl",
+                      "n":  3,
+                      "gloss":  "【PIV】(ntr (netransitiva)) (pp (se paroli pri) rado) Periode ",
+                      "final":  "摇",
+                      "verdict":  "revise",
+                      "problem":  "なし",
+                      "alt":  [
+                                  "晃",
+                                  "颤",
+                                  "摇"
+                              ],
+                      "collision":  "摆 is not in the already-assigned single-character list, so no collision.",
+                      "confidence":  "high"
+                  },
+                  {
+                      "root":  "fetic^",
+                      "n":  3,
+                      "gloss":  "【宗】物神,呪物（じゅぶつ）;迷信的崇拝の対象;【心】フェティッシュ",
+                      "final":  "物神",
+                      "verdict":  "accept",
+                      "problem":  "なし",
+                      "alt":  [
+                                  "神物",
+                                  "偶像"
+                              ],
+                      "collision":  "物・神とも既割当単字だが、ここでは2字熟語「物神」として中国語標準語(物神崇拜)を構成しており意味は一貫。単字共有の範囲内で衝突なし。",
+                      "confidence":  "high"
+                  },
+                  {
+                      "root":  "spiril",
+                      "n":  3,
+                      "gloss":  "【生】スピルリム,らせん菌",
+                      "final":  "螺菌",
+                      "verdict":  "accept",
+                      "problem":  "なし",
+                      "alt":  [
+                                  "螺",
+                                  "旋菌"
+                              ],
+                      "collision":  "螺(既割当・らせん/巻き貝義)と菌(既割当・細菌義)を共有。両字とも中国語が当該義を母語的に保持するため共有可。新規衝突なし。",
+                      "confidence":  "high"
+                  },
+                  {
+                      "root":  "obez",
+                      "n":  3,
+                      "gloss":  "【魚】メバチ（マグロ）（種）",
+                      "final":  "胖",
+                      "verdict":  "revise",
+                      "problem":  "不透明",
+                      "alt":  [
+                                  "鲔",
+                                  "眼鲔",
+                                  "大目鲔"
+                              ],
+                      "collision":  "鲔 は既割当単字リストに存在（一般のマグロ語根に割当済みの可能性）。本セグメントは「目」を冠した 目鲔 として区別するため単字衝突を回避。目も既割当だが2字熟語としては新規。",
+                      "confidence":  "medium"
+                  },
+                  {
+                      "root":  "gavi",
+                      "n":  3,
+                      "gloss":  "【鳥】=kolimbo（アビ）",
+                      "final":  "潜鸟",
+                      "verdict":  "accept",
+                      "problem":  "なし",
+                      "alt":  [
+                                  "鸊(専門字・水鳥だが透明性低)",
+                                  "鸬(鵜系で別種、不適)",
+                                  "未対応(特定動物のため非推奨)"
+                              ],
+                      "collision":  "潜(動作=潜る/もぐる、既割当)および鸟(鳥一般、既割当)を結合形「潜鸟」として再利用。単体での主要義と衝突せず、結合で種名「アビ」を立てる。",
+                      "confidence":  "medium"
+                  },
+                  {
+                      "root":  "travesti",
+                      "n":  3,
+                      "gloss":  "［他］（文学作品を）もじる,茶化す;仮装する",
+                      "final":  "戏仿",
+                      "verdict":  "revise",
+                      "problem":  "日中乖離",
+                      "alt":  [
+                                  "仿",
+                                  "嘲"
+                              ],
+                      "collision":  "讽は既割当単字リストに含まれるが、作業ファイル(VALIDATION)上で特定語根への確定バインドはまだ無い。嘲=mok(あざける/嘲笑)、仿=imit(模倣)とは語義が分離しており、travesti(風刺的パロディー)に讽を当てるのは一貫性あり。中国語が風刺・パロディー義を母語的に持つため共有可。衝突申告:讽の既存登録元根があれば最終識別子パスで識別。",
+                      "confidence":  "medium"
+                  },
+                  {
+                      "root":  "epitom",
+                      "n":  3,
+                      "gloss":  "（作品の）抜粋,要約,梗概（こうがい）,概要,\u003e\u003eresumo",
+                      "final":  "抄",
+                      "verdict":  "revise",
+                      "problem":  "冗長2字",
+                      "alt":  [
+                                  "摘要",
+                                  "概要"
+                              ],
+                      "collision":  "「概」は既割当単字リストに存在(衝突あり)。最終識別子パスで解消可能だが要申告。",
+                      "confidence":  "medium"
+                  },
+                  {
+                      "root":  "haspel",
+                      "n":  3,
+                      "gloss":  "【服】【PIV】1 Lata ligna au^ metala tamburo, kiu rotaciante surp",
+                      "final":  "绕",
+                      "verdict":  "accept",
+                      "problem":  "なし",
+                      "alt":  [
+                                  "卷",
+                                  "线轴",
+                                  "绕线轮"
+                              ],
+                      "collision":  "「绕」は既割当単字リストに存在せず、新規。衝突なし。",
+                      "confidence":  "medium"
+                  },
+                  {
+                      "root":  "katastr",
+                      "n":  3,
+                      "gloss":  "［他］地籍調査する,土地台帳に記載する",
+                      "final":  "地籍",
+                      "verdict":  "accept",
+                      "problem":  "なし",
+                      "alt":  [
+                                  "田籍",
+                                  "册"
+                              ],
+                      "collision":  "地 は既割当単字に含まれるが、地籍として2字熟語で用い母語的に全義を持つため共有可。籍 は新規(既割当リストに無い)。衝突申告: 籍 を新規追加。",
+                      "confidence":  "high"
+                  },
+                  {
+                      "root":  "s^agrin",
+                      "n":  3,
+                      "gloss":  "粒起革の;さめ皮の;さめ肌の",
+                      "final":  "鲨皮",
+                      "verdict":  "revise",
+                      "problem":  "冗長2字",
+                      "alt":  [
+                                  "鲨皮",
+                                  "粒"
+                              ],
+                      "collision":  "「鲨」は既割当単字リストに存在(サメの意で割当済み)。本セグメントでの共有は、サメ皮・さめ肌という同一意味系列に属するため中国語が母語的に包含する範囲内で許容。衝突申告。",
+                      "confidence":  "medium"
+                  },
+                  {
+                      "root":  "krisol",
+                      "n":  3,
+                      "gloss":  "【化】るつぼ,=fandvazo",
+                      "final":  "坩埚",
+                      "verdict":  "accept",
+                      "problem":  "なし",
+                      "alt":  [
+                                  "埚",
+                                  "坩",
+                                  "熔锅"
+                              ],
+                      "collision":  "なし。坩 も 埚 も既割当単字リストに未出現。新規2字熟語として衝突なし。",
+                      "confidence":  "high"
+                  },
+                  {
+                      "root":  "atut",
+                      "n":  3,
+                      "gloss":  "［自］【遊】切り札を出す",
+                      "final":  "王牌",
+                      "verdict":  "revise",
+                      "problem":  "不透明",
+                      "alt":  [
+                                  "王牌",
+                                  "主"
+                              ],
+                      "collision":  "王 は既割当単字リストに存在(衝突)。最終識別子パスで解消が必要。",
+                      "confidence":  "low"
+                  },
+                  {
+                      "root":  "idl",
+                      "n":  3,
+                      "gloss":  "【PIV】(ntr (netransitiva)) 1 (pp (se paroli pri) rado) Libere",
+                      "final":  "空",
+                      "verdict":  "accept",
+                      "problem":  "なし",
+                      "alt":  [
+                                  "闲",
+                                  "转"
+                              ],
+                      "collision":  "空は既割当単字リストに存在(既出)。中国語が「空转=idling」の義を母語的に保持するため共有可。最終識別子パスで解消。",
+                      "confidence":  "medium"
+                  },
+                  {
+                      "root":  "mah^",
+                      "n":  3,
+                      "gloss":  "【空】マッハ（数）（速度と音速の比の単位）",
+                      "final":  "未対応",
+                      "verdict":  "accept",
+                      "problem":  "固有名詞",
+                      "alt":  [
+
+                              ],
+                      "collision":  "なし",
+                      "confidence":  "high"
+                  },
+                  {
+                      "root":  "forniks",
+                      "n":  3,
+                      "gloss":  "【解】脳弓",
+                      "final":  "穹窿",
+                      "verdict":  "revise",
+                      "problem":  "日中乖離",
+                      "alt":  [
+                                  "弓",
+                                  "脑穹"
+                              ],
+                      "collision":  "弓 は既割当単字リストに無く新規。脑(=脳)は既割当の「脑」を流用(脳の意味で一貫)。新規字は「弓」のみ。",
+                      "confidence":  "medium"
+                  },
+                  {
+                      "root":  "krop",
+                      "n":  3,
+                      "gloss":  "【鳥】そ嚢（のう）;【病】=strumo（甲状腺腫）",
+                      "final":  "嗉囊",
+                      "verdict":  "accept",
+                      "problem":  "なし",
+                      "alt":  [
+                                  "嗉",
+                                  "囊"
+                              ],
+                      "collision":  "なし(「嗉」は新規追加字、「囊」は既割当だが共有可)。",
+                      "confidence":  "medium"
+                  },
+                  {
+                      "root":  "reviz",
+                      "n":  3,
+                      "gloss":  "［他］監査する,=revizori",
+                      "final":  "审",
+                      "verdict":  "accept",
+                      "problem":  "なし",
+                      "alt":  [
+                                  "核",
+                                  "查",
+                                  "监"
+                              ],
+                      "collision":  "审は既割当一覧にあり共有。中国語で审査/审计=監査の核義を母語的に持つため共有可だが、衝突申告する。代替の核(核査/監査)・査も近義で重複しうる。",
+                      "confidence":  "medium"
+                  },
+                  {
+                      "root":  "ananas",
+                      "n":  3,
+                      "gloss":  "【果】パイナップル",
+                      "final":  "菠萝",
+                      "verdict":  "accept",
+                      "problem":  "なし",
+                      "alt":  [
+                                  "凤梨"
+                              ],
+                      "collision":  "菠 は spinac=菠菜(ほうれん草)で既使用。萝 は karot/rafan(にんじん/大根、胡萝卜・萝卜)で既使用。いずれも文字共有(2字熟語「菠萝」全体ではパイナップルとして一義的)。単字衝突なし。",
+                      "confidence":  "high"
+                  },
+                  {
+                      "root":  "skafandr",
+                      "n":  3,
+                      "gloss":  "【海】スキューバ,アクアラング（商品名）",
+                      "final":  "潜衣",
+                      "verdict":  "accept",
+                      "problem":  "なし",
+                      "alt":  [
+                                  "潜服",
+                                  "潜水",
+                                  "潜"
+                              ],
+                      "collision":  "なし（新規2字組合せ。衣 は既割当だが2字 潜衣 として識別可能、潜 は新規導入）",
+                      "confidence":  "medium"
+                  },
+                  {
+                      "root":  "gangli",
+                      "n":  3,
+                      "gloss":  "【解】神経節",
+                      "final":  "节",
+                      "verdict":  "accept",
+                      "problem":  "なし",
+                      "alt":  [
+                                  "结",
+                                  "经节"
+                              ],
+                      "collision":  "「节」は既割当単字リストに存在(node/joint/festival の意味で既出)。同字共有=中国語が「神経節の節」義を母語的に持つため共有可。衝突として申告する。",
+                      "confidence":  "medium"
+                  },
+                  {
+                      "root":  "tangent",
+                      "n":  3,
+                      "gloss":  "タンジェントの",
+                      "final":  "切",
+                      "verdict":  "accept",
+                      "problem":  "なし",
+                      "alt":  [
+                                  "切线",
+                                  "正切"
+                              ],
+                      "collision":  "切 は既割当単字リストに存在(主に cut/slice 系)。同字共有=中国語が全義を保持する限りOKの方針に合致。衝突申告: 切(cut/tangent 共有)。最終識別子パスで解消。",
+                      "confidence":  "medium"
+                  },
+                  {
+                      "root":  "imperial",
+                      "n":  3,
+                      "gloss":  "（バス・電車などの）屋上席;（馬車の屋根の）荷物置き場",
+                      "final":  "顶",
+                      "verdict":  "accept",
+                      "problem":  "なし",
+                      "alt":  [
+                                  "顶层",
+                                  "顶座",
+                                  "上层"
+                              ],
+                      "collision":  "顶は既割当(衝突あり)。中国語で「屋根・車両最上部」義を持つため母語的に共有可。最終識別子パスで解消。",
+                      "confidence":  "low"
+                  },
+                  {
+                      "root":  "kartilag",
+                      "n":  3,
+                      "gloss":  "【解】軟骨の,軟骨性の",
+                      "final":  "软骨",
+                      "verdict":  "accept",
+                      "problem":  "なし",
+                      "alt":  [
+                                  "骨"
+                              ],
+                      "collision":  "软 and 骨 are both already assigned (软=soft/软页 etc., 骨=bone). The compound 软骨 is unambiguous as \"cartilage\"; sharing both base characters is acceptable since Chinese natively combines them to mean cartilage.",
+                      "confidence":  "high"
+                  },
+                  {
+                      "root":  "knik",
+                      "n":  3,
+                      "gloss":  "【技】【PIV】(ntr (netransitiva)) (pp (se paroli pri) fosto au^ k",
+                      "final":  "座屈",
+                      "verdict":  "revise",
+                      "problem":  "日中乖離",
+                      "alt":  [
+                                  "折",
+                                  "曲"
+                              ],
+                      "collision":  "弯 は既割当単字リストに存在(共有)。中国語で「弯」は自動詞「曲がる」を母語的に持つため共有可。",
+                      "confidence":  "medium"
+                  },
+                  {
+                      "root":  "remork",
+                      "n":  3,
+                      "gloss":  "【PIV】1 S^ipo, barko, barg^o, trenata de motors^ipo. Vd trens",
+                      "final":  "拖车",
+                      "verdict":  "revise",
+                      "problem":  "日中乖離",
+                      "alt":  [
+                                  "拖",
+                                  "舟"
+                              ],
+                      "collision":  "既割当の「驳」と衝突(共有)。中国語で「驳船=barge」の義を持つため共有可だが、既存「驳」の割当義(反駁/論駁系か)と最終識別子パスで区別が必要。",
+                      "confidence":  "medium"
+                  },
+                  {
+                      "root":  "sink",
+                      "n":  3,
+                      "gloss":  "［自］沈む,沈下する,\u003e\u003emallevig^i;《転》（眠りなどに）落ちる,\u003e\u003edroni",
+                      "final":  "沉",
+                      "verdict":  "accept",
+                      "problem":  "なし",
+                      "alt":  [
+                                  "陷",
+                                  "落"
+                              ],
+                      "collision":  "沉 は既割当単字リストに既出(共有)。中国語 沉 は sink の沈下・沈降・(眠りへ)沈むの全義を母語的に保持するため共有可。最終識別子はパスで解消。",
+                      "confidence":  "high"
+                  },
+                  {
+                      "root":  "spurt",
+                      "n":  3,
+                      "gloss":  "【PIV】Dum sportaj konkursoj, mallongdau^ra akcelo de rapido a",
+                      "final":  "冲",
+                      "verdict":  "accept",
+                      "problem":  "なし",
+                      "alt":  [
+                                  "刺",
+                                  "冲刺"
+                              ],
+                      "collision":  "冲 は既割当単字リストに既存(冲)。本セグメントでも「突進/加速」の中心義として共有。中国語が「冲」に突進義を母語的に持つため共有可だが、衝突として申告する。",
+                      "confidence":  "medium"
+                  },
+                  {
+                      "root":  "c^ambelan",
+                      "n":  3,
+                      "gloss":  "侍従,家令",
+                      "final":  "侍臣",
+                      "verdict":  "revise",
+                      "problem":  "冗長2字",
+                      "alt":  [
+                                  "侍臣",
+                                  "侍从",
+                                  "仆"
+                              ],
+                      "collision":  "侍 is already assigned in the master list. Shared reuse is acceptable per policy since Chinese 侍 natively covers the \"attendant/serve nobility\" meaning, but flagging the collision for final identifier-path disambiguation.",
+                      "confidence":  "medium"
+                  },
+                  {
+                      "root":  "sodom",
+                      "n":  3,
+                      "gloss":  "【聖】ソドム（神に滅ぼされた背徳の街）,\u003e\u003eGomoro",
+                      "final":  "未対応",
+                      "verdict":  "accept",
+                      "problem":  "固有名詞",
+                      "alt":  [
+                                  "未対応"
+                              ],
+                      "collision":  "None (未対応 assigns no kanji).",
+                      "confidence":  "high"
+                  },
+                  {
+                      "root":  "h^an",
+                      "n":  3,
+                      "gloss":  "【史】ハーン,カン（汗）（中央アジア遊牧民の族長・君主の称号）",
+                      "final":  "汗",
+                      "verdict":  "accept",
+                      "problem":  "なし",
+                      "alt":  [
+                                  "可汗"
+                              ],
+                      "collision":  "「汗」は既割当単字リストに未収載だが、「あせ（汗・sweat）」を表す語根（例: 汗をかく系）が将来割り当てられる場合に同字共有/衝突が起こりうる。中国語では「汗」が「あせ」と「君主称号(可汗)」の両義を母語的に持つため共有可だが、識別子レベルでの区別が必要なら申告対象。",
+                      "confidence":  "high"
+                  },
+                  {
+                      "root":  "kartel",
+                      "n":  3,
+                      "gloss":  "【経】カルテル（企業連合）,\u003e\u003etrusto;【政】（政党間などの）連合;【史】決闘の申込状",
+                      "final":  "盟",
+                      "verdict":  "accept",
+                      "problem":  "なし",
+                      "alt":  [
+                                  "联",
+                                  "盟"
+                              ],
+                      "collision":  "盟 は既割当単字リストに存在(alliance/同盟系の語根に使用済み)。方針上「中国語が母語的に全義を持つ限り同字共有可」に該当するが衝突を申告する。最終識別子パスでの解消が必要。",
+                      "confidence":  "medium"
+                  },
+                  {
+                      "root":  "verdigr",
+                      "n":  3,
+                      "gloss":  "緑青をふいた",
+                      "final":  "铜绿",
+                      "verdict":  "accept",
+                      "problem":  "なし",
+                      "alt":  [
+                                  "锈",
+                                  "绿锈",
+                                  "铜锈"
+                              ],
+                      "collision":  "なし。铜・绿はいずれも既割当だが共有可能(中国語が母語的に「铜绿=緑青」を意味する)。新規衝突なし。",
+                      "confidence":  "high"
+                  },
+                  {
+                      "root":  "ofensiv",
+                      "n":  3,
+                      "gloss":  "攻勢の,攻撃の",
+                      "final":  "攻",
+                      "verdict":  "accept",
+                      "problem":  "なし",
+                      "alt":  [
+                                  "击",
+                                  "袭"
+                              ],
+                      "collision":  "既割当の「攻」と同字共有。中国語で「攻」は攻撃・攻勢の全義を母語的に持つため共有可。最終識別子パスで区別。",
+                      "confidence":  "high"
+                  },
+                  {
+                      "root":  "tonik",
+                      "n":  3,
+                      "gloss":  "【楽】主音の;【薬】強壮にする",
+                      "final":  "主",
+                      "verdict":  "revise",
+                      "problem":  "不透明",
+                      "alt":  [
+                                  "补",
+                                  "壮"
+                              ],
+                      "collision":  "强(既割当: forta 等「強い」系と同字共有。中国語で强=強壮/強い を全て担うため共有可。最終識別子パスで衝突解消)",
+                      "confidence":  "medium"
+                  },
+                  {
+                      "root":  "tempi",
+                      "n":  3,
+                      "gloss":  "【解】側頭,こめかみ",
+                      "final":  "颞",
+                      "verdict":  "accept",
+                      "problem":  "なし",
+                      "alt":  [
+                                  "太阳穴",
+                                  "鬓"
+                              ],
+                      "collision":  "なし(既割当単字リストに「颞」は含まれない)",
+                      "confidence":  "high"
+                  },
+                  {
+                      "root":  "parodi",
+                      "n":  3,
+                      "gloss":  "［他］パロディー化する,もじる",
+                      "final":  "戏仿",
+                      "verdict":  "accept",
+                      "problem":  "なし",
+                      "alt":  [
+                                  "仿",
+                                  "嘲",
+                                  "谑仿"
+                              ],
+                      "collision":  "戏・仿 ともに既割当単字。2字熟語「戏仿」としての新規組合せで、単字共有は中国語が両義を持つため許容範囲。単字レベルの新規衝突申告はなし。",
+                      "confidence":  "medium"
+                  },
+                  {
+                      "root":  "bagag^",
+                      "n":  3,
+                      "gloss":  "（旅行者の）手荷物,=pakaj^o",
+                      "final":  "行李",
+                      "verdict":  "accept",
+                      "problem":  "なし",
+                      "alt":  [
+                                  "囊",
+                                  "袋",
+                                  "箱"
+                              ],
+                      "collision":  "「行」「李」とも既割当(行=行く/列、李=スモモ)だが、本割当は2字熟語「行李」として固有の意味を立てるもの。単字義との衝突ではなく、最終識別子は2字結合で識別される。",
+                      "confidence":  "high"
+                  },
+                  {
+                      "root":  "introspekt",
+                      "n":  3,
+                      "gloss":  "内観の,内省的な",
+                      "final":  "内省",
+                      "verdict":  "accept",
+                      "problem":  "なし",
+                      "alt":  [
+                                  "省",
+                                  "内观"
+                              ],
+                      "collision":  "省 と 内 は既割当単字リストに既存(共有)。内省 の2字結合自体は新規で衝突なし。中国語が「内省=introspection」を母語的に持つため共有問題なし。",
+                      "confidence":  "high"
+                  },
+                  {
+                      "root":  "brig",
+                      "n":  3,
+                      "gloss":  "【海】ブリッグ（２本マストに横帆を張った小型帆船）,\u003e\u003ebrigeto,\u003e\u003eskuno",
+                      "final":  "双桅",
+                      "verdict":  "revise",
+                      "problem":  "不透明",
+                      "alt":  [
+                                  "帆船",
+                                  "双桅",
+                                  "未対応"
+                              ],
+                      "collision":  "桅(mast)は既割当単字。桅船としての2字結合は新規で衝突なし。船は既割当だが結合形での共有は問題なし。",
+                      "confidence":  "low"
+                  },
+                  {
+                      "root":  "rikeci",
+                      "n":  3,
+                      "gloss":  "【生】【PIV】G. (Genro) (Rickettsia el rikecialoj) de eu^bakterio",
+                      "final":  "未対応",
+                      "verdict":  "accept",
+                      "problem":  "音訳",
+                      "alt":  [
+                                  "立克次体(中国語標準訳だが音訳3字で透明性なし)"
+                              ],
+                      "collision":  "なし",
+                      "confidence":  "high"
+                  },
+                  {
+                      "root":  "gaz",
+                      "n":  3,
+                      "gloss":  "薄織りの,薄地の;ガーゼの",
+                      "final":  "纱",
+                      "verdict":  "accept",
+                      "problem":  "なし",
+                      "alt":  [
+                                  "绉",
+                                  "丝"
+                              ],
+                      "collision":  "纱 は既割当単字リストに含まれ共有。中国語の纱は紡績糸(yarn)と薄織物(gauze)双方を母語的に持つため共有可。衝突する既存セグメントがあれば最終識別子パスで解消。",
+                      "confidence":  "high"
+                  },
+                  {
+                      "root":  "rentgen",
+                      "n":  3,
+                      "gloss":  "【理】レントゲン（Ｘ線・γ線の強さを表す単位，R）",
+                      "final":  "未対応",
+                      "verdict":  "accept",
+                      "problem":  "音訳",
+                      "alt":  [
+                                  "伦琴(音訳・固有名詞由来のため不採用)"
+                              ],
+                      "collision":  "なし(未対応のため漢字割当なし)",
+                      "confidence":  "high"
+                  },
+                  {
+                      "root":  "gliciriz",
+                      "n":  3,
+                      "gloss":  "【薬】甘草（かんぞう）",
+                      "final":  "甘草",
+                      "verdict":  "accept",
+                      "problem":  "なし",
+                      "alt":  [
+                                  "草",
+                                  "甘草根"
+                              ],
+                      "collision":  "なし。甘・草は既割当だが甘草の2字熟語として植物名を成し、全義を中国語が母語的に保持。",
+                      "confidence":  "high"
+                  },
+                  {
+                      "root":  "tabet",
+                      "n":  3,
+                      "gloss":  "【医】【PIV】Sifilisa afekcio, kiun karakterizas sklerozo de la p",
+                      "final":  "髓痨",
+                      "verdict":  "accept",
+                      "problem":  "なし",
+                      "alt":  [
+                                  "脊髓痨",
+                                  "痨",
+                                  "髓"
+                              ],
+                      "collision":  "なし(髓痨は2字結合で既割当単字と衝突しない。痨・髓はいずれも既割当だが中国語が母語的に消耗病・髄の義を持つため共有可)。",
+                      "confidence":  "medium"
+                  },
+                  {
+                      "root":  "korbel",
+                      "n":  3,
+                      "gloss":  "【建】持送り積み",
+                      "final":  "托",
+                      "verdict":  "accept",
+                      "problem":  "なし",
+                      "alt":  [
+                                  "撑",
+                                  "挑",
+                                  "牛腿"
+                              ],
+                      "collision":  "なし(托 は既割当単字リストに不在)。墩(橋脚)・拱(アーチ)・梁(梁)は既割当だが概念が別で衝突せず。",
+                      "confidence":  "medium"
+                  },
+                  {
+                      "root":  "pind",
+                      "n":  3,
+                      "gloss":  "パイント（液量単位、８分の１ガロン、約0.5リットル）,\u003e\u003egaljono",
+                      "final":  "未対応",
+                      "verdict":  "accept",
+                      "problem":  "音訳",
+                      "alt":  [
+                                  "品脱(音訳・採用せず)"
+                              ],
+                      "collision":  "なし(未対応)",
+                      "confidence":  "high"
+                  },
+                  {
+                      "root":  "taki",
+                      "n":  3,
+                      "gloss":  "【技】【PIV】Aparato kiu au^tomate registras la rapidon de veturi",
+                      "final":  "速",
+                      "verdict":  "accept",
+                      "problem":  "なし",
+                      "alt":  [
+                                  "率"
+                              ],
+                      "collision":  "速 は既割当単字リストに存在(rapid/fast 系で共有)。中国語で「速」は速度・速さの全義を母語的に持つため共有可。衝突は最終識別子パスで解消可能。",
+                      "confidence":  "high"
+                  },
+                  {
+                      "root":  "deprec",
+                      "n":  3,
+                      "gloss":  "【PIV】(tr (transitiva)) Redukti la merkatvaloron de varo au^ ",
+                      "final":  "贬",
+                      "verdict":  "accept",
+                      "problem":  "なし",
+                      "alt":  [
+                                  "减",
+                                  "降"
+                              ],
+                      "collision":  "既割当単字リストに贬は未収載。新規割当のため衝突なし。",
+                      "confidence":  "high"
+                  },
+                  {
+                      "root":  "cekum",
+                      "n":  3,
+                      "gloss":  "【解】盲腸",
+                      "final":  "盲肠",
+                      "verdict":  "accept",
+                      "problem":  "なし",
+                      "alt":  [
+                                  "盲",
+                                  "盲腸"
+                              ],
+                      "collision":  "なし(盲・肠ともに既割当字を母語的全義の範囲で共有)。",
+                      "confidence":  "high"
+                  },
+                  {
+                      "root":  "stigmat",
+                      "n":  3,
+                      "gloss":  "（消すことのできない）傷跡,\u003e\u003ecikatro;【キ】聖痕",
+                      "final":  "痕",
+                      "verdict":  "accept",
+                      "problem":  "なし",
+                      "alt":  [
+                                  "疤",
+                                  "印"
+                              ],
+                      "collision":  "なし。痕 は master 未割当、既割当単字リストにも無し。類義の 疤 は cikatr に既割当だが別字を採用するため衝突回避。",
+                      "confidence":  "high"
+                  },
+                  {
+                      "root":  "klau^n",
+                      "n":  3,
+                      "gloss":  "［自］おどけてみせる",
+                      "final":  "丑",
+                      "verdict":  "accept",
+                      "problem":  "なし",
+                      "alt":  [
+                                  "小丑",
+                                  "滑稽"
+                              ],
+                      "collision":  "「丑」は既割当単字リストに既出。本割当も同字共有となる(中国語が「道化」義を母語的に保持するため共有可)。最終識別子パスでの衝突解消が必要な場合あり。",
+                      "confidence":  "medium"
+                  },
+                  {
+                      "root":  "tau^tomer",
+                      "n":  3,
+                      "gloss":  "【化】【PIV】Izomero, kiu tre facile k reverseble formig^as el la",
+                      "final":  "互变",
+                      "verdict":  "accept",
+                      "problem":  "なし",
+                      "alt":  [
+                                  "变",
+                                  "互变异构"
+                              ],
+                      "collision":  "互・变ともに既割当単字リスト内にあり共有。新規衝突なし(中国語が母語的に両字の義を持つため共有可)。",
+                      "confidence":  "medium"
+                  },
+                  {
+                      "root":  "parotid",
+                      "n":  3,
+                      "gloss":  "【解】【PIV】La plej granda el la salivaj glandoj, situanta antau",
+                      "final":  "腮腺",
+                      "verdict":  "accept",
+                      "problem":  "なし",
+                      "alt":  [
+                                  "耳腺",
+                                  "腮"
+                              ],
+                      "collision":  "腺は既割当(gland系で共有)。腮は新規追加字(既割当単字リストに無し)。腺との連結で耳下腺義に限定され他語との衝突なし。",
+                      "confidence":  "high"
+                  },
+                  {
+                      "root":  "mercer",
+                      "n":  3,
+                      "gloss":  "小間物,服飾雑貨,手芸用品,\u003e\u003egalanterio",
+                      "final":  "针线",
+                      "verdict":  "accept",
+                      "problem":  "なし",
+                      "alt":  [
+                                  "缝纫",
+                                  "缝",
+                                  "绣"
+                              ],
+                      "collision":  "针・线はいずれも既割当単字。組合せ語「针线」としての衝突は無いが、構成字共有あり(中国語が両義を母語的に保持するため共有可)。",
+                      "confidence":  "medium"
+                  },
+                  {
+                      "root":  "hemoroid",
+                      "n":  3,
+                      "gloss":  "【病】痔（じ）の",
+                      "final":  "痔",
+                      "verdict":  "accept",
+                      "problem":  "なし",
+                      "alt":  [
+                                  "痔疮"
+                              ],
+                      "collision":  "No collision. 痔 does not appear in the already-assigned single-character list.",
+                      "confidence":  "high"
+                  },
+                  {
+                      "root":  "kapuc^",
+                      "n":  3,
+                      "gloss":  "［他］頭巾（ずきん）をかぶせる",
+                      "final":  "帽",
+                      "verdict":  "accept",
+                      "problem":  "なし",
+                      "alt":  [
+                                  "兜",
+                                  "巾"
+                              ],
+                      "collision":  "帽 は既割当単字リストに存在(共有)。中国語で帽は被り物全般を母語的に包含するため共有可だが、衝突として申告する。",
+                      "confidence":  "medium"
+                  },
+                  {
+                      "root":  "ger",
+                      "n":  3,
+                      "gloss":  "【聖】【PIV】Mezur-k pez-unuo (0,6 g): siklo enhavas dudek gerojn",
+                      "final":  "未対応",
+                      "verdict":  "accept",
+                      "problem":  "音訳",
+                      "alt":  [
+                                  "铢(古代の微小重量単位だが特定単位ゲラと別概念で乖離)",
+                                  "重(一般義「重さ」で単位名にならず不適)"
+                              ],
+                      "collision":  "なし(未対応のため割当字なし)。",
+                      "confidence":  "medium"
+                  },
+                  {
+                      "root":  "israel",
+                      "n":  3,
+                      "gloss":  "イスラエルの",
+                      "final":  "未対応",
+                      "verdict":  "accept",
+                      "problem":  "固有名詞",
+                      "alt":  [
+                                  "以色列(音訳・採用不可)"
+                              ],
+                      "collision":  "なし(未対応のため割当字なし)",
+                      "confidence":  "high"
+                  },
+                  {
+                      "root":  "procelari",
+                      "n":  3,
+                      "gloss":  "【動】【PIV】G. (Genro) (Procellaria) de malgrandaj, hirundsimila",
+                      "final":  "鹱",
+                      "verdict":  "revise",
+                      "problem":  "日中乖離",
+                      "alt":  [
+                                  "鹱",
+                                  "燕"
+                              ],
+                      "collision":  "なし(2字結合「海燕」。単字「海」「燕」は既割当だが結合形としての衝突なし)",
+                      "confidence":  "high"
+                  },
+                  {
+                      "root":  "kist",
+                      "n":  3,
+                      "gloss":  "【医】嚢胞（のうほう）,嚢腫（のうしゅ）",
+                      "final":  "囊肿",
+                      "verdict":  "accept",
+                      "problem":  "なし",
+                      "alt":  [
+                                  "囊",
+                                  "囊瘤"
+                              ],
+                      "collision":  "囊・肿とも既割当一覧に存在(囊=sac/pouch系、肿=swelling/腫れ系)。2字熟語「囊肿」としての使用は中国語が母語的に cyst の全義を担うため共有可。単字衝突は最終識別子パスで解消。",
+                      "confidence":  "high"
+                  },
+                  {
+                      "root":  "pteraspid",
+                      "n":  3,
+                      "gloss":  "【動】【PIV】G. (Genro) (Pteraspis) de fosiliaj senmakzeluloj el ",
+                      "final":  "翼甲",
+                      "verdict":  "accept",
+                      "problem":  "固有名詞",
+                      "alt":  [
+                                  "甲（甲皮類の連想だが属名の同定性を欠く）",
+                                  "盾（aspis=盾だが属名としては不適）"
+                              ],
+                      "collision":  "なし",
+                      "confidence":  "high"
+                  },
+                  {
+                      "root":  "kornval",
+                      "n":  3,
+                      "gloss":  "コーンウォールの;（la 〜）コーンウォール語の",
+                      "final":  "未対応",
+                      "verdict":  "accept",
+                      "problem":  "固有名詞",
+                      "alt":  [
+                                  "康沃尔(音訳・不可)",
+                                  "科尼什(言語名音訳・不可)"
+                              ],
+                      "collision":  "なし（未対応のため漢字割当なし）。",
+                      "confidence":  "high"
+                  },
+                  {
+                      "root":  "iriz",
+                      "n":  3,
+                      "gloss":  "虹色の,虹色に輝く",
+                      "final":  "虹",
+                      "verdict":  "accept",
+                      "problem":  "なし",
+                      "alt":  [
+                                  "彩",
+                                  "霓"
+                              ],
+                      "collision":  "なし。既割当単字リストに「虹」は不在。新規割当。",
+                      "confidence":  "high"
+                  },
+                  {
+                      "root":  "cens",
+                      "n":  3,
+                      "gloss":  "【史】ケンスス（古代ローマで徴税・徴兵を目的とした財産・人口調査）;=popolnombrado（人口調査）",
+                      "final":  "普",
+                      "verdict":  "revise",
+                      "problem":  "不透明",
+                      "alt":  [
+                                  "查",
+                                  "普",
+                                  "册"
+                              ],
+                      "collision":  "「籍」は既割当単字リストに既出（共有）。中国語で「籍」は登録名簿の義を母語的に持つため共有可。衝突申告のうえ最終識別子パスで解消。",
+                      "confidence":  "medium"
+                  },
+                  {
+                      "root":  "etos",
+                      "n":  3,
+                      "gloss":  "ムード音楽",
+                      "final":  "氛",
+                      "verdict":  "revise",
+                      "problem":  "日中乖離",
+                      "alt":  [
+                                  "氛",
+                                  "气",
+                                  "韵味"
+                              ],
+                      "collision":  "「韵」は既割当一覧に既出(共有)。中国語が雰囲気・趣の義を母語的に持つため共有可だが、本来の音韻義との同字共有になる点を申告。",
+                      "confidence":  "low"
+                  },
+                  {
+                      "root":  "setl",
+                      "n":  3,
+                      "gloss":  "【PIV】(ntr (netransitiva)) (pp (se paroli pri) homgrupo) Eklo",
+                      "final":  "居",
+                      "verdict":  "revise",
+                      "problem":  "日中乖離",
+                      "alt":  [
+                                  "居",
+                                  "殖",
+                                  "住"
+                              ],
+                      "collision":  "「迁」は既割当単字リストに既出(中国語が移住義を母語的に持つため共有可。中心義「移り住む」で一貫し衝突問題は小さいが、申告対象)。",
+                      "confidence":  "medium"
+                  },
+                  {
+                      "root":  "hurd",
+                      "n":  3,
+                      "gloss":  "［他］すのこを張る",
+                      "final":  "栅",
+                      "verdict":  "accept",
+                      "problem":  "なし",
+                      "alt":  [
+                                  "篱",
+                                  "栏",
+                                  "笆"
+                              ],
+                      "collision":  "栅 already appears in the assigned single-character list (栅 = fence/palisade). Shared use is acceptable since Chinese 栅 natively covers the lattice/slat-frame sense; flagged per policy. Distinguish via final identifier path.",
+                      "confidence":  "medium"
+                  },
+                  {
+                      "root":  "silik",
+                      "n":  3,
+                      "gloss":  "【鉱】ケイ石;火打石",
+                      "final":  "硅",
+                      "verdict":  "accept",
+                      "problem":  "なし",
+                      "alt":  [
+                                  "燧",
+                                  "石"
+                              ],
+                      "collision":  "硅 — 元素ケイ素(Si, silici-系)で既割当の可能性が高く衝突。silik-(シリカ/ケイ石)とSi元素根で同字共有となる。中国語で硅は両義を持つため共有可だが、最終識別子パスで区別要。",
+                      "confidence":  "medium"
+                  },
+                  {
+                      "root":  "silvi",
+                      "n":  3,
+                      "gloss":  "【鳥】ズグロムシクイ（種）",
+                      "final":  "莺",
+                      "verdict":  "revise",
+                      "problem":  "なし",
+                      "alt":  [
+                                  "莺",
+                                  "鸣禽"
+                              ],
+                      "collision":  "なし(未対応のため既割当字との衝突なし)",
+                      "confidence":  "medium"
+                  },
+                  {
+                      "root":  "racem",
+                      "n":  3,
+                      "gloss":  "【化】【PIV】(pp (se paroli pri) miksaj^o) Egalparte konsistanta ",
+                      "final":  "消旋",
+                      "verdict":  "accept",
+                      "problem":  "なし",
+                      "alt":  [
+                                  "旋",
+                                  "外消旋",
+                                  "未対応"
+                              ],
+                      "collision":  "旋 and 消 are not in the assigned single-kanji list; 消 appears (消=消す/erase) but here used within a 2-char compound, no single-char collision. No conflict with existing assignments.",
+                      "confidence":  "medium"
+                  },
+                  {
+                      "root":  "lokal",
+                      "n":  3,
+                      "gloss":  "【PIV】Parto de konstruaj^o, kun difinita destino, precipe pp ",
+                      "final":  "室",
+                      "verdict":  "accept",
+                      "problem":  "なし",
+                      "alt":  [
+                                  "厅",
+                                  "局",
+                                  "间"
+                              ],
+                      "collision":  "室 は既割当(ĉambro系の「室」)と衝突。同字共有だが、ĉambro と lokal の語根識別が必要。最終識別子パスで解消、または lokal を 厅(建物内の一室・ホール)に振り替える代替も可。",
+                      "confidence":  "medium"
+                  },
+                  {
+                      "root":  "molusk",
+                      "n":  3,
+                      "gloss":  "【動】軟体動物",
+                      "final":  "软体",
+                      "verdict":  "accept",
+                      "problem":  "なし",
+                      "alt":  [
+                                  "螺",
+                                  "贝类",
+                                  "蚌"
+                              ],
+                      "collision":  "体 は既割当単字(body)。2字熟語「软体」の構成要素として 体 を共有するが、中国語が母語的に当該義を持つため共有可(同字共有可方針)。软 は未割当で新規。識別が必要なら最終識別子パスで解消。",
+                      "confidence":  "high"
+                  },
+                  {
+                      "root":  "altru",
+                      "n":  3,
+                      "gloss":  "利他的な,=malegoisma##偽分解",
+                      "final":  "他",
+                      "verdict":  "accept",
+                      "problem":  "なし",
+                      "alt":  [
+                                  "利他",
+                                  "仁",
+                                  "公"
+                              ],
+                      "collision":  "他 は既割当単字リストに存在(代名詞/「他の」系)。altru- も「他者」が中心義であり中国語の他が母語的に全義を内包するため共有可。最終識別子はスラッシュパスで解消。衝突を申告する。",
+                      "confidence":  "high"
+                  },
+                  {
+                      "root":  "ekzantem",
+                      "n":  3,
+                      "gloss":  "【病】発疹性の",
+                      "final":  "疹",
+                      "verdict":  "accept",
+                      "problem":  "なし",
+                      "alt":  [
+                                  "疹子",
+                                  "发疹"
+                              ],
+                      "collision":  "疹は既に「~疹(発疹一般)」系の語根で使用される可能性があり共有。中国語が「発疹」の全義を母語的に持つため共有可。ただし erupci/erythem 等の他の発疹・紅斑系語根との衝突に注意(最終識別子パスで解消)。",
+                      "confidence":  "high"
+                  },
+                  {
+                      "root":  "hips",
+                      "n":  3,
+                      "gloss":  "【学】沸点測高法##偽分解",
+                      "final":  "高",
+                      "verdict":  "accept",
+                      "problem":  "なし",
+                      "alt":  [
+                                  "海",
+                                  "标"
+                              ],
+                      "collision":  "「高」は既割当単字リストに既出。中国語の「高」は高さ・高度の全義を母語的に保持するため共有可。衝突は最終識別子パスで解消。",
+                      "confidence":  "medium"
+                  },
+                  {
+                      "root":  "histerez",
+                      "n":  3,
+                      "gloss":  "【理】ヒステリシス曲線##偽分解(PIV正式分解)",
+                      "final":  "滞",
+                      "verdict":  "accept",
+                      "problem":  "なし",
+                      "alt":  [
+                                  "磁滞",
+                                  "滞后"
+                              ],
+                      "collision":  "滞は既割当の単字リストに既出（滞）。中国語で滞は「遅れ・停滞」の義を母語的に持ち、ヒステリシス(遅れ現象)もこの中心義の範囲内のため共有可。最終識別子パスで衝突解消する前提で申告。",
+                      "confidence":  "medium"
+                  },
+                  {
+                      "root":  "ladan",
+                      "n":  3,
+                      "gloss":  "【植】【PIV】Aroma gumo, liverita de la folioj k tigoj de ladanar",
+                      "final":  "香脂",
+                      "verdict":  "accept",
+                      "problem":  "なし",
+                      "alt":  [
+                                  "脂",
+                                  "树脂",
+                                  "香树脂"
+                              ],
+                      "collision":  "脂 は既割当(動植物の脂・樹脂)。香 も既割当。2字結合 香脂 は新規だが構成字は既存。共有可(中国語が芳香樹脂義を母語的に持つ)。最終識別子で区別可能。",
+                      "confidence":  "medium"
+                  },
+                  {
+                      "root":  "klis^",
+                      "n":  3,
+                      "gloss":  "［他］【印】ステロ版にとる",
+                      "final":  "铸版",
+                      "verdict":  "accept",
+                      "problem":  "なし",
+                      "alt":  [
+                                  "铅版",
+                                  "制版",
+                                  "版"
+                              ],
+                      "collision":  "铸・版とも既割当単字に存在(铸=鋳造系、版=出版/版系)。2字熟語「铸版」としての衝突なし。最終識別子パスで解消可。",
+                      "confidence":  "medium"
+                  },
+                  {
+                      "root":  "kliv",
+                      "n":  3,
+                      "gloss":  "［他］石目にそって割る,劈開（へきかい）させる",
+                      "final":  "劈",
+                      "verdict":  "accept",
+                      "problem":  "なし",
+                      "alt":  [
+                                  "剖",
+                                  "裂"
+                              ],
+                      "collision":  "劈 已在既割当単字列表中(来自 disfendi/劈 等类似\"劈开\"义语根)。共享可:中国语中劈本身完整承担\"沿纹理劈开/解理\"义,二者中心义同源,共享一致,无需新字。最终识别仍可由路径区分。",
+                      "confidence":  "high"
+                  },
+                  {
+                      "root":  "goril",
+                      "n":  3,
+                      "gloss":  "【動】ローランドゴリラ",
+                      "final":  "猩",
+                      "verdict":  "accept",
+                      "problem":  "なし",
+                      "alt":  [
+                                  "猿",
+                                  "黑猩"
+                              ],
+                      "collision":  "なし(「猩」は既割当単字リストに未出現)。「猿」(既割当)とは別字で衝突回避。",
+                      "confidence":  "medium"
+                  },
+                  {
+                      "root":  "ion",
+                      "n":  3,
+                      "gloss":  "【PIV】(evi (evitinda)) = jono.",
+                      "final":  "离子",
+                      "verdict":  "accept",
+                      "problem":  "なし",
+                      "alt":  [
+                                  "离",
+                                  "子"
+                              ],
+                      "collision":  "子は既に多数の語根(粒子・分詞等)で共有されているが、「离子」という2字熟語として識別され、中国語が母語的に全義を持つため共有可。新規衝突の申告なし。",
+                      "confidence":  "high"
+                  },
+                  {
+                      "root":  "pariet",
+                      "n":  3,
+                      "gloss":  "【機】内壁;【解】壁",
+                      "final":  "壁",
+                      "verdict":  "accept",
+                      "problem":  "なし",
+                      "alt":  [
+                                  "内壁",
+                                  "墙"
+                              ],
+                      "collision":  "「壁」は既割当単字リストに含まれる(山壁等の語で既出)。同字共有可: 中国語の「壁」は wall/内壁/体壁の全義を母語的に持つため共有問題なし。衝突として申告。",
+                      "confidence":  "high"
+                  },
+                  {
+                      "root":  "napalm",
+                      "n":  3,
+                      "gloss":  "【軍】ナパーム弾",
+                      "final":  "凝油",
+                      "verdict":  "accept",
+                      "problem":  "なし",
+                      "alt":  [
+                                  "凝固油",
+                                  "燃凝",
+                                  "火凝油"
+                              ],
+                      "collision":  "なし(凝・油とも既割当単字の母語的義域内での2字組合せ。新規単字衝突なし)",
+                      "confidence":  "medium"
+                  },
+                  {
+                      "root":  "terciar",
+                      "n":  3,
+                      "gloss":  "【学】第三の,三次の,\u003e\u003esekundara;【地質】第三紀の,\u003e\u003ekvaternara",
+                      "final":  "三",
+                      "verdict":  "accept",
+                      "problem":  "なし",
+                      "alt":  [
+                                  "第三",
+                                  "叁"
+                              ],
+                      "collision":  "三 は既割当(基数3)。同字共有だが、序数「第三/三次」義は中国語で 三 が母語的に保持するため共有可。衝突として申告する。",
+                      "confidence":  "medium"
+                  },
+                  {
+                      "root":  "serp",
+                      "n":  3,
+                      "gloss":  "［他］（鎌で）刈る",
+                      "final":  "刈",
+                      "verdict":  "accept",
+                      "problem":  "なし",
+                      "alt":  [
+                                  "割",
+                                  "收",
+                                  "剪"
+                              ],
+                      "collision":  "なし。刈 は既割当単字リストに不在で新規。衝突なし。",
+                      "confidence":  "high"
+                  },
+                  {
+                      "root":  "tamil",
+                      "n":  3,
+                      "gloss":  "（la 〜）タミル語,タミール語",
+                      "final":  "未対応",
+                      "verdict":  "accept",
+                      "problem":  "固有名詞",
+                      "alt":  [
+                                  "未対応"
+                              ],
+                      "collision":  "なし",
+                      "confidence":  "high"
+                  },
+                  {
+                      "root":  "polm",
+                      "n":  3,
+                      "gloss":  "【解】手のひら,=manplato",
+                      "final":  "掌",
+                      "verdict":  "accept",
+                      "problem":  "なし",
+                      "alt":  [
+                                  "手掌",
+                                  "手"
+                              ],
+                      "collision":  "なし(掌は既割当単字リストに存在しない)",
+                      "confidence":  "high"
+                  },
+                  {
+                      "root":  "penis",
+                      "n":  3,
+                      "gloss":  "【解】陰茎,ペニス",
+                      "final":  "阴茎",
+                      "verdict":  "revise",
+                      "problem":  "不透明",
+                      "alt":  [
+                                  "阴",
+                                  "鞭"
+                              ],
+                      "collision":  "茎は既割当リストに存在。植物セグメント(stem/stalk系)と同字共有の懸念あり。中国語で茎は植物の茎と陰茎(阴茎)両義を担うため母語的共有は可だが、最終識別子パスでの衝突解消対象として申告。",
+                      "confidence":  "medium"
+                  },
+                  {
+                      "root":  "but",
+                      "n":  3,
+                      "gloss":  "［他］【農】根に土をかける,土寄せする",
+                      "final":  "培",
+                      "verdict":  "accept",
+                      "problem":  "なし",
+                      "alt":  [
+                                  "壅"
+                              ],
+                      "collision":  "培 は既割当リストに既存(おそらく「培う/養成」系)。同字共有。培の原義(培土=根に土を盛る)が本セグメントの中心義であり母語的に全義包含するため共有可だが、最終識別子パスで衝突解消が必要。申告する。",
+                      "confidence":  "high"
+                  },
+                  {
+                      "root":  "tac^ment",
+                      "n":  3,
+                      "gloss":  "［他］分遣する,派遣する",
+                      "final":  "遣",
+                      "verdict":  "accept",
+                      "problem":  "なし",
+                      "alt":  [
+                                  "派遣",
+                                  "分遣",
+                                  "派"
+                              ],
+                      "collision":  "遣 は既割当単字リストに無く新規。衝突なし。近義の 派/送/分 は既割当だが本字とは別字で重複しない。",
+                      "confidence":  "high"
+                  },
+                  {
+                      "root":  "sensaci",
+                      "n":  3,
+                      "gloss":  "扇情的な,世間を驚かせる,センセーショナルな",
+                      "final":  "轰动",
+                      "verdict":  "revise",
+                      "problem":  "日中乖離",
+                      "alt":  [
+                                  "耸",
+                                  "哄",
+                                  "惊"
+                              ],
+                      "collision":  "既割当字「轰」と共有(orig: 轰=轟音/爆発系の語根に既割当の可能性)。中国語は「轰」で轰动(センセーション)も轰鸣(轟音)も両義を母語的に持つため共有可。衝突申告: 轰",
+                      "confidence":  "medium"
+                  },
+                  {
+                      "root":  "hurl",
+                      "n":  3,
+                      "gloss":  "［自］（オオカミ・犬が）ほえる,遠吠えする,\u003e\u003eululi",
+                      "final":  "嗥",
+                      "verdict":  "accept",
+                      "problem":  "なし",
+                      "alt":  [
+                                  "嚎",
+                                  "嗷",
+                                  "吼"
+                              ],
+                      "collision":  "なし（嗥 は既割当単字リストに未出現）。類字「吠」(既割当, bark)とは語義差(単発吠え vs 遠吠え)で区別。",
+                      "confidence":  "medium"
+                  },
+                  {
+                      "root":  "mate",
+                      "n":  3,
+                      "gloss":  "【植】マテチャ;【料】マテ茶",
+                      "final":  "未対応",
+                      "verdict":  "accept",
+                      "problem":  "音訳",
+                      "alt":  [
+                                  "茶(汎用茶。te=茶と衝突し固有植物を特定できず不採用)",
+                                  "马黛茶(中国語標準形だが音訳のため不採用)"
+                              ],
+                      "collision":  "茶 は既に root te=茶 が保持。mate に茶を流用すると衝突し、かつ植物特定性を失う。未対応のため新規衝突なし。",
+                      "confidence":  "high"
+                  },
+                  {
+                      "root":  "iredent",
+                      "n":  3,
+                      "gloss":  "【史】（領土が）未回収の",
+                      "final":  "待收",
+                      "verdict":  "accept",
+                      "problem":  "なし",
+                      "alt":  [
+                                  "未收",
+                                  "待复",
+                                  "待回"
+                              ],
+                      "collision":  "なし(「待」「收」とも既割当単字に存在するが、2字熟語としての「待收」は新規。母語的に全義を持つ範囲で共有可)。",
+                      "confidence":  "medium"
+                  },
+                  {
+                      "root":  "gilbert",
+                      "n":  3,
+                      "gloss":  "【理】ギルバート（起磁力のCGS単位）",
+                      "final":  "未対応",
+                      "verdict":  "accept",
+                      "problem":  "音訳",
+                      "alt":  [
+                                  "磁(起磁力の連想だが単位名としては不適・固有名詞性喪失)"
+                              ],
+                      "collision":  "なし（未対応のため単字割当なし）",
+                      "confidence":  "high"
+                  },
+                  {
+                      "root":  "deflaci",
+                      "n":  3,
+                      "gloss":  "［自］デフレーションをおこす",
+                      "final":  "缩",
+                      "verdict":  "accept",
+                      "problem":  "なし",
+                      "alt":  [
+                                  "紧",
+                                  "贬"
+                              ],
+                      "collision":  "缩 は既割当単字リストに存在(共有)。中国語で 缩=縮む全般を母語的に担うため共有可。同綴り識別が必要なら最終識別子パスで解消。",
+                      "confidence":  "medium"
+                  },
+                  {
+                      "root":  "kalistegi",
+                      "n":  3,
+                      "gloss":  "【植】ヒルガオ（属）,\u003e\u003ekonvolvulo",
+                      "final":  "旋花",
+                      "verdict":  "revise",
+                      "problem":  "なし",
+                      "alt":  [
+                                  "萼覆",
+                                  "打碗花"
+                              ],
+                      "collision":  "なし",
+                      "confidence":  "high"
+                  },
+                  {
+                      "root":  "cianat",
+                      "n":  3,
+                      "gloss":  "【化】【PIV】Organika derivaj^o de la nestabila izocianata acido ",
+                      "final":  "氰酸",
+                      "verdict":  "accept",
+                      "problem":  "なし",
+                      "alt":  [
+                                  "氰",
+                                  "氰酸盐"
+                              ],
+                      "collision":  "氰 は既割当単字リストにあり共有。2字「氰酸」とすることで cian(氰) 単体との衝突を回避し、cianate の酸根義を明示。酸 も既割当(多義基礎字)で母語的に全義を持つため共有可。",
+                      "confidence":  "high"
+                  },
+                  {
+                      "root":  "analitik",
+                      "n":  3,
+                      "gloss":  "解析幾何学##偽分解",
+                      "final":  "析",
+                      "verdict":  "accept",
+                      "problem":  "なし",
+                      "alt":  [
+                                  "解",
+                                  "分析"
+                              ],
+                      "collision":  "既割当字「析」と共有(既に analiz 系などで使用の可能性)。中国語が「分析」の中核義を母語的に持つため共有可。最終識別子パスで解消可能。",
+                      "confidence":  "high"
+                  },
+                  {
+                      "root":  "lami",
+                      "n":  3,
+                      "gloss":  "【植】オドリコソウ（種）",
+                      "final":  "野芝麻",
+                      "verdict":  "accept",
+                      "problem":  "なし",
+                      "alt":  [
+                                  "野芝麻",
+                                  "未対応"
+                              ],
+                      "collision":  "「芝麻」はゴマ(sezam-)と完全衝突するため単独使用不可。「野」は既割当の汎用字。正式名「野芝麻」3字は方針の2字優先に反する。",
+                      "confidence":  "low"
+                  },
+                  {
+                      "root":  "gumigut",
+                      "n":  3,
+                      "gloss":  "ガンボージ,藤黄（とうおう）（黄色樹脂）",
+                      "final":  "藤黄",
+                      "verdict":  "accept",
+                      "problem":  "なし",
+                      "alt":  [
+                                  "黄脂",
+                                  "黄胶"
+                              ],
+                      "collision":  "藤 は既割当単字リストに無く新規(衝突なし)。黄 は flav に既割当だが熟語構成要素としての共有で、中国語が母語的に全義を持つため許容範囲。",
+                      "confidence":  "high"
+                  },
+                  {
+                      "root":  "s^mac",
+                      "n":  3,
+                      "gloss":  "［自］（キス・食事など口で吸うとき）チュッと音を立てる",
+                      "final":  "咂",
+                      "verdict":  "accept",
+                      "problem":  "なし",
+                      "alt":  [
+                                  "啧",
+                                  "嘬",
+                                  "嘖"
+                              ],
+                      "collision":  "なし(既割当単字リストに「咂」は未登場)。",
+                      "confidence":  "medium"
+                  },
+                  {
+                      "root":  "c^ant",
+                      "n":  3,
+                      "gloss":  "【楽】グレゴリオ聖歌",
+                      "final":  "咏",
+                      "verdict":  "accept",
+                      "problem":  "なし",
+                      "alt":  [
+                                  "唱",
+                                  "歌"
+                              ],
+                      "collision":  "なし(新規衝突なし)。咏は既に psalm(content/pejvo)に割当済みで、本セグメント c^ant(聖歌・詠唱)と中心義(詠唱)が一致するため母語的に同字共有可。一方 唱 は kant(歌う)・ĥor(合唱)が保持しており、それらの一般「歌唱」義と聖歌の「詠唱」を区別する意味でも咏が適切。",
+                      "confidence":  "medium"
+                  },
+                  {
+                      "root":  "punik",
+                      "n":  3,
+                      "gloss":  "【植】【PIV】G. (Genro) (Punica el punikacoj) de 2 sp-oj (specioj",
+                      "final":  "榴",
+                      "verdict":  "accept",
+                      "problem":  "なし",
+                      "alt":  [
+                                  "石榴",
+                                  "未対応"
+                              ],
+                      "collision":  "榴 は既に granat(ザクロ)に割当済み。punik(Punica属=ザクロ属)も同一のザクロ概念を指すため、中国語が両義を母語的に持つ共有可ケース。最終識別子パスで弁別。共有を申告。",
+                      "confidence":  "medium"
+                  },
+                  {
+                      "root":  "arakid",
+                      "n":  3,
+                      "gloss":  "ピーナッツバター,=ternuksbutero",
+                      "final":  "花生",
+                      "verdict":  "accept",
+                      "problem":  "なし",
+                      "alt":  [
+                                  "落花生",
+                                  "生"
+                              ],
+                      "collision":  "花 and 生 are each already assigned as single characters with other meanings (花=flower, 生=birth/live). No collision at the compound level — 花生 as a 2-character unit is distinct and the policy permits character sharing where Chinese natively carries all senses. The peanut sense lives only in the bound compound.",
+                      "confidence":  "high"
+                  },
+                  {
+                      "root":  "ulul",
+                      "n":  3,
+                      "gloss":  "［自］（狼のように長く不吉な）遠吠えをする;（梟などが）ほうほうと鳴く;（サイレンなどが）うなる",
+                      "final":  "嚎",
+                      "verdict":  "accept",
+                      "problem":  "なし",
+                      "alt":  [
+                                  "嗥",
+                                  "嗷"
+                              ],
+                      "collision":  "なし(嚎は既割当単字リストに不在)。近縁の吼(roar)・鸣(鳴く)とは別字で衝突しない。",
+                      "confidence":  "high"
+                  },
+                  {
+                      "root":  "atribu",
+                      "n":  3,
+                      "gloss":  "［他］割り当てる;（〜の）せいにする",
+                      "final":  "归",
+                      "verdict":  "accept",
+                      "problem":  "なし",
+                      "alt":  [
+                                  "拨",
+                                  "配"
+                              ],
+                      "collision":  "既割当単字リストに 归 は無く、衝突なし。",
+                      "confidence":  "medium"
+                  },
+                  {
+                      "root":  "raki",
+                      "n":  3,
+                      "gloss":  "【解】【PIV】Vertebra kolumno.",
+                      "final":  "脊",
+                      "verdict":  "accept",
+                      "problem":  "なし",
+                      "alt":  [
+                                  "脊柱",
+                                  "椎"
+                              ],
+                      "collision":  "脊 は既に spin(脊・spine)に割当済み、かつ first の見出しおよび h^ord(脊索)の頭字でも使用。raki/o は spin/o の同義(ともに vertebra kolumno=脊柱)であり、母語的に脊が全義を担うため共有は妥当。最終識別子パスで弁別する前提で申告する。なお椎=vertebr、柱・脊ともに既割当のため、衝突回避が必須なら2字「脊柱」を採用可。",
+                      "confidence":  "high"
+                  },
+                  {
+                      "root":  "sarkom",
+                      "n":  3,
+                      "gloss":  "【医】【PIV】Maligna tumoro, evoluinta el konektivo: ostosarkomo,",
+                      "final":  "肉瘤",
+                      "verdict":  "revise",
+                      "problem":  "日中乖離",
+                      "alt":  [
+                                  "瘤",
+                                  "肉瘤"
+                              ],
+                      "collision":  "癌 はkancer/o(癌)など他の悪性腫瘍系語根と衝突する可能性。最終識別子パスで弁別。中国語の「癌」は悪性腫瘍全般を母語的に指すため共有可。",
+                      "confidence":  "medium"
+                  },
+                  {
+                      "root":  "public",
+                      "n":  3,
+                      "gloss":  "［他］（政治的・社会的問題について）新聞雑誌に発表する",
+                      "final":  "公",
+                      "verdict":  "accept",
+                      "problem":  "なし",
+                      "alt":  [
+                                  "开",
+                                  "众"
+                              ],
+                      "collision":  "既割当単字リストに「公」が既出(共有)。中国語が「公=公的/公開/公衆」の全義を母語的に保持するため共有可。最終識別子はパスで解消。",
+                      "confidence":  "high"
+                  },
+                  {
+                      "root":  "pasament",
+                      "n":  3,
+                      "gloss":  "［他］（衣服や家具などに）飾りひもをつける",
+                      "final":  "绦",
+                      "verdict":  "accept",
+                      "problem":  "なし",
+                      "alt":  [
+                                  "带",
+                                  "饰",
+                                  "绳"
+                              ],
+                      "collision":  "绦 は既割当単字リストに無く、新規。衝突なし。",
+                      "confidence":  "medium"
+                  },
+                  {
+                      "root":  "gonokok",
+                      "n":  3,
+                      "gloss":  "【医】淋菌（りんきん）",
+                      "final":  "淋菌",
+                      "verdict":  "accept",
+                      "problem":  "なし",
+                      "alt":  [
+                                  "淋球菌",
+                                  "菌"
+                              ],
+                      "collision":  "なし（「淋菌」の2字組として新規。単字の淋・菌は既存だが本セグメントは固有の2字熟語で語義一意）。",
+                      "confidence":  "high"
+                  },
+                  {
+                      "root":  "brankard",
+                      "n":  3,
+                      "gloss":  "【医】担架",
+                      "final":  "担架",
+                      "verdict":  "accept",
+                      "problem":  "なし",
+                      "alt":  [
+                                  "架"
+                              ],
+                      "collision":  "なし(担・架は既割当単字リストに不在)。",
+                      "confidence":  "high"
+                  },
+                  {
+                      "root":  "svelt",
+                      "n":  3,
+                      "gloss":  "すらりとした,すんなりとした,ほっそりした,=elegante maldika",
+                      "final":  "苗条",
+                      "verdict":  "revise",
+                      "problem":  "不透明",
+                      "alt":  [
+                                  "苗条",
+                                  "细",
+                                  "瘦"
+                              ],
+                      "collision":  "「苗」は既割当単字リストに存在(おそらく植物のsidpro/苗木系の語根に既使用)。同字共有となるが、中国語で「苗」は苗木義と苗条(slender)義の両方を母語的に持つため共有可。最終識別子パスで衝突解消可能。要申告。",
+                      "confidence":  "medium"
+                  },
+                  {
+                      "root":  "aceton",
+                      "n":  3,
+                      "gloss":  "【化】アセトン",
+                      "final":  "丙酮",
+                      "verdict":  "revise",
+                      "problem":  "日中乖離",
+                      "alt":  [
+                                  "丙酮",
+                                  "酮"
+                              ],
+                      "collision":  "「酮」は新規字(既割当単字リストに無し)。ただしケトン語根 keton/o と将来衝突する可能性が高い。keton が「酮」を取る場合、aceton は識別子パス末尾で区別するか丙酮への2字化が必要。",
+                      "confidence":  "medium"
+                  },
+                  {
+                      "root":  "hajk",
+                      "n":  3,
+                      "gloss":  "【文】俳句",
+                      "final":  "俳句",
+                      "verdict":  "accept",
+                      "problem":  "なし",
+                      "alt":  [
+                                  "俳"
+                              ],
+                      "collision":  "句 is already in the assigned single-character list (used for phrase/sentence). Here it appears only as the second character of the fixed compound 俳句; 俳 is newly introduced. No standalone collision since 俳句 is an inseparable lexical unit.",
+                      "confidence":  "high"
+                  },
+                  {
+                      "root":  "mitul",
+                      "n":  3,
+                      "gloss":  "【貝】イガイ（貽貝）（属）,ムール貝",
+                      "final":  "蚌",
+                      "verdict":  "accept",
+                      "problem":  "なし",
+                      "alt":  [
+                                  "贻贝",
+                                  "贝",
+                                  "蛤"
+                              ],
+                      "collision":  "蚌は新規割当（既割当単字リストに無し）。衝突なし。",
+                      "confidence":  "medium"
+                  },
+                  {
+                      "root":  "torak",
+                      "n":  3,
+                      "gloss":  "【解】胸郭;【虫】（昆虫の）胸部",
+                      "final":  "胸",
+                      "verdict":  "accept",
+                      "problem":  "なし",
+                      "alt":  [
+                                  "胸郭",
+                                  "胸廓"
+                              ],
+                      "collision":  "「胸」は既割当単字リストに存在。共有となるが、中国語の胸が thorax/胸郭/昆虫胸部の全義を母語的に持つため共有可。要申告。",
+                      "confidence":  "high"
+                  },
+                  {
+                      "root":  "tranc",
+                      "n":  3,
+                      "gloss":  "［自］（霊媒が）神がかり状態である",
+                      "final":  "附身",
+                      "verdict":  "revise",
+                      "problem":  "不透明",
+                      "alt":  [
+                                  "灵",
+                                  "恍",
+                                  "巫"
+                              ],
+                      "collision":  "附（既割当字。中国語で「附身=憑依」の義を母語的に保持するため共有可。最終識別子パスで解消想定）",
+                      "confidence":  "low"
+                  },
+                  {
+                      "root":  "transpir",
+                      "n":  3,
+                      "gloss":  "【PIV】(ntr (netransitiva)) 1 Elimini akvovaporon el sia korpo",
+                      "final":  "蒸",
+                      "verdict":  "revise",
+                      "problem":  "日中乖離",
+                      "alt":  [
+                                  "蒸",
+                                  "渗"
+                              ],
+                      "collision":  "汗 は既割当単字一覧に存在(sweat 系)。本セグメント transpir(発汗)と意味同系のため共有妥当だが、ŝvit-(汗)系語根と衝突する可能性あり。中国語「汗」が発汗・汗の両義を持つため共有可だが、最終識別子パスでの区別を要申告。",
+                      "confidence":  "high"
+                  }
+              ],
+    "revised":  [
+                    {
+                        "root":  "vobl",
+                        "from":  "摆",
+                        "to":  "摇",
+                        "problem":  "なし",
+                        "reason":  "提案の「衝突なし」は誤り。master(_kanji_map_master.tsv:2598)で摆はpendol(振り子/pendulum=摆/摆锤)に既割当。文字共有自体は方針上可だが、摆は中国語で「振り子(钟摆)/置く(摆放)」が中心で器物pendolの定字。vobl=(車輪が回転中に周期的に傾く)wobble/oscillateは「揺動・振動」系列に属し、当系列はmasterで既に基底字摇に統一済(balanc→摇, sku→摇, ŝancel→摇)。MEMORYの「同一意味系列は同じ基底字で統一」に従い、vobl(摇摆/摇晃=wobble)は摇が透明かつ系列整合的。摇は一級内(2841)。よってpendolの器物字摆ではなく揺動系列の基底字摇を採用。"
+                    },
+                    {
+                        "root":  "obez",
+                        "from":  "目鲔",
+                        "to":  "胖",
+                        "problem":  "不透明",
+                        "reason":  "提案は語根義を取り違えている。検証対象セグメントは見出し obez/a 単体であり、PIV(k31345)定義は「Dikventra, trafita de obezeco」=肥満した・obeso(肥満)に冒された、という【医】の語。派生 obezeco=肥満。つまり obez の中心義は「肥満・太い」であって「目(eye)」ではない。提案「目鲔」は(1)セグメント範囲の誤り—辞書句 obez/a tinus/o の tinus は別セグメントで既に鲔に割当済み(master:3366)。obez 単独の割当に他セグメントの鲔を巻き込むのは不可。(2)意味の誤り—英名 bigeye tuna の「目」をエスペラント語根に当てているが、エスペラント語根 obez は「obese=肥満」(Thunnus obesus=肥満の、の意訳)で「目」要素は語根に存在しない。よって「目鲔」は obez の語義を全く訳しておらず不透明。正しくは obez=肥満を透明1字で訳す。胖(肥満・太る、人の肥満の最も精確な常用字)を採用。肥は既に fekund に割当済みだが共有可ではあるものの、肥満専用義として胖がより透明。1字で中心義を担うため省エネ原則にも適合。"
+                    },
+                    {
+                        "root":  "travesti",
+                        "from":  "讽",
+                        "to":  "戏仿",
+                        "problem":  "日中乖離",
+                        "reason":  "却下。(1)衝突申告が事実誤認: 讽は _kanji_map_master.tsv:1852 で karikatur(カリカチュア/諷刺画化)に既に確定バインド済み。提案の「VALIDATION上で確定バインド無し」は誤り。さらに 讽刺=satir(風刺)も確定済みで、讽 は完全に風刺・戯画クラスタに帰属する。(2)語義乖離: travesti の中心義は「(文学作品を)もじる・茶化す=burlesko/karikatura imitaĵo」すなわち滑稽・戯れの模倣(パロディー)であり、PIVも sense2 で burleskan, karikaturan imitaĵon と定義。一方 讽 は中国語で「風刺=あてこすり・批判的諷喩」を意味し、travesti(批判性を必ずしも伴わない戯作的模倣)と核がずれる。もじり≠風刺。VALIDATION でも travesti/o は \u003e\u003eparodio を参照し、本質はパロディー。(3)未バインドの近縁根 parodio(パロディー化する)が存在し、travesti はその一種。風刺字 讽 を当てるのは概念混同。(4)中国語標準形では「パロディー/もじり」は戏仿が定訳。戏(既割当)+仿(=imit, 既割当)で「戯れに模倣する」=もじり・茶化しを最も透明に表し、嘲(mok)・讽(karikatur/satir)とも明確に分離。共有は識別子パスで解消可。よって final=戏仿(2字意味訳)。"
+                    },
+                    {
+                        "root":  "epitom",
+                        "from":  "概",
+                        "to":  "抄",
+                        "problem":  "冗長2字",
+                        "reason":  "「概」は既に4語根に割当済み(probabl=概率, resum=概要/概括, koncept=概念, sinoptik=概观)で、最も近接するのが resum=概。epitom/o は語義参照が \u003e\u003eresumo、PIV定義は「Fari eltiraĵon el longa verko(長い作品から抜粋を作る)」であり、resum とほぼ同義。「概」を当てると resum と完全同枠になり epitom の弁別的中心義「抜粋(eltiraĵo)」を取りこぼし、redundant となる。「概」は梗概/概要(=resum枠)を担うが「抜粋」義を持たない。同義の resum が既に概枠を占有する以上、epitom には弁別性ある透明字が望ましい。「抄」は抄録=抜粋/要録の中心義を担い、日中双方に透明、《通用规范汉字表》一级、かつ未割当。「摘」は pluk に既割当・「略」は strategi に既割当。よって final=抄(1字・意味透明・衝突なし)。"
+                    },
+                    {
+                        "root":  "s^agrin",
+                        "from":  "鲨",
+                        "to":  "鲨皮",
+                        "problem":  "冗長2字",
+                        "reason":  "語義は「粒起革の・さめ皮の・さめ肌の」で、ŝagrino はサメ/エイ皮または粒立てした革(シャグリン革)を指す。単字「鲨」は中国語でも日本語でも第一義が動物「サメ」であり、単独では「粒起革・さめ皮・さめ肌」という革・皮膚のざらつき感(核心義)を透明に伝えない。原則は「その1字の主要義が語根義を含む場合のみ1字」だが、「鲨」の主要義(動物サメ)は語根義(さめ皮・粒起革)を含まないため多字化条件(a)に該当する。シャグリン革の中国語標準語は「鲨皮」であり、これがさめ皮・さめ肌の核心を2字で透明に表す。音訳でなく意味訳であり、提案理由内でも代替として「鲨皮」を挙げている。よって単字「鲨」は却下し「鲨皮」に修正。衝突申告(鲨は既割当=サメの意で識別子パスにて解消、同一系列で共有可)。"
+                    },
+                    {
+                        "root":  "atut",
+                        "from":  "王",
+                        "to":  "王牌",
+                        "problem":  "不透明",
+                        "reason":  "語義は「切り札」(trump card)。提案の単字「王」は、その単独主要義が「王/君主」であり、これは既に reĝ に割当済みの中心義そのもの。「切り札」の意味は二字熟語「王牌」の中でのみ成立し、単独の「王」は中国語読者に trump を喚起しない(号=trumpet, 使=angel と同型の不透明ケース)。方針は1字が中心義を担えない場合「2字で意味を立たせよ」を最優先とする。中国語標準訳「王牌」は両字とも一級の基礎字で完全に意味透明・標準形であり、音訳でも冗長でもない。よって単字「王」を却下し、透明2字「王牌」を採用する。なお super/atut/i(より強い切り札で切る)等の派生も「王牌」基底で一貫処理可能。"
+                    },
+                    {
+                        "root":  "forniks",
+                        "from":  "脑弓",
+                        "to":  "穹窿",
+                        "problem":  "日中乖離",
+                        "reason":  "提案は却下。誤りは2点。(1)セグメント誤同定: 見出し forniks/o の本義は特定の「脳弓」ではなく一般解剖名「fornix=穹窿/円蓋」。PIV定義は「jen volboformaj(vagina/cerba fornikso), jen arkoforma(konjunktiva fornikso)」と複数構造を指し、PEJVO学習者版の素見出し訳も【解】円蓋。脳弓は cerb/a forniks/o(脳+forniks)という複合の訳であり、「脑」は修飾語 cerb/a に属する。提案はこの「脑」を root forniks に混入させており、cerb/a forniks/o が脑+脑弓と脳が二重化し複合系が破綻する。root には脳要素を入れてはならない。(2)中国語標準形でない: fornix の中国標準解剖名は「穹窿」(脑穹窿/阴道穹窿/结膜穹窿)で全義に共通。脳弓は非標準の直訳造語。よって root forniks には全義に透明・標準の「穹窿」を当てる。穹窿は二级専門字だが専門解剖名として正当(元素字等と同様の専門例外)。これにより cerb/a forniks/o=脑穹窿, konjunktiv/a forniks/o=结膜穹窿 と正しく合成可能。音訳でなく意味訳が成立する内容語のため未対応にはしない。"
+                    },
+                    {
+                        "root":  "knik",
+                        "from":  "弯",
+                        "to":  "座屈",
+                        "problem":  "日中乖離",
+                        "reason":  "提案の語義読解(knik/i=座屈、構造材が軸圧縮で側方に折れ曲がる技術用語)は正確。だが提案字「弯」はマスター(_kanji_map_master.tsv 1088行 content fleks 弯)で語根 fleks(曲げる/たわめる、fleks/aj^/o=たわみ/deflection)の専用意味訳字であり、提案が言う「単に共有リストの字」ではない。fleks は弯・屈(pejvo fleksi 屈)の両方で汎用「曲げ」域を既に占有。knik は座屈という別個かつ特定の構造破壊現象(軸圧縮下の側方不安定、PIV曰く崩壊直前の危険現象)で、fleks の主担字をそのまま当てると両語根が区別不能になり knik 固有の専門義(座屈)が消える。方針の「最も意味透明な字/類義語根の弁別」に反する。1字候補の屈も fleks(pejvo)に紐付くため、弁別性と透明性を両立する標準中国語工学用語「座屈」(日中とも座屈=buckling で完全透明、座は既割当)を2字意味訳として採用すべき。"
+                    },
+                    {
+                        "root":  "remork",
+                        "from":  "驳",
+                        "to":  "拖车",
+                        "problem":  "日中乖離",
+                        "reason":  "提案「驳」は却下。remork/o の中心義は「曳航される乗物=トレーラー/被曳航車」(PIVの語義2が日常義、remork/i=treni post si=曳いて従える、cross-ref ruldomo/postveturilo)であり、語義1のバージは副次。「驳(驳船)」が透明に表すのは語義1のバージのみで、支配的なトレーラー義を全く表さない。中国語読者は「驳」を見て第一に反駁(refut)、せいぜいバージしか読まず、トレーラー義は不透明=透明性チェック(2)失敗。加えて「驳」は既に root refut(反駁)に割当済で衝突。共有方針は「中国語が全義を母語的に持つ限り可」だが、refut義とremork中心義(トレーラー)は別字義であり、remorkの中心義を担えないため共有の意義がない。remork は定義動詞 treni(=拖、既に root tren に割当)由来の「曳かれる物」。1字で中心義(トレーラー)を透明に担う未使用字が無いため(拖=tren既割当、挂=pend既割当)、最大2字規則に従い透明な意味訳「拖车」を採用。拖(曳く)+车(乗物)で被曳航車/トレーラーを透明に表し、バージ(被曳航船)にも拡張的に通じ、定義動詞 treni(拖)と意味系列を統一できる。拖・车とも一级字、音訳でなく固有名詞でもない。"
+                    },
+                    {
+                        "root":  "c^ambelan",
+                        "from":  "侍",
+                        "to":  "侍臣",
+                        "problem":  "冗長2字",
+                        "reason":  "ĉambelano=chamberlain(侍従)は内容語で意味訳可。提案の単字「侍」は意味訳・透明で音訳でなく日中乖離もないが、二つの問題がある。(1)「侍」は既に kelner(给仕/ウェイター)に割当済みで、単字「侍」の中心義は「仕える・給仕」という一般的役務であり、君主の宮廷官たる chamberlain の弁別義(王室・宮廷の官職)を担わない。原則「(a)その1字の主要義が語根義を含まない」に該当し、2字化を優先すべき場面。(2)単字共有は方針上許容だが、最良の意味透明字を維持せよとあり、ここでは弁別義を補う第2字が透明性を高める。「侍臣」は君主に仕える宮廷官=chamberlain を直截に表し、臣も既割当単字集合内で透明。3字以上ではなく2字に収まる適切な意味訳のため、final=侍臣 に修正。"
+                    },
+                    {
+                        "root":  "tonik",
+                        "from":  "强",
+                        "to":  "主",
+                        "problem":  "不透明",
+                        "reason":  "tonik/a は明確なhomonym(多義): 【楽】主音の と 【薬】強壮にする。提案 强 は薬学義「強壮(强壮剤=tonic)」のみを担い、これは中国語で透明。しかし辞書見出し tonik/a の代表義は音楽の「主音(tonic note=音階第一音)」であり、强 はこの主音義を全く透明に再現できない(强 から「主音」は復元不可能。提案の「主たる調を支える強さ」は牽強付会)。homonym で一字が両義を透明に担えない典型例で、代表見出し義(主音)を取りこぼす点が不透明問題。両義の語源核は「張力・トーン(tonos)」だが、最も透明に主たる音楽義を担うのは 主(主音=tonic)。主 は日中とも完全透明で、薬学義の「主たる作用・主薬」にも緩く整合し、代表義への適合度が强より高い。よって 强 を却下し 主 に修正。"
+                    },
+                    {
+                        "root":  "brig",
+                        "from":  "桅船",
+                        "to":  "双桅",
+                        "problem":  "不透明",
+                        "reason":  "桅船=「マスト付き船」は generic すぎ、brig の定義的特徴(横帆を張った二本マストの帆船)を示せない。ほぼ全ての帆船はマストを持つため透明性が低く、かつ近接する船型語(kutr=一本マスト, skun=二本以上の縦帆船, lugr, brigantin 等)とも意味空間で衝突する。中国語標準形は「双桅船」(二本マストの船)。≤2字方針下で定義的特徴を最も透明に保持するのは「双桅」(two-mast)で、双・桅とも既割当単字を用い、kutr=単桅 等との弁別も効く。よって桅船→双桅へ修正。固有名詞でも音訳でもないので未対応は不要。"
+                    },
+                    {
+                        "root":  "procelari",
+                        "from":  "海燕",
+                        "to":  "鹱",
+                        "problem":  "日中乖離",
+                        "reason":  "提案「海燕」は語義の指示対象を誤る。procelari/o は属 Procellaria（科 Procellariidae=鹱科、PIV は \"Vd pufino\"=Puffinus と相互参照）。本データ自身の和訳も procelario=ミズナギドリ（mar/hirund/o および s^torm/o/bird/o の注で「procelario＝ミズナギドリ」）と扱う。中国語「海燕」は storm petrel（科 Hydrobatidae/Oceanitidae）すなわち別科で、エス語では petrelo / s^tormobirdo（=ウミツバメ）に対応し、procelario とは別物。PIV の \"hirundsimilaj\"（燕に似た）は描写的直喩にすぎず中国語標準名ではない。よって「海燕」は誤割当。提案が斥けた「鹱(hù)」こそ Procellariidae のミズナギドリ/シアウォーター類を指す中国語標準名で、語義に一致する。鹱は二级の専門鳥名だが、既割当には同種の鸟偏難字(鹳/鹬/鹭/鹃/鹊/鹰/鸥/鹦 等)が多数あり、専門・動植物名に二级字一字を当てる方針・前例に合致。原則1字を満たす最も意味透明な標準名として「鹱」を採用する。衝突なし(新規単字)。"
+                    },
+                    {
+                        "root":  "cens",
+                        "from":  "籍",
+                        "to":  "普",
+                        "problem":  "不透明",
+                        "reason":  "却下。「籍」は cens の中心義を取りこぼし、しかも既存語根 matrikul（matrikul/o=登録簿・名簿）の正に exact な義として既に割当済み(_kanji_map_master.tsv:3919)。cens/o(ケンスス)は徴税・徴兵目的の財産・人口の悉皆「調査・査定」であり、=popolnombrado(人口調査)。その弁別的核心は「全数を数え上げる調査」(查/普查)であって、結果物の静的な登録名簿(=籍=matrikul)ではない。提案自身も中国語標準を普查と認めつつ、調査の核を担う「查」を「行為のみ」と退け籍を採るが、行為(全数調査)こそ census を register から区別する本質。よって籍は cens に対し不透明であり、matrikul と機能的同字衝突(単なる字面共有でなく義の重複)を生む。代替として普查の核「普」(普遍・全数=悉皆調査)を単字採用。普は未使用で matrikul との義衝突を避け、census 固有の全数列挙ニュアンスを担い、1字最優先・日中透明の原則に適合。一級内(普=2741, 籍=3482, 查=1431 いずれも一級)で字種上の問題はない。"
+                    },
+                    {
+                        "root":  "etos",
+                        "from":  "韵",
+                        "to":  "氛",
+                        "problem":  "日中乖離",
+                        "reason":  "etos/o は雰囲気・気風・情調(ethos/atmosphere/Stimmung)を表す内容語で、意味訳可能。未対応にすべきではない点は提案に同意。ただし「韵」は適格でない。中国語の「韵」の中心義はあくまで「韻・音律・声韻」(韵母・押韵・音韵)であり、「韵味・神韵」は派生的な比喩義にすぎない。代表見出し etosa=ムード音楽の核は「音楽」ではなく「雰囲気・情調(ムード)」であり、「韵」を当てると音楽・音韻という別系統の義に引っ張られ、しかも既割当一覧の「韵」は本来の音韻義での共有であるため、雰囲気義との同字共有は意味透明性を損なう(中心義のズレ)。雰囲気・情調を最も透明・直接に表すのは「氛」(氛围=まさにatmosphere/ムードそのもの)で、これは日中ともに「雰囲気」の中心義を一字で担い、誤読の余地がない。提案は「氛が既割当一覧に無いから韵」と述べるが、方針上は最良の意味透明字を優先し衝突は識別子で解消するため、一覧未収載は新規一字割当を妨げない。したがって accept ではなく revise、final は「氛」。"
+                    },
+                    {
+                        "root":  "setl",
+                        "from":  "迁",
+                        "to":  "居",
+                        "problem":  "日中乖離",
+                        "reason":  "PIV: setl/i = \"Ekloĝi, instali sin en nova loko\"(新しい土地で住み始める/居を構える)。中心義は移り住んだ末に「定住・居を構える」結果状態。提案「迁(qiān)」の中国語中心義は「移動・転居・移転」(迁移/迁徙/搬迁)であり、過程(移動)の極を表す一方、setli の核は到着後の「住みつく」極。両者は意味極が逆方向でズレる。中国語標準でも「移住して定着」は定居/聚居、設置物 setlejo=定居点/聚居地 であって「迁所」ではない。1字なら「居」が「定居(=settle/住みつく)」の核を最も透明に担い、setlejo=聚居地/定居点 とも整合。「居」「迁」「殖」とも一級内。「殖」は繁殖義が主で不可、「迁」は移動義に寄り中心義不一致のため、最も意味透明な「居」に改める(既割当衝突は識別子で解消、共有可)。"
+                    },
+                    {
+                        "root":  "silvi",
+                        "from":  "未対応",
+                        "to":  "莺",
+                        "problem":  "なし",
+                        "reason":  "提案「未対応」は自滅的。提案自身が「中国語でこの鳥は莺(鶯)類」と認めており、透明な意味字が存在する。silvi/o は鳥類学の属 Sylvia（学名）を指し、その中国語属名は「莺属／林莺属」、見出し種 Sylvia atricapilla も「黑顶林莺」と、いずれも「莺」を基底字とする確立した意味訳がある（音訳ではない）。方針は「稀な語根でも特定動植物には積極的に良い透明漢字を当てよ」「未対応は純粋固有名詞・真の音訳語のみ」と明記。silvi は意味訳可能な内容語であり未対応は不可。「莺では他のムシクイと区別できない」という反論も無効——セグメント割当は中心義を写すもので、同綴り異義や種の細分は識別子パスで解消され、割当拒否の理由にならない。「莺」は中心義「ムシクイ/Sylvia類」を最も透明に担う1字。既割当単字リストに「莺」は未出（鹰/鹦/鸦/鸽等はあるが莺なし）で衝突なし。1字で意味成立、日中乖離・一級外難字等の問題なし。よって final=莺、verdict=revise。"
+                    },
+                    {
+                        "root":  "penis",
+                        "from":  "茎",
+                        "to":  "阴茎",
+                        "problem":  "不透明",
+                        "reason":  "標準中国語形は「阴茎」。提案の単字「茎」は標準形のうち形状を表す一般字(stalk/shaft)に過ぎず、penisの特定義を担うのはむしろ「阴」(陰部・生殖器の文脈)である。「茎」単独では読者は「植物の茎」を想起し penis としての意味透明性が成立しない(透明性チェック失敗)。さらに「茎」は既に tig(植物の茎)に割当済みで、そこでこそ主要義が透明。policy上、その1字の主要義が語根義を含まない場合は2字化を最優先とすべき(条件a該当)。したがって標準・非冗長・日中双方に透明な2字形「阴茎」が最適。同字共有による識別子解消に頼って単字の不透明さを補うのは透明性原則に反する。"
+                    },
+                    {
+                        "root":  "sensaci",
+                        "from":  "轰",
+                        "to":  "轰动",
+                        "problem":  "日中乖離",
+                        "reason":  "sensaci-の中心義は「(世間の)センセーション・大評判・大騒ぎ」。提案の単字「轰」は本PJで既にdetonaci(爆轰/detonation)に割当済みであり、轰の主要・単独義は「轟音・爆発・砲撃・追い払う」(轰炸/轰鸣/轰走)であって「センセーション」ではない。「世間を騒がせる」の義は束縛複合語「轰动」になって初めて生じる。よって単独「轰」は爆発系と読まれ、sensaci(扇情的)の中心義を透明に担えない(2字化条件a「単字の主要義が語根義を含まない」に該当)。提案者の核心的着眼「轰动=cause a sensation」は正しいので、それを透明・標準形のまま採る。中国語の標準語「轰动」(轰动效应=sensational effect, 轰动一时=世間を騒がせる)が正にsensacia/sensacii/sensacioの全義を母語的に担い、意味透明・音訳不要・固有名詞でない。単字共有の曖昧さ(轰=detonationとの混同)も回避できる。よって2字「轰动」へ修正する。"
+                    },
+                    {
+                        "root":  "kalistegi",
+                        "from":  "未対応",
+                        "to":  "旋花",
+                        "problem":  "なし",
+                        "reason":  "提案の「学名属名=固有名詞/音訳ゆえ未対応」は category error。割当対象はラテン形 Calystegia の音ではなく「この植物の意味」であり、ヒルガオ/旋花類は学名ではなく日常的に名前を持つ普通の蔓性植物。方針の長尾原則「稀でも特定の動植物には積極的に良い透明漢字を当てよ／未対応は純粋固有名詞・真の音訳・適字皆無のみ」に該当しない。中国語には透明な標準名 旋花(旋花科 Convolvulaceae の科名・Convolvulus=旋花属)があり、旋=巻きつく＋花=花 で蔓性の花という中心義が完全に透明(両字とも一級)。属レベルでの Calystegia/Convolvulus/Ipomoea 厳密弁別は透明性要件ではなく、cross-ref(kalistegi\u003e\u003ekonvolvulo の相互参照)が示すとおり同一植物群なので、基本形に群の透明字を与え識別子パスで姉妹語根が共有すればよい(両方を未対応にすると透明な内容語を取りこぼす)。代替候補: 牵牛=Ipomoea寄り＋「牽牛星/牛を引く」の日中乖離リスクで回避、打碗花=3字かつ「打碗(碗を割る)」が植物として不透明で回避。よって2字透明・中国語標準形の 旋花 を採用。衝突: 花 は既割当だが中国語が母語的に全植物名で共有可、識別子パスで解消。"
+                    },
+                    {
+                        "root":  "sarkom",
+                        "from":  "癌",
+                        "to":  "肉瘤",
+                        "problem":  "日中乖離",
+                        "reason":  "sarkom/o=肉腫(サルコーマ)。定義「結合組織由来の悪性腫瘍」は医学上カルチノーマ(上皮由来=癌)と峻別される間葉系悪性腫瘍であり、中国語標準形は「肉瘤」(肉腫)。提案の癌は誤り。(1)既に kancer/o=癌 が割当済で、癌へ統合すると sarkom(肉腫)と kancer(癌)という実在の医学的区別が消失する。(2)用例の ostosarkomo/kondrosarkomo/fibrosarkomo/miosarkomo は中国語で骨肉瘤/软骨肉瘤/纤维肉瘤/肌肉瘤=「肉瘤」であり「癌」とは呼ばない(日中乖離)。提案の「中国語の癌は悪性腫瘍全般を指す」は事実誤認。(3)瘤単字は tumor(瘤)に割当済で良性も含み悪性度・結合組織由来が出ず不適。中国語標準・意味透明の2字「肉瘤」が最適(肉=結合組織由来の肉様腫瘤の含意、瘤=腫瘍)。肉・瘤とも既割当字で識別子パスで弁別可。"
+                    },
+                    {
+                        "root":  "svelt",
+                        "from":  "苗",
+                        "to":  "苗条",
+                        "problem":  "不透明",
+                        "reason":  "svelt/a = elegante maldika(優美にほっそり)で、中国語標準語は「苗条」。提案の単字「苗」は致命的に不透明: 「苗」単独の主要義は「苗木/芽(seedling)」であり、「すらりとした」義を独立に持たない。slender義は束縛複合「苗条」の中でのみ生じ、細長さの語感はむしろ「条」が担う。提案自身も「本来の主義(苗木/芽)とは別に苗条の語感を担う」と認めており、これは方針が単字に禁ずる典型的な不透明性(criterion(a): その1字の主要義が語根義を含まない)。さらに「苗」は既に vakcin(疫苗=ワクチン)に割当済みで、これ自体が転義的・非字面的用法。そこへ第二の非字面義(slender)を重ねると、字面義(芽)でない借用義を2つ抱える単字となり、同字共有の許容条件「中国語が母語的に全義を持つ」を満たさない(「苗」は単独でslenderを意味しない)。方針は1字不可なら2字化を最優先とする。透明な中国語標準形「苗条」がそのまま elegante maldika に完全一致し、不透明性も衝突悪化も回避できる。よって単字「苗」は却下し「苗条」に修正。(関連語 gracil は未割当のため衝突なし)"
+                    },
+                    {
+                        "root":  "aceton",
+                        "from":  "酮",
+                        "to":  "丙酮",
+                        "problem":  "日中乖離",
+                        "reason":  "aceton/o は特定化合物アセトン(プロパノン CH3COCH3)。中国語標準名は「丙酮」。提案の単字「酮」は化学字で「ケトン類(\u003eC=O)」という総称概念そのものを表し、PIV にも別語根 keton/o(k21415, 定義: ketogrupon を含む物質=ケトン総称)が存在する。aceton の定義自体「senkolora likva ketono(一種のケトン)」とあり、aceton は種、keton は類。単字「酮」を種である aceton に与えると総称義を僭称し、類である keton/o との関係が属種逆転して意味透明性を損なう。これは綴り異義の homonym ではなく属種の意味食い違いのため識別子パスでは解消できない。総称字「酮」は keton/o に温存し、aceton には透明な中国語標準2字「丙酮」(丙=プロパン系+酮=ケトン)を当てるべき。原則1字・最大2字の範囲内で意味透明な2字訳が存在するため未対応化も不要。"
+                    },
+                    {
+                        "root":  "tranc",
+                        "from":  "附",
+                        "to":  "附身",
+                        "problem":  "不透明",
+                        "reason":  "単字「附」の中心義は「附着・付属・添える」であり、本プロジェクトでも既に incident=附 / adher=附 として「くっつく・付随」の義で割当済み。憑依・神がかり(trance)の義は単字「附」には宿らず、複合「附身/附体」になって初めて成立する——この複合では「身/体(=人の体に取り憑く)」が本質的な意味負荷を担う。したがって裸の「附」は中国語話者・日本語話者の双方に「付ける/添付」と読まれ、語根義(霊媒が神がかり状態である)を透明に表せない(日中とも主要義が「付着」で一致して誤導する=透明性欠如)。方針「1字が中心義を担えなければ2字で意味を立たせよ」に該当。標準的かつ透明な中国語「附身」(=霊が体に取り憑く・神がかり)は既割当の「附」を再利用しつつ「身」で憑依義を確定でき、最良。なお音訳語・固有名詞ではないため未対応にはしない。tranc^/i(=切る、切)とは別語根である点も確認済み(本セグメントはサーカムフレックス無しの tranc/i)。"
+                    },
+                    {
+                        "root":  "transpir",
+                        "from":  "汗",
+                        "to":  "蒸",
+                        "problem":  "日中乖離",
+                        "reason":  "PIV定義は「elimini akvovaporon el sia korpo」=体から水蒸気を排出。中心義は「水蒸気の放散(蒸散・蒸発)」であり、液体の汗ではない。提案の汗(sweat)は別語根ŝvit-に既割当で、そこと同義に潰れる。中国語「汗」は液体の汗のみを指し、「水蒸気を放散する」義を母語的に持たないため、同字共有の条件(中国語が全義を持つ)を満たさず共有不可。最も意味透明で「水蒸気放散」を直接表すのは蒸(蒸发/蒸腾/蒸散)。一級内・日中とも透明で1字十分、ŝvit-との衝突も解消。よって汗を却下し蒸を採用。"
+                    }
+                ],
+    "untargeted":  [
+                       "mah^",
+                       "sodom",
+                       "rikeci",
+                       "rentgen",
+                       "pind",
+                       "ger",
+                       "israel",
+                       "pteraspid",
+                       "kornval",
+                       "tamil",
+                       "mate",
+                       "gilbert"
+                   ]
+}
