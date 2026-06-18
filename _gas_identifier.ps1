@@ -11,6 +11,8 @@ function AfterHead($L){ $cons=New-Object System.Collections.ArrayList; $all=New-
 function FirstDivergent($arr,$seen){ for($i=0;$i -lt $arr.Count;$i++){ $ord=$i+1; $ch=$arr[$i]; if(-not $seen.ContainsKey($ord) -or -not $seen[$ord].Contains($ch)){ return $ch } }; return $null }
 function UpdateSeen($arr,$seen){ for($i=0;$i -lt $arr.Count;$i++){ $ord=$i+1; $ch=$arr[$i]; if(-not $seen.ContainsKey($ord)){ $seen[$ord]=New-Object System.Collections.Generic.HashSet[string] }; [void]$seen[$ord].Add($ch) } }
 
+function ToHsys([string]$s){ $s -replace 'ĉ','c^' -replace 'ĝ','g^' -replace 'ĥ','h^' -replace 'ĵ','j^' -replace 'ŝ','s^' -replace 'ŭ','u^' }
+$ovBase=@{}; if(Test-Path "$dir\_base_override.tsv"){ Get-Content "$dir\_base_override.tsv" -Encoding UTF8 | ForEach-Object { if($_ -match '^\s*#' -or -not $_.Trim()){ return }; $p=$_ -split "`t"; if($p.Count -ge 2 -and $p[0].Trim()){ $ovBase[$p[0].Trim()]=$p[1].Trim() } } }
 $rows=Import-Csv "$dir\_p_work.csv" -Encoding UTF8 | ForEach-Object {
   $rk=if($BR.ContainsKey($_.band)){$BR[$_.band]}else{1}
   [pscustomobject]@{ root=$_.root; k=$_.k; band=$_.band; F=[int]$_.F; P=[double]$_.P; C=($rk*1000.0 + [double]$_.P); L=(EoLetters $_.root); len=(($_.root -replace '\^','').Length) }
@@ -26,6 +28,10 @@ foreach($grp in ($rows | Group-Object k)){
       if($pd -le 1.0){ if($x.len -ne $key.len){ $c=$x.len-$key.len } else { $c=[math]::Sign($x.C-$key.C) } } else { $c=[math]::Sign($x.C-$key.C) }
       if($c -gt 0){ $a[$j+1]=$a[$j]; $j-- } else { break } }
     $a[$j+1]=$key }
+  # --- base上書き(_base_override.tsv): 指定語根を先頭(基本形)へ ---
+  if($ovBase.ContainsKey($grp.Name)){ $ovr=$ovBase[$grp.Name]; $ovrH=ToHsys $ovr; $idx=-1
+    for($t=0;$t -lt $a.Count;$t++){ $rt=$a[$t].root; if($rt -eq $ovr -or (ToHsys $rt) -eq $ovrH){ $idx=$t; break } }
+    if($idx -ge 0){ $item=$a[$idx]; $a.RemoveAt($idx); $a.Insert(0,$item) } else { Write-Host ("  [override未適用] 群"+$grp.Name+" に語根 "+$ovr+" 無し") } }
   # --- processedRows: head/cons/all、sortedIndex ---
   $proc=@(); for($si=0;$si -lt $a.Count;$si++){ $L=$a[$si].L; $ah=AfterHead $L; $proc += [pscustomobject]@{ row=$a[$si]; sortedIndex=$si; head=$L[0]; cons=$ah.cons; all=$ah.all; id=$null } }
   # --- 頭文字でグループ化(出現順保持) ---

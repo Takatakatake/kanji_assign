@@ -1,11 +1,66 @@
-﻿segment	override	headwords(h-system,カンマ区切り)	note
-graf	伯	graf/o,graf/in/o,graf/land/o,graf/a	伯爵(貴族)。結合形 -graf-=记 とは別義
-epi	后	epi/log/o,epi/taf/o,epi/gon/o	epi-=「後」の義。既定 epi=表(表層)とは別
-krom	铬	krom/o,krom/at/o	クロム(元素)。前置詞 krom=外 とは別
-bor	硼	bor/o	ホウ素(元素)。動詞 bor/i=穿孔(钻)とは別
-titan	钛	titan/o	チタン(元素)。巨人 titan は別途
-tetr	四	tetr/	tetra-接頭辞(4炭素)の定義見出し。鳥 tetr/o=琴鸡 が既定。接頭辞は別セグメント tetra=四 で処理
-kaj	码	kaj/o,kaj/oj	埠頭/河岸。接続詞 kaj=和 とは別義
-log	诱	log/i,log/aj^/o	誘う・誘惑。接尾辞 -log-=学家(学問) とは別義
-c^iel	天	c^iel/o,c^iel/a	空・天。相関詞 ĉiel=全样(あらゆる方法で) とは別義
-c^ar	车	c^ar/o,c^ar/ist/o	車・荷車。接続詞 ĉar=因(なぜなら) とは別義
+segment	override	type	disc	note
+graf	伯	sep	graf/o,graf/in/o,graf/land/o,graf/a	伯爵。-graf-=记と別
+epi	后	sep	epi/log/o,epi/taf/o,epi/gon/o	epi-=後。epi=表と別
+krom	铬	sep	krom/o,krom/at/o	クロム。前置詞krom=外と別
+bor	硼	sep	bor/o	ホウ素。bor/i=钻と別
+titan	钛	sep	titan/o	チタン。巨人titanは別
+tetr	四	sep	tetr/	tetra-接頭辞。鳥tetr/o=琴鸡が既定
+kaj	码	sep	kaj/o,kaj/oj	埠頭。接続詞kaj=和と別
+log	诱	sep	log/i,log/aj^/o	誘惑。-log-=学家と別
+c^iel	天	sep	c^iel/o,c^iel/a	空。相関詞c^iel=全样と別
+c^ar	车	sep	c^ar/o,c^ar/ist/o	荷車。接続詞c^ar=因と別
+al	翼	sep	al/o	翼。前置詞al=向と別
+por	孔	sep	por/o,por/a	気孔。前置詞por=为と別
+sur	腿	sep	sur/o	ふくらはぎ。前置詞sur=上と別
+el	酒	sep	el/o	エール。前置詞el=出と別
+plum	笔	sep	plum/o	ペン。plum=羽と同綴
+mat	将	amb	詰	チェス詰み。mat=席と別行
+pat	困	amb	手詰	ステールメイト。pat=锅と別行
+vat	瓦	amb	ワット	ワット。vat=棉と別行
+kanon	典	amb	典	正典/カノン。kanon=炮と別行
+karp	腕	amb	手首	手根。karp=鲤と別行
+sakr	荐	sep	sakr/o,sakr/a	仙骨。sakr=骂と別
+deviz	汇	sep	deviz/o	外貨。deviz=铭と同綴
+mark	币	amb	マルク	マルク。mark=标と別行
+lir	币	amb	リラ	リラ通貨。lir=琴と別行
+kron	币	amb	クローネ	クローネ。kron=冠と別行
+dur	币	sep	dur/o	ドゥーロ銀貨。dur=硬と別
+tak	币	sep	tak/o	タカ通貨。tak=倾と別
+bac	币	sep	bac/o	古独貨。bac=响と別
+ar	亩	amb	アール	アール面積。ar=群と別行
+luks	照	amb	ルクス	ルクス照度。luks=奢と別行
+stok	粘	amb	ストークス	ストークス粘度。stok=储と別行
+kuri	居	amb	キュリー	キュリー。kuri=廷と別行
+fon	响	sep	fon/o	ホン音量。fon=底と別
+ot	耳	sep	ot/o,ot/a	耳(oto-)。ot=待と別
+mi	肌	sep	mi/o	筋(mio-)。mi=我と別
+trik	毛	sep	trik/o	毛(tricho-)。trik=织と別
+spin	旋	amb	スピン	物理スピン。spin=脊と別行
+var	内	sep	var/a	内反varus。var=货と別
+orkid	丸	sep	orkid/o	睾丸。orkid=兰と別
+spat	苞	amb	仏炎	仏炎苞。spat=石と別行
+sol	溶	amb	ゾル	ゾル。sol=唯と別行
+siren	牛	amb	海牛	海牛類。siren=警笛と別行
+ergot	距	sep	ergot/o	蹴爪。ergot=麦角と別
+sor	胞	sep	sor/o	胞子嚢群。sor=腾と別
+panikl	脂	sep	panikl/o	皮下脂肪。panikl=圆锥と別
+rod	泊	amb	停泊	停泊地。rod=啃と別行
+bit	桩	amb	繋柱	繋柱。bit=位と別行
+jard	杆	sep	jard/o	帆桁。jard=码と別
+prot	匠	sep	prot/o	組版長。prot=质子と別
+prim	祷	sep	prim/o	一時課。prim=质数と同行
+pic^	调	amb	音高	音高。pic^=阴户と別行
+lab	验	sep	lab/o	実験室。lab=皱胃と別
+arke	菌	sep	arke/o,arke/oj	古細菌。arke=方舟と別
+abak	顶	sep	abak/o	柱頭。abak=算盘と別
+file	线	sep	file/o	罫線。file=里脊と別
+peon	佃	sep	peon/o	隷農。peon=卒と別
+tang	舞	sep	tang/o	タンゴ。tang=颠と別行
+klik	派	sep	klik/o	徒党。klik=爪と別
+topik	敷	sep	topik/o	外用薬。topik=题と別
+er	纪	amb	紀元	紀元。er=粒と別行
+po	草	amb	Poa	Poa属。po=每と別行
+line	草	amb	リンネ	リンネ草。line=线と別行
+tof	瘤	sep	tof/o	痛風結節。tof=凝灰と別
+male	疫	amb	鼻疽	馬鼻疽。male=捶と別行
+sinus	弦	amb	正弦	正弦sine。sinus=洞と別行

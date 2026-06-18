@@ -4,12 +4,13 @@ $BR=@{ 'basic'=0;'suf'=0;'pref'=0;'prep'=0;'correl'=0;'num'=0;'func'=0;'pejvo'=1
 $vowels=@('a','e','i','o','u')
 $sup=@{ 'a'=[char]0x1D2C;'b'=[char]0x1D2E;'c'=[char]0x1D9C;'d'=[char]0x1D30;'e'=[char]0x1D31;'f'=[char]0x1DA0;'g'=[char]0x1D33;'h'=[char]0x1D34;'i'=[char]0x1D35;'j'=[char]0x1D36;'k'=[char]0x1D37;'l'=[char]0x1D38;'m'=[char]0x1D39;'n'=[char]0x1D3A;'o'=[char]0x1D3C;'p'=[char]0x1D3E;'r'=[char]0x1D3F;'s'=[char]0x02E2;'t'=[char]0x1D40;'u'=[char]0x1D41;'v'=[char]0x2C7D;'z'=[char]0x1DBB }
 $circ=[char]0x0302;$breve=[char]0x0306
+$uni=@{ ([char]0x0109)='c';([char]0x011D)='g';([char]0x0125)='h';([char]0x0135)='j';([char]0x015D)='s';([char]0x016D)='u' }
 function EoLetters([string]$s){ $r=New-Object System.Collections.ArrayList; for($i=0;$i -lt $s.Length;$i++){ $ch=[string]$s[$i]; if($i+1 -lt $s.Length -and $s[$i+1] -eq '^'){ $null=$r.Add($ch+'^'); $i++ } else { $null=$r.Add($ch) } }; ,$r }
 function IsVowel([string]$c){ $vowels -contains $c }
 function AfterHead($L){ $cons=New-Object System.Collections.ArrayList;$all=New-Object System.Collections.ArrayList; for($i=1;$i -lt $L.Count;$i++){ $c=$L[$i]; $null=$all.Add($c); if(-not(IsVowel $c)){$null=$cons.Add($c)} }; @{cons=$cons;all=$all} }
 function FirstDivPos($arr,$seen){ for($i=0;$i -lt $arr.Count;$i++){ $o=$i+1; if(-not $seen.ContainsKey($o) -or -not $seen[$o].Contains($arr[$i])){ return @{char=$arr[$i];pos=$o} } }; return $null }
 function UpdateSeen($arr,$seen){ for($i=0;$i -lt $arr.Count;$i++){ $o=$i+1; if(-not $seen.ContainsKey($o)){$seen[$o]=New-Object System.Collections.Generic.HashSet[string]}; [void]$seen[$o].Add($arr[$i]) } }
-function ToSuper([string]$id){ if(-not $id){return ''}; $o=''; foreach($L in (EoLetters $id)){ if($L.Length -eq 2 -and $L[1] -eq '^'){ $b=[string]$L[0]; $o+=[string]$sup[$b]+$(if($b -eq 'u'){$breve}else{$circ}) } elseif($sup.ContainsKey($L)){ $o+=[string]$sup[$L] } else { $o+=$L } }; $o }
+function ToSuper([string]$id){ if(-not $id){return ''}; $o=''; foreach($L in (EoLetters $id)){ if($L.Length -eq 2 -and $L[1] -eq '^'){ $b=[string]$L[0]; $o+=[string]$sup[$b]+$(if($b -eq 'u'){$breve}else{$circ}) } elseif($uni.ContainsKey([char]$L)){ $b=$uni[[char]$L]; $o+=[string]$sup[$b]+$(if($b -eq 'u'){$breve}else{$circ}) } elseif($sup.ContainsKey($L)){ $o+=[string]$sup[$L] } else { $o+=$L } }; $o }
 $rows=Import-Csv "$dir\_p_work.csv" -Encoding UTF8 | ForEach-Object {
   $rk=if($BR.ContainsKey($_.band)){$BR[$_.band]}else{1}
   [pscustomobject]@{ root=$_.root; k=$_.k; band=$_.band; F=[int]$_.F; P=[double]$_.P; C=($rk*1000.0+[double]$_.P); L=(EoLetters $_.root); len=(($_.root -replace '\^','').Length) } }
