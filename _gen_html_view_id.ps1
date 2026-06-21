@@ -1,6 +1,6 @@
 ﻿# 割当結果の閲覧用HTML(識別子付き版): 漢字に§9識別子(上付き)を反映。基底字でグループ化。
 $ErrorActionPreference = 'Stop'
-$dir = "d:\GoogleDrive202510\マイドライブ\20_エスペラント・語学\漢字化・語彙資料\PEJVO・PIV語根分解資料_20260613"
+$dir = "d:\GoogleDrive202510\マイドライブ\20_エスペラント・語学\漢字化・語彙資料\エスペラント語根＿漢字割り当て＿20260621"
 $dict = "$dir\20_PEJVO語彙リスト_原本・生成版_2024-2026\世界语全部单词_大约44100个(原pejvo.txt)_学習者版_utf8_20260416.txt"
 function ToHsys([string]$s){
   $s = $s -replace 'ĉ','c^' -replace 'Ĉ','C^' -replace 'ĝ','g^' -replace 'Ĝ','G^' -replace 'ĥ','h^' -replace 'Ĥ','H^' -replace 'ĵ','j^' -replace 'Ĵ','J^' -replace 'ŝ','s^' -replace 'Ŝ','S^' -replace 'ŭ','u^' -replace 'Ŭ','U^'
@@ -59,9 +59,8 @@ $ovr=@{}
 if(Test-Path "$dir\_gloss_override.tsv"){ Get-Content "$dir\_gloss_override.tsv" -Encoding UTF8 | ForEach-Object { $p=$_ -split "`t"; if($p.Count -ge 2 -and $p[0]){ $ovr[$p[0].Trim()]=$p[1].Trim() } } }
 $rows = New-Object System.Collections.ArrayList
 $withId=0
-Get-Content "$dir\_band_map.tsv" -Encoding UTF8 | Select-Object -Skip 1 | ForEach-Object {
-  $p = $_ -split "`t"; if($p.Count -lt 5){ return }
-  $root=$p[1].Trim(); $kanji=$p[2].Trim(); $band=$p[3].Trim(); $f=[int]$p[4].Trim()
+Import-Csv "$dir\_identifier_sidecar.tsv" -Encoding UTF8 -Delimiter "`t" | ForEach-Object {
+  $root=$_.root; $kanji=$_.kanji; $band=$_.band; $f=[int]$_.F
   if($kanji -eq '未対応' -or -not $kanji){ return }
   $st=0; $ok=$true
   foreach($ch in $kanji.ToCharArray()){ if([int][char]$ch -lt 128){continue}; if($stroke.ContainsKey([string]$ch)){ $st+=$stroke[[string]$ch] } else { $ok=$false } }

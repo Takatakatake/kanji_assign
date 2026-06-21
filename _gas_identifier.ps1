@@ -1,5 +1,5 @@
 ﻿$ErrorActionPreference='Stop'
-$dir='d:\GoogleDrive202510\マイドライブ\20_エスペラント・語学\漢字化・語彙資料\PEJVO・PIV語根分解資料_20260613'
+$dir='d:\GoogleDrive202510\マイドライブ\20_エスペラント・語学\漢字化・語彙資料\エスペラント語根＿漢字割り当て＿20260621'
 # GAS「識別子付与・最終完全版」忠実移植。C(優先順位)=band_rank*1000+P(層を優先、層内はP)。閾値1.0で文字数優先。
 $BR=@{ 'basic'=0;'suf'=0;'pref'=0;'prep'=0;'correl'=0;'num'=0;'func'=0;'pejvo'=1;'sci'=1;'elem'=1;'cal'=1;'rel'=1;'piv'=2;'proper'=2 }
 $vowels=@('a','e','i','o','u')
@@ -12,10 +12,12 @@ function FirstDivergent($arr,$seen){ for($i=0;$i -lt $arr.Count;$i++){ $ord=$i+1
 function UpdateSeen($arr,$seen){ for($i=0;$i -lt $arr.Count;$i++){ $ord=$i+1; $ch=$arr[$i]; if(-not $seen.ContainsKey($ord)){ $seen[$ord]=New-Object System.Collections.Generic.HashSet[string] }; [void]$seen[$ord].Add($ch) } }
 
 function ToHsys([string]$s){ $s -replace 'ĉ','c^' -replace 'ĝ','g^' -replace 'ĥ','h^' -replace 'ĵ','j^' -replace 'ŝ','s^' -replace 'ŭ','u^' }
+# 識別子計算用に根をUnicodeへ正規化(h-system h^ と Unicode ĥ を同一字として扱い、上付き化後の id重複を防ぐ。2026-06-20)
+function ToUni([string]$s){ $s -replace 'c\^','ĉ' -replace 'C\^','Ĉ' -replace 'g\^','ĝ' -replace 'G\^','Ĝ' -replace 'h\^','ĥ' -replace 'H\^','Ĥ' -replace 'j\^','ĵ' -replace 'J\^','Ĵ' -replace 's\^','ŝ' -replace 'S\^','Ŝ' -replace 'u\^','ŭ' -replace 'U\^','Ŭ' }
 $ovBase=@{}; if(Test-Path "$dir\_base_override.tsv"){ Get-Content "$dir\_base_override.tsv" -Encoding UTF8 | ForEach-Object { if($_ -match '^\s*#' -or -not $_.Trim()){ return }; $p=$_ -split "`t"; if($p.Count -ge 2 -and $p[0].Trim()){ $ovBase[$p[0].Trim()]=$p[1].Trim() } } }
 $rows=Import-Csv "$dir\_p_work.csv" -Encoding UTF8 | ForEach-Object {
   $rk=if($BR.ContainsKey($_.band)){$BR[$_.band]}else{1}
-  [pscustomobject]@{ root=$_.root; k=$_.k; band=$_.band; F=[int]$_.F; P=[double]$_.P; C=($rk*1000.0 + [double]$_.P); L=(EoLetters $_.root); len=(($_.root -replace '\^','').Length) }
+  [pscustomobject]@{ root=$_.root; k=$_.k; band=$_.band; F=[int]$_.F; P=[double]$_.P; C=($rk*1000.0 + [double]$_.P); L=(EoLetters (ToUni $_.root)); len=(($_.root -replace '\^','').Length) }
 }
 $out=New-Object System.Collections.ArrayList
 foreach($grp in ($rows | Group-Object k)){

@@ -1,26 +1,64 @@
 segment	type	disc	overrideKanji	overrideDisp	note
 graf	sep	graf/o,graf/in/o,graf/land/o,graf/a	伯	伯	伯爵。-graf-=记と別
 epi	sep	epi/log/o,epi/taf/o,epi/gon/o	后	后ᴱ	epi-=後。epi=表と別
-krom	sep	krom/o,krom/at/o	铬	铬	クロム。前置詞krom=外と別
-bor	sep	bor/o	硼	硼	ホウ素。bor/i=钻と別
-titan	sep	titan/o	钛	钛	チタン。巨人titanは別
+krom	sep	krom/o,krom/at/o,krom/at/a	金	金ᴷᴹ	クロム(金属元素)→金。前置詞krom=外と別。krom/at=クロム酸塩→金/盐
+titan	sep	titan/o,titan/at/o,titan/at/a	金	金ᵀᵀ	チタン(金属元素)→金。巨人titan/a=巨と別。titan/at=チタン酸塩→金/盐(krom/borと平行)
+bor	sep	bor/o,bor/at/o,bor/at/a,bor/o/tartr/at/o	矿	矿ᴮ	ホウ素(半金属元素)→矿。掘削bor/i=钻と別。bor/at=ホウ酸塩→矿/盐。bor/o/tartr/at=ホウ酒石酸塩(連結o複合)も矿
 tetr	sep	tetr/	四	四ᵀ	tetra-接頭辞。鳥tetr/o=琴鸡が既定
+tetra	sep	tetra/,tetra/gram/o,tetra/borat/o,tetra/mer/o,tetra/tionat/o	四	四ᵀ	tetra-数詞接頭辞(4)→四。鳥tetra/o=野鸡(基本形)は除外。tetra/ol=未対応(ol規則)
 kaj	sep	kaj/o,kaj/oj	码	码ᴷᴶ	埠頭。接続詞kaj=和と別
-log	sep	log/i,log/aj^/o	诱	诱ᴸ	誘惑。-log-=学家と別
+log	sep	log/i,log/aj^/o,al/log/i,al/log/o,al/log/a,al/log/aj^/o,de/log/i,de/log/o	诱	诱ᴸ	誘惑。-log-=学家と別。接頭al/de+log=動詞诱(allogi魅了/delogi誘惑)
 c^iel	sep	c^iel/o,c^iel/a	天	天ᶜ̂	空。相関詞c^iel=全样と別
 c^ar	sep	c^ar/o,c^ar/ist/o	车	车ᶜ̂	荷車。接続詞c^ar=因と別
+nom	sep	agr/o/nom/o,agr/o/nom/a,agr/o/nom,astr/o/nom/o,astr/o/nom/a,astr/o/nom,gastr/o/nom/o,gastr/o/nom/a,gastr/o/nom,erg/o/nom/o,erg/o/nom/a,erg/o/nom	学	学ᴺᴼ	科学-nom-(agronom/astronom/gastronom/ergonom)→学。名前複合(famili/nom/dosier/nom等)は名のまま
+fil	sep	bibli/o/fil/o,bibli/o/fil/i/o,pedo/fil/i/o,gastr/o/fil/o,gips/o/fil/o,hidr/o/fil/a,nekr/o/fil/i/o,skop/o/fil/i/o	爱	爱ᶠ	-fil-(philos=愛/-phile)→爱。filo=息子(儿)はbo/du-on/adopt-o/bapt-o/pra/sol/ge/sen-fil で維持(disc不掲載)
+lit	sep	aer/o/lit/o,mega/lit/a,mega/lit/o,mono/lit/a,mono/lit/o,neo/lit/ik/o,paleo/lit/ik/o,epi/paleo/lit/ik/o,mez/o/lit/ik/o,mikro/lit/a,mikro/lit/o,piz/o/lit/o,fot/o/lit/o/grafi/o,krom/o/lit/o/grafi/o	石	石ᴸ	-lit-(lithos=石/-lith)→石。lito=寝台(床)はdu/kvar/tri/unu-lit/a・klap/krad/pend/port/ter/sof-o/pajl-o-lit で維持。elektrolit=-lyte(別形態素)は不掲載
+te	sep	a/te/ism/o,a/te/ist/a,a/te/ist/o,mono/te/ism/o,mono/te/ist/o,pan/te/ism/a,pan/te/ism/o,pan/te/ist/o,poli/te/ism/o,poli/te/ist/o,te/o/krati/a,te/o/krati/o,te/o/krat/o,te/o/logi/a,te/o/logi/ist/o,te/o/logi/o,te/o/log/o	神	神ᵀ	-te-(theo=神)→神。teo=茶(茶)はbuter/te で維持(disc不掲載)
+top	sep	bio/top/o	境	境ᵀ	-top-(topos=場所/-tope)→境(生境=habitat)。topo=檣楼(帆楼)はtop/o単独で維持
+cit	sep	fag/o/cit/ad/o,fag/o/cit/i,fag/o/cit/o,fag/o/cit/oz/o,granul/o/cit/o,hiper/granul/o/cit/emi/o,hipo/granul/o/cit/emi/o,leu^ko/cit/o,leu^ko/cit/o/poez/o,leu^ko/cit/oz/o,limf/o/cit/o,ov/o/cit/o,spermat/o/cit/o,tromb/o/cit/o	胞	胞ᶜᴵ	-cyt-(細胞·-cyte)→胞。citi=引(re/cit・mis/cit・supr/e/cit)は保持
+poez	sep	eritrocit/o/poez/o,hemat/o/poez/o,leu^ko/cit/o/poez/o,limf/o/poez/o,medol/poez/o	生	生ᴾᶻ	-poez-(造血·-poiesis)→生。poezi=诗(詩)は保持
+fag	sep	bakteri/o/fag/o,fag/o/cit/ad/o,fag/o/cit/i,fag/o/cit/o,fag/o/cit/oz/o,antrop/o/fag/o,antrop/o/fag/ism/o,makr/o/fag/o	吞	吞ᶠ	-phago-/-phage(貪食)→吞。ブナfag/o(树)はfag/o,fag/ar/o,fag/ej/o,fag/o/frukt/o,fag/o/nuks/o,fag/ac/oj,sang/o/fag/o(赤葉ブナ),s^ajn/fag/o(ナンキョクブナ)で維持。ezofag(食道)/fagopir(蕎麦)/fagot(ファゴット)は別セグメントで無影響
+tromb	sep	tromb/oz/o,tromb/ektomi/o,tromb/o/cit/o	栓	栓ᵀ	-thrombo-(血栓)→栓。tromb/oz/o は cerb/a tromb/oz/o(脳血栓)内の同語も捕捉。竜巻tromb/o(気·第1義)とsabl/a tromb/o(陸竜巻)は龙卷を維持。trombon(トロンボーン)/trombin(トロンビン)/trombidi(ツツガムシ)は別セグメントで無影響
+term	sep	term/o,du/term/o,tri/term/o	项	项ᵀ	terminus(数項·論名辞)→项。thermo(termometr/izoterm/termodinamik等は別語文字列)は热維持。bare term/o=【数】項;【論】名辞なので项
+pati	sep	aden/o/pati/o,aden/pati/o,encefal/o/pati/o,kardi/o/pati/o,kardi/mi/o/pati/o,kinez/o/pati/o,koks/o/pati/o,limf/aden/o/pati/o,medol/o/pati/o,medol/pati/o,mi/o/pati/o,mjel/o/pati/o,nefr/o/pati/o,neu^r/o/pati/o,ost/o/pati/o,pati/o,pneu^mon/o/pati/o,psik/o/pati/o,psik/o/pati/ul/o,retin/o/pati/o,trik/o/pati/o	病	病ᴾ	-pathy(臓器疾患)→病。感情系 a/pati(無感動)·anti/pati(反感)·tele/pati(テレパシー) と simpati(亲) は情/亲のまま維持(disc不掲載)
+pat	sep	pat/o/gen/a,pat/o/logi/a,pat/o/logi/o,pat/o/log/o,pat/o/genez/o,fit/o/pat/o/logi/o,plant/pat/o/logi/o,psik/o/pat/o/logi/o,sem/pat/o/logi/o	病	病ᴾ	patho-(病理·病原)→病。フライパンpat/o(锅)·チェスstalemate pat(困amb)は锅のまま維持(disc不掲載)
+ren	sep	ren/ir/i	再	再ᴿᴺ	古語接頭ren(=re再び·reniri帰る)→再。腎臓ren/o(肾)は維持(disc不掲載)
+mi	sep	mi/o,mi/it/o,mi/o/pati/o,mi/o/kardi/o,mi/o/fibr/it/o,mi/o/globin/o,mi/o/sarkom/o,kardi/mi/o/pati/o	肌	肌	myo-(筋肉)→肌。代名詞mi(我)·所有mi/aj^/o(私の物=我)は維持(disc不掲載)
+di	sep	di/,di/morf/a,di/morf/ec/o,di/morf/ism/o,di/ploid/a,di/pod/o,di/pod/ed/oj,di/gram/o,di/kotiledon/oj,di/al/o,di/azot/o,di/metoksi/fenol/o,di/kromiat/o,di/mer/o,di/sakarid/o,di/tionat/o,di/sulf/id/o,di/oksid/o,di/klor/id/o,di/pter/oj,di/valent/a,karbon/di/oksid/o,sulfur/di/oksid/o	二	二ᴰᴵ	数詞di-(2)→二。神di/o系(di/o/tim神畏敬·di/skarab神甲=テントウムシ)は神維持(disc不掲載)。di/pter双翅·di/klor/id二塩化等のエス的分解##偽分解(PIV正式)を尊重し透明化
+gram	sep	aer/o/gram/o,anem/o/gram/o,dia/gram/o,elektr/o/kardi/o/gram/o,encefal/o/gram/o,faz/dia/gram/o,faz/o/dia/gram/o,fon/o/gram/o,hips/o/gram/o,holo/gram/o,kabl/o/gram/o,kardi/o/gram/o,nivel/dia/gram/o,organi/gram/o,orto/gram/o,paralel/o/gram/o,radi/o/gram/o,radi/o/tele/gram/o,scintil/o/gram/o,seism/o/gram/o,spektr/o/gram/o,tefi/gram/o,tele/gram/o,tele/gram/kod/o,tele/gram/port/ist/o,penta/gram/o,gram/o/fon/o,gram/o/fon/disk/o	图	图ᴳᴹ	-gram(記録·図像γράμμα)→图。重量gram(克):kilo/centi/mili/deka/hekto-gram·gram/atom·gram/molekul·gram/pez は克維持。文字義は字(別エントリ)。蓄音機gram/o/fon(記録音→图/声)も捕捉。dia/gram/oはflor/a等多語も捕捉
+gram	sep	di/gram/o,ide/o/gram/o,mono/gram/o,tetra/gram/o	字	字ᴳ	-gram(文字·書記素)→字。digraph二字·表意文字·組合せ文字·聖四文字。記録図像は图·重量は克
+pan	sep	pan/kromat/a,pan/te/ism/o,pan/te/ist/o,pan/te/ism/a,pan/slav/ism/o	全	全ᴾ	pan-(汎·全all)→全。パンpan/o(面包)·pan/ej/pan/um/pan/tranc^等は維持
+kron	sep	izo/kron/a,izo/kron/ec/o,kron/o/graf/i,kron/o/graf/o,kron/o/logi/a,kron/o/logi/o,kron/o/metr/i,kron/o/metri/o,kron/o/metr/o,kron/o/metri/a,kron/o/metr/ist/o,kron/o/strat/i/grafi/o,sin/kron/a,sin/kron/ec/o,sin/kron/ig/i,sin/kron/ig/il/o,sin/kron/o/skop/o,post/sin/kron/ig/i,post/sin/kron/ig/o,mal/sin/kron/ig^/i,dia/kron/a,dendro/kron/o/log/o,dendro/kron/o/logi/o,geo/kron/o/logi/o	时	时ᴷ	chrono-(時)→时。王冠kron/o(冠)·戴冠kron/ad·冠状ウイルス·皇太子·コロナ放電kron/efluv·dethrone sen/kron/igは冠維持·クローネ通貨は币
+sin	sep	sin/kron/a,sin/kron/ec/o,sin/kron/ig/i,sin/kron/ig/il/o,sin/kron/o/skop/o,post/sin/kron/ig/i,post/sin/kron/ig/o,mal/sin/kron/ig^/i,sin/onim/a,sin/onim/ec/o,sin/onim/o,sin/onim/ik/o	共	共ˢ	syn-(共·同together)→共。胸sin/o(怀)·再帰sin(自)は別エントリで維持
+sin	sep	sin/kon/o,sin/asekur/o,sin/dev/ig/ad/o,sin/g^en/o,sin/g^en/ad/o,sin/kapt/ad/o,sin/mem/kulp/ig/o,sin/masturb/o,sin/nutr/ad/o,sin/pel/ad/o,sin/venen/ad/o	自	自ˢ	再帰代名詞sin(si対格=自己oneself)→自。syn-(共)·胸sin/o(怀)は別義で維持(disc別記)。sin/mem/kulp/ig=自/自(mem=自と重複もR1衝突歓迎)。両版同11見出し
+trop	sep	helio/trop/o,helio/trop/kolor/a,helio/trop/ism/o,izo/trop/a,izo/trop/ec/o,ne/izo/trop/a,ne/izo/trop/ec/o,an/izo/trop/a,trop/ism/o,cito/trop/a,enantio/trop/a,enantio/trop/ec/o,enantio/trop/ism/o,foto/trop/ism/o,geo/trop/ism/o,kortiko/trop/a,neu^r/o/trop/a,tikso/trop/a,tikso/trop/ec/o	向	向ᵀ	-tropos(向·屈性)→向。修辞trop/o(喻)は維持。tropik热带/antrop人は別セグメント
+kard	sep	endo/kard/it/o	心	心ᴷᴬ	cardio-(心)→心。アザミkard/o(刺草)·梳毛kard/adは維持。kardi/o(-i付)は既に心ᴷᴰ
+pir	sep	pir/heli/o/metr/o,pir/geo/metr/o,pir/o/elektr/a,pir/o/magnet/a,pir/o/teknik/aj^/o,pir/o/teknik/ist/o,pir/o/teknik/o,pir/o/liz/i,pir/o/liz/o,pir/o/metr/o,pir/o/fosf/at/o,pir/o/gajl/o,pir/o/gajlol/o,pir/o/sulf/at/o,pir/o/sulf/it/o	火	火ᴾ	pyro-(火·熱)→火。洋ナシpir/o(梨)·pir/arb/pir/uj/pir/vinは維持
+bar	sep	izo/bar/o,mili/bar/o,bar/o/graf/o,bar/o/metr/o,bar/o/skop/o	压	压ᴮ	baro-(気圧)→压。障害bar/i/bar/il/o(障)は維持。bar/o単独=障/圧二義はamb的に障維持
+fot	sep	fot/on/o,fot/o/sfer/o,fot/o/sintez/o,fot/o/c^el/o,fot/o/kemi/o,fot/o/metri/o,fot/o/metr/o,fot/o/metri/i	光	光ᶠ	photo-(光)→光(物理·化学·生物)。写真fot/o/fot/i/fot/o/graf等は拍維持
+ot	sep	ot/o,ot/it/o,ot/algi/o,ot/o/logi/o,ot/o/skop/o,ot/o/skop/i/o,ot/o-rin/o-laring/o/log/o,ot/o/rin/o/laring/o/logi/o,ot/o/salping/o,ot/o/salping/it/o,ot/a	耳	耳ᴼᵀ	oto-(耳)→耳。未来受動分詞-ot-(待。nask/ot/vend/ot/a等)は維持。ot/a(耳の)は旧$new重複を統合
+ur	sep	ur/gener/a,ur/o/gener/a	尿	尿ᵁᴿ	uro-(尿)→尿。オーロックスur/o(原牛)は維持。uro/log/uro/grafiは既に尿ᵁᴼ
+riz	sep	riz/o/morf/o,riz/o/pod/oj	根	根ᴿᶻ	rhizo-(根)→根。米riz/o(米)·稲riz/kamp/riz/o/spik等は維持。rizom=根茎
+daktil	sep	daktil/o/graf/i,daktil/o/skop/i/o	指	指ᴰ	dactylo-(指)→指。ナツメヤシdaktil/o(枣)·daktil/o/palm等は維持
+sperm	sep	endo/sperm/o,peri/sperm/o	种	种ˢᴿ	-sperma(種·胚乳)→种。精液sperm/o(精液)·sperm/o/dukt等は維持
+log	sep	dia/log/a,dia/log/i,dia/log/o,dia/log/oj,dia/log/uj/o,dia/log/ist/o,mono/log/i,mono/log/o,pro/log/o,epi/log/o,neo/log/o,neo/log/ism/o,neo/log/ism/em/o,neo/log/ism/em/ul/o	话	话ᴸ	-log-(logos=言葉·談話/-logue)→话(parol=话と同字共有)。対話dia/独白mono/序言pro/跋epi/新語neo(neologism=新话)。-logist/-ology=学家(biolog等)·al-de+log=诱は別。katalog=录·analog=似(whole-root)は不変
+metr	sep	centi/metr/o,deci/metr/o,deka/metr/o,hekto/metr/o,kilo/metr/o,mikro/metr/o,miria/metr/o,kub/metr/o,kilo/gram/metr/o,dia/metr/o,dia/metr/a,du/on/dia/metr/o,peri/metr/o,para/metr/o,izo/metr/o,izo/metr/a,heks/a/metr/o,penta/metr/o,geo/metr/o	米	米	-metr-の非計器(長さ·面積·体積単位/幾何長/抽象measure/詩脚/人)は米(metre/measure)維持。下の comb metr→计(計器)を見出しで上書き。単位centi-kilo·直径dia·周长peri·parameter para·isometric izo·hexa-penta詩脚·geometer(人)geo
+pro	sep	pro/log/o,pro/faz/o	前	前ᴾᴼ	ギリシャ接頭pro-(前·fore)→前。prologue序言(pro/log⟦前/话⟧)·prophase前相(pro/faz⟦前/相⟧)。epi=后と対。エス前置詞pro=因(pro tio因此·proparol代弁等)は維持(disc不掲載)
+vat	sep	giga/vat/o,kilo/vat/o,mega/vat/o,vat/hor/o,vat/hor/o/metr/o,vat/metr/o,vat/sekund/o	瓦	瓦ⱽ	ワットwatt(瓦)→瓦。kilovat/megavat/gigavat/vatmetr電力計/vathor瓦時/vatsekund 等の電力複合。綿vat/o(棉)·suker/vat綿菓子·vat/baston綿棒·vat/it綿入 等は維持(disc不掲載)。bare vat/o=棉&瓦はamb(基本義 棉維持)
+metr	sep	metr/o/nom/o	计	计ᴹ	メトロノームmetr(計器·measure)→计。idx0でcomb metr→计 非適用のためsep明示。長さ単位等の非計器metrは上の米sepで処理
+nom	sep	metr/o/nom/o	律	律ᴺ	メトロノームnom(ギリシャnomos=法/掟)→律。leĝ法律=律と整合し律=音律/拍節も兼ね楽器に二重適切。科学-nomy=学(agronom)·名前複合=名 とは別の第3義。计律=計測+音律=節拍器
 al	sep	al/o	翼	翼ᴬ	翼。前置詞al=向と別
 por	sep	por/o,por/a	孔	孔ᴾ	気孔。前置詞por=为と別
 sur	sep	sur/o	腿	腿ˢ	ふくらはぎ。前置詞sur=上と別
 el	sep	el/o	酒	酒ᴱ	エール。前置詞el=出と別
-plum	sep	plum/o	笔	笔ᴾᴸ	ペン。plum=羽と同綴
+plum	amb	ペン	笔	笔ᴾᴸ	ペン。plum=羽と同綴
 mat	amb	詰	将	将ᴹ	チェス詰み。mat=席と別行
 pat	amb	手詰	困	困ᴾ	ステールメイト。pat=锅と別行
 vat	amb	ワット	瓦	瓦ⱽ	ワット。vat=棉と別行
 kanon	amb	典	典	典ᴷᴺ	正典/カノン。kanon=炮と別行
 karp	amb	手首	腕	腕ᴷ	手根。karp=鲤と別行
 sakr	sep	sakr/o,sakr/a	荐	荐ˢ	仙骨。sakr=骂と別
-deviz	sep	deviz/o	汇	汇ᴰ	外貨。deviz=铭と同綴
+deviz	amb	外貨	汇	汇ᴰ	外貨。deviz=铭と同綴
 mark	amb	マルク	币	币ᴹ	マルク。mark=标と別行
 lir	amb	リラ	币	币ᴸ	リラ通貨。lir=琴と別行
 kron	amb	クローネ	币	币ᴷ	クローネ。kron=冠と別行
@@ -31,36 +69,36 @@ ar	amb	アール	亩	亩	アール面積。ar=群と別行
 luks	amb	ルクス	照	照ᴸ	ルクス照度。luks=奢と別行
 stok	amb	ストークス	粘	粘ˢ	ストークス粘度。stok=储と別行
 kuri	amb	キュリー	居	居ᴷ	キュリー。kuri=廷と別行
-fon	sep	fon/o	响	响ᶠ	ホン音量。fon=底と別
-ot	sep	ot/o,ot/a	耳	耳ᴼᵀ	耳(oto-)。ot=待と別
-mi	sep	mi/o	肌	肌	筋(mio-)。mi=我と別
+fon	amb	ホン	响	响ᶠ	ホン音量。fon=底と別
 trik	sep	trik/o	毛	毛ᵀ	毛(tricho-)。trik=织と別
 spin	amb	スピン	旋	旋ˢᴺ	物理スピン。spin=脊と別行
 var	sep	var/a	内	内ⱽ	内反varus。var=货と別
-orkid	sep	orkid/o	丸	丸ᴼ	睾丸。orkid=兰と別
+orkid	amb	睾丸	丸	丸ᴼ	睾丸。orkid=兰と別
 spat	amb	仏炎	苞	苞ˢ	仏炎苞。spat=石と別行
 sol	amb	ゾル	溶	溶	ゾル。sol=唯と別行
 siren	amb	海牛	牛	牛ˢ	海牛類。siren=警笛と別行
-ergot	sep	ergot/o	距	距ᴱ	蹴爪。ergot=麦角と別
+ergot	amb	蹴爪	距	距ᴱ	蹴爪。ergot=麦角と別
 sor	sep	sor/o	胞	胞ˢ	胞子嚢群。sor=腾と別
-panikl	sep	panikl/o	脂	脂ᴾ	皮下脂肪。panikl=圆锥と別
+panikl	amb	皮下	脂	脂ᴾ	皮下脂肪。panikl=圆锥と別
 rod	amb	停泊	泊	泊	停泊地。rod=啃と別行
 bit	amb	繋柱	桩	桩ᴮ	繋柱。bit=位と別行
-jard	sep	jard/o	杆	杆ᴶ	帆桁。jard=码と別
+jard	amb	帆桁	杆	杆ᴶ	帆桁。jard=码と別
 prot	sep	prot/o	匠	匠ᴾ	組版長。prot=质子と別
-prim	sep	prim/o	祷	祷	一時課。prim=质数と同行
+prim	amb	一時課	祷	祷	一時課。prim=质数と同行
 pic^	amb	音高	调	调ᴾ	音高。pic^=阴户と別行
-lab	sep	lab/o	验	验ᴸ	実験室。lab=皱胃と別
-arke	sep	arke/o,arke/oj	菌	菌ᴬ	古細菌。arke=方舟と別
-abak	sep	abak/o	顶	顶ᴬ	柱頭。abak=算盘と別
-file	sep	file/o	线	线ᶠ	罫線。file=里脊と別
-peon	sep	peon/o	佃	佃	隷農。peon=卒と別
+lab	amb	実験室	验	验ᴸ	実験室。lab=皱胃と別
+arke	amb	古細菌	菌	菌ᴬ	古細菌。arke=方舟と別
+abak	amb	柱頭	顶	顶ᴬ	柱頭。abak=算盘と別
+file	amb	罫線	线	线ᶠ	罫線。file=里脊と別
+peon	amb	隷農	佃	佃	隷農。peon=卒と別
 tang	sep	tang/o	舞	舞ᵀ	タンゴ。tang=颠と別行
-klik	sep	klik/o	派	派ᴷᴸ	徒党。klik=爪と別
-topik	sep	topik/o	敷	敷ᵀ	外用薬。topik=题と別
+klik	amb	徒党	派	派ᴷᴸ	徒党。klik=爪と別
+topik	amb	外用	敷	敷ᵀ	外用薬。topik=题と別
 er	amb	紀元	纪	纪ᴱᴿ	紀元。er=粒と別行
 po	amb	Poa	草	草ᴾᴼ	Poa属。po=每と別行
-line	amb	リンネ	草	草ᴸ	リンネ草。line=线と別行
-tof	sep	tof/o	瘤	瘤ᵀᶠ	痛風結節。tof=凝灰と別
+line	amb	リンネ	草	草ᴸᴵ	リンネ草。line=线と別行
+tof	amb	痛風	瘤	瘤ᵀᶠ	痛風結節。tof=凝灰と別
 male	amb	鼻疽	疫	疫ᴹ	馬鼻疽。male=捶と別行
 sinus	amb	正弦	弦	弦ˢ	正弦sine。sinus=洞と別行
+fon	comb		声	声ᶠᴼ	音(phone)結合形 telefon/mikrofon等。背景fon=底はidx0で別
+metr	comb		计	计ᴹ	計器(-meter)結合形 termometr/barometr/manometr/anemometr等→计(gauge)。idx>0の-metr-。長さ単位·詩脚·直径等の非計器はsep metr→米で除外。-metri-(科学)=测は別分節(metri)で不変

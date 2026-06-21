@@ -1,6 +1,6 @@
 ﻿# 台帳の各homonymについて、第2義漢字の群に語根を加えた時の disp(漢字+識別子)を計算 → _homonym_disp.tsv
 $ErrorActionPreference='Stop'
-$dir='d:\GoogleDrive202510\マイドライブ\20_エスペラント・語学\漢字化・語彙資料\PEJVO・PIV語根分解資料_20260613'
+$dir='d:\GoogleDrive202510\マイドライブ\20_エスペラント・語学\漢字化・語彙資料\エスペラント語根＿漢字割り当て＿20260621'
 $sc=Import-Csv "$dir\_identifier_sidecar.tsv" -Encoding UTF8 -Delimiter "`t"
 $vowels='a','e','i','o','u'
 $sup=@{ 'a'=[char]0x1D2C;'b'=[char]0x1D2E;'c'=[char]0x1D9C;'d'=[char]0x1D30;'e'=[char]0x1D31;'f'=[char]0x1DA0;'g'=[char]0x1D33;'h'=[char]0x1D34;'i'=[char]0x1D35;'j'=[char]0x1D36;'k'=[char]0x1D37;'l'=[char]0x1D38;'m'=[char]0x1D39;'n'=[char]0x1D3A;'o'=[char]0x1D3C;'p'=[char]0x1D3E;'r'=[char]0x1D3F;'s'=[char]0x02E2;'t'=[char]0x1D40;'u'=[char]0x1D41;'v'=[char]0x2C7D;'z'=[char]0x1DBB }
@@ -15,6 +15,7 @@ function ToSuper([string]$id){ if(-not $id){return ''}; $o=''; foreach($L in (Eo
 function AddSegId([string]$K,[string]$seg){
   $mem=@($sc|Where-Object{$_.groupkey -eq $K})
   if($mem.Count -eq 0){ return '' }                                  # その漢字が未使用→単独でbase(無印)
+  foreach($m in $mem){ if((-not $m.id) -and ((ToHsys $m.root) -eq (ToHsys $seg))){ return '' } }   # seg が群Kの基本形そのもの(metr=米等)→無印。sep override が自己衝突でidを付けるのを防ぐ(2026-06-21)
   $used=New-Object System.Collections.Generic.HashSet[string]
   foreach($m in $mem){ if($m.id){[void]$used.Add($m.id)}; $ml=EoLetters $m.root; if(-not $m.id){ [void]$used.Add([string]$ml[0]) } }
   $L=EoLetters $seg; $h=$L[0]; $ah=AfterHead $L

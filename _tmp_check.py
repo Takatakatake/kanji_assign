@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 import sys, io
 sys.stdout.reconfigure(encoding="utf-8")
-path=r"D:\GoogleDrive202510\マイドライブ\20_エスペラント・語学\漢字化・語彙資料\PEJVO・PIV語根分解資料_20260613\通用规范汉字表_一级3500字.txt"
+path=r"D:\GoogleDrive202510\マイドライブ\20_エスペラント・語学\漢字化・語彙資料\エスペラント語根＿漢字割り当て＿20260621\通用规范汉字表_一级3500字.txt"
 chars=set()
 with io.open(path,encoding="utf-8-sig") as f:
     for line in f:

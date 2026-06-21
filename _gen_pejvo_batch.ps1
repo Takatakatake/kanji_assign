@@ -2,7 +2,7 @@
 # 使い方: powershell -File _gen_pejvo_batch.ps1 -Num 1 -Size 120 -Offset 0
 param([int]$Num=1, [int]$Size=120, [int]$Offset=0)
 $ErrorActionPreference = 'Stop'
-$dir = "d:\GoogleDrive202510\マイドライブ\20_エスペラント・語学\漢字化・語彙資料\PEJVO・PIV語根分解資料_20260613"
+$dir = "d:\GoogleDrive202510\マイドライブ\20_エスペラント・語学\漢字化・語彙資料\エスペラント語根＿漢字割り当て＿20260621"
 
 # master: USED 単字集合
 $usedKanji = New-Object System.Collections.Generic.List[string]; $seenK=@{}

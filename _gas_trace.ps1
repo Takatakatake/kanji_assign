@@ -1,5 +1,5 @@
 ﻿$ErrorActionPreference='Stop'
-$dir='d:\GoogleDrive202510\マイドライブ\20_エスペラント・語学\漢字化・語彙資料\PEJVO・PIV語根分解資料_20260613'
+$dir='d:\GoogleDrive202510\マイドライブ\20_エスペラント・語学\漢字化・語彙資料\エスペラント語根＿漢字割り当て＿20260621'
 $BR=@{ 'basic'=0;'suf'=0;'pref'=0;'prep'=0;'correl'=0;'num'=0;'func'=0;'pejvo'=1;'sci'=1;'elem'=1;'cal'=1;'rel'=1;'piv'=2;'proper'=2 }
 $vowels=@('a','e','i','o','u')
 $sup=@{ 'a'=[char]0x1D2C;'b'=[char]0x1D2E;'c'=[char]0x1D9C;'d'=[char]0x1D30;'e'=[char]0x1D31;'f'=[char]0x1DA0;'g'=[char]0x1D33;'h'=[char]0x1D34;'i'=[char]0x1D35;'j'=[char]0x1D36;'k'=[char]0x1D37;'l'=[char]0x1D38;'m'=[char]0x1D39;'n'=[char]0x1D3A;'o'=[char]0x1D3C;'p'=[char]0x1D3E;'r'=[char]0x1D3F;'s'=[char]0x02E2;'t'=[char]0x1D40;'u'=[char]0x1D41;'v'=[char]0x2C7D;'z'=[char]0x1DBB }
@@ -14,12 +14,15 @@ function ToSuper([string]$id){ if(-not $id){return ''}; $o=''; foreach($L in (Eo
 $rows=Import-Csv "$dir\_p_work.csv" -Encoding UTF8 | ForEach-Object {
   $rk=if($BR.ContainsKey($_.band)){$BR[$_.band]}else{1}
   [pscustomobject]@{ root=$_.root; k=$_.k; band=$_.band; F=[int]$_.F; P=[double]$_.P; C=($rk*1000.0+[double]$_.P); L=(EoLetters $_.root); len=(($_.root -replace '\^','').Length) } }
+function ToHsys([string]$s){ $s -replace 'ĉ','c^' -replace 'ĝ','g^' -replace 'ĥ','h^' -replace 'ĵ','j^' -replace 'ŝ','s^' -replace 'ŭ','u^' }
+$ovBase=@{}; if(Test-Path "$dir\_base_override.tsv"){ Get-Content "$dir\_base_override.tsv" -Encoding UTF8 | ForEach-Object { if($_ -match '^\s*#' -or -not $_.Trim()){ return }; $p=$_ -split "`t"; if($p.Count -ge 2 -and $p[0].Trim()){ $ovBase[$p[0].Trim()]=$p[1].Trim() } } }
 $targets = $args
 foreach($K in $targets){
   $G=@($rows|Where-Object{$_.k -eq $K})
   if($G.Count -lt 2){ Write-Host "[$K] 共有なし"; continue }
   $a=New-Object System.Collections.ArrayList; foreach($x in $G){[void]$a.Add($x)}
   for($i=1;$i -lt $a.Count;$i++){ $key=$a[$i];$j=$i-1; while($j -ge 0){ $x=$a[$j];$pd=[math]::Abs($x.C-$key.C);$c=0; if($pd -le 1.0){ if($x.len -ne $key.len){$c=$x.len-$key.len}else{$c=[math]::Sign($x.C-$key.C)} }else{$c=[math]::Sign($x.C-$key.C)}; if($c -gt 0){$a[$j+1]=$a[$j];$j--}else{break} }; $a[$j+1]=$key }
+  if($ovBase.ContainsKey($K)){ $ovr=$ovBase[$K]; $ovrH=ToHsys $ovr; $oi=-1; for($t=0;$t -lt $a.Count;$t++){ $rt=$a[$t].root; if($rt -eq $ovr -or (ToHsys $rt) -eq $ovrH){ $oi=$t; break } }; if($oi -ge 0){ $it=$a[$oi]; $a.RemoveAt($oi); $a.Insert(0,$it) } }
   $headCnt=@{}; foreach($p in $a){ $h=(EoLetters $p.root)[0]; $headCnt[$h]=1+($headCnt[$h]) }
   $proc=@(); for($si=0;$si -lt $a.Count;$si++){ $L=$a[$si].L;$ah=AfterHead $L; $proc+=[pscustomobject]@{row=$a[$si];sortedIndex=$si;head=$L[0];cons=$ah.cons;all=$ah.all;id=$null;reason=$null} }
   $headOrder=New-Object System.Collections.ArrayList;$hg=@{}

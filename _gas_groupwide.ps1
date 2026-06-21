@@ -1,5 +1,5 @@
 ﻿$ErrorActionPreference='Stop'
-$dir='d:\GoogleDrive202510\マイドライブ\20_エスペラント・語学\漢字化・語彙資料\PEJVO・PIV語根分解資料_20260613'
+$dir='d:\GoogleDrive202510\マイドライブ\20_エスペラント・語学\漢字化・語彙資料\エスペラント語根＿漢字割り当て＿20260621'
 # 仕様§5テキスト版: seen を「グループ全体」で蓄積(GAS最終完全版は頭文字グループ内)。head-only/§6aは同じ。
 $BR=@{ 'basic'=0;'suf'=0;'pref'=0;'prep'=0;'correl'=0;'num'=0;'func'=0;'pejvo'=1;'sci'=1;'elem'=1;'cal'=1;'rel'=1;'piv'=2;'proper'=2 }
 $vowels=@('a','e','i','o','u')

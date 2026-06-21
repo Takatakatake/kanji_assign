@@ -1,7 +1,7 @@
 ﻿# 単字内容語の透明性監査ワークフローを生成(フラットITEMS + JS側チャンク化)
 param([int]$ChunkSize = 20)
 $ErrorActionPreference = 'Stop'
-$dir = "d:\GoogleDrive202510\マイドライブ\20_エスペラント・語学\漢字化・語彙資料\PEJVO・PIV語根分解資料_20260613"
+$dir = "d:\GoogleDrive202510\マイドライブ\20_エスペラント・語学\漢字化・語彙資料\エスペラント語根＿漢字割り当て＿20260621"
 $audit = Get-Content -Raw -Encoding UTF8 "$dir\_audit_singlechar.json" | ConvertFrom-Json
 $itemsArr = $audit | ForEach-Object { [pscustomobject]@{ root=$_.root; cur=$_.cur; jp=$_.jp; cn=$_.cn } }
 $ITEMS = ($itemsArr | ConvertTo-Json -Depth 4 -Compress)

@@ -5,7 +5,7 @@ param(
   [Parameter(Mandatory=$true)][int]$Num
 )
 $ErrorActionPreference = 'Stop'
-$dir = "d:\GoogleDrive202510\マイドライブ\20_エスペラント・語学\漢字化・語彙資料\PEJVO・PIV語根分解資料_20260613"
+$dir = "d:\GoogleDrive202510\マイドライブ\20_エスペラント・語学\漢字化・語彙資料\エスペラント語根＿漢字割り当て＿20260621"
 $j = (Get-Content -Raw -Encoding UTF8 $OutPath | ConvertFrom-Json).result
 $j.roots | ConvertTo-Json -Depth 5 -Compress | Out-File "$dir\_wf_b$Num`_result.json" -Encoding UTF8
 Write-Host "b$Num : roots $($j.roots.Count) / revise $($j.revised.Count) / batchColl $($j.batchCollisions.Count) / usedColl $($j.usedCollisions.Count)"

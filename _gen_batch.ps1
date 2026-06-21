@@ -6,7 +6,7 @@ param(
   [int]$Offset = 0
 )
 $ErrorActionPreference = 'Stop'
-$dir = "d:\GoogleDrive202510\マイドライブ\20_エスペラント・語学\漢字化・語彙資料\PEJVO・PIV語根分解資料_20260613"
+$dir = "d:\GoogleDrive202510\マイドライブ\20_エスペラント・語学\漢字化・語彙資料\エスペラント語根＿漢字割り当て＿20260621"
 
 # --- master 読み込み: キー集合 と 既割当漢字集合 ---
 $masterLines = Get-Content "$dir\_kanji_map_master.tsv" -Encoding UTF8

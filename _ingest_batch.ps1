@@ -5,7 +5,7 @@ param(
   [string]$Type = 'content'
 )
 $ErrorActionPreference = 'Stop'
-$dir = "d:\GoogleDrive202510\マイドライブ\20_エスペラント・語学\漢字化・語彙資料\PEJVO・PIV語根分解資料_20260613"
+$dir = "d:\GoogleDrive202510\マイドライブ\20_エスペラント・語学\漢字化・語彙資料\エスペラント語根＿漢字割り当て＿20260621"
 $masterPath = "$dir\_kanji_map_master.tsv"
 
 $raw = Get-Content -Raw -Encoding UTF8 $ResultPath | ConvertFrom-Json

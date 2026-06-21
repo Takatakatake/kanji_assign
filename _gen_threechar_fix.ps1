@@ -1,6 +1,6 @@
 ﻿# 3字+割当を2字(or1字)へ短縮するクリーンアップ・ワークフロー生成
 $ErrorActionPreference = 'Stop'
-$dir = "d:\GoogleDrive202510\マイドライブ\20_エスペラント・語学\漢字化・語彙資料\PEJVO・PIV語根分解資料_20260613"
+$dir = "d:\GoogleDrive202510\マイドライブ\20_エスペラント・語学\漢字化・語彙資料\エスペラント語根＿漢字割り当て＿20260621"
 $usedKanji = New-Object System.Collections.Generic.List[string]; $seenK=@{}
 Get-Content "$dir\_kanji_map_master.tsv" -Encoding UTF8 | ForEach-Object { $p=$_ -split "`t"; if($p.Count -ge 3){ $k=$p[2].Trim(); if($k.Length -eq 1 -and -not $seenK.ContainsKey($k)){ $seenK[$k]=$true; $usedKanji.Add($k) } } }
 $USED = ($usedKanji -join ' ')

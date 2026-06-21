@@ -1,0 +1,11 @@
+# LibreOffice / OpenOffice ロックファイル
+.~lock.*#
+
+# Insync / Google Drive 同期一時ファイル
+*.insyncdl
+.~*.insyncdl
+
+# OS 生成ファイル
+Thumbs.db
+.DS_Store
+desktop.ini

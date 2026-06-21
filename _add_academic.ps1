@@ -1,7 +1,7 @@
 ﻿# 学術・科学結合形 + 派生接尾辞の curated 割当(頻度上位の確信できるもの)
 # 固有名詞/国名は未対応(§91)へ。曖昧な内容語根は本スクリプトでは扱わず後の検証バッチへ。
 $ErrorActionPreference = 'Stop'
-$dir = "d:\GoogleDrive202510\マイドライブ\20_エスペラント・語学\漢字化・語彙資料\PEJVO・PIV語根分解資料_20260613"
+$dir = "d:\GoogleDrive202510\マイドライブ\20_エスペラント・語学\漢字化・語彙資料\エスペラント語根＿漢字割り当て＿20260621"
 $mp = "$dir\_kanji_map_master.tsv"
 
 # type, key(Unicode), kanji, 根拠

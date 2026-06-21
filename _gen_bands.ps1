@@ -1,7 +1,7 @@
 ﻿# 層バンド(基本語彙/PEJVO/PIV)+ F(見出し数)を機械判定し、サイドカー _band_map.tsv を生成
 # master は変更しない(読み取りのみ)。v2 §8/§11 の P 数値化の基礎データ。
 $ErrorActionPreference = 'Stop'
-$dir = "d:\GoogleDrive202510\マイドライブ\20_エスペラント・語学\漢字化・語彙資料\PEJVO・PIV語根分解資料_20260613"
+$dir = "d:\GoogleDrive202510\マイドライブ\20_エスペラント・語学\漢字化・語彙資料\エスペラント語根＿漢字割り当て＿20260621"
 $dict = "$dir\20_PEJVO語彙リスト_原本・生成版_2024-2026\世界语全部单词_大约44100个(原pejvo.txt)_学習者版_utf8_20260416.txt"
 $csv  = "$dir\30_重要語彙CSV_日中対照_2890語\2890 Gravaj Esperantaj Vortoj kun Signifoj en la Japana, Ĉina.csv"
 $master = "$dir\_kanji_map_master.tsv"

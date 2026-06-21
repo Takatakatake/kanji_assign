@@ -1,7 +1,7 @@
 ﻿# 字種監査: master の全割当字を 一级(3500・許容)と照合し、一级外字(二级/三级/表外=要是正)を検出
 # 【2026-06-16 方針転換】字種は一级のみ。一级で表せなければ未対応(二级廃止)。
 $ErrorActionPreference = 'Stop'
-$dir = "d:\GoogleDrive202510\マイドライブ\20_エスペラント・語学\漢字化・語彙資料\PEJVO・PIV語根分解資料_20260613"
+$dir = "d:\GoogleDrive202510\マイドライブ\20_エスペラント・語学\漢字化・語彙資料\エスペラント語根＿漢字割り当て＿20260621"
 $allowed = @{}
 foreach($f in @("通用规范汉字表_一级3500字_画数.tsv")){
   Get-Content "$dir\$f" -Encoding UTF8 | Select-Object -Skip 1 | ForEach-Object {
