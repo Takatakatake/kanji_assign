@@ -110,45 +110,31 @@ foreach($e in $new){ $root=$e[0];$ov=$e[1];$hw=$e[2];$kw=$e[3];$note=$e[4]
 # combining-form(ギリシャ結合形): idx>0 の完全一致分節で適用(段位置ベース。disc空)。同綴の内容語と別義。
 $comb=@( @('fon','声','音(phone)結合形 telefon/mikrofon等。背景fon=底はidx0で別'), @('metr','计','計器(-meter)結合形 termometr/barometr/manometr/anemometr等→计(gauge)。idx>0の-metr-。長さ単位·詩脚·直径等の非計器はsep metr→米で除外。-metri-(科学)=测は別分節(metri)で不変') )
 $combN=0; foreach($e in $comb){ [void]$rows.Add(($e[0]+"`t"+$e[1]+"`tcomb`t`t"+$e[2])); $combN++ }
-# === -oz/-on/-tom systematic 是正(2026-06-21・収束検証/goal第4次→残oz全単一字化。ユーザー裁定「ozは無理にでも単一字化」) ===
-# -oz多義を全単一字化: 糖-ose→糖 / 膜-osa→膜 / 过程状态-osis(变态)→态 / 生物作用(食作用)→用 / 化学官能基(iodoso)→基 / それ以外の-ozo名詞(病-osis主体・時差症hor/zon/oz含む)→症 / -oza形容詞(rich/多い)→富(disp基底維持)。
+# === -oz/-on/-tom systematic 是正(2026-06-21・収束検証/goal第4次→残oz集約。ユーザー裁定「症+糖の2字に集約。膜/态/用/基の細分は廃止」) ===
+# -oz: -ozo名詞→症(病-osis/過程変態/食作用/膜/iodoso/jetlag/条件形容詞=状態・症状全般に集約) / 糖類-ose→糖 / 標準語oz/o(単糖)→糖 / genuine -oza形容詞(rich/多い herb/bitum)→富。
 # -on: 物理粒子-on→子(電子/陽子/中性子/光子/中間子/磁子/核子)。分数-on/o(分)・対格-on・継息子du/on/fil・帽子c^ap/on等は語幹非該当で維持。
-$ozTai=@('meta/morf/oz/o','meta/morf/oz/i','du/on/meta/morf/oz/a','plen/meta/morf/oz/a','sen/meta/morf/oz/a')   # 過程/状態-osis(变态metamorphosis)→态
-$ozYong=@('fag/o/cit/oz/o')   # 生物作用-osis(食作用phagocytosis)→用
-$ozKi=@('jod/oz/o')           # 化学官能基-oso(iodoso基IO)→基
-$ozMemL=@('muk/oz/o','muk/oz/aj^/o','ser/oz/o','ser/oz/aj^/o','muskol/oz/o')   # -osa膜(粘膜/浆膜/肌层)→膜
-$ozExpl=$ozTai+$ozYong+$ozKi+$ozMemL
+$ozRich=@('herb/oz/a','bitum/oz/a')   # genuine -oza形容詞(草の多い/瀝青質の)→富。他の-oza(変態の/結核性等の条件形容詞)は症へ集約
 $onStem=@('elektr','prot','neu^tr','fot','mez','magnet','nukle')
-$ozD=New-Object System.Collections.ArrayList;$ozS=New-Object System.Collections.ArrayList;$ozM=New-Object System.Collections.ArrayList;$onP=New-Object System.Collections.ArrayList
+$ozD=New-Object System.Collections.ArrayList;$ozS=New-Object System.Collections.ArrayList;$onP=New-Object System.Collections.ArrayList
 $ozK=@{};$onK=@{}
 foreach($ln in $lines){ $ci=$ln.IndexOf(':'); if($ci -lt 1){continue}; $hh=$ln.Substring(0,$ci); $gg=$ln.Substring($ci+1)
   foreach($w in ($hh -split ' ')){ $sg=$w -split '/'
     $io=[array]::IndexOf($sg,'oz')
     if($io -ge 1 -and -not $ozK.ContainsKey($w)){
-      if($ozExpl -contains $w){ $ozK[$w]=$true; if($ozMemL -contains $w){ [void]$ozM.Add($w) } }
-      else{
-        $sugar=($gg -match '糖') -or ($gg -match '(?i)(sakar|sukero|monosakar|polisakar|glucid|pentoz|heksoz|glikoz|aldehid)') -or ($w -eq 'celul/oz/o') -or ($w -eq 'gren/malt/oz/aj^/o')
-        $isAdj=($sg[$sg.Count-1] -eq 'a')
-        $dise=($gg -match '[病症]') -or ($gg -match '【医') -or ($gg -match '【病') -or ($gg -match '(?i)(malsan|afekci|infekt|lezo|tumor|erupci|anemi|sindrom|perturb)') -or ($w -match 'tuberkul/oz') -or ($w -match 'bilharzi/oz') -or ($w -match 'micet/oz') -or ($w -match 'trik/oz')
-        if($sugar -and -not $dise){ $ozK[$w]=$true; [void]$ozS.Add($w) }
-        elseif($dise){ $ozK[$w]=$true; [void]$ozD.Add($w) }
-        elseif($isAdj){ $ozK[$w]=$true }   # -oza形容詞(rich/多い)→富(disp基底維持。herb/oz/a草/富・bitum/oz/a沥青/富)
-        else{ $ozK[$w]=$true; [void]$ozD.Add($w) }   # 残り-ozo名詞→症(disease主体。avitaminoz/pio-nefroz等の取りこぼし病も。無理にでも単一字化)
-      }
+      $sugar=($gg -match '糖') -or ($gg -match '(?i)(sakar|sukero|monosakar|polisakar|glucid|pentoz|heksoz|glikoz|aldehid)') -or ($w -eq 'celul/oz/o') -or ($w -eq 'gren/malt/oz/aj^/o')
+      if($sugar){ $ozK[$w]=$true; [void]$ozS.Add($w) }
+      elseif($ozRich -contains $w){ $ozK[$w]=$true }   # genuine -oza形容詞(草の多い/瀝青質の)→富(disp基底維持)
+      else{ $ozK[$w]=$true; [void]$ozD.Add($w) }   # 他-oz全て→症(病/過程変態/食作用/膜/iodoso/jetlag/条件形容詞=状態全般に集約)
     }
     $in=[array]::IndexOf($sg,'on')
     if($in -ge 1 -and -not $onK.ContainsKey($w) -and ($onStem -contains $sg[$in-1])){ $onK[$w]=$true; [void]$onP.Add($w) }
   } }
-if($ozD.Count){ [void]$rows.Add("oz`t症`tsep`t"+($ozD -join ',')+"`t-osis病→症(収束検証2026-06-21・データ駆動。形容詞-oza=富維持)") }
-[void]$ozS.Add('oz/o')   # 標準語 oz/o(単独=単糖monosaccharide)→糖。oz語幹idx0で自動分類外のため明示追加
+[void]$ozS.Add('oz/o')   # 標準語oz/o(単独=単糖monosaccharide)→糖。oz語幹idx0で自動分類外のため明示追加
+if($ozD.Count){ [void]$rows.Add("oz`t症`tsep`t"+($ozD -join ',')+"`t-ozo名詞→症(状態/症状全般に集約。病/変態/食作用/膜/iodoso/jetlag。糖類のみ糖・genuine形容詞-oza富。2026-06-21ユーザー裁定で症+糖の2字に集約)") }
 if($ozS.Count){ [void]$rows.Add("oz`t糖`tsep`t"+($ozS -join ',')+"`t-ose糖→糖(標準語oz/o単糖含む)") }
-if($ozM.Count){ [void]$rows.Add("oz`t膜`tsep`t"+($ozM -join ',')+"`t-osa膜(粘膜/浆膜)→膜") }
-[void]$rows.Add("oz`t态`tsep`t"+($ozTai -join ',')+"`t过程状态-osis(变态metamorphosis)→态(无理にでも単一字化2026-06-21)")
-[void]$rows.Add("oz`t用`tsep`t"+($ozYong -join ',')+"`t生物作用-osis(食作用phagocytosis)→用")
-[void]$rows.Add("oz`t基`tsep`t"+($ozKi -join ',')+"`t化学官能基-oso(iodoso基IO)→基")
 if($onP.Count){ [void]$rows.Add("on`t子`tsep`t"+($onP -join ',')+"`t物理粒子-on→子(電子/陽子/中性子/光子/中間子/磁子/核子。分数-on/o=分は維持)") }
 [void]$rows.Add("tom`t切`tsep`tmikro/tom/o`t-tom(切る・微小切片機microtome)→切。-tomi=切ᵀᴹ・-ektomi=除ᴱᴷと同系")
-Write-Host ("  [-oz/-on/-tom] 症{0}/糖{1}/膜{2}/态{3}/用{4}/基{5}/子{6}/切1" -f $ozD.Count,$ozS.Count,$ozM.Count,$ozTai.Count,$ozYong.Count,$ozKi.Count,$onP.Count)
+Write-Host ("  [-oz/-on/-tom] 症{0}/糖{1}/子{2}/切1" -f $ozD.Count,$ozS.Count,$onP.Count)
 [System.IO.File]::WriteAllLines("$dir\_homonym.tsv", $rows, (New-Object System.Text.UTF8Encoding($false)))
 $existSep=$existing.Count
 Write-Host ("台帳再構築: 既存{0}(sep) + 新{4} = 計{1}行 / sep {2} / amb {3} / comb {5}" -f $existSep,($rows.Count-1),($existSep+$sepN),$ambN,$new.Count,$combN)
