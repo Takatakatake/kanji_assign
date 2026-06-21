@@ -38,7 +38,7 @@ $existing=@(
  @('di','二','di/,di/morf/a,di/morf/ec/o,di/morf/ism/o,di/ploid/a,di/pod/o,di/pod/ed/oj,di/gram/o,di/kotiledon/oj,di/al/o,di/azot/o,di/metoksi/fenol/o,di/kromiat/o,di/mer/o,di/sakarid/o,di/tionat/o,di/sulf/id/o,di/oksid/o,di/klor/id/o,di/pter/oj,di/valent/a,karbon/di/oksid/o,sulfur/di/oksid/o','','数詞di-(2)→二。神di/o系(di/o/tim神畏敬·di/skarab神甲=テントウムシ)は神維持(disc不掲載)。di/pter双翅·di/klor/id二塩化等のエス的分解##偽分解(PIV正式)を尊重し透明化'),
  # 結合形フォルスフレンド第3弾(2026-06-21・最終網羅スイープworkflow6agent検出)。各主義master維持、科学/医学文脈の見出しのみ上書き。一级:全时共向心种火压光耳尿根指图字。
  @('gram','图','aer/o/gram/o,anem/o/gram/o,dia/gram/o,elektr/o/kardi/o/gram/o,encefal/o/gram/o,faz/dia/gram/o,faz/o/dia/gram/o,fon/o/gram/o,hips/o/gram/o,holo/gram/o,kabl/o/gram/o,kardi/o/gram/o,nivel/dia/gram/o,organi/gram/o,orto/gram/o,paralel/o/gram/o,radi/o/gram/o,radi/o/tele/gram/o,scintil/o/gram/o,seism/o/gram/o,spektr/o/gram/o,tefi/gram/o,tele/gram/o,tele/gram/kod/o,tele/gram/port/ist/o,penta/gram/o,gram/o/fon/o,gram/o/fon/disk/o','','-gram(記録·図像γράμμα)→图。重量gram(克):kilo/centi/mili/deka/hekto-gram·gram/atom·gram/molekul·gram/pez は克維持。文字義は字(別エントリ)。蓄音機gram/o/fon(記録音→图/声)も捕捉。dia/gram/oはflor/a等多語も捕捉'),
- @('gram','字','di/gram/o,ide/o/gram/o,mono/gram/o,tetra/gram/o','','-gram(文字·書記素)→字。digraph二字·表意文字·組合せ文字·聖四文字。記録図像は图·重量は克'),
+ @('gram','字','di/gram/o,ide/o/gram/o,mono/gram/o,tetra/gram/o,epi/gram/o,epi/gram/ist/o','','-gram(文字·書記素)→字。digraph二字·表意文字·組合せ文字·聖四文字·警句epigram(epi/gram=表ᴱ/字ᴳ=書きつけられた句)。記録図像は图·重量は克。2026-06-21 epigram追加'),
  @('pan','全','pan/kromat/a,pan/te/ism/o,pan/te/ist/o,pan/te/ism/a,pan/slav/ism/o','','pan-(汎·全all)→全。パンpan/o(面包)·pan/ej/pan/um/pan/tranc^等は維持'),
  @('kron','时','izo/kron/a,izo/kron/ec/o,kron/o/graf/i,kron/o/graf/o,kron/o/logi/a,kron/o/logi/o,kron/o/metr/i,kron/o/metri/o,kron/o/metr/o,kron/o/metri/a,kron/o/metr/ist/o,kron/o/strat/i/grafi/o,sin/kron/a,sin/kron/ec/o,sin/kron/ig/i,sin/kron/ig/il/o,sin/kron/o/skop/o,post/sin/kron/ig/i,post/sin/kron/ig/o,mal/sin/kron/ig^/i,dia/kron/a,dendro/kron/o/log/o,dendro/kron/o/logi/o,geo/kron/o/logi/o','','chrono-(時)→时。王冠kron/o(冠)·戴冠kron/ad·冠状ウイルス·皇太子·コロナ放電kron/efluv·dethrone sen/kron/igは冠維持·クローネ通貨は币'),
  @('sin','共','sin/kron/a,sin/kron/ec/o,sin/kron/ig/i,sin/kron/ig/il/o,sin/kron/o/skop/o,post/sin/kron/ig/i,post/sin/kron/ig/o,mal/sin/kron/ig^/i,sin/onim/a,sin/onim/ec/o,sin/onim/o,sin/onim/ik/o','','syn-(共·同together)→共。胸sin/o(怀)·再帰sin(自)は別エントリで維持'),
@@ -55,7 +55,7 @@ $existing=@(
  @('sperm','种','endo/sperm/o,peri/sperm/o','','-sperma(種·胚乳)→种。精液sperm/o(精液)·sperm/o/dukt等は維持'),
  # 結合形フォルスフレンド第4弾(2026-06-21・優先順位/方針 多エージェント監査で検出)。-log-=言葉(話)·-metr-=計器(计)。
  @('log','话','dia/log/a,dia/log/i,dia/log/o,dia/log/oj,dia/log/uj/o,dia/log/ist/o,mono/log/i,mono/log/o,pro/log/o,epi/log/o,neo/log/o,neo/log/ism/o,neo/log/ism/em/o,neo/log/ism/em/ul/o','','-log-(logos=言葉·談話/-logue)→话(parol=话と同字共有)。対話dia/独白mono/序言pro/跋epi/新語neo(neologism=新话)。-logist/-ology=学家(biolog等)·al-de+log=诱は別。katalog=录·analog=似(whole-root)は不変'),
- @('metr','米','centi/metr/o,deci/metr/o,deka/metr/o,hekto/metr/o,kilo/metr/o,mikro/metr/o,miria/metr/o,kub/metr/o,kilo/gram/metr/o,dia/metr/o,dia/metr/a,du/on/dia/metr/o,peri/metr/o,para/metr/o,izo/metr/o,izo/metr/a,heks/a/metr/o,penta/metr/o,geo/metr/o','','-metr-の非計器(長さ·面積·体積単位/幾何長/抽象measure/詩脚/人)は米(metre/measure)維持。下の comb metr→计(計器)を見出しで上書き。単位centi-kilo·直径dia·周长peri·parameter para·isometric izo·hexa-penta詩脚·geometer(人)geo'),
+ @('metr','米','centi/metr/o,deci/metr/o,deka/metr/o,hekto/metr/o,kilo/metr/o,mikro/metr/o,miria/metr/o,kub/metr/o,kilo/gram/metr/o,para/metr/o,izo/metr/o,izo/metr/a,heks/a/metr/o,penta/metr/o,geo/metr/o','','-metr-の非計器(長さ·面積·体積単位/抽象measure/詩脚/人)は米(metre/measure)維持。下の comb metr→计(計器)を見出しで上書き。単位centi-kilo·parameter para·isometric izo·hexa-penta詩脚·geometer(人)geo。直径dia/半径/周径peri は下の metr→径 sep へ移管(2026-06-21)'),
  # ギリシャ接頭pro-(前)·ワットwatt(瓦)の同綴是正(2026-06-21追補。/goal監査の据置項目をmerit判断で是正)
  @('pro','前','pro/log/o,pro/faz/o','','ギリシャ接頭pro-(前·fore)→前。prologue序言(pro/log⟦前/话⟧)·prophase前相(pro/faz⟦前/相⟧)。epi=后と対。エス前置詞pro=因(pro tio因此·proparol代弁等)は維持(disc不掲載)'),
  @('vat','瓦','giga/vat/o,kilo/vat/o,mega/vat/o,vat/hor/o,vat/hor/o/metr/o,vat/metr/o,vat/sekund/o','','ワットwatt(瓦)→瓦。kilovat/megavat/gigavat/vatmetr電力計/vathor瓦時/vatsekund 等の電力複合。綿vat/o(棉)·suker/vat綿菓子·vat/baston綿棒·vat/it綿入 等は維持(disc不掲載)。bare vat/o=棉&瓦はamb(基本義 棉維持)'),
@@ -63,7 +63,12 @@ $existing=@(
  @('metr','计','metr/o/nom/o','','メトロノームmetr(計器·measure)→计。idx0でcomb metr→计 非適用のためsep明示。長さ単位等の非計器metrは上の米sepで処理'),
  @('nom','律','metr/o/nom/o','','メトロノームnom(ギリシャnomos=法/掟)→律。leĝ法律=律と整合し律=音律/拍節も兼ね楽器に二重適切。科学-nomy=学(agronom)·名前複合=名 とは別の第3義。计律=計測+音律=節拍器'),
  # aŭtomobil 過剰分解是正(2026-06-21・ユーザー裁定OptionA)。辞書 ##過細分解 au^t/o/mobil/o の mobil=挂饰(モビール)は誤友→动(-mobile=可動)。aŭt=车(基本形)はそのまま=车/o/动/o。aŭtomat(动)の兄弟として动群へ合流(动ᴹᴮ)。
- @('mobil','动','au^t/o/mobil/o,au^t/o/mobil/a,au^t/o/mobil/ism/o,au^t/o/mobil/ist/o,au^t/o/mobil/kompani/o','','mobil(-mobile=可動·自動)→动。aŭtomobil系の##過細分解是正。モビールmobil/o(挂饰)·movable mobil/a 等はdisc不掲載で挂饰維持。aŭtomat=动と同群') )
+ @('mobil','动','au^t/o/mobil/o,au^t/o/mobil/a,au^t/o/mobil/ism/o,au^t/o/mobil/ist/o,au^t/o/mobil/kompani/o','','mobil(-mobile=可動·自動)→动。aŭtomobil系の##過細分解是正。モビールmobil/o(挂饰)·movable mobil/a 等はdisc不掲載で挂饰維持。aŭtomat=动と同群'),
+ # 結合形フォルスフレンド第5弾(2026-06-21・/goal多エージェント敵対検証で検出)。全字一级(声/径)。既存sep機構。
+ # ②phono-(声)が先頭分節idx0=蓄音機/音韻論。背景fon(底)はdisc不掲載で維持。gram/o/fon=声ᶠᴼ(idx>0)と整合。
+ @('fon','声','fon/o/graf/o,fon/o/gram/o,fon/o/logi/o,fon/o/metr/o,fon/o/metri/o,fon/o/skop/o','','phono-(音·声)結合形がidx0(先頭分節)=蓄音機/音韻論/音波測定等→声。背景fon/o(底)·fon/a/fon/bru/o/fon/farb/fon/muzik/o/fon/s^mink/fon/tol/fon/tul はdisc不掲載で底維持。phononフォノンfon/on/oは据置'),
+ # ④diameter系の-metr-=放射状の長さ測度→径(直径/半径/周径)。長さ単位·詩脚·geometerは上のmetr→米sep維持。
+ @('metr','径','dia/metr/o,dia/metr/a,du/on/dia/metr/o,peri/metr/o','','-metr-(放射状の長さ測度=直径/半径/周径)→径。dia/metr直径·du/on/dia/metr半径·peri/metr周径。米sepから移管。直径dia/metr/a は dia/metr/a diferenc/o も捕捉') )
 # 新54(root,override,headwordForm,2nd義キーワード(amb判別用),note)
 $new=@(
  @('al','翼','al/o','翼','翼。前置詞al=向と別'),@('por','孔','por/o,por/a','孔','気孔。前置詞por=为と別'),@('sur','腿','sur/o','ふくらはぎ','ふくらはぎ。前置詞sur=上と別'),
