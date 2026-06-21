@@ -113,7 +113,7 @@ $tpl = @'
  .grp .gk{font-size:18px;font-family:"KaiTi",serif;margin-right:6px;color:#cf222e}.grp .gc{color:#57606a}
  .grp .gi{color:#cf222e;font-weight:700}
 </style></head><body>
-<header><h1>エスペラント語根 → 漢字 割当ビュー(§9識別子付き・語義付き)</h1><div class="stats" id="hstats"></div></header>
+<header><h1>エスペラント語根 → 漢字 割当ビュー(§9識別子付き・語義付き)</h1><div class="stats" id="hstats"></div><div style="margin-top:4px"><a href="words.html" style="color:#79c0ff;font-size:12px;text-decoration:none">▸ 複合語ビュー(全注入語49k)へ</a></div></header>
 <div class="controls">
  <input id="q" placeholder="検索 (語根・漢字・識別子・語義)"/>
  <select id="bf"><option value="">全バンド</option><option>basic</option><option>pejvo</option><option>piv</option><option>func</option><option>suf</option><option>pref</option><option>correl</option><option>prep</option><option>sci</option><option>elem</option><option>num</option><option>cal</option><option>proper</option></select>
