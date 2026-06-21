@@ -55,7 +55,7 @@ $existing=@(
  @('sperm','种','endo/sperm/o,peri/sperm/o','','-sperma(種·胚乳)→种。精液sperm/o(精液)·sperm/o/dukt等は維持'),
  # 結合形フォルスフレンド第4弾(2026-06-21・優先順位/方針 多エージェント監査で検出)。-log-=言葉(話)·-metr-=計器(计)。
  @('log','话','dia/log/a,dia/log/i,dia/log/o,dia/log/oj,dia/log/uj/o,dia/log/ist/o,mono/log/i,mono/log/o,pro/log/o,epi/log/o,neo/log/o,neo/log/ism/o,neo/log/ism/em/o,neo/log/ism/em/ul/o','','-log-(logos=言葉·談話/-logue)→话(parol=话と同字共有)。対話dia/独白mono/序言pro/跋epi/新語neo(neologism=新话)。-logist/-ology=学家(biolog等)·al-de+log=诱は別。katalog=录·analog=似(whole-root)は不変'),
- @('metr','米','centi/metr/o,deci/metr/o,deka/metr/o,hekto/metr/o,kilo/metr/o,mikro/metr/o,miria/metr/o,kub/metr/o,kilo/gram/metr/o,para/metr/o,izo/metr/o,izo/metr/a,heks/a/metr/o,penta/metr/o,geo/metr/o','','-metr-の非計器(長さ·面積·体積単位/詩脚/人)は米(metre/measure)維持。下の comb metr→计(計器)を見出しで上書き。単位centi-kilo·parameter para·isometric izo·hexa-penta詩脚·geometer(人)geo。※直径dia/半径du/on/dia/周径peri は下の metr→测(measure)sepへ移管(2026-06-21・ユーザー裁定)'),
+ @('metr','米','centi/metr/o,deci/metr/o,deka/metr/o,hekto/metr/o,kilo/metr/o,mili/metr/o,mikro/metr/o,miria/metr/o,kub/metr/o,kilo/gram/metr/o,para/metr/o,izo/metr/o,izo/metr/a,heks/a/metr/o,penta/metr/o,geo/metr/o','','-metr-の非計器(長さ·面積·体積単位/詩脚/人)は米(metre/measure)維持。下の comb metr→计(計器)を見出しで上書き。単位centi-kilo·parameter para·isometric izo·hexa-penta詩脚·geometer(人)geo。※直径dia/半径du/on/dia/周径peri は下の metr→测(measure)sepへ移管(2026-06-21・ユーザー裁定)'),
  # 直径系の-metr-=抽象measure→测(mezur測る=测の基底・metri测ᴹᵀと同family。dia/metr=横切って測る=diameter語源)。米(metre単位)·计(計器)·测ᴹᵀ(metri)と並ぶmetrの第4文脈。2026-06-21ユーザー裁定 米→测。
  @('metr','测','dia/metr/o,dia/metr/a,du/on/dia/metr/o,peri/metr/o','','-metr-(抽象measure=直径/半径/周径)→测。测の基底mezur(測る)・metri(测ᴹᵀ)と同family。dia/metr=通ᴰ/测「横切って測る」=diameter語源。長さ単位centi/kilo·詩脚heks/penta·geometer geoは米sep維持'),
  # ギリシャ接頭pro-(前)·ワットwatt(瓦)の同綴是正(2026-06-21追補。/goal監査の据置項目をmerit判断で是正)
@@ -65,13 +65,16 @@ $existing=@(
  @('metr','计','metr/o/nom/o','','メトロノームmetr(計器·measure)→计。idx0でcomb metr→计 非適用のためsep明示。長さ単位等の非計器metrは上の米sepで処理'),
  @('nom','律','metr/o/nom/o','','メトロノームnom(ギリシャnomos=法/掟)→律。leĝ法律=律と整合し律=音律/拍節も兼ね楽器に二重適切。科学-nomy=学(agronom)·名前複合=名 とは別の第3義。计律=計測+音律=節拍器'),
  # aŭtomobil 過剰分解是正(2026-06-21・ユーザー裁定OptionA)。辞書 ##過細分解 au^t/o/mobil/o の mobil=挂饰(モビール)は誤友→动(-mobile=可動)。aŭt=车(基本形)はそのまま=车/o/动/o。aŭtomat(动)の兄弟として动群へ合流(动ᴹᴮ)。
- @('mobil','动','au^t/o/mobil/o,au^t/o/mobil/a,au^t/o/mobil/ism/o,au^t/o/mobil/ist/o,au^t/o/mobil/kompani/o','','mobil(-mobile=可動·自動)→动。aŭtomobil系の##過細分解是正。モビールmobil/o(挂饰)·movable mobil/a 等はdisc不掲載で挂饰維持。aŭtomat=动と同群'),
+ @('mobil','动','au^t/o/mobil/o,au^t/o/mobil/a,au^t/o/mobil/ism/o,au^t/o/mobil/ist/o,au^t/o/mobil/kompani/o,mobil/iz/i,mobil/iz/ad/o,mobil/iz/o,mal/mobil/iz/i,mal/mobil/iz/ig^/i,mal/mobil/iz/o,lok/o/mobil/o','','mobil(-mobile=可動·自動·移動)→动。aŭtomobil車+動員mobil/iz(復員mal/mobil/iz)+移動式蒸気機関lok/o/mobil。モビール装飾mobil/o(挂饰)はdisc不掲載で挂饰維持。aŭtomat=动と同群'),
  # 結合形フォルスフレンド第5弾(2026-06-21・/goal多エージェント敵対検証で検出)。全字一级(声/径)。既存sep機構。
  # ②phono-(声)が先頭分節idx0=蓄音機/音韻論。背景fon(底)はdisc不掲載で維持。gram/o/fon=声ᶠᴼ(idx>0)と整合。
  @('fon','声','fon/o/graf/o,fon/o/gram/o,fon/o/logi/o,fon/o/metr/o,fon/o/metri/o,fon/o/skop/o','','phono-(音·声)結合形がidx0(先頭分節)=蓄音機/音韻論/音波測定等→声。背景fon/o(底)·fon/a/fon/bru/o/fon/farb/fon/muzik/o/fon/s^mink/fon/tol/fon/tul はdisc不掲載で底維持。phononフォノンfon/on/oは据置'),
  # WSL再分解(2026-06-21・19:08版同期)で露出した接頭辞フォルスフレンド。bi-(two)→二・物理spin→旋。全字一级。
- @('bi','二','bi/,bi/dent/o,bi/dual/o,bi/gami/o,bi/gami/ul/o,bi/holo/morf/a,bi/holo/morfi/o,bi/jekci/a,bi/jekci/o,bi/karbon/at/o,bi/kromiat/o,bi/metal/a,bi/metal/ism/o,bi/sulf/at/o,bi/sulf/it/o','','bi-(two=二)→二。biot生(bi/ont/o/logi=生物学)はdisc不掲載で生維持。重婚bi/gami・重曹bi/karbon/at・双射bi/jekci・双金属bi/metal・重铬酸bi/kromiat 等。di-(二)と平行'),
- @('spin','旋','spin/momant/o,izo/spin/o','','物理spin(角運動量)→旋。背骨spin/o(脊)・脊髄spin/a・脳脊髄cerb/o/spin/a・cefal/o/spin/aは脊維持(disc不掲載)。spin/o=背骨/スピンの二義のうち物理複合のみ旋') )
+ @('bi','二','bi/,bi/dent/o,bi/dual/o,bi/gami/o,bi/gami/ul/o,bi/holo/morf/a,bi/holo/morfi/o,bi/jekci/a,bi/jekci/o,bi/karbon/at/o,bi/kromiat/o,bi/metal/a,bi/metal/ism/o,bi/sulf/at/o,bi/sulf/it/o,meta/bi/sulf/it/o,poli/klor/bi/fenil/o','','bi-(two=二)→二。biot生(bi/ont/o/logi=生物学)はdisc不掲載で生維持。重婚bi/gami・重曹bi/karbon/at・双射bi/jekci・双金属bi/metal・重铬酸bi/kromiat・メタ重亜硫酸meta/bi/sulf/it・PCB poli/klor/bi/fenil 等。di-(二)と平行'),
+ @('spin','旋','spin/momant/o,izo/spin/o','','物理spin(角運動量)→旋。背骨spin/o(脊)・脊髄spin/a・脳脊髄cerb/o/spin/a・cefal/o/spin/aは脊維持(disc不掲載)。spin/o=背骨/スピンの二義のうち物理複合のみ旋'),
+ # /goal第2次敵対検証(2026-06-21)で検出した追加フォルスフレンド。allo-(他·異)→异・化学-id(-ide二元化合物)→化。全字一级。
+ @('alo','异','alo/fon/o,alo/fon/a,alo/morf/o,alo/trofi/o','','ギリシャ接頭allo-(他·異different)→异。allophone异音(alo/fon)·allomorph异形态(alo/morf)·allotrophy异养(alo/trofi)。アロエ alo/o(草)·alo/aj^/o(草)はdisc不掲載で草維持。合金aloj/oは別根(合金)'),
+ @('id','化','brom/id/o,brom/id/paper/o,cian/id/o,klor/id/o,klor/id/a,di/klor/id/o,tri/klor/id/o,metil/klor/id/o,vinil/klor/id/o,klor/id/emi/o,hipo/klor/id/emi/o,sen/klor/id/ig^/o,sulf/id/o,di/sulf/id/o,fluor/id/o,fosf/id/o,halogen/id/o,hidr/id/o,hidr/id/i,jod/id/o,karb/id/o,karbon/id/o,nitr/id/o,selen/id/o,ure/id/o','','化学-id(-ide=二元化合物X化物)→化。塩-at/-it=盐の兄弟(-ide=化合物 / -ate-ite=塩)。子孫-id(bov/id仔牛·kat/id仔猫·c^eval/id等の動物の子)はdisc不掲載で子維持。lanthanoid lantan/id(系列)·saccharide sakar/id(糖類)は二元化合物でないため除外') )
 # 新54(root,override,headwordForm,2nd義キーワード(amb判別用),note)
 $new=@(
  @('al','翼','al/o','翼','翼。前置詞al=向と別'),@('por','孔','por/o,por/a','孔','気孔。前置詞por=为と別'),@('sur','腿','sur/o','ふくらはぎ','ふくらはぎ。前置詞sur=上と別'),
