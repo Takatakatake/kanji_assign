@@ -157,6 +157,10 @@ render();
 </script></body></html>
 '@
 $html = $tpl.Replace('DATAJSON',$json)
-$outp = "$dir\漢字割当ビュー_20260615 copy.html"
-[System.IO.File]::WriteAllText($outp, $html, (New-Object System.Text.UTF8Encoding($true)))
-Write-Host "生成: $outp ($total 行 / 識別子付き $withId 件)"
+$utf8bom = New-Object System.Text.UTF8Encoding($true)
+# 公開ページ(正本)= kanji.html。日付付きスナップショット(漢字割当ビュー_yyyyMMdd.html)も同時生成。
+$outMain  = "$dir\kanji.html"
+$outDated = "$dir\漢字割当ビュー_$(Get-Date -Format 'yyyyMMdd').html"
+[System.IO.File]::WriteAllText($outMain,  $html, $utf8bom)
+[System.IO.File]::WriteAllText($outDated, $html, $utf8bom)
+Write-Host "生成: $outMain + $outDated ($total 行 / 識別子付き $withId 件)"
