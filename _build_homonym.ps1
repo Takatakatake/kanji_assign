@@ -110,6 +110,36 @@ foreach($e in $new){ $root=$e[0];$ov=$e[1];$hw=$e[2];$kw=$e[3];$note=$e[4]
 # combining-form(ギリシャ結合形): idx>0 の完全一致分節で適用(段位置ベース。disc空)。同綴の内容語と別義。
 $comb=@( @('fon','声','音(phone)結合形 telefon/mikrofon等。背景fon=底はidx0で別'), @('metr','计','計器(-meter)結合形 termometr/barometr/manometr/anemometr等→计(gauge)。idx>0の-metr-。長さ単位·詩脚·直径等の非計器はsep metr→米で除外。-metri-(科学)=测は別分節(metri)で不変') )
 $combN=0; foreach($e in $comb){ [void]$rows.Add(($e[0]+"`t"+$e[1]+"`tcomb`t`t"+$e[2])); $combN++ }
+# === -oz/-on/-tom systematic 是正(2026-06-21・収束検証/goal第4次)。データ駆動でgloss分類 ===
+# -oz: 病-osis→症 / 糖-ose→糖 / 膜-osa(粘膜/浆膜)→膜。形容詞-oza(rich/多い)=富維持。過程系(metamorfoz变态/fagocitoz/jodoz)は富残置(報告のみ)。
+# -on: 物理粒子-on→子(電子/陽子/中性子/光子/中間子/磁子/核子)。分数-on/o(分)・対格-on・継息子du/on/fil・帽子c^ap/on等は語幹非該当で維持。
+$ozResid=@('meta/morf/oz/o','meta/morf/oz/i','du/on/meta/morf/oz/a','plen/meta/morf/oz/a','sen/meta/morf/oz/a','fag/o/cit/oz/o','hor/zon/oz/o','jod/oz/o','herb/oz/a','bitum/oz/a')
+$ozMemL=@('muk/oz/o','muk/oz/aj^/o','ser/oz/o','ser/oz/aj^/o','muskol/oz/o')
+$onStem=@('elektr','prot','neu^tr','fot','mez','magnet','nukle')
+$ozD=New-Object System.Collections.ArrayList;$ozS=New-Object System.Collections.ArrayList;$ozM=New-Object System.Collections.ArrayList;$onP=New-Object System.Collections.ArrayList
+$ozK=@{};$onK=@{}
+foreach($ln in $lines){ $ci=$ln.IndexOf(':'); if($ci -lt 1){continue}; $hh=$ln.Substring(0,$ci); $gg=$ln.Substring($ci+1)
+  foreach($w in ($hh -split ' ')){ $sg=$w -split '/'
+    $io=[array]::IndexOf($sg,'oz')
+    if($io -ge 1 -and -not $ozK.ContainsKey($w)){
+      if($ozResid -contains $w){ $ozK[$w]=$true }
+      elseif($ozMemL -contains $w){ $ozK[$w]=$true; [void]$ozM.Add($w) }
+      else{
+        $sugar=($gg -match '糖') -or ($gg -match '(?i)(sakar|sukero|monosakar|polisakar|glucid|pentoz|heksoz|glikoz|aldehid)') -or ($w -eq 'celul/oz/o') -or ($w -eq 'gren/malt/oz/aj^/o')
+        $dise=($gg -match '[病症]') -or ($gg -match '【医') -or ($gg -match '【病') -or ($gg -match '(?i)(malsan|afekci|infekt|lezo|tumor|erupci|anemi|sindrom|perturb)') -or ($w -match 'tuberkul/oz') -or ($w -match 'bilharzi/oz') -or ($w -match 'micet/oz') -or ($w -match 'trik/oz')
+        if($sugar -and -not $dise){ $ozK[$w]=$true; [void]$ozS.Add($w) }
+        elseif($dise){ $ozK[$w]=$true; [void]$ozD.Add($w) }
+      }
+    }
+    $in=[array]::IndexOf($sg,'on')
+    if($in -ge 1 -and -not $onK.ContainsKey($w) -and ($onStem -contains $sg[$in-1])){ $onK[$w]=$true; [void]$onP.Add($w) }
+  } }
+if($ozD.Count){ [void]$rows.Add("oz`t症`tsep`t"+($ozD -join ',')+"`t-osis病→症(収束検証2026-06-21・データ駆動。形容詞-oza=富維持)") }
+if($ozS.Count){ [void]$rows.Add("oz`t糖`tsep`t"+($ozS -join ',')+"`t-ose糖→糖") }
+if($ozM.Count){ [void]$rows.Add("oz`t膜`tsep`t"+($ozM -join ',')+"`t-osa膜(粘膜/浆膜)→膜") }
+if($onP.Count){ [void]$rows.Add("on`t子`tsep`t"+($onP -join ',')+"`t物理粒子-on→子(電子/陽子/中性子/光子/中間子/磁子/核子。分数-on/o=分は維持)") }
+[void]$rows.Add("tom`t切`tsep`tmikro/tom/o`t-tom(切る・微小切片機microtome)→切。-tomi=切ᵀᴹ・-ektomi=除ᴱᴷと同系")
+Write-Host ("  [-oz/-on/-tom] 症{0}/糖{1}/膜{2}/子{3}/切1" -f $ozD.Count,$ozS.Count,$ozM.Count,$onP.Count)
 [System.IO.File]::WriteAllLines("$dir\_homonym.tsv", $rows, (New-Object System.Text.UTF8Encoding($false)))
 $existSep=$existing.Count
 Write-Host ("台帳再構築: 既存{0}(sep) + 新{4} = 計{1}行 / sep {2} / amb {3} / comb {5}" -f $existSep,($rows.Count-1),($existSep+$sepN),$ambN,$new.Count,$combN)
