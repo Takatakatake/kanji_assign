@@ -16,7 +16,7 @@ $existing=@(
  @('kaj','码','kaj/o,kaj/oj','','埠頭。接続詞kaj=和と別'),
  @('log','诱','log/i,log/aj^/o,al/log/i,al/log/o,al/log/a,al/log/aj^/o,de/log/i,de/log/o','','誘惑。-log-=学家と別。接頭al/de+log=動詞诱(allogi魅了/delogi誘惑)'),
  @('c^iel','天','c^iel/o,c^iel/a','','空。相関詞c^iel=全样と別'),
- @('c^ar','车','c^ar/o,c^ar/ist/o','','荷車。接続詞c^ar=因と別'),
+ @('c^ar','车','c^ar/o,c^ar/ist/o,c^ar/eg/o,c^ar/et/o,c^ar/um/o,c^ar/on,c^ar/far/ist/o,c^ar/lev/il/o,au^t/o/c^ar/o,antau^/c^ar/o,post/c^ar/o,bov/o/c^ar/o,c^eval/c^ar/o,bagag^/o/c^ar/o,beb/o/c^ar/et/o,infan/c^ar/et/o,ac^et/c^ar/et/o,pus^/c^ar/et/o,pus^/c^ar/o,fald/c^ar/o,fald/c^ar/et/o,fest/o/c^ar/o,furag^/o/c^ar/o,elektr/o/c^ar/o,krom/c^ar/o,lev/c^ar/o,plen/c^ar/o,s^arg^/o/c^ar/o,serv/o/c^ar/et/o,sid/c^ar/et/o,tir/c^ar/o,trole/c^ar/o','','荷車/車両(ĉaro=cart)→车。接続詞ĉar(因)はdisc不掲載で維持。荷車ĉar系32見出しを網羅(2026-06-21): aŭt/o/ĉar=バス・bov/o/ĉar=牛車・ĉeval/ĉar=馬車・krom/ĉar=側車(外/车)・各乳母車(beb/o/infan/fald)・手押車(puŝ/ĉar/um)・ショッピングカート(aĉet/puŝ)・フォークリフトlev/ĉar・山車fest/o/ĉar・リヤカーtir/ĉar 等'),
  @('nom','学','agr/o/nom/o,agr/o/nom/a,agr/o/nom,astr/o/nom/o,astr/o/nom/a,astr/o/nom,gastr/o/nom/o,gastr/o/nom/a,gastr/o/nom,erg/o/nom/o,erg/o/nom/a,erg/o/nom','','科学-nom-(agronom/astronom/gastronom/ergonom)→学。名前複合(famili/nom/dosier/nom等)は名のまま'),
  # ギリシャ結合形 同綴衝突(2026-06-21・列挙sep)。fon→声と同型だが多義のため見出し列挙。正当語(bo/fil息子・du/lit/aベッド・buter/te茶)は disc 不掲載で保護。全字一级。
  @('fil','爱','bibli/o/fil/o,bibli/o/fil/i/o,pedo/fil/i/o,gastr/o/fil/o,gips/o/fil/o,hidr/o/fil/a,nekr/o/fil/i/o,skop/o/fil/i/o','','-fil-(philos=愛/-phile)→爱。filo=息子(儿)はbo/du-on/adopt-o/bapt-o/pra/sol/ge/sen-fil で維持(disc不掲載)'),
@@ -61,7 +61,9 @@ $existing=@(
  @('vat','瓦','giga/vat/o,kilo/vat/o,mega/vat/o,vat/hor/o,vat/hor/o/metr/o,vat/metr/o,vat/sekund/o','','ワットwatt(瓦)→瓦。kilovat/megavat/gigavat/vatmetr電力計/vathor瓦時/vatsekund 等の電力複合。綿vat/o(棉)·suker/vat綿菓子·vat/baston綿棒·vat/it綿入 等は維持(disc不掲載)。bare vat/o=棉&瓦はamb(基本義 棉維持)'),
  # メトロノーム metronomo の同綴是正(2026-06-21。米/名は誤り→计/律。merit判断)。metr語頭idx0でcomb非適用→sepで计(計器)。nom=ギリシャnomos(法/掟)→律(leĝ=律と整合・かつ音律/拍節で楽器に二重適切)
  @('metr','计','metr/o/nom/o','','メトロノームmetr(計器·measure)→计。idx0でcomb metr→计 非適用のためsep明示。長さ単位等の非計器metrは上の米sepで処理'),
- @('nom','律','metr/o/nom/o','','メトロノームnom(ギリシャnomos=法/掟)→律。leĝ法律=律と整合し律=音律/拍節も兼ね楽器に二重適切。科学-nomy=学(agronom)·名前複合=名 とは別の第3義。计律=計測+音律=節拍器') )
+ @('nom','律','metr/o/nom/o','','メトロノームnom(ギリシャnomos=法/掟)→律。leĝ法律=律と整合し律=音律/拍節も兼ね楽器に二重適切。科学-nomy=学(agronom)·名前複合=名 とは別の第3義。计律=計測+音律=節拍器'),
+ # aŭtomobil 過剰分解是正(2026-06-21・ユーザー裁定OptionA)。辞書 ##過細分解 au^t/o/mobil/o の mobil=挂饰(モビール)は誤友→动(-mobile=可動)。aŭt=车(基本形)はそのまま=车/o/动/o。aŭtomat(动)の兄弟として动群へ合流(动ᴹᴮ)。
+ @('mobil','动','au^t/o/mobil/o,au^t/o/mobil/a,au^t/o/mobil/ism/o,au^t/o/mobil/ist/o,au^t/o/mobil/kompani/o','','mobil(-mobile=可動·自動)→动。aŭtomobil系の##過細分解是正。モビールmobil/o(挂饰)·movable mobil/a 等はdisc不掲載で挂饰維持。aŭtomat=动と同群') )
 # 新54(root,override,headwordForm,2nd義キーワード(amb判別用),note)
 $new=@(
  @('al','翼','al/o','翼','翼。前置詞al=向と別'),@('por','孔','por/o,por/a','孔','気孔。前置詞por=为と別'),@('sur','腿','sur/o','ふくらはぎ','ふくらはぎ。前置詞sur=上と別'),

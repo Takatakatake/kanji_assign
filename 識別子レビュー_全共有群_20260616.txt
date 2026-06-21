@@ -341,6 +341,17 @@
   banderol       带ᴮᴿ        F=2     pejvo   
   saltier        带ˢ         F=2     piv     頸飾り綬
 
+【车】 9件
+  aŭt            车          F=61    basic   
+  trajn          车ᵀ         F=19    basic   
+  bicikl         车ᴮᶜ        F=11    basic   
+  bus            车ᴮ         F=10    basic   
+  kamion         车ᴷ         F=9     basic   
+  aŭtobus        车ᴬᴮ        F=3     basic   
+  aŭtomobil      车ᴬᴹ        F=0     basic   
+  kales^         车ᴷᴸ        F=10    pejvo   
+  torn           车ᵀᴺ        F=10    pejvo   
+
 【辩】 9件
   pled           辩          F=6     basic   
   elokvent       辩ᴱ         F=7     basic   
@@ -461,16 +472,6 @@
   arsen          矿ᴬ         F=1     pejvo   
   antimon        矿ᴬᴺ        F=1     pejvo   
   telur          矿ᵀ         F=1     pejvo   
-
-【车】 8件
-  aŭt            车          F=61    basic   
-  trajn          车ᵀ         F=19    basic   
-  bicikl         车ᴮᶜ        F=11    basic   
-  bus            车ᴮ         F=10    basic   
-  kamion         车ᴷ         F=9     basic   
-  aŭtomobil      车ᴬᴹ        F=0     basic   
-  kales^         车ᴷᴸ        F=10    pejvo   
-  torn           车ᵀᴺ        F=10    pejvo   
 
 【顶】 8件
   supr           顶          F=58    basic   
@@ -3865,6 +3866,11 @@
   kloak          沟ᴷ         F=10    pejvo   
   tranc^e        沟ᵀ         F=2     pejvo   
 
+【沥青】 3件
+  asfalt         沥青         F=1     basic   
+  pec^           沥青ᴾ        F=7     pejvo   
+  bitum          沥青ᴮ        F=6     pejvo   
+
 【涡】 3件
   kirl           涡          F=16    pejvo   
   turbin         涡ᵀ         F=12    pejvo   
@@ -6020,10 +6026,6 @@
 【污】 2件
   makul          污          F=18    basic   
   polu           污ᴾ         F=23    sci     
-
-【沥青】 2件
-  pec^           沥青         F=7     pejvo   
-  bitum          沥青ᴮ        F=6     pejvo   
 
 【浆】 2件
   plasm          浆          F=12    pejvo   

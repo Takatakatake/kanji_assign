@@ -9,7 +9,7 @@ tetra	四	sep	tetra/,tetra/gram/o,tetra/borat/o,tetra/mer/o,tetra/tionat/o	tetra
 kaj	码	sep	kaj/o,kaj/oj	埠頭。接続詞kaj=和と別
 log	诱	sep	log/i,log/aj^/o,al/log/i,al/log/o,al/log/a,al/log/aj^/o,de/log/i,de/log/o	誘惑。-log-=学家と別。接頭al/de+log=動詞诱(allogi魅了/delogi誘惑)
 c^iel	天	sep	c^iel/o,c^iel/a	空。相関詞c^iel=全样と別
-c^ar	车	sep	c^ar/o,c^ar/ist/o	荷車。接続詞c^ar=因と別
+c^ar	车	sep	c^ar/o,c^ar/ist/o,c^ar/eg/o,c^ar/et/o,c^ar/um/o,c^ar/on,c^ar/far/ist/o,c^ar/lev/il/o,au^t/o/c^ar/o,antau^/c^ar/o,post/c^ar/o,bov/o/c^ar/o,c^eval/c^ar/o,bagag^/o/c^ar/o,beb/o/c^ar/et/o,infan/c^ar/et/o,ac^et/c^ar/et/o,pus^/c^ar/et/o,pus^/c^ar/o,fald/c^ar/o,fald/c^ar/et/o,fest/o/c^ar/o,furag^/o/c^ar/o,elektr/o/c^ar/o,krom/c^ar/o,lev/c^ar/o,plen/c^ar/o,s^arg^/o/c^ar/o,serv/o/c^ar/et/o,sid/c^ar/et/o,tir/c^ar/o,trole/c^ar/o	荷車/車両(ĉaro=cart)→车。接続詞ĉar(因)はdisc不掲載で維持。荷車ĉar系32見出しを網羅(2026-06-21): aŭt/o/ĉar=バス・bov/o/ĉar=牛車・ĉeval/ĉar=馬車・krom/ĉar=側車(外/车)・各乳母車(beb/o/infan/fald)・手押車(puŝ/ĉar/um)・ショッピングカート(aĉet/puŝ)・フォークリフトlev/ĉar・山車fest/o/ĉar・リヤカーtir/ĉar 等
 nom	学	sep	agr/o/nom/o,agr/o/nom/a,agr/o/nom,astr/o/nom/o,astr/o/nom/a,astr/o/nom,gastr/o/nom/o,gastr/o/nom/a,gastr/o/nom,erg/o/nom/o,erg/o/nom/a,erg/o/nom	科学-nom-(agronom/astronom/gastronom/ergonom)→学。名前複合(famili/nom/dosier/nom等)は名のまま
 fil	爱	sep	bibli/o/fil/o,bibli/o/fil/i/o,pedo/fil/i/o,gastr/o/fil/o,gips/o/fil/o,hidr/o/fil/a,nekr/o/fil/i/o,skop/o/fil/i/o	-fil-(philos=愛/-phile)→爱。filo=息子(儿)はbo/du-on/adopt-o/bapt-o/pra/sol/ge/sen-fil で維持(disc不掲載)
 lit	石	sep	aer/o/lit/o,mega/lit/a,mega/lit/o,mono/lit/a,mono/lit/o,neo/lit/ik/o,paleo/lit/ik/o,epi/paleo/lit/ik/o,mez/o/lit/ik/o,mikro/lit/a,mikro/lit/o,piz/o/lit/o,fot/o/lit/o/grafi/o,krom/o/lit/o/grafi/o	-lit-(lithos=石/-lith)→石。lito=寝台(床)はdu/kvar/tri/unu-lit/a・klap/krad/pend/port/ter/sof-o/pajl-o-lit で維持。elektrolit=-lyte(別形態素)は不掲載
@@ -47,6 +47,7 @@ pro	前	sep	pro/log/o,pro/faz/o	ギリシャ接頭pro-(前·fore)→前。prolog
 vat	瓦	sep	giga/vat/o,kilo/vat/o,mega/vat/o,vat/hor/o,vat/hor/o/metr/o,vat/metr/o,vat/sekund/o	ワットwatt(瓦)→瓦。kilovat/megavat/gigavat/vatmetr電力計/vathor瓦時/vatsekund 等の電力複合。綿vat/o(棉)·suker/vat綿菓子·vat/baston綿棒·vat/it綿入 等は維持(disc不掲載)。bare vat/o=棉&瓦はamb(基本義 棉維持)
 metr	计	sep	metr/o/nom/o	メトロノームmetr(計器·measure)→计。idx0でcomb metr→计 非適用のためsep明示。長さ単位等の非計器metrは上の米sepで処理
 nom	律	sep	metr/o/nom/o	メトロノームnom(ギリシャnomos=法/掟)→律。leĝ法律=律と整合し律=音律/拍節も兼ね楽器に二重適切。科学-nomy=学(agronom)·名前複合=名 とは別の第3義。计律=計測+音律=節拍器
+mobil	动	sep	au^t/o/mobil/o,au^t/o/mobil/a,au^t/o/mobil/ism/o,au^t/o/mobil/ist/o,au^t/o/mobil/kompani/o	mobil(-mobile=可動·自動)→动。aŭtomobil系の##過細分解是正。モビールmobil/o(挂饰)·movable mobil/a 等はdisc不掲載で挂饰維持。aŭtomat=动と同群
 al	翼	sep	al/o	翼。前置詞al=向と別
 por	孔	sep	por/o,por/a	気孔。前置詞por=为と別
 sur	腿	sep	sur/o	ふくらはぎ。前置詞sur=上と別
