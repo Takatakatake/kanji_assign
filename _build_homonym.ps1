@@ -23,9 +23,9 @@ $existing=@(
  @('lit','石','aer/o/lit/o,mega/lit/a,mega/lit/o,mono/lit/a,mono/lit/o,neo/lit/ik/o,paleo/lit/ik/o,epi/paleo/lit/ik/o,mez/o/lit/ik/o,mikro/lit/a,mikro/lit/o,piz/o/lit/o,fot/o/lit/o/grafi/o,krom/o/lit/o/grafi/o','','-lit-(lithos=石/-lith)→石。lito=寝台(床)はdu/kvar/tri/unu-lit/a・klap/krad/pend/port/ter/sof-o/pajl-o-lit で維持。elektrolit=-lyte(別形態素)は不掲載'),
  @('te','神','a/te/ism/o,a/te/ist/a,a/te/ist/o,mono/te/ism/o,mono/te/ist/o,pan/te/ism/a,pan/te/ism/o,pan/te/ist/o,poli/te/ism/o,poli/te/ist/o,te/o/krati/a,te/o/krati/o,te/o/krat/o,te/o/logi/a,te/o/logi/ist/o,te/o/logi/o,te/o/log/o','','-te-(theo=神)→神。teo=茶(茶)はbuter/te で維持(disc不掲載)'),
  @('top','境','bio/top/o','','-top-(topos=場所/-tope)→境(生境=habitat)。topo=檣楼(帆楼)はtop/o単独で維持'),
- # WSL最新分解(2026-06-21)同期で露出した結合形(多義のため列挙sep)。-cyte=胞・-poiesis=生。主義(引=citi引用 / 诗=poezi詩)は disc不掲載で保護。
+ # WSL最新分解(2026-06-21)同期で露出した結合形(多義のため列挙sep)。-cyte=胞。主義(引=citi引用)は disc不掲載で保護。
+ # ※-poez-(造血·-poiesis)=生 は master poez=生 へ昇格(2026-06-22)。poez は詩義を持たず常に poiesis=生(詩は別語根 poezi=诗)。bare poez/o と複合の id 整合のため sep は廃止。
  @('cit','胞','fag/o/cit/ad/o,fag/o/cit/i,fag/o/cit/o,fag/o/cit/oz/o,granul/o/cit/o,hiper/granul/o/cit/emi/o,hipo/granul/o/cit/emi/o,leu^ko/cit/o,leu^ko/cit/o/poez/o,leu^ko/cit/oz/o,limf/o/cit/o,ov/o/cit/o,spermat/o/cit/o,tromb/o/cit/o','','-cyt-(細胞·-cyte)→胞。citi=引(re/cit・mis/cit・supr/e/cit)は保持'),
- @('poez','生','eritrocit/o/poez/o,hemat/o/poez/o,leu^ko/cit/o/poez/o,limf/o/poez/o,medol/poez/o','','-poez-(造血·-poiesis)→生。poezi=诗(詩)は保持'),
  # 結合形フォルスフレンド是正(2026-06-21・列挙sep)。phago=吞・thrombo=栓。主義(树=ブナ / 龙卷=竜巻)は disc不掲載で保護。一级:吞7画/栓10画。fag/trombはmasterに残し(树/龙卷)、医学文脈の見出しのみ上書き。
  @('fag','吞','bakteri/o/fag/o,fag/o/cit/ad/o,fag/o/cit/i,fag/o/cit/o,fag/o/cit/oz/o,antrop/o/fag/o,antrop/o/fag/ism/o,makr/o/fag/o','','-phago-/-phage(貪食)→吞。ブナfag/o(树)はfag/o,fag/ar/o,fag/ej/o,fag/o/frukt/o,fag/o/nuks/o,fag/ac/oj,sang/o/fag/o(赤葉ブナ),s^ajn/fag/o(ナンキョクブナ)で維持。ezofag(食道)/fagopir(蕎麦)/fagot(ファゴット)は別セグメントで無影響'),
  @('tromb','栓','tromb/oz/o,tromb/ektomi/o,tromb/o/cit/o','','-thrombo-(血栓)→栓。tromb/oz/o は cerb/a tromb/oz/o(脳血栓)内の同語も捕捉。竜巻tromb/o(気·第1義)とsabl/a tromb/o(陸竜巻)は龙卷を維持。trombon(トロンボーン)/trombin(トロンビン)/trombidi(ツツガムシ)は別セグメントで無影響'),
