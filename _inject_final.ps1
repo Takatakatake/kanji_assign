@@ -19,6 +19,8 @@ $chemAcid = @('acet','fosf','karbon','nitr','sulf','silik','molibden','klor','br
 $chemMid  = @('acet','fosf','karbon','nitr','sulf','silik','molibden','klor','brom','jod','krom','arsen','fluor','volfram','vanad','selen','telur','antimon','tartr','sakar')  # 中位分節判定用=bor を除外(bor=钻ドリル動詞 と同綴。verm/bor/it=虫食い受動 の誤爆防止。boron塩 bor/at は先頭分節+homonymで処理)
 $saltAt = "盐$([char]0x1D2C)"   # 化学塩 -at(-ate)=盐ᴬ(sal=盐 と一意区別。AddSegId相当)
 $saltIt = "盐$([char]0x1D35)"   # -it(-ite 亜…酸塩)=盐ᴵ
+$medIt = "炎$([char]0x1D40)"   # 医学-it-(-itis 炎症)=炎ᵀ。受動分詞-it=受 と弁別(inflam=炎ᴵ/katar=炎 とも別の慣例トークン。塩 盐ᴬ/盐ᴵ と同型)。2026-06-22 第4次WF敵対検証で確証(artr/it=关节炎が受でなく炎)
+$medStem=@{}; foreach($ms in @('aden','albugine','alveol','aneks','ang','angi','aort','apendic','araknoid','arteri','artr','atik','balan','bronk','burs','cekum','cist','dakriocist','derm','dermat','duoden','encefal','enter','ependim','ezofag','faring','fibr','fleb','folikl','gangli','gastr','gingiv','glos','hepat','ile','iris','kard','kardi','kerat','kojl','kondr','konjunktiv','kord','korne','koroid','koronari','laring','lien','mastoid','mediastin','medol','mening','mi','miring','mjel','nefr','neu^r','oftalm','orel','orkid','ost','ot','ovari','palat','palpebr','panikl','pankreat','parotid','penis','peritone','pjel','pleu^r','pneu^mon','prostat','pulp','radikl','rektum','retin','rin','salping','sinovi','sinus','sklerot','stomak','stomat','tarz','tenden','timpan','tiroid','tonsil','trah^e','trake','ureter','uretr','uter','uve','vagin','vaginal','vaskul','vejn','verumontan','vulv','epifiz','koks','testik')){ $medStem[$ms]=$true }   # 医学-itis(-it→炎)発火用=体部位/医学語幹。これら語幹+/it/=器官+炎症で確実に-itis(受動分詞は動詞語幹で非該当)
 $privDisp = "无$([char]0x1D2C)"   # privative a-/an- = 无ᴬ
 $enDisp = if($disp.ContainsKey('en')){$disp['en']}else{'内'}
 $endingRe = '^(o|a|e|i|u|oj|aj|ojn|ajn|as|is|os|us|u|j|n)$'   # on/an/en は除外し、-on=分/-an=员/en=内 を位置で裁定
@@ -55,13 +57,15 @@ foreach($pair in $pairs){
       if($nseg -gt 1 -and ($segs -contains 'ol')){ $w; continue }   # 化学アルコール -ol(過細分解##偽分解 etan/ol/di/ol等)→未対応(latin)。比較ol=比は単独語のみ(2026-06-20)
       $firstContent=''; for($j=1;$j -lt $nseg;$j++){ if($segs[$j] -notmatch $endingRe){ $firstContent=$segs[$j]; break } }
       $privOk = ($firstContent -ne '') -and (-not ($sufSet -contains $firstContent))   # 直後が実語根(接尾辞でない)時のみ privative 発火
-      $parts=New-Object System.Collections.Generic.List[string]; $mergeNext=$false; $prevMapped=$false
+      $parts=New-Object System.Collections.Generic.List[string]; $mergeNext=$false; $prevMapped=$false; $medSeen=$false
       for($idx=0;$idx -lt $nseg;$idx++){
         $s=$segs[$idx]
+        if($medStem.ContainsKey($s)){ $medSeen=$true }   # 医学-itis: 体部位語幹を前方で検出(後続の it を炎へ)
         if($dropLinkO -and $s -eq 'o' -and $idx -gt 0 -and ($idx+1 -lt $nseg) -and $prevMapped -and $disp.ContainsKey($segs[$idx+1])){ $mergeNext=$true; continue }   # 連結母o省略(現在 $dropLinkO=$false で無効=連結oを保持)
         $tok=$null; $thisMapped=$false
         if($s.Contains('-')){ $sub=$s -split '-'; $rp=@(); $anySub=$false; foreach($sp in $sub){ if($sp -eq ''){continue}; if($hsep.ContainsKey($w) -and $hsep[$w].ContainsKey($sp)){ $rp+=$hsep[$w][$sp]; $anySub=$true } elseif($disp.ContainsKey($sp)){ $rp+=$disp[$sp]; $anySub=$true } elseif($sp -match $endingRe){ $rp+=$sp } else { $rp+=$sp } }; $tok=($rp -join '-'); $thisMapped=$anySub }   # ハイフン複合は形態素分解(ĉi-jar→此-年・alfa-partikl→alfa-粒等。ĉi=此, jar=年)。下位分節もhomonym sep適用(- は / と同じ形態素境界。-gram/接尾辞定義→图等。既存はot/o-rin..のみで無影響)
         elseif($chemSaltLine -and ($s -eq 'at' -or $s -eq 'it') -and $idx -gt 0){ $tok=$(if($s -eq 'at'){$saltAt}else{$saltIt}); $thisMapped=$true }   # 化学塩/酸 -at→盐ᴬ・-it→盐ᴵ(行レベル判定 $chemSaltLine)。酸根は下の hsep(krom/titan/bor=金/金/矿)/disp(acet=醋・fer=铁等)で。受動分詞-at(被)は非化学行で維持
+        elseif(($s -eq 'it') -and $idx -gt 0 -and $medSeen){ $tok=$medIt; $thisMapped=$true }   # 医学-it-(-itis 炎症)→炎ᵀ: 前方に体部位/医学語幹($medStem)がある時のみ。受動分詞-it(動詞語幹・far/it=做/受 等)は非該当で 受 維持。化学塩-it(盐)は上で先取
         elseif($hsep.ContainsKey($w) -and $hsep[$w].ContainsKey($s)){ $tok=$hsep[$w][$s]; $thisMapped=$true; $hsepN++ }
         elseif($segLat.ContainsKey($w) -and ($segLat[$w] -contains $s)){ $tok=$s }   # 固有名分節(Gram染色)=ラテン保持・非mapped(§7)。disp(克)に落ちる前に捕捉
 

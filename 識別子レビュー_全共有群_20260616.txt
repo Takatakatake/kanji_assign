@@ -1,6 +1,6 @@
 ﻿# 識別子レビュー(GAS/§5位置・§3厳密・§6a別文字・特殊字修正・base上書き版): 全共有群・全メンバー・語義付き
 
-【金】 39件
+【金】 62件
   or             金          F=61    basic   
   metal          金ᴹ         F=33    basic   
   blond          金ᴮ         F=3     basic   
@@ -40,6 +40,29 @@
   vanad          金ⱽᴬ        F=1     pejvo   
   volfram        金ⱽᴸ        F=1     pejvo   
   zirkoni        金ᶻ         F=1     pejvo   
+  bari           金ᴮᴬ        F=3     piv     
+  niob           金ᴺᴮ        F=2     piv     
+  reni           金ᴿᴺ        F=2     piv     
+  americi        金ᴬ         F=1     piv     
+  berkeli        金ᴮᴷ        F=1     piv     
+  disprozi       金ᴰ         F=1     piv     
+  ejns^tejni     金ᴱᴶ        F=1     piv     
+  fermi          金ᶠ         F=1     piv     
+  hafni          金ᴴ         F=1     piv     
+  holmi          金ᴴᴸ        F=1     piv     
+  lau^renci      金ᴸᵁ̆       F=1     piv     
+  mendelevi      金ᴹᴺ        F=1     piv     
+  neodim         金ᴺᴰ        F=1     piv     
+  nobeli         金ᴺᴼ        F=1     piv     
+  neptuni        金ᴺᴾ        F=1     piv     
+  protaktini     金ᴾᴷ        F=1     piv     
+  prometi        金ᴾᴿ        F=1     piv     
+  prazeodim      金ᴾᶻ        F=1     piv     
+  rubidi         金ᴿᴮ        F=1     piv     
+  rodi           金ᴿᴼ        F=1     piv     
+  terbi          金ᵀᴮ        F=1     piv     
+  tekneci        金ᵀᴷ        F=1     piv     
+  tuli           金ᵀᴸ        F=1     piv     
 
 【草】 35件
   herb           草          F=67    basic   
@@ -78,7 +101,7 @@
   psilofit       草ᴾᶠ        F=1     piv     
   psilot         草ᴾˢ        F=1     piv     
 
-【鱼】 32件
+【鱼】 33件
   fiŝ            鱼          F=83    basic   
   haring         鱼ᴴ         F=5     basic   
   angil          鱼ᴬ         F=4     basic   
@@ -96,6 +119,7 @@
   anc^ov         鱼ᴬᶜ̂       F=2     pejvo   
   kobitid        鱼ᴷᴮ        F=2     pejvo   
   mugil          鱼ᴹᴳ        F=2     pejvo   
+  raj            鱼ᴿ         F=2     pejvo   
   silur          鱼ˢᴵ        F=2     pejvo   
   skombr         鱼ˢᴷ        F=2     pejvo   
   c^ot           鱼ᶜ̂        F=1     pejvo   
@@ -718,14 +742,6 @@
   kraken         饼ᴷᴷ        F=2     pejvo   
   oblat          饼ᴼ         F=2     pejvo   
 
-【因】 6件
-  ĉar            因          F=35    func    
-  kaŭz           因ᴷ         F=18    basic   
-  pro            因ᴾ         F=17    prep    
-  faktor         因ᶠ         F=8     basic   
-  eti            因ᴱ         F=3     pejvo   
-  tial,          因ᵀ         F=2     pejvo   
-
 【丑】 6件
   skandal        丑          F=5     basic   
   arleken        丑ᴬ         F=3     pejvo   
@@ -1045,6 +1061,13 @@
   komision       委ᴷᴺ        F=10    basic   
   mandat         委ᴹ         F=7     basic   
 
+【因】 5件
+  ĉar            因          F=35    func    
+  kaŭz           因ᴷ         F=18    basic   
+  pro            因ᴾ         F=17    prep    
+  faktor         因ᶠ         F=8     basic   
+  eti            因ᴱ         F=3     pejvo   
+
 【架】 5件
   rak            架          F=6     pejvo   
   c^arpent       架ᶜ̂        F=8     pejvo   
@@ -1334,7 +1357,7 @@
 
 【能】 5件
   pov            能          F=58    basic   
-  iv             能ᴵ         F=126   suf     
+  iv             能ᴵ         F=126   suf     （能力を示す接尾辞）能力ある,〜できる
   energi         能ᴱ         F=55    basic   
   kapabl         能ᴷ         F=29    basic   
   kompetent      能ᴷᴹ        F=8     basic   
@@ -3061,11 +3084,6 @@
   neologism      新ᴺᴸ        F=0     basic   
   neo            新ᴺᴱ        F=7     pejvo   
 
-【神】 3件
-  di             神          F=63    basic   
-  dio,Di         神ᴰ,        F=0     pejvo   
-  numen          神ᴺ         F=2     piv     【宗】ヌーメン
-
 【震】 3件
   ŝok            震          F=9     basic   
   sism           震ˢ         F=3     pejvo   
@@ -3705,6 +3723,11 @@
   serv           务          F=81    basic   
   task           务ᵀ         F=13    basic   
   obligaci       务ᴼ         F=6     pejvo   
+
+【卤】 3件
+  halogen        卤          F=4     pejvo   
+  brom           卤ᴮ         F=1     pejvo   
+  astaten        卤ᴬ         F=1     piv     
 
 【卫】 3件
   gvardi         卫          F=9     basic   
@@ -4542,7 +4565,7 @@
 
 【在】 2件
   ant            在          F=664   suf     
-  ĉe             在ᶜ̂        F=22    prep    
+  ĉe             在ᶜ̂        F=22    prep    〜のところに,〜で,〜のもとで（前置詞）
 
 【材】 2件
   material       材          F=21    basic   
@@ -4787,6 +4810,10 @@
 【真】 2件
   ver            真          F=34    basic   
   au^tentik      真ᴬ         F=3     pejvo   
+
+【神】 2件
+  di             神          F=63    basic   
+  numen          神ᴺ         F=2     piv     【宗】ヌーメン
 
 【神经】 2件
   nerv           神经         F=22    basic   
@@ -5628,10 +5655,6 @@
   prolet         无产         F=6     basic   
   proletari      无产ᴾᴿ       F=1     basic   
 
-【杆】 2件
-  stang          杆          F=43    basic   
-  kornic         杆ᴷ         F=4     pejvo   
-
 【框】 2件
   kadr           框          F=25    basic   
   fram           框ᶠ         F=6     pejvo   
@@ -5647,6 +5670,10 @@
 【榴】 2件
   granat         榴          F=4     pejvo   
   punik          榴ᴾ         F=3     piv     【植】ザクロ属
+
+【檐】 2件
+  kornic         檐          F=4     pejvo   
+  vizier         檐ⱽ         F=3     pejvo   
 
 【气管】 2件
   trake          气管         F=6     pejvo   
@@ -5848,10 +5875,6 @@
   kooperativ     协          F=6     basic   
   kooper         协ᴷᴼ        F=8     pejvo   
 
-【卤】 2件
-  halogen        卤          F=4     pejvo   
-  brom           卤ᴮ         F=1     pejvo   
-
 【厌】 2件
   enu            厌          F=8     basic   
   abomen         厌ᴬ         F=9     basic   
@@ -5995,6 +6018,10 @@
 【揭】 2件
   rivel          揭          F=11    basic   
   denunc         揭ᴰ         F=5     basic   
+
+【摆】 2件
+  pendol         摆          F=10    basic   
+  bask           摆ᴮ         F=1     basic   
 
 【时效】 2件
   uzukap         时效         F=2     pejvo   
