@@ -1923,12 +1923,6 @@
   turne          巡ᵀ         F=2     pejvo   
   rund           巡ᴿ         F=2     piv     巡回・見回り
 
-【症】 4件
-  fobi           症          F=8     pejvo   
-  simptom        症ˢ         F=6     pejvo   
-  sindrom        症ˢᴺ        F=4     pejvo   
-  semio          症ˢᴱ        F=2     piv     【医】症候学・記号論
-
 【植】 4件
   plant          植          F=75    basic   
   botanik        植ᴮ         F=9     basic   
@@ -3069,6 +3063,11 @@
   minuskl        小ᴹ         F=2     basic   
   minor          小ᴹᴿ        F=9     pejvo   
 
+【症】 3件
+  fobi           症          F=8     pejvo   
+  simptom        症ˢ         F=6     pejvo   
+  sindrom        症ˢᴺ        F=4     pejvo   
+
 【称】 3件
   pretend        称          F=8     basic   
   simetri        称ˢ         F=7     pejvo   
@@ -3418,6 +3417,11 @@
   ordinar        普          F=19    basic   
   universal      普ᵁ         F=22    basic   
   cens           普ᶜ         F=3     pejvo   
+
+【符】 3件
+  sign           符          F=83    basic   
+  simbol         符ˢᴹ        F=14    basic   
+  semio          符ˢᴱ        F=2     piv     【医】症候学・記号論
 
 【腐】 3件
   putr           腐          F=14    basic   
@@ -5278,10 +5282,6 @@
 【浮】 2件
   bu             浮          F=5     pejvo   
   pelag          浮ᴾ         F=3     piv     【生態】遠洋生物
-
-【符】 2件
-  sign           符          F=83    basic   
-  simbol         符ˢᴹ        F=14    basic   
 
 【侮】 2件
   ofend          侮          F=11    basic   
