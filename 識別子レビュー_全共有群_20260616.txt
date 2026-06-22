@@ -554,9 +554,9 @@
   kateter        管ᴷ         F=2     pejvo   
 
 【球】 7件
-  glob           球          F=37    basic   
+  pilk           球          F=20    basic   
+  glob           球ᴳ         F=37    basic   
   sfer           球ˢ         F=29    basic   
-  pilk           球ᴾ         F=20    basic   
   bulb           球ᴮ         F=14    basic   
   balon          球ᴮᴺ        F=9     basic   
   futbal         球ᶠ         F=6     basic   
@@ -689,8 +689,8 @@
   skulptur       雕ˢᴿ        F=2     piv     彫刻
 
 【热】 7件
-  term           热          F=61    basic   
-  hejt           热ᴴ         F=23    basic   
+  hejt           热          F=23    basic   
+  term           热ᵀ         F=61    basic   
   ard            热ᴬ         F=14    basic   
   entuziasm      热ᴱ         F=9     basic   
   fervor         热ᶠ         F=8     basic   
@@ -1076,8 +1076,8 @@
   trus           架ᵀ         F=3     pejvo   
 
 【角】 5件
-  korn           角          F=33    basic   
-  angul          角ᴬ         F=85    basic   
+  angul          角          F=85    basic   
+  korn           角ᴷ         F=33    basic   
   rol            角ᴿ         F=9     basic   
   goni           角ᴳ         F=5     piv     【測】角度
   kerat          角ᴷᵀ        F=5     piv     【医】角膜
@@ -2458,8 +2458,8 @@
   falt           皱ᶠ         F=5     pejvo   
 
 【盘】 4件
-  disk           盘          F=48    basic   
-  teler          盘ᵀ         F=15    basic   
+  teler          盘          F=15    basic   
+  disk           盘ᴰ         F=48    basic   
   plet           盘ᴾ         F=4     basic   
   inventar       盘ᴵ         F=3     pejvo   
 
@@ -5152,8 +5152,8 @@
   antarkt        南ᴬ         F=5     basic   
 
 【肉】 2件
-  karn           肉          F=27    basic   
-  viand          肉ⱽ         F=21    basic   
+  viand          肉          F=21    basic   
+  karn           肉ᴷ         F=27    basic   
 
 【猫】 2件
   kat            猫          F=27    basic   
