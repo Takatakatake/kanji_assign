@@ -12,7 +12,7 @@ $existing=@(
  @('titan','金','titan/o,titan/at/o,titan/at/a','','チタン(金属元素)→金。巨人titan/a=巨と別。titan/at=チタン酸塩→金/盐(krom/borと平行)'),
  @('bor','矿','bor/o,bor/at/o,bor/at/a,bor/o/tartr/at/o','','ホウ素(半金属元素)→矿。掘削bor/i=钻と別。bor/at=ホウ酸塩→矿/盐。bor/o/tartr/at=ホウ酒石酸塩(連結o複合)も矿'),
  @('tetr','四','tetr/','','tetra-接頭辞。鳥tetr/o=琴鸡が既定'),
- @('tetra','四','tetra/,tetra/gram/o,tetra/borat/o,tetra/mer/o,tetra/tionat/o','','tetra-数詞接頭辞(4)→四。鳥tetra/o=野鸡(基本形)は除外。tetra/ol=未対応(ol規則)'),
+ @('tetra','四','tetra/,tetra/gram/o,tetra/borat/o,tetra/mer/o,tetra/tionat/o,tetra/ol/o','','tetra-数詞接頭辞(4)→四。鳥tetra/o=野鸡(基本形)は除外。tetra/ol→四(2026-06-22 ol精緻化)'),
  @('kaj','码','kaj/o,kaj/oj','','埠頭。接続詞kaj=和と別'),
  @('log','诱','log/i,log/aj^/o,al/log/i,al/log/o,al/log/a,al/log/aj^/o,de/log/i,de/log/o','','誘惑。-log-=学家と別。接頭al/de+log=動詞诱(allogi魅了/delogi誘惑)'),
  @('c^iel','天','c^iel/o,c^iel/a','','空。相関詞c^iel=全样と別'),
@@ -36,7 +36,7 @@ $existing=@(
  @('pat','病','pat/o/gen/a,pat/o/logi/a,pat/o/logi/o,pat/o/log/o,pat/o/genez/o,fit/o/pat/o/logi/o,plant/pat/o/logi/o,psik/o/pat/o/logi/o,sem/pat/o/logi/o','','patho-(病理·病原)→病。フライパンpat/o(锅)·チェスstalemate pat(困amb)は锅のまま維持(disc不掲載)'),
  @('ren','再','ren/ir/i','','古語接頭ren(=re再び·reniri帰る)→再。腎臓ren/o(肾)は維持(disc不掲載)'),
  @('mi','肌','mi/o,mi/it/o,mi/o/pati/o,mi/o/kardi/o,mi/o/fibr/it/o,mi/o/globin/o,mi/o/sarkom/o,kardi/mi/o/pati/o','','myo-(筋肉)→肌。代名詞mi(我)·所有mi/aj^/o(私の物=我)は維持(disc不掲載)'),
- @('di','二','di/,di/morf/a,di/morf/ec/o,di/morf/ism/o,di/ploid/a,di/pod/o,di/pod/ed/oj,di/gram/o,di/kotiledon/oj,di/al/o,di/azot/o,di/azot/i,di/azot/at/o,di/metoksi/fenol/o,di/kromiat/o,di/mer/o,di/sakarid/o,di/tionat/o,di/sulf/id/o,di/oksid/o,di/klor/id/o,di/pter/oj,di/valent/a,karbon/di/oksid/o,sulfur/di/oksid/o','','数詞di-(2)→二。神di/o系(di/o/tim神畏敬·di/skarab神甲=テントウムシ)は神維持(disc不掲載)。di/pter双翅·di/klor/id二塩化等のエス的分解##偽分解(PIV正式)を尊重し透明化'),
+ @('di','二','di/,di/morf/a,di/morf/ec/o,di/morf/ism/o,di/ploid/a,di/pod/o,di/pod/ed/oj,di/gram/o,di/kotiledon/oj,di/al/o,di/azot/o,di/azot/i,di/azot/at/o,di/metoksi/fenol/o,di/kromiat/o,di/mer/o,di/sakarid/o,di/tionat/o,di/sulf/id/o,di/oksid/o,di/klor/id/o,di/pter/oj,di/valent/a,karbon/di/oksid/o,sulfur/di/oksid/o,di/ol/o,di/ol/oj','','数詞di-(2)→二。神di/o系(di/o/tim神畏敬·di/skarab神甲=テントウムシ)は神維持(disc不掲載)。di/pter双翅·di/klor/id二塩化等のエス的分解##偽分解(PIV正式)を尊重し透明化'),
  # 結合形フォルスフレンド第3弾(2026-06-21・最終網羅スイープworkflow6agent検出)。各主義master維持、科学/医学文脈の見出しのみ上書き。一级:全时共向心种火压光耳尿根指图字。
  @('gram','图','aer/o/gram/o,anem/o/gram/o,dia/gram/o,elektr/o/kardi/o/gram/o,encefal/o/gram/o,faz/dia/gram/o,faz/o/dia/gram/o,hips/o/gram/o,holo/gram/o,kabl/o/gram/o,kardi/o/gram/o,nivel/dia/gram/o,organi/gram/o,orto/gram/o,paralel/o/gram/o,radi/o/gram/o,radi/o/tele/gram/o,scintil/o/gram/o,seism/o/gram/o,spektr/o/gram/o,tefi/gram/o,tele/gram/o,tele/gram/kod/o,tele/gram/port/ist/o,penta/gram/o,gram/o/fon/o,gram/o/fon/disk/o,-gram/','','-gram(記録·図像γράμμα)→图。重量gram(克):kilo/centi/mili/deka/hekto-gram·gram/atom·gram/molekul·gram/pez は克維持。文字義は字(別エントリ。表音文字fon/o/gram=声/字も字へ移管)。蓄音機gram/o/fon(記録音→图/声)も捕捉。接尾辞定義entry -gram/(=記録·図像の意)→图(ハイフン分岐のhsep下位分節適用)。dia/gram/oはflor/a等多語も捕捉'),
  @('gram','字','di/gram/o,ide/o/gram/o,mono/gram/o,tetra/gram/o,epi/gram/o,epi/gram/ist/o,fon/o/gram/o','','-gram(文字·書記素)→字。digraph二字·表意文字·組合せ文字·聖四文字·警句epigram(epi/gram=表ᴱ/字ᴳ)·表音文字phonogram(fon/o/gram=声ᶠᴼ/字ᴳ=音を表す文字。fon→声はfon sep)。記録図像は图·重量は克。2026-06-21 epigram/phonogram追加'),

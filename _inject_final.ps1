@@ -54,7 +54,7 @@ foreach($pair in $pairs){
       if($forceUnt -contains $w){ $w; continue }   # 元素名は未対応(latin保持)
       if(($w -cmatch '^[A-ZĈĜĤĴŜŬ]') -and ($w -notmatch '^[A-ZĈĜĤĴŜŬ]-')){ $w; continue }   # 大文字始=固有名→一律未対応(latin)。Mal/i/o⟦反⟧・Liber/i/o⟦自由⟧・Kolomb⟦鸽⟧等の誤付与を防止(§7。2026-06-20)。※例外: 単一大文字+ハイフン(T-c^el/U-form/X-radi/H-bomb 等=型/略号接頭で固有名でない)はガードせず下のハイフン分解へ→T-胞/U-形/X-射(接頭字ラテン維持・内容形態素を漢字化。§3。2026-06-21)
       $segs=@($w -split '/'); $nseg=$segs.Count
-      if($nseg -gt 1 -and ($segs -contains 'ol')){ $w; continue }   # 化学アルコール -ol(過細分解##偽分解 etan/ol/di/ol等)→未対応(latin)。比較ol=比は単独語のみ(2026-06-20)
+# 化学アルコール -ol は【分節レベル】でラテン化(下の `$s -eq 'ol'` 分岐)。語全体ラテンを廃し偽分解尊重=他分節(ment薄荷/metan沼气/retin网膜/glik糖/mono单/tri三/poli多 等)を活かす(2026-06-22)。比較ol=比は単独語(nseg=1)のみ。di/ol→二・tetra/ol→四 は homonym sep で数詞化
       $firstContent=''; for($j=1;$j -lt $nseg;$j++){ if($segs[$j] -notmatch $endingRe){ $firstContent=$segs[$j]; break } }
       $privOk = ($firstContent -ne '') -and (-not ($sufSet -contains $firstContent))   # 直後が実語根(接尾辞でない)時のみ privative 発火
       $parts=New-Object System.Collections.Generic.List[string]; $mergeNext=$false; $prevMapped=$false; $medSeen=$false
@@ -66,6 +66,7 @@ foreach($pair in $pairs){
         if($s.Contains('-')){ $sub=$s -split '-'; $rp=@(); $anySub=$false; foreach($sp in $sub){ if($sp -eq ''){continue}; if($hsep.ContainsKey($w) -and $hsep[$w].ContainsKey($sp)){ $rp+=$hsep[$w][$sp]; $anySub=$true } elseif($disp.ContainsKey($sp)){ $rp+=$disp[$sp]; $anySub=$true } elseif($sp -match $endingRe){ $rp+=$sp } else { $rp+=$sp } }; $tok=($rp -join '-'); $thisMapped=$anySub }   # ハイフン複合は形態素分解(ĉi-jar→此-年・alfa-partikl→alfa-粒等。ĉi=此, jar=年)。下位分節もhomonym sep適用(- は / と同じ形態素境界。-gram/接尾辞定義→图等。既存はot/o-rin..のみで無影響)
         elseif($chemSaltLine -and ($s -eq 'at' -or $s -eq 'it') -and $idx -gt 0){ $tok=$(if($s -eq 'at'){$saltAt}else{$saltIt}); $thisMapped=$true }   # 化学塩/酸 -at→盐ᴬ・-it→盐ᴵ(行レベル判定 $chemSaltLine)。酸根は下の hsep(krom/titan/bor=金/金/矿)/disp(acet=醋・fer=铁等)で。受動分詞-at(被)は非化学行で維持
         elseif(($s -eq 'it') -and $idx -gt 0 -and $medSeen){ $tok=$medIt; $thisMapped=$true }   # 医学-it-(-itis 炎症)→炎ᵀ: 前方に体部位/医学語幹($medStem)がある時のみ。受動分詞-it(動詞語幹・far/it=做/受 等)は非該当で 受 維持。化学塩-it(盐)は上で先取
+        elseif(($s -eq 'ol') -and $nseg -gt 1){ $tok='ol' }   # 化学アルコール -ol(多分節)=ラテン保持(opaque)。比較ol=比(disp)は単独語のみ。他分節は通常どおり漢字化(偽分解尊重・2026-06-22)
         elseif($hsep.ContainsKey($w) -and $hsep[$w].ContainsKey($s)){ $tok=$hsep[$w][$s]; $thisMapped=$true; $hsepN++ }
         elseif($segLat.ContainsKey($w) -and ($segLat[$w] -contains $s)){ $tok=$s }   # 固有名分節(Gram染色)=ラテン保持・非mapped(§7)。disp(克)に落ちる前に捕捉
 
