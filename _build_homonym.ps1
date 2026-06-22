@@ -14,18 +14,23 @@ $existing=@(
  @('tetr','四','tetr/','','tetra-接頭辞。鳥tetr/o=琴鸡が既定'),
  @('tetra','四','tetra/,tetra/gram/o,tetra/borat/o,tetra/mer/o,tetra/tionat/o,tetra/ol/o','','tetra-数詞接頭辞(4)→四。鳥tetra/o=野鸡(基本形)は除外。tetra/ol→四(2026-06-22 ol精緻化)'),
  @('kaj','码','kaj/o,kaj/oj','','埠頭。接続詞kaj=和と別'),
- @('log','诱','log/i,log/aj^/o,al/log/i,al/log/o,al/log/a,al/log/aj^/o,de/log/i,de/log/o','','誘惑。-log-=学家と別。接頭al/de+log=動詞诱(allogi魅了/delogi誘惑)'),
- @('c^iel','天','c^iel/o,c^iel/a','','空。相関詞c^iel=全样と別'),
+ @('log','诱','log/i,log/aj^/o,al/log/i,al/log/o,al/log/a,al/log/aj^/o,de/log/i,de/log/o,el/log/i,for/log/i,mal/log/i,log/il/o,log/bird/o,log/fajf/il/o,log/ig^/i','','誘惑。-log-=学家と別。接頭al/de+log=動詞诱(allogi魅了/delogi誘惑)'),
+ @('c^iel','天','c^iel/o,c^iel/a,c^iel/ark/o,c^iel/ark/a,c^iel/blu/a,c^iel/ir/o,c^iel/mekanik/o,c^iel/o/sfer/o,c^iel/rug^/o,c^iel/skrap/ant/o,c^iel/skrap/ul/o,c^iel/tus^/a,c^iel/ul/o,c^iel/an/o,c^iel/fajr/o,sub/c^iel/a,sub/c^iel/e','','空。相関詞c^iel=全样と別'),
  @('c^ar','车','c^ar/o,c^ar/ist/o,c^ar/eg/o,c^ar/et/o,c^ar/um/o,c^ar/on,c^ar/far/ist/o,c^ar/lev/il/o,au^t/o/c^ar/o,antau^/c^ar/o,post/c^ar/o,bov/o/c^ar/o,c^eval/c^ar/o,bagag^/o/c^ar/o,beb/o/c^ar/et/o,infan/c^ar/et/o,ac^et/c^ar/et/o,pus^/c^ar/et/o,pus^/c^ar/o,fald/c^ar/o,fald/c^ar/et/o,fest/o/c^ar/o,furag^/o/c^ar/o,elektr/o/c^ar/o,krom/c^ar/o,lev/c^ar/o,plen/c^ar/o,s^arg^/o/c^ar/o,serv/o/c^ar/et/o,sid/c^ar/et/o,tir/c^ar/o,trole/c^ar/o','','荷車/車両(ĉaro=cart)→车。接続詞ĉar(因)はdisc不掲載で維持。荷車ĉar系32見出しを網羅(2026-06-21): aŭt/o/ĉar=バス・bov/o/ĉar=牛車・ĉeval/ĉar=馬車・krom/ĉar=側車(外/车)・各乳母車(beb/o/infan/fald)・手押車(puŝ/ĉar/um)・ショッピングカート(aĉet/puŝ)・フォークリフトlev/ĉar・山車fest/o/ĉar・リヤカーtir/ĉar 等'),
  @('nom','学','agr/o/nom/o,agr/o/nom/a,agr/o/nom,astr/o/nom/o,astr/o/nom/a,astr/o/nom,gastr/o/nom/o,gastr/o/nom/a,gastr/o/nom,erg/o/nom/o,erg/o/nom/a,erg/o/nom','','科学-nom-(agronom/astronom/gastronom/ergonom)→学。名前複合(famili/nom/dosier/nom等)は名のまま'),
  # ギリシャ結合形 同綴衝突(2026-06-21・列挙sep)。fon→声と同型だが多義のため見出し列挙。正当語(bo/fil息子・du/lit/aベッド・buter/te茶)は disc 不掲載で保護。全字一级。
  @('fil','爱','bibli/o/fil/o,bibli/o/fil/i/o,pedo/fil/i/o,gastr/o/fil/o,gips/o/fil/o,hidr/o/fil/a,nekr/o/fil/i/o,skop/o/fil/i/o,fil/antrop/o,fil/antrop/i/o,fil/o/logi/o,fil/o/logi/a,fil/o/logi/ist/o,fil/o/log/o','','-fil-(philos=愛/-phile)→爱。語頭philo-(filantrop博愛/filolog文献学=言葉への愛)も含む(2026-06-22)。filo=息子(儿)はbo/du-on/adopt-o/bapt-o/pra/sol/ge/sen-fil で維持(disc不掲載)。filogenez=phylon系統は別語源で対象外'),
  @('astat','卤','astat/o','','-astat-(元素アスタチンAt=halogeno)→卤(液体ハロゲンbrom=卤と同カテゴリ§4.6)。astat/a=astatic(無定位)=无定 はmaster維持(disc不掲載)。astaten(=astato)はmaster卤'),
- @('lit','石','aer/o/lit/o,mega/lit/a,mega/lit/o,mono/lit/a,mono/lit/o,neo/lit/ik/o,paleo/lit/ik/o,epi/paleo/lit/ik/o,mez/o/lit/ik/o,mikro/lit/a,mikro/lit/o,piz/o/lit/o,fot/o/lit/o/grafi/o,krom/o/lit/o/grafi/o','','-lit-(lithos=石/-lith)→石。lito=寝台(床)はdu/kvar/tri/unu-lit/a・klap/krad/pend/port/ter/sof-o/pajl-o-lit で維持。elektrolit=-lyte(別形態素)は不掲載'),
+ @('lit','石','aer/o/lit/o,mega/lit/a,mega/lit/o,mono/lit/a,mono/lit/o,neo/lit/ik/o,paleo/lit/ik/o,epi/paleo/lit/ik/o,mez/o/lit/ik/o,mikro/lit/a,mikro/lit/o,piz/o/lit/o,fot/o/lit/o/grafi/o,krom/o/lit/o/grafi/o,elektr/o/lit/o,elektr/o/lit/a','','-lit-(lithos=石/-lith)→石。lito=寝台(床)はdu/kvar/tri/unu-lit/a・klap/krad/pend/port/ter/sof-o/pajl-o-lit で維持。elektrolit=-lyte(別形態素)は不掲載'),
  @('te','神','a/te/ism/o,a/te/ist/a,a/te/ist/o,mono/te/ism/o,mono/te/ist/o,pan/te/ism/a,pan/te/ism/o,pan/te/ist/o,poli/te/ism/o,poli/te/ist/o,te/o/krati/a,te/o/krati/o,te/o/krat/o,te/o/logi/a,te/o/logi/ist/o,te/o/logi/o,te/o/log/o','','-te-(theo=神)→神。teo=茶(茶)はbuter/te で維持(disc不掲載)'),
  @('top','境','bio/top/o','','-top-(topos=場所/-tope)→境(生境=habitat)。topo=檣楼(帆楼)はtop/o単独で維持'),
  # WSL最新分解(2026-06-21)同期で露出した結合形(多義のため列挙sep)。-cyte=胞。主義(引=citi引用)は disc不掲載で保護。
  # ※-poez-(造血·-poiesis)=生 は master poez=生 へ昇格(2026-06-22)。poez は詩義を持たず常に poiesis=生(詩は別語根 poezi=诗)。bare poez/o と複合の id 整合のため sep は廃止。
+ @('il','基','aceton/il/o,benzo/il/o,form/i/il/o,fosfor/il/o,jod/il/o,karbon/il/o,kromi/il/o','','化学ラジカル-il(-yl)→基。器具-il=具は別'),
+ @('mon','单','mon/ism/o,mon/ist/o','','monos(単一)→单。金銭mon=钱は別'),
+ @('au^t','自','au^t/ism/o,au^t/ism/ul/o,au^t/ism/a,au^t/o/bio/grafi/o,au^t/o/grafi/o,au^t/o/graf/o,au^t/o/krati/o,au^t/o/krat/ism/o,au^t/o/krat/o,au^t/o/krat/a,au^t/o/krat/ec/o,au^t/o/liz/o','','auto-(自己)→自。自動車au^t/o/mobil=车は除外'),
+ @('kok','菌','mikro/kok/o,diplo/kok/o,enter/o/kok/o','','-coccus(球菌)→菌。鶏kok=鸡は別'),
+ @('strat','层','kron/o/strat/i/grafi/o,strat/i/graf/o,strat/i/grafi/o,stratum/o','','stratum(地層)→层。街strat=街は別'),
  @('cit','胞','fag/o/cit/ad/o,fag/o/cit/i,fag/o/cit/o,fag/o/cit/oz/o,granul/o/cit/o,hiper/granul/o/cit/emi/o,hipo/granul/o/cit/emi/o,leu^ko/cit/o,leu^ko/cit/o/poez/o,leu^ko/cit/oz/o,limf/o/cit/o,ov/o/cit/o,spermat/o/cit/o,tromb/o/cit/o','','-cyt-(細胞·-cyte)→胞。citi=引(re/cit・mis/cit・supr/e/cit)は保持'),
  # 結合形フォルスフレンド是正(2026-06-21・列挙sep)。phago=吞・thrombo=栓。主義(树=ブナ / 龙卷=竜巻)は disc不掲載で保護。一级:吞7画/栓10画。fag/trombはmasterに残し(树/龙卷)、医学文脈の見出しのみ上書き。
  @('fag','吞','bakteri/o/fag/o,fag/o/cit/ad/o,fag/o/cit/i,fag/o/cit/o,fag/o/cit/oz/o,antrop/o/fag/o,antrop/o/fag/ism/o,makr/o/fag/o','','-phago-/-phage(貪食)→吞。ブナfag/o(树)はfag/o,fag/ar/o,fag/ej/o,fag/o/frukt/o,fag/o/nuks/o,fag/ac/oj,sang/o/fag/o(赤葉ブナ),s^ajn/fag/o(ナンキョクブナ)で維持。ezofag(食道)/fagopir(蕎麦)/fagot(ファゴット)は別セグメントで無影響'),

@@ -29,7 +29,18 @@ $dropLinkO = $false   # 連結母o省略: 【無効】=連結oも保持し1:1構
 $chemInWord = @{ 'kaze/in/o'=$true; 'te/foli/in/o'=$true }   # 化学-ine過剰分解語: -in分節のみラテン保持(女性接尾-in→女 の誤友回避)し、他分節は活かす(偽分解尊重・2026-06-22)。kaze/in→凝/in(カゼイン=凝固蛋白)・te/foli/in→茶/叶/in(テオフィリン=茶葉成分)。旧:語全体ラテン化(凝/茶/叶を捨てていた)。insulin=胰岛素等の不可分根は元から1形態素
 # 元々: $forceUnt=@() (krom/o→金・titan/o→金・bor/o→矿 は homonym。krom/at→金ᴷᴹ/盐ᴬ は化学塩へ)
 # segment単位ラテン: 語中の固有名morphemeのみ未対応(latin)保持。語全体ではなくその分節だけ漢字化しない。Japana落松·T-胞·E-屋(語/ハイフン単位)の分節版。非mapped=被覆を水増ししない。§7
-$segLat = @{ 'gram/negativ/a'=@('gram'); 'gram/pozitiv/a'=@('gram') }   # 人名Gram(グラム染色 Hans Christian Gram由来)=固有名→gram分節のみラテン(否/正は維持)。重量gram(克)·記録gram(图)とは別。2026-06-21
+$segLat = @{ 'gram/negativ/a'=@('gram'); 'gram/pozitiv/a'=@('gram')   # 人名Gram(グラム染色)=固有名→gram分節のみラテン(否/正は維持)。重量gram(克)·記録gram(图)とは別。2026-06-21
+  # 偽分解尊重(2026-06-22): 結合形/借用接尾が同綴の内容語字に化ける誤友を、当該分節のみラテン保持で是正(他分節は活かす)
+  'tio/alkohol/o'=@('tio');'tio/bacil/o'=@('tio');'tio/bakteri/o'=@('tio');'tio/cianat/o'=@('tio');'tio/eter/o'=@('tio');'tio/fenol/o'=@('tio');'tio/fosf/at/o'=@('tio');'tio/sulf/at/o'=@('tio');'tio/sulf/it/o'=@('tio');'tio/ure/o'=@('tio');'tio/keton/o'=@('tio');'tio/amid/o'=@('tio');'tio/aldehid/o'=@('tio')   # 化学thio-(硫黄)→ラテン。相関詞tio=那o と別
+  'kred/it/or/o'=@('or');'mono/kromat/or/o'=@('or');'konvert/or/o'=@('or')   # 装置/行為者-or→ラテン。金属oro=金 と別
+  'par/onim/o'=@('par')   # ギリシャpara-(類似)→ラテン。対/偶数par=偶 と別
+  'od/o/metr/o'=@('od')   # ギリシャhodos(道)→ラテン。賛歌od=颂 と別
+  'are/o/metr/o'=@('are')   # ギリシャaraios(希薄/比重)→ラテン。面積are=面 と別
+  'gangli/on/o'=@('on')   # ganglion借用語末-on→ラテン。分数-on=分 と別
+  'magnet/it/o'=@('it')   # 鉱物-ite→ラテン。受動分詞-it=受 と別(磁鉄鉱)
+  'in/vari/ant/o'=@('in')   # ラテン否定in-→ラテン。女性-in=女 と別(不変量)
+  'homo/log/a'=@('log');'homo/log/ec/o'=@('log');'ko/homo/log/a'=@('log')   # logos=対応/相同→ラテン。-ology=学家 と別(homologous)
+}
 
 foreach($pair in $pairs){
   $dict=Join-Path $srcDir $pair[0]; $outp=Join-Path $dir $pair[1]
@@ -67,6 +78,7 @@ foreach($pair in $pairs){
         elseif(($s -eq 'it') -and $idx -gt 0 -and $medSeen){ $tok=$medIt; $thisMapped=$true }   # 医学-it-(-itis 炎症)→炎ᵀ: 前方に体部位/医学語幹($medStem)がある時のみ。受動分詞-it(動詞語幹・far/it=做/受 等)は非該当で 受 維持。化学塩-it(盐)は上で先取
         elseif(($s -eq 'ol') -and $nseg -gt 1){ $tok='ol' }   # 化学アルコール -ol(多分節)=ラテン保持(opaque)。比較ol=比(disp)は単独語のみ。他分節は通常どおり漢字化(偽分解尊重・2026-06-22)
         elseif(($s -eq 'in') -and $chemInWord.ContainsKey($w)){ $tok='in' }   # 化学-ine(kaze/in・te/foli/in)=ラテン保持。女性接尾-in→女 の誤友回避。他分節(凝/茶/叶)は活かす(偽分解尊重・2026-06-22)
+        elseif(($s -eq 'al') -and $idx -gt 0 -and ($rest -match 'ldehid')){ $tok='al' }   # 化学アルデヒド-al(語釈Aldehido)=ラテン保持。前置詞al=向 の誤友回避。母体(氯/沼气/桂等)は活かす。醛は一级外につきラテン(2026-06-22)
         elseif($hsep.ContainsKey($w) -and $hsep[$w].ContainsKey($s)){ $tok=$hsep[$w][$s]; $thisMapped=$true; $hsepN++ }
         elseif($segLat.ContainsKey($w) -and ($segLat[$w] -contains $s)){ $tok=$s }   # 固有名分節(Gram染色)=ラテン保持・非mapped(§7)。disp(克)に落ちる前に捕捉
 
