@@ -74,8 +74,8 @@ Import-Csv "$dir\_identifier_sidecar.tsv" -Encoding UTF8 -Delimiter "`t" | ForEa
   $dictHasJp = ($dictG -ne '') -and ($jpN -ge 2) -and ($jpN*3 -ge $latN)
   $g=''
   if($csvJp.ContainsKey($root) -and $csvJp[$root]){ $g=$csvJp[$root] }
+  elseif($ovr.ContainsKey($root) -and $ovr[$root]){ $g=$ovr[$root] }   # curated override は自動辞書語義より優先(固有名同綴の語義混入を是正。2026-06-22)
   elseif($dictHasJp){ $g=$dictG }
-  elseif($ovr.ContainsKey($root) -and $ovr[$root]){ $g=$ovr[$root] }
   elseif($dictG){ $g=$dictG }
   $g = ($g -replace '##.*$','').Trim()
   $g = $g -replace '\s*(&gt;&gt;|>>|Vd |><)[^,，;；、。]*',''

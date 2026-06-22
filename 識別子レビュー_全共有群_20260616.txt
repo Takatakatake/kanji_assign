@@ -4016,6 +4016,11 @@
   s^akr          贩ˢ̂        F=5     pejvo   
   kolport        贩ᴷ         F=4     pejvo   
 
+【轨】 3件
+  rel            轨          F=31    basic   
+  trak           轨ᵀ         F=15    pejvo   
+  orbit          轨ᴼ         F=6     pejvo   
+
 【轰】 3件
   fulmin         轰          F=2     pejvo   
   detonaci       轰ᴰ         F=6     pejvo   
@@ -4282,6 +4287,10 @@
 【癌】 2件
   kancer         癌          F=19    basic   
   karcinom       癌ᴷᴿ        F=2     piv     【医】癌腫
+
+【岩】 2件
+  rok            岩          F=33    basic   
+  petr           岩ᴾ         F=16    piv     
 
 【企鹅】 2件
   pingven        企鹅         F=2     pejvo   
@@ -4854,6 +4863,10 @@
 【煽动】 2件
   demagog        煽动         F=2     pejvo   
   demagogi       煽动ᴰᴵ       F=2     pejvo   
+
+【腺】 2件
+  gland          腺          F=12    pejvo   
+  aden           腺ᴬ         F=10    piv     
 
 【粗】 2件
   krud           粗          F=22    basic   
@@ -6358,10 +6371,6 @@
 【轧】 2件
   grinc          轧          F=4     basic   
   laminat        轧ᴸ         F=4     pejvo   
-
-【轨】 2件
-  rel            轨          F=31    basic   
-  orbit          轨ᴼ         F=6     pejvo   
 
 【轮】 2件
   rad            轮          F=60    basic   
