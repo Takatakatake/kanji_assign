@@ -12,9 +12,11 @@ $watch=@{}
 Get-Content "$dir\_homonym.tsv" -Encoding UTF8 | Select-Object -Skip 1 | ForEach-Object{
   $p=$_ -split "`t"; if($p.Count -lt 4){return}; $seg=$p[0];$ov=$p[1];$type=$p[2]
   if($type -eq 'sep' -or $type -eq 'comb'){ if(-not $watch.ContainsKey($seg)){$watch[$seg]=@{}}; $watch[$seg][$ov]=$true } }
-# 注入(学習者版)を走査し、各監視分節→{base漢字: [word...]} を集計
+# 注入を走査し、各監視分節→{base漢字: [word...]} を集計。両版(学習者+学術)を対象(版差の取りこぼしも検出)。
+$injFile = if($args.Count -ge 1 -and $args[0]){ $args[0] } else { '漢字注入_学習者版_20260620.txt' }
+Write-Host ("=== 走査対象: {0} ===" -f $injFile)
 $segChar=@{}  # seg -> hashtable(baseKanji -> List<word>)
-$inj=[System.IO.File]::ReadAllLines("$dir\漢字注入_学習者版_20260620.txt")
+$inj=[System.IO.File]::ReadAllLines("$dir\$injFile")
 foreach($line in $inj){
   $m=[regex]::Match($line,'^([^:]+?)⟦([^⟧]*)⟧'); if(-not $m.Success){continue}
   $hwords=$m.Groups[1].Value -split ' '; $iwords=$m.Groups[2].Value -split ' '
