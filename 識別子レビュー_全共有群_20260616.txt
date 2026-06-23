@@ -101,7 +101,7 @@
   psilofit       草ᴾᶠ        F=1     piv     
   psilot         草ᴾˢ        F=1     piv     
 
-【鱼】 33件
+【鱼】 34件
   fiŝ            鱼          F=83    basic   
   haring         鱼ᴴ         F=5     basic   
   angil          鱼ᴬ         F=4     basic   
@@ -135,6 +135,7 @@
   mola           鱼ᴹᴸ        F=1     piv     
   seran          鱼ˢᴿ        F=1     piv     
   trigl          鱼ᵀᴿ        F=1     piv     
+  zeu^s          鱼ᶻ         F=1     piv     
 
 【虫】 31件
   insekt         虫          F=19    basic   
@@ -169,7 +170,7 @@
   oksiur         虫ᴼᴷ        F=1     piv     
   tortrik        虫ᵀᴿ        F=1     piv     
 
-【鸟】 28件
+【鸟】 29件
   bird           鸟          F=63    basic   
   cikoni         鸟ᶜ         F=3     basic   
   arde           鸟ᴬ         F=4     pejvo   
@@ -187,13 +188,14 @@
   turd           鸟ᵀ         F=1     pejvo   
   tetraon        鸟ᵀᵀ        F=1     pejvo   
   upup           鸟ᵁ         F=1     pejvo   
-  karadri        鸟ᴷᴿ        F=3     piv     【動】チドリ
+  karadri        鸟ᴷᴰ        F=3     piv     【動】チドリ
   apterig        鸟ᴬᴾ        F=2     piv     【動】キーウィ
   pluvi          鸟ᴾⱽ        F=2     piv     【動】チドリ
   alced          鸟ᴬᴸ        F=1     piv     
   au^k           鸟ᴬᵁ̆       F=1     piv     
   bufag          鸟ᴮᶠ        F=1     piv     
   cinkl          鸟ᶜᴺ        F=1     piv     
+  koraci         鸟ᴷᴿ        F=1     piv     
   katart         鸟ᴷᵀ        F=1     piv     
   ploce          鸟ᴾᶜ        F=1     piv     
   ptilonorink    鸟ᴾᵀ        F=1     piv     
@@ -292,7 +294,7 @@
   otari          兽ᴼ         F=1     pejvo   
   teri           兽ᵀ         F=3     piv     【動】獣亜綱
   besti          兽ᴮᴵ        F=2     piv     野獣
-  procion        兽ᴾ         F=2     piv     
+  procion        兽ᴾ         F=2     piv     【動】アライグマ属（Procyon、アライグマ科の食肉獣）
   dazipod        兽ᴰ         F=1     piv     
   falanger       兽ᶠ         F=1     piv     
   viver          兽ⱽ         F=1     piv     
@@ -1677,6 +1679,13 @@
   hup            鸣ᴴ         F=3     pejvo   
   c^irp          鸣ᶜ̂        F=2     pejvo   
   kvivit         鸣ᴷ         F=2     piv     チチッ(小鳥の鳴き声)
+
+【龙】 5件
+  drak           龙          F=9     pejvo   
+  igvan          龙ᴵ         F=1     pejvo   
+  varan          龙ⱽ         F=1     pejvo   
+  agam           龙ᴬ         F=2     piv     
+  scink          龙ˢ         F=1     piv     
 
 【位】 4件
   situ           位          F=2     basic   
@@ -4113,11 +4122,6 @@
   kolomb         鸽          F=22    basic   
   turt           鸽ᵀ         F=3     pejvo   
   livi           鸽ᴸ         F=2     pejvo   
-
-【龙】 3件
-  drak           龙          F=9     pejvo   
-  igvan          龙ᴵ         F=1     pejvo   
-  varan          龙ⱽ         F=1     pejvo   
 
 【龟】 3件
   testud         龟          F=8     basic   
