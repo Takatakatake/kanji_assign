@@ -282,6 +282,21 @@
   botul          菌ᴮᵀ        F=1     piv     
   leptospir      菌ᴸ         F=1     piv     
 
+【兽】 13件
+  best           兽          F=49    basic   
+  zo             兽ᶻ         F=16    basic   
+  animal         兽ᴬ         F=8     basic   
+  zoologi        兽ᶻᴸ        F=0     basic   
+  lutr           兽ᴸ         F=1     pejvo   
+  mirmekofag     兽ᴹ         F=1     pejvo   
+  otari          兽ᴼ         F=1     pejvo   
+  teri           兽ᵀ         F=3     piv     【動】獣亜綱
+  besti          兽ᴮᴵ        F=2     piv     野獣
+  procion        兽ᴾ         F=2     piv     
+  dazipod        兽ᴰ         F=1     piv     
+  falanger       兽ᶠ         F=1     piv     
+  viver          兽ⱽ         F=1     piv     
+
 【鼠】 12件
   mus            鼠          F=15    basic   
   rat            鼠ᴿ         F=6     basic   
@@ -295,20 +310,6 @@
   didelf         鼠ᴰ         F=1     pejvo   
   sorik          鼠ˢ         F=1     pejvo   
   kavi           鼠ᴷ         F=1     piv     
-
-【兽】 12件
-  best           兽          F=49    basic   
-  zo             兽ᶻ         F=16    basic   
-  animal         兽ᴬ         F=8     basic   
-  zoologi        兽ᶻᴸ        F=0     basic   
-  lutr           兽ᴸ         F=1     pejvo   
-  mirmekofag     兽ᴹ         F=1     pejvo   
-  otari          兽ᴼ         F=1     pejvo   
-  teri           兽ᵀ         F=3     piv     【動】獣亜綱
-  besti          兽ᴮᴵ        F=2     piv     野獣
-  dazipod        兽ᴰ         F=1     piv     
-  falanger       兽ᶠ         F=1     piv     
-  viver          兽ⱽ         F=1     piv     
 
 【射】 9件
   paf            射          F=46    basic   
