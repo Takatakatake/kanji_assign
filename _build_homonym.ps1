@@ -19,6 +19,9 @@ $existing=@(
  @('bor','矿','bor/o,bor/at/o,bor/at/a,bor/o/tartr/at/o,tetra/bor/at/o,fluor/bor/at/o,bor/o/tartrat/o','','ホウ素(半金属元素)→矿。bor/o/tartrat=学術版粗分解(2026-06-23)。掘削bor/i=钻と別。bor/at=ホウ酸塩→矿/盐。bor/o/tartr/at=ホウ酒石酸塩(連結o複合)も矿。tetra/bor/at=四ホウ酸塩・fluor/bor/at=フルオロホウ酸塩(WSL過細分解 Xat→X/at 同期)'),
  @('tetr','四','tetr/','','tetra-接頭辞。鳥tetr/o=琴鸡が既定'),
  @('tetra','四','tetra/,tetra/gram/o,tetra/borat/o,tetra/mer/o,tetra/tionat/o,tetra/ol/o,tetra/bor/at/o','','tetra-数詞接頭辞(4)→四。鳥tetra/o=野鸡(基本形)は除外。tetra/ol→四(2026-06-22 ol精緻化)。tetra/bor/at(WSL過細分解同期)'),
+ # 化学接頭 pent-(5炭素鎖=pentose由来)→五。penta=五ᴾ・heks=六ᴴ・tetra=四ᵀ と平行(2026-06-23 最終収束WF)。
+ # ※pent/ozan/o(ペントザン=五炭糖多糖)の派生語1件のみ。後悔penti/pent/o/pent/em=悔・縮小辞-et-は別morphemeでdisc不掲載=悔維持。pent/接頭辞定義見出し(pent/⟦悔⟧)もamb(支配義悔)で据置(met置/but培/et小と平行・批評裁定)。
+ @('pent','五','pent/ozan/o','','化学接頭pent-(5炭素鎖)→五。pent/ozan=ペントザン(ペントース多糖)。後悔penti=悔・縮小辞-et-とは別morpheme(disc不掲載で悔維持)。penta=五ᴾ/heks=六ᴴと平行。ozanは不透明でlatin維持'),
  @('kaj','码','kaj/o,kaj/oj','','埠頭。接続詞kaj=和と別'),
  @('log','诱','log/i,log/aj^/o,al/log/i,al/log/o,al/log/a,al/log/aj^/o,de/log/i,de/log/o,el/log/i,for/log/i,mal/log/i,log/il/o,log/bird/o,log/fajf/il/o,log/ig^/i,seks/al/log/o,sens/al/log/a,tromp/log/i,seks/log/o','','誘惑(allure/lure)。-log-=学家と別。接頭al/de+log=動詞诱(allogi魅了/delogi誘惑)。seks/al/log・sens/al/log・tromp/log・seks/log(allogo=性的魅力/誘惑)も诱。※連結o付 seks/o/log/o=性科学者は学家(別語)(2026-06-23 sep派生形網羅)'),
  @('c^iel','天','c^iel/o,c^iel/a,c^iel/ark/o,c^iel/ark/a,c^iel/blu/a,c^iel/ir/o,c^iel/mekanik/o,c^iel/o/sfer/o,c^iel/rug^/o,c^iel/skrap/ant/o,c^iel/skrap/ul/o,c^iel/tus^/a,c^iel/ul/o,c^iel/an/o,c^iel/fajr/o,sub/c^iel/a,sub/c^iel/e','','空。相関詞c^iel=全样と別'),
