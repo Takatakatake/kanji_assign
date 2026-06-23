@@ -20,6 +20,9 @@ $existing=@(
  @('nom','学','agr/o/nom/o,agr/o/nom/a,agr/o/nom,astr/o/nom/o,astr/o/nom/a,astr/o/nom,gastr/o/nom/o,gastr/o/nom/a,gastr/o/nom,erg/o/nom/o,erg/o/nom/a,erg/o/nom','','科学-nom-(agronom/astronom/gastronom/ergonom)→学。名前複合(famili/nom/dosier/nom等)は名のまま'),
  # ギリシャ結合形 同綴衝突(2026-06-21・列挙sep)。fon→声と同型だが多義のため見出し列挙。正当語(bo/fil息子・du/lit/aベッド・buter/te茶)は disc 不掲載で保護。全字一级。
  @('fil','爱','bibli/o/fil/o,bibli/o/fil/i/o,pedo/fil/i/o,gastr/o/fil/o,gips/o/fil/o,hidr/o/fil/a,nekr/o/fil/i/o,skop/o/fil/i/o,fil/antrop/o,fil/antrop/i/o,fil/o/logi/o,fil/o/logi/a,fil/o/logi/ist/o,fil/o/log/o','','-fil-(philos=愛/-phile)→爱。語頭philo-(filantrop博愛/filolog文献学=言葉への愛)も含む(2026-06-22)。filo=息子(儿)はbo/du-on/adopt-o/bapt-o/pra/sol/ge/sen-fil で維持(disc不掲載)。filogenez=phylon系統は別語源で対象外'),
+ @('per','过','per/oksid/o,per/oksid/i,per/oksid/a,per/oksid/az/o,per/klor/at/o,per/sulf/at/o,per/sulf/at/oj','','per-(化学:過酸化)→过。前置詞per=以 は別'),
+ @('oks','氧','an/oks/emi/o,hipoks/emi/o','','oxy-(酸素)→氧。牛oks/o=牛 は別'),
+ @('leu^k','白','leu^k/emi/o','','leuko-(白)→白(白血病)。leu^ko=白ᴸ は別root'),
  @('astat','卤','astat/o','','-astat-(元素アスタチンAt=halogeno)→卤(液体ハロゲンbrom=卤と同カテゴリ§4.6)。astat/a=astatic(無定位)=无定 はmaster維持(disc不掲載)。astaten(=astato)はmaster卤'),
  @('lit','石','aer/o/lit/o,mega/lit/a,mega/lit/o,mono/lit/a,mono/lit/o,neo/lit/ik/o,paleo/lit/ik/o,epi/paleo/lit/ik/o,mez/o/lit/ik/o,mikro/lit/a,mikro/lit/o,piz/o/lit/o,fot/o/lit/o/grafi/o,krom/o/lit/o/grafi/o,elektr/o/lit/o,elektr/o/lit/a','','-lit-(lithos=石/-lith)→石。lito=寝台(床)はdu/kvar/tri/unu-lit/a・klap/krad/pend/port/ter/sof-o/pajl-o-lit で維持。elektrolit=-lyte(別形態素)は不掲載'),
  @('te','神','a/te/ism/o,a/te/ist/a,a/te/ist/o,mono/te/ism/o,mono/te/ist/o,pan/te/ism/a,pan/te/ism/o,pan/te/ist/o,poli/te/ism/o,poli/te/ist/o,te/o/krati/a,te/o/krati/o,te/o/krat/o,te/o/logi/a,te/o/logi/ist/o,te/o/logi/o,te/o/log/o','','-te-(theo=神)→神。teo=茶(茶)はbuter/te で維持(disc不掲載)'),
