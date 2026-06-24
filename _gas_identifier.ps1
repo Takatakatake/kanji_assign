@@ -53,7 +53,11 @@ foreach($grp in ($rows | Group-Object k)){
             if($ad){ $idf="$h$ad" } else { $fa=if($p.all.Count -gt 0){$p.all[0]}elseif($p.cons.Count -gt 0){$p.cons[0]}else{''}; $idf="$h$fa" } }   # 頭文字共有→必ず付す(青 ao→ao)
           if($used.Contains($idf)){   # §6a: 衝突→数字でなく別文字(子音列→全文字列で最初の未使用)
             $alt=$null; foreach($cc in (@($p.cons)+@($p.all))){ if(-not $used.Contains("$h$cc")){ $alt="$h$cc"; break } }
-            if($alt){ $idf=$alt } else { $sfx=2; $cand="$idf$sfx"; while($used.Contains($cand)){$sfx++;$cand="$idf$sfx"}; $idf=$cand } } }
+            if($alt){ $idf=$alt } else {
+              # 2文字idが枯渇(巨大群=生物属§4.6救済等)→ 頭+語根後続文字の漸進プレフィックスで一意化(数字回避・全语根は別綴りゆえ必ず一意化)
+              $cand=$h; for($z=0;$z -lt $p.all.Count;$z++){ $cand=$cand+[string]$p.all[$z]; if(-not $used.Contains($cand)){ break } }
+              if($used.Contains($cand)){ $sfx=2; $c2="$cand$sfx"; while($used.Contains($c2)){$sfx++;$c2="$cand$sfx"}; $cand=$c2 }   # 文字列尽きた極稀ケースのみ数字
+              $idf=$cand } } }
         $p.id=$idf; if($idf){[void]$used.Add($idf)}
         UpdateSeen $p.cons $seenC; UpdateSeen $p.all $seenA } }
   }
