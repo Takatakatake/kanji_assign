@@ -7235,6 +7235,10 @@
   ftiz           结核         F=4     pejvo   
   skrofol        结核ˢ        F=2     pejvo   
 
+【结石】 2件
+  kalkulus       结石         F=2     pejvo   
+  litiaz         结石ᴸ        F=2     piv     【医】結石症
+
 【绞】 2件
   vinc^          绞          F=3     pejvo   
   strangol       绞ˢ         F=3     pejvo   
