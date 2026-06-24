@@ -1,6 +1,6 @@
 ﻿# 識別子レビュー(GAS/§5位置・§3厳密・§6a別文字・特殊字修正・base上書き版): 全共有群・全メンバー・語義付き
 
-【草】 440件
+【草】 442件
   herb           草          F=67    basic   
   pajl           草ᴾ         F=18    basic   
   skiz           草ˢ         F=6     basic   
@@ -246,7 +246,8 @@
   kritm          草ᴷᴿ        F=1     piv     
   kroton         草ᴷᴿᴼ       F=1     piv     
   krotalari      草ᴷᴿᴼᵀ      F=1     piv     
-  ksantosom      草ᴷˢᴬ       F=1     piv     
+  ksanti         草ᴷˢᴬ       F=1     piv     
+  ksantosom      草ᴷˢᴬᴺ      F=1     piv     
   kalt           草ᴷᵀ        F=1     piv     
   krinum         草ᴷᵁ        F=1     piv     
   knau^ti        草ᴷᵁ̆       F=1     piv     
@@ -318,6 +319,7 @@
   parietari      草ᴾᴬᴿᴵ      F=1     piv     
   partenocis     草ᴾᴬᴿᵀ      F=1     piv     
   pasiflor       草ᴾᴬˢ       F=1     piv     
+  patienc        草ᴾᴬᵀ       F=1     piv     
   pecaj          草ᴾᶜ        F=1     piv     
   pedali         草ᴾᴰ        F=1     piv     
   pense          草ᴾᴱ        F=1     piv     
@@ -442,7 +444,7 @@
   ze             草ᶻ         F=1     piv     
   zigofil        草ᶻᴳ        F=1     piv     
 
-【木】 234件
+【木】 235件
   lign           木          F=51    basic   
   ksil           木ᴷ         F=6     pejvo   
   muskat         木ᴹ         F=6     pejvo   
@@ -561,6 +563,7 @@
   jakarand       木ᴶᴷ        F=1     piv     
   kvasi          木ᴷᴬ        F=1     piv     
   kalitris       木ᴷᴬᴸ       F=1     piv     
+  kalam          木ᴷᴬᴸᴬ      F=1     piv     
   kamerops       木ᴷᴬᴹ       F=1     piv     
   kameciparis    木ᴷᴬᴹᴱ      F=1     piv     
   karagan        木ᴷᴬᴿ       F=1     piv     
@@ -1171,7 +1174,7 @@
   tekneci        金ᵀᴷ        F=1     piv     
   tuli           金ᵀᴸ        F=1     piv     
 
-【猴】 27件
+【猴】 28件
   ceb            猴          F=1     piv     
   resus          猴ᴿ         F=2     piv     【動】アカゲザル
   aot            猴ᴬ         F=1     piv     
@@ -1181,6 +1184,7 @@
   cerkopitek     猴ᶜᴿ        F=1     piv     
   entel          猴ᴱ         F=1     piv     
   gibon          猴ᴳ         F=1     piv     
+  galag          猴ᴳᴸ        F=1     piv     
   hapal          猴ᴴ         F=1     piv     
   hulman         猴ᴴᴸ        F=1     piv     
   indri          猴ᴵ         F=1     piv     
@@ -1247,6 +1251,27 @@
   graviol        果ᴳᴸ        F=1     piv     
   loganber       果ᴸᴳ        F=1     piv     
 
+【藻】 19件
+  alg            藻          F=14    basic   
+  fuk            藻ᶠ         F=1     pejvo   
+  fic            藻ᶠᶜ        F=4     piv     
+  sargas         藻ˢ         F=2     piv     
+  bangi          藻ᴮ         F=1     piv     
+  cerami         藻ᶜ         F=1     piv     
+  gonidi         藻ᴳ         F=1     piv     
+  kara           藻ᴷ         F=1     piv     
+  klamidomonad   藻ᴷᴰ        F=1     piv     
+  klorel         藻ᴷᴸ        F=1     piv     
+  kombu          藻ᴷᴹ        F=1     piv     
+  koralin        藻ᴷᴺ        F=1     piv     
+  kau^lerp       藻ᴷᵁ̆       F=1     piv     
+  nitel          藻ᴺ         F=1     piv     
+  porfur         藻ᴾ         F=1     piv     
+  ulv            藻ᵁ         F=1     piv     
+  undari         藻ᵁᴺ        F=1     piv     
+  vakame         藻ⱽ         F=1     piv     
+  volvok         藻ⱽᴸ        F=1     piv     
+
 【龙】 18件
   drak           龙          F=9     pejvo   
   igvan          龙ᴵ         F=1     pejvo   
@@ -1267,24 +1292,24 @@
   stelion        龙ˢᵀ        F=1     piv     
   triceratop     龙ᵀ         F=1     piv     
 
-【藻】 17件
-  alg            藻          F=14    basic   
-  fuk            藻ᶠ         F=1     pejvo   
-  fic            藻ᶠᶜ        F=4     piv     
-  sargas         藻ˢ         F=2     piv     
-  bangi          藻ᴮ         F=1     piv     
-  cerami         藻ᶜ         F=1     piv     
-  gonidi         藻ᴳ         F=1     piv     
-  kara           藻ᴷ         F=1     piv     
-  klorel         藻ᴷᴸ        F=1     piv     
-  kombu          藻ᴷᴹ        F=1     piv     
-  koralin        藻ᴷᴺ        F=1     piv     
-  kau^lerp       藻ᴷᵁ̆       F=1     piv     
-  nitel          藻ᴺ         F=1     piv     
-  porfur         藻ᴾ         F=1     piv     
-  ulv            藻ᵁ         F=1     piv     
-  undari         藻ᵁᴺ        F=1     piv     
-  vakame         藻ⱽ         F=1     piv     
+【虾】 17件
+  kankr          虾          F=4     basic   
+  salikok        虾ˢ         F=1     pejvo   
+  Leandr         虾ᴸᴱ        F=2     piv     【動】テナガエビ
+  leandr         虾ᴸᴺ        F=2     piv     【動】テナガエビ
+  armadilidi     虾ᴬ         F=1     piv     
+  birg           虾ᴮ         F=1     piv     
+  dafni          虾ᴰ         F=1     piv     
+  dromi          虾ᴰᴿ        F=1     piv     
+  gamar          虾ᴳ         F=1     piv     
+  karcin         虾ᴷᶜ        F=1     piv     
+  krangon        虾ᴷᴺ        F=1     piv     
+  kril           虾ᴷᴿ        F=1     piv     
+  lepad          虾ᴸ         F=1     piv     
+  nau^pli        虾ᴺ         F=1     piv     
+  pene           虾ᴾ         F=1     piv     
+  pandal         虾ᴾᴰ        F=1     piv     
+  talitr         虾ᵀ         F=1     piv     
 
 【气】 16件
   aer            气          F=95    basic   
@@ -1303,24 +1328,6 @@
   neon           气ᴺ         F=1     pejvo   
   radon          气ᴿ         F=1     pejvo   
   ksenon         气ᴷˢ        F=1     piv     
-
-【虾】 16件
-  kankr          虾          F=4     basic   
-  salikok        虾ˢ         F=1     pejvo   
-  Leandr         虾ᴸᴱ        F=2     piv     【動】テナガエビ
-  leandr         虾ᴸᴺ        F=2     piv     【動】テナガエビ
-  armadilidi     虾ᴬ         F=1     piv     
-  birg           虾ᴮ         F=1     piv     
-  dafni          虾ᴰ         F=1     piv     
-  dromi          虾ᴰᴿ        F=1     piv     
-  gamar          虾ᴳ         F=1     piv     
-  karcin         虾ᴷᶜ        F=1     piv     
-  krangon        虾ᴷᴺ        F=1     piv     
-  kril           虾ᴷᴿ        F=1     piv     
-  lepad          虾ᴸ         F=1     piv     
-  nau^pli        虾ᴺ         F=1     piv     
-  pene           虾ᴾ         F=1     piv     
-  pandal         虾ᴾᴰ        F=1     piv     
 
 【贝】 15件
   konk           贝          F=16    basic   
