@@ -2508,7 +2508,7 @@ content	impet	突
 content	impuls	冲
 content	insid	陷
 content	inspektor	检
-content	instanc	审级
+content	instanc	当局
 content	interpelaci	质询
 content	invalid	残疾
 content	jug	束缚
@@ -3116,7 +3116,7 @@ pejvo	c^arpent	架
 pejvo	ekspansi	膨
 pejvo	fizi	物理
 pejvo	rigor	严
-pejvo	kvot	报价
+pejvo	kvot	额
 pejvo	spasm	抽筋
 pejvo	parad	炫
 pejvo	hirt	蓬
@@ -3718,7 +3718,7 @@ pejvo	misi	使
 pejvo	garnizon	守
 pejvo	konstip	便秘
 pejvo	punktur	刺
-pejvo	timpan	鼓膜
+pejvo	timpan	鼓室
 pejvo	folikl	囊
 pejvo	transmisi	传
 pejvo	kalandr	压光
@@ -3898,7 +3898,7 @@ pejvo	eksklud	斥
 pejvo	kazern	营
 pejvo	sindrom	症
 pejvo	galop	驰
-pejvo	prostat	前列
+pejvo	prostat	前列腺
 pejvo	kortik	皮
 pejvo	kinet	动
 pejvo	dializ	透析
@@ -4962,12 +4962,12 @@ content	antilop	羚
 content	makrop	袋鼠
 content	pubi	耻骨
 content	nazal	鼻
-content	mandaren	官话
+content	mandaren	官
 content	podagr	痛风
 content	j^am	扰
 content	proskrib	逐
 content	stau^l	失速
-content	repudi	休妻
+content	repudi	离
 content	konfesi	派
 content	hemisfer	半球
 content	operator	算子
@@ -5238,7 +5238,7 @@ content	centau^r	半人马
 content	lem	引理
 content	fau^l	违规
 content	aksiom	公理
-content	fau^n	兽群
+content	fau^n	兽相
 content	stimulin	激素
 content	vegan	素
 content	ekstrapol	外推
@@ -5767,7 +5767,6 @@ content	stratosfer	平流层
 content	etil	乙
 content	lop	翻
 content	kolc^ik	秋水仙
-content	s^il	乳液
 content	arh^e	古
 content	jah^t	游艇
 content	herpet	泡疹
@@ -6277,7 +6276,7 @@ content	lug^	雪车
 content	kavaleri	骑
 content	sial	硅铝
 content	erp	耙
-content	flau^r	植群
+content	flau^r	植相
 content	burs	囊
 content	kraks	冠鸡
 content	lavang	雪崩

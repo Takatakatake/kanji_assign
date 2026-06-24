@@ -2146,6 +2146,13 @@
   goni           角ᴳ         F=5     piv     【測】角度
   kerat          角ᴷᵀ        F=5     piv     【医】角膜
 
+【官】 5件
+  oficial        官          F=11    basic   
+  burokrat       官ᴮ         F=4     basic   
+  magistrat      官ᴹ         F=5     pejvo   
+  mandaren       官ᴹᴺ        F=2     pejvo   
+  tribunus       官ᵀ         F=2     piv     【史】護民官
+
 【感】 5件
   sent           感          F=52    basic   
   sens           感ˢˢ        F=33    basic   
@@ -2786,12 +2793,6 @@
   lob            叶ᴸ         F=7     pejvo   
   frond          叶ᶠᴿ        F=3     pejvo   
   limb           叶ᴸᴹ        F=2     pejvo   
-
-【官】 4件
-  oficial        官          F=11    basic   
-  burokrat       官ᴮ         F=4     basic   
-  magistrat      官ᴹ         F=5     pejvo   
-  tribunus       官ᵀ         F=2     piv     【史】護民官
 
 【机】 4件
   maŝin          机          F=88    basic   
@@ -5138,6 +5139,11 @@
   farb           颜ᶠ         F=12    basic   
   faci           颜ᶠᶜ        F=2     piv     【解】顔・顔面
 
+【额】 3件
+  frunt          额          F=3     basic   
+  kvot           额ᴷ         F=8     pejvo   
+  kontingent     额ᴷᴺ        F=4     pejvo   
+
 【馆】 3件
   hotel          馆          F=7     basic   
   muze           馆ᴹ         F=5     basic   
@@ -5510,10 +5516,6 @@
 【糊】 2件
   past           糊          F=19    basic   
   amel           糊ᴬ         F=9     pejvo   
-
-【鼓膜】 2件
-  timpan         鼓膜         F=5     pejvo   
-  miring         鼓膜ᴹ        F=3     piv     【医】鼓膜
 
 【五】 2件
   kvin           五          F=31    num     
@@ -7167,6 +7169,10 @@
   karbon         碳          F=33    basic   
   karbur         碳ᴷᴿ        F=5     pejvo   
 
+【离】 2件
+  for            离          F=200   func    
+  repudi         离ᴿ         F=2     pejvo   
+
 【离子】 2件
   jon            离子         F=14    pejvo   
   ion            离子ᴵ        F=3     piv     【化】イオン
@@ -7570,10 +7576,6 @@
 【颈】 2件
   kol            颈          F=36    basic   
   cervik         颈ᶜ         F=5     pejvo   
-
-【额】 2件
-  frunt          额          F=3     basic   
-  kontingent     额ᴷ         F=4     pejvo   
 
 【颠】 2件
   tang           颠          F=3     pejvo   
