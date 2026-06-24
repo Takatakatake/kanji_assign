@@ -7487,6 +7487,10 @@
   tenajl         钳          F=4     pejvo   
   h^elicer       钳ᴴ̂        F=2     piv     【動】鋏角
 
+【铁】 2件
+  fer            铁          F=66    basic   
+  fero           铁ᶠᴼ        F=4     pejvo   
+
 【银】 2件
   arĝent         银          F=10    basic   
   bank           银ᴮ         F=34    basic   
