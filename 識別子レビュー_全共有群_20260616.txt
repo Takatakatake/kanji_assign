@@ -1510,6 +1510,16 @@
   afekt          装ᴬ         F=14    pejvo   
   stiv           装ˢ         F=2     pejvo   
 
+【俗】 8件
+  mor            俗          F=6     basic   
+  vulgar         俗ⱽ         F=9     basic   
+  banal          俗ᴮ         F=4     basic   
+  profan         俗ᴾ         F=7     pejvo   
+  laik           俗ᴸ         F=4     pejvo   
+  sekular        俗ˢ         F=4     pejvo   
+  filistr        俗ᶠ         F=3     pejvo   
+  kic^           俗ᴷ         F=2     pejvo   
+
 【分】 8件
   on             分          F=0     suf     
   divid          分ᴰ         F=28    basic   
@@ -1589,6 +1599,15 @@
   mime           印ᴹ         F=2     pejvo   
   patric         印ᴾᵀ        F=2     pejvo   
 
+【概】 7件
+  probabl        概          F=8     basic   
+  koncept        概ᴷ         F=7     basic   
+  resum          概ᴿ         F=1     basic   要約・概要
+  sinoptik       概ˢ         F=4     pejvo   
+  epitom         概ᴱ         F=3     pejvo   
+  kompendi       概ᴷᴹ        F=2     pejvo   
+  noci           概ᴺ         F=2     pejvo   
+
 【隔】 7件
   izol           隔          F=38    basic   
   vand           隔ⱽ         F=6     pejvo   
@@ -1633,6 +1652,15 @@
   balon          球ᴮᴺ        F=9     basic   
   futbal         球ᶠ         F=6     basic   
   glomerul       球ᴳᴹ        F=2     piv     【解】糸球体
+
+【狂】 7件
+  mani           狂          F=28    basic   
+  frenez         狂ᶠ         F=14    basic   
+  furioz         狂ᶠᶻ        F=9     basic   
+  delir          狂ᴰ         F=6     basic   
+  rabi           狂ᴿ         F=6     pejvo   
+  fanatik        狂ᶠᴺ        F=5     pejvo   
+  histeri        狂ᴴ         F=3     pejvo   
 
 【琴】 7件
   pian           琴          F=12    basic   
@@ -1696,15 +1724,6 @@
   niks           精ᴺᴷ        F=2     pejvo   
   spermat        精ˢ         F=2     piv     【生】精母細胞
   spermati       精ˢᴵ        F=2     piv     【植】精子(不動精子)
-
-【俗】 7件
-  mor            俗          F=6     basic   
-  vulgar         俗ⱽ         F=9     basic   
-  profan         俗ᴾ         F=7     pejvo   
-  laik           俗ᴸ         F=4     pejvo   
-  sekular        俗ˢ         F=4     pejvo   
-  filistr        俗ᶠ         F=3     pejvo   
-  kic^           俗ᴷ         F=2     pejvo   
 
 【代】 7件
   anstataŭ       代          F=12    prep    
@@ -1838,14 +1857,6 @@
   ekt            外ᴱᵀ        F=2     piv     【生】外胚葉
   ksen           外ᴷˢ        F=2     piv     異邦人・外来
 
-【概】 6件
-  probabl        概          F=8     basic   
-  koncept        概ᴷ         F=7     basic   
-  resum          概ᴿ         F=1     basic   要約・概要
-  sinoptik       概ˢ         F=4     pejvo   
-  kompendi       概ᴷᴹ        F=2     pejvo   
-  noci           概ᴺ         F=2     pejvo   
-
 【冠】 6件
   kron           冠          F=49    basic   
   krest          冠ᴷˢ        F=10    basic   
@@ -1869,14 +1880,6 @@
   pedagogi       教ᴾᴵ        F=3     pejvo   
   didaktik       教ᴰ         F=2     pejvo   
   pedagog        教ᴾ         F=2     pejvo   
-
-【狂】 6件
-  mani           狂          F=28    basic   
-  furioz         狂ᶠ         F=9     basic   
-  delir          狂ᴰ         F=6     basic   
-  rabi           狂ᴿ         F=6     pejvo   
-  fanatik        狂ᶠᴺ        F=5     pejvo   
-  histeri        狂ᴴ         F=3     pejvo   
 
 【形】 6件
   form           形          F=222   basic   
@@ -2989,6 +2992,12 @@
   turne          巡ᵀ         F=2     pejvo   
   rund           巡ᴿ         F=2     piv     巡回・見回り
 
+【商】 4件
+  komerc         商          F=48    basic   
+  firma          商ᶠ         F=4     basic   
+  negoc          商ᴺ         F=7     pejvo   
+  kvocient       商ᴷⱽ        F=5     pejvo   
+
 【植】 4件
   plant          植          F=75    basic   
   botanik        植ᴮ         F=9     basic   
@@ -3283,6 +3292,12 @@
   alianc         盟ᴬ         F=7     pejvo   
   kartel         盟ᴷ         F=3     pejvo   
 
+【乱】 4件
+  konfuz         乱          F=14    basic   
+  turbul         乱ᵀ         F=6     pejvo   
+  perpleks       乱ᴾᴿ        F=4     pejvo   
+  pelmel         乱ᴾ         F=3     pejvo   
+
 【律】 4件
   leĝ            律          F=39    basic   
   ritm           律ᴿ         F=9     basic   
@@ -3384,6 +3399,12 @@
   valor          值ⱽ         F=58    basic   
   merit          值ᴹ         F=15    basic   
   vac^           值ⱽᶜ̂       F=2     pejvo   
+
+【倾】 4件
+  em             倾          F=436   suf     
+  inklin         倾ᴵ         F=8     basic   
+  tendenc        倾ᵀ         F=3     basic   
+  tak            倾ᵀᴷ        F=2     piv     タカ(バングラデシュ通貨)
 
 【偿】 4件
   kvit           偿          F=4     pejvo   
@@ -4120,11 +4141,6 @@
   ektomi         除ᴱᴷ        F=24    suf     【医】切除
   elimin         除ᴱᴸ        F=5     basic   
 
-【商】 3件
-  komerc         商          F=48    basic   
-  firma          商ᶠ         F=4     basic   
-  kvocient       商ᴷⱽ        F=5     pejvo   
-
 【将】 3件
   ont            将          F=24    suf     
   general        将ᴳ         F=5     basic   
@@ -4555,11 +4571,6 @@
   helik          螺ᴴ         F=8     pejvo   
   helic          螺ᴴᶜ        F=7     pejvo   
 
-【乱】 3件
-  konfuz         乱          F=14    basic   
-  turbul         乱ᵀ         F=6     pejvo   
-  pelmel         乱ᴾ         F=3     pejvo   
-
 【卵】 3件
   ov             卵          F=41    basic   
   ovol           卵ᴼᴸ        F=6     pejvo   
@@ -4769,11 +4780,6 @@
   ombrel         伞          F=5     basic   
   paraŝut        伞ᴾ         F=8     basic   
   umbel          伞ᵁ         F=2     pejvo   
-
-【倾】 3件
-  em             倾          F=436   suf     
-  inklin         倾ᴵ         F=8     basic   
-  tak            倾ᵀ         F=2     piv     タカ(バングラデシュ通貨)
 
 【偷】 3件
   ŝtel           偷          F=33    basic   
