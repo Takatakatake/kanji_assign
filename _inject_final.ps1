@@ -40,7 +40,7 @@ $segLat = @{ 'gram/negativ/a'=@('gram'); 'gram/pozitiv/a'=@('gram')   # 人名Gr
   'gangli/on/o'=@('on')   # ganglion借用語末-on→ラテン。分数-on=分 と別
   'magnet/it/o'=@('it')   # 鉱物-ite→ラテン。受動分詞-it=受 と別(磁鉄鉱)
   'in/vari/ant/o'=@('in')   # ラテン否定in-→ラテン。女性-in=女 と別(不変量)
-  'homo/log/a'=@('log');'homo/log/ec/o'=@('log');'ko/homo/log/a'=@('log')   # logos=対応/相同→ラテン。-ology=学家 と別(homologous)
+  'homo/log/a'=@('log');'homo/log/ec/o'=@('log');'ko/homo/log/a'=@('log');'homo/log/aj'=@('log')   # logos=対応/相同→ラテン。-ology=学家 と別(homologous)。homo/log/aj(複数形容詞: homo/log/aj element/oj等の句見出し)も漏れ補完=全屈折形latin統一(2026-06-26)
   'ton/al/o'=@('al');'ton/al/a'=@('al');'ton/al/ec/o'=@('al');'du/ton/al/ec/o'=@('al');'mult/ton/al/ec/o'=@('al');'ne/ton/al/a'=@('al');'sen/ton/al/a'=@('al');'a/ton/al/a'=@('al')   # 形容詞-al(tonal調性)→ラテン。前置詞al=向 と別(WSL分解 ton/al 2026-06-23)
   'aktini/id/oj'=@('aktini')   # actinides(放射性金属元素系列)→aktiniラテン。Actinia海葵(aktini/o=【動】第1義・aktini/ul目も海葵)の元素文脈での誤友回避(2026-06-25 WSL同期)
   # 2026-06-25 接尾辞悉皆監査(WF w3piqpnyc)で露出した非受動/非病/非前置詞のtransparent結合形:

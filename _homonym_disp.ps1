@@ -23,7 +23,11 @@ function AddSegId([string]$K,[string]$seg){
   $seenC=@{};$seenA=@{}
   foreach($m in $mem){ $ml=EoLetters $m.root; if($ml[0] -eq $h){ $mah=AfterHead $ml; for($i=0;$i -lt $mah.cons.Count;$i++){ $o=$i+1; if(-not $seenC.ContainsKey($o)){$seenC[$o]=New-Object System.Collections.Generic.HashSet[string]}; [void]$seenC[$o].Add($mah.cons[$i]) }; for($i=0;$i -lt $mah.all.Count;$i++){ $o=$i+1; if(-not $seenA.ContainsKey($o)){$seenA[$o]=New-Object System.Collections.Generic.HashSet[string]}; [void]$seenA[$o].Add($mah.all[$i]) } } }
   $cd=FirstDiv $ah.cons $seenC; $idf=if($cd){"$h$cd"}else{ $ad=FirstDiv $ah.all $seenA; if($ad){"$h$ad"}else{ $fa=if($ah.all.Count){$ah.all[0]}elseif($ah.cons.Count){$ah.cons[0]}else{''}; "$h$fa" } }
-  if($used.Contains($idf)){ $alt=$null; foreach($cc in (@($ah.cons)+@($ah.all))){ if(-not $used.Contains("$h$cc")){$alt="$h$cc";break} }; if($alt){$idf=$alt}else{$idf="${idf}2"} }
+  if($used.Contains($idf)){ $alt=$null; foreach($cc in (@($ah.cons)+@($ah.all))){ if(-not $used.Contains("$h$cc")){$alt="$h$cc";break} }
+    if($alt){$idf=$alt}
+    else{ $cand=$h; for($z=0;$z -lt $ah.all.Count;$z++){ $cand=$cand+[string]$ah.all[$z]; if(-not $used.Contains($cand)){ break } }   # 2文字id枯渇(草メガ群等)→頭+語根後続文字の漸進プレフィックスで一意化(数字回避。_gas_identifierと同型・2026-06-26)
+      if($used.Contains($cand)){ $sfx=2; $c2="$cand$sfx"; while($used.Contains($c2)){$sfx++;$c2="$cand$sfx"}; $cand=$c2 }
+      $idf=$cand } }
   return $idf
 }
 $out=New-Object System.Collections.ArrayList; [void]$out.Add("segment`ttype`tdisc`toverrideKanji`toverrideDisp`tnote")

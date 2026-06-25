@@ -115,7 +115,8 @@ $new=@(
  @('file','线','file/o','罫線','罫線。file=里脊と別'),@('peon','佃','peon/o','隷農','隷農。peon=卒と別'),@('tang','舞','tang/o','タンゴ','タンゴ。tang=颠と別行'),
  @('klik','派','klik/o','徒党','徒党。klik=爪と別'),@('topik','敷','topik/o','外用','外用薬。topik=题と別'),@('er','纪','er/o','紀元','紀元。er=粒と別行'),
  @('po','草','po/o','Poa','Poa属。po=每と別行'),@('line','草','line/o','リンネ','リンネ草。line=线と別行'),@('tof','瘤','tof/o','痛風','痛風結節。tof=凝灰と別'),
- @('male','疫','male/o','鼻疽','馬鼻疽。male=捶と別行'),@('sinus','弦','sinus/o','正弦','正弦sine。sinus=洞と別行') )
+ @('male','疫','male/o','鼻疽','馬鼻疽。male=捶と別行'),@('sinus','弦','sinus/o','正弦','正弦sine。sinus=洞と別行'),
+ @('mung','草','mung/o,mung/id/oj','緑豆','緑豆(Vigna radiata=マメ科)+豆もやし→草(§4.6最近一级字)。動詞mung/i=擦鼻(洟をかむ)と別行(2026-06-26 全コーパス監査)'),@('sed','草','sed/o','マンネングサ','Sedum=ベンケイソウ科の観賞植物属→草。接続詞/動詞sed・sed/i=但と別行'),@('ke','鸟','ke/o','ケア','Nestor notabilis=ケア(NZのオウム,鳥)→鸟。接続詞ke=事と別行') )
 $rows=New-Object System.Collections.ArrayList
 [void]$rows.Add("segment`toverride`ttype`tdisc`tnote")
 foreach($e in $existing){ [void]$rows.Add(($e[0]+"`t"+$e[1]+"`tsep`t"+$e[2]+"`t"+$e[4])) }
@@ -128,7 +129,7 @@ foreach($e in $new){ $root=$e[0];$ov=$e[1];$hw=$e[2];$kw=$e[3];$note=$e[4]
   if(($forceAmb -contains $root) -or $n -ge 2){ $type='amb'; $disc=$kw; $ambN++ } else { $type='sep'; $disc=$hw; $sepN++ }
   [void]$rows.Add(($root+"`t"+$ov+"`t"+$type+"`t"+$disc+"`t"+$note)) }
 # combining-form(ギリシャ結合形): idx>0 の完全一致分節で適用(段位置ベース。disc空)。同綴の内容語と別義。
-$comb=@( @('fon','声','音(phone)結合形 telefon/mikrofon等。背景fon=底はidx0で別'), @('metr','计','計器(-meter)結合形 termometr/barometr/manometr/anemometr等→计(gauge)。idx>0の-metr-。長さ単位·詩脚·直径等の非計器はsep metr→米で除外。-metri-(科学)=测は別分節(metri)で不変') )
+$comb=@( @('fon','声','音(phone)結合形 telefon/mikrofon等。背景fon=底はidx0で別'), @('metr','计','計器(-meter)結合形 termometr/barometr/manometr/anemometr等→计(gauge)。idx>0の-metr-。長さ単位·詩脚·直径等の非計器はsep metr→米で除外。-metri-(科学)=测は別分節(metri)で不変'), @('nim','名','-onym(名)結合形の連結o吸収表層 homo/nim同名・hipo/nim下位語・pseu^do/nim偽名→名。onim=名ᴼ(an/onim/ant/onim)と同形態素だが先行母音がoを吸収してnim表層化。-onym以外のnim分節は皆無=idx>0で安全(2026-06-26 全コーパス監査)') )
 $combN=0; foreach($e in $comb){ [void]$rows.Add(($e[0]+"`t"+$e[1]+"`tcomb`t`t"+$e[2])); $combN++ }
 # === -oz/-on/-tom systematic 是正(2026-06-21・収束検証/goal第4次→残oz集約。ユーザー裁定「症+糖の2字に集約。膜/态/用/基の細分は廃止」) ===
 # -oz: -ozo名詞→症(病-osis/過程変態/食作用/膜/iodoso/jetlag/条件形容詞=状態・症状全般に集約) / 糖類-ose→糖 / 標準語oz/o(単糖)→糖 / genuine -oza形容詞(rich/多い herb/bitum)→富。
