@@ -86,6 +86,7 @@ foreach($pair in $pairs){
         elseif($chemSaltLine -and ($s -eq 'at' -or $s -eq 'it') -and $idx -gt 0){ $tok=$(if($s -eq 'at'){$saltAt}else{$saltIt}); $thisMapped=$true }   # 化学塩/酸 -at→盐ᴬ・-it→盐ᴵ(行レベル判定 $chemSaltLine)。酸根は下の hsep(krom/titan/bor=金/金/矿)/disp(acet=醋・fer=铁等)で。受動分詞-at(被)は非化学行で維持
         elseif(($s -eq 'it') -and $idx -gt 0 -and ($medSeen -or $medItWord.ContainsKey($w))){ $tok=$medIt; $thisMapped=$true }   # 医学-it-(-itis 炎症)→炎ᵀ: 前方に体部位/医学語幹($medStem)がある時、または語単位override($medItWord=mitr/it/o等)。受動分詞-it(動詞語幹・far/it=做/受、mitr/it/a=ミトラ授与/受 等)は非該当で 受 維持。化学塩-it(盐)は上で先取
         elseif(($s -eq 'ol') -and $nseg -gt 1){ $tok='ol' }   # 化学アルコール -ol(多分節)=ラテン保持(opaque)。比較ol=比(disp)は単独語のみ。他分節は通常どおり漢字化(偽分解尊重・2026-06-22)
+        elseif(($s -eq 'tio') -and $nseg -gt 1){ $tok='tio' }   # チオ(thio=硫黄)結合形(多分節)→ラテン保持。相関詞tio=那o(disp)は単独語(nseg=1)のみ。-ol同型の根治ルール。過細分解(izotio→izo/tio・tio/fosf/at→tio/fosfat等)でsegLat個別キーが外れる脆弱性を解消=上の$segLat tio群を包摂(2026-06-25)
         elseif(($s -eq 'in') -and $chemInWord.ContainsKey($w)){ $tok='in' }   # 化学-ine(kaze/in・te/foli/in)=ラテン保持。女性接尾-in→女 の誤友回避。他分節(凝/茶/叶)は活かす(偽分解尊重・2026-06-22)
         elseif(($s -eq 'al') -and $idx -gt 0 -and ($rest -match 'ldehid')){ $tok='al' }   # 化学アルデヒド-al(語釈Aldehido)=ラテン保持。前置詞al=向 の誤友回避。母体(氯/沼气/桂等)は活かす。醛は一级外につきラテン(2026-06-22)
         elseif($hsep.ContainsKey($w) -and $hsep[$w].ContainsKey($s)){ $tok=$hsep[$w][$s]; $thisMapped=$true; $hsepN++ }
