@@ -3352,6 +3352,12 @@
   filament       丝ᶠᴸ        F=3     pejvo   
   filigran       丝ᶠᴳ        F=2     pejvo   
 
+【严】 4件
+  sever          严          F=7     basic   
+  serioz         严ˢᴿ        F=10    basic   
+  rigor          严ᴿ         F=8     pejvo   
+  drakon         严ᴰ         F=4     pejvo   
+
 【亲】 4件
   kar            亲          F=16    basic   
   intim          亲ᴵ         F=12    basic   
@@ -4738,11 +4744,6 @@
   tuf            丛          F=13    basic   
   vepr           丛ⱽ         F=4     pejvo   
   makis          丛ᴹ         F=2     pejvo   
-
-【严】 3件
-  sever          严          F=7     basic   
-  serioz         严ˢᴿ        F=10    basic   
-  rigor          严ᴿ         F=8     pejvo   
 
 【仿】 3件
   imit           仿          F=16    basic   
