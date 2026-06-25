@@ -16,7 +16,7 @@ $branch=(& git rev-parse --abbrev-ref HEAD).Trim()
 if(-not $Force -and (Test-Path $snapRoot) -and (Get-ChildItem -LiteralPath $snapRoot -Directory -ErrorAction SilentlyContinue | Where-Object { $_.Name -like ('*_'+$hash) })){
   Pop-Location
   Write-Host ("スキップ: HEAD("+$hash+")のスナップショットは既に存在(変更なし)。-Force で強制作成可。")
-  return
+  exit 0
 }
 $dest=Join-Path $snapRoot ($stamp + "_" + $hash)
 New-Item -ItemType Directory -Path $dest -Force | Out-Null
@@ -75,3 +75,4 @@ Write-Host ("  ① git bundle (全履歴) " + $bSize + " MB / 検証: " + $verif
 Write-Host ("  ② 主要成果ファイル平文コピー " + $nCopied + " 件")
 Write-Host ("  大本: GitHub origin/main(" + $hash + ") + Google Drive同期")
 if($nDel -gt 0){ Write-Host ("  世代管理: 古いスナップショット " + $nDel + " 件を削除(直近" + $keep + "件保持)") }
+exit 0
