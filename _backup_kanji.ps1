@@ -2,14 +2,23 @@
 #   ① git bundle --all = 全履歴+全コミット済ファイルを1ファイルに完全保存(どこでも git clone で復元可)
 #   ② 主要成果ファイルの平文コピー(git無しでも閲覧・利用可)
 # 退避先 = 親フォルダ(マイドライブ=Google Drive配下なのでクラウドにも同期される)の _漢字割り当て_スナップショット\<日時>_<commit>
+param([switch]$Force)   # -Force でHEAD未変化でも強制スナップショット(既定=未変化ならスキップ)
 $ErrorActionPreference='Stop'
 $dir='d:\GoogleDrive202510\マイドライブ\20_エスペラント・語学\漢字化・語彙資料\エスペラント語根＿漢字割り当て＿20260621'
 $parent=Split-Path $dir -Parent
+$keep=14   # 直近この数だけ保持(古い分は自動削除)。Google Driveクラウド+GitHubにも同期されるため局所はローテーション
+$snapRoot=Join-Path $parent '_漢字割り当て_スナップショット'
 $stamp=(Get-Date -Format 'yyyyMMdd_HHmm')
 Push-Location $dir
 $hash=(& git rev-parse --short HEAD).Trim()
 $branch=(& git rev-parse --abbrev-ref HEAD).Trim()
-$dest=Join-Path $parent ("_漢字割り当て_スナップショット\" + $stamp + "_" + $hash)
+# 未変化スキップ: 現HEADのスナップショットが既にあれば作らない(定期実行で同一bundleを量産しない)
+if(-not $Force -and (Test-Path $snapRoot) -and (Get-ChildItem -LiteralPath $snapRoot -Directory -ErrorAction SilentlyContinue | Where-Object { $_.Name -like ('*_'+$hash) })){
+  Pop-Location
+  Write-Host ("スキップ: HEAD("+$hash+")のスナップショットは既に存在(変更なし)。-Force で強制作成可。")
+  return
+}
+$dest=Join-Path $snapRoot ($stamp + "_" + $hash)
 New-Item -ItemType Directory -Path $dest -Force | Out-Null
 
 # ① 完全バックアップ = git bundle(全履歴)
@@ -58,7 +67,11 @@ $lines=@(
 
 $bSize=[math]::Round((Get-Item -LiteralPath $bundle).Length/1MB,1)
 Pop-Location
+# 世代管理: 直近 $keep だけ残し古いスナップショットを自動削除(名前=日時_hash で時系列ソート可)
+$old=@(Get-ChildItem -LiteralPath $snapRoot -Directory -ErrorAction SilentlyContinue | Sort-Object Name -Descending | Select-Object -Skip $keep)
+$nDel=0; foreach($o in $old){ Remove-Item -LiteralPath $o.FullName -Recurse -Force -ErrorAction SilentlyContinue; $nDel++ }
 Write-Host ("スナップショット作成完了: " + $dest)
 Write-Host ("  ① git bundle (全履歴) " + $bSize + " MB / 検証: " + $verify)
 Write-Host ("  ② 主要成果ファイル平文コピー " + $nCopied + " 件")
 Write-Host ("  大本: GitHub origin/main(" + $hash + ") + Google Drive同期")
+if($nDel -gt 0){ Write-Host ("  世代管理: 古いスナップショット " + $nDel + " 件を削除(直近" + $keep + "件保持)") }
