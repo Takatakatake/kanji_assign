@@ -97,7 +97,7 @@ $existing=@(
  @('id','化','brom/id/o,brom/id/paper/o,cian/id/o,klor/id/o,klor/id/a,di/klor/id/o,tri/klor/id/o,metil/klor/id/o,vinil/klor/id/o,klor/id/emi/o,hipo/klor/id/emi/o,sen/klor/id/ig^/o,sulf/id/o,di/sulf/id/o,fluor/id/o,fosf/id/o,halogen/id/o,hidr/id/o,hidr/id/i,jod/id/o,karb/id/o,karbon/id/o,nitr/id/o,selen/id/o,ure/id/o','','化学-id(-ide=二元化合物X化物)→化。塩-at/-it=盐の兄弟(-ide=化合物 / -ate-ite=塩)。子孫-id(bov/id仔牛·kat/id仔猫·c^eval/id等の動物の子)はdisc不掲載で子維持。lanthanoid lantan/id(系列)·saccharide sakar/id(糖類)は二元化合物でないため除外') )
 # 新54(root,override,headwordForm,2nd義キーワード(amb判別用),note)
 $new=@(
- @('al','翼','al/o','翼','翼。前置詞al=向と別'),@('por','孔','por/o,por/a','孔','気孔。前置詞por=为と別'),@('sur','腿','sur/o','ふくらはぎ','ふくらはぎ。前置詞sur=上と別'),
+ @('al','翼','al/o,helic/al/o,c^irkau^/al/a,frog/al/o','翼','翼(alo=翼/羽根)。前置詞al=向と別。複合語内al/o=翼も翼へ(helic/al/o=プロペラ羽根・c^irkau^/al/a=翼に囲まれた・frog/al/o=フログ翼部。hsepはwhole-wordキーのため複合を明示列挙=2026-06-25 接尾辞悉皆監査WF)'),@('por','孔','por/o,por/a','孔','気孔。前置詞por=为と別'),@('sur','腿','sur/o','ふくらはぎ','ふくらはぎ。前置詞sur=上と別'),
  @('el','酒','el/o','エール','エール。前置詞el=出と別'),@('plum','笔','plum/o','ペン','ペン。plum=羽と同綴'),@('mat','将','mat/o,mat/i','詰','チェス詰み。mat=席と別行'),
  @('pat','困','pat/o','手詰','ステールメイト。pat=锅と別行'),@('vat','瓦','vat/o,vat/hor/o','ワット','ワット。vat=棉と別行'),@('kanon','典','kanon/o,kanon/a','典','正典/カノン。kanon=炮と別行'),
  @('karp','腕','karp/o','手首','手根。karp=鲤と別行'),@('sakr','荐','sakr/o,sakr/a','仙骨','仙骨。sakr=骂と別'),@('deviz','汇','deviz/o','外貨','外貨。deviz=铭と同綴'),
@@ -134,6 +134,7 @@ $combN=0; foreach($e in $comb){ [void]$rows.Add(($e[0]+"`t"+$e[1]+"`tcomb`t`t"+$
 # -oz: -ozo名詞→症(病-osis/過程変態/食作用/膜/iodoso/jetlag/条件形容詞=状態・症状全般に集約) / 糖類-ose→糖 / 標準語oz/o(単糖)→糖 / genuine -oza形容詞(rich/多い herb/bitum)→富。
 # -on: 物理粒子-on→子(電子/陽子/中性子/光子/中間子/磁子/核子)。分数-on/o(分)・対格-on・継息子du/on/fil・帽子c^ap/on等は語幹非該当で維持。
 $ozRich=@('herb/oz/a','bitum/oz/a')   # genuine -oza形容詞(草の多い/瀝青質の)→富。他の-oza(変態の/結核性等の条件形容詞)は症へ集約
+$ozChem=@('jod/oz/o')   # 化学結合形-oz(iodoso=grupo IO 価数接尾辞・nitrozo同系列)→どのoz discにも入れず=_inject_finalの$segLatでlatin化(病-osis症でない。2026-06-25 接尾辞悉皆監査WF)
 $onStem=@('elektr','prot','neu^tr','fot','mez','magnet','nukle','fon')   # fon追加: phonon=fon/on→子(2026-06-23ユーザー裁定。phono声+on子)
 $ozD=New-Object System.Collections.ArrayList;$ozS=New-Object System.Collections.ArrayList;$onP=New-Object System.Collections.ArrayList
 $ozK=@{};$onK=@{}
@@ -144,7 +145,8 @@ foreach($ln in $ozLines){ $ci=$ln.IndexOf(':'); if($ci -lt 1){continue}; $hh=$ln
       $sugar=($gg -match '糖') -or ($gg -match '(?i)(sakar|sukero|monosakar|polisakar|glucid|pentoz|heksoz|glikoz|glukoz|aldehid)') -or ($w -match 'celul/oz') -or ($w -eq 'gren/malt/oz/aj^/o')   # celul/oz* (celul/oz/o・celul/oz/a・hemi/celul/oz/o)=多糖→糖。celuloseは常に多糖類(2026-06-23 sep派生形網羅)
       if($sugar){ $ozK[$w]=$true; [void]$ozS.Add($w) }
       elseif($ozRich -contains $w){ $ozK[$w]=$true }   # genuine -oza形容詞(草の多い/瀝青質の)→富(disp基底維持)
-      else{ $ozK[$w]=$true; [void]$ozD.Add($w) }   # 他-oz全て→症(病/過程変態/食作用/膜/iodoso/jetlag/条件形容詞=状態全般に集約)
+      elseif($ozChem -contains $w){ $ozK[$w]=$true }   # 化学結合形-oz(iodoso価数接尾辞)→どのoz discにも入れず=segLatでlatin
+      else{ $ozK[$w]=$true; [void]$ozD.Add($w) }   # 他-oz全て→症(病/過程変態/食作用/膜/jetlag/条件形容詞=状態全般に集約)
     }
     $in=[array]::IndexOf($sg,'on')
     if($in -ge 1 -and -not $onK.ContainsKey($w) -and ($onStem -contains $sg[$in-1])){ $onK[$w]=$true; [void]$onP.Add($w) }

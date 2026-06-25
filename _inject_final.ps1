@@ -27,7 +27,7 @@ $enDisp = if($disp.ContainsKey('en')){$disp['en']}else{'内'}
 $endingRe = '^(o|a|e|i|u|oj|aj|ojn|ajn|as|is|os|us|u|j|n)$'   # on/an/en は除外し、-on=分/-an=员/en=内 を位置で裁定
 $sufSet = @('ad','aj^','an','ar','ec','eg','ej','em','end','er','estr','et','id','ig','ig^','il','in','ind','ing','ism','ist','obl','on','op','uj','ul','um')  # privativeガード: 直後が派生接尾辞のみなら privative 不発火(an/ar/o=员群 等)
 $dropLinkO = $false   # 連結母o省略: 【無効】=連結oも保持し1:1構造を残す(美/性/o/酪/o)。省略は後処理に委ねる(ユーザー2026-06-20確定)。$true で再有効化可
-$chemInWord = @{ 'kaze/in/o'=$true; 'te/foli/in/o'=$true; 'aglutin/in/o'=$true; 'dent/in/o'=$true; 'encefal/in/o'=$true; 'stimul/in/o'=$true }   # 化学-ine過剰分解語: -in分節のみラテン保持(女性接尾-in→女 の誤友回避)し、他分節は活かす(偽分解尊重・2026-06-22)。kaze/in→凝/in(カゼイン=凝固蛋白)・te/foli/in→茶/叶/in(テオフィリン=茶葉成分)。insulin=胰岛素等の不可分根は元から1形態素。2026-06-25 WSL同期で露出した生化学-ine 4語追加: aglutin/in(凝集素=抗体)・dent/in(象牙質)・encefal/in(エンケファリン=神経ペプチド・encefal/it炎は不変)・stimul/in(刺激ホルモン)
+$chemInWord = @{ 'kaze/in/o'=$true; 'te/foli/in/o'=$true; 'aglutin/in/o'=$true; 'dent/in/o'=$true; 'encefal/in/o'=$true; 'stimul/in/o'=$true; 'tiroid/stimul/in/o'=$true }   # 化学-ine過剰分解語: -in分節のみラテン保持(女性接尾-in→女 の誤友回避)し、他分節は活かす(偽分解尊重・2026-06-22)。kaze/in→凝/in(カゼイン=凝固蛋白)・te/foli/in→茶/叶/in(テオフィリン=茶葉成分)。insulin=胰岛素等の不可分根は元から1形態素。2026-06-25 WSL同期で露出した生化学-ine 4語追加: aglutin/in(凝集素=抗体)・dent/in(象牙質)・encefal/in(エンケファリン=神経ペプチド・encefal/it炎は不変)・stimul/in(刺激ホルモン)
 # 元々: $forceUnt=@() (krom/o→金・titan/o→金・bor/o→矿 は homonym。krom/at→金ᴷᴹ/盐ᴬ は化学塩へ)
 # segment単位ラテン: 語中の固有名morphemeのみ未対応(latin)保持。語全体ではなくその分節だけ漢字化しない。Japana落松·T-胞·E-屋(語/ハイフン単位)の分節版。非mapped=被覆を水増ししない。§7
 $segLat = @{ 'gram/negativ/a'=@('gram'); 'gram/pozitiv/a'=@('gram')   # 人名Gram(グラム染色)=固有名→gram分節のみラテン(否/正は維持)。重量gram(克)·記録gram(图)とは別。2026-06-21
@@ -43,6 +43,12 @@ $segLat = @{ 'gram/negativ/a'=@('gram'); 'gram/pozitiv/a'=@('gram')   # 人名Gr
   'homo/log/a'=@('log');'homo/log/ec/o'=@('log');'ko/homo/log/a'=@('log')   # logos=対応/相同→ラテン。-ology=学家 と別(homologous)
   'ton/al/o'=@('al');'ton/al/a'=@('al');'ton/al/ec/o'=@('al');'du/ton/al/ec/o'=@('al');'mult/ton/al/ec/o'=@('al');'ne/ton/al/a'=@('al');'sen/ton/al/a'=@('al');'a/ton/al/a'=@('al')   # 形容詞-al(tonal調性)→ラテン。前置詞al=向 と別(WSL分解 ton/al 2026-06-23)
   'aktini/id/oj'=@('aktini')   # actinides(放射性金属元素系列)→aktiniラテン。Actinia海葵(aktini/o=【動】第1義・aktini/ul目も海葵)の元素文脈での誤友回避(2026-06-25 WSL同期)
+  # 2026-06-25 接尾辞悉皆監査(WF w3piqpnyc)で露出した非受動/非病/非前置詞のtransparent結合形:
+  'fer/it/o'=@('it')   # ferrite(純鉄のα/γ/δ相=冶金相)→-itラテン。鉱物magnet/it磁鉄鉱と同型。受動分詞-it=受 でない(fer=鉄に他動詞なし)。fer/at=铁/盐ᴬ(ferrate塩)は別処理で正
+  'jod/oz/o'=@('oz')   # iodoso基(grupo IO=ヨードソ価数接尾辞・nitrozo同系列)→-ozラテン。病-osis(症)でない。_build_homonymの$ozChemでoz-症 disc から除外し本segLatでlatin化
+  '2-buten/al/o'=@('al')   # クロトンアルデヒド(CH3-CH=CH-CHO)→-alラテン。アルデヒド結合形(cinam/al・klor/al兄弟と同型)。前置詞al=向 でない。##過細分解由来(学術版は単一根)
+  'piridoks/al/fosf/at/o'=@('al')   # ピリドキサールリン酸(アルデヒド誘導体補酵素)→-alラテン。fosf/at=磷/盐ᴬ は正。##過細分解由来
+  'miko/plasm/al/oj'=@('al')   # Mycoplasmatales(マイコプラズマ目)→分類学-al(目)はラテン。前置詞al=向 でない。##エス的分解由来
 }
 
 foreach($pair in $pairs){
