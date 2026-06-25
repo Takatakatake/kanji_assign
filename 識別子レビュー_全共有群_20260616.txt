@@ -2433,6 +2433,13 @@
   skol           派ˢᴸ        F=4     pejvo   
   konfesi        派ᴷ         F=2     pejvo   
 
+【排】 5件
+  ekskluziv      排          F=11    basic   
+  kompost        排ᴷ         F=13    pejvo   
+  dren           排ᴰ         F=8     pejvo   
+  eksklud        排ᴱᴰ        F=4     pejvo   
+  kotlet         排ᴷᵀ        F=4     pejvo   
+
 【封】 5件
   kovert         封          F=2     basic   
   feu^d          封ᶠ         F=15    pejvo   
@@ -2530,6 +2537,13 @@
   tunik          袍ᵀ         F=4     pejvo   
   frok           袍ᶠ         F=3     piv     修道服・僧衣
   kut            袍ᴷ         F=2     piv     【史】鎧の上着・サーコート
+
+【严】 5件
+  sever          严          F=7     basic   
+  serioz         严ˢᴿ        F=10    basic   
+  rigor          严ᴿ         F=8     pejvo   
+  strikt         严ˢᵀ        F=7     pejvo   
+  drakon         严ᴰ         F=4     pejvo   
 
 【伪】 5件
   fals           伪          F=22    basic   
@@ -3100,12 +3114,6 @@
   emulsi         乳ᴱ         F=8     pejvo   
   cic            乳ᶜ         F=3     pejvo   
 
-【排】 4件
-  ekskluziv      排          F=11    basic   
-  kompost        排ᴷ         F=13    pejvo   
-  dren           排ᴰ         F=8     pejvo   
-  kotlet         排ᴷᵀ        F=4     pejvo   
-
 【杯】 4件
   glas           杯          F=15    basic   
   tas            杯ᵀ         F=7     basic   
@@ -3351,12 +3359,6 @@
   faden          丝ᶠ         F=39    basic   
   filament       丝ᶠᴸ        F=3     pejvo   
   filigran       丝ᶠᴳ        F=2     pejvo   
-
-【严】 4件
-  sever          严          F=7     basic   
-  serioz         严ˢᴿ        F=10    basic   
-  rigor          严ᴿ         F=8     pejvo   
-  drakon         严ᴰ         F=4     pejvo   
 
 【亲】 4件
   kar            亲          F=16    basic   
@@ -5918,10 +5920,6 @@
   impost         税          F=44    basic   
   akciz          税ᴬ         F=5     pejvo   
 
-【斥】 2件
-  eksklud        斥          F=4     pejvo   
-  skold          斥ˢ         F=2     piv     叱責
-
 【雪松】 2件
   cedr           雪松         F=4     pejvo   
   himalaj        雪松ᴴ        F=2     pejvo   
@@ -7193,10 +7191,6 @@
 【笔】 2件
   penik          笔          F=9     basic   
   krajon         笔ᴷ         F=15    basic   
-
-【紧】 2件
-  streĉ          紧          F=36    basic   
-  strikt         紧ˢᴷ        F=7     pejvo   
 
 【红】 2件
   ruĝ            红          F=68    basic   
