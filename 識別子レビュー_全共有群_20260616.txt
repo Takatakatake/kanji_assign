@@ -2440,6 +2440,13 @@
   eksklud        排ᴱᴰ        F=4     pejvo   
   kotlet         排ᴷᵀ        F=4     pejvo   
 
+【悲】 5件
+  aflikt         悲          F=4     basic   
+  tragedi        悲ᵀ         F=4     basic   
+  tragik         悲ᵀᴷ        F=3     basic   
+  pesim          悲ᴾ         F=3     pejvo   
+  trist          悲ᵀˢ        F=3     pejvo   
+
 【封】 5件
   kovert         封          F=2     basic   
   feu^d          封ᶠ         F=15    pejvo   
@@ -3168,12 +3175,6 @@
   renegat        叛ᴿᴺ        F=3     pejvo   
   apostat        叛ᴬ         F=2     pejvo   
 
-【悲】 4件
-  aflikt         悲          F=4     basic   
-  tragedi        悲ᵀ         F=4     basic   
-  pesim          悲ᴾ         F=3     pejvo   
-  trist          悲ᵀˢ        F=3     pejvo   
-
 【微】 4件
   mikro          微          F=50    pref    
   nuanc          微ᴺ         F=3     basic   
@@ -3263,6 +3264,12 @@
   tiran          暴ᵀ         F=8     pejvo   
   violent        暴ⱽ         F=5     pejvo   
   brutal         暴ᴮ         F=4     piv     乱暴者
+
+【麻】 4件
+  kanab          麻          F=4     pejvo   
+  narkot         麻ᴺ         F=7     pejvo   
+  narkotik       麻ᴺᴷ        F=2     pejvo   
+  ricin          麻ᴿ         F=2     pejvo   
 
 【密】 4件
   dens           密          F=43    basic   
@@ -3581,6 +3588,12 @@
   cirkel         规ᶜ         F=7     basic   
   preskrib       规ᴾ         F=2     basic   
   reglament      规ᴿᴹ        F=2     pejvo   
+
+【视】 4件
+  televid        视          F=20    basic   
+  vide           视ⱽ         F=13    pejvo   
+  televizi       视ᵀᶻ        F=2     pejvo   
+  opt            视ᴼ         F=4     piv     【医】視力
 
 【觉】 4件
   konsci         觉          F=27    basic   
@@ -4512,11 +4525,6 @@
   revers         翻ᴿⱽ        F=3     pejvo   
   lop            翻ᴸ         F=2     pejvo   
 
-【麻】 3件
-  kanab          麻          F=4     pejvo   
-  narkot         麻ᴺ         F=7     pejvo   
-  ricin          麻ᴿ         F=2     pejvo   
-
 【命】 3件
   sort           命          F=10    basic   
   fatal          命ᶠ         F=7     basic   
@@ -5056,11 +5064,6 @@
   observ         观          F=17    basic   
   ideologi       观ᴵ         F=0     basic   
   spekt          观ˢ         F=14    pejvo   
-
-【视】 3件
-  televid        视          F=20    basic   
-  vide           视ⱽ         F=13    pejvo   
-  opt            视ᴼ         F=4     piv     【医】視力
 
 【认】 3件
   kon            认          F=44    basic   
@@ -6099,6 +6102,10 @@
 【提】 2件
   menci          提          F=5     basic   
   suflor         提ˢ         F=6     pejvo   
+
+【艇】 2件
+  jakt           艇          F=2     basic   
+  jah^t          艇ᴶᴴ̂       F=2     pejvo   
 
 【摘】 2件
   pluk           摘          F=5     pejvo   
@@ -7367,6 +7374,10 @@
 【诱】 2件
   tent           诱          F=6     basic   
   indukt         诱ᴵ         F=22    pejvo   
+
+【诲】 2件
+  katekiz        诲          F=2     pejvo   
+  kateh^iz       诲ᴷᴴ̂       F=5     pejvo   
 
 【课】 2件
   kurs           课          F=26    basic   
