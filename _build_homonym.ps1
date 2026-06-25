@@ -67,7 +67,7 @@ $existing=@(
  @('kard','心','endo/kard/it/o,endo/kard/o','','cardio-(心)→心。アザミkard/o(刺草)·梳毛kard/adは維持。kardi/o(-i付)は既に心ᴷᴰ。endo/kard/o=心内膜(WSL同期)'),
  @('pir','火','pir/heli/o/metr/o,pir/geo/metr/o,pir/o/elektr/a,pir/o/magnet/a,pir/o/teknik/aj^/o,pir/o/teknik/ist/o,pir/o/teknik/o,pir/o/liz/i,pir/o/liz/o,pir/o/metr/o,pir/o/fosf/at/o,pir/o/gajl/o,pir/o/gajlol/o,pir/o/sulf/at/o,pir/o/sulf/it/o,pir/o/fosfat/o','','pyro-(火·熱)→火。pir/o/fosfat=学術版粗分解(2026-06-23)。洋ナシpir/o(梨)·pir/arb/pir/uj/pir/vinは維持'),
  @('bar','压','izo/bar/o,mili/bar/o,bar/o/graf/o,bar/o/metr/o,bar/o/skop/o','','baro-(気圧)→压。障害bar/i/bar/il/o(障)は維持。bar/o単独=障/圧二義はamb的に障維持'),
- @('fot','光','fot/on/o,fot/o/sfer/o,fot/o/sintez/o,fot/o/c^el/o,fot/o/kemi/o,fot/o/metri/o,fot/o/metr/o,fot/o/metri/i','','photo-(光)→光(物理·化学·生物)。写真fot/o/fot/i/fot/o/graf等は拍維持'),
+ @('fot','光','fot/on/o,fot/o/sfer/o,fot/o/sintez/o,fot/o/c^el/o,fot/o/kemi/o,fot/o/kemi/a,fot/o/metri/o,fot/o/metr/o,fot/o/metri/i,fot/o/jon/ig/i,fot/o/kondukt/iv/a,fot/o/liz/i,fot/o/terapi/o,fot/o/volta/a,fot/on/mikro/skop/o','','photo-(光)→光(物理·化学·生物)。写真fot/o/fot/i/fot/o/graf等は拍維持。複合語内の光物理/光化学派生も光へ網羅(2026-06-25 接尾辞悉皆監査の派生メモから: fot/o/kemi/a光化学[スモッグ/酸化剤句もカバー]・fot/o/jon/ig光電離・fot/o/kondukt/iv光伝導・fot/o/liz光解・fot/o/terapi光線療法・fot/o/volta光起電・fot/on/mikro/skop光子顕微鏡。hsep whole-word盲点の補完=al/翼と同型)'),
  @('ot','耳','ot/o,ot/it/o,ot/algi/o,ot/o/logi/o,ot/o/skop/o,ot/o/skop/i/o,ot/o-rin/o-laring/o/log/o,ot/o/rin/o/laring/o/logi/o,ot/o/salping/o,ot/o/salping/it/o,ot/a','','oto-(耳)→耳。未来受動分詞-ot-(待。nask/ot/vend/ot/a等)は維持。ot/a(耳の)は旧$new重複を統合'),
  @('ur','尿','ur/gener/a,ur/o/gener/a','','uro-(尿)→尿。オーロックスur/o(原牛)は維持。uro/log/uro/grafiは既に尿ᵁᴼ'),
  @('riz','根','riz/o/morf/o,riz/o/pod/oj','','rhizo-(根)→根。米riz/o(米)·稲riz/kamp/riz/o/spik等は維持。rizom=根茎'),
