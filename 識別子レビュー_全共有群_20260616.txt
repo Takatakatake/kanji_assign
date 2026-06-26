@@ -6937,6 +6937,10 @@
   kameleon       变色龙        F=2     pejvo   
   h^ameleon      变色龙ᴴ̂      F=2     pejvo   
 
+【吞】 2件
+  glut           吞          F=11    basic   
+  fag^           吞ᶠ         F=2     piv     ファージの粒子
+
 【吨】 2件
   tun            吨          F=6     basic   
   tonel          吨ᵀᴸ        F=5     pejvo   

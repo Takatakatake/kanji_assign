@@ -89,6 +89,7 @@ foreach($pair in $pairs){
         elseif(($s -eq 'tio') -and $nseg -gt 1){ $tok='tio' }   # チオ(thio=硫黄)結合形(多分節)→ラテン保持。相関詞tio=那o(disp)は単独語(nseg=1)のみ。-ol同型の根治ルール。過細分解(izotio→izo/tio・tio/fosf/at→tio/fosfat等)でsegLat個別キーが外れる脆弱性を解消=上の$segLat tio群を包摂(2026-06-25)
         elseif(($s -eq 'in') -and $chemInWord.ContainsKey($w)){ $tok='in' }   # 化学-ine(kaze/in・te/foli/in)=ラテン保持。女性接尾-in→女 の誤友回避。他分節(凝/茶/叶)は活かす(偽分解尊重・2026-06-22)
         elseif(($s -eq 'al') -and $idx -gt 0 -and ($rest -match 'ldehid')){ $tok='al' }   # 化学アルデヒド-al(語釈Aldehido)=ラテン保持。前置詞al=向 の誤友回避。母体(氯/沼气/桂等)は活かす。醛は一级外につきラテン(2026-06-22)
+        elseif(($s -eq 'om') -and $idx -gt 0 -and ($rest -match 'Tumor|腫|瘤|Neoplasm')){ $tok='瘤'; $thisMapped=$true }   # 医学-oma(腫瘍)→瘤: gloss駆動(angi/om血管腫・fibr/om線維腫・ost/om骨腫)。オーム単位 om/o(kilo/om・mega/om)はTumor語釈なしでlatin維持=誤爆なし。veruk瘤(疣)とR1同字歓迎。-itis=炎ᵀ と並行の透明医学接尾辞(2026-06-27)
         elseif($hsep.ContainsKey($w) -and $hsep[$w].ContainsKey($s)){ $tok=$hsep[$w][$s]; $thisMapped=$true; $hsepN++ }
         elseif($segLat.ContainsKey($w) -and ($segLat[$w] -contains $s)){ $tok=$s }   # 固有名分節(Gram染色)=ラテン保持・非mapped(§7)。disp(克)に落ちる前に捕捉
 
