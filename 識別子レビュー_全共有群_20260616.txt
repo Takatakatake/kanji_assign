@@ -2146,6 +2146,13 @@
   c^irp          鸣ᶜ̂        F=2     pejvo   
   kvivit         鸣ᴷ         F=2     piv     チチッ(小鳥の鳴き声)
 
+【位】 5件
+  situ           位          F=2     basic   
+  pozici         位ᴾ         F=6     basic   
+  bit            位ᴮ         F=12    pejvo   
+  lokaliz        位ᴸ         F=3     pejvo   
+  apozici        位ᴬ         F=2     pejvo   
+
 【委】 5件
   deleg          委          F=8     basic   
   komitat        委ᴷᵀ        F=16    basic   
@@ -2775,12 +2782,6 @@
   mistifik       骗ᴹ         F=2     basic   
   c^arlatan      骗ᶜ̂        F=5     pejvo   
   truk           骗ᵀᴷ        F=4     pejvo   
-
-【位】 4件
-  situ           位          F=2     basic   
-  pozici         位ᴾ         F=6     basic   
-  bit            位ᴮ         F=12    pejvo   
-  apozici        位ᴬ         F=2     pejvo   
 
 【意】 4件
   ide            意          F=31    basic   
