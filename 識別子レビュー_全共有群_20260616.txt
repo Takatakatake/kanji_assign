@@ -3876,6 +3876,11 @@
   suspekt        疑ˢ         F=11    basic   
   skeptik        疑ˢᴷ        F=4     pejvo   
 
+【虐】 3件
+  turment        虐          F=13    basic   
+  tortur         虐ᵀᵀ        F=9     pejvo   
+  molest         虐ᴹ         F=2     pejvo   
+
 【逆】 3件
   retro          逆          F=43    pref    
   invers         逆ᴵ         F=14    basic   
@@ -4751,6 +4756,11 @@
   kitel          罩ᴷ         F=2     basic   
   klos^          罩ᴷᴸ        F=7     pejvo   
 
+【羚】 3件
+  c^am           羚          F=3     pejvo   
+  antilop        羚ᴬ         F=2     pejvo   
+  gazel          羚ᴳ         F=2     pejvo   
+
 【醉】 3件
   rav            醉          F=9     basic   
   ebri           醉ᴱ         F=11    basic   
@@ -5405,10 +5415,6 @@
   rar            稀          F=5     pejvo   
   dilu           稀ᴰ         F=5     pejvo   
 
-【虐】 2件
-  turment        虐          F=13    basic   
-  molest         虐ᴹ         F=2     pejvo   
-
 【共】 2件
   kun            共          F=249   prep    
   komun          共ᴷᴹ        F=53    basic   
@@ -5572,6 +5578,10 @@
 【香柑】 2件
   cedrat         香柑         F=2     pejvo   
   bergamot       香柑ᴮ        F=5     pejvo   
+
+【劫】 2件
+  kaper          劫          F=7     pejvo   
+  korsar         劫ᴷᴿ        F=2     pejvo   
 
 【克】 2件
   gram           克          F=54    basic   
@@ -6764,10 +6774,6 @@
 【罐】 2件
   amfor          罐          F=2     pejvo   
   bokal          罐ᴮ         F=2     pejvo   
-
-【羚】 2件
-  c^am           羚          F=3     pejvo   
-  antilop        羚ᴬ         F=2     pejvo   
 
 【翅】 2件
   pter           翅          F=18    sci     【動】翼・ひれ(ナガスクジラ属)
