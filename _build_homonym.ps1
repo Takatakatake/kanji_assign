@@ -105,7 +105,7 @@ $new=@(
  @('dur','币','dur/o','ドゥーロ','ドゥーロ銀貨。dur=硬と別'),@('tak','币','tak/o','タカ','タカ通貨。tak=倾と別'),@('bac','币','bac/o','硬貨','古独貨。bac=响と別'),
  @('ar','亩','ar/o','アール','アール面積。ar=群と別行'),@('luks','照','luks/o','ルクス','ルクス照度。luks=奢と別行'),@('stok','粘','stok/o','ストークス','ストークス粘度。stok=储と別行'),
  @('kuri','居','kuri/o','キュリー','キュリー。kuri=廷と別行'),@('fon','响','fon/o','ホン','ホン音量。fon=底と別'),
- @('trik','毛','trik/o,trik/oz/o,poli/trik/o,trik/o/pati/o,trik/o/plazi/o,trik/o/pter/oj','毛','毛(tricho-)。trik=织(編む)と別。tricho-毛の複合(trichosis毛症/Polytrichum多毛コケ/trichopathy毛病/trichoplasia毛増生/Trichoptera毛翅)も毛へ(2026-06-23 sep派生形網羅)'),   # ot/mi は $existing(耳/肌)へ統合し重複解消(2026-06-21)
+ @('trik','毛','trik/o,trik/oz/o,poli/trik/o,trik/o/pati/o,trik/o/plazi/o,trik/o/pter/oj,trik/o/micet/oz/o','毛','毛(tricho-)。trik=织(編む)と別。tricho-毛の複合(trichosis毛症/Polytrichum多毛コケ/trichopathy毛病/trichoplasia毛増生/Trichoptera毛翅/trichomycosis毛/菌/症)も毛へ(2026-06-23/27 sep派生形網羅)'),   # ot/mi は $existing(耳/肌)へ統合し重複解消(2026-06-21)
  @('spin','旋','spin/o','スピン','物理スピン。spin=脊と別行'),@('var','内','var/a','内反','内反varus。var=货と別'),@('orkid','丸','orkid/o','睾丸','睾丸。orkid=兰と別'),
  @('spat','苞','spat/o','仏炎','仏炎苞。spat=石と別行'),@('sol','溶','sol/o','ゾル','ゾル。sol=唯と別行'),@('siren','牛','siren/o','海牛','海牛類。siren=警笛と別行'),
  @('ergot','距','ergot/o','蹴爪','蹴爪。ergot=麦角と別'),@('sor','胞','sor/o','胞子','胞子嚢群。sor=腾と別'),@('panikl','脂','panikl/o','皮下','皮下脂肪。panikl=圆锥と別'),
