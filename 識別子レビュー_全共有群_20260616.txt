@@ -1374,6 +1374,18 @@
   bolus          团ᴮˢ        F=2     pejvo   
   konglomer      团ᴷ         F=3     piv     凝集させる
 
+【复】 10件
+  ripet          复          F=13    basic   
+  kopi           复ᴷ         F=31    basic   
+  kompleks       复ᴷˢ        F=12    basic   
+  komplik        复ᴷᴹ        F=9     basic   
+  restau^r       复ᴿˢ        F=5     pejvo   
+  iteraci        复ᴵ         F=3     pejvo   
+  faksimil       复ᶠ         F=2     pejvo   
+  recidiv        复ᴿᶜ        F=3     piv     【医】再発
+  anafor         复ᴬ         F=2     piv     【修辞】首句反復
+  reprograf      复ᴿᴿ        F=2     piv     複写する
+
 【射】 9件
   paf            射          F=46    basic   
   radi           射ᴿ         F=120   basic   
@@ -1406,17 +1418,6 @@
   gluk           糖ᴳᴸ        F=4     piv     【化】ブドウ糖
   glik           糖ᴳᴵ        F=3     piv     【化】グリコール
   glucid         糖ᴳᶜ        F=2     piv     【化】糖質
-
-【复】 9件
-  ripet          复          F=13    basic   
-  kopi           复ᴷ         F=31    basic   
-  kompleks       复ᴷˢ        F=12    basic   
-  komplik        复ᴷᴹ        F=9     basic   
-  restau^r       复ᴿˢ        F=5     pejvo   
-  faksimil       复ᶠ         F=2     pejvo   
-  recidiv        复ᴿᶜ        F=3     piv     【医】再発
-  anafor         复ᴬ         F=2     piv     【修辞】首句反復
-  reprograf      复ᴿᴿ        F=2     piv     複写する
 
 【带】 9件
   zon            带          F=43    basic   
