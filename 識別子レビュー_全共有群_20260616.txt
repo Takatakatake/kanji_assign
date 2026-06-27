@@ -1362,6 +1362,18 @@
   naj            蛇ᴺ         F=1     piv     
   natrik         蛇ᴺᵀ        F=1     piv     
 
+【团】 10件
+  grup           团          F=26    basic   
+  mas            团ᴹ         F=36    basic   
+  bul            团ᴮ         F=23    basic   
+  trup           团ᵀ         F=20    basic   
+  solidar        团ˢ         F=4     basic   
+  regiment       团ᴿ         F=3     basic   
+  aglomer        团ᴬᴸ        F=4     pejvo   
+  agreg          团ᴬ         F=2     pejvo   
+  bolus          团ᴮˢ        F=2     pejvo   
+  konglomer      团ᴷ         F=3     piv     凝集させる
+
 【射】 9件
   paf            射          F=46    basic   
   radi           射ᴿ         F=120   basic   
@@ -1394,17 +1406,6 @@
   gluk           糖ᴳᴸ        F=4     piv     【化】ブドウ糖
   glik           糖ᴳᴵ        F=3     piv     【化】グリコール
   glucid         糖ᴳᶜ        F=2     piv     【化】糖質
-
-【团】 9件
-  grup           团          F=26    basic   
-  mas            团ᴹ         F=36    basic   
-  bul            团ᴮ         F=23    basic   
-  trup           团ᵀ         F=20    basic   
-  solidar        团ˢ         F=4     basic   
-  regiment       团ᴿ         F=3     basic   
-  aglomer        团ᴬ         F=4     pejvo   
-  bolus          团ᴮˢ        F=2     pejvo   
-  konglomer      团ᴷ         F=3     piv     凝集させる
 
 【复】 9件
   ripet          复          F=13    basic   
@@ -1961,6 +1962,14 @@
   kalm           静ᴷᴸ        F=3     piv     無風
   kvi            静ᴷⱽ        F=2     piv     静穏な
 
+【切】 6件
+  tranĉ          切          F=52    basic   
+  tomi           切ᵀᴹ        F=22    suf     
+  sekc           切ˢ         F=20    sci     
+  amput          切ᴬ         F=4     pejvo   
+  tangent        切ᵀᴺ        F=3     pejvo   
+  inciz          切ᴵ         F=4     piv     切開
+
 【操】 6件
   operaci        操          F=19    basic   
   gimnastik      操ᴳ         F=8     basic   
@@ -2113,6 +2122,14 @@
   modul          调ᴹᴰ        F=11    pejvo   
   tonal          调ᵀᴸ        F=9     pejvo   
 
+【队】 6件
+  team           队          F=10    basic   
+  karavan        队ᴷ         F=6     basic   
+  skip           队ˢ         F=4     pejvo   
+  rot            队ᴿ         F=3     pejvo   
+  band           队ᴮ         F=2     pejvo   
+  skadr          队ˢᴰ        F=2     pejvo   
+
 【风】 6件
   vent           风          F=81    basic   
   stil           风ˢ         F=27    basic   
@@ -2120,6 +2137,14 @@
   esk            风ᴱ         F=11    pejvo   
   ventol         风ⱽᴸ        F=6     pejvo   
   anem           风ᴬ         F=3     pejvo   
+
+【鸣】 6件
+  tint           鸣          F=12    basic   
+  blek           鸣ᴮ         F=8     basic   
+  pep            鸣ᴾ         F=4     pejvo   
+  hup            鸣ᴴ         F=3     pejvo   
+  c^irp          鸣ᶜ̂        F=2     pejvo   
+  kvivit         鸣ᴷ         F=2     piv     チチッ(小鳥の鳴き声)
 
 【委】 5件
   deleg          委          F=8     basic   
@@ -2310,13 +2335,6 @@
   planed         星ᴾ         F=8     basic   
   sider          星ˢᴰ        F=4     pejvo   
 
-【切】 5件
-  tranĉ          切          F=52    basic   
-  tomi           切ᵀᴹ        F=22    suf     
-  sekc           切ˢ         F=20    sci     
-  tangent        切ᵀᴺ        F=3     pejvo   
-  inciz          切ᴵ         F=4     piv     切開
-
 【折】 5件
   fald           折          F=36    basic   
   rabat          折ᴿ         F=10    basic   
@@ -2359,6 +2377,13 @@
   hipn           苔ᴴ         F=1     piv     
   sfagn          苔ˢ         F=1     piv     
 
+【退】 5件
+  emerit         退          F=7     basic   
+  degener        退ᴰ         F=7     pejvo   
+  dekadenc       退ᴰᴷ        F=4     pejvo   
+  regres         退ᴿ         F=4     pejvo   
+  retret         退ᴿᵀ        F=2     pejvo   
+
 【台】 5件
   podi           台          F=7     basic   
   teras          台ᵀ         F=3     basic   
@@ -2400,6 +2425,13 @@
   ident          同ᴵ         F=10    basic   
   asimil         同ᴬ         F=6     basic   
   unison         同ᵁ         F=2     pejvo   
+
+【洞】 5件
+  kav            洞          F=35    basic   
+  kavern         洞ᴷᴿ        F=11    basic   
+  grot           洞ᴳ         F=1     basic   
+  sinus          洞ˢ         F=9     pejvo   
+  spele          洞ˢᴾ        F=3     pejvo   
 
 【特】 5件
   special        特          F=11    basic   
@@ -2730,13 +2762,6 @@
   retort         锅ᴿ         F=3     pejvo   
   marmit         锅ᴹ         F=2     pejvo   
 
-【队】 5件
-  team           队          F=10    basic   
-  karavan        队ᴷ         F=6     basic   
-  rot            队ᴿ         F=3     pejvo   
-  band           队ᴮ         F=2     pejvo   
-  skadr          队ˢ         F=2     pejvo   
-
 【题】 5件
   tem            题          F=11    basic   
   problem        题ᴾ         F=20    basic   
@@ -2750,13 +2775,6 @@
   mistifik       骗ᴹ         F=2     basic   
   c^arlatan      骗ᶜ̂        F=5     pejvo   
   truk           骗ᵀᴷ        F=4     pejvo   
-
-【鸣】 5件
-  tint           鸣          F=12    basic   
-  blek           鸣ᴮ         F=8     basic   
-  hup            鸣ᴴ         F=3     pejvo   
-  c^irp          鸣ᶜ̂        F=2     pejvo   
-  kvivit         鸣ᴷ         F=2     piv     チチッ(小鳥の鳴き声)
 
 【位】 4件
   situ           位          F=2     basic   
@@ -3076,12 +3094,6 @@
   substitu       替ˢ         F=5     pejvo   
   dubl           替ᴰ         F=4     pejvo   
 
-【退】 4件
-  emerit         退          F=7     basic   
-  degener        退ᴰ         F=7     pejvo   
-  regres         退ᴿ         F=4     pejvo   
-  retret         退ᴿᵀ        F=2     pejvo   
-
 【段】 4件
   etap           段          F=2     basic   
   epizod         段ᴱᴾ        F=3     basic   
@@ -3111,12 +3123,6 @@
   proces         程ᴾᶜ        F=8     basic   
   procedur       程ᴾᴰ        F=7     pejvo   
   procez         程ᴾᶻ        F=6     pejvo   
-
-【洞】 4件
-  kav            洞          F=35    basic   
-  kavern         洞ᴷᴿ        F=11    basic   
-  grot           洞ᴳ         F=1     basic   
-  sinus          洞ˢ         F=9     pejvo   
 
 【日】 4件
   tag            日          F=80    basic   
@@ -3351,6 +3357,12 @@
   tarif          价ᵀ         F=14    basic   
   kurz           价ᴷ         F=17    pejvo   
   valent         价ⱽ         F=10    pejvo   
+
+【媚】 4件
+  flat           媚          F=14    basic   
+  koket          媚ᴷ         F=6     basic   
+  lake           媚ᴸ         F=5     pejvo   
+  kaj^ol         媚ᴷᴶ̂       F=4     pejvo   
 
 【拜】 4件
   ador           拜          F=11    basic   
@@ -4655,11 +4667,6 @@
   kokr           奸          F=3     pejvo   
   adult          奸ᴬ         F=8     pejvo   
   stukac^        奸ˢ         F=2     piv     密告者
-
-【媚】 3件
-  flat           媚          F=14    basic   
-  koket          媚ᴷ         F=6     basic   
-  lake           媚ᴸ         F=5     pejvo   
 
 【嵌】 3件
   marketr        嵌          F=3     pejvo   

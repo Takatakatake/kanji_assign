@@ -3884,7 +3884,7 @@ pejvo	revelaci	启
 pejvo	tenajl	钳
 pejvo	skol	派
 pejvo	gang	脉石
-pejvo	pep	叽
+pejvo	pep	鸣
 pejvo	insulin	胰岛素
 pejvo	defil	分列
 pejvo	incident	附
@@ -3893,7 +3893,7 @@ pejvo	apendic	虫垂
 pejvo	stupor	昏
 pejvo	eskort	护
 pejvo	agac	烦
-pejvo	skip	班
+pejvo	skip	队
 pejvo	eksklud	排
 pejvo	kazern	营
 pejvo	sindrom	症
@@ -4040,8 +4040,8 @@ pejvo	puli	滑轮
 pejvo	kadenc	律
 pejvo	ekzorc	驱魔
 pejvo	bute	鹰
-pejvo	kaj^ol	奉
-pejvo	dekadenc	颓
+pejvo	kaj^ol	媚
+pejvo	dekadenc	退
 pejvo	elu	淋
 pejvo	ekin	海胆
 pejvo	bajonet	刺刀
@@ -4163,7 +4163,7 @@ content	gnostik	知
 content	relikv	遗物
 content	arkiv	档
 content	varik	瘤
-content	amput	截
+content	amput	切
 content	g^emin	双
 content	cintr	拱架
 content	urn	缸
@@ -4189,7 +4189,7 @@ content	dut	二度
 content	gingiv	牙肉
 content	artez	自流
 content	oniks	玛瑙
-content	spele	窟
+content	spele	洞
 content	kalend	初一
 content	vampir	吸血鬼
 content	fini	限
@@ -5046,7 +5046,7 @@ content	uncial	书体
 content	pupitr	案
 content	mileni	千年
 content	duplikat	副本
-content	agreg	聚
+content	agreg	团
 content	gondol	舟
 content	prospektor	探矿
 content	ikt	拍
