@@ -3029,6 +3029,12 @@
   negoc          商ᴺ         F=7     pejvo   
   kvocient       商ᴷⱽ        F=5     pejvo   
 
+【障】 4件
+  bar            障          F=32    basic   
+  handikap       障ᴴ         F=7     pejvo   
+  obstakl        障ᴼ         F=3     pejvo   
+  obstrukc       障ᴼᴿ        F=3     pejvo   
+
 【植】 4件
   plant          植          F=75    basic   
   botanik        植ᴮ         F=9     basic   
@@ -5837,10 +5843,6 @@
 【笑】 2件
   rid            笑          F=31    basic   
   komik          笑ᴷ         F=7     basic   
-
-【障】 2件
-  bar            障          F=32    basic   
-  handikap       障ᴴ         F=7     pejvo   
 
 【上】 2件
   sur            上          F=129   prep    
