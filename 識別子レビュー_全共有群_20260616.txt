@@ -2214,6 +2214,13 @@
   instrument     器ᴵ         F=17    basic   
   vaz            器ⱽ         F=17    basic   
 
+【期】 5件
+  dat            期          F=49    basic   
+  period         期ᴾ         F=27    basic   
+  dum            期ᴰᴹ        F=13    prep    
+  semestr        期ˢ         F=4     pejvo   
+  trimestr       期ᵀ         F=2     pejvo   
+
 【吸】 5件
   suĉ            吸          F=36    basic   
   sorb           吸ˢᴿ        F=30    basic   
@@ -2847,12 +2854,6 @@
   ŝanc           机ˢ̂        F=8     basic   
   meĥanism       机ᴹᴴ̂       F=0     basic   
   meh^an         机ᴹᴱ        F=6     pejvo   
-
-【期】 4件
-  dat            期          F=49    basic   
-  period         期ᴾ         F=27    basic   
-  dum            期ᴰᴹ        F=13    prep    
-  semestr        期ˢ         F=4     pejvo   
 
 【技】 4件
   teknik         技          F=26    basic   
@@ -5420,10 +5421,6 @@
 【寄】 2件
   visk           寄          F=3     pejvo   
   konsign        寄ᴷ         F=2     piv     委託販売に送る
-
-【季】 2件
-  sezon          季          F=23    basic   
-  trimestr       季ᵀ         F=2     pejvo   
 
 【稀】 2件
   rar            稀          F=5     pejvo   

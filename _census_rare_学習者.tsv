@@ -217,6 +217,7 @@ count	kanji	roots
 1	汽油	benzin
 1	祈	preg^
 1	祈堂	kapel
+1	季	sezon
 1	起	start
 1	妓院	bordel
 1	宜	dec
@@ -334,7 +335,6 @@ count	kanji	roots
 1	拳击	boks
 1	研	stud
 1	研讨	seminari
-1	遣	tac^ment
 1	原核	prokariot
 1	原基	primordi
 1	原牛	ur
@@ -1479,7 +1479,6 @@ count	kanji	roots
 1	刮匙	kuret
 1	刹	brems
 1	剪影	siluet
-1	劈	kliv
 1	匆	hast
 1	匕	ponard
 1	卷须	c^ir
@@ -2193,7 +2192,6 @@ count	kanji	roots
 1	补贴	subvenci
 1	补马	remont
 1	袜	s^trump
-1	袭	razi
 1	见	vid
 1	讥	rikan
 1	议堂	kapitol
@@ -2500,7 +2498,6 @@ count	kanji	roots
 2	危	dang^er,kriz
 2	喜	g^oj,s^at
 2	寄	konsign,visk
-2	季	sezon,trimestr
 2	稀	dilu,rar
 2	峡	istm,ravin
 2	怯	poltron,timid
