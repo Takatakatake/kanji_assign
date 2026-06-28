@@ -191,7 +191,6 @@ count	kanji	roots
 1	感伤	sentimental
 1	憾	bedau^r
 1	敢	au^dac
-1	柑	citrus
 1	棺	c^erk
 1	甘	dolc^
 1	甘菊	kamomil
@@ -890,7 +889,6 @@ count	kanji	roots
 1	多尿	diurez
 1	多嘴	kibic
 1	太	tro
-1	唾	saliv
 1	堕	abort
 1	妥协	kompromis
 1	惰	inert
@@ -1109,7 +1107,6 @@ count	kanji	roots
 1	乳香	oliban
 1	乳石	stalaktit
 1	乳突	mastoid
-1	乳头瘤	papilom
 1	如	kvazau^
 1	尿酸盐	urat
 1	尿素	ure
@@ -1326,7 +1323,6 @@ count	kanji	roots
 1	摩	masag^
 1	磨蚀	abrazi
 1	魔芋	amorfofal
-1	麻黄碱	efedrin
 1	麻风	lepr
 1	膜	membran
 1	枕	s^pal
@@ -1431,7 +1427,6 @@ count	kanji	roots
 1	流感	grip
 1	流体	fluid
 1	留	las
-1	粒瘤	granulom
 1	隆	tuber
 1	隆鸟	epiornit
 1	量子	kvantum
@@ -1734,6 +1729,7 @@ count	kanji	roots
 1	侄	nev
 1	侦	skolt
 1	侧	flank
+1	侧柏	tuj
 1	侧头	tempi
 1	俏	dand
 1	倾析	dekant
@@ -2177,7 +2173,6 @@ count	kanji	roots
 1	药瓜	kolocint
 1	莲	lotus
 1	莺	silvi
-1	萝卜素	karoten
 1	萤	lampir
 1	蓝菊	cejan
 1	虑	konsider
@@ -2250,7 +2245,6 @@ count	kanji	roots
 1	贪食	vor
 1	贫	povr
 1	贫窟	slum
-1	贫血	anemi
 1	贯	koher
 1	贺	gratul
 1	贿	korupt
@@ -2373,7 +2367,6 @@ count	kanji	roots
 1	页	pag^
 1	项链	kolier
 1	顺	rezignaci
-1	顺势	homeopati
 1	须	end
 1	顾	retrospektiv
 1	预科	propedeu^tik
@@ -2497,6 +2490,7 @@ count	kanji	roots
 2	割	sekant,serp
 2	褐	bistr,brun
 2	瓦	tegol,vat
+2	柑	citr,citrus
 2	汗	h^an,s^vit
 2	丸	pilol,testik
 2	玩	lud,petol
@@ -2645,6 +2639,7 @@ count	kanji	roots
 2	属	aparten,genr
 2	尊	dign,estim
 2	他	altru,li
+2	唾	saliv,sial
 2	袋鼠	kanguru,makrop
 2	大豆	glicin,soj
 2	托	kolb,korbel

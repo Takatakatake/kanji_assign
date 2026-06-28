@@ -1764,6 +1764,15 @@
   reprezent      表ᴿ         F=0     basic   
   ekspresion     表ᴱᴷ        F=2     pejvo   表現(主義)
 
+【裂】 7件
+  ŝir            裂          F=24    basic   
+  fend           裂ᶠ         F=36    basic   
+  krev           裂ᴷ         F=7     basic   
+  brec^          裂ᴮ         F=6     pejvo   
+  dehisk         裂ᴰ         F=5     pejvo   
+  skism          裂ˢ         F=5     pejvo   
+  kliv           裂ᴷᴸ        F=3     pejvo   
+
 【脉】 7件
   vejn           脉          F=14    basic   
   arteri         脉ᴬ         F=6     basic   
@@ -1826,6 +1835,15 @@
   lens           镜ᴸᴺ        F=16    pejvo   
   lorn           镜ᴸᴿ        F=3     pejvo   
   reflektor      镜ᴿ         F=2     pejvo   
+
+【队】 7件
+  team           队          F=10    basic   
+  karavan        队ᴷ         F=6     basic   
+  skip           队ˢ         F=4     pejvo   
+  rot            队ᴿ         F=3     pejvo   
+  tac^ment       队ᵀᶜ̂       F=3     pejvo   
+  band           队ᴮ         F=2     pejvo   
+  skadr          队ˢᴰ        F=2     pejvo   
 
 【饼】 7件
   tort           饼          F=7     basic   
@@ -2020,14 +2038,6 @@
   nudel          面ᴺ         F=5     pejvo   
   spaget         面ˢᴾ        F=2     pejvo   
 
-【裂】 6件
-  ŝir            裂          F=24    basic   
-  fend           裂ᶠ         F=36    basic   
-  krev           裂ᴷ         F=7     basic   
-  brec^          裂ᴮ         F=6     pejvo   
-  dehisk         裂ᴰ         F=5     pejvo   
-  skism          裂ˢ         F=5     pejvo   
-
 【炉】 6件
   forn           炉          F=27    basic   
   kamen          炉ᴷ         F=10    basic   
@@ -2123,14 +2133,6 @@
   klimatiz       调ᴷ         F=0     basic   
   modul          调ᴹᴰ        F=11    pejvo   
   tonal          调ᵀᴸ        F=9     pejvo   
-
-【队】 6件
-  team           队          F=10    basic   
-  karavan        队ᴷ         F=6     basic   
-  skip           队ˢ         F=4     pejvo   
-  rot            队ᴿ         F=3     pejvo   
-  band           队ᴮ         F=2     pejvo   
-  skadr          队ˢᴰ        F=2     pejvo   
 
 【风】 6件
   vent           风          F=81    basic   
@@ -2923,6 +2925,12 @@
   faŭk           口ᶠ         F=5     basic   
   luk            口ᴸ         F=4     basic   
   stomat         口ˢ         F=6     piv     【医】口腔
+
+【攻】 4件
+  atak           攻          F=23    basic   
+  agres          攻ᴬᴳ        F=10    pejvo   
+  ofensiv        攻ᴼ         F=3     pejvo   
+  razi           攻ᴿ         F=2     piv     【史】略奪遠征・手入れ
 
 【甲】 4件
   kiras          甲          F=15    pejvo   
@@ -4006,11 +4014,6 @@
   amator         好          F=8     basic   
   hobi           好ᴴ         F=2     basic   
   diletant       好ᴰ         F=4     pejvo   
-
-【攻】 3件
-  atak           攻          F=23    basic   
-  agres          攻ᴬᴳ        F=10    pejvo   
-  ofensiv        攻ᴼ         F=3     pejvo   
 
 【耕】 3件
   kultur         耕          F=46    basic   
