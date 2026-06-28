@@ -1362,6 +1362,19 @@
   naj            蛇ᴺ         F=1     piv     
   natrik         蛇ᴺᵀ        F=1     piv     
 
+【复】 11件
+  ripet          复          F=13    basic   
+  kopi           复ᴷ         F=31    basic   
+  kompleks       复ᴷˢ        F=12    basic   
+  komplik        复ᴷᴹ        F=9     basic   
+  restau^r       复ᴿˢ        F=5     pejvo   
+  pau^s          复ᴾ         F=4     pejvo   
+  iteraci        复ᴵ         F=3     pejvo   
+  faksimil       复ᶠ         F=2     pejvo   
+  recidiv        复ᴿᶜ        F=3     piv     【医】再発
+  anafor         复ᴬ         F=2     piv     【修辞】首句反復
+  reprograf      复ᴿᴿ        F=2     piv     複写する
+
 【团】 10件
   grup           团          F=26    basic   
   mas            团ᴹ         F=36    basic   
@@ -1373,18 +1386,6 @@
   agreg          团ᴬ         F=2     pejvo   
   bolus          团ᴮˢ        F=2     pejvo   
   konglomer      团ᴷ         F=3     piv     凝集させる
-
-【复】 10件
-  ripet          复          F=13    basic   
-  kopi           复ᴷ         F=31    basic   
-  kompleks       复ᴷˢ        F=12    basic   
-  komplik        复ᴷᴹ        F=9     basic   
-  restau^r       复ᴿˢ        F=5     pejvo   
-  iteraci        复ᴵ         F=3     pejvo   
-  faksimil       复ᶠ         F=2     pejvo   
-  recidiv        复ᴿᶜ        F=3     piv     【医】再発
-  anafor         复ᴬ         F=2     piv     【修辞】首句反復
-  reprograf      复ᴿᴿ        F=2     piv     複写する
 
 【射】 9件
   paf            射          F=46    basic   
@@ -2139,6 +2140,14 @@
   ventol         风ⱽᴸ        F=6     pejvo   
   anem           风ᴬ         F=3     pejvo   
 
+【骗】 6件
+  tromp          骗          F=21    basic   
+  fripon         骗ᶠ         F=7     basic   
+  mistifik       骗ᴹ         F=2     basic   
+  c^arlatan      骗ᶜ̂        F=5     pejvo   
+  truk           骗ᵀᴷ        F=4     pejvo   
+  bluf           骗ᴮ         F=3     pejvo   
+
 【鸣】 6件
   tint           鸣          F=12    basic   
   blek           鸣ᴮ         F=8     basic   
@@ -2776,13 +2785,6 @@
   titol          题ᵀᵀ        F=11    basic   
   tez            题ᵀᶻ        F=6     basic   
   topik          题ᵀᴾ        F=2     piv     論題・主題
-
-【骗】 5件
-  tromp          骗          F=21    basic   
-  fripon         骗ᶠ         F=7     basic   
-  mistifik       骗ᴹ         F=2     basic   
-  c^arlatan      骗ᶜ̂        F=5     pejvo   
-  truk           骗ᵀᴷ        F=4     pejvo   
 
 【意】 4件
   ide            意          F=31    basic   

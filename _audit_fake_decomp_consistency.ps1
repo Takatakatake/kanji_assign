@@ -10,8 +10,10 @@ $dir='d:\GoogleDrive202510\マイドライブ\20_エスペラント・語学\漢
 $endings=@{}
 foreach($e in @('o','a','e','i','u','j','n','oj','aj','ej','on','an','en','ojn','ajn','as','is','os','us','int','ant','ont','it','at','ot')){ $endings[$e]=$true }
 
-# 既知の正当不整合(同綴別語/結合形/固有名)= 2026-06-27 全15件を語義照合で確定。新規はこれ以外。
-$known = @('aktini','al','are','gram','in','log','od','ol','om','or','oz','par','tio','tom','ul')
+# 既知の正当不整合(同綴別語/結合形/固有名)= 2026-06-27 全17件を語義照合で確定。新規はこれ以外。
+# bel: 音響単位ベル(人名Bell由来。deci/bel/o)→latin。bela美(beautiful)と同綴別語=gram染色型(2026-06-27追加)。
+# lip: 希lipos(脂肪)結合形(lip/om/o脂肪腫)→latin。lip/o唇(lip)と同綴別語(2026-06-27追加)。
+$known = @('aktini','al','are','bel','gram','in','lip','log','od','ol','om','or','oz','par','tio','tom','ul')
 $knownSet=@{}; foreach($k in $known){ $knownSet[$k]=$true }
 
 $lo=[char]0x4E00; $hi=[char]0x9FFF; $hasCJK=[regex]('['+$lo+'-'+$hi+']')
