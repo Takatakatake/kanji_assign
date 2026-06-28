@@ -63,7 +63,7 @@ if($nNum -gt 0){ $fail=1; Say "    !! 注入に数字id" }
 $fc = & "$dir\_audit_fake_decomp_consistency.ps1" *>&1 | Out-String
 $newInc = ([regex]::Match($fc,'★新規不整合\s*=\s*(\d+)')).Groups[1].Value
 if($newInc -eq ''){ $newInc='?' }
-Say ("[F] 偽分解整合性: ★新規不整合=" + $newInc + "件(0が正。既知17件=同綴別語/結合形/固有名で正当。新規が出たら語義照合で homonym か真の違反か判定)")
+Say ("[F] 偽分解整合性: ★新規不整合=" + $newInc + "件(0が正。既知18件=同綴別語/結合形/固有名で正当。新規が出たら語義照合で homonym か真の違反か判定)")
 if($newInc -ne '0' -and $newInc -ne '?'){ Say "    !! 新規の偽分解不整合候補あり → 変更語を語義照合で点検" }
 
 # --- 総括 ---
