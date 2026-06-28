@@ -219,6 +219,7 @@ count	kanji	roots
 1	汽油	benzin
 1	祈	preg^
 1	祈堂	kapel
+1	季	sezon
 1	起	start
 1	妓院	bordel
 1	宜	dec
@@ -338,7 +339,6 @@ count	kanji	roots
 1	拳击	boks
 1	研	stud
 1	研讨	seminari
-1	遣	tac^ment
 1	原核	prokariot
 1	原基	primordi
 1	原牛	ur
@@ -1014,7 +1014,6 @@ count	kanji	roots
 1	滴定	titr
 1	滴答	tiktak
 1	溺	dron
-1	迭	iteraci
 1	天蛾	sfing
 1	天竹	nandin
 1	天冬	aspart
@@ -1337,7 +1336,6 @@ count	kanji	roots
 1	摩	masag^
 1	磨蚀	abrazi
 1	魔芋	amorfofal
-1	麻黄碱	efedrin
 1	麻风	lepr
 1	膜	membran
 1	枕	s^pal
@@ -1498,7 +1496,6 @@ count	kanji	roots
 1	刮匙	kuret
 1	刹	brems
 1	剪影	siluet
-1	劈	kliv
 1	匆	hast
 1	匕	ponard
 1	卷须	c^ir
@@ -1753,6 +1750,7 @@ count	kanji	roots
 1	侄	nev
 1	侦	skolt
 1	侧	flank
+1	侧柏	tuj
 1	侧头	tempi
 1	俏	dand
 1	倾析	dekant
@@ -1827,7 +1825,6 @@ count	kanji	roots
 1	哑	mut
 1	哑剧	pantomim
 1	哑铃	halter
-1	唬	bluf
 1	啊	ha
 1	啰音	rasl
 1	喷泉	fontan
@@ -1971,7 +1968,6 @@ count	kanji	roots
 1	摄氏	celsius
 1	摄政	regent
 1	摇琴	gurd
-1	摹	pau^s
 1	撑	steg
 1	斋	fast
 1	时	temp
@@ -2231,7 +2227,6 @@ count	kanji	roots
 1	补贴	subvenci
 1	补马	remont
 1	袜	s^trump
-1	袭	razi
 1	见	vid
 1	讥	rikan
 1	议堂	kapitol
@@ -2541,7 +2536,6 @@ count	kanji	roots
 2	危	dang^er,kriz
 2	喜	g^oj,s^at
 2	寄	konsign,visk
-2	季	sezon,trimestr
 2	稀	dilu,rar
 2	共	komun,kun
 2	境	eko,medi

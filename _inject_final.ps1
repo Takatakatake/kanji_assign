@@ -80,6 +80,7 @@ foreach($pair in $pairs){
       for($idx=0;$idx -lt $nseg;$idx++){
         $s=$segs[$idx]
         if($medStem.ContainsKey($s)){ $medSeen=$true }   # 医学-itis: 体部位語幹を前方で検出(後続の it を炎へ)
+        $fagEat=$false; if($s -eq 'fag'){ for($jf=$idx+1;$jf -lt $nseg;$jf++){ if($segs[$jf] -eq 'o'){continue}; if($segs[$jf] -eq 'cit'){$fagEat=$true}; break }; if(-not $fagEat){ for($jf=$idx-1;$jf -ge 0;$jf--){ if($segs[$jf] -eq 'o'){continue}; if('makro','bakteri','antrop' -contains $segs[$jf]){$fagEat=$true}; break } } }   # -fag-(-phage 喰): 後続の非o分節=cit(fagocit食細胞) または 前方の非o分節=makro/bakteri/antrop(大食/細菌/人食)→食。ブナFagus(山毛榉=disp 树)と弁別: 単独fag/o·fag/ar·fag/ac·fag/o/frukt·sang/o/fag(銅葉ブナ栽培種)·ŝajn/fag(Notofago南方ブナ)は前後該当なし→树維持。希φάγος vs Fagus の同綴別語(2026-06-28)
         if($dropLinkO -and $s -eq 'o' -and $idx -gt 0 -and ($idx+1 -lt $nseg) -and $prevMapped -and $disp.ContainsKey($segs[$idx+1])){ $mergeNext=$true; continue }   # 連結母o省略(現在 $dropLinkO=$false で無効=連結oを保持)
         $tok=$null; $thisMapped=$false
         if($s.Contains('-')){ $sub=$s -split '-'; $rp=@(); $anySub=$false; foreach($sp in $sub){ if($sp -eq ''){continue}; if($hsep.ContainsKey($w) -and $hsep[$w].ContainsKey($sp)){ $rp+=$hsep[$w][$sp]; $anySub=$true } elseif($disp.ContainsKey($sp)){ $rp+=$disp[$sp]; $anySub=$true } elseif($sp -match $endingRe){ $rp+=$sp } else { $rp+=$sp } }; $tok=($rp -join '-'); $thisMapped=$anySub }   # ハイフン複合は形態素分解(ĉi-jar→此-年・alfa-partikl→alfa-粒等。ĉi=此, jar=年)。下位分節もhomonym sep適用(- は / と同じ形態素境界。-gram/接尾辞定義→图等。既存はot/o-rin..のみで無影響)
@@ -96,6 +97,7 @@ foreach($pair in $pairs){
         elseif(($s -eq 'tuj') -and ($rest -match '【植】')){ $tok='侧柏'; $thisMapped=$true }   # 侧柏tuj(Thuja属クロベ・黒檜)→侧柏: 植物tuj/o(【植】)。超高頻度副詞tuj=即(すぐ・直ちに)は【植】無で即維持。化学tuj/an/ol/on(モノテルペン=【化】)は別途(即のまま・-an/-on suffix衝突も併存=報告済の残課題)。Thuja vs すぐ の同綴別語(2026-06-28)
         elseif(($s -eq 'uri') -and ($idx -gt 0)){ $tok='尿'; $thisMapped=$true }   # -uria(尿症・希-ouria)→尿: 非初頭uri=尿(albumin/uri白蛋白/尿·an/uri无/尿=無尿·gluk/uri糖/尿·azot/uri氮/尿)。鳥uri/o(Uria属ウミガラス=鸟ᵁᴿ)は単独idx0で鸟維持。希uria vs 鳥Uria の同綴別語。systematic(2026-06-28)
         elseif(($s -eq 'lip') -and ($idx -eq 0) -and ($nseg -ge 3) -and ($segs[1] -eq 'o' -or $segs[1] -eq 'om' -or $segs[1] -eq 'oid')){ $tok='脂'; $thisMapped=$true }   # 脂肪lip(希lipos結合形)→脂: lip/o/X(連結o+科学形態素=lipolysis脂/解·lipoprotein脂/蛋白)·lip/om(lipoma脂/瘤)·lip/oid(脂样)。脂肪系列gras脂/lipid脂ᴸᴾと統一(bare脂=veruk瘤型の直接注入)。唇lip(lip/o唇·lip/son唇音·lip/har口ひげ·lip/dent唇歯=連結o無しの直接native複合)はnseg<3 or segs[1]≠o/om/oidで唇維持。希lipos vs 唇lip の同綴別語(2026-06-28)
+        elseif(($s -eq 'fag') -and $fagEat){ $tok='吞'; $thisMapped=$true }   # -fag-=-phage(喰う/噬)→吞: 結合形faĝ(fag^=吞=ファージ・bakteriofaĝo)と同一ギリシャ語根φάγοςにつき統一。bakteriofago(fag)=bakteriofaĝo(fag^)は辞書上の同義語→共に菌/吞で整合。吞噬細胞=phagocyte の標準中国語と一致(fag/o/cit→吞/胞)。glut吞(嚥下)系列に合流(rare字を作らず既存hubへ=本ゴール方針)。makro/fag宏/吞(大食細胞)·antrop/o/fag人/吞(食人)。R1同字歓迎。ブナfagは下のdispで树
         elseif($hsep.ContainsKey($w) -and $hsep[$w].ContainsKey($s)){ $tok=$hsep[$w][$s]; $thisMapped=$true; $hsepN++ }
         elseif($segLat.ContainsKey($w) -and ($segLat[$w] -contains $s)){ $tok=$s }   # 固有名分節(Gram染色)=ラテン保持・非mapped(§7)。disp(克)に落ちる前に捕捉
 
