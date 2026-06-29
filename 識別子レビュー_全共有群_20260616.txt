@@ -3164,6 +3164,12 @@
   procedur       程ᴾᴰ        F=7     pejvo   
   procez         程ᴾᶻ        F=6     pejvo   
 
+【道】 4件
+  avenu          道          F=1     basic   
+  bulvard        道ᴮ         F=3     basic   
+  tao            道ᵀ         F=2     pejvo   
+  drom           道ᴰ         F=1     piv     
+
 【日】 4件
   tag            日          F=80    basic   
   helio          日ᴴ         F=10    pejvo   
@@ -4460,11 +4466,6 @@
   fabel          童ᶠ         F=10    basic   
   pedo           童ᴾ         F=3     pejvo   
 
-【道】 3件
-  avenu          道          F=1     basic   
-  bulvard        道ᴮ         F=3     basic   
-  tao            道ᵀ         F=2     pejvo   
-
 【督】 3件
   prefekt        督          F=7     pejvo   
   banus          督ᴮ         F=3     piv     【史】バン(太守)
@@ -5323,6 +5324,10 @@
 【寡】 2件
   vidv           寡          F=7     basic   
   oligo          寡ᴼ         F=5     piv     【生】微量・少数
+
+【河】 2件
+  river          河          F=25    basic   
+  potam          河ᴾ         F=1     piv     
 
 【火】 2件
   fajr           火          F=61    basic   
