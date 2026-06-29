@@ -5130,6 +5130,11 @@
   intervju       访ᴵ         F=6     basic   
   frekvent       访ᶠ         F=2     pejvo   
 
+【责】 3件
+  riproĉ         责          F=10    basic   
+  respons        责ᴿˢ        F=4     pejvo   
+  skold          责ˢ         F=2     piv     叱責
+
 【货】 3件
   var            货          F=18    basic   
   karg           货ᴷ         F=18    pejvo   
@@ -7430,10 +7435,6 @@
 【贡】 2件
   kontribu       贡          F=5     basic   
   tribut         贡ᵀ         F=3     pejvo   
-
-【责】 2件
-  riproĉ         责          F=10    basic   
-  respons        责ᴿˢ        F=4     pejvo   
 
 【败】 2件
   fiask          败          F=2     basic   
