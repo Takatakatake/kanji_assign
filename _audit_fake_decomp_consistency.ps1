@@ -14,7 +14,8 @@ foreach($e in @('o','a','e','i','u','j','n','oj','aj','ej','on','an','en','ojn',
 # bel: 音響単位ベル(人名Bell由来。deci/bel/o)→latin。bela美(beautiful)と同綴別語=gram染色型(2026-06-27追加)。
 # lip: 希lipos(脂肪)結合形(lip/om/o脂肪腫)→latin。lip/o唇(lip)と同綴別語(2026-06-27追加)。
 # melo: 希melos(音楽)結合形(melo/mani/o音楽狂)→latin。melo/o虫ᴹ(アナグマ甲虫属Meloe)と同綴別語(2026-06-28追加)。
-$known = @('aktini','al','are','bel','gram','in','lip','log','melo','od','ol','om','or','oz','par','tio','tom','ul')
+# oni: 化学-onium(陽イオン: fosf/oni磷·sulf/oni硫·hidr/oni水·oksi/oni氧)→latin。代名詞oni=人(impersonal)と同綴別語(2026-06-29追加)。
+$known = @('aktini','al','are','bel','gram','in','lip','log','melo','od','oni','ol','om','or','oz','par','tio','tom','ul')
 $knownSet=@{}; foreach($k in $known){ $knownSet[$k]=$true }
 
 $lo=[char]0x4E00; $hi=[char]0x9FFF; $hasCJK=[regex]('['+$lo+'-'+$hi+']')

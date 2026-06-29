@@ -2501,6 +2501,13 @@
   eksklud        排ᴱᴰ        F=4     pejvo   
   kotlet         排ᴷᵀ        F=4     pejvo   
 
+【伴】 5件
+  koleg          伴          F=7     basic   
+  kompani        伴ᴷᴹ        F=22    basic   
+  kamarad        伴ᴷᴿ        F=8     basic   
+  akompan        伴ᴬ         F=9     pejvo   
+  partner        伴ᴾ         F=2     pejvo   
+
 【悲】 5件
   aflikt         悲          F=4     basic   
   tragedi        悲ᵀ         F=4     basic   
@@ -2760,12 +2767,26 @@
   rekord         记ᴿ         F=9     basic   
   graf           记ᴳ         F=123   sci     
 
+【诉】 5件
+  plend          诉          F=9     basic   
+  akuz           诉ᴬ         F=10    basic   
+  grumbl         诉ᴳ         F=5     pejvo   
+  apel           诉ᴬᴾ        F=3     pejvo   【軍】点呼
+  reklamaci      诉ᴿ         F=2     pejvo   
+
 【谐】 5件
   humur          谐          F=7     basic   
   harmoni        谐ᴴᴿ        F=8     basic   
   harmon         谐ᴴᴬ        F=12    pejvo   
   burlesk        谐ᴮ         F=5     pejvo   
   skerc          谐ˢ         F=2     pejvo   
+
+【赞】 5件
+  laŭd           赞          F=11    basic   
+  konsent        赞ᴷ         F=24    basic   
+  kompliment     赞ᴷᴹ        F=4     basic   
+  aprob          赞ᴬ         F=9     pejvo   
+  ovaci          赞ᴼ         F=2     pejvo   
 
 【适】 5件
   taŭg           适          F=14    basic   
@@ -3184,12 +3205,6 @@
   valiz          箱ⱽ         F=4     basic   
   kofr           箱ᴷᶠ        F=4     pejvo   
   kontener       箱ᴷᴺ        F=3     piv     コンテナ
-
-【伴】 4件
-  koleg          伴          F=7     basic   
-  kompani        伴ᴷᴹ        F=22    basic   
-  kamarad        伴ᴷᴿ        F=8     basic   
-  partner        伴ᴾ         F=2     pejvo   
 
 【判】 4件
   juĝ            判          F=40    basic   
@@ -3659,12 +3674,6 @@
   koment         评ᴷᴹ        F=5     basic   
   recenz         评ᴿ         F=5     basic   
 
-【诉】 4件
-  plend          诉          F=9     basic   
-  akuz           诉ᴬ         F=10    basic   
-  apel           诉ᴬᴾ        F=3     pejvo   【軍】点呼
-  reklamaci      诉ᴿ         F=2     pejvo   
-
 【诗】 4件
   poem           诗          F=7     basic   
   poezi          诗ᴾᶻ        F=8     basic   
@@ -3688,12 +3697,6 @@
   nobel          贵ᴺᴱ        F=10    pejvo   
   aristokrat     贵ᴬ         F=4     pejvo   
   patrici        贵ᴾ         F=2     pejvo   
-
-【赞】 4件
-  laŭd           赞          F=11    basic   
-  konsent        赞ᴷ         F=24    basic   
-  kompliment     赞ᴷᴹ        F=4     basic   
-  ovaci          赞ᴼ         F=2     pejvo   
 
 【边】 4件
   rand           边          F=28    basic   
