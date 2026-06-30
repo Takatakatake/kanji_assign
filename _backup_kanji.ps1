@@ -4,7 +4,7 @@
 # 退避先 = 親フォルダ(マイドライブ=Google Drive配下なのでクラウドにも同期される)の _漢字割り当て_スナップショット\<日時>_<commit>
 param([switch]$Force)   # -Force でHEAD未変化でも強制スナップショット(既定=未変化ならスキップ)
 $ErrorActionPreference='Stop'
-$dir='d:\GoogleDrive202510\マイドライブ\20_エスペラント・語学\漢字化・語彙資料\エスペラント語根＿漢字割り当て＿20260621'
+$dir=$PSScriptRoot
 $parent=Split-Path $dir -Parent
 $keep=14   # 直近この数だけ保持(古い分は自動削除)。Google Driveクラウド+GitHubにも同期されるため局所はローテーション
 $snapRoot=Join-Path $parent '_漢字割り当て_スナップショット'

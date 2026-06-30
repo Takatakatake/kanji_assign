@@ -1,5 +1,5 @@
 ﻿$ErrorActionPreference='Stop'
-$dir='d:\GoogleDrive202510\マイドライブ\20_エスペラント・語学\漢字化・語彙資料\エスペラント語根＿漢字割り当て＿20260621'
+$dir=$PSScriptRoot
 $out="$dir\漢字注入_学習者版_20260620.txt"
 $lines=Get-Content $out -Encoding UTF8
 $BOUND=44104

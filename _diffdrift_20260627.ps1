@@ -1,6 +1,6 @@
 ﻿$ErrorActionPreference='Stop'
 $wsl='\\wsl.localhost\Ubuntu\home\y\エスペラント辞書徹底語根分解_20260619'
-$src='d:\GoogleDrive202510\マイドライブ\20_エスペラント・語学\漢字化・語彙資料\エスペラント語根＿漢字割り当て＿20260621\20_PEJVO語彙リスト_原本・生成版_2024-2026'
+$src="$PSScriptRoot\20_PEJVO語彙リスト_原本・生成版_2024-2026"
 $names=@('世界语全部单词_大约44100个(原pejvo.txt)_学習者版_utf8_20260416.txt','世界语全部单词_大约44100个(原pejvo.txt)_学術版_utf8_20260416.txt')
 foreach($n in $names){
   $w=[System.IO.File]::ReadAllLines((Join-Path $wsl $n))

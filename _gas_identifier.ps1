@@ -1,5 +1,5 @@
 ﻿$ErrorActionPreference='Stop'
-$dir='d:\GoogleDrive202510\マイドライブ\20_エスペラント・語学\漢字化・語彙資料\エスペラント語根＿漢字割り当て＿20260621'
+$dir=$PSScriptRoot
 # GAS「識別子付与・最終完全版」忠実移植。C(優先順位)=band_rank*1000+P(層を優先、層内はP)。閾値1.0で文字数優先。
 $BR=@{ 'basic'=0;'suf'=0;'pref'=0;'prep'=0;'correl'=0;'num'=0;'func'=0;'pejvo'=1;'sci'=1;'elem'=1;'cal'=1;'rel'=1;'piv'=2;'proper'=2 }
 $vowels=@('a','e','i','o','u')

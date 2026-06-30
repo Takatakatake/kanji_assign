@@ -1,6 +1,6 @@
 ﻿# 優先順位監査: ①CSV2890の被覆(実注入出力で判定) ②基本形の優先順位逆転(サイドカー) ③band正当性
 $ErrorActionPreference='Stop'
-$dir='d:\GoogleDrive202510\マイドライブ\20_エスペラント・語学\漢字化・語彙資料\エスペラント語根＿漢字割り当て＿20260621'
+$dir=$PSScriptRoot
 $out="$dir\漢字注入_学習者版_20260620.txt"
 $csv="$dir\30_重要語彙CSV_日中対照_2890語\2890 Gravaj Esperantaj Vortoj kun Signifoj en la Japana, Ĉina.csv"
 

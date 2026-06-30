@@ -3,7 +3,7 @@
 # 同一分節が2種以上の base漢字(識別子除去)に割れていたら、sep字でない方=「base default に落ちた候補」を列挙。
 # combining-form が同綴の内容語字(base)に化けた取りこぼし(oz/cit/trik型)を悉皆検出する。
 $ErrorActionPreference='Stop'
-$dir='d:\GoogleDrive202510\マイドライブ\20_エスペラント・語学\漢字化・語彙資料\エスペラント語根＿漢字割り当て＿20260621'
+$dir=$PSScriptRoot
 # 上付き識別子を除去して base漢字を取り出す
 $supChars=@(); 0x1D2C..0x1D6A|ForEach-Object{$supChars+=[char]$_}; $supChars+=[char]0x02E2; $supChars+=[char]0x2C7D; $supChars+=[char]0x1DBB; $supChars+=[char]0x0302; $supChars+=[char]0x0306
 function BaseKanji([string]$tok){ $o=''; foreach($ch in $tok.ToCharArray()){ if($supChars -notcontains $ch){ $o+=$ch } }; return $o }

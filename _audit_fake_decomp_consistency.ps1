@@ -4,7 +4,7 @@
 # それ以外の【★新規】候補のみを「要確認(真の偽分解違反の疑い)」として報告する前向き監査。
 # 使い方: powershell -File _audit_fake_decomp_consistency.ps1
 $ErrorActionPreference='Continue'
-$dir='d:\GoogleDrive202510\マイドライブ\20_エスペラント・語学\漢字化・語彙資料\エスペラント語根＿漢字割り当て＿20260621'
+$dir=$PSScriptRoot
 
 # 文法語尾・分詞接尾(latin残存が正常)
 $endings=@{}

@@ -6,7 +6,7 @@
 #   E. 数字id(注入全体)
 # サブscriptは Write-Host 出力なので *>&1 で捕捉。結果サマリを画面+ _verify_log.txt(追記)。全PASSで exit 0。
 $ErrorActionPreference='Continue'
-$dir='d:\GoogleDrive202510\マイドライブ\20_エスペラント・語学\漢字化・語彙資料\エスペラント語根＿漢字割り当て＿20260621'
+$dir=$PSScriptRoot
 Set-Location $dir
 $ts=(Get-Date -Format 'yyyy-MM-dd HH:mm')
 $LOG=New-Object System.Collections.ArrayList

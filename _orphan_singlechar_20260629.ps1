@@ -4,7 +4,7 @@
 # base に語根が1つだけ=孤立単字割当(苛=drakon 型)。さらに総出現回数も付す。
 # 出力: base字 / 語根数 / 総出現 / 語根例。語根数==1 を fold候補として精査する。
 $ErrorActionPreference='Continue'
-$dir='d:\GoogleDrive202510\マイドライブ\20_エスペラント・語学\漢字化・語彙資料\エスペラント語根＿漢字割り当て＿20260621'
+$dir=$PSScriptRoot
 $f=Join-Path $dir '漢字注入_学習者版_20260620.txt'
 $L1=[char]0x27E6; $R1=[char]0x27E7
 $lo=[char]0x4E00; $hi=[char]0x9FFF

@@ -1,6 +1,6 @@
 ﻿# 最終本番注入: 学習者版・学術版の両方に disp(漢字+§9識別子)を注入。homonym(sep見出し)・privative=无ᴬ・en・連結母o省略。各ファイルで原本diff=0検証。
 $ErrorActionPreference='Stop'
-$dir='d:\GoogleDrive202510\マイドライブ\20_エスペラント・語学\漢字化・語彙資料\エスペラント語根＿漢字割り当て＿20260621'
+$dir=$PSScriptRoot
 $srcDir="$dir\20_PEJVO語彙リスト_原本・生成版_2024-2026"
 $pairs=@(
   @('世界语全部单词_大约44100个(原pejvo.txt)_学習者版_utf8_20260416.txt','漢字注入_学習者版_20260620.txt'),

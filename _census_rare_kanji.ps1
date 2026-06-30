@@ -4,7 +4,7 @@
 # 既定で学術版(PIV正式語根境界=morpheme が綺麗)を集計。引数 'gakushu' で学習者版。
 param([string]$ver='gakushu')
 $ErrorActionPreference='Continue'
-$dir='d:\GoogleDrive202510\マイドライブ\20_エスペラント・語学\漢字化・語彙資料\エスペラント語根＿漢字割り当て＿20260621'
+$dir=$PSScriptRoot
 if($ver -eq 'gakujutsu'){ $f=Join-Path $dir '漢字注入_学術版_20260620.txt'; $label='学術' }
 else { $f=Join-Path $dir '漢字注入_学習者版_20260620.txt'; $label='学習者' }
 

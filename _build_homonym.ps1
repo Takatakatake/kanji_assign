@@ -1,6 +1,6 @@
 ﻿# 同綴異義台帳(_homonym.tsv)を網羅版に再構築。型(sep=見出し分離可 / amb=同一文字列→語義判別)を辞書行数で自動判定。
 $ErrorActionPreference='Stop'
-$dir='d:\GoogleDrive202510\マイドライブ\20_エスペラント・語学\漢字化・語彙資料\エスペラント語根＿漢字割り当て＿20260621'
+$dir=$PSScriptRoot
 $dict="$dir\20_PEJVO語彙リスト_原本・生成版_2024-2026\世界语全部单词_大约44100个(原pejvo.txt)_学習者版_utf8_20260416.txt"
 $lines=Get-Content $dict -Encoding UTF8
 # oz/on 動的分類は両版(学習者+学術)をスキャン。学術版の粗分解(fagocit/oz・aktinomicet/oz・deoksi/oz 等の whole-form)も

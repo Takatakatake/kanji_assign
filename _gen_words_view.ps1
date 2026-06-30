@@ -1,7 +1,7 @@
 ﻿# 複合語(全注入語)の閲覧用HTML: 学習者版注入辞書から ⟦漢字⟧ 付き見出しを抽出し検索ビューアを生成。
 # 出力: words.html(公開正本) + 複合語ビュー_yyyyMMdd.html(日付スナップショット)
 $ErrorActionPreference = 'Stop'
-$dir = "d:\GoogleDrive202510\マイドライブ\20_エスペラント・語学\漢字化・語彙資料\エスペラント語根＿漢字割り当て＿20260621"
+$dir=$PSScriptRoot
 $inj = "$dir\漢字注入_学習者版_20260620.txt"
 $lines = [System.IO.File]::ReadAllLines($inj, [System.Text.Encoding]::UTF8)
 $L = [char]0x27E6  # ⟦

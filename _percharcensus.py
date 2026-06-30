@@ -2,10 +2,10 @@
 # 真の「1文字単位」センサス: ⟦⟧割当内の個別CJK字ごとに、それを使う distinct 語根を集計。
 # 既存 _census_rare_kanji.ps1 はセグメントの漢字文字列(庄严)をキーにするため、熟語内の単字(庄)を取りこぼす。
 # ここでは各セグメントの各CJK字を個別に数え、熟語内に埋もれた稀少字を炙り出す。
-import re, sys, io
+import re, sys, io, os
 sys.stdout = io.TextIOWrapper(sys.stdout.buffer, encoding='utf-8')
 
-DIR = r"d:\GoogleDrive202510\マイドライブ\20_エスペラント・語学\漢字化・語彙資料\エスペラント語根＿漢字割り当て＿20260621"
+DIR = os.path.dirname(os.path.abspath(__file__))
 INJ = DIR + r"\漢字注入_学習者版_20260620.txt"
 
 L1, R1 = '⟦', '⟧'
