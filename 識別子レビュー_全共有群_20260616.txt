@@ -3828,6 +3828,11 @@
   hejm           家ᴴ         F=42    basic   
   famili         家ᶠ         F=24    basic   
 
+【雅】 3件
+  graci          雅          F=8     basic   
+  elegant        雅ᴱ         F=9     basic   
+  s^ik           雅ˢ̂        F=3     pejvo   
+
 【怪】 3件
   monstr         怪          F=5     basic   
   grotesk        怪ᴳ         F=6     basic   
@@ -5350,10 +5355,6 @@
 【我】 2件
   mi             我          F=20    func    
   atm            我ᴬ         F=2     piv     【理】蒸発計
-
-【雅】 2件
-  graci          雅          F=8     basic   
-  elegant        雅ᴱ         F=9     basic   
 
 【介电】 2件
   permitiv       介电         F=3     pejvo   
