@@ -1701,6 +1701,15 @@
   sake           酒ˢ         F=2     pejvo   
   c^ampan        酒ᶜ̂        F=1     pejvo   
 
+【信】 7件
+  kred           信          F=49    basic   
+  leter          信ᴸ         F=45    basic   
+  fid            信ᶠ         F=19    basic   
+  konfid         信ᴷᴺ        F=11    basic   
+  mesaĝ          信ᴹ         F=7     basic   
+  cirkuler       信ᶜ         F=2     basic   
+  epistol        信ᴱ         F=2     pejvo   
+
 【浸】 7件
   tremp          浸          F=4     basic   
   macer          浸ᴹ         F=6     pejvo   
@@ -1965,14 +1974,6 @@
   apostrof       省ᴬ         F=3     pejvo   
   elizi          省ᴱ         F=2     pejvo   
   provincial     省ᴾᴸ        F=2     pejvo   
-
-【信】 6件
-  kred           信          F=49    basic   
-  leter          信ᴸ         F=45    basic   
-  fid            信ᶠ         F=19    basic   
-  konfid         信ᴷᴺ        F=11    basic   
-  mesaĝ          信ᴹ         F=7     basic   
-  epistol        信ᴱ         F=2     pejvo   
 
 【静】 6件
   trankvil       静          F=18    basic   
@@ -2787,6 +2788,13 @@
   kompliment     赞ᴷᴹ        F=4     basic   
   aprob          赞ᴬ         F=9     pejvo   
   ovaci          赞ᴼ         F=2     pejvo   
+
+【过】 5件
+  int            过          F=126   suf     
+  pas            过ᴾ         F=54    basic   
+  preter         过ᴾᴿ        F=38    prep    
+  pase           过ᴾᴱ        F=2     pejvo   
+  transit        过ᵀ         F=3     piv     通過の・トランジット
 
 【适】 5件
   taŭg           适          F=14    basic   
@@ -3709,12 +3717,6 @@
   marg^en        边ᴹ         F=7     pejvo   
   later          边ᴸ         F=6     pejvo   
   listel         边ᴸˢ        F=2     pejvo   
-
-【过】 4件
-  int            过          F=126   suf     
-  pas            过ᴾ         F=54    basic   
-  preter         过ᴾᴿ        F=38    prep    
-  transit        过ᵀ         F=3     piv     通過の・トランジット
 
 【进】 4件
   progres        进          F=18    basic   
