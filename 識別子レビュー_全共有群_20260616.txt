@@ -1,6 +1,6 @@
 ﻿# 識別子レビュー(GAS/§5位置・§3厳密・§6a別文字・特殊字修正・base上書き版): 全共有群・全メンバー・語義付き
 
-【草】 442件
+【草】 443件
   herb           草          F=67    basic   
   pajl           草ᴾ         F=18    basic   
   skiz           草ˢ         F=6     basic   
@@ -33,6 +33,7 @@
   ciper          草ᶜᴾ        F=2     piv     【植】カヤツリグサ属
   eritre         草ᴱᴵ        F=2     piv     
   paris          草ᴾᴿ        F=2     piv     
+  sued           草ˢᴰ        F=2     piv     【植】マツナ属
   sagitari       草ˢᴳ        F=2     piv     
   veronik        草ⱽᴿ        F=2     piv     
   agerat         草ᴬᴬ        F=1     piv     
@@ -374,7 +375,6 @@
   saraceni       草ˢᴬᴿ       F=1     piv     
   silib          草ˢᴮ        F=1     piv     
   scirp          草ˢᶜ        F=1     piv     
-  skandik        草ˢᴰ        F=1     piv     
   seki           草ˢᴱ        F=1     piv     
   selaginel      草ˢᴱᴸ       F=1     piv     
   sesleri        草ˢᴱˢ       F=1     piv     
@@ -383,6 +383,7 @@
   sigilari       草ˢᴵᴳ       F=1     piv     
   sizimbri       草ˢᴵᶻ       F=1     piv     
   sanikl         草ˢᴷ        F=1     piv     
+  skandik        草ˢᴷᴬ       F=1     piv     
   sklare         草ˢᴷᴸ       F=1     piv     
   sklerant       草ˢᴷᴸᴱ      F=1     piv     
   skorpiur       草ˢᴷᴼ       F=1     piv     
@@ -2008,6 +2009,14 @@
   gimnast        操ᴳᴵ        F=2     pejvo   
   fik            操ᶠ         F=4     piv     性交する(俗語)
 
+【台】 6件
+  podi           台          F=7     basic   
+  teras          台ᵀ         F=3     basic   
+  peron          台ᴾᴿ        F=1     basic   
+  bufed          台ᴮ         F=5     pejvo   
+  konzol         台ᴷ         F=2     pejvo   
+  platform       台ᴾᴸ        F=2     pejvo   
+
 【凸】 6件
   ĝib            凸          F=13    basic   
   konveks        凸ᴷ         F=10    pejvo   
@@ -2426,13 +2435,6 @@
   dekadenc       退ᴰᴷ        F=4     pejvo   
   regres         退ᴿ         F=4     pejvo   
   retret         退ᴿᵀ        F=2     pejvo   
-
-【台】 5件
-  podi           台          F=7     basic   
-  teras          台ᵀ         F=3     basic   
-  peron          台ᴾᴿ        F=1     basic   
-  bufed          台ᴮ         F=5     pejvo   
-  konzol         台ᴷ         F=2     pejvo   
 
 【棚】 5件
   bud            棚          F=7     basic   
@@ -3169,12 +3171,6 @@
   kolon          柱ᴷ         F=23    basic   
   fost           柱ᶠ         F=13    basic   
   kegl           柱ᴷᴳ        F=6     pejvo   
-
-【猪】 4件
-  pork           猪          F=18    basic   
-  apr            猪ᴬ         F=3     basic   
-  sued           猪ˢᴰ        F=2     piv     【植】マツナ属
-  su             猪ˢ         F=1     piv     
 
 【定】 4件
   fiks           定          F=38    basic   
@@ -4398,6 +4394,11 @@
   mez            中          F=91    basic   
   neŭtral        中ᴺ         F=11    basic   
   neu^tr         中ᴺᴱ        F=11    pejvo   
+
+【猪】 3件
+  pork           猪          F=18    basic   
+  apr            猪ᴬ         F=3     basic   
+  su             猪ˢ         F=1     piv     
 
 【蝶】 3件
   papili         蝶          F=17    basic   
@@ -5984,10 +5985,6 @@
 【税】 2件
   impost         税          F=44    basic   
   akciz          税ᴬ         F=5     pejvo   
-
-【雪松】 2件
-  cedr           雪松         F=4     pejvo   
-  himalaj        雪松ᴴ        F=2     pejvo   
 
 【雪车】 2件
   sled           雪车         F=2     basic   
