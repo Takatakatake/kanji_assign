@@ -7093,6 +7093,10 @@
   ekzekut        执          F=5     basic   
   ekzekuci       执ᴱᶜ        F=3     pejvo   
 
+【扩】 2件
+  amplif         扩          F=5     pejvo   
+  amplifik       扩ᴬᴷ        F=4     pejvo   
+
 【扫】 2件
   bala           扫          F=13    basic   
   skan           扫ˢ         F=8     pejvo   
