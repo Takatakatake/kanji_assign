@@ -1764,6 +1764,15 @@
   plak           板ᴾᴷ        F=12    pejvo   
   panel          板ᴾᴺ        F=8     pejvo   
 
+【秘】 7件
+  sekret         秘          F=20    basic   
+  sekretari      秘ˢᴿ        F=9     basic   
+  konfidenc      秘ᴷ         F=8     basic   
+  mistik         秘ᴹ         F=6     pejvo   
+  esoter         秘ᴱ         F=3     pejvo   
+  kabal          秘ᴷᴮ        F=3     pejvo   
+  okult          秘ᴼ         F=1     pejvo   
+
 【表】 7件
   tabel          表          F=24    basic   
   esprim         表ᴱˢ        F=28    basic   
@@ -2022,14 +2031,6 @@
   derm           皮ᴰ         F=22    sci     
   dermat         皮ᴰᵀ        F=5     pejvo   
   kortik         皮ᴷ         F=4     piv     【解】皮質
-
-【秘】 6件
-  sekret         秘          F=20    basic   
-  sekretari      秘ˢᴿ        F=9     basic   
-  konfidenc      秘ᴷ         F=8     basic   
-  esoter         秘ᴱ         F=3     pejvo   
-  kabal          秘ᴷᴮ        F=3     pejvo   
-  okult          秘ᴼ         F=1     pejvo   
 
 【帽】 6件
   ĉapel          帽          F=22    basic   
@@ -2376,6 +2377,13 @@
   refrakt        折ᴿᶠ        F=14    pejvo   
   zigzag         折ᶻ         F=5     pejvo   
   plis           折ᴾ         F=3     pejvo   
+
+【栓】 5件
+  kran           栓          F=9     basic   
+  bolt           栓ᴮ         F=7     pejvo   
+  rigl           栓ᴿ         F=7     pejvo   
+  embol          栓ᴱ         F=3     pejvo   
+  dubel          栓ᴰ         F=2     piv     【技】アンカープラグ、栓
 
 【穿】 5件
   tra            穿          F=139   prep    
@@ -2818,6 +2826,13 @@
   retort         锅ᴿ         F=3     pejvo   
   marmit         锅ᴹ         F=2     pejvo   
 
+【闪】 5件
+  fulm           闪          F=27    basic   
+  flagr          闪ᶠᴳ        F=10    basic   
+  scintil        闪ˢᶜ        F=7     pejvo   
+  strobo         闪ˢ         F=3     pejvo   
+  blink          闪ᴮ         F=6     piv     点滅光
+
 【题】 5件
   tem            题          F=11    basic   
   problem        题ᴾ         F=20    basic   
@@ -3106,12 +3121,6 @@
   reklam         宣ᴿ         F=21    basic   
   deklar         宣ᴰ         F=11    basic   
   proklam        宣ᴾ         F=6     pejvo   
-
-【栓】 4件
-  kran           栓          F=9     basic   
-  bolt           栓ᴮ         F=7     pejvo   
-  embol          栓ᴱ         F=3     pejvo   
-  dubel          栓ᴰ         F=2     piv     【技】アンカープラグ、栓
 
 【前】 4件
   antaŭ          前          F=174   prep    
@@ -3760,12 +3769,6 @@
   kroĉ           钩ᴷ         F=12    basic   
   kroc^et        钩ᴷᵀ        F=3     pejvo   
   grapl          钩ᴳ         F=2     pejvo   
-
-【闪】 4件
-  fulm           闪          F=27    basic   
-  flagr          闪ᶠᴳ        F=10    basic   
-  strobo         闪ˢ         F=3     pejvo   
-  blink          闪ᴮ         F=6     piv     点滅光
 
 【颂】 4件
   himn           颂          F=5     basic   
@@ -5100,6 +5103,16 @@
   fin            终          F=50    basic   
   final          终ᶠᴸ        F=5     pejvo   
   finis^         终ᶠˢ̂       F=2     piv     【ス】ラストスパート
+
+【绒】 3件
+  velur          绒          F=4     basic   
+  lanug          绒ᴸ         F=7     pejvo   
+  plus^          绒ᴾ         F=3     pejvo   
+
+【职】 3件
+  ofic           职          F=38    basic   
+  profesi        职ᴾ         F=13    basic   
+  karier         职ᴷ         F=7     basic   
 
 【胀】 3件
   puf            胀          F=15    pejvo   
@@ -7284,10 +7297,6 @@
   ekonomi        经济         F=33    basic   
   ekonomik       经济ᴱᴷ       F=5     basic   
 
-【绒】 2件
-  velur          绒          F=4     basic   
-  plus^          绒ᴾ         F=3     pejvo   
-
 【结核】 2件
   ftiz           结核         F=4     pejvo   
   skrofol        结核ˢ        F=2     pejvo   
@@ -7335,10 +7344,6 @@
 【罚】 2件
   pun            罚          F=28    basic   
   penal          罚ᴾᴸ        F=3     pejvo   
-
-【职】 2件
-  ofic           职          F=38    basic   
-  profesi        职ᴾ         F=13    basic   
 
 【肾】 2件
   ren            肾          F=10    basic   
