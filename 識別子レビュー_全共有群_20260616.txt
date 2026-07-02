@@ -1985,6 +1985,14 @@
   elizi          省ᴱ         F=2     pejvo   
   provincial     省ᴾᴸ        F=2     pejvo   
 
+【情】 6件
+  pati           情          F=30    suf     
+  humor          情ᴴ         F=18    basic   
+  emoci          情ᴱ         F=11    basic   
+  pasi           情ᴾˢ        F=7     basic   
+  afekci         情ᴬ         F=3     pejvo   
+  patos          情ᴾᵀ        F=3     pejvo   
+
 【静】 6件
   trankvil       静          F=18    basic   
   kviet          静ᴷ         F=20    basic   
@@ -2330,13 +2338,6 @@
   his            升ᴴ         F=6     pejvo   
   parvenu        升ᴾⱽ        F=3     pejvo   
   dies           升ᴰ         F=2     pejvo   
-
-【情】 5件
-  pati           情          F=30    suf     
-  humor          情ᴴ         F=18    basic   
-  emoci          情ᴱ         F=11    basic   
-  pasi           情ᴾˢ        F=7     basic   
-  afekci         情ᴬ         F=3     pejvo   
 
 【色】 5件
   kolor          色          F=106   basic   
@@ -3051,6 +3052,12 @@
   kamer          室ᴷ         F=12    pejvo   
   studi          室ˢ         F=2     pejvo   
   lokal          室ᴸ         F=3     piv     室・店舗
+
+【煮】 4件
+  poc^           煮          F=3     pejvo   
+  stuf           煮ˢ         F=6     pejvo   
+  frikas         煮ᶠ         F=2     pejvo   
+  brez           煮ᴮ         F=3     piv     蒸し煮にする
 
 【社】 4件
   soci           社          F=29    basic   
@@ -4155,11 +4162,6 @@
   vernis         漆ⱽ         F=4     pejvo   
   urus^i         漆ᵁ         F=2     piv     【植】漆・ウルシ
 
-【煮】 3件
-  poc^           煮          F=3     pejvo   
-  stuf           煮ˢ         F=6     pejvo   
-  frikas         煮ᶠ         F=2     pejvo   
-
 【弱】 3件
   febl           弱          F=2     pejvo   
   asteni         弱ᴬ         F=4     pejvo   
@@ -4229,6 +4231,11 @@
   nov            新          F=104   basic   
   neologism      新ᴺᴸ        F=0     basic   
   neo            新ᴺᴱ        F=7     pejvo   
+
+【神】 3件
+  di             神          F=63    basic   
+  providenc      神ᴾ         F=3     pejvo   
+  numen          神ᴺ         F=2     piv     【宗】ヌーメン
 
 【震】 3件
   ŝok            震          F=9     basic   
@@ -5925,10 +5932,6 @@
 【真】 2件
   ver            真          F=34    basic   
   au^tentik      真ᴬ         F=3     pejvo   
-
-【神】 2件
-  di             神          F=63    basic   
-  numen          神ᴺ         F=2     piv     【宗】ヌーメン
 
 【神经】 2件
   nerv           神经         F=22    basic   
