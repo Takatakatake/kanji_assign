@@ -3807,6 +3807,11 @@
   obskur         暗ᴼ         F=8     pejvo   
   tenebr         暗ᵀ         F=2     piv     暗闇、暗黒
 
+【胃】 3件
+  stomak         胃          F=19    basic   
+  gastr          胃ᴳ         F=22    sci     
+  gaster         胃ᴳᴱ        F=1     sci     
+
 【医】 3件
   kurac          医          F=40    basic   
   medicin        医ᴹ         F=28    basic   
@@ -5097,6 +5102,11 @@
   fek            粪ᶠ         F=11    pejvo   
   ekskrement     粪ᴱ         F=3     pejvo   
 
+【红】 3件
+  ruĝ            红          F=68    basic   
+  eritr          红ᴱ         F=3     sci     
+  skarlat        红ˢ         F=2     pejvo   
+
 【约】 3件
   kontrakt       约          F=18    basic   
   konvenci       约ᴷⱽ        F=8     basic   
@@ -5272,10 +5282,6 @@
 【位似】 2件
   homotet        位似         F=2     piv     【数】相似拡大であること
   homoteti       位似ᴴᴵ       F=2     piv     【数】相似拡大
-
-【胃】 2件
-  stomak         胃          F=19    basic   
-  gastr          胃ᴳ         F=22    sci     
 
 【育】 2件
   kresk          育          F=43    basic   
@@ -7264,10 +7270,6 @@
 【笔】 2件
   penik          笔          F=9     basic   
   krajon         笔ᴷ         F=15    basic   
-
-【红】 2件
-  ruĝ            红          F=68    basic   
-  skarlat        红ˢ         F=2     pejvo   
 
 【红树】 2件
   mangl          红树         F=2     pejvo   

@@ -9821,7 +9821,7 @@ Eri/o:【地名】エリー湖（五大湖の一，北米）
 eriobotri/o:【植】ビワ（枇杷）（属）,>>lanmespilo
 eriofor/o:【植】ワタスゲ（属）
 Eritre/o:【国名】エリトリア（アフリカ）
-eritrocit/o⟦红胞/o⟧:【解】=rug^a sangoc^elo（赤血球）
+eritr/o/cit/o⟦红ᴱ/o/胞ᶜᴵ/o⟧:【解】=rug^a sangoc^elo（赤血球）##偽分解##過細分解 eritr/o/c/i/t/o
 eritrozin/o:【化】エリスロシン（赤色染料）
 erizim/o:【植】エゾスズシロ（属）,エリシマム
 erizipel/o⟦丹毒/o⟧:{Ｏ}【病】丹毒（たんどく）
@@ -14419,7 +14419,7 @@ hipokrit/i⟦伪善/i⟧:{Ｏ}［他］（偽善で）見せかける;［自］�
 hipokrit/o⟦伪善/o⟧:偽善的行為
 hipokrit/ul/o⟦伪善/者/o⟧:偽善者,猫かぶり
 hipo/nim/o⟦亚/名ᴺᴵ/o⟧:【語】下位語,=subvorto,><hiperonimo##偽分解
-hipo/potam/o⟦马/河ᴾ/o⟧:{Ｏ}【動】カバ##偽分解##過細分解 h/i/p/o/potam/o
+hipo/potam/o⟦马/河ᴾ/o⟧:{Ｏ}【動】カバ##偽分解##エス的分解##過細分解 h/i/p/o/potam/o
 hipotek/aj^/o⟦抵/物/o⟧:抵当,担保
 hipotek/a kred/it/o⟦抵/a 信/受/o⟧:【経】モーゲージ,抵当貸し,（特に）住宅ローン##偽分解
 hipotek/a merkat/o⟦抵/a 市ᴹ/o⟧:【経】抵当権市場,モーゲージ市場
@@ -46829,7 +46829,7 @@ dism/o:【史】【PIV】Dekonaj^o, pagata kiel imposto.
 dismenore/o:【医】【PIV】Malfacila k dolora menstruado.
 disoci/a⟦解ᴰ/a⟧:【PIV】Rilata al disocio: disocia ekvilibro.
 disoci/ig^/o⟦解ᴰ/成/o⟧:【医】【PIV】Stato en skizofrenio kun evidenta diseco inter emocioj k penso.
-disom/a:【PIV】= dusoma.
+di/som/a⟦二ᴰᴵ/体ˢᴹ/a⟧:【PIV】= dusoma.##偽分解(PIV正式分解)##過細分解 d/i/som/a
 dispers/a⟦散ᴰᴾ/a⟧:【PIV】1 Dispersita: tre dispersa minio; dispersa rilatumo (rilatumo inter ondonombro k frekvenco de ondo au^ partiklo). 2 Rilata al disperso: dispersa angulo (angulo formita de ekstremaj radioj, kiuj iras g^is la ekstremoj de la spektro); dispersa povo (Sin. (sinonimo) disperseco). 3 Dispersanta: dispersa medio.
 dispers/aj^/o⟦散ᴰᴾ/物/o⟧:【PIV】Medio plus dispersita substanco.
 dispers/ant/o⟦散ᴰᴾ/在/o⟧:【PIV】Substanco, kiu povas servi kiel dispersa medio.
@@ -47369,7 +47369,7 @@ Erini/o:【PIV】C^iu el la tri helenaj diinoj de la veng^o k punado de krimuloj
 erinj/o:【解】【PIV】Hokoforma instrumento, uzata en anatomia dissekcado.
 eritem/o:【医】【PIV】Kn (Kolektiva nomo) de multaj hau^taj afekcioj, karakterizataj de rug^eco pli-malpli intensa k malaperanta sub premo.
 eritren/o⟦木ᴱᴺ/o⟧:【植】【PIV】G. (Genro) (Erythrina el fabacoj) de c^. (c^irkau^) 110 sp-oj (specioj) de arboj k arbustoj el la varmaj regionoj, pluraj kultivataj por spektindaj grapoloj el rug^aj floroj.
-eritroblast/o:【解】【PIV】Nukleohava c^elo de la ostmedolo, finevolue hemoglobinohava, antau^anto de eritrocito: c^e la mamuloj, eritroblasto maturig^inte perdas sian nukleon k farig^as eritrocito en la sango. -> poezo.
+eritr/o/blast/o⟦红ᴱ/o/胚ᴮ/o⟧:【解】【PIV】Nukleohava c^elo de la ostmedolo, finevolue hemoglobinohava, antau^anto de eritrocito: c^e la mamuloj, eritroblasto maturig^inte perdas sian nukleon k farig^as eritrocito en la sango. -> poezo.##偽分解
 eritroksil/o⟦木ᴱᴷ/o⟧:【植】【PIV】G. (Genro) (Erythroxylum el eritroksilacoj) de lignecaj plantoj kun s^osoj lau^aspekte ofte skvamaj k kun simplaj, stipulohavaj folioj; tropika, precipe S-Amerika g. (genro) de c^. (c^irkau^) 230 sp-oj (specioj), el kiuj kokao.
 eritroni/o⟦猪牙花/o⟧:【植】【PIV】G. (Genro) (Erythronium el liliacoj) de herboj kun tunika bulbo, kun du elbazaj folioj k kun senfoliaj tigoj, portantaj pli-malpli pendantajn florojn po unu au^ malmultaj; N-hemisfera, precipe Amerika g. (genro) de c^. (c^irkau^) 20 sp-oj (specioj), kelkaj pororname kultivataj, ekz. (ekzemple) la hundodenta eritronio (E. dens-canis).
 eritropoez/o:【生】【PIV】Formig^o de la eritrocitoj en la osta medolo de plenkreskulo au^ en la hepato de embrio. Sin. (sinonimo) eritrocitopoezo.
@@ -48227,7 +48227,7 @@ gasojl/o:【技】【PIV】Speco de peza benzino, uzata en dizelo. Sin. (sinonim
 Gaspar/o:【PIV】Vira nomo.
 gast/ej/estr/o⟦客/所/长ᴱ/o⟧:【PIV】Mastro de gastejo: li elprenis du denarojn kaj donis ilin al la gastejestro .
 gast/ig/int/o⟦客/使/过/o⟧:【PIV】Tiu, kiu gastigis/gastigas iun: multajn dankojn al liaj afablaj gastigintoj! ; c^u mi povas ion peti de la gastigantino?
-gasteromicet/oj:【植】【PIV】Grupo de bazidifungoj, ampleksanta la eksan klason Gasteromycetes, kies bazidioj produktig^as interne de ferma bazidiujo. Vd himenomicetoj.
+gaster/o/micet/oj⟦胃ᴳᴱ/o/菌ᴹᶜ/oj⟧:【植】【PIV】Grupo de bazidifungoj, ampleksanta la eksan klason Gasteromycetes, kies bazidioj produktig^as interne de ferma bazidiujo. Vd himenomicetoj.##偽分解
 gasteroste/form/aj⟦刺鱼/形/aj⟧:【動】【PIV】Ordo (Gasterosteiformes) de teleosteaj fis^oj, al kiu apartenas gasterosteo k.a. (kaj aliaj).
 gasteroste/o/form/aj⟦刺鱼/o/形/aj⟧:【動】【PIV】Ordo (Gasterosteiformes) de teleosteaj fis^oj, al kiu apartenas gasterosteo k.a. (kaj aliaj).
 gastr/o⟦胃ᴳ/o⟧:【医】【PIV】Stomako (en kunmetaj^oj).
@@ -48705,7 +48705,7 @@ halih^er/o:【PIV】= halikero.
 haliker/o⟦兽ᴴᴸ/o⟧:【動】【PIV】G. (Genro) (Halichoerus) de mamuloj el la subordo de fokuloj, fam. (familio) de fokedoj, kun longa muzelo, vivantaj c^e la marbordoj de N Eu^ropo. Sin. (sinonimo) grizfoko. Vd foko.
 halit/o:【地質】【PIV】Mineralo el kuba natria klorido, NaCl. Sin. (sinonimo) minsalo. Vd salo, evaporito.
 halo!:【PIV】Interj. (Interjekcio), uzata por alvoki telefone.
-halofit/o⟦草ᴴᶠ/o⟧:【植】【PIV】Saleja planto.
+halo/fit/o⟦晕/植ᶠ/o⟧:【植】【PIV】Saleja planto.##偽分解##エス的分解##過細分解 h/a/l/o/fit/o
 haloid/o:【PIV】(ark. (arkaismo, arkaisme)) = halogenido.
 hals/o⟦帆索ᴴ/o⟧:【PIV】Takelo au^ s^nuro c^e la antau^a malsupra angulo de velo, por plistrec^i la antau^an randon. Vd s^koto.
 hals/i⟦帆索ᴴ/i⟧:【PIV】(tr (transitiva)) Strec^i per halso.
@@ -48988,7 +48988,7 @@ hilozoism/o:【哲】【PIV】Konvinko, ke la materio estas elorigine vivigita.
 himantop/o⟦鸟ᴴᴺ/o⟧:【動】【PIV】Birdo (unuspecia g. (genro) (Himantopus himantopus) el la ordo de karadriformaj, kun longa, maldika, rekta beko k rug^aj, tre longaj kruroj. = himantopod/o
 himati/o:【史】【PIV】Helena mantelo por viroj au^ virinoj.
 himene/o⟦木ᴴᴹ/o⟧:【植】【PIV】G. (Genro) (Hymenaea el fabacoj), de c^. (c^irkau^) 15 sp-oj (specioj) de tropikaj arboj el Ameriko k Afriko, produktantaj mang^eblajn fruktojn, lignon similan al tiu de mahagono k kopalon (uzata precipe pasintece). Vd kopaifero.
-himenomicet/oj:【植】【PIV】Grupo de bazidifungoj (ampleksanta la eksan klason Hymenomycetes), kies bazidioj formig^as interne de malferma au^ duonferma bazidiujo. Vd gasteromicetoj.
+himen/o/micet/oj⟦处女膜/o/菌ᴹᶜ/oj⟧:【植】【PIV】Grupo de bazidifungoj (ampleksanta la eksan klason Hymenomycetes), kies bazidioj formig^as interne de malferma au^ duonferma bazidiujo. Vd gasteromicetoj.##偽分解(PIV正式分解)
 himn/a⟦颂/a⟧:【PIV】Rilata al himno(j).
 hin/o⟦兽ᴴ/o⟧:【動】【PIV】1 Hibrido de c^evalo k azenino. Vd mulo. 2【聖】Mezurilo por likvoj, c^. 6-litra: hino da vino.
 Hindustan/a:【語】【PIV】Rilata al Hindustano: la hindustana lingvo havas multajn regionajn variantojn k du oficialajn versiojn, hindian k urduan.
@@ -50413,9 +50413,9 @@ klor/it/o⟦氯/盐ᴵ/o⟧:【化】【PIV】Salo de klorita acido, HClO 2.##�
 klor/al/o⟦氯/al/o⟧:【化】【PIV】1 Triklor-acetaldehido, CCl 3-CHO. 2 Medikamento, CCl 3-CH(OH) 2, antisepsa, kvietiga k hipnoza. Sin. (sinonimo) klorala hidrato.##偽分解(PIV正式分解)##過細分解 klor/a/l/o
 kloramfenikol/o:【PIV】Antibiotiko, produktata de grundolog^a bakterio (Streptomyces venezuelae el aktinomicetoj) k uzata precipe kontrau^ la tifoida febro k la salmonelozoj.
 klorel/o⟦藻ᴷᴸ/o⟧:【植】【PIV】G. (Genro) (Chlorella) de dolc^akvaj unuc^elaj verdalgoj, rapide proliferantaj k tial tre uzataj en laboratoriaj eksperimentoj i.a. (interalie, inter aliaj) pri studado de la fotosintezo.
-klorofic/oj:【植】【PIV】Klaso (Chlorophyceae el klorofitoj) de verdalgoj unuc^elaj, koloniaj au^ filamentaj, plejparte mikroskopaj. Vd ulvoficoj.
+klor/o/fic/oj⟦氯/o/藻ᶠᶜ/oj⟧:【植】【PIV】Klaso (Chlorophyceae el klorofitoj) de verdalgoj unuc^elaj, koloniaj au^ filamentaj, plejparte mikroskopaj. Vd ulvoficoj.##偽分解(PIV正式分解)
 klorofil/az/o⟦叶绿/az/o⟧:【PIV】Enzimo malkombinanta klorofilon.##偽分解(PIV正式分解)
-klorofit/oj:【植】【PIV】Filumo (Chlorophyta), v.s. proks. (proksimume) ampleksanta la verdalgojn; 4 klasoj, el kiuj kloroficoj, ulvoficoj k karaficoj; c^. (c^irkau^) 7 000−8 000 sp-oj (specioj).
+klor/o/fit/oj⟦氯/o/植ᶠ/oj⟧:【植】【PIV】Filumo (Chlorophyta), v.s. proks. (proksimume) ampleksanta la verdalgojn; 4 klasoj, el kiuj kloroficoj, ulvoficoj k karaficoj; c^. (c^irkau^) 7 000−8 000 sp-oj (specioj).##偽分解(PIV正式分解)
 kloroplast/o:【生】【植】【PIV】Klorofilhava plastido, en kiu okazas fotosintezo k karbonasimilado en c^eesto de lumo k karbondioksido. Sin. (sinonimo) klorofilplastido.
 kloropren/o:【化】【PIV】2-klorobuta-1,3-dieno, CH 2 =CCl-CH=CH 2, bazo de neopreno.
 klostr/a⟦修院/a⟧:【PIV】Rilata al klostro, precipe 2: klostra silento.
@@ -51197,8 +51197,8 @@ ladan/arbust/o⟦香脂/灌木/o⟧:【PIV】Tufarbusto (ladana cisto au^ Kreta 
 Ladisla/o:【PIV】Vira nomo, i.a. (interalie, inter aliaj) de pluraj hungaraj k polaj reg^oj.
 Ladog/a:【PIV】Nomepiteto de granda lago en la NU parto de Rusio, komunikig^anta kun la Finnlanda Golfo (31°E, 61°N).
 Laert/o:【PIV】Vira nomo, i.a. (interalie, inter aliaj) de la patro de Odiseo k de la filo de Polonio.
-lagoftalm/o⟦兔眼/o⟧:【医】【PIV】Okulo ne tute fermebla pro mallonga supera palpebro.
-lagoftalm/ec/o⟦兔眼/性/o⟧:【PIV】Tia difekto.
+lag/oftalm/o⟦湖/目ᴼᶠ/o⟧:【医】【PIV】Okulo ne tute fermebla pro mallonga supera palpebro.##偽分解##強語根分解##過細分解 l/a/g/oftalm/o
+lag/oftalm/ec/o⟦湖/目ᴼᶠ/性/o⟧:【PIV】Tia difekto.##偽分解##強語根分解##過細分解 l/a/g/oftalm/ec/o
 lagop/o⟦鸟ᴸᴳ/o⟧:【動】【PIV】G. (Genro) (Lagopus) de birdoj el la ordo de galinoformaj, fam. (familio) de tetraonedoj, kun plumkovritaj piedfingroj k tre bongusta viando. = lagopod/o
 lagostom/o⟦鼠ᴸ/o⟧:【動】【PIV】Mamulo (unuspecia g. (genro) Lagostomus maximus) el la ordo de rong^uloj, tre ofta en Argentina kamparo, granda kiel leporo, sed pli dika k kun malgrandaj oreloj; g^i vivas kolonie en longaj subteraj galerioj.
 lagotrik/o⟦猴ᴸᴳ/o⟧:【動】【PIV】G. (Genro) (Lagothrix) de S-Amerikaj mamuloj el la subordo de simioj, fam. (familio) de cebedoj, kun granda ventro k tre densa k mola hararo.
@@ -51965,7 +51965,7 @@ mez/um/i⟦中/um/i⟧:【数】【PIV】(tr (transitiva)) Kalkuli meznombron (d
 mezant/o:【PIV】(evi (evitinda)) = mediano.
 mezembriant/o⟦草ᴹᶻ/o⟧:【植】【PIV】G. (Genro) (Mesembryanthemum el aizoacoj) de unu-k du-jaraj, sukulentaj, kus^aj herboj kun folioj unue kruce kontrau^e duopaj, poste alternaj, ofte grandaj k karnaj, k kun blankaj, flavaj au^ rug^aj, unuopaj floroj supraj^e aspektantaj kiel kapituloj de asteracoj; c^. (c^irkau^) 25 sp-oj (specioj) el S Afriko, la Mediteranea regiono, la Atlantikaj insuloj, Ameriko k Au^stralio, kelkaj pororname kultivataj.
 mezenkim/o:【解】【生】【PIV】Konektivo de la embrio, kiu naskas i.a. (interalie, inter aliaj) la konektivojn k vaskulajn histojn k la glatajn muskolojn.
-mezenter/o:【PIV】(evi (evitinda)) = mesoentero (Vd (vidu) meso/).
+mez/enter/o⟦中/肠ᴱ/o⟧:【PIV】(evi (evitinda)) = mesoentero (Vd (vidu) meso/).##偽分解(PIV正式分解)
 mezere/o⟦木ᴹᶻ/o⟧:【植】【PIV】Sp. (Specio) de dafno (Daphne mezereum), falfolia arbusteto, antau^ ekfoliado kun malgrandaj, rozaj, bonodoraj floroj en glomeruloj sur la tuta longo de la branc^oj de la jaro, k kun rug^aj, venenaj drupoj sur la branc^oj de la antau^a jaro; hejma en Eu^ropo k Azio, pororname kultivata k medicine uzata.
 mez/o/cefal/o⟦中/o/头ᶜ/o⟧:【解】【PIV】Mezkraniulo.##偽分解(PIV正式分解)
 mez/o/derm/o⟦中/o/皮ᴰ/o⟧:【生】【PIV】C^eltavolo de embrio, kiu formig^as inter la ektodermo k endodermo: el mezodermo devenas i.a. (interalie, inter aliaj) dermo, skeleto, muskoloj, renoj, sango.##偽分解
@@ -52168,7 +52168,7 @@ mono/kotiledon/oj⟦单/子叶/oj⟧:【植】【PIV】Unukotiledonoj.##偽分�
 mono/kromat/ig/il/o⟦单/色ᴷᴿ/使/具/o⟧:【PIV】Aparato por produkti monokromatan lumon.##偽分解(PIV正式分解)
 mono/morfi/o⟦单/形ᴹᴵ/o⟧:【数】【PIV】Enjekcia homomorfio; pli g^enerale, morfio kun analoga eco.##偽分解(PIV正式分解)
 mono/petal/a⟦单/瓣ᴾ/a⟧:【PIV】1 = unupetala. 2 (ark. (arkaismo, arkaisme)) = kunig^petala.##偽分解(PIV正式分解)
-monosom/a:【PIV】= unusoma.
+mono/som/a⟦单/体ˢᴹ/a⟧:【PIV】= unusoma.##偽分解(PIV正式分解)
 mono/tip/o⟦单/型/o⟧:【PIV】Presmas^ino, kiu fandas k kompostas la literojn po unu. Vd linotipo.##偽分解(PIV正式分解)
 monotrem/oj:【動】【PIV】Kloakuloj.
 monsinjor/o:【キ】【PIV】Honortitolo, donata de la papo.
@@ -55269,7 +55269,7 @@ spermati/o⟦精ˢᴵ/o⟧:【植】【PIV】Seksa c^elo, nemova, ofte produktat
 spermati/uj/o⟦精ˢᴵ/器/o⟧:【PIV】Unu-au^ plur-c^ela ujo, produktanta spermatiojn. Sin. (sinonimo) spermogonio.
 spermatid/o:【生】【PIV】Nematura virseksa c^elo, unuploida, devenanta el spermatocito k evoluanta al spermatozoo.
 spermat/o/cit/o⟦精ˢ/o/胞ᶜᴵ/o⟧:【生】【PIV】Virseksa c^elo, devenanta el spermatogonio, naskonta spermatozoon au^ spermation: unuavica (duploida) spermatocito, duavica (unuploida) spermatocito.##偽分解##過細分解 spermat/o/c/i/t/o
-spermatofit/oj:【植】【PIV】Grupego (eksa filumo Spermatophyta) de vaskulplantoj, kies reproduktorganoj (floroj) produktas semojn; nuna nomo de la florplantoj au^ fanerogamoj. Sin. (sinonimo) semplantoj: spermatofitoj inkludas du filumojn, gimnospermojn (au^ pinofitoj) k angiospermojn (au^ magnoliofitoj).
+spermat/o/fit/oj⟦精ˢ/o/植ᶠ/oj⟧:【植】【PIV】Grupego (eksa filumo Spermatophyta) de vaskulplantoj, kies reproduktorganoj (floroj) produktas semojn; nuna nomo de la florplantoj au^ fanerogamoj. Sin. (sinonimo) semplantoj: spermatofitoj inkludas du filumojn, gimnospermojn (au^ pinofitoj) k angiospermojn (au^ magnoliofitoj).##偽分解(PIV正式分解)
 spermat/o/genez/o⟦精ˢ/o/源ᴳ/o⟧:【生】【PIV】Estig^o k disvolvig^o de virseksaj c^eloj.##偽分解##強語根分解
 spermatogoni/o:【生】【PIV】La unua stadiformo de virseksa c^elo, duploida, ne diferencig^inta, naskonta spermatociton.
 spermidin/o:【化】【PIV】Poliamino, H 2 N-(CH 2) 3-NH-(CH 2) 4-NH-(CH 2) 4-NH 2, asociita kun la c^elaj DNA k RNA. Vd spermino, putrino.
@@ -55525,7 +55525,7 @@ stukac^/i⟦奸ˢ/i⟧:【PIV】Agi kiel stukac^o.
 stukac^/ad/o⟦奸ˢ/行/o⟧:【PIV】Konduto de stukac^o: la iom specialaj psikaj trajtoj de s-ro D. lin pelis al stukac^ado K.
 stult/ig/i⟦愚/使/i⟧:【PIV】Fari stulta: stultigi infanon per senc^esaj admonoj k riproc^oj.
 stump/a⟦桩/a⟧:【PIV】Prezentanta stumpon: hundo kun stumpa vosto; (f (figurasence)) la stumpa Parlamento (de Kromvelo, post elpurigado de la opozicio).
-stuphar/a:【PIV】Havanta harojn similajn al stupo per sia flavhela koloro.
+stup/har/a⟦填ˢ/毛/a⟧:【PIV】Havanta harojn similajn al stupo per sia flavhela koloro.##偽分解
 stupor/o⟦昏ˢᵀ/o⟧:【医】【PIV】1 Stato de konscioperdo, tia ke la paciento respondas al nur tre forta stimulado. 2 (f (figurasence)) Obtuza senmovig^o pro fortega surprizo au^ timo.
 stupor/a⟦昏ˢᵀ/a⟧:【PIV】Trafita de stuporo: li restis stupora antau^ la kadavro.
 stupor/i⟦昏ˢᵀ/i⟧:【PIV】(ntr (netransitiva)) Senti stuporon.
@@ -56442,7 +56442,7 @@ triptofan/o:【化】【生】【PIV】Hetero-ducikla aminacido, C 8 H 7 N-CH 2-
 Triptolem/o:【PIV】Reg^o el Eleu^ziso, kiu lernis de Demeter k instruis al siaj regatoj la agrikulturon.
 trism/o:【医】【PIV】Spasma fermig^o de la makzeloj, simptomo de tetanoso.
 Trismegist/o:【神】【PIV】1 Alnomo («trioble grandega») de Hermeso k de Toto. 2 Ps-a (Pseu^donima) au^toro de pluraj hermetike gnostikaj verkoj.
-trisom/a:【PIV】Vd (vidu) -som/ ①.
+tri/som/a⟦三/体ˢᴹ/a⟧:【PIV】Vd (vidu) -som/ ①.##偽分解(PIV正式分解)
 trist/o⟦悲ᵀˢ/o⟧:【PIV】Tio, kio igas trista: en kavoj de la nesondebla tristo.
 trist/ec/o⟦悲ᵀˢ/性/o⟧:【PIV】Eco de iu, io trista: droni en tristeco.
 Tristan/o:【PIV】Vira nomo, i.a. (interalie, inter aliaj) de la amanto de Izoldo.
@@ -58305,7 +58305,7 @@ mal/felic^/eg/o⟦反/幸/巨/o⟧:【PIV】Ekstrema malfelic^o. Vd katastrofo.
 mal/felic^/ig/i⟦反/幸/使/i⟧:【PIV】Fari iun malfelic^a.
 mal/felic^/ul/o⟦反/幸/者/o⟧:【PIV】Homo malfelic^a: ho ve, mi malfelic^ulo! ; helpi al la malfelic^uloj.
 s^af/femur/aj^/o⟦羊/股ᶠ/物/o⟧:【PIV】Femuro de s^afo, preparita por la mang^o. Sin. (sinonimo) s^afklabo.
-di/metoksi/fenol/o⟦二ᴰᴵ/甲氧/fenol/o⟧:【PIV】Gvajakolo.##偽分解(PIV正式分解)##過細分解 d/i/metoksi/fenol/o
+di/met/oksi/fenol/o⟦二ᴰᴵ/甲ᴹᴱ/氧/fenol/o⟧:【PIV】Gvajakolo.##偽分解(PIV正式分解)##過細分解 d/i/m/e/t/oksi/fenol/o
 poli/klor/bi/fenil/o⟦多ᴾ/氯/二ᴮ/fenil/o⟧:【化】【生態】【PIV】Sintezita substanco, uzata i.a. (interalie, inter aliaj) en kondensatoroj, kiu estas tre persista en la medio k i.a. (interalie, inter aliaj) perturbas la reproduktig^on de fokoj.
 tio/fenol/o:【化】【PIV】C 6 H 5-SH.##偽分解##過細分解 t/i/o/fenol/o
 dis/fend/o⟦散/裂ᶠ/o⟧:【PIV】Larg^a fendo: disfendo en roko; (f (figurasence)) disfendo en partio. Vd skismo.
@@ -60422,7 +60422,7 @@ or/pluv/o⟦金/雨/o⟧:【PIV】Laburno.
 or/pluvi/o⟦金/鸟ᴾⱽ/o⟧:【PIV】Sp. (Specio) de pluvio (Pluvialis apricaria) kun blanka strio ambau^flanke de la nigraj ventro, brusto k kolo, k kun nur 3 piedfingroj.
 ole/o/pneu^mat/a⟦油/o/气ᴾ/a⟧:【PIV】Funkcianta per kombinado de pneu^mataj k de oleaj hidrau^likaj sistemoj: oleo pneu^mata suspensio.
 s^alt/podi/o⟦开/台/o⟧:【電】【PIV】Alta loko en elektra centralo, kie s^alttabulo estas instalita por kontroli la mas^inaron.
-eritrocit/o/poez/o⟦红胞/o/生ᴾ/o⟧:【PIV】Eritropoezo.
+eritr/o/cit/o/poez/o⟦红ᴱ/o/胞ᶜᴵ/o/生ᴾ/o⟧:【PIV】Eritropoezo.##偽分解##過細分解 eritr/o/c/i/t/o/poez/o
 hemat/o/poez/o⟦血ᴴᵀ/o/生ᴾ/o⟧:【PIV】Formig^o de sangoc^eloj en la osta medolo. Sin. (sinonimo) globulestig^o.
 leu^ko/cit/o/poez/o⟦白ᴸ/胞ᶜᴵ/o/生ᴾ/o⟧:【PIV】Leu^kopoezo.##偽分解##過細分解 leu^ko/c/i/t/o/poez/o
 limf/o/poez/o⟦淋ᴸ/o/生ᴾ/o⟧:【PIV】Formig^o de blankaj globuloj k limfocitoj en la limfoidaj organoj.
