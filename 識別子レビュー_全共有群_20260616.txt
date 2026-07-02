@@ -2007,6 +2007,14 @@
   galb           凸ᴳ         F=3     piv     凸状輪郭
   protrud        凸ᴾ         F=2     piv     【解】突出した
 
+【排】 6件
+  ekskluziv      排          F=11    basic   
+  kompost        排ᴷ         F=13    pejvo   
+  dren           排ᴰ         F=8     pejvo   
+  eksklud        排ᴱᴰ        F=4     pejvo   
+  ekskreci       排ᴱᴿ        F=4     pejvo   
+  kotlet         排ᴷᵀ        F=4     pejvo   
+
 【皮】 6件
   haŭt           皮          F=37    basic   
   fel            皮ᶠ         F=17    basic   
@@ -2495,13 +2503,6 @@
   skol           派ˢᴸ        F=4     pejvo   
   konfesi        派ᴷ         F=2     pejvo   
 
-【排】 5件
-  ekskluziv      排          F=11    basic   
-  kompost        排ᴷ         F=13    pejvo   
-  dren           排ᴰ         F=8     pejvo   
-  eksklud        排ᴱᴰ        F=4     pejvo   
-  kotlet         排ᴷᵀ        F=4     pejvo   
-
 【伴】 5件
   koleg          伴          F=7     basic   
   kompani        伴ᴷᴹ        F=22    basic   
@@ -2931,6 +2932,12 @@
   fakultat       系ᶠ         F=12    pejvo   
   genea          系ᴳ         F=4     pejvo   
   spalir         系ˢᴾ        F=2     pejvo   
+
+【欠】 4件
+  ŝuld           欠          F=23    basic   
+  debet          欠ᴰ         F=5     basic   
+  deficit        欠ᴰᶠ        F=4     basic   
+  osced          欠ᴼ         F=3     basic   
 
 【血】 4件
   sang           血          F=86    basic   
@@ -3682,6 +3689,12 @@
   percept        觉ᴾ         F=7     pejvo   
   bodi           觉ᴮ         F=3     pejvo   
 
+【认】 4件
+  kon            认          F=44    basic   
+  konfes         认ᴷᶠ        F=12    basic   
+  agnosk         认ᴬ         F=3     pejvo   
+  kogn           认ᴷᴳ        F=4     piv     認知
+
 【评】 4件
   taks           评          F=24    basic   
   kritik         评ᴷ         F=21    basic   
@@ -3993,11 +4006,6 @@
   alarm          警ᴬ         F=12    basic   
   avert          警ᴬⱽ        F=5     basic   
 
-【欠】 3件
-  ŝuld           欠          F=23    basic   
-  debet          欠ᴰ         F=5     basic   
-  osced          欠ᴼ         F=3     basic   
-
 【月】 3件
   lun            月          F=35    basic   
   monat          月ᴹ         F=26    basic   
@@ -4107,6 +4115,11 @@
   bros           刷          F=10    basic   
   strigl         刷ˢ         F=2     pejvo   
   skovel         刷ˢᴷ        F=2     piv     管掃除ブラシ
+
+【思】 3件
+  pens           思          F=49    basic   
+  medit          思ᴹ         F=5     basic   
+  kontempl       思ᴷ         F=4     pejvo   
 
 【指】 3件
   fingr          指          F=35    basic   
@@ -5113,11 +5126,6 @@
   ideologi       观ᴵ         F=0     basic   
   spekt          观ˢ         F=14    pejvo   
 
-【认】 3件
-  kon            认          F=44    basic   
-  konfes         认ᴷᶠ        F=12    basic   
-  agnosk         认ᴬ         F=3     pejvo   
-
 【让】 3件
   ced            让          F=22    basic   
   konced         让ᴷ         F=3     pejvo   
@@ -5731,10 +5739,6 @@
 【志】 2件
   ambici         志          F=4     basic   
   grafi          志ᴳ         F=94    sci     【医】書字障害(失書)
-
-【思】 2件
-  pens           思          F=49    basic   
-  medit          思ᴹ         F=5     basic   
 
 【止】 2件
   ĉes            止          F=10    basic   
