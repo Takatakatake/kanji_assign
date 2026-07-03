@@ -45585,7 +45585,7 @@ Bakh^/an/o:【PIV】Adept(in)o de Bakh^o.
 Bakh^/an/in/o:【PIV】Adept(in)o de Bakh^o.
 Bakh^/ant/o:【宗】【PIV】Pastro au^ aktiva partoprenanto en la mistik-ekstaza kultado de Bakh^o.
 bakh^/ant/in/o:【PIV】Kultantino, posedata de Bakh^o en ties orgia kulto: Orfeo estis diss^irita de la Bakh^antinoj. Vd menado.
-Bakh^ofest/o:【PIV】Iu el la festoj, dedic^itaj al Bakh^o en Ateno au^ Romo. Vd Bakh^analio.
+Bakh^/o/fest/o:【PIV】Iu el la festoj, dedic^itaj al Bakh^o en Ateno au^ Romo. Vd Bakh^analio.
 Bakh^anali/o:【史】【PIV】Orgia festo de Bakh^o en Romo.
 baklav/o:【PIV】Dolc^a densa kuko el nuksoj, amandoj k foje sekvinberoj au^ zingibro, sukerita au^ mielita.
 baks^is^/o:【PIV】(fm (familiara, familiare)) S^mirmono.
@@ -46679,7 +46679,7 @@ diafanoskopi/o:【医】【PIV】Procedo por esplori iujn korpopartojn (sinusoj,
 diagenez/o:【地質】【PIV】Aro de procezoj (biokemiaj, kemiaj k fizikaj), per kiuj sedimento transformig^as al petro. Vd petrig^o, metamorfismo.
 diagnostik/o:【PIV】= diagnoziko.
 diagnoz/ist/o:【PIV】Specialisto pri diagnozo 1.
-diagnozik/o:【PIV】Parto de la medicino, pri la metodoj de diagnozo.
+diagnoz/ik/o:【PIV】Parto de la medicino, pri la metodoj de diagnozo.
 diaklaz/o:【地質】【PIV】Rezulto de rompig^o de petromaso au^ de tavol(ar)o sen relativa movig^o de la disigitaj partoj. Vd fau^lto.
 diakon/ec/o:【PIV】Titolo k funkcio de diakono.
 diakon/in/o:【PIV】Ina diakono 1, 3: Febe, kiu estas diakonino en la eklezio de Kenkrea .
@@ -47999,7 +47999,7 @@ frambezi/o:【医】【PIV】Tropiklanda kontag^a k epidemia malsano, karakteriz
 frame/o:【史】【PIV】J^etlanco de la antikvaj Frankoj.
 franc/ig/i:【PIV】Doni al io francan karakteron: francigi modon, vorton.
 franc/ism/o:【PIV】Apartaj^o de la franca lingvo.
-Franclingvi/o:【PIV】Tuto de la teritorioj au^ medioj, en kiuj estas uzata la franca lingvo.
+Franc/lingv/i/o:【PIV】Tuto de la teritorioj au^ medioj, en kiuj estas uzata la franca lingvo.
 francisk/an/ism/o:【PIV】Tuto de la reguloj, ideoj k moroj de la franciskana ordeno.
 francium/o:【PIV】= francio.
 Franc-Jozef/a:【PIV】Nomepiteto de insularo en Arkta Oceano, oriente de Spicbergo (55E, 80°30′N).
@@ -48312,7 +48312,7 @@ geris/o:【動】【PIV】G. (Genro) (Gerris) de longkruraj cimoj, rapide mars^a
 german/ig/i:【PIV】Doni al io germanan karakteron.
 german/ism/o:【PIV】Aparta dirmaniero au^ moro karakteriza de la germanoj.
 german/ist/o:【PIV】Specialisto pri la germana lingvo.
-Germanlingvi/o:【PIV】Tuto de la teritorioj au^ medioj, en kiuj estas uzata la germana lingvo.
+German/lingv/i/o:【PIV】Tuto de la teritorioj au^ medioj, en kiuj estas uzata la germana lingvo.
 germaniat/o:【化】【PIV】Salo de la germaniata acido, H 2 GeO 3.
 Germanik/o:【PIV】Kromnomo de Roma konsulo k armeestro (Tiberius Drusus Nero, 16 a.K. (antau^ Kristo) −19 p.K. (post Kristo)).
 Geront/o:【PIV】Vira nomo, ofta en la antikvaj komedioj por nomi maljunulon.
@@ -52924,7 +52924,7 @@ paladin/o:【PIV】Mezepoka eu^ropa heroa kavaliro.
 palakvi/o:【植】【PIV】G. (Genro) (Palaquium el sapotacoj) de laktosukohavaj arboj; c^. (c^irkau^) 110 sp-oj (specioj) precipe el SE Azio k Malajzio, pluraj ekspluatataj por ricevo de gutao 2. Vd gutao 1, pajeno.
 Palas/o:【史】【PIV】1 Vira nomo, i.a. (interalie, inter aliaj) de favorato k murdinto (kun Agripino) de Klau^dio. 2【天】 Nomo de planedeto.
 palatit/o:【医】【PIV】Bus^inflamo, limigita al la palato.
-palatalalveolar/o:【語】【PIV】Nomo de kategorio de frikativoj k afrikatoj, c^e kiuj la retirig^o de la lango produktas s^us^an sonon (en E. j^, s^, g^, c^). Sin. (sinonimo) palatalveol-sono.
+palatal/alveolar/o:【語】【PIV】Nomo de kategorio de frikativoj k afrikatoj, c^e kiuj la retirig^o de la lango produktas s^us^an sonon (en E. j^, s^, g^, c^). Sin. (sinonimo) palatalveol-sono.
 palatin/o:【史】【PIV】Grafo, havanta en sia graflando la saman jurisdikcion, kiel aliloke la reg^o: angla, germana palatino.
 palavr/o:【PIV】Interkonsilado, longega diskuto lau^ afrikaj moroj: (f (figurasence)) kunvokis la reg^o la palavron ; ofte la kunsidoj de la parlamento similas al eternaj palavroj .
 palavr/i:【PIV】(ntr (netransitiva)) Senfine paroladi, en diskuto. Vd c^ikani.
@@ -53809,7 +53809,7 @@ princ/o/land/o:【PIV】Lando, regata de princo 1.
 prior/ec/o:【PIV】Titolo k rango de prioro.
 prist/o:【動】【PIV】G. (Genro) (Pristis) de fis^oj parencaj al rajoj, sed kun supra makzelo longa kiel glavo, portanta dentojn ambau^flanke; vivas en varmaj maroj. Sin. (sinonimo) segilfis^o.
 prizon/a:【PIV】Rilata al prizono(j): prizona puno, reg^imo, organizado, sistemo.
-probablik/o:【数】【PIV】Teorio k kalkulo pri probabloj.
+probabl/ik/o:【数】【PIV】Teorio k kalkulo pri probabloj.
 procedur/a:【PIV】Rilata al proceduro: procedura regularo.
 procelari/o:【動】【PIV】G. (Genro) (Procellaria) de malgrandaj, hirundsimilaj marbirdoj el la tropikaj k au^stralaj maroj. Vd pufino.
 procelari/ed/oj:【動】【PIV】Fam. (Familio) (Procellariidae) de birdoj kun kunaj bektuboj, ampleksanta i.a. (interalie, inter aliaj) procelarion k pufinon.
@@ -54178,7 +54178,7 @@ rasp/ej/o:【PIV】Loko en sukerfabriko, kie oni raspas la betojn.
 rastr/o:【PIV】Fosilo kun triangula ferplato fiksita akutangule al la tenilo.
 rastr/um/i:【技】【PIV】Skani (surfacon) lau^ paralelaj linioj kun egalaj interspacoj: rastruma skanado, ekrano, presilo, grafiko, tiparo; rastrumigilo (rastruma skanilo).
 rastr/um/o:【情】【PIV】Bitbildo.
-rastrumer/o:【情】【PIV】Bildero.
+rastr/um/er/o:【情】【PIV】Bildero.
 rastral/o:【PIV】Speciala kvinbeka ilo, por streki la liniaron sur muzikfolioj.
 ras^/o:【医】【PIV】Efemera erupcio, iel simila al skarlatino, morbilo ks (kaj simile, kaj similaj), k aperanta okaze de diversaj febraj malsanoj.
 ratafi/o:【PIV】Brando au^ likvoro, gustigita per amandoj au^ kernoj de persiko, abrikoto au^ c^erizo.

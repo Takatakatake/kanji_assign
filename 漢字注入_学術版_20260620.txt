@@ -45585,7 +45585,7 @@ Bakh^/an/o:【PIV】Adept(in)o de Bakh^o.
 Bakh^/an/in/o:【PIV】Adept(in)o de Bakh^o.
 Bakh^/ant/o:【宗】【PIV】Pastro au^ aktiva partoprenanto en la mistik-ekstaza kultado de Bakh^o.
 bakh^/ant/in/o⟦bakh^/在/女/o⟧:【PIV】Kultantino, posedata de Bakh^o en ties orgia kulto: Orfeo estis diss^irita de la Bakh^antinoj. Vd menado.
-Bakh^ofest/o:【PIV】Iu el la festoj, dedic^itaj al Bakh^o en Ateno au^ Romo. Vd Bakh^analio.
+Bakh^/o/fest/o:【PIV】Iu el la festoj, dedic^itaj al Bakh^o en Ateno au^ Romo. Vd Bakh^analio.
 Bakh^anali/o:【史】【PIV】Orgia festo de Bakh^o en Romo.
 baklav/o:【PIV】Dolc^a densa kuko el nuksoj, amandoj k foje sekvinberoj au^ zingibro, sukerita au^ mielita.
 baks^is^/o:【PIV】(fm (familiara, familiare)) S^mirmono.
@@ -46679,7 +46679,7 @@ diafanoskopi/o:【医】【PIV】Procedo por esplori iujn korpopartojn (sinusoj,
 diagenez/o:【地質】【PIV】Aro de procezoj (biokemiaj, kemiaj k fizikaj), per kiuj sedimento transformig^as al petro. Vd petrig^o, metamorfismo.
 diagnostik/o:【PIV】= diagnoziko.
 diagnoz/ist/o⟦诊断/家/o⟧:【PIV】Specialisto pri diagnozo 1.
-diagnozik/o:【PIV】Parto de la medicino, pri la metodoj de diagnozo.
+diagnoz/ik/o⟦诊断/学ᴵ/o⟧:【PIV】Parto de la medicino, pri la metodoj de diagnozo.
 diaklaz/o:【地質】【PIV】Rezulto de rompig^o de petromaso au^ de tavol(ar)o sen relativa movig^o de la disigitaj partoj. Vd fau^lto.
 diakon/ec/o⟦助祭/性/o⟧:【PIV】Titolo k funkcio de diakono.
 diakon/in/o⟦助祭/女/o⟧:【PIV】Ina diakono 1, 3: Febe, kiu estas diakonino en la eklezio de Kenkrea .
@@ -47999,7 +47999,7 @@ frambezi/o:【医】【PIV】Tropiklanda kontag^a k epidemia malsano, karakteriz
 frame/o:【史】【PIV】J^etlanco de la antikvaj Frankoj.
 franc/ig/i⟦franc/使/i⟧:【PIV】Doni al io francan karakteron: francigi modon, vorton.
 franc/ism/o⟦franc/主义/o⟧:【PIV】Apartaj^o de la franca lingvo.
-Franclingvi/o:【PIV】Tuto de la teritorioj au^ medioj, en kiuj estas uzata la franca lingvo.
+Franc/lingv/i/o:【PIV】Tuto de la teritorioj au^ medioj, en kiuj estas uzata la franca lingvo.
 francisk/an/ism/o⟦francisk/员ᴬ/主义/o⟧:【PIV】Tuto de la reguloj, ideoj k moroj de la franciskana ordeno.
 francium/o:【PIV】= francio.
 Franc-Jozef/a:【PIV】Nomepiteto de insularo en Arkta Oceano, oriente de Spicbergo (55E, 80°30′N).
@@ -48312,7 +48312,7 @@ geris/o⟦虫ᴳˢ/o⟧:【動】【PIV】G. (Genro) (Gerris) de longkruraj cimo
 german/ig/i⟦german/使/i⟧:【PIV】Doni al io germanan karakteron.
 german/ism/o⟦german/主义/o⟧:【PIV】Aparta dirmaniero au^ moro karakteriza de la germanoj.
 german/ist/o⟦german/家/o⟧:【PIV】Specialisto pri la germana lingvo.
-Germanlingvi/o:【PIV】Tuto de la teritorioj au^ medioj, en kiuj estas uzata la germana lingvo.
+German/lingv/i/o:【PIV】Tuto de la teritorioj au^ medioj, en kiuj estas uzata la germana lingvo.
 germaniat/o:【化】【PIV】Salo de la germaniata acido, H 2 GeO 3.
 Germanik/o:【PIV】Kromnomo de Roma konsulo k armeestro (Tiberius Drusus Nero, 16 a.K. (antau^ Kristo) −19 p.K. (post Kristo)).
 Geront/o:【PIV】Vira nomo, ofta en la antikvaj komedioj por nomi maljunulon.
@@ -52924,7 +52924,7 @@ paladin/o:【PIV】Mezepoka eu^ropa heroa kavaliro.
 palakvi/o⟦木ᴾᴸ/o⟧:【植】【PIV】G. (Genro) (Palaquium el sapotacoj) de laktosukohavaj arboj; c^. (c^irkau^) 110 sp-oj (specioj) precipe el SE Azio k Malajzio, pluraj ekspluatataj por ricevo de gutao 2. Vd gutao 1, pajeno.
 Palas/o:【史】【PIV】1 Vira nomo, i.a. (interalie, inter aliaj) de favorato k murdinto (kun Agripino) de Klau^dio. 2【天】 Nomo de planedeto.
 palatit/o:【医】【PIV】Bus^inflamo, limigita al la palato.
-palatalalveolar/o:【語】【PIV】Nomo de kategorio de frikativoj k afrikatoj, c^e kiuj la retirig^o de la lango produktas s^us^an sonon (en E. j^, s^, g^, c^). Sin. (sinonimo) palatalveol-sono.
+palatal/alveolar/o:【語】【PIV】Nomo de kategorio de frikativoj k afrikatoj, c^e kiuj la retirig^o de la lango produktas s^us^an sonon (en E. j^, s^, g^, c^). Sin. (sinonimo) palatalveol-sono.
 palatin/o⟦宫伯/o⟧:【史】【PIV】Grafo, havanta en sia graflando la saman jurisdikcion, kiel aliloke la reg^o: angla, germana palatino.
 palavr/o⟦议ᴾⱽ/o⟧:【PIV】Interkonsilado, longega diskuto lau^ afrikaj moroj: (f (figurasence)) kunvokis la reg^o la palavron ; ofte la kunsidoj de la parlamento similas al eternaj palavroj .
 palavr/i⟦议ᴾⱽ/i⟧:【PIV】(ntr (netransitiva)) Senfine paroladi, en diskuto. Vd c^ikani.
@@ -53809,7 +53809,7 @@ princ/o/land/o⟦侯/o/国/o⟧:【PIV】Lando, regata de princo 1.
 prior/ec/o⟦院长ᴾ/性/o⟧:【PIV】Titolo k rango de prioro.
 prist/o⟦鱼ᴾˢ/o⟧:【動】【PIV】G. (Genro) (Pristis) de fis^oj parencaj al rajoj, sed kun supra makzelo longa kiel glavo, portanta dentojn ambau^flanke; vivas en varmaj maroj. Sin. (sinonimo) segilfis^o.
 prizon/a⟦狱ᴾ/a⟧:【PIV】Rilata al prizono(j): prizona puno, reg^imo, organizado, sistemo.
-probablik/o:【数】【PIV】Teorio k kalkulo pri probabloj.
+probabl/ik/o⟦概/学ᴵ/o⟧:【数】【PIV】Teorio k kalkulo pri probabloj.
 procedur/a⟦程ᴾᴰ/a⟧:【PIV】Rilata al proceduro: procedura regularo.
 procelari/o⟦海燕/o⟧:【動】【PIV】G. (Genro) (Procellaria) de malgrandaj, hirundsimilaj marbirdoj el la tropikaj k au^stralaj maroj. Vd pufino.
 procelari/ed/oj⟦海燕/科ᴱ/oj⟧:【動】【PIV】Fam. (Familio) (Procellariidae) de birdoj kun kunaj bektuboj, ampleksanta i.a. (interalie, inter aliaj) procelarion k pufinon.
@@ -54178,7 +54178,7 @@ rasp/ej/o⟦粗ᴿ/所/o⟧:【PIV】Loko en sukerfabriko, kie oni raspas la bet
 rastr/o⟦锄/o⟧:【PIV】Fosilo kun triangula ferplato fiksita akutangule al la tenilo.
 rastr/um/i⟦锄/um/i⟧:【技】【PIV】Skani (surfacon) lau^ paralelaj linioj kun egalaj interspacoj: rastruma skanado, ekrano, presilo, grafiko, tiparo; rastrumigilo (rastruma skanilo).
 rastr/um/o⟦锄/um/o⟧:【情】【PIV】Bitbildo.
-rastrumer/o:【情】【PIV】Bildero.
+rastr/um/er/o⟦锄/um/粒/o⟧:【情】【PIV】Bildero.
 rastral/o:【PIV】Speciala kvinbeka ilo, por streki la liniaron sur muzikfolioj.
 ras^/o:【医】【PIV】Efemera erupcio, iel simila al skarlatino, morbilo ks (kaj simile, kaj similaj), k aperanta okaze de diversaj febraj malsanoj.
 ratafi/o:【PIV】Brando au^ likvoro, gustigita per amandoj au^ kernoj de persiko, abrikoto au^ c^erizo.
