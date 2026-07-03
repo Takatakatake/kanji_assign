@@ -45614,7 +45614,7 @@ Balduen/o:【PIV】Vira nomo.
 balen/ed/oj:【動】【PIV】Fam. (Familio) (Balaenidae) de bartocetacoj sen dorsa nag^ilo.
 balen/id/o:【PIV】Ido de baleno.
 balenopter/o:【動】【PIV】G. (Genro) (Balaenoptera) de cetacoj kun bartoj anst. (anstatau^) dentoj k kun dorsa nag^ilo. Sin. (sinonimo) rorkvalo. Vd baleno.
-balen/o/pter/ed/oj:【動】【PIV】Fam. (Familio) (Balaenopteridae) de bartocetacoj kun dorsa nag^ilo.
+balenopter/ed/oj:【動】【PIV】Fam. (Familio) (Balaenopteridae) de bartocetacoj kun dorsa nag^ilo.
 balet/estr/o:【PIV】Tiu, kiu gvidas la provadon k plenumadon de baleto. Vd koregrafo.
 balist/a:【理】【PIV】a) Funkcianta per pus^oj: balista mezuro per galvanometro. b) (pli speciale, pp (se paroli pri) misilo au^ raketo) Ne gvidata post la elpafado.
 balkan/ig/i:【PIV】(f (figurasence)) Dividi regionon en malgrandajn, inter si malamikajn regnojn.
@@ -48032,7 +48032,7 @@ fri:【商】【PIV】Prep. (Prepozicio) signifanta: 1 ke la prezo inkluzivas la
 frid/o:【PIV】Malvarmo: mi perdis al vi fidon, kiu el sama bus^o blovas varmon k fridon . -> fridoterapio.
 frid/ig/ad/o:【PIV】Procedo de konservado de nutraj^oj en temperaturo inter 2° k 5 °C (celsia(j) grado(j)). Vd frostigado.
 frid/ig/il/o:【PIV】Aparato por produkti konstantan malvarmon en fridujo.
-fridunu/o:【理】【PIV】Malnova unuo de forigita varmokvanto (kontraste kun kalorio); simb. (simbolo): fg.
+frid/unu/o:【理】【PIV】Malnova unuo de forigita varmokvanto (kontraste kun kalorio); simb. (simbolo): fg.
 frig/o:【PIV】Ano de antikva popolo, log^anta en Frigio.
 frig/a:【PIV】1 Rilata al frigo: li, friga sklavo (Ezopo) , estis platnaza, […] s^velventra knabo; friga c^apo. 2 (pp (se paroli pri) modalo) Uzanta la naturajn tonojn E g^is E’.
 Frigi/o:【史】【PIV】Iama regno en la centro de Malgrandazio (30°E, 39°N).
@@ -51387,7 +51387,7 @@ leu^kocit/oz/o:【医】【PIV】Pliig^o de la leu^kocitoj en la sango au^ en iu
 leu^koj/o:【植】【PIV】G. (Genro) (Leucojum el amarilidacoj), parenca al galanto, de plurjaraj herboj kun tunika bulbo, kun elbazaj folioj k kun 1−7-opaj blankaj floroj, kies tri petalecaj sepaloj k tri petaloj unuope surhavas apeksan verdan au^ flavan makulon; c^. (c^irkau^) 10 sp-oj (specioj) el Eu^ropo k la Mediteranea regiono. -> levkojo.
 leu^kom/o:【医】【PIV】Blanka makulo de la korneo, cikatro de vundo au^ ulcero. Vd albugo.
 leu^koplast/o:【医】【PIV】Speco de kau^c^uka gluplastro, servanta por s^irmi malgrandajn vundojn.
-leu^ko/poez/o:【生】【PIV】Formig^o de leu^kocitoj en la organismo. Sin. (sinonimo) leu^kocitopoezo.
+leu^kopoez/o:【生】【PIV】Formig^o de leu^kocitoj en la organismo. Sin. (sinonimo) leu^kocitopoezo.
 leu^koz/o:【医】【PIV】Nenormala multig^o de leu^kocitoj en la produktantaj organoj (lieno, medolo); g^i povas manifestig^i per leu^kemio.
 levator/o:【PIV】1 = elevatoro. 2 Nomo de diversaj muskoloj, kiuj servas por levi membron: skapola, bus^angula levatoro.
 levanten/o:【PIV】(ark. (arkaismo, arkaisme)) Log^anto en la orienta parto de la Mediteraneaj regionoj.

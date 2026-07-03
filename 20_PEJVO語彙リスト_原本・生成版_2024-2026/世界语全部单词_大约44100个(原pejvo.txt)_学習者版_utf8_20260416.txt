@@ -7372,7 +7372,7 @@ dolc^/a kapsik/o:【料】ピーマン
 dolc^/akv/a:淡水の
 dolc^/akv/o:淡水
 dolc^/a maniok/o:【植】アマキャッサバ
-dolc^amar/o:【植】ズルカマラ,ビタースイート（マルバノホロシに似たナス属の一種、紫色の花と赤い実をつける）
+dolc^/amar/o:【植】ズルカマラ,ビタースイート（マルバノホロシに似たナス属の一種、紫色の花と赤い実をつける）##偽分解##エス的分解
 dolc^/a melodi/o:快いメロディー
 dolc^/anim/a:お人好しの,甘い
 dolc^/a prunus/o:【植】=migdalarbo（アーモンド）
@@ -45614,7 +45614,7 @@ Balduen/o:【PIV】Vira nomo.
 balen/ed/oj:【動】【PIV】Fam. (Familio) (Balaenidae) de bartocetacoj sen dorsa nag^ilo.
 balen/id/o:【PIV】Ido de baleno.
 balen/o/pter/o:【動】【PIV】G. (Genro) (Balaenoptera) de cetacoj kun bartoj anst. (anstatau^) dentoj k kun dorsa nag^ilo. Sin. (sinonimo) rorkvalo. Vd baleno.##偽分解##エス的分解
-balen/o/pter/ed/oj:【動】【PIV】Fam. (Familio) (Balaenopteridae) de bartocetacoj kun dorsa nag^ilo.
+balen/o/pter/ed/oj:【動】【PIV】Fam. (Familio) (Balaenopteridae) de bartocetacoj kun dorsa nag^ilo.##偽分解##エス的分解
 balet/estr/o:【PIV】Tiu, kiu gvidas la provadon k plenumadon de baleto. Vd koregrafo.
 balist/a:【理】【PIV】a) Funkcianta per pus^oj: balista mezuro per galvanometro. b) (pli speciale, pp (se paroli pri) misilo au^ raketo) Ne gvidata post la elpafado.
 balkan/ig/i:【PIV】(f (figurasence)) Dividi regionon en malgrandajn, inter si malamikajn regnojn.
@@ -47372,8 +47372,8 @@ eritren/o:【植】【PIV】G. (Genro) (Erythrina el fabacoj) de c^. (c^irkau^) 
 eritr/o/blast/o:【解】【PIV】Nukleohava c^elo de la ostmedolo, finevolue hemoglobinohava, antau^anto de eritrocito: c^e la mamuloj, eritroblasto maturig^inte perdas sian nukleon k farig^as eritrocito en la sango. -> poezo.##偽分解
 eritroksil/o:【植】【PIV】G. (Genro) (Erythroxylum el eritroksilacoj) de lignecaj plantoj kun s^osoj lau^aspekte ofte skvamaj k kun simplaj, stipulohavaj folioj; tropika, precipe S-Amerika g. (genro) de c^. (c^irkau^) 230 sp-oj (specioj), el kiuj kokao.
 eritroni/o:【植】【PIV】G. (Genro) (Erythronium el liliacoj) de herboj kun tunika bulbo, kun du elbazaj folioj k kun senfoliaj tigoj, portantaj pli-malpli pendantajn florojn po unu au^ malmultaj; N-hemisfera, precipe Amerika g. (genro) de c^. (c^irkau^) 20 sp-oj (specioj), kelkaj pororname kultivataj, ekz. (ekzemple) la hundodenta eritronio (E. dens-canis).
-eritropoez/o:【生】【PIV】Formig^o de la eritrocitoj en la osta medolo de plenkreskulo au^ en la hepato de embrio. Sin. (sinonimo) eritrocitopoezo.
-eritropoezin/o:【PIV】Poezino, stimulanta la produktadon de eritrocitoj en la osta medolo k sekve pliiganta la oksigenadon de la histoj: eritropoezino estas uzata de iuj sportistoj por elteni longedau^rajn strec^ojn. -> dopi.
+eritr/o/poez/o:【生】【PIV】Formig^o de la eritrocitoj en la osta medolo de plenkreskulo au^ en la hepato de embrio. Sin. (sinonimo) eritrocitopoezo.##偽分解
+eritr/o/poez/in/o:【PIV】Poezino, stimulanta la produktadon de eritrocitoj en la osta medolo k sekve pliiganta la oksigenadon de la histoj: eritropoezino estas uzata de iuj sportistoj por elteni longedau^rajn strec^ojn. -> dopi.##偽分解
 eritroz/o:【化】【PIV】1 Kvar-karbonatoma sukero, aldotetrozo, C 4 H 8 O 4. 2【医】 Stato de rug^ig^o de hau^to k de mukmembranoj, speciale pro troo de eritrocitoj en la sango.
 Erivan/o:【PIV】= Erevano.
 erizif/o:【植】【PIV】G. (Genro) (Erysiphe el erizifacoj), kosmopolita, de c^. (c^irkau^) 170 sp-oj (specioj) de mikroskopaj askofungoj, estigantaj melduon.
@@ -48032,7 +48032,7 @@ fri:【商】【PIV】Prep. (Prepozicio) signifanta: 1 ke la prezo inkluzivas la
 frid/o:【PIV】Malvarmo: mi perdis al vi fidon, kiu el sama bus^o blovas varmon k fridon . -> fridoterapio.
 frid/ig/ad/o:【PIV】Procedo de konservado de nutraj^oj en temperaturo inter 2° k 5 °C (celsia(j) grado(j)). Vd frostigado.
 frid/ig/il/o:【PIV】Aparato por produkti konstantan malvarmon en fridujo.
-fridunu/o:【理】【PIV】Malnova unuo de forigita varmokvanto (kontraste kun kalorio); simb. (simbolo): fg.
+frid/unu/o:【理】【PIV】Malnova unuo de forigita varmokvanto (kontraste kun kalorio); simb. (simbolo): fg.
 frig/o:【PIV】Ano de antikva popolo, log^anta en Frigio.
 frig/a:【PIV】1 Rilata al frigo: li, friga sklavo (Ezopo) , estis platnaza, […] s^velventra knabo; friga c^apo. 2 (pp (se paroli pri) modalo) Uzanta la naturajn tonojn E g^is E’.
 Frigi/o:【史】【PIV】Iama regno en la centro de Malgrandazio (30°E, 39°N).
@@ -48348,7 +48348,7 @@ gir/i:【PIV】(ntr (netransitiva)) Rondire turnig^i: nu, provizore la mondo plu
 ##重複語g^ir/o:【PIV】Ago g^iri 1 k 2, k konsekvence, subskribo de g^iranto.
 ##重複語g^ir/ad/o:【PIV】Agado de g^iranto: g^irado de kambio; la U-formaj g^iradoj estas malpermesitaj en kelkaj urboj.
 gir/ec/a:【PIV】Aspektanta kiel giroj 2.
-giromagnet/a:【理】【PIV】Rilata al magnetaj proprecoj de turnig^antaj elektraj s^argoj.
+gir/o/magnet/a:【理】【PIV】Rilata al magnetaj proprecoj de turnig^antaj elektraj s^argoj.##偽分解
 gir/o/metr/o:【PIV】En veturilo, indikilo pri la girrapido de la motoro.##偽分解(PIV正式分解)
 giromitr/o:【植】【PIV】G. (Genro) (Gyromitra el helvelacoj) de askofungoj kun grandaj, fragile karnecaj askujoj, karakterizataj de mallonga, dika, kava stipo k de nesimetrie tuberforma, gireca kapo; c^. (c^irkau^) 6 sp-oj (specioj), precipe el la malvarme mildaj regionoj, i.a. (interalie, inter aliaj) G. (Genro) esculenta kelkafoje mang^ata (nur post kuirado au^ sekigado), sed evitenda.
 giromitrin/o:【化】【PIV】Varmodetruebla, kanceriga tokso, CH 3-CH=N-N(CH 3)(CHO) (N-formiil-hidrazono de etanalo), de G. (Genro) esculenta.
@@ -51387,7 +51387,7 @@ leu^ko/cit/oz/o:【医】【PIV】Pliig^o de la leu^kocitoj en la sango au^ en i
 leu^koj/o:【植】【PIV】G. (Genro) (Leucojum el amarilidacoj), parenca al galanto, de plurjaraj herboj kun tunika bulbo, kun elbazaj folioj k kun 1−7-opaj blankaj floroj, kies tri petalecaj sepaloj k tri petaloj unuope surhavas apeksan verdan au^ flavan makulon; c^. (c^irkau^) 10 sp-oj (specioj) el Eu^ropo k la Mediteranea regiono. -> levkojo.
 leu^kom/o:【医】【PIV】Blanka makulo de la korneo, cikatro de vundo au^ ulcero. Vd albugo.
 leu^koplast/o:【医】【PIV】Speco de kau^c^uka gluplastro, servanta por s^irmi malgrandajn vundojn.
-leu^ko/poez/o:【生】【PIV】Formig^o de leu^kocitoj en la organismo. Sin. (sinonimo) leu^kocitopoezo.
+leu^ko/poez/o:【生】【PIV】Formig^o de leu^kocitoj en la organismo. Sin. (sinonimo) leu^kocitopoezo.##偽分解
 leu^koz/o:【医】【PIV】Nenormala multig^o de leu^kocitoj en la produktantaj organoj (lieno, medolo); g^i povas manifestig^i per leu^kemio.
 lev/ator/o:【PIV】1 = elevatoro. 2 Nomo de diversaj muskoloj, kiuj servas por levi membron: skapola, bus^angula levatoro.##偽分解(PIV正式分解)
 levanten/o:【PIV】(ark. (arkaismo, arkaisme)) Log^anto en la orienta parto de la Mediteraneaj regionoj.
@@ -54668,7 +54668,7 @@ sapot/ber/o:【PIV】Sapoto 3. -> c^iklo.
 sapr/o:【生態】【PIV】Neviva, organika materio.
 sapr/ej/a:【PIV】Kreskanta, en loko saproric^a.
 sapr/o/fit/o:【PIV】1 Vegetaj^o, vivanta el sapro. Vd parazito, epifito. 2 Saprobakterio.##偽分解(PIV正式分解)
-saprozo/o:【動】【PIV】Protozoo au^ metazoo, vivanta el sapro.
+sapr/o/zo/o:【動】【PIV】Protozoo au^ metazoo, vivanta el sapro.##偽分解(PIV正式分解)
 sapr/o/viv/ul/o:【生態】【PIV】Vivulo, vivanta el sapro.
 sapr/o/viv/ec/o:【PIV】Vivmaniero de saprovivulo.
 sapr/o/viv/ul/ism/o:【PIV】Vivmaniero de saprovivulo.
