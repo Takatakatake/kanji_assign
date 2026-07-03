@@ -46240,7 +46240,7 @@ centrifug/ad/o⟦离心/行/o⟧:【PIV】Apliko de la centrifuga forto, estigit
 centrifug/aj^/o⟦离心/物/o⟧:【PIV】Sedimento, produktita de la centrifuga efiko.
 centriol/o:【生】【PIV】Enc^ela organeto, konsistanta el 9 triopoj da tubetoj, c^e la bazo de la flageloj au^ la pinto de mitoza au^ mejoza spindelo.
 centromer/o:【生】【PIV】Loko de kromosomo, kie alfiksig^as la spindelfibroj.
-centrosom/o:【生】【PIV】Enc^ela organeto, c^e la pinto de mitoza au^ mejoza spindelo, kiu konsistas el du centrioloj.
+centr/o/som/o⟦央/o/体ˢᴹ/o⟧:【生】【PIV】Enc^ela organeto, c^e la pinto de mitoza au^ mejoza spindelo, kiu konsistas el du centrioloj.##偽分解(PIV正式分解)
 centuri/o⟦百队/o⟧:【史】【PIV】(c^e la Romanoj) Cento da civitanoj au^ da soldatoj.
 centuri/estr/o⟦百队/长ᴱ/o⟧:【PIV】Oficiro, komandanta centurion. Vd centestro.
 cenzor/o:【PIV】1 = censisto. 2 = cenzuristo.
@@ -51505,7 +51505,7 @@ Livon/uj/o:【PIV】Iama balta provinco de la Rusia Imperio, nun dividita inter 
 liz/o⟦解ᴸ/o⟧:【生】【医】【化】【PIV】Detrua dissolvo: a) Transformo de g^elo al solo ②, per aldono de akvo, pro la efiko i.a. (interalie, inter aliaj) de enzimoj: c^iuj digestaj fenomenoj reduktig^as al lizoj. b) Detruo de c^eloj au^ de histoj pro la efiko de agantoj fizikaj, kemiaj au^ biologiaj: mikroba lizo; c^ellizo, nukle lizo, fibrino lizo. 2 【化】Malkombino de komponita substanco al iuj el g^iaj kunmetaj^oj.
 liz/i⟦解ᴸ/i⟧:【PIV】(tr (transitiva)) Fari lizon: post koagulig^o la lakto estas lizita en la stomako; viruso lizas c^elon.
 liz/ig^/i⟦解ᴸ/成/i⟧:【PIV】Ig^i lizita: c^elo lizig^as.
-lizosom/o:【生】【PIV】(pp (se paroli pri) eu^kariotaj c^eloj) Vakuolo kun acida enhavo k enzimoj kapablaj hidrolizi enc^elajn organikajn molekulojn.
+liz/o/som/o⟦解ᴸ/o/体ˢᴹ/o⟧:【生】【PIV】(pp (se paroli pri) eu^kariotaj c^eloj) Vakuolo kun acida enhavo k enzimoj kapablaj hidrolizi enc^elajn organikajn molekulojn.##偽分解(PIV正式分解)
 lizerg/o:【化】【PIV】Radiko de lizergata acido (en kunmetaj^oj).
 lizin/o⟦赖/o⟧:【化】【PIV】Aminacido, NH 2 -(CH 2) 4-CH(NH 2)-COOH, unu el la 20 c^efaj aminacidoj de la proteinoj, esenca por la homo; simb. (simbolo): Lys.
 Lizip/o:【PIV】Helena skulptisto (4a jc (jarcento) a.K. (antau^ Kristo)).
@@ -52674,7 +52674,7 @@ ole/aj^/oj⟦油/物/oj⟧:【PIV】C^iuj oleaj substancoj, uzataj en industrio.
 ole/ec/o⟦油/性/o⟧:【PIV】Eco de oleaj^oj.
 ole/il/o⟦油/具/o⟧:【PIV】Organo de mas^ino, kiu entenas oleon au^ grasaj^on, por lubriki interfrotig^antajn surfacojn.
 olein/o:【化】【PIV】Likva graso, triglicerido de oleata acido.
-oleosom/o:【植】【PIV】Organeto de iuj vegetaj^aj c^eloj, ric^a je lipidoj, trovig^anta i.a. (interalie, inter aliaj) en semoj.
+ole/o/som/o⟦油/o/体ˢᴹ/o⟧:【植】【PIV】Organeto de iuj vegetaj^aj c^eloj, ric^a je lipidoj, trovig^anta i.a. (interalie, inter aliaj) en semoj.##偽分解(PIV正式分解)
 ole/o/don/a⟦油/o/给/a⟧:【PIV】Liveranta oleon: oleodonaj plantoj, fruktoj.
 ole/o/metr/o⟦油/o/计ᴹ/o⟧:【PIV】En veturilo, indikilo pri la nivelo de oleo.##偽分解
 olefin/o:【PIV】(ark. (arkaismo, arkaisme)) = alkeno (Vd (vidu) alk/).
