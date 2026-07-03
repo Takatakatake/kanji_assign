@@ -2049,6 +2049,14 @@
   dermat         皮ᴰᵀ        F=5     pejvo   
   kortik         皮ᴷ         F=4     piv     【解】皮質
 
+【封】 6件
+  kovert         封          F=2     basic   
+  feu^d          封ᶠ         F=15    pejvo   
+  apanag^        封ᴬ         F=3     pejvo   
+  hermetik       封ᴴ         F=2     pejvo   
+  defens         封ᴰ         F=2     piv     放牧を禁じる
+  tenur          封ᵀ         F=1     piv     
+
 【帽】 6件
   ĉapel          帽          F=22    basic   
   ĉap            帽ᶜ̂ᴬ       F=16    basic   
@@ -2528,13 +2536,6 @@
   pesim          悲ᴾ         F=3     pejvo   
   trist          悲ᵀˢ        F=3     pejvo   
 
-【封】 5件
-  kovert         封          F=2     basic   
-  feu^d          封ᶠ         F=15    pejvo   
-  apanag^        封ᴬ         F=3     pejvo   
-  hermetik       封ᴴ         F=2     pejvo   
-  defens         封ᴰ         F=2     piv     放牧を禁じる
-
 【文】 5件
   kler           文          F=11    basic   
   tekst          文ᵀ         F=27    basic   
@@ -2932,6 +2933,12 @@
   kanzon         曲ᴷᴺ        F=4     basic   
   hiperbol       曲ᴴ         F=3     pejvo   
   romanc         曲ᴿ         F=2     pejvo   
+
+【具】 4件
+  il             具          F=1276  suf     
+  mebl           具ᴹ         F=16    basic   
+  ator           具ᴬ         F=6     suf     
+  konkret        具ᴷ         F=6     basic   
 
 【空】 4件
   spac           空          F=29    basic   
@@ -3893,6 +3900,11 @@
   limul          蟹ᴸ         F=1     pejvo   
   pagur          蟹ᴾ         F=1     pejvo   
 
+【外科】 3件
+  kirurg         外科         F=2     basic   
+  kirurgi        外科ᴷᴵ       F=6     basic   
+  h^irurg        外科ᴴ̂       F=1     pejvo   
+
 【柿】 3件
   persimon       柿          F=2     pejvo   
   kakinok        柿ᴷ         F=3     piv     【植】カキノキ
@@ -4002,11 +4014,6 @@
   region         区          F=20    basic   
   kvartal        区ᴷ         F=19    basic   
   distrikt       区ᴰ         F=9     basic   
-
-【具】 3件
-  il             具          F=1276  suf     
-  mebl           具ᴹ         F=16    basic   
-  konkret        具ᴷ         F=6     basic   
 
 【愚】 3件
   stult          愚          F=5     basic   
@@ -5412,10 +5419,6 @@
   mustard        芥          F=4     basic   
   sinap          芥ˢ         F=3     pejvo   
 
-【外科】 2件
-  kirurg         外科         F=2     basic   
-  kirurgi        外科ᴷᴵ       F=6     basic   
-
 【害】 2件
   noc            害          F=6     pejvo   
   atenc          害ᴬ         F=9     pejvo   
@@ -5927,6 +5930,10 @@
 【信风】 2件
   trad           信风         F=3     pejvo   
   alize          信风ᴬ        F=2     piv     貿易風
+
+【心医】 2件
+  psikiatr       心医         F=1     pejvo   
+  psikiatri      心医ᴾᴵ       F=3     pejvo   
 
 【振】 2件
   vibr           振          F=15    pejvo   
@@ -6463,6 +6470,10 @@
 【蓬】 2件
   vil            蓬          F=3     pejvo   
   hirt           蓬ᴴ         F=8     pejvo   
+
+【剖】 2件
+  anatom         剖          F=1     pejvo   
+  anatomi        剖ᴬᴵ        F=4     pejvo   
 
 【忘】 2件
   forges         忘          F=13    basic   
