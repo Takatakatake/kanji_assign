@@ -279,7 +279,7 @@ administr/ad/o:管理;運営,経営;行政
 administr/a konsil/ant/ar/o:重役会,理事会
 administr/ant/ar/o:取締役会,経営陣
 administr/ant/o:管理者,管理責任者;経営者,運営者;行政官
-administrator/o:=administranto（管理者）
+administr/ator/o:=administranto（管理者）##偽分解(PIV正式分解)
 administr/a vic/ministr/o:【政】事務次官
 administr/ej/o:管理部,管理事務所
 administr/i:{Ｂ}［他］管理する,経営する,運営する;（〜の）行政をつかさどる
@@ -1356,7 +1356,7 @@ altern/at/iv/a energi/font/o:【環】代替エネルギー源##偽分解
 altern/at/iv/a energi/o:【環】代替エネルギー##偽分解
 altern/at/iv/a medicin/o:代替医療##偽分解
 altern/at/iv/o:{Ｏ}二者択一;（従来のものに代わる）もう一つのもの,代案##偽分解
-alternator/o:【電】交流発電機
+altern/ator/o:【電】交流発電機##偽分解(PIV正式分解)
 altern/e:交互に,交替で
 altern/i:{Ｂ}［自］交互に起こる
 altern/kurent/a generator/o:【電】交流発電機
@@ -1613,7 +1613,7 @@ ampleks/i:［他］〜の大きさがある,包含する
 ampleks/ig/it/a el/don/o:増補版
 ampleks/o:{Ｂ}大きさ,広がり;【哲】外延;【統】分布範囲
 amplif/i:［他］【理】=amplifiki（増幅する）
-amplifikator/o:【電】増幅器,=amplifikilo
+amplifik/ator/o:【電】増幅器,=amplifikilo##偽分解(PIV正式分解)
 amplifik/i:［他］【理】増幅する
 amplifik/il/o:【電】増幅器
 amplifik/o:【電】増幅
@@ -12772,7 +12772,7 @@ general/ec/o:将官の地位,将官職
 general-/leu^tenant/o:【軍】中将
 general/o:{Ｂ}【軍】将軍;将官
 gener/a organ/o:【解】性器,生殖器官
-generator/o:【電】発電機;【理】起電機
+gener/ator/o:【電】発電機;【理】起電機##偽分解(PIV正式分解)
 gener/i:［他］【聖】（男が子を）なす,作る;【生】（子を）産む;《転》生み出す
 gener/il/oj:【生】生殖器
 gener/o:（男が）子を産ませること;《古》=idaro（子孫）
@@ -18621,7 +18621,7 @@ kompens/a:補償の,賠償の
 kompens/aj^/o:補償金;賠償物
 kompens/a mon/o:補償金,賠償金
 kompens/a mon/sum/o:補償金額,賠償金額
-kompensator/o:【電】=kompensilo（補償器）
+kompens/ator/o:【電】=kompensilo（補償器）##偽分解(PIV正式分解)
 kompens/e:代償として;それに反して,その代わり
 kompens/i:{Ｂ}［他］（損害などを）補償する,賠償する,弁償する;（欠点・損失などを）補う,相殺する,埋め合わせる
 kompens/il/o:【電】補償器;【光】補償板
@@ -18822,7 +18822,7 @@ Komun/um/o de Sen/de/pend/aj S^tat/oj:【政】独立国家共同体（CIS）
 komun/uz/a:常用の,日用の
 komun/uz/a senc/o:（専門語義に対して）一般語義,常用語義,><faka senco
 komut/ad/o:切り替え,転換
-komutator/o:【電】=komutilo（切換スイッチ）
+komut/ator/o:【電】=komutilo（切換スイッチ）##偽分解(PIV正式分解)
 komut/ebl/a:【数】可換の,=komuteca
 komut/ec/a:【数】可換の,=komutebla
 komut/i:［他］【電】（電流の）方向を転換する;【鉄】（線路を）切り替える;【数】交換する
@@ -18893,7 +18893,7 @@ kondamn/ind/a:処罰すべき;非難すべき
 kondamn/it/o:受刑者,既決囚
 kondamn/o:刑の宣告,有罪判決;非難,糾弾
 kondens/ad/o:【理】凝縮;【化】縮合（重合）;【電】蓄電
-kondensator/o:【電】=kondensilo（コンデンサー）;【光】=kondensoro（集光レンズ）
+kondens/ator/o:【電】=kondensilo（コンデンサー）;【光】=kondensoro（集光レンズ）##偽分解(PIV正式分解)
 kondens/i:［他］【理】凝縮させる;【化】縮合させる;（光を）集める
 kondens/ig^/i:［自］【理】凝縮する
 kondens/ig^/o:【理】凝縮,>>rospunkto
@@ -24258,7 +24258,7 @@ maniok/amel/o:キャッサバでんぷん
 maniok/o:{Ｏ}【植】キャッサバ,マニオク,>>tapioko
 manipul/ad/o:操作,操縦,取扱い;《転》ごまかし,細工
 manipul/ant/o:操作者,操縦者
-manipulator/o:=manipulilo（マニピュレーター）
+manipul/ator/o:=manipulilo（マニピュレーター）##偽分解(PIV正式分解)
 manipul/i:{Ｂ}［他］操作する,操縦する,扱う;《転》あやつる
 manipul/il/o:【機】マニピュレーター;【電】電鍵
 manipul/o:（個々の）操作
@@ -27972,7 +27972,7 @@ Nume/o:【地名】ヌーメア（ニューカレドニアの中心都市）
 numer/a:番号の,数値の
 numer/a apertur/o:【光】開口数
 numeral/o:【Ｇ】数詞
-numerator/o:【数】分子,>>denominatoro
+numer/ator/o:【数】分子,>>denominatoro##偽分解(PIV正式分解)
 numer/disk/o:（電話機の）ダイヤル
 numer/i:［他］番号を付ける
 numer/il/o:ナンバリング（番号打ち器）
@@ -28831,7 +28831,7 @@ osced/o:あくび
 oscil/ad/o:【理】振動,>>vibrado
 oscil/ant/a kurent/o:【理】振動電流
 oscil/ant/o:【理】振動子
-oscilator/o:【電】=oscililo（発振器）
+oscil/ator/o:【電】=oscililo（発振器）##偽分解(PIV正式分解)
 oscil/i:［自］【理】（往復）振動する
 oscil/il/o:【電】発振器,発振子
 oscil/o:【理】（一回の）振動
@@ -31839,7 +31839,7 @@ pres/permes/o:【印】（校閲者・検閲官による）印刷許可;【カ�
 pres/pret/a:すぐに印刷できる,版下の
 pres/pret/ig/ist/o:製版者
 pres/prov/aj^/o:【印】校正刷
-prestidigitator/o:=prestidigitisto（手品師）
+prestidigit/ator/o:=prestidigitisto（手品師）##偽分解(PIV正式分解)
 prestidigit/i:［自］手品をする
 prestidigit/ist/o:手品師,奇術師
 prestidigit/o:手品,奇術
@@ -33445,7 +33445,7 @@ regul/a labor/ist/o:正規労働者
 regul/ar/o:規則集,規約,会則,>>statuto
 regul/a soldat/o:正規兵
 regul/a s^ip/o:定期船,定期便
-regulator/o:【機】=regulilo（調整器）
+regul/ator/o:【機】=regulilo（調整器）##偽分解(PIV正式分解)
 regul/a verb/o:【Ｇ】規則動詞
 regul/e:規則通りに;規則正しく,定期的に
 regul/ec/o:適合性;規則性,規則正しさ
@@ -37545,7 +37545,7 @@ spektakl/ej/o:見世物小屋
 spektakl/o:{Ｂ}見世物,興行,ショー;見もの,スペクタクル
 spekt/ant/ar/o:観衆,観客（全体）
 spekt/ant/o:見物人,観客
-spektator/o:=spektanto（観客）
+spekt/ator/o:=spektanto（観客）##偽分解(PIV正式分解)
 spekt/ebl/a:観覧できる
 spekt/em/a:物見高い
 spekt/em/ul/o:やじ馬【私家版】
@@ -42403,7 +42403,7 @@ uzur/ist/o:高利貸（人）,>>procentegisto
 uzur/o:{Ｏ}（不当な）高利,暴利,>>procentego;高利貸（すること）
 uzurp/ad/o:簒奪（さんだつ）,強奪,横領,詐称
 uzurp/ant/o:強奪者,簒奪者,横領者
-uzurpator/o:=uzurpulo（簒奪者）
+uzurp/ator/o:=uzurpulo（簒奪者）##偽分解(PIV正式分解)
 uzurp/i:{Ｏ}［他］（領地・権力・地位などを）不当に奪う,簒奪（さんだつ）する,横領する,（称号を）詐称する
 uzurp/int/o:=uzurpulo（強奪者）
 uzurp/ul/o:強奪者,簒奪者,横領者
@@ -46753,7 +46753,7 @@ dilat/ad/o:【医】【PIV】Ago dilati: dilatado de la uretra kanalo.
 dilat/ant/o:【解】【PIV】Muskolo, kiu dilatas organon (ekz. (ekzemple) irison, naztruojn): pupila dilatanto (M. dilatator pupillae).
 dilat/il/o:【PIV】Instrumento por dilati orificon.
 dilat/uj/o:【電】【PIV】Ujo, destinita por la dilato de substanco: oledilatujo de transformilo.
-dilatator/o:【PIV】= dilatanto.
+dilat/ator/o:【PIV】= dilatanto.##偽分解(PIV正式分解)
 dileni/o:【植】【PIV】G. (Genro) (Dillenia el dileniacoj) de dau^rafoliaj arboj k trunkarbustoj kun floroj tre grandaj (15−25 cm (centimetro) diametraj c^e iuj sp-oj (specioj)); c^. (c^irkau^) 60 sp-oj (specioj) el tropika Azio, Au^stralio k Madagaskaro.
 dilig^enc/o:【PIV】Pasinteca publika c^evaljungita veturilo, por transporti vojag^antojn k korespondaj^ojn. Vd kuriero, pos^toveturilo.
 dilu/a:【PIV】Solvaj^o malkoncentrita.
@@ -52120,7 +52120,7 @@ moci/o:【PIV】Oficiala propono dum kunveno por estigi diskuton por nova leg^o,
 mod/aj^/oj:【PIV】Roboj, c^apeloj, galanterio lau^ la modo.
 mod/ist/o:【PIV】Homo, kiu pretigas k vendas la lastmodajn vestojn au^ robojn.
 moder/ig/aj^/o:【理】【PIV】Materialo en nuklea reaktoro, kiu malakcelas la rapidajn neu^tronojn, emanantajn de fandig^intaj nukleoj, k tiel ebligas pludau^ron de la c^enreakcio. Sin. (sinonimo) moderatoro.
-moderator/o:【理】【PIV】Moderigaj^o.
+moder/ator/o:【理】【PIV】Moderigaj^o.##偽分解(PIV正式分解)
 modilon/o:【建】【PIV】Konzoleto, ordinare duvoluta, subtenanta kornicon.
 modl/o:【PIV】Ago de tiu, kiu modlas: modlopasto, ekzercoj de modlado.
 modl/ad/o:【PIV】Ago de tiu, kiu modlas: modlopasto, ekzercoj de modlado.
@@ -53273,7 +53273,7 @@ perk/ed/oj:【動】【PIV】Fam. (Familio) (Percidae) de perkoformaj fis^oj, al
 perk/o/form/aj:【動】【PIV】Ordo (Perciformes) de teleosteoj, ampleksanta i.a. (interalie, inter aliaj) la perkedojn.
 perkol/o:【PIV】Ago perkoli.
 perkol/ig^/i:【生態】【地質】【PIV】(pp (se paroli pri) likvo) Malrapide trairi poran au^ pulvorigitan substancon: pluvakvo perkolig^as tra grundo.
-perkolator/o:【PIV】Aparato por perkoli: kafperkolilo.
+perkol/ator/o:【PIV】Aparato por perkoli: kafperkolilo.##偽分解(PIV正式分解)
 perlec^/o:【医】【PIV】Malsano kun diversaj kau^zoj (manko de riboflavino, bavado, manko de dentoj), karakterizata de benigna, sed recidiva fendeto c^e la lipangulo; diversaj mikroboj trovig^as en la fendeto.
 perlit/o:【技】【PIV】Alojo de fero k 0,8% da karbono, konsistanta el mikroskopaj alternaj lamenoj de ferito α k de cementito.
 perlon/o:【服】【PIV】Germana ekvivalento de nilono.
@@ -53839,7 +53839,7 @@ prognoz/ik/o:【PIV】Arto de la prognozoj.
 program/et/o:【情】【PIV】Malgranda programo, plenumata per interpretilo.
 progres/ad/i:【PIV】Dau^re progresi: progresadi en c^io brava ; en sia metio li progresadis malrapide .
 projekci/a:【PIV】1 Rilata al projekcio: projekcia geometrio (speco de neeu^klida geometrio); projekcia spaco; projekcia transformo, bildigo (transformo allasebla en la projekcia geometrio); projekcia limeso. 2 Uzanta projekcion 5: projekcia testo (diagnoza au^ prognoza testo, en kiu la subjekto projekcias sur la prezentatan materialon elementojn el la nekonscia psiko).
-projekciator/o:【PIV】Aparato, por projekcii bildojn sur ekranon: manovri la projekciilon; universala projekciatoro (epidiaskopo).
+projekci/ator/o:【PIV】Aparato, por projekcii bildojn sur ekranon: manovri la projekciilon; universala projekciatoro (epidiaskopo).##偽分解(PIV正式分解)
 prokariot/o:【生】【PIV】Ano de prokariotoj.
 prokariot/oj:【PIV】Domanio (Prokaryota) de vivuloj, kies c^elo(j) enhavas nek nukleon nek kompleksajn organetojn k kies genporta DNA estas s^ajne libera en la c^elplasmo: bakterioj estas prokariotoj. Sin. (sinonimo) sennukleuloj. Vd eu^kariotoj.
 prokariot/a:【PIV】Rilata al prokariotoj: prokariota DNA, c^elo, vivulo.
@@ -55070,7 +55070,7 @@ skap/o:【植】【PIV】Nebranc^ig^anta, senfolia tigo, apekse portanta unu au^
 skapol/aj^/o:【PIV】Detranc^ita skapolo kun la g^in kovranta viando, arang^ita kiel mang^aj^o: fumaj^ita pork skapolaj^o.
 skapulari/o:【キ】【PIV】1 Monah^a manteleto, kovranta la s^ultrojn. 2 Religia objekto konsistanta el du pecoj de benita s^tofo pendantaj sur la brusto k la dorso, k kunigitaj per kordono c^irkau^ la kolo.
 skarifik/a:【PIV】Rilata al skarifiko: skarifikaj kupoj.
-skarifikator/o:【PIV】Speciala multeklinga aparato, por skarifiki.
+skarifik/ator/o:【PIV】Speciala multeklinga aparato, por skarifiki.##偽分解(PIV正式分解)
 skat/o:【PIV】Germana kartludo.
 sket/i:【PIV】(ntr (netransitiva)) Gliti 2.
 sket/ad/o:【PIV】Tiu maniero de irado: sporta, distra sketado; arta sketado; sketado pri rapideco.
@@ -56834,7 +56834,7 @@ vezik/e:【PIV】Kiel aerveziketo: felic^o vezike sin levas, sed baldau^ falas k
 vezik/ig/a:【軍】【PIV】Tia, ke g^i estigas hau^tveziketojn: vezikiga gaso.
 vezik/ig^/i:【技】【PIV】Kovrig^i per veziketoj: mallerte aplikita farbo, kiu vezikig^as.
 viand/a:【PIV】1 Rilata al viando: vianda dieto. Vd vegetara. 2 Havanta multon da viando: vianda kortobirdo.
-vibrator/o:【PIV】Aparato vibranta, pro la motoro, kiun g^i entenas en si, k uzata por densigi, kompaktigi betonon per vibrado.
+vibr/ator/o:【PIV】Aparato vibranta, pro la motoro, kiun g^i entenas en si, k uzata por densigi, kompaktigi betonon per vibrado.##偽分解(PIV正式分解)
 vibraci/o:【PIV】= vibro.
 vibr/a/fon/o:【楽】【PIV】Speco de ksilofono, sed kun metalaj lamenoj kun elektronika amplifo.##偽分解(PIV正式分解)
 vibri/o:【生】【PIV】G. (Genro) (Vibrio) de movig^emaj eu^bakterioj en formo de kurba bastoneto, el kiuj pluraj parazitoj de bestoj (i.a. (interalie, inter aliaj) fis^oj) k homoj, i.a. (interalie, inter aliaj) la h^olera vibrio (V. cholerae).

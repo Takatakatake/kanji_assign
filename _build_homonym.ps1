@@ -32,6 +32,8 @@ $existing=@(
  @('per','过','per/oksid/o,per/oksid/i,per/oksid/a,per/oksid/az/o,per/klor/at/o,per/sulf/at/o,per/sulf/at/oj,per/klorat/o,per/oksidaz/o,per/sulfat/oj,per/mangan/at/o','','per-(化学:過酸化/過…)→过。前置詞per=以 は別。学術版粗分解 per/klorat/per/oksidaz/per/sulfat も过・per/mangan/at=過マンガン酸塩(両版)も过(2026-06-23 sep派生形網羅)'),
  @('oks','氧','an/oks/emi/o,hipoks/emi/o','','oxy-(酸素)→氧。牛oks/o=牛 は別'),
  @('leu^k','白','leu^k/emi/o','','leuko-(白)→白(白血病)。leu^ko=白ᴸ は別root'),
+ # -ator両義対応(2026-07-04): 装置義(=X-ilo)=具ᴬ(既定)、人物義(-anto/-isto/-ulo相当)=员(an=员hub合流・新字ゼロ)。PIV正式分解波(##偽分解マーカー)で露出。
+ @('ator','员','administr/ator/o,spekt/ator/o,uzurp/ator/o,prestidigit/ator/o','','-ator人物義→员。administranto管理者/spektanto観客/uzurpulo簒奪者/prestidigitisto手品師。装置義ator=具ᴬは既定のまま(altern/gener/kondens等)。numer/ator(数学分子)は号具のまま=PIV語源合成(要裁定なら変更)'),
  @('astat','卤','astat/o','','-astat-(元素アスタチンAt=halogeno)→卤(液体ハロゲンbrom=卤と同カテゴリ§4.6)。astat/a=astatic(無定位)=无定 はmaster維持(disc不掲載)。astaten(=astato)はmaster卤'),
  @('lit','石','aer/o/lit/o,mega/lit/a,mega/lit/o,mono/lit/a,mono/lit/o,neo/lit/ik/o,paleo/lit/ik/o,epi/paleo/lit/ik/o,mez/o/lit/ik/o,mikro/lit/a,mikro/lit/o,piz/o/lit/o,fot/o/lit/o/grafi/o,krom/o/lit/o/grafi/o','','-lit-(lithos=石/-lith)→石。lito=寝台(床)はdu/kvar/tri/unu-lit/a・klap/krad/pend/port/ter/sof-o/pajl-o-lit で維持。elektrolit=-lyte(別形態素)は別sep lit→解(2026-06-23ユーザー裁定)'),
  # electrolyte の -lyte(溶解/分解。-lith石とは別形態素)→解。中国語「电解质」と一致(2026-06-23ユーザー裁定)。
