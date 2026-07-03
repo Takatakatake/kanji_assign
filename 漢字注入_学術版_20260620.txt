@@ -2673,7 +2673,7 @@ atent/ig/i⟦注/使/i⟧:［他］注意を向けさせる
 atent/ig/o⟦注/使/o⟧:注意（を促すこと）
 atent/ind/a⟦注/值/a⟧:注目すべき
 atent/o⟦注/o⟧:注目
-atenu/a indic/o⟦衰/a 征/o⟧:【電】減衰指数,減衰定数
+atenu/a indic/o⟦衰/a 指ᴵᶜ/o⟧:【電】減衰指数,減衰定数
 atenu/a long/o⟦衰/a 长/o⟧:【理】減衰距離
 atenu/i⟦衰/i⟧:［他］【理】（距離とともに）減衰させる,>>amortizi
 atenu/ig^/o⟦衰/成/o⟧:【理】減衰
@@ -3630,7 +3630,7 @@ bibli/a stud/o⟦经/a 研/o⟧:【キ】聖書研究
 Bibli/o:{Ｏ}【キ】聖書
 bibliofili/o:書籍愛好,=libroamo
 bibliofil/o:愛書家,=libroamanto
-bibliografi/a indic/o⟦bibliografi/a 征/o⟧:（十進分類法による）図書分類番号
+bibliografi/a indic/o⟦bibliografi/a 指ᴵᶜ/o⟧:（十進分類法による）図書分類番号
 bibliografi/o:{Ｏ}文献目録,参考文献一覧;著作目録;書誌学
 bibliograf/o:{Ｏ}書誌学者
 bibliotek/a⟦库ᴮ/a⟧:図書館の
@@ -4726,7 +4726,7 @@ ced/o/lim/o⟦让/o/界/o⟧:【理】降伏点
 cedrat/o⟦香柑/o⟧:【果】シトロン,ブシュカン（仏手柑）
 cedrat/uj/o⟦香柑/器/o⟧:【植】シトロン,ブシュカン（仏手柑）
 cedr/o⟦雪松/o⟧:{Ｏ}【植】ヒマラヤスギ属;セイヨウスギ,シーダー
-cefal/a indic/o⟦头ᶜ/a 征/o⟧:【解】頭長幅指数
+cefal/a indic/o⟦头ᶜ/a 指ᴵᶜ/o⟧:【解】頭長幅指数
 Cefaloni/o:【地名】ケファリニア島（ギリシア）
 cefalopod/oj:【動】頭足類
 cefe/id/o⟦cefe/子/o⟧:【天】ケフェウス型変光星
@@ -10631,7 +10631,7 @@ favor/o kaj kompat/o⟦利/o 和ᴷ 怜/o⟧:【仏】慈悲
 favor/prez/a⟦利/价/a⟧:特価の,安価な
 favor/prez/e⟦利/价/e⟧:特価で,安価に
 fav/ul/o⟦黄癣/者/o⟧:黄癬患者
-faz/a indic/o⟦相ᶠ/a 征/o⟧:【電】位相指数,位相定数
+faz/a indic/o⟦相ᶠ/a 指ᴵᶜ/o⟧:【電】位相指数,位相定数
 fazan/o⟦野鸡ᶠ/o⟧:{Ｏ}【鳥】キジ（雉）（科の総称）
 fazeol/o⟦豆ᶠᶻ/o⟧:{Ｂ}【植】インゲンマメ（隠元豆）（属）
 faz/o⟦相ᶠ/o⟧:{Ｏ}（変化の）段階,局面,様相;【理】位相;【化】相;【天】（月などの）相,位相
@@ -15175,9 +15175,9 @@ indian/a:アメリカインディアンの,インディオの
 Indiani/o:【地名】インディアナ州（米国）
 indian/o:アメリカインディアン,インディオ,>>indig^ena amerikano
 Indian/o:【天】インディアン座
-indic/i⟦征/i⟧:［他］気配を示す;指数で示す
-indic/nombr/o⟦征/数/o⟧:【統】（基準値を100とした）指数
-indic/o⟦征/o⟧:【学】指数,率;【学】添え字（変数の右下につける）;《古》=indikaj^o（徴候）
+indic/i⟦指ᴵᶜ/i⟧:［他］気配を示す;指数で示す
+indic/nombr/o⟦指ᴵᶜ/数/o⟧:【統】（基準値を100とした）指数
+indic/o⟦指ᴵᶜ/o⟧:【学】指数,率;【学】添え字（変数の右下につける）;《古》=indikaj^o（徴候）
 indien/o:【織】インド更紗（さらさ）
 indiferent/a⟦冷/a⟧:{Ｂ}どうでもいい,重要でない;無関心な,平然とした
 indiferent/a ekvilibr/o⟦冷/a 衡/o⟧:【理】中立のつり合い
@@ -16291,7 +16291,7 @@ jid/o:【語】イディッシュ語
 jo:{Ｏ}［文字名］ヨー（文字J，jの名称）
 jod/a tinktur/o⟦碘/a 染ᵀ/o⟧:【薬】ヨードチンキ
 jodid/o:【化】ヨウ化物
-jod/indic/o⟦碘/征/o⟧:【化】ヨウ素価,ヨード数
+jod/indic/o⟦碘/指ᴵᶜ/o⟧:【化】ヨウ素価,ヨード数
 jod/o⟦碘/o⟧:{Ｏ}【化】ヨウ素（原子番号５３の非金属元素）;ヨード
 jodoform/o:【化】ヨードホルム
 jog/an/o⟦jog/员ᴬ/o⟧:【宗】ヨーガ行者
@@ -19830,7 +19830,7 @@ korp/ig/i⟦体/使/i⟧:［他］肉体を与える,具体化する,具現す�
 korp/ig^/i⟦体/成/i⟧:［自］肉体化する,具体化する,具現される
 korp/o⟦体/o⟧:{Ｂ}体,身体,肉体;胴体;本体;物体;【理】物体;【数】体
 korp/o/gard/ist/o⟦体/o/守/家/o⟧:ボディーガード,護衛,用心棒
-korp/o/mas/a indic/o⟦体/o/团ᴹ/a 征/o⟧:【医】ボディマス指数（BMI）
+korp/o/mas/a indic/o⟦体/o/团ᴹ/a 指ᴵᶜ/o⟧:【医】ボディマス指数（BMI）
 korp/o/part/o⟦体/o/部/o⟧:身体の一部
 korp/o/pez/o⟦体/o/重/o⟧:体重
 korp/o/pun/o⟦体/o/罚/o⟧:体刑,体罰
@@ -25840,7 +25840,7 @@ modl/il/o⟦塑ᴹ/具/o⟧:（造形用の）へら
 modl/o/past/o⟦塑ᴹ/o/糊/o⟧:【遊】粘土,=knedpasto
 modlur/o⟦线脚/o⟧:【建】（建物・家具の）繰形（くりかた）,モールディング
 mod/o⟦式ᴹᴰ/o⟧:{Ｂ}流行;【Ｇ】（動詞の）叙法;【服】モード,ファッション;【統】モード,最頻値
-modul/ad/a indic/o⟦调ᴹᴰ/行/a 征/o⟧:【電】変調指数
+modul/ad/a indic/o⟦调ᴹᴰ/行/a 指ᴵᶜ/o⟧:【電】変調指数
 modul/ad/o⟦调ᴹᴰ/行/o⟧:抑揚;【楽】転調;【通】変調
 modul/i⟦调ᴹᴰ/i⟧:{Ｏ}［他］抑揚をつける;【楽】転調する;【通】変調する
 modul/il/o⟦调ᴹᴰ/具/o⟧:【通】変調器
@@ -31927,7 +31927,7 @@ prezident/o⟦统ᴾ/o⟧:大統領,=s^tatprezidanto,>>prezidanto
 prezid/i⟦主ᴾ/i⟧:{Ｂ}［他］議長を務める,司会する;主宰する
 prezid/o⟦主ᴾ/o⟧:司会;主宰
 prez/ind/a⟦价/值/a⟧:手ごろな値段の,=prezoinda
-prez/indic/o⟦价/征/o⟧:【経】物価指数
+prez/indic/o⟦价/指ᴵᶜ/o⟧:【経】物価指数
 prez/indik/o⟦价/指ᴵ/o⟧:値札
 prez/konkur/ad/o⟦价/竞/行/o⟧:【商】競争入札
 prez/konkur/i⟦价/竞/i⟧:［自］競争入札に参加する
@@ -32317,7 +32317,7 @@ prononc/i⟦音/i⟧:{Ｂ}［他］発音する,>>elparoli
 prononc/o⟦音/o⟧:発音
 pro/opini/a mal/liber/ul/o⟦因ᴾ/想/a 反/自由/者/o⟧:思想犯,政治犯
 propag/ad/o⟦播/行/o⟧:【理】伝搬
-propag/a indic/o⟦播/a 征/o⟧:【電】伝搬指数,伝搬定数
+propag/a indic/o⟦播/a 指ᴵᶜ/o⟧:【電】伝搬指数,伝搬定数
 propagand/a⟦传ᴾ/a⟧:宣伝の,普及の;布教の
 propagand/i⟦传ᴾ/i⟧:{Ｂ}［他］宣伝する,普及させる;【宗】布教する
 propagand/il/o⟦传ᴾ/具/o⟧:宣伝文書
@@ -33341,11 +33341,11 @@ re/form/o⟦再/形/o⟧:改造,改革
 re/forst/um/i⟦再/林ᶠ/um/i⟧:［他］【農】植林する
 refrakt/a⟦折ᴿᶠ/a⟧:【理】屈折の
 refrakt/a angul/o⟦折ᴿᶠ/a 角/o⟧:【理】屈折角
-refrakt/a indic/o⟦折ᴿᶠ/a 征/o⟧:【理】屈折率
+refrakt/a indic/o⟦折ᴿᶠ/a 指ᴵᶜ/o⟧:【理】屈折率
 refrakt/a teleskop/o⟦折ᴿᶠ/a 镜ᵀ/o⟧:【天】屈折望遠鏡
 refrakt/i⟦折ᴿᶠ/i⟧:［他］【理】屈折させる
 refrakt/ig^/i⟦折ᴿᶠ/成/i⟧:［自］【理】屈折する
-refrakt/indic/o⟦折ᴿᶠ/征/o⟧:【理】屈折率
+refrakt/indic/o⟦折ᴿᶠ/指ᴵᶜ/o⟧:【理】屈折率
 refrakt/it/a ond/o⟦折ᴿᶠ/受/a 波/o⟧:【理】屈折波
 refrakt/it/a radi/o⟦折ᴿᶠ/受/a 射ᴿ/o⟧:【理】屈折光線
 refrakt/o⟦折ᴿᶠ/o⟧:【理】屈折
@@ -35238,7 +35238,7 @@ sape/ist/o⟦掘ˢ/家/o⟧:（坑道や対壕を掘る）工兵
 sape/o⟦掘ˢ/o⟧:【軍】（城壁などを崩壊させるための）坑道;対壕（ついごう，敵陣地に近づくための塹壕）
 Sapf/o:【人名】サッフォー（古代ギリシアの女性詩人）
 sap/i⟦皂/i⟧:=sapumi（石けんをぬる）
-sap/ig/a indic/o⟦皂/使/a 征/o⟧:【化】鹸化価（けんかか）
+sap/ig/a indic/o⟦皂/使/a 指ᴵᶜ/o⟧:【化】鹸化価（けんかか）
 sap/ig/i⟦皂/使/i⟧:［他］【化】鹸化（けんか）する
 sap/o⟦皂/o⟧:{Ｂ}石鹸（せっけん）
 Sapor/o:【地名】札幌
@@ -42971,7 +42971,7 @@ vent/energi/o⟦风/能ᴱ/o⟧:【環】風力エネルギー
 vent/et/o⟦风/小/o⟧:微風,そよ風
 vent/generator/o⟦风/发电ᴳ/o⟧:【環】風力発電機
 vent/i⟦风/i⟧:［自］（無主語）風が吹く
-vent/indic/o⟦风/征/o⟧:【気】風力階級
+vent/indic/o⟦风/指ᴵᶜ/o⟧:【気】風力階級
 vent/kap/a⟦风/头/a⟧:頭の空っぽな,軽率な,思慮の浅い
 vent/kok/o⟦风/鸡/o⟧:風見鶏
 vent/manik/o⟦风/袖/o⟧:風見用吹流し
@@ -43648,7 +43648,7 @@ viv/i/pov/o⟦活/i/能/o⟧:生命力,生活力,=vivkapablo
 vivisekci/o:{Ｏ}【解】生体解剖,=vivosekcado
 viv/kapabl/o⟦活/能ᴷ/o⟧:生命力,生活力,=vivipovo
 viv/kondic^/oj⟦活/件/oj⟧:生活条件,生活環境
-viv/kost/a indic/o⟦活/费/a 征/o⟧:【経】生計費指数
+viv/kost/a indic/o⟦活/费/a 指ᴵᶜ/o⟧:【経】生計費指数
 viv/kost/o⟦活/费/o⟧:生計費,生活費
 viv/kun/ul/o⟦活/共/者/o⟧:配偶者,（生活を共にする）パートナー
 viv/kutim/o⟦活/习/o⟧:生活習慣
@@ -49369,7 +49369,7 @@ ind/e⟦值/e⟧:【PIV】Lau^ inda stato au^ maniero: ne estas inde perdi tempo
 inden/o:【化】【PIV】Hidrokarbono, C 9 H 8, kun du cikloj (unu ses-, la alia kvin-karbona), ekstraktata el karba gudro, k bazo de rezinoj: indenrezinoj.
 indent/i:【PIV】= des^ovi.
 Indian/ist/o:【PIV】Specialisto pri la lingvoj k kulturoj de Indianoj.
-indic/a⟦征/a⟧:【PIV】Rilata al indico: indica metodo.
+indic/a⟦指ᴵᶜ/a⟧:【PIV】Rilata al indico: indica metodo.
 indiferent/ism/o⟦冷/主义/o⟧:【PIV】Sistema indiferenteco pri sociaj (politikaj, religiaj ks (kaj simile, kaj similaj)) aferoj.
 indig/oid/a⟦蓝ᴵ/似ᴼ/a⟧:【化】【PIV】Havanta la funkcian grupon OC-C=C-CO.
 indigozid/o:【化】【PIV】Glukozido de indigujo, hetero-ducikla, C 14 H 17 O 6 N, 3H 2 O, bazo de indigo.

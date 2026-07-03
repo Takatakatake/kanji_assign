@@ -3029,6 +3029,12 @@
   budĝet         算ᴮ         F=1     basic   
   aritmetik      算ᴬ         F=7     pejvo   
 
+【指】 4件
+  fingr          指          F=35    basic   
+  indik          指ᴵ         F=21    basic   
+  indic          指ᴵᶜ        F=18    basic   
+  indikator      指ᴵᵀ        F=6     pejvo   
+
 【支】 4件
   apog           支          F=23    basic   
   fili           支ᶠ         F=3     basic   
@@ -4131,11 +4137,6 @@
   pens           思          F=49    basic   
   medit          思ᴹ         F=5     basic   
   kontempl       思ᴷ         F=4     pejvo   
-
-【指】 3件
-  fingr          指          F=35    basic   
-  indik          指ᴵ         F=21    basic   
-  indikator      指ᴵᵀ        F=6     pejvo   
 
 【枝】 3件
   branĉ          枝          F=24    basic   
