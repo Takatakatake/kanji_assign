@@ -1342,8 +1342,8 @@ alt/ec/o⟦高/性/o⟧:高さ,高度
 alt/e/de/ven/a⟦高/e/从/来/a⟧:名門の
 alt/e/flug/a⟦高/e/飞/a⟧:野心的な,大げさな
 alt/e/n⟦高/e/n⟧:高くへ（下から上へ）
-al/ten/ig^/i⟦向/持/成/i⟧:［自］くっつく,しがみつく**al/ten/iはそもそも存在しない気がする。
-al/ten/o⟦向/持/o⟧:【声】（調音の）入りわたり##偽分解
+al/ten/ig^/i⟦向/持/成/i⟧:［自］くっつく,しがみつく
+al/ten/o⟦向/持/o⟧:【声】（調音の）入りわたり
 alte/o⟦立葵/o⟧:{Ｏ}【植】タチアオイ（立葵）（属）
 al/ter/ig/i⟦向/地/使/i⟧:［他］【電】接地する
 al/ter/ig^/i⟦向/地/成/i⟧:［自］【海】接岸する;【空】着陸する
@@ -10812,7 +10812,7 @@ ferm/o⟦闭/o⟧:閉鎖,閉会
 ferm/o/plat/o⟦闭/o/扁/o⟧:（平らな）ふた,>>kovrilo,>>fermilo
 Fernand/o:（男子名）フェルナンド
 fer/o⟦铁/o⟧:{Ｂ}鉄;=feraj^o
-Fero/a Insul/ar/o:【地名】フェロー諸島（北大西洋北東部）**Fero/oの追加
+Fero/a Insul/ar/o:【地名】フェロー諸島（北大西洋北東部）
 fer/o kaj s^tal/o⟦铁/o 和ᴷ 钢/o⟧:鉄鋼
 fer/oksid/o⟦铁/氧化/o⟧:【化】酸化鉄
 ferol/o:【植】オオウイキョウ（属）
@@ -58170,7 +58170,7 @@ rib/o/enzim/o⟦醋栗/o/酵素/o⟧:【生】【PIV】RNA kapabla katalizi biok
 nom/epitet/o⟦名/修饰/o⟧:【PIV】Adj., kiu, kunig^ante kun komuna nomo, formas kun g^i propran nomon, ekz. (ekzemple) la Blanka Monto, la Rug^a Maro ks (kaj simile, kaj similaj).
 for/erar/i⟦离/错/i⟧:【PIV】Forig^i konsekvence de eraro: c^iu iras sian vojon, ne foreraras de sia vojo .
 ne/erar/em/a⟦不/错/倾/a⟧:【PIV】Malofte eraranta.
-ne/eraripov/a⟦不/eraripov/a⟧:【PIV】Ne povanta erari: la katolikoj kredas la papon neeraripova, kiam li oficiale («el katedro») interpretas la revelaciajn verojn.
+ne/erar/i/pov/a⟦不/错/i/能/a⟧:【PIV】Ne povanta erari: la katolikoj kredas la papon neeraripova, kiam li oficiale («el katedro») interpretas la revelaciajn verojn.
 dat/erar/o⟦期/错/o⟧:【PIV】1 Surskribo de erara dato. 2 = anakronismo.
 jug^/erar/o⟦判/错/o⟧:【PIV】Jug^decido, kiun poste malkovritaj faktoj pruvas erara.
 sens/erar/o⟦感ˢˢ/错/o⟧:【PIV】Impreso ne responda al la realaj^o, sed nekonscie kau^zita de la strukturo mem de niaj sensoj. Vd halucino, iluzio, mirag^o.
