@@ -44306,8 +44306,8 @@ jamajk/an/o:{Ｏ}ジャマイカ人
 jav/a:{Ｏ}ジャワの;ジャワ人の;ジャワ語の
 jorub/a:{Ｏ}ヨルバの;ヨルバ人の;ヨルバ語の
 jorub/o:{Ｏ}ヨルバ人
-kab/o/verd/a:{Ｏ}カーボベルデの;カーボベルデ人の;カーボベルデ・クレオール語の
-kab/o/verd/an/o:{Ｏ}カーボベルデ人
+kab/o/verd/a:{Ｏ}カーボベルデの;カーボベルデ人の;カーボベルデ・クレオール語の##偽分解
+kab/o/verd/an/o:{Ｏ}カーボベルデ人##偽分解
 karib/oj:カリブ族
 kas^/bar/il/o:目隠し柵,目隠しフェンス
 kas^mir/a:{Ｏ}カシミールの;カシミール人の;カシミール語の
@@ -50209,7 +50209,7 @@ kau^stik/o:【理】【PIV】Surfaco, kiu entenas lumradiojn refraktitajn au^ re
 kau^stik/iz/i:【PIV】(tr (transitiva)) Detrui vivantan histon per kau^stikaj^o. Vd bruli, kau^terizi, korodi, mordi, rong^i.
 kau^ter/ad/o:【PIV】Tia operacio.
 kau^ter/punkt/oj:【PIV】Punktoformaj ekbruligoj de la hau^to por kuracaj celoj.
-kau^ter/iz/ig^/o:【PIV】Stato de kau^terizata histo.
+kau^ter/iz/ig^/o:【PIV】Stato de kau^terizata histo.##偽分解
 kau^z/a:【PIV】Rilata al kau^zo, konsistiganta kau^zon: kau^za interrilato; la kuracado devas turni atenton al la kau^za momento ; kau^za verbo (-> faktitivo).
 kava/o:【植】【PIV】1 Sp. (Specio) de pipero (ebriiga pipero) el la Pacifikaj insuloj, tufarbusto, el kies grandaj radikoj oni per fermentigo produktas etdoze tonikan, fortdoze ebriigan trinkaj^on. 2 Trinkaj^o preparita el la radikoj de kavao 1.
 kavaopipr/uj/o:【PIV】= kavao 1.
@@ -55394,7 +55394,7 @@ stencil/i:【PIV】Reprodukti per stencilo.
 sten/o/grafi/a:【PIV】Rilata al la stenografio.##偽分解
 sten/o/graf/ist/o:【PIV】Homo, kies profesio estas stenografi.##偽分解(PIV正式分解)
 sten/o/graf/ist/in/o:【PIV】Homo, kies profesio estas stenografi.##偽分解(PIV正式分解)
-sten/o/tip/ist/in/o:【PIV】Sekretari(in)o, uzanta stenotipon.
+sten/o/tip/ist/in/o:【PIV】Sekretari(in)o, uzanta stenotipon.##偽分解
 stenoz/o:【医】【PIV】Afekcio pro mallarg^ig^o: pilora stenozo, kranio stenozo.
 Stentor/o:【PIV】Heroo en la Troja milito, rimarkinda pro sia fortega voc^o.
 ster/o:【PIV】Mezurunuo por brulligno (1 m ^3).
@@ -55417,8 +55417,8 @@ sternorink/oj:【動】【PIV】Subordo (Sternorhyncha) de insektoj el la ordo d
 sternum/a:【PIV】Rilata al la sternumo: sternuma punkcio; sternumaj ripoj. Rim. (Rimarko) Medicinistoj iufoje uzas la apokopon sterno: sternoklaviomastoida muskolo ks (kaj simile, kaj similaj).
 steroid/o:【化】【PIV】Lipido, karakterizata de la g^enerala hetero-kvarcikla strukturo de ciklopentafenantreno au^ de tre parenca derivaj^o de tiu c^i: multaj hormonoj (Vd steroida hormono), komponantoj de la c^elmembranoj, fitoterapiaj substancoj (i.a. (interalie, inter aliaj) iuj alkaloidoj), vitamino D estas steroidoj. Vd sterolo. -> sterido.
 sterol/o:【化】【PIV】(kn (kolektiva nomo)) Steroido kun alkohola grupo: la steroloj estas c^efaj komponantoj de la c^elmembranoj, de pluraj hormonoj k vitaminoj.
-steto/skop/ad/o:【PIV】Ago stetoskopi.
-steto/skop/i/o:【PIV】Arto k scienco esplori per stetoskopado.
+steto/skop/ad/o:【PIV】Ago stetoskopi.##偽分解##強語根分解
+steto/skop/i/o:【PIV】Arto k scienco esplori per stetoskopado.##偽分解##強語根分解
 stift/a:【PIV】Rilata al stifto: dustifta ampolsoklo.
 stigmat/a:【PIV】1 Prezentanta stigmaton. 2 Havanta unu punkton kiel fokuson: stigmata lenso. Vd astigmata, anastigmata.
 stigmat/iz/i:【PIV】Marki per stigmatoj: stigmatizita sanktulino.
@@ -56134,7 +56134,7 @@ Tibul/o:【PIV】Latina verkinto de elegioj (A. Tibullus, c^. (c^irkau^) 50−18
 tibus^en/o:【植】【PIV】G. (Genro) (Tibouchina el Melastomaceae) de c^. (c^irkau^) 245 sp-oj (specioj) de dau^rafoliaj arbustoj el tropika Ameriko, kelkaj pororname kultivataj, precipe T. urvilleana k T. elegans, ambau^ el Brazilo, kun grandaj, malhele bluviolaj floroj.
 Tician/o:【PIV】Venecia pentristo (T. Vecellio, 1477−1576).
 Tiest/o:【PIV】Frato de Atreo, ambau^ filoj de Pelopso: Tiesto malhonoris la liton de la frato .
-tif/oid/a:【PIV】Tia, ke g^i similas al tifo: tifoidaj afekcioj; tifoida stato (stuporo k malvigleco).
+tif/oid/a:【PIV】Tia, ke g^i similas al tifo: tifoidaj afekcioj; tifoida stato (stuporo k malvigleco).##偽分解
 tife/o:【植】【PIV】G. (Genro) (Typha el tifeacoj) de plurjaraj, monoikaj, altaj herboj, kun staraj tigoj portantaj densajn spikojn po unu, kies supraj floroj estas virseksaj, dum la malsupraj estas inseksaj k havas multaharan perianton; kosmopolita g. (genro) de 10−12 sp-oj (specioj), akvejaj, kelkaj pororname kultivataj.
 tifon/o:【PIV】= tajfuno.
 tig/et/o:【PIV】C^iu tigsimila portilo de planto, i.a. (interalie, inter aliaj) pedunklo, petiolo, sporoportanta hifo.
@@ -61403,7 +61403,7 @@ pas^/o/ten/i:【PIV】(ntr (netransitiva)) Fari, ke oni egaligu siajn pas^ojn ku
 pied/ten/o:【PIV】Teno de grundo per la piedoj, sufic^a por stari: antau^eniri en la akvon, dum oni havas ankorau^ pied tenon; perdi la pied tenon.
 s^trump/o/ten/il/o:【PIV】Krurzono au^ j^artelo.
 vest/o/ten/ej/o:【PIV】Loko, kie oni tenas staplitajn vestojn, ekz. (ekzemple) por soldatoj ks (kaj simile, kaj similaj).
-hipo/tensi/ig/il/o:【医】【PIV】Medikamento, estiganta hipo tension.
+hipo/tensi/ig/il/o:【医】【PIV】Medikamento, estiganta hipo tension.##偽分解
 bas/tensi/a:【電】【PIV】Rilata al malaltaj tensioj: bastensia lineo.
 pus^/tensi/o:【電】【PIV】Subita ekpligrandig^o de elektra potencialo, kiu okazas ofte dum la funkciado de alttensiaj transsendaj lineoj.
 el/ter/ig^/i:【PIV】Elig^i el la tero: jam la unuaj s^osoj elterig^is.
