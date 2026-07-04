@@ -32,6 +32,8 @@ $existing=@(
  @('per','过','per/oksid/o,per/oksid/i,per/oksid/a,per/oksid/az/o,per/klor/at/o,per/sulf/at/o,per/sulf/at/oj,per/klorat/o,per/oksidaz/o,per/sulfat/oj,per/mangan/at/o','','per-(化学:過酸化/過…)→过。前置詞per=以 は別。学術版粗分解 per/klorat/per/oksidaz/per/sulfat も过・per/mangan/at=過マンガン酸塩(両版)も过(2026-06-23 sep派生形網羅)'),
  @('oks','氧','an/oks/emi/o,hipoks/emi/o','','oxy-(酸素)→氧。牛oks/o=牛 は別'),
  @('leu^k','白','leu^k/emi/o','','leuko-(白)→白(白血病)。leu^ko=白ᴸ は別root'),
+ # PIV航海語 jul/o(艫でひねって漕ぐ櫓=yuloh)・jul/ad/i(櫓で漕ぐ)→漕ぐhub划(=rem。パドルpagaj=划ᴾᴳと同型・新字ゼロ)。クリスマス系 jul/arb/o=圣诞/树 は別見出しで維持(2026-07-04ユーザー裁定sep分離)。※$hsepは大小無視だが Jul/o(大文字=ユール祭)は固有名ガードがhsepより先に捕捉し注釈なしで無影響=衝突せず。jul/arb/o は見出し文字列がjul/oと異なるため非該当で圣诞/树維持
+ @('jul','划','jul/o,jul/ad/i','','【PIV】航海 jul/o=艫でひねる櫓(yuloh)・jul/ad/i=櫓で漕ぐ→漕ぐhub划。クリスマス系(jul/arb/o=圣诞/树・Jul/o=圣诞ユール祭)は別見出しで維持。2026-07-04ユーザー裁定sep分離'),
  # -ator両義対応(2026-07-04): 装置義(=X-ilo)=具ᴬ(既定)、人物義(-anto/-isto/-ulo相当)=员(an=员hub合流・新字ゼロ)。PIV正式分解波(##偽分解マーカー)で露出。
  @('ator','员','administr/ator/o,spekt/ator/o,uzurp/ator/o,prestidigit/ator/o','','-ator人物義→员。administranto管理者/spektanto観客/uzurpulo簒奪者/prestidigitisto手品師。装置義ator=具ᴬは既定のまま(altern/gener/kondens等)。numer/ator(数学分子)は号具のまま=PIV語源合成(要裁定なら変更)'),
  @('astat','卤','astat/o','','-astat-(元素アスタチンAt=halogeno)→卤(液体ハロゲンbrom=卤と同カテゴリ§4.6)。astat/a=astatic(無定位)=无定 はmaster維持(disc不掲載)。astaten(=astato)はmaster卤'),

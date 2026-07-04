@@ -49704,7 +49704,7 @@ jug^/ist/ar/o⟦判/家/群/o⟧:【PIV】1 Tuto de la jug^istoj en lando, provi
 jug^/ot/o⟦判/待/o⟧:【PIV】Tiu, kiun oni jug^os.
 Jukatani/o:【PIV】S^tato en Meksiko (89°U, 20°N).
 Jukoni/o:【PIV】Unu el la Kanadaj Teritorioj (Dawson, 139°27′U, 64°08′N).
-jul/ad/i⟦圣诞/行/i⟧:【PIV】(ntr (netransitiva)) Remi per julo.
+jul/ad/i⟦划ᴶ/行/i⟧:【PIV】(ntr (netransitiva)) Remi per julo.
 julep/o:【PIV】Mildiga au^ kvietiga pocio, farita el siropoj k distilita akvo.
 Julian/o:【PIV】Vira nomo, i.a. (interalie, inter aliaj) de Romia imperiestro, kiu batalis kontrau^ la kristanismo.
 jun/e⟦幼/e⟧:【PIV】En juna maniero: konduti, ridi, frenezumi june.
@@ -62008,7 +62008,7 @@ Iris/o:【PIV】Kurierino de la dioj, kun c^ielarka skarpo.
 ##重複語Island/an/o:【PIV】Log^anto de Islando.
 ##重複語Israel/an/o:【PIV】Civitano de tiu regno.
 ##重複語Januar/o:【PIV】La unua monato en la Gregoria kalendaro.
-jul/o⟦圣诞/o⟧:【PIV】Forta remilo, kiun oni uzas per tordaj movoj c^e la pobo de boato, por antau^enigi g^in kvazau^ per helico.
+jul/o⟦划ᴶ/o⟧:【PIV】Forta remilo, kiun oni uzas per tordaj movoj c^e la pobo de boato, por antau^enigi g^in kvazau^ per helico.
 ##重複語Juli/a:【PIV】Rilata al Julio 1 au^ 2: la Julia kalendaro (Vd Gregoria).
 ##重複語Juni/o:【PIV】La sesa monato en la Gregoria kalendaro.
 J^uras/o:【地理】【PIV】Tutaj^o el montoj k altebenaj^oj, kiuj etendig^as de Francio, tra Svislando, g^is S Germanio (8°E, 47°30′N): la Francia, S^vabia, Frankonia J^uraso.
