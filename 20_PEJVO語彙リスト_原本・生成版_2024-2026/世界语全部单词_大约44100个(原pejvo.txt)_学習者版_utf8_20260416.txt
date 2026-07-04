@@ -44356,7 +44356,7 @@ martinik/an/o:{Ｏ}マルティニーク人
 mau^rici/a:{Ｏ}モーリシャスの;モーリシャス人の;モーリシャス・クレオール語の
 mis/i:［自］誤る,間違う,>>erari
 moldav/a:{Ｏ}モルドバの;モルドバ人の;モルドバ語の
-montenegr/a:{Ｏ}モンテネグロの;モンテネグロ人の;モンテネグロ語の
+mont/e/negr/a:{Ｏ}モンテネグロの;モンテネグロ人の;モンテネグロ語の##偽分解
 mort/kondamn/it/o:死刑囚
 motiv/leter/o:志望理由書
 naft/o/tub/o:石油パイプライン
