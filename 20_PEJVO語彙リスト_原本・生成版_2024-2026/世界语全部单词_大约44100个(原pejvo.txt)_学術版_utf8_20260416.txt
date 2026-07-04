@@ -33922,7 +33922,7 @@ Ret/o:【天】レチクル座
 ret/o/form/a:網状の
 retor/aj^/o:美辞麗句,修辞
 retor/ik/a:修辞の,修辞上の
-retorik/aj^/o:修辞
+retor/ik/aj^/o:修辞
 retor/ik/o:{Ｏ}修辞学,雄弁術;修辞法,レトリック
 retor/o:{Ｏ}【史】（古代ギリシアの）雄弁術教師,修辞学教師;《転》美辞麗句を並べる雄弁家,演説屋
 retort/a karbon/o:【化】レトルトカーボン
@@ -44524,7 +44524,7 @@ aer/toler/ant/a:【生】【PIV】Ne bezonanta oksigenon por vivi, sed toleranta
 aerobik/o:【PIV】Gimnastiko, kiu aktivigas la spiradon k la histan oksigen-saturadon per movig^o kun muziko.
 aerodin/o:【PIV】G^enerala nomo por iu ajn aviadilo, kiu estas pli peza ol la aero, k kies subteno en flugado pliparte rezultas el aerodinamika forto. Vd aerostato.
 aerofor/o:【技】【PIV】Aparato, ekipita per premaerujo (pneu^mata ujo), servanta por savado.
-aerofram/o:【PIV】(ark. (arkaismo, arkaisme)) C^elo de aviadilo sen motoro k sen ekipaj^aro.
+aer/o/fram/o:【PIV】(ark. (arkaismo, arkaisme)) C^elo de aviadilo sen motoro k sen ekipaj^aro.
 aerogram/o:【PIV】1 Malpeza aerpos^ta letero, ekspedata je reduktita prezo. 2【気】Speciala diagramo de la rilato inter temperaturo k humideco en la atmosfero.
 aerolog/o:【PIV】Spertulo pri aerologio.
 aerologi/o:【PIV】Scienco pri la esplorado de la altaj aertavoloj en la atmosfero.
@@ -44681,7 +44681,7 @@ akv/ad/o:【PIV】Ago de tiu, kiu akvas plantojn.
 akv/il/o:【PIV】Ilo, konsistanta el ujo, vers^ilo k rozo por akvumi.
 Akv/ist/o:【天】【PIV】Konstelacio (Aquarius) de la au^strala hemisfero. Sin. (sinonimo) Amforo.
 akv/afin/a:【PIV】(pp (se paroli pri) substanco) Facile sorbanta akvon k/au^ solvig^anta en akvo: koloidoj estas akvafinaj. Sin. (sinonimo) hidrofila.
-akvaltir/a:【PIV】Ema sorbi la aeran malsekon: kalcia klorido estas akvaltira substanco.
+akv/al/tir/a:【PIV】Ema sorbi la aeran malsekon: kalcia klorido estas akvaltira substanco.
 akv/imun/a:【PIV】Ne tralasanta akvon. Vd permeabla.
 akv/o-ne/afin/a:【PIV】(pp (se paroli pri) substanco) Ne au^ malfacile sorbanta akvon k/au^ solvig^anta en akvo. Sin. (sinonimo) hidrofoba.
 alabastr/a:【PIV】Simila al alabastro per sia blanko au^ diafaneco: alabastra mano de virino ; alabastra kolo, s^ultro.
@@ -45825,7 +45825,7 @@ bigl/o:【PIV】La plej malgranda leporhundo.
 bignoni/o:【植】【PIV】1 (ss (striktasence)) G. (Genro) (Bignonia el bignoniacoj) de nur unu sp. (B. capreolata), ligneca liano kun kontrau^e duopaj folioj dufolieraj k unuc^iraj, k kun kafodoraj, tubformaj floroj ekstere rug^aj, interne flavaj; hejma en SE Usono, pororname kultivata. 2 (vs (vastasence)) Bignonio 1 k parencaj genroj. Sin. (sinonimo) trumpetfloro.
 bij^uteri/o:【PIV】Industrio de vitro-k metal-juveloj.
 biks/o:【植】【PIV】G. (Genro) (Bixa el biksacoj) de nur unu sp. (B. orellana) de malgranda arbo kun longpetiolaj, korformaj, stipulohavaj folioj, kun rug^aj, rozaj au^ blankaj floroj en paniklo k kun semoj unuope garnitaj de rug^a arilo, el kiu oni ricevas karotenoric^an farbosubstancon (see rokuo), uzatan por kolorigi buteron, c^okoladon k iujn fromag^ojn; hejma en tropika Ameriko, disvastigita al tropika Afriko. Sin. (sinonimo) rokuarbo.
-bilabial/o:【語】【PIV】Labialo, produktata per la alproksimigo de la du lipoj (p, b, m). Sin. (sinonimo) dulipsono.
+bi/labial/o:【語】【PIV】Labialo, produktata per la alproksimigo de la du lipoj (p, b, m). Sin. (sinonimo) dulipsono.
 bilard/o/salon/o:【PIV】C^ambro en domo au^ kafejo, destinita por tiu ludo.
 bild/ig/o:【数】【PIV】Matematika rilato f inter du aroj A k B tia, ke c^iu a en la argumentaro A apartenas al precize unu paro (a, b) de la rilato; oni tiam diras, ke b = ƒ (a) estas la bildo de a per f, k ke f bildigas la argumentaron A al la celaro B. Vd funkcio. -> simetria.
 Bileam/o:【聖】【PIV】Aramea au^guristo, kiu rifuzis malbeni la Izraelajn tribojn: la azenino (kiun Dio igis parolkapabla) de Bileamo.
@@ -46709,7 +46709,7 @@ Dieg/o:【PIV】Hispana vira nomo. Sin. (sinonimo) Jakobo.
 dielektrikmetr/o:【電】【PIV】Aparato por mezuri la proprecojn de dielektriko.
 dien/o:【PIV】Vd (vidu) -en/ ③.
 diet/ik/o:【PIV】Scienco pri la dietoj, k ilia terapia efiko.
-dietik/ist/o:【PIV】Specialisto pri la diversaj dietoj.
+diet/ik/ist/o:【PIV】Specialisto pri la diversaj dietoj.
 difekt/aj^/o:【PIV】Difekto 2.
 difenbaki/o:【植】【PIV】G. (Genro) (Dieffenbachia el arumacoj) de tre venenaj, plurjaraj herboj kun fortika tigo 2−2,5 m alta, c^esupre portanta integrajn, verdajn foliojn ofte flav-au^ blank-makulajn; c^. (c^irkau^) 20 sp-oj (specioj) el tropika Ameriko, pluraj (kiel multaj kf-oj (kultivoformoj)) pote kultivataj por ornama foliaro.
 difeomorf/a:【数】【PIV】(pp (se paroli pri) geometria objekto) Tia, ke ekzistas difeomorfio inter la objekto k alia donita objekto.
@@ -47121,7 +47121,7 @@ elap/ed/oj:【動】【PIV】Fam. (Familio) (Elapidae) de serpentoj, al kiu apar
 elasmobrank/oj:【動】【PIV】Subklaso (Elasmobranchii) de fis^oj, al kiu apartenas i.a. (interalie, inter aliaj) s^arkoj k rajoj. Vd aktinopterigoj.
 elast/o:【PIV】Grando, difinanta la gradon de elasta konduto de substanco; simb. (simbolo): E.
 elastin/o:【化】【PIV】En-k el-volvebla skleroproteino, kiu konsistigas la elastajn fibrojn de la kuniga histo, i.a. (interalie, inter aliaj) de la hau^to, sangvaskuloj k pulmoj.
-elast/o/mer/o:【PIV】Vd (vidu) mero.
+elastomer/o:【PIV】Vd (vidu) mero.
 elater/ed/oj:【動】【PIV】Fam. (Familio) (Elateridae) de koleopteroj, plejparte kapablaj salti same kiel elatero; la larvoj de kelkaj sp-oj (specioj) faras gravan malutilon al kultivplantoj.
 elateri/in/o:【化】【PIV】Efika substanco (glukozido) de elaterio 2.
 elatin/o:【植】【PIV】G. (Genro) (Elatine el elatinacoj) de malgrandaj, unu-k plur-jaraj, rampaj, akvejaj herboj kun sidaj, kontrau^e duopaj au^ verticilaj folioj, kun malgrandaj, g^enerale unuopaj, akselaj floroj k kun kapsuloj enhavantaj pli-malpli kurbajn semojn po multaj; kosmopolita g. (genro) de 10 sp-oj (specioj), tropikaj au^ mezvarmejaj, uzataj en akvarioj.
@@ -50326,7 +50326,7 @@ klac^/ul/o:【PIV】Homo, kiu emas klac^adi: en la supra apartaj^o (de la sinago
 klac^/ul/in/o:【PIV】Homo, kiu emas klac^adi: en la supra apartaj^o (de la sinagogo) estis gvidanta klac^istino .
 klad/o:【生】【PIV】1 Grupo (cladus) de vivuloj inter si vere parencaj, t.e. (tio estas) devenantaj el la sama prataksono, k responda al ia ajn sistematika unuo (ekz. (ekzemple) raso, specio, genro, familio, filumo). 2 (ark. (arkaismo, arkaisme)) = filumo.
 klad/ik/o:【PIV】Metodo, kiu celas kiel eble plej objektivan klasifikon de la kladoj, bazitan sur iliaj evoluaj rilatoj, i.a. (interalie, inter aliaj) per apliko de reprodukteblaj, i.a. (interalie, inter aliaj) perkomputilaj, analizoj.
-kladik/ist/o:【PIV】Fakulo pri kladiko.
+klad/ik/ist/o:【PIV】Fakulo pri kladiko.
 kladogenez/o:【PIV】Estig^o k evoluo de la kladoj: kladgeneza arbo de la plantoj (skemo montranta la kladojn de la plantoj k ties evoluo: Vd (vidu) planto). Sin. (sinonimo) filogenezo. Vd individugenezo.
 kladodi/o:【植】【PIV】S^oso au^ s^oseto plata, ofte klorofilhava, g^enerale aspektanta k rolanta kiel folio: kladodioj de rusko, asparago, ala genisto, opuntio. Sin. (sinonimo) limbeca tigo. -> kladonio.
 klaft/i:【PIV】(tr (transitiva)) Mezuri per klafto.
@@ -51178,7 +51178,7 @@ laberdan/o:【PIV】Peklita moruo.
 labi/a:【植】【PIV】(pp (se paroli pri) kunig^petala korolo au^ kunig^sepala kaliko) Havanta unu au^ du lipojn: unulabia, dulabia korolo au^ kaliko.
 labiat/oj:【植】【PIV】Lamiacoj.
 labil/o:【PIV】Nestabila atmosfero kun gradiento pli ol adiabata.
-labiodental/o:【語】【PIV】Labialo, produktata per alproksimigo de la malsupra lipo k supra dentaro (f, v). Sin. (sinonimo) lipdento-sono.
+labi/o/dental/o:【語】【PIV】Labialo, produktata per alproksimigo de la malsupra lipo k supra dentaro (f, v). Sin. (sinonimo) lipdento-sono.
 labor/ad/o:【PIV】Dau^ra, longa laboro: k kio restas al la homo de lia tuta laborado? ; c^iuj parolas pri komuna laborado ; c^iuj akiritaj fruktoj de 20-jara laborado ; la junaj homoj interrompis sian laboradon .
 labor/ant/in/o:【PIV】Homo, kiu laboradas: bona k tre malkara laborantino .
 labor/ist/in/o:【PIV】Ina laboristo.
@@ -51950,7 +51950,7 @@ meteor/oid/o:【天】【PIV】C^iela korpo, movig^anta tra la spaco. Vd meteori
 meti/a:【PIV】Rilata al metio(j): metia korporacio; la metiaj moroj.
 metionin/o:【化】【PIV】Aminacido, CH 3-S-CH 2-CH 2-CH(NH 2)-COOH, unu el la 20 c^efaj aminacidoj de la proteinoj, esenca por la homo; simb. (simbolo): Met.
 metod/ar/o:【PIV】La kunaj metodoj en iu fako: la metodaro de la kemio.
-metodik/ist/o:【PIV】Fakulo pri metodiko.
+metod/ik/ist/o:【PIV】Fakulo pri metodiko.
 metoksil/o:【PIV】= metoksio (Vd (vidu) met /).
 metop/o:【建】【PIV】Elemento de dorika friso, s^tonplato dekore au^ figure skulptita inter du triglifoj.
 metri/o:【PIV】Metodo de scienca mezurado: antropo metrio.
@@ -52199,7 +52199,7 @@ mort/ec/o:【PIV】Eco de io, kio estas mortema: la morteco de la civilizo.
 mort/ul/o:【PIV】Estaj^o, kiun iam trafos morto: la pensoj de la mortemuloj estas timemaj.
 mort/em/ul/o:【PIV】Estaj^o, kiun iam trafos morto: la pensoj de la mortemuloj estas timemaj.
 mort/ind/a:【キ】【PIV】Inda je morto: tio estas mortinda ofendo; mortinda peko (Vd veniala).
-mortidev/a:【PIV】Mortema.
+mort/i/dev/a:【PIV】Mortema.
 mortadel/o:【PIV】Speco de tre dika salamo: mortadelo el Bolonjo. Vd kolbaso.
 mortal/o:【PIV】Mortideva homo, mortemulo.
 mortez/o/mas^in/o:【PIV】Mas^ino por fari mortezojn.
@@ -52224,7 +52224,7 @@ mov/o/komenc/a:【PIV】Trovig^anta c^e la komenco de movado: la Biblioteko doni
 mozarab/o:【史】【PIV】Ano de la parto de la kristana hispana gento, restinta en la regionoj regataj de la araboj, inter la 8a k la 11a jc (jarcento). Vd mudeh^aro.
 mozarab/a:【PIV】Rilata al lamozaraboj: la mozaraba arto, rito, dialekto.
 mozasau^r/o:【動】【PIV】G. (Genro) (Mosasaurus) de maraj, longformaj reptilioj el kretaceo, parencaj al lacertuloj, sed kun membroj en formo de nag^iloj.
-Mozelvin/o:【PIV】Vino el la Mozelaj vinberoj.
+Mozel/vin/o:【PIV】Vino el la Mozelaj vinberoj.
 mu/o:【PIV】C^ina mezurunuo por kampoj, egala al c^. (c^irkau^) 1/15 de hektaro.
 mud/o:【動】【PIV】S^ang^ig^o de hau^to au^ de hau^ta produktaj^o (karapaco, haroj, korno k.a. (kaj aliaj)). Vd metamorfozo.
 mud/i:【PIV】(ntr (netransitiva)) Suferi mudon: krabo mudas.
@@ -53672,7 +53672,7 @@ pom/ac/oj:【植】【PIV】(ark. (arkaismo, arkaisme)) Eksa fam. (familio) (Pom
 pomoide/oj:【PIV】= malusoideoj.
 pomolog/o:【PIV】Fakulo pri pomologio.
 pomel/o:【技】【PIV】1 Globa ekstremaj^o de la tenilo de spado au^ sabro. 2 Elstara antau^a parto de selo. Vd butono.
-Pomerihund/o:【PIV】= s^pico.
+Pomer/i/hund/o:【PIV】= s^pico.
 pom/frit/oj:【PIV】= terpom-fritoj.
 Pompe/o:【PIV】Romana nomo, i.a. (interalie, inter aliaj) de generalo k regnestro, malamiko de Cezaro (C. Pompeius, 106−48 a.K. (antau^ Kristo)).
 Pompej/a:【PIV】Rilata al Pompejo: Pompejaj freskoj; la Pompeja stilo.
@@ -57079,7 +57079,7 @@ falaropod/o:【動】【PIV】G. (Phalaropus) de malgrandaj arktaj vadbirdoj el 
 Fedr/a:【文】【PIV】Mita edzino de Tezeo; protagonisto en tragedioj de Sofoklo, Eu^ripido, Racino. Vd Hipolito.
 Fenic/uj/o:【PIV】Lando, inter Lebanono k Mediteraneo, log^ata de la fenicoj (hodiau^: Libano).
 ##重複語fetic^/o:【宗】【PIV】Natura au^ artefarita objekto, rigardata kiel sidejo de supernatura forto au^ log^ejo de diaj^o. Vd amuleto, statuo, talismano, totemo.
-flugipov/a:【PIV】Tia, ke g^i kapablas flugi.
+flug/i/pov/a:【PIV】Tia, ke g^i kapablas flugi.
 mil/foj/e:【PIV】Z ktp. En unu fojo, en du, tri ktp fojoj: ankorau^ unufoje!; unufoje s^telinta restas c^iam s^telisto; au^dinte sian dufoje vokitan nomon; la song^o dufoje ripetig^is al Faraono X; mi jam dufoje ripetis tion al vi!; trifoje stulta!; c^u mi ne skribis al vi tion trifoje? X; vi s^ang^is mian laborpagon dekfoje X.
 Frej/a:【神話】【PIV】Skandinavia diino de la naskemo k amo, edzino de Odino.
 ##重複語fug^/i:【PIV】(ntr) Forkuri por savi sin de reala au^ imagata dang^ero: fug^i de dang^ero, antau^ malamiko, for de brulego; fug^i el urbo, el malliberejo, en fremdlandon, tra la kamparo; akcepti la fug^intojn en sia hejmo. Vd eskapi, rifug^i. fug^o. Ago de iu, kiu fug^as:...
@@ -59803,7 +59803,7 @@ el/memor/e:【PIV】Uzante nur la memoron, sen teksto. Vd parkere.
 kat/ment/o:【PIV】Katario.
 dimer/o:【PIV】Molekulo, konsistanta el du meroj.
 monomer/o:【PIV】Molekulo, responda al mero, uzata en la fabrikado de poli mero.
-oligo/mer/o:【PIV】Molekulo, konsistanta el kelkaj meroj: dekstrino estas oligo mero au^ poli mero de glukozo.
+oligomer/o:【PIV】Molekulo, konsistanta el kelkaj meroj: dekstrino estas oligo mero au^ poli mero de glukozo.
 polimeraz/o:【PIV】Enzimo, katalizanta polimerigon.
 polimer/ec/o:【PIV】Eco de poli meroj, kiuj diferencas inter si nur pro la nombro de meroj.
 mal/polimer/ig/i:【PIV】Malkombini polimeron en mono merojn.
@@ -59811,7 +59811,7 @@ homo/polimer/o:【PIV】Poli mero, konsistanta el unuspecaj meroj: polietileno e
 hetero/polimer/o:【化】【PIV】Poli mero, konsistanta el plurspecaj meroj: proteinoj estas heteropolimeroj de aminacidoj.
 tetramer/o:【PIV】Molekulo, konsistanta el kvar meroj.
 trimer/o:【PIV】Molekulo, konsistanta el tri meroj.
-elasto/polimer/o:【化】【PIV】Poli mero, karakterizata de elastaj ecoj: kau^c^uko estas elasto mero. Rim. (Rimarko) La vortfino mero trovig^as en iuj sciencaj nomoj ne analizeblaj: izomero, mezomero k.a. (kaj aliaj)
+elast/o/polimer/o:【化】【PIV】Poli mero, karakterizata de elastaj ecoj: kau^c^uko estas elasto mero. Rim. (Rimarko) La vortfino mero trovig^as en iuj sciencaj nomoj ne analizeblaj: izomero, mezomero k.a. (kaj aliaj)
 de/met/o:【PIV】Ag(ad)o de iu, io demetanta: baldau^ estos la de meto de mia tabernaklo (karno); la de meto de ovoj.
 de/met/ad/o:【PIV】Ag(ad)o de iu, io demetanta: baldau^ estos la de meto de mia tabernaklo (karno); la de meto de ovoj.
 de/met/aj^/o:【PIV】Io demetita; kalkuli la volumenon de la demetaj^o. Vd precipitaj^o, rekremento.
@@ -61260,7 +61260,7 @@ medicin/s^rank/o:【PIV】Pli-malpli granda s^ranko, ordinare en la banc^ambro, 
 sek/ig/s^rank/o:【化】【PIV】Sekigujo en formo de s^ranko.
 spegul/s^rank/o:【PIV】S^ranko por tolaj^oj au^ vestoj, ordinare el luksa ligno, sur kies pordo estis fiksita sufic^e granda spegulo, por ke oni povu tie vidi sin tutan.
 trans/s^rau^b/i:【PIV】S^rau^bi trans la blokadpunkton, tiel ke oni fus^as la s^rau^baj^ojn k la s^rau^bo ne plu efikas.
-alet/s^rau^b/ing/o:【PIV】S^rau^bingo, havanta du aletojn, kio ebligas turni g^in per la fingroj, sen helpo de ilo.
+al/et/s^rau^b/ing/o:【PIV】S^rau^bingo, havanta du aletojn, kio ebligas turni g^in per la fingroj, sen helpo de ilo.
 bor/s^rau^b/o:【PIV】S^rau^bo, kies pinto estas borilo k povas enig^i en metalon sen antau^a borado.
 strec^/o/s^rau^b/o:【PIV】Simpla aparato, entenanta fortan s^rau^bon, kiu ebligas reguligi la strec^oforton de dratoj au^ s^tals^nuregoj.
 elektr/o/s^tal/o:【PIV】S^talo, farita en elektra forno.
