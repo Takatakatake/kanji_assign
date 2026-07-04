@@ -2811,7 +2811,7 @@ au^strali/an/o:オーストラリア人
 Au^strali/o:{Ｂ}【国名】オーストラリア（大洋州）
 au^str/i/an/o:オーストリア人,オーストリア国民
 Au^str/i/o:【国名】オーストリア（欧州）
-Au^str/i/o-Hungari/o:【史】オーストリア・ハンガリー帝国
+Au^str/i/o-Hungar/i/o:【史】オーストリア・ハンガリー帝国
 au^str/o:オーストリア人
 Au^stronezi/o:【地名】オーストロネシア（インド洋から太平洋にかけた大小の島々を含む地域）
 Au^str/uj/o:【国名】=Au^strio（オーストリア）
@@ -4163,10 +4163,10 @@ Bors/o de Novjork/o:（la 〜）ニューヨーク証券取引所
 bor/tru/o:穿孔,ボーリング孔;発破孔
 bosk/et/o:（数本の木から成る）木立
 bosk/o:{Ｏ}（公園などの）植込み,木立
-bosni/an/o:ボスニア人
-Bosni/o:【地名】ボスニア地方（ボスニア・ヘルツェゴビナ）
-Bosni/o-Hercegovin/o:=>Bosnio kaj Hercegovino（ボスニア・ヘルツェゴビナ）
-Bosni/o kaj Hercegovin/o:【国名】ボスニア・ヘルツェゴビナ（欧州）
+bosn/i/an/o:ボスニア人
+Bosn/i/o:【地名】ボスニア地方（ボスニア・ヘルツェゴビナ）
+Bosn/i/o-Hercegovin/o:=>Bosnio kaj Hercegovino（ボスニア・ヘルツェゴビナ）
+Bosn/i/o kaj Hercegovin/o:【国名】ボスニア・ヘルツェゴビナ（欧州）
 boson/o:【理】ボソン,ボース粒子,>>fermiono
 Bospor/a Mar/kol/o:【地名】ボスポラス海峡（トルコ北西部）
 Bospor/o:【地名】ボスポラス海峡（トルコ北西部）
@@ -45493,7 +45493,7 @@ au^skult/o:【PIV】au^skultado
 au^skult/ant/ar/o:【PIV】Aro de au^skultantoj: li entuziasmigis sian au^skultantaron.
 au^skult/il/oj:【PIV】Aparato, portata surkape k ebliganta au^di mesag^ojn, tradukojn, muzikon kc (kaj ceteraj).
 au^ster/a:【PIV】Severmora, morrigida; (f (figurasence)) senornama.
-Au^str/i-Hungari/o:【史】【PIV】Regno, kiu unuigis la imperion Au^strio k la reg^olandon Hungario (1867−1918). Vd Habsburgoj.
+Au^str/i-Hungar/i/o:【史】【PIV】Regno, kiu unuigis la imperion Au^strio k la reg^olandon Hungario (1867−1918). Vd Habsburgoj.
 au^stral/a:【地理】【天】【PIV】Rilata al la S hemisfero: la au^strala oceano; au^stralaj konstelacioj. Vd boreala. -> Au^stralio.
 au^stralopitek/o:【動】【PIV】G. (Genro) (Australopithecus) de fosiliaj homenoj, dupiedaj, kun cerbo c^. (c^irkau^) 500 cm (centimetro) ^3 volumena. En Afriko estis elfositaj pluraj sp-oj (specioj): 1) gracilaj.
 au^t/i:【PIV】(ntr (netransitiva)) Veturi per au^to.
