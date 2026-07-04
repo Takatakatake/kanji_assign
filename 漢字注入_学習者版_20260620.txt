@@ -1084,7 +1084,7 @@ ale/o⟦林/o⟧:{Ｂ}並木道;（庭園・公園の）小道,遊歩道
 alergi/o⟦过敏/o⟧:{Ｏ}【病】アレルギー
 aleron/o:【空】補助翼
 al/est/i⟦向/是/i⟧:［自］臨む,臨席する
-al/et/o⟦向/小/o⟧:【機】（蝶ナットの）つまみ
+al/et/o⟦翼ᴬ/小/o⟧:【機】（蝶ナットの）つまみ
 Aleu^t/oj:【地名】アリューシャン列島（アラスカ）
 alez/i⟦钻ᴬ/i⟧:［他］【機】内径仕上げをする
 alez/il/o⟦钻ᴬ/具/o⟧:【機】リーマー
@@ -45031,7 +45031,7 @@ angi/it/o⟦脉ᴬᴺ/炎ᵀ/o⟧:【医】【PIV】Kn (Kolektiva nomo) de c^iuj
 angi/o/logi/o⟦脉ᴬᴺ/o/学ᴸᴳ/o⟧:【PIV】Fako de anatomio pri la angioj.##偽分解
 angi/om/o⟦脉ᴬᴺ/瘤/o⟧:【医】【PIV】Tumorsimila formacio, konsistanta el angioj, aparte el sangaj angioj.##偽分解(PIV正式分解)##過細分解 angi/o/m/o
 angil/o/form/aj⟦鱼ᴬ/o/形/aj⟧:【動】【PIV】Ordo (Anguilliformes) de teleosteaj fis^oj, al kiu apartenas angiloj k murenoj.
-angi/o/sperm/oj⟦脉ᴬᴺ/o/精液/oj⟧:【植】【PIV】Unu el la du filumoj de la spermatofitoj (flor-au^ sem-plantoj), karakterizata de ovolo(j) ene de ferma karpelo k sekve de semoj interne de frukto. Sin. (sinonimo) magnolifitoj, ovariplantoj; du klasoj: unukotiledonoj k dukotiledonoj. Vd gimnospermoj.##偽分解
+angi/o/sperm/oj⟦脉ᴬᴺ/o/种ˢᴿ/oj⟧:【植】【PIV】Unu el la du filumoj de la spermatofitoj (flor-au^ sem-plantoj), karakterizata de ovolo(j) ene de ferma karpelo k sekve de semoj interne de frukto. Sin. (sinonimo) magnolifitoj, ovariplantoj; du klasoj: unukotiledonoj k dukotiledonoj. Vd gimnospermoj.##偽分解
 angiotensin/o:【化】【生】【PIV】Peptida hormono, pliiganta la sangan premon.
 angl/aj^/o⟦angl/物/o⟧:【PIV】1 Specialaj^o, moro tipe angla. 2 Teksto en angla lingvo.
 angl/o/mani/o⟦angl/o/狂/o⟧:【PIV】Emo imiti la anglajn morojn, enkonduki anglajn vortojn ktp (kaj tiel plu).##偽分解
@@ -45825,7 +45825,7 @@ bigl/o:【PIV】La plej malgranda leporhundo.
 bignoni/o⟦木ᴮᴳ/o⟧:【植】【PIV】1 (ss (striktasence)) G. (Genro) (Bignonia el bignoniacoj) de nur unu sp. (B. capreolata), ligneca liano kun kontrau^e duopaj folioj dufolieraj k unuc^iraj, k kun kafodoraj, tubformaj floroj ekstere rug^aj, interne flavaj; hejma en SE Usono, pororname kultivata. 2 (vs (vastasence)) Bignonio 1 k parencaj genroj. Sin. (sinonimo) trumpetfloro.
 bij^uteri/o:【PIV】Industrio de vitro-k metal-juveloj.
 biks/o⟦木ᴮᴷ/o⟧:【植】【PIV】G. (Genro) (Bixa el biksacoj) de nur unu sp. (B. orellana) de malgranda arbo kun longpetiolaj, korformaj, stipulohavaj folioj, kun rug^aj, rozaj au^ blankaj floroj en paniklo k kun semoj unuope garnitaj de rug^a arilo, el kiu oni ricevas karotenoric^an farbosubstancon (see rokuo), uzatan por kolorigi buteron, c^okoladon k iujn fromag^ojn; hejma en tropika Ameriko, disvastigita al tropika Afriko. Sin. (sinonimo) rokuarbo.
-bi/labial/o⟦生ᴮᴵ/唇ᴸᴸ/o⟧:【語】【PIV】Labialo, produktata per la alproksimigo de la du lipoj (p, b, m). Sin. (sinonimo) dulipsono.
+bi/labial/o⟦二ᴮ/唇ᴸᴸ/o⟧:【語】【PIV】Labialo, produktata per la alproksimigo de la du lipoj (p, b, m). Sin. (sinonimo) dulipsono.
 bilard/o/salon/o⟦台球/o/厅ˢ/o⟧:【PIV】C^ambro en domo au^ kafejo, destinita por tiu ludo.
 bild/ig/o⟦画/使/o⟧:【数】【PIV】Matematika rilato f inter du aroj A k B tia, ke c^iu a en la argumentaro A apartenas al precize unu paro (a, b) de la rilato; oni tiam diras, ke b = ƒ (a) estas la bildo de a per f, k ke f bildigas la argumentaron A al la celaro B. Vd funkcio. -> simetria.
 Bileam/o:【聖】【PIV】Aramea au^guristo, kiu rifuzis malbeni la Izraelajn tribojn: la azenino (kiun Dio igis parolkapabla) de Bileamo.
@@ -58178,7 +58178,7 @@ pec^/erc/o⟦沥青ᴾ/矿ᴱ/o⟧:【PIV】Uraninito.
 plumb/erc/o⟦铅/矿ᴱ/o⟧:【PIV】C^iu mineralo ric^a je plumbo k industrie ekspluatata. Vd ceruzito, galeno.
 zink/erc/o⟦锌/矿ᴱ/o⟧:【PIV】Mineralo (precipe smiconito), uzata por ekstraktado de zinko. Vd sfalerito.
 sekal/ergot/o⟦黑麦/麦角/o⟧:【PIV】Ergoto de sekalo.
-hiper/eritr/o/cit/emi/o⟦超/红ᴱ/o/引/血ᴱ/o⟧:【医】【PIV】Enesto de tro da eritrocitoj en la sango. Vd hiperglobulemio.##偽分解##過細分解 hiper/eritr/o/c/i/t/emi/o
+hiper/eritr/o/cit/emi/o⟦超/红ᴱ/o/胞ᶜᴵ/血ᴱ/o⟧:【医】【PIV】Enesto de tro da eritrocitoj en la sango. Vd hiperglobulemio.##偽分解##過細分解 hiper/eritr/o/c/i/t/emi/o
 kontrau^/ermen/o⟦对/鼠ᴱ/o⟧:【PIV】Sabla ermeno kun arg^entaj makuloj.
 sen/esenc/a⟦无/质/a⟧:【PIV】Ne havanta realaj^on, pozitivan enhavon.
 kus^/eskar/oj⟦躺/焦疤/oj⟧:【PIV】Vundokrustoj, kau^zitaj de kutima kus^ado dum longa malsano.
@@ -61260,7 +61260,7 @@ medicin/s^rank/o⟦医ᴹ/柜/o⟧:【PIV】Pli-malpli granda s^ranko, ordinare 
 sek/ig/s^rank/o⟦干/使/柜/o⟧:【化】【PIV】Sekigujo en formo de s^ranko.
 spegul/s^rank/o⟦镜/柜/o⟧:【PIV】S^ranko por tolaj^oj au^ vestoj, ordinare el luksa ligno, sur kies pordo estis fiksita sufic^e granda spegulo, por ke oni povu tie vidi sin tutan.
 trans/s^rau^b/i⟦越/螺/i⟧:【PIV】S^rau^bi trans la blokadpunkton, tiel ke oni fus^as la s^rau^baj^ojn k la s^rau^bo ne plu efikas.
-al/et/s^rau^b/ing/o⟦向/小/螺/座/o⟧:【PIV】S^rau^bingo, havanta du aletojn, kio ebligas turni g^in per la fingroj, sen helpo de ilo.
+al/et/s^rau^b/ing/o⟦翼ᴬ/小/螺/座/o⟧:【PIV】S^rau^bingo, havanta du aletojn, kio ebligas turni g^in per la fingroj, sen helpo de ilo.
 bor/s^rau^b/o⟦钻/螺/o⟧:【PIV】S^rau^bo, kies pinto estas borilo k povas enig^i en metalon sen antau^a borado.
 strec^/o/s^rau^b/o⟦紧/o/螺/o⟧:【PIV】Simpla aparato, entenanta fortan s^rau^bon, kiu ebligas reguligi la strec^oforton de dratoj au^ s^tals^nuregoj.
 elektr/o/s^tal/o⟦电/o/钢/o⟧:【PIV】S^talo, farita en elektra forno.
