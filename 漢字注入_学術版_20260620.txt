@@ -41392,7 +41392,7 @@ triktrak/o:【遊】トリックトラック,バックギャモン（西洋す�
 tri/kvar/on/e⟦三/四/分/e⟧:四分の三で;《転》大部分,おおかた
 tri/land/a⟦三/国/a⟧:三国の
 tril/i⟦颤歌/i⟧:［自］【楽】トリルで歌う;《転》（鳥が）声を震わせてさえずる
-tri/lion/o⟦三/lion/o⟧:（米で）一兆,=duiliono;（英独仏で）百京（百万兆）,=triiliono
+trilion/o:（米で）一兆,=duiliono;（英独仏で）百京（百万兆）,=triiliono
 tri/lit/a c^ambr/o⟦三/床/a 室/o⟧:（ホテルなど）三人部屋
 tril/o⟦颤歌/o⟧:{Ｏ}【楽】トリル,顫音（せんおん）
 tri/lob/ul/o⟦三/叶ᴸ/者/o⟧:【古生】三葉虫（綱の総称）
