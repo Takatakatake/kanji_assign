@@ -9910,7 +9910,7 @@ esperant/ist/o⟦esperant/家/o⟧:エスペランチスト（エスペラント
 esperant/lingv/a⟦esperant/语/a⟧:エスペラント語の
 esperant/lingv/a komun/um/o⟦esperant/语/a 共ᴷᴹ/um/o⟧:エスペラント言語共同体
 Esperant/o:{Ｂ}エスペラント（1887年ザメンホフが発表した国際語）
-esperant/o:希望する人
+esperant/o:希望する人##偽分解(衝突語)
 esperant/o/logi/a⟦esperant/o/学ᴸᴳ/a⟧:エスペラント学の##偽分解
 esperant/o/logi/o⟦esperant/o/学ᴸᴳ/o⟧:エスペラント学##偽分解
 esperant/o/log/o⟦esperant/o/学家/o⟧:エスペラント学者##偽分解
@@ -36438,7 +36438,7 @@ sfinks/o⟦狮面/o⟧:{Ｏ}スフィンクス;《転》謎めいた人物
 sfinkter/o:{Ｏ}【解】括約筋
 si⟦己⟧:{Ｂ}［代］自分
 si/a⟦己/a⟧:自分自身の
-si/a⟦己/a⟧:【Ｅ】［略］=Semajno de Internacia Amikeco##偽分解
+si/a⟦己/a⟧:【Ｅ】［略］=Semajno de Internacia Amikeco##偽分解(衝突語)
 si/a/flank/e⟦己/a/侧/e⟧:一方で,〜としては
 si/aj^/o⟦己/物/o⟧:自分の物
 Siam/a Golf/o:【地名】シャム湾（タイ南部）
