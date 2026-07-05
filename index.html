@@ -1,0 +1,581 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>エスペラント漢字化プロジェクト — アプリ・ツール早わかりガイド</title>
+<meta name="description" content="エスペラント語根に漢字を割り当てるプロジェクトの、現在使えるアプリ・ツールと「何ができるか」を利用者向けに整理した早わかりガイド。">
+<style>
+:root{
+  --green:#1a7a3a;
+  --green-soft:#e8f3ec;
+  --green-line:#bcd9c6;
+  --ink:#22272e;
+  --ink-soft:#5a6472;
+  --paper:#f7f7f3;
+  --card:#ffffff;
+  --line:#e3e3da;
+  --chip:#eef4f0;
+  --mono:Consolas,"Courier New",monospace;
+}
+*{box-sizing:border-box;margin:0;padding:0}
+html{scroll-behavior:smooth}
+body{
+  font-family:"Hiragino Kaku Gothic ProN","Hiragino Sans","Yu Gothic UI","Yu Gothic","Meiryo",sans-serif;
+  background:var(--paper);color:var(--ink);
+  line-height:1.85;font-size:16px;
+  -webkit-text-size-adjust:100%;
+}
+a{color:var(--green);text-decoration:none}
+a:hover{text-decoration:underline}
+.wrap{max-width:1000px;margin:0 auto;padding:0 20px}
+
+/* ───── hero ───── */
+header.hero{
+  background:linear-gradient(160deg,#123f24 0%,#1a7a3a 70%,#2e9e57 100%);
+  color:#fff;position:relative;overflow:hidden;
+}
+header.hero .wrap{padding:64px 20px 56px;position:relative;z-index:1}
+header.hero .mark{
+  position:absolute;right:-30px;top:-60px;font-size:340px;line-height:1;
+  color:rgba(255,255,255,.06);font-weight:700;user-select:none;pointer-events:none;
+  z-index:0;letter-spacing:-.05em;
+}
+.hero .kicker{font-size:14px;letter-spacing:.18em;opacity:.85;margin-bottom:10px}
+.hero h1{font-size:clamp(26px,5vw,40px);font-weight:700;line-height:1.35;margin-bottom:14px}
+.hero .lead{font-size:15.5px;opacity:.92;max-width:640px}
+.hero .date{margin-top:18px;font-size:13px;opacity:.75}
+.hero .quicklinks{margin-top:26px;display:flex;flex-wrap:wrap;gap:10px}
+.hero .quicklinks a{
+  display:inline-block;background:rgba(255,255,255,.14);border:1px solid rgba(255,255,255,.35);
+  color:#fff;border-radius:999px;padding:7px 18px;font-size:14px;transition:background .15s;
+}
+.hero .quicklinks a:hover{background:rgba(255,255,255,.26);text-decoration:none}
+
+/* ───── sticky nav ───── */
+nav.toc{
+  position:sticky;top:0;z-index:10;background:#ffffffee;backdrop-filter:blur(6px);
+  border-bottom:1px solid var(--line);
+}
+nav.toc .wrap{display:flex;gap:4px;overflow-x:auto;padding:0 20px}
+nav.toc a{
+  flex:0 0 auto;padding:12px 13px;font-size:13.5px;color:var(--ink-soft);
+  border-bottom:2px solid transparent;white-space:nowrap;
+}
+nav.toc a:hover{color:var(--green);text-decoration:none;border-bottom-color:var(--green-line)}
+
+/* ───── sections ───── */
+main{padding:14px 0 30px}
+section{margin-top:54px}
+section:first-of-type{margin-top:38px}
+h2{
+  font-size:clamp(20px,3.4vw,25px);font-weight:700;line-height:1.4;
+  padding-left:14px;border-left:5px solid var(--green);margin-bottom:6px;
+}
+h2 .no{color:var(--green);font-family:var(--mono);margin-right:10px}
+.sec-lead{color:var(--ink-soft);font-size:14.5px;margin-bottom:20px;padding-left:19px}
+
+.note{
+  background:var(--green-soft);border:1px solid var(--green-line);border-radius:10px;
+  padding:16px 20px;font-size:14.5px;margin-top:26px;
+}
+.note b{color:var(--green)}
+
+/* ───── flow diagram ───── */
+.flow{display:flex;align-items:stretch;gap:0;margin-top:22px;flex-wrap:wrap}
+.flow .step{
+  flex:1 1 150px;background:var(--card);border:1px solid var(--line);border-radius:12px;
+  padding:16px 14px 14px;text-align:center;min-width:150px;position:relative;
+  box-shadow:0 1px 3px rgba(0,0,0,.04);
+}
+.flow .arrow{
+  flex:0 0 28px;display:flex;align-items:center;justify-content:center;
+  color:var(--green);font-size:20px;font-weight:700;
+}
+.flow .step .n{
+  display:inline-block;background:var(--green);color:#fff;border-radius:999px;
+  width:24px;height:24px;line-height:24px;font-size:13px;font-weight:700;margin-bottom:8px;
+}
+.flow .step .verb{font-size:17px;font-weight:700;margin-bottom:4px}
+.flow .step .tool{font-size:12.5px;color:var(--green);font-weight:600;margin-bottom:4px}
+.flow .step .what{font-size:12.5px;color:var(--ink-soft);line-height:1.6}
+@media(max-width:760px){
+  .flow{flex-direction:column}
+  .flow .arrow{transform:rotate(90deg);flex-basis:20px;padding:2px 0}
+}
+
+/* ───── tables ───── */
+.tablewrap{overflow-x:auto;margin-top:18px;border:1px solid var(--line);border-radius:12px;background:var(--card);box-shadow:0 1px 3px rgba(0,0,0,.04)}
+table{border-collapse:collapse;width:100%;font-size:14.5px;min-width:560px}
+th,td{padding:12px 16px;text-align:left;vertical-align:top;border-bottom:1px solid var(--line)}
+thead th{
+  background:var(--green-soft);color:var(--green);font-size:13px;letter-spacing:.06em;
+  border-bottom:1px solid var(--green-line);white-space:nowrap;
+}
+tbody tr:last-child td{border-bottom:none}
+tbody tr:hover{background:#fafcf9}
+td.key{font-weight:700;white-space:nowrap}
+td .sub{display:block;font-size:12px;color:var(--ink-soft);font-weight:400}
+
+/* ───── tool cards ───── */
+.tool-card{
+  background:var(--card);border:1px solid var(--line);border-radius:14px;
+  margin-top:26px;box-shadow:0 1px 4px rgba(0,0,0,.05);overflow:hidden;
+}
+.tool-card .head{
+  display:flex;align-items:center;gap:16px;padding:18px 22px;
+  background:linear-gradient(90deg,var(--green-soft),#ffffff 70%);
+  border-bottom:1px solid var(--line);flex-wrap:wrap;
+}
+.tool-card .glyph{
+  flex:0 0 auto;width:52px;height:52px;border-radius:12px;background:var(--green);color:#fff;
+  display:flex;align-items:center;justify-content:center;font-size:28px;font-weight:700;
+}
+.tool-card .titles{flex:1 1 200px;min-width:0}
+.tool-card h3{font-size:17.5px;font-weight:700;line-height:1.45}
+.tool-card h3 small{display:block;font-size:12.5px;color:var(--ink-soft);font-weight:500;font-family:var(--mono)}
+.tool-card .chip{
+  flex:0 0 auto;background:var(--chip);border:1px solid var(--green-line);color:var(--green);
+  font-size:12px;font-weight:700;border-radius:999px;padding:4px 14px;white-space:nowrap;
+}
+.tool-card .body{padding:20px 22px 22px}
+.tool-card .oneline{font-size:15px;margin-bottom:14px}
+.meta{display:flex;flex-wrap:wrap;gap:10px;margin-bottom:16px}
+.meta .m{
+  flex:1 1 240px;background:var(--paper);border:1px solid var(--line);border-radius:9px;
+  padding:9px 14px;font-size:13.5px;
+}
+.meta .m b{color:var(--green);font-size:12px;letter-spacing:.06em;display:block;margin-bottom:2px}
+.fit{font-size:14px;background:var(--green-soft);border-left:4px solid var(--green);
+  border-radius:0 8px 8px 0;padding:10px 14px;margin-bottom:16px}
+.fit b{color:var(--green)}
+.tool-card h4{font-size:13.5px;color:var(--ink-soft);letter-spacing:.08em;margin-bottom:8px}
+.tool-card ul{list-style:none;padding:0}
+.tool-card ul li{
+  position:relative;padding-left:22px;font-size:14.5px;margin-bottom:7px;line-height:1.75;
+}
+.tool-card ul li::before{
+  content:"✓";position:absolute;left:0;top:0;color:var(--green);font-weight:700;
+}
+.tool-card .links{margin-top:18px;display:flex;flex-wrap:wrap;gap:10px}
+.btn{
+  display:inline-block;border-radius:8px;padding:8px 18px;font-size:13.5px;font-weight:600;
+  border:1px solid var(--green);transition:all .15s;
+}
+.btn.primary{background:var(--green);color:#fff}
+.btn.primary:hover{background:#14602d;text-decoration:none}
+.btn.ghost{color:var(--green);background:#fff}
+.btn.ghost:hover{background:var(--green-soft);text-decoration:none}
+.btn.disabled{border-color:var(--line);color:var(--ink-soft);background:var(--paper);cursor:default}
+.esp{font-family:var(--mono);background:var(--paper);border:1px solid var(--line);border-radius:4px;padding:0 5px;font-size:.92em}
+
+/* ───── summary / footer ───── */
+.summary{
+  margin-top:56px;background:linear-gradient(160deg,#123f24,#1a7a3a);color:#fff;
+  border-radius:16px;padding:30px 30px;font-size:15.5px;line-height:2;
+}
+.summary b{color:#bfe8cd}
+footer{margin-top:50px;padding:30px 0 46px;border-top:1px solid var(--line);
+  color:var(--ink-soft);font-size:13px;text-align:center}
+footer a{color:var(--green)}
+</style>
+</head>
+<body>
+
+<header class="hero">
+  <div class="mark">漢字</div>
+  <div class="wrap">
+    <div class="kicker">ESPERANTO × 漢字 &nbsp;PROJEKTO</div>
+    <h1>エスペラント漢字化プロジェクト<br>アプリ・ツール早わかりガイド</h1>
+    <p class="lead">現在使えるアプリ・ツールと「何ができるか」を、利用者向けに整理しました。<br><b>この文書の読み方:</b> まず早見表で目的に合うツールを選び、必要に応じて各ツールの説明とURLを確認してください。開発者向けの実装詳細よりも、利用者が迷わず使い分けられる説明を優先しています。</p>
+    <div class="date">整理日: 2026-07-05</div>
+    <div class="quicklinks">
+      <a href="kanji.html">語根漢字割当表を開く</a>
+      <a href="#quick">目的別早見表へ</a>
+      <a href="#tools">ツール別の説明へ</a>
+      <a href="#urls">URL一覧へ</a>
+    </div>
+  </div>
+</header>
+
+<nav class="toc">
+  <div class="wrap">
+    <a href="#overview">1. 全体像</a>
+    <a href="#quick">2. 目的別早見表</a>
+    <a href="#list">3. ツール一覧</a>
+    <a href="#tools">4. ツール別の説明</a>
+    <a href="#howto">5. おすすめの使い分け</a>
+    <a href="#urls">6. URL・リポジトリ</a>
+  </div>
+</nav>
+
+<main class="wrap">
+
+<!-- ══════════ 1 ══════════ -->
+<section id="overview">
+  <h2><span class="no">1</span>全体像：この道具群は何をするものか</h2>
+  <p class="sec-lead">中心にあるのは「エスペラント語根に漢字を割り当てる辞書」です。この辞書をもとに、漢字化文を書く、普通のエスペラント文を一括変換する、漢字化文を元に戻す、学習・音声・会話字幕へ広げる、という流れができます。</p>
+
+  <div class="flow">
+    <div class="step">
+      <span class="n">1</span>
+      <div class="verb">調べる</div>
+      <div class="tool">kanji_assign</div>
+      <div class="what">語根・漢字・識別子を確認</div>
+    </div>
+    <div class="arrow">→</div>
+    <div class="step">
+      <span class="n">2</span>
+      <div class="verb">書く</div>
+      <div class="tool">Monaco 入力</div>
+      <div class="what">語根から漢字候補を挿入</div>
+    </div>
+    <div class="arrow">→</div>
+    <div class="step">
+      <span class="n">3</span>
+      <div class="verb">変換する</div>
+      <div class="tool">CJK Annotator</div>
+      <div class="what">ルビ化・漢字化・純粋置換</div>
+    </div>
+    <div class="arrow">→</div>
+    <div class="step">
+      <span class="n">4</span>
+      <div class="verb">戻す</div>
+      <div class="tool">Reverter</div>
+      <div class="what">漢字化文を小文字エスペラントへ</div>
+    </div>
+    <div class="arrow">→</div>
+    <div class="step">
+      <span class="n">5</span>
+      <div class="verb">広げる</div>
+      <div class="tool">Quiz / TTS / 文字起こし</div>
+      <div class="what">学習・音声化・会話字幕</div>
+    </div>
+  </div>
+</section>
+
+<!-- ══════════ 2 ══════════ -->
+<section id="quick">
+  <h2><span class="no">2</span>まず選ぶ：目的別の早見表</h2>
+  <div class="tablewrap">
+    <table>
+      <thead><tr><th>目的</th><th>使うツール</th><th>できること</th></tr></thead>
+      <tbody>
+        <tr><td class="key">語根にどの漢字が対応するか調べたい</td><td><a href="kanji.html">kanji_assign / kanji.html</a></td><td>語根・漢字・識別子・語義を検索する</td></tr>
+        <tr><td class="key">手で丁寧に漢字化文を書きたい</td><td><a href="https://takatakatake.github.io/kanji-esperanto-monaco/">kanji-esperanto-monaco</a></td><td>語根を打ち、候補から漢字を挿入する</td></tr>
+        <tr><td class="key">普通のエスペラント文を一括で漢字化したい</td><td><a href="https://esperanto-radiko-cjk-annotator.streamlit.app/">CJK Annotator</a></td><td>注釈ルビ、漢字ルビ、タグなし漢字化文を作る</td></tr>
+        <tr><td class="key">漢字化文を元へ戻して確認したい</td><td><a href="https://kanjized-esperanto-reverter.streamlit.app/">kanjized-esperanto-reverter</a></td><td>漢字化文を小文字エスペラント表記へ戻す</td></tr>
+        <tr><td class="key">単語・例文を練習したい</td><td><a href="https://esperanto-quiz.streamlit.app/">esperanto_quiz</a></td><td>日中韓対応の単語・例文4択クイズを使う</td></tr>
+        <tr><td class="key">エスペラント文を音声にしたい</td><td><a href="https://paroligu.streamlit.app/">paroligu</a></td><td>Spomenka音声でWAV/MP3を作る</td></tr>
+        <tr><td class="key">会議・授業に字幕を出したい</td><td><a href="#tool-transskribo">Ubuntu版 / Windows版 文字起こし</a></td><td>Zoom/Meet音声を文字起こしし、翻訳や字幕へ流す</td></tr>
+      </tbody>
+    </table>
+  </div>
+</section>
+
+<!-- ══════════ 3 ══════════ -->
+<section id="list">
+  <h2><span class="no">3</span>いま使える主なアプリ・ツール一覧</h2>
+  <div class="tablewrap">
+    <table>
+      <thead><tr><th>区分</th><th>ツール</th><th>ひとことで</th></tr></thead>
+      <tbody>
+        <tr><td class="key">語根漢字割当表</td><td><a href="#tool-assign">kanji_assign / kanji.html</a></td><td>辞書の確認。語根・漢字・識別子・語義を検索する。</td></tr>
+        <tr><td class="key">漢字化入力エディタ</td><td><a href="#tool-monaco">kanji-esperanto-monaco</a></td><td>語根入力から漢字候補を選び、漢字化文を書く。</td></tr>
+        <tr><td class="key">日中韓ルビ・漢字化</td><td><a href="#tool-annotator">esperanto-radiko-cjk-annotator</a></td><td>普通の文を、注釈ルビ・漢字ルビ・タグなし漢字化文へ変換する。</td></tr>
+        <tr><td class="key">逆変換</td><td><a href="#tool-reverter">kanjized-esperanto-reverter</a></td><td>漢字化文を小文字エスペラント表記へ戻す。</td></tr>
+        <tr><td class="key">4択学習</td><td><a href="#tool-quiz">esperanto_quiz</a></td><td>単語・例文クイズ、音声、ランキング、スマホUI。</td></tr>
+        <tr><td class="key">音声合成</td><td><a href="#tool-paroligu">paroligu</a></td><td>エスペラント文をSpomenka音声でWAV/MP3化する。</td></tr>
+        <tr><td class="key">音声文字起こし</td><td><a href="#tool-transskribo">Ubuntu版 / Windows版</a></td><td>Zoom/Meet等のエスペラント音声を文字起こし・翻訳・字幕化する。</td></tr>
+      </tbody>
+    </table>
+  </div>
+</section>
+
+<!-- ══════════ 4 ══════════ -->
+<section id="tools">
+  <h2><span class="no">4</span>ツール別の説明</h2>
+
+  <!-- 4-1 -->
+  <div class="tool-card" id="tool-assign">
+    <div class="head">
+      <div class="glyph">調</div>
+      <div class="titles">
+        <h3>4-1. エスペラント語根漢字割当表<small>kanji_assign / kanji.html</small></h3>
+      </div>
+      <span class="chip">辞書・基盤データ</span>
+    </div>
+    <div class="body">
+      <p class="oneline">語根にどの漢字が割り当てられているかを確認するビュー。プロジェクト全体の対応表です。</p>
+      <div class="meta">
+        <div class="m"><b>入力</b>検索語（語根・漢字・識別子・語義）</div>
+        <div class="m"><b>出力</b>該当する語根、漢字、識別子、区分、頻度、画数、語義</div>
+      </div>
+      <p class="fit"><b>向いている用途:</b> 漢字化文を書く前の確認、識別子の確認、辞書メンテナンス。</p>
+      <h4>具体的にできること</h4>
+      <ul>
+        <li>語根、漢字、識別子、語義で検索できる。</li>
+        <li><span class="esp">basic / pejvo / piv / prep / suf / pref / correl</span> などの区分で絞り込める。</li>
+        <li>同じ漢字を共有する語根グループを確認できる。</li>
+        <li>識別子付きだけを表示できる。例: 出ᴱᴷ、穿ᴾ、在ᶜ̂。</li>
+      </ul>
+      <div class="links">
+        <a class="btn primary" href="kanji.html">割当表を開く（kanji.html）</a>
+        <a class="btn ghost" href="words.html">複合語ビュー（words.html）</a>
+        <a class="btn ghost" href="https://github.com/Takatakatake/kanji_assign">GitHub</a>
+      </div>
+    </div>
+  </div>
+
+  <!-- 4-2 -->
+  <div class="tool-card" id="tool-monaco">
+    <div class="head">
+      <div class="glyph">書</div>
+      <div class="titles">
+        <h3>4-2. 漢字化エスペラント入力エディタ<small>kanji-esperanto-monaco</small></h3>
+      </div>
+      <span class="chip">入力・執筆</span>
+    </div>
+    <div class="body">
+      <p class="oneline">Monaco Editor上で、エスペラント語根を入力すると漢字化候補を出すWebエディタです。</p>
+      <div class="meta">
+        <div class="m"><b>入力</b>エスペラント語根・文</div>
+        <div class="m"><b>出力</b>漢字化エスペラント文</div>
+      </div>
+      <p class="fit"><b>向いている用途:</b> 日記・投稿文・例文などを、手入力で丁寧に漢字化したいとき。</p>
+      <h4>具体的にできること</h4>
+      <ul>
+        <li><span class="esp">bon</span> と打つと 良 のように、語根から漢字候補を選べる。</li>
+        <li>候補には識別子付き漢字も含められる。</li>
+        <li>割当検索パネルで、ある漢字に対応する語根を逆引きできる。</li>
+        <li>コピー、ペースト、全選択、共有、ローカル保存、履歴復元に対応。</li>
+        <li>一度オンラインで開いた後のオフライン利用も考慮されている。</li>
+      </ul>
+      <div class="links">
+        <a class="btn primary" href="https://takatakatake.github.io/kanji-esperanto-monaco/">エディタを開く</a>
+        <a class="btn ghost" href="https://github.com/Takatakatake/kanji-esperanto-monaco">GitHub</a>
+      </div>
+    </div>
+  </div>
+
+  <!-- 4-3 -->
+  <div class="tool-card" id="tool-annotator">
+    <div class="head">
+      <div class="glyph">変</div>
+      <div class="titles">
+        <h3>4-3. 日中韓注釈ルビ・漢字化ツール<small>esperanto-radiko-cjk-annotator</small></h3>
+      </div>
+      <span class="chip">自動変換・読解補助</span>
+    </div>
+    <div class="body">
+      <p class="oneline">普通のエスペラント文を語根分解し、日本語・中国語・韓国語の注釈ルビ、漢字化ルビ、タグなし漢字化文に変換します。</p>
+      <div class="meta">
+        <div class="m"><b>入力</b>普通のエスペラント文、またはテキストファイル</div>
+        <div class="m"><b>出力</b>ルビHTML、編集可能HTML、タグなし漢字化文、ダウンロードファイル</div>
+      </div>
+      <p class="fit"><b>向いている用途:</b> 長めの文を一括でルビ化・漢字化したいとき。読解支援や投稿用変換に向いています。</p>
+      <h4>具体的にできること</h4>
+      <ul>
+        <li>注釈ルビ: 語根の上に日中韓訳を表示。</li>
+        <li>漢字化ルビ: 漢字を本文、エスペラント語根をルビにする。</li>
+        <li>純粋置換: HTMLタグなしの漢字化テキストを出す。</li>
+        <li>手動入力・テキストファイルアップロードに対応。</li>
+        <li><span class="esp">%...%</span> は変換しない、<span class="esp">@...@</span> だけ変換する、といった部分指定ができる。</li>
+        <li>誤った語根分解をGUIで補正し、<span class="esp">user_corrections.json</span>として保存・復元できる。</li>
+      </ul>
+      <div class="links">
+        <a class="btn primary" href="https://esperanto-radiko-cjk-annotator.streamlit.app/">日本語版を開く</a>
+        <a class="btn ghost" href="https://esperanto-radiko-cjk-annotator-zh.streamlit.app/">中文版</a>
+        <a class="btn ghost" href="https://esperanto-radiko-cjk-annotator-ko.streamlit.app/">한국어판</a>
+        <a class="btn ghost" href="https://github.com/Takatakatake/esperanto-radiko-cjk-annotator">GitHub</a>
+      </div>
+    </div>
+  </div>
+
+  <!-- 4-4 -->
+  <div class="tool-card" id="tool-reverter">
+    <div class="head">
+      <div class="glyph">戻</div>
+      <div class="titles">
+        <h3>4-4. 漢字化エスペラント逆変換器<small>kanjized-esperanto-reverter</small></h3>
+      </div>
+      <span class="chip">検証・復元</span>
+    </div>
+    <div class="body">
+      <p class="oneline">漢字化エスペラント文を、小文字のアルファベット表記へ戻すツールです。</p>
+      <div class="meta">
+        <div class="m"><b>入力</b>漢字化エスペラント文</div>
+        <div class="m"><b>出力</b>小文字アルファベット表記のエスペラント文（語根・語尾・記号を含む）</div>
+      </div>
+      <p class="fit"><b>向いている用途:</b> 漢字化文の検証、元文復元、変換規則のテスト。語根区切りがないため、複合語では曖昧性が残る場合があります。</p>
+      <h4>具体的にできること</h4>
+      <ul>
+        <li>PEJVO/PIV 2026-06-20版、スニペット用2列CSV、カスタムCSVを切り替えられる。</li>
+        <li>上付き識別子を含む漢字表記を認識できる。</li>
+        <li>漢字とアルファベットが混在した文にも対応。</li>
+        <li>変換結果をテキストとしてダウンロードできる。</li>
+      </ul>
+      <div class="links">
+        <a class="btn primary" href="https://kanjized-esperanto-reverter.streamlit.app/">逆変換器を開く</a>
+        <a class="btn ghost" href="https://github.com/Takatakatake/kanjized-esperanto-reverter">GitHub</a>
+      </div>
+    </div>
+  </div>
+
+  <!-- 4-5 -->
+  <div class="tool-card" id="tool-quiz">
+    <div class="head">
+      <div class="glyph">学</div>
+      <div class="titles">
+        <h3>4-5. エスペラント4択学習アプリ<small>esperanto_quiz</small></h3>
+      </div>
+      <span class="chip">学習・練習</span>
+    </div>
+    <div class="body">
+      <p class="oneline">日中韓対応の単語・例文4択クイズです。PC版とスマホ版があり、音声・スコア・ランキングにも対応します。</p>
+      <div class="meta">
+        <div class="m"><b>入力</b>クイズ設定、回答選択</div>
+        <div class="m"><b>出力</b>正誤、得点、復習、ランキング</div>
+      </div>
+      <p class="fit"><b>向いている用途:</b> 語彙・例文を反復学習したいとき。スマホで毎日練習する用途に強いです。</p>
+      <h4>具体的にできること</h4>
+      <ul>
+        <li>単語クイズ: 2890重要語彙を品詞・レベル・グループ別に出題。</li>
+        <li>例文クイズ: Topic / Subtopic / Levelを選んで出題。</li>
+        <li>出題方向は「エスペラント→訳語」「訳語→エスペラント」。</li>
+        <li>間違えた問題だけを正解まで出すスパルタモードがある。</li>
+        <li>音声再生、Google Sheetsランキング、スマホ用localStorage保存型UIに対応。</li>
+        <li>日本語版・中国語版・韓国語版で訳語列を切り替える。</li>
+      </ul>
+      <div class="links">
+        <a class="btn primary" href="https://esperanto-quiz.streamlit.app/">日本語版を開く</a>
+        <a class="btn ghost" href="https://esperanto-quiz-zh.streamlit.app/">中文版</a>
+        <a class="btn ghost" href="https://esperanto-quiz-ko.streamlit.app/">한국어판</a>
+        <a class="btn ghost" href="https://github.com/Takatakatake/esperanto_quiz">GitHub</a>
+      </div>
+    </div>
+  </div>
+
+  <!-- 4-6 -->
+  <div class="tool-card" id="tool-paroligu">
+    <div class="head">
+      <div class="glyph">声</div>
+      <div class="titles">
+        <h3>4-6. エスペラント音声合成<small>paroligu</small></h3>
+      </div>
+      <span class="chip">音声教材作成</span>
+    </div>
+    <div class="body">
+      <p class="oneline">エスペラント文をRHVoiceのSpomenka音声で読み上げ、WAVまたはMP3として保存できます。</p>
+      <div class="meta">
+        <div class="m"><b>入力</b>エスペラント文、音声設定、保存ファイル名</div>
+        <div class="m"><b>出力</b>ブラウザ再生音声、WAV、MP3</div>
+      </div>
+      <p class="fit"><b>向いている用途:</b> 例文読み上げ、発音確認、学習用音声ファイル作成。</p>
+      <h4>具体的にできること</h4>
+      <ul>
+        <li>Unicode表記とx記法の両方に対応。</li>
+        <li>速度・高さ・音量を調整できる。</li>
+        <li>MP3ビットレートを選べる。</li>
+        <li>ブラウザで再生し、WAV/MP3で保存できる。</li>
+        <li>Streamlit Cloud上でもRHVoiceを使えるよう、必要パッケージを起動時に展開する設計。</li>
+      </ul>
+      <div class="links">
+        <a class="btn primary" href="https://paroligu.streamlit.app/">paroligu を開く</a>
+        <a class="btn ghost" href="https://github.com/Takatakatake/paroligu">GitHub</a>
+      </div>
+    </div>
+  </div>
+
+  <!-- 4-7 -->
+  <div class="tool-card" id="tool-transskribo">
+    <div class="head">
+      <div class="glyph">幕</div>
+      <div class="titles">
+        <h3>4-7. エスペラント音声リアルタイム文字起こし<small>Ubuntu版 / Windows版</small></h3>
+      </div>
+      <span class="chip">会話・会議字幕</span>
+    </div>
+    <div class="body">
+      <p class="oneline">ZoomやGoogle Meetのエスペラント会話をリアルタイムに文字起こしし、日本語・韓国語翻訳、Zoom字幕、Web字幕ボード、Discord投稿へ流せるローカルツールです。</p>
+      <div class="meta">
+        <div class="m"><b>入力</b>マイクまたはPC音声ループバック、APIキー、Zoom CC URL、翻訳設定</div>
+        <div class="m"><b>出力</b>文字起こし、翻訳、Zoom字幕、Web字幕ボード、ログ、Discord投稿</div>
+      </div>
+      <p class="fit"><b>向いている用途:</b> オンライン授業、会議、発表、エスペラント会話の記録。Streamlit CloudではなくローカルPCで動かすツールです。</p>
+      <h4>具体的にできること</h4>
+      <ul>
+        <li>Speechmatics Realtime STTを中心に、VoskやWhisperをバックアップとして使える。</li>
+        <li>Zoom Closed Caption APIへ字幕を送れる。</li>
+        <li>Web UIで最新字幕と履歴を表示できる。</li>
+        <li>日本語・韓国語などへの翻訳表示に対応。</li>
+        <li>Discord Webhookで確定文と翻訳をまとめて投稿できる。</li>
+        <li>Ubuntu版はPipeWire/PulseAudioのループバック補助、Windows版はVB-Audio/VoiceMeeter等を前提に診断・設定支援がある。</li>
+      </ul>
+      <div class="links">
+        <a class="btn ghost" href="https://github.com/Takatakatake/jako-esperantlingva-paroltransskribo-kaj-interpretado-japana-korea-Ubuntu-202604">Ubuntu版リポジトリ</a>
+        <a class="btn ghost" href="https://github.com/Takatakatake/jako-esperantlingva-paroltransskribo-kaj-interpretado-japana-korea-windows11-202604">Windows版リポジトリ</a>
+        <span class="btn disabled">ローカル実行（Streamlit Cloudなし）</span>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- ══════════ 5 ══════════ -->
+<section id="howto">
+  <h2><span class="no">5</span>おすすめの使い分け</h2>
+  <div class="tablewrap">
+    <table>
+      <thead><tr><th>目的</th><th>おすすめの流れ</th></tr></thead>
+      <tbody>
+        <tr><td class="key">漢字化文を一括で作る</td><td>普通のエスペラント文を用意 → CJK Annotatorで「純粋置換」または「漢字ルビ」を選ぶ。</td></tr>
+        <tr><td class="key">細部まで手で調整する</td><td>kanji_assignで割当を確認しながら、Monaco入力エディタで語根ごとに候補を選ぶ。</td></tr>
+        <tr><td class="key">識別子が正しいか確認する</td><td>kanji_assignで同字グループと識別子を確認し、必要ならMonacoやAnnotatorの結果を修正する。</td></tr>
+        <tr><td class="key">漢字化文を検証する</td><td>Reverterで小文字エスペラントへ戻し、意図しない語根に戻っていないか確認する。</td></tr>
+        <tr><td class="key">学習教材を作る</td><td>Quizで語彙・例文練習、paroliguで例文音声を作る。</td></tr>
+        <tr><td class="key">会議・授業で使う</td><td>Ubuntu/Windows文字起こしツールをローカルで起動し、Web字幕・翻訳・Zoom字幕へ流す。</td></tr>
+      </tbody>
+    </table>
+  </div>
+</section>
+
+<!-- ══════════ 6 ══════════ -->
+<section id="urls">
+  <h2><span class="no">6</span>URL・リポジトリ一覧</h2>
+  <p class="sec-lead">下表のリンク名はクリック可能です。長いURLをそのまま並べず、読みやすさを優先しています。</p>
+  <div class="tablewrap">
+    <table>
+      <thead><tr><th>ツール</th><th>アプリ / 実行場所</th><th>GitHub</th></tr></thead>
+      <tbody>
+        <tr><td class="key">語根漢字割当表</td><td><a href="https://takatakatake.github.io/kanji_assign/kanji.html">kanji_assign / kanji.html</a></td><td><a href="https://github.com/Takatakatake/kanji_assign">Takatakatake/kanji_assign</a></td></tr>
+        <tr><td class="key">漢字化入力エディタ</td><td><a href="https://takatakatake.github.io/kanji-esperanto-monaco/">kanji-esperanto-monaco</a></td><td><a href="https://github.com/Takatakatake/kanji-esperanto-monaco">Takatakatake/kanji-esperanto-monaco</a></td></tr>
+        <tr><td class="key">CJK Annotator 日本語</td><td><a href="https://esperanto-radiko-cjk-annotator.streamlit.app/">日本語版アプリ</a></td><td><a href="https://github.com/Takatakatake/esperanto-radiko-cjk-annotator">Takatakatake/esperanto-radiko-cjk-annotator</a></td></tr>
+        <tr><td class="key">CJK Annotator 中文</td><td><a href="https://esperanto-radiko-cjk-annotator-zh.streamlit.app/">中文版アプリ</a></td><td><a href="https://github.com/Takatakatake/esperanto-radiko-cjk-annotator">同上</a></td></tr>
+        <tr><td class="key">CJK Annotator 한국어</td><td><a href="https://esperanto-radiko-cjk-annotator-ko.streamlit.app/">한국어판アプリ</a></td><td><a href="https://github.com/Takatakatake/esperanto-radiko-cjk-annotator">同上</a></td></tr>
+        <tr><td class="key">逆変換器</td><td><a href="https://kanjized-esperanto-reverter.streamlit.app/">kanjized-esperanto-reverter</a></td><td><a href="https://github.com/Takatakatake/kanjized-esperanto-reverter">Takatakatake/kanjized-esperanto-reverter</a></td></tr>
+        <tr><td class="key">クイズ 日本語</td><td><a href="https://esperanto-quiz.streamlit.app/">esperanto-quiz</a></td><td><a href="https://github.com/Takatakatake/esperanto_quiz">Takatakatake/esperanto_quiz</a></td></tr>
+        <tr><td class="key">クイズ 中文</td><td><a href="https://esperanto-quiz-zh.streamlit.app/">esperanto-quiz-zh</a></td><td><a href="https://github.com/Takatakatake/esperanto_quiz">同上</a></td></tr>
+        <tr><td class="key">クイズ 한국어</td><td><a href="https://esperanto-quiz-ko.streamlit.app/">esperanto-quiz-ko</a></td><td><a href="https://github.com/Takatakatake/esperanto_quiz">同上</a></td></tr>
+        <tr><td class="key">TTS</td><td><a href="https://paroligu.streamlit.app/">paroligu</a></td><td><a href="https://github.com/Takatakatake/paroligu">Takatakatake/paroligu</a></td></tr>
+        <tr><td class="key">文字起こし Ubuntu</td><td>Streamlit Cloudなし（ローカル実行）</td><td><a href="https://github.com/Takatakatake/jako-esperantlingva-paroltransskribo-kaj-interpretado-japana-korea-Ubuntu-202604">Ubuntu版リポジトリ</a></td></tr>
+        <tr><td class="key">文字起こし Windows</td><td>Streamlit Cloudなし（ローカル実行）</td><td><a href="https://github.com/Takatakatake/jako-esperantlingva-paroltransskribo-kaj-interpretado-japana-korea-windows11-202604">Windows版リポジトリ</a></td></tr>
+      </tbody>
+    </table>
+  </div>
+
+  <div class="summary">
+    <b>まとめ:</b> このツール群は、漢字化エスペラントを「調べる・書く・変換する・戻す」ための中核環境に、学習、音声化、リアルタイム字幕を組み合わせたものです。まずは kanji_assign で割当を確認し、Monaco または CJK Annotator で作成し、Reverter で検証する流れが基本です。
+  </div>
+</section>
+
+</main>
+
+<footer>
+  <div class="wrap">
+    エスペラント漢字化プロジェクト — アプリ・ツール早わかりガイド（整理日 2026-07-05）<br>
+    <a href="kanji.html">語根漢字割当表</a> ・ <a href="words.html">複合語ビュー</a> ・ <a href="https://github.com/Takatakatake/kanji_assign">GitHub: Takatakatake/kanji_assign</a>
+  </div>
+</footer>
+
+</body>
+</html>
