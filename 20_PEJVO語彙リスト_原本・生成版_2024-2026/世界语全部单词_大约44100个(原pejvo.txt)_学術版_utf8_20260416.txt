@@ -60138,7 +60138,7 @@ deoksi/oz/o:【化】【PIV】Monosakarido, C n H 2n O n-1 au^ C n H 2n O n-2, k
 furan/oz/o:【PIV】Monosakarido, karakterizata de kvinedra heterociklo (parenca al furano), konsistanta el 4 karbonatomoj k unu oksigenatomo: glukofuranozo; rib ozo estas furanozo.
 ket/oz/o:【化】【PIV】Ketona monosakarido.
 piran/oz/o:【PIV】Monosakarido, karakterizata de sesedra heterociklo (parenca al pirano), konsistanta el 5 karbonatomoj k unu oksigenatomo: glukopiranozo.
-sap/ozid/o:【PIV】Saponino.
+sapozid/o:【PIV】Saponino.
 pent/ozan/o:【PIV】(kn (kolektiva nomo)) Polisakarido de pentozo, trovig^anta i.a. (interalie, inter aliaj) en hemicelulozo: pentozana sulfato (artefarita heparinsimila antikoagula substanco).
 inter/pac/ig/i:【PIV】Pacigi reciproke: religia unuig^o, kiu interpacigus c^iujn ekzistantajn religiojn .
 mal/pacienc/ig^/i:【PIV】Perdi sian paciencon.

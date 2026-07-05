@@ -30016,7 +30016,7 @@ perl/o/kolor/a⟦珠/o/色/a⟧:真珠色の
 perl/o/konk/o⟦珠/o/贝/o⟧:真珠貝
 perl/ostr/o⟦珠/蚌/o⟧:真珠貝
 per/man/e⟦以/手/e⟧:手で,手作業で
-per/mangan/at/o⟦过ᴾᴱᴿ/锰/盐ᴬ/o⟧:【化】過マンガン酸塩##偽分解(PIV正式分解)
+per/mangan/at/o⟦过ᴾᴱᴿ/锰/盐ᴬ/o⟧:【化】過マンガン酸塩##偽分解(PIV正式分解)##過細分解 p/e/r/mangan/at/o
 permeabl/a⟦穿ᴾᴿ/a⟧:【理】=tralasa（浸透性の）
 permeabl/o⟦穿ᴾᴿ/o⟧:【理】透磁率
 permeabl/o de vaku/o⟦穿ᴾᴿ/o 从 空ⱽᵁ/o⟧:【理】真空の透磁率
@@ -45507,7 +45507,7 @@ au^toklav/o⟦高压锅/o⟧:【技】【PIV】1 Speco de metala vazo tre fortik
 au^toklav/i⟦高压锅/i⟧:【PIV】(tr (transitiva)) Sterilizi per au^toklavo. Vd sterilizilo.
 au^t/o/krat/a⟦自ᴬ/o/治ᴷ/a⟧:【PIV】Karakterizanta au^tokraton: oni diros, ke g^i estas ago au^tokrata .##偽分解##過細分解 a/u^/t/o/krat/a
 au^t/o/krat/ec/o⟦自ᴬ/o/治ᴷ/性/o⟧:【PIV】Tuto de la karakterizaj^oj de au^tokrato: en la nuna tre maltrankvila tempo ni devas tre zorge eviti c^iun agon, kiu havas s^ajnon de au^tokrateco .##偽分解##過細分解 a/u^/t/o/krat/ec/o
-au^t/o/liz/o⟦自ᴬ/o/解ᴸ/o⟧:【医】【PIV】Malkomponig^o au^ detruig^o de histoj per la tie entenataj enzimoj.##偽分解
+au^t/o/liz/o⟦自ᴬ/o/解ᴸ/o⟧:【医】【PIV】Malkomponig^o au^ detruig^o de histoj per la tie entenataj enzimoj.##偽分解##過細分解 a/u^/t/o/liz/o
 au^tomat/ec/o⟦动ᴬ/性/o⟧:【PIV】Karakterizaj^o de io au^tomata.
 au^tomatik/o:【PIV】Scienco pri la uzo de la au^tomatoj.
 au^t/o/mobil/a⟦车/o/动ᴹᴮ/a⟧:【PIV】Rilata al au^tomobilo(j): au^tomobilaj akcesoraj^oj; au^tomobila sporto.##偽分解##過細分解 a/u^/t/o/mobil/a
@@ -48957,7 +48957,7 @@ hidr/o/liz/o⟦水ᴴ/o/解ᴸ/o⟧:【化】【PIV】Ago hidrolizi.##偽分解(
 hidr/o/log/o⟦水ᴴ/o/学家/o⟧:【地質】【PIV】Specialisto pri hidrologio.##偽分解##過細分解 h/i/d/r/o/log/o
 hidr/o/logi/o⟦水ᴴ/o/学ᴸᴳ/o⟧:【PIV】Scienco pri la akvoj, iliaj enhavo k proprecoj.##偽分解##過細分解 h/i/d/r/o/logi/o
 hidr/oni/o⟦水ᴴ/oni/o⟧:【PIV】Vd (vidu) onio.##偽分解(PIV正式分解)##過細分解 hidr/o/n/i/o
-hidr/ore/o⟦水ᴴ/ore/o⟧:【医】【PIV】Abunda serozaj^a elfluo de inflamita mukozo.##偽分解(PIV正式分解)
+hidr/ore/o⟦水ᴴ/ore/o⟧:【医】【PIV】Abunda serozaj^a elfluo de inflamita mukozo.##偽分解(PIV正式分解)##過細分解 h/i/d/r/ore/o
 hidr/o/sfer/o⟦水ᴴ/o/球ˢ/o⟧:【地質】【生態】【PIV】Tuto de la akvaj elementoj de Tero: la hidrosfero precipe konsistas el la oceanoj; la hidrosfero estas parto de la biosfero. Vd biosfero, litosfero.##偽分解(PIV正式分解)##過細分解 h/i/d/r/o/sfer/o
 hidr/o/statik/a⟦水ᴴ/o/静ˢ/a⟧:【PIV】Rilata al hidrostatiko: hidrostatika ekvilibro.##偽分解(PIV正式分解)##過細分解 h/i/d/r/o/statik/a
 hidr/o/terapi/a⟦水ᴴ/o/疗/a⟧:【PIV】Rilata al hidroterapio: hidroterapia kuracado.##偽分解(PIV正式分解)##過細分解 h/i/d/r/o/terapi/a
@@ -50028,7 +50028,7 @@ karbazon/o:【化】【PIV】Produkto de la reakcio inter ketono au^ aldehido k 
 karbazol/o:【化】【PIV】Tricikla hidrokarbono, dibenzopirolo, C 12 H 9 N, trovebla en karba gudro.
 karben/o:【化】【PIV】La tre reakciema radikalo CH 2:, kun du neparig^intaj elektronoj: karbenoj estas gravaj sintezreakciantoj.
 karbinol/o:【化】【PIV】La radikalo ⪫C-OH: substituitaj karbinoloj do povas esti rigardataj kiel derivaj^oj de metanolo.
-karb/oksi/l/o⟦炭/氧/l/o⟧:【化】【PIV】La grupo-COOH de organikaj acidoj: oni formas la nomon de karboksilaj acidoj el la nomo de la parenca hidrokarbono kun la finaj^o «ata acido» - ekz. (ekzemple) etanata (Sin. (sinonimo) acetata) acido - au^ el la nomo de la molekulo, kies derivaj^o g^i estas, kun la finaj^o «karboksila acido» - ekz. (ekzemple) benzo karboksila (Sin. (sinonimo) benzoata) acido -.##偽分解(PIV正式分解)
+karb/oksi/l/o⟦炭/氧/l/o⟧:【化】【PIV】La grupo-COOH de organikaj acidoj: oni formas la nomon de karboksilaj acidoj el la nomo de la parenca hidrokarbono kun la finaj^o «ata acido» - ekz. (ekzemple) etanata (Sin. (sinonimo) acetata) acido - au^ el la nomo de la molekulo, kies derivaj^o g^i estas, kun la finaj^o «karboksila acido» - ekz. (ekzemple) benzo karboksila (Sin. (sinonimo) benzoata) acido -.##偽分解(PIV正式分解)##過細分解 k/a/r/b/oksi/l/o
 karboline/o:【化】【PIV】Miksaj^o de kreozota k de antracena gudroj, uzata por s^irmi lignon kontrau^ putrado k insektoj.
 karbon/id/o⟦碳/化ᴵᴰ/o⟧:【PIV】Karbido.##偽分解(PIV正式分解)
 karbon/ig/i⟦碳/使/i⟧:【PIV】= karbigi 1.
@@ -52753,7 +52753,7 @@ opt/o/metri/o⟦视ᴼ/o/测ᴹᵀ/o⟧:【医】【PIV】Determino de la vid-ak
 optimum/a⟦优ᴼ/a⟧:【PIV】Prezentanta optimumon: la optimuma denseco de log^antaro.
 opul/o⟦木ᴼᴾ/o⟧:【植】【PIV】Sp. (Specio) de viburno (Viburnum opulus), tufarbusto kun pinte lobaj k dentaj folioj, kun blankaj, duspecaj floroj en umbelformaj cumoj, k kun rug^aj, venenaj fruktoj; hejma en Eu^ropo, N Afriko k U Azio, pororname kultivata.
 opunti/o⟦草ᴼᴾ/o⟧:【植】【PIV】G. (Genro) (Opuntia, sin. (sinonimo (de latinscienca nomo)) Cactus, el kaktacoj) de kaktoj diversaspektaj, kun tigoj karakterize artikaj, kun plataj au^ pli-malpli cilindraj, ovo-au^ glob-formaj interartikaj^oj, kiuj surhavas akrajn dornojn au^ pikajn harojn; c^. (c^irkau^) 200 sp-oj (specioj) el Ameriko, kelkaj naturigitaj en la varmaj regionoj de la Malnova Mondo, i.a. (interalie, inter aliaj) figokakto, multaj aliaj pororname kultivataj. Sin. (sinonimo) nopalo. see kakto.
-orat/o:【化】【PIV】Salo de orata acido, H 3 AuO 3 au^ HAuO 2.
+or/at/o⟦金/盐ᴬ/o⟧:【化】【PIV】Salo de orata acido, H 3 AuO 3 au^ HAuO 2.##偽分解(PIV正式分解)
 or/ec/a⟦金/性/a⟧:【PIV】Simila al oro: oreca galanterio; oreca sulfuro (komuna nomo de orflava antimona sulfido, Sb 2 S 3).
 orhav/a:【地質】【PIV】Entenanta oran ercon.
 orangutan/o⟦猴ᴼ/o⟧:【動】【PIV】Sp. (Specio) (Pongo pygmaeus) de granda, homsimila simio el Sumatro k Borneo, rug^bruna, kun longaj brakoj k mallongaj kruroj. Vd c^impanzo, gorilo, gibono.
@@ -54545,7 +54545,7 @@ rust/a⟦锈/a⟧:【PIV】Kovrita de rusto: rustaj feraj^oj; rusta s^pato.
 rustik/a⟦朴ᴿ/a⟧:【建】【PIV】Prezentanta simplan, ec^ krudan prilaboradon, kiu restigis multajn neregulaj^ojn, malglataj^ojn ktp (kaj tiel plu): rustika meblo, ponto, muro.
 rustik/ec/o⟦朴ᴿ/性/o⟧:【PIV】Eco de io rustika: la rustikeco de modernaj seg^oj; (f (figurasence)) la rustikeco de lia stilo.
 rusul/o⟦菌ᴿ/o⟧:【植】【PIV】G. (Genro) (Russula el rusulacoj) de ombrelfungoj diferencaj de laktario i.a. (interalie, inter aliaj) pro malesto de laktosuko, kun karno kompakta k rompig^ema; kosmopolita g. (genro) de c^. (c^irkau^) 270 sp-oj (specioj), pluraj mang^indaj.
-rutozid/o:【化】【PIV】Heterozido, C 27 H 30 O 16, ekstraktata el ruto k.a. (kaj aliaj) plantoj, i.a. (interalie, inter aliaj) el la g. (genro) citruso; medicine uzata (plifortigas la sangkapilarojn); unu el la konsistaj^oj de la vitamino P.
+rut/ozid/o⟦草ᴿ/ozid/o⟧:【化】【PIV】Heterozido, C 27 H 30 O 16, ekstraktata el ruto k.a. (kaj aliaj) plantoj, i.a. (interalie, inter aliaj) el la g. (genro) citruso; medicine uzata (plifortigas la sangkapilarojn); unu el la konsistaj^oj de la vitamino P.##偽分解
 rutel/o⟦鱼ᴿᵀ/o⟧:【動】【PIV】G. (Genro) (Rutilus), parenca al leu^cisko, de fis^oj el la fam. (familio) ciprinedoj, vivantaj en nesala, sen-au^ malrapid-flua akvo, el kiuj estas ploto.
 ruten/a:【PIV】Rilata al rutenoj au^ al slava lingvo, parolata en Vojvodino.
 Ruten/uj/o:【PIV】Regiono, sudokcidente de Karpatoj, aparteninta al Hungario, al C^eh^oslovakio, nun parto de Ukrainio (23°E, 48°30′N).
@@ -55591,7 +55591,7 @@ sulf/at/amid/o⟦硫/盐ᴬ/amid/o⟧:【化】【PIV】Amido de sulfata acido, 
 sulf/oksid/o⟦硫/氧化/o⟧:【化】【PIV】Organika substanco kun g^enerala formulo R-S(O)-R: dimetil sulfoksido, CH 3-S(O)-CH 3, estas tre grava solvanto. Vd sulfurdioksido.
 sulfam/o⟦氨硫/o⟧:【化】【PIV】Radiko de sulfamata acido (en kunmetaj^oj).
 sulfam/at/o⟦氨硫/盐ᴬ/o⟧:【化】【PIV】Salo de sulfamata acido H 2 NSO 3 H: amonia sulfamato, NH 4 SO 3 NH 2, estas grava herbicido.##偽分解(PIV正式分解)
-sulfimid/o:【化】【PIV】(kn (kolektiva nomo)) Imido de karboksisulfonata acido, entenanta la grupon-C(O)-N(H)-S(O 2)-. Vd sakarino.
+sulf/imid/o⟦硫/imid/o⟧:【化】【PIV】(kn (kolektiva nomo)) Imido de karboksisulfonata acido, entenanta la grupon-C(O)-N(H)-S(O 2)-. Vd sakarino.##偽分解(PIV正式分解)
 sulfin/o⟦硫ˢᴺ/o⟧:【化】【PIV】sulfinilo (en kunmetaj^oj).
 sulfin/at/o⟦硫ˢᴺ/盐ᴬ/o⟧:【化】【PIV】Salo de sulfinata acido, kun g^enerala formulo R-S(O)OH.##偽分解(PIV正式分解)
 sulfinil/o:【PIV】La radiko ≻S=O en organikaj molekuloj. Vd tionilo.
@@ -57160,7 +57160,7 @@ Lombard/uj/o:【PIV】Regiono en la N parto de Italio, c^e la piedo de Alpoj (Mi
 ##重複語lozang^/o:【紋章】【PIV】Nomo de kelkaj romboformaj objektoj, i.a.: 1 Figuro, simb. de lancopinto.
 Luiz/o:【PIV】= Ludoviko.
 Magdalen/a:【PIV】N. Kromnomo de Maria, («tiu el Magdala»), unu el la virinoj, kiuj c^irkau^is Jesuon k la unua, al kiu li aperis postmorte; uzata kiel virina nomo.
-makro/pod/o⟦宏ᴹ/足ᴾᴼ/o⟧:【動】【PIV】G. (Macropus) de kanguruoj, Au^straliaj saltantaj marsupiuloj kun tre longaj postaj kruroj. Vd valabio. makropedoj. Fam. (Macropodidae) de marsupiuloj, al kiu apartenas i.a. makropo k ampleksanta la kanguruojn.##偽分解
+makro/pod/o⟦宏ᴹ/足ᴾᴼ/o⟧:【動】【PIV】G. (Macropus) de kanguruoj, Au^straliaj saltantaj marsupiuloj kun tre longaj postaj kruroj. Vd valabio. makropedoj. Fam. (Macropodidae) de marsupiuloj, al kiu apartenas i.a. makropo k ampleksanta la kanguruojn.##偽分解##エス的分解
 Malah^/i:【聖】【PIV】La dekdua el la malgrandaj profetoj.
 Manas/e:【聖】【PIV】Nomo de patriarko k de reg^o.
 ##重複語masag^/o:【医】【PIV】Permana premfrotado k knedado de muskoloj k artikoj por kuracaj celoj. Vd kinezo. masag^i (tr) Fari masag^on al: masag^i atleton, la muskolojn de la brako.
@@ -57491,7 +57491,7 @@ frid/an/estez/o⟦冷ᶠ/员ᴬ/感ᴱ/o⟧:【PIV】Anestezo per malvarmo.##偽
 g^arden/angelik/o⟦园/草ᴬᴸ/o⟧:【PIV】Sp. (Specio) de angeliko (A. archangelica) el N Eu^ropo, ofte kultivata, antau^e kiel legomo, nun precipe por konfitado k aromigo.
 kole/angi/it/o⟦胆ᴷ/脉ᴬᴺ/炎ᵀ/o⟧:【医】【PIV】Inflamo de la galaj kanaloj.##偽分解(PIV正式分解)
 limf/angi/it/o⟦淋ᴸ/脉ᴬᴺ/炎ᵀ/o⟧:【PIV】Limfangito.##偽分解(PIV正式分解)
-limf/angi/om/o⟦淋ᴸ/脉ᴬᴺ/om/o⟧:【PIV】Angiomo el limfaj angioj.##偽分解(PIV正式分解)
+limf/angi/om/o⟦淋ᴸ/脉ᴬᴺ/om/o⟧:【PIV】Angiomo el limfaj angioj.##偽分解(PIV正式分解)##過細分解 limf/angi/o/m/o
 brust/angin/o⟦胸/咽炎/o⟧:【PIV】= brustangoro.
 s^ajn/angostur/o⟦像/木ᴬˢ/o⟧:【PIV】(ark. (arkaismo, arkaisme)) S^elo de vomarbo, venena, pasintece uzata por falsi angosturon 2.
 kvar/angul/a⟦四/角/a⟧:【PIV】Havanta kvar angulojn: kvar angula altaro.
@@ -60138,7 +60138,7 @@ de/oksi/oz/o⟦从/氧/糖ᴼ/o⟧:【化】【PIV】Monosakarido, C n H 2n O n-
 furan/oz/o⟦furan/糖ᴼ/o⟧:【PIV】Monosakarido, karakterizata de kvinedra heterociklo (parenca al furano), konsistanta el 4 karbonatomoj k unu oksigenatomo: glukofuranozo; rib ozo estas furanozo.
 ket/oz/o⟦ket/糖ᴼ/o⟧:【化】【PIV】Ketona monosakarido.
 piran/oz/o⟦piran/糖ᴼ/o⟧:【PIV】Monosakarido, karakterizata de sesedra heterociklo (parenca al pirano), konsistanta el 5 karbonatomoj k unu oksigenatomo: glukopiranozo.
-sap/ozid/o⟦皂/ozid/o⟧:【PIV】Saponino.
+sap/ozid/o⟦皂/ozid/o⟧:【PIV】Saponino.##偽分解
 pent/ozan/o⟦五ᴾᴱ/ozan/o⟧:【PIV】(kn (kolektiva nomo)) Polisakarido de pentozo, trovig^anta i.a. (interalie, inter aliaj) en hemicelulozo: pentozana sulfato (artefarita heparinsimila antikoagula substanco).
 inter/pac/ig/i⟦间/和/使/i⟧:【PIV】Pacigi reciproke: religia unuig^o, kiu interpacigus c^iujn ekzistantajn religiojn .
 mal/pacienc/ig^/i⟦反/忍ᴾ/成/i⟧:【PIV】Perdi sian paciencon.
