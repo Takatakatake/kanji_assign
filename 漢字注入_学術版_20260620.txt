@@ -29130,7 +29130,7 @@ panaris/o:【病】ひょう疽
 pan/bul/o⟦面包/团ᴮ/o⟧:丸パン
 pan/butik/o⟦面包/店/o⟧:パン屋
 pandion/o:【鳥】ミサゴ（種）,=fis^aglo
-pand/o:【動】パンダ
+pand/o⟦熊猫/o⟧:【動】パンダ
 pan/don/a⟦面包/给/a⟧:食糧を与える,生計を立てる
 panegir/a⟦颂ᴾ/a⟧:称賛の,賛辞の
 panegir/i⟦颂ᴾ/i⟧:［自］称賛の演説をする,賛辞を読み上げる,賛辞を書く
