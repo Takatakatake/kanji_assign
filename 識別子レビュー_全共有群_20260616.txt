@@ -3030,12 +3030,6 @@
   staj           索ˢ         F=4     pejvo   
   funikl         索ᶠ         F=2     pejvo   
 
-【算】 4件
-  kalkul         算          F=48    basic   
-  komput         算ᴷᴹ        F=37    basic   
-  budĝet         算ᴮ         F=1     basic   
-  aritmetik      算ᴬ         F=7     pejvo   
-
 【指】 4件
   fingr          指          F=35    basic   
   indik          指ᴵ         F=21    basic   
@@ -4145,6 +4139,11 @@
   bros           刷          F=10    basic   
   strigl         刷ˢ         F=2     pejvo   
   skovel         刷ˢᴷ        F=2     piv     管掃除ブラシ
+
+【算】 3件
+  kalkul         算          F=48    basic   
+  komput         算ᴷᴹ        F=37    basic   
+  aritmetik      算ᴬ         F=7     pejvo   
 
 【思】 3件
   pens           思          F=49    basic   
@@ -7651,6 +7650,10 @@
 【预】 2件
   anticip        预          F=4     pejvo   
   predikt        预ᴾ         F=2     pejvo   
+
+【预算】 2件
+  buĝet          预算         F=10    basic   
+  budĝet         预算ᴮᴰ       F=1     basic   
 
 【颈】 2件
   kol            颈          F=36    basic   

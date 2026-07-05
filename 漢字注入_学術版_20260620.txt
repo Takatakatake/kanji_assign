@@ -4539,7 +4539,7 @@ Buda/o:【仏】=Budho（仏陀）
 budapes^t/a:ブダペストの
 Budapes^t/o:【地名】ブダペスト（ハンガリーの首都）
 Budd/o:【仏】=>Budho（仏陀）
-budg^et/o⟦算ᴮ/o⟧:{Ｂ}=>bug^eto（予算）
+budg^et/o⟦预算ᴮᴰ/o⟧:{Ｂ}=>bug^eto（予算）
 budh/an/a nom/o⟦佛/员ᴬ/a 名/o⟧:【仏】戒名,法名
 budh/an/a templ/o⟦佛/员ᴬ/a 庙/o⟧:仏教寺院,寺
 budh/an/o⟦佛/员ᴬ/o⟧:【仏】仏教徒
