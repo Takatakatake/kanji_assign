@@ -1969,6 +1969,14 @@
   lancin         刺ᴸ         F=3     piv     【医】刺すように痛む
   strid          刺ˢᵀ        F=2     piv     きしむ音を発する
 
+【市】 6件
+  urb            市          F=72    basic   
+  merkat         市ᴹ         F=25    basic   
+  civit          市ᶜ         F=15    basic   
+  bors           市ᴮ         F=13    basic   
+  bazar          市ᴮᶻ        F=13    basic   
+  municip        市ᴹᴺ        F=3     pejvo   
+
 【斜】 6件
   klin           斜          F=38    basic   
   oblikv         斜ᴼ         F=8     basic   
@@ -2304,13 +2312,6 @@
   lap            菜ᴸᴾ        F=2     basic   
   artis^ok       菜ᴬ         F=4     pejvo   
   amarant        菜ᴬᴹ        F=3     pejvo   
-
-【市】 5件
-  urb            市          F=72    basic   
-  merkat         市ᴹ         F=25    basic   
-  civit          市ᶜ         F=15    basic   
-  bors           市ᴮ         F=13    basic   
-  bazar          市ᴮᶻ        F=13    basic   
 
 【字】 5件
   liter          字          F=33    basic   
@@ -7602,6 +7603,10 @@
 【锐】 2件
   akr            锐          F=26    basic   
   akut           锐ᴬᵀ        F=9     pejvo   
+
+【锤】 2件
+  martel         锤          F=18    basic   
+  male           锤ᴹᴸ        F=4     pejvo   
 
 【锥】 2件
   konus          锥          F=16    pejvo   

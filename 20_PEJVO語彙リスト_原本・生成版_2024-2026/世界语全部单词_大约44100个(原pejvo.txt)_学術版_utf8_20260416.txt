@@ -1343,7 +1343,7 @@ alt/e/de/ven/a:名門の
 alt/e/flug/a:野心的な,大げさな
 alt/e/n:高くへ（下から上へ）
 al/ten/ig^/i:［自］くっつく,しがみつく
-alten/o:【声】（調音の）入りわたり
+al/ten/o:【声】（調音の）入りわたり
 alte/o:{Ｏ}【植】タチアオイ（立葵）（属）
 al/ter/ig/i:［他］【電】接地する
 al/ter/ig^/i:［自］【海】接岸する;【空】着陸する
@@ -2557,7 +2557,7 @@ asign/o:割当て;【法】召喚（状）
 asimil/ad/o:同化
 asimil/i:{Ｏ}［他］同化する
 asimptot/o:【数】漸近線
-Asir/i/o:【古地名】アッシリア（古代メソポタミアの国）
+Asiri/o:【古地名】アッシリア（古代メソポタミアの国）
 Asir/o:【古地名】アッシュール（古代アッシリアの首都）
 asist/a:補佐の
 asist/ant/o:助手,補佐
@@ -6187,7 +6187,7 @@ Dek Ordon/oj:（la 〜）【キ】（モーセの）十戒
 dekor/i:［他］=dekoracii（装飾する）
 dekor/o:=dekoracio（装飾）
 de/krad/i:［他］格子で仕切る
-dekrement/o:【電】減衰率
+de/krement/o:【電】減衰率
 dekret/i:［他］【政】（政令を）発令する,布告する
 dekret/o:{Ｏ}【政】（行政責任者の）命令,政令;勅令
 de/kroc^/i:［他］（かぎから）はずす
@@ -7486,7 +7486,7 @@ dop/ad/o:【医】【運】ドーピング
 dop/aj^/o:【薬】【運】ドーピング剤
 dop/i:［他］【医】【運】ドーピングする（運動能力を高めるために薬剤を与えること）
 Dopler/o:【人名】ドップラー（オーストリアの物理学者，1803-1853）
-dori/an/o:【史】ドリス人（＝ドーリア人，古代ギリシア人の一派）
+dor/i/an/o:【史】ドリス人（＝ドーリア人，古代ギリシア人の一派）
 dorik/a kapitel/o:【建】ドリス式（＝ドーリア式）柱頭
 Dor/i/o:【地名】ドリス地方（ギリシア）
 dorlot/ad/o:甘やかし
@@ -11043,8 +11043,8 @@ filologi/ist/o:=filologo（文献学者）
 filologi/o:{Ｏ}文献学
 filolog/o:{Ｏ}文献学者
 filozof/i:［自］=filozofii（哲学する）;達観する
-filozofi/a:哲学的な
-filozofi/i:［自］哲学する,思索する
+filozof/i/a:哲学的な
+filozof/i/i:［自］哲学する,思索する
 filozof/i/o:{Ｏ}哲学;ものの見方,考え方,人生観,世界観
 filozof/o:{Ｏ}哲学者;哲人,賢者
 filtr/ad/o:ろ過
@@ -17897,8 +17897,8 @@ kirl/o/frit/i:［他］【料】（かき混ぜながら）いためる
 kirl/o/kurent/o:【電】渦電流
 kirl/o/vent/o:つむじ風,旋風,=ventokirlo
 kirs^/o:{Ｏ}【料】キルシュ（酒）
-kirurgi/a instrument/o:【医】外科用器具,手術器具
-kirurgi/a proced/o:【医】外科処置
+kirurg/i/a instrument/o:【医】外科用器具,手術器具
+kirurg/i/a proced/o:【医】外科処置
 kirurg/i/o:{Ｂ}【医】外科学,外科
 kirurg/o:{Ｂ}外科医
 kis/em/a:やたらにキスをしたがる
@@ -22429,7 +22429,7 @@ loes/o:【地理】=leu^so（黄土）
 lof/i:［他］【海】船首を風上にむける
 log/aj^/o:（おびき寄せるための）餌（えさ）,誘惑の言葉
 logaritm/a:対数の
-logaritm/a dekrement/o:【理】対数減衰率
+logaritm/a de/krement/o:【理】対数減衰率
 logaritm/a funkci/o:【数】対数関数
 logaritm/a paper/o:対数方眼紙
 logaritm/a tabel/o:【数】対数表
@@ -29708,8 +29708,8 @@ pec^/a:ピッチの,ピッチを塗った
 pec^/i:［他］ピッチを塗る
 pec^/o:{Ｏ}【化】ピッチ,>>bitumo
 pedagog/a:教育者の
-pedagogi/a:教育学の,児童教育の
-pedagogi/ist/o:教育学者
+pedagog/i/a:教育学の,児童教育の
+pedagog/i/ist/o:教育学者
 pedagog/i/o:{Ｏ}教育学,児童教授法
 pedagog/o:{Ｏ}教育者,教師;教育学者
 pedal/boat/o:（娯楽用の足でこぐ）ペダルボート
@@ -31555,7 +31555,7 @@ pozitiv/a:{Ｏ}積極的な,建設的な,実際的な,現実的な,確実な;肯
 pozitiv/a ag/o:積極的な行動
 pozitiv/a elektr/o:【理】正電気
 pozitiv/a elektrod/o:【理】正極,>>anodo
-pozitiv/a filozofi/o:実証哲学
+pozitiv/a filozof/i/o:実証哲学
 pozitiv/a fraz/o:【Ｇ】肯定文
 pozitiv/a jon/o:【理】正イオン,=katjono
 pozitiv/a jug^/o:肯定的な判断
@@ -32573,7 +32573,7 @@ psik/analiz/o:【心】精神分析
 psik/asteni/o:【病】精神衰弱
 psik/a trau^mat/o:【医】心的外傷,トラウマ
 psik/e:心理的に
-psikiatri/a hospital/o:精神病院
+psikiatr/i/a hospital/o:精神病院
 psikiatr/i/o:【医】精神科,精神医学
 psikiatr/o:精神科医
 psik/o:【心】精神,心理,>>menso
@@ -44237,8 +44237,8 @@ alt/prez/e:高値で,高価に
 alt/risk/a:危険性の高い,ハイリスクの
 alzac/a:{Ｏ}アルザスの;アルザス人の;アルザス語の
 alzac/an/o:{Ｏ}アルザス人
-asir/i/a:{Ｏ}アッシリアの;アッシリア人の;アッシリア語の
-asir/i/an/o:{Ｏ}アッシリア人
+asiri/a:{Ｏ}アッシリアの;アッシリア人の;アッシリア語の
+asiri/an/o:{Ｏ}アッシリア人
 au^stronezi/a:{Ｏ}オーストロネシア人の;オーストロネシア語族の
 azerbajg^an/a:{Ｏ}アゼルバイジャンの;アゼルバイジャン人の;アゼルバイジャン語の
 aztek/a:{Ｏ}アステカ族の;アステカ文化の
@@ -44997,8 +44997,8 @@ anastrof/o:【PIV】= inversio.
 anateks/o:【地質】【PIV】Magmig^o de metamorfaj petroj pro fandig^o je altaj temperaturoj (> 600 °C (celsia(j) grado(j))) en la profundo de la tero, precipe en montarig^antaj regionoj.
 anateksit/o:【地質】【PIV】Anateksa petro.
 anatoksin/o:【PIV】Toksino, per trakto perdinta sian toksecon, sed konservinta sian antigenecon k sekve sian imunigan kapablon.
-anatomi/a:【PIV】Rilata al anatomio: anatomia traktato.
-anatomi/ist/o:【PIV】Anatomo.
+anatom/i/a:【PIV】Rilata al anatomio: anatomia traktato.
+anatom/i/ist/o:【PIV】Anatomo.
 ancilostom/o:【動】【PIV】G. (Genro) (Ancylostoma) de sangosuc^aj nematodoj, parazitantaj en la maldika intesto de la homo.
 ancilostom/oz/o:【医】【PIV】Malsano (anemio), kau^zata de ancilostomoj.
 andaluz/o:【PIV】Ano de la c^efa gento de Andaluzio.
@@ -46005,7 +46005,7 @@ bov/o/vir/o:【PIV】1 Tau^ro kun homa kapo, en Asirio. Vd Minotau^ro, kerubo. 2
 boviste/o:【植】【PIV】G. (Genro) (Bovista el likoperdacoj) de bazidifungoj kun globforma, ferma bazidiujo tute senpedunkla, kiu c^e maturig^o ellasas per apeksa ostiolo la enhavon el bruna sporaro; tre disvastig^inta g. (genro) de 46 sp-oj (specioj). Vd likoperdo, polvofungoj.
 brac^/o:【史】【PIV】Speco de pantalono, portata de gau^loj, g^ermanoj k kelkaj Aziaj popoloj.
 bradikardi/o:【医】【PIV】Malrapideco de la kora pulsado.
-bradiped/oj:【動】【PIV】Fam. (Familio) (Bradypodidae) de ksenartroj, al kiu apartenas bradipo k unau^o.
+bradip/ed/oj:【動】【PIV】Fam. (Familio) (Bradypodidae) de ksenartroj, al kiu apartenas bradipo k unau^o.
 bradipepsi/o:【医】【PIV】Malrapida k malfacila digesto.
 brahmo/o:【宗】【PIV】Monoteisto, apartenanta al la bengala hinduismoreforma movado, fondita en la frua 19a jc (jarcento) surbaze de kritika relego de la Upanis^adoj.
 brah^in/o:【PIV】= brakino.
@@ -46540,7 +46540,7 @@ dau^k/o:【植】【PIV】G. (Genro) (Daucus el apiacoj) de unu-k precipe du-jar
 dau^r/ad/o:【PIV】Stato de io, kio plu ekzistas, ne c^esas: la dau^rado de la malbona vetero ruinigas niajn projektojn de ekskurso.
 davali/o:【植】【PIV】G. (Genro) (Davallia el davaliacoj) de 34 sp-oj (specioj) de tropikaj k subtropikaj filikoj el la Malnova Mondo, pluraj pororname kultivataj.
 davit/o:【PIV】Turnebla gruo sur s^ipoj, destinita por surakvigi, suprenlevi k pendigi boatojn.
-daziped/oj:【動】【PIV】Fam. (Familio) (Dasypodidae) de ksenartroj, al kiu apartenas i.a. (interalie, inter aliaj) dazipo. Vd armadelo, tatuo, gliptodonto.
+dazip/ed/oj:【動】【PIV】Fam. (Familio) (Dasypodidae) de ksenartroj, al kiu apartenas i.a. (interalie, inter aliaj) dazipo. Vd armadelo, tatuo, gliptodonto.
 dazipod/ed/oj:【動】【PIV】Fam. (Familio) (Dasypodidae) de ksenartroj, al kiu apartenas i.a. (interalie, inter aliaj) dazipo. Vd armadelo, tatuo, gliptodonto.
 DDT:【化】【PIV】Kemia komponaj^o, dikloro-difenil-trikloro-etano, tre efika insekticido hodiau^ ne plu au^ preskau^ ne plu uzata, c^ar ne biomalkomponebla.
 debil/a:【医】【PIV】1 Perdinta siajn fortojn: debila knabo, stomako, cerbo. 2【心】 Havanta inteligentecon, kiu ne atingas 70%-an inteligento-kvocienton:
@@ -46899,7 +46899,7 @@ dop/ant/aj^/o:【PIV】Dopanta substanco.
 dop/il/o:【PIV】Dopanta substanco.
 Dor/o:【PIV】Fondinto de la Doriana gento.
 dor/a:【楽】【PIV】(pp (se paroli pri) modalo) Uzanta la naturajn tonojn D g^is D'.
-Dori/a:【PIV】1 Propra al Dorio au^ al Dorianoj. 2 = dorika.
+Dor/i/a:【PIV】1 Propra al Dorio au^ al Dorianoj. 2 = dorika.
 dorid/o:【動】【PIV】Nudbranka mara gastropodo (Doris k parencaj g-oj (genroj)), kiu havas la brankojn c^irkau^ la anuso.
 dorik/a:【建】【PIV】Apartenanta al unu el la tri c^efaj ordoj de la klasika arkitekturo, karakterizata de plena senornameco: dorika stilo, kolono, templo. Vd ionika, korintika.
 doris/o:【PIV】Platfunda boato, uzata por demeti fis^fadenojn c^e Novtero.
@@ -50309,7 +50309,7 @@ kironekt/o:【動】【PIV】G. (Genro) (Chironectes) de S-Amerikaj mamuloj el l
 kiropraktik/o:【医】【PIV】Terapiista metodo konsistanta en la manipulado de la vertebroj, jen per masag^oj, jen per rektaj au^ nerektaj frapoj.
 kiropraktik/ist/o:【PIV】Specialisto pri kiropraktiko.
 kiropter/oj:【動】【PIV】Ordo (Chiroptera) de malgrandaj mamuloj flugkapablaj, kun hau^ta flugilo inter la fingroj, kruroj k vosto; al g^i apartenas la vespertoj. Vd pteropodo, vampiro, vespertiliono.
-kirurgi/a:【PIV】Rilata al kirurgio; kuracebla per kirurgio: kirurgiaj instrumentoj; (f (figurasence)) kirurgia kolo de humero (collum chirurgicum).
+kirurg/i/a:【PIV】Rilata al kirurgio; kuracebla per kirurgio: kirurgiaj instrumentoj; (f (figurasence)) kirurgia kolo de humero (collum chirurgicum).
 kis/ad/i:【PIV】Dau^re au^ ripete kisi: tiam mia patrino kisadis min sur la frunto k kantadis ; s^i kisadis liajn piedojn k s^miris ilin .
 kiselgur/o:【技】【PIV】Diatomito; industrie uzata por sorbigi nitroglicerolon k tiel konsistigi romp-eksplodaj^on, por fabrikado de pakmaterialoj, kiel pliefikilo en filtrado k klarigado de likvoj ktp (kaj tiel plu). -> dinamito.
 kis^/o:【PIV】Salgusta torto: Lorena kis^o (lardotorto).
@@ -53975,7 +53975,7 @@ psikopati/o:【PIV】Psika malordo, karakterizata precipe de neregataj impulsoj,
 psikopati/ul/o:【PIV】Homo en stato de psikopatio.
 psikedel/a:【医】【心】【PIV】Rilata al psikedelismo.
 psikedel/ism/o:【PIV】Stato de maldorma song^o, kun impreso de ekspansio de la psiko, kau^zata de la uzo de halucinogenaj substancoj.
-psikiatri/a:【PIV】Rilata al psikiatrio: psikiatria hospitalo.
+psikiatr/i/a:【PIV】Rilata al psikiatrio: psikiatria hospitalo.
 psikopat/o:【PIV】= psikopatiulo.
 psil/o:【PIV】J^onglisto, kiu dresas serpentojn.
 psil/ed/oj:【動】【PIV】Fam. (Familio) (Psyllidae) de malgrandaj insektoj el la ordo de hemipteroj, subordo de sternorinkoj, kies inoj k virseksuloj havas 4 membranecajn flugilojn, la malantau^ajn pli malgrandajn; ili parazitas sur vaskulplantoj, i.a. (interalie, inter aliaj) fruktarboj, kiujn ili grave damag^as.
@@ -54584,7 +54584,7 @@ sakral/a:【PIV】Apartigita for de la komuna uzado pro religia karaktero, k ins
 sakral/ig/i:【PIV】Sanktigi, konsekri.
 sakrament/a:【PIV】Rilata al sakramento.
 saks/a:【史】【PIV】1 Rilata al la Mezepokaj saksoj: saksaj radikoj en la angla lingvo. 2 Rilata al nunaj saksoj au^ al Saksio: la saksa industrio.
-Saksi/o-Anhalt/o:【PIV】Unu el la landoj de FRG (Magdeburgo).
+Saks/i/o-Anhalt/o:【PIV】Unu el la landoj de FRG (Magdeburgo).
 saksikol/o:【動】【PIV】G. (Genro) (Saxicola), parenca al enanto, de birdoj el la ordo de paseroformaj, fam. (familio) de turdedoj, kun malhelaj koloroj, miksitaj kun blankaj partoj. Vd rubetro.
 sal/et/a:【PIV】Iomete sala, kiel akvo c^e la elfluejo de riveroj.
 salajr/ec/o:【PIV】Socia sistemo, bazita sur dungado de salajruloj: la celo de la revoluciaj partioj k sindikatoj estas la abolo de salajreco.
@@ -57240,7 +57240,7 @@ Zo/e:【PIV】Grekdevena virina nomo (traduko de la hebrea Eva).
 -anc/:【数】【理】【PIV】Suf. (Sufikso), karakterizanta iajn matematikajn k fizikajn grandojn, ofte por ilin distingi de terminoj derivig^antaj de la sama rad. (radiko) k signifantaj fizikan procezon, ekz. (ekzemple) por distingi indukto (procezo kreado de elektromova forto) k indukt anco (fizika grando, rilatanta al indukto): [Matematiko (inkl. Geometrion)] vari anco, signifik anco, [Fiziko (inkl. optikon)] indukt anco; [Aviado] port anco. Rim. (Rimarko) La vortfino anco trovig^as en neanalizeblaj nomoj: admitanco, disonanco, distanco, impedanco k.a. (kaj aliaj).
 -ante:【PIV】Responda adv. (adverbo), uzebla nur, kiam la plenumanto de la procezo estas esprimata per la subjekto de la prop. (propozicio): promen ante sur la strato, mi falis . Rim. (Rimarko) «La adv-an (adverban) formon ni uzas nur anst. (anstatau^) «kiam li (s^i, g^i, ili) antas au^ « c^ar li… antas » (Z.)».
 -anto:【PIV】Persono au^ objekto, kiu plenumas iun procezon: la parol anto; la Estanto sendis min al vi! ; ag anto (substanco), divid anto (nombro), deterg anto (solvaj^o), fleks anto (muskolo), rezult anto (vektoro) ks (kaj simile, kaj similaj).
--antaj^o:【PIV】Io, kio plenumas la koncernan agon: s^mir antaj^o ; se vi faros plac^antaj^on antau^ la okuloj de la Eternulo .
+-ant/aj^/o:【PIV】Io, kio plenumas la koncernan agon: s^mir antaj^o ; se vi faros plac^antaj^on antau^ la okuloj de la Eternulo .
 Ar:【化】【PIV】En formuloj, simb. (simbolo) de arilo.
 -ate:【PIV】Responda adv. (adverbo), kiam la suferanto de la procezo estas esprimata per la subjekto de la prop. (propozicio): kirlate, ovblanko eks^au^mas; oni ne postulis kalkulan raporton , sed ili laboris konfidate . Vd ant, Rim. (Rimarko)
 -ato:【PIV】Persono au^ objekto, kiun oni submetas al iu procezo: bat ato (homo, kiun oni batas); nekonato (homo, au^ kvanto, kiun oni ne konas). Vd ant. Rim. (Rimarko)
@@ -57266,7 +57266,7 @@ et/:【化】【PIV】Pref. (Prefikso), montranta dukarbonan c^enon en la nomoj 
 -ini/:【動】【PIV】Suf. (Sufikso), uzata por formi nomojn de triboj el la nomo de ilia tipa genro. Vd -en/, -ed/.
 -inte:【PIV】Responda adv. (adverbo), uzebla nur, kiam la plenumanto de la procezo estas esprimata per la subjekto de la prop. (propozicio): trov inte pomon, mi g^in mang^is .
 -into:【PIV】Persono au^ objekto, kiu finplenumis iun procezon: la parol into (la homo, kiu finis sian paroladon); falinton c^iu atakas .
--intaj^o:【PIV】Io, kio fin−is: oni ne vidu c^e vi fermentintaj^on ; Dio revokas pasintaj^on .
+-int/aj^/o:【PIV】Io, kio fin−is: oni ne vidu c^e vi fermentintaj^on ; Dio revokas pasintaj^on .
 -ite:【PIV】Responda adv. (adverbo), kiam la suferanto de la procezo estas esprimata per la subjekto de la prop. (propozicio): li venis al mi tute neatendite .
 -ito:【PIV】Persono au^ objekto, kiun oni submetis al iu procezo: kaptito (homo, kiun oni kaptis); la soldatoj kondukis la arestitojn tra la strato.
 -itaj^o:【PIV】Io konkreta, kiun oni g^isrezulte −is: la labor itaj^o de viaj manoj ; konsekritaj^oj .
@@ -57275,7 +57275,7 @@ et/:【化】【PIV】Pref. (Prefikso), montranta dukarbonan c^enon en la nomoj 
 -iveco:【PIV】Kapablo fari ion: kre iv(ec)o; lia lern iveco s^ajnas senlima.
 Iv/o:【PIV】Vira nomo.
 j:【PIV】Konsonanto, voc^a palatala glitanto.
--mang^ado:【PIV】Sinnutrado per −o: c^eval mang^ado, fis^mang^ado, termang^ado.
+-mang^/ad/o:【PIV】Sinnutrado per −o: c^eval mang^ado, fis^mang^ado, termang^ado.
 -micet/:【植】【PIV】Suf. (Sufikso), uzata por formi nomojn de klasoj c^e la fungoj: askomicetoj, bazidimicetoj. Vd -mikot/, -mikoten/.
 -mikot/:【植】【PIV】Suf. (Sufikso), uzata por formi nomojn de filumoj c^e la fungoj: asko mikotoj, bazidi mikotoj. Vd -micet/, -mikoten/.
 -mikoten/:【植】【PIV】Suf. (Sufikso), uzata por formi nomojn de subfilumoj c^e la fungoj: askomikotenoj, bazidimikotenoj. Vd -micet/, -mikot/.
@@ -57304,8 +57304,8 @@ ot/o:【医】【PIV】Orelo.
 -unt/:【PIV】Eksperimenta suf. (sufikso), signifanta «kiu -us»: ec^ perfiduntan mi s^in volas mia!
 -ut/:【PIV】Eksperimenta suf. (sufikso), signifanta «kiun oni -us»: la ofendutoj pardonu!
 -vora:【PIV】(pp (se paroli pri) animalo) Karakterize sin nutranta per io: karno vora, feko vora, grundo vora, kadavro vora, c^iovora (Sin. (sinonimo) c^iomang^anta) besto.
--voranto:【PIV】Animalo karakterize sin nutranta per io: fis^voranto, sapro voranto (saprozoo).
--voruloj:【動】【PIV】Sistematika grupo de animaloj, kies c^efaj reprezentantoj karakterize sin nutras per io: insekto voruloj, karno voruloj.
+-vor/ant/o:【PIV】Animalo karakterize sin nutranta per io: fis^voranto, sapro voranto (saprozoo).
+-vor/ul/oj:【動】【PIV】Sistematika grupo de animaloj, kies c^efaj reprezentantoj karakterize sin nutras per io: insekto voruloj, karno voruloj.
 Baal-Zebul:【聖】【PIV】Titolo («Sinjoro de la Sidejo») de Alijan, dio de la fontoj.
 dors/antau^/a:【PIV】Tia, ke en tiu pozicio oni turnas la dorson al la irdirekto: veturadon sur la dors antau^a loko g^i ne povis traelporti .
 frog/al/o:【PIV】Vd (vidu) frogo.
