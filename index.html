@@ -81,28 +81,16 @@ h2 .no{color:var(--green);font-family:var(--mono);margin-right:10px}
 }
 .note b{color:var(--green)}
 
-/* ───── flow diagram ───── */
-.flow{display:flex;align-items:stretch;gap:0;margin-top:22px;flex-wrap:wrap}
+/* ───── role cards ───── */
+.flow{display:grid;grid-template-columns:repeat(auto-fit,minmax(160px,1fr));gap:12px;margin-top:22px}
 .flow .step{
-  flex:1 1 150px;background:var(--card);border:1px solid var(--line);border-radius:12px;
-  padding:16px 14px 14px;text-align:center;min-width:150px;position:relative;
+  background:var(--card);border:1px solid var(--line);border-radius:12px;
+  padding:18px 14px 14px;text-align:center;
   box-shadow:0 1px 3px rgba(0,0,0,.04);
 }
-.flow .arrow{
-  flex:0 0 28px;display:flex;align-items:center;justify-content:center;
-  color:var(--green);font-size:20px;font-weight:700;
-}
-.flow .step .n{
-  display:inline-block;background:var(--green);color:#fff;border-radius:999px;
-  width:24px;height:24px;line-height:24px;font-size:13px;font-weight:700;margin-bottom:8px;
-}
-.flow .step .verb{font-size:17px;font-weight:700;margin-bottom:4px}
-.flow .step .tool{font-size:12.5px;color:var(--green);font-weight:600;margin-bottom:4px}
+.flow .step .verb{font-size:17px;font-weight:700;margin-bottom:4px;color:var(--green)}
+.flow .step .tool{font-size:12.5px;font-weight:600;margin-bottom:4px}
 .flow .step .what{font-size:12.5px;color:var(--ink-soft);line-height:1.6}
-@media(max-width:760px){
-  .flow{flex-direction:column}
-  .flow .arrow{transform:rotate(90deg);flex-basis:20px;padding:2px 0}
-}
 
 /* ───── tables ───── */
 .tablewrap{overflow-x:auto;margin-top:18px;border:1px solid var(--line);border-radius:12px;background:var(--card);box-shadow:0 1px 3px rgba(0,0,0,.04)}
@@ -218,35 +206,26 @@ footer a{color:var(--green)}
 
   <div class="flow">
     <div class="step">
-      <span class="n">1</span>
       <div class="verb">調べる</div>
       <div class="tool">kanji_assign</div>
       <div class="what">語根・漢字・識別子を確認</div>
     </div>
-    <div class="arrow">→</div>
     <div class="step">
-      <span class="n">2</span>
       <div class="verb">書く</div>
       <div class="tool">Monaco 入力</div>
       <div class="what">語根から漢字候補を挿入</div>
     </div>
-    <div class="arrow">→</div>
     <div class="step">
-      <span class="n">3</span>
       <div class="verb">変換する</div>
       <div class="tool">CJK Annotator</div>
       <div class="what">ルビ化・漢字化・純粋置換</div>
     </div>
-    <div class="arrow">→</div>
     <div class="step">
-      <span class="n">4</span>
       <div class="verb">戻す</div>
       <div class="tool">Reverter</div>
       <div class="what">漢字化文を小文字エスペラントへ</div>
     </div>
-    <div class="arrow">→</div>
     <div class="step">
-      <span class="n">5</span>
       <div class="verb">広げる</div>
       <div class="tool">Quiz / TTS / 文字起こし</div>
       <div class="what">学習・音声化・会話字幕</div>
