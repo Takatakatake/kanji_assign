@@ -4994,7 +4994,7 @@ cigar/uj/o⟦cigar/器/o⟧:葉巻入れ
 cign/a kant/o⟦天鹅/a 唱/o⟧:白鳥の歌,最後の傑作
 cign/o⟦天鹅/o⟧:{Ｂ}【鳥】ハクチョウ（白鳥）;《転》詩聖
 Cign/o:【天】はくちょう座
-cikad/a h^or/o⟦蝉/a 唱ᴴ̂/o⟧:蝉時雨（せみしぐれ）
+cikad/a h^or/o⟦蝉/a 合唱/o⟧:蝉時雨（せみしぐれ）
 cikad/ed/oj⟦蝉/科ᴱ/oj⟧:【虫】セミ科
 cikad/o⟦蝉/o⟧:{Ｂ}【虫】セミ（蝉）
 cikatr/ig^/i⟦疤/成/i⟧:［自］（傷が）癒着（ゆちゃく）する
@@ -8906,7 +8906,7 @@ elektr/o/ekzekut/i⟦电/o/执/i⟧:［他］電気死刑にする
 elektr/o/energi/o⟦电/o/能ᴱ/o⟧:電気エネルギー
 elektr/o/faktur/o⟦电/o/账ᶠ/o⟧:電気料金請求書;《転》電気代
 elektrofor/o:【電】電気盆
-elektr/o/h^emi/o⟦电/o/化ᴴ̂/o⟧:=>elektrokemio（電気化学）
+elektr/o/h^emi/o⟦电/o/化学ᴴ̂/o⟧:=>elektrokemio（電気化学）
 elektr/o/ing^enier/o⟦电/o/技ᴵ/o⟧:電気技師
 elektr/o/kardi/o/graf/i⟦电/o/心ᴷᴰ/o/记ᴳ/i⟧:［他］心電図をとる##偽分解(PIV正式分解)
 elektr/o/kardi/o/grafi/o⟦电/o/心ᴷᴰ/o/志ᴳ/o⟧:【医】心電図検査（法）##偽分解
@@ -14810,7 +14810,7 @@ H^arbin/o:【地名】ハルビン（中国）
 H^arkiv/o:【地名】ハルキウ（ウクライナ）,=H^arkovo
 H^arkov/o:【地名】ハリコフ（ウクライナ）,=H^arkivo
 H^artum/o:【地名】ハルツーム（スーダンの首都）
-h^emi/o⟦化ᴴ̂/o⟧:{Ｂ}=kemio（化学）
+h^emi/o⟦化学ᴴ̂/o⟧:{Ｂ}=kemio（化学）
 h^etid/oj:【史】=hitito（ヒッタイト）
 h^imer/a⟦幻ᴴ̂/a⟧:キマイラの;《転》怪物的な,架空の,荒唐無稽な,=kimera
 h^imer/kastel/o⟦幻ᴴ̂/城/o⟧:空中楼閣,=nubkastelo
@@ -14823,13 +14823,13 @@ h^mer/o:=kmero（クメール人）
 h^o:{Ｏ}［文字名］クホー（文字H^，h^の名称）
 h^oler/o⟦霍乱/o⟧:{Ｏ}【病】コレラ
 h^oler/ul/o⟦霍乱/者/o⟧:コレラ患者
-h^or/aj^/o⟦唱ᴴ̂/物/o⟧:合唱曲
+h^or/aj^/o⟦合唱/物/o⟧:合唱曲
 H^orasan/o:【地名】コラーサーン州（イラン）
-h^or/ej/o⟦唱ᴴ̂/所/o⟧:（教会の）聖歌隊席
+h^or/ej/o⟦合唱/所/o⟧:（教会の）聖歌隊席
 h^ore/o:【病】=koreo（舞踏病）
-h^or/estr/o⟦唱ᴴ̂/长ᴱ/o⟧:合唱団長,聖歌隊指揮者
-h^or/jamb/o⟦唱ᴴ̂/抑扬/o⟧:【文】（韻律の）長短短長格
-h^or/o⟦唱ᴴ̂/o⟧:{Ｂ}合唱団,合唱隊;合唱,合唱曲,=koruso;【劇】コロス（古代ギリシア演劇でそろって歌い踊る一群）
+h^or/estr/o⟦合唱/长ᴱ/o⟧:合唱団長,聖歌隊指揮者
+h^or/jamb/o⟦合唱/抑扬/o⟧:【文】（韻律の）長短短長格
+h^or/o⟦合唱/o⟧:{Ｂ}合唱団,合唱隊;合唱,合唱曲,=koruso;【劇】コロス（古代ギリシア演劇でそろって歌い踊る一群）
 i:{Ｏ}［文字名］イー（文字I，iの名称）
 -i:{Ｂ}［動詞語尾］（不定法を示す）
 -i-:［学術接尾辞］（国名を示す）,=-uj-,>>Japanio,>>Koreio
@@ -19875,9 +19875,9 @@ korupt/ec/o⟦贿/性/o⟧:汚職体質
 korupt/i⟦贿/i⟧:{Ｏ}［他］（賄賂で）買収する,=subac^eti;堕落させる,腐敗させる
 korupt/it/a⟦贿/受/a⟧:買収された;堕落した,腐敗した
 korupt/o⟦贿/o⟧:=koruptado（買収）
-korus/an/o⟦合唱/员ᴬ/o⟧:合唱団員
-korus/ej/o⟦合唱/所/o⟧:合唱団席
-korus/o⟦合唱/o⟧:合唱,合唱団,=h^oro
+korus/an/o⟦合唱ᴷ/员ᴬ/o⟧:合唱団員
+korus/ej/o⟦合唱ᴷ/所/o⟧:合唱団席
+korus/o⟦合唱ᴷ/o⟧:合唱,合唱団,=h^oro
 kor/valv/o⟦心/阀/o⟧:【解】心臓弁
 korv/e/nigr/a⟦鸦/e/黑/a⟧:からすのぬれ羽色の
 korvet/kapitan/o⟦护舰/长ᴷ/o⟧:【軍】（仏軍で）海軍少佐
@@ -25514,9 +25514,9 @@ Milvoki/o:【地名】ミルウォーキー（米国）
 mime/o/graf/i⟦印ᴹ/o/记ᴳ/i⟧:［他］謄写版で刷る,=multobligi##偽分解
 mime/o/graf/o⟦印ᴹ/o/记ᴳ/o⟧:謄写版,=multobligilo##偽分解
 mim/i⟦仿ᴹ/i⟧:［他］=mimiki（身ぶりや表情で表現する）
-mimik/i⟦拟/i⟧:［他］身ぶりや表情で表現する;まねをする
-mimik/ist/o⟦拟/家/o⟧:パントマイム俳優,=pantomimisto;物まね芸人
-mimik/o⟦拟/o⟧:{Ｏ}ジェスチャー,身ぶり（による表現）;物まね
+mimik/i⟦仿ᴹᴷ/i⟧:［他］身ぶりや表情で表現する;まねをする
+mimik/ist/o⟦仿ᴹᴷ/家/o⟧:パントマイム俳優,=pantomimisto;物まね芸人
+mimik/o⟦仿ᴹᴷ/o⟧:{Ｏ}ジェスチャー,身ぶり（による表現）;物まね
 mim/o⟦仿ᴹ/o⟧:=pantomimisto（パントマイム俳優）;=mimikisto（物まね芸人）
 mimoz/o⟦含羞/o⟧:{Ｏ}【植】ミモザ,オジギソウ（属）,>>akacio
 mi/n⟦我/n⟧:私を,僕を
@@ -36652,9 +36652,9 @@ simpl/ul/o⟦简/者/o⟧:単純な人;庶民
 Simpson/a Dezert/o:【地名】シンプソン砂漠（オーストラリア）
 simptom/ar/o⟦症ˢ/群/o⟧:【医】症候群,=sindromo
 simptom/o⟦症ˢ/o⟧:{Ｏ}【医】症状,徴候;《転》兆し,前兆
-simul/ad/o⟦拟ˢ/行/o⟧:【医】詐病,仮病;【学】シミュレーション,模擬実験
-simul/i⟦拟ˢ/i⟧:［他］【医】（病気の）ふりをする;【学】シミュレートする,模擬実験をする
-simul/il/o⟦拟ˢ/具/o⟧:【学】シミュレーター;【機】模擬訓練装置
+simul/ad/o⟦拟/行/o⟧:【医】詐病,仮病;【学】シミュレーション,模擬実験
+simul/i⟦拟/i⟧:［他］【医】（病気の）ふりをする;【学】シミュレートする,模擬実験をする
+simul/il/o⟦拟/具/o⟧:【学】シミュレーター;【機】模擬訓練装置
 simultan/ec/o⟦同时/性/o⟧:【理】同時性,=samtempeco
 si/n⟦己/n⟧:自分自身を
 sinagog/o:{Ｏ}【宗】シナゴーグ,ユダヤ教会堂;ユダヤ会衆
@@ -43490,14 +43490,14 @@ violon/o⟦琴ⱽ/o⟧:{Ｂ}【楽】バイオリン
 violon/uj/o⟦琴ⱽ/器/o⟧:バイオリンケース
 vip/ad/o⟦鞭/行/o⟧:むち打ち
 vip/bat/o⟦鞭/打/o⟧:むち打ち
-viper/o⟦蛇ⱽ/o⟧:{Ｏ}【動】=vipuro（マムシ）
+viper/o⟦毒蛇/o⟧:{Ｏ}【動】=vipuro（マムシ）
 vip/et/o⟦鞭/小/o⟧:=rajdvipo（乗馬用むち）
 vip/i⟦鞭/i⟧:［他］むち打つ;《転》激しく非難する
 vip/krak/o⟦鞭/啪/o⟧:むち音
 vip/o⟦鞭/o⟧:{Ｂ}（皮ひもなどを短い棒につけた）むち（鞭）,>>vergo,>>skurg^o
 vip/rimen/o⟦鞭/带ᴿ/o⟧:むちの皮ひも
 vip/ten/il/o⟦鞭/持/具/o⟧:むちの柄
-vipur/o⟦毒蛇/o⟧:{Ｏ}【動】クサリヘビ（鎖蛇）（属）;《般》マムシ（蝮）
+vipur/o⟦毒蛇ⱽᵁ/o⟧:{Ｏ}【動】クサリヘビ（鎖蛇）（属）;《般》マムシ（蝮）
 vir-⟦男⟧:［接頭辞］（男・雄を示す）
 vir/a⟦男/a⟧:男の;男のような
 vir/abel/o⟦男/蜂/o⟧:雄バチ,>>abelino
@@ -49240,10 +49240,10 @@ h^oler/o/form/a⟦霍乱/o/形/a⟧:【PIV】Simila al la koncerna fazo de h^ole
 h^omer/o:【聖】【PIV】Volumena mezurunuo (10 efoj = 364 l).
 h^ondroste/oj:【PIV】= kondrosteoj.
 h^ondrostom/o:【PIV】= kondrostomo.
-h^or/a⟦唱ᴴ̂/a⟧:【PIV】Rilata al h^oro: h^ora kantado; h^oraj popolaj societoj.
-h^or/e⟦唱ᴴ̂/e⟧:【PIV】Kiel h^oro: h^ore bruu niaj kantoj por la karaj! .
-h^or/an/o⟦唱ᴴ̂/员ᴬ/o⟧:【PIV】Ano de h^oro 1.
-h^or/ist/o⟦唱ᴴ̂/家/o⟧:【PIV】Ano de h^oro 3.
+h^or/a⟦合唱/a⟧:【PIV】Rilata al h^oro: h^ora kantado; h^oraj popolaj societoj.
+h^or/e⟦合唱/e⟧:【PIV】Kiel h^oro: h^ore bruu niaj kantoj por la karaj! .
+h^or/an/o⟦合唱/员ᴬ/o⟧:【PIV】Ano de h^oro 1.
+h^or/ist/o⟦合唱/家/o⟧:【PIV】Ano de h^oro 3.
 h^oral/o:【楽】【PIV】Malrapida himno, unisone kantata, origine en luterana kulto: la h^oraloj de J.S. Bah^o.
 h^ord/o⟦脊索/o⟧:【動】【PIV】(chorda dorsalis) Kartilageca kordo, formanta la bazon por la spino c^e vertebruloj, ekzistanta ankau^ c^e kelkaj primitivaj animaloj. -> kordo.
 h^ord/ul/oj⟦脊索/者/oj⟧:【PIV】Filumo (Chordata) de celomuloj, ampleksanta la tunikulojn, senkraniulojn k vertebrulojn.
@@ -56873,7 +56873,7 @@ violent/o⟦暴ⱽ/o⟧:【PIV】Uzo de la forto por trudi al iu kontrau^volan a
 violent/i⟦暴ⱽ/i⟧:【PIV】Agi violente; (tr (transitiva)) Perforti.
 violonc^el/uj/o⟦大提琴/器/o⟧:【PIV】Ujo, por enteni violonc^elon dum transportado.
 vipak/o:【仏】【PIV】La rezulto de karmo.
-viper/ed/oj⟦蛇ⱽ/科ᴱ/oj⟧:【動】【PIV】Fam. (Familio) (Viperidae) de serpentoj, al kiu apartenas vipero, cerasto k.a. (kaj aliaj) g-oj (genroj).
+viper/ed/oj⟦毒蛇/科ᴱ/oj⟧:【動】【PIV】Fam. (Familio) (Viperidae) de serpentoj, al kiu apartenas vipero, cerasto k.a. (kaj aliaj) g-oj (genroj).
 vir/ar/o⟦男/群/o⟧:【PIV】1 La tuto de la viroj, kontraste kun la virinoj. 2 La tuto de la viroj, servantaj sur s^ipo.
 vir/ing/o⟦男/座/o⟧:【PIV】(pj (pejorative)) Amoristino.
 virg^inal/o:【楽】【PIV】Malgranda ortangula klaviceno.
@@ -58072,7 +58072,7 @@ mal/dorm/ad/o⟦反/睡/行/o⟧:【PIV】Stato de tiu, kiu ne lasas sin al dorm
 preter/dorm/i⟦过ᴾᴿ/睡/i⟧:【PIV】(tr (transitiva)) Preterlasi pro dormo: se ni ne volas esti kulpaj, ke ni preter dormis gravajn cirkonstancojn .
 azen/dors/o⟦驴/背/o⟧:【建】【PIV】(pp (se paroli pri) vojo, ponto) Dudekliva, longforma, transversa konveksaj^o, konstruita pro teknikaj kialoj (azen dorsa ponto) au^ por malrapidigi la trafikon (urbovoja azen dorso).
 drak/o/dracen/o⟦龙/o/龙血树/o⟧:【PIV】Sp. (Specio) de draceno (D. draco). Sin. (sinonimo) drakarbo.
-vipur/drak/o⟦毒蛇/龙/o⟧:【PIV】Fantazia besto, simila al drako kun kvar au^ pli da piedoj.
+vipur/drak/o⟦毒蛇ⱽᵁ/龙/o⟧:【PIV】Fantazia besto, simila al drako kun kvar au^ pli da piedoj.
 psik/o/dram/o⟦心ᴾˢ/o/剧ᴰ/o⟧:【医】【PIV】Psikoterapia tekniko, en kiu grupa surscenigo de individuaj psikaj konfliktoj igas la partoprenantojn ekkonscii tiujn k, helpe de analizo, progresi al ilia solvo.
 unu/drat/a⟦一/线ᴰ/a⟧:【PIV】Konsistanta el unu drato au^ fadeno; unufadena.
 plur/drat/a⟦多ᴾᴿ/线ᴰ/a⟧:【PIV】Havanta unu, du, tri … plurajn dratojn: unudrata, dudrata, tridrata elektra kablo; tridrata anteno, lineo.
@@ -59128,7 +59128,7 @@ nutr/o/kanal/o⟦养/o/渠/o⟧:【解】【PIV】La tuta vojo, kiun iras la nut
 pluv/kanal/et/o⟦雨/渠/小/o⟧:【PIV】1 Kanaleto el malpeza materialo (zinko, plastaj^o), kroc^ita au^ alkonstruita rande de tegmento por ricevi la pluvakvon fluantan de g^i: tegmentranda, surmura pluv kanaleto. Vd gargojlo, defluilo, pluvtubo, tubfluilo, vomtubo. 2 Kanaleto, arang^ita rande de trotuaro, en kiun kunig^as la pluvakvo, fluonta al kloako.
 voc^/kanal/o⟦声ⱽ/渠/o⟧:【PIV】La superglota parto de la parolaparato.
 altar/kandel/o⟦坛ᴬ/烛/o⟧:【PIV】Kandelo 2.
-h^or/kandel/o⟦唱ᴴ̂/烛/o⟧:【PIV】Kandelo 2.
+h^or/kandel/o⟦合唱/烛/o⟧:【PIV】Kandelo 2.
 s^rau^b/in/kanel/o⟦螺/女/槽ᴷ/o⟧:【PIV】Helica kanelo de s^rau^bingo, s^rau^bino, juntmuflo ks (kaj simile, kaj similaj).
 s^rau^b/kanel/il/o⟦螺/槽ᴷ/具/o⟧:【PIV】Ilo por fari s^rau^b kanelon, au^ viran (Sin. (sinonimo) s^rau^bigilo) au^ inan (Sin. (sinonimo) s^rau^binigilo).
 gulas^/kanon/o⟦煮牛/炮/o⟧:【PIV】(fm (familiara, familiare)) Militira veturilkuirejo.
@@ -60003,7 +60003,7 @@ anti/neu^tr/on/o⟦抗ᴬ/中ᴺᴱ/子ᴼ/o⟧:【PIV】La antipartiklo de neu^
 bo/nev/o⟦姻/侄/o⟧:【PIV】Nev(in)o per geedzig^o.
 bo/nev/in/o⟦姻/侄/女/o⟧:【PIV】Nev(in)o per geedzig^o.
 fenestr/o/nic^/o⟦窗/o/壁凹/o⟧:【PIV】Embrazuro 1.
-h^or/nic^/o⟦唱ᴴ̂/壁凹/o⟧:【イスラム】【PIV】Nic^o en muro de moskeo, kie sin tenas la kultogvidanto.
+h^or/nic^/o⟦合唱/壁凹/o⟧:【イスラム】【PIV】Nic^o en muro de moskeo, kie sin tenas la kultogvidanto.
 lotus/nimfe/o⟦莲/睡莲/o⟧:【PIV】(N. lotus) el Egiptio, tropika k S Afriko, kun senodoraj, blankaj floroj parte rozaj au^ rug^aj (blanka Egiptia lotuso). Vd nelumbo, nufaro.
 led/o/nit/o⟦革/o/钉ᴺᵀ/o⟧:【PIV】Nito, konsistanta el du partoj, kiujn oni kunigas, enigante unu en alian per martelado por kunfiksi ekz. (ekzemple) du ledpecojn.
 hipo/nitr/it/o⟦亚/氮/盐ᴵ/o⟧:【化】【PIV】Salo de hipo nitrita acido H 2 N 2 O 2.##偽分解(PIV正式分解)
@@ -60584,7 +60584,7 @@ elektr/o/punktur/o⟦电/o/刺ᴾᴺ/o⟧:【PIV】Punkturo per nadloj, tra kiuj
 nadl/o/punktur/o⟦针/o/刺ᴾᴺ/o⟧:【PIV】Akupunkturo.
 radi/o/punktur/o⟦射ᴿ/o/刺ᴾᴺ/o⟧:【PIV】Punkturo per nadloj, entenantaj radioaktivajn elementojn.
 gant/pup/o⟦手套/偶ᴾᴾ/o⟧:【PIV】Pupo 2.
-h^or/pupitr/o⟦唱ᴴ̂/案ᴾᴾ/o⟧:【PIV】Pupitro en la h^orejo de preg^ejo, servanta por porti la mes-au^ psalmo-librojn.
+h^or/pupitr/o⟦合唱/案ᴾᴾ/o⟧:【PIV】Pupitro en la h^orejo de preg^ejo, servanta por porti la mes-au^ psalmo-librojn.
 mal/pur/aj^/o⟦反/纯/物/o⟧:【PIV】Io malpura: forlavi la malpuraj^on de la glacoj de au^to; en Asirio ili mang^is malpuraj^on .
 mal/pur/ec/o⟦反/纯/性/o⟧:【PIV】Eco de iu, io malpura: rita malpureco; li vivas en kutima malpureco.
 mal/pur/ig^/i⟦反/纯/成/i⟧:【PIV】Ig^i malpura: mia vesto forte malpurig^is ; ilin ne mang^u k ne malpurig^u per ili .
@@ -60853,7 +60853,7 @@ rug^/sciur/o⟦红/松鼠/o⟧:【PIV】Rong^ulo (Petaurista, Sciuropterus k.a. 
 klin/seg/il/o⟦斜/锯/具/o⟧:【PIV】Segilo, kies klingo povas esti klinita lau^ la bezonoj de la tasko.
 man/seg/il/o⟦手/锯/具/o⟧:【PIV】Trapeza segilo.
 el/j^et/seg^/o⟦出/投/椅/o⟧:【PIV】Tia arang^aj^o, kiu en necesbezono ebligas elj^eti eksteren per ago de raketo la seg^on de piloto k au^tomate malvolvi paras^uton.
-h^or/seg^/o⟦唱ᴴ̂/椅/o⟧:【PIV】Ligna seg^o por kanonikoj, en la h^orejo de preg^ejo.
+h^or/seg^/o⟦合唱/椅/o⟧:【PIV】Ligna seg^o por kanonikoj, en la h^orejo de preg^ejo.
 port/seg^/o⟦运/椅/o⟧:【PIV】Seg^o, kun tegmenteto, portata de du homoj per du stangoj. Vd palankeno, portlito.
 predik/seg^/o⟦讲ᴾᴰ/椅/o⟧:【PIV】Katedro, de kiu oni predikas.
 tol/seg^/o⟦布/椅/o⟧:【PIV】Seg^o, kies sidloko estas larg^a tolstrio, fiksita je la du ekstremoj.

@@ -1347,11 +1347,10 @@
   tridakn        贝ᵀᴷ        F=1     piv     
   testacel       贝ᵀˢ        F=1     piv     
 
-【蛇】 14件
+【蛇】 13件
   serpent        蛇          F=20    basic   
   meandr         蛇ᴹ         F=2     pejvo   
   kolubr         蛇ᴷ         F=1     pejvo   
-  viper          蛇ⱽ         F=1     pejvo   
   anakond        蛇ᴬ         F=1     piv     
   akroh^ord      蛇ᴬᴷ        F=1     piv     
   botrop         蛇ᴮ         F=1     piv     
@@ -3481,6 +3480,12 @@
   parenc         亲ᴾ         F=10    basic   
   simpati        亲ˢ         F=8     basic   
 
+【仿】 4件
+  imit           仿          F=16    basic   
+  mimik          仿ᴹᴷ        F=3     pejvo   
+  mim            仿ᴹ         F=2     pejvo   
+  pastic^        仿ᴾ         F=2     pejvo   
+
 【传】 4件
   komunik        传          F=41    basic   
   propagand      传ᴾ         F=5     basic   
@@ -4846,11 +4851,6 @@
   vepr           丛ⱽ         F=4     pejvo   
   makis          丛ᴹ         F=2     pejvo   
 
-【仿】 3件
-  imit           仿          F=16    basic   
-  mim            仿ᴹ         F=2     pejvo   
-  pastic^        仿ᴾ         F=2     pejvo   
-
 【优】 3件
   avantaĝ        优          F=6     basic   
   elit           优ᴱ         F=2     pejvo   
@@ -5364,9 +5364,9 @@
   latun          黄铜         F=4     basic   
   tombak         黄铜ᵀ        F=2     pejvo   
 
-【化】 2件
-  iz             化          F=166   suf     
-  ĥemi           化ᴴ̂        F=2     basic   
+【化学】 2件
+  kemi           化学         F=25    basic   
+  ĥemi           化学ᴴ̂       F=2     basic   
 
 【加】 2件
   plus           加          F=8     func    
@@ -5656,6 +5656,10 @@
   kaper          劫          F=7     pejvo   
   korsar         劫ᴷᴿ        F=2     pejvo   
 
+【合唱】 2件
+  ĥor            合唱         F=14    basic   
+  korus          合唱ᴷ        F=3     pejvo   
+
 【克】 2件
   gram           克          F=54    basic   
   konker         克ᴷ         F=4     pejvo   
@@ -5879,10 +5883,6 @@
 【序】 2件
   ord            序          F=47    basic   
   sekvenc        序ˢ         F=2     piv     
-
-【唱】 2件
-  kant           唱          F=49    basic   
-  ĥor            唱ᴴ̂        F=14    basic   
 
 【庄】 2件
   bien           庄          F=13    basic   
@@ -6259,6 +6259,10 @@
 【特许】 2件
   patent         特许         F=11    pejvo   
   koncesi        特许ᴷ        F=6     pejvo   
+
+【毒蛇】 2件
+  viper          毒蛇         F=1     pejvo   
+  vipur          毒蛇ⱽᵁ       F=2     pejvo   
 
 【独】 2件
   unik           独          F=7     basic   
@@ -7123,10 +7127,6 @@
 【拖】 2件
   tren           拖          F=16    basic   
   traktor        拖ᵀᴷ        F=2     basic   
-
-【拟】 2件
-  mimik          拟          F=3     pejvo   
-  simul          拟ˢ         F=3     pejvo   
 
 【拧】 2件
   tord           拧          F=30    basic   
