@@ -121,7 +121,7 @@ $new=@(
  @('file','线','file/o','罫線','罫線。file=里脊と別'),@('peon','佃','peon/o','隷農','隷農。peon=卒と別'),@('tang','舞','tang/o','タンゴ','タンゴ。tang=颠と別行'),
  @('klik','派','klik/o','徒党','徒党。klik=爪と別'),@('topik','敷','topik/o','外用','外用薬。topik=题と別'),@('er','纪','er/o','紀元','紀元。er=粒と別行'),
  @('po','草','po/o','Poa','Poa属。po=每と別行'),@('line','草','line/o','リンネ','リンネ草。line=线と別行'),@('tof','瘤','tof/o','痛風','痛風結節。tof=凝灰と別'),
- @('male','疫','male/o','鼻疽','馬鼻疽。male=捶と別行'),@('sinus','弦','sinus/o','正弦','正弦sine。sinus=洞と別行'),
+ @('male','疫','male/o','鼻疽','馬鼻疽。male=锤ᴹᴸと別行'),@('sinus','弦','sinus/o','正弦','正弦sine。sinus=洞と別行'),
  @('mung','草','mung/o,mung/id/oj','緑豆','緑豆(Vigna radiata=マメ科)+豆もやし→草(§4.6最近一级字)。動詞mung/i=擦鼻(洟をかむ)と別行(2026-06-26 全コーパス監査)'),@('sed','草','sed/o','マンネングサ','Sedum=ベンケイソウ科の観賞植物属→草。接続詞/動詞sed・sed/i=但と別行'),@('ke','鸟','ke/o','ケア','Nestor notabilis=ケア(NZのオウム,鳥)→鸟。接続詞ke=事と別行') )
 $rows=New-Object System.Collections.ArrayList
 [void]$rows.Add("segment`toverride`ttype`tdisc`tnote")
