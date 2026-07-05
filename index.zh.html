@@ -1,0 +1,565 @@
+<!DOCTYPE html>
+<html lang="zh-Hans">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>世界语汉字化项目 — 应用·工具速览指南</title>
+<meta name="description" content="面向用户，梳理「为世界语词根分配汉字」项目中当前可用的应用·工具及其「能做什么」的速览指南。">
+<style>
+:root{
+  --green:#1a7a3a;
+  --green-soft:#e8f3ec;
+  --green-line:#bcd9c6;
+  --ink:#22272e;
+  --ink-soft:#5a6472;
+  --paper:#f7f7f3;
+  --card:#ffffff;
+  --line:#e3e3da;
+  --chip:#eef4f0;
+  --mono:Consolas,"Courier New",monospace;
+}
+*{box-sizing:border-box;margin:0;padding:0}
+html{scroll-behavior:smooth}
+body{
+  font-family:"PingFang SC","Hiragino Sans GB","Source Han Sans SC","Noto Sans CJK SC","Microsoft YaHei","微软雅黑",sans-serif;
+  background:var(--paper);color:var(--ink);
+  line-height:1.85;font-size:16px;
+  -webkit-text-size-adjust:100%;
+}
+a{color:var(--green);text-decoration:none}
+a:hover{text-decoration:underline}
+.wrap{max-width:1000px;margin:0 auto;padding:0 20px}
+
+/* ───── hero ───── */
+header.hero{
+  background:linear-gradient(160deg,#123f24 0%,#1a7a3a 70%,#2e9e57 100%);
+  color:#fff;position:relative;overflow:hidden;
+}
+header.hero .wrap{padding:64px 20px 56px;position:relative;z-index:1}
+header.hero .mark{
+  position:absolute;right:-30px;top:-60px;font-size:340px;line-height:1;
+  color:rgba(255,255,255,.06);font-weight:700;user-select:none;pointer-events:none;
+  z-index:0;letter-spacing:-.05em;
+}
+.hero .langswitch{position:absolute;top:16px;right:20px;z-index:2;display:flex;gap:6px}
+.hero .langswitch a{
+  font-size:13px;padding:5px 13px;border-radius:999px;border:1px solid rgba(255,255,255,.45);
+  color:#fff;transition:background .15s;
+}
+.hero .langswitch a:hover{background:rgba(255,255,255,.22);text-decoration:none}
+.hero .langswitch a.active{background:#fff;color:var(--green);font-weight:700;border-color:#fff}
+.hero .kicker{font-size:14px;letter-spacing:.18em;opacity:.85;margin-bottom:10px}
+.hero h1{font-size:clamp(26px,5vw,40px);font-weight:700;line-height:1.35;margin-bottom:14px}
+.hero .lead{font-size:15.5px;opacity:.92;max-width:660px}
+.hero .date{margin-top:18px;font-size:13px;opacity:.75}
+.hero .quicklinks{margin-top:26px;display:flex;flex-wrap:wrap;gap:10px}
+.hero .quicklinks a{
+  display:inline-block;background:rgba(255,255,255,.14);border:1px solid rgba(255,255,255,.35);
+  color:#fff;border-radius:999px;padding:7px 18px;font-size:14px;transition:background .15s;
+}
+.hero .quicklinks a:hover{background:rgba(255,255,255,.26);text-decoration:none}
+
+/* ───── sticky nav ───── */
+nav.toc{
+  position:sticky;top:0;z-index:10;background:#ffffffee;backdrop-filter:blur(6px);
+  border-bottom:1px solid var(--line);
+}
+nav.toc .wrap{display:flex;gap:4px;overflow-x:auto;padding:0 20px}
+nav.toc a{
+  flex:0 0 auto;padding:12px 13px;font-size:13.5px;color:var(--ink-soft);
+  border-bottom:2px solid transparent;white-space:nowrap;
+}
+nav.toc a:hover{color:var(--green);text-decoration:none;border-bottom-color:var(--green-line)}
+
+/* ───── sections ───── */
+main{padding:14px 0 30px}
+section{margin-top:54px}
+section:first-of-type{margin-top:38px}
+h2{
+  font-size:clamp(20px,3.4vw,25px);font-weight:700;line-height:1.4;
+  padding-left:14px;border-left:5px solid var(--green);margin-bottom:6px;
+}
+h2 .no{color:var(--green);font-family:var(--mono);margin-right:10px}
+.sec-lead{color:var(--ink-soft);font-size:14.5px;margin-bottom:20px;padding-left:19px}
+
+/* ───── role cards ───── */
+.flow{display:grid;grid-template-columns:repeat(auto-fit,minmax(160px,1fr));gap:12px;margin-top:22px}
+.flow .step{
+  background:var(--card);border:1px solid var(--line);border-radius:12px;
+  padding:18px 14px 14px;text-align:center;
+  box-shadow:0 1px 3px rgba(0,0,0,.04);
+}
+.flow .step .verb{font-size:17px;font-weight:700;margin-bottom:4px;color:var(--green)}
+.flow .step .tool{font-size:12.5px;font-weight:600;margin-bottom:4px}
+.flow .step .what{font-size:12.5px;color:var(--ink-soft);line-height:1.6}
+
+/* ───── tables ───── */
+.tablewrap{overflow-x:auto;margin-top:18px;border:1px solid var(--line);border-radius:12px;background:var(--card);box-shadow:0 1px 3px rgba(0,0,0,.04)}
+table{border-collapse:collapse;width:100%;font-size:14.5px;min-width:560px}
+th,td{padding:12px 16px;text-align:left;vertical-align:top;border-bottom:1px solid var(--line)}
+thead th{
+  background:var(--green-soft);color:var(--green);font-size:13px;letter-spacing:.06em;
+  border-bottom:1px solid var(--green-line);white-space:nowrap;
+}
+tbody tr:last-child td{border-bottom:none}
+tbody tr:hover{background:#fafcf9}
+td.key{font-weight:700;white-space:nowrap}
+td .sub{display:block;font-size:12px;color:var(--ink-soft);font-weight:400}
+
+/* ───── tool cards ───── */
+.tool-card{
+  background:var(--card);border:1px solid var(--line);border-radius:14px;
+  margin-top:26px;box-shadow:0 1px 4px rgba(0,0,0,.05);overflow:hidden;
+}
+.tool-card .head{
+  display:flex;align-items:center;gap:16px;padding:18px 22px;
+  background:linear-gradient(90deg,var(--green-soft),#ffffff 70%);
+  border-bottom:1px solid var(--line);flex-wrap:wrap;
+}
+.tool-card .glyph{
+  flex:0 0 auto;width:52px;height:52px;border-radius:12px;background:var(--green);color:#fff;
+  display:flex;align-items:center;justify-content:center;font-size:28px;font-weight:700;
+}
+.tool-card .titles{flex:1 1 200px;min-width:0}
+.tool-card h3{font-size:17.5px;font-weight:700;line-height:1.45}
+.tool-card h3 small{display:block;font-size:12.5px;color:var(--ink-soft);font-weight:500;font-family:var(--mono)}
+.tool-card .chip{
+  flex:0 0 auto;background:var(--chip);border:1px solid var(--green-line);color:var(--green);
+  font-size:12px;font-weight:700;border-radius:999px;padding:4px 14px;white-space:nowrap;
+}
+.tool-card .body{padding:20px 22px 22px}
+.tool-card .oneline{font-size:15px;margin-bottom:14px}
+.meta{display:flex;flex-wrap:wrap;gap:10px;margin-bottom:16px}
+.meta .m{
+  flex:1 1 240px;background:var(--paper);border:1px solid var(--line);border-radius:9px;
+  padding:9px 14px;font-size:13.5px;
+}
+.meta .m b{color:var(--green);font-size:12px;letter-spacing:.06em;display:block;margin-bottom:2px}
+.fit{font-size:14px;background:var(--green-soft);border-left:4px solid var(--green);
+  border-radius:0 8px 8px 0;padding:10px 14px;margin-bottom:16px}
+.fit b{color:var(--green)}
+.tool-card h4{font-size:13.5px;color:var(--ink-soft);letter-spacing:.08em;margin-bottom:8px}
+.tool-card ul{list-style:none;padding:0}
+.tool-card ul li{
+  position:relative;padding-left:22px;font-size:14.5px;margin-bottom:7px;line-height:1.75;
+}
+.tool-card ul li::before{
+  content:"✓";position:absolute;left:0;top:0;color:var(--green);font-weight:700;
+}
+.tool-card .links{margin-top:18px;display:flex;flex-wrap:wrap;gap:10px}
+.btn{
+  display:inline-block;border-radius:8px;padding:8px 18px;font-size:13.5px;font-weight:600;
+  border:1px solid var(--green);transition:all .15s;
+}
+.btn.primary{background:var(--green);color:#fff}
+.btn.primary:hover{background:#14602d;text-decoration:none}
+.btn.ghost{color:var(--green);background:#fff}
+.btn.ghost:hover{background:var(--green-soft);text-decoration:none}
+.btn.disabled{border-color:var(--line);color:var(--ink-soft);background:var(--paper);cursor:default}
+.esp{font-family:var(--mono);background:var(--paper);border:1px solid var(--line);border-radius:4px;padding:0 5px;font-size:.92em}
+
+/* ───── summary / footer ───── */
+.summary{
+  margin-top:56px;background:linear-gradient(160deg,#123f24,#1a7a3a);color:#fff;
+  border-radius:16px;padding:30px 30px;font-size:15.5px;line-height:2;
+}
+.summary b{color:#bfe8cd}
+footer{margin-top:50px;padding:30px 0 46px;border-top:1px solid var(--line);
+  color:var(--ink-soft);font-size:13px;text-align:center}
+footer a{color:var(--green)}
+</style>
+</head>
+<body>
+
+<header class="hero">
+  <div class="mark">汉字</div>
+  <div class="langswitch">
+    <a href="index.html">日本語</a>
+    <a href="index.zh.html" class="active">中文</a>
+  </div>
+  <div class="wrap">
+    <div class="kicker">ESPERANTO × 汉字 &nbsp;PROJEKTO</div>
+    <h1>世界语汉字化项目<br>应用·工具速览指南</h1>
+    <p class="lead">面向用户，我们梳理了当前可用的应用·工具及其「能做什么」。<br><b>本文档的阅读方法：</b> 请先用速查表挑选符合你目的的工具，再按需查看各工具的说明与 URL。相比开发者关心的实现细节，本文档更侧重于帮助用户清楚地了解在什么场景下该用哪个工具。</p>
+    <div class="date">整理日期：2026-07-05</div>
+    <div class="quicklinks">
+      <a href="kanji.html">打开词根汉字分配表</a>
+      <a href="#quick">前往目的速查表</a>
+      <a href="#tools">前往各工具说明</a>
+      <a href="#urls">前往 URL 一览</a>
+    </div>
+  </div>
+</header>
+
+<nav class="toc">
+  <div class="wrap">
+    <a href="#overview">1. 整体概览</a>
+    <a href="#quick">2. 按目的速查表</a>
+    <a href="#list">3. 工具一览</a>
+    <a href="#tools">4. 各工具说明</a>
+    <a href="#howto">5. 如何选用</a>
+    <a href="#urls">6. URL·仓库</a>
+  </div>
+</nav>
+
+<main class="wrap">
+
+<!-- ══════════ 1 ══════════ -->
+<section id="overview">
+  <h2><span class="no">1</span>整体概览：这套工具是做什么的</h2>
+  <p class="sec-lead">位于核心的是一部「为世界语词根分配汉字的词典」。以这部词典为基础，就能撰写汉字化文本、批量转换普通世界语文本、还原汉字化文本，并进一步扩展到学习、语音、会话字幕等一系列流程。</p>
+
+  <div class="flow">
+    <div class="step">
+      <div class="verb">查阅</div>
+      <div class="tool">kanji_assign</div>
+      <div class="what">确认词根·汉字·标识符</div>
+    </div>
+    <div class="step">
+      <div class="verb">撰写</div>
+      <div class="tool">Monaco 输入</div>
+      <div class="what">从词根插入汉字候选</div>
+    </div>
+    <div class="step">
+      <div class="verb">转换</div>
+      <div class="tool">CJK Annotator</div>
+      <div class="what">释义旁注·汉字化·纯文本替换</div>
+    </div>
+    <div class="step">
+      <div class="verb">还原</div>
+      <div class="tool">Reverter</div>
+      <div class="what">将汉字化文本还原为小写世界语</div>
+    </div>
+    <div class="step">
+      <div class="verb">扩展</div>
+      <div class="tool">Quiz / TTS / 语音转写</div>
+      <div class="what">学习·语音化·会话字幕</div>
+    </div>
+  </div>
+</section>
+
+<!-- ══════════ 2 ══════════ -->
+<section id="quick">
+  <h2><span class="no">2</span>先来选择：按目的速查表</h2>
+  <div class="tablewrap">
+    <table>
+      <thead><tr><th>目的</th><th>使用的工具</th><th>能做什么</th></tr></thead>
+      <tbody>
+        <tr><td class="key">想查某个词根对应哪个汉字</td><td><a href="kanji.html">kanji_assign / kanji.html</a></td><td>检索词根·汉字·标识符·词义</td></tr>
+        <tr><td class="key">想逐字细致地撰写汉字化文本</td><td><a href="https://takatakatake.github.io/kanji-esperanto-monaco/">kanji-esperanto-monaco</a></td><td>输入词根，从候选中插入汉字</td></tr>
+        <tr><td class="key">想把普通世界语文本批量汉字化</td><td><a href="https://esperanto-radiko-cjk-annotator-zh.streamlit.app/">CJK Annotator</a></td><td>生成释义旁注、汉字旁注、无标签汉字化文本</td></tr>
+        <tr><td class="key">想还原汉字化文本并加以核对</td><td><a href="https://kanjized-esperanto-reverter.streamlit.app/">kanjized-esperanto-reverter</a></td><td>将汉字化文本还原为小写世界语写法</td></tr>
+        <tr><td class="key">想练习单词·例句</td><td><a href="https://esperanto-quiz-zh.streamlit.app/">esperanto_quiz</a></td><td>使用日中韩对应的单词·例句四选一测验</td></tr>
+        <tr><td class="key">想把世界语文本变成语音</td><td><a href="https://paroligu.streamlit.app/">paroligu</a></td><td>用 Spomenka 语音合成 WAV/MP3</td></tr>
+        <tr><td class="key">想在会议·课堂上显示字幕</td><td><a href="#tool-transskribo">Ubuntu 版 / Windows 版 语音转写</a></td><td>将 Zoom/Meet 音频转写，并接入翻译或字幕</td></tr>
+      </tbody>
+    </table>
+  </div>
+</section>
+
+<!-- ══════════ 3 ══════════ -->
+<section id="list">
+  <h2><span class="no">3</span>当前可用的主要应用·工具一览</h2>
+  <div class="tablewrap">
+    <table>
+      <thead><tr><th>分类</th><th>工具</th><th>一句话说明</th></tr></thead>
+      <tbody>
+        <tr><td class="key">词根汉字分配表</td><td><a href="#tool-assign">kanji_assign / kanji.html</a></td><td>词典的确认。检索词根·汉字·标识符·词义。</td></tr>
+        <tr><td class="key">汉字化输入编辑器</td><td><a href="#tool-monaco">kanji-esperanto-monaco</a></td><td>从词根输入中选择汉字候选，撰写汉字化文本。</td></tr>
+        <tr><td class="key">日中韩释义旁注·汉字化</td><td><a href="#tool-annotator">esperanto-radiko-cjk-annotator</a></td><td>将普通文本转换为释义旁注·汉字旁注·无标签汉字化文本。</td></tr>
+        <tr><td class="key">逆向转换</td><td><a href="#tool-reverter">kanjized-esperanto-reverter</a></td><td>将汉字化文本还原为小写世界语写法。</td></tr>
+        <tr><td class="key">四选一学习</td><td><a href="#tool-quiz">esperanto_quiz</a></td><td>单词·例句测验、语音、排行榜、手机 UI。</td></tr>
+        <tr><td class="key">语音合成</td><td><a href="#tool-paroligu">paroligu</a></td><td>用 Spomenka 语音将世界语文本变为 WAV/MP3。</td></tr>
+        <tr><td class="key">语音转写</td><td><a href="#tool-transskribo">Ubuntu 版 / Windows 版</a></td><td>将 Zoom/Meet 等的世界语音频转写·翻译·字幕化。</td></tr>
+      </tbody>
+    </table>
+  </div>
+</section>
+
+<!-- ══════════ 4 ══════════ -->
+<section id="tools">
+  <h2><span class="no">4</span>各工具说明</h2>
+
+  <!-- 4-1 -->
+  <div class="tool-card" id="tool-assign">
+    <div class="head">
+      <div class="glyph">查</div>
+      <div class="titles">
+        <h3>4-1. 世界语词根汉字分配表<small>kanji_assign / kanji.html</small></h3>
+      </div>
+      <span class="chip">词典·基础数据</span>
+    </div>
+    <div class="body">
+      <p class="oneline">用于查看某个词根被分配了哪个汉字的界面。它是整个项目的核心对照表。</p>
+      <div class="meta">
+        <div class="m"><b>输入</b>检索词（词根·汉字·标识符·词义）</div>
+        <div class="m"><b>输出</b>对应的词根、汉字、标识符、分类、频率、笔画数、词义</div>
+      </div>
+      <p class="fit"><b>适合的用途：</b>撰写汉字化文本前的确认、标识符的确认、词典维护。</p>
+      <h4>具体能做什么</h4>
+      <ul>
+        <li>可按词根、汉字、标识符、词义检索。</li>
+        <li>可按 <span class="esp">basic / pejvo / piv / prep / suf / pref / correl</span> 等分类进行筛选。</li>
+        <li>可确认共享同一汉字的词根组。</li>
+        <li>可只显示带标识符的条目。例：出ᴱᴷ、穿ᴾ、在ᶜ̂。</li>
+      </ul>
+      <div class="links">
+        <a class="btn primary" href="kanji.html">打开分配表（kanji.html）</a>
+        <a class="btn ghost" href="words.html">复合词视图（words.html）</a>
+        <a class="btn ghost" href="https://github.com/Takatakatake/kanji_assign">GitHub</a>
+      </div>
+    </div>
+  </div>
+
+  <!-- 4-2 -->
+  <div class="tool-card" id="tool-monaco">
+    <div class="head">
+      <div class="glyph">写</div>
+      <div class="titles">
+        <h3>4-2. 汉字化世界语输入编辑器<small>kanji-esperanto-monaco</small></h3>
+      </div>
+      <span class="chip">输入·撰写</span>
+    </div>
+    <div class="body">
+      <p class="oneline">在 Monaco Editor 上，输入世界语词根即可提示汉字化候选的 Web 编辑器。</p>
+      <div class="meta">
+        <div class="m"><b>输入</b>世界语词根·文本</div>
+        <div class="m"><b>输出</b>汉字化世界语文本</div>
+      </div>
+      <p class="fit"><b>适合的用途：</b>想通过手动输入细致地把日记、投稿文、例句等汉字化时。</p>
+      <h4>具体能做什么</h4>
+      <ul>
+        <li>例如输入 <span class="esp">bon</span> 得到 良，可从词根中选择汉字候选。</li>
+        <li>候选中也可包含带标识符的汉字。</li>
+        <li>在分配检索面板中，可对某个汉字反查其对应的词根。</li>
+        <li>支持复制、粘贴、全选、共享、本地保存、历史恢复。</li>
+        <li>在线打开过一次后，也可离线使用。</li>
+      </ul>
+      <div class="links">
+        <a class="btn primary" href="https://takatakatake.github.io/kanji-esperanto-monaco/">打开编辑器</a>
+        <a class="btn ghost" href="https://github.com/Takatakatake/kanji-esperanto-monaco">GitHub</a>
+      </div>
+    </div>
+  </div>
+
+  <!-- 4-3 -->
+  <div class="tool-card" id="tool-annotator">
+    <div class="head">
+      <div class="glyph">转</div>
+      <div class="titles">
+        <h3>4-3. 日中韩释义旁注·汉字化工具<small>esperanto-radiko-cjk-annotator</small></h3>
+      </div>
+      <span class="chip">自动转换·阅读辅助</span>
+    </div>
+    <div class="body">
+      <p class="oneline">对普通世界语文本进行词根分解，转换为日语·中文·韩语的释义旁注、汉字旁注，以及无标签的汉字化文本。</p>
+      <div class="meta">
+        <div class="m"><b>输入</b>普通世界语文本，或文本文件</div>
+        <div class="m"><b>输出</b>旁注 HTML、可编辑 HTML、无标签汉字化文本、可下载文件</div>
+      </div>
+      <p class="fit"><b>适合的用途：</b>想把较长的文本批量加旁注·汉字化时。适合阅读辅助或投稿用转换。</p>
+      <h4>具体能做什么</h4>
+      <ul>
+        <li>释义旁注：在词根上方显示日中韩译词。</li>
+        <li>汉字旁注：以汉字为正文，将世界语词根作为旁注。</li>
+        <li>纯文本替换：输出不含 HTML 标签的汉字化文本。</li>
+        <li>支持手动输入·文本文件上传。</li>
+        <li>可进行部分指定，例如不转换 <span class="esp">%...%</span>、只转换 <span class="esp">@...@</span>。</li>
+        <li>可在 GUI 中修正错误的词根分解，并保存为 <span class="esp">user_corrections.json</span> 以供恢复。</li>
+      </ul>
+      <div class="links">
+        <a class="btn primary" href="https://esperanto-radiko-cjk-annotator-zh.streamlit.app/">打开中文版</a>
+        <a class="btn ghost" href="https://esperanto-radiko-cjk-annotator.streamlit.app/">日语版</a>
+        <a class="btn ghost" href="https://esperanto-radiko-cjk-annotator-ko.streamlit.app/">한국어판</a>
+        <a class="btn ghost" href="https://github.com/Takatakatake/esperanto-radiko-cjk-annotator">GitHub</a>
+      </div>
+    </div>
+  </div>
+
+  <!-- 4-4 -->
+  <div class="tool-card" id="tool-reverter">
+    <div class="head">
+      <div class="glyph">还</div>
+      <div class="titles">
+        <h3>4-4. 汉字化世界语逆向转换器<small>kanjized-esperanto-reverter</small></h3>
+      </div>
+      <span class="chip">验证·还原</span>
+    </div>
+    <div class="body">
+      <p class="oneline">将汉字化世界语文本还原为小写字母写法的工具。</p>
+      <div class="meta">
+        <div class="m"><b>输入</b>汉字化世界语文本</div>
+        <div class="m"><b>输出</b>小写字母写法的世界语文本（包含词根·词尾·符号）</div>
+      </div>
+      <p class="fit"><b>适合的用途：</b>汉字化文本的验证、原文还原、转换规则的测试。由于不带词根分隔，复合词可能存在歧义。</p>
+      <h4>具体能做什么</h4>
+      <ul>
+        <li>可在 PEJVO/PIV 2026-06-20版、片段专用的两列 CSV、自定义 CSV 之间切换。</li>
+        <li>可识别包含上标标识符的汉字写法。</li>
+        <li>也支持汉字与字母混排的文本。</li>
+        <li>可将转换结果作为文本下载。</li>
+      </ul>
+      <div class="links">
+        <a class="btn primary" href="https://kanjized-esperanto-reverter.streamlit.app/">打开逆向转换器</a>
+        <a class="btn ghost" href="https://github.com/Takatakatake/kanjized-esperanto-reverter">GitHub</a>
+      </div>
+    </div>
+  </div>
+
+  <!-- 4-5 -->
+  <div class="tool-card" id="tool-quiz">
+    <div class="head">
+      <div class="glyph">学</div>
+      <div class="titles">
+        <h3>4-5. 世界语四选一学习应用<small>esperanto_quiz</small></h3>
+      </div>
+      <span class="chip">学习·练习</span>
+    </div>
+    <div class="body">
+      <p class="oneline">日中韩对应的单词·例句四选一测验。有 PC 版和手机版，并支持语音·得分·排行榜。</p>
+      <div class="meta">
+        <div class="m"><b>输入</b>测验设置、答案选择</div>
+        <div class="m"><b>输出</b>正误、得分、复习、排行榜</div>
+      </div>
+      <p class="fit"><b>适合的用途：</b>想反复学习词汇·例句时。尤其适合用手机每天练习。</p>
+      <h4>具体能做什么</h4>
+      <ul>
+        <li>单词测验：将 2890 个重要词汇按词性·级别·组别出题。</li>
+        <li>例句测验：选择 Topic / Subtopic / Level 出题。</li>
+        <li>出题方向为「世界语→译词」「译词→世界语」。</li>
+        <li>设有「斯巴达模式」：将答错的题反复出题，直到答对为止。</li>
+        <li>支持语音播放、Google Sheets 排行榜、面向手机的 localStorage 保存型 UI。</li>
+        <li>在日语版·中文版·韩语版之间切换译词列。</li>
+      </ul>
+      <div class="links">
+        <a class="btn primary" href="https://esperanto-quiz-zh.streamlit.app/">打开中文版</a>
+        <a class="btn ghost" href="https://esperanto-quiz.streamlit.app/">日语版</a>
+        <a class="btn ghost" href="https://esperanto-quiz-ko.streamlit.app/">한국어판</a>
+        <a class="btn ghost" href="https://github.com/Takatakatake/esperanto_quiz">GitHub</a>
+      </div>
+    </div>
+  </div>
+
+  <!-- 4-6 -->
+  <div class="tool-card" id="tool-paroligu">
+    <div class="head">
+      <div class="glyph">声</div>
+      <div class="titles">
+        <h3>4-6. 世界语语音合成<small>paroligu</small></h3>
+      </div>
+      <span class="chip">语音教材制作</span>
+    </div>
+    <div class="body">
+      <p class="oneline">用 RHVoice 的 Spomenka 语音朗读世界语文本，并可保存为 WAV 或 MP3。</p>
+      <div class="meta">
+        <div class="m"><b>输入</b>世界语文本、语音设置、保存文件名</div>
+        <div class="m"><b>输出</b>浏览器播放音频、WAV、MP3</div>
+      </div>
+      <p class="fit"><b>适合的用途：</b>例句朗读、发音确认、学习用语音文件制作。</p>
+      <h4>具体能做什么</h4>
+      <ul>
+        <li>同时支持 Unicode 写法与 <span class="esp">x记法</span>。</li>
+        <li>可调整语速·音高·音量。</li>
+        <li>可选择 MP3 比特率。</li>
+        <li>可在浏览器播放，并保存为 WAV/MP3。</li>
+        <li>采用在启动时展开所需软件包的设计，使得在 Streamlit Cloud 上也能使用 RHVoice。</li>
+      </ul>
+      <div class="links">
+        <a class="btn primary" href="https://paroligu.streamlit.app/">打开 paroligu</a>
+        <a class="btn ghost" href="https://github.com/Takatakatake/paroligu">GitHub</a>
+      </div>
+    </div>
+  </div>
+
+  <!-- 4-7 -->
+  <div class="tool-card" id="tool-transskribo">
+    <div class="head">
+      <div class="glyph">幕</div>
+      <div class="titles">
+        <h3>4-7. 世界语语音实时转写<small>Ubuntu 版 / Windows 版</small></h3>
+      </div>
+      <span class="chip">会话·会议字幕</span>
+    </div>
+    <div class="body">
+      <p class="oneline">将 Zoom 或 Google Meet 的世界语会话实时转写，并可接入日语·韩语翻译、Zoom 字幕、Web 字幕页、推送到 Discord。这是一款在本地运行的工具。</p>
+      <div class="meta">
+        <div class="m"><b>输入</b>麦克风或 PC 音频回环、API 密钥、Zoom CC URL、翻译设置</div>
+        <div class="m"><b>输出</b>转写、翻译、Zoom 字幕、Web 字幕页、日志、推送到 Discord</div>
+      </div>
+      <p class="fit"><b>适合的用途：</b>在线课堂、会议、演讲、世界语会话的记录。这是在本地 PC 上运行、而非在 Streamlit Cloud 上运行的工具。</p>
+      <h4>具体能做什么</h4>
+      <ul>
+        <li>以 Speechmatics Realtime STT 为主，可将 Vosk 或 Whisper 作为备用。</li>
+        <li>可向 Zoom Closed Caption API 发送字幕。</li>
+        <li>可在 Web UI 中显示最新字幕与历史记录。</li>
+        <li>支持向日语·韩语等的翻译显示。</li>
+        <li>可通过 Discord Webhook 将确定文本与翻译一并推送。</li>
+        <li>Ubuntu 版为 PipeWire/PulseAudio 的回环提供辅助支持，Windows 版则以 VB-Audio/VoiceMeeter 等为前提提供诊断与设置支持。</li>
+      </ul>
+      <div class="links">
+        <a class="btn ghost" href="https://github.com/Takatakatake/jako-esperantlingva-paroltransskribo-kaj-interpretado-japana-korea-Ubuntu-202604">Ubuntu 版仓库</a>
+        <a class="btn ghost" href="https://github.com/Takatakatake/jako-esperantlingva-paroltransskribo-kaj-interpretado-japana-korea-windows11-202604">Windows 版仓库</a>
+        <span class="btn disabled">本地运行（不经 Streamlit Cloud）</span>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- ══════════ 5 ══════════ -->
+<section id="howto">
+  <h2><span class="no">5</span>如何选用</h2>
+  <div class="tablewrap">
+    <table>
+      <thead><tr><th>目的</th><th>推荐的流程</th></tr></thead>
+      <tbody>
+        <tr><td class="key">批量制作汉字化文本</td><td>准备好普通世界语文本 → 在 CJK Annotator 中选择「纯文本替换」或「汉字旁注」。</td></tr>
+        <tr><td class="key">想精细调整每个细节</td><td>在 kanji_assign 中确认分配的同时，在 Monaco 输入编辑器中逐个词根选择候选。</td></tr>
+        <tr><td class="key">确认标识符是否正确</td><td>在 kanji_assign 中确认同字组与标识符，必要时修正 Monaco 或 Annotator 的结果。</td></tr>
+        <tr><td class="key">验证汉字化文本</td><td>用 Reverter 还原为小写世界语，检查有没有还原出意料之外的词根。</td></tr>
+        <tr><td class="key">制作学习教材</td><td>用 Quiz 练习词汇·例句，用 paroligu 制作例句语音。</td></tr>
+        <tr><td class="key">用于会议·课堂</td><td>在本地启动 Ubuntu/Windows 转写工具，接入 Web 字幕·翻译·Zoom 字幕。</td></tr>
+      </tbody>
+    </table>
+  </div>
+</section>
+
+<!-- ══════════ 6 ══════════ -->
+<section id="urls">
+  <h2><span class="no">6</span>URL·仓库一览</h2>
+  <p class="sec-lead">下表中的链接名称可直接点击。为便于阅读，我们没有直接罗列冗长的 URL。</p>
+  <div class="tablewrap">
+    <table>
+      <thead><tr><th>工具</th><th>应用 / 运行位置</th><th>GitHub</th></tr></thead>
+      <tbody>
+        <tr><td class="key">词根汉字分配表</td><td><a href="https://takatakatake.github.io/kanji_assign/kanji.html">kanji_assign / kanji.html</a></td><td><a href="https://github.com/Takatakatake/kanji_assign">Takatakatake/kanji_assign</a></td></tr>
+        <tr><td class="key">汉字化输入编辑器</td><td><a href="https://takatakatake.github.io/kanji-esperanto-monaco/">kanji-esperanto-monaco</a></td><td><a href="https://github.com/Takatakatake/kanji-esperanto-monaco">Takatakatake/kanji-esperanto-monaco</a></td></tr>
+        <tr><td class="key">CJK Annotator 中文</td><td><a href="https://esperanto-radiko-cjk-annotator-zh.streamlit.app/">中文版应用</a></td><td><a href="https://github.com/Takatakatake/esperanto-radiko-cjk-annotator">Takatakatake/esperanto-radiko-cjk-annotator</a></td></tr>
+        <tr><td class="key">CJK Annotator 日语</td><td><a href="https://esperanto-radiko-cjk-annotator.streamlit.app/">日语版应用</a></td><td><a href="https://github.com/Takatakatake/esperanto-radiko-cjk-annotator">同上</a></td></tr>
+        <tr><td class="key">CJK Annotator 韩语</td><td><a href="https://esperanto-radiko-cjk-annotator-ko.streamlit.app/">한국어版应用</a></td><td><a href="https://github.com/Takatakatake/esperanto-radiko-cjk-annotator">同上</a></td></tr>
+        <tr><td class="key">逆向转换器</td><td><a href="https://kanjized-esperanto-reverter.streamlit.app/">kanjized-esperanto-reverter</a></td><td><a href="https://github.com/Takatakatake/kanjized-esperanto-reverter">Takatakatake/kanjized-esperanto-reverter</a></td></tr>
+        <tr><td class="key">测验 中文</td><td><a href="https://esperanto-quiz-zh.streamlit.app/">esperanto-quiz-zh</a></td><td><a href="https://github.com/Takatakatake/esperanto_quiz">Takatakatake/esperanto_quiz</a></td></tr>
+        <tr><td class="key">测验 日语</td><td><a href="https://esperanto-quiz.streamlit.app/">esperanto-quiz</a></td><td><a href="https://github.com/Takatakatake/esperanto_quiz">同上</a></td></tr>
+        <tr><td class="key">测验 韩语</td><td><a href="https://esperanto-quiz-ko.streamlit.app/">esperanto-quiz-ko</a></td><td><a href="https://github.com/Takatakatake/esperanto_quiz">同上</a></td></tr>
+        <tr><td class="key">TTS</td><td><a href="https://paroligu.streamlit.app/">paroligu</a></td><td><a href="https://github.com/Takatakatake/paroligu">Takatakatake/paroligu</a></td></tr>
+        <tr><td class="key">语音转写 Ubuntu</td><td>不经 Streamlit Cloud（本地运行）</td><td><a href="https://github.com/Takatakatake/jako-esperantlingva-paroltransskribo-kaj-interpretado-japana-korea-Ubuntu-202604">Ubuntu 版仓库</a></td></tr>
+        <tr><td class="key">语音转写 Windows</td><td>不经 Streamlit Cloud（本地运行）</td><td><a href="https://github.com/Takatakatake/jako-esperantlingva-paroltransskribo-kaj-interpretado-japana-korea-windows11-202604">Windows 版仓库</a></td></tr>
+      </tbody>
+    </table>
+  </div>
+
+  <div class="summary">
+    <b>总结：</b>这套工具，是在「查阅·撰写·转换·还原」汉字化世界语的核心环境之上，再加上学习、语音化、实时字幕而构成的。基本流程是：先用 kanji_assign 确认分配，再用 Monaco 或 CJK Annotator 制作，最后用 Reverter 验证。
+  </div>
+</section>
+
+</main>
+
+<footer>
+  <div class="wrap">
+    世界语汉字化项目 — 应用·工具速览指南（整理日期 2026-07-05）<br>
+    <a href="kanji.html">词根汉字分配表</a> ・ <a href="words.html">复合词视图</a> ・ <a href="https://github.com/Takatakatake/kanji_assign">GitHub: Takatakatake/kanji_assign</a>
+  </div>
+</footer>
+
+</body>
+</html>
