@@ -3003,7 +3003,7 @@ babil/et/i⟦聊/小/i⟧:［自］（幼児が）バブバブ言う
 babil/et/o⟦聊/小/o⟧:喃語（なんご）
 babil/i⟦聊/i⟧:{Ｂ}［自］雑談する,おしゃべりする
 Babilon/a salik/o⟦Babilon/a 柳/o⟧:【植】シダレヤナギ（枝垂柳）（種）
-Babilon/i/o:【史】バビロニア（古代メソポタミアの国）
+Babiloni/o:【史】バビロニア（古代メソポタミアの国）
 Babilon/o:【史】バビロン（古代バビロニアの首都）
 babirus/o:【動】バビルサ,シカイノシシ
 babord/an/o⟦船左/员ᴬ/o⟧:【海】左舷当直
@@ -3376,7 +3376,7 @@ batal/s^ip/o⟦战ᴮ/船/o⟧:戦闘艦
 batal/trup/o⟦战ᴮ/团ᵀ/o⟧:戦闘部隊
 batat/brand/o⟦甘薯/酒ᴮᴺ/o⟧:いも焼酎
 batat/o⟦甘薯/o⟧:【植】サツマイモ（薩摩芋）（種）,甘藷（かんしょ）
-Batav/i/o:【地名】バタビア（ジャカルタの古称，インドネシア）
+Batavi/o:【地名】バタビア（ジャカルタの古称，インドネシア）
 batav/o:【史】バタウィ人（ライン川河口のゲルマン系部族）
 bateri/o⟦电ᴮ/o⟧:{Ｏ}【電】バッテリー,電池;【軍】砲兵中隊
 bat/etend/i⟦打/伸/i⟧:［他］（金属を）打ち延ばす
@@ -7486,9 +7486,9 @@ dop/ad/o⟦dop/行/o⟧:【医】【運】ドーピング
 dop/aj^/o⟦dop/物/o⟧:【薬】【運】ドーピング剤
 dop/i:［他］【医】【運】ドーピングする（運動能力を高めるために薬剤を与えること）
 Dopler/o:【人名】ドップラー（オーストリアの物理学者，1803-1853）
-dor/i/an/o⟦dor/i/员ᴬ/o⟧:【史】ドリス人（＝ドーリア人，古代ギリシア人の一派）
+dori/an/o⟦dori/员ᴬ/o⟧:【史】ドリス人（＝ドーリア人，古代ギリシア人の一派）
 dorik/a kapitel/o⟦dorik/a 柱头/o⟧:【建】ドリス式（＝ドーリア式）柱頭
-Dor/i/o:【地名】ドリス地方（ギリシア）
+Dori/o:【地名】ドリス地方（ギリシア）
 dorlot/ad/o⟦宠/行/o⟧:甘やかし
 dorlot/best/o⟦宠/兽/o⟧:愛玩動物,ペット;=hejmbesto
 dorlot/i⟦宠/i⟧:{Ｂ}［他］甘やかす;大事にする
@@ -8011,7 +8011,7 @@ ebur/a⟦象牙/a⟧:象牙の,象牙のような
 ebur/aj^/o⟦象牙/物/o⟧:象牙細工（品）
 Ebur/bord/o:=>Ebur-Bordo（コートジボアール）
 Ebur-Bord/o:【国名】コートジボアール（アフリカ）
-Ebur/i/o:=>Ebur-Bordo（コートジボアール）
+Eburi/o:=>Ebur-Bordo（コートジボアール）
 ebur/ist/o⟦象牙/家/o⟧:象牙細工師
 ebur/nigr/o⟦象牙/黑/o⟧:アイボリーブラック（黒色顔料）
 ebur/o⟦象牙/o⟧:{Ｏ}象牙（ぞうげ）
@@ -17274,7 +17274,7 @@ kare/aj^/o⟦kare/物/o⟧:【料】カレー料理
 kar/ec/o⟦亲/性/o⟧:高価,高値
 kar/eg/a⟦亲/巨/a⟧:とてもいとしい;貴重な;非常に高価な
 kareks/o⟦草ᴷˢ/o⟧:【植】スゲ（属）
-Karel/i/o:【地名】カレリア共和国（ロシア連邦）
+Kareli/o:【地名】カレリア共和国（ロシア連邦）
 karen/a⟦龙骨ᴷᴿ/a⟧:竜骨形の
 karen/i⟦龙骨ᴷᴿ/i⟧:［他］【海】（船体を傾けて）船底を手入れする
 karen/o⟦龙骨ᴷᴿ/o⟧:【海】喫水部,船底;【解】竜骨突起;【植】（マメ科植物の）竜骨弁,舟弁
@@ -22001,13 +22001,13 @@ liber/ec/o de esprim/ad/o⟦自由/性/o 从 表ᴱˢ/行/o⟧:表現の自由
 liber/foli/o⟦自由/叶/o⟧:ルーズリーフ用紙
 liber/form/a⟦自由/形/a⟧:自由形式の
 liber/form/a poem/o⟦自由/形/a 诗/o⟧:【文】自由詩,><fiksforma
-liber/i/an/o⟦自由/i/员ᴬ/o⟧:リベリア人
+liberi/an/o⟦liberi/员ᴬ/o⟧:リベリア人
 liber/ig/ant/o⟦自由/使/在/o⟧:解放者
 liber/ig/a rapid/o⟦自由/使/a 速/o⟧:【理】脱出速度
 liber/ig/i⟦自由/使/i⟧:［他］解き放す,解放する,免除する,自由化する;空ける
 liber/ig/o⟦自由/使/o⟧:解放,免除,自由化
 liber/ig^/i⟦自由/成/i⟧:［自］解放される,免除される
-Liber/i/o:{Ｏ}【国名】リベリア（アフリカ）
+Liberi/o:{Ｏ}【国名】リベリア（アフリカ）
 liber/komerc/ism/o⟦自由/商/主义/o⟧:【経】自由貿易主義
 liber/kred/a⟦自由/信/a⟧:【宗】自由信仰の
 liber/kred/ant/o⟦自由/信/在/o⟧:【宗】自由信仰者
@@ -26153,7 +26153,7 @@ moral/ism/o⟦德ᴹ/主义/o⟧:道徳至上主義
 moral/ist/o⟦德ᴹ/家/o⟧:モラリスト,道徳家
 moral/o⟦德ᴹ/o⟧:{Ｂ}道徳,道義,倫理,モラル;道徳論,>>etiko
 moratori/o:【法】モラトリアム,支払猶予
-Morav/i/o:【地名】モラバ地方（＝モラビア，チェコ）
+Moravi/o:【地名】モラバ地方（＝モラビア，チェコ）
 Morav/o:【地名】モラバ川（チェコ，ドナウ川の支流）
 Morav/o:【地名】モラバ川（ユーゴスラビア，ドナウ川の支流）
 morb/a kompleks/o⟦病/a 复ᴷˢ/o⟧:【医】症候群
@@ -34467,7 +34467,7 @@ roman/ec/o⟦小说/性/o⟧:小説的なこと
 roman/esk/a⟦小说/风ᴱ/a⟧:=romaneca（空想的な）
 romanik/a:【建】【美】ロマネスクの
 romanik/stil/a⟦romanik/风ˢ/a⟧:ロマネスク様式の
-Roman/i/o:=>Romio（ローマ帝国）
+Romani/o:=>Romio（ローマ帝国）
 roman/ist/o⟦小说/家/o⟧:小説家,ロマン作家
 roman/o⟦小说/o⟧:{Ｂ}小説,長編小説,ロマン;【史】ロマンス（中世の騎士物語）
 rom/an/o⟦rom/员ᴬ/o⟧:【史】ローマ人;ローマ市民
@@ -34483,10 +34483,10 @@ romb/o/fis^/o⟦菱/o/鱼/o⟧:【魚】ヒラメの一種（_Scophthalmus rhomb
 romb/o/form/a⟦菱/o/形/a⟧:ひし形の
 Rome/o:（男子名）ロメオ,ロミオ
 Rome/o kaj Juliet/o⟦Rome/o 和ᴷ Juliet/o⟧:【文】『ロミオとジュリエット』（シェークスピアの悲劇）
-Rom/i/a Imperi/o:【史】ローマ帝国
-rom/i/a kod/o⟦rom/i/a 码/o⟧:【法】ローマ法
-rom/i/an/o⟦rom/i/员ᴬ/o⟧:【史】ローマ帝国民
-Rom/i/o:【史】ローマ帝国
+Romi/a Imperi/o:【史】ローマ帝国
+romi/a kod/o⟦romi/a 码/o⟧:【法】ローマ法
+romi/an/o⟦romi/员ᴬ/o⟧:【史】ローマ帝国民
+Romi/o:【史】ローマ帝国
 rom/katolik/a:ローマカトリックの
 Rom-Katolik/a Eklezi/o:【キ】ローマカトリック教会
 rom/katolik/ism/o⟦rom/katolik/主义/o⟧:【キ】ローマカトリック教
@@ -37058,7 +37058,7 @@ slang/o⟦俗语/o⟧:【語】スラング,仲間言葉,俗語,>>j^argono
 slav/a:スラブの,スラブ風の
 slav/ism/o⟦slav/主义/o⟧:スラブ語法;スラブ人気質;スラブ主義,=tutslavismo
 slav/o:スラブ人（スラブ語系諸民族の総称）
-Slavon/i/o:【史】スラボニア（クロアチア東部の古名）
+Slavoni/o:【史】スラボニア（クロアチア東部の古名）
 slavon/o:【語】教会スラブ語
 sled/i⟦雪车/i⟧:［自］そりで行く
 sled/o⟦雪车/o⟧:{Ｂ}そり（橇）,=glitveturilo
@@ -37454,9 +37454,9 @@ sovag^/roz/o⟦野/玫/o⟧:野バラ,>>eglanterio
 sovag^/ul/o⟦野/者/o⟧:野蛮人;乱暴者
 sovet/a:ソビエトの
 sovet/an/o⟦sovet/员ᴬ/o⟧:ソビエト評議員
-sovet/i/a:ソ連の
-sovet/i/an/o⟦sovet/i/员ᴬ/o⟧:ソ連人
-Sovet/i/o:【史】ソビエト連邦,ソ連,=Sovet-Unio
+soveti/a:ソ連の
+soveti/an/o⟦soveti/员ᴬ/o⟧:ソ連人
+Soveti/o:【史】ソビエト連邦,ソ連,=Sovet-Unio
 sovet/o:【史】ソビエト,労農評議会
 Sovet/uj/o:【史】=>Sovetio（ソ連）
 Sovet/uni/o:【史】=>Sovet-Unio（ソビエト連邦）
@@ -38656,7 +38656,7 @@ sun/tag/o⟦阳/日/o⟧:【天】太陽日（たいようじつ）
 sun/um/i⟦阳/um/i⟧:［他］日光にさらす
 sun/vitr/oj⟦阳/玻/oj⟧:サングラス
 Sunzi/o:孫子【私家版】
-Suom/i/o:《稀》【地名】スオミ（フィンランド語による自称）,=Finnlando
+Suomi/o:《稀》【地名】スオミ（フィンランド語による自称）,=Finnlando
 sup/celeri/o⟦汤/芹/o⟧:【植】スープセロリ,キンサイ（芹菜）（セロリの変種）
 super⟦上ˢᴾ⟧:{Ｂ}［前］〜の上方に,〜の上に;〜に優越して;〜に熱中して
 super-⟦上ˢᴾ⟧:［接頭辞］（上方・上位・優越・超越・超過を示す）,>>supersigno,>>superregi,>>superflua
@@ -46899,7 +46899,7 @@ dop/ant/aj^/o⟦dop/在/物/o⟧:【PIV】Dopanta substanco.
 dop/il/o⟦dop/具/o⟧:【PIV】Dopanta substanco.
 Dor/o:【PIV】Fondinto de la Doriana gento.
 dor/a:【楽】【PIV】(pp (se paroli pri) modalo) Uzanta la naturajn tonojn D g^is D'.
-Dor/i/a:【PIV】1 Propra al Dorio au^ al Dorianoj. 2 = dorika.
+Dori/a:【PIV】1 Propra al Dorio au^ al Dorianoj. 2 = dorika.
 dorid/o⟦贝ᴰ/o⟧:【動】【PIV】Nudbranka mara gastropodo (Doris k parencaj g-oj (genroj)), kiu havas la brankojn c^irkau^ la anuso.
 dorik/a:【建】【PIV】Apartenanta al unu el la tri c^efaj ordoj de la klasika arkitekturo, karakterizata de plena senornameco: dorika stilo, kolono, templo. Vd ionika, korintika.
 doris/o:【PIV】Platfunda boato, uzata por demeti fis^fadenojn c^e Novtero.
@@ -52179,7 +52179,7 @@ mont/ar/ig^/o⟦山/群/成/o⟧:【地質】【PIV】Estig^o de montaro: antau^
 montr/ad/i⟦示/行/i⟧:【PIV】Longe au^ ripete montri: c^ia bubo povas ankorau^ mokadi nin k montradi nin per la fingroj ; montradi al si reciproke la dentojn ; la montrado de tiaj ric^aj^oj estis insulto al la popolo.
 moped/o:【PIV】Malpeza motorbiciklo, movata de malforta motoro. Vd skotero.
 mora/o:【語】【PIV】Akcenta au^ prozodia unuo malpli granda ol silabo (ekz. (ekzemple) en klasika L., litova k.a. (kaj aliaj)).
-Morav/i/an/o:【PIV】Log^anto de Moravio.
+Moravi/an/o:【PIV】Log^anto de Moravio.
 morb/a⟦病/a⟧:【PIV】Rilata al morbo: morba ento. Vd patio.
 morbid/a:【PIV】(pp (se paroli pri) karnaj^oj) Supla k delikata: la morbideco de Rafaela pentraj^o.
 mord/ant/a⟦咬/在/a⟧:【PIV】(f (figurasence)) Akre doloriga: s^i elploris parton de tiuj mordantaj sentoj, kies kruela atako s^in senfortigis ; s^i aldonis aliajn aferojn, kiuj estis tre mordantaj ; mordanta sarkasmo. Vd kau^stika, koroda.
@@ -54474,7 +54474,7 @@ rokfort/o:【PIV】S^afinlakta fromag^o, kun speciala s^imo (Vd penicilo), produ
 roku/o:【化】【PIV】Karotenoric^a farbosubstanco, ekstraktata el la semoj de bikso, k uzata por kolorigi nutraj^ojn, i.a. (interalie, inter aliaj) buteron.
 roku/arb/o⟦roku/树/o⟧:【PIV】Bikso.
 Roland/o:【PIV】Vira nomo, i.a. (interalie, inter aliaj) de la nevo de Karolo la Granda.
-Rom/i/a:【PIV】Rilata al Romio: la Romia kodo, civilizacio, arto. Vd romanika.
+Romi/a:【PIV】Rilata al Romio: la Romia kodo, civilizacio, arto. Vd romanika.
 Roman/ig/i:【PIV】Trudi la Romajn vivmanierojn, civilizacion, juron, lingvon.
 Roman/ism/o:【PIV】Civilizacio k mondkoncepto de la Romanoj.
 Rom-German/a:【史】【PIV】Nomepiteto de la imperio (962−1806), kiu entenis italajn k germanajn landojn, plejofte sub nominala au^toritato; ekde 1254, g^i estis kvalifikata kiel «sankta».
