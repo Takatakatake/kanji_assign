@@ -19893,7 +19893,7 @@ kosm/a spac/o:宇宙空間
 kosmetik/aj^/o:化粧品
 kosmetik/o:{Ｏ}化粧法,美容術
 kosm/o:{Ｂ}【天】宇宙,>>universo;《転》完全体系,><kaoso
-kosmogoni/o:{Ｏ}宇宙進化論
+kosm/o/goni/o:{Ｏ}宇宙進化論##偽分解
 kosm/o/grafi/o:{Ｏ}《古》宇宙形状誌##偽分解
 kosm/o/graf/o:{Ｏ}《古》宇宙形状誌学者##偽分解(PIV正式分解)
 kosm/o/kemi/o:宇宙化学
@@ -48832,7 +48832,7 @@ hemati/o:【PIV】= eritrocito, rug^a globulo.
 hematoksil/o:【植】【PIV】G. (Genro) (Haematoxylum el fabacoj) de 3 sp-oj (specioj) de dau^rafoliaj arboj el tropika Ameriko k Namibio, el kiuj kampec^o (H. campechianum).
 hematoksil/in/o:【化】【PIV】Tinktura substanco, C 16 H 14 O 6, ekstraktata el la ligno de hematoksilo.
 hematop/o:【動】【PIV】G. (Genro) (Haematopus) de birdoj el la ordo de karadriformaj, i.a. (interalie, inter aliaj) H. ostralegus (marpigo), blanka k nigra kun rug^aj beko k kruroj, vivanta c^e la NU marbordoj de Eu^ropo. = hematopod/o
-hematoz/o:【生】【PIV】Transformig^o de la sango en la spirorganoj (pulmoj, brankoj, hau^to ktp (kaj tiel plu)), nome malric^ig^o en karbondioksido k ric^ig^o en oksigeno. -> globulo, eritrocito, hemoglobino.
+hemat/oz/o:【生】【PIV】Transformig^o de la sango en la spirorganoj (pulmoj, brankoj, hau^to ktp (kaj tiel plu)), nome malric^ig^o en karbondioksido k ric^ig^o en oksigeno. -> globulo, eritrocito, hemoglobino.##偽分解(PIV正式分解)
 hematozo/oj:【PIV】= plasmodio.
 hemi/:【医】【PIV】Pref. (Prefikso), elvokanta la ideon de g^usta duono k uzata: 1 kun nomoj de afekcioj, por montri, ke ili koncernas nur unu duonon (dekstra au^ maldekstra) de la korpo, au^ iafoje de la konsiderata anatomia parto: hemianestezo, hemikonvulsio, hemikoreo 2 kun aliaj nomoj, por signifi, ke oni konsideras nur la duonon: hemisfero, hemisistolo. Rim. (Rimarko) La vortkomenco hemi trovig^as en iuj neanalizeblaj nomoj: hemicelulozo, hemipteroj k.a. (kaj aliaj). Vd semi/.
 hemi/celul/oz/o:【化】【PIV】Polimero de glukozo, (C 6 H 10 O 5) n, en la vegetaj^a c^elmuro, malpli longc^ena ol celulozo k en akvo solvebla. Vd celulozo.##偽分解(PIV正式分解)
@@ -52885,7 +52885,7 @@ ovari/ektomi/o:【医】【PIV】Fortranc^o de unu au^ ambau^ ovarioj 1.##偽分
 ovi/o:【動】【PIV】G. (Genro) (Ovis) de mamuloj el la ordo de parhufuloj, fam. (familio) de bovedoj, al kiu apartenas s^afo.
 Ovidi/o:【PIV】Latina vira nomo, i.a. (interalie, inter aliaj) de la poeto de la «Arto de amo» k «Metamorfozoj» (P. Ovidius Naso, 43− c^. (c^irkau^) 17).
 ov/o/cit/o:【生】【PIV】Inseksa c^elo, devenanta el ovogonio, naskonta ovolon: unuavica (duploida) ovocito, duavica (unuploida) ovocito.##偽分解##過細分解 ov/o/c/i/t/o
-ovogoni/o:【生】【PIV】La unua stadiformo de inseksa c^elo, duploida, ne diferencig^inta, naskonta ovociton.
+ov/o/goni/o:【生】【PIV】La unua stadiformo de inseksa c^elo, duploida, ne diferencig^inta, naskonta ovociton.##偽分解
 ovol/a:【PIV】Rilata al ovolo.
 ovotid/o:【生】【PIV】Nematura inseksa c^elo, unuploida, devenanta el ovocito k evoluanta al ovolo.
 ovr/i:【PIV】(tr (transitiva)) Malfermi.
@@ -53399,7 +53399,7 @@ pint/um/o:【PIV】Spritaj^o, pikanta per la proksimigo de du tre malsamaj ideoj
 pio/o:【医】【PIV】Puso (en kunmetaj^oj): piobacilozo, pionefrito, piosalpingito ktp (kaj tiel plu).
 pio/emi/o:【医】【PIV】C^eesto de puso en la sango, kreanta multoblajn abscesojn en diversaj lokoj de la organismo.##偽分解(PIV正式分解)
 pio/gen/a:【PIV】Pusiga: stafilokoko estas piogena mikrobo.##偽分解(PIV正式分解)
-pioore/o:【医】【PIV】Pusa elfluo: alveolodenta piooreo.
+pio/ore/o:【医】【PIV】Pusa elfluo: alveolodenta piooreo.##偽分解(PIV正式分解)
 pioc^/et/o:【PIV】Speco de malgranda pioc^o, uzata de montgrimpistoj.
 piore/o:【医】【PIV】Piooreo (Vd (vidu) pioo).
 pipelin/o:【PIV】= naftodukto.
@@ -55273,7 +55273,7 @@ spermat/o/fit/oj:【植】【PIV】Grupego (eksa filumo Spermatophyta) de vaskul
 spermat/o/genez/o:【生】【PIV】Estig^o k disvolvig^o de virseksaj c^eloj.##偽分解##強語根分解
 spermatogoni/o:【生】【PIV】La unua stadiformo de virseksa c^elo, duploida, ne diferencig^inta, naskonta spermatociton.
 spermidin/o:【化】【PIV】Poliamino, H 2 N-(CH 2) 3-NH-(CH 2) 4-NH-(CH 2) 4-NH 2, asociita kun la c^elaj DNA k RNA. Vd spermino, putrino.
-spermogoni/o:【植】【PIV】Spermatiujo.
+sperm/o/goni/o:【植】【PIV】Spermatiujo.##偽分解
 spert/ig/i:【PIV】Fari iun sperta.
 spic/ej/o:【PIV】Vendejo de diversaj spicaj^oj.
 spic/ist/o:【PIV】Vendisto de spicoj k spicaj^oj.
@@ -55319,7 +55319,7 @@ sponton/o:【軍】【PIV】Mallonga lanco kun flanka klingo: spontono lance pik
 spor/ar/o:【植】【PIV】Tuto de la sporoj.
 spor/o/fit/o:【植】【PIV】(pp (se paroli pri) plantoj havantaj alternadon de generacioj) Duploida generacio de planto, kiu devenas el la zigoto k ofte produktas sporojn (mejozajn k ofte ankau^ mitozajn). Vd gametofito.##偽分解(PIV正式分解)
 spor/angi/o:【植】【PIV】Organo au^ c^elo, ene produktanta sporojn: plurc^ela sporangio (c^e la pteridofitoj), unuc^ela sporangio (c^e iuj kromistoj, malsuperaj plantoj k malsuperaj fungoj).##偽分解
-sporogoni/o:【植】【PIV】Sporofito de la briofitoj (muskoj k hepatmuskoj), tipe konsistanta el pedunkleto portanta kapsulon, en kiu formig^as sporoj.
+spor/o/goni/o:【植】【PIV】Sporofito de la briofitoj (muskoj k hepatmuskoj), tipe konsistanta el pedunkleto portanta kapsulon, en kiu formig^as sporoj.##偽分解
 spor/o/trik/o:【植】【PIV】G. (Genro) (Sporothrix) de neperfektaj fungoj; 23 tre disvastig^intaj sp-oj (specioj), el kiuj S. schenkii estigas sporotrikozon.##偽分解##エス的分解
 spor/o/trik/oz/o:【医】【PIV】Parazita malsano, kau^zata de sp. de sporotriko k karakterizata de etaj gumabscesoj.##偽分解##エス的分解
 spor/o/trik/um/o:【植】【PIV】G. (Genro) (Sporotrichum) kosmopolita de c^. (c^irkau^) 40 sp-oj (specioj) de neperfektaj fungoj.##偽分解##エス的分解
@@ -56043,7 +56043,7 @@ Teodozi/a:【PIV】Rilata al Teodozio: la Teodozia kodo (publikigita en 450).
 Teofil/o:【PIV】Vira nomo.
 teofilin/o:【化】【PIV】Alkaloido C 7 H 8 O 2 N 4, trovig^anta precipe en la folioj de teo, kune kun la parencaj kafeino k teobromino. Sin. (sinonimo) tefoliino.
 Teognis/o:【PIV】Helena poeto (6a jc (jarcento) a.K. (antau^ Kristo)).
-teogoni/o:【宗】【PIV】Genealogio de la dioj de politeisma popolo.
+te/o/goni/o:【宗】【PIV】Genealogio de la dioj de politeisma popolo.##偽分解##過細分解 t/e/o/goni/o
 Teokrit/o:【PIV】Helena poeto, au^toro de pas^tistaj poemoj (c^. (c^irkau^) 300 a.K. (antau^ Kristo)).
 teorb/o:【楽】【PIV】Speco de granda liuto, ludata en la 16a k 17a jc (jarcento).
 teori/ad/i:【PIV】(ntr (netransitiva)) Fari teoriojn.
@@ -58751,7 +58751,7 @@ vost/o/glit/ad/o:【PIV】Movig^o de aviadilo malantau^en lau^ g^ia longakso, su
 cel/glob/o:【PIV】En globludo, pli malgranda globo, kiun la ludantoj devas celi per siaj pli grandaj globoj.
 hetero/globin/o:【化】【生】【PIV】Heteroproteino, konsistanta el hemo k globino, kiu transportas au^ staplas oksigenon.
 hemo/globin/emi/o:【医】【PIV】C^eesto de hemo globino en la sangoplasmo au^ resp. (respektive) en la urino, pro hemolizo.##偽分解(PIV正式分解)
-hemo/globinuri/o:【医】【PIV】C^eesto de hemo globino en la sangoplasmo au^ resp. (respektive) en la urino, pro hemolizo.
+hemoglobin/uri/o:【医】【PIV】C^eesto de hemo globino en la sangoplasmo au^ resp. (respektive) en la urino, pro hemolizo.##偽分解(PIV正式分解)
 mam/glob/oj:【PIV】Junag^aj rondaj mamoj.
 mi/o/globin/o:【化】【生】【PIV】Muskol globino.
 muskol/globin/o:【PIV】Hetero globino de la striitaj k kora muskoloj, kiu staplas oksigenon. Sin. (sinonimo) mioglobino.

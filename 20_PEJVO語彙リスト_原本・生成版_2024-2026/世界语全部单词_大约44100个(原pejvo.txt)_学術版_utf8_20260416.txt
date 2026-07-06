@@ -58751,7 +58751,7 @@ vost/o/glit/ad/o:【PIV】Movig^o de aviadilo malantau^en lau^ g^ia longakso, su
 cel/glob/o:【PIV】En globludo, pli malgranda globo, kiun la ludantoj devas celi per siaj pli grandaj globoj.
 hetero/globin/o:【化】【生】【PIV】Heteroproteino, konsistanta el hemo k globino, kiu transportas au^ staplas oksigenon.
 hemo/globinemi/o:【医】【PIV】C^eesto de hemo globino en la sangoplasmo au^ resp. (respektive) en la urino, pro hemolizo.
-hemo/globinuri/o:【医】【PIV】C^eesto de hemo globino en la sangoplasmo au^ resp. (respektive) en la urino, pro hemolizo.
+hemoglobinuri/o:【医】【PIV】C^eesto de hemo globino en la sangoplasmo au^ resp. (respektive) en la urino, pro hemolizo.
 mam/glob/oj:【PIV】Junag^aj rondaj mamoj.
 mi/o/globin/o:【化】【生】【PIV】Muskol globino.
 muskol/globin/o:【PIV】Hetero globino de la striitaj k kora muskoloj, kiu staplas oksigenon. Sin. (sinonimo) mioglobino.
