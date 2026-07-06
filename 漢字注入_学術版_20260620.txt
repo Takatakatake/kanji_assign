@@ -13143,7 +13143,7 @@ golf/lud/i⟦湾/玩/i⟧:［自］ゴルフをする,>>bati
 golf/lud/o⟦湾/玩/o⟧:【運】ゴルフ
 golf/o⟦湾/o⟧:{Ｂ}【地理】湾
 golf/o⟦湾/o⟧:【運】ゴルフ,=golfludo,>>klabo,>>pilko
-Golfo/flu/o:【地理】メキシコ湾流
+Golf/o/flu/o:【地理】メキシコ湾流
 gol/fost/o⟦球门/柱ᶠ/o⟧:【運】ゴールポスト
 golf/pantalon/o⟦湾/裤/o⟧:【服】ゴルフズボン
 Golgot/o:【聖】ゴルゴタの丘（キリストの処刑地）
@@ -50018,7 +50018,7 @@ karb/o/basen/o⟦炭/o/盆ᴮ/o⟧:【PIV】Regiono, el kiu oni elminas karbon e
 karb/o/don/a⟦炭/o/给/a⟧:【PIV】Entenanta karbon. Vd karbonio.
 karb/o/hav/a⟦炭/o/有/a⟧:【PIV】Entenanta karbon. Vd karbonio.
 karb/o/gruz/o⟦炭/o/砾/o⟧:【PIV】Karbo, konsistanta el eroj de 0,8 g^is 1,5 cm (centimetro).
-karbo/pint/oj⟦karbo/尖/oj⟧:【PIV】La elektrodoj (el karbo) de elektra mas^ino au^ sparkoponto.
+karb/o/pint/oj⟦炭/o/尖/oj⟧:【PIV】La elektrodoj (el karbo) de elektra mas^ino au^ sparkoponto.
 karb/o/stak/o⟦炭/o/垛/o⟧:【PIV】Stako el ligno, por fari ligno karbon.
 karbam/o:【化】【PIV】Radiko de karbamata acido (en kunmetaj^oj).
 karbamid/o:【化】【PIV】(ark. (arkaismo, arkaisme)) = ureo.

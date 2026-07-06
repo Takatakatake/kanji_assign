@@ -12937,7 +12937,7 @@ gips/o/s^ton/o⟦石膏/o/石/o⟧:【鉱】石膏（せっこう）
 girland/i⟦花环/i⟧:［他］花飾りで飾る,花飾りに編む
 girland/o⟦花环/o⟧:{Ｂ}（花や葉を長く編んだ）花飾り,花輪模様
 giro/skop/a kompas/o⟦旋ᴳᴼ/镜ˢᴷ/a 罗盘/o⟧:【理】ジャイロコンパス##偽分解##強語根分解
-giro/skop/o⟦旋ᴳᴼ/镜ˢᴷ/o⟧:【機】ジャイロスコープ##偽分解##強語根分解
+gir/o/skop/o⟦旋/o/镜ˢᴷ/o⟧:【機】ジャイロスコープ##偽分解##強語根分解
 gis/ad/o⟦铸/行/o⟧:【機】鋳造,=muldo
 gis/aj^/o⟦铸/物/o⟧:鋳物,=muldaj^o
 gis/ej/o⟦铸/所/o⟧:鋳物工場
@@ -13143,7 +13143,7 @@ golf/lud/i⟦湾/玩/i⟧:［自］ゴルフをする,>>bati
 golf/lud/o⟦湾/玩/o⟧:【運】ゴルフ
 golf/o⟦湾/o⟧:{Ｂ}【地理】湾
 golf/o⟦湾/o⟧:【運】ゴルフ,=golfludo,>>klabo,>>pilko
-Golfo/flu/o:【地理】メキシコ湾流
+Golf/o/flu/o:【地理】メキシコ湾流
 gol/fost/o⟦球门/柱ᶠ/o⟧:【運】ゴールポスト
 golf/pantalon/o⟦湾/裤/o⟧:【服】ゴルフズボン
 Golgot/o:【聖】ゴルゴタの丘（キリストの処刑地）
@@ -47978,7 +47978,7 @@ iks/fot/o/graf/aj^/o⟦iks/拍/o/记ᴳ/物/o⟧:【PIV】Fotografaj^o de la int
 fot/o/gra/metri/o⟦拍/o/gra/测ᴹᵀ/o⟧:【PIV】1 Tekniko por akiri horizontalajn k vertikalajn projekciojn de objektoj el iliaj fotoj. 2 Tekniko por akiri map-desegnojn el fotoj de la koncerna regiono.##偽分解##強語根分解
 fot/o/terapi/o⟦光ᶠ/o/疗/o⟧:【PIV】Vd (vidu) terapio.##偽分解
 fot/o/tip/o⟦拍/o/型/o⟧:【PIV】Klis^o, sur kiu la koloroj estas anstatau^igitaj per punktoj k linioj, k kiun oni uzas por reprodukti fotografaj^on en gazeto, libro ktp (kaj tiel plu).##偽分解
-foto/trop/ism/o⟦foto/向ᵀ/主义/o⟧:【生】【PIV】Lumtropismo.##偽分解
+fot/o/trop/ism/o⟦光ᶠ/o/向ᵀ/主义/o⟧:【生】【PIV】Lumtropismo.##偽分解
 fove/o⟦窝ᶠ/o⟧:【解】【PIV】(fovea) Termino por kavetoj: centra foveo (de la retino); foveo de la femurosta kapo.
 fove/et/o⟦窝ᶠ/小/o⟧:【PIV】(foveola) Malgranda foveo.
 fr!:【PIV】Interj. (Interjekcio), uzata por fortimigi birdojn. Vd hus^!
@@ -50018,7 +50018,7 @@ karb/o/basen/o⟦炭/o/盆ᴮ/o⟧:【PIV】Regiono, el kiu oni elminas karbon e
 karb/o/don/a⟦炭/o/给/a⟧:【PIV】Entenanta karbon. Vd karbonio.
 karb/o/hav/a⟦炭/o/有/a⟧:【PIV】Entenanta karbon. Vd karbonio.
 karb/o/gruz/o⟦炭/o/砾/o⟧:【PIV】Karbo, konsistanta el eroj de 0,8 g^is 1,5 cm (centimetro).
-karbo/pint/oj⟦karbo/尖/oj⟧:【PIV】La elektrodoj (el karbo) de elektra mas^ino au^ sparkoponto.
+karb/o/pint/oj⟦炭/o/尖/oj⟧:【PIV】La elektrodoj (el karbo) de elektra mas^ino au^ sparkoponto.
 karb/o/stak/o⟦炭/o/垛/o⟧:【PIV】Stako el ligno, por fari ligno karbon.
 karbam/o:【化】【PIV】Radiko de karbamata acido (en kunmetaj^oj).
 karbamid/o:【化】【PIV】(ark. (arkaismo, arkaisme)) = ureo.
@@ -50856,7 +50856,7 @@ Kortes/oj:【史】【PIV】Hispania au^ Portugalia leg^ofara asembleo.
 kortez/a:【PIV】Konforma al la tradicio de la trobadoroj, kiuj prikantis rafinitan, nematerian amon.
 kortici/o⟦菌ᴷᴿ/o⟧:【植】【PIV】G. (Genro) (Corticium el korticiacoj) kosmopolita de c^. (c^irkau^) 250 sp-oj (specioj) de bazidifungoj g^enerale lignolog^aj, kun glathimenia bazidio g^enerale krustoforma.
 kortik/o⟦皮ᴷ/o⟧:【解】【植】【PIV】(cortex) 1 Supraj^a tavolo de diversaj organoj: la rena kortiko (cortex renalis); kortiko de la talo de likeno. Vd s^elo, kortekso, medolo. 2 (speciale) Supraj^a tavolo de la surrena glando. Vd kortikoterapio, kortikosteroido, kortikosurrena (Vd (vidu) reno). 3 (pp (se paroli pri) vaskulplantoj) La ekstera parto de radiko k tigo, konsistanta el nekondukaj histoj, i.a. (interalie, inter aliaj) epidermo, subera parenkimo, kortika parenkimo k endodermo. Vd steleo, endodermo.
-kortiko/trop/a⟦kortiko/向ᵀ/a⟧:【生】【医】【PIV】Havanta afinecon al la kortika substanco de la surrena glando (kortikoafina) au^ stimulanta g^in (kortikostimula).##偽分解
+kortik/o/trop/a⟦皮ᴷ/o/向ᵀ/a⟧:【生】【医】【PIV】Havanta afinecon al la kortika substanco de la surrena glando (kortikoafina) au^ stimulanta g^in (kortikostimula).##偽分解
 kortikosteron/o:【生】【PIV】Unu el la kortikosurrenaj hormonoj, tre parenca al kortizolo, sed malpli aktiva.
 kortinari/o⟦菌ᴷᴼ/o⟧:【植】【PIV】G. (Genro) (Cortinarius el kortinariacoj) de ombrelfungoj g^enerale kurtenohavaj, kun bruna sporaro; c^. (c^irkau^) 1000 sp-oj (specioj), N-hemisferaj, pluraj tre venenaj k ec^ (ekz. (ekzemple) C. orellanus) mortigaj.
 kortizol/o:【生】【PIV】La c^efa kortikosurrena hormono, kiu grave rolas i.a. (interalie, inter aliaj) en la regado de la metabolo de la glucidoj k proteinoj k lukto kontrau^ streso: kortizolo estas terapie uzata pro antiinflamaj ecoj; la sekrecion de kortizolo stimulas la hipofiza adrenal-kortikostimula hormono. Sin. (sinonimo) hidrokortizono. see kortizono, kortikosterono.
