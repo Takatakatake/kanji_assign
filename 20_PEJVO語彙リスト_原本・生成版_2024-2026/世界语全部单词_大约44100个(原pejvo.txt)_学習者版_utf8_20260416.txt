@@ -49691,7 +49691,7 @@ jube/o:【建】【PIV】Tribuno, en formo de galerio, trovig^anta en romanikaj 
 jubile/ul/o:【PIV】Tiu kiu festas sian jubileon.
 jud/ar/o:【PIV】Tuto de la judoj.
 Jud/uj/o:【史】【PIV】1 G^is la Babilona ekzilo, la pli S el la du hebreaj regnoj. 2 = Judeo. Vd Izraelo.
-juda/iz/i:【PIV】(ntr (netransitiva)) Observi la judajn morojn au^ ritojn: en Hispanujo oni s^tiparumis la judaizantajn kristanojn.##偽分解
+jud/a/iz/i:【PIV】(ntr (netransitiva)) Observi la judajn morojn au^ ritojn: en Hispanujo oni s^tiparumis la judaizantajn kristanojn.##偽分解
 Jude/o:【史】【PIV】Teokratia regno, starigita, en S Palestino, de la revenintoj el la Babilona ekzilo. Vd Judujo, Idumeo. -> arbo.
 juft/o:【PIV】Fortika, akvorezista sed malbonodora ledo el junaj bestoj (c^evalo, bovo, kapro ktp (kaj tiel plu)), tanita en speciala rusa maniero k grasumita plejofte per betula gudro sur la interna flanko.
 jug/aj^/o:【PIV】Tuto de la du jugitaj bestoj.
@@ -59014,7 +59014,7 @@ ren/ir/i:【PIV】(ark. (arkaismo, arkaisme)) Prova formo anst. (anstatau^) re i
 tra/ir/ebl/a:【PIV】Tia, ke oni povas g^in tra iri: trairebla torento, stepo; netrairebla dezerto; c^e osmozo oni distingas traireblajn (Sin. (sinonimo) tralasajn) , duontraireblajn (Sin. (sinonimo) duontralasajn) k netraireblajn (Sin. (sinonimo) netralasajn) membranojn.
 trans/ir/ebl/a:【PIV】Tia, ke oni povas g^in transiri: trans irebla barilo; nek transnag^eble, nek transireble .
 trans/ir/ig/i:【PIV】Fari, ke iu transiru ion: kial vi trans irigis c^i tiun popolon trans Jordanon? .
-c^ielen/ir/o:【PIV】= c^ieliro.
+c^iel/e/n/ir/o:【PIV】= c^ieliro.
 rab/ir/ad/o:【PIV】Ekspedicio por rabado: la nomadoj faris rabiradon tra la valo. Vd razio.
 rad/ir/i:【PIV】Transportig^i per rada aparato au^ veturilo, ekz. (ekzemple) biciklo ks (kaj simile, kaj similaj). Vd rulig^i.
 vic/ir/ad/o:【PIV】Defilado, parado.
