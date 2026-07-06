@@ -14380,9 +14380,9 @@ hind/i/a lingv/o:（la 〜）ヒンディー語
 Hind/i/o:【国名】インド（アジア）,=Barato
 Hind/i/o:【地名】インド亜大陸
 hind/o:インド人
-hindoc^in/a:【地理】インドシナの
-Hindoc^in/a Du/on/insul/o:【地名】インドシナ半島（東南アジア）
-Hindoc^ini/o:【地名】インドシナ
+hind/o/c^in/a:【地理】インドシナの
+Hind/o/c^in/a Du/on/insul/o:【地名】インドシナ半島（東南アジア）
+Hind/o/c^in/i/o:【地名】インドシナ
 hindu/ism/o:【宗】ヒンドゥー教,ヒンズー教
 Hind/uj/o:【国名】=Barato（インド）
 Hindukus^/o:【地名】ヒンズークシ山脈（アフガニスタン・パキスタン）
