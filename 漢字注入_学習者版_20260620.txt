@@ -12769,7 +12769,7 @@ gener/a⟦生ᴳᴿ/a⟧:生殖の
 generaci/o⟦代ᴳ/o⟧:{Ｂ}世代,同時代の人々;【生】世代
 gener/ad/o⟦生ᴳᴿ/行/o⟧:【生】生殖,発生
 general/ec/o⟦将ᴳ/性/o⟧:将官の地位,将官職
-general-/leu^tenant/o⟦将ᴳ/尉/o⟧:【軍】中将
+general-leu^tenant/o⟦将ᴳ-尉/o⟧:【軍】中将
 general/o⟦将ᴳ/o⟧:{Ｂ}【軍】将軍;将官
 gener/a organ/o⟦生ᴳᴿ/a 器ᴼ/o⟧:【解】性器,生殖器官
 gener/ator/o⟦生ᴳᴿ/具ᴬ/o⟧:【電】発電機;【理】起電機##偽分解(PIV正式分解)
@@ -22362,7 +22362,7 @@ liter/um/il/o⟦字/um/具/o⟧:【情】スペルチェッカー
 liter/um/kontrol/il/o⟦字/um/检/具/o⟧:【情】スペルチェッカー
 litin/o:【化】水酸化リチウム
 liti/o⟦金ᴸ/o⟧:【化】リチウム（原子番号３のアルカリ金属元素）
-liti/o-jon/a akumulator/o⟦金ᴸ/o-离子/a 蓄电/o⟧:リチウムイオン蓄電池
+liti/o-jon/a akumul/ator/o⟦金ᴸ/o-离子/a 累/具ᴬ/o⟧:リチウムイオン蓄電池##偽分解(PIV正式分解)
 lit/kadr/o⟦床/框/o⟧:寝台の骨組み
 lit/kap/o⟦床/头/o⟧:枕元
 lit/korb/o⟦床/篮/o⟧:ベビーかご,ベビーバスケット
@@ -27877,7 +27877,7 @@ Nov/land/o:【地名】ニューファンドランド島（カナダ東部）
 nov/latin/a⟦新/latin/a⟧:【語】近代ラテン語の
 nov/liberal/ism/o⟦新/宽ᴸᴮ/主义/o⟧:新自由主義
 nov/lun/o⟦新/月/o⟧:新月
-Nov-Meksiki/o:【地名】ニューメキシコ州（米国）
+Nov-Meksik/i/o:【地名】ニューメキシコ州（米国）
 nov/model/a au^t/o⟦新/模/a 车/o⟧:新型車,>>nova au^to
 nov/nask/it/o⟦新/生/受/o⟧:新生児
 nov/nazi/ism/o⟦新/nazi/主义/o⟧:【政】ネオナチズム
@@ -28229,7 +28229,7 @@ Okcident/a Samo/o:【国名】西サモア（大洋州）
 Okcident-Au^strali/o:【地名】西オーストラリア州（オーストラリア）
 okcident/a vent/o⟦西/a 风/o⟧:西風,>>zefiro
 okcident/azi/a⟦西/azi/a⟧:西アジアの
-Okcident-Bengali/o:【地名】西ベンガル州（インド）
+Okcident-Bengal/i/o:【地名】西ベンガル州（インド）
 okcident/e⟦西/e⟧:西に,西方に
 okcident/eu^rop/a⟦西/eu^rop/a⟧:西ヨーロッパの,西欧の
 okcident/o⟦西/o⟧:{Ｂ}西,西方;西部,><oriento
@@ -43264,7 +43264,7 @@ Vi/a Ekscelenc/o:閣下（高官に対する呼びかけ）
 vi/a/flank/e⟦你/a/侧/e⟧:あなたとしては
 vi/a/kulp/e⟦你/a/罪/e⟧:あなたのせいで,あなたの過ちによって
 vi/a/land/a⟦你/a/国/a⟧:あなたの国の
-Vi/a Mos^/to:（呼びかけとして）閣下
+Vi/a Mos^t/o:（呼びかけとして）閣下
 viand/a diet/o⟦肉/a 节/o⟧:【医】肉食
 viand/aj^/o⟦肉/物/o⟧:【料】肉料理
 viand/ej/o⟦肉/所/o⟧:肉屋（店）
@@ -49682,7 +49682,7 @@ jol/o:【PIV】1 Malpeza, longa boato, por kvar au^ ses remantoj. 2 Vels^ipo kun
 Jonatan/o:【聖】【PIV】Junulo, amiko de Davido: Mi malg^ojas pro vi, mia frato Jonatan ; Via amo estis al mi pli kara, ol la amo de virinoj .
 joni/o:【宗】【PIV】Virina seksorgano, kies s^tonan figuron kultas la hinduoj, kiel simbolon de fekundeco. -> lingamo.
 jon/o/sfer/o⟦离子/o/球ˢ/o⟧:【PIV】La plej supra tavolo de la interna atmosfero (komencig^anta en altitudo de 80 km (kilometro)), kies esenca karakterizaj^o estas la elektra konduktopovo.##偽分解
-Cis-Jordani/o:【PIV】Regiono de Palestino, situanta okcidente de Jordano.
+Cis-Jordan/i/o:【PIV】Regiono de Palestino, situanta okcidente de Jordano.##偽分解
 jot/o:【PIV】La nau^a grafemo de la greka alfabeto (Ι, ι), responda al la latina i, k uzata kiel simb. (simbolo) de tre malgranda kvanto: nek unu joto nek unu streketo forpasos de la leg^o . = jota
 jot/ism/o⟦jot/主义/o⟧:【PIV】Evoluo de iuj vokaloj k diftongoj al i en la greka lingvo.
 Jov/o:【PIV】La plej granda el la dioj en la Romana religio: kio estas permesata al Jovo ne estas permesata al bovo; per Jovo! Vd Jupitero, Zeu^so.
