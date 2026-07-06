@@ -40196,7 +40196,7 @@ temperatur/o:{Ｂ}温度,気温;【医】体温
 temper/e:テンペラ技法で
 temper/i:［自］テンペラ技法で描く
 temper/o:【美】テンペラ（絵画技法の一つ）
-temper/o:一瞬,瞬時
+temp/er/o:一瞬,瞬時
 tempest/o:{Ｂ}暴風雨;【気】暴風（風力階級11）,>>s^tormo,>>uragano
 temp/i:［他］（無主語）〜する時間だ（不定法動詞を目的語に取る）
 tempi/o:{Ｏ}【解】側頭,こめかみ
