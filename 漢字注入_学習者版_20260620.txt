@@ -10056,8 +10056,8 @@ etim/o/logi/a vort/ar/o⟦源ᴱ/o/学ᴸᴳ/a 词/群/o⟧:語源辞典##偽分
 etim/o/logi/o⟦源ᴱ/o/学ᴸᴳ/o⟧:{Ｏ}語源学;語源##偽分解
 etim/o/log/o⟦源ᴱ/o/学家/o⟧:{Ｏ}語源学者##偽分解
 et/industri/o⟦小/业/o⟧:小規模産業
-eti/o/logi/o⟦因ᴱ/o/学ᴸᴳ/o⟧:{Ｏ}病因学##偽分解
-eti/o/log/o⟦因ᴱ/o/学家/o⟧:{Ｏ}病因学者##偽分解
+eti/o/logi/o⟦因ᴱ/o/学ᴸᴳ/o⟧:{Ｏ}病因学##偽分解##強語根分解
+eti/o/log/o⟦因ᴱ/o/学家/o⟧:{Ｏ}病因学者##偽分解##強語根分解
 Etiop/i/o:【国名】エチオピア（アフリカ）
 etiop/o:{Ｏ}エチオピア人
 Etiop/uj/o:【国名】=Etiopio（エチオピア）
@@ -14353,8 +14353,8 @@ Hieronim/o:【人名】ヒエロニムス（聖書のラテン語訳者，342頃
 higien/a⟦卫ᴴ/a⟧:衛生上の;衛生的な,健康によい
 higien/ist/o⟦卫ᴴ/家/o⟧:衛生学者
 higien/o⟦卫ᴴ/o⟧:{Ｂ}衛生学;衛生
-higr/o/metr/o⟦湿ᴴᴳ/o/计ᴹ/o⟧:{Ｏ}【気】湿度計##偽分解
-higr/o/skop/o⟦湿ᴴᴳ/o/镜ˢᴷ/o⟧:【気】検湿器##偽分解
+higr/o/metr/o⟦湿ᴴᴳ/o/计ᴹ/o⟧:{Ｏ}【気】湿度計##偽分解##強語根分解
+higr/o/skop/o⟦湿ᴴᴳ/o/镜ˢᴷ/o⟧:【気】検湿器##偽分解##強語根分解
 hig^ab/o:《Ｎ》【服】ヒジャブ,ヘジャブ（イスラム女性が着用するスカーフの一種）
 Hilari/o:（女子名）ヒラリー
 hilel/ism/o⟦hilel/主义/o⟧:【哲】（ザメンホフの）ヒレル主義,>>homaranismo
@@ -28471,9 +28471,9 @@ onomatope/o:【語】擬音語,擬声語
 -ont-⟦将⟧:{Ｂ}［分詞接尾辞］（能動・将然）
 Ontari/o:【地名】オンタリオ湖（五大湖の一，北米）
 Ontari/o:【地名】オンタリオ州（カナダ）
-ont/o/genez/o⟦将/o/源ᴳ/o⟧:【生】個体発生,=individugenezo##偽分解##過細分解 o/n/t/o/genez/o
+ont/o/genez/o⟦将/o/源ᴳ/o⟧:【生】個体発生,=individugenezo##偽分解##強語根分解##過細分解 o/n/t/o/genez/o
 ontogeni/o:【生】=individugenezo（個体発生）
-ont/o/logi/o⟦将/o/学ᴸᴳ/o⟧:【哲】存在論##偽分解##過細分解 o/n/t/o/logi/o
+ont/o/logi/o⟦将/o/学ᴸᴳ/o⟧:【哲】存在論##偽分解##強語根分解##過細分解 o/n/t/o/logi/o
 oomot/an/o⟦oomot/员ᴬ/o⟧:大本信徒
 Oomot/o:【宗】大本教
 -op-⟦组⟧:{Ｂ}［接尾辞］（集合を示す）,>>duope
@@ -46968,7 +46968,7 @@ east/o:【PIV】= eosto.
 eben/ec/o⟦平/性/o⟧:【PIV】Eco de io ebena
 ebon/ac/oj⟦乌/科ᴬ/oj⟧:【植】【PIV】Fam. (Familio) (Ebenaceae) de dukotiledonaj arboj k arbustoj, plejparte dioikaj, kelkaj kun ligno nigra; c^. (c^irkau^) 485 sp-oj (specioj) el 2 g-oj (genroj), i.a. (interalie, inter aliaj) diospiro.
 ebon/arbust/o⟦乌/灌木/o⟧:【植】【PIV】C^iu arbo au^ arbusto liveranta ebonon, apartenanta al la g-oj (genroj) diospiro (precipe ebona diospiro, Diospyros montana), dalbergio (precipe Dalbergia melanoxylon) au^ ankau^ al Brya ebenus, Euclea pseudebenus k.a. (kaj aliaj) Vd dalbergio.
-ebuli/o/skop/o⟦ebuli/o/镜ˢᴷ/o⟧:【理】【化】【PIV】Aparato, por determini la molekulmason, uzante la plialtig^on de la bolpunkto.##偽分解
+ebuli/o/skop/o⟦ebuli/o/镜ˢᴷ/o⟧:【理】【化】【PIV】Aparato, por determini la molekulmason, uzante la plialtig^on de la bolpunkto.##偽分解##強語根分解
 eci/o⟦菌ᴱ/o⟧:【植】【PIV】Sporujo de rustofungoj (uredaloj), kiu naskas ecisporojn. Sin. (sinonimo) sporpokalo.
 ecispor/o:【PIV】C^iu el la c^ene arig^intaj, dunukleaj sporoj estig^intaj post fekundig^o de la eciprimordio.
 ecidi/o⟦菌ᴱᴰ/o⟧:【植】【PIV】1 Grupo (eksa g. (genro) Aecidium) de neperfektaj rustofungoj (uredaloj). 2 (evi (evitinda)) = ecio.
@@ -47461,7 +47461,7 @@ eter/ism/o⟦eter/主义/o⟧:【PIV】1 Nenormala stato, estigita de la uzado d
 etern/o⟦永/o⟧:【PIV】eterneco
 etim/o/logi/a⟦源ᴱ/o/学ᴸᴳ/a⟧:【PIV】Rilata al etimologio: etimologia vortaro; etimologia figuro (per kiu ntr verbo ricevas objekton, konsistantan el samradika subst. (substantivo), ekz. (ekzemple) «vivi mizeran vivon», «j^uri grandan j^uron» ks (kaj simile, kaj similaj)).##偽分解
 etiol/a:【植】【PIV】(pp (se paroli pri) plantoj) Blankig^inta pro manko de sunlumo: oni mang^as la etiolajn petiolojn de folicelerio k etiolajn s^osojn de asparago; etioligi endiviojn, Bruselajn cikoriojn.
-eti/o/logi/a⟦因ᴱ/o/学ᴸᴳ/a⟧:【医】【PIV】Rilata al la etiologio.##偽分解
+eti/o/logi/a⟦因ᴱ/o/学ᴸᴳ/a⟧:【医】【PIV】Rilata al la etiologio.##偽分解##強語根分解
 etlinger/o⟦草ᴱᵀᴸ/o⟧:【植】【PIV】G. (Genro) (Etlingera el zingibracoj), tre parenca al amomo, de c^. (c^irkau^) 60 sp-oj (specioj) de plurjaraj herboj el Hindio k Malajzio.
 etn/ism/o⟦族ᴱ/主义/o⟧:【PIV】Politika tendenco, kiu subtenas la rajtojn de la etnoj; g^i povas esti liberiga (defendo de la subpremataj etnoj) au^ reakcia (strebo, ke iu etno regu sur difinita teritorio).
 etri/o/skop/o⟦etri/o/镜ˢᴷ/o⟧:【PIV】Termometro metita en konkava spegulo, servanta por mezuri spacoradiadon.##偽分解##強語根分解
@@ -48461,10 +48461,10 @@ gonad/o⟦性腺/o⟧:【解】【PIV】Organo de plurc^eluloj (i.a. (interalie,
 Gongor/o:【PIV】Hispana poeto (L. de Góngora, 1561−1627).
 gongor/ism/o⟦gongor/主义/o⟧:【PIV】Baroka, metaforeca esprimmaniero, karakteriza de Gongoro. Vd kultismo, precioza.
 gonidi/o⟦藻ᴳ/o⟧:【植】【PIV】(ark. (arkaismo, arkaisme)) La simbioza algo (vs (vastasence)) de likeno.
-goni/o/metr/o⟦角ᴳ/o/计ᴹ/o⟧:【測】【理】【PIV】1 Instrumento por mezuri angulojn, provizita per fadenoj, fendoj au^ lorno: kelkaj goniometroj estas porteblaj sur mano, aliaj staras sur portilo au^ stativo; la plej kompleta estas teodolito. Vd topografio, klinometro. 2 Instrumento por mezuri la angulon inter du facoj de kristalo, au^ por mezuri sur vitra prismo la refraktan indicon de tiu vitro.##偽分解
-goni/o/metr/a⟦角ᴳ/o/计ᴹ/a⟧:【PIV】Rilata al goniometro: goniometra mezurado.##偽分解
-goni/o/metr/i⟦角ᴳ/o/计ᴹ/i⟧:【PIV】(ntr (netransitiva)) Angule determini direkton ekde baza direkto; ekante de loka meridiano astronomia au^ magneta, oni ricevas azimuton. Vd biri.##偽分解
-goni/o/metri/o⟦角ᴳ/o/测ᴹᵀ/o⟧:【PIV】Arto pri mezuro de anguloj.##偽分解
+goni/o/metr/o⟦角ᴳ/o/计ᴹ/o⟧:【測】【理】【PIV】1 Instrumento por mezuri angulojn, provizita per fadenoj, fendoj au^ lorno: kelkaj goniometroj estas porteblaj sur mano, aliaj staras sur portilo au^ stativo; la plej kompleta estas teodolito. Vd topografio, klinometro. 2 Instrumento por mezuri la angulon inter du facoj de kristalo, au^ por mezuri sur vitra prismo la refraktan indicon de tiu vitro.##偽分解##強語根分解
+goni/o/metr/a⟦角ᴳ/o/计ᴹ/a⟧:【PIV】Rilata al goniometro: goniometra mezurado.##偽分解##強語根分解
+goni/o/metr/i⟦角ᴳ/o/计ᴹ/i⟧:【PIV】(ntr (netransitiva)) Angule determini direkton ekde baza direkto; ekante de loka meridiano astronomia au^ magneta, oni ricevas azimuton. Vd biri.##偽分解##強語根分解
+goni/o/metri/o⟦角ᴳ/o/测ᴹᵀ/o⟧:【PIV】Arto pri mezuro de anguloj.##偽分解##強語根分解
 gonokok/oz/o⟦淋菌/症ᴼ/o⟧:【医】【PIV】Gonokoka infekto de organismo.
 gonokok/emi/o⟦淋菌/血ᴱ/o⟧:【PIV】Gonokoka sanga infekto.##偽分解(PIV正式分解)
 Gontran/o:【PIV】Vira nomo.
@@ -48681,8 +48681,8 @@ Hadrian/a:【PIV】Rilata al Hadriano: la Hadriana Murego (117 km (kilometro) lo
 hafni/o⟦金ᴴ/o⟧:【化】【PIV】1 Elemento, Hf, atomnumero 72. atommaso 178,49, kvarvalenta: hafnia klorido, HfCl 4; hafniaj kombinaj^oj. 2 Malofta metalo, parenca al zirkonio.
 Hagad/o:【聖】【PIV】Legenda parto de Talmudo: stranga libro, kiu estas nomata Hagado .
 Hagar/o:【聖】【PIV】Sklavino de Saraj, kiu de Abrahamo naskis Is^maelon: ang^elo de Dio vokis Hagaron el la c^ielo .
-hagi/o/graf/o⟦圣ᴴ/o/记ᴳ/o⟧:【PIV】1 Au^toro de biblia libro, kiu estas nek la Torao nek la Profetoj: Ester estas hagiografa libro. 2 Au^toro de rakonto pri la vivo de sanktulo.##偽分解
-hagi/o/grafi/o⟦圣ᴴ/o/志ᴳ/o⟧:【PIV】Parto de la religia historio, koncernanta la vivon de la sanktuloj.##偽分解
+hagi/o/graf/o⟦圣ᴴ/o/记ᴳ/o⟧:【PIV】1 Au^toro de biblia libro, kiu estas nek la Torao nek la Profetoj: Ester estas hagiografa libro. 2 Au^toro de rakonto pri la vivo de sanktulo.##偽分解##強語根分解
+hagi/o/grafi/o⟦圣ᴴ/o/志ᴳ/o⟧:【PIV】Parto de la religia historio, koncernanta la vivon de la sanktuloj.##偽分解##強語根分解
 hagis/o:【PIV】Skota tradicia plado el s^afaj visceroj k avena grio. Sin. (sinonimo) skota s^afstomakaj^o.
 hajduk/o:【史】【PIV】1 Hungara bojaro, ano de milico. 2 Partizano (serba, bulgara, rumana), batalanta kontrau^ turkoj au^ por socia justeco. 3 En la 17a k 18a jc (jarcento)., hungara servisto en nacia kostumo.
 hajl/a⟦雹/a⟧:【PIV】Rilata al hajlo: hajla pluvego . Vd torento.
@@ -48973,9 +48973,9 @@ hif/o⟦菌丝/o⟧:【植】【PIV】Fadenforma elemento de funga micelio.
 hifolom/o⟦菌ᴴᶠ/o⟧:【植】【PIV】G. (Genro) (Hypholoma el strofariacoj) de ombrelfungoj sen stipingo, ofte kurtenohavaj, kun viole bruna sporaro; kosmopolita g. (genro) de c^. (c^irkau^) 30 sp-oj (specioj) precipe lignolog^aj.
 higrocib/o⟦菌ᴴᴳ/o⟧:【植】【PIV】G. (Genro) (Hygrocybe el higroforacoj) de ombrelfungoj kun bazidiujo g^enerale okulfrape kolora, lamenohava, sen ringo k sen stipingo; kosmopolita g. (genro) de c^. (c^irkau^) 60 sp-oj (specioj).
 higrofor/o⟦菌ᴴᴿ/o⟧:【植】【PIV】G. (Genro) (Hygrophorus el higroforacoj) de ombrelfungoj kun bazidiujo viskoza, sen ringo, sen stipingo, kun dikaj lamenoj ofte dekuraj k kun blanka sporaro; c^. (c^irkau^) 80 sp-oj (specioj) el la N hemisfero.
-higr/o/graf/o⟦湿ᴴᴳ/o/记ᴳ/o⟧:【PIV】Au^tomate registranta higrometro.##偽分解
-higr/o/metri/o⟦湿ᴴᴳ/o/测ᴹᵀ/o⟧:【PIV】Mezurado de la aermalsekeco.##偽分解
-higr/o/metri/a⟦湿ᴴᴳ/o/测ᴹᵀ/a⟧:【PIV】Rilata al higrometrio: higrometria grado.##偽分解
+higr/o/graf/o⟦湿ᴴᴳ/o/记ᴳ/o⟧:【PIV】Au^tomate registranta higrometro.##偽分解##強語根分解
+higr/o/metri/o⟦湿ᴴᴳ/o/测ᴹᵀ/o⟧:【PIV】Mezurado de la aermalsekeco.##偽分解##強語根分解
+higr/o/metri/a⟦湿ᴴᴳ/o/测ᴹᵀ/a⟧:【PIV】Rilata al higrometrio: higrometria grado.##偽分解##強語根分解
 hihi⟦嘻⟧:【PIV】Onomatopeo, imitanta mallau^tan ridadon, ofte kontrau^vole elig^antan.
 hihi/i⟦嘻/i⟧:【PIV】Eligi tian bruon.
 hik!:【PIV】Onomatopeo, imitanta la bruon de neplora singulto.
