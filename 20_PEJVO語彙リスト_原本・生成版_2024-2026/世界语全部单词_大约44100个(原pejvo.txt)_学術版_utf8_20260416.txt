@@ -11259,7 +11259,7 @@ flank/a vid/o:側面図
 flank/e:かたわらに
 flank/e de:〜のわきに;〜のほかに
 flank/e/n:わきに,かたわらへ
-flank/en/ig/i:［他］わきへ押しやる
+flank/e/n/ig/i:［他］わきへ押しやる
 flank/e/n/ir/i:［自］わきにそれる
 flank/e/n/las/i:なおざりにする,ほうっておく
 flank/e/n/met/i:［他］わきに押しやる,棚上げする

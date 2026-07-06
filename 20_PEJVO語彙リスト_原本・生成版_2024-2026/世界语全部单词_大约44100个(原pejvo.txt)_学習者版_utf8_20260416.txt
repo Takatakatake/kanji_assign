@@ -2737,7 +2737,7 @@ atom/pil/o:原子炉,=reaktoro
 atom/potenc/o:核保有国
 atom/reaktor/o:原子炉
 atom/struktur/o:【理】原子構造
-a/ton/i/o:【病】アトニー,弛緩症##偽分解
+a/toni/o:【病】アトニー,弛緩症##偽分解
 atrepsi/o:【病】無栄養症
 atribu/i:{Ｏ}［他］割り当てる;（〜の）せいにする
 atribut/o:{Ｏ}属性;表徴;【Ｇ】限定詞
@@ -11259,7 +11259,7 @@ flank/a vid/o:側面図
 flank/e:かたわらに
 flank/e de:〜のわきに;〜のほかに
 flank/e/n:わきに,かたわらへ
-flank/en/ig/i:［他］わきへ押しやる
+flank/e/n/ig/i:［他］わきへ押しやる
 flank/e/n/ir/i:［自］わきにそれる
 flank/e/n/las/i:なおざりにする,ほうっておく
 flank/e/n/met/i:［他］わきに押しやる,棚上げする

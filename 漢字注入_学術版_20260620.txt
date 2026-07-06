@@ -11259,7 +11259,7 @@ flank/a vid/o⟦侧/a 见/o⟧:側面図
 flank/e⟦侧/e⟧:かたわらに
 flank/e de⟦侧/e 从⟧:〜のわきに;〜のほかに
 flank/e/n⟦侧/e/n⟧:わきに,かたわらへ
-flank/en/ig/i⟦侧/en/使/i⟧:［他］わきへ押しやる
+flank/e/n/ig/i⟦侧/e/n/使/i⟧:［他］わきへ押しやる
 flank/e/n/ir/i⟦侧/e/n/往/i⟧:［自］わきにそれる
 flank/e/n/las/i⟦侧/e/n/留/i⟧:なおざりにする,ほうっておく
 flank/e/n/met/i⟦侧/e/n/置/i⟧:［他］わきに押しやる,棚上げする
