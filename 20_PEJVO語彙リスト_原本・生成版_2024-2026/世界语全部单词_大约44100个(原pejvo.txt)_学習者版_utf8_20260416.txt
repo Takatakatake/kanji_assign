@@ -27425,7 +27425,7 @@ ne/util/ig/ebl/a:利用できない,使えない
 ne/uz/ebl/a:使用できない
 neu^r/algi/o:【病】神経痛,=nervodoloro##偽分解(PIV正式分解)
 neu^r/asteni/o:【病】神経衰弱##偽分解(PIV正式分解)
-neu^r/o/kirurgi/o:【医】脳外科##偽分解(PIV正式分解)
+neu^r/o/kirurg/i/o:【医】脳外科##偽分解(PIV正式分解)
 neu^r/o/logi/o:神経学,神経内科（学）##偽分解
 neu^r/o/pter/oj:【虫】脈翅類（みゃくしるい）##偽分解##エス的分解
 neu^r/oz/a:ノイローゼの,神経症の##偽分解(PIV正式分解)
@@ -52907,7 +52907,7 @@ paf/ist/o:【PIV】Homo, kiu pafadas, ekz. (ekzemple) en armeo. Vd tiraljoro.
 pag/ad/o:【PIV】Dau^ra, ripeta pago: post la pagado de c^iuj elspezoj ; li timis devontigi sin al la pagado de altaj sumoj ; certigi la pagadon de la salajruloj.
 pag/ig/i:【PIV】Fari, ke iu pagu: mi pagigos al vi c^iujn ekstrajn elspezojn.
 pag/il/o:【PIV】Rimedo por pagi.
-pagipov/a:【PIV】Kapabla pagi, solventa.
+pag/i/pov/a:【PIV】Kapabla pagi, solventa.
 pagel/o:【動】【PIV】G. (Genro) (Pagellus) de maraj fis^oj el la fam. (familio) de sparedoj, ordo de perkoformaj, kun rug^bruna dorso k rozkoloraj flankoj.
 pagur/ed/oj:【動】【PIV】Fam. (Familio) (Paguridae) de dekkruraj krustacoj, al kiu apartenas i.a. (interalie, inter aliaj) la paguroj.
 pah^iderm/oj:【PIV】= pakidermoj.
@@ -57485,7 +57485,7 @@ glaci/anas/o:【PIV】Klangulo.
 kuler/anas/o:【PIV】Sp. (Specio) de anaso (Anas clypeata) kun granda kulerforma beko.
 mar/anas/o:【動】【PIV】G. (Genro) (Melanitta) de maraj anasoj nigraj au^ malhele brunaj.
 tuf/anas/o:【PIV】Fuligulo.
-plant/anatomi/o:【植】【PIV】Anatomio de la plantoj.
+plant/anatom/i/o:【植】【PIV】Anatomio de la plantoj.
 mar/anemon/oj:【PIV】Aktiniuloj.
 frid/an/estez/o:【PIV】Anestezo per malvarmo.##偽分解##過細分解 frid/a/n/estez/o
 g^arden/angelik/o:【PIV】Sp. (Specio) de angeliko (A. archangelica) el N Eu^ropo, ofte kultivata, antau^e kiel legomo, nun precipe por konfitado k aromigo.
