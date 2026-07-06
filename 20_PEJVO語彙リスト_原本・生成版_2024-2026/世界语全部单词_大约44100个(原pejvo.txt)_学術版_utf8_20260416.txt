@@ -57141,7 +57141,7 @@ Kju:【PIV】= C^ju.
 ##重複語klac^/i:【PIV】(ntr) Babiladi, disportante au^ ripetante malicaj^ojn: li klac^as kiel maljuna pordistino. Vd kritiki, kalumnii. klac^o. Dissciigata malbonvola diro: la urbaj klac^oj B; la kulisaj klac^oj; klac^oj de gazetac^oj.
 ##重複語klis^/i:【印】【PIV】(tr) Fari klis^on pri io. klis^o 1 Reliefa reprodukto, sur metala plato, de la stampo de kompostaj^o el moveblaj tipoj.
 kompren/ig^/il/o:【PIV】Z. Io, kio ebligas interkomprenon.
-sin/kon/o:【PIV】Konado pri sia propra karaktero.
+si/n/kon/o:【PIV】Konado pri sia propra karaktero.
 ##重複語korsaj^/o:【PIV】Parto de virina vesto, kiu kovras la supran parton de la korpo, de la s^ultroj g^is la koksoj: korsaj^o de balrobo; dekolta, altkoluma korsaj^o. Vd bluzo.
 Krass/o:【史】【PIV】Romana vira nomo, i.a. de triumviro, mortigita dum la Parta milito.
 Krizeis:【文】【PIV】La sklavino de Agamemnono.
@@ -57591,7 +57591,7 @@ kun/asekur/o:【PIV】Asekuro, subskribita samtempe k sendepende inter si de plu
 re/asekur/i:【PIV】Asekuri parton de la risko de asekura kompanio.
 re/asekur/o:【PIV】Ago reasekuri.
 retro/asekur/o:【PIV】Reasekuro de jam reasekure akceptita kontraktaro.
-sin/asekur/o:【PIV】Ago de organizaj^o s^pari rezervan monon en fonduso, tiel ke eblos estonte mem pagi damag^ojn pri iu risko sen la bezono de asekuro.
+si/n/asekur/o:【PIV】Ago de organizaj^o s^pari rezervan monon en fonduso, tiel ke eblos estonte mem pagi damag^ojn pri iu risko sen la bezono de asekuro.
 mal/asidu/a:【PIV】Ne regule venanta plenumi sian taskon, devon ks (kaj simile, kaj similaj): malasidua tajpistino; malasidueco c^e la fabriko; malasiduismo estas formo de sabotado. Vd akurata, diligenta.
 bank/asign/o:【PIV】Skriba komisio k rajtigo al banko pagi, por la konto de la komisiinto, al la montrita persono la difinitan sumon skribitan en la dokumento.
 mal/asimil/i:【PIV】1 Elimini el sia korpo proprajn substancojn. 2 Modifi au^ malaperigi parolsonon, kiu tro similas alian apudan sonon.
@@ -57997,7 +57997,7 @@ ne/determin/ism/a:【情】【PIV】Rilata al komputado, en kiu je iuj punktoj e
 anti/detonaci/ant/o:【PIV】Substanco, miksita kun alia eksplodema substanco por malpliigi ties detonaciivon: antidetonacianto estas aldonita al benzino de eksplodmotoroj.
 veter/detru/ig^/i:【PIV】Korodig^i pro longa restado en la aero.
 mal/dev/ig/i:【PIV】Fari, ke iu ne devu.
-sin/dev/ig/ad/o:【PIV】Altrudo al si mem de ioma modereco en deziroj au^ bezonoj: la sindevigo estas la komenco de la g^entileco k ec^ de la moralo.
+si/n/dev/ig/ad/o:【PIV】Altrudo al si mem de ioma modereco en deziroj au^ bezonoj: la sindevigo estas la komenco de la g^entileco k ec^ de la moralo.
 ced/o/dev/o:【法】【PIV】Leg^a preskribo, lau^ kiu veturilo, alvenanta en vojkrucig^on, devas lasi pasi antau^ si veturilojn, kiuj venas de alia difinita direkto au^ de alia vojspeco. Vd prioritato.
 kompens/o/dev/o:【法】【PIV】Lau^leg^a devo kompensi damag^on au^ perdon, kiun oni kau^zis al alia persono.
 trud/dev/ig/i:【PIV】Perforte devigi iun fari ion: havi povon de trud devigo.
@@ -58750,7 +58750,7 @@ flank/e/n/glit/i:【PIV】= jori.
 vost/o/glit/ad/o:【PIV】Movig^o de aviadilo malantau^en lau^ g^ia longakso, sub la efiko de la gravito.
 cel/glob/o:【PIV】En globludo, pli malgranda globo, kiun la ludantoj devas celi per siaj pli grandaj globoj.
 hetero/globin/o:【化】【生】【PIV】Heteroproteino, konsistanta el hemo k globino, kiu transportas au^ staplas oksigenon.
-hemo/globinemi/o:【医】【PIV】C^eesto de hemo globino en la sangoplasmo au^ resp. (respektive) en la urino, pro hemolizo.
+hemoglobinemi/o:【医】【PIV】C^eesto de hemo globino en la sangoplasmo au^ resp. (respektive) en la urino, pro hemolizo.
 hemoglobinuri/o:【医】【PIV】C^eesto de hemo globino en la sangoplasmo au^ resp. (respektive) en la urino, pro hemolizo.
 mam/glob/oj:【PIV】Junag^aj rondaj mamoj.
 mi/o/globin/o:【化】【生】【PIV】Muskol globino.
@@ -58845,8 +58845,8 @@ du/g^emin/a:【PIV】Prezentanta du duopojn: dug^emina pulso de la digitala toks
 kvar/g^emin/a:【PIV】Prezentanta kvar duopojn: kvarg^emina pulso.
 tri/g^emin/ism/o:【PIV】Nenormala stato kun trig^emina pulso.
 ne/g^en/at/a:【PIV】Seng^ena 2.
-sin/g^en/o:【PIV】Stato de tiu, kiu sin g^enas: kun fiera forj^eto de c^ia timema sing^enado . Vd diskreta.
-sin/g^en/ad/o:【PIV】Stato de tiu, kiu sin g^enas: kun fiera forj^eto de c^ia timema sing^enado . Vd diskreta.
+si/n/g^en/o:【PIV】Stato de tiu, kiu sin g^enas: kun fiera forj^eto de c^ia timema sing^enado . Vd diskreta.
+si/n/g^en/ad/o:【PIV】Stato de tiu, kiu sin g^enas: kun fiera forj^eto de c^ia timema sing^enado . Vd diskreta.
 tro/sen/g^en/a:【PIV】Ne sufic^e g^enanta sin kontrau^ la aliaj; senhonta: troseng^ena konduto; troseng^ene paroli.
 mal/g^entil/e:【PIV】En malg^entila maniero: s^i respondis malg^entile .
 mal/g^entil/ul/in/o:【PIV】Malg^entila homo: la malg^entilulino . Vd aroganta, brutala, bruska, malafabla, maldelikata.
@@ -59160,7 +59160,7 @@ pseu^do/kapsik/o:【植】【PIV】Sp. (Specio) de solano (Solanum pseudocapsicu
 sen/kapsul/ig/i:【PIV】1 Formeti la kapsulon de botelo. 2 Fortranc^i la renan kapsulon.
 el/kapt/i:【PIV】Ruze akiri ion de iu: ni intencis de li elkapti ion pri la kau^zo (de lia frenezig^o); se mi nun elkaptus de li benon? .
 kun/kapt/it/o:【PIV】Kunulo de kaptiteco.
-sin/kapt/ad/o:【PIV】Provado kapti sin reciproke: papilioj ludis unu kun la alia sinkaptadon .
+si/n/kapt/ad/o:【PIV】Provado kapti sin reciproke: papilioj ludis unu kun la alia sinkaptadon .
 divers/karakter/aj:【PIV】Prezentantaj diversajn karakterojn: kolekto da plej diverskarakteraj pecoj k artikoloj .
 fulg/o/karb/o:【PIV】Bitumhava karbo, donanta dikan fulgon.
 ost/o/karb/o:【PIV】Karbaj^o, ricevita per karbigo de ostoj k karno en fermita ujo.
@@ -59503,7 +59503,7 @@ led/kulot/o:【PIV】Kuloto el ledo, ofte portata de bavaroj.
 sport/kulot/o:【PIV】S^orto.
 sen/kulp/ul/o:【PIV】Homo sen kulpo: festo de la Betlehemaj Senkulpuloj.
 sen/kulp/e:【PIV】En senkulpa maniero: kiel senkulpe k malfacile li suferis! ; Li, kiu povas fari al mi senkulpe multe da vundoj .
-sin/mem/kulp/ig/o:【PIV】Akuzo de si mem: vi, krieganta sinmemkulpigo! . Vd memkritiko.
+si/n/mem/kulp/ig/o:【PIV】Akuzo de si mem: vi, krieganta sinmemkulpigo! . Vd memkritiko.
 arb/o/kultiv/o:【PIV】Kultivo de arboj k arbustoj.
 forst/o/kultiv/o:【PIV】Arbar kultivo.
 frukt/o/kultiv/o:【PIV】Produktado de fruktoj de kultivataj arboj k arbustoj.
@@ -59785,7 +59785,7 @@ feu^d/mastr/o:【史】【PIV】Nobelo, posedanta bienon, de kiu dependas aliaj 
 galer/mastr/o:【PIV】S^ipestro de galero.
 s^pin/mastr/o:【PIV】Industriisto, kiu posedas s^pinejon.
 mem/masturb/o:【PIV】Masturbo al si. Vd onani.
-sin/masturb/o:【PIV】Masturbo al si. Vd onani.
+si/n/masturb/o:【PIV】Masturbo al si. Vd onani.
 ne/dis/mas^/ig^/a:【PIV】Tia, ke g^iaj mas^oj ne malnodig^as au^ rompig^as: nedismas^ig^aj nilonaj s^trumpoj.
 il/mas^in/o:【PIV】Mas^ino, anstatau^anta la manon de laboristo k transformanta per mekanike manovrataj iloj metalajn, lignajn, plastajn ks (kaj simile, kaj similaj) krudpecojn.
 kolizi/mat/o:【PIV】Dika mato, antau^preta, por s^topi la eventualan brec^on faritan de kolizio.
@@ -60058,7 +60058,7 @@ sen/nukle/ul/oj:【生】【PIV】Prokariotoj.
 flav/nukleotid/o:【化】【PIV】Kombinaj^o de riboflavino k nukleozida difosfato, ekz. (ekzemple) flavin-adenin-dinukleotido, FAD, la elektronportanto de multaj flavoproteinoj.
 ne/nul/ig/ebl/a:【PIV】Tia, ke oni ne povas g^in nuligi: Zeu^so j^uris per nenuligebla j^uro.
 bek/nutr/i:【PIV】(tr (transitiva)) Nutri birdidon, s^utante nutraj^on en g^ian bekon.
-sin/nutr/ad/o:【PIV】Nutrado de si.
+si/n/nutr/ad/o:【PIV】Nutrado de si.
 s^par/nutr/aj^/o:【医】【PIV】Tia nutraj^o, kiu ebligas mang^i malpli, utiligante la substancojn jam akiritajn de la korpo (ekz. (ekzemple) teo, kafo, kolao).
 s^top/nutr/i:【PIV】Perforte engorg^igi nutraj^on, por akiri pli grasan bruton: s^top nutri anseron.
 s^erc/objekt/o:【PIV】Objekto, arang^ita, por amuze trompi.
@@ -60255,7 +60255,7 @@ kluc^/pedal/o:【PIV】Pedalo, servanta por regi la kluc^adon de la au^ta motoro
 ne/pek/iv/a:【PIV】Tia, ke li/s^i ne povas peki: nepekiva stilisto.
 el/pel/o:【PIV】Ago de tiu, kiu elpelas: la el pelo de la reg^oj el Romo.
 for/pel/ad/o:【PIV】Ago de tiu, kiu forpelas: kiam kato jam formang^is, forpelado ne helpos .
-sin/pel/ad/o:【PIV】Penado de tiu, kiu sin pelas: s^i ne supozis, ke tiu sinpelado enhavas en si tiom da maltrankvileco .
+si/n/pel/ad/o:【PIV】Penado de tiu, kiu sin pelas: s^i ne supozis, ke tiu sinpelado enhavas en si tiom da maltrankvileco .
 tra/pel/i:【PIV】Peli tra io: trapeli beston tra veprojn; vivi iele trapele (kiel oni estas tra pelata, hazarde).
 c^as/pel/ant/oj:【PIV】Helpantoj, kiuj per bruado pelas la c^asaj^on el la veproj al la c^asistoj.
 lac/e/pel/i:【PIV】C^asante, peli, g^is la lacig^o faligos la beston: oni senvivigos mian kamaradon kiel lacepelitan porkon (apron) ! .
@@ -61097,7 +61097,7 @@ kortik/o/steroid/o:【化】【生】【PIV】Kn (Kolektiva nomo) de la hormonoj
 animal/sterol/o:【PIV】Zoosterolo.
 ergot/o/sterol/o:【PIV】Ergosterolo.
 fit/o/sterol/o:【PIV】(kn (kolektiva nomo)) Sterolo karakteriza de la superaj plantoj. Sin. (sinonimo) planto sterolo.
-kole/sterolemi/o:【生】【医】【PIV】Kvanto de kole sterolo en la sango.
+kolesterolemi/o:【生】【医】【PIV】Kvanto de kole sterolo en la sango.
 lan/o/sterol/o:【PIV】Antau^anto en la biosintezo de kole sterolo.
 plant/o/sterol/o:【PIV】Fito sterolo.
 zo/o/sterol/o:【PIV】(kn (kolektiva nomo)) Sterolo parenca al kole sterolo, karakteriza de la animaloj. Sin. (sinonimo) animal sterolo.
@@ -61656,7 +61656,7 @@ am/kun/ven/o:【PIV】Kunveno de geamantoj: kiu dum amkunveno observas la horlog
 am/vend/ist/in/o:【PIV】Virino, kiu amoras pro profito. Vd prostituitino, publikulino, putino, stratulino.
 anti/venen/o:【PIV】Substanco efika kontrau^ veneno.
 mem/venen/ad/o:【PIV】Ago de iu, kiu mortigas sin mem per veneno.
-sin/venen/ad/o:【PIV】Ago de iu, kiu mortigas sin mem per veneno.
+si/n/venen/ad/o:【PIV】Ago de iu, kiu mortigas sin mem per veneno.
 dis/venk/i:【PIV】Disigi per sia venko: disvenki la invadantan armeon.
 larg/vent/o:【PIV】Vento blovanta oblikve al la flanko de s^ipo.
 sen/vepr/ig/i:【PIV】Detranc^i au^ elradikigi la veprojn de kampo, arbaro ks (kaj simile, kaj similaj).
