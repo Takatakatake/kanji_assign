@@ -1,0 +1,566 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>에스페란토 한자화 프로젝트 — 한눈에 보는 앱·도구 가이드</title>
+<meta name="description" content="에스페란토 어근에 한자를 할당하는 프로젝트에서 현재 사용할 수 있는 앱·도구와 '무엇을 할 수 있는지'를 사용자 관점에서 한눈에 볼 수 있게 정리한 가이드.">
+<style>
+:root{
+  --green:#1a7a3a;
+  --green-soft:#e8f3ec;
+  --green-line:#bcd9c6;
+  --ink:#22272e;
+  --ink-soft:#5a6472;
+  --paper:#f7f7f3;
+  --card:#ffffff;
+  --line:#e3e3da;
+  --chip:#eef4f0;
+  --mono:Consolas,"Courier New",monospace;
+}
+*{box-sizing:border-box;margin:0;padding:0}
+html{scroll-behavior:smooth}
+body{
+  font-family:"Apple SD Gothic Neo","Malgun Gothic","맑은 고딕","Noto Sans KR","Noto Sans CJK KR",sans-serif;
+  background:var(--paper);color:var(--ink);
+  line-height:1.85;font-size:16px;
+  -webkit-text-size-adjust:100%;
+}
+a{color:var(--green);text-decoration:none}
+a:hover{text-decoration:underline}
+.wrap{max-width:1000px;margin:0 auto;padding:0 20px}
+
+/* ───── hero ───── */
+header.hero{
+  background:linear-gradient(160deg,#123f24 0%,#1a7a3a 70%,#2e9e57 100%);
+  color:#fff;position:relative;overflow:hidden;
+}
+header.hero .wrap{padding:64px 20px 56px;position:relative;z-index:1}
+header.hero .mark{
+  position:absolute;right:-30px;top:-60px;font-size:340px;line-height:1;
+  color:rgba(255,255,255,.06);font-weight:700;user-select:none;pointer-events:none;
+  z-index:0;letter-spacing:-.05em;
+}
+.hero .langswitch{position:absolute;top:16px;right:20px;z-index:2;display:flex;gap:6px}
+.hero .langswitch a{
+  font-size:13px;padding:5px 13px;border-radius:999px;border:1px solid rgba(255,255,255,.45);
+  color:#fff;transition:background .15s;
+}
+.hero .langswitch a:hover{background:rgba(255,255,255,.22);text-decoration:none}
+.hero .langswitch a.active{background:#fff;color:var(--green);font-weight:700;border-color:#fff}
+.hero .kicker{font-size:14px;letter-spacing:.18em;opacity:.85;margin-bottom:10px}
+.hero h1{font-size:clamp(26px,5vw,40px);font-weight:700;line-height:1.35;margin-bottom:14px}
+.hero .lead{font-size:15.5px;opacity:.92;max-width:660px}
+.hero .date{margin-top:18px;font-size:13px;opacity:.75}
+.hero .quicklinks{margin-top:26px;display:flex;flex-wrap:wrap;gap:10px}
+.hero .quicklinks a{
+  display:inline-block;background:rgba(255,255,255,.14);border:1px solid rgba(255,255,255,.35);
+  color:#fff;border-radius:999px;padding:7px 18px;font-size:14px;transition:background .15s;
+}
+.hero .quicklinks a:hover{background:rgba(255,255,255,.26);text-decoration:none}
+
+/* ───── sticky nav ───── */
+nav.toc{
+  position:sticky;top:0;z-index:10;background:#ffffffee;backdrop-filter:blur(6px);
+  border-bottom:1px solid var(--line);
+}
+nav.toc .wrap{display:flex;gap:4px;overflow-x:auto;padding:0 20px}
+nav.toc a{
+  flex:0 0 auto;padding:12px 13px;font-size:13.5px;color:var(--ink-soft);
+  border-bottom:2px solid transparent;white-space:nowrap;
+}
+nav.toc a:hover{color:var(--green);text-decoration:none;border-bottom-color:var(--green-line)}
+
+/* ───── sections ───── */
+main{padding:14px 0 30px}
+section{margin-top:54px}
+section:first-of-type{margin-top:38px}
+h2{
+  font-size:clamp(20px,3.4vw,25px);font-weight:700;line-height:1.4;
+  padding-left:14px;border-left:5px solid var(--green);margin-bottom:6px;
+}
+h2 .no{color:var(--green);font-family:var(--mono);margin-right:10px}
+.sec-lead{color:var(--ink-soft);font-size:14.5px;margin-bottom:20px;padding-left:19px}
+
+/* ───── role cards ───── */
+.flow{display:grid;grid-template-columns:repeat(auto-fit,minmax(160px,1fr));gap:12px;margin-top:22px}
+.flow .step{
+  background:var(--card);border:1px solid var(--line);border-radius:12px;
+  padding:18px 14px 14px;text-align:center;
+  box-shadow:0 1px 3px rgba(0,0,0,.04);
+}
+.flow .step .verb{font-size:17px;font-weight:700;margin-bottom:4px;color:var(--green)}
+.flow .step .tool{font-size:12.5px;font-weight:600;margin-bottom:4px}
+.flow .step .what{font-size:12.5px;color:var(--ink-soft);line-height:1.6}
+
+/* ───── tables ───── */
+.tablewrap{overflow-x:auto;margin-top:18px;border:1px solid var(--line);border-radius:12px;background:var(--card);box-shadow:0 1px 3px rgba(0,0,0,.04)}
+table{border-collapse:collapse;width:100%;font-size:14.5px;min-width:560px}
+th,td{padding:12px 16px;text-align:left;vertical-align:top;border-bottom:1px solid var(--line)}
+thead th{
+  background:var(--green-soft);color:var(--green);font-size:13px;letter-spacing:.06em;
+  border-bottom:1px solid var(--green-line);white-space:nowrap;
+}
+tbody tr:last-child td{border-bottom:none}
+tbody tr:hover{background:#fafcf9}
+td.key{font-weight:700;white-space:nowrap}
+td .sub{display:block;font-size:12px;color:var(--ink-soft);font-weight:400}
+
+/* ───── tool cards ───── */
+.tool-card{
+  background:var(--card);border:1px solid var(--line);border-radius:14px;
+  margin-top:26px;box-shadow:0 1px 4px rgba(0,0,0,.05);overflow:hidden;
+}
+.tool-card .head{
+  display:flex;align-items:center;gap:16px;padding:18px 22px;
+  background:linear-gradient(90deg,var(--green-soft),#ffffff 70%);
+  border-bottom:1px solid var(--line);flex-wrap:wrap;
+}
+.tool-card .glyph{
+  flex:0 0 auto;width:52px;height:52px;border-radius:12px;background:var(--green);color:#fff;
+  display:flex;align-items:center;justify-content:center;font-size:28px;font-weight:700;
+}
+.tool-card .titles{flex:1 1 200px;min-width:0}
+.tool-card h3{font-size:17.5px;font-weight:700;line-height:1.45}
+.tool-card h3 small{display:block;font-size:12.5px;color:var(--ink-soft);font-weight:500;font-family:var(--mono)}
+.tool-card .chip{
+  flex:0 0 auto;background:var(--chip);border:1px solid var(--green-line);color:var(--green);
+  font-size:12px;font-weight:700;border-radius:999px;padding:4px 14px;white-space:nowrap;
+}
+.tool-card .body{padding:20px 22px 22px}
+.tool-card .oneline{font-size:15px;margin-bottom:14px}
+.meta{display:flex;flex-wrap:wrap;gap:10px;margin-bottom:16px}
+.meta .m{
+  flex:1 1 240px;background:var(--paper);border:1px solid var(--line);border-radius:9px;
+  padding:9px 14px;font-size:13.5px;
+}
+.meta .m b{color:var(--green);font-size:12px;letter-spacing:.06em;display:block;margin-bottom:2px}
+.fit{font-size:14px;background:var(--green-soft);border-left:4px solid var(--green);
+  border-radius:0 8px 8px 0;padding:10px 14px;margin-bottom:16px}
+.fit b{color:var(--green)}
+.tool-card h4{font-size:13.5px;color:var(--ink-soft);letter-spacing:.08em;margin-bottom:8px}
+.tool-card ul{list-style:none;padding:0}
+.tool-card ul li{
+  position:relative;padding-left:22px;font-size:14.5px;margin-bottom:7px;line-height:1.75;
+}
+.tool-card ul li::before{
+  content:"✓";position:absolute;left:0;top:0;color:var(--green);font-weight:700;
+}
+.tool-card .links{margin-top:18px;display:flex;flex-wrap:wrap;gap:10px}
+.btn{
+  display:inline-block;border-radius:8px;padding:8px 18px;font-size:13.5px;font-weight:600;
+  border:1px solid var(--green);transition:all .15s;
+}
+.btn.primary{background:var(--green);color:#fff}
+.btn.primary:hover{background:#14602d;text-decoration:none}
+.btn.ghost{color:var(--green);background:#fff}
+.btn.ghost:hover{background:var(--green-soft);text-decoration:none}
+.btn.disabled{border-color:var(--line);color:var(--ink-soft);background:var(--paper);cursor:default}
+.esp{font-family:var(--mono);background:var(--paper);border:1px solid var(--line);border-radius:4px;padding:0 5px;font-size:.92em}
+
+/* ───── summary / footer ───── */
+.summary{
+  margin-top:56px;background:linear-gradient(160deg,#123f24,#1a7a3a);color:#fff;
+  border-radius:16px;padding:30px 30px;font-size:15.5px;line-height:2;
+}
+.summary b{color:#bfe8cd}
+footer{margin-top:50px;padding:30px 0 46px;border-top:1px solid var(--line);
+  color:var(--ink-soft);font-size:13px;text-align:center}
+footer a{color:var(--green)}
+</style>
+</head>
+<body>
+
+<header class="hero">
+  <div class="mark">漢字</div>
+  <div class="langswitch">
+    <a href="index.html">日本語</a>
+    <a href="index.zh.html">中文</a>
+    <a href="index.ko.html" class="active">한국어</a>
+  </div>
+  <div class="wrap">
+    <div class="kicker">ESPERANTO × 漢字 &nbsp;PROJEKTO</div>
+    <h1>에스페란토 한자화 프로젝트<br>한눈에 보는 앱·도구 가이드</h1>
+    <p class="lead">현재 사용할 수 있는 앱·도구와 '무엇을 할 수 있는지'를 사용자 관점에서 정리했습니다.<br><b>이 문서를 읽는 방법:</b> 먼저 빠른 참조표에서 목적에 맞는 도구를 고르고, 필요에 따라 각 도구의 설명과 URL을 확인하세요. 개발자를 위한 구현 세부 사항보다, 사용자가 헤매지 않고 도구를 골라 쓸 수 있도록 하는 설명을 우선했습니다.</p>
+    <div class="date">작성일: 2026-07-05</div>
+    <div class="quicklinks">
+      <a href="kanji.html">어근 한자 할당표 열기</a>
+      <a href="#quick">목적별 빠른 참조표 보기</a>
+      <a href="#tools">도구별 설명 보기</a>
+      <a href="#urls">URL 목록 보기</a>
+    </div>
+  </div>
+</header>
+
+<nav class="toc">
+  <div class="wrap">
+    <a href="#overview">1. 전체 개요</a>
+    <a href="#quick">2. 목적별 빠른 참조표</a>
+    <a href="#list">3. 도구 목록</a>
+    <a href="#tools">4. 도구별 설명</a>
+    <a href="#howto">5. 추천 활용법</a>
+    <a href="#urls">6. URL·저장소</a>
+  </div>
+</nav>
+
+<main class="wrap">
+
+<!-- ══════════ 1 ══════════ -->
+<section id="overview">
+  <h2><span class="no">1</span>전체 개요: 이 도구들은 무엇을 하는가</h2>
+  <p class="sec-lead">중심에 있는 것은 '에스페란토 어근에 한자를 할당하는 사전'입니다. 이 사전을 바탕으로 한자화 문장을 쓰고, 일반 에스페란토 문장을 일괄 변환하고, 한자화 문장을 원래대로 되돌리고, 나아가 학습·음성·대화 자막으로 넓혀 가는 흐름으로 이어집니다.</p>
+
+  <div class="flow">
+    <div class="step">
+      <div class="verb">찾아보기</div>
+      <div class="tool">kanji_assign</div>
+      <div class="what">어근·한자·식별자 확인</div>
+    </div>
+    <div class="step">
+      <div class="verb">쓰기</div>
+      <div class="tool">Monaco 입력</div>
+      <div class="what">어근에서 한자 후보를 삽입</div>
+    </div>
+    <div class="step">
+      <div class="verb">변환하기</div>
+      <div class="tool">CJK Annotator</div>
+      <div class="what">루비 달기·한자화·순수 치환</div>
+    </div>
+    <div class="step">
+      <div class="verb">되돌리기</div>
+      <div class="tool">Reverter</div>
+      <div class="what">한자화 문장을 소문자 에스페란토로</div>
+    </div>
+    <div class="step">
+      <div class="verb">넓히기</div>
+      <div class="tool">Quiz / TTS / 음성 전사</div>
+      <div class="what">학습·음성화·대화 자막</div>
+    </div>
+  </div>
+</section>
+
+<!-- ══════════ 2 ══════════ -->
+<section id="quick">
+  <h2><span class="no">2</span>먼저 고르기: 목적별 빠른 참조표</h2>
+  <div class="tablewrap">
+    <table>
+      <thead><tr><th>목적</th><th>사용할 도구</th><th>할 수 있는 것</th></tr></thead>
+      <tbody>
+        <tr><td class="key">어근에 어떤 한자가 대응하는지 알고 싶다</td><td><a href="kanji.html">kanji_assign / kanji.html</a></td><td>어근·한자·식별자·의미를 검색한다</td></tr>
+        <tr><td class="key">손으로 정성껏 한자화 문장을 쓰고 싶다</td><td><a href="https://takatakatake.github.io/kanji-esperanto-monaco/">kanji-esperanto-monaco</a></td><td>어근을 입력하고 후보에서 한자를 삽입한다</td></tr>
+        <tr><td class="key">일반 에스페란토 문장을 일괄로 한자화하고 싶다</td><td><a href="https://esperanto-radiko-cjk-annotator-ko.streamlit.app/">CJK Annotator</a></td><td>주석 루비, 한자 루비, 태그 없는 한자화 문장을 만든다</td></tr>
+        <tr><td class="key">한자화 문장을 되돌려서 확인하고 싶다</td><td><a href="https://kanjized-esperanto-reverter.streamlit.app/">kanjized-esperanto-reverter</a></td><td>한자화 문장을 소문자 에스페란토 표기로 되돌린다</td></tr>
+        <tr><td class="key">단어·예문을 연습하고 싶다</td><td><a href="https://esperanto-quiz-ko.streamlit.app/">esperanto_quiz</a></td><td>한·중·일 대응 단어·예문 4지선다 퀴즈를 푼다</td></tr>
+        <tr><td class="key">에스페란토 문장을 음성으로 만들고 싶다</td><td><a href="https://paroligu.streamlit.app/">paroligu</a></td><td>Spomenka 음성으로 WAV/MP3를 만든다</td></tr>
+        <tr><td class="key">회의·수업에 자막을 띄우고 싶다</td><td><a href="#tool-transskribo">Ubuntu판 / Windows판 음성 전사</a></td><td>Zoom/Meet 음성을 전사하여 번역이나 자막으로 내보낸다</td></tr>
+      </tbody>
+    </table>
+  </div>
+</section>
+
+<!-- ══════════ 3 ══════════ -->
+<section id="list">
+  <h2><span class="no">3</span>지금 사용할 수 있는 주요 앱·도구 목록</h2>
+  <div class="tablewrap">
+    <table>
+      <thead><tr><th>분류</th><th>도구</th><th>한 줄 설명</th></tr></thead>
+      <tbody>
+        <tr><td class="key">어근 한자 할당표</td><td><a href="#tool-assign">kanji_assign / kanji.html</a></td><td>사전 확인용. 어근·한자·식별자·의미를 검색한다.</td></tr>
+        <tr><td class="key">한자화 입력 에디터</td><td><a href="#tool-monaco">kanji-esperanto-monaco</a></td><td>어근을 입력해 한자 후보를 골라 한자화 문장을 쓴다.</td></tr>
+        <tr><td class="key">한·중·일 루비·한자화</td><td><a href="#tool-annotator">esperanto-radiko-cjk-annotator</a></td><td>일반 문장을 주석 루비·한자 루비·태그 없는 한자화 문장으로 변환한다.</td></tr>
+        <tr><td class="key">역변환</td><td><a href="#tool-reverter">kanjized-esperanto-reverter</a></td><td>한자화 문장을 소문자 에스페란토 표기로 되돌린다.</td></tr>
+        <tr><td class="key">4지선다 학습</td><td><a href="#tool-quiz">esperanto_quiz</a></td><td>단어·예문 퀴즈, 음성, 랭킹, 모바일 UI.</td></tr>
+        <tr><td class="key">음성 합성</td><td><a href="#tool-paroligu">paroligu</a></td><td>에스페란토 문장을 Spomenka 음성으로 읽어 WAV/MP3로 저장한다.</td></tr>
+        <tr><td class="key">음성 전사</td><td><a href="#tool-transskribo">Ubuntu판 / Windows판</a></td><td>Zoom/Meet 등의 에스페란토 음성을 전사·번역·자막화한다.</td></tr>
+      </tbody>
+    </table>
+  </div>
+</section>
+
+<!-- ══════════ 4 ══════════ -->
+<section id="tools">
+  <h2><span class="no">4</span>도구별 설명</h2>
+
+  <!-- 4-1 -->
+  <div class="tool-card" id="tool-assign">
+    <div class="head">
+      <div class="glyph">調</div>
+      <div class="titles">
+        <h3>4-1. 에스페란토 어근 한자 할당표<small>kanji_assign / kanji.html</small></h3>
+      </div>
+      <span class="chip">사전·기반 데이터</span>
+    </div>
+    <div class="body">
+      <p class="oneline">어근에 어떤 한자가 할당되어 있는지 확인하는 뷰로, 프로젝트 전체의 대응표입니다.</p>
+      <div class="meta">
+        <div class="m"><b>입력</b>검색어(어근·한자·식별자·의미)</div>
+        <div class="m"><b>출력</b>해당하는 어근, 한자, 식별자, 분류, 빈도, 획수, 의미</div>
+      </div>
+      <p class="fit"><b>적합한 용도:</b> 한자화 문장을 쓰기 전의 확인, 식별자 확인, 사전 유지 관리.</p>
+      <h4>구체적으로 할 수 있는 것</h4>
+      <ul>
+        <li>어근, 한자, 식별자, 의미로 검색할 수 있다.</li>
+        <li><span class="esp">basic / pejvo / piv / prep / suf / pref / correl</span> 등의 분류로 좁혀서 볼 수 있다.</li>
+        <li>같은 한자를 공유하는 어근 그룹을 확인할 수 있다.</li>
+        <li>식별자가 붙은 항목만 표시할 수 있다. 예: 出ᴱᴷ, 穿ᴾ, 在ᶜ̂.</li>
+      </ul>
+      <div class="links">
+        <a class="btn primary" href="kanji.html">할당표 열기(kanji.html)</a>
+        <a class="btn ghost" href="words.html">복합어 뷰(words.html)</a>
+        <a class="btn ghost" href="https://github.com/Takatakatake/kanji_assign">GitHub</a>
+      </div>
+    </div>
+  </div>
+
+  <!-- 4-2 -->
+  <div class="tool-card" id="tool-monaco">
+    <div class="head">
+      <div class="glyph">書</div>
+      <div class="titles">
+        <h3>4-2. 한자화 에스페란토 입력 에디터<small>kanji-esperanto-monaco</small></h3>
+      </div>
+      <span class="chip">입력·글쓰기</span>
+    </div>
+    <div class="body">
+      <p class="oneline">Monaco Editor에서 에스페란토 어근을 입력하면 한자 후보를 제시해 주는 웹 에디터입니다.</p>
+      <div class="meta">
+        <div class="m"><b>입력</b>에스페란토 어근·문장</div>
+        <div class="m"><b>출력</b>한자화 에스페란토 문장</div>
+      </div>
+      <p class="fit"><b>적합한 용도:</b> 일기·게시글·예문 등을 직접 입력하면서 정성껏 한자화하고 싶을 때.</p>
+      <h4>구체적으로 할 수 있는 것</h4>
+      <ul>
+        <li><span class="esp">bon</span>이라고 입력하면 良 같은 한자 후보가 나타나, 골라 넣을 수 있다.</li>
+        <li>후보에는 식별자가 붙은 한자도 포함된다.</li>
+        <li>할당 검색 패널에서 특정 한자에 대응하는 어근을 역으로 찾을 수 있다.</li>
+        <li>복사, 붙여넣기, 전체 선택, 공유, 로컬 저장, 기록 복원을 지원한다.</li>
+        <li>온라인에서 한 번 열어 두면 오프라인에서도 사용할 수 있도록 설계되어 있다.</li>
+      </ul>
+      <div class="links">
+        <a class="btn primary" href="https://takatakatake.github.io/kanji-esperanto-monaco/">에디터 열기</a>
+        <a class="btn ghost" href="https://github.com/Takatakatake/kanji-esperanto-monaco">GitHub</a>
+      </div>
+    </div>
+  </div>
+
+  <!-- 4-3 -->
+  <div class="tool-card" id="tool-annotator">
+    <div class="head">
+      <div class="glyph">變</div>
+      <div class="titles">
+        <h3>4-3. 한·중·일 주석 루비·한자화 도구<small>esperanto-radiko-cjk-annotator</small></h3>
+      </div>
+      <span class="chip">자동 변환·독해 보조</span>
+    </div>
+    <div class="body">
+      <p class="oneline">일반 에스페란토 문장을 어근으로 분해하여, 한국어·중국어·일본어 주석 루비, 한자 루비, 태그 없는 한자화 문장으로 변환합니다.</p>
+      <div class="meta">
+        <div class="m"><b>입력</b>일반 에스페란토 문장, 또는 텍스트 파일</div>
+        <div class="m"><b>출력</b>루비 HTML, 편집 가능한 HTML, 태그 없는 한자화 문장, 다운로드 파일</div>
+      </div>
+      <p class="fit"><b>적합한 용도:</b> 긴 문장을 일괄로 루비화·한자화하고 싶을 때. 독해 지원이나 게시용 변환에 적합합니다.</p>
+      <h4>구체적으로 할 수 있는 것</h4>
+      <ul>
+        <li>주석 루비: 어근 위에 한·중·일 번역어를 표시한다.</li>
+        <li>한자 루비: 한자를 본문으로 하고, 에스페란토 어근을 루비로 표시한다.</li>
+        <li>순수 치환: HTML 태그가 없는 한자화 텍스트를 출력한다.</li>
+        <li>직접 입력·텍스트 파일 업로드를 지원한다.</li>
+        <li><span class="esp">%...%</span>는 변환하지 않기, <span class="esp">@...@</span>만 변환하기 같은 부분 지정이 가능하다.</li>
+        <li>잘못된 어근 분해를 GUI에서 보정하고, <span class="esp">user_corrections.json</span>으로 저장·복원할 수 있다.</li>
+      </ul>
+      <div class="links">
+        <a class="btn primary" href="https://esperanto-radiko-cjk-annotator-ko.streamlit.app/">한국어판 열기</a>
+        <a class="btn ghost" href="https://esperanto-radiko-cjk-annotator.streamlit.app/">일본어판</a>
+        <a class="btn ghost" href="https://esperanto-radiko-cjk-annotator-zh.streamlit.app/">중국어판</a>
+        <a class="btn ghost" href="https://github.com/Takatakatake/esperanto-radiko-cjk-annotator">GitHub</a>
+      </div>
+    </div>
+  </div>
+
+  <!-- 4-4 -->
+  <div class="tool-card" id="tool-reverter">
+    <div class="head">
+      <div class="glyph">還</div>
+      <div class="titles">
+        <h3>4-4. 한자화 에스페란토 역변환기<small>kanjized-esperanto-reverter</small></h3>
+      </div>
+      <span class="chip">검증·복원</span>
+    </div>
+    <div class="body">
+      <p class="oneline">한자화 에스페란토 문장을 소문자 알파벳 표기로 되돌리는 도구입니다.</p>
+      <div class="meta">
+        <div class="m"><b>입력</b>한자화 에스페란토 문장</div>
+        <div class="m"><b>출력</b>소문자 알파벳 표기의 에스페란토 문장(어근·어미·기호 포함)</div>
+      </div>
+      <p class="fit"><b>적합한 용도:</b> 한자화 문장의 검증, 원문 복원, 변환 규칙 테스트. 어근 구분 표시가 없기 때문에 복합어에서는 모호성이 남을 수 있습니다.</p>
+      <h4>구체적으로 할 수 있는 것</h4>
+      <ul>
+        <li>PEJVO/PIV 2026-06-20판, 스니펫용 2열 CSV, 사용자 지정 CSV를 전환하며 쓸 수 있다.</li>
+        <li>위 첨자 식별자를 포함한 한자 표기를 인식할 수 있다.</li>
+        <li>한자와 알파벳이 섞인 문장도 처리할 수 있다.</li>
+        <li>변환 결과를 텍스트로 다운로드할 수 있다.</li>
+      </ul>
+      <div class="links">
+        <a class="btn primary" href="https://kanjized-esperanto-reverter.streamlit.app/">역변환기 열기</a>
+        <a class="btn ghost" href="https://github.com/Takatakatake/kanjized-esperanto-reverter">GitHub</a>
+      </div>
+    </div>
+  </div>
+
+  <!-- 4-5 -->
+  <div class="tool-card" id="tool-quiz">
+    <div class="head">
+      <div class="glyph">學</div>
+      <div class="titles">
+        <h3>4-5. 에스페란토 4지선다 학습 앱<small>esperanto_quiz</small></h3>
+      </div>
+      <span class="chip">학습·연습</span>
+    </div>
+    <div class="body">
+      <p class="oneline">한·중·일 대응 단어·예문 4지선다 퀴즈입니다. PC판과 모바일판이 있으며, 음성·점수·랭킹도 지원합니다.</p>
+      <div class="meta">
+        <div class="m"><b>입력</b>퀴즈 설정, 답 선택</div>
+        <div class="m"><b>출력</b>정답·오답, 점수, 복습, 랭킹</div>
+      </div>
+      <p class="fit"><b>적합한 용도:</b> 어휘·예문을 반복 학습하고 싶을 때. 스마트폰으로 매일 연습하는 용도에 특히 좋습니다.</p>
+      <h4>구체적으로 할 수 있는 것</h4>
+      <ul>
+        <li>단어 퀴즈: 2890개의 중요 어휘를 품사·레벨·그룹별로 출제한다.</li>
+        <li>예문 퀴즈: Topic / Subtopic / Level을 골라 출제한다.</li>
+        <li>출제 방향은 '에스페란토→번역어', '번역어→에스페란토'.</li>
+        <li>틀린 문제만 정답을 맞힐 때까지 다시 내는 스파르타 모드가 있다.</li>
+        <li>음성 재생, Google Sheets 랭킹, 모바일용 localStorage 저장형 UI를 지원한다.</li>
+        <li>일본어판·중국어판·한국어판은 각각 해당 언어의 번역어 열을 사용한다.</li>
+      </ul>
+      <div class="links">
+        <a class="btn primary" href="https://esperanto-quiz-ko.streamlit.app/">한국어판 열기</a>
+        <a class="btn ghost" href="https://esperanto-quiz.streamlit.app/">일본어판</a>
+        <a class="btn ghost" href="https://esperanto-quiz-zh.streamlit.app/">중국어판</a>
+        <a class="btn ghost" href="https://github.com/Takatakatake/esperanto_quiz">GitHub</a>
+      </div>
+    </div>
+  </div>
+
+  <!-- 4-6 -->
+  <div class="tool-card" id="tool-paroligu">
+    <div class="head">
+      <div class="glyph">聲</div>
+      <div class="titles">
+        <h3>4-6. 에스페란토 음성 합성<small>paroligu</small></h3>
+      </div>
+      <span class="chip">음성 교재 제작</span>
+    </div>
+    <div class="body">
+      <p class="oneline">에스페란토 문장을 RHVoice의 Spomenka 음성으로 읽어 주고, WAV 또는 MP3로 저장할 수 있습니다.</p>
+      <div class="meta">
+        <div class="m"><b>입력</b>에스페란토 문장, 음성 설정, 저장 파일명</div>
+        <div class="m"><b>출력</b>브라우저 재생 음성, WAV, MP3</div>
+      </div>
+      <p class="fit"><b>적합한 용도:</b> 예문 낭독, 발음 확인, 학습용 음성 파일 제작.</p>
+      <h4>구체적으로 할 수 있는 것</h4>
+      <ul>
+        <li>Unicode 표기와 x 표기법 모두 지원한다.</li>
+        <li>속도·높낮이·음량을 조절할 수 있다.</li>
+        <li>MP3 비트레이트를 선택할 수 있다.</li>
+        <li>브라우저에서 재생하고, WAV/MP3로 저장할 수 있다.</li>
+        <li>Streamlit Cloud에서도 RHVoice를 쓸 수 있도록, 시작할 때 필요한 패키지의 압축을 풀어 설치하는 구조다.</li>
+      </ul>
+      <div class="links">
+        <a class="btn primary" href="https://paroligu.streamlit.app/">paroligu 열기</a>
+        <a class="btn ghost" href="https://github.com/Takatakatake/paroligu">GitHub</a>
+      </div>
+    </div>
+  </div>
+
+  <!-- 4-7 -->
+  <div class="tool-card" id="tool-transskribo">
+    <div class="head">
+      <div class="glyph">幕</div>
+      <div class="titles">
+        <h3>4-7. 에스페란토 음성 실시간 전사<small>Ubuntu판 / Windows판</small></h3>
+      </div>
+      <span class="chip">대화·회의 자막</span>
+    </div>
+    <div class="body">
+      <p class="oneline">Zoom이나 Google Meet의 에스페란토 대화를 실시간으로 전사하고, 일본어·한국어 번역, Zoom 자막, 웹 자막 보드, Discord 게시로 내보낼 수 있는 로컬 도구입니다.</p>
+      <div class="meta">
+        <div class="m"><b>입력</b>마이크 또는 PC 오디오 루프백, API 키, Zoom CC URL, 번역 설정</div>
+        <div class="m"><b>출력</b>전사, 번역, Zoom 자막, 웹 자막 보드, 로그, Discord 게시</div>
+      </div>
+      <p class="fit"><b>적합한 용도:</b> 온라인 수업, 회의, 발표, 에스페란토 대화의 기록. Streamlit Cloud가 아니라 로컬 PC에서 실행하는 도구입니다.</p>
+      <h4>구체적으로 할 수 있는 것</h4>
+      <ul>
+        <li>Speechmatics Realtime STT를 중심으로, Vosk나 Whisper를 예비로 사용할 수 있다.</li>
+        <li>Zoom Closed Caption API로 자막을 보낼 수 있다.</li>
+        <li>웹 UI에서 최신 자막과 기록을 표시할 수 있다.</li>
+        <li>일본어·한국어 등으로 번역해 표시하는 기능을 지원한다.</li>
+        <li>Discord Webhook으로 확정된 문장과 번역을 한꺼번에 게시할 수 있다.</li>
+        <li>Ubuntu판은 PipeWire/PulseAudio 루프백 설정을 도와주고, Windows판은 VB-Audio/VoiceMeeter 등을 전제로 진단·설정을 지원한다.</li>
+      </ul>
+      <div class="links">
+        <a class="btn ghost" href="https://github.com/Takatakatake/jako-esperantlingva-paroltransskribo-kaj-interpretado-japana-korea-Ubuntu-202604">Ubuntu판 저장소</a>
+        <a class="btn ghost" href="https://github.com/Takatakatake/jako-esperantlingva-paroltransskribo-kaj-interpretado-japana-korea-windows11-202604">Windows판 저장소</a>
+        <span class="btn disabled">로컬 실행(Streamlit Cloud 없음)</span>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- ══════════ 5 ══════════ -->
+<section id="howto">
+  <h2><span class="no">5</span>추천 활용법</h2>
+  <div class="tablewrap">
+    <table>
+      <thead><tr><th>목적</th><th>추천하는 흐름</th></tr></thead>
+      <tbody>
+        <tr><td class="key">한자화 문장을 일괄로 만들기</td><td>일반 에스페란토 문장을 준비 → CJK Annotator에서 '순수 치환' 또는 '한자 루비'를 선택.</td></tr>
+        <tr><td class="key">세부까지 직접 다듬기</td><td>kanji_assign에서 할당을 확인하면서, Monaco 입력 에디터에서 어근마다 후보를 고른다.</td></tr>
+        <tr><td class="key">식별자가 올바른지 확인하기</td><td>kanji_assign에서 같은 글자 그룹과 식별자를 확인하고, 필요하면 Monaco나 Annotator의 결과를 수정한다.</td></tr>
+        <tr><td class="key">한자화 문장을 검증하기</td><td>Reverter로 소문자 에스페란토로 되돌려, 의도하지 않은 어근으로 되돌아가지 않았는지 확인한다.</td></tr>
+        <tr><td class="key">학습 교재 만들기</td><td>Quiz로 어휘·예문을 연습하고, paroligu로 예문 음성을 만든다.</td></tr>
+        <tr><td class="key">회의·수업에서 사용하기</td><td>Ubuntu/Windows 전사 도구를 로컬에서 실행하여, 웹 자막·번역·Zoom 자막으로 내보낸다.</td></tr>
+      </tbody>
+    </table>
+  </div>
+</section>
+
+<!-- ══════════ 6 ══════════ -->
+<section id="urls">
+  <h2><span class="no">6</span>URL·저장소 목록</h2>
+  <p class="sec-lead">아래 표의 링크 이름은 클릭할 수 있습니다. 긴 URL을 그대로 나열하지 않고 가독성을 우선했습니다.</p>
+  <div class="tablewrap">
+    <table>
+      <thead><tr><th>도구</th><th>앱 / 실행 위치</th><th>GitHub</th></tr></thead>
+      <tbody>
+        <tr><td class="key">어근 한자 할당표</td><td><a href="https://takatakatake.github.io/kanji_assign/kanji.html">kanji_assign / kanji.html</a></td><td><a href="https://github.com/Takatakatake/kanji_assign">Takatakatake/kanji_assign</a></td></tr>
+        <tr><td class="key">한자화 입력 에디터</td><td><a href="https://takatakatake.github.io/kanji-esperanto-monaco/">kanji-esperanto-monaco</a></td><td><a href="https://github.com/Takatakatake/kanji-esperanto-monaco">Takatakatake/kanji-esperanto-monaco</a></td></tr>
+        <tr><td class="key">CJK Annotator 한국어</td><td><a href="https://esperanto-radiko-cjk-annotator-ko.streamlit.app/">한국어판 앱</a></td><td><a href="https://github.com/Takatakatake/esperanto-radiko-cjk-annotator">Takatakatake/esperanto-radiko-cjk-annotator</a></td></tr>
+        <tr><td class="key">CJK Annotator 일본어</td><td><a href="https://esperanto-radiko-cjk-annotator.streamlit.app/">일본어판 앱</a></td><td><a href="https://github.com/Takatakatake/esperanto-radiko-cjk-annotator">위와 같음</a></td></tr>
+        <tr><td class="key">CJK Annotator 중국어</td><td><a href="https://esperanto-radiko-cjk-annotator-zh.streamlit.app/">중국어판 앱</a></td><td><a href="https://github.com/Takatakatake/esperanto-radiko-cjk-annotator">위와 같음</a></td></tr>
+        <tr><td class="key">역변환기</td><td><a href="https://kanjized-esperanto-reverter.streamlit.app/">kanjized-esperanto-reverter</a></td><td><a href="https://github.com/Takatakatake/kanjized-esperanto-reverter">Takatakatake/kanjized-esperanto-reverter</a></td></tr>
+        <tr><td class="key">퀴즈 한국어</td><td><a href="https://esperanto-quiz-ko.streamlit.app/">esperanto-quiz-ko</a></td><td><a href="https://github.com/Takatakatake/esperanto_quiz">Takatakatake/esperanto_quiz</a></td></tr>
+        <tr><td class="key">퀴즈 일본어</td><td><a href="https://esperanto-quiz.streamlit.app/">esperanto-quiz</a></td><td><a href="https://github.com/Takatakatake/esperanto_quiz">위와 같음</a></td></tr>
+        <tr><td class="key">퀴즈 중국어</td><td><a href="https://esperanto-quiz-zh.streamlit.app/">esperanto-quiz-zh</a></td><td><a href="https://github.com/Takatakatake/esperanto_quiz">위와 같음</a></td></tr>
+        <tr><td class="key">TTS</td><td><a href="https://paroligu.streamlit.app/">paroligu</a></td><td><a href="https://github.com/Takatakatake/paroligu">Takatakatake/paroligu</a></td></tr>
+        <tr><td class="key">음성 전사 Ubuntu</td><td>Streamlit Cloud 없음(로컬 실행)</td><td><a href="https://github.com/Takatakatake/jako-esperantlingva-paroltransskribo-kaj-interpretado-japana-korea-Ubuntu-202604">Ubuntu판 저장소</a></td></tr>
+        <tr><td class="key">음성 전사 Windows</td><td>Streamlit Cloud 없음(로컬 실행)</td><td><a href="https://github.com/Takatakatake/jako-esperantlingva-paroltransskribo-kaj-interpretado-japana-korea-windows11-202604">Windows판 저장소</a></td></tr>
+      </tbody>
+    </table>
+  </div>
+
+  <div class="summary">
+    <b>정리:</b> 이 도구들은 한자화 에스페란토를 '찾아보기·쓰기·변환하기·되돌리기'를 위한 핵심 환경에, 학습·음성화·실시간 자막을 결합한 것입니다. 기본 흐름은 먼저 kanji_assign에서 할당을 확인하고, Monaco 또는 CJK Annotator로 작성한 뒤, Reverter로 검증하는 것입니다.
+  </div>
+</section>
+
+</main>
+
+<footer>
+  <div class="wrap">
+    에스페란토 한자화 프로젝트 — 한눈에 보는 앱·도구 가이드(작성일 2026-07-05)<br>
+    <a href="kanji.html">어근 한자 할당표</a> · <a href="words.html">복합어 뷰</a> · <a href="https://github.com/Takatakatake/kanji_assign">GitHub: Takatakatake/kanji_assign</a>
+  </div>
+</footer>
+
+</body>
+</html>
