@@ -4616,6 +4616,8 @@
 "platform"	"台"	"pl"	"ᴾᴸ"	"台ᴾᴸ"	"pejvo"	"2"	"台"
 "sufiks"	"缀"	""	""	"缀"	"basic"	"5"	"缀"
 "prefiks"	"缀"	"p"	"ᴾ"	"缀ᴾ"	"basic"	"3"	"缀"
+"afiks"	"缀"	"a"	"ᴬ"	"缀ᴬ"	"pejvo"	"1"	"缀"
+"infiks"	"缀"	"i"	"ᴵ"	"缀ᴵ"	"piv"	"1"	"缀"
 "tradici"	"统"	""	""	"统"	"basic"	"6"	"统"
 "prezident"	"统"	"p"	"ᴾ"	"统ᴾ"	"basic"	"6"	"统"
 "provizor"	"暂"	""	""	"暂"	"basic"	"7"	"暂"

@@ -4616,6 +4616,8 @@
 "platform","台","pl","pejvo","2"
 "sufiks","缀","","basic","5"
 "prefiks","缀","p","basic","3"
+"afiks","缀","a","pejvo","1"
+"infiks","缀","i","piv","1"
 "tradici","统","","basic","6"
 "prezident","统","p","basic","6"
 "provizor","暂","","basic","7"

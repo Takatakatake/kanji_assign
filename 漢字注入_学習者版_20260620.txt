@@ -490,7 +490,7 @@ Afgan/land/o:【国名】=Afganio（アフガニスタン）
 afgan/o:アフガニスタン人
 Afgan/uj/o:【国名】=Afganio（アフガニスタン）
 afid/o⟦虫ᴬᶠ/o⟧:【虫】アブラムシ（油虫）,アリマキ（蟻巻）（科の総称）,=plantlau^so
-afiks/o:{Ｏ}【Ｇ】接辞,>>prefikso,>>sufikso
+afiks/o⟦缀ᴬ/o⟧:{Ｏ}【Ｇ】接辞,>>prefikso,>>sufikso
 afis^/ej/o⟦贴/所/o⟧:掲示場;【情】電子掲示板（BBS）,電子フォーラム
 afis^/et/o⟦贴/小/o⟧:ステッカー,=glumarko
 afis^/hom/o⟦贴/人/o⟧:サンドイッチマン
@@ -49406,7 +49406,7 @@ inferenc/i⟦推ᴵ/i⟧:【PIV】(tr (transitiva)) Fari inferencon.
 infest/i⟦患/i⟧:【PIV】(tr (transitiva)) Svarme invadi, pp (se paroli pri) ratoj ks (kaj simile, kaj similaj) en iun lokon, au^ pp (se paroli pri) parazitoj en iun organismon.
 infest/ad/o⟦患/行/o⟧:【PIV】Agado de la infestantoj.
 infest/ig^/o⟦患/成/o⟧:【PIV】Stato de la infestata loko au^ organismo.
-infiks/o:【語】【PIV】Afikso, kiu enmetig^as interne de rad. (radiko); ekz. (ekzemple) la infikso n de L. «jungere» malaperas en «jugum», kio klarigas la du formojn de E. «jungi» k «jugo». Vd epentezo.
+infiks/o⟦缀ᴵ/o⟧:【語】【PIV】Afikso, kiu enmetig^as interne de rad. (radiko); ekz. (ekzemple) la infikso n de L. «jungere» malaperas en «jugum», kio klarigas la du formojn de E. «jungi» k «jugo». Vd epentezo.
 infiltr/i⟦浸ᴵ/i⟧:【医】【PIV】(tr (transitiva)) Invadi histojn, pp (se paroli pri) organa likvo (edema seraj^o, sango, urino, puso), injektita likvo (serumo, medikamento), gaso (en hau^ta emfizemo, gasa gangreno), inflamaj c^eloj au^ disvolvig^anta neoplazia histo.
 infiltr/ig^/i⟦浸ᴵ/成/i⟧:【PIV】(pp (se paroli pri) histoj). Esti sidejo de infiltro.
 infim/o:【数】【PIV】(pp (se paroli pri) aro de reelaj nombroj) La plej granda suba baro de la aro; simb. (simbolo): inf: la infimo de c^iuj pozitivaj nombroj estas nul. Vd supremo, minimumo.

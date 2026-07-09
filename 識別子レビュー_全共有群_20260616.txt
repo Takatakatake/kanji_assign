@@ -3666,6 +3666,12 @@
   trikot         织ᵀᵀ        F=5     basic   
   hist           织ᴴ         F=8     pejvo   
 
+【缀】 4件
+  sufiks         缀          F=5     basic   
+  prefiks        缀ᴾ         F=3     basic   
+  afiks          缀ᴬ         F=1     pejvo   
+  infiks         缀ᴵ         F=1     piv     
+
 【缓】 4件
   lant           缓          F=5     pejvo   
   rilaks         缓ᴿ         F=4     pejvo   
@@ -7334,10 +7340,6 @@
 【续】 2件
   daŭr           续          F=40    basic   
   kontinu        续ᴷ         F=23    sci     
-
-【缀】 2件
-  sufiks         缀          F=5     basic   
-  prefiks        缀ᴾ         F=3     basic   
 
 【缆】 2件
   kabl           缆          F=19    pejvo   
