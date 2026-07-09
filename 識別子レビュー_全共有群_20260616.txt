@@ -1755,6 +1755,15 @@
   prokur         代ᴾᴷ        F=3     pejvo   
   era            代ᴱ         F=2     pejvo   
 
+【台】 7件
+  podi           台          F=7     basic   
+  teras          台ᵀ         F=3     basic   
+  peron          台ᴾᴿ        F=1     basic   
+  bufed          台ᴮ         F=5     pejvo   
+  konzol         台ᴷ         F=2     pejvo   
+  platform       台ᴾᴸ        F=2     pejvo   
+  stand          台ˢ         F=1     pejvo   
+
 【套】 7件
   jung           套          F=11    basic   
   muf            套ᴹ         F=6     pejvo   
@@ -2042,14 +2051,6 @@
   gimnast        操ᴳᴵ        F=2     pejvo   
   fik            操ᶠ         F=4     piv     性交する(俗語)
 
-【台】 6件
-  podi           台          F=7     basic   
-  teras          台ᵀ         F=3     basic   
-  peron          台ᴾᴿ        F=1     basic   
-  bufed          台ᴮ         F=5     pejvo   
-  konzol         台ᴷ         F=2     pejvo   
-  platform       台ᴾᴸ        F=2     pejvo   
-
 【凸】 6件
   ĝib            凸          F=13    basic   
   konveks        凸ᴷ         F=10    pejvo   
@@ -2130,6 +2131,14 @@
   sangvin        乐ˢ         F=2     pejvo   
   hedon          乐ᴴ         F=2     piv     【哲】快楽主義
 
+【减】 6件
+  minus          减          F=5     func    
+  redukt         减ᴿ         F=14    basic   
+  subtrah        减ˢ         F=3     basic   
+  diskont        减ᴰ         F=6     pejvo   
+  dekrement      减ᴰᴷ        F=2     pejvo   
+  diminu         减ᴰᴹ        F=1     piv     
+
 【划】 6件
   plan           划          F=43    basic   
   strek          划ˢ         F=38    basic   
@@ -2193,6 +2202,14 @@
   klimatiz       调ᴷ         F=0     basic   
   modul          调ᴹᴰ        F=11    pejvo   
   tonal          调ᵀᴸ        F=9     pejvo   
+
+【适】 6件
+  taŭg           适          F=14    basic   
+  moder          适ᴹ         F=14    basic   
+  konven         适ᴷ         F=11    basic   
+  adapt          适ᴬ         F=9     basic   
+  akomod         适ᴬᴷ        F=3     pejvo   
+  adekvat        适ᴬᴰ        F=1     pejvo   
 
 【风】 6件
   vent           风          F=81    basic   
@@ -2420,6 +2437,13 @@
   permeabl       穿ᴾᴿ        F=6     pejvo   
   tred           穿ᵀᴰ        F=2     pejvo   
   perfor         穿ᴾᶠ        F=2     piv     穿孔する
+
+【前】 5件
+  antaŭ          前          F=174   prep    
+  front          前ᶠ         F=27    basic   
+  avan           前ᴬⱽ        F=3     pejvo   
+  avers          前ᴬᴿ        F=1     pejvo   
+  pre            前ᴾ         F=2     piv     前(接頭辞)
 
 【槽】 5件
   fold           槽          F=6     pejvo   
@@ -2652,13 +2676,6 @@
   apokrif        伪ᴬ         F=2     pejvo   
   postic^        伪ᴾᵀ        F=2     pejvo   
 
-【减】 5件
-  minus          减          F=5     func    
-  redukt         减ᴿ         F=14    basic   
-  subtrah        减ˢ         F=3     basic   
-  diskont        减ᴰ         F=6     pejvo   
-  dekrement      减ᴰᴷ        F=2     pejvo   
-
 【剧】 5件
   teatr          剧          F=21    basic   
   dram           剧ᴰ         F=10    basic   
@@ -2819,13 +2836,6 @@
   preter         过ᴾᴿ        F=38    prep    
   pase           过ᴾᴱ        F=2     pejvo   
   transit        过ᵀ         F=3     piv     通過の・トランジット
-
-【适】 5件
-  taŭg           适          F=14    basic   
-  moder          适ᴹ         F=14    basic   
-  konven         适ᴷ         F=11    basic   
-  adapt          适ᴬ         F=9     basic   
-  akomod         适ᴬᴷ        F=3     pejvo   
 
 【钻】 5件
   bor            钻          F=28    basic   
@@ -3143,6 +3153,12 @@
   oni            人ᴼ         F=8     func    
   antrop         人ᴬ         F=16    pejvo   
 
+【垂】 4件
+  perpendikular  垂          F=3     pejvo   
+  perpendikl     垂ᴾᴸ        F=2     pejvo   
+  apik           垂ᴬ         F=1     pejvo   
+  ptoz           垂ᴾᵀ        F=2     piv     【医】下垂
+
 【正】 4件
   ĝust           正          F=21    basic   
   pozitiv        正ᴾ         F=25    basic   
@@ -3166,12 +3182,6 @@
   reklam         宣ᴿ         F=21    basic   
   deklar         宣ᴰ         F=11    basic   
   proklam        宣ᴾ         F=6     pejvo   
-
-【前】 4件
-  antaŭ          前          F=174   prep    
-  front          前ᶠ         F=27    basic   
-  avan           前ᴬⱽ        F=3     pejvo   
-  pre            前ᴾ         F=2     piv     前(接頭辞)
 
 【塑】 4件
   plast          塑          F=14    basic   
@@ -3635,6 +3645,12 @@
   damaĝ          损ᴰᴹ        F=6     basic   
   averi          损ᴬ         F=2     pejvo   
 
+【晕】 4件
+  halo           晕          F=4     pejvo   
+  vertig^        晕ⱽ         F=3     pejvo   
+  nimb           晕ᴺ         F=1     pejvo   
+  areol          晕ᴬ         F=2     piv     【解】乳輪・暈
+
 【标】 4件
   cel            标          F=45    basic   
   mark           标ᴹ         F=37    basic   
@@ -3658,6 +3674,12 @@
   koncern        涉ᴷ         F=8     basic   
   interfer       涉ᴵ         F=8     pejvo   
   padel          涉ᴾ         F=3     pejvo   
+
+【狱】 4件
+  infer          狱          F=8     basic   
+  prizon         狱ᴾ         F=4     pejvo   
+  gehen          狱ᴳ         F=3     pejvo   
+  narak          狱ᴺ         F=1     pejvo   
 
 【皱】 4件
   ĉif            皱          F=5     basic   
@@ -4057,6 +4079,11 @@
   fabl           寓ᶠ         F=6     pejvo   
   alegori        寓ᴬᴸ        F=2     pejvo   
 
+【群】 3件
+  ar             群          F=501   suf     
+  greg           群ᴳ         F=5     basic   
+  hord           群ᴴ         F=1     pejvo   
+
 【警】 3件
   polic          警          F=20    basic   
   alarm          警ᴬ         F=12    basic   
@@ -4297,11 +4324,6 @@
   sism           震ˢ         F=3     pejvo   
   seism          震ˢᴱ        F=6     piv     地震
 
-【垂】 3件
-  perpendikl     垂          F=2     pejvo   
-  perpendikular  垂ᴾᴿ        F=3     pejvo   
-  ptoz           垂ᴾᵀ        F=2     piv     【医】下垂
-
 【水】 3件
   akv            水          F=201   basic   
   hidr           水ᴴ         F=63    pref    
@@ -4521,6 +4543,11 @@
   buĉ            屠          F=13    basic   
   masakr         屠ᴹ         F=2     pejvo   
   s^oh^t         屠ˢ̂        F=2     piv     【聖】律法に従い屠る
+
+【徒】 3件
+  van            徒          F=12    basic   
+  adept          徒ᴬ         F=2     pejvo   
+  disc^ipl       徒ᴰ         F=1     pejvo   
 
 【土】 3件
   grund          土          F=23    basic   
@@ -5002,6 +5029,11 @@
   ĝeneral        总ᴳ̂        F=20    basic   
   total          总ᵀ         F=7     basic   
 
+【恶】 3件
+  malic          恶          F=9     basic   
+  malign         恶ᴹᴳ        F=3     pejvo   
+  mav            恶ᴹⱽ        F=1     pejvo   
+
 【惊】 3件
   mir            惊          F=18    basic   
   surpriz        惊ˢ         F=8     basic   
@@ -5026,11 +5058,6 @@
   aspekt         显          F=10    basic   
   evident        显ᴱ         F=8     basic   
   manifest       显ᴹ         F=5     pejvo   
-
-【晕】 3件
-  halo           晕          F=4     pejvo   
-  vertig^        晕ⱽ         F=3     pejvo   
-  areol          晕ᴬ         F=2     piv     【解】乳輪・暈
 
 【权】 3件
   rajt           权          F=62    basic   
@@ -5096,11 +5123,6 @@
   bak            烤          F=17    basic   
   rost           烤ᴿ         F=27    basic   
   graten         烤ᴳ         F=6     pejvo   
-
-【狱】 3件
-  infer          狱          F=8     basic   
-  prizon         狱ᴾ         F=4     pejvo   
-  gehen          狱ᴳ         F=3     pejvo   
 
 【瘫】 3件
   pane           瘫          F=5     basic   
@@ -5301,6 +5323,10 @@
   kolomb         鸽          F=22    basic   
   turt           鸽ᵀ         F=3     pejvo   
   livi           鸽ᴸ         F=2     pejvo   
+
+【或】 2件
+  aŭ             或          F=4     func    
+  disjunkci      或ᴰ         F=1     piv     
 
 【粟】 2件
   panic          粟          F=2     basic   
@@ -5565,10 +5591,6 @@
 【君主】 2件
   monark         君主         F=4     pejvo   
   monarki        君主ᴹᴵ       F=3     pejvo   
-
-【群】 2件
-  ar             群          F=501   suf     
-  greg           群ᴳ         F=5     basic   
 
 【刑】 2件
   kriminal       刑          F=8     pejvo   
@@ -6238,10 +6260,6 @@
   ŝtop           堵          F=37    basic   
   obtur          堵ᴼ         F=6     pejvo   
 
-【徒】 2件
-  van            徒          F=12    basic   
-  adept          徒ᴬ         F=2     pejvo   
-
 【杜松】 2件
   juniper        杜松         F=3     pejvo   
   sabin          杜松ˢ        F=2     piv     【植】サビナビャクシン
@@ -6417,6 +6435,10 @@
 【豹】 2件
   panter         豹          F=3     pejvo   
   leopard        豹ᴸ         F=4     pejvo   
+
+【描】 2件
+  pentr          描          F=23    basic   
+  piktur         描ᴾᴷ        F=1     piv     
 
 【敏】 2件
   sagac          敏          F=5     basic   
@@ -6669,6 +6691,10 @@
 【厘】 2件
   centi          厘          F=5     pejvo   
   centimetr      厘ᶜᴹ        F=0     basic   
+
+【累】 2件
+  akumul         累          F=9     pejvo   
+  kumul          累ᴷ         F=1     piv     
 
 【例】 2件
   ekzempl        例          F=9     basic   
@@ -7030,6 +7056,10 @@
   enu            厌          F=8     basic   
   abomen         厌ᴬ         F=9     basic   
 
+【厕】 2件
+  latrin         厕          F=1     pejvo   
+  klozet         厕ᴷ         F=2     piv     水洗便所
+
 【发】 2件
   lanĉ           发          F=9     basic   
   emisi          发ᴱ         F=4     pejvo   
@@ -7122,13 +7152,13 @@
   majstr         师          F=16    basic   
   divizi         师ᴰ         F=4     pejvo   
 
+【归】 2件
+  atribu         归          F=3     pejvo   
+  atribut        归ᴬᵀ        F=1     pejvo   
+
 【态】 2件
   stat           态          F=41    basic   
   ekologi        态ᴱ         F=0     basic   
-
-【恶】 2件
-  malic          恶          F=9     basic   
-  malign         恶ᴹᴳ        F=3     pejvo   
 
 【恼】 2件
   irit           恼          F=3     basic   
@@ -7209,6 +7239,10 @@
 【椭圆】 2件
   oval           椭圆         F=3     basic   
   elips          椭圆ᴱ        F=5     pejvo   
+
+【槛】 2件
+  sojl           槛          F=11    basic   
+  limin          槛ᴸ         F=1     piv     
 
 【樱】 2件
   ĉeriz          樱          F=13    basic   

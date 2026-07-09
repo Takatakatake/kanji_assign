@@ -235,7 +235,7 @@ adapt/il/o⟦适ᴬ/具/o⟧:【機】アダプター
 adapt/o⟦适ᴬ/o⟧:適合,適応（させること）;脚色
 ad/as/ism/o⟦行/as/主义/o⟧:【文】アダシスモ（同一接尾辞による押韻）
 ad/e⟦行/e⟧:続けて,=dau^re
-adekvat/a:目的にかなった,十分な,妥当な,>>celkonforma;【哲】十全な
+adekvat/a⟦适ᴬᴰ/a⟧:目的にかなった,十分な,妥当な,>>celkonforma;【哲】十全な
 Adelaid/o:【地名】=Adelajdo（アデレード）
 Adelajd/o:【地名】アデレード（オーストラリア）
 Adeliland/o:【地名】アデリーランド（南極大陸）
@@ -2126,7 +2126,7 @@ apetit/ig/il/o⟦欲ᴬ/使/具/o⟧:食欲増進剤
 apetit/o⟦欲ᴬ/o⟧:{Ｂ}食欲
 apetit/vek/a⟦欲ᴬ/醒/a⟧:食欲をそそる
 api/ac/oj⟦芹ᴬ/科ᴬ/oj⟧:【植】セリ科
-apik/a:垂直に切立った
+apik/a⟦垂ᴬ/a⟧:垂直に切立った
 api/o⟦芹ᴬ/o⟧:{Ｏ}【植】オランダミツバ（属）,>>celerio
 Api/o:【地名】アピア（西サモアの首都）
 aplanat/a⟦无差/a⟧:【理】【写】不遊の,（球面収差のない）無収差の
@@ -2740,7 +2740,7 @@ atom/struktur/o⟦子ᴬ/构/o⟧:【理】原子構造
 atoni/o:【病】アトニー,弛緩症
 atrepsi/o:【病】無栄養症
 atribu/i⟦归/i⟧:{Ｏ}［他］割り当てる;（〜の）せいにする
-atribut/o:{Ｏ}属性;表徴;【Ｇ】限定詞
+atribut/o⟦归ᴬᵀ/o⟧:{Ｏ}属性;表徴;【Ｇ】限定詞
 atripl/o:{Ｏ}【植】ハマアカザ（属、若葉を食用とする）
 atrofi/i:［他］【病】萎縮させる
 atrofi/ig^/i⟦atrofi/成/i⟧:［自］【病】萎縮する
@@ -2930,7 +2930,7 @@ averag^/a⟦均/a⟧:【数】平均の
 averag^/a temperatur/o⟦均/a 温/o⟧:【気】平均気温
 averi/i⟦损ᴬ/i⟧:［自］（船や積荷が）損害を受ける
 averi/o⟦损ᴬ/o⟧:【商】海損（航海に伴って生じる船や積荷の損害）
-avers/o:=antau^flanko（表面（おもてめん））（硬貨・メダルなどの）
+avers/o⟦前ᴬᴿ/o⟧:=antau^flanko（表面（おもてめん））（硬貨・メダルなどの）
 avert/i⟦警ᴬⱽ/i⟧:{Ｂ}［他］警告する,注意を促す,予告する
 avert/il/o⟦警ᴬⱽ/具/o⟧:警報器
 avert/o⟦警ᴬⱽ/o⟧:警告,注意,予告
@@ -6995,7 +6995,7 @@ disciplin/em/o⟦律ᴰ/倾/o⟧:規律正しさ,自制心,しつけのよさ
 disciplin/i⟦律ᴰ/i⟧:［他］規律づける,鍛練する,しつけをする
 disciplin/it/a⟦律ᴰ/受/a⟧:訓練された,従順な
 disciplin/o⟦律ᴰ/o⟧:{Ｏ}規律,風紀;訓練,しつけ;【宗】戒律
-disc^ipl/o:{Ｏ}弟子,信奉者
+disc^ipl/o⟦徒ᴰ/o⟧:{Ｏ}弟子,信奉者
 dis/de⟦散/从⟧:［前］〜から（別れて）
 dis/dialekt/ig^/i⟦散/言/成/i⟧:［自］方言に分化する
 dis/difekt/i⟦散/损/i⟧:［他］【地理】風化させる
@@ -14647,7 +14647,7 @@ horde/aj^/o⟦麦ᴴ/物/o⟧:【料】麦粥
 horde/o⟦麦ᴴ/o⟧:{Ｂ}【植】オオムギ（属）
 hordeol/o:【病】麦粒腫（ばくりゅうしゅ）,ものもらい
 hor/diferenc/o⟦钟/异ᴰ/o⟧:時差,>>horzono
-hord/o:遊牧民の群れ,>>nomado;《転》（盗賊・暴徒などの）一団
+hord/o⟦群ᴴ/o⟧:遊牧民の群れ,>>nomado;《転》（盗賊・暴徒などの）一団
 hor/et/o⟦钟/小/o⟧:少しの時間;（放送番組の）時間
 horizontal/a⟦横/a⟧:{Ｂ}水平の,横の,>>vertikala
 horizontal/a eben/o⟦横/a 平/o⟧:水平面
@@ -21589,7 +21589,7 @@ latis/trab/o⟦格ᴸ/梁/o⟧:【建】ラチス梁（ばり）,格子桁（げ
 latitud/o⟦纬/o⟧:{Ｂ}【地理】緯度,>>longitudo
 lat/kurten/o⟦条ᴸ/帘/o⟧:ベネチアンブラインド;すだれ
 lat/o⟦条ᴸ/o⟧:{Ｏ}【建】木摺り,木舞（こまい）,貫板（ぬきいた）（細長い薄板）
-latrin/o:（兵舎や野戦病院などの）簡易便所,>>necesejo
+latrin/o⟦厕/o⟧:（兵舎や野戦病院などの）簡易便所,>>necesejo
 lat/s^utr/o⟦条ᴸ/百叶窗/o⟧:【建】（窓の外側に付ける）よろい戸,ブラインド,=persieno,>>fenestrokovrilo
 latun/a⟦黄铜/a⟧:真ちゅうの
 latun/aj^/o⟦黄铜/物/o⟧:真ちゅう製品
@@ -24693,7 +24693,7 @@ mau^ritani/an/o⟦mau^ritani/员ᴬ/o⟧:モーリタニア人
 Mau^ritani/o:【国名】モーリタニア（アフリカ）
 mau^r/o:ムーア人（北西アフリカのイスラム教徒）
 mau^zole/o:{Ｏ}壮大な墓,霊廟（びょう）,陵墓
-mav/a:《詩》=malbona（悪い）
+mav/a⟦恶ᴹⱽ/a⟧:《詩》=malbona（悪い）
 Mazovi/o:【地名】マゾビア,マゾフシェ（ポーランド中東部）
 Mazuri/o:【地名】マズリア,マズーリ（ポーランド北東部）
 mazurk/o:{Ｏ}【楽】マズルカ
@@ -26692,7 +26692,7 @@ nap/o⟦油菜/o⟧:{Ｏ}【農】カブ,カブラ（蕪）,=rapo;【植】セ�
 Napoleon/o:【人名】ナポレオン（男子名）
 Napol/o:【地名】ナポリ（イタリア）
 Narajan/o:【神】ナーラーヤナ（インド神話で万人の祖先また創造神）
-narak/o:【仏】地獄,奈落
+narak/o⟦狱ᴺ/o⟧:【仏】地獄,奈落
 Narbad/o:【地名】ナルバダ川（インド）,=Narmado
 narcis/ism/o⟦水仙/主义/o⟧:【心】ナルシシズム,自己愛
 narcis/o⟦水仙/o⟧:{Ｏ}【植】スイセン（水仙）（属）
@@ -27573,7 +27573,7 @@ nilon/a:ナイロンの,ナイロン製の
 nilon/aj s^trump/oj⟦nilon/aj 袜/oj⟧:【服】ナイロンストッキング
 nilon/har/a⟦nilon/毛/a⟧:ナイロン毛の（ブラシなど）
 nilon/o:{Ｂ}【化】ナイロン
-nimb/o:{Ｏ}【美】後光,光輪,>>au^reolo;（霧の中で乱反射した）光の輪
+nimb/o⟦晕ᴺ/o⟧:{Ｏ}【美】後光,光輪,>>au^reolo;（霧の中で乱反射した）光の輪
 nimbostratus/o:【気】乱層雲
 nimbus/o:【気】乱雲,=nimbostratuso;雨雲,>>pluvnubo
 Nimeg/o:【地名】ネイメーヘン（オランダ）
@@ -30038,11 +30038,11 @@ perni/o:【医】=frostovundo（凍傷）;=frostos^velo（霜焼け）
 per/o⟦以/o⟧:仲介
 peroksid/o:【化】過酸化物
 peron/o⟦台ᴾᴿ/o⟧:{Ｂ}【建】（玄関前などの）外階段
-perpendikl/a⟦垂/a⟧:【数】垂直の;【数】=orta（直角の）
-perpendikl/o⟦垂/o⟧:【数】=ortanto（垂線）
-perpendikular/a⟦垂ᴾᴿ/a⟧:垂直な,=perpendikla
-perpendikular/e⟦垂ᴾᴿ/e⟧:垂直に
-perpendikular/o⟦垂ᴾᴿ/o⟧:垂直線,垂線,=ortanto
+perpendikl/a⟦垂ᴾᴸ/a⟧:【数】垂直の;【数】=orta（直角の）
+perpendikl/o⟦垂ᴾᴸ/o⟧:【数】=ortanto（垂線）
+perpendikular/a⟦垂/a⟧:垂直な,=perpendikla
+perpendikular/e⟦垂/e⟧:垂直に
+perpendikular/o⟦垂/o⟧:垂直線,垂線,=ortanto
 Perpinjan/o:【地名】ペルピニャン（フランス）
 perpleks/a⟦乱ᴾᴿ/a⟧:当惑した,途方にくれた,まごついた,>>konfuzita
 perpleks/ec/o⟦乱ᴾᴿ/性/o⟧:=perplekso（当惑）
@@ -37815,7 +37815,7 @@ stan/aj^/o⟦锡/物/o⟧:スズ製品
 stanc/o:【文】スタンザ（８行詩節）;【文】=>strofo（節）
 standard/ist/o⟦旗ˢ/家/o⟧:（軍隊や団体の）旗手
 standard/o⟦旗ˢ/o⟧:{Ｂ}（国家・軍隊などを象徴する）旗,国旗,軍旗,連隊旗,団旗;《転》旗印,>>flago
-stand/o:展示スタンド,陳列台,>>eksponbudo
+stand/o⟦台ˢ/o⟧:展示スタンド,陳列台,>>eksponbudo
 stan/foli/o⟦锡/叶/o⟧:（包装用の）スズはく（錫箔）,銀紙
 stang/a cirkel/o⟦杆/a 规ᶜ/o⟧:【機】（製図用）ビームコンパス
 stang/et/o⟦杆/小/o⟧:（比較的短い）棒
@@ -45906,7 +45906,7 @@ blink/o⟦闪ᴮ/o⟧:【PIV】Intermita lumo: g^irblinko, alarmo blinko de au^t
 blink/i⟦闪ᴮ/i⟧:【PIV】(ntr (netransitiva)) Intermite lumi.
 blink/ig/i⟦闪ᴮ/使/i⟧:【PIV】Igi blinki.
 blink/il/o⟦闪ᴮ/具/o⟧:【PIV】Speciala lampo, kiu blinkas, k/au^ elektronika sistemo, kiu blinkigas g^in: blinkilo de au^to, de traknivela pasejo.
-blizard/o:【PIV】Neg^os^tormo.
+blizard/o⟦雪暴/o⟧:【PIV】Neg^os^tormo.
 blok/il/o⟦块/具/o⟧:【技】【電】【PIV】Mekanika au^ elektromagneta arang^aj^o, por teni aparaton en difinita pozicio.
 blok/sekci/o⟦块/科ˢᴷ/o⟧:【PIV】Kantono ekipita per bloksistemo.
 blok/sistem/o⟦块/系/o⟧:【PIV】Teknika arang^o c^e kantonigita fervojlinio por certigi sekuran senperan trajnsinsekvon. -> kantonigo.
@@ -46757,7 +46757,7 @@ dilatator/o:【PIV】= dilatanto.
 dileni/o⟦木ᴰᴸ/o⟧:【植】【PIV】G. (Genro) (Dillenia el dileniacoj) de dau^rafoliaj arboj k trunkarbustoj kun floroj tre grandaj (15−25 cm (centimetro) diametraj c^e iuj sp-oj (specioj)); c^. (c^irkau^) 60 sp-oj (specioj) el tropika Azio, Au^stralio k Madagaskaro.
 dilig^enc/o:【PIV】Pasinteca publika c^evaljungita veturilo, por transporti vojag^antojn k korespondaj^ojn. Vd kuriero, pos^toveturilo.
 dilu/a⟦稀ᴰ/a⟧:【PIV】Solvaj^o malkoncentrita.
-diminu/i:【PIV】(tr (transitiva)) 1 Malgrandigi c^iujn dimensiojn de originala bildo: diminuita klis^o. 2 En trikado, iom post iom malpliigi la nombron de la mas^oj, por regule malplilarg^igi la rezultan bendon. 3 Malpliintensigi la forton de la tono.
+diminu/i⟦减ᴰᴹ/i⟧:【PIV】(tr (transitiva)) 1 Malgrandigi c^iujn dimensiojn de originala bildo: diminuita klis^o. 2 En trikado, iom post iom malpliigi la nombron de la mas^oj, por regule malplilarg^igi la rezultan bendon. 3 Malpliintensigi la forton de la tono.
 diminuend/o:【楽】【PIV】Loko en muzikpeco, kies tono estas diminua. Vd kresc^endo.
 dimorf/a:【PIV】= duforma.
 dimorf/ec/o⟦dimorf/性/o⟧:【PIV】= duformeco.
@@ -46813,7 +46813,7 @@ disdegn/i⟦蔑/i⟧:【PIV】(tr (transitiva)) Mals^ati: alpreni tian s^ajnon, 
 disdegn/o⟦蔑/o⟧:【PIV】Sinteno de iu, kiu disdegnas.
 disdegn/a⟦蔑/a⟧:【PIV】Karakterizanta la sintenon de tiu, kiu disdegnas.
 disel/o:【PIV】= dizelo.
-disjunkci/o:【数】【PIV】La logika operacio, kiu al du asertoj A k B asignas la aserton, ke almenau^ unu el ili validas; tiun aserton oni skribas A ∨ B (elparolu: «A au^ B»). Vd ekvivalento, implico, konjunkcio, negacio.
+disjunkci/o⟦或ᴰ/o⟧:【数】【PIV】La logika operacio, kiu al du asertoj A k B asignas la aserton, ke almenau^ unu el ili validas; tiun aserton oni skribas A ∨ B (elparolu: «A au^ B»). Vd ekvivalento, implico, konjunkcio, negacio.
 disk/ej/o⟦盘ᴰ/所/o⟧:【PIV】Diskoteko.
 disk/estr/o⟦盘ᴰ/长ᴱ/o⟧:【PIV】Persono, kiu prizorgas la ludigon de diskoj au^ aliaj registraj^oj en diskoteko, radioelsendo ks (kaj simile, kaj similaj).
 disk/ing/o⟦盘ᴰ/座/o⟧:【情】【PIV】Fendo en diskaparato, en kiun oni metas disketon.
@@ -50422,7 +50422,7 @@ klostr/a⟦修院/a⟧:【PIV】Rilata al klostro, precipe 2: klostra silento.
 klostridi/o:【生】【PIV】G. (Genro) (Clostridium) de bastonetformaj eu^bakterioj, parencaj al baciloj sed aertoleraj au^ aernetoleraj; kelkaj sp-oj (specioj) kau^zas gravegajn malsanojn: C. tetani (tetanoson), C. septicum (specon de gangreno), C. botulinum (botulismon).
 Klotar/o:【PIV】G^ermana vira nomo.
 Klotild/o:【PIV】Virina nomo, i.a. (interalie, inter aliaj) de la edzino de Klodvigo.
-klozet/o⟦厕/o⟧:【PIV】Necesejo, ordinare kun pelvo k akvos^pruco. Vd latrino.
+klozet/o⟦厕ᴷ/o⟧:【PIV】Necesejo, ordinare kun pelvo k akvos^pruco. Vd latrino.
 Kluniz/a:【PIV】Rilata al la abatejo de Klunizo: la Kluniza reformo, stilo.
 klupe/form/aj⟦鱼ᴷ/形/aj⟧:【動】【PIV】Ordo (Clupeiformes) de teleosteaj fis^oj, al kiu apartenas la fam-oj (familioj) de klupeedoj, salmedoj k.a. (kaj aliaj)
 klupe/o/form/aj⟦鱼ᴷ/o/形/aj⟧:【動】【PIV】Ordo (Clupeiformes) de teleosteaj fis^oj, al kiu apartenas la fam-oj (familioj) de klupeedoj, salmedoj k.a. (kaj aliaj)
@@ -51067,7 +51067,7 @@ kumar/o⟦木ᴷᴹ/o⟧:【植】【PIV】Malnova nomo (Coumarouna) de la g. (g
 kumarat/o:【化】【PIV】Salo au^ estero de kumarata acido, C 6 H 4 (OH)CH=CHCOOH.
 kumar/in/o⟦木ᴷᴹ/in/o⟧:【化】【PIV】Laktono de kumarata acido, odoraj^o uzata en parfumindustrio, trovig^anta i.a. (interalie, inter aliaj) en la odora galio k en la tonka fabo.
 kumen/o:【化】【PIV】Izopropilbenzeno.
-kumul/i:【法】【PIV】(tr (transitiva)) Plenumi samtempe plurajn funkciojn, mandatojn ks (kaj simile, kaj similaj): kumuli la oficojn de urbestro kaj de parlamentano; kumulado de voc^oj (en voc^donado), de pensio civila kun pensio militista.
+kumul/i⟦累ᴷ/i⟧:【法】【PIV】(tr (transitiva)) Plenumi samtempe plurajn funkciojn, mandatojn ks (kaj simile, kaj similaj): kumuli la oficojn de urbestro kaj de parlamentano; kumulado de voc^oj (en voc^donado), de pensio civila kun pensio militista.
 kun/o⟦共/o⟧:【PIV】Akompano; kuneco; la stato esti kun iu au^ io. >>kune
 kun/ig/o⟦共/使/o⟧:【PIV】Ago de tiu, kiu kunigas k stato de kunigitaj^oj.
 kun/ig/aj^/o⟦共/使/物/o⟧:【数】【PIV】(pp (se paroli pri) du aroj) La aro de c^iuj elementoj, kiuj apartenas al unu el la du aroj (analoge pri pluraj aroj): la kunigaj^o de A k B estas notata A ∪ B. Vd komunaj^o, komplemento.
@@ -51447,7 +51447,7 @@ limf/oid/a⟦淋ᴸ/似ᴼ/a⟧:【PIV】Aspektanta kiel limfo k limfonodoj: lim
 limfat/a⟦淋ᴸᵀ/a⟧:【医】【PIV】Rilata al unu el la kvar temperamentoj lau^ Hipokrato. Vd kolerika, nervoza, sangvina.
 limfat/ul/o⟦淋ᴸᵀ/者/o⟧:【PIV】Persono limfata: limfatulo estas dispoziciita al astenio k kronikaj afekcioj (ekz. (ekzemple) skrofolo, tuberkulozo, rakitismo).
 limfocit/o:【生】【PIV】Blanka globulo kun unu dika globa nukleo. Vd leu^kocito.
-limin/o:【心】【PIV】Limo, sub kiu donita ekscito c^esas esti perceptebla; minimumo da nervekscito postulata, por estigi sensacon: sublimina percepto.
+limin/o⟦槛ᴸ/o⟧:【心】【PIV】Limo, sub kiu donita ekscito c^esas esti perceptebla; minimumo da nervekscito postulata, por estigi sensacon: sublimina percepto.
 limne/o⟦贝ᴸ/o⟧:【動】【PIV】G. (Genro) (Lymnea, sin. (sinonimo (de latinscienca nomo)) Limnaea) de nesalakvaj gastropodoj kun konusa, korneca konko.
 Limog^i/o:【PIV】N-Okcitania regiono c^irkau^ Limog^o.
 limonen/o:【化】【PIV】Monoterpeno, C 10 H 16, agrable citronodora, trovig^anta en la esencoj de citrono, orang^o, bergamoto, karvio k aneto.
@@ -52057,7 +52057,7 @@ Miltiad/o:【PIV】Politikisto k stratego en antikva Ateno.
 mimetism/o:【動】【PIV】Adaptig^o de kelkaj animaloj al la medio per aspekto, kiu faras ilin malfacile videblaj au^ similaj al alia specio: mimetismo de fasmo. Vd homokromio.
 mimul/o⟦草ᴹᴹ/o⟧:【植】【PIV】G. (Genro) (Mimulus el skrofulariacoj) de unu-k plur-jaraj herboj k arbustetoj kun unuope akselaj floroj, kies neregula korolo havas cilindran tubon violan, flavan au^ rug^an k kies stigmo havas du platajn lobojn, c^i kiuj c^e tus^eto fermig^as unu kontrau^ la alia; c^. (c^irkau^) 150 sp-oj (specioj) el S Afriko, Azio k precipe Ameriko, pluraj pororname kultivataj. Sin. (sinonimo) simifloro.
 min/a⟦矿/a⟧:【PIV】Rilata al mino: mina laboristo, industrio; la minaj ric^aj^oj de lando.
-minc/a:【PIV】Maldika.
+minc/a⟦薄/a⟧:【PIV】Maldika.
 minestron/o:【PIV】Lombarddevena supo el diversaj legomoj kun viando k rizo au^ pastaj^oj.
 miniatur/ig/i⟦缩ᴹ/使/i⟧:【技】【PIV】Doni al elemento de aparato kiel eble plej malgrandajn dimensiojn.
 minimum/ej/o⟦最小/所/o⟧:【数】【PIV】(pp (se paroli pri) funkcio) Punkto, kie la funkcio alprenas sian minimumon.
@@ -53359,7 +53359,7 @@ pikolin/o:【化】【PIV】Metilpiridino, C 6 H 7 N.
 pikr/o:【化】【PIV】pikrilo (en kunmetaj^oj).
 pikril/o:【化】【PIV】Radiko C 6 H 2 (NO 2) 3 -.
 piksidi/o:【植】【PIV】Kapsulo, mafermig^anta per speco de kovrilo nomata operkulo. Vd teko.
-piktur/o:【PIV】Pentrarto. Vd skulpturo, arkitekturo.
+piktur/o⟦描ᴾᴷ/o⟧:【PIV】Pentrarto. Vd skulpturo, arkitekturo.
 Pilad/o:【PIV】Helena vira nomo, i.a. (interalie, inter aliaj) de la amiko de Oresto.
 pile/o:【解】【医】【PIV】La porda vejno: pileflebito; splenopileografio.
 pilokarp/o⟦木ᴾᴷ/o⟧:【植】【PIV】G. (Genro) (Pilocarpus el rutacoj) de tufarbustoj k arbustetoj kun plume kunmetaj folioj k kun fruktoj el unusemaj folikloj po 5, parte kunig^intaj; c^. (c^irkau^) 20 sp-oj (specioj) el tropika Ameriko, i.a. (interalie, inter aliaj) P. microphyllus, P. pennatifolius k P. jaborandi enhavantaj alkaloidojn i.a. (interalie, inter aliaj) pilokarpinon. Sin. (sinonimo) jaborando 2.
@@ -60180,7 +60180,7 @@ kontrau^/pap/o⟦对/教皇/o⟧:【PIV】Homo, elektita papo en cirkonstancoj, 
 mar/papag/o⟦海/鹦/o⟧:【PIV】Fraterkulo.
 friz/paper/et/oj⟦卷ᶠ/纸/小/oj⟧:【PIV】Papilotoj.
 incens/paper/o⟦香ᴵ/纸/o⟧:【PIV】Papero speciale preparita, por ke, brulante, g^i eligu agrablan odoron.
-klozet/paper/o⟦厕/纸/o⟧:【PIV】Maldika papero, uzata en klozeto.
+klozet/paper/o⟦厕ᴷ/纸/o⟧:【PIV】Maldika papero, uzata en klozeto.
 kopi/paper/o⟦复ᴷ/纸/o⟧:【PIV】1 Lumimpresebla papero, por fari pozitivon de negativo. 2 Karbo papero.
 silk/o/paper/o⟦丝/o/纸/o⟧:【PIV】Maldikega fajna papero, uzata por envolvi delikataj^ojn, s^irmi gravurojn en libro ks (kaj simile, kaj similaj).
 stamp/o/paper/o⟦印ˢ/o/纸/o⟧:【PIV】Paperfolio, stampita de s^tata administracio, k devige uzata por iuj dokumentoj.
