@@ -7001,6 +7001,10 @@
   kooperativ     协          F=6     basic   
   kooper         协ᴷᴼ        F=8     pejvo   
 
+【卡】 2件
+  kart           卡          F=41    basic   
+  slip           卡ˢ         F=1     pejvo   
+
 【厌】 2件
   enu            厌          F=8     basic   
   abomen         厌ᴬ         F=9     basic   

@@ -29234,7 +29234,7 @@ paper/prem/il/o⟦纸/压/具/o⟧:文鎮
 paper/rub/o⟦纸/废/o⟧:紙くず;【環】故紙（こし）
 paper/sak/o⟦纸/袋/o⟧:紙袋
 paper/serpent/o⟦纸/蛇/o⟧:（パーティーなどで投げる）紙テープ
-paper/slip/o⟦纸/slip/o⟧:紙片,用紙
+paper/slip/o⟦纸/卡ˢ/o⟧:紙片,用紙
 paper/s^mir/i⟦纸/涂/i⟧:［他］（つまらないことを）書き並べる
 paper/s^mir/ist/o⟦纸/涂/家/o⟧:三文文士
 paper/tapet/o⟦纸/壁纸/o⟧:壁紙
@@ -37062,9 +37062,9 @@ Slavoni/o:【史】スラボニア（クロアチア東部の古名）
 slavon/o:【語】教会スラブ語
 sled/i⟦雪车/i⟧:［自］そりで行く
 sled/o⟦雪车/o⟧:{Ｂ}そり（橇）,=glitveturilo
-slip/ar/o⟦slip/群/o⟧:カード一式
-slip/o:{Ｏ}分類用カード（図書カード・京大カードなど）
-slip/uj/o⟦slip/器/o⟧:カードボックス
+slip/ar/o⟦卡ˢ/群/o⟧:カード一式
+slip/o⟦卡ˢ/o⟧:{Ｏ}分類用カード（図書カード・京大カードなど）
+slip/uj/o⟦卡ˢ/器/o⟧:カードボックス
 slogan/o:スローガン,標語,キャッチフレーズ,=frapfrazo
 slojd/o:（２０世紀初頭に流行した）スウェーデン式工芸教育
 slovak/a:スロバキア（人）の
@@ -38913,7 +38913,7 @@ sur/sabl/ig^/i⟦上/沙/成/i⟧:［自］【海】座州する
 sur/scen/ig/i⟦上/场/使/i⟧:［他］（劇を）上演する;演出する,=enscenigi
 sur/sel/ig^/i⟦上/鞍/成/i⟧:［自］乗馬する;自転車に乗る,><deselig^i
 sur/skrib/o⟦上/书ˢ/o⟧:（手紙の）表書き;（建造物などの）碑銘
-sur/slip/ig/i⟦上/slip/使/i⟧:［他］カードに記入する
+sur/slip/ig/i⟦上/卡ˢ/使/i⟧:［他］カードに記入する
 sur/strat/a⟦上/街/a⟧:路上の,街頭の
 sur/strat/a diven/ist/o⟦上/街/a 猜/家/o⟧:大道易者,街頭占い師
 sur/strat/a fum/ad/o⟦上/街/a 烟/行/o⟧:路上喫煙
