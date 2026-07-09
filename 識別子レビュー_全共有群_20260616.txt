@@ -2795,6 +2795,13 @@
   libertin       荡ᴸ         F=3     pejvo   
   vagabond       荡ⱽᴮ        F=2     pejvo   
 
+【营】 5件
+  bivak          营          F=2     pejvo   
+  kazern         营ᴷ         F=4     pejvo   
+  kantonment     营ᴷᴺ        F=3     pejvo   
+  kvartir        营ᴷⱽ        F=3     pejvo   
+  batalion       营ᴮᵀ        F=1     pejvo   
+
 【议】 5件
   konsil         议          F=27    basic   
   parlament      议ᴾᴸ        F=16    basic   
@@ -3224,6 +3231,12 @@
   kolon          柱ᴷ         F=23    basic   
   fost           柱ᶠ         F=13    basic   
   kegl           柱ᴷᴳ        F=6     pejvo   
+
+【停】 4件
+  halt           停          F=31    basic   
+  kape           停ᴷ         F=2     pejvo   
+  suspend        停ˢˢ        F=2     piv     停止
+  stop           停ˢ         F=1     piv     
 
 【定】 4件
   fiks           定          F=38    basic   
@@ -3657,6 +3670,12 @@
   etiked         标ᴱ         F=4     pejvo   
   brisur         标ᴮ         F=2     piv     【紋章】区別記号
 
+【栏】 4件
+  kolumn         栏          F=2     basic   
+  rubrik         栏ᴿ         F=1     basic   
+  barier         栏ᴮ         F=4     pejvo   
+  balustrad      栏ᴮᴸ        F=1     pejvo   
+
 【树】 4件
   arb            树          F=150   basic   
   fag            树ᶠ         F=18    basic   
@@ -3740,12 +3759,6 @@
   intest         肠ᴵ         F=10    basic   
   enter          肠ᴱ         F=11    pejvo   
   ile            肠ᴵᴸ        F=1     pejvo   
-
-【营】 4件
-  bivak          营          F=2     pejvo   
-  kazern         营ᴷ         F=4     pejvo   
-  kantonment     营ᴷᴺ        F=3     pejvo   
-  kvartir        营ᴷⱽ        F=3     pejvo   
 
 【蓝】 4件
   blu            蓝          F=41    basic   
@@ -4494,11 +4507,6 @@
   meta           超ᴹ         F=26    pejvo   
   transcend      超ᵀ         F=3     pejvo   
 
-【停】 3件
-  halt           停          F=31    basic   
-  kape           停ᴷ         F=2     pejvo   
-  suspend        停ˢ         F=2     piv     停止
-
 【剃】 3件
   raz            剃          F=13    basic   
   barbir         剃ᴮ         F=3     basic   
@@ -5068,11 +5076,6 @@
   daktil         枣          F=8     basic   
   jujub          枣ᴶ         F=4     pejvo   
   zizif          枣ᶻ         F=3     pejvo   
-
-【栏】 3件
-  kolumn         栏          F=2     basic   
-  rubrik         栏ᴿ         F=1     basic   
-  barier         栏ᴮ         F=4     pejvo   
 
 【样】 3件
   specimen       样          F=5     basic   
@@ -6763,6 +6766,10 @@
 【听】 2件
   aŭd            听          F=29    basic   
   aŭskult        听ᴬˢ        F=12    basic   
+
+【吼】 2件
+  muĝ            吼          F=3     basic   
+  ror            吼ᴿ         F=1     piv     
 
 【咏】 2件
   c^ant          咏          F=3     pejvo   

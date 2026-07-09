@@ -2425,7 +2425,7 @@ arme/o⟦军/o⟧:{Ｂ}軍隊;〜軍;《転》大群
 arm/i⟦武/i⟧:{Ｂ}［他］武装させる;装甲する
 arm/il/ej/o⟦武/具/所/o⟧:武器庫,兵器庫
 arm/il/o⟦武/具/o⟧:武器,兵器
-armistic/o:【法】休戦（交戦当事者の合意による戦闘停止）,=militpau^zo,>>batalpau^zo
+armistic/o⟦停战/o⟧:【法】休戦（交戦当事者の合意による戦闘停止）,=militpau^zo,>>batalpau^zo
 arm/it/a⟦武/受/a⟧:武装した;装甲した
 arm/it/a fort/o⟦武/受/a 强/o⟧:武力
 arm/it/a inter/ven/o⟦武/受/a 间/来/o⟧:武力介入,武力干渉
@@ -2603,7 +2603,7 @@ astat/a⟦无定/a⟧:【理】無定位の,>>stata
 as-temp/o⟦as-时/o⟧:【Ｇ】現在（時制）,=prezenco
 aster/ac/oj⟦菊ᴬ/科ᴬ/oj⟧:【植】キク科
 asteri/o⟦海星/o⟧:【動】ヒトデ,=marstelo
-asterisk/o:【印】【情】アステリスク（＊）
+asterisk/o⟦星号/o⟧:【印】【情】アステリスク（＊）
 aster/o⟦菊ᴬ/o⟧:【植】シオン（紫苑）（属）
 asteroid/o:【天】小惑星,=planedeto
 astigmat/a⟦散光/a⟧:【光】非点収差の;【病】乱視の
@@ -2701,7 +2701,7 @@ atlas/o:{Ｏ}【織】=sateno（サテン）
 atlas/o:{Ｏ}地図帳;図表集
 Atlas/o:【神】アトラス
 Atlas/o:【地名】アトラス山脈（アフリカ北西部）
-atletik/o:運動競技;【運】陸上競技
+atletik/o⟦田径/o⟧:運動競技;【運】陸上競技
 atlet/ism/o⟦选手/主义/o⟧:運動競技,陸上競技
 atlet/o⟦选手/o⟧:{Ｏ}運動選手
 atm.:［略］=antau^tagmeze,午前
@@ -2710,7 +2710,7 @@ atmosfer/aj^/o⟦气ᴬᵀ/物/o⟧:【通】空電;（ラジオの）雑音
 atmosfer/a perturb/o⟦气ᴬᵀ/a 扰ᴾ/o⟧:【気】大気擾乱（じょうらん）
 atmosfer/a prem/o⟦气ᴬᵀ/a 压/o⟧:【理】大気圧,>>aerpremo
 atmosfer/o⟦气ᴬᵀ/o⟧:{Ｏ}大気;雰囲気;【理】気圧（気圧の単位，atm）
-atol/o:【地理】環礁
+atol/o⟦环礁/o⟧:【地理】環礁
 atom/a⟦子ᴬ/a⟧:原子の;原子力の,核の
 atom/a arm/il/o⟦子ᴬ/a 武/具/o⟧:核兵器
 atom/a energi/o⟦子ᴬ/a 能ᴱ/o⟧:【理】原子力
@@ -2761,11 +2761,11 @@ au^d/a tub/o⟦听/a 管/o⟧:【解】耳管,=orela tubo
 au^d/ebl/a⟦听/可/a⟧:聞こえる
 au^d/ebl/a son/o⟦听/可/a 声/o⟧:【理】可聴音
 au^d/i⟦听/i⟧:{Ｂ}［他］聞く;聞こえる
-au^dienc/o:{Ｏ}（公式の）引見
+au^dienc/o⟦接见/o⟧:{Ｏ}（公式の）引見
 au^d/ig/i⟦听/使/i⟧:［他］聞かせる;（音を）たてる
 au^d/ig^/i⟦听/成/i⟧:［自］聞こえて来る
 au^d/il/o⟦听/具/o⟧:受話器,イヤホン
-au^ditori/o:{Ｏ}講堂
+au^ditori/o⟦讲堂/o⟧:{Ｏ}講堂
 au^d/o⟦听/o⟧:聴覚
 au^d/o/kapabl/o⟦听/o/能ᴷ/o⟧:聴力
 au^d/o/vid/a⟦听/o/见/a⟧:視聴覚の
@@ -2788,7 +2788,7 @@ Au^kland/aj Insul/oj:【地名】オークランド諸島（ニュージーラ�
 Au^kland/o:【地名】オークランド（ニュージーランド）
 AU^-kombin/il/o:【情】オア回路,OR回路
 Au^lid/o:【地名】アウリス（古代港湾都市遺跡，ギリシア）
-au^l/o:（大学などの式典用）大講堂,大ホール
+au^l/o⟦礼堂/o⟧:（大学などの式典用）大講堂,大ホール
 au^reol/o⟦光环/o⟧:{Ｏ}【宗】後光;《転》栄光
 au^rignaci/o:【考古】オーリニャック期（ヨーロッパ後期旧石器時代の初期）
 au^rikl/o:【解】耳介;【解】心耳
@@ -2834,7 +2834,7 @@ au^tobus/halt/ej/o⟦车ᴬᴮ/停/所/o⟧:バス停,=bushaltejo
 au^tobus/o⟦车ᴬᴮ/o⟧:{Ｂ}バス
 au^t/o/c^ar/o⟦车/o/车ᶜ̂/o⟧:=au^tobuso（バス）
 au^todafe/o:【キ】異端者の火刑
-au^todidakt/o:独学者,独習者
+au^todidakt/o⟦自学/o⟧:独学者,独習者
 au^t/o/fabrik/o⟦车/o/厂/o⟧:自動車工場
 au^t/o/flot/o⟦车/o/舰/o⟧:（車両の）総保有量
 au^togir/o:【空】オートジャイロ,>>helikoptero
@@ -2909,7 +2909,7 @@ avan/ul/o⟦前ᴬⱽ/者/o⟧:【運】前衛,フォワード
 avar/a⟦吝/a⟧:{Ｂ}欲の深い,けちな
 avar/i⟦吝/i⟧:［他］欲張る,けちる,出し惜しむ
 avar/ul/o⟦吝/者/o⟧:けちん坊,守銭奴
-avatar/o:【宗】（ヒンドゥー教・仏教の）化身,権化,権現;《転》化身,具現
+avatar/o⟦化身/o⟧:【宗】（ヒンドゥー教・仏教の）化身,権化,権現;《転》化身,具現
 av/c^j/o⟦爷/c^j/o⟧:おじいちゃん
 avel/kolor/a⟦坚果/色/a⟧:薄茶色の
 avel/o⟦坚果/o⟧:{Ｏ}【果】ハシバミの実,ヘーゼルナッツ
@@ -3143,7 +3143,7 @@ balte/e⟦带ᴮᴸ/e⟧:肩から斜めに
 balte/o⟦带ᴮᴸ/o⟧:（剣や重荷を支えるために肩にかける）負い革,肩帯;（肩からかける）シートベルト
 Baltimor/o:【地名】ボルティモア（米国）
 balt/o:【史】バルト人（バルト海沿岸地方）
-balustrad/o:{Ｏ}【建】手すり,欄干
+balustrad/o⟦栏ᴮᴸ/o⟧:{Ｏ}【建】手すり,欄干
 balustr/o:【建】手すり子（手すり・欄干を支える小柱）
 balzam/a⟦膏ᴮ/a⟧:バルサムを含む;芳香性の,かぐわしい;苦痛を和らげる
 balzam/arb/o⟦膏ᴮ/树/o⟧:【植】バルサムモミ;バルサムを産する樹木
@@ -3344,7 +3344,7 @@ bastard/a⟦庶/a⟧:嫡出でない
 bastard/ec/o⟦庶/性/o⟧:庶生,私生
 bastard/o⟦庶/o⟧:{Ｏ}嫡出でない子,庶子,私生子
 Bastil/o:【史】バスチーユ（パリにあった牢獄）;《転》堅固な牢獄
-bastion/o:{Ｏ}【軍】稜堡（りょうほう）;《転》砦（とりで）
+bastion/o⟦棱堡/o⟧:{Ｏ}【軍】稜堡（りょうほう）;《転》砦（とりで）
 bast/o:{Ｏ}【植】靭皮（じんぴ）
 baston/ad/o⟦棒/行/o⟧:（棒で）叩くこと,殴打
 baston/eg/o⟦棒/巨/o⟧:棍棒（こんぼう）
@@ -3365,7 +3365,7 @@ batal/em/a⟦战ᴮ/倾/a⟧:戦闘的な
 batal/halt/o⟦战ᴮ/停/o⟧:停戦,戦闘中止,=batalpau^zo
 batal/i⟦战ᴮ/i⟧:{Ｂ}［自］戦う
 batal/il/o⟦战ᴮ/具/o⟧:武器
-batalion/o:{Ｏ}【軍】大隊
+batalion/o⟦营ᴮᵀ/o⟧:{Ｏ}【軍】大隊
 batal/ist/o⟦战ᴮ/家/o⟧:（職業的）闘士,戦士
 batal/kamp/o⟦战ᴮ/田/o⟧:戦場
 batal/kok/o⟦战ᴮ/鸡/o⟧:闘鶏（鳥）,>>kokbatalo
@@ -4525,7 +4525,7 @@ brut/vagon/o⟦畜/厢/o⟧:【鉄】家畜運搬車
 BSE:【病】［略］=Bova Spongoforma Encefalopatio（牛海綿状脳症）
 bub/ac^/o⟦顽/劣/o⟧:非行少年,がき
 bub/aj^/o⟦顽/物/o⟧:いたずら
-bubal/o:{Ｏ}【動】スイギュウ（水牛）
+bubal/o⟦水牛/o⟧:{Ｏ}【動】スイギュウ（水牛）
 bub/o⟦顽/o⟧:{Ｂ}いたずらっ子;【遊】（トランプの）ジャック,=fanto
 buc^/ad/o⟦屠/行/o⟧:屠殺（とさつ）,屠畜（とちく）;《転》虐殺
 buc^/ej/o⟦屠/所/o⟧:屠殺場,屠畜場
@@ -15146,7 +15146,7 @@ incens/i⟦香ᴵ/i⟧:［他］香をささげる;《転》褒めそやす
 incens/il/o⟦香ᴵ/具/o⟧:香炉,吊り香炉
 incens/o⟦香ᴵ/o⟧:{Ｏ}（宗教的儀式に用いる）香（こう）,>>odorfumo;《転》称賛,お世辞
 incens/uj/o⟦香ᴵ/器/o⟧:=incensilo（香炉）
-incest/o:近親相姦（かん）,=sangadulto
+incest/o⟦乱伦/o⟧:近親相姦（かん）,=sangadulto
 incid/a angul/o⟦射ᴵ/a 角/o⟧:【理】入射角
 incid/a ond/o⟦射ᴵ/a 波/o⟧:【理】入射波
 incid/a radi/o⟦射ᴵ/a 射ᴿ/o⟧:【理】入射光線
@@ -18447,7 +18447,7 @@ kolos/a⟦巨ᴷ/a⟧:巨大な,大規模な
 kolos/a urb/o⟦巨ᴷ/a 市/o⟧:巨大都市
 kolos/a vir/o⟦巨ᴷ/a 男/o⟧:雲つくような大男
 kolos/o⟦巨ᴷ/o⟧:{Ｏ}巨像;《転》巨人;大国
-kolostr/o:初乳
+kolostr/o⟦初乳/o⟧:初乳
 kolport/ad/o⟦贩ᴷ/行/o⟧:行商
 kolport/aj^/o⟦贩ᴷ/物/o⟧:行商品
 kolport/i⟦贩ᴷ/i⟧:{Ｏ}［他］行商する
@@ -45260,7 +45260,7 @@ arg^ent/um/o⟦银/um/o⟧:【技】【PIV】Arg^entano.
 arh^…:【PIV】Serc^u ark…
 arh^aj/a:【PIV】= arkaika.
 ari/a:【PIV】= arja.
-arid/a:【地理】【PIV】1 (pp (se paroli pri) klimato) Tre seka, dezerta; (pp (se paroli pri) grundo) Malfekunda pro troa sekeco. Vd senarba, dezerta, stepo. 2 (f (figurasence)) Malsentema, sensenta.
+arid/a⟦旱/a⟧:【地理】【PIV】1 (pp (se paroli pri) klimato) Tre seka, dezerta; (pp (se paroli pri) grundo) Malfekunda pro troa sekeco. Vd senarba, dezerta, stepo. 2 (f (figurasence)) Malsentema, sensenta.
 arier/o⟦后卫/o⟧:【PIV】La malantau^a parto de armeo, tac^mento ks (kaj simile, kaj similaj). -> ariergardo.
 Arion/o:【PIV】Helena lirikisto: la fablo de Ariono k la delfeno.
 Ariost/o:【PIV】Itala poeto, au^toro de «Rolando freneza» (L. Ariosto, 1474−1533).
@@ -47983,7 +47983,7 @@ fove/o⟦窝ᶠ/o⟧:【解】【PIV】(fovea) Termino por kavetoj: centra foveo
 fove/et/o⟦窝ᶠ/小/o⟧:【PIV】(foveola) Malgranda foveo.
 fr!:【PIV】Interj. (Interjekcio), uzata por fortimigi birdojn. Vd hus^!
 fragari/o⟦草ᶠᴳ/o⟧:【植】【PIV】G. (Genro) (Fragaria el rozacoj) de plurjaraj herboj kun rizomo, surteraj stolonoj, trifolieraj folioj, blankaj floroj k kun pseu^doberoj (fragoj); c^. (c^irkau^) 12 sp-oj (specioj) el la N hemisfero k S Ameriko, pluraj kultivataj por produktado de fragoj, precipe la hibrido F. × ananassa, pli malofte la sp. F. vesca.
-fragil/a:【技】【PIV】(pp (se paroli pri) materio) Rompig^ema c^e ekfrapo au^ abrupta strec^o: giso estas fragila metalo, s^talo, tre malfragila.
+fragil/a⟦脆/a⟧:【技】【PIV】(pp (se paroli pri) materio) Rompig^ema c^e ekfrapo au^ abrupta strec^o: giso estas fragila metalo, s^talo, tre malfragila.
 fragment/ig^/o⟦碎ᶠᴳ/成/o⟧:【生態】【PIV】Diserig^o de habitatoj de plantoj k bestoj k de pejzag^oj i.a. (interalie, inter aliaj) pro la konstruado de vojoj, kanaloj ks (kaj simile, kaj similaj) infrastrukturoj, kiu bremsas au^ malhelpas la naturan disvastig^on de diversaj vivuloj.
 fraj/aj^/o⟦鱼卵/物/o⟧:【PIV】Preparita frajo de fis^oj (precipe salmo, haringo, moruo) por mang^i ekz. (ekzemple) entree. Vd kaviaro.
 frakas/a⟦碎/a⟧:【PIV】Tia, ke g^i frakasas: la frakasa tono de profunde ofendita virino.
@@ -49162,7 +49162,7 @@ hors/ist/o⟦hors/家/o⟧:【PIV】Detala s^akristo de heroino.
 hors/ul/o⟦hors/者/o⟧:【PIV】Heroinmaniulo, dependulo de heroino.
 hors/em/ul/o⟦hors/倾/者/o⟧:【PIV】Heroinmaniulo, dependulo de heroino.
 horst/o:【地質】【PIV】Terkrusta altaj^o, estigita de samdirektaj normalaj fau^ltoj. Vd grabeno.
-hort/o:【PIV】G^ardeno de fruktarboj.
+hort/o⟦果园/o⟧:【PIV】G^ardeno de fruktarboj.
 hortikultur/ej/o⟦园艺/所/o⟧:【PIV】Loko kie oni produktas hortikulturajn produktojn.
 hortikultur/ist/o⟦园艺/家/o⟧:【PIV】Persono, kies profesio estas hortikulturo.
 hos/o:【PIV】Fleksebla tubo el kau^c^uko, plasto au^ metalo: aer-, vapor-, suc^o-, akvo-hoso.
@@ -54492,7 +54492,7 @@ rond/e⟦圆/e⟧:【PIV】En ronda maniero: g^i kuras ronde .
 rondau^/o:【PIV】Franca fiksforma poemeto el 13 versoj lau^ du rimoj, kun deviga ripeto de la unuaj vortoj (x) post la dua k tria strofo (skemo: aabba-aabx-aabbax).
 rong^/ul/oj⟦啃ᴿᴺ/者/oj⟧:【動】【PIV】Ordo (Rodentia) de mamuloj plejparte grajnovoraj, kies makzeloj havas kurbe c^izilformajn incizivojn nur po 2: histriko, gliro, kastoro, marmoto, muso, rato, sciuro k.a. (kaj aliaj) estas rong^uloj. Vd leporuloj.
 Ronsard/o:【PIV】Franca Renesanca poeto (P. de Ronsard, 1524−1585).
-ror/i:【PIV】(ntr (netransitiva)) Tigre, leone bleki.
+ror/i⟦吼ᴿ/i⟧:【PIV】(ntr (netransitiva)) Tigre, leone bleki.
 rorkval/o:【PIV】= balenoptero.
 ros/as⟦露/as⟧:【PIV】(ntr (netransitiva)) Demetig^as roso.
 ros/um/o⟦露/um/o⟧:【PIV】Demetaj^o el fajnaj akvogutetoj sur malvarmaj surfacoj i.a. (interalie, inter aliaj) interne de konstruaj^o: fenestrovitroj kovritaj de rosumo. Vd vaporo.
@@ -55457,7 +55457,7 @@ stomatologi/o:【PIV】Parto de la medicino, pri la bus^o k la dentoj.
 stomatoskop/o:【PIV】Speguleto de kuracisto au^ dentisto, por esplori la bus^on.
 stomatoskopi/o:【PIV】Arto k scienco esplori per stomatoskopo.
 stomp/o⟦晕染/o⟧:【PIV】Cilindro el volvita sorbopapero au^ alia materialo, kun konusa fino, uzata en desegnado, por malpliintensigi strekojn de krajono ks (kaj simile, kaj similaj).
-stop/i:【PIV】(tr (transitiva)) Haltigi, pp (se paroli pri) mas^ino: stopi la motoron.
+stop/i⟦停ˢ/i⟧:【PIV】(tr (transitiva)) Haltigi, pp (se paroli pri) mas^ino: stopi la motoron.
 stop!:【PIV】Interj. (Interjekcio), uzata 1 por haltigi mas^inon, precipe en la marista lingvo; 2 por apartigi la frazojn en telegramoj.
 storak/o:【PIV】Aroma rezino: 1 vaksosimila (solida storako), liverita de la oficina stirako, nun ne plu uzata 2 likva (likva storako, likvidambara storako), liverita de du sp-oj (specioj) de likvidambaro, uzata en farmacio k parfumindustrio.
 stornel/o:【PIV】Fiksforma poemo italdevena, konsistanta el tri versoj, kun c^e la komenco alvoko al floro.
@@ -55566,7 +55566,7 @@ sufraget/o:【史】【PIV】Unu el la virinoj, kiuj en Anglio komence de la 20a
 sufuz/i⟦渗ˢ/i⟧:【医】【PIV】(ntr (netransitiva)) (pp (se paroli pri) organisma likvo, precipe sango) Elvers^ig^i el vaskulo (sango), el peritoneo (ascito), k disvastig^i en la histojn.
 sufuz/o⟦渗ˢ/o⟧:【PIV】Ago sufuzi.
 sugesti/ebl/a⟦暗示/可/a⟧:【PIV】Tia, ke oni povas facile lin/s^in sugestii: sugestiebla paciento.
-suicid/o:【法】【PIV】Ago, per kiu mortigas sin memkonscia homo kiu, povante elekti la vivon, elektas tamen la morton.
+suicid/o⟦自杀/o⟧:【法】【PIV】Ago, per kiu mortigas sin memkonscia homo kiu, povante elekti la vivon, elektas tamen la morton.
 suit/o:【楽】【PIV】Aro da instrumentaj pecoj, principe samtonikaj.
 sukced/i:【PIV】(tr (transitiva)) Veni post iu, transprenante ties oficon, rangon, regadon.
 sukcenat/o:【化】【PIV】Salo de sukcenata acido, COOH(CH 2) 2 COOH, etandikarbonata acido, trovig^anta en sukceno.
@@ -55631,8 +55631,8 @@ surfac/aj^/o⟦面ˢ/物/o⟧:【PIV】Io, aparte rigardata el la vidpunkto de l
 Fermi-surfac/o:【理】【PIV】La divido inter okupitaj k neokupitaj elektronniveloj en la bendostrukturo de metalo au^ duonkonduktanto.
 surmulet/o⟦鱼ˢᵀ/o⟧:【動】【PIV】Sp. (Specio) (Mullus surmuletus) de fis^o el la ordo de perkoformaj fis^oj, kun rug^a dorso k flavaj strioj lau^ la flankoj; bongusta karno.
 surpriz/e⟦惊ˢ/e⟧:【PIV】En surpriza maniero: alveni tute surprize; li surprize rigardis la donacon.
-suspend/i⟦停ˢ/i⟧:【法】【PIV】1 Provizore deteni iun de la plenumado de ties funkcio au^ ofico: suspendi policiston, administranton; la episkopo suspendis tiun pastron. Vd interdikto. 2 Provizore igi senefika au^ neaplikata: suspendi la regulojn de elektig^o favore al eminenta persono; suspendi leg^on; (f (figurasence)) suspendi sian nekredemon.
-suspend/o⟦停ˢ/o⟧:【PIV】Ago de iu, kiu suspendas iun au^ ion.
+suspend/i⟦停ˢˢ/i⟧:【法】【PIV】1 Provizore deteni iun de la plenumado de ties funkcio au^ ofico: suspendi policiston, administranton; la episkopo suspendis tiun pastron. Vd interdikto. 2 Provizore igi senefika au^ neaplikata: suspendi la regulojn de elektig^o favore al eminenta persono; suspendi leg^on; (f (figurasence)) suspendi sian nekredemon.
+suspend/o⟦停ˢˢ/o⟧:【PIV】Ago de iu, kiu suspendas iun au^ ion.
 suspens/o:【PIV】Momento en filmo au^ dramo, kiam la agado, kvazau^ haltante, tenas la spektanton en strec^a atendo.
 suspensi/o⟦悬/o⟧:【技】【PIV】1 Tuto de la arang^o, kiu ebligas al korpo, aparato, parto de mas^ino ks (kaj simile, kaj similaj) pendi de supraj^o per elastaj rimedoj, kiuj certigas tamen g^ian stabilecon: kardana suspensio; oleopneu^mata suspensio de au^tomobilo; pendosuspensio. 2【化】 Tuto de likvo k de tre subtile diserigitaj eroj de solido, miksitaj al, sed ne solvita en g^i: partetoj el argilo en suspensio en la akvo. Sin. (sinonimo) s^vebaj^o. Vd emulsio, solvaj^o.
 suspensi/er/o⟦悬/粒/o⟧:【化】【PIV】Solida konsistiga elemento de suspensio 2: suspensieroj de argilo en akvo. Sin. (sinonimo) s^vebero. Vd koloidero, micelo.
