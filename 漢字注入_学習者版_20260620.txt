@@ -2371,7 +2371,7 @@ arj/o:【史】アーリア人（インド・イラン系）;【史】（ナチ�
 arkad/ar/o⟦拱廊/群/o⟧:【建】アーケード（全体）
 Arkadi/o:【地名】アルカディア（ギリシア、ペロポネソス半島中央部の山岳地帯）;《転》牧歌的な理想郷
 arkad/o⟦拱廊/o⟧:{Ｏ}【建】アーケード（一区画）
-arkaik/a:{Ｏ}（言葉などが）古風な,廃れた
+arkaik/a⟦古ᴬᴵ/a⟧:{Ｏ}（言葉などが）古風な,廃れた
 arka/ism/o⟦古ᴬᴿ/主义/o⟧:{Ｏ}【語】古語,古風な表現;【文】擬古主義##偽分解(PIV正式分解)
 ark/aj^/ar/o⟦弧/物/群/o⟧:=arkadaro（アーケード）
 ark/aj^/o⟦弧/物/o⟧:弓形のもの;【建】アーチ
@@ -2818,10 +2818,10 @@ Au^str/uj/o:【国名】=Au^strio（オーストリア）
 Au^s^vic/o:【地名】アウシュビッツ（ポーランド）,=Os^viencimo
 au^tarci/o:【経】（一国の）経済的自給自足状態,アウタルキー,=ekonomia memsufic^o
 au^t/ej/o⟦车/所/o⟧:車庫,ガレージ;自動車修理工場
-au^tent/a:=au^tentika（真正の）
-au^tentik/a⟦真ᴬ/a⟧:{Ｏ}真正の,（典拠により）確かな;【法】認証された
-au^tentik/ec/o⟦真ᴬ/性/o⟧:真正さ,信憑性
-au^tentik/ig/i⟦真ᴬ/使/i⟧:［他］（真正であることを）認証する,公認する
+au^tent/a⟦真ᴬ/a⟧:=au^tentika（真正の）
+au^tentik/a⟦真ᴬᴷ/a⟧:{Ｏ}真正の,（典拠により）確かな;【法】認証された
+au^tentik/ec/o⟦真ᴬᴷ/性/o⟧:真正さ,信憑性
+au^tentik/ig/i⟦真ᴬᴷ/使/i⟧:［他］（真正であることを）認証する,公認する
 au^t/ism/a infan/o⟦自ᴬ/主义/a 童/o⟧:自閉症児##偽分解##過細分解 a/u^/t/ism/a infan/o
 au^t/ism/o⟦自ᴬ/主义/o⟧:【医】自閉症##偽分解##過細分解 a/u^/t/ism/o
 au^t/ism/ul/o⟦自ᴬ/主义/者/o⟧:自閉症者##偽分解##過細分解 a/u^/t/ism/ul/o
@@ -2846,7 +2846,7 @@ au^t/o/krati/o⟦自ᴬ/o/治ᴷᴵ/o⟧:{Ｏ}【政】専制政治##偽分解##
 au^t/o/krat/ism/o⟦自ᴬ/o/治ᴷ/主义/o⟧:【政】専制主義##偽分解##過細分解 a/u^/t/o/krat/ism/o
 au^t/o/krat/o⟦自ᴬ/o/治ᴷ/o⟧:{Ｏ}専制君主##偽分解##過細分解 a/u^/t/o/krat/o
 au^tokton/o:=pralog^anto（原住民）
-au^tomaci/o:【機】オートメーション
+au^tomaci/o⟦动ᴬᶜ/o⟧:【機】オートメーション
 au^tomat/a⟦动ᴬ/a⟧:自動式の;《転》機械的な
 au^tomat/a en/fokus/ig/o⟦动ᴬ/a 内/焦点/使/o⟧:【写】自動焦点
 au^tomat/a pes/il/o⟦动ᴬ/a 衡ᴾ/具/o⟧:【理】自動はかり
@@ -3810,7 +3810,7 @@ bivak/o⟦营/o⟧:{Ｏ}【軍】野営,野宿
 Biv/a Lag/o:【地名】琵琶湖
 Biv/o:【地名】琵琶湖,=Biva Lago
 Bizanc/o:【史】ビザンチウム（東ローマ帝国の首都）,>>Istanbulo
-bizar/a:《詩》=stranga（奇妙な）
+bizar/a⟦奇ᴮ/a⟧:《詩》=stranga（奇妙な）
 bizon/o⟦野牛/o⟧:{Ｏ}【動】バイソン,ヤギュウ（野牛）,>>Amerika bizono,>>Eu^ropa bizono
 Bjalistok/o:【地名】ビヤウィストク（ポーランド）
 Bjelostok/o:【地名】=Bjalistoko
@@ -9277,7 +9277,7 @@ embaras/o de ric^/ec/o⟦窘/o 从 富/性/o⟧:あり余る豊かさ,ものが�
 embarg/i⟦禁ᴱ/i⟧:［他］【法】（船舶に対し）出港や荷下ろしを禁止する;《般》（輸出入や報道を）禁止する
 embarg/o⟦禁ᴱ/o⟧:【法】（船舶に対する）出港禁止,エンバーゴ
 emberiz/o⟦雀ᴱ/o⟧:【鳥】ホオジロ（属）
-emblem/o:{Ｏ}紋章,標章,>>blazono,>>insigno;象徴,表象,>>alegorio,>>simbolo;【遊】（トランプの）印（しるし）,>>trefo,>>piko,>>kero,>>karoo
+emblem/o⟦徽ᴱ/o⟧:{Ｏ}紋章,標章,>>blazono,>>insigno;象徴,表象,>>alegorio,>>simbolo;【遊】（トランプの）印（しるし）,>>trefo,>>piko,>>kero,>>karoo
 emboli/o:【医】塞栓（そくせん）症
 embol/o⟦栓ᴱ/o⟧:【医】塞栓（そくせん）,>>trombo
 embol/oz/o⟦栓ᴱ/症ᴼ/o⟧:【病】=embolio（塞栓症）##偽分解(PIV正式分解)
@@ -15583,7 +15583,7 @@ insult/at/aj^/o⟦侮ᴵ/被/物/o⟧:悪口の的（まと）
 insult/em/a⟦侮ᴵ/倾/a⟧:無礼な,口の悪い
 insult/i⟦侮ᴵ/i⟧:{Ｂ}［他］（言葉で）侮辱する,ののしる,悪口を言う
 insult/o⟦侮ᴵ/o⟧:ののしり,悪口,暴言
-insurekci/o:《Ｎ》（圧政に対する）民衆蜂起,暴動,反乱,>>ribelo
+insurekci/o⟦叛ᴵ/o⟧:《Ｎ》（圧政に対する）民衆蜂起,暴動,反乱,>>ribelo
 int.:［略］=internacia
 -int-⟦过⟧:{Ｂ}［分詞接尾辞］（能動・完了）
 intajl/o:【機】（宝石の）沈み彫り,>>kameo
@@ -19622,7 +19622,7 @@ konversaci/a⟦谈/a⟧:会話の
 konversaci/a salon/o⟦谈/a 厅ˢ/o⟧:談話室
 konversaci/i⟦谈/i⟧:{Ｂ}［自］会話する,親しく話す
 konversaci/o⟦谈/o⟧:{Ｏ}会話,談話
-konvers/i:［自］=konversacii（会話する）
+konvers/i⟦谈ᴷᴼ/i⟧:［自］=konversacii（会話する）
 konvert/ebl/a⟦转ᴷ/可/a⟧:転換できる,変換できる
 konvert/ebl/a valut/o⟦转ᴷ/可/a 币/o⟧:【経】兌換（だかん）通貨,交換可能通貨
 konvert/i⟦转ᴷ/i⟧:{Ｏ}［他］【宗】改宗させる;【政】転向させる;【理】（原子核を）転換する;【経】（通貨を）交換する,兌換する
@@ -26326,7 +26326,7 @@ muar/a⟦波纹/a⟧:波形模様のついた
 muar/ad/o⟦波纹/行/o⟧:（布などの）モアレ加工
 muar/i⟦波纹/i⟧:［他］【機】（布・紙・金属に）波形模様をつける,モアレ加工する
 muar/o⟦波纹/o⟧:波形模様,モアレ
-mucid/a:かびくさい;かびの生えた,>>s^ima
+mucid/a⟦霉ᴹ/a⟧:かびくさい;かびの生えた,>>s^ima
 mucilag/a⟦粘液/a⟧:粘液質の
 mucilag/o⟦粘液/o⟧:【植】粘液;【薬】粘漿薬（ねんしょうやく）
 muel/ad/o⟦磨/行/o⟧:製粉
@@ -27014,7 +27014,7 @@ ne/for/las/ebl/a⟦不/离/留/可/a⟧:手放せない,放棄できない
 ne/formal/a⟦不/形ᶠᴸ/a⟧:略式の,形式張らない
 Nefud/o:【地名】ネフド砂漠（アラビア北部）
 ne/fum/ant/o⟦不/烟/在/o⟧:非喫煙者
-negaci/o:否定,否認,=neado;【Ｇ】否定,否定語
+negaci/o⟦否ᴺᶜ/o⟧:否定,否認,=neado;【Ｇ】否定,否定語
 ne/gast/am/a⟦不/客/爱/a⟧:もてなしの悪い,無愛想な,不親切な
 negativ/a⟦否/a⟧:{Ｏ}消極的な;否定的な;【電】陰の;【理】負の,Ｓ極の;【数】負の;>>pasiva,><pozitiva
 negativ/a elektr/o⟦否/a 电/o⟧:【理】負電気
@@ -28482,7 +28482,7 @@ opal/ec/a⟦蛋白石/性/a⟧:乳白色の,乳光を放つ
 opal/esk/a⟦蛋白石/风ᴱ/a⟧:=opaleca（乳白色の）
 opal/esk/i⟦蛋白石/风ᴱ/i⟧:［自］【理】乳光を放つ,タンパク光を放つ
 opal/o⟦蛋白石/o⟧:{Ｏ}【鉱】オパール,タンパク石
-opci/o:選択の自由,選択肢,>>alternativo;【法】選択権;【商】選択売買,オプション
+opci/o⟦选ᴼ/o⟧:選択の自由,選択肢,>>alternativo;【法】選択権;【商】選択売買,オプション
 op/e⟦组/e⟧:連れだって,組になって
 oper/a⟦歌剧/a⟧:オペラの
 operaci/a kamp/o⟦操/a 田/o⟧:【医】手術野
@@ -32227,10 +32227,10 @@ progres/iv/a⟦进/能ᴵ/a⟧:累進的な
 progres/iv/a impost/o⟦进/能ᴵ/a 税/o⟧:【法】累進税
 progres/iv/ec/o⟦进/能ᴵ/性/o⟧:累進性
 progres/o⟦进/o⟧:進歩,向上,上達,発展;進行,前進
-prohib/i:《稀》［他］=malpermesi（禁止する）
-prohibici/aj^/o⟦禁ᴾ/物/o⟧:禁制品
-prohibici/i⟦禁ᴾ/i⟧:［他］【法】（製造・売買を法的に）禁止する,=leg^e malpermesi
-prohibici/o⟦禁ᴾ/o⟧:【法】禁止,禁制,禁輸
+prohib/i⟦禁ᴾ/i⟧:《稀》［他］=malpermesi（禁止する）
+prohibici/aj^/o⟦禁ᴾᶜ/物/o⟧:禁制品
+prohibici/i⟦禁ᴾᶜ/i⟧:［他］【法】（製造・売買を法的に）禁止する,=leg^e malpermesi
+prohibici/o⟦禁ᴾᶜ/o⟧:【法】禁止,禁制,禁輸
 projekci/ad/o⟦射ᴾᴿ/行/o⟧:（フィルムなどの）映写,上映;投影
 projekci/aj^/o⟦射ᴾᴿ/物/o⟧:スライド（フィルム）,>>lumbildo
 projekci/i⟦射ᴾᴿ/i⟧:［他］投影する,映写する;【心】投射する
@@ -43801,7 +43801,7 @@ vok/o⟦呼/o⟧:呼び声;招き;（電話の）呼出音
 vok/o/centr/o⟦呼/o/央/o⟧:コールセンター,電話受付センター
 vok/signal/o⟦呼/号ˢ/o⟧:呼出信号
 vok/sign/o⟦呼/符/o⟧:【通】呼出符号,コールサイン
-vokt/o:監督者,監視人,=laborkontrolisto
+vokt/o⟦督ⱽ/o⟧:監督者,監視人,=laborkontrolisto
 vol.:［略］=volumo
 vol/a⟦愿/a⟧:意志の,意志的な,>>konscia
 volan/lud/o⟦羽ⱽ/玩/o⟧:【運】バドミントン,=badmintono
@@ -44972,7 +44972,7 @@ anakardi/ac/oj⟦木ᴬᴺᴬᴷ/科ᴬ/oj⟧:【植】【PIV】Fam. (Familio) (
 anakinezi/o:【医】【PIV】Reedukado de la movoj.
 anakolut/o:【語】【PIV】Konstruos^ang^o c^e frazo, kiu, komencite en unu maniero, finig^as en alia: ekz. (ekzemple) «glora la celo, sankta l' afero, la venko - baldau^ g^i venos» ; au^ «la proponoj havas la karakteron ne de postulo - ili estas nur bonintencaj konsiloj» .
 anakond/o⟦蛇ᴬ/o⟧:【動】【PIV】Grandega sufokserpento (Eunectes murinus) el la N parto de S Ameriko, vivanta en akvo. Vd boao, pitono.
-anakoret/o:【PIV】Religiulo vivanta en solejo. Vd ermito, dezertulo.
+anakoret/o⟦隐ᴬ/o⟧:【PIV】Religiulo vivanta en solejo. Vd ermito, dezertulo.
 Anakreon/esk/a:【PIV】Imitanta la stilon de Anakreono: Anakreoneska verso, la Anakreoneskaj odoj de Ronsardo.
 anakruz/o:【PIV】1 En la grek-latina metriko, kroma silabo antau^ la unua piedo. 2 Komencaj notoj antau^ la unua mezurostreko.
 anal/oj⟦史ᴬ/oj⟧:【史】【PIV】Rakonto de historiaj faktoj, strikte kronologia: la Analoj de Tacito.
@@ -50593,7 +50593,7 @@ komoci/o⟦震荡/o⟧:【医】【PIV】Organskuo, kau^zita de bato trafinta ko
 komoci/i⟦震荡/i⟧:【PIV】(tr (transitiva)) Trafi per komocio.
 komodor/o:【PIV】= subadmiralo.
 kompakt/o⟦密ᴷ/o⟧:【PIV】Io kompakta, i.a. (interalie, inter aliaj): 1 libro kompakte kompostita; 2 konstru-elemento, speco de artefarita s^tono ricevita per kompaktigo.
-kompan/o:【PIV】(fm (familiara, familiare)) Preferata kunulo, kamarado: forkuris malnovaj amikoj, kompanoj ; du kompanoj en drinkdomo pri c^asadoj fanfaronis .
+kompan/o⟦伴ᴷᴼ/o⟧:【PIV】(fm (familiara, familiare)) Preferata kunulo, kamarado: forkuris malnovaj amikoj, kompanoj ; du kompanoj en drinkdomo pri c^asadoj fanfaronis .
 Komparti/o:【PIV】Mll de Komunista Partio.
 kompas/uj/o⟦罗盘/器/o⟧:【PIV】Ujo, en kiu estas tenata, sub movebla kovrilo, la vazo, en kiu trovig^as la magneta montrilo ligita al la vent-rozo.
 kompleksi/o:【PIV】(ark. (arkaismo, arkaisme)) Korpa konstitucio, temperamento, humoro.
@@ -53338,7 +53338,7 @@ piel/o:【解】【PIV】= pjelo.
 pierid/o⟦蝶ᴾᴿ/o⟧:【動】【PIV】G. (Genro) (Pieris) de tagpapilioj, kies larvoj vivas sur folioj de brasiko k diversaj brasikacoj. Sin. (sinonimo) brasikpapilio.
 pierid/ed/oj⟦蝶ᴾᴿ/科ᴱ/oj⟧:【動】【PIV】Fam. (Familio) (Pieridae) de lepidopteroj, al kiu apartenas i.a. (interalie, inter aliaj) pierido.
 pieris/o:【PIV】= pierido.
-pietat/o:【PIV】Respektoplena, sindona amo: ili estis al mi objektoj de estimo, ec^ de pietato.
+pietat/o⟦敬ᴾᴵ/o⟧:【PIV】Respektoplena, sindona amo: ili estis al mi objektoj de estimo, ec^ de pietato.
 piet/ist/o⟦敬ᴾᵀ/家/o⟧:【PIV】Adepto de pietismo: pietistoj, c^arlatanoj k friponoj . Vd bigoto.##偽分解##強語根分解
 piez/o/metr/o⟦piez/o/计ᴹ/o⟧:【PIV】Instrumento, por mezuri la premojn. -> piezoelektro.##偽分解
 pigr/o⟦懒/o⟧:【PIV】Eco de iu pigra: la urson malindigas granda pigro .
@@ -56545,7 +56545,7 @@ ubliet/o:【史】【PIV】En Mezepokaj kasteloj, subtera karcero, en kiu oni of
 udmurt/o:【PIV】Ano de gento, log^anta en C Rusio.
 Udmurt/i/o:【PIV】Respubliko ene de la Rusia Federacio.
 ued/o:【地理】【PIV】En Saharo k aliaj samklimataj regionoj, lau^tempa rivero, ofte seka, sed tre abunda k torenta post pluvegoj.
-uest/o:【PIV】Okcidento 1, 2; simb. (simbolo): U: nord uesto (NU); suduesta vento. Vd eosto.
+uest/o⟦西ᵁ/o⟧:【PIV】Okcidento 1, 2; simb. (simbolo): U: nord uesto (NU); suduesta vento. Vd eosto.
 uf!:【PIV】Interj. (Interjekcio), esprimanta facilig^on post laceco, penado ks (kaj simile, kaj similaj).
 ugr/o:【史】【PIV】Ano de antikva tribaro, kiu log^is c^. (c^irkau^) 2 000 a.K. (antau^ Kristo) c^e Volgo.
 ugr/a:【語】【PIV】Rilata al lingvogrupo, enhavanta la hungaran, la h^antan k la mansan lingvojn.
@@ -56924,9 +56924,9 @@ vodevil/et/o⟦歌舞剧/小/o⟧:【PIV】Mallonga vodevilo.
 voj/a⟦路/a⟧:【PIV】Rilata al vojo(j), precipe 3: voja administracio, prizorgado, reto, obstrukco.
 voj/ul/o⟦路/者/o⟧:【PIV】1 Homo, kiu vivas c^efe sur la vojoj. Vd trampo, vagabondo. 2 Rovero.
 vojag^/il/ar/o⟦旅/具/群/o⟧:【PIV】Aro de la tualetaj^oj necesaj dum vojag^o.
-vojevod/o⟦督ⱽ/o⟧:【史】【政】【PIV】Titolo iam uzata en Balkanlandoj k Pollando k aplikata, lau^ la landoj k epokoj, al armeestro, regnestro au^ guberniestro.
+vojevod/o⟦督ⱽᴶ/o⟧:【史】【政】【PIV】Titolo iam uzata en Balkanlandoj k Pollando k aplikata, lau^ la landoj k epokoj, al armeestro, regnestro au^ guberniestro.
 vojevodi/o:【PIV】Distrikto, regata de vojevodo (en la nuna epoko, en Pollando): la 16 vojevodioj de Pollando.
-vojevod/uj/o⟦督ⱽ/器/o⟧:【PIV】Distrikto, regata de vojevodo (en la nuna epoko, en Pollando): la 16 vojevodioj de Pollando.
+vojevod/uj/o⟦督ⱽᴶ/器/o⟧:【PIV】Distrikto, regata de vojevodo (en la nuna epoko, en Pollando): la 16 vojevodioj de Pollando.
 Vojvodin/o:【PIV】Regiono plurgenta en la N parto de Serbio (Novisado).
 vok/ad/o⟦呼/行/o⟧:【PIV】Ripetata voko: la donacoj k la vokado de Dio estas nere vokeblaj .
 vok/ist/o⟦呼/家/o⟧:【PIV】Malsupera jug^eja oficisto, kies devo estas disporti la tribunalajn alvokojn, anonci la verdiktojn ktp (kaj tiel plu).

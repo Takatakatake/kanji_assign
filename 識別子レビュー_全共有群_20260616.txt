@@ -1692,6 +1692,15 @@
   vizi           幻ⱽ         F=3     pejvo   
   fantast        幻ᶠˢ        F=2     piv     幻想文学
 
+【古】 7件
+  antikv         古          F=6     basic   
+  arkeo          古ᴬᴼ        F=6     pejvo   
+  arka           古ᴬᴿ        F=4     pejvo   
+  paleont        古ᴾᴺ        F=3     pejvo   
+  arh^e          古ᴬᴴ̂       F=2     pejvo   古い・始原の
+  paleo          古ᴾ         F=2     pejvo   
+  arkaik         古ᴬᴵ        F=1     pejvo   
+
 【酒】 7件
   vin            酒          F=68    basic   
   bier           酒ᴮ         F=20    basic   
@@ -1808,6 +1817,15 @@
   cizel          雕ᶜ         F=4     pejvo   
   anaglif        雕ᴬᴺ        F=2     piv     浮彫り装飾;アナグリフ
   skulptur       雕ˢᴿ        F=2     piv     彫刻
+
+【动】 7件
+  mov            动          F=100   basic   
+  motor          动ᴹᵀ        F=35    basic   
+  aŭtomat        动ᴬ         F=18    basic   
+  verb           动ⱽ         F=11    basic   
+  kinet          动ᴷ         F=4     pejvo   
+  au^tomaci      动ᴬᶜ        F=1     pejvo   
+  kinez          动ᴷᶻ        F=7     piv     【医】運動(運動障害)
 
 【热】 7件
   hejt           热          F=23    basic   
@@ -1928,6 +1946,14 @@
   morf           形ᴹ         F=49    sci     
   morfi          形ᴹᴵ        F=13    piv     【数】形・同型(自己同型)
 
+【敬】 6件
+  respekt        敬          F=15    basic   
+  pi             敬ᴾ         F=17    basic   
+  omag^          敬ᴼ         F=4     pejvo   
+  piet           敬ᴾᵀ        F=2     pejvo   
+  devot          敬ᴰ         F=4     piv     【宗】敬虔
+  pietat         敬ᴾᴵ        F=1     piv     
+
 【原】 6件
   pra            原          F=66    pref    
   original       原ᴼ         F=9     basic   
@@ -1935,14 +1961,6 @@
   proto          原ᴾᵀ        F=6     pejvo   
   primar         原ᴾᴿ        F=3     pejvo   
   pamp           原ᴾᴾ        F=2     piv     【地理】パンパ
-
-【古】 6件
-  antikv         古          F=6     basic   
-  arkeo          古ᴬᴼ        F=6     pejvo   
-  arka           古ᴬᴿ        F=4     pejvo   
-  paleont        古ᴾᴺ        F=3     pejvo   
-  arh^e          古ᴬᴴ̂       F=2     pejvo   古い・始原の
-  paleo          古ᴾ         F=2     pejvo   
 
 【合】 6件
   kombin         合          F=19    basic   
@@ -2048,6 +2066,14 @@
   ekskreci       排ᴱᴿ        F=4     pejvo   
   kotlet         排ᴷᵀ        F=4     pejvo   
 
+【伴】 6件
+  koleg          伴          F=7     basic   
+  kompani        伴ᴷᴹ        F=22    basic   
+  kamarad        伴ᴷᴿ        F=8     basic   
+  akompan        伴ᴬ         F=9     pejvo   
+  partner        伴ᴾ         F=2     pejvo   
+  kompan         伴ᴷᴼ        F=1     piv     
+
 【皮】 6件
   haŭt           皮          F=37    basic   
   fel            皮ᶠ         F=17    basic   
@@ -2111,14 +2137,6 @@
   skarifik       划ˢᴷ        F=4     pejvo   
   pagaj          划ᴾᴳ        F=2     pejvo   
   hac^           划ᴴ         F=4     piv     ハッチング線
-
-【动】 6件
-  mov            动          F=100   basic   
-  motor          动ᴹᵀ        F=35    basic   
-  aŭtomat        动ᴬ         F=18    basic   
-  verb           动ⱽ         F=11    basic   
-  kinet          动ᴷ         F=4     pejvo   
-  kinez          动ᴷᶻ        F=7     piv     【医】運動(運動障害)
 
 【压】 6件
   prem           压          F=102   basic   
@@ -2276,13 +2294,6 @@
   virtual        虚ⱽᴿ        F=8     pejvo   
   fiktiv         虚ᶠᵀ        F=4     pejvo   
   imaginar       虚ᴵ         F=2     pejvo   
-
-【敬】 5件
-  respekt        敬          F=15    basic   
-  pi             敬ᴾ         F=17    basic   
-  omag^          敬ᴼ         F=4     pejvo   
-  piet           敬ᴾᵀ        F=2     pejvo   
-  devot          敬ᴰ         F=4     piv     【宗】敬虔
 
 【抗】 5件
   protest        抗          F=11    basic   
@@ -2522,12 +2533,12 @@
   skol           派ˢᴸ        F=4     pejvo   
   konfesi        派ᴷ         F=2     pejvo   
 
-【伴】 5件
-  koleg          伴          F=7     basic   
-  kompani        伴ᴷᴹ        F=22    basic   
-  kamarad        伴ᴷᴿ        F=8     basic   
-  akompan        伴ᴬ         F=9     pejvo   
-  partner        伴ᴾ         F=2     pejvo   
+【叛】 5件
+  ribel          叛          F=10    basic   
+  perfid         叛ᴾ         F=10    basic   
+  renegat        叛ᴿᴺ        F=3     pejvo   
+  apostat        叛ᴬ         F=2     pejvo   
+  insurekci      叛ᴵ         F=1     pejvo   
 
 【悲】 5件
   aflikt         悲          F=4     basic   
@@ -2898,11 +2909,23 @@
   frond          叶ᶠᴿ        F=3     pejvo   
   limb           叶ᴸᴹ        F=2     pejvo   
 
+【奇】 4件
+  strang         奇          F=8     basic   
+  kurioz         奇ᴷ         F=5     basic   
+  mirakl         奇ᴹ         F=5     basic   
+  bizar          奇ᴮ         F=1     pejvo   
+
 【机】 4件
   maŝin          机          F=88    basic   
   ŝanc           机ˢ̂        F=8     basic   
   meĥanism       机ᴹᴴ̂       F=0     basic   
   meh^an         机ᴹᴱ        F=6     pejvo   
+
+【徽】 4件
+  insign         徽          F=2     basic   
+  blazon         徽ᴮ         F=7     pejvo   
+  heraldik       徽ᴴ         F=2     pejvo   
+  emblem         徽ᴱ         F=1     pejvo   
 
 【技】 4件
   teknik         技          F=26    basic   
@@ -2933,6 +2956,12 @@
   kanzon         曲ᴷᴺ        F=4     basic   
   hiperbol       曲ᴴ         F=3     pejvo   
   romanc         曲ᴿ         F=2     pejvo   
+
+【禁】 4件
+  tabu           禁          F=6     basic   
+  prohibici      禁ᴾᶜ        F=3     pejvo   
+  embarg         禁ᴱ         F=2     pejvo   
+  prohib         禁ᴾ         F=1     pejvo   
 
 【具】 4件
   il             具          F=1276  suf     
@@ -3204,6 +3233,12 @@
   tao            道ᵀ         F=2     pejvo   
   drom           道ᴰ         F=1     piv     
 
+【督】 4件
+  prefekt        督          F=7     pejvo   
+  vokt           督ⱽ         F=1     pejvo   
+  banus          督ᴮ         F=3     piv     【史】バン(太守)
+  vojevod        督ⱽᴶ        F=2     piv     【史】総督
+
 【日】 4件
   tag            日          F=80    basic   
   helio          日ᴴ         F=10    pejvo   
@@ -3258,11 +3293,11 @@
   opon           反ᴼ         F=6     basic   
   kontra         反ᴷ         F=2     piv     【楽】コントラファゴット
 
-【叛】 4件
-  ribel          叛          F=10    basic   
-  perfid         叛ᴾ         F=10    basic   
-  renegat        叛ᴿᴺ        F=3     pejvo   
-  apostat        叛ᴬ         F=2     pejvo   
+【否】 4件
+  negativ        否          F=21    basic   
+  veto           否ⱽ         F=2     pejvo   
+  negaci         否ᴺᶜ        F=1     pejvo   
+  neg            否ᴺᴱ        F=3     piv     否定する
 
 【微】 4件
   mikro          微          F=50    pref    
@@ -3780,6 +3815,12 @@
   kupl           连ᴷ         F=14    pejvo   
   koneks         连ᴷˢ        F=3     pejvo   
 
+【选】 4件
+  elekt          选          F=39    basic   
+  antologi       选ᴬ         F=1     basic   
+  selekt         选ˢ         F=5     pejvo   
+  opci           选ᴼ         F=1     pejvo   
+
 【钉】 4件
   najl           钉          F=11    basic   
   kejl           钉ᴷ         F=7     basic   
@@ -3946,20 +3987,10 @@
   implic         含ᴵᴹ        F=11    pejvo   
   inklud         含ᴵᴰ        F=3     pejvo   
 
-【奇】 3件
-  strang         奇          F=8     basic   
-  kurioz         奇ᴷ         F=5     basic   
-  mirakl         奇ᴹ         F=5     basic   
-
 【旗】 3件
   flag           旗          F=19    basic   
   standard       旗ˢ         F=3     basic   
   veksil         旗ⱽ         F=2     piv     旗章学
-
-【徽】 3件
-  insign         徽          F=2     basic   
-  blazon         徽ᴮ         F=7     pejvo   
-  heraldik       徽ᴴ         F=2     pejvo   
 
 【妓】 3件
   prostitu       妓          F=9     pejvo   
@@ -4005,11 +4036,6 @@
   kaze           凝          F=9     pejvo   
   kondens        凝ᴷᴺ        F=10    pejvo   
   koagul         凝ᴷᴳ        F=6     pejvo   
-
-【禁】 3件
-  tabu           禁          F=6     basic   
-  prohibici      禁ᴾ         F=3     pejvo   
-  embarg         禁ᴱ         F=2     pejvo   
 
 【句】 3件
   fraz           句          F=26    basic   
@@ -4255,6 +4281,11 @@
   nov            新          F=104   basic   
   neologism      新ᴺᴸ        F=0     basic   
   neo            新ᴺᴱ        F=7     pejvo   
+
+【真】 3件
+  ver            真          F=34    basic   
+  au^tentik      真ᴬᴷ        F=3     pejvo   
+  au^tent        真ᴬ         F=1     pejvo   
 
 【神】 3件
   di             神          F=63    basic   
@@ -4521,11 +4552,6 @@
   fabel          童ᶠ         F=10    basic   
   pedo           童ᴾ         F=3     pejvo   
 
-【督】 3件
-  prefekt        督          F=7     pejvo   
-  banus          督ᴮ         F=3     piv     【史】バン(太守)
-  vojevod        督ⱽ         F=2     piv     【史】総督
-
 【毒疮】 3件
   s^ankr         毒疮         F=2     pejvo   
   furunk         毒疮ᶠ        F=2     pejvo   
@@ -4560,11 +4586,6 @@
   vel            帆          F=24    basic   
   j^ib           帆ᴶ̂        F=3     pejvo   
   velar          帆ⱽᴿ        F=3     pejvo   
-
-【否】 3件
-  negativ        否          F=21    basic   
-  veto           否ⱽ         F=2     pejvo   
-  neg            否ᴺᴱ        F=3     piv     否定する
 
 【庇】 3件
   ŝirm           庇          F=35    basic   
@@ -5216,11 +5237,6 @@
   detonaci       轰ᴰ         F=6     pejvo   
   bombard        轰ᴮ         F=3     pejvo   
 
-【选】 3件
-  elekt          选          F=39    basic   
-  antologi       选ᴬ         F=1     basic   
-  selekt         选ˢ         F=5     pejvo   
-
 【释】 3件
   ekzegez        释          F=3     pejvo   
   eksplik        释ᴱˢ        F=2     pejvo   
@@ -5245,6 +5261,11 @@
   ŝtup           阶          F=20    basic   
   stadi          阶ˢ         F=3     basic   
   gam            阶ᴳ         F=8     pejvo   
+
+【隐】 3件
+  ermit          隐          F=6     pejvo   
+  marabut        隐ᴹ         F=2     piv     【イスラム】隠者・聖者
+  anakoret       隐ᴬ         F=1     piv     
 
 【颜】 3件
   vizaĝ          颜          F=16    basic   
@@ -5949,10 +5970,6 @@
   tif            疹          F=4     pejvo   
   ekzantem       疹ᴱ         F=3     pejvo   
 
-【真】 2件
-  ver            真          F=34    basic   
-  au^tentik      真ᴬ         F=3     pejvo   
-
 【神经】 2件
   nerv           神经         F=22    basic   
   neŭr           神经ᴺᵁ̆      F=20    sci     
@@ -5992,6 +6009,10 @@
 【精液】 2件
   sperm          精液         F=11    pejvo   
   c^ur           精液ᶜ̂       F=3     piv     精液(俗語)
+
+【西】 2件
+  okcident       西          F=23    basic   
+  uest           西ᵁ         F=1     piv     
 
 【誓】 2件
   ĵur            誓          F=19    basic   
@@ -7461,6 +7482,10 @@
   kurs           课          F=26    basic   
   lecion         课ᴸ         F=4     basic   
 
+【谈】 2件
+  konversaci     谈          F=4     basic   
+  konvers        谈ᴷᴼ        F=1     pejvo   
+
 【谜】 2件
   enigm          谜          F=7     basic   
   mister         谜ᴹ         F=4     basic   
@@ -7641,9 +7666,9 @@
   krut           陡          F=10    basic   
   abrupt         陡ᴬ         F=4     basic   
 
-【隐】 2件
-  ermit          隐          F=6     pejvo   
-  marabut        隐ᴹ         F=2     piv     【イスラム】隠者・聖者
+【霉】 2件
+  s^im           霉          F=18    pejvo   
+  mucid          霉ᴹ         F=1     pejvo   
 
 【顽】 2件
   bub            顽          F=6     basic   
