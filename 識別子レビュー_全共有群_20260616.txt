@@ -3695,6 +3695,12 @@
   ekskurs        游ᴱ         F=7     basic   
   tramp          游ᵀᴹ        F=2     pejvo   
 
+【烟】 4件
+  fum            烟          F=49    basic   
+  tabak          烟ᵀ         F=15    basic   
+  cigared        烟ᶜ         F=7     basic   
+  cigar          烟ᶜᴵ        F=1     pejvo   
+
 【硅】 4件
   silic          硅          F=4     pejvo   
   silik          硅ˢᴷ        F=3     pejvo   
@@ -5107,11 +5113,6 @@
   feĉ            渣          F=5     basic   
   rekrement      渣ᴿ         F=5     pejvo   
   skori          渣ˢ         F=2     pejvo   
-
-【烟】 3件
-  fum            烟          F=49    basic   
-  tabak          烟ᵀ         F=15    basic   
-  cigared        烟ᶜ         F=7     basic   
 
 【爬】 3件
   ramp           爬          F=11    basic   

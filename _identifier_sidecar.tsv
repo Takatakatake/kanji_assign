@@ -2837,6 +2837,7 @@
 "fum"	"烟"	""	""	"烟"	"basic"	"49"	"烟"
 "tabak"	"烟"	"t"	"ᵀ"	"烟ᵀ"	"basic"	"15"	"烟"
 "cigared"	"烟"	"c"	"ᶜ"	"烟ᶜ"	"basic"	"7"	"烟"
+"cigar"	"烟"	"ci"	"ᶜᴵ"	"烟ᶜᴵ"	"pejvo"	"1"	"烟"
 "gast"	"客"	""	""	"客"	"basic"	"24"	"客"
 "klient"	"客"	"k"	"ᴷ"	"客ᴷ"	"basic"	"3"	"客"
 "pasaĝer"	"客"	"p"	"ᴾ"	"客ᴾ"	"basic"	"9"	"客"

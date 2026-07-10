@@ -4985,12 +4985,12 @@ cigared/o⟦烟ᶜ/o⟧:{Ｂ}紙巻きたばこ
 cigared/skatol/o⟦烟ᶜ/盒/o⟧:シガレットケース
 cigared/stump/et/o⟦烟ᶜ/桩/小/o⟧:たばこの吸い殻
 cigared/uj/o⟦烟ᶜ/器/o⟧:シガレットケース
-cigar/ej/o⟦cigar/所/o⟧:葉巻工場;葉巻売店
-cigar/et/o⟦cigar/小/o⟧:シガリロ（小型の葉巻）
-cigar/ing/o⟦cigar/座/o⟧:葉巻パイプ
-cigar/kest/o⟦cigar/箱/o⟧:シガーケース,葉巻入れ
-cigar/o:{Ｂ}葉巻
-cigar/uj/o⟦cigar/器/o⟧:葉巻入れ
+cigar/ej/o⟦烟ᶜᴵ/所/o⟧:葉巻工場;葉巻売店
+cigar/et/o⟦烟ᶜᴵ/小/o⟧:シガリロ（小型の葉巻）
+cigar/ing/o⟦烟ᶜᴵ/座/o⟧:葉巻パイプ
+cigar/kest/o⟦烟ᶜᴵ/箱/o⟧:シガーケース,葉巻入れ
+cigar/o⟦烟ᶜᴵ/o⟧:{Ｂ}葉巻
+cigar/uj/o⟦烟ᶜᴵ/器/o⟧:葉巻入れ
 cign/a kant/o⟦天鹅/a 唱/o⟧:白鳥の歌,最後の傑作
 cign/o⟦天鹅/o⟧:{Ｂ}【鳥】ハクチョウ（白鳥）;《転》詩聖
 Cign/o:【天】はくちょう座
@@ -46301,8 +46301,8 @@ cifer/a⟦数ᶜ/a⟧:【PIV】Montranta informojn per ciferoj, k ne per montril
 cifoskolioz/o:【医】【PIV】Duobla devio de la vertebra kolumno, kun konvekseco malantau^a k flanka (cifozo plus skoliozo).
 cifoz/o:【医】【PIV】Devio de la vertebra kolumno kun malantau^a konvekseco. Vd g^ibo, lordozo.
 cigan/a:【PIV】Rilata al ciganoj: la cigana lingvo, kulturo. Vd romao.
-cigar/ist/o⟦cigar/家/o⟧:【PIV】Laborist(in)o en cigarfabriko: Karmeno estis cigaristino en Sevilo.
-cigar/ist/in/o⟦cigar/家/女/o⟧:【PIV】Laborist(in)o en cigarfabriko: Karmeno estis cigaristino en Sevilo.
+cigar/ist/o⟦烟ᶜᴵ/家/o⟧:【PIV】Laborist(in)o en cigarfabriko: Karmeno estis cigaristino en Sevilo.
+cigar/ist/in/o⟦烟ᶜᴵ/家/女/o⟧:【PIV】Laborist(in)o en cigarfabriko: Karmeno estis cigaristino en Sevilo.
 cikad/o/morf/oj⟦蝉/o/形ᴹ/oj⟧:【動】【PIV】Subordo (Cicadomorpha) de insektoj el la ordo de hemipteroj, ampleksanta i.a. (interalie, inter aliaj) la cikadojn.##偽分解(PIV正式分解)
 cikas/o⟦木ᶜᴷ/o⟧:【植】【PIV】G. (Genro) (Cycas el cikasacoj el gimnospermoj) de dioikaj arboj kun cilindra, g^enerale senbranc^a trunko k kun plume dividaj, ledecaj folioj, kiuj similas al palmfolioj; 17 sp-oj (specioj) hejmaj de E Afriko g^is SE Azio k Au^stralio, i.a. (interalie, inter aliaj) C. circinalis. see sagupalmo 2.
 cikatr/ig/i⟦疤/使/i⟧:【PIV】Estigi cikatron sur vunda loko: la tempo cikatrigos almenau^ la vundon, kiun sanigi g^i ne povas ; cikatriga rimedo.
@@ -61517,7 +61517,7 @@ daten/trakt/il/o⟦数据/理ᵀ/具/o⟧:【情】【PIV】Procesoro.
 de/tranc^/a⟦从/切/a⟧:【PIV】Rilata al detranc^o: apartigu la abonilon lau^ la detranc^a linio.
 de/tranc^/aj^/o⟦从/切/物/o⟧:【PIV】Tio, kio estas detranc^ita: detranc^aj^oj de kuirpreta kokido.
 el/tranc^/o⟦出/切/o⟧:【生】【PIV】Forigo de parto de makromolekulo (proteino, nuklea acido ktp (kaj tiel plu)): en multaj RNA de eu^kariotoj, post eltranc^o de intronoj, ekzonoj estas kunigitaj en mesag^an RNA.
-cigar/tranc^/il/o⟦cigar/切/具/o⟧:【PIV】Malgranda aparato, uzata por detranc^i la finon de cigaro antau^ ol g^in fumi.
+cigar/tranc^/il/o⟦烟ᶜᴵ/切/具/o⟧:【PIV】Malgranda aparato, uzata por detranc^i la finon de cigaro antau^ ol g^in fumi.
 kontur/tranc^/i⟦廓ᴷ/切/i⟧:【PIV】Altranc^i (s^tofon) lau^ s^ablono.
 pan/tranc^/o⟦面包/切/o⟧:【PIV】Platforma peco, detranc^ita de pano: fritita, rostita pantranc^o. Vd sandvic^o, toasto 1.
 pan/tranc^/aj^/o⟦面包/切/物/o⟧:【PIV】Platforma peco, detranc^ita de pano: fritita, rostita pantranc^o. Vd sandvic^o, toasto 1.
