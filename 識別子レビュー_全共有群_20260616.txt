@@ -1523,8 +1523,8 @@
   eventual       偶ᴱ         F=7     basic   
   kontingenc     偶ᴷ         F=3     pejvo   
   marionet       偶ᴹ         F=2     pejvo   
-  akcidenc       偶ᴬᴷ        F=2     piv     【哲】偶有性
-  aleator        偶ᴬ         F=1     piv     
+  akcidenc       偶ᴬ         F=2     piv     【哲】偶有性
+  aleator        偶ᴬᴸ        F=1     piv     
 
 【幻】 8件
   rev            幻          F=20    basic   
@@ -2436,10 +2436,10 @@
 
 【禁】 5件
   tabu           禁          F=6     basic   
-  prohibici      禁ᴾᶜ        F=3     pejvo   
+  prohibici      禁ᴾ         F=3     pejvo   
   embarg         禁ᴱ         F=2     pejvo   
   interdikt      禁ᴵ         F=1     pejvo   
-  prohib         禁ᴾ         F=1     pejvo   
+  prohib         禁ᴾᴿ        F=1     pejvo   
 
 【抗】 5件
   protest        抗          F=11    basic   
@@ -3328,8 +3328,8 @@
   antrop         人ᴬ         F=16    pejvo   
 
 【垂】 4件
-  perpendikular  垂          F=3     pejvo   
-  perpendikl     垂ᴾᴸ        F=2     pejvo   
+  perpendikl     垂          F=2     pejvo   
+  perpendikular  垂ᴾᴿ        F=3     pejvo   
   apik           垂ᴬ         F=1     pejvo   
   ptoz           垂ᴾᵀ        F=2     piv     【医】下垂
 
@@ -3402,8 +3402,8 @@
 【停】 4件
   halt           停          F=31    basic   
   kape           停ᴷ         F=2     pejvo   
-  suspend        停ˢˢ        F=2     piv     停止
-  stop           停ˢ         F=1     piv     
+  suspend        停ˢ         F=2     piv     停止
+  stop           停ˢᵀ        F=1     piv     
 
 【定】 4件
   fiks           定          F=38    basic   
@@ -4526,8 +4526,8 @@
 
 【殖】 3件
   koloni         殖          F=18    basic   
-  prolifer       殖ᴾᴿ        F=3     piv     増殖する
-  pulul          殖ᴾ         F=1     piv     
+  prolifer       殖ᴾ         F=3     piv     増殖する
+  pulul          殖ᴾᴸ        F=1     piv     
 
 【唇】 3件
   lip            唇          F=22    basic   
@@ -4541,13 +4541,13 @@
 
 【疹】 3件
   tif            疹          F=4     pejvo   
-  ekzantem       疹ᴱᴺ        F=3     pejvo   
-  ekzem          疹ᴱ         F=1     pejvo   
+  ekzantem       疹ᴱ         F=3     pejvo   
+  ekzem          疹ᴱᴹ        F=1     pejvo   
 
 【真】 3件
   ver            真          F=34    basic   
-  au^tentik      真ᴬᴷ        F=3     pejvo   
-  au^tent        真ᴬ         F=1     pejvo   
+  au^tentik      真ᴬ         F=3     pejvo   
+  au^tent        真ᴬᵁ̆       F=1     pejvo   
 
 【神】 3件
   di             神          F=63    basic   
@@ -5837,8 +5837,8 @@
   stimulin       激素ˢ        F=2     piv     【生】刺激物質
 
 【隙】 2件
-  interstic      隙          F=2     piv     【解】間隙、組織間隙
-  hiat           隙ᴴ         F=1     pejvo   
+  hiat           隙          F=1     pejvo   
+  interstic      隙ᴵ         F=2     piv     【解】間隙、組織間隙
 
 【血虫】 2件
   bilharzi       血虫         F=2     piv     【医】住血吸虫
@@ -6169,8 +6169,8 @@
   super          上ˢᴾ        F=160   prep    
 
 【冗】 2件
-  redund         冗          F=2     piv     冗長・冗語
-  pleonasm       冗ᴾ         F=1     pejvo   
+  pleonasm       冗          F=1     pejvo   
+  redund         冗ᴿ         F=2     piv     冗長・冗語
 
 【条】 2件
   stri           条          F=24    basic   

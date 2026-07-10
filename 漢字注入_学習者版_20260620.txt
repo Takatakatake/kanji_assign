@@ -2818,10 +2818,10 @@ Au^str/uj/o:【国名】=Au^strio（オーストリア）
 Au^s^vic/o:【地名】アウシュビッツ（ポーランド）,=Os^viencimo
 au^tarci/o:【経】（一国の）経済的自給自足状態,アウタルキー,=ekonomia memsufic^o
 au^t/ej/o⟦车/所/o⟧:車庫,ガレージ;自動車修理工場
-au^tent/a⟦真ᴬ/a⟧:=au^tentika（真正の）
-au^tentik/a⟦真ᴬᴷ/a⟧:{Ｏ}真正の,（典拠により）確かな;【法】認証された
-au^tentik/ec/o⟦真ᴬᴷ/性/o⟧:真正さ,信憑性
-au^tentik/ig/i⟦真ᴬᴷ/使/i⟧:［他］（真正であることを）認証する,公認する
+au^tent/a⟦真ᴬᵁ̆/a⟧:=au^tentika（真正の）
+au^tentik/a⟦真ᴬ/a⟧:{Ｏ}真正の,（典拠により）確かな;【法】認証された
+au^tentik/ec/o⟦真ᴬ/性/o⟧:真正さ,信憑性
+au^tentik/ig/i⟦真ᴬ/使/i⟧:［他］（真正であることを）認証する,公認する
 au^t/ism/a infan/o⟦自ᴬ/主义/a 童/o⟧:自閉症児##偽分解##過細分解 a/u^/t/ism/a infan/o
 au^t/ism/o⟦自ᴬ/主义/o⟧:【医】自閉症##偽分解##過細分解 a/u^/t/ism/o
 au^t/ism/ul/o⟦自ᴬ/主义/者/o⟧:自閉症者##偽分解##過細分解 a/u^/t/ism/ul/o
@@ -8693,9 +8693,9 @@ ekzamen/it/o⟦检ᴱ/受/o⟧:受験者
 ekzamen/o⟦检ᴱ/o⟧:検査,診察;試験,テスト;取り調べ
 ekzamen/o de urin/o⟦检ᴱ/o 从 尿/o⟧:【医】尿検査,検尿
 ekzamen/sistem/o⟦检ᴱ/系/o⟧:試験制度
-ekzantem/a⟦疹ᴱᴺ/a⟧:【病】発疹性の
-ekzantem/a tif/o⟦疹ᴱᴺ/a 疹/o⟧:【病】発疹チフス
-ekzantem/o⟦疹ᴱᴺ/o⟧:【病】発疹（はっしん）,>>enantemo
+ekzantem/a⟦疹ᴱ/a⟧:【病】発疹性の
+ekzantem/a tif/o⟦疹ᴱ/a 疹/o⟧:【病】発疹チフス
+ekzantem/o⟦疹ᴱ/o⟧:【病】発疹（はっしん）,>>enantemo
 ekzegez/ist/o⟦释/家/o⟧:（聖書などの）釈義学者
 ekzegez/o⟦释/o⟧:（史書・経典などの）釈義,注釈,解釈
 ekzekuci/i⟦执ᴱᶜ/i⟧:［他］【法】強制執行する
@@ -8707,7 +8707,7 @@ ekzekut/ist/o⟦执/家/o⟧:死刑執行人
 ekzekut/o⟦执/o⟧:死刑執行
 ekzekvatur/o:【法】（外国判決の国内での）執行認許;（自国に駐在する外国領事への）認可状
 ekzekv/i:［他］=ekzekucii（強制執行する）
-ekzem/o⟦疹ᴱ/o⟧:{Ｏ}【病】湿疹（しっしん）
+ekzem/o⟦疹ᴱᴹ/o⟧:{Ｏ}【病】湿疹（しっしん）
 ekzempl/a fraz/o⟦例/a 句/o⟧:例文
 ekzempl/a kondut/o⟦例/a 举ᴷ/o⟧:模範的な素行
 ekzempl/e⟦例/e⟧:例えば
@@ -14289,7 +14289,7 @@ hezit/i⟦犹/i⟧:{Ｂ}［自］ためらう,躊躇（ちゅうちょ）する
 hezit/ig/i⟦犹/使/i⟧:［他］ためらわせる,躊躇させる
 hezit/o⟦犹/o⟧:ためらい,躊躇
 hiacint/o⟦风信子/o⟧:{Ｏ}【植】ヒアシンス（属）
-hiat/o⟦隙ᴴ/o⟧:【声】母音接続
+hiat/o⟦隙/o⟧:【声】母音接続
 Hiberni/o:【古地名】ヒベルニア（アイルランドのラテン語名）
 hibisk/o⟦芙蓉/o⟧:【植】ハイビスカス,フヨウ（属）
 hibrid/a⟦杂ᴴ/a⟧:雑種の;《転》混成の
@@ -30038,11 +30038,11 @@ perni/o:【医】=frostovundo（凍傷）;=frostos^velo（霜焼け）
 per/o⟦以/o⟧:仲介
 per/oksid/o⟦过ᴾᴱᴿ/氧化/o⟧:【化】過酸化物##偽分解(PIV正式分解)##過細分解 p/e/r/oksid/o
 peron/o⟦台ᴾᴿ/o⟧:{Ｂ}【建】（玄関前などの）外階段
-perpendikl/a⟦垂ᴾᴸ/a⟧:【数】垂直の;【数】=orta（直角の）
-perpendikl/o⟦垂ᴾᴸ/o⟧:【数】=ortanto（垂線）
-perpendikular/a⟦垂/a⟧:垂直な,=perpendikla
-perpendikular/e⟦垂/e⟧:垂直に
-perpendikular/o⟦垂/o⟧:垂直線,垂線,=ortanto
+perpendikl/a⟦垂/a⟧:【数】垂直の;【数】=orta（直角の）
+perpendikl/o⟦垂/o⟧:【数】=ortanto（垂線）
+perpendikular/a⟦垂ᴾᴿ/a⟧:垂直な,=perpendikla
+perpendikular/e⟦垂ᴾᴿ/e⟧:垂直に
+perpendikular/o⟦垂ᴾᴿ/o⟧:垂直線,垂線,=ortanto
 Perpinjan/o:【地名】ペルピニャン（フランス）
 perpleks/a⟦乱ᴾᴿ/a⟧:当惑した,途方にくれた,まごついた,>>konfuzita
 perpleks/ec/o⟦乱ᴾᴿ/性/o⟧:=perplekso（当惑）
@@ -30680,7 +30680,7 @@ plen/um/i task/on⟦满/um/i 务ᵀ/on⟧:任務を遂行する
 plen/um/komitat/o⟦满/um/委ᴷᵀ/o⟧:執行委員会
 plen/um/o⟦满/um/o⟧:執行,遂行,実行
 plen/voc^/e⟦满/声ⱽ/e⟧:声をはりあげて,声を限りに
-pleonasm/o⟦冗ᴾ/o⟧:{Ｏ}【修】冗語法;《般》冗長な表現,冗語
+pleonasm/o⟦冗/o⟧:{Ｏ}【修】冗語法;《般》冗長な表現,冗語
 plet/o⟦盘ᴾ/o⟧:{Ｂ}盆,（食事用の）トレー
 pletor/a⟦多血/a⟧:【医】多血症の;《稀》=>troabunda（過剰な）
 pletor/o⟦多血/o⟧:【医】多血症;《稀》=>troabundo（過剰）
@@ -32227,10 +32227,10 @@ progres/iv/a⟦进/能ᴵ/a⟧:累進的な
 progres/iv/a impost/o⟦进/能ᴵ/a 税/o⟧:【法】累進税
 progres/iv/ec/o⟦进/能ᴵ/性/o⟧:累進性
 progres/o⟦进/o⟧:進歩,向上,上達,発展;進行,前進
-prohib/i⟦禁ᴾ/i⟧:《稀》［他］=malpermesi（禁止する）
-prohibici/aj^/o⟦禁ᴾᶜ/物/o⟧:禁制品
-prohibici/i⟦禁ᴾᶜ/i⟧:［他］【法】（製造・売買を法的に）禁止する,=leg^e malpermesi
-prohibici/o⟦禁ᴾᶜ/o⟧:【法】禁止,禁制,禁輸
+prohib/i⟦禁ᴾᴿ/i⟧:《稀》［他］=malpermesi（禁止する）
+prohibici/aj^/o⟦禁ᴾ/物/o⟧:禁制品
+prohibici/i⟦禁ᴾ/i⟧:［他］【法】（製造・売買を法的に）禁止する,=leg^e malpermesi
+prohibici/o⟦禁ᴾ/o⟧:【法】禁止,禁制,禁輸
 projekci/ad/o⟦射ᴾᴿ/行/o⟧:（フィルムなどの）映写,上映;投影
 projekci/aj^/o⟦射ᴾᴿ/物/o⟧:スライド（フィルム）,>>lumbildo
 projekci/i⟦射ᴾᴿ/i⟧:［他］投影する,映写する;【心】投射する
@@ -44593,8 +44593,8 @@ akant/o/pterig/oj⟦草ᴬᴷ/o/翅ᴾᴳ/oj⟧:【動】【PIV】(ark. (arkaism
 akar/oz/o⟦虫ᴬ/症ᴼ/o⟧:【医】【PIV】Malsano, kau^zata de akaroj. Vd skabio.
 akcept/a⟦受ᴬ/a⟧:【PIV】Esprimanta akcepton: akcepta saluto ; la akceptaj ceremonioj.
 akcept/ad/i⟦受ᴬ/行/i⟧:【PIV】Regule, konstante akcepti: s-ino X akceptadas c^iun j^au^don.
-akcidenc/o⟦偶ᴬᴷ/o⟧:【哲】【PIV】Tiu eco de fenomeno, kiu ne estas esenca, sed trovig^as c^e g^i nur hazarde, kontingence: koloro, pezo, malmoleco estas akcidencoj de la materio.
-akcidenc/a⟦偶ᴬᴷ/a⟧:【PIV】Rilata al akcidenco: akcidenca rezulto.
+akcidenc/o⟦偶ᴬ/o⟧:【哲】【PIV】Tiu eco de fenomeno, kiu ne estas esenca, sed trovig^as c^e g^i nur hazarde, kontingence: koloro, pezo, malmoleco estas akcidencoj de la materio.
+akcidenc/a⟦偶ᴬ/a⟧:【PIV】Rilata al akcidenco: akcidenca rezulto.
 akcipitr/ed/oj⟦鹰ᴬ/科ᴱ/oj⟧:【動】【PIV】Fam. (Familio) (Accipitridae) de rabobirdoj el la ordo de falkoformaj, al kiu apartenas aglo, akcipitro, buteo, cirkuo, nizaglo, milvo k la malnovmondaj vulturoj. Vd falkedoj.
 akc^ent/o:【語】【PIV】Tuto de la artikulaciaj kutimoj de parolanto au^ grupo de parolantoj (pro trajtoj dialektaj au^ socilingvaj, influo de denaska lingvo ks (kaj simile, kaj similaj)), kiu aspektas nenorma en la kadro de difinita lingvo: havi sudan, kamparan, usonan akc^enton.
 ake/o⟦树懒/o⟧:【PIV】= bradip(od)o.
@@ -44716,7 +44716,7 @@ alcioni/ul/oj⟦虫ᴬᴸ/者/oj⟧:【動】【PIV】Ordo (Alcyonaria) de okkor
 ald/a⟦中音/a⟧:【PIV】(pp (se paroli pri) registro de instrumento) Inter soprana k tenora: alda bekfluto, saksofono.
 aldol/o:【化】【PIV】1 Substanco, CH 3-CHOH-CH 2-CHO, estig^inta per kombinado de du molekuloj de acetaldehido (etanalo) katalizita de alkalo. 2 Kn (Kolektiva nomo) de molekuloj kun g^enerala formulo R-CH 2-CHOH-CH(R’)-CHO. / Vd (vidu) aldo ②.
 aldosteron/o:【生】【PIV】Kortikosurrena hormono, efikanta al la reno k rolanta en la minerala ekvilibro: aldosterono estigas retenon de natrio k forigon de kalio.
-aleator/a⟦偶ᴬ/a⟧:【PIV】Rilata al hazardo; loteca.
+aleator/a⟦偶ᴬᴸ/a⟧:【PIV】Rilata al hazardo; loteca.
 Alec^j/o:【PIV】Karesformo de Aleksandro.
 alegori/a⟦寓ᴬᴸ/a⟧:【PIV】Prezentanta alegorion: alegoria parolo, rakonto.
 Aleksandri/an/ism/o:【PIV】Tre rafinitaj poezio k kulturo el la Ptolemea epoko, poste imitita en Romo de la Aleksandriaj verkistoj, ekz. (ekzemple) Katulo. Vd helenismo.
@@ -49494,8 +49494,8 @@ intermez/o:【楽】【PIV】1 Mallonga malgravtona teatraj^o (baleto, dancoj, c
 intern/ul/ej/o⟦内ᴵ/者/所/o⟧:【PIV】Parto de instruejo, kie log^as la internuloj.
 interpol/aj^/o⟦插ᴵᵀ/物/o⟧:【PIV】Parto tiel ens^ovita en tekston.
 interpozitiv/o:【語】【PIV】Cirkonstanca sintagmo, konsistanta en prep. (prepozicio) antau^ata k sekvata de la sama subst. (substantivo), ekz. (ekzemple) «mano en mano», «pas^o post pas^o»;. uzis la interpozitivojn preskau^ c^iam en la nominativa formo, sed estas konsilinde au^ akuzativigi la unuan subst-on (substantivon) («pas^on post pas^o») au^ formi cirkonstancan adv-on (adverbon) («manenmane»).
-interstic/o⟦隙/o⟧:【解】【PIV】Spaco, kiu trovig^as inter la esencaj elementoj de iu organo k estas plenigita de diversaj help-elementoj (c^efe konektivo k vaskuloj).
-interstic/a⟦隙/a⟧:【PIV】Koncernanta la subtenan histon c^irkau^ la esencaj elementoj de organo: interstica nefrito; interstica encefalito.
+interstic/o⟦隙ᴵ/o⟧:【解】【PIV】Spaco, kiu trovig^as inter la esencaj elementoj de iu organo k estas plenigita de diversaj help-elementoj (c^efe konektivo k vaskuloj).
+interstic/a⟦隙ᴵ/a⟧:【PIV】Koncernanta la subtenan histon c^irkau^ la esencaj elementoj de organo: interstica nefrito; interstica encefalito.
 intertrig/o:【医】【PIV】Hau^ta inflamo c^e faldoj pro troa interfrotado k s^vito.
 interuptor/o:【電】【PIV】1 Meminterrompilo. 2 = s^altilo.
 intim/ism/o⟦亲ᴵ/主义/o⟧:【PIV】Skolo, eco de intimistoj.
@@ -53863,9 +53863,9 @@ prolan/emi/o⟦prolan/血ᴱ/o⟧:【PIV】C^eesto k/au^ kvanto de prolano en la
 prolaps/o:【PIV】= ptozo.
 proleps/o:【PIV】Parolfiguro, konsistanta en la anticipa refutado de supozita kontrau^diro ekz. (ekzemple): Tial, se oni diras al vi «la mondo ne volas vian lingvon», respondu kurag^e: «g^i…» .
 prolet/ar/ig/i⟦无产/群/使/i⟧:【PIV】Fari, ke tuta kategorio el sendependaj produktistoj (manlaboristoj, kamparanoj, komercistoj ks (kaj simile, kaj similaj)) metu sian laborforton sub la disponon de kapitalistoj.
-prolifer/i⟦殖ᴾᴿ/i⟧:【PIV】(ntr (netransitiva)) 1 (pp (se paroli pri) c^elo au^ histo) Multoblig^i. 2 (pp (se paroli pri) planto) Fari vegetajn au^ florajn s^osojn tra au^ el la floroj (plejofte nenormale). 3 Multoble, nesekse reproduktig^i per stolonoj, bulbiloj ks (kaj simile, kaj similaj).
-prolifer/ad/o⟦殖ᴾᴿ/行/o⟧:【PIV】Ago de io, kio proliferas.
-prolifer/em/a⟦殖ᴾᴿ/倾/a⟧:【PIV】Kapabla proliferi.
+prolifer/i⟦殖ᴾ/i⟧:【PIV】(ntr (netransitiva)) 1 (pp (se paroli pri) c^elo au^ histo) Multoblig^i. 2 (pp (se paroli pri) planto) Fari vegetajn au^ florajn s^osojn tra au^ el la floroj (plejofte nenormale). 3 Multoble, nesekse reproduktig^i per stolonoj, bulbiloj ks (kaj simile, kaj similaj).
+prolifer/ad/o⟦殖ᴾ/行/o⟧:【PIV】Ago de io, kio proliferas.
+prolifer/em/a⟦殖ᴾ/倾/a⟧:【PIV】Kapabla proliferi.
 prolin/o:【化】【PIV】Heterocikla aminacido, C 5 H 9 NO 2, unu el la 20 c^efaj aminacidoj de la proteinoj; simb. (simbolo): Pro.
 prometi/o⟦金ᴾᴿ/o⟧:【化】【PIV】1 Radioaktiva elemento, Pm, atomnumero 61, atommaso 145, lantanido: prometia klorido, PmCl 3; prometiaj kombinaj^oj. 2 Metalo.
 promil/o:【PIV】Valoro au^ taksado difinita rilate al la nombro mil. Sin. (sinonimo) elmilo. Vd procento 2, milono.
@@ -54049,7 +54049,7 @@ pulp/ig/i⟦瓤/使/i⟧:【PIV】Redukti al pulpo, pp (se paroli pri) apoteka s
 pulp/it/o⟦瓤/炎ᵀ/o⟧:【医】【PIV】Inflamo de la denta pulpo.##偽分解(PIV正式分解)
 pulsatil/o⟦草ᴾᵁᴸ/o⟧:【植】【PIV】G. (Genro) (Pulsatilla el ranunkolacoj) de plurjaraj herboj kun plume dividaj folioj, kun unuopaj, senpetalaj floroj, havantaj petalecajn sepalojn po 5−6, k kun fruktoj (plurakenoj), kies akenoj (diference de anemono) unuope portas longan plumecan ariston (maturig^intan stiluson), tiel ke la frukto formas harkovritan kapon; c^. (c^irkau^) 38 sp-oj (specioj) el Eu^ropo, Azio, k NE Ameriko, pluraj pororname kultivataj. see anemono.
 pultace/a:【医】【PIV】Malfirma kiel kac^o k facile diserigebla en la akvo: pultacea eksudaj^o; pultaceaj anginoj (karakterizataj de tia eksudaj^o).
-pulul/i⟦殖ᴾ/i⟧:【生態】【生】【PIV】(ntr (netransitiva)) Abunde, en mallonga tempo svarme multig^i.
+pulul/i⟦殖ᴾᴸ/i⟧:【生態】【生】【PIV】(ntr (netransitiva)) Abunde, en mallonga tempo svarme multig^i.
 pulvor/ec/o⟦粉ᴾ/性/o⟧:【PIV】Stato de substanco pulvorigita: li disfrakasis g^in g^is pulvoreco .
 pum!:【PIV】Onomatopeo, imitanta la surdan bruon de falo ks (kaj simile, kaj similaj): pum! la granda Niko falis en la riveron . Vd bum!, puf!
 pumili/o⟦木ᴾᴹ/o⟧:【植】【PIV】Sp. (Specio) de pino (Pinus pumilio) el la montaroj de C Eu^ropo, trunkarbusto (g^is 5 m alta) parenca al mugo.
@@ -54222,8 +54222,8 @@ redukt/a⟦减ᴿ/a⟧:【PIV】Rilata al redukto: redukta peco (por kunligi du 
 redukt/ant/o⟦减ᴿ/在/o⟧:【PIV】1 Reduktanta substanco. 2 Kemiaj^o, kiu aperigas la latentan bildon de impresita arg^enta bromido, reduktante el tiu c^i salo la metalan arg^enton, kiu formos la bildon. Vd rivelanto.
 redukt/ej/o⟦减ᴿ/所/o⟧:【軍】【PIV】Fortikaj^o interne de fortreso au^ defendlinio, kien la garnizono retirig^as post lasta defendo, kiam la eksteraj pozicioj estas okupitaj de la malamiko.
 oksid/o-redukt/ig^/o⟦氧化/o-减ᴿ/成/o⟧:【PIV】Reakcio, en kiu unu substanco oksidig^as, dum alia samtempe reduktig^as. Vd redokso.
-redund/a⟦冗/a⟧:【PIV】Estanta pluroble au^ ripete, au^ aldonita por sekurigi kontrau^ perdig^o, misfunkcio ks (kaj simile, kaj similaj). Vd balasto.
-redund/o⟦冗/o⟧:【PIV】1 Tiu parto de gramatikaj formoj, kiu nur ripetas la esprimon de rilato, jam esprimita per alia gramatika formo (ekz. (ekzemple) en E. la akordo de epiteto kun subst. (substantivo), la pluraligo de subst. (substantivo) post numeralo ekde 2): la redundoj estas grava rimedo certigi la klarecon de la parolo. 2 Uzo de pli da datenoj ol necese por transdoni iun informon, por tiel malpliigi la riskon de eraro en komunikado au^ komputado. Vd kontrolbito. -> pleonasmo. 3 Enesto de pluraj ekzempleroj de parto en elektronika au^ mekanika ekipaj^o, por ke la ekipaj^o povu plu funkcii post paneo de parto. 4 Tiu parto de komunikaj^o, kiu povus esti forlasita sen perdo de la esenco de la informo.
+redund/a⟦冗ᴿ/a⟧:【PIV】Estanta pluroble au^ ripete, au^ aldonita por sekurigi kontrau^ perdig^o, misfunkcio ks (kaj simile, kaj similaj). Vd balasto.
+redund/o⟦冗ᴿ/o⟧:【PIV】1 Tiu parto de gramatikaj formoj, kiu nur ripetas la esprimon de rilato, jam esprimita per alia gramatika formo (ekz. (ekzemple) en E. la akordo de epiteto kun subst. (substantivo), la pluraligo de subst. (substantivo) post numeralo ekde 2): la redundoj estas grava rimedo certigi la klarecon de la parolo. 2 Uzo de pli da datenoj ol necese por transdoni iun informon, por tiel malpliigi la riskon de eraro en komunikado au^ komputado. Vd kontrolbito. -> pleonasmo. 3 Enesto de pluraj ekzempleroj de parto en elektronika au^ mekanika ekipaj^o, por ke la ekipaj^o povu plu funkcii post paneo de parto. 4 Tiu parto de komunikaj^o, kiu povus esti forlasita sen perdo de la esenco de la informo.
 redundanc/o:【PIV】Redundo.
 reel/a⟦实ᴿᴱ/a⟧:【数】【PIV】(pp (se paroli pri) nombro) Estanta limeso de racionalaj nombroj: c^iu nenula reela nombro estas au^ pozitiva au^ negativa.
 reel/o⟦实ᴿᴱ/o⟧:【情】【PIV】Reela nombro. Vd entjero, racionala, imaginara, kompleksa.
@@ -55457,7 +55457,7 @@ stomat/o/logi/o⟦口ˢ/o/学ᴸᴳ/o⟧:【PIV】Parto de la medicino, pri la b
 stomat/o/skop/o⟦口ˢ/o/镜ˢᴷ/o⟧:【PIV】Speguleto de kuracisto au^ dentisto, por esplori la bus^on.##偽分解(PIV正式分解)
 stomat/o/skop/i/o⟦口ˢ/o/镜ˢᴷ/i/o⟧:【PIV】Arto k scienco esplori per stomatoskopo.##偽分解(PIV正式分解)
 stomp/o⟦晕染/o⟧:【PIV】Cilindro el volvita sorbopapero au^ alia materialo, kun konusa fino, uzata en desegnado, por malpliintensigi strekojn de krajono ks (kaj simile, kaj similaj).
-stop/i⟦停ˢ/i⟧:【PIV】(tr (transitiva)) Haltigi, pp (se paroli pri) mas^ino: stopi la motoron.
+stop/i⟦停ˢᵀ/i⟧:【PIV】(tr (transitiva)) Haltigi, pp (se paroli pri) mas^ino: stopi la motoron.
 stop!:【PIV】Interj. (Interjekcio), uzata 1 por haltigi mas^inon, precipe en la marista lingvo; 2 por apartigi la frazojn en telegramoj.
 storak/o:【PIV】Aroma rezino: 1 vaksosimila (solida storako), liverita de la oficina stirako, nun ne plu uzata 2 likva (likva storako, likvidambara storako), liverita de du sp-oj (specioj) de likvidambaro, uzata en farmacio k parfumindustrio.
 stornel/o:【PIV】Fiksforma poemo italdevena, konsistanta el tri versoj, kun c^e la komenco alvoko al floro.
@@ -55631,8 +55631,8 @@ surfac/aj^/o⟦面ˢ/物/o⟧:【PIV】Io, aparte rigardata el la vidpunkto de l
 Fermi-surfac/o:【理】【PIV】La divido inter okupitaj k neokupitaj elektronniveloj en la bendostrukturo de metalo au^ duonkonduktanto.
 surmulet/o⟦鱼ˢᵀ/o⟧:【動】【PIV】Sp. (Specio) (Mullus surmuletus) de fis^o el la ordo de perkoformaj fis^oj, kun rug^a dorso k flavaj strioj lau^ la flankoj; bongusta karno.
 surpriz/e⟦惊ˢ/e⟧:【PIV】En surpriza maniero: alveni tute surprize; li surprize rigardis la donacon.
-suspend/i⟦停ˢˢ/i⟧:【法】【PIV】1 Provizore deteni iun de la plenumado de ties funkcio au^ ofico: suspendi policiston, administranton; la episkopo suspendis tiun pastron. Vd interdikto. 2 Provizore igi senefika au^ neaplikata: suspendi la regulojn de elektig^o favore al eminenta persono; suspendi leg^on; (f (figurasence)) suspendi sian nekredemon.
-suspend/o⟦停ˢˢ/o⟧:【PIV】Ago de iu, kiu suspendas iun au^ ion.
+suspend/i⟦停ˢ/i⟧:【法】【PIV】1 Provizore deteni iun de la plenumado de ties funkcio au^ ofico: suspendi policiston, administranton; la episkopo suspendis tiun pastron. Vd interdikto. 2 Provizore igi senefika au^ neaplikata: suspendi la regulojn de elektig^o favore al eminenta persono; suspendi leg^on; (f (figurasence)) suspendi sian nekredemon.
+suspend/o⟦停ˢ/o⟧:【PIV】Ago de iu, kiu suspendas iun au^ ion.
 suspens/o:【PIV】Momento en filmo au^ dramo, kiam la agado, kvazau^ haltante, tenas la spektanton en strec^a atendo.
 suspensi/o⟦悬/o⟧:【技】【PIV】1 Tuto de la arang^o, kiu ebligas al korpo, aparato, parto de mas^ino ks (kaj simile, kaj similaj) pendi de supraj^o per elastaj rimedoj, kiuj certigas tamen g^ian stabilecon: kardana suspensio; oleopneu^mata suspensio de au^tomobilo; pendosuspensio. 2【化】 Tuto de likvo k de tre subtile diserigitaj eroj de solido, miksitaj al, sed ne solvita en g^i: partetoj el argilo en suspensio en la akvo. Sin. (sinonimo) s^vebaj^o. Vd emulsio, solvaj^o.
 suspensi/er/o⟦悬/粒/o⟧:【化】【PIV】Solida konsistiga elemento de suspensio 2: suspensieroj de argilo en akvo. Sin. (sinonimo) s^vebero. Vd koloidero, micelo.
