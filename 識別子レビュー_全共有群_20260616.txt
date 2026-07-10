@@ -2003,6 +2003,14 @@
   bazar          市ᴮᶻ        F=13    basic   
   municip        市ᴹᴺ        F=3     pejvo   
 
+【字】 6件
+  liter          字          F=33    basic   
+  alfabet        字ᴬ         F=11    basic   
+  karaktr        字ᴷ         F=6     pejvo   
+  uskl           字ᵁ         F=4     pejvo   
+  aboc           字ᴬᴮ        F=2     pejvo   
+  grafem         字ᴳ         F=1     piv     
+
 【斜】 6件
   klin           斜          F=38    basic   
   oblikv         斜ᴼ         F=8     basic   
@@ -2106,6 +2114,14 @@
   are            面ᴬ         F=10    pejvo   
   nudel          面ᴺ         F=5     pejvo   
   spaget         面ˢᴾ        F=2     pejvo   
+
+【羊】 6件
+  ŝaf            羊          F=27    basic   
+  kapr           羊ᴷ         F=15    basic   
+  merin          羊ᴹ         F=1     pejvo   
+  muflon         羊ᴹᶠ        F=1     pejvo   
+  ovi            羊ᴼ         F=2     piv     【動】ヒツジ属
+  karakul        羊ᴷᴿ        F=1     piv     
 
 【炉】 6件
   forn           炉          F=27    basic   
@@ -2340,13 +2356,6 @@
   artis^ok       菜ᴬ         F=4     pejvo   
   amarant        菜ᴬᴹ        F=3     pejvo   
 
-【字】 5件
-  liter          字          F=33    basic   
-  alfabet        字ᴬ         F=11    basic   
-  karaktr        字ᴷ         F=6     pejvo   
-  uskl           字ᵁ         F=4     pejvo   
-  aboc           字ᴬᴮ        F=2     pejvo   
-
 【治】 5件
   reg            治          F=55    basic   
   domin          治ᴰ         F=9     pejvo   
@@ -2451,6 +2460,13 @@
   alveol         槽ᴬ         F=6     pejvo   
   trog           槽ᵀ         F=6     pejvo   
   rabet          槽ᴿ         F=2     piv     【技】溝(さねはぎ)
+
+【族】 5件
+  naci           族          F=94    basic   
+  etn            族ᴱ         F=15    basic   
+  gent           族ᴳ         F=15    basic   
+  trib           族ᵀ         F=6     pejvo   
+  klan           族ᴷ         F=1     pejvo   
 
 【存】 5件
   ekzist         存          F=14    basic   
@@ -2612,13 +2628,6 @@
   substantiv     名ˢ         F=5     basic   
   onim           名ᴼ         F=12    pejvo   
   nominal        名ᴺᴺ        F=5     pejvo   
-
-【羊】 5件
-  ŝaf            羊          F=27    basic   
-  kapr           羊ᴷ         F=15    basic   
-  merin          羊ᴹ         F=1     pejvo   
-  ovi            羊ᴼ         F=2     piv     【動】ヒツジ属
-  karakul        羊ᴷᴿ        F=1     piv     
 
 【理】 5件
   prav           理          F=12    basic   
@@ -3208,12 +3217,6 @@
   fizionomi      相ᶠᴺ        F=2     pejvo   
   vezir          相ⱽ         F=2     pejvo   
 
-【族】 4件
-  naci           族          F=94    basic   
-  etn            族ᴱ         F=15    basic   
-  gent           族ᴳ         F=15    basic   
-  trib           族ᵀ         F=6     pejvo   
-
 【替】 4件
   altern         替          F=20    basic   
   alternativ     替ᴬᵀ        F=0     basic   
@@ -3460,6 +3463,12 @@
   benign         良ᴮᴳ        F=2     pejvo   
   eu^            良ᴱ         F=5     piv     良・正常
 
+【林】 4件
+  ale            林          F=1     basic   
+  forst          林ᶠ         F=7     pejvo   
+  bosk           林ᴮ         F=3     pejvo   
+  g^angal        林ᴳ̂        F=1     pejvo   
+
 【令】 4件
   ordon          令          F=14    basic   
   komand         令ᴷ         F=15    basic   
@@ -3604,6 +3613,12 @@
   grafik         图ᴳ         F=12    pejvo   
   skem           图ˢ         F=10    pejvo   
 
+【圣】 4件
+  sankt          圣          F=44    basic   
+  kanoniz        圣ᴷ         F=1     pejvo   
+  hagi           圣ᴴ         F=2     piv     聖人伝作者・聖典著者
+  sakral         圣ˢᴷ        F=2     piv     神聖な
+
 【坚】 4件
   firm           坚          F=15    basic   
   fortik         坚ᶠᵀ        F=17    basic   
@@ -3693,6 +3708,12 @@
   koncern        涉ᴷ         F=8     basic   
   interfer       涉ᴵ         F=8     pejvo   
   padel          涉ᴾ         F=3     pejvo   
+
+【灾】 4件
+  katastrof      灾          F=6     basic   
+  plag           灾ᴾ         F=2     basic   
+  kataklism      灾ᴷᴷ        F=1     pejvo   
+  sinistr        灾ˢ         F=3     piv     【保険】災害・損害事故
 
 【狱】 4件
   infer          狱          F=8     basic   
@@ -3917,6 +3938,11 @@
   melankoli      郁ᴹ         F=3     pejvo   
   splen          郁ˢ         F=2     pejvo   
 
+【淫】 3件
+  porn           淫          F=13    pejvo   
+  obscen         淫ᴼ         F=3     pejvo   
+  lasciv         淫ᴸ         F=1     piv     
+
 【瓜】 3件
   melon          瓜          F=5     basic   
   kukurb         瓜ᴷᴿ        F=9     basic   
@@ -4021,6 +4047,11 @@
   inkluziv       含          F=7     basic   
   implic         含ᴵᴹ        F=11    pejvo   
   inklud         含ᴵᴰ        F=3     pejvo   
+
+【喜】 3件
+  ĝoj            喜          F=25    basic   
+  ŝat            喜ˢ̂        F=15    basic   
+  jubil          喜ᴶ         F=1     pejvo   
 
 【旗】 3件
   flag           旗          F=19    basic   
@@ -4742,11 +4773,6 @@
   doz            量ᴰ         F=13    pejvo   
   metrik         量ᴹ         F=2     pejvo   
 
-【林】 3件
-  ale            林          F=1     basic   
-  forst          林ᶠ         F=7     pejvo   
-  bosk           林ᴮ         F=3     pejvo   
-
 【礼】 3件
   donac          礼          F=13    basic   
   ĝentil         礼ᴳ̂        F=12    basic   
@@ -4781,6 +4807,11 @@
   astm           喘          F=3     pejvo   
   anhel          喘ᴬᴺ        F=2     pejvo   
   stertor        喘ˢ         F=2     pejvo   
+
+【嗅】 3件
+  flar           嗅          F=16    basic   
+  snuf           嗅ˢ         F=1     pejvo   
+  olfakt         嗅ᴼ         F=2     piv     【生】嗅覚
 
 【嘶】 3件
   hen            嘶          F=2     pejvo   
@@ -4972,11 +5003,6 @@
   peri           围ᴾ         F=13    pejvo   
   sieg^          围ˢ         F=9     pejvo   
 
-【圣】 3件
-  sankt          圣          F=44    basic   
-  hagi           圣ᴴ         F=2     piv     聖人伝作者・聖典著者
-  sakral         圣ˢᴷ        F=2     piv     神聖な
-
 【场】 3件
   scen           场          F=16    basic   
   plac           场ᴾ         F=3     basic   
@@ -5116,11 +5142,6 @@
   soif           渴          F=9     basic   
   aspir          渴ᴬ         F=4     pejvo   
   dipso          渴ᴰ         F=2     piv     【医】渇酒症・飲酒衝動
-
-【灾】 3件
-  katastrof      灾          F=6     basic   
-  plag           灾ᴾ         F=2     basic   
-  sinistr        灾ˢ         F=3     piv     【保険】災害・損害事故
 
 【烤】 3件
   bak            烤          F=17    basic   
@@ -5355,10 +5376,6 @@
   cit            引          F=23    basic   
   gravit         引ᴳ         F=14    pejvo   
 
-【淫】 2件
-  porn           淫          F=13    pejvo   
-  obscen         淫ᴼ         F=3     pejvo   
-
 【院长】 2件
   abat           院长         F=4     pejvo   
   prior          院长ᴾ        F=4     pejvo   
@@ -5499,6 +5516,10 @@
   brun           褐          F=28    basic   
   bistr          褐ᴮˢ        F=2     pejvo   
 
+【棺】 2件
+  ĉerk           棺          F=8     basic   
+  sarkofag       棺ˢ         F=1     pejvo   
+
 【汗】 2件
   ŝvit           汗          F=22    basic   
   h^an           汗ᴴ̂        F=3     pejvo   
@@ -5526,10 +5547,6 @@
 【危】 2件
   danĝer         危          F=13    basic   
   kriz           危ᴷ         F=15    basic   
-
-【喜】 2件
-  ĝoj            喜          F=25    basic   
-  ŝat            喜ˢ̂        F=15    basic   
 
 【基】 2件
   baz            基          F=47    basic   
@@ -5678,6 +5695,10 @@
 【喉】 2件
   gorĝ           喉          F=15    basic   
   laring         喉ᴸ         F=11    pejvo   
+
+【孔】 2件
+  apertur        孔          F=5     basic   
+  orific         孔ᴼ         F=1     piv     
 
 【宏】 2件
   grandioz       宏          F=5     basic   
@@ -5858,6 +5879,10 @@
 【湿】 2件
   humid          湿          F=3     basic   
   higr           湿ᴴᴳ        F=5     pejvo   
+
+【赦】 2件
+  amnesti        赦          F=3     pejvo   
+  absolv         赦ᴬᴮ        F=1     pejvo   
 
 【邪】 2件
   pervers        邪          F=3     pejvo   
@@ -6403,6 +6428,10 @@
   ol             比          F=26    func    
   proporci       比ᴾ         F=14    basic   
 
+【碑】 2件
+  monument       碑          F=4     basic   
+  stele          碑ˢ         F=1     pejvo   
+
 【被】 2件
   at             被          F=232   suf     
   pasiv          被ᴾ         F=6     basic   
@@ -6782,10 +6811,6 @@
 【啼】 2件
   grak           啼          F=2     pejvo   
   kokerik        啼ᴷ         F=2     pejvo   
-
-【嗅】 2件
-  flar           嗅          F=16    basic   
-  olfakt         嗅ᴼ         F=2     piv     【生】嗅覚
 
 【噪】 2件
   bru            噪          F=27    basic   
@@ -7275,6 +7300,10 @@
   plen           满          F=151   basic   
   kontent        满ᴷ         F=18    basic   
 
+【滩】 2件
+  plag^          滩          F=3     pejvo   
+  strand         滩ˢ         F=1     pejvo   
+
 【灵】 2件
   spirit         灵          F=23    basic   
   spiritual      灵ˢᴸ        F=2     pejvo   
@@ -7326,6 +7355,10 @@
 【码】 2件
   kod            码          F=27    basic   
   jard           码ᴶ         F=2     pejvo   
+
+【砖】 2件
+  brik           砖          F=15    basic   
+  adob           砖ᴬ         F=1     pejvo   
 
 【碳】 2件
   karbon         碳          F=33    basic   
@@ -7579,6 +7612,10 @@
   stilz          跷          F=5     pejvo   
   baskul         跷ᴮ         F=13    pejvo   
 
+【踢】 2件
+  kalcitr        踢          F=3     pejvo   
+  kik            踢ᴷᴷ        F=1     pejvo   
+
 【轧】 2件
   grinc          轧          F=4     basic   
   laminat        轧ᴸ         F=4     pejvo   
@@ -7674,6 +7711,10 @@
 【锐】 2件
   akr            锐          F=26    basic   
   akut           锐ᴬᵀ        F=9     pejvo   
+
+【锣】 2件
+  tamtam         锣          F=2     pejvo   
+  gong           锣ᴳ         F=1     pejvo   
 
 【锤】 2件
   martel         锤          F=18    basic   

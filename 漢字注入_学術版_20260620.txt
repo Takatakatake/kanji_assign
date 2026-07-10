@@ -116,7 +116,7 @@ absolut/e⟦绝/e⟧:絶対に,無条件に,完全に,全く,断然,>>nepre
 absolut/ism/o⟦绝/主义/o⟧:【政】絶対主義
 absolut/ist/o⟦绝/家/o⟧:【政】絶対主義者
 absolut/o⟦绝/o⟧:【哲】絶対者
-absolv/i:［他］【宗】罪を赦す,=pekliberigi;《転》無罪宣告する,=malkondamni
+absolv/i⟦赦ᴬᴮ/i⟧:［他］【宗】罪を赦す,=pekliberigi;《転》無罪宣告する,=malkondamni
 absorb/i⟦吸ᴬ/i⟧:{Ｏ}［他］夢中にさせる,心を奪う;=>sorbi（吸収する）
 absorb/ig^/i⟦吸ᴬ/成/i⟧:［自］夢中になる,没頭する,気を奪われる
 absorb/ig^/o⟦吸ᴬ/成/o⟧:没頭,夢中,専心,=absorbiteco
@@ -306,7 +306,7 @@ admir/o⟦佩/o⟧:感嘆,賛美,敬服,感心
 admitanc/o:【電】アドミタンス,>>simenso
 admon/i⟦劝/i⟧:{Ｂ}［他］言い聞かせる,勧告する,強く勧める;戒める,訓戒する,説諭する,叱責する
 admon/o⟦劝/o⟧:勧告,勧め;訓戒,説諭,叱責
-adob/o:【建】アドベ,日干し煉瓦,=sunsekigita briko
+adob/o⟦砖ᴬ/o⟧:【建】アドベ,日干し煉瓦,=sunsekigita briko
 adolesk/ant/ec/o⟦青春/在/性/o⟧:【医】青年期,思春期,=adoleskeco
 adolesk/ant/in/o⟦青春/在/女/o⟧:【医】青年期女性（12歳頃〜22歳頃）
 adolesk/ant/o⟦青春/在/o⟧:【医】青年期男性（15歳頃〜25歳頃）;=>dekkelkjarulo（ティーンエイジャー）
@@ -13156,7 +13156,7 @@ Gomor/o:【聖】ゴモラ（悪徳の町）,>>Sodomo
 gondol/ist/o⟦舟ᴳ/家/o⟧:ゴンドラの船頭
 gondol/o⟦舟ᴳ/o⟧:{Ｏ}ゴンドラ（船）;=nacelo
 Gondvan/o:【地質】ゴンドワナ大陸
-gong/o:【楽】どら;【運】ゴング
+gong/o⟦锣ᴳ/o⟧:【楽】どら;【運】ゴング
 gonokok/o⟦淋菌/o⟧:【医】淋菌（りんきん）
 gonore/o:【病】淋病（りんびょう）,>>blenoreo
 go/o:【遊】碁,囲碁,>>gotabulo,>>s^tono
@@ -13626,7 +13626,7 @@ gvine/an/o⟦gvine/员ᴬ/o⟧:ギニア人
 Gvine/o:{Ｏ}【国名】ギニア（アフリカ）
 Gvine/o-Bisau^/o:【国名】ギニアビサウ（アフリカ）
 G^akart/o:【地名】ジャカルタ（インドネシアの首都）
-g^angal/o:【地理】ジャングル,密林
+g^angal/o⟦林ᴳ̂/o⟧:【地理】ジャングル,密林
 G^ansu/o:【地名】=G^jangsuo（江蘇省）
 G^ans^i/o:【地名】=G^jangs^jio（江西省）
 g^arden/a⟦园/a⟧:庭園の
@@ -16324,7 +16324,7 @@ ju⟦越ᴶ⟧:{Ｂ}［副］（ju pli）〜すればするほど,>>des
 juan/o:【貨】元（中国）
 jubile/a⟦庆典/a⟧:記念祭の
 jubile/o⟦庆典/o⟧:{Ｂ}（５０周年などの）記念祭;【カ】聖年,大赦
-jubil/i:［自］=g^ojkrii（歓呼する）
+jubil/i⟦喜ᴶ/i⟧:［自］=g^ojkrii（歓呼する）
 jud/a:ユダヤ（人）の
 judaism/o:{Ｏ}=judismo（ユダヤ教）
 jud/a kvartal/o⟦jud/a 区ᴷ/o⟧:ユダヤ人街,ユダヤ人居住区,=getto
@@ -16980,7 +16980,7 @@ kanon/ig/i⟦炮/使/i⟧:=kanonizi（聖列に加える）
 kanonik/ar/o⟦会士/群/o⟧:【キ】教会参事会
 kanonik/o⟦会士/o⟧:{Ｏ}【キ】教会参事会員
 kanon/ist/o⟦炮/家/o⟧:砲手;【キ】教会法学者
-kanoniz/i:［他］【カ】聖列に加える,=sanktuligi
+kanoniz/i⟦圣ᴷ/i⟧:［他］【カ】聖列に加える,=sanktuligi
 kanon/o⟦炮/o⟧:{Ｏ}【軍】大砲,砲
 kanon/o⟦炮/o⟧:【キ】聖書正典;教会法規;【カ】聖人表,聖列;【楽】カノン
 kanon/paf/o⟦炮/射/o⟧:（一発の）砲撃
@@ -17504,7 +17504,7 @@ kas^tan/uj/o⟦栗/器/o⟧:【植】クリ,=kas^tanarbo
 kas^/vojag^/ant/o⟦藏/旅/在/o⟧:密航者,もぐりの乗客,=kas^pasag^ero
 kat/a⟦猫/a⟧:猫の,猫のような
 katafalk/o:{Ｏ}棺台
-kataklism/o:（社会の）激動,激変;大災害;【地質】地殻の激変
+kataklism/o⟦灾ᴷᴷ/o⟧:（社会の）激動,激変;大災害;【地質】地殻の激変
 katakomb/o:{Ｏ}【史】カタコンベ,地下墓地
 katalau^n/o:【史】カタラウヌム族（ガリア人の部族）
 katalepsi/o:{Ｏ}【病】カタレプシー,強硬症
@@ -17800,7 +17800,7 @@ kies⟦何之⟧:{Ｂ}［形］だれの
 Kiev/o:【地名】キエフ（ウクライナの首都）
 Kigali/o:【地名】キガリ（ルワンダの首都）
 kiker/o:【植】ヒヨコマメ
-kik/i:［他］【運】=s^oti（キックする）
+kik/i⟦踢ᴷᴷ/i⟧:［他］【運】=s^oti（キックする）
 Kikihar/o:【地名】チチハル（中国）,=C^jic^jiharo
 Kilimang^ar/o:【地名】キリマンジャロ山（タンザニア）
 kil/o⟦龙骨/o⟧:{Ｏ}【海】キール,竜骨
@@ -17940,7 +17940,7 @@ klak/ist/o⟦响ᴷ/家/o⟧:（劇場・講演で）雇われて拍手喝采（
 klak/o⟦响ᴷ/o⟧:カチカチいう音
 klak/son/o⟦响ᴷ/声/o⟧:【声】吸着音
 klangul/o:【鳥】コオリガモ（属）
-klan/o:氏族,クラン;一味,派閥
+klan/o⟦族ᴷ/o⟧:氏族,クラン;一味,派閥
 klap/a valv/o⟦瓣/a 阀/o⟧:【機】蝶形弁
 klap/eg/o⟦瓣/巨/o⟧:=pordoklapo（扉）
 klap/fenestr/o⟦瓣/窗/o⟧:【建】突き上げ天窓
@@ -26341,7 +26341,7 @@ muel/s^ton/o⟦磨/石/o⟧:うす石
 muezin/o:【イ】ムアッジン（イスラム寺院で定時の礼拝を呼びかける役の人）
 muf/gant/o⟦套ᴹ/手套/o⟧:【服】ミトン（親指だけが分かれた手袋）,=pugnoganto
 mufl/o⟦炉ᴹ/o⟧:【化】マッフル（炉・皿）
-muflon/o:【動】ムフロン（種）（野生ヒツジの一種）
+muflon/o⟦羊ᴹᶠ/o⟧:【動】ムフロン（種）（野生ヒツジの一種）
 muf/o⟦套ᴹ/o⟧:{Ｏ}【服】マフ;【機】円筒形部品（スリーブ・ジャケットなど）;（ガス）マントル
 mufti/o:【イ】ムフティー（イスラム教の宗法解釈官）
 mugil/o⟦鱼ᴹᴳ/o⟧:【魚】ボラ（鯔）（科の総称）
@@ -35259,7 +35259,7 @@ sarkasm/o⟦讽ˢ/o⟧:{Ｏ}辛辣な皮肉,あてこすり,嫌み
 sark/i⟦耘/i⟧:{Ｂ}［他］（土地を）除草する,（雑草を）取り除く
 sark/il/o⟦耘/具/o⟧:草取り鍬（くわ）
 sark/ind/aj^/o⟦耘/值/物/o⟧:雑草
-sarkofag/o:{Ｏ}【史】石棺（彫刻や碑文を施したもの）
+sarkofag/o⟦棺ˢ/o⟧:{Ｏ}【史】石棺（彫刻や碑文を施したもの）
 Sarmat/i/o:【史】サルマティア（黒海北岸地方の古称）
 sarmat/o:【史】サルマート人（＝サルマティア人，黒海北岸の古代騎馬民族）
 sarong/o:{Ｏ}【服】サロン（腰布）
@@ -37093,7 +37093,7 @@ snob/a⟦势利/a⟧:スノッブな,上流ぶった,俗物の
 snob/ec/o⟦势利/性/o⟧:俗物根性,紳士気取り
 snob/ism/o⟦势利/主义/o⟧:スノビズム,=snobeco
 snob/o⟦势利/o⟧:スノッブ,紳士気取りの俗物
-snuf/i:［自］（においをかいで）鼻をクンクン鳴らす;［他］鼻から吸う
+snuf/i⟦嗅ˢ/i⟧:［自］（においをかいで）鼻をクンクン鳴らす;［他］鼻から吸う
 so:{Ｏ}［文字名］ソー（文字S，sの名称）
 sobr/a⟦醒ˢ/a⟧:{Ｂ}（飲食を）節制した,しらふの;節度ある,落ち着いた
 sobr/e⟦醒ˢ/e⟧:しらふで;落ち着いて,冷静に
@@ -37897,7 +37897,7 @@ stel/ar/o⟦星/群/o⟧:【天】星座,=konstelacio
 stel/au^gur/ad/o⟦星/占ᴬ/行/o⟧:占星術,星占い,=astrologio
 stel/au^gur/ist/o⟦星/占ᴬ/家/o⟧:占星術師,=astrologo
 stel/bild/o⟦星/画/o⟧:【天】星図
-stele/o:石柱,石碑（碑文や彫刻を刻んだ記念碑・墓石）,>>monumento
+stele/o⟦碑ˢ/o⟧:石柱,石碑（碑文や彫刻を刻んだ記念碑・墓石）,>>monumento
 stel/et/o⟦星/小/o⟧:【印】星印（＊）,=asterisko;【情】アステリスク（＊）,=asterisko
 stel/figur/o⟦星/形ᶠᴳ/o⟧:【天】星座,=konstelacio
 stel/kard/o⟦星/刺草/o⟧:【植】ムラサキイガヤグルマギク
@@ -38051,7 +38051,7 @@ strab/ism/o⟦斜ˢ/主义/o⟧:【医】斜視
 Strabon/o:【人名】ストラボン（ギリシアの地理学者・歴史学者）
 strab/ul/o⟦斜ˢ/者/o⟧:斜視の人
 Stradivari/o:【人名】ストラディバリ（イタリアの弦楽器製作者）
-strand/o:浜辺,砂浜,>>plag^o
+strand/o⟦滩ˢ/o⟧:浜辺,砂浜,>>plag^o
 strang/a⟦奇/a⟧:{Ｂ}奇妙な,変な,不思議な,おかしい,異様な,>>bizara,>>kurioza,>>originala,>>ekstravaganca,>>fremda
 strang/a fenomen/o⟦奇/a 现ᶠ/o⟧:不思議な現象
 strang/a ide/o⟦奇/a 意/o⟧:風変わりな考え
@@ -48486,7 +48486,7 @@ gradual/o:【キ】【PIV】Libro kun la meskantoj.
 graf/a⟦伯/a⟧:【PIV】Rilata al grafo: lia grafa mos^to .
 graf/ec/o⟦伯/性/o⟧:【PIV】Tia titolo au^ rango.
 graf/uj/o⟦伯/器/o⟧:【PIV】Lando iam regata de grafo.
-grafem/o:【語】【PIV】Baza elemento de la skribsistemo: en E. estas 28 grafemoj; la literoj a, a, A, A reprezentas la saman grafemon «a».
+grafem/o⟦字ᴳ/o⟧:【語】【PIV】Baza elemento de la skribsistemo: en E. estas 28 grafemoj; la literoj a, a, A, A reprezentas la saman grafemon «a».
 grafit/i⟦石墨/i⟧:【PIV】Lubriki per grafito. Vd olei, grasi, parafino.
 grafit/aj^/o⟦石墨/物/o⟧:【PIV】Grafitmaterialo por krajonoj, pli speciale la nigra kerno de ordinara krajono. Sin. (sinonimo) krajon grafitaj^o, krajonkerno.
 grafologi/a:【PIV】Rilata al grafologio: grafologia esploro.
@@ -51288,7 +51288,7 @@ Laros^fuk/o:【PIV】Franca verkisto (F. de La Rochefoucauld, 1613−1680), au^t
 las/o⟦留/o⟧:【PIV】Ago de tiu, kiu lasas: lasado ne estas permeso.
 las/ad/i⟦留/行/i⟧:【PIV】Dau^re, ripete lasi: tiam s^i lasadis sin voki k konduki ; la fis^oj lasadis sin karesi .
 lasanj/oj:【PIV】Speco de pastaj^oj, tajlitaj en formo de larg^aj rubandoj: plataj, ondobordaj lasanjoj.
-lasciv/a:【PIV】Avida au^ instiga al amorg^uoj. Vd malc^asta, sensama, voluptema.
+lasciv/a⟦淫ᴸ/a⟧:【PIV】Avida au^ instiga al amorg^uoj. Vd malc^asta, sensama, voluptema.
 lasteks/o:【服】【PIV】Teksaj^o, inter kies fadenoj (el kotono, nilono, rajono k.a. (kaj aliaj)) estas enteksitaj elastaj fibroj.
 las^t/o:【PIV】Iama N-Eu^ropa mezurunuo de volumeno au^ pezo, diversvalora lau^ lokoj k varoj.
 lateks/o:【植】【PIV】Laktosuko: lateksoc^elo, lateksotubo (c^elo au^ c^elvico, enhavanta latekson; Sin. (sinonimo) laktosuk-c^elo, -tubo).
@@ -52793,7 +52793,7 @@ orgi/i⟦纵欲/i⟧:【PIV】Plenumi orgion.
 oriel/o:【建】【PIV】Speco de elstara fenestro, precipe c^e supra etag^o. Sin. (sinonimo) korbelfenestro.
 orient/ebl/a⟦东/可/a⟧:【数】【PIV】(pp (se paroli pri) sternaj^o) Tia, ke oni povas g^in orienti: la rubando de Möbius k la botelo de Klein estas neorienteblaj sternaj^oj.
 orient/it/a⟦东/受/a⟧:【数】【PIV】Provizita per orientig^o.
-orific/o:【解】【PIV】Enira au^ elira aperturo: faringa orifico de au^da tubo (ostium pharyngeum tubae auditivae au^ auditoriae).
+orific/o⟦孔ᴼ/o⟧:【解】【PIV】Enira au^ elira aperturo: faringa orifico de au^da tubo (ostium pharyngeum tubae auditivae au^ auditoriae).
 oriflam/o:【史】【PIV】1 Standardo de la francaj reg^oj, inter la 12a k la 15a jc (jarcento). 2 (f (figurasence)) Materia au^ idea signalo de kolektig^o en batalo ks (kaj simile, kaj similaj).
 diktamn-origan/o⟦草ᴰᴷ-origan/o⟧:【PIV】Diktamno 2.
 Origen/o:【PIV】Greklingva ekzegezisto k teologo (185−253).
