@@ -269,7 +269,7 @@ adjektiv/o⟦形ᴬ/o⟧:{Ｂ}【Ｇ】形容詞
 adjekt/o⟦状/o⟧:【Ｇ】状況補語,=cirkonstanca komplemento
 adjudik/i:［他］【商】=meti en prezkonkurado（競争入札にかける）
 adjunkt/o⟦助ᴬ/o⟧:助役,補佐,助手,>>asistanto
-adjutant/o:{Ｏ}【軍】副官
+adjutant/o⟦副官/o⟧:{Ｏ}【軍】副官
 administr/a⟦管ᴬ/a⟧:管理の,経営の,運営の;行政の
 administraci/a⟦管ᴬᶜ/a⟧:管理部門の;行政府の
 administraci/a instanc/o⟦管ᴬᶜ/a 当局/o⟧:行政機関
@@ -694,7 +694,7 @@ ajnu/a:=aina（アイヌの）
 ajn/ul/o⟦ajn/者/o⟧:（任意の）ある人,誰か,某氏,>>sinjoro Ajnulo
 ajnu/o:=aino（アイヌ）
 Ajun/o:【地名】アイウン（西サハラの首都）
-ajut/o:【機】噴射管,筒口,ノズル
+ajut/o⟦喷嘴/o⟧:【機】噴射管,筒口,ノズル
 -aj^-⟦物⟧:{Ｂ}［接尾辞］（具体化された事物を示す）,>>lignaj^o,>>mang^aj^o
 aj^/et/o⟦物/小/o⟧:小物
 aj^/o⟦物/o⟧:物,事物,ものごと,>>objekto
@@ -1174,7 +1174,7 @@ ali/land/ul/o⟦别/国/者/o⟧:外国人,=alilandano
 ali/lingv/a⟦别/语/a⟧:他言語の,言語の異なる
 ali/lok/e⟦别/处/e⟧:よそで,別の場所で
 ali/manier/e⟦别/式/e⟧:別のやり方で
-aliment/o:【法】（離婚した配偶者への）扶養料,（子どもへの）養育費
+aliment/o⟦养费/o⟧:【法】（離婚した配偶者への）扶養料,（子どもへの）養育費
 aline/ad/o⟦换行/行/o⟧:【印】改行
 aline/aj^/o⟦换行/物/o⟧:【印】段落,節
 aline/i⟦换行/i⟧:［自］【印】改行する
@@ -1277,7 +1277,7 @@ aloj/o⟦合金/o⟧:【化】合金
 along^/o:【商】（手形の裏書の）補箋（ほせん）
 alo/o⟦草ᴬ/o⟧:{Ｏ}【植】アロエ
 alopati/o:【医】逆症療法
-alopeci/o:【病】脱毛症
+alopeci/o⟦秃ᴬ/o⟧:【病】脱毛症
 aloz/o:【魚】ニシンダマシ,アローサ（ニシン科の食用魚）
 alp/a azale/o⟦峰/a 杜鹃/o⟧:【植】ミネズオウ（峰蘇芳）（種）
 al/pag/o⟦向/付/o⟧:割増料金,追加料金,プレミアム,=krompago
@@ -2225,7 +2225,7 @@ arab/a gum/o⟦arab/a 胶ᴳᴹ/o⟧:アラビアゴム
 arab/aj cifer/oj⟦arab/aj 数ᶜ/oj⟧:アラビア数字
 arab/a lingv/o⟦arab/a 语/o⟧:（la 〜）アラビア語
 Arab/a Mar/o:【地名】アラビア海（インド洋北西）
-arabesk/o:{Ｏ}【美】アラベスク,唐草模様
+arabesk/o⟦纹ᴬ/o⟧:{Ｏ}【美】アラベスク,唐草模様
 Arab/i/o:【地名】アラビア
 arab/o:{Ｏ}アラビア人
 Arafur/o:【地名】アラフラ海（オーストラリア北方）
@@ -2296,7 +2296,7 @@ ard/il/o⟦热ᴬ/具/o⟧:ガスマントル（ガス灯の点火口にかぶ�
 ardizi/o:《Ｎ》【植】マンリョウ（万両）（c^iamverda arbusto，_Ardisia crenata_）
 ard/o⟦热ᴬ/o⟧:白熱;熱望
 are/a rapid/o⟦面ᴬ/a 速/o⟧:【理】面積速度
-aren/o:{Ｏ}（古代ローマ円形競技場の中央にある）闘技場;《転》競争の場,活躍の舞台
+aren/o⟦场ᴬᴿ/o⟧:{Ｏ}（古代ローマ円形競技場の中央にある）闘技場;《転》競争の場,活躍の舞台
 are/o⟦面ᴬ/o⟧:{Ｏ}区域,（区切られた）場所;【数】面積
 areometr/o:{Ｏ}【理】浮ばかり,液体比重計
 Areopag/o:【史】アレオパゴス（古代アテネの最高法廷）;《転》上級裁判所
@@ -2461,7 +2461,7 @@ arorut/o⟦葛/o⟧:【植】クズウコン;【料】アロールートデン�
 ar/o/teori/o⟦群/o/论ᵀ/o⟧:【数】集合論
 arpeg^/i⟦散音/i⟧:［自］【楽】アルペジオで演奏する
 arpeg^/o⟦散音/o⟧:{Ｏ}【楽】アルペジオ
-arsenal/o:兵器庫,軍需品倉庫;武器弾薬の集積
+arsenal/o⟦库ᴬ/o⟧:兵器庫,軍需品倉庫;武器弾薬の集積
 arsenik/o:{Ｏ}【化】亜ヒ酸（三酸化二ヒ素）;（俗称で）殺そ剤
 arsen/o⟦矿ᴬ/o⟧:【化】ヒ素（非金属，３３番元素）
 ars^in/o:【単】アルシン（昔のロシアで長さの単位，＝0.71ｍ）
@@ -2845,7 +2845,7 @@ au^t/o/korn/o⟦车/o/角ᴷ/o⟧:【車】警笛,クラクション,=hupo
 au^tokrati/o:{Ｏ}【政】専制政治
 au^tokrat/ism/o⟦au^tokrat/主义/o⟧:【政】専制主義
 au^tokrat/o:{Ｏ}専制君主
-au^tokton/o:=pralog^anto（原住民）
+au^tokton/o⟦原住/o⟧:=pralog^anto（原住民）
 au^tomaci/o⟦动ᴬᶜ/o⟧:【機】オートメーション
 au^tomat/a⟦动ᴬ/a⟧:自動式の;《転》機械的な
 au^tomat/a en/fokus/ig/o⟦动ᴬ/a 内/焦点/使/o⟧:【写】自動焦点
@@ -3272,7 +3272,7 @@ barb/o⟦胡/o⟧:{Ｂ}あごひげ,ほおひげ
 barb/ul/o⟦胡/者/o⟧:（あごやほおに）ひげを生やした人
 Barcelon/o:【地名】バルセロナ（スペイン）
 barc^/o:{Ｏ}【料】ボルシチ
-bard/o:{Ｏ}（古代ケルト族の）吟唱詩人;《転》（古代の）民族的叙情詩人
+bard/o⟦诗ᴮ/o⟧:{Ｏ}（古代ケルト族の）吟唱詩人;《転》（古代の）民族的叙情詩人
 Barejn/o:【国名】バーレーン（アジア）
 barel/a bier/o⟦桶ᴮ/a 酒ᴮ/o⟧:樽ビール,生ビール
 barel/bend/o⟦桶ᴮ/带ᴮ/o⟧:たが
@@ -3728,7 +3728,7 @@ bind/il/o⟦装ᴮ/具/o⟧:【情】リンカ
 bind/ist/o⟦装ᴮ/家/o⟧:製本業者
 bind/it/a⟦装ᴮ/受/a⟧:本綴じの,ハードカバーの
 bind/o⟦装ᴮ/o⟧:製本
-binokl/o:{Ｏ}双眼鏡
+binokl/o⟦镜ᴮ/o⟧:{Ｏ}双眼鏡
 binom/a⟦二项/a⟧:【数】二項式の
 binom/o⟦二项/o⟧:【数】二項式,=dutermo
 bio-⟦生ᴮᴼ⟧:［学術接頭辞］【環】（生命・生物に関することを示す）
@@ -4001,7 +4001,7 @@ bol/ban/o⟦沸/浴/o⟧:【料】湯煎（ゆせん）
 bol/et/i⟦沸/小/i⟧:［自］とろとろ煮える
 bolet/o⟦菇/o⟧:【菌】イグチ（アミタケ科のキノコの総称）,=tubofungo
 bol/i⟦沸/i⟧:{Ｂ}［自］沸騰する,煮えたぎる;《転》荒れ狂う,激高する
-bolid/o:【天】火球,>>aerolito
+bolid/o⟦陨ᴮ/o⟧:【天】火球,>>aerolito
 bol/ig/i⟦沸/使/i⟧:［他］沸騰させる;【料】ゆでる,煮る
 bol/ig/it/a akv/o⟦沸/使/受/a 水/o⟧:湯,熱湯
 bol/ig/it/a ov/o⟦沸/使/受/a 卵/o⟧:【料】ゆで卵
@@ -5215,7 +5215,7 @@ c^ampion/o⟦冠ᶜ̂/o⟧:{Ｏ}【運】チャンピオン,選手権者,優勝�
 C^angc^un/o:【地名】チャンチュン（長春，中国）
 C^angdu/o:【地名】チャムド（昌都，中国）
 C^angpaj/a Mont/ar/o:【地名】チャンパイ山脈（長白山脈＝白頭山山脈，中国・朝鮮）,=Bekdua Montaro
-c^an/o:{Ｏ}【軍】撃鉄
+c^an/o⟦击锤/o⟧:{Ｏ}【軍】撃鉄
 c^antag^/i⟦讹/i⟧:［他］強請る（ゆする）,恐喝する
 c^antag^/ist/o⟦讹/家/o⟧:ゆすり屋
 c^antag^/o⟦讹/o⟧:強請（ゆすり）,恐喝
@@ -5275,7 +5275,7 @@ c^as/fusil/o⟦猎/枪/o⟧:猟銃
 c^as/hund/o⟦猎/犬/o⟧:猟犬
 C^as/hund/oj:【天】りょうけん座
 c^as/i⟦猎/i⟧:{Ｂ}［他］狩る,狩り立てる;《転》追い求める
-c^asi/o:{Ｏ}【機】シャーシー,車台
+c^asi/o⟦架ᶜ̂ˢ/o⟧:{Ｏ}【機】シャーシー,車台
 c^as/ist/o⟦猎/家/o⟧:猟師
 c^as/kaban/o⟦猎/庐/o⟧:狩猟小屋
 c^as/korn/o⟦猎/角ᴷ/o⟧:狩猟用ラッパ;【楽】狩猟ホルン
@@ -5811,10 +5811,10 @@ dam/cerv/o⟦妃/鹿/o⟧:【動】ダマジカ,=damao
 dam/ig/i⟦妃/使/i⟧:［他］【遊】（チェスでポーンを）クイーンに成らせる;【遊】（チェッカーで駒を）キングに成らせる
 dam/lud/o⟦妃/玩/o⟧:【遊】チェッカー
 Damn/e!:［間］ちくしょう！,しまった！
-damn/i:［他］【宗】地獄に落とす
-damn/ind/a⟦damn/值/a⟧:【宗】地獄に落ちるべき
-damn/it/o⟦damn/受/o⟧:【宗】地獄の亡者
-damn/o:【宗】地獄の罰,責め苦
+damn/i⟦咒ᴰ/i⟧:［他］【宗】地獄に落とす
+damn/ind/a⟦咒ᴰ/值/a⟧:【宗】地獄に落ちるべき
+damn/it/o⟦咒ᴰ/受/o⟧:【宗】地獄の亡者
+damn/o⟦咒ᴰ/o⟧:【宗】地獄の罰,責め苦
 dam/o⟦妃/o⟧:{Ｏ}貴婦人;（中世の）身分の高い女性への尊称;【遊】（トランプ、チェスの）クイーン;【遊】（チェッカーの）成り駒,キング
 dam/oj⟦妃/oj⟧:=damludo（チェッカー）
 dam/pec/o⟦妃/片/o⟧:【遊】チェッカーの駒
@@ -6287,11 +6287,11 @@ demand/i⟦问/i⟧:{Ｂ}［他］質問する,たずねる
 demand/il/o⟦问/具/o⟧:質問表,調査表
 demand/o⟦问/o⟧:質問,疑問;問題,>>problemo
 demand/o/sign/o⟦问/o/符/o⟧:【Ｇ】【情】疑問符（？）
-demarkaci/o:【政】（国境などの）境界画定,>>limfiksado
+demarkaci/o⟦划界/o⟧:【政】（国境などの）境界画定,>>limfiksado
 demars^/o:【政】（外交上の）措置,工作
 demenc/o⟦痴/o⟧:【病】認知症,（古い言い方で）痴呆（ちほう）
 demenc/ul/o⟦痴/者/o⟧:認知症患者
-dement/i:［他］=malkonfirmi（否認する）
+dement/i⟦否ᴰ/i⟧:［他］=malkonfirmi（否認する）
 de/met/i⟦从/置/i⟧:［他］ぬぐ,はずす,取り除く
 de/met/i kart/on⟦从/置/i 卡/on⟧:【遊】（トランプで）カードを置く
 demisi/i⟦辞/i⟧:［自］（大臣・内閣などが）辞職する,>>abdiki
@@ -6660,7 +6660,7 @@ diabl/in/o⟦魔ᴰ/女/o⟧:【宗】女悪魔
 diabl/o⟦魔ᴰ/o⟧:{Ｂ}【宗】悪魔,>>demono;魔王,>>satano;《転》極悪人
 diabl/o/serv/o⟦魔ᴰ/o/务/o⟧:【宗】黒ミサ
 diabol/o:【遊】ディアボロ（空中ごま）
-diadem/o:{Ｏ}（女性の）王冠型髪飾り;（古代の）王冠
+diadem/o⟦冠ᴰ/o⟧:{Ｏ}（女性の）王冠型髪飾り;（古代の）王冠
 diafan/a⟦透/a⟧:{Ｏ}半透明の,>>travidebla,>>maldiafana
 diafan/a blank/ec/o⟦透/a 白/性/o⟧:透き通るような（肌の）白さ
 diafan/a porcelan/o⟦透/a 瓷/o⟧:半透明の磁器
@@ -6969,7 +6969,7 @@ direktor/o de lice/o⟦导ᴰ/o 从 校/o⟧:（フランスの）リセの校�
 direkt/o/s^ang^/o⟦方/o/变/o⟧:方向転換
 direktric/o:【数】準線
 dir/i⟦说/i⟧:{Ｂ}［他］言う,述べる,告げる
-dirigent/o:【楽】=orkestrestro（オーケストラ指揮者）
+dirigent/o⟦指挥/o⟧:【楽】=orkestrestro（オーケストラ指揮者）
 dir/ig/i⟦说/使/i⟧:［他］言わせる
 dir/it/e⟦说/受/e⟧:言われて
 dir/manier/o⟦说/式/o⟧:言い方,言い回し,表現法
@@ -7933,7 +7933,7 @@ du/polus/o⟦二/极ᴾ/o⟧:【理】双極子
 du/punkt/o⟦二/点/o⟧:【印】【情】コロン（：）;【数】除算記号（：）
 dur/a⟦硬ᴰ/a⟧:《詩》=malmola（かたい）
 du/rad/a⟦二/轮/a⟧:二輪の
-duramatr/o:【解】（脳の）硬膜,>>piamatro
+duramatr/o⟦硬膜/o⟧:【解】（脳の）硬膜,>>piamatro
 dur/disk/o⟦硬ᴰ/盘ᴰ/o⟧:【情】ハードディスク,>>disko
 dur/o⟦币ᴰ/o⟧:【史】ドゥーロ（スペインの５ペセタ銀貨）
 du/sekc/ant/o⟦二/切ˢ/在/o⟧:【数】二等分線
@@ -8178,7 +8178,7 @@ ek-⟦始⟧:{Ｂ}［接頭辞］（開始・瞬間を示す）,>>ekbruli,>>ekkr
 ek/abon/i⟦始/订ᴬ/i⟧:［他］購読を始める,購読契約する
 ek/am/i⟦始/爱/i⟧:［他］好きになる
 ek/aper/i⟦始/现ᴬ/i⟧:［自］出現する
-ekart/o:【数】誤差;【海】偏差
+ekart/o⟦偏ᴱ/o⟧:【数】誤差;【海】偏差
 Ekaterinburg/o:【地名】=Jekaterinburgo（エカテリンブルク）
 ekau^dat/oj:《廃》=batrakoj（無尾類）
 ek/batal/i⟦始/战ᴮ/i⟧:［自］開戦する
@@ -8325,7 +8325,7 @@ ek/salt/i⟦始/跳/i⟧:［自］跳び上がる
 ekscelenc/o⟦阁ᴱ/o⟧:{Ｏ}閣下（高官に対する敬称）
 ekscentrik/a disk/o⟦偏心/a 盘ᴰ/o⟧:【機】偏心板
 ekscentrik/o⟦偏心/o⟧:【機】偏心輪
-ekscepci/o:【法】抗弁,異議申立
+ekscepci/o⟦抗辩/o⟧:【法】抗弁,異議申立
 eksces/a⟦滥/a⟧:過度の,行過ぎた,並外れた,>>troa
 eksces/a defend/o⟦滥/a 防/o⟧:過剰防衛
 eksces/e⟦滥/e⟧:過度に,極端に
@@ -8693,9 +8693,9 @@ ekzamen/it/o⟦检ᴱ/受/o⟧:受験者
 ekzamen/o⟦检ᴱ/o⟧:検査,診察;試験,テスト;取り調べ
 ekzamen/o de urin/o⟦检ᴱ/o 从 尿/o⟧:【医】尿検査,検尿
 ekzamen/sistem/o⟦检ᴱ/系/o⟧:試験制度
-ekzantem/a⟦疹ᴱ/a⟧:【病】発疹性の
-ekzantem/a tif/o⟦疹ᴱ/a 疹/o⟧:【病】発疹チフス
-ekzantem/o⟦疹ᴱ/o⟧:【病】発疹（はっしん）,>>enantemo
+ekzantem/a⟦疹ᴱᴺ/a⟧:【病】発疹性の
+ekzantem/a tif/o⟦疹ᴱᴺ/a 疹/o⟧:【病】発疹チフス
+ekzantem/o⟦疹ᴱᴺ/o⟧:【病】発疹（はっしん）,>>enantemo
 ekzegez/ist/o⟦释/家/o⟧:（聖書などの）釈義学者
 ekzegez/o⟦释/o⟧:（史書・経典などの）釈義,注釈,解釈
 ekzekuci/i⟦执ᴱᶜ/i⟧:［他］【法】強制執行する
@@ -8707,7 +8707,7 @@ ekzekut/ist/o⟦执/家/o⟧:死刑執行人
 ekzekut/o⟦执/o⟧:死刑執行
 ekzekvatur/o:【法】（外国判決の国内での）執行認許;（自国に駐在する外国領事への）認可状
 ekzekv/i:［他］=ekzekucii（強制執行する）
-ekzem/o:{Ｏ}【病】湿疹（しっしん）
+ekzem/o⟦疹ᴱ/o⟧:{Ｏ}【病】湿疹（しっしん）
 ekzempl/a fraz/o⟦例/a 句/o⟧:例文
 ekzempl/a kondut/o⟦例/a 举ᴷ/o⟧:模範的な素行
 ekzempl/e⟦例/e⟧:例えば
@@ -9579,7 +9579,7 @@ en/ofic/ig^/i⟦内/职/成/i⟧:［自］就任する
 en/ofic/ig^/o⟦内/职/成/o⟧:就任
 en/ord/e⟦内/序/e⟧:順調に,うまく;［間］オーケー！
 En ord/o!⟦En 序/o!⟧:［間］オーケー！,よし！
-enorm/a:《詩》=grandega（巨大な）
+enorm/a⟦巨ᴱᴺ/a⟧:《詩》=grandega（巨大な）
 enoter/o⟦花ᴱ/o⟧:【植】マツヨイグサ（属）;月見草,宵待草（よいまちぐさ）
 en/pag^/ig/i⟦内/页/使/i⟧:［他］組み付ける,ページに組む
 en/pag^/ig/o⟦内/页/使/o⟧:【印】組み付け,（ページの）レイアウト
@@ -9698,7 +9698,7 @@ enurez/o⟦遗尿/o⟧:【病】遺尿症
 en/vagon/ig^/i⟦内/厢/成/i⟧:［自］乗車する
 en/ven/i⟦内/来/i⟧:［自］入って来る
 en/ven/ig/i⟦内/来/使/i⟧:［他］入って来させる
-envergur/o:【海】帆幅;【空】翼幅;【鳥】翼幅
+envergur/o⟦翼展/o⟧:【海】帆幅;【空】翼幅;【鳥】翼幅
 en/vers^/i⟦内/浇/i⟧:［他］（液体を）注ぎ込む
 en/vers^/ig^/i⟦内/浇/成/i⟧:［自］（川などが）注ぎ込む
 en/vetur/ej/o⟦内/乘/所/o⟧:（乗り物の）乗り入れ門,進入口
@@ -9772,7 +9772,7 @@ epizooti/o:【動】家畜流行病,獣疫（じゅうえき）
 epok/far/a⟦纪/做/a⟧:画期的な,一時代を画する
 epok/far/ant/a⟦纪/做/在/a⟧:=epokfara（画期的な）
 epok/o⟦纪/o⟧:{Ｂ}時代;【地質】世,>>periodo（紀）,>>erao（代）,>>ag^o（期）
-epolet/o:{Ｏ}【軍】（軍服の）肩章,肩飾り
+epolet/o⟦肩章/o⟧:{Ｏ}【軍】（軍服の）肩章,肩飾り
 epope/o⟦史诗/o⟧:{Ｏ}【文】（英雄を題材にした）叙事詩
 epos/o:【文】（口承を起源とする）叙事詩,物語詩
 -er-⟦粒⟧:{Ｂ}［接尾辞］（構成粒子・要素を示す）,>>fajrero,>>monero
@@ -10581,7 +10581,7 @@ fascin/ad/o⟦魅ᶠ/行/o⟧:すくませること;魅惑,魅了
 fascin/i⟦魅ᶠ/i⟧:［他］（にらんで）すくませる;《転》魅惑する,悩殺する,とりこにする,>>ravi,>>sorc^i,>>c^armi
 fascin/it/a⟦魅ᶠ/受/a⟧:とりこになった,魅了された
 fascin/o⟦魅ᶠ/o⟧:魅惑,魅了
-fasci/o:【解】筋膜
+fasci/o⟦筋膜/o⟧:【解】筋膜
 fasciol/o:【動】カンテツ（肝蛭）（属）
 fasc^in/i⟦柴束/i⟧:［他］束柴（そくさい）で補強する
 fasc^in/o⟦柴束/o⟧:【軍】（堀を埋めたり側壁の補強に使う）粗朶（そだ）,束柴（そくさい）
@@ -11211,7 +11211,7 @@ fizionomi/ist/o⟦相ᶠᴺ/家/o⟧:人相見
 fizionomi/o⟦相ᶠᴺ/o⟧:{Ｏ}人相,顔つき,容貌,=vizag^aspekto;《転》外観,様相,特徴
 fizioterapi/ist/o⟦fizioterapi/家/o⟧:=fizikoterapiisto（理学療法士）
 fizioterapi/o:【医】=fizikoterapio（理学療法）
-fjord/o:{Ｏ}【地理】フィヨルド,峡湾
+fjord/o⟦峡湾/o⟧:{Ｏ}【地理】フィヨルド,峡湾
 flag/i⟦旗/i⟧:［他］旗で飾る
 flag/o⟦旗/o⟧:{Ｂ}旗,>>standardo
 flag/o/port/ant/o⟦旗/o/运/在/o⟧:旗手,=standardisto
@@ -11837,7 +11837,7 @@ for/tord/i⟦离/拧/i⟧:［他］=distordi（ねじ曲げる）;=tordorompi（
 fort/o/sag/o⟦强/o/矢/o⟧:【理】力の矢印
 for/tranc^/i⟦离/切/i⟧:［他］切り捨てる
 Fortran/o:【情】フォートラン,FORTRAN（プログラミング言語）
-fortres/o:【軍】（大規模で恒久的な）要塞（ようさい）,砦（とりで）,>>fortikaj^o
+fortres/o⟦堡垒/o⟧:【軍】（大規模で恒久的な）要塞（ようさい）,砦（とりで）,>>fortikaj^o
 fortun/o⟦运ᶠ/o⟧:幸運,>>destino,>>hazardo,>>fato
 Fortun/o:【神】運命の女神
 for/turn/i⟦离/转/i⟧:［他］身を引かせる
@@ -12793,7 +12793,7 @@ geni/ul/o⟦才/者/o⟧:天才（人）
 gen/lok/o⟦生ᴳ/处/o⟧:【生】遺伝子座
 gen/manipul/ad/o⟦生ᴳ/操ᴹᴾ/行/o⟧:【環】遺伝子操作,>>genrekombinado
 gen/o⟦生ᴳ/o⟧:{Ｏ}【生】遺伝子
-genocid/o:集団殺害;【法】ジェノサイド
+genocid/o⟦灭族/o⟧:集団殺害;【法】ジェノサイド
 genom/o:【生】=genaro（ゲノム）
 genot/o:{Ｏ}【動】ジェネット（属）;ヨーロッパジェネット
 gen/region/o⟦生ᴳ/区/o⟧:【生】遺伝子領域
@@ -12840,7 +12840,7 @@ Georg/o:{Ｏ}（男子名）ゲオルグ,ジョージ,ジョルジュ
 Georgtau^n/o:【地名】ジョージタウン（ガイアナの首都）
 Georg/urb/o:【地名】=Georgtau^no（ジョージタウン）
 geotrup/o⟦虫ᴳ/o⟧:【虫】センチコガネ（属）,=sterkoskarabo
-gepard/o:【動】チーター,=c^asleopardo
+gepard/o⟦豹ᴳ/o⟧:【動】チーター,=c^asleopardo
 ge/patr/a⟦双/父/a⟧:両親の
 ge/patr/a/lingv/a eduk/ad/o⟦双/父/a/语/a 育ᴱ/行/o⟧:母語教育
 ge/patr/a lingv/o⟦双/父/a 语/o⟧:母語
@@ -13186,7 +13186,7 @@ grac/o⟦恩/o⟧:【宗】恩寵,神の恵み,=difavoro
 grad/a⟦度/a⟧:段階的な;程度の
 grad/ar/o⟦度/群/o⟧:目盛
 grad/e⟦度/e⟧:だんだんと,しだいに
-gradient/o:【数】（ベクトルの）グラジエント,>>diverg^enco;【気】勾配,傾度
+gradient/o⟦坡ᴳ/o⟧:【数】（ベクトルの）グラジエント,>>diverg^enco;【気】勾配,傾度
 grad/ig/i⟦度/使/i⟧:［他］序列をつけて並べる;目盛をつける
 grad/ig^/i⟦度/成/i⟧:［自］等級順に並ぶ
 grad/ig^/o⟦度/成/o⟧:【写】（画像の）階調
@@ -14278,7 +14278,7 @@ herpet/o⟦泡疹/o⟧:【病】ヘルペス,疱疹（ほうしん）
 Hes/i/o:【地名】ヘッセン州（ドイツ）
 hes/o:ヘッセン人（ドイツ）
 Hesperi/o:【古地名】ヘスペリア（古代ギリシアではイタリアを，古代ローマではスペインを指す）
-hetajr/o:【史】（古代ギリシアの）ヘタイラ,高級娼婦
+hetajr/o⟦妓ᴴ/o⟧:【史】（古代ギリシアの）ヘタイラ,高級娼婦
 heterogen/a:【学】異質の,不均質の;混成の,><homogena
 heterogen/ec/o⟦heterogen/性/o⟧:異質（性）,不均質（性）
 hetman/o:{Ｏ}【史】アタマン（コサックの首長）;軍司令官,隊長
@@ -14289,7 +14289,7 @@ hezit/i⟦犹/i⟧:{Ｂ}［自］ためらう,躊躇（ちゅうちょ）する
 hezit/ig/i⟦犹/使/i⟧:［他］ためらわせる,躊躇させる
 hezit/o⟦犹/o⟧:ためらい,躊躇
 hiacint/o⟦风信子/o⟧:{Ｏ}【植】ヒアシンス（属）
-hiat/o:【声】母音接続
+hiat/o⟦隙ᴴ/o⟧:【声】母音接続
 Hiberni/o:【古地名】ヒベルニア（アイルランドのラテン語名）
 hibisk/o⟦芙蓉/o⟧:【植】ハイビスカス,フヨウ（属）
 hibrid/a⟦杂ᴴ/a⟧:雑種の;《転》混成の
@@ -14511,7 +14511,7 @@ hok/o/kruc/o⟦钩/o/十字/o⟧:（ナチスの）ハーケンクロイツ,か�
 hok/stang/o⟦钩/杆/o⟧:【海】鉤竿（かぎざお）
 hok/s^nur/o⟦钩/绳/o⟧:=hokfadeno（釣り糸）
 hola:［間］（呼び止める）ちょっと！,もしもし！
-hold/o:【海】船倉,=s^ipkelo
+hold/o⟦货舱/o⟧:【海】船倉,=s^ipkelo
 Holivud/o:【地名】ハリウッド（米国）
 holocen/o:【地質】完新世;完新統
 holografi/o:【理】ホログラフィー
@@ -15586,7 +15586,7 @@ insult/o⟦侮ᴵ/o⟧:ののしり,悪口,暴言
 insurekci/o⟦叛ᴵ/o⟧:《Ｎ》（圧政に対する）民衆蜂起,暴動,反乱,>>ribelo
 int.:［略］=internacia
 -int-⟦过⟧:{Ｂ}［分詞接尾辞］（能動・完了）
-intajl/o:【機】（宝石の）沈み彫り,>>kameo
+intajl/o⟦凹雕/o⟧:【機】（宝石の）沈み彫り,>>kameo
 int/ec/o⟦过/性/o⟧:【Ｇ】過去
 integr/a⟦全/a⟧:全部の,完全な,欠けたところのない;不可分の,不可欠の
 integr/a cirkvit/o⟦全/a 路ᶜ/o⟧:【情】集積回路（ＩＣ）
@@ -15659,7 +15659,7 @@ inter/ced/i⟦间/让/i⟧:［自］譲り合う
 inter/ced/o⟦间/让/o⟧:譲り合い
 inter/c^es/o⟦间/止/o⟧:中断,休息
 inter/dental/o⟦间/齿ᴰᴸ/o⟧:【声】歯間音（しかんおん）
-interdikt/o:【カ】聖務停止;【法】禁治産宣告
+interdikt/o⟦禁ᴵ/o⟧:【カ】聖務停止;【法】禁治産宣告
 inter/divid/i⟦间/分ᴰ/i⟧:［他］分けあう
 inter/e de⟦间/e 从⟧:〜のまっただ中で
 inter/edz/ig^/i⟦间/夫/成/i⟧:［自］=geedzig^i（結婚する）
@@ -16083,7 +16083,7 @@ Ital/i/o:【国名】イタリア（欧州）
 ital/o:{Ｏ}イタリア人
 Ital/uj/o:【国名】=Italio（イタリア）
 iterbi/o⟦金ᴵᴮ/o⟧:【化】イッテルビウム（原子番号７０の希土類元素）
-itiner/o:旅程,行程,=vojplano
+itiner/o⟦旅程/o⟧:旅程,行程,=vojplano
 itri/o⟦金ᴵᵀ/o⟧:【化】イットリウム（原子番号３９の希土類元素）
 Itrup/o:【地名】エトロフ島（択捉島，千島列島）
 I.T.U.:［略］=Internacia Telekomunika Unio,国際電気通信連合
@@ -16145,7 +16145,7 @@ Jafet/o:【聖】ヤペテ（ノアの第３子）
 Jaf/o:【地名】ヤッフォ（イスラエル）
 jagi/a anten/o⟦jagi/a 触角/o⟧:【通】八木アンテナ
 Jagi/o:【人名】八木秀次（日本の電気工学者、1886-1976）
-jaguar/o:{Ｏ}【動】ジャガー
+jaguar/o⟦豹ᴶ/o⟧:{Ｏ}【動】ジャガー
 jahurt/o:【料】=jogurto（ヨーグルト）
 jah^t/o⟦艇ᴶᴴ̂/o⟧:【海】=jakto（ヨット）
 Jakelin/o:（女子名）ジャクリーヌ,ジャクリーン
@@ -16254,7 +16254,7 @@ je:{Ｂ}［前］（時刻を示す場合や，他に適当な前置詞がない
 je c^iu prez/o⟦je 全u 价/o⟧:どんな代価を払っても,ぜひとも
 Jehov/o:【宗】エホバ（ヤハウェの古い呼称）,=Javeo
 Jehud/o:【聖】ユダ（ヤコブの第四子、ユダヤ民族の祖とされる）
-jejun/o:【解】空腸,>>maldika intesto
+jejun/o⟦肠ᴶ/o⟧:【解】空腸,>>maldika intesto
 je/j^ur/i⟦je/誓/i⟧:=kunj^uri（共謀する）;=j^urpeti（懇願する）
 Jekaterinburg/o:【地名】エカテリンブルク（旧スベルドロフスク，ロシア）
 Jemen/o:【国名】イエメン（アジア）
@@ -16433,7 +16433,7 @@ jur/a konsil/ant/o⟦法/a 议/在/o⟧:法律顧問
 jur/a person/ec/o⟦法/a 人ᴾ/性/o⟧:【法】法人格
 jur/a person/o⟦法/a 人ᴾ/o⟧:【法】法人
 jurisdikci/o:【法】=jug^rajto（裁判権）;=jug^distrikto（管轄区域）
-jurisprudenc/o:【法】（集合的に）判例,法解釈;=juroscienco（法学）
+jurisprudenc/o⟦判例/o⟧:【法】（集合的に）判例,法解釈;=juroscienco（法学）
 jur/ist/o⟦法/家/o⟧:法学者,法律専門家
 jur/konsil/ant/o⟦法/议/在/o⟧:法律顧問
 jur/medicin/o⟦法/医ᴹ/o⟧:法医学
@@ -16527,7 +16527,7 @@ j^ongl/aj^/o⟦耍/物/o⟧:（曲芸・手品の）わざ,早わざ
 j^ongl/i⟦耍/i⟧:{Ｏ}［自］（物を空中に投げる）曲芸をする;手品をする;《転》巧みに扱う
 j^ongl/ist/o⟦耍/家/o⟧:ジャグラー;手品師
 j^onk/o:【海】ジャンク船
-j^os/i:［他］【農】仮植する
+j^os/i⟦假植/i⟧:［他］【農】仮植する
 j^ud/ej/estr/o⟦柔道/所/长ᴱ/o⟧:（柔道場の）道場主
 j^ud/ej/o⟦柔道/所/o⟧:柔道場
 j^ud/ist/o⟦柔道/家/o⟧:柔道家
@@ -16940,7 +16940,7 @@ kancer/o⟦癌/o⟧:{Ｏ}【病】がん（癌）,>>tumoro;【植】腫瘍（し
 kancer/ul/o⟦癌/者/o⟧:癌患者
 kancional/o:【キ】=liturgia kantaro（典礼聖歌集？？？）【私家版】
 Kanc^enj^ung/o:【地名】カンチェンジュンガ山（ネパール・インド）
-kandelabr/o:{Ｏ}枝付き燭台
+kandelabr/o⟦烛台/o⟧:{Ｏ}枝付き燭台
 Kandel/fest/o:【カ】聖燭節（２月２日）
 kandel/ing/o⟦烛/座/o⟧:ろうそく立て,燭台
 kandel/o⟦烛/o⟧:{Ｂ}ろうそく;【理】カンデラ（光度の単位，cd）
@@ -16960,9 +16960,9 @@ kanel/o⟦槽ᴷ/o⟧:【建】（柱などの）縦溝;【機】（ねじなど
 kanguru/o⟦袋鼠ᴷ/o⟧:{Ｏ}【動】カンガルー（一般名）,>>makropo
 kanibal/ism/o⟦食人/主义/o⟧:人食い（の風習）;《転》残忍な行為
 kanibal/o⟦食人/o⟧:{Ｏ}食人種（の人）
-kanin/o:【解】犬歯,=kojnodento
+kanin/o⟦齿ᴷ/o⟧:【解】犬歯,=kojnodento
 kanistr/o:=ladskatolo（ブリキ缶）;=benzinujo（ガソリンタンク）
-kanjon/o:【地理】大峡谷
+kanjon/o⟦峡ᴷ/o⟧:【地理】大峡谷
 kankr/e⟦虾/e⟧:後ずさりして
 kankr/o⟦虾/o⟧:{Ｂ}【動】ザリガニ（の類）
 Kankr/o:【天】かに座;（黄道十二宮の）巨蟹（きょかい）宮
@@ -17003,7 +17003,7 @@ kantat/o:{Ｏ}【楽】カンタータ
 kant/et/i⟦唱/小/i⟧:［他］ハミングする,小声で歌う
 kant/et/o⟦唱/小/o⟧:ハミング,鼻歌
 kant/i⟦唱/i⟧:{Ｂ}［他］歌う;（鳥が）さえずる;《転》心地よい音を奏でる;（詩や歌で）褒めたたえる
-kantik/o:【キ】聖歌,賛歌
+kantik/o⟦咏ᴷ/o⟧:【キ】聖歌,賛歌
 kantil/o:【服】カンティーユ（らせん状に撚った刺しゅう用の金銀糸）【私家版】
 kantin/o:（学校・工場などの）構内売店;【軍】酒保
 Kanti/o:【人名】カント（ドイツの哲学者、1724-1804）
@@ -17196,7 +17196,7 @@ karamel/bombon/o⟦焦糖/糖ᴮ/o⟧:【菓】キャラメル
 karamel/ig^/i⟦焦糖/成/i⟧:［自］カラメルになる
 karamel/o⟦焦糖/o⟧:{Ｏ}【料】カラメル
 karaoke/o:《Ｎ》【楽】カラオケ
-karapac/o:【動】（カメ・カニなどの）甲羅（こうら）,甲皮,背甲,>>testuds^elo
+karapac/o⟦壳ᴷᴾ/o⟧:【動】（カメ・カニなどの）甲羅（こうら）,甲皮,背甲,>>testuds^elo
 Karar/o:【地名】カッラーラ（イタリア）
 karas/o:{Ｏ}【魚】フナ（鮒，属）;ヨーロッパブナ
 karate/o:【運】空手
@@ -17257,7 +17257,7 @@ kard/ad/o⟦刺草/行/o⟧:【織】梳毛（そもう）,梳綿（そめん）
 kardamin/o:【植】タネツケバナ（属）
 kardan/artik/o⟦万向/节ᴬ/o⟧:【機】カルダン継手,フック継手
 kardan/o⟦万向/o⟧:【機】カルダン懸架装置
-kardel/o:{Ｏ}【鳥】ゴシキヒワ（種）
+kardel/o⟦雀ᴷᴿ/o⟧:{Ｏ}【鳥】ゴシキヒワ（種）
 kard/i⟦刺草/i⟧:［他］【織】（繊維を）すく,カーディングする
 Kardif/o:【地名】カーディフ（ウェールズの首都、英国）,>>Kimrio
 kard/il/o⟦刺草/具/o⟧:【織】すきぐし,ハンドカード
@@ -17420,8 +17420,8 @@ kar/ul/o⟦亲/者/o⟧:いとしい人（愛する男性への呼びかけ）
 karusel/o:{Ｏ}メリーゴーラウンド,回転木馬;【史】騎馬試合
 karvi/o:【植】キャラウェー,ヒメウイキョウ（姫茴香）（種）;【料】キャラウェー（の実）
 Kasaci/a Kort/um/o:（la 〜）【法】破棄院（フランスなどの最高裁判所）
-kasaci/i:【法】（判決を）破棄する,>>nuligi
-kasaci/o:【法】（判決の）破棄
+kasaci/i⟦废ᴷ/i⟧:【法】（判決を）破棄する,>>nuligi
+kasaci/o⟦废ᴷ/o⟧:【法】（判決の）破棄
 kased/bend/o⟦盒ᴷ/带ᴮ/o⟧:カセットテープ
 kased/il/o⟦盒ᴷ/具/o⟧:カセット・レコーダー
 kased/o⟦盒ᴷ/o⟧:{Ｏ}カセット,カセットテープ
@@ -17505,7 +17505,7 @@ kas^/vojag^/ant/o⟦藏/旅/在/o⟧:密航者,もぐりの乗客,=kas^pasag^ero
 kat/a⟦猫/a⟧:猫の,猫のような
 katafalk/o:{Ｏ}棺台
 kataklism/o⟦灾ᴷᴷ/o⟧:（社会の）激動,激変;大災害;【地質】地殻の激変
-katakomb/o:{Ｏ}【史】カタコンベ,地下墓地
+katakomb/o⟦墓ᴷ/o⟧:{Ｏ}【史】カタコンベ,地下墓地
 katalau^n/o:【史】カタラウヌム族（ガリア人の部族）
 katalepsi/o:{Ｏ}【病】カタレプシー,強硬症
 katalog/i⟦录ᴷ/i⟧:［他］〜の目録を作る
@@ -18007,7 +18007,7 @@ klav/i numer/on⟦键/i 号/on⟧:（プッシュホンなどで）ダイヤル�
 klav/o⟦键/o⟧:{Ｏ}（タイプライター・ピアノなどの）キー,鍵（けん）;【情】キー
 klematid/o:【植】クレマチス,センニンソウ（属）
 klemat/o:【植】=klematido
-kle/o:【楽】音部記号
+kle/o⟦谱号/o⟧:【楽】音部記号
 Kleopatr/o:【人名】クレオパトラ（古代エジプトの女王）
 kler/a⟦文/a⟧:{Ｂ}教養ある,学識のある
 kler/ec/o⟦文/性/o⟧:教養,学識
@@ -18203,7 +18203,7 @@ kodak/i:［他］【写】スナップ撮影する,=ekfoti
 kodak/o:コダック（商品名）;（手持ち撮影できる）カメラ
 kodeks/o⟦典ᴷᴰ/o⟧:{Ｏ}（冊子状の）古写本,古文書;【薬】=farmakopeo（薬局方）
 kod/i⟦码/i⟧:［他］【情】符号化する,エンコードする;（電文を）暗号化する
-kodicil/o:{Ｏ}【法】遺言補足書
+kodicil/o⟦嘱ᴷ/o⟧:{Ｏ}【法】遺言補足書
 kod/ig/i⟦码/使/i⟧:［他］法典にまとめる;電信符号にする
 kod/o⟦码/o⟧:{Ｏ}【法】法典;（電信などの）符号,暗号;【情】符号,コード
 kod/romp/ist/o⟦码/破/家/o⟧:【情】クラッカー（不正利用者，システム破壊者）,>>komputemulo
@@ -18225,7 +18225,7 @@ koher/i⟦贯/i⟧:［自］（論理が）首尾一貫している,まとまっ
 koher/ig/a fort/o⟦贯/使/a 强/o⟧:【理】凝集力
 koher/il/o⟦贯/具/o⟧:【通】コヒーラ
 koher/o⟦贯/o⟧:【理】凝集;一貫性,まとまり,（話の）筋道
-kohort/o:【史】（古代ローマの）歩兵隊;《転》一団,一群（人の集団）
+kohort/o⟦团ᴷ/o⟧:【史】（古代ローマの）歩兵隊;《転》一団,一群（人の集団）
 koincid/i⟦巧合/i⟧:{Ｏ}［自］同時に起こる;一致する,符合する;【数】一致する
 koincid/o⟦巧合/o⟧:同時発生;合致,一致,符合;【数】一致
 koit/i⟦交ᴷ/i⟧:［自］交接する,性交する,=sekskunig^i
@@ -18249,7 +18249,7 @@ kokain/o:【化】コカイン
 kok/aj^/o⟦鸡/物/o⟧:【料】かしわ,鶏肉
 kokakola/o:コカコーラ（商品名）
 koka/o:【植】コカ（コカインを含有する常緑小低木）
-kokard/o:{Ｏ}花形帽章,記章;（リボンの）花結び,>>banto
+kokard/o⟦徽ᴷ/o⟧:{Ｏ}花形帽章,記章;（リボンの）花結び,>>banto
 kok/batal/o⟦鸡/战ᴮ/o⟧:闘鶏
 kok/brust/aj^/o⟦鸡/胸/物/o⟧:【料】鶏胸肉（とりむねにく）
 kokcig/o:【解】尾骨
@@ -18381,7 +18381,7 @@ koloid/er/o⟦胶ᴷᴸ/粒/o⟧:【化】コロイド粒子
 koloid/o⟦胶ᴷᴸ/o⟧:【化】コロイド,膠質（こうしつ）
 kolokasi/o:【植】サトイモ
 kolokint/o:【植】=kolocinto（コロシントウリ）
-kolokv/o:専門家会議,討論集会
+kolokv/o⟦会ᴷᴸ/o⟧:専門家会議,討論集会
 kolomb/ed/oj⟦鸽/科ᴱ/oj⟧:【鳥】ハト科
 kolomb/ej/o⟦鸽/所/o⟧:ハト小屋,鳩舎（きゅうしゃ）
 kolomb/et/o⟦鸽/小/o⟧:小鳩
@@ -18578,7 +18578,7 @@ komitat/kun/sid/o⟦委ᴷᵀ/共/坐/o⟧:（委員会の）会合,会議
 komitat/o⟦委ᴷᵀ/o⟧:{Ｂ}（実行）委員会
 komiz/o⟦员ᴷ/o⟧:{Ｏ}店員,社員,銀行員
 kom/o⟦逗/o⟧:{Ｂ}コンマ,読点;【数】小数点;【情】コンマ（，）
-komod/o:{Ｏ}たんす（箪笥）,=tirkestaro
+komod/o⟦柜ᴷ/o⟧:{Ｏ}たんす（箪笥）,=tirkestaro
 kom/o/form/a⟦逗/o/形/a⟧:コンマ形の
 kom/o/form/a bacil/o⟦逗/o/形/a 菌ᴮᶜ/o⟧:【医】コンマ菌（コレラ菌）
 Komor/oj:【国名】コモロ（アフリカ）
@@ -20111,7 +20111,7 @@ krenel/a⟦垛ᴷ/a⟧:銃眼のついた;【植】（葉の縁が）鈍鋸歯�
 krenel/et/a⟦垛ᴷ/小/a⟧:【植】（葉の縁が）小鈍鋸歯状の
 krenel/i⟦垛ᴷ/i⟧:（城壁に）銃眼をつける
 krenel/o⟦垛ᴷ/o⟧:【建】銃眼（胸壁の凹部）
-kren/o:{Ｏ}【植】セイヨウワサビ,ワサビダイコン;【料】わさび大根
+kren/o⟦辣根/o⟧:{Ｏ}【植】セイヨウワサビ,ワサビダイコン;【料】わさび大根
 kre/o⟦创/o⟧:=kreado（創造）
 kreol/a:クレオールの;クレオール語の
 kreol/a lingv/o⟦kreol/a 语/o⟧:【語】クレオール語
@@ -20552,7 +20552,7 @@ kul/ed/oj⟦蚊ᴷ/科ᴱ/oj⟧:【虫】カ科
 kuler/eg/o⟦勺/巨/o⟧:【料】杓子（しゃくし）;しゃもじ
 kuler/et/o⟦勺/小/o⟧:【料】小さじ,茶さじ
 kuler/o⟦勺/o⟧:{Ｂ}【料】さじ,スプーン
-kulinar/a:=kuira（料理の）
+kulinar/a⟦烹ᴷᴸ/a⟧:=kuira（料理の）
 kuli/o:クーリー（インド・中国などの日雇い人夫）
 kulis/o⟦幕ᴷ/o⟧:{Ｏ}【劇】舞台裏;舞台の袖（そで）;《転》内幕,舞台裏
 kulis/s^ov/ist/o⟦幕ᴷ/推ˢ̂/家/o⟧:【劇】道具方
@@ -20790,7 +20790,7 @@ kun/volv/aj^/o⟦共/卷/物/o⟧:巻いた束
 kun/volv/i⟦共/卷/i⟧:［他］一緒に巻く,束ねる
 ku/o:{Ｏ}［文字名］キュー（ラテン文字Ｑ，ｑ）
 Kuomintang/o:【史】（近代中国の）国民党
-kupe/o:{Ｏ}（客車の）車室,コンパートメント;（乗合馬車の）客室
+kupe/o⟦厢ᴷ/o⟧:{Ｏ}（客車の）車室,コンパートメント;（乗合馬車の）客室
 Kupid/o:【神】クピド,キューピッド（ローマ神話の恋愛の神）,>>Amoro,>>Eroso
 Kupidon/o:【神】=Kupido（クピド）
 kupl/ad/o⟦连ᴷ/行/o⟧:【機】連結;【電】【理】結合
@@ -21750,7 +21750,7 @@ legac/o⟦遗赠/o⟧:【法】遺贈,遺贈物
 leg/ad/o⟦读/行/o⟧:読むこと,読み方;読書
 leg/aj^/o⟦读/物/o⟧:読み物
 leg/ant/o⟦读/在/o⟧:読者
-legat/o:{Ｏ}【カ】教皇特使
+legat/o⟦使ᴸ/o⟧:{Ｏ}【カ】教皇特使
 leg/ebl/a⟦读/可/a⟧:読める,読み取れる
 legend/a⟦传ᴸ/a⟧:伝説の,伝説的な
 legend/o⟦传ᴸ/o⟧:{Ｏ}伝説,言い伝え
@@ -22292,7 +22292,7 @@ lini/fald/o⟦线/折/o⟧:【情】ワードラップ,行折り返し
 lini/fin/il/o⟦线/终/具/o⟧:【情】改行（\n）
 lini/i⟦线/i⟧:［他］線をひく,罫（けい）を引く
 lini/il/o⟦线/具/o⟧:定規,=rektilo
-liniment/o:【薬】リニメント剤,塗布剤（液状の塗り薬）,>>s^miraj^o
+liniment/o⟦膏ᴸ/o⟧:【薬】リニメント剤,塗布剤（液状の塗り薬）,>>s^miraj^o
 lini/o⟦线/o⟧:{Ｂ}線,境界線,すじ;列,並び,系統;（文字の）行;【数】線;【交】路線;【運】ライン
 lini/o/trup/oj⟦线/o/团ᵀ/oj⟧:【軍】（前線の）戦列部隊
 link/o⟦山猫/o⟧:{Ｏ}【動】オオヤマネコ（属）（大山猫）
@@ -22303,7 +22303,7 @@ lin/ole/um/o⟦亚麻/油/um/o⟧:リノリウム
 linotip/ist/o⟦铸排/家/o⟧:【印】ライノタイプ作業工
 linotip/o⟦铸排/o⟧:【印】ライノタイプ
 lin/sem/o⟦亚麻/种/o⟧:亜麻仁（あまに）（アマの種子）
-lintel/o:【建】まぐさ（窓・入口などの上部の横材）
+lintel/o⟦梁ᴸ/o⟧:【建】まぐさ（窓・入口などの上部の横材）
 lin/tol/o⟦亚麻/布/o⟧:【織】リネン,リンネル
 Linuks/o:【情】リナックス,リヌックス,Linux,>>Unikso
 li/o⟦他/o⟧:【単】里（中国の距離の単位、約500m）
@@ -22340,7 +22340,7 @@ list/ig/i⟦表ᴸ/使/i⟧:［他］表に載せる
 list/ig/it/a⟦表ᴸ/使/受/a⟧:表に載った
 list/o⟦表ᴸ/o⟧:{Ｂ}一覧表,表,リスト,目録,名簿
 lit/aj^/o⟦床/物/o⟧:寝具
-litani/o:{Ｏ}【カ】連祷（れんとう）;《転》長たらしい話,繰り言
+litani/o⟦祈ᴸ/o⟧:{Ｏ}【カ】連祷（れんとう）;《転》長たらしい話,繰り言
 litargir/o:【化】リサージ（一酸化鉛）,密陀僧（みつだそう）
 lit/cim/o⟦床/臭虫/o⟧:【虫】トコジラミ,（俗称）ナンキンムシ
 lit/c^ambr/o⟦床/室/o⟧:ベッドルーム,寝室
@@ -22461,7 +22461,7 @@ log^/i en hotel/o⟦住/i 内 馆/o⟧:ホテルに宿泊する
 log^/i en Kiot/o⟦住/i 内 Kiot/o⟧:京都に住んでいる
 log^/ig/i⟦住/使/i⟧:［他］住まわせる;泊める
 log^i/o:{Ｏ}【劇】桟敷,ボックス席;【建】ロッジア,開廊;（フリーメーソンの）支部,集会所
-log^istik/o:【軍】兵站（へいたん）学,兵站業務,後方補給
+log^istik/o⟦后勤/o⟧:【軍】兵站（へいたん）学,兵站業務,後方補給
 log^/kvartal/o⟦住/区ᴷ/o⟧:住宅街,住宅団地
 log^/lok/o⟦住/处/o⟧:居住地,住所;滞在地
 log^/o/c^ambr/o⟦住/o/室/o⟧:居間
@@ -22814,7 +22814,7 @@ madrigal/o⟦情歌/o⟧:【文】マドリガル（叙情短詩）,恋歌;【�
 mafi/o:《Ｎ》マフィア（大規模な犯罪組織）,組織暴力団
 magazen/eg/o⟦仓/巨/o⟧:百貨店
 magazen/o⟦仓/o⟧:{Ｂ}（商品などの）倉庫;大商店,百貨店;（銃の）弾倉,（カメラの）マガジン
-magazin/o:（絵入りの）雑誌,>>gazeto
+magazin/o⟦刊ᴹ/o⟧:（絵入りの）雑誌,>>gazeto
 magdaleni/o:【考古】マドレーヌ期（ヨーロッパ後期旧石器時代の最終期）
 Magdalen/o:【聖】マグダラのマリア;（女子名）マグダレーヌ,マドレーヌ
 Magdeburg/o:【地名】マグデブルク（ドイツ）
@@ -23853,7 +23853,7 @@ mal/rapid/em/a⟦反/速/倾/a⟧:あわてず落ち着いた,のんびりした
 mal/rapid/i⟦反/速/i⟧:［自］ゆっくり進む,のろのろ行く;長引く,遅れる,ぐずぐずする
 mal/rapid/ig/i⟦反/速/使/i⟧:［他］遅くする,減速させる
 mal/real/a⟦反/实/a⟧:=nereala（非現実的な）
-mal/ref/i⟦反/ref/i⟧:［自］【海】帆を広げる
+mal/ref/i⟦反/缩帆/i⟧:［自］【海】帆を広げる
 mal/registr/ig^/i⟦反/录/成/i⟧:［自］【情】ログアウトする,=adiau^i
 mal/regul/a⟦反/规/a⟧:不規則な,=neregula
 mal/regul/ec/o⟦反/规/性/o⟧:不規則性,=nereguleco
@@ -24667,7 +24667,7 @@ mat/o⟦席/o⟧:{Ｂ}マット,むしろ,ござ,敷物,>>tapis^o,>>tatamo
 mat/o⟦席/o⟧:【遊】（チェス・将棋の）詰み,チェックメイト
 Matogros/o:【地名】マットグロッソ台地（ブラジル）
 matrac/o⟦垫ᴹ/o⟧:{Ｂ}マットレス（寝床用の厚い敷物）
-matric/o:{Ｏ}鋳型,金型,抜き型,母型;【数】行列;【地質】石基,基質;=gango
+matric/o⟦型ᴹᵀ/o⟧:{Ｏ}鋳型,金型,抜き型,母型;【数】行列;【地質】石基,基質;=gango
 matrikul/i⟦籍/i⟧:［他］登録番号を付ける;=enmatrikuligi（登録する）
 matrikul/o⟦籍/o⟧:登録簿,名簿;登録番号;登録証明書
 matrikul/plat/o⟦籍/扁/o⟧:（自動車の）ナンバープレート
@@ -24716,7 +24716,7 @@ mec^/ing/o⟦芯/座/o⟧:（ランプの）口金
 mec^/o⟦芯/o⟧:{Ｏ}灯心,（ろうそくなどの）芯;火縄;導火線;【医】（排膿用の）ガーゼ芯
 mec^/uj/o⟦芯/器/o⟧:カンテラ（容器に油と灯心を入れただけのもの）
 medal/i⟦牌/i⟧:［他］メダルを授ける
-medalion/o:{Ｏ}ロケット（首飾り）;【美】メダイヨン（装飾的な大型のメダル）
+medalion/o⟦牌ᴹᴺ/o⟧:{Ｏ}ロケット（首飾り）;【美】メダイヨン（装飾的な大型のメダル）
 medal/ist/o⟦牌/家/o⟧:メダル作製者
 medal/o⟦牌/o⟧:{Ｏ}メダル,賞牌（はい）,記念章
 medal/ul/o⟦牌/者/o⟧:メダル受賞者,メダリスト
@@ -24725,7 +24725,7 @@ medi/a antau^/taks/ad/o⟦境/a 前/评/行/o⟧:【環】環境アセスメン�
 medi/afabl/a⟦境/善/a⟧:【環】環境に優しい,=mediindulga
 medi/aktiv/ul/o⟦境/活ᴬ/者/o⟧:環境保護活動家
 medial/o:【Ｇ】中動態
-median/o:【数】中線;【統】中央値,メジアン,=duilo;【解】正中神経
+median/o⟦中ᴹᴰ/o⟧:【数】中線;【統】中央値,メジアン,=duilo;【解】正中神経
 medi/a norm/o⟦境/a 范/o⟧:【環】環境基準
 medi/a scienc/o⟦境/a 科/o⟧:【環】環境科学
 medicin/a⟦医ᴹ/a⟧:医学の,医学的な;薬用の
@@ -24862,7 +24862,7 @@ mel/o⟦鼠ᴹᴸ/o⟧:{Ｏ}【動】アナグマ（属）（穴熊）
 melodi/a⟦调ᴹ/a⟧:旋律の,旋律的な;豊かな旋律の,調べの美しい,耳に心地よい
 melodi/ec/o⟦调ᴹ/性/o⟧:旋律の美しさ
 melodi/o⟦调ᴹ/o⟧:{Ｏ}【楽】旋律,調べ,メロディー
-melodram/o:{Ｏ}【劇】メロドラマ（通俗的・感傷的な恋愛劇）;【史】メロドラマ（音楽伴奏入りの演劇）
+melodram/o⟦剧ᴹ/o⟧:{Ｏ}【劇】メロドラマ（通俗的・感傷的な恋愛劇）;【史】メロドラマ（音楽伴奏入りの演劇）
 melolont/o:【虫】コフキコガネ（属）（粉吹金亀子）,=majskarabo
 melon/arb/o⟦瓜/树/o⟧:【植】メロン（種）
 melongen/o:{Ｏ}【植】ナス（種）（茄子）;【果】ナス（の実）
@@ -24939,7 +24939,7 @@ mem/o⟦自/o⟧:自己,自我,>>egoo
 memor/aj^/o⟦记/物/o⟧:記念品,思い出の品,形見,土産（みやげ）
 memor/aj^/oj⟦记/物/oj⟧:回想録,回顧録,手記
 memor/aj^/vend/ej/o⟦记/物/卖/所/o⟧:土産物屋
-memorand/o:【政】（外交上の）覚書;（一般に）一件覚書
+memorand/o⟦备忘/o⟧:【政】（外交上の）覚書;（一般に）一件覚書
 memor/art/o⟦记/艺/o⟧:記憶術
 memor/e⟦记/e⟧:記憶によって,そらで,>>parkere
 memor/e al⟦记/e 向⟧:〜の記念に
@@ -25185,7 +25185,7 @@ metastabil/a:【理】準安定の
 metatars/o:【解】中足（ちゅうそく）;中足骨
 metatez/o:【声】音位転換
 metazo/oj⟦后生/oj⟧:【動】後生動物
-metempsikoz/o:{Ｏ}【宗】輪廻（りんね）
+metempsikoz/o⟦轮回/o⟧:{Ｏ}【宗】輪廻（りんね）
 meteologi/a bulten/o⟦meteologi/a 报ᴮ/o⟧:【気】気象通報
 meteologi/a observatori/o⟦meteologi/a 天文台/o⟧:気象台
 meteologi/a radar/o:【気】気象レーダー
@@ -25224,7 +25224,7 @@ metod/ist/o⟦法ᴹ/家/o⟧:【キ】メソジスト教徒（プロテスタ�
 metod/o⟦法ᴹ/o⟧:{Ｂ}方法,方式;【学】測定法
 Metod/o:【人名】聖メトディオス（９世紀モラビアで活動したキリスト教の伝道師，聖キュリロスの兄）,>>Cirilo
 metodologi/o:【哲】方法論
-metonimi/o:【修】換喩（かんゆ）（plumoでverkadoを表すなど、隣接関係による比喩）
+metonimi/o⟦喻ᴹᴺ/o⟧:【修】換喩（かんゆ）（plumoでverkadoを表すなど、隣接関係による比喩）
 -metr-⟦米⟧:［学術接尾辞］（計測器を示す）,>>ampermetro
 metr/a⟦米/a⟧:メートル（法）の
 metr/a sistem/o⟦米/a 系/o⟧:【学】メートル法
@@ -25633,7 +25633,7 @@ miop/ec/o⟦近ᴹ/性/o⟧:【医】近視,近眼
 miop/ul/o⟦近ᴹ/者/o⟧:近視の人
 miozot/o:{Ｏ}【植】ワスレナグサ（勿忘草）（属）,=neforgesumino
 mirabel/o:{Ｏ}【果】ミラベル（甘いスモモの一種）
-mirag^/o:{Ｏ}【気】蜃気楼（しんきろう）,=fatamorgano;《転》幻影
+mirag^/o⟦幻ᴹ/o⟧:{Ｏ}【気】蜃気楼（しんきろう）,=fatamorgano;《転》幻影
 mirakl/a⟦奇ᴹ/a⟧:奇跡の,奇跡的な
 mirakl/e⟦奇ᴹ/e⟧:奇跡的に
 mirakl/o⟦奇ᴹ/o⟧:{Ｏ}【宗】奇跡;《転》驚異
@@ -25750,7 +25750,7 @@ mis/uz/o⟦误/用/o⟧:誤用,悪用
 mit/a⟦神话/a⟧:神話の,神話的な;《転》架空の
 mit/ig/i⟦神话/使/i⟧:［他］神話化する,神話を作る
 Mitilen/o:【地名】ミティリーニ（ギリシア）
-miting/o:政治的大衆集会,=politika amaskunveno
+miting/o⟦会ᴹ/o⟧:政治的大衆集会,=politika amaskunveno
 mit/o⟦神话/o⟧:{Ｏ}神話;《転》作り話,根拠のない社会通念
 mitologi/o:{Ｏ}神話学;神話体系,神話集
 mitolog/o:{Ｏ}神話学者
@@ -25893,7 +25893,7 @@ molekul/a biologi/o⟦分ᴹᴸ/a 生ᴮ/o⟧:分子生物学
 molekul/a mov/ad/o⟦分ᴹᴸ/a 动/行/o⟧:【理】分子運動
 molekul/o⟦分ᴹᴸ/o⟧:{Ｏ}【化】分子
 molekul/pez/o⟦分ᴹᴸ/重/o⟧:【化】分子量
-mole/o:【海】防波堤,突堤,=ondrompilo
+mole/o⟦堤ᴹ/o⟧:【海】防波堤,突堤,=ondrompilo
 molest/i⟦虐ᴹ/i⟧:《稀》［他］いじめる,虐待する,苦しめる,>>mistrakti,>>turmenti
 molibden/at/o⟦金ᴹᴸ/盐ᴬ/o⟧:【化】モリブデン酸塩
 molibden/o⟦金ᴹᴸ/o⟧:【化】モリブデン（原子番号４２の金属元素）
@@ -26026,7 +26026,7 @@ mon/ofer/o⟦钱/献/o⟧:献金
 monogami/o:一夫一婦制,>>poligamio
 monografi/o:【学】モノグラフ,（特定課題についての）専攻論文
 monogram/o:{Ｏ}【印】モノグラム,（氏名の頭文字などを図案化した）組合せ文字
-monokl/o:【光】モノクル,片めがね
+monokl/o⟦镜ᴹ/o⟧:【光】モノクル,片めがね
 monokristal/o:【理】単結晶
 monokromat/a:【理】単色の;【写】白黒の,モノクロの
 monokromat/a fot/o⟦monokromat/a 拍/o⟧:【写】白黒写真,モノクロ写真
@@ -26152,7 +26152,7 @@ moral/instru/o⟦德ᴹ/教/o⟧:道徳教育,徳育
 moral/ism/o⟦德ᴹ/主义/o⟧:道徳至上主義
 moral/ist/o⟦德ᴹ/家/o⟧:モラリスト,道徳家
 moral/o⟦德ᴹ/o⟧:{Ｂ}道徳,道義,倫理,モラル;道徳論,>>etiko
-moratori/o:【法】モラトリアム,支払猶予
+moratori/o⟦延ᴹ/o⟧:【法】モラトリアム,支払猶予
 Moravi/o:【地名】モラバ地方（＝モラビア，チェコ）
 Morav/o:【地名】モラバ川（チェコ，ドナウ川の支流）
 Morav/o:【地名】モラバ川（ユーゴスラビア，ドナウ川の支流）
@@ -26310,7 +26310,7 @@ mov/ig^/i⟦动/成/i⟧:［自］動く,身動きする,移動する;《転》�
 mov/ig^/o⟦动/成/o⟧:移動
 mov/il/ar/o⟦动/具/群/o⟧:機械装置,メカニズム,>>mekanismo
 mov/il/o⟦动/具/o⟧:動力,>>motoro
-moviment/o:【楽】楽章
+moviment/o⟦乐章/o⟧:【楽】楽章
 mov/o⟦动/o⟧:動き,動作;【遊】（チェスなどの）一手;《転》（感情の）動き,動揺
 mov/o/kvant/o⟦动/o/量/o⟧:【理】運動量
 mov/o/plen/a⟦动/o/满/a⟧:活気に満ちた
@@ -26707,7 +26707,7 @@ narkot/ig^/o⟦麻ᴺ/成/o⟧:麻酔で眠ること
 narkotik/o⟦麻ᴺᴷ/o⟧:{Ｏ}【医】麻酔薬,=narkotaj^o
 narkot/ism/o⟦麻ᴺ/主义/o⟧:麻薬中毒
 narkot/ist/o⟦麻ᴺ/家/o⟧:麻薬中毒者,麻薬常用者
-narkoz/o:【医】麻酔状態,=narkoteco
+narkoz/o⟦麻ᴺᶻ/o⟧:【医】麻酔状態,=narkoteco
 Narmad/o:【地名】ナルマダ川（インド）,=Narbado
 narval/o:【動】イッカク（一角）
 Nasa/o:【地名】=>Nasau^o
@@ -27173,7 +27173,7 @@ nekrolog/ar/o⟦nekrolog/群/o⟧:死亡者名簿
 nekrolog/o:{Ｏ}死亡記事,故人略歴
 nekromanci/ist/o⟦招魂/家/o⟧:降霊占い師,降霊術師
 nekromanci/o⟦招魂/o⟧:（死者の霊を呼び出して未来を占う）降霊占い,降霊術,口寄せ,>>spiritismo
-nekropol/o:【史】ネクロポリス（古代の集合墓地遺跡）
+nekropol/o⟦墓ᴺ/o⟧:【史】ネクロポリス（古代の集合墓地遺跡）
 nekropsi/i⟦检尸/i⟧:［他］【医】検死する
 nekropsi/o⟦检尸/o⟧:【医】検死
 nektar/o⟦蜜ᴺ/o⟧:{Ｏ}【神】ネクタル（酒）;《転》甘露,美酒;【植】花蜜（かみつ）
@@ -27575,7 +27575,7 @@ nilon/har/a⟦nilon/毛/a⟧:ナイロン毛の（ブラシなど）
 nilon/o:{Ｂ}【化】ナイロン
 nimb/o⟦晕ᴺ/o⟧:{Ｏ}【美】後光,光輪,>>au^reolo;（霧の中で乱反射した）光の輪
 nimbostratus/o:【気】乱層雲
-nimbus/o:【気】乱雲,=nimbostratuso;雨雲,>>pluvnubo
+nimbus/o⟦雨云/o⟧:【気】乱雲,=nimbostratuso;雨雲,>>pluvnubo
 Nimeg/o:【地名】ネイメーヘン（オランダ）
 Nimes/o:【地名】ニーム（フランス）
 nimfe/o⟦睡莲/o⟧:【植】スイレン（睡蓮）（属）,=akvolilio
@@ -27687,7 +27687,7 @@ nokt/o/vest/o⟦夜/o/衣/o⟧:【服】寝間着
 nokt/o/vid/a⟦夜/o/见/a⟧:夜目のきく
 nokt/ul/o⟦夜/者/o⟧:夜遊びする人;【動】夜行性動物
 noktu/o:{Ｏ}【鳥】コキンメフクロウ（小金目梟）（種）
-nokturn/o:【楽】夜想曲,ノクターン
+nokturn/o⟦夜曲/o⟧:【楽】夜想曲,ノクターン
 nomad/i⟦牧ᴺ/i⟧:［自］遊牧生活を営む;放浪する
 nomad/ism/o⟦牧ᴺ/主义/o⟧:遊牧生活;放浪生活
 nomad/o⟦牧ᴺ/o⟧:{Ｏ}遊牧民;放浪民
@@ -28180,7 +28180,7 @@ ofic/ist/o⟦职/家/o⟧:事務員,職員,役人
 ofic/o⟦职/o⟧:{Ｂ}（事務系の）職,職務,任務,役目
 ofic/period/o⟦职/期ᴾ/o⟧:任期,在職期間
 Ofiuk/o:【天】へびつかい座,=Serpentisto
-ofsajd/o:《Ｎ》【運】（サッカーの）オフサイド
+ofsajd/o⟦越位/o⟧:《Ｎ》【運】（サッカーの）オフサイド
 ofset/o:【印】オフセット印刷
 oft/a⟦常/a⟧:たびたびの,頻繁に起こる;いつもの,よくある
 oftalmit/o:【病】眼炎,=okulinflamo
@@ -28357,7 +28357,7 @@ oliban/o⟦乳香/o⟧:【植】乳香
 oligarh^i/o:{Ｏ}=oligarkio
 oligarh^/o:{Ｏ}=oligarko
 oligarki/o:{Ｏ}【政】寡頭制,寡頭政治
-oligark/o:{Ｏ}【政】寡頭制の支配者,少数独裁者
+oligark/o⟦寡头/o⟧:{Ｏ}【政】寡頭制の支配者,少数独裁者
 oligocen/o:【地質】漸新世;漸新統
 olimpi/aj lud/oj⟦olimpi/aj 玩/oj⟧:【運】オリンピック大会;【史】（古代ギリシアの）オリンピック競技
 Olimpik/a fajr/o⟦Olimpik/a 火/o⟧:（オリンピック会場の）聖火
@@ -29003,7 +29003,7 @@ pag/i⟦付/i⟧:{Ｂ}［他］払う,支払う;《転》仕返しする;《転�
 pag/it/a abon/o⟦付/受/a 订ᴬ/o⟧:有料購読
 pag/lim/o⟦付/界/o⟧:支払期限
 pag/o⟦付/o⟧:料金,支払い;《転》報復
-pagod/o:{Ｏ}【建】パゴダ,仏塔,>>stupao
+pagod/o⟦佛塔/o⟧:{Ｏ}【建】パゴダ,仏塔,>>stupao
 pag/o/kapabl/a⟦付/o/能ᴷ/a⟧:支払能力のある,=solventa
 pagr/o:【魚】マダイ（真鯛）（属）;《般》鯛（たい）
 pagur/o⟦蟹ᴾ/o⟧:【動】ヤドカリ（宿借）
@@ -29045,7 +29045,7 @@ pak/material/o⟦包/材/o⟧:包装材料,=pakumo
 pak/o⟦包/o⟧:{Ｂ}包み,荷物
 pak/paper/o⟦包/纸/o⟧:包装紙,包み紙
 pak/sak/o⟦包/袋/o⟧:ナップザック,背負い袋,（職人の）道具袋
-pakt/o:【政】=traktato（条約）;=interkonsento（協定）
+pakt/o⟦约ᴾ/o⟧:【政】=traktato（条約）;=interkonsento（協定）
 Paktol/o:【地名】パクトロス川（トルコ，ミダス王の伝説で知られる）
 pak/tol/o⟦包/布/o⟧:包装用布
 pak/tuk/o⟦包/巾/o⟧:ふろしき
@@ -29326,7 +29326,7 @@ Paran/o:【地名】パラナ川,=Parana Rivero
 paranoj/o⟦偏执ᴾ/o⟧:【病】偏執病,妄想症,パラノイア;>>monomanio
 paranoj/ul/o⟦偏执ᴾ/者/o⟧:偏執病者
 par/a nombr/o⟦偶/a 数/o⟧:【数】偶数
-parapet/o:【建】パラペット,胸壁
+parapet/o⟦栏ᴾ/o⟧:【建】パラペット,胸壁
 paras^ut/a⟦伞ᴾ/a⟧:パラシュートの,落下傘の
 paras^ut/a soldat/o⟦伞ᴾ/a 兵/o⟧:【軍】落下傘兵
 paras^ut/a trup/o⟦伞ᴾ/a 团ᵀ/o⟧:【軍】落下傘部隊
@@ -29476,7 +29476,7 @@ partikular/ism/o⟦私ᴾᵀ/主义/o⟧:（排他的）地方主義
 partikul/o:【Ｇ】助辞,不変化詞
 parti/o⟦党/o⟧:{Ｂ}【政】党,政党;陣営,党派;（訴訟・契約の）当事者;【遊】勝負,競技
 Parti/o:【史】パルティア（イランの古代王国）
-partitur/o:{Ｏ}【楽】総譜,スコア
+partitur/o⟦总谱/o⟧:{Ｏ}【楽】総譜,スコア
 partizan/o:【軍】パルチザン,>>gerilo;（党派心の強い）信奉者,=partiano
 partner/o⟦伴ᴾ/o⟧:仲間,相方,相棒,パートナー,=kunulo
 part/o⟦部/o⟧:{Ｂ}部分,一部;分け前,分担;【楽】声部,パート
@@ -29760,7 +29760,7 @@ pek/ul/o⟦罪ᴾ/者/o⟧:（宗教的・道徳的な）罪人（つみびと�
 pelargoni/o:【植】テンジクアオイ（属）;【園】ゼラニウム
 pelasg/o:【史】ペラスゴイ人
 pel/c^as/o⟦驱/猎/o⟧:（獲物の）狩り立て,狩り出し
-pelerin/o:{Ｏ}【服】（短い）ケープ,短マント,ペルリーヌ（女性用の短いケープ）
+pelerin/o⟦披ᴾ/o⟧:{Ｏ}【服】（短い）ケープ,短マント,ペルリーヌ（女性用の短いケープ）
 pel/fort/o⟦驱/强/o⟧:駆動力
 pel/helic/o⟦驱/螺ᴴᶜ/o⟧:【空】プロペラ
 pel/i⟦驱/i⟧:{Ｂ}［他］追う,追いたてる;追いかける;（状態に）駆り立てる,追いやる;【機】駆動する
@@ -30064,7 +30064,7 @@ persekut/ist/o⟦迫/家/o⟧:【法】執行官,執達吏
 persekut/o⟦迫/o⟧:=persekutado（迫害）;【法】訴追,起訴
 Perse/o:【神】ペルセウス（ギリシア神話の英雄）;【天】ペルセウス座
 Persepol/o:【史】ペルセポリス（古代ペルシアの首都）
-persien/o:【建】（窓の外側に付ける）よろい戸,ブラインド,=lats^utro,>>fenestrokovrilo
+persien/o⟦帘ᴾ/o⟧:【建】（窓の外側に付ける）よろい戸,ブラインド,=lats^utro,>>fenestrokovrilo
 persik/arb/o⟦桃/树/o⟧:【植】モモ（桃）（種）
 persik/o⟦桃/o⟧:{Ｂ}【果】モモ（桃）
 persik/uj/o⟦桃/器/o⟧:【植】=persikarbo（モモ）
@@ -30213,7 +30213,7 @@ pfenig/o:{Ｏ}【貨】ペニヒ,=centono de marko
 pi/a⟦敬ᴾ/a⟧:{Ｂ}信心深い,敬虔（けいけん）な
 pi/afekt/a⟦敬ᴾ/装ᴬ/a⟧:信心家ぶった,=bigota
 pi/aj^/o⟦敬ᴾ/物/o⟧:敬虔な行い
-piamatr/o:【解】（脳）軟膜,>>duramatro,>>araknoido
+piamatr/o⟦软膜/o⟧:【解】（脳）軟膜,>>duramatro,>>araknoido
 pian/ist/o⟦琴/家/o⟧:【楽】ピアニスト
 pian/o⟦琴/o⟧:{Ｂ}【楽】ピアノ
 pian/o/instru/ist/o⟦琴/o/教/家/o⟧:ピアノ教師
@@ -30237,7 +30237,7 @@ pied/bret/o⟦足/板ᴮ/o⟧:（乗り物の）ステップ,踏み板,踏み段
 pied/dors/o⟦足/背/o⟧:【解】足の甲,=instepo
 pied/e⟦足/e⟧:足で,歩いて;足元に,下部に
 pied/ekskurs/o⟦足/游ᴱ/o⟧:ハイキング,徒歩遠足
-piedestal/o:{Ｏ}【建】（彫像・円柱などの）台,台座（比較的高さがある）,>>soklo
+piedestal/o⟦墩ᴾ/o⟧:{Ｏ}【建】（彫像・円柱などの）台,台座（比較的高さがある）,>>soklo
 pied/fingr/o⟦足/指/o⟧:足指
 pied/frap/i⟦足/敲/i⟧:［自］足踏みする
 pied/ing/o⟦足/座/o⟧:【馬】あぶみ
@@ -30306,7 +30306,7 @@ pikup/o:=sonprenilo（ピックアップ）
 pik/vund/o⟦刺/伤/o⟧:刺し傷
 pilaf/o:【料】ピラフ
 pil/ar/o⟦电ᴾ/群/o⟧:【電】バッテリー,=baterio
-pilastr/o:{Ｏ}【建】柱形（はしらがた）,付け柱,ピラスター
+pilastr/o⟦柱ᴾ/o⟧:{Ｏ}【建】柱形（はしらがた）,付け柱,ピラスター
 Pilat/o:【人名】ピラト（キリストを処刑したローマ総督）
 pilc^ard/o:【魚】ニシイワシ,ピルチャード（イワシの一種）,>>sardino
 pilgrim/ad/o⟦拜ᴾ/行/o⟧:【宗】巡礼
@@ -30325,7 +30325,7 @@ pilk/o/lud/o⟦球/o/玩/o⟧:球技;ボール遊び
 pil/o⟦电ᴾ/o⟧:{Ｂ}【電】電池,パイル
 pil/o de Volta/o⟦电ᴾ/o 从 Volta/o⟧:【化】ボルタの電堆（でんたい）
 pilol/o⟦丸/o⟧:{Ｏ}【薬】錠剤,丸薬;《般》（避妊用の）ピル
-pilon/o:【建】（古代エジプト神殿の）塔門;【電】（高圧線の）鉄塔
+pilon/o⟦塔ᴾ/o⟧:【建】（古代エジプト神殿の）塔門;【電】（高圧線の）鉄塔
 pilori/o:【史】（罪人の）さらし台
 pilot/a kajut/o⟦领航/a 舱/o⟧:【空】操縦室,コックピット
 pilot/fis^/o⟦领航/鱼/o⟧:【魚】パイロットフィッシュ,ブリモドキ（鰤擬）
@@ -30575,7 +30575,7 @@ plau^d/i⟦溅/i⟧:{Ｏ}［自］バシャリと音を立てる,水音を立て
 plau^d/ig/i⟦溅/使/i⟧:［他］（水を）バシャバシャいわせる
 plau^d/o⟦溅/o⟧:バシャリという音,水音（ピチャン，ジャブン，ドボン）
 pleb/an/o⟦民ᴾᴸ/员ᴬ/o⟧:平民,>>popolano
-plebiscit/o:【政】（居住地の帰属・統治者の選択に関する）国民投票,住民投票,プレビシット,>>referendumo
+plebiscit/o⟦公投/o⟧:【政】（居住地の帰属・統治者の選択に関する）国民投票,住民投票,プレビシット,>>referendumo
 pleb/o⟦民ᴾᴸ/o⟧:{Ｏ}【史】（古代ローマの）平民階級;《転》庶民,下層民（全体）
 pled/ad/o⟦辩/行/o⟧:=pledo（弁護）
 pled/ant/o⟦辩/在/o⟧:弁護人,弁論人,>>advokato
@@ -30680,7 +30680,7 @@ plen/um/i task/on⟦满/um/i 务ᵀ/on⟧:任務を遂行する
 plen/um/komitat/o⟦满/um/委ᴷᵀ/o⟧:執行委員会
 plen/um/o⟦满/um/o⟧:執行,遂行,実行
 plen/voc^/e⟦满/声ⱽ/e⟧:声をはりあげて,声を限りに
-pleonasm/o:{Ｏ}【修】冗語法;《般》冗長な表現,冗語
+pleonasm/o⟦冗ᴾ/o⟧:{Ｏ}【修】冗語法;《般》冗長な表現,冗語
 plet/o⟦盘ᴾ/o⟧:{Ｂ}盆,（食事用の）トレー
 pletor/a⟦多血/a⟧:【医】多血症の;《稀》=>troabunda（過剰な）
 pletor/o⟦多血/o⟧:【医】多血症;《稀》=>troabundo（過剰）
@@ -31310,7 +31310,7 @@ por/ornam/a⟦为/饰/a⟧:（植物について）観賞用の
 por/ornam/e⟦为/饰/e⟧:（植物について）観賞用に
 port/ad/o⟦运/行/o⟧:運搬,荷運び;所持,携帯,着用
 port/aj^/o⟦运/物/o⟧:携行品,携帯品,荷物
-portal/o:{Ｏ}【建】（寺院や宮殿などの装飾された）正面入口,正門;【情】ポータルサイト
+portal/o⟦门ᴾᵀ/o⟧:{Ｏ}【建】（寺院や宮殿などの装飾された）正面入口,正門;【情】ポータルサイト
 port/ant/o⟦运/在/o⟧:運搬人,保有者;《転》担い手;【化】担体;【医】保菌者
 port/ebl/a⟦运/可/a⟧:携帯用の,持ち運べる
 port/ebl/a forn/o⟦运/可/a 炉/o⟧:こんろ
@@ -31367,7 +31367,7 @@ post/a⟦后/a⟧:後の;後ろの
 post/a du/on/o⟦后/a 二/分/o⟧:後半,=dua duono
 post/aj^/o⟦后/物/o⟧:後部,尾部,裏面;しり（尻）,=sidvangoj
 post/akus^/o⟦后/产ᴬ/o⟧:後産（あとざん）
-postament/o:架台,画架,スタンド,台座,>>stablo,>>soklo,>>piedestalo
+postament/o⟦墩ᴾˢ/o⟧:架台,画架,スタンド,台座,>>stablo,>>soklo,>>piedestalo
 post/a steven/o⟦后/a 首柱/o⟧:【海】船尾材
 post/c^ar/o⟦后/车ᶜ̂/o⟧:（四輪車の）後部,後車
 post/dat/i⟦后/期/i⟧:［他］（書類など）実際より後の日付にする
@@ -31536,7 +31536,7 @@ pot/far/ist/o⟦壶/做/家/o⟧:陶工,陶器職人,陶芸家
 pot/ist/a argil/o⟦壶/家/a 粘土/o⟧:陶土,=potargilo
 pot/ist/o⟦壶/家/o⟧:陶工
 pot/o⟦壶/o⟧:{Ｂ}つぼ,はち,ポット,なべ,>>terpoto
-pou^p/o:【海】船尾,=s^ipvosto
+pou^p/o⟦船尾/o⟧:【海】船尾,=s^ipvosto
 -pov-⟦能⟧:［接尾辞］（能力があることを示す）,>>generpova,>>imagpova
 pov/a⟦能/a⟧:能力がある
 pov/i⟦能/i⟧:{Ｂ}［他］〜することができる,〜する能力がある,〜する権利がある;〜してもよい;〜かも知れない
@@ -31800,7 +31800,7 @@ prepuci/o⟦包皮/o⟧:【解】包皮
 prepuci/ul/o⟦包皮/者/o⟧:《転》割礼を受けていない人;（ユダヤ人から見て）異教徒
 preri/lup/o⟦草原ᴾ/狼/o⟧:【動】コヨーテ,ソウゲンオオカミ,=kojoto
 Preri/o:【地名】プレーリー（北米大陸中部の大草原）
-prerogativ/o:{Ｏ}（元首の）大権,>>privilegio
+prerogativ/o⟦权ᴾ/o⟧:{Ｏ}（元首の）大権,>>privilegio
 pres/a⟦印/a⟧:印刷の
 pres/ad/o⟦印/行/o⟧:印刷
 pres/aj^/o⟦印/物/o⟧:印刷物
@@ -32432,7 +32432,7 @@ proton/o:【理】陽子,>>atomo,>>elektrono,>>neu^trono
 protoplasm/o:【生】原形質
 prototip/o:{Ｏ}原型,基本型,=pratipo;【機】試作品,プロトタイプ
 protozo/oj⟦原兽/oj⟧:【動】原生動物（門）
-protuberanc/o:【解】隆起,突起,【天】（太陽の）紅炎
+protuberanc/o⟦隆ᴾ/o⟧:【解】隆起,突起,【天】（太陽の）紅炎
 prov/a⟦试/a⟧:試みの,試験的な
 prov/ad/o⟦试/行/o⟧:（一連の）試み,試験,試行
 prov/aj^/o⟦试/物/o⟧:見本,試作品,試用品;=presprovaj^o
@@ -33091,7 +33091,7 @@ rapid/pied/a⟦速/足/a⟧:足の速い
 rapid/s^ang^/il/o⟦速/变/具/o⟧:【機】変速装置
 rapid/trajn/o⟦速/车ᵀ/o⟧:快速列車,>>ekspreso
 rapid/um/o⟦速/um/o⟧:【機】（変速装置の）回転速度比
-rapir/o:{Ｏ}【史】（細身の）長剣;【運】フルーレ（フェンシング用の剣の一）
+rapir/o⟦剑ᴿ/o⟧:{Ｏ}【史】（細身の）長剣;【運】フルーレ（フェンシング用の剣の一）
 rap/o⟦萝卜ᴿᴾ/o⟧:{Ｏ}【植】カブ,カブラ（蕪）（種）
 raport/ad/o⟦报ᴿ/行/o⟧:報告;報道;答申
 raport/aj^/o⟦报ᴿ/物/o⟧:ルポルタージュ,報道記事;報告書,レポート
@@ -33143,7 +33143,7 @@ rau^k/e⟦沙哑/e⟧:しわがれ声で
 rau^k/ig^/i⟦沙哑/成/i⟧:［自］声がしゃがれる
 Rau^m/ism/o:【Ｅ】ラウマ主義
 Rau^m/o:【地名】ラウマ（フィンランド）
-rau^nd/o:【運】（ボクシングの）ラウンド,一勝負
+rau^nd/o⟦回合/o⟧:【運】（ボクシングの）ラウンド,一勝負
 rau^p/o⟦毛虫/o⟧:{Ｂ}【虫】毛虫,芋虫,青虫（チョウなどの幼虫）,>>pupo;【機】キャタピラ,無限軌道
 rau^p/o/traktor/o⟦毛虫/o/拖ᵀᴷ/o⟧:【農】クローラトラクター,履帯トラクター
 rav/a⟦醉/a⟧:うっとりするほどの,心を奪う,みごとな
@@ -33285,7 +33285,7 @@ redukt/o⟦减ᴿ/o⟧:短縮,削減,縮小,縮写;【化】還元;【医】整�
 redukt/o al absurd/o⟦减ᴿ/o 向 谬/o⟧:【論】【数】背理法
 redukt/o de arm/ad/o⟦减ᴿ/o 从 武/行/o⟧:軍縮
 redukt/o de impost/o⟦减ᴿ/o 从 税/o⟧:減税
-redut/o:【軍】角面堡（かくめんほう）
+redut/o⟦垒ᴿᴰ/o⟧:【軍】角面堡（かくめんほう）
 re/e⟦再/e⟧:再び,また,>>denove
 re/eduk/ad/o⟦再/育ᴱ/行/o⟧:再教育;【医】機能回復訓練,リハビリテーション
 re/eh^/ig^/i⟦再/回/成/i⟧:［自］響き渡る
@@ -33311,8 +33311,8 @@ referenc/kadr/o⟦参ᴿ/框/o⟧:（参照）基準,要綱,指針,ガイドラ�
 referenc/o⟦参ᴿ/o⟧:{Ｏ}参照,照合,参考;身元保証書;【情】（変数の）ポインター;（参照用の）基準
 referendum/o:国民投票,住民投票,>>popolkonsultado
 refer/i⟦报ᴿᶠ/i⟧:［自］研究報告をする,>>raporti
-ref/i:［自］【海】帆を縮める
-ref/il/o⟦ref/具/o⟧:【海】縮帆索,リーフポイント
+ref/i⟦缩帆/i⟧:［自］【海】帆を縮める
+ref/il/o⟦缩帆/具/o⟧:【海】縮帆索,リーフポイント
 refleks/a mov/o⟦反射ᴿˢ/a 动/o⟧:【生】反射運動
 refleksiv/o:【Ｇ】再帰代名詞
 refleks/o⟦反射ᴿˢ/o⟧:【生】反射
@@ -33329,7 +33329,7 @@ reflekt/iv/o⟦反射/能ᴵ/o⟧:【理】反射率
 reflekt/o⟦反射/o⟧:【理】反射,>>refrakto;【数】=simetrio（対称）
 reflektor/o⟦镜ᴿ/o⟧:【車】ヘッドライト;=reflektilo（反射鏡）
 re/flu/i⟦再/流/i⟧:［自］逆流する
-ref/o:{Ｏ}【海】リーフ,縮帆部
+ref/o⟦缩帆/o⟧:{Ｏ}【海】リーフ,縮帆部
 re/foj/e⟦再/次/e⟧:再び,あらためて,>>denove
 re/fond/i⟦再/建ᶠ/i⟧:［他］再建する
 reformaci/a mov/ad/o⟦改革/a 动/行/o⟧:【史】宗教改革運動
@@ -33350,7 +33350,7 @@ refrakt/it/a ond/o⟦折ᴿᶠ/受/a 波/o⟧:【理】屈折波
 refrakt/it/a radi/o⟦折ᴿᶠ/受/a 射ᴿ/o⟧:【理】屈折光線
 refrakt/o⟦折ᴿᶠ/o⟧:【理】屈折
 refraktometr/o:【理】屈折計
-refren/o:【楽】リフレイン,=rekantaj^o
+refren/o⟦副歌/o⟧:【楽】リフレイン,=rekantaj^o
 re/fres^/ig/a⟦再/鲜/使/a⟧:元気を回復させる,気分をさわやかにする
 re/fres^/ig/aj^/o⟦再/鲜/使/物/o⟧:（冷たい）飲み物
 re/fres^/ig/i⟦再/鲜/使/i⟧:［他］新鮮さを蘇らせる,元気を回復させる,リフレッシュさせる
@@ -33696,7 +33696,7 @@ re/met/i⟦再/置/i⟧:［他］元に戻す
 rem/i⟦划ᴿ/i⟧:{Ｂ}［自］舟をこぐ,こぎ進む;［他］こぐ
 rem/il/ing/o⟦划ᴿ/具/座/o⟧:オール受け,櫂受け,櫓（ろ）
 rem/il/o⟦划ᴿ/具/o⟧:オール,櫂（かい）,櫓（ろ）
-remi/o:《Ｎ》【運】（チェス・スポーツで）引き分け,無勝負,ドロー
+remi/o⟦平局/o⟧:《Ｎ》【運】（チェス・スポーツで）引き分け,無勝負,ドロー
 rem/ist/o⟦划ᴿ/家/o⟧:（職業的）こぎ手
 remiz/i⟦库ᴿ/i⟧:［他］車庫に入れる,小屋に入れる
 remiz/o⟦库ᴿ/o⟧:車庫,ボート小屋,馬車小屋,（屋根のついた）車置き場,=veturilejo
@@ -33768,7 +33768,7 @@ re/pag/i⟦再/付/i⟧:［他］払戻す,返済する;《転》仕返しする
 re/pag/o⟦再/付/o⟧:返金,払戻し;（借金の）返済;《転》報復
 re/pel/i⟦再/驱/i⟧:［他］追い返す
 re/pens/i⟦再/思/i⟧:［自］再考する,考え直す
-repertuar/o:{Ｏ}【楽】【劇】レパートリー,上演目録
+repertuar/o⟦录ᴿᴾ/o⟧:{Ｏ}【楽】【劇】レパートリー,上演目録
 re/pland/um/i⟦再/足底/um/i⟧:［他］（靴の）底を張り替える
 replik/i⟦驳ᴿᴾ/i⟧:［他］=rebati（反論する）;【美】（自作を）複製する,>>kopii
 replik/o⟦驳ᴿᴾ/o⟧:=rebato（反論）;【劇】（舞台進行の）きっかけとなるせりふ,>>signalo;【美】（原作者による）複製,レプリカ,>>kopio
@@ -34593,7 +34593,7 @@ Roterdam/o:【地名】ロッテルダム（オランダ）
 rot/estr/o⟦队ᴿ/长ᴱ/o⟧:【軍】中隊長,>>kapitano
 rot/o⟦队ᴿ/o⟧:{Ｏ}【軍】中隊;一隊,一群
 rotond/o:{Ｏ}【建】ロタンダ（丸屋根の円形建物）
-rotor/o:【機】回転子;【空】回転翼,ローター
+rotor/o⟦转子/o⟧:【機】回転子;【空】回転翼,ローター
 roz/a⟦玫/a⟧:バラの,バラのような;バラ色の;《転》バラ色の,楽観的な
 roz/ac/oj⟦玫/科ᴬ/oj⟧:【植】バラ科
 roz/akv/o⟦玫/水/o⟧:バラ水
@@ -34995,7 +34995,7 @@ Salvador/o:【国名】エルサルバドル（北アメリカ）
 Salven/o:【地名】サルウィン川（中国・ビルマ）,>>Nu-Rivero
 Salvin/o:【地名】サルウィン川,=Salveno
 salvi/o⟦鼠尾草/o⟧:{Ｏ}【植】サルビア（属）,アキギリ（属）;セージ（種）
-salv/o:{Ｏ}【軍】一斉射撃
+salv/o⟦齐射/o⟧:{Ｏ}【軍】一斉射撃
 sam/a⟦同/a⟧:{Ｂ}同一の,同じ;同種の,同様の
 sam/ag^/a⟦同/岁/a⟧:同年齢の,同い年の
 sam/ag^/ul/o⟦同/岁/者/o⟧:同年者
@@ -35293,7 +35293,7 @@ satir/o⟦讽刺/o⟧:{Ｂ}風刺詩,風刺文;風刺,戯評,皮肉
 satirus/o⟦羊神/o⟧:【神】サテュロス（ギリシャ神話の半人半獣の森の神）;《転》好色家
 sat/mang^/i⟦饱/食/i⟧:［他］腹一杯食べる
 satrapi/o:【史】（古代ペルシャの）属州,サトラピ
-satrap/o:{Ｏ}【史】（古代ペルシャの）太守,サトラップ;《転》悪代官
+satrap/o⟦督ˢ/o⟧:{Ｏ}【史】（古代ペルシャの）太守,サトラップ;《転》悪代官
 satur/ad/o⟦饱ˢᴿ/行/o⟧:飽和;充満
 satur/ec/o⟦饱ˢᴿ/性/o⟧:飽和（状態）
 satur/i⟦饱ˢᴿ/i⟧:{Ｏ}［他］【理】【化】飽和させる;充満させる,たっぷり満たす
@@ -36181,7 +36181,7 @@ sent/em/a⟦感/倾/a⟧:感じやすい,敏感な
 sent/em/a mimoz/o⟦感/倾/a 含羞/o⟧:【植】オジギソウ（種）,=sensitivo
 sent/em/ec/o⟦感/倾/性/o⟧:=sentemo（感じやすさ）
 sent/em/o⟦感/倾/o⟧:感じやすさ,感受性
-sentenc/o:{Ｏ}格言,金言,>>aforismo,>>maksimo;【聖】（ソロモンの）箴言（しんげん）
+sentenc/o⟦谚ˢ/o⟧:{Ｏ}格言,金言,>>aforismo,>>maksimo;【聖】（ソロモンの）箴言（しんげん）
 sent/i⟦感/i⟧:{Ｂ}［他］（体で）感じる,感じ取る,=sensi;（心で）感じる,（感情を）抱く;（なんとなく）思う,意識する
 sent/ig/i⟦感/使/i⟧:［他］感じさせる,（感情を）吹きこむ
 sent/ig^/i⟦感/成/i⟧:［自］感じられる
@@ -36193,7 +36193,7 @@ sen/tim/e⟦无/怕/e⟧:平然と,平気で,恐れずに
 sentimental/a⟦感伤/a⟧:{Ｏ}感傷的な,情にもろい,センチメンタルな
 sentimental/ec/o⟦感伤/性/o⟧:感傷癖
 sentimental/o⟦感伤/o⟧:感傷
-sentiment/o:=sento（感情）;=sentimentalo（感傷）
+sentiment/o⟦感ˢᴹ/o⟧:=sento（感情）;=sentimentalo（感傷）
 sentinel/o:【軍】=gardostaranto（歩哨）
 sen/titol/a⟦无/题ᵀᵀ/a⟧:無題の
 sent/iv/a⟦感/能ᴵ/a⟧:感度のよい,鋭敏な;【学】高感度の
@@ -37576,7 +37576,7 @@ spekul/em/o⟦投ˢ/倾/o⟧:投機心
 spekul/i⟦投ˢ/i⟧:［自］【商】投機をする,思わく売買をする
 spekul/ist/o⟦投ˢ/家/o⟧:【商】投機家,相場師
 speleologi/o:洞穴学,=kavernoscienco
-spelt/o:【植】スペルト小麦（家畜飼料）
+spelt/o⟦麦ˢ/o⟧:【植】スペルト小麦（家畜飼料）
 spermacet/o:【化】鯨蝋（げいろう）
 spermatozo/o:【生】精子
 sperm/el/j^et/i⟦精液/出/投/i⟧:［自］射精する,=ejakuli
@@ -37970,7 +37970,7 @@ stik/aj^/o⟦插/物/o⟧:【園】挿し木
 stik/i⟦插/i⟧:［他］【園】挿し木する
 stil/a⟦风ˢ/a⟧:文体の,様式の,スタイルの
 stilb/o:【理】スチルブ（輝度のCGS単位，sb）,>>kandelo
-stilet/o:細身の短剣,>>ponardo
+stilet/o⟦匕ˢ/o⟧:細身の短剣,>>ponardo
 stil/figur/o⟦风ˢ/形ᶠᴳ/o⟧:【修】言葉のあや,文彩,比喩
 stil/foli/o⟦风ˢ/叶/o⟧:【情】スタイルシート
 stilistik/o:文体論
@@ -39110,7 +39110,7 @@ s^ancel/o⟦摇ˢ̂/o⟧:揺さぶり
 s^anc/o⟦机ˢ̂/o⟧:{Ｂ}機会,好機;見込み,可能性,勝ち目
 S^andong/o:【地名】シャントン省（山東省，中国）
 S^andung/o:【地名】=S^andongo（山東省）
-s^anel/o:【海】水路,水道,澪（みお）
+s^anel/o⟦航道/o⟧:【海】水路,水道,澪（みお）
 s^ang^/a⟦变/a⟧:変わりゆく,変化する,移ろう
 s^ang^/anim/a⟦变/魂/a⟧:移り気な,節操のない
 s^ang^/bilet/o⟦变/票/o⟧:乗換切符
@@ -39458,7 +39458,7 @@ s^pur/o⟦距ˢ̂/o⟧:【鉄】軌間,=traklarg^o;【車】輪距,ゲージ
 s^rank/o⟦柜/o⟧:{Ｂ}戸棚,食器棚;洋服ダンス
 s^rank/o/kest/o⟦柜/o/箱/o⟧:長持
 s^rank/o/kofr/o⟦柜/o/箱ᴷᶠ/o⟧:（大形の）衣装トランク
-s^rapnel/o:{Ｏ}【軍】榴散弾（りゅうさんだん）,=kuglobuso
+s^rapnel/o⟦弹ˢ̂/o⟧:{Ｏ}【軍】榴散弾（りゅうさんだん）,=kuglobuso
 s^rau^b/aj^/o⟦螺/物/o⟧:【機】ねじのみぞ,=s^rau^bkanelo
 s^rau^b/bor/il/o⟦螺/钻/具/o⟧:【機】雌ねじ切り,タップ
 s^rau^b/form/a⟦螺/形/a⟧:ねじ形の
@@ -39745,7 +39745,7 @@ tabul/komput/il/o⟦板ᵀ/算ᴷᴹ/具/o⟧:【情】タブレットコンピ�
 tabul/lud/o⟦板ᵀ/玩/o⟧:【遊】ボードゲーム（チェスなど盤上で行うゲーム）
 tabul/o⟦板ᵀ/o⟧:{Ｂ}板,盤
 tabu/o⟦禁/o⟧:【宗】タブー,禁忌;《転》禁制,禁物
-taburet/o:{Ｏ}（背のない）腰掛,スツール,床几（しょうぎ）
+taburet/o⟦凳ᵀ/o⟧:{Ｏ}（背のない）腰掛,スツール,床几（しょうぎ）
 Tacit/o:【人名】タキトゥス（ローマの歴史家）
 tac^ment/i⟦队ᵀᶜ̂/i⟧:［他］分遣する,派遣する
 tac^ment/o⟦队ᵀᶜ̂/o⟧:{Ｏ}【軍】分遣隊;（特定の任務を持った）部隊,チーム,班,>>teamo
@@ -39853,7 +39853,7 @@ talib/o:（アフガニスタンの）タリバン（構成員）
 tali/mezur/o⟦腰/测/o⟧:【服】ウエスト（寸法）
 Talin/o:【地名】タリン（エストニアの首都）
 tali/o⟦腰/o⟧:{Ｂ}（人体・服の）胴,胴体;腰回り,腰（のくびれた部分）,ウエスト,>>kokso,>>lumbo
-talisman/o:{Ｏ}【宗】護符,呪符,（厄よけの）お守り,魔よけ,>>amuleto
+talisman/o⟦护符/o⟧:{Ｏ}【宗】護符,呪符,（厄よけの）お守り,魔よけ,>>amuleto
 tali/vest/o⟦腰/衣/o⟧:【服】婦人用胴着,ボディス,コルサージュ,>>korsaj^o
 tali/zon/o⟦腰/带/o⟧:腰帯,帯
 talk/i⟦滑石/i⟧:［他］滑石粉を塗る
@@ -40186,7 +40186,7 @@ televizi/o⟦视ᵀᶻ/o⟧:=televido（テレビ放送）
 telfer/o⟦缆路/o⟧:=kablovojo（ロープウエー）
 telur/o⟦矿ᵀ/o⟧:【化】テルル（原子番号５２の非金属元素）
 te/mas^in/o⟦茶/机/o⟧:=samovaro（サモワール）
-tembr/o:【楽】音色;【声】音色,=sonkoloro
+tembr/o⟦音色/o⟧:【楽】音色;【声】音色,=sonkoloro
 tem/i⟦题/i⟧:［自］（pri）〜を主題としている;（無主語）問題は〜である
 tem/o⟦题/o⟧:{Ｂ}主題,テーマ,題目,論題,話題;【楽】主題,主旋律
 temp/a⟦时/a⟧:時間の,時の;一時的な,=portempa
@@ -40226,7 +40226,7 @@ temporal/o:【解】側頭骨
 temp/o/skem/o⟦时/o/图ˢ/o⟧:経過,日程概要
 temp/o/spac/o⟦时/o/空/o⟧:時間の広がり,時間の間隔
 tempur/o:【料】天ぷら
-tenac/a:=tenema（粘り強い）;【機】靭性のある
+tenac/a⟦坚ᵀ/a⟧:=tenema（粘り強い）;【機】靭性のある
 ten/ad/o⟦持/行/o⟧:保持,支持;保有,保管
 tenajl/i⟦钳/i⟧:［他］ペンチではさむ
 tenajl/o⟦钳/o⟧:【機】ペンチ,やっとこ,釘抜き
@@ -40519,7 +40519,7 @@ tiam/ul/o⟦那时/者/o⟧:当時の人
 Tiang^in/o:【地名】=Tjang^ino（天津）
 Tians^an/o:【地名】ティエンシャン山脈（天山山脈，中央アジア）
 tia/okaz/e⟦那a/生ᴼ/e⟧:そうした場合
-tiar/o:{Ｏ}【史】（ペルシャの）王冠;【カ】（ローマ教皇の）三重冠;《転》教皇の職
+tiar/o⟦冠ᵀ/o⟧:{Ｏ}【史】（ペルシャの）王冠;【カ】（ローマ教皇の）三重冠;《転》教皇の職
 ti/a/spec/a⟦ti/a/种ˢᴾ/a⟧:そういう種類の
 Tiberiad/a Lag/o:【地名】ティベリアス湖（＝ガリラヤ湖，イスラエル）,=Galileo
 Tiberiad/o:【地名】ティベリアス（イスラエル）
@@ -40983,7 +40983,7 @@ tra/ig^/i⟦穿/成/i⟧:［自］突き抜ける
 tra/ir/ej/o⟦穿/往/所/o⟧:通路,通り道
 tra/ir/i⟦穿/往/i⟧:［他］通りぬける,横切る
 Trajan/a kolon/o⟦Trajan/a 柱ᴷ/o⟧:（la 〜）【建】トラヤヌスの円柱（古代ローマの記念柱）
-trajektori/o:【理】（投射物の描く）軌道,弾道,軌跡
+trajektori/o⟦轨ᵀᴶ/o⟧:【理】（投射物の描く）軌道,弾道,軌跡
 trajn/o⟦车ᵀ/o⟧:{Ｂ}【鉄】列車,>>vagonaro;【軍】輜重隊（しちょうたい）,補給部隊
 trajt/o⟦特ᵀ/o⟧:{Ｂ}（〜oj）顔立ち,目鼻立ち;特色,特徴
 trak/angul/o⟦轨ᵀ/角/o⟧:【空】方向転換点
@@ -41502,7 +41502,7 @@ trocki/ist/o⟦trocki/家/o⟧:【政】トロツキスト
 Trocki/o:【人名】トロツキー（ロシアの革命家、1879-1940）
 tro/dorm/i⟦太/睡/i⟧:［自］寝過ごす
 tro/e⟦太/e⟧:余計に,過度に
-trofe/o:{Ｏ}トロフィー,優勝記念品;狩猟記念品;【史】戦勝記念標,戦利品
+trofe/o⟦奖ᵀ/o⟧:{Ｏ}トロフィー,優勝記念品;狩猟記念品;【史】戦勝記念標,戦利品
 trofi/a nivel/o⟦养ᵀ/a 平ᴺ/o⟧:【環】栄養段階,>>produktanto,>>konsumanto,>>malkomponanto
 tro/fis^/ad/o⟦太/鱼/行/o⟧:魚の乱獲
 tro/fru/a⟦太/早/a⟧:尚早の,早すぎる
@@ -41954,7 +41954,7 @@ Ujgur/i/o:【地名】ウイグル（中国の自治区）
 ujgur/o:ウイグル人（トルコ系民族の一）
 uj/o⟦器/o⟧:容器,入れ物
 UK:【Ｅ】［略］=Universala Kongreso de Esperanto,世界エスペラント大会
-ukaz/o:{Ｏ}【史】（ツァーリの）勅命,>>dekreto
+ukaz/o⟦令ᵁ/o⟧:{Ｏ}【史】（ツァーリの）勅命,>>dekreto
 ukij/ist/o⟦浮世绘/家/o⟧:【美】浮世絵師
 ukij/o⟦浮世绘/o⟧:【美】浮世絵
 ukrain/a:ウクライナの
@@ -42026,7 +42026,7 @@ ung/o/hav/a⟦爪/o/有/a⟧:（動物が）つめのある,有爪（ゆうそ�
 ung/o/lak/o⟦爪/o/漆/o⟧:ネイル・ラッカー,マニキュア
 ung/o/tond/il/o⟦爪/o/剪/具/o⟧:つめ切り
 ung/o/vund/i⟦爪/o/伤/i⟧:［他］つめで傷つける
-ungvent/o:【薬】軟膏（なんこう）,膏薬,>>s^miraj^o,>>plastro
+ungvent/o⟦膏ᵁ/o⟧:【薬】軟膏（なんこう）,膏薬,>>s^miraj^o,>>plastro
 uniform/a⟦制服/a⟧:制服の,そろいの
 uniform/o⟦制服/o⟧:{Ｂ}制服,ユニフォーム
 unik/a⟦独/a⟧:{Ｂ}類のない,特異な,独特の,独自の;唯一の,一意の,=ununura
@@ -42363,7 +42363,7 @@ utopi/ism/o⟦utopi/主义/o⟧:ユートピア思想;空想的理想主義
 utopi/ist/o⟦utopi/家/o⟧:ユートピア思想家;空想家,=utopiulo
 utopi/o:{Ｏ}ユートピア,理想郷
 utopi/ul/o⟦utopi/者/o⟧:空想家,夢想家
-uvertur/o:{Ｏ}【楽】（オペラ・オラトリオなどの）序曲,>>preludo
+uvertur/o⟦序曲/o⟧:{Ｏ}【楽】（オペラ・オラトリオなどの）序曲,>>preludo
 uvul/a⟦小舌/a⟧:口蓋垂の
 uvul/o⟦小舌/o⟧:【解】口蓋垂,のどびこ
 uz/ad/i⟦用/行/i⟧:［他］常用する
@@ -42450,7 +42450,7 @@ vagon/et/o⟦厢/小/o⟧:トロッコ
 vagon/o⟦厢/o⟧:{Ｂ}【鉄】車両,>>lokomotivo
 vag/s^ton/eg/o⟦荡/石/巨/o⟧:【地質】迷子石,標石
 vag/ul/o⟦荡/者/o⟧:浮浪者,放浪者,=vagabondo
-vajc/o:【機】万力（まんりき）,バイス
+vajc/o⟦台钳/o⟧:【機】万力（まんりき）,バイス
 Vajmar/a Respublik/o:【史】ワイマール共和国（1919-1933）
 Vajmar/o:【地名】ワイマール（ドイツ）
 Vajoming/o:【地名】ワイオミング州（米国）
@@ -42629,7 +42629,7 @@ vapor/s^ip/o⟦汽/船/o⟧:汽船
 vapor/turbin/o⟦汽/涡ᵀ/o⟧:【機】蒸気タービン
 vapor/um/i⟦汽/um/i⟧:［他］（霧状にして）吹きかける;=vaporkuiri（蒸す）
 vapor/um/il/o⟦汽/um/具/o⟧:霧吹き,スプレー
-varang/o:【海】肋板（ろくばん）,船底床板;肋根材（ろっこんざい）
+varang/o⟦肋板/o⟧:【海】肋板（ろくばん）,船底床板;肋根材（ろっこんざい）
 varan/o⟦龙ⱽ/o⟧:【動】オオトカゲ（科）
 varb/ad/o⟦募/行/o⟧:募集;【軍】徴募
 varb/i⟦募/i⟧:{Ｏ}［他］（会員などを）募集する;【軍】徴募する
@@ -42641,7 +42641,7 @@ vareng/o:【史】ワリャーギ人（スカンジナビアのノルマン人�
 varf/o:【海】桟橋,=g^etkajo;波止場,埠頭（ふとう）,=havenkajo
 vari/a⟦变ⱽ/a⟧:変動する,変化に富んだ;多様な,種々の
 variabl/o:【数】変数
-variaci/o:【楽】変奏曲
+variaci/o⟦变奏/o⟧:【楽】変奏曲
 vari/ad/o⟦变ⱽ/行/o⟧:変動,変化;【生】変異
 vari/aj^/o⟦变ⱽ/物/o⟧:【動】【植】変種,=vario
 variant/o:{Ｏ}【文】異文,異本
@@ -43196,7 +43196,7 @@ vest/et/o⟦衣/小/o⟧:（子ども用の）小さい服
 Vestfali/o:【地名】ウェストファーレン,ウェストファリア（ドイツ）
 vest/hok/o⟦衣/钩/o⟧:（壁の）洋服掛け,帽子掛け
 vest/i⟦衣/i⟧:［他］（人に）服を着せる;（物を）おおう
-vestibl/o:{Ｏ}【建】玄関,入口の広間,エントランスホール,>>enirejo;【解】前庭
+vestibl/o⟦厅ⱽ/o⟧:{Ｏ}【建】玄関,入口の広間,エントランスホール,>>enirejo;【解】前庭
 vest/ig^/i⟦衣/成/i⟧:［自］服を着る
 vest/ig^/o/c^ambr/o⟦衣/成/o/室/o⟧:更衣室
 vest/i si/n⟦衣/i 己/n⟧:服を着る
@@ -44593,8 +44593,8 @@ akant/o/pterig/oj⟦草ᴬᴷ/o/翅ᴾᴳ/oj⟧:【動】【PIV】(ark. (arkaism
 akar/oz/o⟦虫ᴬ/症ᴼ/o⟧:【医】【PIV】Malsano, kau^zata de akaroj. Vd skabio.
 akcept/a⟦受ᴬ/a⟧:【PIV】Esprimanta akcepton: akcepta saluto ; la akceptaj ceremonioj.
 akcept/ad/i⟦受ᴬ/行/i⟧:【PIV】Regule, konstante akcepti: s-ino X akceptadas c^iun j^au^don.
-akcidenc/o⟦偶ᴬ/o⟧:【哲】【PIV】Tiu eco de fenomeno, kiu ne estas esenca, sed trovig^as c^e g^i nur hazarde, kontingence: koloro, pezo, malmoleco estas akcidencoj de la materio.
-akcidenc/a⟦偶ᴬ/a⟧:【PIV】Rilata al akcidenco: akcidenca rezulto.
+akcidenc/o⟦偶ᴬᴷ/o⟧:【哲】【PIV】Tiu eco de fenomeno, kiu ne estas esenca, sed trovig^as c^e g^i nur hazarde, kontingence: koloro, pezo, malmoleco estas akcidencoj de la materio.
+akcidenc/a⟦偶ᴬᴷ/a⟧:【PIV】Rilata al akcidenco: akcidenca rezulto.
 akcipitr/ed/oj⟦鹰ᴬ/科ᴱ/oj⟧:【動】【PIV】Fam. (Familio) (Accipitridae) de rabobirdoj el la ordo de falkoformaj, al kiu apartenas aglo, akcipitro, buteo, cirkuo, nizaglo, milvo k la malnovmondaj vulturoj. Vd falkedoj.
 akc^ent/o:【語】【PIV】Tuto de la artikulaciaj kutimoj de parolanto au^ grupo de parolantoj (pro trajtoj dialektaj au^ socilingvaj, influo de denaska lingvo ks (kaj simile, kaj similaj)), kiu aspektas nenorma en la kadro de difinita lingvo: havi sudan, kamparan, usonan akc^enton.
 ake/o⟦树懒/o⟧:【PIV】= bradip(od)o.
@@ -44607,7 +44607,7 @@ akinezi/o:【医】【PIV】Malfacileco au^ neebleco de movoj.
 akir/it/aj^/o⟦获/受/物/o⟧:【PIV】Akiro 2: li j^aluze kas^as siajn akiraj^ojn; c^u de fortulo oni povas forpreni la akiritaj^on? . Vd kaptaj^o, predo.
 akir/ig/i⟦获/使/i⟧:【PIV】Fari, ke iu akiru: akirigu al li favorkorecon antau^ c^i tiu homo ; per mezuro k peso akirig^as sukceso .
 aklimatiz/i:【PIV】= alklimatigi.
-akme/o:【医】【PIV】1 Tiu periodo de malsano, en kiu la simptomoj atingas la maksimumon de intenso. 2 Kulmina punkto de ies kariero, de movado k.a.
+akme/o⟦顶ᴬ/o⟧:【医】【PIV】1 Tiu periodo de malsano, en kiu la simptomoj atingas la maksimumon de intenso. 2 Kulmina punkto de ies kariero, de movado k.a.
 akne/o:【医】【PIV】Kn (Kolektiva nomo) de hau^taj afekcioj, karakterizataj de lezo de la sebaj glandoj, k ofte manifestig^antaj per pintaj aknoj: juneca akneo.
 akoli/o:【PIV】= sengaleco.
 akolit/o:【キ】【PIV】(ark. (arkaismo, arkaisme)) Mesohelpanto, komisiita de episkopo. Vd mesoservanto. -> sakristiano, komunihelpanto.
@@ -44716,7 +44716,7 @@ alcioni/ul/oj⟦虫ᴬᴸ/者/oj⟧:【動】【PIV】Ordo (Alcyonaria) de okkor
 ald/a⟦中音/a⟧:【PIV】(pp (se paroli pri) registro de instrumento) Inter soprana k tenora: alda bekfluto, saksofono.
 aldol/o:【化】【PIV】1 Substanco, CH 3-CHOH-CH 2-CHO, estig^inta per kombinado de du molekuloj de acetaldehido (etanalo) katalizita de alkalo. 2 Kn (Kolektiva nomo) de molekuloj kun g^enerala formulo R-CH 2-CHOH-CH(R’)-CHO. / Vd (vidu) aldo ②.
 aldosteron/o:【生】【PIV】Kortikosurrena hormono, efikanta al la reno k rolanta en la minerala ekvilibro: aldosterono estigas retenon de natrio k forigon de kalio.
-aleator/a:【PIV】Rilata al hazardo; loteca.
+aleator/a⟦偶ᴬ/a⟧:【PIV】Rilata al hazardo; loteca.
 Alec^j/o:【PIV】Karesformo de Aleksandro.
 alegori/a⟦寓ᴬᴸ/a⟧:【PIV】Prezentanta alegorion: alegoria parolo, rakonto.
 Aleksandri/an/ism/o:【PIV】Tre rafinitaj poezio k kulturo el la Ptolemea epoko, poste imitita en Romo de la Aleksandriaj verkistoj, ekz. (ekzemple) Katulo. Vd helenismo.
@@ -44928,7 +44928,7 @@ amitoz/o:【生】【PIV】Dividig^o de nukleo al du identaj nukleoj, sen antau^
 amni/o⟦羊膜/o⟧:【解】【PIV】La interna membrano, c^irkau^anta la embrion de reptilioj, birdoj k mamuloj.
 amni/ul/oj⟦羊膜/者/oj⟧:【動】【PIV】Grupo de vertebruloj, kies embrio estas amnihava: reptilioj, birdoj k mamuloj.
 amofil/o⟦草ᴬᶠ/o⟧:【植】【PIV】G. (Genro) (Ammophila el poacoj) de plurjaraj herboj, kreskantaj en la marsabloj, kun longa, spikforma paniklo; 3 sp-oj (specioj) el NE Ameriko, Eu^ropo k N Afriko.
-amok/o:【心】【PIV】Speco de freneza murdemo, iam trovig^anta en la malajaj popoloj: amoke kuri tra la stratoj. Vd berserko.
+amok/o⟦狂ᴬ/o⟧:【心】【PIV】Speco de freneza murdemo, iam trovig^anta en la malajaj popoloj: amoke kuri tra la stratoj. Vd berserko.
 amom/o⟦草ᴬᴹᴼ/o⟧:【植】【PIV】G. (Genro) (Amomum el zingibracoj) de plurjaraj tropikaj herboj kun horizontala, aroma rizomo, el kiu kreskas folihavaj tigoj k florhavaj pedunkloj; c^. (c^irkau^) 90 sp-oj (specioj) hejmaj de Azio g^is Au^stralio, i.a. (interalie, inter aliaj) A. compactum (sin. (sinonimo (de latinscienca nomo)) A. cardamon), kun semoj uzataj kiel tiuj de kardamomo. see eletario.
 Amon/id/oj:【PIV】Popolo, mite originanta de Ben-Ami.
 amoni/o:【化】【PIV】La katjono NH 4 ^+, simila al Na ^+ k K ^+ pro reakcieco: amonia sulfato estas uzata kiel sterko; amonia klorido (NH 4 ^+ Cl ^−); amoniaj saloj; tetrametilamonio (CH 3) 4 N ^+. Vd onio.
@@ -45122,7 +45122,7 @@ Antonen/o:【PIV】Latina vira nomo.
 Antonen/oj:【PIV】La sep Romiaj imperiestroj, kiuj regadis inter 96 k 192. -> Mark-Au^relio, Trajano.
 antonomazi/o:【PIV】Stilfiguro, konsistanta en la uzo de karakteriza ekvivalento anst. (anstatau^) la propra nomo, ekz. (ekzemple) « la Roma oratoro » anst. (anstatau^) Cicerono, au^ de propra nomo kiel karakteriza epiteto, ekz. (ekzemple) « li estas Herkulo » anst. (anstatau^) fortegulo.
 antozo/oj:【動】【PIV】(ark. (arkaismo, arkaisme)) Koraluloj.
-antr/o:【PIV】1 Kaverno. 2【解】 Kavernoforma kavo de iuj organoj: mastoida, pilora antro (antrum mastoideum, pyloricum). Vd anfrakto.
+antr/o⟦洞ᴬ/o⟧:【PIV】1 Kaverno. 2【解】 Kavernoforma kavo de iuj organoj: mastoida, pilora antro (antrum mastoideum, pyloricum). Vd anfrakto.
 antracen/o:【化】【PIV】Tricikla aromata substanco, C 14 H 10, trovig^anta en karba gudro.
 antrakinon/o:【化】【PIV】Diketono de antraceno, C 14 H 8 O 2: antrakinonaj koloraj^oj.
 antrakoz/o:【医】【PIV】Malsano, kau^zata de enspiro de karbopolvo, kiu lezas la pulmojn.
@@ -45276,7 +45276,7 @@ ark/ec/o⟦弧/性/o⟧:【PIV】Kurbeco de io arka: la arkeco de lumbo, de inst
 arka/a⟦古ᴬᴿ/a⟧:【PIV】Arkaika.
 arka/aj^/o⟦古ᴬᴿ/物/o⟧:【PIV】Io arkaa, i.a. (interalie, inter aliaj) vorto au^ esprimo ne plu uzata en la komuna lingvo.
 arka/ig^/i⟦古ᴬᴿ/成/i⟧:【PIV】Ig^i arkaa.
-arkan/o:【宗】【PIV】1 Sekreta instruo au^ rito, rezervita al inicitoj. 2 Taroka karto: maj^ora arkano (unu el la 22 simbolaj bildoj), minora arkano (unu el la ceteraj 56 kartoj). 3 (f (figurasence)) Sekreto, mistero. Vd kripto.
+arkan/o⟦秘ᴬ/o⟧:【宗】【PIV】1 Sekreta instruo au^ rito, rezervita al inicitoj. 2 Taroka karto: maj^ora arkano (unu el la 22 simbolaj bildoj), minora arkano (unu el la ceteraj 56 kartoj). 3 (f (figurasence)) Sekreto, mistero. Vd kripto.
 arke/a⟦方舟/a⟧:【数】【PIV】Rilata al arkeo: arkea funkcio (Vd (vidu) funkcio).
 arke/oj⟦方舟/oj⟧:【生】【PIV】Prabakterioj.
 arkean/o:【地質】【PIV】La unua tempodividaj^o de antau^kambrio, iam taksita kiel periodo. Vd proterozoiko, hadeano.
@@ -45492,7 +45492,7 @@ au^ror/i⟦晓/i⟧:【PIV】(ntr (netransitiva)) Eklumi kiel au^roro: (f (figur
 au^skult/o⟦听ᴬˢ/o⟧:【PIV】au^skultado
 au^skult/ant/ar/o⟦听ᴬˢ/在/群/o⟧:【PIV】Aro de au^skultantoj: li entuziasmigis sian au^skultantaron.
 au^skult/il/oj⟦听ᴬˢ/具/oj⟧:【PIV】Aparato, portata surkape k ebliganta au^di mesag^ojn, tradukojn, muzikon kc (kaj ceteraj).
-au^ster/a:【PIV】Severmora, morrigida; (f (figurasence)) senornama.
+au^ster/a⟦严ᴬ/a⟧:【PIV】Severmora, morrigida; (f (figurasence)) senornama.
 Au^str/i-Hungar/i/o:【史】【PIV】Regno, kiu unuigis la imperion Au^strio k la reg^olandon Hungario (1867−1918). Vd Habsburgoj.
 au^stral/a:【地理】【天】【PIV】Rilata al la S hemisfero: la au^strala oceano; au^stralaj konstelacioj. Vd boreala. -> Au^stralio.
 au^stralopitek/o⟦猴ᴬᵁ̆/o⟧:【動】【PIV】G. (Genro) (Australopithecus) de fosiliaj homenoj, dupiedaj, kun cerbo c^. (c^irkau^) 500 cm (centimetro) ^3 volumena. En Afriko estis elfositaj pluraj sp-oj (specioj): 1) gracilaj.
@@ -45572,7 +45572,7 @@ bac/o⟦币ᴮ/o⟧:【PIV】Iama germana monero (= 4 krejceroj).
 Baden/land/o:【PIV】Iama grandduklando, nun parto de la lando Badenio-Vurtembergo.
 baf!:【PIV】Interj. (Interjekcio) pli forta ol ba!
 Bafin/a:【PIV】Nomepiteto de vasta golfo inter Gronlando k la N parto de Kanado (65°U, 72°N).
-bagn/o:【PIV】Punlaborejo.
+bagn/o⟦牢ᴮ/o⟧:【PIV】Punlaborejo.
 bagr/o:【PIV】= fosmas^ino, dragilo.
 Baha/a:【PIV】Rilata al Bahao au^ Bahaismo: la Bahaa kredo.
 bajonet/a⟦刺刀/a⟧:【PIV】1 Rilata al bajoneto. 2 = stifta.
@@ -45715,7 +45715,7 @@ bav/o⟦口水/o⟧:【PIV】Speco de s^au^mo, kiun eligas iuj bestoj: bavo de b
 bav/i⟦口水/i⟧:【PIV】(ntr (netransitiva)) 1 【動】J^eti bavon. 2 Salivumi.
 bavur/o:【技】【PIV】Neutila elstaraj^o, kiu estig^as c^e objekto dum borado, tondado ktp (kaj tiel plu), dum muld-procedo au^ dum fandado en muldilo.
 baz/ad/o⟦基/行/o⟧:【PIV】Ago de iu, kiu bazas: bazado de sia vivo sur la arto.
-bazament/o:【建】【PIV】Ampleksa bazo de monumento, palaco, granda konstruaj^o ks (kaj simile, kaj similaj).
+bazament/o⟦基ᴮᴹ/o⟧:【建】【PIV】Ampleksa bazo de monumento, palaco, granda konstruaj^o ks (kaj simile, kaj similaj).
 bazar/ist/o⟦市ᴮᶻ/家/o⟧:【PIV】Komercisto, kiu vendadas en bazaro.
 bazar/ul/o⟦市ᴮᶻ/者/o⟧:【PIV】Migra vendisto, kiu vendas ion ajn, uzante artifikan deklamadon. Vd demonstristo.
 bazar/urb/et/o⟦市ᴮᶻ/市/小/o⟧:【PIV】Urbeto sufic^e granda, por ke tie okazu regula bazaro.
@@ -45777,7 +45777,7 @@ benzoil/o:【化】【PIV】Radiko C 6 H 5-CO-: benzoilaj kombinaj^oj; dibenzoil
 benzoil/i:【PIV】Enkonduki benzoilon en kemian kombinaj^on.
 benzodiazepin/o:【PIV】(kn (kolektiva nomo)) Medikamento trankviliga, antiepilepsia, antiangora, dormiga, muskolo-malstrec^iga: trouzo de benzodiazepinoj estigas dependecon, tial ili estas rigardeblaj kiel drogoj.
 Beot/uj/o:【PIV】Helena lando (Tebo, 23°19′E, 38°19′N).
-beret/o:【PIV】Ronda plata c^apo el drapo, uzata origine de eu^skaj kampuloj, k poste de diverslandaj laboristoj, militistoj, policistoj k.a. (kaj aliaj). -> bireto.
+beret/o⟦帽ᴮ/o⟧:【PIV】Ronda plata c^apo el drapo, uzata origine de eu^skaj kampuloj, k poste de diverslandaj laboristoj, militistoj, policistoj k.a. (kaj aliaj). -> bireto.
 bergamot/uj/o⟦香柑ᴮ/器/o⟧:【PIV】Bergamoto 1. -> piro.
 bergamot/arb/o⟦香柑ᴮ/树/o⟧:【PIV】Bergamoto 1. -> piro.
 bergamot/frukt/o⟦香柑ᴮ/果/o⟧:【PIV】Bergamoto 2.
@@ -46087,7 +46087,7 @@ brucin/o:【化】【PIV】Venena alkaloido, C 23 H 26 N 2 O 4, ekstraktata el v
 brul/as⟦燃/as⟧:【PIV】Okazas brulo: c^u brulis c^i tie en la domo au^ c^e la najbaro? . Vd ardi. -> bruldifekti, brulvundi.
 brul/ad/i⟦燃/行/i⟧:【PIV】Longatempe bruli: la naftos^akto bruladis tri semajnojn; estas pli bone edzig^i, ol bruladi (pro seksa deziro).
 brul/iv/a⟦燃/能ᴵ/a⟧:【PIV】= bruligebla.
-brum/o:【PIV】Malklarig^o de la atmosfero pro akva vaporo, kun vidodistanco de pli ol 1 km (kilometro). Vd nebulo.
+brum/o⟦雾ᴮ/o⟧:【PIV】Malklarig^o de la atmosfero pro akva vaporo, kun vidodistanco de pli ol 1 km (kilometro). Vd nebulo.
 Brumer/o:【史】【PIV】Dua monato de la franca respublika kalendaro (22a de Okt.−21a de Nov.).
 brunel/o⟦草ᴮᵁ/o⟧:【植】【PIV】G. (Genro) (Prunella, sin. (sinonimo (de latinscienca nomo)) Brunella, el lamiacoj) de 4 sp-oj (specioj) de plurjaraj herboj el la mezvarmaj regionoj. -> prunelo.
 brunfelsi/o⟦木ᴮᶠ/o⟧:【植】【PIV】G. (Genro) (Brunfelsia el solanacoj) de dau^rafoliaj arboj k arbustoj kun alternaj, ledecaj, elipsaj au^ lancetformaj folioj k kun bluaj, blankaj au^ violkoloraj floroj, kies korolo estas kvinloba; c^. (c^irkau^) 40 sp-oj (specioj) el tropika Ameriko, kelkaj pororname kultivataj, unu medicine uzata.
@@ -46116,7 +46116,7 @@ buden/o:【PIV】Sangokolbaso. Vd andujo.
 budle/o⟦木ᴮᴰ/o⟧:【植】【PIV】G. (Genro) (Buddleja el budleacoj) de arboj k trunkarbustoj kun kvarflankaj s^osoj, lancetformaj folioj k infloreskoj (spikoj, panikloj au^ glomeruloj), kiuj pro nektaro de la floroj tre allogas papiliojn; c^. (c^irkau^) 100 sp-oj (specioj) el Ameriko, Afriko k precipe Azio; multaj sp-oj (specioj) kultivataj por ornamo, kelkaj adventicaj. Sin. (sinonimo) papiliarbo.
 buf/ed/oj⟦蛤蟆/科ᴱ/oj⟧:【動】【PIV】Fam. (Familio) (Bufonidae) de anuroj, al kiu apartenas i.a. (interalie, inter aliaj) bufo.
 bufag/o⟦鸟ᴮᶠ/o⟧:【動】【PIV】G. (Genro) (Buphagus) de Afrikaj birdoj el la ordo de paseroformaj, fam. (familio) de sturnedoj; vivas de parazitaj insektlarvoj, kiujn ili depikas el la hau^to de grandaj mamuloj.
-bufon/o:【史】【PIV】Persono, ordinare misforma (nano, g^ibulo ks (kaj simile, kaj similaj)), kiun reg^oj au^ nobeloj tenis c^e sia kortego, por distri ilin per s^ercoj, spritaj^oj ks (kaj simile, kaj similaj); (f (figurasence)) Kruda s^erculo. Vd arlekeno, histriono, klau^no, pajaco.
+bufon/o⟦丑ᴮ/o⟧:【史】【PIV】Persono, ordinare misforma (nano, g^ibulo ks (kaj simile, kaj similaj)), kiun reg^oj au^ nobeloj tenis c^e sia kortego, por distri ilin per s^ercoj, spritaj^oj ks (kaj simile, kaj similaj); (f (figurasence)) Kruda s^erculo. Vd arlekeno, histriono, klau^no, pajaco.
 bufr/a⟦缓冲/a⟧:【PIV】Rilata al bufro.
 buftalm/o⟦草ᴮᶠ/o⟧:【植】【PIV】G. (Genro) (Buphthalmum el asteracoj) de plurjaraj herboj kun flavaj, radiaj kapituloj similaj al tiuj de astero; 2 sp-oj (specioj) el Eu^ropo k U Azio, pororname kultivataj.
 bugenvil/o⟦木ᴮⱽ/o⟧:【植】【PIV】G. (Genro) (Bougainvillea el niktagacoj) de grimpaj arbustoj kun pli-malpli dornaj tigoj, kun integraj folioj k kun tubformaj, ne tre okulfrapaj floroj c^irkau^itaj de okulfrapaj, intense koloraj, petalecaj brakteoj; 18 sp-oj (specioj) el C k S Ameriko, kelkaj pororname kultivataj.
@@ -46220,7 +46220,7 @@ celul/o⟦胞ᶜ/o⟧:【解】【PIV】C^iu el la etaj fakoj, kiuj formas la es
 cement/ej/o⟦水泥/所/o⟧:【PIV】Fabriko de cemento.
 cement/ist/o⟦水泥/家/o⟧:【PIV】Laboristo pri cemento.
 cementit/o:【技】【PIV】Fera karbido, Fe 3 C, trovig^anta en s^talo k blanka giso.
-cenobit/o:【PIV】Monah^o vivanta en komunumo, kontraste al anakoreto: katolikaj, g^ainaj cenobitoj. Vd biks^uo.
+cenobit/o⟦僧ᶜ/o⟧:【PIV】Monah^o vivanta en komunumo, kontraste al anakoreto: katolikaj, g^ainaj cenobitoj. Vd biks^uo.
 cenocit/o:【生】【PIV】C^elo kun pluraj nukleoj, kiu rezultas el dividig^oj de nukleoj sen dividig^o de la c^elplasmo. Vd plasmodo, sifono.
 cens/i⟦普ᶜ/i⟧:【PIV】(tr (transitiva)) Fari tian entabeligon au^ nombradon.
 cens/ist/o⟦普ᶜ/家/o⟧:【PIV】Oficisto, komisiita al censado.
@@ -46324,7 +46324,7 @@ cimbidi/o⟦草ᶜᴹ/o⟧:【植】【PIV】G. (Genro) (Cymbidium el orkidacoj)
 cimbopogon/o⟦草ᶜᴼ/o⟧:【植】【PIV】G. (Genro) (Cymbopogon el poacoj) de plurjaraj, aromaj herboj ric^aj je esencoj (geraniolo, citralo k.a. (kaj aliaj)); 56 sp-oj (specioj) el la varmaj regionoj de la Malnova Mondo, pluraj kultivataj por parfumindustrio, i.a. (interalie, inter aliaj) C. citratus (see citronherbo), C. nardus (see citronelo) k C. martinii. see andropogono.
 cimbr/o:【史】【PIV】Ano de g^ermana popolo, venkita de Romanoj en 101 a.K. (antau^ Kristo). Vd teu^tono.
 cimicifug/o⟦草ᶜᶜ/o⟧:【植】【PIV】G. (Genro) (Cimicifuga el ranunkolacoj), tre parenca al akteo, de staraj, plurjaraj herboj kun duoble plume kunmetaj folioj k kun densaj longpedunklaj infloreskoj el multaj malgrandaj, blankaj floroj; 18 sp-oj (specioj), N-hemisferaj, kelkaj kultivataj por ornamo.
-cimitar/o:【軍】【PIV】Araba glavo kun klingo larg^a k kurba.
+cimitar/o⟦刀ᶜ/o⟧:【軍】【PIV】Araba glavo kun klingo larg^a k kurba.
 cinam/uj/o⟦桂/器/o⟧:【植】【PIV】C^iu arbo au^ trunkarbusto el la g. (genro) cinamomo k kun s^elo utiligebla kiel cinamo. Vd kamforarbo.
 cinamal/o:【化】【PIV】Aldehido, C 6 H 5-CH=CH-CHO, c^efa odora komponanto de cinamo.
 cinamom/o⟦木ᶜᴺ/o⟧:【植】【PIV】G. (Genro) (Cinnamomum el lau^racoj) de dau^rafoliaj arboj k trunkarbustoj kun folioj g^enerale havantaj 3−5 paralelajn c^efripojn, kun malgrandaj floroj en akselaj panikloj k kun fruktoj (beroj) unuope portataj de karna kupulo; c^. (c^irkau^) 350 sp-oj (specioj) hejmaj de E k SE Azio g^is Au^stralio, i.a. (interalie, inter aliaj):
@@ -46517,7 +46517,7 @@ damar/o⟦木ᴰᴹ/o⟧:【植】【PIV】1 Sp. (Specio) de agatido (Agathis da
 damask/i⟦缎ᴰ/i⟧:【PIV】(tr (transitiva)) Teksi lau^ la procedo de la damasko.
 Damask/an/o:【PIV】Log^anto en Damasko.
 Damian/o:【PIV】Vira nomo.
-damn/e:【PIV】(fm (familiara, familiare)) Ekkrio, esprimanta malkontenton. Vd diable, fek!
+damn/e⟦咒ᴰ/e⟧:【PIV】(fm (familiara, familiare)) Ekkrio, esprimanta malkontenton. Vd diable, fek!
 Damokl/o:【PIV】Helena vira nomo: glavo de Damoklo ; (pendanta super ies kapo, simbolo de c^iam minacanta dang^ero).
 Dan/land/o:【PIV】Eu^ropa regno c^e la Balta Maro (Kopenhago).
 Dana/o:【PIV】Legenda reg^o de Argos, en Peloponezo.
@@ -46626,7 +46626,7 @@ deoksi/:【化】【PIV】Pref. (Prefikso) indikanta, ke c^e la koncerna molekul
 deontologi/o:【PIV】Scienco k instruo pri la moralaj devoj, permesoj au^ malpermesoj specialaj al iu profesio, precipe al tia, kia donas eblojn influi la sorton de homoj (ekz-e (ekzemple) tiu de kuracisto, advokato, instruisto ks (kaj simile, kaj similaj)).
 deontologi/a:【PIV】Rilata al deontologio: deontologia kodo.
 deploj/i:【軍】【PIV】(tr (transitiva)) Dismeti trupon de kolumno al linioj: deploji regimenton, eskadron; deploji en disa ordo.
-deport/i:【PIV】(tr (transitiva)) 1 Pune transporti al fora loko (eventuale kun submeto al trudlaboro). Vd ekzili, forkonduki, relegacio. 2 Kontrau^vole transporti al fora loko en la kadro de subprema au^ genocida politiko: la nazia s^tato deportis milionojn da homoj, precipe judoj, en koncentrejojn.
+deport/i⟦逐ᴰ/i⟧:【PIV】(tr (transitiva)) 1 Pune transporti al fora loko (eventuale kun submeto al trudlaboro). Vd ekzili, forkonduki, relegacio. 2 Kontrau^vole transporti al fora loko en la kadro de subprema au^ genocida politiko: la nazia s^tato deportis milionojn da homoj, precipe judoj, en koncentrejojn.
 depravaci/o:【医】【PIV】Perversio de la sensaj deziroj: depravacio de la gusto, de la flarsento, de la apetito, de la seksemo.
 deprec/i⟦贬ᴰᴾ/i⟧:【PIV】(tr (transitiva)) Redukti la merkatvaloron de varo au^ de valuto, esprimitan en unu alia valuto au^ en oro.
 deprec/o⟦贬ᴰᴾ/o⟧:【PIV】Tia redukto. Vd devaluto.
@@ -46821,7 +46821,7 @@ diskant/o:【楽】【PIV】(ark. (arkaismo, arkaisme)) Soprano.
 disked/o:【PIV】= disketo.
 diskomicet/oj:【植】【PIV】Nenatura grupo de askomikotoj, kies askujoj estas apotecioj. Vd pirenomicetoj.
 diskord/o:【PIV】Malkonkordo.
-diskreci/o:【法】【PIV】Libereco fari decidon lau^ sia propra jug^o, absolute au^ en certaj limoj: la diskrecia povo de la Ministerio pri Internaj Aferoj, de la Asiza Prezidanto.
+diskreci/o⟦裁量/o⟧:【法】【PIV】Libereco fari decidon lau^ sia propra jug^o, absolute au^ en certaj limoj: la diskrecia povo de la Ministerio pri Internaj Aferoj, de la Asiza Prezidanto.
 diskrimin/i⟦辨ᴰᴷ/i⟧:【PIV】(ntr (netransitiva)) 1 Distingi inter pluraj kazoj. 2 Distingi inter pluraj frekvencoj.
 diskrimin/il/o⟦辨ᴰᴷ/具/o⟧:【PIV】Distingilo 2.
 disleksi/o:【医】【PIV】Neu^rologia perturbo en la legado. Vd aleksio.
@@ -46833,7 +46833,7 @@ disom/a:【PIV】= dusoma.
 dispers/a⟦散ᴰᴾ/a⟧:【PIV】1 Dispersita: tre dispersa minio; dispersa rilatumo (rilatumo inter ondonombro k frekvenco de ondo au^ partiklo). 2 Rilata al disperso: dispersa angulo (angulo formita de ekstremaj radioj, kiuj iras g^is la ekstremoj de la spektro); dispersa povo (Sin. (sinonimo) disperseco). 3 Dispersanta: dispersa medio.
 dispers/aj^/o⟦散ᴰᴾ/物/o⟧:【PIV】Medio plus dispersita substanco.
 dispers/ant/o⟦散ᴰᴾ/在/o⟧:【PIV】Substanco, kiu povas servi kiel dispersa medio.
-dispne/o:【医】【PIV】Stato de spirmalfacilo.
+dispne/o⟦喘ᴰ/o⟧:【医】【PIV】Stato de spirmalfacilo.
 dispon/aj^/o⟦处ᴰ/物/o⟧:【PIV】Io disponata au^ disponebla: la mastruma sistemo de komputilo asignas disponaj^ojn al taskoj.
 dispozici/a⟦处ᴰᶻ/a⟧:【PIV】Rilata al dispozicio au^ dispozicioj.
 disproporci/o:【PIV】Misproporcio.
@@ -47191,7 +47191,7 @@ emid/o⟦龟ᴱ/o⟧:【動】【PIV】Testudulo (Emys k parencaj g-oj (genroj))
 emid/ed/oj⟦龟ᴱ/科ᴱ/oj⟧:【PIV】Familio (Emydidae) de la ordo de testuduloj.
 emigr/i⟦迁ᴱ/i⟧:【PIV】(ntr (netransitiva)) Elmigri pro politika kau^zo.
 emigr/ad/o⟦迁ᴱ/行/o⟧:【PIV】Agado de tiuj, kiuj emigras.
-emigraci/o:【PIV】1 Emigrado. 2 Emigrintaro.
+emigraci/o⟦迁ᴱᶜ/o⟧:【PIV】1 Emigrado. 2 Emigrintaro.
 Emili/a:【PIV】Rilata al Emilio 2: la Emilia vojo.
 Emilian/o:【PIV】Vira nomo.
 eminent/ig/i⟦杰ᴱ/使/i⟧:【PIV】Fari eminentulo: la reg^o eminentigis Hamanon .
@@ -47704,7 +47704,7 @@ ferment/aj^/o⟦酵/物/o⟧:【PIV】1 Fermentanta maso. 2 Peco de jam fermenti
 fermi/o⟦金ᶠ/o⟧:【化】【PIV】Transurania elemento, Fm, atomnumero 100, atommaso 257,10.
 Fero/a:【PIV】Nomepiteto de insularo, norde de Skotlando (7°U, 62°N).
 Feroi/o:【PIV】Lando au^tonoma en regna asocio kun Danlando.
-feroc/a:【PIV】Kruelega.
+feroc/a⟦暴ᶠ/a⟧:【PIV】Kruelega.
 ferocian/o:【化】【PIV】(ark. (arkaismo, arkaisme)) Salo de ferocianocianida acido H 4 Fe(CN) 6. Sin. (sinonimo) heksacianofer(II)ato.
 ferolag/o⟦草ᶠᴸ/o⟧:【植】【PIV】G. (Genro) (Ferulago), tre parenca al ferolo, diferenca de g^i precipe pro multabraktea involukro de la umbeloj k pli malalta tigo; c^. (c^irkau^) 45 sp-oj (specioj) de plurjaraj herboj el la Mediteranea regiono k C Azio.
 ferut/i⟦驮/i⟧:【PIV】Transporti kamionojn au^ remorkojn sur fervojaj vagonoj.
@@ -47801,7 +47801,7 @@ finis^/i⟦终ᶠˢ̂/i⟧:【PIV】(ntr (netransitiva)) Fari lastan fortostrec^
 finitiv/o:【語】【PIV】Modalo, kiun alprenas verbo, rolanta kiel predikato (ekz. (ekzemple): mi venas; kuru; se estus…). Vd infinitivo, participo.
 Finland/o:【PIV】Finnlando.
 finn-ugr/a:【語】【PIV】Rilata al unu el la du grupoj de uralaj lingvoj (ekz. (ekzemple) finna, lapona, hungara k.a. (kaj aliaj)). -> samojeda.
-fiol/o:【PIV】Longakola flakono.
+fiol/o⟦瓶ᶠᴵ/o⟧:【PIV】Longakola flakono.
 firm/ec/o⟦坚/性/o⟧:【PIV】Eco de io firma: la firmeco de karno, karaktero , de konstruaj^o .
 Firmian/o:【PIV】Virnomo.
 firn/o:【PIV】Neg^o firmig^inta al glacio. -> nevajo.
@@ -48726,7 +48726,7 @@ Hanovri/o:【史】【PIV】Iama reg^olando, poste Prusa provinco c^irkau^ tiu u
 Hanovr/an/o:【PIV】Log^anto de Hanovro.
 hans/a:【PIV】Rilata al hanso: la hansaj urboj; la hansa Ligo.
 hans/an/o⟦hans/员ᴬ/o⟧:【PIV】Ano de hanso.
-hant/i:【PIV】(tr (transitiva)) Vizitadi (pp (se paroli pri) fantomo): hantata domo, kastelo; (f (figurasence)) tiu sceno hantas lian memoron. Vd fantomi, obsedi.
+hant/i⟦缠ᴴ/i⟧:【PIV】(tr (transitiva)) Vizitadi (pp (se paroli pri) fantomo): hantata domo, kastelo; (f (figurasence)) tiu sceno hantas lian memoron. Vd fantomi, obsedi.
 haom/o:【宗】【PIV】Sankta trinkaj^o, preparita el la tigoj de iu specio de vegetaj^o kun aliaj ingrediencoj, k oferata en mazdaisma kulto.
 haor/o:【服】【PIV】Superkimono, pli mallonga ol la kimono, uzata por plivarmigo au^ en ceremonioj.
 hapaks/o:【語】【PIV】Vorto trovig^anta nur unu fojon en verko au^ en tuta lingvo, en difinita epoko.
@@ -48857,7 +48857,7 @@ heparin/o:【化】【生】【PIV】Antikoagula substanco, sulfata glukozamina 
 hepat/o/pankreat/o⟦肝/o/胰/o⟧:【動】【PIV】Organo de iuj senvertebruloj, kiu rolas kiel k hepato k pankreato.
 hept/:【化】【PIV】Pref. (Prefikso), montranta sepkarbonan c^enon en la nomoj de: 1 hidrokarbonoj: heptano (Vd (vidu) poste) , hepteno (C 7 H 14) , heptino (C 7 H 12), heptilo (C 7 H 15 -) ktp (kaj tiel plu) (vidu alk/) 2 monosakaridoj k derivaj^oj: heptozo (C 7 H 14 O 7 au^ (C 7 H 14 O 5-6 c^e deoksi heptozoj), heptitolo (C 7 H 14 O 7).
 heptan/o:【化】【PIV】C 7 H 16, brulema likvo, ingredienco de benzino.
-hepta/:【化】【PIV】Pref. (Prefikso), montranta, ke substanco estas karakterizata de, au^ konsistas el, sep atomoj, funkcioj, molekuloj ks (kaj simile, kaj similaj): heptapeptido. Vd mono/, heksa/, okta/, oligo/, poli/.
+hepta/⟦七ᴴ/⟧:【化】【PIV】Pref. (Prefikso), montranta, ke substanco estas karakterizata de, au^ konsistas el, sep atomoj, funkcioj, molekuloj ks (kaj simile, kaj similaj): heptapeptido. Vd mono/, heksa/, okta/, oligo/, poli/.
 heptagon/o:【PIV】1 = regula sepangulo. 2 = sepangulo.
 Her/o:【楽】【PIV】Pastrino de Afrodito, mita protagonisto de tragika amhistorio, temo de pluraj artverkoj. -> Leandro.
 Herakl/id/oj:【PIV】Helenaj estroj, kiuj pretendis sin idoj de Heraklo.
@@ -49467,7 +49467,7 @@ instig/il/o⟦唆/具/o⟧:【PIV】Tio, kio instigas. Vd motivo.
 instru/ant/o⟦教/在/o⟧:【PIV】Tiu, kiu instruas: la kompetenteco de la instruanto devas esti vasta ; la lasta instruantino de mia filino .
 instru/at/o⟦教/被/o⟧:【PIV】Tiu, kiu estas instruata. Vd lernanto, disc^iplo.
 instru/ist/in/o⟦教/家/女/o⟧:【PIV】Tiu, kiu profesie instruadas: doma instruisto (kontraste al publika), instruistino por komencantoj ; instruistoj de lingvo k de desegnado ; supera instruisto; akiri por si lokon de instruistino ; kariero en la profesio instruista ; dedic^i sin al la instruisteco; la tuta instruistaro de la lando strikis. Vd docento, lektoro, profesoro.
-instruktor/o:【軍】【PIV】Milit-instruisto: min lasis regimenta instruktoro en lando, g^is miajn vundojn sanigos c^arpio .
+instruktor/o⟦教官/o⟧:【軍】【PIV】Milit-instruisto: min lasis regimenta instruktoro en lando, g^is miajn vundojn sanigos c^arpio .
 instrument/ar/o⟦器ᴵ/群/o⟧:【PIV】La tuto de la instrumentoj necesaj en difinita profesio ks (kaj simile, kaj similaj): la kirurgia instrumentaro.
 instrumental/o:【語】【PIV】Kazo, kiu, se uzata sen prep. (prepozicio), esprimas i.a. (interalie, inter aliaj) la instrumenton, la rimedon, per kiu efektivig^as la procezo (ekz. (ekzemple) en slavaj lingvoj).
 insuficienc/o:【医】【PIV】Stato de fiziologia malsupereco de organo, ne plu kapabla efike plenumi siajn funkciojn: kora, rena, hepata insuficienco.
@@ -49637,7 +49637,7 @@ jaroviz/i:【PIV】= vernalizi.
 jasp/ec/a⟦纹ᴶ/性/a⟧:【PIV】Simila al la kolordiverseco de jaspo: jaspeca marmoro, tulipo.
 jaspis/o:【PIV】(ark. (arkaismo, arkaisme)) = jaspo: multekostaj s^tonoj, rubeno, topazo, jaspiso .
 jas^ir/o:【宗】【PIV】S^intoa templo.
-jatagan/o:【PIV】Sabro sen mans^irmilo kun klingo dukurba, uzata precipe de janic^aroj.
+jatagan/o⟦刀ᴶ/o⟧:【PIV】Sabro sen mans^irmilo kun klingo dukurba, uzata precipe de janic^aroj.
 Javan/o:【聖】【PIV】Hebrea nomo de Helenio.
 Jave/a:【PIV】Rilata al tiu nomo au^ g^ia uzado: la Javea dokumento en la Pentateu^ko. Vd Elohima.
 Jave/ist/o:【PIV】Biblia kompilisto, kiu nomis Dion Javeo.
@@ -49686,7 +49686,7 @@ Cis-Jordani/o:【PIV】Regiono de Palestino, situanta okcidente de Jordano.
 jot/o:【PIV】La nau^a grafemo de la greka alfabeto (Ι, ι), responda al la latina i, k uzata kiel simb. (simbolo) de tre malgranda kvanto: nek unu joto nek unu streketo forpasos de la leg^o . = jota
 jot/ism/o⟦jot/主义/o⟧:【PIV】Evoluo de iuj vokaloj k diftongoj al i en la greka lingvo.
 Jov/o:【PIV】La plej granda el la dioj en la Romana religio: kio estas permesata al Jovo ne estas permesata al bovo; per Jovo! Vd Jupitero, Zeu^so.
-jovial/a:【PIV】Gajema.
+jovial/a⟦欢ᴶ/a⟧:【PIV】Gajema.
 jube/o:【建】【PIV】Tribuno, en formo de galerio, trovig^anta en romanikaj au^ gotikaj kirkoj, inter la navo k la h^orejo. Vd ambono.
 jubile/ul/o⟦庆典/者/o⟧:【PIV】Tiu kiu festas sian jubileon.
 jud/ar/o⟦jud/群/o⟧:【PIV】Tuto de la judoj.
@@ -50120,7 +50120,7 @@ karton/a⟦板ᴷ/a⟧:【PIV】Konsistanta el kartono: malgranda kartona domo ;
 karum/o⟦草ᴷᴹ/o⟧:【植】【PIV】G. (Genro) (Carum el apiacoj) de unu-, du-k plur-jaraj herboj kun 2−3-oble plume dividaj folioj, kun blankaj au^ rug^etaj floroj k kun aromaj fruktoj; c^. (c^irkau^) 30 sp-oj (specioj) el la mezvarmaj k varmaj regionoj. Vd karvio.
 karunkl/o:【解】【PIV】(caruncula) Nomo de diversaj rug^etaj elstaraj^oj el karno.
 kas/a⟦库/a⟧:【PIV】Rilata al la kaso: kasaj zorgoj.
-kasaci/a:【PIV】Rilata al kasacio: la Kasacia Kortumo (plej supera tribunalo).
+kasaci/a⟦废ᴷ/a⟧:【PIV】Rilata al kasacio: la Kasacia Kortumo (plej supera tribunalo).
 Kasandr/o:【PIV】Filino de Priamo, destinita de la dioj profeti veraj^ojn k ne esti kredata.
 kasav/o:【PIV】1 Maniokfaruno. 2【料】 Plata maldika pano, bakita el maniokfaruno. Vd tapioko.
 kasi/o⟦腊肠树/o⟧:【植】【PIV】G. (Genro) (Cassia el fabacoj) de arboj kun plume kunmetaj folioj k kun flavaj, rozaj au^ rug^aj, g^enerale regulaj floroj unuopaj, en grapoloj au^ en panikloj; tropika g. (genro) de 30 sp-oj (specioj), pluraj kultivataj por ornamo k medicino.
@@ -50668,9 +50668,9 @@ konfuz/iv/a⟦乱/能ᴵ/a⟧:【PIV】Kapabla j^eti konfuzon en la menson: jen 
 kongorug^/o:【PIV】kolorindikanto, blua en acida solvaj^o, rug^a en alkala solvaj^o.
 kongel/i⟦冻ᴷᴺ/i⟧:【PIV】(tr (transitiva)) Fridigi produkton je temperaturo de minus 30°, por konservi g^in je −18 °C (celsia(j) grado(j)).
 kongel/uj/o⟦冻ᴷᴺ/器/o⟧:【PIV】S^ranko, hejma au^ industria, uzata por konservi kongelitajn produktojn. Vd frostigilo.
-konglomer/i⟦团ᴷ/i⟧:【理】【地質】【PIV】(tr (transitiva)) Kunligi per liga substanco sam-au^ nesam-specajn elementojn, pecojn. Vd aglomeri.
-konglomer/aj^/o⟦团ᴷ/物/o⟧:【PIV】1 Detrita sedimenta petro, konsistanta el minimume 50% da rondaj rokpecoj pli ol 2 mm (milimetro(j)) dimensiaj, kunligitaj de etgrajna cemento. Vd aglomeri, brec^io, tilito. 2 Maso, konsistanta el kunligitaj ne samspecaj partoj.
-konglomer/ig^/i⟦团ᴷ/成/i⟧:【PIV】Kunligig^i en konglomeraj^on.
+konglomer/i⟦团ᴷᴺ/i⟧:【理】【地質】【PIV】(tr (transitiva)) Kunligi per liga substanco sam-au^ nesam-specajn elementojn, pecojn. Vd aglomeri.
+konglomer/aj^/o⟦团ᴷᴺ/物/o⟧:【PIV】1 Detrita sedimenta petro, konsistanta el minimume 50% da rondaj rokpecoj pli ol 2 mm (milimetro(j)) dimensiaj, kunligitaj de etgrajna cemento. Vd aglomeri, brec^io, tilito. 2 Maso, konsistanta el kunligitaj ne samspecaj partoj.
+konglomer/ig^/i⟦团ᴷᴺ/成/i⟧:【PIV】Kunligig^i en konglomeraj^on.
 kongr/o⟦鱼ᴷᴺ/o⟧:【動】【PIV】G. (Genro) (Conger) de grandaj fis^oj el la ordo de angiloformaj, tute sen skvamoj. Sin. (sinonimo) marangilo.
 koni/in/o⟦毒参/in/o⟧:【化】【PIV】Venena alkaloido, C 8 H 17 N, el la makula konio.
 konidi/o:【植】【PIV】Neseksa, ne movig^ema fungosporo, g^enerale defalema
@@ -50709,7 +50709,7 @@ konsign/i⟦寄ᴷ/i⟧:【PIV】(tr (transitiva)) 1 Sendi trajne, s^ipe, aviadi
 konsign/aj^/oj⟦寄ᴷ/物/oj⟧:【PIV】Konsignitaj varoj.
 konsil/ant/in/o⟦议/在/女/o⟧:【PIV】Tiu, kiu konsilas: multe da konsilantoj ; s^i estis lia konsilantino por malbonagi .
 konsistenc/o:【PIV】(evi (evitinda)) = koher(ec)o 1.
-konskripci/o:【軍】【PIV】Sistemo de militista varbado per deviga servado en s^tata armeo.
+konskripci/o⟦征兵/o⟧:【軍】【PIV】Sistemo de militista varbado per deviga servado en s^tata armeo.
 konskript/o:【PIV】Homo, leg^e devigata servadi en s^tata armeo. Vd rekruto.
 konsolid/o⟦草ᴷᴼᴺ/o⟧:【植】【PIV】G. (Genro) (Consolida el ranunkolacoj), tre parenca al delfinio, de c^. (c^irkau^) 45 sp-oj (specioj) de unujaraj herboj hejmaj de la Mediteranea regiono g^is C Azio.
 konsome/o:【PIV】Densigita buljono.
@@ -50745,7 +50745,7 @@ kontrah/ig^/o⟦缩ᴷ/成/o⟧:【PIV】Ago, per kiu muskolo estas kontrahata: 
 kontrakt/ar/o⟦约/群/o⟧:【PIV】La tuto de kontraktoj, ekz. (ekzemple) de asekuristo.
 kontrapost/o:【PIV】Artisma ekvilibro de la partoj de korpo prezentita dum movig^o (ekz. (ekzemple) de unu s^ultro rilate al la alia, de la du kruroj c^e staranta figuro ktp (kaj tiel plu)).
 kontre/o:【楽】【PIV】Muzikstilo, origininta el mezokcidenta Usono.
-kontrici/o:【キ】【PIV】Pento pri kulpita peko, pro sincera amo al Dio. Vd atricio.
+kontrici/o⟦悔ᴷ/o⟧:【キ】【PIV】Pento pri kulpita peko, pro sincera amo al Dio. Vd atricio.
 kontumac/o⟦缺席/o⟧:【法】【PIV】Vola foresto de akuzito for de la jug^onta instanco: jug^o pro kontumaco.
 kontumac/a⟦缺席/a⟧:【PIV】Ne obeanta ordonon de tribunalo, precipe alvokon al jug^ateco.
 kontuz/ant/a⟦挫伤/在/a⟧:【PIV】Tia, ke g^i lezas per dispremo: kontuzanta objekto (ekz. (ekzemple) klabo, martelo ks (kaj simile, kaj similaj)).
@@ -50851,7 +50851,7 @@ korsak/o⟦兽ᴷˢ/o⟧:【動】【PIV】Sp. (Specio) (Vulpes corsac) de rabob
 kort/a⟦院/a⟧:【PIV】Rilata al korto: la korta pordo ; kortaj birdoj (kokoj, anseroj ks (kaj simile, kaj similaj)).
 kort/eg/a⟦院/巨/a⟧:【PIV】Rilata al kortego: kortega konsilanto ; kortega klac^o.
 kort/eg/estr/o⟦院/巨/长ᴱ/o⟧:【PIV】C^ambelano.
-korteks/o:【解】【PIV】Supraj^a tavolo de la cerebro k de la cerebelo, sidejo de la inteligento, de la konsciaj sensaj^oj k movoj: cerebra, cerebela kortekso (cortex cerebri, cerebelli). Vd kortiko.
+korteks/o⟦皮质/o⟧:【解】【PIV】Supraj^a tavolo de la cerebro k de la cerebelo, sidejo de la inteligento, de la konsciaj sensaj^oj k movoj: cerebra, cerebela kortekso (cortex cerebri, cerebelli). Vd kortiko.
 Kortes/oj:【史】【PIV】Hispania au^ Portugalia leg^ofara asembleo.
 kortez/a:【PIV】Konforma al la tradicio de la trobadoroj, kiuj prikantis rafinitan, nematerian amon.
 kortici/o⟦菌ᴷᴿ/o⟧:【植】【PIV】G. (Genro) (Corticium el korticiacoj) kosmopolita de c^. (c^irkau^) 250 sp-oj (specioj) de bazidifungoj g^enerale lignolog^aj, kun glathimenia bazidio g^enerale krustoforma.
@@ -51220,7 +51220,7 @@ laktaz/o:【化】【PIV】Enzimo, kiu katalizas la malkombinon de laktozo al ga
 laktari/o⟦菌ᴸᴿ/o⟧:【植】【PIV】G. (Genro) (Lactarius el rusulacoj) de ombrelfungoj kun lamenohava bazidiujo sen ringo k sen stipingo, enhavanta blankan, flavan, orang^an au^ rug^an laktosukon; c^. (c^irkau^) 120 sp-oj (specioj) el la mezvarmaj regionoj, pluraj nemang^eblaj au^ iom venenaj, aliaj mang^indaj, i.a. (interalie, inter aliaj) la karotsuka laktario (L. deliciosus) k la sangosuka laktario (L. sanguifluus). Sin. laktofungo.
 lakton/o:【化】【PIV】Interna estero de hidroksi-acido: kumarino, askorbata acido estas laktonoj.
 laktukari/o:【PIV】Narkota k kvietiga substanco, ekstraktata el la laktukoj, malforta surogato de opio.
-lakun/o:【植】【解】【PIV】1 (lacuna) Malplenaj^o, mankoloko en histo. 2 Truo en teksto, ekz. (ekzemple) en Mezepoka manuskripto.
+lakun/o⟦缺ᴸ/o⟧:【植】【解】【PIV】1 (lacuna) Malplenaj^o, mankoloko en histo. 2 Truo en teksto, ekz. (ekzemple) en Mezepoka manuskripto.
 lala!:【PIV】Onomatopeo, imitanta bebon ankorau^ ne parolantan.
 lala/i:【PIV】Eligi tiajn sonojn.
 lam/e⟦跛/e⟧:【PIV】En lama maniero: lame pas^eti; ni estas ofte devigataj pensi lame dank' al (pro) la nesufic^eco de la lingvo ; la afero iras lame.
@@ -51298,7 +51298,7 @@ Lateran/o:【PIV】Aro de konstruaj^oj (palaco, katedralo) en Romo, apartenanta 
 laterit/o:【地質】【PIV】Hele au^ brune rug^a, koherig^inta grundo, ric^a je feroksido k eventuale alumino, de la tropika zono.
 Lati/o:【PIV】Regiono de Italio c^irkau^ Romo, okcidente de Apeninoj (13°E, 41°30′N).
 Latian/o:【PIV】1 Log^anto de Latio. 2 Latino.
-latifundi/oj:【史】【PIV】Grandegaj bienoj, rigardataj kiel karakteriza parto de la ekonomia k politika strukturo de iu regno.
+latifundi/oj⟦庄ᴸ/oj⟧:【史】【PIV】Grandegaj bienoj, rigardataj kiel karakteriza parto de la ekonomia k politika strukturo de iu regno.
 latimeri/o⟦鱼ᴸᵀ/o⟧:【動】【PIV】La sola nun vivanta fis^o (Latimeria chalumnae) el la ordo de krosopterigoj, 1,5 m longa, blugriza, kun blankaj makuloj, nomata ankau^ «la blua fis^o», vivanta inter Komoroj k S Afriko. Vd celakantuloj, krosopterigoj.
 latin/e:【PIV】En la latino.
 latin/ec/o⟦latin/性/o⟧:【PIV】1 Maniero, kiel iu persono skribas la latinon; kvalito de latina stilo. 2 La latina civilizacio.
@@ -51375,7 +51375,7 @@ lern/aj^/o⟦学/物/o⟧:【PIV】Tio, kion oni lernas: peceto de talmuda komen
 Lesb/an/o:【PIV】Log^ant(in)o de Lesbo.
 lestr/o:【PIV】(ark. (arkaismo, arkaisme)) = rabmevo.
 Let/o:【PIV】= Leteo.
-letal/a:【医】【PIV】Kau^zanta au^ estiganta morton: letala geno; letaleco.
+letal/a⟦死ᴸ/a⟧:【医】【PIV】Kau^zanta au^ estiganta morton: letala geno; letaleco.
 Lete/o:【PIV】Unu el la riveroj de Infero, kies akvo forgesigis suferojn k plezurojn de la tera vivo.
 leu^cin/o⟦亮ᴸ/o⟧:【化】【PIV】Aminacido, CH 3-CH 2-CH(CH 3)-CH(NH 2)-COOH; simb. (simbolo): Leu: leu^cino k izoleu^cino apartenas al la 20 c^efaj aminacidoj de la proteinoj, k estas esencaj por la homo.
 leu^cisk/o⟦鱼ᴸᵁ̆/o⟧:【動】【PIV】G. (Genro) (Leuciscus) de fis^oj el la ordo de ciprinoformaj, fam. (familio) de ciprinedoj, kun skvamoj, sen mentonaj hau^tfadenoj, vivantaj en nesala akvo. Vd muelilfis^o, ploto, rutelo.
@@ -51570,7 +51570,7 @@ Luaret/o:【PIV】Rivereto, enfluanto de Luaro (1°48′E, 47°52′N).
 Luarval/o:【PIV】Parto de la valo de Luaro inter Orleano k Ang^ero. -> Anj^uo.
 Lub/o:【PIV】= Libiano.
 Lucian/o:【PIV】Vira nomo, i.a. (interalie, inter aliaj) de helena satira verkisto (2a jc (jarcento) p.K. (post Kristo)).
-lucid/a:【医】【PIV】Havanta komprenkapablon ne malhelpatan de pli-malpli perturbitaj sentoj: lucida menso; intervaloj de lucideco (inter krizoj de maltrankvileco, angoro, frenezo).
+lucid/a⟦明ᴸ/a⟧:【医】【PIV】Havanta komprenkapablon ne malhelpatan de pli-malpli perturbitaj sentoj: lucida menso; intervaloj de lucideco (inter krizoj de maltrankvileco, angoro, frenezo).
 Lucili/o:【PIV】Romana vira nomo.
 Lucin/o:【PIV】Romana diino de la akus^ado, ofte identigita kun Junono.
 lud/ad/o⟦玩/行/o⟧:【PIV】Agado de ludanto(j): partopreni en la ludado ; g^ui la ludadon el sia log^ejo .
@@ -51817,7 +51817,7 @@ Mecenas/o:【史】【PIV】Amiko de Au^gusto, protektanto de Horacio k Vergilio
 Med/uj/o:【PIV】Regiono en Proksim-Oriento (Ekbatano, 48°25′E, 34°48′N).
 Mede/o:【PIV】1 Reg^idino de Kolc^ido, sorc^istino, edzino de Jazono k murdintino de siaj infanoj post la malfidelo de sia edzo. 2 Titolo de diversaj tragedioj, c^efe de Eu^ripido k Seneko.
 mediologi/o:【PIV】Studo de la rilatoj inter la vivuloj k ilia medio: histologia mediologio.
-mediaci/o:【法】【PIV】Procedo (ekz. (ekzemple) en internaciaj rilatoj, en laborkonfliktoj k.a. (kaj aliaj)), lau^ kiu ekstera persono proponas solvon al neakordantoj, sed ne trudas g^in al ili. Vd arbitracio.
+mediaci/o⟦调解/o⟧:【法】【PIV】Procedo (ekz. (ekzemple) en internaciaj rilatoj, en laborkonfliktoj k.a. (kaj aliaj)), lau^ kiu ekstera persono proponas solvon al neakordantoj, sed ne trudas g^in al ili. Vd arbitracio.
 mediant/o:【楽】【PIV】Tono je trita distanco de la toniko.
 mediastin/o⟦纵隔/o⟧:【解】【PIV】(mediastinum) Meza regiono de la toraka kavo, entenanta la koron, ezofagon, trakeon ktp (kaj tiel plu).
 mediastinit/o:【医】【PIV】Inflamo de mediastina konektivo.
@@ -52274,7 +52274,7 @@ mustang/o:【PIV】Malalta hardita c^evalo de la prerioj.
 musteri/o:【PIV】Kultura facio de la meza paleolitiko, de c^. (c^irkau^) −100 000 g^is c^. (c^irkau^) −35 000 j, en kiu en Eu^ropo la homo de Neandertalo, k en Proksim-Oriento la neandertala k la moderna homoj uzadis i.a. (interalie, inter aliaj) triangulajn pintojn k skrapilojn el silikaj splitoj.
 mutaci/int/o⟦突变/过/o⟧:【PIV】Mutaciinta geno.
 mutaci/ul/o⟦突变/者/o⟧:【PIV】C^elo au^ vivulo, karakterizata de mutaciinta geno.
-mutil/i:【医】【PIV】(tr (transitiva)) Difekti la tutecon de iu per forpreno de membro au^ de ekstera parto de lia korpo: la kamiono lin faligis k mutilis je la dekstra kruro; mutilanta lepro; mutilanta operacio. Vd kripligi, stumpigi.
+mutil/i⟦残ᴹ/i⟧:【医】【PIV】(tr (transitiva)) Difekti la tutecon de iu per forpreno de membro au^ de ekstera parto de lia korpo: la kamiono lin faligis k mutilis je la dekstra kruro; mutilanta lepro; mutilanta operacio. Vd kripligi, stumpigi.
 muz/id/o⟦诗ᴹ/子/o⟧:【PIV】Poeto.
 muzikal/o:【PIV】Speco de teatraj^o, uzanta muzikon k modernan koregrafion. Vd opereto.
 Nabot/o:【聖】【PIV】Hebreo, kiun reg^o Ah^abo mortigis, por akiri lian vinberg^ardenon.
@@ -52641,7 +52641,7 @@ ok/obl/e⟦八/倍/e⟧:【PIV】Multiplikate per ok: okoble du estas dek ses.
 oktet/o:【楽】【PIV】1 Verko por ok voc^oj au^ ok instrumentoj. 2 Grupo de ok personoj, kiuj kantas au^ ludas tian verkon.
 okapi/o⟦兽ᴼᴷ/o⟧:【動】【PIV】Parhufulo (unuspecia g. (genro) Okapia johnstoni) el la fam. (familio) de g^irafedoj, bruna, kun horizontalaj blankaj strioj, vivanta en la regiono de la rivero Kongo.
 okaz/ej/o⟦生ᴼ/所/o⟧:【PIV】Tiu loko, kie io okazis: la okazejo de la murdo, de la ribelo.
-okluzi/o:【医】【気】【PIV】1 Patologia fermig^o de kanalo, dukto au^ orifico: intesta okluzio. 2 La unuig^o de varma k malvarma frontoj en la evoluo de ciklono.
+okluzi/o⟦堵ᴼᴷ/o⟧:【医】【気】【PIV】1 Patologia fermig^o de kanalo, dukto au^ orifico: intesta okluzio. 2 La unuig^o de varma k malvarma frontoj en la evoluo de ciklono.
 okrom/o⟦木ᴼᴷ/o⟧:【植】【PIV】G. (Genro) (Ochroma el bombakacoj) de nur unu sp. (O. pyramidale) el tropika Ameriko, arbo rapidkreska, kun ligno (Vd balzo) pli malpeza ol korko, kun korformaj, lobaj, malsupraflanke lanugaj folioj k kun grandaj, brunete flavaj floroj.
 oks/o⟦牛ᴼ/o⟧:【PIV】Kastrita tau^ro. Vd bovo. -> oksovostosupo.
 oksalat/o:【PIV】= okzalato.
@@ -52666,7 +52666,7 @@ Oktavi/o:【PIV】Romana familia nomo, i.a. (interalie, inter aliaj) de la imper
 oktopod/o:【動】【PIV】G. (Genro) (Octopus) de polpoj kun po 2 vicoj de suc^iloj sur la brakoj. Vd eledono.
 okul/er/o⟦目/粒/o⟧:【PIV】Omatidio.
 okul/et/o⟦目/小/o⟧:【PIV】1 Okulo kun aparta c^armo: tiuj bubetoj, kun la g^ojaj ridantaj okuletoj ; fari al s^i la amajn okuletojn . 2 Eta truo por lac^o, s^nureto: okuletoj de korseto, de velo.
-okupaci/o:【軍】【PIV】Uzurpa okupado de loko, lando ks (kaj simile, kaj similaj).
+okupaci/o⟦占领/o⟧:【軍】【PIV】Uzurpa okupado de loko, lando ks (kaj simile, kaj similaj).
 okzalil/o:【化】【PIV】La grupo-CO-CO-: okzalila klorido, (COCl) 2.
 olat/o:【化】【PIV】(en kunmetaj^oj) Metala salo de alkoholo; alkoholato: kalia etan olato, K ^+ C 2 H 5-O ^−; natria fenolato, Na ^+ C 6 H 5-O ^−.
 oldovaj/o:【PIV】Praac^eu^lea industrio, karakterizata i.a. (interalie, inter aliaj) de la c^operoj; ili estis elfositaj unue en la nordo de Tanzanio samtempe kiel fosilioj de lertaj homoj (Homo habilis) k de parantropoj (c^. (c^irkau^) −2 milionoj j).
@@ -52790,7 +52790,7 @@ orgasm/i⟦高潮/i⟧:【PIV】(ntr (netransitiva)) Sperti orgasmon: trifoje si
 Stalin-orgen/o:【軍】【PIV】Fuzej^etilo kun multaj tuboj, uzata de la Sovetia armeo dum la dua mondmilito.
 orgi/a⟦纵欲/a⟧:【PIV】Rilata al orgio: orgia kulto (de Dionizo). Vd Bakh^analio.
 orgi/i⟦纵欲/i⟧:【PIV】Plenumi orgion.
-oriel/o:【建】【PIV】Speco de elstara fenestro, precipe c^e supra etag^o. Sin. (sinonimo) korbelfenestro.
+oriel/o⟦凸窗/o⟧:【建】【PIV】Speco de elstara fenestro, precipe c^e supra etag^o. Sin. (sinonimo) korbelfenestro.
 orient/ebl/a⟦东/可/a⟧:【数】【PIV】(pp (se paroli pri) sternaj^o) Tia, ke oni povas g^in orienti: la rubando de Möbius k la botelo de Klein estas neorienteblaj sternaj^oj.
 orient/it/a⟦东/受/a⟧:【数】【PIV】Provizita per orientig^o.
 orific/o⟦孔ᴼ/o⟧:【解】【PIV】Enira au^ elira aperturo: faringa orifico de au^da tubo (ostium pharyngeum tubae auditivae au^ auditoriae).
@@ -53047,14 +53047,14 @@ pardon/ig^/i⟦恕/成/i⟧:【PIV】Ig^i pardonita: per bono k vero pardonig^as
 paregorik/a:【医】【PIV】Dolorkvietiga: paregorika eliksiro (opia preparaj^o kontrau^ intestaj doloroj k kontrau^ laksoj).
 parenc/ig^/i⟦亲ᴾ/成/i⟧:【PIV】Ig^i parenca (per ies edzig^o): kun kia diablo vi parencig^is! .
 parentez/a⟦括/a⟧:【PIV】Prezentanta parentezon: parenteza noto, rimarko; en la templo de Pta - templo parenteze pli vasta ol c^iuj en Tebo - okazis, ke .
-parez/o:【医】【PIV】Paralizo, konsistanta el malforta malpliig^o de la kontrahebleco.
+parez/o⟦瘫ᴾᶻ/o⟧:【医】【PIV】Paralizo, konsistanta el malforta malpliig^o de la kontrahebleco.
 parietari/o⟦草ᴾᴬᴿᴵ/o⟧:【植】【PIV】G. (Genro) (Parietaria el urtikacoj) de unu-k plur-jaraj herboj kun integra-au^ sinuet-randaj folioj k kun verdetaj floroj unuopaj au^ en akselaj glomeruloj; subkosmopolita g. (genro) de c^. (c^irkau^) 10 sp-oj (specioj)
 Parizi/o:【PIV】Regiono c^irkau^ Parizo: Aprila Parizio, vin mia kor' sopiras .
 park/ad/i⟦园ᴾ/行/i⟧:【PIV】(tr (transitiva)) (pp (se paroli pri) veturilo). Restigi provizore.
 park/um/i⟦园ᴾ/um/i⟧:【PIV】(tr (transitiva)) (pp (se paroli pri) veturilo). Restigi provizore.
 park/ad/ej/o⟦园ᴾ/行/所/o⟧:【PIV】Loko, rezervita por provizore restigi au^tomobilojn.
 Park/oj:【PIV】= Parcoj.
-parlamentari/o:【軍】【PIV】Tiu, kiu dum milito estas komisiita ektrakti kun la malamika komandanto au^ ties delegitoj.
+parlamentari/o⟦军使/o⟧:【軍】【PIV】Tiu, kiu dum milito estas komisiita ektrakti kun la malamika komandanto au^ ties delegitoj.
 Parm/a:【PIV】Rilata al Parmo: Parmaj violoj; Parma fromag^o.
 parmeli/o⟦菌ᴾᴿ/o⟧:【植】【PIV】G. (Genro) (Parmelia el parmeliacoj) kosmopolita de c^. (c^irkau^) 1300 sp-oj (specioj) de foliecaj askolikenoj.
 Parmenid/o:【PIV】Helena filozofo k poeto (5a jc (jarcento) a.K. (antau^ Kristo)).
@@ -53248,7 +53248,7 @@ perfuz/i:【医】【PIV】(tr (transitiva)) Malrapide k seninterrompe injekti l
 perfuz/il/o⟦perfuz/具/o⟧:【PIV】La ilaro necesa al perfuzado.
 Pergam/o:【史】【PIV】1 La citadelo de Trojo. 2 Antikva urbo en Malgrandazio (27°12′E, 39°07′N).
 pergamen/i⟦羊皮纸/i⟧:【PIV】(tr (transitiva)) Doni la aspekton de pergameno: pergamenita papero.
-pergol/o:【建】【PIV】G^ardena konstruaj^o el kolonetoj subtenantaj maldense surmetitajn trabojn, kiel apogilo de vegetaj^oj, floroj ks (kaj simile, kaj similaj).
+pergol/o⟦棚ᴾ/o⟧:【建】【PIV】G^ardena konstruaj^o el kolonetoj subtenantaj maldense surmetitajn trabojn, kiel apogilo de vegetaj^oj, floroj ks (kaj simile, kaj similaj).
 periant/o:【植】【PIV】La tuto de la c^irkau^aj florfolioj, t.e. (tio estas) la kaliko k la korolo kune (kompleta perianto) au^ nur la kaliko (nekompleta perianto).
 pericikl/o:【植】【PIV】(pp (se paroli pri) radiko de vaskulplantoj) La plej ekstera c^eltavolo de la steleo, samlima kun la endodermo.
 peridi/o:【植】【PIV】(pp (se paroli pri) fungoj) La parieto au^ ekstera membrano de sporangio au^ de alispecaj fruktokorpoj (i.a. (interalie, inter aliaj) c^e gasteromicetoj, pirenomicetoj, uredaloj).
@@ -53278,7 +53278,7 @@ perlec^/o:【医】【PIV】Malsano kun diversaj kau^zoj (manko de riboflavino, 
 perlit/o:【技】【PIV】Alojo de fero k 0,8% da karbono, konsistanta el mikroskopaj alternaj lamenoj de ferito α k de cementito.
 perlon/o:【服】【PIV】Germana ekvivalento de nilono.
 permaloj/o:【技】【PIV】Alojo el nikelo k fero, havanta grandan tralasecon por la magnetaj fortoj, uzata por la kerno de la telegrafaj kabloj.
-permanent/a:【PIV】Dau^ranta sen interrompo k s^ang^ig^o. Vd konstanta.
+permanent/a⟦恒ᴾ/a⟧:【PIV】Dau^ranta sen interrompo k s^ang^ig^o. Vd konstanta.
 permeabl/ec/o⟦穿ᴾᴿ/性/o⟧:【PIV】Eco de io tralasa.
 permeablaz/o:【生】【PIV】Enzimeca faktoro proteina, kiu regas la eniron au^ eliron de specifaj molekuloj tra la c^elmembrano.
 permut/a⟦换ᴾ/a⟧:【PIV】Rilata al permuto: permuta reakcio (c^e kiu jonoj inters^ang^as sian lokon en la substanco).
@@ -53688,7 +53688,7 @@ Pontin/o:【PIV】Parto de Latio apud Romo: la Pontinaj marc^oj (13°E, 41°25�
 poplin/o:【服】【PIV】1 Teksaj^o el silka varpo k lana vefto. 2 Teksaj^o el mercerizita kotono.
 poplit/a⟦膝窝/a⟧:【PIV】Rilata al la poplito: poplita kavo (fossa poplitea); poplita vejno.
 popol/et/o⟦民/小/o⟧:【PIV】Malgranda popolo: hereda lingvo de la plej sensignifa popoleto havas vivon garantiitan ; la sennombraj Afrikaj popoletoj.
-porc^/o:【建】【PIV】Antau^konstruaj^o c^e dompordo, destinita por s^irmi kontrau^ pluvo k vento. Vd alero, markezo, portiko.
+porc^/o⟦门廊/o⟧:【建】【PIV】Antau^konstruaj^o c^e dompordo, destinita por s^irmi kontrau^ pluvo k vento. Vd alero, markezo, portiko.
 pord/a⟦门/a⟧:【PIV】1 Rilata al pordo(j). 2 Rilata al la hepata pordo: porda vejno (V. portae; g^i kolektas al la hepato la sangon de la diversaj digestaj organoj). Vd pileo.
 porfir/a⟦斑岩/a⟧:【地質】【PIV】Rilata al porfiro: porfira strukturo (pp (se paroli pri) porfiro 1). Vd grajna, mikrolita.
 porfir/ec/a⟦斑岩/性/a⟧:【地質】【PIV】(pp (se paroli pri) plutona au^ metamorfa petro) Karakterizata de grandaj kristaloj (paralelepipedaj au^ migdaloformaj) disaj en maso (grajna au^ skisteca) de notinde malpli grandaj kristaloj: porfireca granito.
@@ -53863,9 +53863,9 @@ prolanemi/o:【PIV】C^eesto k/au^ kvanto de prolano en la sango.
 prolaps/o:【PIV】= ptozo.
 proleps/o:【PIV】Parolfiguro, konsistanta en la anticipa refutado de supozita kontrau^diro ekz. (ekzemple): Tial, se oni diras al vi «la mondo ne volas vian lingvon», respondu kurag^e: «g^i…» .
 prolet/ar/ig/i⟦无产/群/使/i⟧:【PIV】Fari, ke tuta kategorio el sendependaj produktistoj (manlaboristoj, kamparanoj, komercistoj ks (kaj simile, kaj similaj)) metu sian laborforton sub la disponon de kapitalistoj.
-prolifer/i⟦殖ᴾ/i⟧:【PIV】(ntr (netransitiva)) 1 (pp (se paroli pri) c^elo au^ histo) Multoblig^i. 2 (pp (se paroli pri) planto) Fari vegetajn au^ florajn s^osojn tra au^ el la floroj (plejofte nenormale). 3 Multoble, nesekse reproduktig^i per stolonoj, bulbiloj ks (kaj simile, kaj similaj).
-prolifer/ad/o⟦殖ᴾ/行/o⟧:【PIV】Ago de io, kio proliferas.
-prolifer/em/a⟦殖ᴾ/倾/a⟧:【PIV】Kapabla proliferi.
+prolifer/i⟦殖ᴾᴿ/i⟧:【PIV】(ntr (netransitiva)) 1 (pp (se paroli pri) c^elo au^ histo) Multoblig^i. 2 (pp (se paroli pri) planto) Fari vegetajn au^ florajn s^osojn tra au^ el la floroj (plejofte nenormale). 3 Multoble, nesekse reproduktig^i per stolonoj, bulbiloj ks (kaj simile, kaj similaj).
+prolifer/ad/o⟦殖ᴾᴿ/行/o⟧:【PIV】Ago de io, kio proliferas.
+prolifer/em/a⟦殖ᴾᴿ/倾/a⟧:【PIV】Kapabla proliferi.
 prolin/o:【化】【PIV】Heterocikla aminacido, C 5 H 9 NO 2, unu el la 20 c^efaj aminacidoj de la proteinoj; simb. (simbolo): Pro.
 prometi/o⟦金ᴾᴿ/o⟧:【化】【PIV】1 Radioaktiva elemento, Pm, atomnumero 61, atommaso 145, lantanido: prometia klorido, PmCl 3; prometiaj kombinaj^oj. 2 Metalo.
 promil/o:【PIV】Valoro au^ taksado difinita rilate al la nombro mil. Sin. (sinonimo) elmilo. Vd procento 2, milono.
@@ -54049,7 +54049,7 @@ pulp/ig/i⟦瓤/使/i⟧:【PIV】Redukti al pulpo, pp (se paroli pri) apoteka s
 pulpit/o:【医】【PIV】Inflamo de la denta pulpo.
 pulsatil/o⟦草ᴾᵁᴸ/o⟧:【植】【PIV】G. (Genro) (Pulsatilla el ranunkolacoj) de plurjaraj herboj kun plume dividaj folioj, kun unuopaj, senpetalaj floroj, havantaj petalecajn sepalojn po 5−6, k kun fruktoj (plurakenoj), kies akenoj (diference de anemono) unuope portas longan plumecan ariston (maturig^intan stiluson), tiel ke la frukto formas harkovritan kapon; c^. (c^irkau^) 38 sp-oj (specioj) el Eu^ropo, Azio, k NE Ameriko, pluraj pororname kultivataj. see anemono.
 pultace/a:【医】【PIV】Malfirma kiel kac^o k facile diserigebla en la akvo: pultacea eksudaj^o; pultaceaj anginoj (karakterizataj de tia eksudaj^o).
-pulul/i:【生態】【生】【PIV】(ntr (netransitiva)) Abunde, en mallonga tempo svarme multig^i.
+pulul/i⟦殖ᴾ/i⟧:【生態】【生】【PIV】(ntr (netransitiva)) Abunde, en mallonga tempo svarme multig^i.
 pulvor/ec/o⟦粉ᴾ/性/o⟧:【PIV】Stato de substanco pulvorigita: li disfrakasis g^in g^is pulvoreco .
 pum!:【PIV】Onomatopeo, imitanta la surdan bruon de falo ks (kaj simile, kaj similaj): pum! la granda Niko falis en la riveron . Vd bum!, puf!
 pumili/o⟦木ᴾᴹ/o⟧:【植】【PIV】Sp. (Specio) de pino (Pinus pumilio) el la montaroj de C Eu^ropo, trunkarbusto (g^is 5 m alta) parenca al mugo.
@@ -54154,7 +54154,7 @@ ral/o⟦秧鸡/o⟧:【動】【PIV】G. (Genro) (Rallus) de malgrandaj vadbirdo
 ral/ed/oj⟦秧鸡/科ᴱ/oj⟧:【動】【PIV】Fam. (Familio) (Rallidae) de gruformaj birdoj, al kiu apartenas ralo, krekso, fuliko k.a. (kaj aliaj)
 rali/o:【PIV】Konkuro, en kiu la partoprenantoj, piedire au^ veturile, devas atingi difinitan punkton, plenuminte difinitajn elprovojn.
 ralik/o:【PIV】S^nuro, kudrita lau^longe de la rando de velo, por g^in fortikigi.
-ram/i:【技】【PIV】(tr (transitiva)) Mane au^ mas^ine enbati (fostojn ks (kaj simile, kaj similaj)).
+ram/i⟦撞ᴿ/i⟧:【技】【PIV】(tr (transitiva)) Mane au^ mas^ine enbati (fostojn ks (kaj simile, kaj similaj)).
 ramapitek/o:【PIV】Azia supera primato (fine de la terciara erao), probabla praulo de la orangutano.
 rambutan/o⟦木ᴿᵀ/o⟧:【植】【PIV】1 Sp. (Specio) (Nephelium lappaceum el sapindacoj) de arbo el Malajzio, simila al lic^io, kultivata en SE Azio por fruktoj ovoidaj, kovritaj de moldornoj, maturstadie rug^aj, unuope enhavantaj malmolan semon, c^irkau^itan de blanka sukplena, acideta karno (arilo) mang^ata fres^a. 2 La frukto de rambutano 1.
 ramfast/o:【PIV】= tukano.
@@ -54162,7 +54162,7 @@ ramforink/o⟦龙ᴿ/o⟧:【動】【PIV】G. (Genro) (Rhamphorhynchus) de malg
 rami/o⟦草ᴿᴹ/o⟧:【植】【PIV】1 (ark. (arkaismo, arkaisme)) G. (Genro) (Ramium) nomenklature ne legitima de bemerio. 2 C^iu sp. de bemerio (precipe Boehmeria nivea k var . tenacissima, el tropika Azio), kultivata por tigo ric^a je bastofibroj utiligataj por multaspecaj teksaj^oj.
 ramn/o⟦木ᴿᴹ/o⟧:【植】【PIV】G. (Genro) (Rhamnus el ramnacoj) de arbustoj au^ arboj kun simplaj folioj, kun malgrandaj, ne okulfrapaj floroj, verdetaj au^ flavetaj, periginaj, kvar- (g^enerale subg. ramno) au^ kvin-nombraj (g^enerale subg. frangolo), k kun fruktoj (drupoj) 2−4-semaj; c^. (c^irkau^) 125 sp-oj (specioj), precipe N-hemisferaj, pluraj pororname kultivataj, i.a. (interalie, inter aliaj) alaterno, k iuj medicine uzataj, i.a. (interalie, inter aliaj) frangolo.
 ramonc^/o⟦木ᴿᶜ̂/o⟧:【植】【PIV】Sp. (Specio) de flakurtio (Hindia flakurtio) el la tropika Malnova Mondo, kultivata por adstringaj, sukplenaj fruktoj.
-rampl/o:【建】【PIV】Dekliva vojo, ebliganta al veturiloj atingi la suprajn etag^ojn de konstruaj^o.
+rampl/o⟦坡道/o⟧:【建】【PIV】Dekliva vojo, ebliganta al veturiloj atingi la suprajn etag^ojn de konstruaj^o.
 ramur/o:【動】【PIV】Para, pli-malpli disbranc^ig^inta osta elkreskaj^o sur la kranio de cervedoj, kiu c^iujare defalas k renovig^as. Vd korno.
 ran/a⟦蛙/a⟧:【医】【PIV】Rilata al rano: rana kisto (likva tumoro de la salivaj glandoj, situanta sub la lango).
 ranc^/o:【PIV】En la prerio, establo de brutbredado.
@@ -54253,7 +54253,7 @@ Rejn/a:【PIV】Rilata al Rejno: la Rejna trafiko; la Rejna provinco ; la Rejna 
 Rejn/land/o:【PIV】Tuto de la Germaniaj regionoj c^e Rejno; dividita inter la landoj de FRG Nord-Rejn-Vestfalio k Rejnlando-Palatinato.
 Rejnald/o:【PIV】Vira nomo.
 reklam/ad/o⟦宣ᴿ/行/o⟧:【PIV】Dau^ra, sistemeca uzado de reklamoj por difinita celo.
-rekognosk/i:【PIV】(ntr (netransitiva)) = skolti (pp (se paroli pri) soldato).
+rekognosk/i⟦侦ᴿ/i⟧:【PIV】(ntr (netransitiva)) = skolti (pp (se paroli pri) soldato).
 rekompenc/a⟦酬/a⟧:【PIV】Prezentanta rekompencon: rekompenca mondonaco, mencio.
 rekrut/ig/o⟦征募/使/o⟧:【PIV】Ago de tiu, kiu rekrutigas.
 rekrut/ist/o⟦征募/家/o⟧:【PIV】Iama suboficiro, kiu klopodis rekrutigi soldatojn per c^iaj rimedoj.
@@ -54356,7 +54356,7 @@ rezid/i⟦驻/i⟧:【PIV】(ntr (netransitiva)) 1 Konstante k oficiale log^i. 2
 rezid/ej/o⟦驻/所/o⟧:【PIV】Domo, en kiu oni rezidas: vilag^a , reg^a rezidejo; c^iu civitano povas voc^doni en la loko de sia leg^a rezidejo.
 rezident/o⟦驻官/o⟧:【政】【PIV】Altranga funkciulo, komisiita de protektanta s^tato c^e la regnestro de protektorato.
 rezident/ej/o⟦驻官/所/o⟧:【PIV】Domo, en kiu log^as k funkcias rezidento.
-rezidu/o:【地質】【PIV】1 Restaj^o el petroj, pasintece elmetataj al la agado de eksteraj fenomenoj, nek transportita nek sedimentita: rezidua arkozo, rezidua argilo (el argila reziduo de dissolvitaj kalkpetroj). 2【化】 Restaj^o. 3【法】 Tio, kio restas el heredaj^o, post pagado de la s^uldoj, impostoj k legacoj. 4【経】 Tiu resto el kalkulo, kiu ne estas klarigita k motivigita: rezidua eraro. 5【数】 (pp (se paroli pri) holomorfa funkcio k punkto a) Nombro, kiu indikas, kiomoble oni devas subtrahi 1 / (z − a), por ke la diferenco havu malderivaj^on en punkciita c^irkau^aj^o de a.
+rezidu/o⟦余ᴿᶻ/o⟧:【地質】【PIV】1 Restaj^o el petroj, pasintece elmetataj al la agado de eksteraj fenomenoj, nek transportita nek sedimentita: rezidua arkozo, rezidua argilo (el argila reziduo de dissolvitaj kalkpetroj). 2【化】 Restaj^o. 3【法】 Tio, kio restas el heredaj^o, post pagado de la s^uldoj, impostoj k legacoj. 4【経】 Tiu resto el kalkulo, kiu ne estas klarigita k motivigita: rezidua eraro. 5【数】 (pp (se paroli pri) holomorfa funkcio k punkto a) Nombro, kiu indikas, kiomoble oni devas subtrahi 1 / (z − a), por ke la diferenco havu malderivaj^on en punkciita c^irkau^aj^o de a.
 rezist/iv/o⟦抗ᴿ/能ᴵ/o⟧:【PIV】Fizika grando, egala al la rezistanco de drato el iu materialo, multiplikita per la kversekca areo de la drato k dividita per g^ia longo; simb. (simbolo): ρ (ro). Vd konduktivo.
 rezolut/a:【PIV】Firma en siaj projektoj; senhezita en la plenumado de siaj decidoj: rezoluta karaktero; rezolute apliki agitplanon.
 rezorcinol/o:【化】【PIV】Meta-dihidroksibenzeno, C 6 H 4 (OH) 2, uzata i.a. (interalie, inter aliaj) por fabriki eksplodaj^ojn k medikamentojn.
@@ -54661,7 +54661,7 @@ sapf/ism/ul/in/o⟦sapf/主义/者/女/o⟧:【PIV】Samseksema virino. Sin. (si
 sapind/o⟦木ˢᴰ/o⟧:【植】【PIV】G. (Genro) (Sapindus el sapindacoj) de poligamiaj arboj k trunkarbustoj kun alternaj, plume kunmetaj (kelkfoje nur unufolieraj) folioj k kun drupecaj fruktoj unuope enhavantaj g^enerale unu semon, venenan pro arilo ric^a je saponino; tropika k subtropika g. (genro) de 13 sp-oj (specioj), i.a. (interalie, inter aliaj) S. saponaria, Amerika, kies sekigitaj fruktoj estas kelkfoje uzataj kiel sapo. Sin. (sinonimo) saparbo.
 saponari/o⟦草ˢᴬᴾ/o⟧:【植】【PIV】G. (Genro) (Saponaria el kariofilacoj) de unu-, du-k plur-jaraj herboj kun kontrau^e duopaj folioj k kun duflankaj cumoj; c^. (c^irkau^) 40 sp-oj (specioj) el Eu^ropo k Azio, ekz. (ekzemple).
 saponin/o:【化】【PIV】(kn (kolektiva nomo)) Vegetaj^a heterozido - kun steroida au^ triterpena nesakarida parto -, solvebla en akvo, kiun g^i s^au^migas: saponinoj abundas ekz. (ekzemple) en saponario, sapindo, agavo, jukao. Sin. (sinonimo) sapozido.
-sapor/i:【PIV】(ntr (netransitiva)) Gusti 1.
+sapor/i⟦味ˢ/i⟧:【PIV】(ntr (netransitiva)) Gusti 1.
 sapot/o⟦人心果/o⟧:【植】【PIV】1 Alia, nelegitima nomo (Sapota) de la g. (genro) manilkaro. 2 Sp. (Specio) de manilkaro (Manilkara zapota) el C Ameriko, arbo kun simplaj, elipsaj folioj, kun unuopaj, malgrandaj, hele flavetaj floroj, kultivata en la tropikaj landoj por aromaj beroj mang^ataj fres^aj k por trunks^ela laktosuko uzata en fabrikado de mac^gumo (Vd c^iklo). 3 Mang^ebla bero de sapoto 2 k de Pouteria sapota el sapotacoj.
 sapot/ac/oj⟦人心果/科ᴬ/oj⟧:【植】【PIV】Fam. (Familio) (Sapotaceae) de arboj, arbustoj k arbustetoj kun regulaj, kompleksaj floroj en malgrandaj cumoj k kun beroj; tropika fam. (familio) de c^. (c^irkau^) 975 sp-oj (specioj) el 53 g-oj (genroj), i.a. (interalie, inter aliaj) arganio, maduko k manilkaro.
 sapot/ber/o⟦人心果/浆果/o⟧:【PIV】Sapoto 3. -> c^iklo.
@@ -54754,7 +54754,7 @@ seg/ad/o⟦锯/行/o⟧:【PIV】Ago de iu, kiu segas. -> segadostreko, segvojo.
 seg/ej/o⟦锯/所/o⟧:【PIV】Establo, kie oni segadas arbojn al tabuloj.
 segment/a⟦段ˢ/a⟧:【動】【PIV】Prezentanta segmentojn: segmentaj animaloj (konsistantaj el sinsekvaj segmentoj).
 segment/ec/o⟦段ˢ/性/o⟧:【動】【PIV】Eco de segmentaj bestoj: segmenteco de anelidoj. Sin. (sinonimo) metamereco.
-segregaci/o:【PIV】1 Sistemo, per kiu registaro apartigas diversajn grupojn de homoj lau^ ilia origino, etno, religio k.a. (kaj aliaj), au^ en apartajn kvartalojn au^ en apartajn fakojn de la publikaj lokoj: religia, rasa segregacio. Vd geto. 2【技】 Neplena apartig^o de la diversaj homogenaj partoj de alojo dum g^ia likvig^o. 3【地質】 Koncentrig^o de iu(j) mineralo(j) en apartaj lokoj de sedimento k c^efe de magmo: magma segregacio (segregacio dum malvarmig^o de magmo); magma segregacio de erco. Vd diferencig^i.
+segregaci/o⟦隔ˢᴳ/o⟧:【PIV】1 Sistemo, per kiu registaro apartigas diversajn grupojn de homoj lau^ ilia origino, etno, religio k.a. (kaj aliaj), au^ en apartajn kvartalojn au^ en apartajn fakojn de la publikaj lokoj: religia, rasa segregacio. Vd geto. 2【技】 Neplena apartig^o de la diversaj homogenaj partoj de alojo dum g^ia likvig^o. 3【地質】 Koncentrig^o de iu(j) mineralo(j) en apartaj lokoj de sedimento k c^efe de magmo: magma segregacio (segregacio dum malvarmig^o de magmo); magma segregacio de erco. Vd diferencig^i.
 seism/o⟦震ˢᴱ/o⟧:【地質】【PIV】Tertremo. Sin. (sinonimo) sismo.
 seism/a⟦震ˢᴱ/a⟧:【PIV】Rilata al la tertremoj k iliaj efikoj: seisma skuo; seisma linio.
 seismograf/o:【PIV】Aparato, por enregistri la horon, dau^ron k intenson de seismaj movoj.
@@ -54993,7 +54993,7 @@ simpat/a⟦交感/a⟧:【PIV】Rilata al la simpato: simpata ganglio, trunko; s
 simpat/in/o⟦交感/in/o⟧:【生】【PIV】(ark. (arkaismo, arkaisme)) Substanco simila al adrenalino, k formig^anta c^e la finoj de la simpataj nervoj. Sin. (sinonimo) nor-adrenalino.
 simpatektomi/o:【医】【PIV】Desekco de simpata nervo.
 simpleks/o:【数】【PIV】1 Pluredro de plej simpla tipo; g^i estas generita de finia aro da afine nedependaj punktoj. 2 Bildigo de simplekso 1 al topologia spaco.
-simpozi/o:【PIV】1【史】C^e la helenoj, postmang^a drinkado kun muziko, dancoj de artistinoj, konversacio ktp (kaj tiel plu): la Simpozio de Platono (unu el liaj verkoj). 2 Renkontig^o de specialistoj, pli grava ol kolokvo, por diskuti fakajn aferojn. Vd diskutforumo. 3 Kolekto de kontribuaj^oj pri unu teknika temo el diversaj au^toroj kaj vidpunktoj.
+simpozi/o⟦会ˢᴹ/o⟧:【PIV】1【史】C^e la helenoj, postmang^a drinkado kun muziko, dancoj de artistinoj, konversacio ktp (kaj tiel plu): la Simpozio de Platono (unu el liaj verkoj). 2 Renkontig^o de specialistoj, pli grava ol kolokvo, por diskuti fakajn aferojn. Vd diskutforumo. 3 Kolekto de kontribuaj^oj pri unu teknika temo el diversaj au^toroj kaj vidpunktoj.
 simptom/a⟦症ˢ/a⟧:【PIV】Rilata al simptomo: simptoma (au^ prefere: kontrau^ simptoma) medikamentado.
 simptomologi/o:【PIV】Studo de la simptomoj de la malsanoj.
 simuli/o⟦虫ˢᴹ/o⟧:【動】【PIV】G. (Genro) (Simulium) de tre malgrandaj, sangosuc^antaj moskitoj, kies larvoj vivas en rapidflua akvo, fiksig^antaj al la substrato per sia malantau^a ekstremaj^o.
@@ -55137,7 +55137,7 @@ skvam/arang^/aj⟦鳞/整ᴬ/aj⟧:【PIV】Parte kovrantaj unuj aliajn, kiel la
 skvar/o:【PIV】G^ardeno, g^enerale kvarangula k fermita de krado, meze de placo.
 skvas^/o:【PIV】Sporto, ludata en c^ambro, konsistanta en j^etado k rej^etado de pilko per rakedoj kontrau^ kvar muroj. Sin. (sinonimo) kvarmurpilko.
 skvaten/o⟦鱼ˢⱽ/o⟧:【動】【PIV】G. (Genro) (Squatina) de maraj fis^oj el la ordo de elasmobrankoj, transig^aj inter s^arkoj k rajoj.
-slab/o:【PIV】1 Mezdika, ordinare oblonga plato el marmoro, s^tono, betono au^ cemento: marmora slabo super tombo; la c^evaloj glitis sur la slaboj de la italaj stratoj. 2【技】 Metala tabulo, perfekte ebena, uzata en mekaniko por certigi la ebenecon de la surfaco de prilaborataj^o au^ kiel bazo de strekado per truskeno. 3 La metala ebena tabulo, sur kiun oni demetas la kompostaj^on au^ gravuritaj^on, por ilin impozi au^ presi. Vd platino.
+slab/o⟦板ˢ/o⟧:【PIV】1 Mezdika, ordinare oblonga plato el marmoro, s^tono, betono au^ cemento: marmora slabo super tombo; la c^evaloj glitis sur la slaboj de la italaj stratoj. 2【技】 Metala tabulo, perfekte ebena, uzata en mekaniko por certigi la ebenecon de la surfaco de prilaborataj^o au^ kiel bazo de strekado per truskeno. 3 La metala ebena tabulo, sur kiun oni demetas la kompostaj^on au^ gravuritaj^on, por ilin impozi au^ presi. Vd platino.
 slang/a⟦俗语/a⟧:【PIV】Rilata al slango.
 slav/ist/o⟦slav/家/o⟧:【PIV】Lingvisto, kiu studas la slavajn lingvojn.
 slivovic/o:【PIV】C-Eu^ropa klara brando el prunoj.
@@ -55574,7 +55574,7 @@ sukcesi/o:【生態】【PIV】Sinsekvo de diversaspecaj biocenozoj en biotopo p
 sukerat/o:【化】【PIV】Salo de sukerata acido, C 6 H 10 O 8, oksidig^a produkto de glukozo.
 suker/pec/o⟦糖/片/o⟧:【PIV】Aglomerita peco de sukeraj kristaloj, ordinare en regulaj sesedraj formoj.
 sukroz/o:【化】【PIV】Sakarozo.
-sukub/o:【PIV】Diablo, kiu alprenis la formon de virino, por kunig^i kun viro. Vd inkubo.
+sukub/o⟦魔ˢᴷ/o⟧:【PIV】Diablo, kiu alprenis la formon de virino, por kunig^i kun viro. Vd inkubo.
 sukulent/a:【植】【PIV】Havanta foliojn au^ tigojn karnodikajn k sukplenajn.
 sukur/i⟦急救/i⟧:【医】【PIV】(tr (transitiva)) Doni la unuan helpon k flegon al vunditoj, dum milito au^ post sinistroj au^ aliaj gravaj akcidentoj.
 sukur/ad/o⟦急救/行/o⟧:【PIV】Agado de iu, kiu sukuras.
@@ -55868,7 +55868,7 @@ talam/o⟦丘脑/o⟧:【解】【PIV】(thalamus) Nomo de du dikaj kernoj de gr
 taliktr/o⟦草ᵀᵀ/o⟧:【植】【PIV】G. (Genro) (Thalictrum el ranunkolacoj) de plurjaraj herboj kun 2−3-oble plume kunmetaj folioj k kun senpetalaj, multastamenaj floroj en kunmetaj umbeloj; c^. (c^irkau^) 330 sp-oj (specioj) precipe N-hemisferaj, pluraj pororname kultivataj pro okulfrapaj sepaloj k/au^ stamenoj.
 talitr/o⟦虾ᵀ/o⟧:【動】【PIV】G. (Genro) (Talitrus) de marbordaj krustacoj, sin nutrantaj per malkomponig^antaj vegetaj^oj super la marnivelo, saltantaj al la maro, kiam oni perturbas ilin. Sin. (sinonimo) marpulo.
 talium/o:【PIV】= talio ②.
-talon/o:【経】【遊】【PIV】1 Tiu responda, komplementa parto de c^eko, kvitanco, atestfolio ks (kaj simile, kaj similaj), kiu restas c^e la registro, kajero, libreto ks (kaj simile, kaj similaj), post la apartigo de la transdonita parto k surhavas ordinare la samajn indikojn (stumpo 3). 2 La kartoj, kiuj estas sur la tablo post la disdono al c^iu ludanto. Vd kupono.
+talon/o⟦券ᵀ/o⟧:【経】【遊】【PIV】1 Tiu responda, komplementa parto de c^eko, kvitanco, atestfolio ks (kaj simile, kaj similaj), kiu restas c^e la registro, kajero, libreto ks (kaj simile, kaj similaj), post la apartigo de la transdonita parto k surhavas ordinare la samajn indikojn (stumpo 3). 2 La kartoj, kiuj estas sur la tablo post la disdono al c^iu ludanto. Vd kupono.
 talp/ed/oj⟦地鼠/科ᴱ/oj⟧:【動】【PIV】Fam. (Familio) (Talpidae) de insektovoruloj, al kiu apartenas miogalo k talpo.
 talveg/o:【PIV】Tiu linio, kiu kunigas la plej malaltajn punktojn de fundo de valo. Sin. (sinonimo) valfundo.
 tam/o⟦草ᵀᴹ/o⟧:【植】【PIV】G. (Genro) (Tamus el dioskoreacoj) de dioikaj volvig^antaj lianoj kun karna rizomo; 4−5 sp-oj (specioj) el Makaronezio, la Mediteranea regiono k Eu^ropo.
@@ -56324,7 +56324,7 @@ trah^it/o:【PIV】= trakito.
 Trajan/o:【PIV】Romia imperiestro (M.U. Trajanus, 53−117): la Trajana kolono (starigita en 102, post la venko de Trajano super la dakoj).
 trajn/estr/o⟦车ᵀ/长ᴱ/o⟧:【PIV】Tiu, kiu respondecas pri la bona irado de la trajno.
 trak/a⟦轨ᵀ/a⟧:【PIV】Rilata al la trako: traka disniveligo c^e vojflekso.
-trakci/o:【PIV】La movo de trajnoj au^ manovrokompletoj per lokomotivoj au^ per envagonaj motoroj: dizel trakcio, elektro trakcio, vapor trakcio.
+trakci/o⟦拉ᵀᴷ/o⟧:【PIV】La movo de trajnoj au^ manovrokompletoj per lokomotivoj au^ per envagonaj motoroj: dizel trakcio, elektro trakcio, vapor trakcio.
 trakeofit/oj:【植】【PIV】Vaskulplantoj.
 trake/oid/o⟦气管/似ᴼ/o⟧:【植】【PIV】Vaskulo, kies c^elo konservas la transversajn septojn. Sin. (sinonimo) neperfekta vaskulo.
 trake/ul/oj⟦气管/者/oj⟧:【動】【PIV】Kn (Kolektiva nomo) (Tracheata) de artropodoj, spirantaj per trakeoj k plejparte vivantaj sur tero au^ en aero: araneoidoj, miriapodoj, insektoj k.a. (kaj aliaj)
@@ -56634,7 +56634,7 @@ utaj/o:【PIV】1 Teksto de noo, k g^ia c^antado. 2 Arto de tia c^antado.
 uterit/o:【医】【PIV】Inflama afekcio de la utero.
 Utik/o:【史】【PIV】Antikva urbo apud Kartago, kie mortigis sin Katono (10°06′E, 37°03′N).
 util/e⟦益/e⟧:【PIV】En utila maniero: c^iu povas utile pripensi c^i tiun maksimon; utile uzi la horojn; estus utile, se mia letero aperus en ia organo Pariza .
-utrikl/o:【解】【PIV】Organo, aspektanta kiel eta felsako: prostata utriklo (utriculus prostaticus); la utriklo de la internorela vestiblo.
+utrikl/o⟦囊ᵁ/o⟧:【解】【PIV】Organo, aspektanta kiel eta felsako: prostata utriklo (utriculus prostaticus); la utriklo de la internorela vestiblo.
 utrikulari/o⟦草ᵁᵀ/o⟧:【植】【PIV】G. (Genro) (Utricularia el lentibulariacoj) de plurjaraj herboj akvo-, arbo-au^ grundo-log^aj, kies folioj surhavas vezikojn po pluraj, funkciantajn kiel kaptiloj por akvobestetoj, kiujn la planto digestas; kosmopolita g. (genro) de c^. (c^irkau^) 180 sp-oj (specioj). Sin. (sinonimo) vezikherbo.
 uv/o⟦葡萄/o⟧:【PIV】Vinberoj: la rug^a, la blanka uvo; rekomendi uvan kuracadon; aveluj' kun verdaj sceptretoj, kvazau^ uv-ornamitaj de nuksaj perletoj .
 uve/o⟦葡萄膜/o⟧:【解】【PIV】La vaskula membrano de la okulo, formita de la iriso, ciliara korpo k koroido. Sin. (sinonimo) vaskula tuniko de la okulbulbo.
@@ -56765,7 +56765,7 @@ Vencesla/o:【PIV】Vira nomo, i.a. (interalie, inter aliaj) de Bohemiaj sanktul
 vend/ist/in/o⟦卖/家/女/o⟧:【PIV】Tiu, kiu metie vendadas: se vendisto ne mensogas, li ac^etanton ne allogas ; tio estis vaganta vendisto ; la c^okolada vendistino. Vd komizo.
 Vende/an/o:【PIV】1 Log^anto de tiu departemento. 2 Ano de la kontrau^respublika ribelo (1793−1796), okazinta en Vendeo k c^irkau^aj regionoj.
 Vendemier/o:【史】【PIV】Unua monato de la franca respublika kalendaro (21a de. Sept.−22a de Okt.).
-vendet/o:【PIV】En tradiciaj moroj de Korsiko, veng^o pri ofendo au^ murdo, s^uldata de c^iuj familianoj de la viktimo.
+vendet/o⟦仇ⱽᴰ/o⟧:【PIV】En tradiciaj moroj de Korsiko, veng^o pri ofendo au^ murdo, s^uldata de c^iuj familianoj de la viktimo.
 Veneci/land/o:【PIV】La regiono c^irkau^ Venecio. -> dog^o.
 venen/ec/a⟦毒/性/a⟧:【PIV】Havanta la ecojn de veneno: maljuna, tre veneneca virino .
 venerologi/o:【PIV】Studo de la veneraj malsanoj, sifiliso, blenoragio, mola s^ankro, aidoso k.a. (kaj aliaj)
@@ -56854,7 +56854,7 @@ vigvam/o:【PIV】Nord-indiana tendo au^ kabano el feloj au^ matoj.
 vikar/a:【生態】【PIV】(pp (se paroli pri) specio) Havanta saman nic^on kiel tre parenca specio, sed log^anta en alia regiono.
 vikstremi/o⟦木ⱽᴷ/o⟧:【植】【PIV】G. (Genro) (Wikstroemia el timeleacoj) de c^. (c^irkau^) 50 sp-oj (specioj) de tufarbustoj k arbustetoj el SE Azio, Au^stralio k Pacifikaj insuloj; la s^elo k ligno de kelkaj sp-oj (specioj) (precipe W. sikokiana, el Japanio k Koreio) estas uzataj i.a. (interalie, inter aliaj) en la fabrikado de torinoko.
 Viktor/in/a:【PIV】Rilata al la periodo de regado de Viktorino: la Viktorina literaturo, stilo, prudeco.
-viktuali/o:【PIV】= nutroprovizoj.
+viktuali/o⟦粮ⱽ/o⟧:【PIV】= nutroprovizoj.
 vil/ig/i⟦蓬/使/i⟧:【服】【PIV】Krei vilojn per kardilo ks (kaj simile, kaj similaj).
 Vilhelm/in/o:【PIV】Virina nomo, i.a. (interalie, inter aliaj) de Nederlanda reg^ino.
 vill/o:【PIV】1 Kampara bieno en Romio. 2 = vilao.
@@ -60645,7 +60645,7 @@ teler/rak/o⟦盘/架/o⟧:【PIV】Rako, sur kiu oni lasas la lavitajn telerojn
 toast/rak/o⟦烤包/架/o⟧:【PIV】Rako, por prezenti toastojn sur tablo.
 fe/in/rakont/o⟦妖精/女/述/o⟧:【PIV】Fabelo, en kiu rolas feinoj.
 akv/o/ral/o⟦水/o/秧鸡/o⟧:【PIV】La ordinara Eu^ropa k Azia sp. de ralo (R. aquaticus).
-man/ram/o⟦手/ram/o⟧:【PIV】Pavimbatilo.
+man/ram/o⟦手/撞ᴿ/o⟧:【PIV】Pavimbatilo.
 sur/ramp/i⟦上/爬/i⟧:【PIV】(tr (transitiva)) Grimpi: sursaltis ili (la ranoj) la s^tipon au^ surrampis g^in ; li supren rampis la veturilon .
 g^is/rand/e⟦至/边/e⟧:【PIV】G^is la rando: du g^isrande plenaj tasoj da teo .
 dekstr/a/rand/ig/i⟦右/a/边/使/i⟧:【PIV】Dekstrigi.
@@ -62161,7 +62161,7 @@ Prote/o:【PIV】Helena duondio, kiu povis alpreni c^iajn formojn.
 ##重複語Protest/ant/a:【PIV】Rilata al Protestoj: Protesta preg^ejo. Vd evangelia.
 ##重複語Protest/ant/ism/o:【PIV】Tuto de la doktrinoj, eklezioj k komunumoj, kiuj starig^is ekde la 16a jc (jarcento) kontrau^ la romkatolikismo. Vd Kalvinano, Luterano; -> amis^o, anglikanismo, baptisto, menonito, metodismo, remonstranto, valdano.
 ##重複語Providenc/a:【PIV】Rilata al la Providenco: Providenca hazardo.
-ram/o:【史】【PIV】1 Trabo, fortikigita c^e unu ekstremo, k uzata de antikvuloj, por rompi muron de sieg^ata urbo. Sin. (sinonimo) murrompilo. Vd rostro. 2【技】 Mas^ino en formo de granda stampilo, uzata por enbati firme en la grundon fostojn, pavims^tonojn ks (kaj simile, kaj similaj): vapormova, aerprema, elektra ramo.
+ram/o⟦撞ᴿ/o⟧:【史】【PIV】1 Trabo, fortikigita c^e unu ekstremo, k uzata de antikvuloj, por rompi muron de sieg^ata urbo. Sin. (sinonimo) murrompilo. Vd rostro. 2【技】 Mas^ino en formo de granda stampilo, uzata por enbati firme en la grundon fostojn, pavims^tonojn ks (kaj simile, kaj similaj): vapormova, aerprema, elektra ramo.
 ##重複語Ramadan/o:【イスラム】【PIV】La nau^a monato de la islama jaro, dum kies c^iuj taghoroj la islamanoj devas strikte fasti. Vd Karesmo.
 ##重複語rau^m/ism/o:【PIV】F. Ideologia tendenco, fontinta el la Manifesto de Rau^mo (1980), kiu kritikis la celojn de la tradicia E.-movado k difinis la esperantistaron kiel «mem elektitan diasporan lingvan minoritaton».
 Regul/o:【PIV】Vira nomo.
@@ -62184,7 +62184,7 @@ Saks/o:【PIV】(fratoj). Inventintoj de la sakskornoj k saksofonoj (Sax, 19a jc
 samar/o:【植】【PIV】Seka frukto nedehiska, unukarpela, alohava, ekz. (ekzemple) de frakseno au^ ulmo.
 samari/o:【化】【PIV】1 Elemento, Sm, atomnumero 62, atommaso 150,36, lantanido: samaria di/triklorido, SmCl 2/SmCl 3; samariaj kombinaj^oj. 2 Metalo grize blanka, uzata por vitroj, sorbantaj infrarug^ajn radiojn. / 1 C^efurbo de la reg^olando Izraelo (hodiau^: Sebastje, 35°07′E, 32°17′N). 2 Regiono de Palestino inter Galileo k Judeo.
 ##重複語Sansimon/ism/o:【PIV】Doktrino de Sansimono k liaj disc^iploj, kiu celis nuligi la privatan proprieton k la ekspluatadon de homo far homo.
-sapor/o:【PIV】C^iu el la kvar c^efaj manieroj, kiel gustaj^o povas influi la diverslokajn papilojn de la lango: sala au^ dolc^a (pinte), acida (flanke), amara (malantau^e) saporo.
+sapor/o⟦味ˢ/o⟧:【PIV】C^iu el la kvar c^efaj manieroj, kiel gustaj^o povas influi la diverslokajn papilojn de la lango: sala au^ dolc^a (pinte), acida (flanke), amara (malantau^e) saporo.
 sardi/o:【PIV】= sardo 2.
 SAT/an/o:【PIV】Ano de SAT.
 Sav/o:【PIV】Rivero trafluanta Slovenion, Kroation, Serbion, k enfluanta en Danubon en Beogrado (20°26′E, 44°50′N).
