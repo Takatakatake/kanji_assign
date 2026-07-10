@@ -375,7 +375,7 @@ advokat/ec/o⟦辩ᴬ/性/o⟧:弁護士業
 advokat/i⟦辩ᴬ/i⟧:［他］弁護する;《転》代弁する,擁護する
 advokat-konsil/ant/o⟦辩ᴬ-议/在/o⟧:顧問弁護士
 advokat/o⟦辩ᴬ/o⟧:{Ｂ}弁護士,弁護人;《転》代弁者
-adz/o:手斧,ちょうな,>>hakilo,>>toporo
+adz/o⟦砍ᴬ/o⟧:手斧,ちょうな,>>hakilo,>>toporo
 aer/a⟦气/a⟧:空気の,大気の;空の,空中の,航空の;《転》空虚な,実体のない
 Aer/a Defend/korpus/o:航空自衛隊
 aer/a polu/ad/o⟦气/a 污ᴾ/行/o⟧:【環】大気汚染
@@ -33799,7 +33799,7 @@ re/pus^/ad/o⟦再/推/行/o⟧:【心】（フロイトの）抑圧
 re/pus^/a fort/o⟦再/推/a 强/o⟧:【理】斥力,反発力,><altira forto
 re/pus^/i⟦再/推/i⟧:［他］押し返す,撃退する;【心】抑圧する
 re/pus^/o⟦再/推/o⟧:【理】反跳
-reputaci/o:{Ｏ}評判,世評,>>famo,>>renomo
+reputaci/o⟦名ᴿ/o⟧:{Ｏ}評判,世評,>>famo,>>renomo
 re/ricev/i⟦再/收/i⟧:［他］再び受取る
 re/rigard/i⟦再/看/i⟧:［他］再び見る;=retrorigardi（振り返って見る）
 re/salt/i⟦再/跳/i⟧:［自］跳ね返る;とび直す
@@ -40755,7 +40755,7 @@ Tolstoj/o:【人名】トルストイ（ロシアの小説家，1828〜1910）
 tol/s^u/o⟦布/鞋/o⟧:スニーカー,ズック靴
 toluen/o:【化】トルエン
 tomahau^k/o:=>tomahoko（トマホーク）
-tomahok/o:トマホーク（戦闘用斧の一種）,>>hakileto
+tomahok/o⟦砍ᵀᴹ/o⟧:トマホーク（戦闘用斧の一種）,>>hakileto
 Tomas/o:（男子名）トーマス,トマス
 tomat/a⟦茄/a⟧:トマトの
 tomat/a sau^c/o⟦茄/a 酱/o⟧:【料】トマトソース
@@ -40808,7 +40808,7 @@ topo/grafi/a kart/o⟦地ᵀᴾ/志ᴳ/a 卡/o⟧:地形図,地勢図##偽分解
 topo/grafi/a mezur/ad/o⟦地ᵀᴾ/志ᴳ/a 测/行/o⟧:地形測量##偽分解
 topo/grafi/o⟦地ᵀᴾ/志ᴳ/o⟧:{Ｏ}地形学,地形図作製術;地形図作製;地形,地勢##偽分解
 topo/graf/o⟦地ᵀᴾ/记ᴳ/o⟧:{Ｏ}地形学者,地形図作製者##偽分解
-topor/o:大斧,まさかり,>>hakilo,>>adzo
+topor/o⟦砍ᵀ/o⟧:大斧,まさかり,>>hakilo,>>adzo
 top/vel/o⟦帆楼/帆/o⟧:【海】トップスル,中檣帆（ちゅうしょうほ）
 torak/o⟦胸ᵀ/o⟧:【解】胸郭;【虫】（昆虫の）胸部
 Tora/o:【宗】（ユダヤ教の）律法,トーラー,=Pentateu^ko

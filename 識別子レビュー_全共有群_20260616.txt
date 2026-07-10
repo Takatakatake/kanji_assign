@@ -2262,6 +2262,14 @@
   dermat         皮ᴰᵀ        F=5     pejvo   
   kortik         皮ᴷ         F=4     piv     【解】皮質
 
+【名】 6件
+  nom            名          F=80    basic   
+  fam            名ᶠ         F=21    basic   
+  substantiv     名ˢ         F=5     basic   
+  onim           名ᴼ         F=12    pejvo   
+  nominal        名ᴺᴺ        F=5     pejvo   
+  reputaci       名ᴿ         F=1     pejvo   
+
 【面】 6件
   fac            面          F=7     basic   
   surfac         面ˢ         F=17    basic   
@@ -2828,13 +2836,6 @@
   demokrati      民ᴰ         F=13    basic   
   demokrat       民ᴰᴱ        F=12    pejvo   
   pleb           民ᴾᴸ        F=2     pejvo   
-
-【名】 5件
-  nom            名          F=80    basic   
-  fam            名ᶠ         F=21    basic   
-  substantiv     名ˢ         F=5     basic   
-  onim           名ᴼ         F=12    pejvo   
-  nominal        名ᴺᴺ        F=5     pejvo   
 
 【理】 5件
   prav           理          F=12    basic   
@@ -3980,6 +3981,12 @@
   disk           盘ᴰ         F=48    basic   
   plet           盘ᴾ         F=4     basic   
   inventar       盘ᴵ         F=3     pejvo   
+
+【砍】 4件
+  hak            砍          F=28    basic   
+  adz            砍ᴬ         F=1     pejvo   
+  topor          砍ᵀ         F=1     pejvo   
+  tomahok        砍ᵀᴹ        F=1     pejvo   
 
 【签】 4件
   lot            签          F=13    basic   
