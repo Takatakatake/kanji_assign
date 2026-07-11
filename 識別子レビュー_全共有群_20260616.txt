@@ -1414,6 +1414,19 @@
   cintur         带ᶜ         F=1     piv     
   zonul          带ᶻᴸ        F=1     piv     
 
+【车】 11件
+  aŭt            车          F=61    basic   
+  trajn          车ᵀ         F=19    basic   
+  bicikl         车ᴮᶜ        F=11    basic   
+  bus            车ᴮ         F=10    basic   
+  kamion         车ᴷ         F=9     basic   
+  aŭtobus        车ᴬᴮ        F=3     basic   
+  aŭtomobil      车ᴬᴹ        F=0     basic   
+  kales^         车ᴷᴸ        F=10    pejvo   
+  torn           车ᵀᴺ        F=10    pejvo   
+  taksi          车ᵀᴷ        F=1     pejvo   
+  velociped      车ⱽ         F=1     pejvo   
+
 【鸣】 11件
   tint           鸣          F=12    basic   
   blek           鸣ᴮ         F=8     basic   
@@ -1438,18 +1451,6 @@
   disident       异ᴰˢ        F=2     pejvo   
   diferenci      异ᴰᴵ        F=1     pejvo   
   ekzotik        异ᴱᴷ        F=1     pejvo   
-
-【车】 10件
-  aŭt            车          F=61    basic   
-  trajn          车ᵀ         F=19    basic   
-  bicikl         车ᴮᶜ        F=11    basic   
-  bus            车ᴮ         F=10    basic   
-  kamion         车ᴷ         F=9     basic   
-  aŭtobus        车ᴬᴮ        F=3     basic   
-  aŭtomobil      车ᴬᴹ        F=0     basic   
-  kales^         车ᴷᴸ        F=10    pejvo   
-  torn           车ᵀᴺ        F=10    pejvo   
-  velociped      车ⱽ         F=1     pejvo   
 
 【顶】 10件
   supr           顶          F=58    basic   
@@ -2092,6 +2093,14 @@
   amarilid       花ᴬ         F=1     pejvo   
   balzamin       花ᴮ         F=1     pejvo   
   enoter         花ᴱ         F=1     pejvo   
+
+【械】 6件
+  mekanik        械          F=18    basic   
+  meĥanik        械ᴹᴴ̂       F=1     basic   
+  mekanism       械ᴹᴱ        F=0     basic   
+  meĥanism       械ᴹˢ        F=0     basic   
+  meh^an         械ᴹᴺ        F=6     pejvo   
+  mekan          械ᴹᴷ        F=1     pejvo   
 
 【外】 6件
   krom           外          F=41    prep    
@@ -3198,12 +3207,6 @@
   mirakl         奇ᴹ         F=5     basic   
   bizar          奇ᴮ         F=1     pejvo   
 
-【机】 4件
-  maŝin          机          F=88    basic   
-  ŝanc           机ˢ̂        F=8     basic   
-  meĥanism       机ᴹᴴ̂       F=0     basic   
-  meh^an         机ᴹᴱ        F=6     pejvo   
-
 【妓】 4件
   prostitu       妓          F=9     pejvo   
   putin          妓ᴾᵀ        F=2     pejvo   
@@ -4290,11 +4293,6 @@
   korekt         改          F=22    basic   
   modif          改ᴹ         F=7     basic   
   amend          改ᴬ         F=2     pejvo   
-
-【械】 3件
-  mekanik        械          F=18    basic   
-  meĥanik        械ᴹᴴ̂       F=1     basic   
-  mekanism       械ᴹˢ        F=0     basic   
 
 【灰】 3件
   griz           灰          F=21    basic   
@@ -5940,6 +5938,10 @@
   visk           寄          F=3     pejvo   
   konsign        寄ᴷ         F=2     piv     委託販売に送る
 
+【机】 2件
+  maŝin          机          F=88    basic   
+  ŝanc           机ˢ̂        F=8     basic   
+
 【祈】 2件
   preĝ           祈          F=18    basic   
   litani         祈ᴸ         F=1     pejvo   
@@ -7063,6 +7065,10 @@
 【用】 2件
   uz             用          F=54    basic   
   aplik          用ᴬ         F=10    basic   
+
+【羊齿】 2件
+  filik          羊齿         F=9     pejvo   
+  pterid         羊齿ᴾ        F=1     pejvo   
 
 【欲】 2件
   dezir          欲          F=16    basic   
