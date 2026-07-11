@@ -1,6 +1,6 @@
 ﻿# 識別子レビュー(GAS/§5位置・§3厳密・§6a別文字・特殊字修正・base上書き版): 全共有群・全メンバー・語義付き
 
-【草】 457件
+【草】 459件
   herb           草          F=67    basic   
   pajl           草ᴾ         F=18    basic   
   skiz           草ˢ         F=6     basic   
@@ -414,6 +414,7 @@
   salsol         草ˢˢ        F=1     piv     
   sature         草ˢᵀ        F=1     piv     
   stapeli        草ˢᵀᴬ       F=1     piv     
+  stakis         草ˢᵀᴬᴷ      F=1     piv     
   stelari        草ˢᵀᴱ       F=1     piv     
   stramoni       草ˢᵀᴿ       F=1     piv     
   stratiot       草ˢᵀᴿᴬ      F=1     piv     
@@ -458,6 +459,7 @@
   voandze        草ⱽᶻ        F=1     piv     
   ze             草ᶻ         F=1     piv     
   zigofil        草ᶻᴳ        F=1     piv     
+  zoster         草ᶻˢ        F=1     piv     
 
 【木】 235件
   lign           木          F=51    basic   
@@ -1231,6 +1233,37 @@
   venad          兽ⱽᴺ        F=1     piv     
   zibet          兽ᶻᴮ        F=1     piv     
 
+【鼠】 29件
+  mus            鼠          F=15    basic   
+  rat            鼠ᴿ         F=6     basic   
+  mustel         鼠ᴹˢ        F=6     pejvo   
+  ermen          鼠ᴱ         F=3     pejvo   
+  mefit          鼠ᴹᶠ        F=2     pejvo   
+  mel            鼠ᴹᴸ        F=2     pejvo   
+  putor          鼠ᴾ         F=2     pejvo   
+  vizon          鼠ⱽ         F=2     pejvo   
+  zibel          鼠ᶻ         F=2     pejvo   
+  didelf         鼠ᴰ         F=1     pejvo   
+  oposum         鼠ᴼᴾ        F=1     pejvo   
+  sorik          鼠ˢ         F=1     pejvo   
+  aguti          鼠ᴬ         F=1     piv     
+  arvikol        鼠ᴬᴿ        F=1     piv     
+  c^inc^il       鼠ᶜ̂        F=1     piv     
+  dolih^ot       鼠ᴰᴴ̂       F=1     piv     
+  dolikot        鼠ᴰᴸ        F=1     piv     
+  fiber          鼠ᶠ         F=1     piv     
+  hidroker       鼠ᴴ         F=1     piv     
+  hidroh^er      鼠ᴴᴴ̂       F=1     piv     
+  kavi           鼠ᴷ         F=1     piv     
+  lagostom       鼠ᴸ         F=1     piv     
+  leming         鼠ᴸᴹ        F=1     piv     
+  mikrot         鼠ᴹᴷ        F=1     piv     
+  muskarden      鼠ᴹᴿ        F=1     piv     
+  miokastor      鼠ᴹᵀ        F=1     piv     
+  ondatr         鼠ᴼ         F=1     piv     
+  skunk          鼠ˢᴷ        F=1     piv     
+  tuku           鼠ᵀ         F=1     piv     
+
 【猴】 29件
   ceb            猴          F=1     piv     
   resus          猴ᴿ         F=2     piv     【動】アカゲザル
@@ -1261,36 +1294,6 @@
   simfalang      猴ˢᴹ        F=1     piv     
   titi           猴ᵀ         F=1     piv     
   tarsi          猴ᵀᴿ        F=1     piv     
-
-【鼠】 28件
-  mus            鼠          F=15    basic   
-  rat            鼠ᴿ         F=6     basic   
-  mustel         鼠ᴹˢ        F=6     pejvo   
-  ermen          鼠ᴱ         F=3     pejvo   
-  mefit          鼠ᴹᶠ        F=2     pejvo   
-  mel            鼠ᴹᴸ        F=2     pejvo   
-  putor          鼠ᴾ         F=2     pejvo   
-  vizon          鼠ⱽ         F=2     pejvo   
-  zibel          鼠ᶻ         F=2     pejvo   
-  didelf         鼠ᴰ         F=1     pejvo   
-  oposum         鼠ᴼᴾ        F=1     pejvo   
-  sorik          鼠ˢ         F=1     pejvo   
-  aguti          鼠ᴬ         F=1     piv     
-  arvikol        鼠ᴬᴿ        F=1     piv     
-  c^inc^il       鼠ᶜ̂        F=1     piv     
-  dolih^ot       鼠ᴰᴴ̂       F=1     piv     
-  dolikot        鼠ᴰᴸ        F=1     piv     
-  fiber          鼠ᶠ         F=1     piv     
-  hidroker       鼠ᴴ         F=1     piv     
-  hidroh^er      鼠ᴴᴴ̂       F=1     piv     
-  kavi           鼠ᴷ         F=1     piv     
-  lagostom       鼠ᴸ         F=1     piv     
-  mikrot         鼠ᴹᴷ        F=1     piv     
-  muskarden      鼠ᴹᴿ        F=1     piv     
-  miokastor      鼠ᴹᵀ        F=1     piv     
-  ondatr         鼠ᴼ         F=1     piv     
-  skunk          鼠ˢᴷ        F=1     piv     
-  tuku           鼠ᵀ         F=1     piv     
 
 【果】 20件
   frukt          果          F=65    basic   
@@ -2508,14 +2511,6 @@
   modern         现ᴹ         F=10    basic   
   kontant        现ᴷ         F=8     basic   
 
-【纹】 6件
-  tatu           纹          F=5     pejvo   
-  frang^         纹ᶠᴺ        F=8     pejvo   
-  jasp           纹ᴶ         F=4     pejvo   
-  fret           纹ᶠ         F=3     pejvo   
-  arabesk        纹ᴬ         F=1     pejvo   
-  jaspis         纹ᴶˢ        F=1     pejvo   
-
 【结】 6件
   lig            结          F=49    basic   
   nod            结ᴺ         F=18    basic   
@@ -3396,6 +3391,12 @@
   hiperbol       曲ᴴ         F=3     pejvo   
   romanc         曲ᴿ         F=2     pejvo   
 
+【玉】 4件
+  gem            玉          F=2     pejvo   
+  jasp           玉ᴶˢ        F=4     pejvo   
+  jad            玉ᴶ         F=2     pejvo   
+  jaspis         玉ᴶᴾ        F=1     pejvo   
+
 【具】 4件
   il             具          F=1276  suf     
   mebl           具ᴹ         F=16    basic   
@@ -4223,6 +4224,12 @@
   konvenci       约ᴷⱽ        F=8     basic   
   rendevu        约ᴿ         F=3     basic   
   pakt           约ᴾ         F=1     pejvo   
+
+【纹】 4件
+  tatu           纹          F=5     pejvo   
+  frang^         纹ᶠᴺ        F=8     pejvo   
+  fret           纹ᶠ         F=3     pejvo   
+  arabesk        纹ᴬ         F=1     pejvo   
 
 【线】 4件
   lini           线          F=85    basic   
@@ -5141,6 +5148,11 @@
   sabr           刀          F=5     pejvo   
   cimitar        刀ᶜ         F=1     piv     
   jatagan        刀ᴶ         F=1     piv     
+
+【痘】 3件
+  akn            痘          F=2     basic   
+  variol         痘ⱽ         F=7     pejvo   
+  kaŭpoks        痘ᴷ         F=1     pejvo   
 
 【等】 3件
   egal           等          F=47    basic   
@@ -6210,10 +6222,6 @@
   timid          怯          F=2     pejvo   
   poltron        怯ᴾ         F=2     pejvo   
 
-【玉】 2件
-  gem            玉          F=2     pejvo   
-  jad            玉ᴶ         F=2     pejvo   
-
 【勤】 2件
   diligent       勤          F=10    basic   
   asidu          勤ᴬ         F=2     piv     勤勉な・皆勤の
@@ -6989,10 +6997,6 @@
 【当】 2件
   deĵor          当          F=13    basic   
   lombard        当ᴸ         F=9     pejvo   
-
-【痘】 2件
-  akn            痘          F=2     basic   
-  variol         痘ⱽ         F=7     pejvo   
 
 【等分】 2件
   mitoz          等分         F=2     piv     【生】有糸分裂

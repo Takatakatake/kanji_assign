@@ -16243,8 +16243,8 @@ jar/s^ang^/a fest/o⟦年/变/a 庆/o⟧:年越しの祝い
 jar/s^ang^/a nokt/o⟦年/变/a 夜/o⟧:大晦日の夜
 jar/tri/on/o⟦年/三/分/o⟧:三分の一年（四カ月）
 jasmen/o:{Ｏ}【植】ジャスミン,ソケイ（属）
-jasp/i⟦纹ᴶ/i⟧:［他］（碧玉に似せた）縞模様をつける
-jasp/o⟦纹ᴶ/o⟧:【鉱】ジャスパー,碧玉（へきぎょく）
+jasp/i⟦玉ᴶˢ/i⟧:［他］（碧玉に似せた）縞模様をつける
+jasp/o⟦玉ᴶˢ/o⟧:【鉱】ジャスパー,碧玉（へきぎょく）
 Jaunde/o:【地名】ヤウンデ（カメルーンの首都）
 Jaund/o:【地名】=Jaundeo（ヤウンデ）
 Jave/o:【宗】ヤハウェ（ユダヤ教の創造神）;【聖】主（しゅ）（神の呼称）
@@ -44089,7 +44089,7 @@ zorg/o/plen/a⟦护/o/满/a⟧:（注意・世話の）行き届いた;心配の
 zori/o:【服】ぞうり（草履）
 zoroastr/ism/o⟦zoroastr/主义/o⟧:【宗】ゾロアスター教
 Zoroastr/o:【人名】ゾロアスター（古代ペルシアの宗教家）
-zoster/o:【植】アマモ（甘藻）（属）;【病】=zona herpeto（帯状疱疹）
+zoster/o⟦草ᶻˢ/o⟧:【植】アマモ（甘藻）（属）;【病】=zona herpeto（帯状疱疹）
 zuav/o:{Ｏ}【軍】ズアーヴ兵（フランス植民地支配下でのアルジェリア歩兵）
 zulu/a:ズールー人の;（la 〜）ズールー語の
 zulu/a lingv/o⟦zulu/a 语/o⟧:（la 〜）ズールー語
@@ -49634,8 +49634,8 @@ jansen/ist/o⟦jansen/家/o⟧:【PIV】Ano de jansenismo.
 japan/ig/i⟦japan/使/i⟧:【PIV】Trudi la japanan lingvon au^ civilizacion al fremda gento.
 jar/ar/o⟦年/群/o⟧:【PIV】Serio da jaroj. Vd ag^o, epoko, erao, periodo.
 jaroviz/i⟦春化ᴶ/i⟧:【PIV】= vernalizi.
-jasp/ec/a⟦纹ᴶ/性/a⟧:【PIV】Simila al la kolordiverseco de jaspo: jaspeca marmoro, tulipo.
-jaspis/o⟦纹ᴶˢ/o⟧:【PIV】(ark. (arkaismo, arkaisme)) = jaspo: multekostaj s^tonoj, rubeno, topazo, jaspiso .
+jasp/ec/a⟦玉ᴶˢ/性/a⟧:【PIV】Simila al la kolordiverseco de jaspo: jaspeca marmoro, tulipo.
+jaspis/o⟦玉ᴶᴾ/o⟧:【PIV】(ark. (arkaismo, arkaisme)) = jaspo: multekostaj s^tonoj, rubeno, topazo, jaspiso .
 jas^ir/o:【宗】【PIV】S^intoa templo.
 jatagan/o⟦刀ᴶ/o⟧:【PIV】Sabro sen mans^irmilo kun klingo dukurba, uzata precipe de janic^aroj.
 Javan/o:【聖】【PIV】Hebrea nomo de Helenio.
@@ -50202,7 +50202,7 @@ Kau^kazi/o:【PIV】Regiono c^iuflanke de Kau^kazo.
 Cis-Kau^kazi/o:【PIV】N parto de Kau^kazio.
 Trans-Kau^kazi/o:【PIV】S parto de Kau^kazio.
 kau^lerp/o⟦藻ᴷᵁ̆/o⟧:【植】【PIV】G. (Genro) (Caulerpa el kau^lerpacoj) de maraj verdalgoj sifonaj; precipe tropika k subtropika g. (genro) de 70 sp-oj (specioj)
-kau^poks/o:【PIV】= bova pokso.
+kau^poks/o⟦痘ᴷ/o⟧:【PIV】= bova pokso.
 kau^ri/o⟦木ᴷᵁ̆/o⟧:【植】【PIV】1 Sp. (Specio) de agatido (Agathis australis) el Nov-Zelando, kultivata por ornamo, ligno k kau^ria kopalo. Sin. (sinonimo) au^strala agatido. Vd agatido, damaro, kopalo. 2【動】 Moncipreo.
 kau^salgi/o:【医】【PIV】Brulsentado kun trosentemo au^ hiperestezo de la hau^to, kiu rug^ig^as k s^vitas: kau^salgion g^enerale estigas nerva vundo. Sin. (sinonimo) termoalgio.
 kau^stik/o⟦蚀ᴷᵁ̆/o⟧:【理】【PIV】Surfaco, kiu entenas lumradiojn refraktitajn au^ reflektitajn.
@@ -51346,7 +51346,7 @@ leksikografi/o:【PIV】Scienco pri la farado de vortaroj.
 leksikon/a⟦词典/a⟧:【PIV】Rilata al leksikono, precipe 1: leksikonaj malfacilaj^oj, mankoj.
 lekt/o:【PIV】Speco de sofo, sur kiu la antikvuloj duonkus^is c^e mang^ado.
 lektin/o:【化】【PIV】(kn (kolektiva nomo)) Proteino, precipe vegetaj^a, simila al antikorpo, kiu ligas sin al diversaj sukeroj c^e la surfaco de c^eloj k kau^zas ilian aglutinadon au^ detruadon: lektinoj estas tre ofte toksaj; ricinlektino.
-leming/o:【PIV】= lemo ③.
+leming/o⟦鼠ᴸᴹ/o⟧:【PIV】= lemo ③.
 lemn/o⟦草ᴸ/o⟧:【植】【PIV】G. (Genro) (Lemna el lemnacoj) de tre malgrandaj flosantaj plantoj, kies foliojn k tigojn anstatau^as folisimila organo, kiu malsupraflanke portas radikojn k c^erande unuseksajn florojn; la planto reproduktig^as precipe per proliferado, k iuj sp-oj (specioj) kreskantaj socie povas kovri lagetojn kiel densa verdaj^o; kosmopolita g. (genro) de 7 sp-oj (specioj).
 lemnisk/o:【解】【PIV】Suprenira nerva traktuso en la cerba trunko, formita de du faskoj: la latera lemnisko (Lemniscus lateralis) k la meza lemnisko. (L. medialis).
 lemniskat/o:【数】【PIV】Kurbo konsistanta el c^iuj punktoj, tiaj ke la produto de la distancoj al du fiksaj punktoj egalas al kvarono de la kvadrato de la distancoj inter la du punktoj.
@@ -55345,7 +55345,7 @@ stah^anov/ism/o⟦stah^anov/主义/o⟧:【史】【PIV】En la Stalina Sovetio,
 stakat/e:【楽】【PIV】En maniero, en kiu la tonoj estas abrupte disigataj unu de la alia.
 staki/o⟦水苏/o⟧:【植】【PIV】G. (Genro) (Stachys el lamiacoj) de plantoj - unu-k plur-jaraj herboj, arbustetoj k arbustoj - kun kontrau^e duopaj folioj k kun rug^aj, flavaj au^ blankaj, dulipaj floroj g^enerale en apeksaj spikoj el s^ajnverticiloj; c^. (c^irkau^) 300 sp-oj (specioj) el la mezvarmaj k varmaj regionoj, kelkaj kultivataj por ornamo au^ legomo.
 staki/oz/o⟦水苏/糖ᴼ/o⟧:【化】【PIV】Sukero, tetrasakarido trovig^anta en plantoj, precipe el la fam. (familio) lamiacoj, sed ankau^ en la semoj de fabacoj.
-stakis/o:【PIV】= stakio.
+stakis/o⟦草ˢᵀᴬᴷ/o⟧:【PIV】= stakio.
 stal/i⟦马棚/i⟧:【PIV】(ntr (netransitiva)) Resti en stalo (precipe dum vintro).
 stalon/o:【PIV】Virc^evalo.
 stamen/ar/o⟦雄蕊/群/o⟧:【PIV】Androceo.
@@ -60099,7 +60099,7 @@ mikroond/o:【理】【PIV】Elektromagneta ondo kun ondlongo inter 1 m k 1 mm (
 port/ond/o⟦运/波/o⟧:【PIV】Altfrekvenca ondo 5, modulita per telegrafaj signaloj au^ telefoniaj kurentoj.
 s^ok/ond/o⟦震/波/o⟧:【理】【PIV】Ondo, kau^zata de objekto movig^anta pli rapide ol ondoj en la c^irkau^a medio. Vd mah^o.
 oksi/oni/o⟦氧/oni/o⟧:【PIV】Kvarvalenta oksigeno, -O ^+ ≺, trovig^anta en kelkaj kombinaj^oj.
-jasp/oniks/o⟦纹ᴶ/玛瑙/o⟧:【PIV】La plej pura kornokolora onikso, kun belaj verdaj strioj.
+jasp/oniks/o⟦玉ᴶˢ/玛瑙/o⟧:【PIV】La plej pura kornokolora onikso, kun belaj verdaj strioj.
 sard/oniks/o⟦sard/玛瑙/o⟧:【地質】【PIV】Var. (Vari(aj^)o) de kalcedono lau^strukture simila al onikso, sed kun rug^ete brunaj paralelaj strioj de sardo, alternantaj kun alikoloraj strioj de alia mineralo. Vd agato, karneolo.
 kovr/operac/o⟦盖/作战/o⟧:【PIV】Aera protektado de regiono per c^asaviadilaj patroloj por malebligi entrudig^on de malamikaj aviadiloj.
 sistem/operator/o⟦系/算子/o⟧:【PIV】(pp (se paroli pri) paketradio) Respondeculo de la mesag^kesto; mll (mallongigo): sisopo.

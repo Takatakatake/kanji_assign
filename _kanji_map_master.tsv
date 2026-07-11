@@ -4090,7 +4090,7 @@ pejvo	fik	操
 pejvo	aristokrat	贵
 pejvo	staj	索
 pejvo	gilos^	编纹
-pejvo	jasp	纹
+pejvo	jasp	玉
 pejvo	radius	半径
 pejvo	dodeka	十二
 pejvo	s^unt	分流
@@ -8210,7 +8210,7 @@ piv	fiber	鼠
 piv	helode	草
 pejvo	hematit	矿
 basic	hiziki	藻
-pejvo	jaspis	纹
+pejvo	jaspis	玉
 basic	kanacikad	蝉
 pejvo	karbamid	尿素
 basic	konfidenci	秘
@@ -8233,3 +8233,7 @@ pejvo	serpil	百里香
 basic	skizofit	菌
 piv	spekulari	草
 piv	tropidonot	蛇
+piv	zoster	草
+piv	stakis	草
+pejvo	kaŭpoks	痘
+piv	leming	鼠
