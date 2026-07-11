@@ -682,7 +682,7 @@
   vikstremi      木ⱽᴷ        F=1     piv     
   zelkov         木ᶻ         F=1     piv     
 
-【鸟】 111件
+【鸟】 113件
   bird           鸟          F=63    basic   
   cikoni         鸟ᶜ         F=3     basic   
   arde           鸟ᴬ         F=4     pejvo   
@@ -693,7 +693,9 @@
   pelikan        鸟ᴾᴸ        F=3     pejvo   
   kivi           鸟ᴷ         F=2     pejvo   
   perdrik        鸟ᴾᴰ        F=2     pejvo   
+  frankolin      鸟ᶠᴷ        F=1     pejvo   
   galbul         鸟ᴳ         F=1     pejvo   
+  kolibr         鸟ᴷᴮ        F=1     pejvo   
   oriol          鸟ᴼᴸ        F=1     pejvo   
   paru           鸟ᴾ         F=1     pejvo   
   sturn          鸟ˢᵀ        F=1     pejvo   

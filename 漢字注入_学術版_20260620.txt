@@ -12005,7 +12005,7 @@ Frankfurt/o:【地名】フランクフルト（ドイツ）
 Frank/i/o:【史】フランク王国
 frank/o:{Ｏ}【貨】フラン（フランス・スイスなど）,=100 centimoj
 frank/oj:【史】フランク族（ゲルマン人の一派）
-frankolin/o:【鳥】シャコ（属）,>>perdriko
+frankolin/o⟦鸟ᶠᴷ/o⟧:【鳥】シャコ（属）,>>perdriko
 Frankoni/o:【地名】フランケン地方（ドイツ）
 frap/ad/o⟦敲/行/o⟧:たたき続けること
 frap/a fuze/o⟦敲/a 引信/o⟧:【軍】着発信管,撃発信管,=perkuta fuzeo
@@ -18354,7 +18354,7 @@ koler/o⟦怒/o⟧:怒り,癇癪（かんしゃく）
 kolesterol/o⟦胆醇/o⟧:【化】コレステロール
 kol/har/oj⟦颈/毛/oj⟧:（ライオン・ウマなどの）たてがみ
 kolh^oz/o⟦农社/o⟧:【史】コルホーズ（旧ソ連の集団農場）
-kolibr/o:{Ｏ}【鳥】ハチドリ,=mus^birdo
+kolibr/o⟦鸟ᴷᴮ/o⟧:{Ｏ}【鳥】ハチドリ,=mus^birdo
 kolier/o⟦项链/o⟧:ネックレス,=kolc^eno
 kolik/o⟦绞痛/o⟧:{Ｏ}【病】疝痛（せんつう）,差し込み;腹痛
 kolimat/i⟦准直/i⟧:［他］【理】視準する
