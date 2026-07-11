@@ -21989,7 +21989,7 @@ liber/a merkat/o⟦自由/a 市ᴹ/o⟧:【経】自由市場
 liber/a program/ar/o⟦自由/a 程/群/o⟧:【情】フリーソフトウェア
 liber/a seg^/o⟦自由/a 椅/o⟧:空席
 liber/a s^ot/o⟦自由/a 射ˢ̂/o⟧:【運】フリーキック
-liber/a taksi/o⟦自由/a taksi/o⟧:（タクシーの）空車
+liber/a taksi/o⟦自由/a 车ᵀᴷ/o⟧:（タクシーの）空車
 liber/a traduk/o⟦自由/a 译/o⟧:意訳
 liber/a vers/o⟦自由/a 句ⱽ/o⟧:【文】自由詩句
 liber/brigad/o⟦自由/旅ᴮ/o⟧:義勇軍,>>partizano
@@ -24810,7 +24810,7 @@ meger/o⟦悍妇/o⟧:性悪女,意地悪女
 Meger/o:【神】メガイラ（ギリシア神話の復讐の女神たちの一人）
 megom/o⟦兆ᴹ/o⟧:【電】=megaomo（メガオーム）
 meh^anik/o⟦械ᴹᴴ̂/o⟧:{Ｂ}=mekaniko（力学）
-meh^an/ism/o⟦机ᴹᴱ/主义/o⟧:{Ｂ}=mekanismo（メカニズム）##偽分解
+meh^an/ism/o⟦械ᴹᴺ/主义/o⟧:{Ｂ}=mekanismo（メカニズム）##偽分解
 Meh^lin/o:【地名】メケレン（ベルギー）
 MEJK:【Ｅ】［略］=Mez-Eu^ropa Junulara Konferenco
 mejl/o⟦里/o⟧:{Ｏ}【単】マイル（英=1609m、仏=7422m、独=7500m）;かなりの距離
@@ -24823,7 +24823,7 @@ mekanik/aj^/o⟦械/物/o⟧:=mekanismo（機械装置）
 mekanik/ism/o⟦械/主义/o⟧:【哲】機械論
 mekanik/ist/o⟦械/家/o⟧:力学者,機械学者;機械技師;【哲】機械論者
 mekanik/o⟦械/o⟧:{Ｂ}力学,機械学,>>dinamiko,>>statiko;=mekanismo（機械装置）
-mekan/ism/o⟦mekan/主义/o⟧:{Ｂ}機械装置,仕掛け,メカニズム;機構,構造,仕組み;【芸】技巧,テクニック##偽分解##強語根分解
+mekan/ism/o⟦械ᴹᴷ/主义/o⟧:{Ｂ}機械装置,仕掛け,メカニズム;機構,構造,仕組み;【芸】技巧,テクニック##偽分解##強語根分解
 mek/i⟦鸣ᴹ/i⟧:［自］（ヤギなどが）メーと鳴く,>>bleki
 Mekk/o:【地名】メッカ（サウジアラビア）
 Meklenburgi/o:【地名】メクレンブルク地方（ドイツ北東部の旧地方名）
@@ -32590,7 +32590,7 @@ psik/o/terapi/o⟦心ᴾˢ/o/疗/o⟧:【医】精神療法
 psik/oz/o⟦心ᴾˢ/症ᴼ/o⟧:【病】精神病,精神障害##偽分解(PIV正式分解)
 psikr/o/metr/o⟦psikr/o/计ᴹ/o⟧:【理】乾湿計##偽分解##強語根分解
 pteridi/o:《Ｎ》【植】ワラビ（蕨）（属，_Pteridium_）,=aglofiliko
-pterid/o:【植】イノモトソウ（井之許草）（属）
+pterid/o⟦羊齿ᴾ/o⟧:【植】イノモトソウ（井之許草）（属）
 ptm.:［略］=posttagmeze,午後
 Ptoleme/o:【人名】プトレマイオス（２世紀頃アレクサンドリアで活躍した科学者）
 ptomain/o:【化】プトマイン,死毒
@@ -39823,9 +39823,9 @@ Taklamakan/o:【地名】タクラマカン砂漠（中央アジア）
 taks/ad/o⟦评/行/o⟧:評価,鑑定,査定
 taks/ar/o⟦评/群/o⟧:時価相場表;税額表
 taks/i⟦评/i⟧:{Ｂ}［他］評価する,鑑定する,見積もる,査定する;《古》=alte taksi（高く評価する）
-taksi/ist/o⟦taksi/家/o⟧:タクシー運転手
-taksi/metr/o⟦taksi/计ᴹ/o⟧:タクシーメーター,料金自動表示器##偽分解
-taksi/o:{Ｏ}タクシー
+taksi/ist/o⟦车ᵀᴷ/家/o⟧:タクシー運転手
+taksi/metr/o⟦车ᵀᴷ/计ᴹ/o⟧:タクシーメーター,料金自動表示器##偽分解
+taksi/o⟦车ᵀᴷ/o⟧:{Ｏ}タクシー
 taks/ist/o⟦评/家/o⟧:鑑定人,査定人
 taks/o⟦评/o⟧:評価額,査定額;公定料金,公共料金
 taksus/o:{Ｏ}【植】イチイ（一位）（属）
@@ -51832,11 +51832,11 @@ meger/i⟦悍妇/i⟧:【PIV】Konduti kiel megero: post c^iu fama viro staras v
 megom/metr/o⟦兆ᴹ/计ᴹ/o⟧:【PIV】Aparato por mezuri tre altajn rezistancojn. Vd izolmetro.##偽分解
 mehar/o⟦赛驼/o⟧:【PIV】Kurdromedaro.
 mehar/ist/o⟦赛驼/家/o⟧:【PIV】Soldato, kuriero, rajdanta meharon.
-meh^an/ist/o⟦机ᴹᴱ/家/o⟧:【PIV】Mekanikisto.##偽分解
-meh^an/iz/i⟦机ᴹᴱ/化/i⟧:【PIV】(tr (transitiva)) Anstatau^igi malnovajn laborfortojn per mas^inoj: meh^anizi armeon. agrikulturon. Vd motorizi.##偽分解
-meh^an/o/graf/o⟦机ᴹᴱ/o/记ᴳ/o⟧:【PIV】Oficisto, kiu aplikas meh^anografion.##偽分解
-meh^an/o/grafi/o⟦机ᴹᴱ/o/志ᴳ/o⟧:【PIV】Tekniko, per kiu oni registras la informojn oficejajn, literajn au^ ciferajn, per traborado de slipoj au^ paperrubandoj.##偽分解
-meh^an/o/terapi/o⟦机ᴹᴱ/o/疗/o⟧:【医】【PIV】Mekanikoterapio.##偽分解
+meh^an/ist/o⟦械ᴹᴺ/家/o⟧:【PIV】Mekanikisto.##偽分解
+meh^an/iz/i⟦械ᴹᴺ/化/i⟧:【PIV】(tr (transitiva)) Anstatau^igi malnovajn laborfortojn per mas^inoj: meh^anizi armeon. agrikulturon. Vd motorizi.##偽分解
+meh^an/o/graf/o⟦械ᴹᴺ/o/记ᴳ/o⟧:【PIV】Oficisto, kiu aplikas meh^anografion.##偽分解
+meh^an/o/grafi/o⟦械ᴹᴺ/o/志ᴳ/o⟧:【PIV】Tekniko, per kiu oni registras la informojn oficejajn, literajn au^ ciferajn, per traborado de slipoj au^ paperrubandoj.##偽分解
+meh^an/o/terapi/o⟦械ᴹᴺ/o/疗/o⟧:【医】【PIV】Mekanikoterapio.##偽分解
 Meh^len/o:【PIV】Urbo en Flandrio, fama pro sia punto (4°29′E, 51°01′N).
 Mejbom/o:【PIV】Germana medicinisto (Meibomius, 1638−1700).
 mejbomit/o:【医】【PIV】Inflamo de mejboma(j) glando(j).
@@ -54000,7 +54000,7 @@ pteranodont/o⟦龙ᴾᵀ/o⟧:【動】【PIV】G. (Genro) (Pteranodon) de gran
 pteraspid/o⟦翼甲/o⟧:【動】【PIV】G. (Genro) (Pteraspis) de fosiliaj senmakzeluloj el la ordo de pteraspidformaj.
 pteraspid/o/form/aj⟦翼甲/o/形/aj⟧:【動】【PIV】Ordo (Pteraspidiformes), fosiliaj antau^uloj de la miksinoj.
 pteraspid/morf/oj⟦翼甲/形ᴹ/oj⟧:【動】【PIV】Klaso (Pteraspidomorphi) de senmakzeluloj, al kiu apartenas la miksinoj.##偽分解(PIV正式分解)
-pterid/o/fit/oj⟦pterid/o/植ᶠ/oj⟧:【植】【PIV】Filumo (Pteridophyta) de plantoj sen floroj k sen semoj sed kun tipaj vaskuloj (vaskulaj kriptogamoj); du generacioj: malgranda gametofito talforma (Vd protalo) k granda, vaskulohava sporofito, kies folioj (tigoj c^e psiloto), portas la sporujojn; 9 800 sp-oj (specioj) el 232 g-oj (genroj). Vd ekvizeto, filiko, likopodio, selaginelo.##偽分解(PIV正式分解)
+pterid/o/fit/oj⟦羊齿ᴾ/o/植ᶠ/oj⟧:【植】【PIV】Filumo (Pteridophyta) de plantoj sen floroj k sen semoj sed kun tipaj vaskuloj (vaskulaj kriptogamoj); du generacioj: malgranda gametofito talforma (Vd protalo) k granda, vaskulohava sporofito, kies folioj (tigoj c^e psiloto), portas la sporujojn; 9 800 sp-oj (specioj) el 232 g-oj (genroj). Vd ekvizeto, filiko, likopodio, selaginelo.##偽分解(PIV正式分解)
 pterig/o⟦翅ᴾᴳ/o⟧:【動】【PIV】Permuskole movata flugilo de animalo.
 pterig/ul/oj⟦翅ᴾᴳ/者/oj⟧:【動】【PIV】Subklaso (Pterygota) de insektoj, havantaj funkciantajn au^ sekundare reduktig^intajn pterigojn.
 pter/o/brank/oj⟦翅/o/brank/oj⟧:【動】【PIV】Klaso (Pterobranchia) de hemih^orduloj, similantaj al briozooj, sed kun triparta korpo k kun tentakloj k kun dorsa h^ordo limig^inta je la antau^bus^a regiono.##偽分解##エス的分解
@@ -61058,7 +61058,7 @@ fin/spurt/o⟦终/冲ˢ/o⟧:【PIV】Finis^o.
 desegn/o/stabl/o⟦绘/o/架ˢ/o⟧:【PIV】Speciala tablo de teknika desegnisto.
 rang^/ad/staci/o⟦调车/行/站/o⟧:【PIV】Stacio au^ staciparto en fervojnodo por rang^i vagonojn de disigataj al formataj trajnoj.
 ricev/o/staci/o⟦收/o/站/o⟧:【PIV】Loko, kie oni ricevas radioelsendojn.
-taksi/staci/o⟦taksi/站/o⟧:【PIV】Loko, kie taksioj atendas klientojn.
+taksi/staci/o⟦车ᵀᴷ/站/o⟧:【PIV】Loko, kie taksioj atendas klientojn.
 fru/a/stadi/a⟦早/a/阶ˢ/a⟧:【医】【PIV】Okazanta en la komenco de la evoluo de malsano.
 en/stal/ig/i⟦内/马棚/使/i⟧:【PIV】Meti en stalon.
 antau^/stamp/it/a⟦前/印ˢ/受/a⟧:【PIV】(pp (se paroli pri) pos^tmarko) Portanta nuligstampon antau^ ol vendig^i, por faciligi la traktadon de presaj^oj k similaj grandkvantaj sendaj^oj.

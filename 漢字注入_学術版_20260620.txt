@@ -21989,7 +21989,7 @@ liber/a merkat/o⟦自由/a 市ᴹ/o⟧:【経】自由市場
 liber/a program/ar/o⟦自由/a 程/群/o⟧:【情】フリーソフトウェア
 liber/a seg^/o⟦自由/a 椅/o⟧:空席
 liber/a s^ot/o⟦自由/a 射ˢ̂/o⟧:【運】フリーキック
-liber/a taksi/o⟦自由/a taksi/o⟧:（タクシーの）空車
+liber/a taksi/o⟦自由/a 车ᵀᴷ/o⟧:（タクシーの）空車
 liber/a traduk/o⟦自由/a 译/o⟧:意訳
 liber/a vers/o⟦自由/a 句ⱽ/o⟧:【文】自由詩句
 liber/brigad/o⟦自由/旅ᴮ/o⟧:義勇軍,>>partizano
@@ -24810,7 +24810,7 @@ meger/o⟦悍妇/o⟧:性悪女,意地悪女
 Meger/o:【神】メガイラ（ギリシア神話の復讐の女神たちの一人）
 megom/o⟦兆ᴹ/o⟧:【電】=megaomo（メガオーム）
 meh^anik/o⟦械ᴹᴴ̂/o⟧:{Ｂ}=mekaniko（力学）
-meh^anism/o⟦机ᴹᴴ̂/o⟧:{Ｂ}=mekanismo（メカニズム）
+meh^anism/o⟦械ᴹˢ/o⟧:{Ｂ}=mekanismo（メカニズム）
 Meh^lin/o:【地名】メケレン（ベルギー）
 MEJK:【Ｅ】［略］=Mez-Eu^ropa Junulara Konferenco
 mejl/o⟦里/o⟧:{Ｏ}【単】マイル（英=1609m、仏=7422m、独=7500m）;かなりの距離
@@ -24823,7 +24823,7 @@ mekanik/aj^/o⟦械/物/o⟧:=mekanismo（機械装置）
 mekanik/ism/o⟦械/主义/o⟧:【哲】機械論
 mekanik/ist/o⟦械/家/o⟧:力学者,機械学者;機械技師;【哲】機械論者
 mekanik/o⟦械/o⟧:{Ｂ}力学,機械学,>>dinamiko,>>statiko;=mekanismo（機械装置）
-mekanism/o⟦械ᴹˢ/o⟧:{Ｂ}機械装置,仕掛け,メカニズム;機構,構造,仕組み;【芸】技巧,テクニック
+mekanism/o⟦械ᴹᴱ/o⟧:{Ｂ}機械装置,仕掛け,メカニズム;機構,構造,仕組み;【芸】技巧,テクニック
 mek/i⟦鸣ᴹ/i⟧:［自］（ヤギなどが）メーと鳴く,>>bleki
 Mekk/o:【地名】メッカ（サウジアラビア）
 Meklenburgi/o:【地名】メクレンブルク地方（ドイツ北東部の旧地方名）
@@ -32590,7 +32590,7 @@ psik/o/terapi/o⟦心ᴾˢ/o/疗/o⟧:【医】精神療法
 psikoz/o:【病】精神病,精神障害
 psikrometr/o:【理】乾湿計
 pteridi/o:《Ｎ》【植】ワラビ（蕨）（属，_Pteridium_）,=aglofiliko
-pterid/o:【植】イノモトソウ（井之許草）（属）
+pterid/o⟦羊齿ᴾ/o⟧:【植】イノモトソウ（井之許草）（属）
 ptm.:［略］=posttagmeze,午後
 Ptoleme/o:【人名】プトレマイオス（２世紀頃アレクサンドリアで活躍した科学者）
 ptomain/o:【化】プトマイン,死毒
@@ -39823,9 +39823,9 @@ Taklamakan/o:【地名】タクラマカン砂漠（中央アジア）
 taks/ad/o⟦评/行/o⟧:評価,鑑定,査定
 taks/ar/o⟦评/群/o⟧:時価相場表;税額表
 taks/i⟦评/i⟧:{Ｂ}［他］評価する,鑑定する,見積もる,査定する;《古》=alte taksi（高く評価する）
-taksi/ist/o⟦taksi/家/o⟧:タクシー運転手
+taksi/ist/o⟦车ᵀᴷ/家/o⟧:タクシー運転手
 taksimetr/o:タクシーメーター,料金自動表示器
-taksi/o:{Ｏ}タクシー
+taksi/o⟦车ᵀᴷ/o⟧:{Ｏ}タクシー
 taks/ist/o⟦评/家/o⟧:鑑定人,査定人
 taks/o⟦评/o⟧:評価額,査定額;公定料金,公共料金
 taksus/o:{Ｏ}【植】イチイ（一位）（属）
@@ -61058,7 +61058,7 @@ fin/spurt/o⟦终/冲ˢ/o⟧:【PIV】Finis^o.
 desegn/o/stabl/o⟦绘/o/架ˢ/o⟧:【PIV】Speciala tablo de teknika desegnisto.
 rang^/ad/staci/o⟦调车/行/站/o⟧:【PIV】Stacio au^ staciparto en fervojnodo por rang^i vagonojn de disigataj al formataj trajnoj.
 ricev/o/staci/o⟦收/o/站/o⟧:【PIV】Loko, kie oni ricevas radioelsendojn.
-taksi/staci/o⟦taksi/站/o⟧:【PIV】Loko, kie taksioj atendas klientojn.
+taksi/staci/o⟦车ᵀᴷ/站/o⟧:【PIV】Loko, kie taksioj atendas klientojn.
 fru/a/stadi/a⟦早/a/阶ˢ/a⟧:【医】【PIV】Okazanta en la komenco de la evoluo de malsano.
 en/stal/ig/i⟦内/马棚/使/i⟧:【PIV】Meti en stalon.
 antau^/stamp/it/a⟦前/印ˢ/受/a⟧:【PIV】(pp (se paroli pri) pos^tmarko) Portanta nuligstampon antau^ ol vendig^i, por faciligi la traktadon de presaj^oj k similaj grandkvantaj sendaj^oj.

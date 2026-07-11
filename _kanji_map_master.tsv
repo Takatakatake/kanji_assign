@@ -1370,7 +1370,7 @@ content	kork	塞
 content	kukol	鹃
 content	lamen	片
 content	meĥanik	械
-content	meĥanism	机
+content	meĥanism	械
 content	melk	挤
 content	milimetr	毫
 content	munt	装
@@ -3369,7 +3369,7 @@ pejvo	cidoni	木瓜
 pejvo	baron	爵
 pejvo	s^os	芽
 pejvo	glos	注
-pejvo	meh^an	机
+pejvo	meh^an	械
 pejvo	ful	缩
 pejvo	rif	礁
 pejvo	mistik	秘
@@ -8040,3 +8040,6 @@ piv	skunk	鼠
 pejvo	oposum	鼠
 pejvo	frankolin	鸟
 pejvo	kolibr	鸟
+pejvo	taksi	车
+pejvo	pterid	羊齿
+pejvo	mekan	械
