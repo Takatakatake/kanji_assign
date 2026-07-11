@@ -1130,7 +1130,7 @@ alg^er/i/an/o⟦alg^er/i/员ᴬ/o⟧:アルジェリア人##偽分解
 Alg^er/i/o:{Ｏ}【国名】アルジェリア（アフリカ）##偽分解
 Alg^er/o:【地名】アルジェ（アルジェリアの首都）
 al/g^ust/ig/i⟦向/正/使/i⟧:［他］ぴったり合わせる,調整する,調節する
-alh^emi/o:{Ｏ}錬金術,=alkemio
+alh^emi/o⟦炼金ᴬᴴ̂/o⟧:{Ｏ}錬金術,=alkemio
 ali/a⟦别/a⟧:{Ｂ}ほかの,別の,その他の;もう一つの
 ali/a⟦别/a⟧:［代］他の人
 alianc/an/o⟦盟ᴬ/员ᴬ/o⟧:同盟国,同盟者
@@ -1548,7 +1548,7 @@ amfibi/a aviad/il/o⟦两栖/a 航/具/o⟧:【空】水陸両用機
 amfibi/a tank/o⟦两栖/a 战车/o⟧:【軍】水陸両用戦車
 amfibi/a vetur/il/o⟦两栖/a 乘/具/o⟧:水陸両用車両
 amfibi/oj⟦两栖/oj⟧:{Ｏ}【動】両生類
-amfibrah^/o:《廃》=>amfibrako
+amfibrah^/o⟦短长短ᴬᴴ̂/o⟧:《廃》=>amfibrako
 amfibrak/o⟦短长短/o⟧:【文】抑揚抑格,短長短格
 amfiteatr/o:{Ｏ}（古代ローマの）円形劇場;（劇場の）階段さじき;（大学の）階段教室
 amfor/o⟦罐/o⟧:{Ｏ}アンフォラ（つぼ）
@@ -1672,7 +1672,7 @@ ananas-suk/o⟦菠萝-汁/o⟧:パインジュース
 ananas/uj/o⟦菠萝/器/o⟧:【植】パイナップル;アナナス（属）
 anapest/o:{Ｏ}【文】短短長格
 Anapurn/o:【地名】アンナプルナ山（ネパール）
-anarh^i/o:{Ｏ}=anarkio
+anarh^i/o⟦无政ᴬᴴ̂/o⟧:{Ｏ}=anarkio
 anarki/a⟦无政ᴬᴵ/a⟧:無政府の,無政府状態の
 anarki/ism/o⟦无政ᴬᴵ/主义/o⟧:無政府主義,アナーキズム
 anarki/ist/o⟦无政ᴬᴵ/家/o⟧:無政府主義者,アナーキスト
@@ -2331,14 +2331,14 @@ arg^entan/o:【化】洋銀（銅・ニッケル・亜鉛の合金）
 arg^ent/i⟦银/i⟧:［他］銀メッキする,銀張りにする
 arg^ent/o⟦银/o⟧:{Ｂ}銀;【遊】（将棋の）銀将
 arg^irol/o:【薬】アルジロール（弱力プロテイン銀製剤の商品名，殺菌剤）
-arh^aik/a:{Ｏ}=arkaika
-arh^a/ism/o⟦arh^a/主义/o⟧:{Ｏ}=arkaismo##偽分解##強語根分解
+arh^aik/a⟦古ᴬᴷ/a⟧:{Ｏ}=arkaika
+arh^a/ism/o⟦古ᴬᴬ/主义/o⟧:{Ｏ}=arkaismo##偽分解##強語根分解
 arh^e/o/logi/o⟦古ᴬᴴ̂/o/学ᴸᴳ/o⟧:{Ｏ}=arkeologio##偽分解##強語根分解
 arh^e/o/log/o⟦古ᴬᴴ̂/o/学家/o⟧:{Ｏ}=arkeologo##偽分解##強語根分解
-arh^ipelag/o:{Ｏ}=arkipelago
-arh^itekt/o:{Ｏ}=arkitekto
-arh^itektur/o:{Ｏ}=arkitekturo
-arh^iv/o:{Ｏ}=arkivo
+arh^ipelag/o⟦群岛ᴬᴴ̂/o⟧:{Ｏ}=arkipelago
+arh^itekt/o⟦建筑ᴬᴴ̂/o⟧:{Ｏ}=arkitekto
+arh^itektur/o⟦建筑ᴬᵀ/o⟧:{Ｏ}=arkitekturo
+arh^iv/o⟦档ᴬᴴ̂/o⟧:{Ｏ}=arkivo
 Ariadn/a faden/o⟦Ariadn/a 丝ᶠ/o⟧:アリアドネの糸（難問を解くかぎ）
 Ariadn/o:【神】アリアドネ（ギリシア神話、ミノス王の娘）
 ari/an/ism/o⟦ari/员ᴬ/主义/o⟧:【キ】アリウス主義（異端とされた教説）
@@ -14339,7 +14339,7 @@ hidr/o/statik/a prem/o⟦水ᴴ/o/静ˢ/a 压/o⟧:【理】静水圧##偽分解
 hidr/o/statik/o⟦水ᴴ/o/静ˢ/o⟧:{Ｏ}流体静力学,静水力学##偽分解(PIV正式分解)##過細分解 h/i/d/r/o/statik/o
 hidr/o/terapi/o⟦水ᴴ/o/疗/o⟧:{Ｏ}【医】水治療法##偽分解(PIV正式分解)##過細分解 h/i/d/r/o/terapi/o
 hien/o:{Ｏ}【動】ハイエナ
-hierarh^i/o:{Ｏ}=hierarkio（階級制）
+hierarh^i/o⟦级ᴴᴴ̂/o⟧:{Ｏ}=hierarkio（階級制）
 hierarki/o⟦级ᴴ/o⟧:{Ｏ}階級制,位階制;階層,階層構造
 hieratik/a⟦祭ᴴ/a⟧:聖事に関する,聖職者の;【史】神官文字の
 hieratik/o⟦祭ᴴ/o⟧:【史】ヒエラティック,神官文字
@@ -14408,7 +14408,7 @@ hipnot/ism/o⟦催眠/主义/o⟧:【医】催眠術
 hipnot/o⟦催眠/o⟧:{Ｏ}【医】催眠状態
 hipo/cikl/oid/o⟦亚/环ᶜ/似ᴼ/o⟧:【数】内（ない）サイクロイド##偽分解(PIV正式分解)
 hipo/drom/o⟦马/道ᴰ/o⟧:{Ｏ}競馬場;【史】（馬・戦車の）競技場##偽分解##過細分解 h/i/p/o/drom/o
-hipoh^ondri/o:=hipokondrio
+hipoh^ondri/o⟦疑病ᴴᴴ̂/o⟧:=hipokondrio
 hipo/kas^tan/o⟦马/栗/o⟧:【植】マロニエ,セイヨウトチノキ,=c^evalkas^tano,>>eskulo##偽分解##過細分解 h/i/p/o/kas^tan/o
 hipokondri/o⟦疑病/o⟧:【病】心気症,ヒポコンデリー
 hipokondri/ul/o⟦疑病/者/o⟧:心気症患者
@@ -14919,7 +14919,7 @@ igvanodont/o:【古生】イグアノドン,禽竜（きんりゅう）
 -ig^-⟦成⟧:{Ｂ}［接尾辞］（自動詞を作る）,>>movig^i,>>s^tonig^i
 ig^/i⟦成/i⟧:［自］〜になる,>>farig^i
 ih^tiokol/o:{Ｏ}=iktiokolo,=fis^gluo（魚膠）
-ih^tiosau^r/o:【古生】=iktiosau^ro
+ih^tiosau^r/o⟦鱼龙ᴵᴴ̂/o⟧:【古生】=iktiosau^ro
 IJK:【Ｅ】［略］=Internacia Junulara Kongreso de Esperanto
 IJS:【Ｅ】［略］=Internacia Junulara Semajno
 -ik-⟦学ᴵ⟧:［学術接尾辞］（〜論・〜学を示す）,>>metodiko
@@ -17822,7 +17822,7 @@ kilo/vat/o⟦千ᴷᴵ/瓦ⱽ/o⟧:【理】キロワット（kW）##偽分解(P
 kilo/volt/o⟦千ᴷᴵ/volt/o⟧:【理】キロボルト（kV）##偽分解
 kilson/o:【海】内竜骨,キールソン;【空】（機体下部の）骨組構造
 kimc^i/o:【料】キムチ,>>peklaj^o
-kimer/o:【神】=h^imero（キマイラ）
+kimer/o⟦幻ᴷ/o⟧:【神】=h^imero（キマイラ）
 kimon/o⟦和服/o⟧:{Ｏ}【服】（日本の）着物,和服;キモノ（着物風の化粧着・部屋着）
 kimr/a:ウェールズ（人）の;（la 〜）ウェールズ語の
 kimr/a lingv/o⟦kimr/a 语/o⟧:（la 〜）ウェールズ語
@@ -25930,8 +25930,8 @@ monak/in/o⟦僧ᴹᴷ/女/o⟧:【宗】=monah^ino（修道女）
 monak/o⟦僧ᴹᴷ/o⟧:【宗】=monah^o（修道士）
 Monak/o:【国名】モナコ（欧州）
 Monak/o:【地名】モナコ（モナコの首都）
-monarh^i/o:{Ｏ}=monarkio（君主制）
-monarh^/o:{Ｏ}=monarko（君主）
+monarh^i/o⟦君主ᴹᴼ/o⟧:{Ｏ}=monarkio（君主制）
+monarh^/o⟦君主ᴹᴴ̂/o⟧:{Ｏ}=monarko（君主）
 monarki/o⟦君主ᴹᴵ/o⟧:{Ｏ}君主制,君主政治,王政;君主国
 monark/ism/o⟦君主/主义/o⟧:君主制主義,王政主義
 monark/ist/o⟦君主/家/o⟧:君主制主義者,王政主義者
@@ -28355,7 +28355,7 @@ ole/um/il/o⟦油/um/具/o⟧:【機】油差し
 oliban/arb/o⟦乳香/树/o⟧:【植】ニュウコウジュ（乳香樹）
 oliban/o⟦乳香/o⟧:【植】乳香
 oligarh^i/o:{Ｏ}=oligarkio
-oligarh^/o:{Ｏ}=oligarko
+oligarh^/o⟦寡头ᴼᴴ̂/o⟧:{Ｏ}=oligarko
 oligarki/o:{Ｏ}【政】寡頭制,寡頭政治
 oligark/o⟦寡头/o⟧:{Ｏ}【政】寡頭制の支配者,少数独裁者
 oligocen/o:【地質】漸新世;漸新統
@@ -44578,7 +44578,7 @@ ah^/i:【PIV】(ntr (netransitiva)) Eldiri «ah^», g^emi.
 Ah^ab/o:【聖】【PIV】Reg^o de Izraelo en Samario (874−853). -> Izebel, Naboto.
 Ah^aj/o:【PIV】Homera nomo de Helenujo.
 Ah^aj/an/o:【PIV】Heleno.
-ah^eronti/o:【PIV】= akerontio.
+ah^eronti/o⟦虫ᴬᴴ̂/o⟧:【PIV】= akerontio.
 air/o⟦草ᴬᴿ/o⟧:【植】【PIV】G. (Genro) (Aira el poacoj) de unujaraj herboj kun 2-floraj spiketoj en paniklo; c^. (c^irkau^) 10 sp-oj (specioj) el Eu^ropo k la Mediteranea regiono, plejparte sekejaj k sablejaj, kelkaj (ekz. (ekzemple) A. elegantissima) kultivataj por ornamo.
 aizo/o⟦草ᴬᶻ/o⟧:【植】【PIV】G. (Genro) (Aizoon el aizoacoj) de 11 sp-oj (specioj) de plurjaraj herboj el Afriko, SU Azio k S Hispanio.
 aizo/ac/oj⟦草ᴬᶻ/科ᴬ/oj⟧:【植】【PIV】Fam. (Familio) (Aizoaceae) de dukotiledonaj plantoj, plejparte sukulentaj herboj, sed ankau^ arbustetoj k tufarbustoj; precipe S Afrika fam. (familio) de c^. (c^irkau^) 1850 sp-oj (specioj) el c^. (c^irkau^) 128 g-oj (genroj), i.a. (interalie, inter aliaj) aizoo, litopso, mezembrianto k tetragonio.
@@ -46008,7 +46008,7 @@ bradi/kardi/o⟦bradi/心ᴷᴰ/o⟧:【医】【PIV】Malrapideco de la kora pu
 bradip/ed/oj⟦bradip/科ᴱ/oj⟧:【動】【PIV】Fam. (Familio) (Bradypodidae) de ksenartroj, al kiu apartenas bradipo k unau^o.
 bradi/pepsi/o:【医】【PIV】Malrapida k malfacila digesto.##偽分解
 brahmo/o:【宗】【PIV】Monoteisto, apartenanta al la bengala hinduismoreforma movado, fondita en la frua 19a jc (jarcento) surbaze de kritika relego de la Upanis^adoj.
-brah^in/o:【PIV】= brakino.
+brah^in/o⟦虫ᴮᴴ̂/o⟧:【PIV】= brakino.
 brah^iur/o:【PIV】= krabo.
 Brajt/o:【PIV】Brita medicinisto (R. Bright, 1779-1858).
 brak/oj⟦臂/oj⟧:【PIV】La spaco inter tiuj du membroj, rigardata kiel simbolo de amoro: (s^i estis) bela statuo, kiu ricevis vivon en miaj brakoj ; ili ekdormis kun virinoj c^e la brakoj ; el miaj brakoj s^i saltadis rekte en la konfesejon; s^i j^etis la filinon en la brakojn de ric^a bankiero .
@@ -46880,7 +46880,7 @@ doktor/ig/i⟦博/使/i⟧:【PIV】Atribui al iu la gradon de doktoro.
 dol/o:【法】【PIV】Volo direktita al plenumo de delikta ago, precipe en kriminala k civila juro: dola hommortigo estas murdo.
 doli/o:【技】【映】【PIV】1 C^aro kun malalta platformo k etaj radoj por movi s^arg^ojn. Vd c^arelo. 2 Tia c^aro kun kamera-stativo.
 gru/o-doli/o⟦鹤/o-doli/o⟧:【PIV】Gruo, muntita sur dolio, kiu levas k konvene dispozicias platformon, i.a. (interalie, inter aliaj) kun kamerao.
-dolih^ot/o:【PIV】= dolikoto.
+dolih^ot/o⟦鼠ᴰᴴ̂/o⟧:【PIV】= dolikoto.
 dolikot/o⟦鼠ᴰᴸ/o⟧:【動】【PIV】G. (Genro) (Dolichotis) de S-Amerikaj mamuloj el la ordo de rong^uloj, fam. (familio) de kaviedoj, i.a. (interalie, inter aliaj) la Patagonia dolikoto au^ Patagonia «leporo» (D. patagonum) iom pli granda ol leporo, kun longaj oreloj k altaj kruroj.
 dolin/o:【地理】【地質】【PIV】Rondforma, negranda karsta malaltaj^o kun plata fundo plena de rug^bruna argilo. Vd poljo.
 dolman/o:【PIV】Husara jako, ornamita per s^nurgalonoj.
@@ -47011,10 +47011,10 @@ eglanteri/o⟦草ᴱᴬ/o⟧:【植】【PIV】Sp. (Specio) de sovag^a rozo (Ros
 ehe!:【PIV】Interj. (Interjekcio), esprimanta komprenon: ehe, mi scias, mia kara, kien vi celas! .
 eh^…:【PIV】Serc^u ek…
 eh^/il/o⟦回/具/o⟧:【楽】【PIV】Aparato, kiu kreas sonon de eh^o.
-eh^idn/o:【PIV】= ekidno.
+eh^idn/o⟦兽ᴱᴴ̂/o⟧:【PIV】= ekidno.
 eh^in/o⟦海胆ᴱᴴ̂/o⟧:【PIV】= ekino.
 eh^in/o/derm/oj⟦海胆ᴱᴴ̂/o/皮ᴰ/oj⟧:【PIV】= ekinodermoj.##偽分解(PIV正式分解)
-eh^inokok/o:【PIV】= ekinokoko.
+eh^inokok/o⟦虫ᴱᴴ̂/o⟧:【PIV】= ekinokoko.
 eh^olali/o:【医】【PIV】Simptomo en kelkaj psikozaj malsanoj, lau^ kiu individuo ripetas senkau^ze la j^usajn elparolaj^ojn de sia interparolanto.
 ej!:【PIV】Interj. (Interjekcio), esprimanta dubeton au^ mildan malaprobon: ej! kion vi diras?; ej! ej! ne admonu tiel lau^te.
 ejakul/o⟦射ᴱ/o⟧:【PIV】Ago de ejakulanto.
@@ -48701,7 +48701,7 @@ halebard/ist/o⟦矛ᴴ/家/o⟧:【PIV】Soldato armita per halebardo. Vd spont
 haleluja!:【PIV】Interj. (Interjekcio), el la hebrea lingvo («lau^du Javeon!»), uzata c^e la fino de psalmoj au^ de himnoj, au^ s^erce kiel refreno de kanzono: venis knab' saltanta, barbon ne havanta, haleluja! . Vd hosana.
 Halep/o:【PIV】Granda urbo en NU Sirio (36°12′N, 37°10′E).
 haliaet/o⟦鸟ᴴᴸ/o⟧:【動】【PIV】G. (Genro) (Haliaeetus) de mar-au^ lag-bordaj au^ riveraj rabobirdoj el la fam. (familio) de akcipitredoj, grandaj kun duone plumkovritaj tarsoj. Sin. (sinonimo) maraglo.
-halih^er/o:【PIV】= halikero.
+halih^er/o⟦兽ᴴᴴ̂/o⟧:【PIV】= halikero.
 haliker/o⟦兽ᴴᴸ/o⟧:【動】【PIV】G. (Genro) (Halichoerus) de mamuloj el la subordo de fokuloj, fam. (familio) de fokedoj, kun longa muzelo, vivantaj c^e la marbordoj de N Eu^ropo. Sin. (sinonimo) grizfoko. Vd foko.
 halit/o:【地質】【PIV】Mineralo el kuba natria klorido, NaCl. Sin. (sinonimo) minsalo. Vd salo, evaporito.
 halo!:【PIV】Interj. (Interjekcio), uzata por alvoki telefone.
@@ -48944,7 +48944,7 @@ hidr/o/geo/log/o⟦水ᴴ/o/地ᴳ/学家/o⟧:【地質】【PIV】Specialisto 
 hidr/o/geo/logi/o⟦水ᴴ/o/地ᴳ/学ᴸᴳ/o⟧:【PIV】Scienco pri la subteraj akvoj, i.a. (interalie, inter aliaj) pri ilia cirkulado k naturaj rezervujoj.##偽分解##過細分解 h/i/d/r/o/geo/logi/o
 hidr/o/graf/o⟦水ᴴ/o/记ᴳ/o⟧:【PIV】Specialisto pri hidrografio.##偽分解(PIV正式分解)##過細分解 h/i/d/r/o/graf/o
 hidr/o/grafi/o⟦水ᴴ/o/志ᴳ/o⟧:【地理】【PIV】La parto de geografio pri la hidrosfero (maroj, riveroj, lagoj ks (kaj simile, kaj similaj)).##偽分解##過細分解 h/i/d/r/o/grafi/o
-hidroh^er/o:【PIV】= hidrokero.
+hidroh^er/o⟦鼠ᴴᴴ̂/o⟧:【PIV】= hidrokero.
 hidrokarid/o:【PIV】= hidrokarito.
 hidrokarit/o⟦草ᴴᴵᴰ/o⟧:【植】【PIV】G. (Genro) (Hydrocharis el hidrokaritacoj) de plurjaraj flosantaj akvoplantoj kun rozetoj el longe petiolaj, rondaj folioj k kun 3-nombraj floroj longe pedunklaj, blankaj sed c^ebaze flavmakulaj; 3−6 sp-oj (specioj) el la Malnova Mondo.
 hidroker/o⟦鼠ᴴ/o⟧:【動】【PIV】G. (Genro) (Hydrochoerus) de Amerikaj mamuloj el la ordo de rong^uloj, vivantaj de oligoceno g^is nuno; la sola ankorau^ nun vivanta sp. estas kapibaro, la plej granda el la rong^uloj.
@@ -49210,7 +49210,7 @@ h^an/ec/o⟦汗ᴴ̂/性/o⟧:【PIV】Rango, titolo de h^ano.
 h^an/ej/o⟦汗ᴴ̂/所/o⟧:【PIV】Lando regata de h^ano.
 H^anoh^/o:【聖】【PIV】Patriarko.
 H^anuk/o:【聖】【PIV】Oktaga festo (fine de decembro), honoranta la reinau^guron de la Templo post la venko de Makabeoj.
-h^aradri/o:【PIV】= karadrio.
+h^aradri/o⟦鸟ᴴ̂/o⟧:【PIV】= karadrio.
 H^aribd/o:【PIV】Unu el la du maraj monstroj, kiuj englutadis la s^ipojn en la Mesina markolo: trafi de Scilo al H^aribdo .
 h^asid/o:【聖】【PIV】1 Ano de juda sekto, kiu en la 2a jc (jarcento). a.K. (antau^ Kristo) batalis aliance kun la Makabeoj kontrau^ Antioh^o Epifano. 2 Ano de h^asidismo.
 h^asid/ism/o⟦h^asid/主义/o⟧:【PIV】Juda movado, bazita sur rezigno pri mondaj aferoj k plena amo al la proksimulo, k akcentanta la g^ojan sindonadon al la volo de Javeo. -> kvietismo.
@@ -49220,7 +49220,7 @@ H^ati/an/o:【PIV】Ano de unu el la popoloj, kiuj log^is en H^atio dum la prahi
 h^eder/o:【聖】【PIV】Religia lernejo por malgrandaj knaboj.
 h^elicer/o⟦钳ᴴ̂/o⟧:【動】【PIV】La unua para membro c^e merostomoj k araneoidoj, plej ofte tre mallonga k kun prenilo.
 h^elicer/ul/oj⟦钳ᴴ̂/者/oj⟧:【PIV】Subfilumo (Chelicerata) de artropodoj, kiuj havas h^elicerojn.
-h^eloni/o:【PIV】= kelonio.
+h^eloni/o⟦龟ᴴ̂/o⟧:【PIV】= kelonio.
 h^et/o:【PIV】= keto 1.
 h^etognat/oj:【PIV】= ketognatoj.
 h^il/o:【PIV】= c^ilo.
@@ -49229,7 +49229,7 @@ H^imen/o:【PIV】Hispana virina nomo, i.a. (interalie, inter aliaj) de la edzin
 h^imer/ul/o⟦幻ᴴ̂/者/o⟧:【PIV】Iu, kiu kovas h^imerojn 2.
 h^imer/o/form/aj⟦幻ᴴ̂/o/形/aj⟧:【動】【PIV】Ordo (Chimaeriformes), la sola nun vivanta ordo de holocefaloj.
 H^iram/o:【聖】【PIV】Reg^o de Tiro.
-h^ironekt/o:【PIV】= kironekto.
+h^ironekt/o⟦兽ᴴ̂/o⟧:【PIV】= kironekto.
 h^iropter/oj:【PIV】= kiropteroj.
 h^itin/o:【PIV】= kitino.
 h^iton/o:【史】【PIV】1 Helena tuniko: mi jam demetis mian h^itonon; mian h^itonon malagrafi helpu! ^W. Sin. (sinonimo) kitono. 2【動】 G. (Genro) (Chiton) de moluskoj el la klaso de plurplakuloj. Sin. (sinonimo) kitono.
@@ -49239,7 +49239,7 @@ h^oler/et/o⟦霍乱/小/o⟧:【PIV】Diareo ofte observata dum la epidemioj de
 h^oler/o/form/a⟦霍乱/o/形/a⟧:【PIV】Simila al la koncerna fazo de h^olero: h^oleroforma diareo, enterito.
 h^omer/o:【聖】【PIV】Volumena mezurunuo (10 efoj = 364 l).
 h^ondroste/oj:【PIV】= kondrosteoj.
-h^ondrostom/o:【PIV】= kondrostomo.
+h^ondrostom/o⟦鱼ᴴ̂/o⟧:【PIV】= kondrostomo.
 h^or/a⟦合唱/a⟧:【PIV】Rilata al h^oro: h^ora kantado; h^oraj popolaj societoj.
 h^or/e⟦合唱/e⟧:【PIV】Kiel h^oro: h^ore bruu niaj kantoj por la karaj! .
 h^or/an/o⟦合唱/员ᴬ/o⟧:【PIV】Ano de h^oro 1.
@@ -49281,7 +49281,7 @@ Ignac/o:【PIV】Vira nomo, i.a. (interalie, inter aliaj) de la fondinto de la j
 ignimbrit/o:【地質】【PIV】Vulkana petro, estig^anta pro kunfandig^o de eroj el acidaj lafoj (ekz. (ekzemple) riolitaj) sekve de eksplodaj erupcioj; petrig^intaj ardaj nuboj.
 igvan/ed/oj⟦龙ᴵ/科ᴱ/oj⟧:【動】【PIV】Fam. (Familio) (Iguanidae), al kiu apartenas igvano k bazilisko. Vd angviso, lacerto.
 ih^tiofagi/o:【PIV】= iktiofagio.
-ih^tio/log/o⟦ih^tio/学家/o⟧:【PIV】= iktiologo.##偽分解##強語根分解
+ih^tio/log/o⟦鱼ᴵᴴ̂/学家/o⟧:【PIV】= iktiologo.##偽分解##強語根分解
 ih^tiopterig/oj:【PIV】= iktiopterigoj.
 Ijob/o:【聖】【PIV】Heroo de la samnoma libro de la Biblio: mizera kiel Ijobo.
 ikneu^mon/o⟦虫ᴵᴷ/o⟧:【動】【PIV】1 G. (Genro) (Ichneumon) de insektoj el la ordo de himenopteroj, kies larvoj parazitas en aliaj insektlarvoj; parazitvespo. 2 (evi (evitinda)) Sp. (Specio) de herpesto. Vd mungoto.
@@ -49800,7 +49800,7 @@ Kajen/river/o:【PIV】Rivero tie trafluanta.
 kajeput/o⟦木ᴷᴶ/o⟧:【植】【PIV】1 Sp. (Specio) de melaleu^ko (kajeputa melaleu^ko), el kiu oni ekstraktas kajeputesencon; hejma en Au^stralio k E Azio. 2 = kajeputa esenco.
 kajut/a⟦舱/a⟧:【PIV】Rilata al kajuto: kajuta servisto .
 kaj^ol/ad/o⟦媚ᴷᴶ̂/行/o⟧:【PIV】Ago de iu, kiu kaj^olas.
-kakeksi/o:【PIV】= kah^eksio.
+kakeksi/o⟦衰ᴷᴷ/o⟧:【PIV】= kah^eksio.
 kakinok/o⟦柿ᴷ/o⟧:【植】【PIV】1 Sp. (Specio) de diospiro (Diospyros kaki), poligamia fruktarbo kun tomatsimilaj, de flavaj g^is rug^aj, sukplenaj, mang^eblaj beroj, subhavantaj restantajn sepalojn po 4; origina el E Azio, kultivata en Hindio, Japanio, la Mediteraneaj landoj, Kalifornio k iuj tropikaj montregionoj. Sin. (sinonimo) Japania persimono. 2 Frukto de kakinoko 1. Sin. (sinonimo) kakinokbero.
 kakinok/ber/o⟦柿ᴷ/浆果/o⟧:【PIV】Kakinoko 2.
 kakofoni/o⟦噪ᴷ/o⟧:【PIV】1 Kunmeto de sonoj, silaboj au^ vortoj, kies senharmonio vundas la orelon (ekz. (ekzemple) «g^is c^esig^' de l' sing^eno»). 2 Malagrabla efiko de senakordaj voc^oj, instrumentoj.
@@ -50241,7 +50241,7 @@ kelat/o:【化】【PIV】Substanco, en kiu metala atomo estas kvazau^ pinc^ita 
 kelat/ig/i⟦kelat/使/i⟧:【PIV】Formi kelaton.
 kelat/ig/ant/o⟦kelat/使/在/o⟧:【PIV】Organika molekulo formanta kelaton kun metalo: kelatigantoj estas medicine uzataj kontrau^ pezmetala toksig^o. -> kelatoterapio.
 kelat/ig^/i⟦kelat/成/i⟧:【PIV】Ig^i kelato.
-kelicer/o:【PIV】= h^elicero. -> keliferoj.
+kelicer/o⟦钳ᴷ/o⟧:【PIV】= h^elicero. -> keliferoj.
 kelifer/oj:【動】【PIV】Subordo (Caelifera) de insektoj el la ordo de ortopteroj, kun mallongaj, dikaj antenoj k kies ino portas c^e la fino de abdomeno mallonge c^izilforman organon de ovdemeto: c^izsaltuloj ampleksas preskau^ c^iujn keliferojn. Vd ensiferoj, akrido, saltulo.
 kelk/e⟦些/e⟧:【PIV】Analoge kun multe, iom kc (kaj ceteraj), tiu adv. (adverbo) estas uzata kun la senco de subst. (substantivo) montranta nedifinitan, sed ne tre grandan kvanton da aferoj au^ estaj^oj kune trovig^antaj: nur kelke da homoj sidis en la c^ambro; kelke da ni ;...
 keloni/ed/oj⟦龟ᴷ/科ᴱ/oj⟧:【動】【PIV】Fam. (Familio) (Cheloniidae) de testuduloj, al kiu apartenas i.a. (interalie, inter aliaj) kelonio k kareto.
@@ -56319,7 +56319,7 @@ tragol/o⟦鹿ᵀ/o⟧:【動】【PIV】G. (Genro) (Tragulus) de tre malgrandaj
 tragol/ed/oj⟦鹿ᵀ/科ᴱ/oj⟧:【動】【PIV】Fam. (Familio) (Tragulidae) de kuniklo-au^ leporo-grandaj parhufuloj, ampleksanta i.a. (interalie, inter aliaj) tragolon.
 tragopog/o⟦草ᵀᴳ/o⟧:【植】【PIV】Tragopogono.
 tragopogon/o⟦草ᵀᴿᴬ/o⟧:【植】【PIV】G. (Genro) (Tragopogon el asteracoj) de unu-, du-k plur-jaraj herboj kun pivotradiko, kun longaj, liniformaj folioj k kun langetfloraj kapituloj; c^. (c^irkau^) 110 sp-oj (specioj) el Eu^ropo, Azio k N Afriko.
-trah^in/o:【PIV】= trakino.
+trah^in/o⟦鱼ᵀᴴ̂/o⟧:【PIV】= trakino.
 trah^it/o:【PIV】= trakito.
 Trajan/o:【PIV】Romia imperiestro (M.U. Trajanus, 53−117): la Trajana kolono (starigita en 102, post la venko de Trajano super la dakoj).
 trajn/estr/o⟦车ᵀ/长ᴱ/o⟧:【PIV】Tiu, kiu respondecas pri la bona irado de la trajno.
@@ -56407,7 +56407,7 @@ trigon/a⟦三角ᵀᴿ/a⟧:【PIV】= romboedra.
 trigonel/o⟦草ᵀᴿᴵ/o⟧:【植】【PIV】G. (Genro) (Trigonella el fabacoj) de unu-k plur-jaraj herboj parencaj al medikago, kun 3-folieraj, ofte dentetaj folioj, kun blankaj, flavaj au^ bluetaj floroj k kun rektaj au^ kurbaj, cilindraj au^ plataj gus^oj; c^. (c^irkau^) 50 sp-oj (specioj) el la Mediteranea regiono, Makaronezio, S Afriko k Au^stralio, i.a. (interalie, inter aliaj) fenugreko.
 trigon/o/metri/a⟦三角ᵀᴿ/o/测ᴹᵀ/a⟧:【PIV】Rilata al trigonometrio: trigonometriaj funkcioj (sinuso, kosinuso, tangento, kotangento, sekanto, kosekanto). Vd ciklometria.##偽分解
 trih^/o:【PIV】= triko ①
-trih^ofit/o:【PIV】= trikofito.
+trih^ofit/o⟦毛癣菌ᵀᴴ̂/o⟧:【PIV】= trikofito.
 trih^opter/oj:【PIV】= trikopteroj.
 trik/o⟦毛ᵀ/o⟧:【医】【PIV】Haro (en kunmetaj^oj).
 trik/oz/o⟦毛ᵀ/症ᴼ/o⟧:【PIV】Denaska au^ akirita devio de haroj c^e orifico au^ de la okulharoj, kiuj skrapas la okulglobon k kau^zas keratiton.
@@ -62093,7 +62093,7 @@ micen/o⟦菌ᴹᴺ/o⟧:【植】【PIV】G. (Genro) (Mycena el marasmiacoj) de
 Mirt/o:【PIV】Helena virina nomo.
 Mistral/o:【PIV】Provencalingva verkisto (F. Mistral, 1830−1914).
 ##重複語Mogol/o:【史】【PIV】Ano de la mongola dinastio, fondita de Timuro, k islamana imperiestro de Delhio.
-moloh^/o:【PIV】= moloko.
+moloh^/o⟦龙ᴹᴴ̂/o⟧:【PIV】= moloko.
 Mont/o:【PIV】1 Granda natura amaso de roko k tero, kiu altig^as super la nivelo de la c^irkau^anta grundo je pluraj centoj da metroj: la piedo, la radikoj, la flankoj, la supro de monto; kalkopetra, granita monto; se neg^as sur la monto, estas malvarme en la valo ; c^eno de montoj ; ne venas mont’ al monto, sed homo homon renkontas ; belaj rakontoj el trans la montoj ; sovag^bestaj montoj ; (f (figurasence)) la ondegoj levig^is kiel montoj; la Prediko sur la monto. Vd dento, kresto, vulkano, alpismo. 2 Alta, granda amaso: montoj da kadavroj, da rubaj^oj, da paperaj^oj; promesi orajn montojn ; ni ne povas senfine toleri tiun monton da mizeroj; inter faro k rakonto staras meze granda monto . Vd abismo, maro. / 1 Parto de pluraj propraj nomoj de montoj: Monto Blanka au^ Blank monto (6°52′E, 45°50′N), Monto Kalva, Montaro de la Gigantoj (15°44′E, 50°44′N); Fuj^i-Monto (138°40′E, 35°20′N). 2 Nomo de la plej maldekstra partio en la asembleoj de la Franca Revolucio: Robespiero estis la c^efo de la Monto.
 ##重複語Muzulman/o:【PIV】(evi (evitinda)) Ano de gento kun islamaj tradicioj, i.a. (interalie, inter aliaj) nomo donita en eksa Jugoslavio al la c^efa gento de Bosnio.
 ##重複語nazore/o:【PIV】Ano de hebre-devena sekto, kiu pretendas kiel fondinton Johanon la Baptiston.
