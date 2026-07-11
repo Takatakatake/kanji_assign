@@ -1549,6 +1549,17 @@
   akme           顶ᴬ         F=1     piv     
   kulminaci      顶ᴷᶜ        F=1     piv     
 
+【狂】 9件
+  mani           狂          F=28    basic   
+  frenez         狂ᶠ         F=14    basic   
+  furioz         狂ᶠᶻ        F=9     basic   
+  delir          狂ᴰ         F=6     basic   
+  lunatik        狂ᴸ         F=1     basic   
+  rabi           狂ᴿ         F=6     pejvo   
+  fanatik        狂ᶠᴺ        F=5     pejvo   
+  histeri        狂ᴴ         F=3     pejvo   
+  amok           狂ᴬ         F=1     piv     
+
 【琴】 9件
   pian           琴          F=12    basic   
   harmonik       琴ᴴᴹ        F=7     pejvo   
@@ -1700,16 +1711,6 @@
   tiar           冠ᵀ         F=1     pejvo   
   kalot          冠ᴷᴸ        F=2     piv     【数】球冠
   koronari       冠ᴷᴿ        F=2     piv     【解】冠状動脈(の)
-
-【狂】 8件
-  mani           狂          F=28    basic   
-  frenez         狂ᶠ         F=14    basic   
-  furioz         狂ᶠᶻ        F=9     basic   
-  delir          狂ᴰ         F=6     basic   
-  rabi           狂ᴿ         F=6     pejvo   
-  fanatik        狂ᶠᴺ        F=5     pejvo   
-  histeri        狂ᴴ         F=3     pejvo   
-  amok           狂ᴬ         F=1     piv     
 
 【偶】 8件
   par            偶          F=32    basic   

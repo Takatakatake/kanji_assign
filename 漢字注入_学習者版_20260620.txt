@@ -22735,7 +22735,7 @@ lunari/o:【植】ルナリア（属）,ギンセンソウ（銀扇草）
 lun/ark/a bulk/o⟦月/弧/a 包ᴮ/o⟧:【料】クロワッサン
 lun/ark/o⟦月/弧/o⟧:三日月,弦月
 lun/ark/o/bulk/o⟦月/弧/o/包ᴮ/o⟧:【料】クロワッサン
-lunatik/o:{Ｏ}気まぐれな人;狂人;=somnambulo（夢遊病者）
+lunatik/o⟦狂ᴸ/o⟧:{Ｏ}気まぐれな人;狂人;=somnambulo（夢遊病者）
 lunc^/ej/o⟦lunc^/所/o⟧:（駅や劇場内の）軽食堂,ビュッフェ
 lunc^/i:［自］軽食をとる
 lunc^/kest/o⟦lunc^/箱/o⟧:弁当箱
