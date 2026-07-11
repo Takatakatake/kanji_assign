@@ -1819,7 +1819,7 @@ Ann/o:{Ｏ}（女子名）アンナ,アンヌ
 an/o⟦员ᴬ/o⟧:会員
 anobi/o⟦虫ᴬᴺ/o⟧:【虫】アノビウム（シバンムシ科の一属、幼虫が家具・建材の害虫）
 anod/o:【理】アノード,陽極,><katodo,>>elektrodo
-anofel/o:【虫】ハマダラカ（属）,>>moskito
+anofel/o⟦蚊ᴬ/o⟧:【虫】ハマダラカ（属）,>>moskito
 anomali/a⟦异ᴬ/a⟧:異例の
 anomali/o⟦异ᴬ/o⟧:{Ｏ}変則,異例
 anonc/et/o⟦宣/小/o⟧:三行広告
@@ -3940,7 +3940,7 @@ blu/verd/aj alg/oj⟦蓝/绿/aj 藻/oj⟧:【植】藍藻類
 bluz/o⟦衫ᴮ/o⟧:{Ｂ}【服】ブラウス;上っ張り,仕事着;ジャンパー,ブルゾン
 bo⟦姻⟧:{Ｏ}［文字名］ボー（文字B，bの名称）
 bo-⟦姻⟧:{Ｂ}［接頭辞］（姻戚関係を示す）,>>bopatro,>>bofrato
-boac/o:{Ｏ}【動】トナカイ,カリブー,馴鹿（じゅんろく）,>>norda cervo
+boac/o⟦鹿ᴮ/o⟧:{Ｏ}【動】トナカイ,カリブー,馴鹿（じゅんろく）,>>norda cervo
 boa/o:{Ｏ}【動】ボア;【服】ボア（女性用襟巻きの一種）
 board/i⟦迎风/i⟧:［自］【海】まぎる,ジグザグに帆走する;《転》回り道をする,遠回しの手段をとる
 board/o⟦迎风/o⟧:【海】（帆船が）方向を変えずに進んだ区間
@@ -8746,7 +8746,7 @@ ekzot/a⟦异ᴱ/a⟧:異国産の,異国風の
 ekzot/ec/o⟦异ᴱ/性/o⟧:=ekzotismo（異国情緒）
 ekzoterm/a:【化】発熱の,><endoterma
 ekzoterm/a reakci/o⟦ekzoterm/a 反应/o⟧:【化】発熱反応
-ekzotik/a:=ekzota（異国風の）
+ekzotik/a⟦异ᴱᴷ/a⟧:=ekzota（異国風の）
 ekzot/ism/o⟦异ᴱ/主义/o⟧:異国情緒
 el⟦出⟧:{Ｂ}［前］〜の中から,〜から出た,〜のうちの,〜製の
 el-⟦出⟧:［接頭辞］（内から外への移動・完遂・成果を示す）,>>eliri,>>ellerni,>>elpensi
@@ -24697,7 +24697,7 @@ mav/a⟦恶ᴹⱽ/a⟧:《詩》=malbona（悪い）
 Mazovi/o:【地名】マゾビア,マゾフシェ（ポーランド中東部）
 Mazuri/o:【地名】マズリア,マズーリ（ポーランド北東部）
 mazurk/o:{Ｏ}【楽】マズルカ
-mazut/o:燃料油,=peza oleo
+mazut/o⟦重油/o⟧:燃料油,=peza oleo
 Mbaban/o:【地名】ムババーネ（スワジランドの首都）
 meandr/i⟦蛇ᴹ/i⟧:［自］（道・川などが）曲がりくねる,蛇行する,=serpentumi
 meandr/o⟦蛇ᴹ/o⟧:（道・川などの）くねり,蛇行;【建】曲折模様,雷文
@@ -24868,7 +24868,7 @@ melon/arb/o⟦瓜/树/o⟧:【植】メロン（種）
 melongen/o:{Ｏ}【植】ナス（種）（茄子）;【果】ナス（の実）
 melon/o⟦瓜/o⟧:{Ｂ}【果】メロン;【植】メロン（種）
 melope/o:【楽】朗吟歌
-melopep/o:【植】ペポカボチャ（南瓜）,>>kukurbo
+melopep/o⟦瓜ᴹᴾ/o⟧:【植】ペポカボチャ（南瓜）,>>kukurbo
 mem⟦自⟧:{Ｂ}［副］〜自身,〜自ら,〜そのもの;自分から,自発的に,おのずと
 mem-⟦自⟧:［接頭辞］（自己・独力を示す）,>>memamo,>>memlerninto
 mem/a⟦自/a⟧:自身の,自らの
@@ -30524,7 +30524,7 @@ plastik/a⟦塑ᴾᴷ/a⟧:造形の,造形美の,形の美しい
 plastik/e⟦塑ᴾᴷ/e⟧:造形的に;（実物を見るように）ありありと,生き生きと
 plastik/o⟦塑ᴾᴷ/o⟧:{Ｂ}造形芸術
 plast/o⟦塑/o⟧:{Ｂ}【化】プラスチック;可塑性物質
-plastr/o:{Ｏ}【薬】硬膏（こうこう）,膏薬,>>kataplasmo,>>sparadrapo,>>ungvento
+plastr/o⟦膏ᴾᴸ/o⟧:{Ｏ}【薬】硬膏（こうこう）,膏薬,>>kataplasmo,>>sparadrapo,>>ungvento
 plat/a⟦扁/a⟧:{Ｂ}平たい,薄い,厚みのない;平らな,平坦な,起伏のない;《転》平板な
 plat/a brust/o⟦扁/a 胸/o⟧:平たい胸
 plat/aj^/o⟦扁/物/o⟧:平たい物,平らな場所,平らな部分;【地理】台地
@@ -51051,7 +51051,7 @@ kukol/o/form/aj⟦鹃/o/形/aj⟧:【動】【PIV】Ordo (Cuculiformes) de birdo
 kuku/i⟦鸣ᴷᴷ/i⟧:【PIV】(ntr (netransitiva)) Krii pp (se paroli pri) kukolo; (f (figurasence)) krii « kuku», kas^ante sin, por inciti la serc^antojn. Vd kas^ludo.
 kukum/frukt/o⟦瓜ᴷ/果/o⟧:【PIV】Kukumo 2.
 kukumis/o⟦草ᴷᵁᴷ/o⟧:【植】【PIV】G. (Genro) (Cucumis el kukurbacoj) de unu-k plur-jaraj herboj, monoikaj au^ dioikaj, volvegrimpaj, kun karnaj fruktoj (beroj au^ peponedoj) glob-, ovo-au^ cilindro-formaj; c^. (c^irkau^) 30 sp-oj (specioj) el Azio k precipe Afriko, el kiuj kukumo k melono.
-kulan/o:【PIV】= onagro.
+kulan/o⟦马ᴷ/o⟧:【PIV】= onagro.
 kuler/i⟦勺/i⟧:【PIV】(tr (transitiva)) Mang^i per kulero: kuleri supon, fis^oleon, kac^on.
 kulminaci/o⟦顶ᴷᶜ/o⟧:【PIV】= kulmino.
 kulombometr/o:【理】【PIV】Mezurilo por la elektra s^argo (elektrokvanto). Vd elektroskopo.
@@ -51234,7 +51234,7 @@ Lambert/o:【PIV】Vira nomo.
 lambli/o:【PIV】(ark. (arkaismo, arkaisme)) = giardio.
 lambrekin/o:【建】【PIV】S^tofa au^ ligna ornamaj^o, kronanta pordon, fenestron, markezon ks (kaj simile, kaj similaj).
 lambrusk/o:【PIV】= sovag^a vito.
-lamel/o:【PIV】= lameno 2 (pp (se paroli pri) fungoj).
+lamel/o⟦片ᴸᴸ/o⟧:【PIV】= lameno 2 (pp (se paroli pri) fungoj).
 lamen/ar/o⟦片ᴸ/群/o⟧:【電】【PIV】Arang^o de lamenoj: lamenara ferkerno (la kerno de elektromagneto, transformilo kc (kaj ceteraj), konsistanta el feraj lamenoj, izolite metitaj unu sur alian).
 lamen/ig^/i⟦片ᴸ/成/i⟧:【PIV】Apartig^i sub formo de lamenoj (pp (se paroli pri) roko ktp (kaj tiel plu)).
 lament/ad/o⟦哀ᴸ/行/o⟧:【PIV】Ago de tiu, kiu lamentas: sur g^i (la skribrulaj^o) estis skribitaj lamentoj, g^emoj k veoj ; la kantoj de la palaco farig^os lamentoj ; granda lamentado el la lando de la H^aldeoj ; la Lamentadoj (katolika nomo de la Plorkantoj de Jeremio).
@@ -53833,8 +53833,8 @@ profilakt/i:【PIV】(tr (transitiva)) = preventi.
 profit/e⟦利ᴾ/e⟧:【PIV】En profita maniero au^ cirkonstanco: estus pli profite por la maljuna paro vendi la c^evalon ; kio vendig^as kas^ite, vendig^as plej profite .
 profit/il/o⟦利ᴾ/具/o⟧:【PIV】Tio, per kio oni povas profiti: tiuj, kiuj vidas en E. nur malvarman provizoran komprenilon k profitilon .
 progesteron/o:【生】【PIV】Steroida hormono, C 21 H 30 O 2, sekreciata de la flava korpo (de la ovario) dum la dua fazo de la oestra ciklo, k preparanta la uteron al eventuala gravedeco.
-prognat/a:【解】【PIV】Prezentanta antau^en-elstara(j)n makzelo(j)n. Vd protruda, ortognata.
-prognat/ec/o⟦prognat/性/o⟧:【PIV】Makzela protrudeco: prognateco de la maksiloj, de la mandiblo, de ambau^ makzeloj.
+prognat/a⟦凸ᴾᴳ/a⟧:【解】【PIV】Prezentanta antau^en-elstara(j)n makzelo(j)n. Vd protruda, ortognata.
+prognat/ec/o⟦凸ᴾᴳ/性/o⟧:【PIV】Makzela protrudeco: prognateco de la maksiloj, de la mandiblo, de ambau^ makzeloj.
 prognoz/ik/o⟦预测/学ᴵ/o⟧:【PIV】Arto de la prognozoj.
 program/et/o⟦程/小/o⟧:【情】【PIV】Malgranda programo, plenumata per interpretilo.
 progres/ad/i⟦进/行/i⟧:【PIV】Dau^re progresi: progresadi en c^io brava ; en sia metio li progresadis malrapide .
@@ -55126,7 +55126,7 @@ skual/o:【PIV】Subita ventpus^ego, ofte kun ekpluvo.
 skulpt/ind/a⟦雕ˢ/值/a⟧:【PIV】Tia, ke g^i meritas esti skulptita: skulptindaj formoj de virino.
 skulptur/o⟦雕ˢᴿ/o⟧:【PIV】Skulptarto: la skulpturo, la pentrarto k la arh^itekturo .
 skulptur/a⟦雕ˢᴿ/a⟧:【PIV】Rilata al skulpturo: skulptura muzeo, ekspozicio.
-skunk/o:【PIV】1 Mefitfelo. 2 = mefito
+skunk/o⟦鼠ˢᴷ/o⟧:【PIV】1 Mefitfelo. 2 = mefito
 skut/i⟦滑ˢᵁ/i⟧:【PIV】(ntr (netransitiva)) Iradi per skutilo.
 skut/il/o⟦滑ˢᵁ/具/o⟧:【PIV】Ludilo kun du malgrandaj radoj antau^a k malantau^a k stanga direktilo, kiun la infano irigas, pus^ante per unu piedo sur la teron.
 skutelari/o⟦草ˢᴷᵁ/o⟧:【植】【PIV】G. (Genro) (Scutellaria el lamiacoj) de plantoj - unu-k plur-jaraj herboj k arbustetoj - kun grapoloj au^ spikoj el floroj, karakterizataj de longtuba, dulipa, supraparte kaskoforma korolo; kosmopolita g. (genro) de c^. (c^irkau^) 350 sp-oj (specioj) precipe montaraj, kelkaj pororname kultivataj k/au^ medicine uzataj.
@@ -56527,7 +56527,7 @@ turbul/em/a⟦乱ᵀ/倾/a⟧:【PIV】(f (figurasence)) Malkvietema, malpacema.
 turd/ed/oj⟦鸟ᵀ/科ᴱ/oj⟧:【動】【PIV】Fam. (Familio) (Turdidae) de paseroformaj birdoj, al kiu apartenas enanto, fenikuro, rug^gorg^ulo, saksikolo, turdo k.a. (kaj aliaj)
 turg/a⟦胀ᵀ/a⟧:【生】【PIV】(pp (se paroli pri) c^elo, organo au^ korpoparto) S^vela pro reteno de likvo (ekz. (ekzemple) suko, akvo, vejna sango).
 turg/ec/o⟦胀ᵀ/性/o⟧:【PIV】Stato de io turga.
-turgesk/o:【PIV】= turgeco.
+turgesk/o⟦胀ᵀˢ/o⟧:【PIV】= turgeco.
 turmalin/o:【地質】【PIV】Mineralo, konsistanta el borosiliciato de Na, Al, Ca, Mg k.a. (kaj aliaj) (ringsiliciato), sub formo de romboedraj, triangulsekcaj^aj kristaloj, nigra, rug^a au^ blua, pli dura ol kvarco, malpli ol topazo; g^i elektrig^as pro varmigo au^ kunpremo.
 turment/ad/o⟦虐/行/o⟧:【PIV】Ago de iu, kiu turmentas: turmentado de iu al iu; mi faras miraklojn en la turmentado .
 turment/ad/i⟦虐/行/i⟧:【PIV】Dau^re au^ ripete turmenti: g^is kiam vi turmentados min per paroloj? ; tre ofte turmentadis min la penso, ke mi ne havas la moralan rajton .

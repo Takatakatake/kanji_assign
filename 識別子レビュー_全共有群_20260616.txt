@@ -1212,7 +1212,7 @@
   titi           猴ᵀ         F=1     piv     
   tarsi          猴ᵀᴿ        F=1     piv     
 
-【鼠】 23件
+【鼠】 24件
   mus            鼠          F=15    basic   
   rat            鼠ᴿ         F=6     basic   
   mustel         鼠ᴹˢ        F=6     pejvo   
@@ -1235,6 +1235,7 @@
   muskarden      鼠ᴹᴿ        F=1     piv     
   miokastor      鼠ᴹᵀ        F=1     piv     
   ondatr         鼠ᴼ         F=1     piv     
+  skunk          鼠ˢᴷ        F=1     piv     
   tuku           鼠ᵀ         F=1     piv     
 
 【果】 20件
@@ -1423,6 +1424,18 @@
   gak            鸣ᴳ         F=1     piv     
   kuku           鸣ᴷᴷ        F=1     piv     
 
+【异】 10件
+  fremd          异          F=19    basic   
+  diferenc       异ᴰ         F=18    basic   
+  hetero         异ᴴ         F=11    pejvo   他律・異質
+  diferencial    异ᴰᴸ        F=5     pejvo   
+  ekzot          异ᴱ         F=3     pejvo   
+  pagan          异ᴾ         F=3     pejvo   
+  anomali        异ᴬ         F=2     pejvo   
+  disident       异ᴰˢ        F=2     pejvo   
+  diferenci      异ᴰᴵ        F=1     pejvo   
+  ekzotik        异ᴱᴷ        F=1     pejvo   
+
 【车】 10件
   aŭt            车          F=61    basic   
   trajn          车ᵀ         F=19    basic   
@@ -1512,17 +1525,6 @@
   biret          帽ᴮ         F=1     pejvo   
   kasket         帽ᴷᵀ        F=1     pejvo   
   beret          帽ᴮᴱ        F=1     piv     
-
-【异】 9件
-  fremd          异          F=19    basic   
-  diferenc       异ᴰ         F=18    basic   
-  hetero         异ᴴ         F=11    pejvo   他律・異質
-  diferencial    异ᴰᴸ        F=5     pejvo   
-  ekzot          异ᴱ         F=3     pejvo   
-  pagan          异ᴾ         F=3     pejvo   
-  anomali        异ᴬ         F=2     pejvo   
-  disident       异ᴰˢ        F=2     pejvo   
-  diferenci      异ᴰᴵ        F=1     pejvo   
 
 【辩】 9件
   pled           辩          F=6     basic   
@@ -1847,6 +1849,15 @@
   paleo          古ᴾ         F=2     pejvo   
   arkaik         古ᴬᴵ        F=1     pejvo   
 
+【膏】 7件
+  cir            膏          F=4     basic   
+  balzam         膏ᴮ         F=7     pejvo   
+  kataplasm      膏ᴷ         F=2     pejvo   
+  pomad          膏ᴾ         F=2     pejvo   
+  liniment       膏ᴸ         F=1     pejvo   
+  plastr         膏ᴾᴸ        F=1     pejvo   
+  ungvent        膏ᵁ         F=1     pejvo   
+
 【合】 7件
   kombin         合          F=19    basic   
   konform        合ᴷᴺ        F=21    basic   
@@ -1936,6 +1947,15 @@
   stereotip      套ˢ         F=3     pejvo   
   laz            套ᴸ         F=1     pejvo   
   vaginal        套ⱽ         F=2     piv     【解】鞘膜
+
+【凸】 7件
+  ĝib            凸          F=13    basic   
+  konveks        凸ᴷ         F=10    pejvo   
+  tenon          凸ᵀ         F=2     pejvo   
+  bos            凸ᴮ         F=3     piv     【建】粗面石積み
+  galb           凸ᴳ         F=3     piv     凸状輪郭
+  protrud        凸ᴾ         F=2     piv     【解】突出した
+  prognat        凸ᴾᴳ        F=1     piv     【解】突顎
 
 【表】 7件
   tabel          表          F=24    basic   
@@ -2118,14 +2138,6 @@
   primar         原ᴾᴿ        F=3     pejvo   
   pamp           原ᴾᴾ        F=2     piv     【地理】パンパ
 
-【膏】 6件
-  cir            膏          F=4     basic   
-  balzam         膏ᴮ         F=7     pejvo   
-  kataplasm      膏ᴷ         F=2     pejvo   
-  pomad          膏ᴾ         F=2     pejvo   
-  liniment       膏ᴸ         F=1     pejvo   
-  ungvent        膏ᵁ         F=1     pejvo   
-
 【刺】 6件
   pik            刺          F=44    basic   
   dorn           刺ᴰ         F=18    basic   
@@ -2229,14 +2241,6 @@
   sinus          洞ˢ         F=9     pejvo   
   spele          洞ˢᴾ        F=3     pejvo   
   antr           洞ᴬ         F=1     piv     
-
-【凸】 6件
-  ĝib            凸          F=13    basic   
-  konveks        凸ᴷ         F=10    pejvo   
-  tenon          凸ᵀ         F=2     pejvo   
-  bos            凸ᴮ         F=3     piv     【建】粗面石積み
-  galb           凸ᴳ         F=3     piv     凸状輪郭
-  protrud        凸ᴾ         F=2     piv     【解】突出した
 
 【排】 6件
   ekskluziv      排          F=11    basic   
@@ -2549,6 +2553,13 @@
   krat           治ᴷ         F=5     pejvo   
   krati          治ᴷᴵ        F=3     pejvo   
   regi           治ᴿᴵ        F=3     pejvo   
+
+【鹿】 5件
+  cerv           鹿          F=18    basic   
+  dama           鹿ᴰ         F=3     pejvo   
+  kapreol        鹿ᴷ         F=3     pejvo   
+  boac           鹿ᴮ         F=1     pejvo   
+  tragol         鹿ᵀ         F=1     piv     
 
 【式】 5件
   manier         式          F=27    basic   
@@ -3136,6 +3147,12 @@
   institut       院ᴵ         F=4     basic   
   kolegi         院ᴷᴸ        F=4     basic   
 
+【瓜】 4件
+  melon          瓜          F=5     basic   
+  kukurb         瓜ᴷᴿ        F=9     basic   
+  kukum          瓜ᴷ         F=3     basic   
+  melopep        瓜ᴹᴾ        F=1     pejvo   
+
 【桶】 4件
   kuv            桶          F=7     basic   
   barel          桶ᴮ         F=15    basic   
@@ -3339,12 +3356,6 @@
   pag^i          侍ᴾ         F=2     pejvo   
   stevard        侍ˢ         F=2     pejvo   
   grum           侍ᴳ         F=1     pejvo   
-
-【鹿】 4件
-  cerv           鹿          F=18    basic   
-  dama           鹿ᴰ         F=3     pejvo   
-  kapreol        鹿ᴷ         F=3     pejvo   
-  tragol         鹿ᵀ         F=1     piv     
 
 【室】 4件
   ĉambr          室          F=68    basic   
@@ -3609,6 +3620,12 @@
   pulvor         粉ᴾ         F=23    basic   
   pudr           粉ᴾᴰ        F=5     basic   
   polen          粉ᴾᴺ        F=10    pejvo   
+
+【片】 4件
+  pec            片          F=35    basic   
+  lamen          片ᴸ         F=14    basic   
+  split          片ˢ         F=8     basic   
+  lamel          片ᴸᴸ        F=1     piv     
 
 【鞭】 4件
   vip            鞭          F=10    basic   
@@ -4030,6 +4047,12 @@
   paliativ       缓ᴾ         F=2     pejvo   
   remit          缓ᴿᴹ        F=2     piv     【医】寛解
 
+【胀】 4件
+  puf            胀          F=15    pejvo   
+  inflaci        胀ᴵ         F=3     pejvo   
+  turg           胀ᵀ         F=4     piv     【生】膨圧で膨れる
+  turgesk        胀ᵀˢ        F=1     piv     
+
 【蓝】 4件
   blu            蓝          F=41    basic   
   indig          蓝ᴵ         F=7     pejvo   
@@ -4210,11 +4233,6 @@
   obscen         淫ᴼ         F=3     pejvo   
   lasciv         淫ᴸ         F=1     piv     
 
-【瓜】 3件
-  melon          瓜          F=5     basic   
-  kukurb         瓜ᴷᴿ        F=9     basic   
-  kukum          瓜ᴷ         F=3     basic   
-
 【影】 3件
   ombr           影          F=22    basic   
   film           影ᶠ         F=44    basic   
@@ -4244,6 +4262,11 @@
   ist            家          F=1291  suf     
   hejm           家ᴴ         F=42    basic   
   famili         家ᶠ         F=24    basic   
+
+【蚊】 3件
+  moskit         蚊          F=5     basic   
+  kul            蚊ᴷ         F=2     pejvo   
+  anofel         蚊ᴬ         F=1     pejvo   
 
 【雅】 3件
   graci          雅          F=8     basic   
@@ -5015,11 +5038,6 @@
   seps           腐ˢ         F=15    pejvo   
   sapr           腐ˢᴿ        F=7     piv     【生態】腐生物質(枯死有機物)
 
-【片】 3件
-  pec            片          F=35    basic   
-  lamen          片ᴸ         F=14    basic   
-  split          片ˢ         F=8     basic   
-
 【墓】 3件
   tomb           墓          F=17    basic   
   katakomb       墓ᴷ         F=1     pejvo   
@@ -5540,11 +5558,6 @@
   profesi        职ᴾ         F=13    basic   
   karier         职ᴷ         F=7     basic   
 
-【胀】 3件
-  puf            胀          F=15    pejvo   
-  inflaci        胀ᴵ         F=3     pejvo   
-  turg           胀ᵀ         F=4     piv     【生】膨圧で膨れる
-
 【脑】 3件
   cerb           脑          F=33    basic   
   encefal        脑ᴱ         F=11    pejvo   
@@ -5684,6 +5697,11 @@
   hotel          馆          F=7     basic   
   muze           馆ᴹ         F=5     basic   
   pavilon        馆ᴾ         F=2     pejvo   
+
+【马】 3件
+  ĉeval          马          F=51    basic   
+  kulan          马ᴷ         F=1     piv     
+  onagr          马ᴼ         F=1     piv     
 
 【驳】 3件
   refut          驳          F=4     basic   
@@ -5834,10 +5852,6 @@
 【花环】 2件
   girland        花环         F=2     basic   
   feston         花环ᶠ        F=2     pejvo   
-
-【蚊】 2件
-  moskit         蚊          F=5     basic   
-  kul            蚊ᴷ         F=2     pejvo   
 
 【我】 2件
   mi             我          F=20    func    
@@ -8162,10 +8176,6 @@
 【饱】 2件
   sat            饱          F=27    basic   
   satur          饱ˢᴿ        F=14    pejvo   
-
-【马】 2件
-  ĉeval          马          F=51    basic   
-  onagr          马ᴼ         F=1     piv     
 
 【马车】 2件
   fiakr          马车         F=3     pejvo   
