@@ -2254,6 +2254,14 @@
   spele          洞ˢᴾ        F=3     pejvo   
   antr           洞ᴬ         F=1     piv     
 
+【特】 6件
+  special        特          F=11    basic   
+  specif         特ˢᶠ        F=9     basic   
+  ekstr          特ᴱ         F=6     basic   
+  trajt          特ᵀ         F=1     basic   
+  karakteriz     特ᴷ         F=0     basic   
+  specifik       特ˢᴷ        F=1     pejvo   
+
 【排】 6件
   ekskluziv      排          F=11    basic   
   kompost        排ᴷ         F=13    pejvo   
@@ -2398,6 +2406,14 @@
   modern         现ᴹ         F=10    basic   
   kontant        现ᴷ         F=8     basic   
 
+【结】 6件
+  lig            结          F=49    basic   
+  nod            结ᴺ         F=18    basic   
+  konklud        结ᴷ         F=6     basic   
+  bant           结ᴮ         F=3     basic   
+  tuberkul       结ᵀ         F=7     pejvo   
+  knot           结ᴷᵀ        F=1     piv     
+
 【缩】 6件
   ful            缩          F=6     pejvo   
   miniatur       缩ᴹ         F=6     pejvo   
@@ -2509,6 +2525,13 @@
   heraldik       徽ᴴ         F=2     pejvo   
   emblem         徽ᴱ         F=1     pejvo   
   kokard         徽ᴷ         F=1     pejvo   
+
+【妓】 5件
+  prostitu       妓          F=9     pejvo   
+  putin          妓ᴾᵀ        F=2     pejvo   
+  hetajr         妓ᴴ         F=1     pejvo   
+  meretric       妓ᴹ         F=2     piv     娼婦
+  prostituci     妓ᴾᶜ        F=1     piv     
 
 【吸】 5件
   suĉ            吸          F=36    basic   
@@ -2713,6 +2736,13 @@
   geografi       地ᴳᴳ        F=0     basic   
   topo           地ᵀᴾ        F=8     pejvo   
 
+【中】 5件
+  mez            中          F=91    basic   
+  neŭtral        中ᴺ         F=11    basic   
+  neu^tr         中ᴺᴱ        F=11    pejvo   
+  median         中ᴹᴰ        F=1     pejvo   
+  mezant         中ᴹᵀ        F=1     piv     
+
 【柱】 5件
   mast           柱          F=21    basic   
   kolon          柱ᴷ         F=23    basic   
@@ -2740,13 +2770,6 @@
   ident          同ᴵ         F=10    basic   
   asimil         同ᴬ         F=6     basic   
   unison         同ᵁ         F=2     pejvo   
-
-【特】 5件
-  special        特          F=11    basic   
-  specif         特ˢᶠ        F=9     basic   
-  ekstr          特ᴱ         F=6     basic   
-  trajt          特ᵀ         F=1     basic   
-  karakteriz     特ᴷ         F=0     basic   
 
 【督】 5件
   prefekt        督          F=7     pejvo   
@@ -2916,6 +2939,13 @@
   frok           袍ᶠ         F=3     piv     修道服・僧衣
   kut            袍ᴷ         F=2     piv     【史】鎧の上着・サーコート
 
+【创】 5件
+  kre            创          F=22    basic   
+  iniciat        创ᴵᶜ        F=9     basic   
+  invent         创ᴵ         F=8     basic   
+  trau^mat       创ᵀ         F=6     pejvo   
+  trau^m         创ᵀᴿ        F=1     pejvo   
+
 【喷】 5件
   ŝpruc          喷          F=27    basic   
   tern           喷ᵀ         F=6     basic   
@@ -3027,13 +3057,6 @@
   jasp           纹ᴶ         F=4     pejvo   
   fret           纹ᶠ         F=3     pejvo   
   arabesk        纹ᴬ         F=1     pejvo   
-
-【结】 5件
-  lig            结          F=49    basic   
-  nod            结ᴺ         F=18    basic   
-  konklud        结ᴷ         F=6     basic   
-  bant           结ᴮ         F=3     basic   
-  tuberkul       结ᵀ         F=7     pejvo   
 
 【编】 5件
   plekt          编          F=18    basic   
@@ -3206,12 +3229,6 @@
   kurioz         奇ᴷ         F=5     basic   
   mirakl         奇ᴹ         F=5     basic   
   bizar          奇ᴮ         F=1     pejvo   
-
-【妓】 4件
-  prostitu       妓          F=9     pejvo   
-  putin          妓ᴾᵀ        F=2     pejvo   
-  hetajr         妓ᴴ         F=1     pejvo   
-  meretric       妓ᴹ         F=2     piv     娼婦
 
 【技】 4件
   teknik         技          F=26    basic   
@@ -3465,6 +3482,12 @@
   substitu       替ˢ         F=5     pejvo   
   dubl           替ᴰ         F=4     pejvo   
 
+【大】 4件
+  grand          大          F=105   basic   
+  majuskl        大ᴹ         F=6     basic   
+  maj^or         大ᴹᴶ̂       F=8     pejvo   
+  versal         大ⱽ         F=1     piv     
+
 【段】 4件
   etap           段          F=2     basic   
   epizod         段ᴱᴾ        F=3     basic   
@@ -3476,12 +3499,6 @@
   proskrib       逐ᴾ         F=2     pejvo   
   proskripci     逐ᴾᴾ        F=1     pejvo   
   deport         逐ᴰ         F=1     piv     
-
-【中】 4件
-  mez            中          F=91    basic   
-  neŭtral        中ᴺ         F=11    basic   
-  neu^tr         中ᴺᴱ        F=11    pejvo   
-  median         中ᴹᴰ        F=1     pejvo   
 
 【停】 4件
   halt           停          F=31    basic   
@@ -3675,6 +3692,12 @@
   krabr          蜂ᴷ         F=1     pejvo   
   cinip          蜂ᶜ         F=1     piv     
 
+【防】 4件
+  defend         防          F=24    basic   
+  prevent        防ᴾ         F=10    pejvo   
+  profilaktik    防ᴾᶠ        F=2     pejvo   
+  profilakt      防ᴾᴿ        F=1     piv     
+
 【牧】 4件
   paŝt           牧          F=14    basic   
   pastr          牧ᴾˢ        F=14    basic   
@@ -3854,12 +3877,6 @@
   bred           养ᴮ         F=15    basic   
   vart           养ⱽ         F=12    basic   
   trofi          养ᵀ         F=11    pejvo   
-
-【创】 4件
-  kre            创          F=22    basic   
-  iniciat        创ᴵᶜ        F=9     basic   
-  invent         创ᴵ         F=8     basic   
-  trau^mat       创ᵀ         F=6     pejvo   
 
 【单】 4件
   mono           单          F=30    pref    
@@ -4834,11 +4851,6 @@
   poŝ            袋ᴾ         F=24    basic   
   marsupi        袋ᴹ         F=2     piv     【動】育児嚢
 
-【大】 3件
-  grand          大          F=105   basic   
-  majuskl        大ᴹ         F=6     basic   
-  maj^or         大ᴹᴶ̂       F=8     pejvo   
-
 【谷】 3件
   val            谷          F=13    basic   
   gren           谷ᴳ         F=15    basic   
@@ -5004,6 +5016,11 @@
   azil           庇ᴬ         F=4     pejvo   
   mecenat        庇ᴹ         F=2     pejvo   
 
+【比】 3件
+  ol             比          F=26    func    
+  proporci       比ᴾ         F=14    basic   
+  rati           比ᴿ         F=1     piv     
+
 【尾】 3件
   vost           尾          F=37    basic   
   kulas          尾ᴷ         F=4     pejvo   
@@ -5039,6 +5056,11 @@
   seps           腐ˢ         F=15    pejvo   
   sapr           腐ˢᴿ        F=7     piv     【生態】腐生物質(枯死有機物)
 
+【腹】 3件
+  ventr          腹          F=20    basic   
+  lapar          腹ᴸ         F=4     pejvo   
+  abdomen        腹ᴬ         F=1     pejvo   
+
 【墓】 3件
   tomb           墓          F=17    basic   
   katakomb       墓ᴷ         F=1     pejvo   
@@ -5048,11 +5070,6 @@
   kuir           烹          F=41    basic   
   gastronomi     烹ᴳ         F=0     basic   
   kulinar        烹ᴷᴸ        F=1     pejvo   
-
-【防】 3件
-  defend         防          F=24    basic   
-  prevent        防ᴾ         F=10    pejvo   
-  profilaktik    防ᴾᶠ        F=2     pejvo   
 
 【翻】 3件
   renvers        翻          F=8     basic   
@@ -5248,6 +5265,11 @@
   spik           穗          F=7     basic   
   kvast          穗ᴷ         F=2     pejvo   
   ament          穗ᴬ         F=2     piv     【植】尾状花序
+
+【缺】 3件
+  mank           缺          F=29    basic   
+  karenc         缺ᴷ         F=1     piv     
+  lakun          缺ᴸ         F=1     piv     
 
 【罐】 3件
   amfor          罐          F=2     pejvo   
@@ -5658,6 +5680,11 @@
   ŝovel          铲          F=7     basic   
   trul           铲ᵀ         F=3     pejvo   
   spatel         铲ˢ         F=2     pejvo   
+
+【锥】 3件
+  konus          锥          F=16    pejvo   
+  piramid        锥ᴾ         F=6     pejvo   
+  strobil        锥ˢ         F=1     pejvo   
 
 【长】 3件
   long           长          F=82    basic   
@@ -6814,10 +6841,6 @@
   mantel         披          F=13    basic   
   pelerin        披ᴾ         F=1     pejvo   
 
-【比】 2件
-  ol             比          F=26    func    
-  proporci       比ᴾ         F=14    basic   
-
 【碑】 2件
   monument       碑          F=4     basic   
   stele          碑ˢ         F=1     pejvo   
@@ -6885,10 +6908,6 @@
 【福】 2件
   beat           福          F=3     pejvo   
   elize          福ᴱ         F=3     pejvo   
-
-【腹】 2件
-  ventr          腹          F=20    basic   
-  lapar          腹ᴸ         F=4     pejvo   
 
 【覆】 2件
   teg            覆          F=14    basic   
@@ -7314,10 +7333,6 @@
   proviant       粮          F=6     pejvo   
   viktuali       粮ⱽ         F=1     piv     
 
-【缺】 2件
-  mank           缺          F=29    basic   
-  lakun          缺ᴸ         F=1     piv     
-
 【翅】 2件
   pter           翅          F=18    sci     【動】翼・ひれ(ナガスクジラ属)
   pterig         翅ᴾᴳ        F=7     pejvo   
@@ -7577,6 +7592,10 @@
 【帘】 2件
   kurten         帘          F=14    basic   
   persien        帘ᴾ         F=1     pejvo   
+
+【张】 2件
+  toni           张          F=8     piv     【生】緊張(筋緊張)
+  tonus          张ᵀˢ        F=1     piv     
 
 【归】 2件
   atribu         归          F=3     pejvo   
@@ -7878,6 +7897,10 @@
   ren            肾          F=10    basic   
   nefr           肾ᴺ         F=11    piv     【医】腎(腎炎)
 
+【胰】 2件
+  pankreat       胰          F=5     pejvo   
+  pankreas       胰ᴾˢ        F=1     pejvo   
+
 【脓】 2件
   pus            脓          F=5     basic   
   pio            脓ᴾᴵ        F=5     piv     【医】膿
@@ -8113,10 +8136,6 @@
 【锤】 2件
   martel         锤          F=18    basic   
   male           锤ᴹᴸ        F=4     pejvo   
-
-【锥】 2件
-  konus          锥          F=16    pejvo   
-  piramid        锥ᴾ         F=6     pejvo   
 
 【镑】 2件
   pund           镑          F=2     pejvo   

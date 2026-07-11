@@ -7,7 +7,7 @@ abat/in/o⟦院长/女/o⟧:【キ】女子修道院長
 abat/o⟦院长/o⟧:{Ｏ}【キ】修道院長,大修道院長,>>prioro
 abdik/i⟦退位/i⟧:{Ｏ}［他］【政】（国王などが）退位する,譲位する,（高位者が）退任する,辞職する,>>demisii,>>eksig^i
 abdik/o⟦退位/o⟧:【政】退位,退任,辞任,辞職
-abdomen/o:【解】腹部,=ventro;【虫】（昆虫の）腹部,=ventro
+abdomen/o⟦腹ᴬ/o⟧:【解】腹部,=ventro;【虫】（昆虫の）腹部,=ventro
 abel/a⟦蜂/a⟧:蜜蜂の,蜜蜂のような
 abel/a miel/o⟦蜂/a 蜜/o⟧:天然の蜂蜜
 abel/a pik/il/o⟦蜂/a 刺/具/o⟧:蜜蜂の針
@@ -29157,7 +29157,7 @@ pan/ist/o⟦面包/家/o⟧:パン職人,パン屋
 panj/o:ママ,かあちゃん,>>patrino
 pan/kac^/o⟦面包/粥/o⟧:【料】パンがゆ
 pankrac/o:パンクラチオン（古代ギリシアの格闘競技）
-pankreas/o:【解】=>pankreato（すい臓）
+pankreas/o⟦胰ᴾˢ/o⟧:【解】=>pankreato（すい臓）
 pankreat/o⟦胰/o⟧:{Ｏ}【解】すい臓
 pan/kromat/a⟦全ᴾ/色ᴷᴿ/a⟧:【写】（乳剤が）全色性の,パンクロの##偽分解##過細分解 p/a/n/kromat/a
 pan/krust/o⟦面包/壳ᴷ/o⟧:パンの皮
@@ -37526,7 +37526,7 @@ specif/a s^arg/o⟦特ˢᶠ/a 装/o⟧:【理】比電荷
 specif/a varm/o⟦特ˢᶠ/a 暖/o⟧:【理】比熱
 specif/ec/o⟦特ˢᶠ/性/o⟧:特性,特異性
 specif/i⟦特ˢᶠ/i⟧:{Ｏ}［他］明示する,明記する,明細に記す,詳述する
-specifik/i:=>specifi（明示する）
+specifik/i⟦特ˢᴷ/i⟧:=>specifi（明示する）
 specif/o⟦特ˢᶠ/o⟧:明細,特記
 spec/ig/i⟦种ˢᴾ/使/i⟧:［他］分類する
 specimen/i⟦样/i⟧:［他］見本を作る;【統】標本抽出する
@@ -38137,7 +38137,7 @@ strikt/ec/o⟦严ˢᵀ/性/o⟧:厳格さ,厳密さ
 strikt/e dir/it/e⟦严ˢᵀ/e 说/受/e⟧:厳密に言えば
 string/i⟦勒ˢ/i⟧:［他］締めつける,握りしめる,抱きしめる,=c^irkau^premi,=c^irkau^strec^i
 stri/o⟦条/o⟧:{Ｂ}筋,しま,線条
-strobil/o:【植】球果（きゅうか）,=konuso
+strobil/o⟦锥ˢ/o⟧:【植】球果（きゅうか）,=konuso
 strobo/skop/a fot/o⟦闪ˢ/镜ˢᴷ/a 拍/o⟧:【理】ストロボ写真##偽分解##強語根分解
 strobo/skop/o⟦闪ˢ/镜ˢᴷ/o⟧:【理】ストロボスコープ##偽分解##強語根分解
 strof/o⟦节ˢᵀ/o⟧:{Ｏ}【文】（詩の）節,連
@@ -41238,7 +41238,7 @@ trau^b/o:《詩》=vinberoj（ブドウ）
 trau^mat/a⟦创ᵀ/a⟧:【医】外傷性の
 trau^mat/ism/o⟦创ᵀ/主义/o⟧:【医】外傷性全身障害
 trau^mat/o⟦创ᵀ/o⟧:【医】外傷,>>vundo,>>psika trau^mato
-trau^m/o:【医】=trau^mato（外傷）
+trau^m/o⟦创ᵀᴿ/o⟧:【医】=trau^mato（外傷）
 tra/vad/ej/o⟦穿/涉/所/o⟧:（川の）徒渉地点,浅瀬
 tra/vad/i⟦穿/涉/i⟧:［他］（川を）歩いて渡る,徒渉する
 travesti/i⟦戏仿ᵀ/i⟧:［他］（文学作品を）もじる,茶化す;仮装する
@@ -50066,7 +50066,7 @@ kare/i:【PIV】(tr (transitiva)) Spici per kareo.
 kareks/ej/o⟦草ᴷˢ/所/o⟧:【PIV】Humida loko, kie kreskas precipe kareksoj.
 karel/o:【PIV】Ano de gento, log^anta en Karelio.
 karen/form/a⟦龙骨ᴷᴿ/形/a⟧:【PIV】Prezentanta formon kvazau^ de kareno: karenforma frunto en heredosifiliso.
-karenc/o:【PIV】(evi (evitinda)) = manko.
+karenc/o⟦缺ᴷ/o⟧:【PIV】(evi (evitinda)) = manko.
 kares/ad/o⟦抚/行/o⟧:【PIV】Agoj de iu karesanta: (s^ia kolero) pasos post iom da karesado, kiun vi faros al s^i .
 kares/ind/a⟦抚/值/a⟧:【PIV】Tia, ke oni emas tiun karesi. Vd aminda, c^arma, linda.
 karet/o⟦龟ᴷᴿ/o⟧:【動】【PIV】Mara testudulo (unuspecia g. (genro) Caretta caretta) el la fam. (familio) de keloniedoj, la plej norda mara testudo, vivanta en Mediteraneo, sed demetanta ovojn precipe sur tropikaj marbordoj.
@@ -50441,7 +50441,7 @@ knid/ul/oj⟦刺胞/者/oj⟧:【動】【PIV】Alia nomo (Cnidaria) de celenter
 knik/i⟦座屈/i⟧:【技】【PIV】(ntr (netransitiva)) (pp (se paroli pri) fosto au^ kolono) Flankenfleksig^i pro troa lau^aksa s^arg^o; (f (figurasence)) knika linio (konsistanta el sinsekvaj strekoj kun diversaj anguloj).
 knik/o⟦座屈/o⟧:【PIV】Misformig^o de fosto, kiu knikas: la knikado estas dang^era fenomeno, kiu g^enerale okazas j^us antau^ la disfalo.
 knik/ad/o⟦座屈/行/o⟧:【PIV】Misformig^o de fosto, kiu knikas: la knikado estas dang^era fenomeno, kiu g^enerale okazas j^us antau^ la disfalo.
-knot/o:【PIV】= nodo 10.
+knot/o⟦结ᴷᵀ/o⟧:【PIV】= nodo 10.
 knut/o⟦鞭ᴷ/o⟧:【PIV】Mallonga ledrimena vipo, uzata en Rusio por peli brutojn: c^iupag^e: pendigo, Siberio, knutoj (uzataj kontrau^ homoj).
 koadjutor/o:【キ】【PIV】Anstatau^anto au^ helpanto de ordinito, kun la rajto sekvi en ties ofico. Vd help-episkopo, vikario.
 koalici/a⟦盟ᴷᴸ/a⟧:【PIV】Rilata al au^ rezultanta de koalicio: koalicia registaro .
@@ -51962,7 +51962,7 @@ metropolit/o:【キ】【PIV】En la protoeklezio, episkopo en c^efurbo de Romia
 metropoliten/o:【PIV】(ark. (arkaismo, arkaisme)) = metroo.
 Metus^elah^/o:【聖】【PIV】Patriarko, simbolo de vivlongeco.
 mez/um/i⟦中/um/i⟧:【数】【PIV】(tr (transitiva)) Kalkuli meznombron (de donitaj nombroj).
-mezant/o:【PIV】(evi (evitinda)) = mediano.
+mezant/o⟦中ᴹᵀ/o⟧:【PIV】(evi (evitinda)) = mediano.
 mezembriant/o⟦草ᴹᶻ/o⟧:【植】【PIV】G. (Genro) (Mesembryanthemum el aizoacoj) de unu-k du-jaraj, sukulentaj, kus^aj herboj kun folioj unue kruce kontrau^e duopaj, poste alternaj, ofte grandaj k karnaj, k kun blankaj, flavaj au^ rug^aj, unuopaj floroj supraj^e aspektantaj kiel kapituloj de asteracoj; c^. (c^irkau^) 25 sp-oj (specioj) el S Afriko, la Mediteranea regiono, la Atlantikaj insuloj, Ameriko k Au^stralio, kelkaj pororname kultivataj.
 mezenkim/o:【解】【生】【PIV】Konektivo de la embrio, kiu naskas i.a. (interalie, inter aliaj) la konektivojn k vaskulajn histojn k la glatajn muskolojn.
 mez/enter/o⟦中/肠ᴱ/o⟧:【PIV】(evi (evitinda)) = mesoentero (Vd (vidu) meso/).##偽分解(PIV正式分解)
@@ -53829,7 +53829,7 @@ pro/faz/o⟦前ᴾᴼ/相ᶠ/o⟧:【生】【PIV】Unua fazo de la mitozo k de 
 profesor/a⟦授/a⟧:【PIV】Rilata al profesoro: profesora kurso; profesora tono, au^toritato.
 profet/in/o⟦先知/女/o⟧:【PIV】Virino, kiu profetas: Debora, profetino .
 profet/ism/o⟦先知/主义/o⟧:【PIV】Psika-religia fenomeno, kiu faras el homo profeton: profetismo s^ajnas specifa trajto de la semidaj religioj.
-profilakt/i:【PIV】(tr (transitiva)) = preventi.
+profilakt/i⟦防ᴾᴿ/i⟧:【PIV】(tr (transitiva)) = preventi.
 profit/e⟦利ᴾ/e⟧:【PIV】En profita maniero au^ cirkonstanco: estus pli profite por la maljuna paro vendi la c^evalon ; kio vendig^as kas^ite, vendig^as plej profite .
 profit/il/o⟦利ᴾ/具/o⟧:【PIV】Tio, per kio oni povas profiti: tiuj, kiuj vidas en E. nur malvarman provizoran komprenilon k profitilon .
 progesteron/o:【生】【PIV】Steroida hormono, C 21 H 30 O 2, sekreciata de la flava korpo (de la ovario) dum la dua fazo de la oestra ciklo, k preparanta la uteron al eventuala gravedeco.
@@ -53921,7 +53921,7 @@ prostat/ektomi/o⟦前列腺/除ᴱᴷ/o⟧:【PIV】Parta au^ tuta ablacio de l
 prostet/o:【化】【PIV】Neproteina substanco, asociita kun proteino k donanta apartajn ecojn au^ kapablojn al tiu proteino: kunenzimoj estas prostetoj; vitaminoj ofte estas prostetoj; la hemo estas la prosteto de hemoglobino.
 prostez/o:【PIV】Literfiguro, konsistanta en la aldono, je la komenco de vorto, de litero au^ silabo sen gramatika valoro (Kp (komparu:) ekz. (ekzemple) «skadro» k «eskadro»).
 prostitu/ig^/i⟦妓/成/i⟧:【PIV】Prostitui sin.
-prostituci/o:【PIV】= prostitu(ad)o.
+prostituci/o⟦妓ᴾᶜ/o⟧:【PIV】= prostitu(ad)o.
 prostraci/o:【医】【PIV】Pli-malpli plena neniig^o de la muskolaj fortoj, observebla en gravaj formoj de akutaj malsanoj.
 prot/o⟦匠ᴾ/o⟧:【PIV】Laborestro en pasintecaj presejoj.
 protaktini/o⟦金ᴾᴷ/o⟧:【化】【PIV】Radioaktiva elemento, Pa, atomnumero 91, atommaso 231,04, aktiniido.
@@ -54182,7 +54182,7 @@ rastr/um/er/o⟦锄/um/粒/o⟧:【情】【PIV】Bildero.
 rastral/o:【PIV】Speciala kvinbeka ilo, por streki la liniaron sur muzikfolioj.
 ras^/o:【医】【PIV】Efemera erupcio, iel simila al skarlatino, morbilo ks (kaj simile, kaj similaj), k aperanta okaze de diversaj febraj malsanoj.
 ratafi/o:【PIV】Brando au^ likvoro, gustigita per amandoj au^ kernoj de persiko, abrikoto au^ c^erizo.
-rati/o:【PIV】(evi (evitinda)) = proporcio 4, rilatumo.
+rati/o⟦比ᴿ/o⟧:【PIV】(evi (evitinda)) = proporcio 4, rilatumo.
 Raul/o:【PIV】Vira nomo.
 rau^f/o:【PIV】= rako 1.
 rau^p/er/o⟦毛虫/粒/o⟧:【PIV】C^iu el la platoj, interligitaj en rau^po 2.
@@ -56264,7 +56264,7 @@ toni/ig/a⟦张/使/a⟧:【PIV】Pliiganta la tonion.
 toni/don/a⟦张/给/a⟧:【PIV】Pliiganta la tonion.
 tonk/o⟦木ᵀᴺ/o⟧:【植】【PIV】Odora dipteriko.
 tonsil/ektomi/o⟦扁桃ᵀ/除ᴱᴷ/o⟧:【医】【PIV】Fortranc^o de la palataj tonsiloj.##偽分解(PIV正式分解)
-tonus/o:【PIV】= tonio.
+tonus/o⟦张ᵀˢ/o⟧:【PIV】= tonio.
 topik/o⟦题ᵀᴾ/o⟧:【PIV】1 Parto de la retoriko, teorio de la g^eneralaj kategorioj, el kiuj oni povas tiri argumentojn. 2 En aserta frazo, la sintagmo reprezentanta tion, pri kio oni intencas aserti ion. Vd komento. 3【薬】 Medikamento aplikenda sur la tegumentojn.
 topik/ig/i⟦题ᵀᴾ/使/i⟧:【PIV】Transformi en topikon 2.
 topinambur/o⟦草ᵀᴮ/o⟧:【植】【PIV】1 Tubera helianto. 2 La tubero de topinamburo 1, kiun oni kuiras kiel terpomon.
@@ -56802,7 +56802,7 @@ Veronez/o:【PIV】Itala pentristo de la Venecia skolo (P. Caliari, 1528−1588)
 vers/a⟦句ⱽ/a⟧:【PIV】Rilata al versoj: versa rakonto; la versaj leg^oj.
 vers/eg/o⟦句ⱽ/巨/o⟧:【PIV】Longa verso, plejofte sen rimoj, sen alia ritmo, ol cezuro c^irkau^ la mezo: la versegoj de la Biblio, de Zaratus^tro. -> versiklo.
 vers/et/o⟦句ⱽ/小/o⟧:【PIV】Mallonga verso pri malgrava temo: mi j^etis sur la paperon kelkajn versetojn.
-versal/o:【PIV】= majusklo. Rim. (Rimarko) versalo ne estas sinonimo de majuskleto.
+versal/o⟦大ⱽ/o⟧:【PIV】= majusklo. Rim. (Rimarko) versalo ne estas sinonimo de majuskleto.
 versikl/o:【文】【PIV】1 Longa verso sen interna strukturo ritma. 2 Divid-unuo por tekstoj el la Biblio, Korano, au^ el la klasika literaturo.
 vers^/o⟦浇/o⟧:【PIV】Ago de iu, kiu vers^as.
 vers^/ist/o⟦浇/家/o⟧:【PIV】Viro, plej ofte juna, kies ofico estis vers^i vinon al festenantoj en la antikvaj au^ orientaj landoj.
