@@ -782,7 +782,7 @@ akompan/ant/ar/o⟦伴ᴬ/在/群/o⟧:随員（全体）,随行団
 akompan/ant/o⟦伴ᴬ/在/o⟧:同伴者,随行者;【楽】伴奏者
 akompan/i⟦伴ᴬ/i⟧:{Ｂ}［他］同行する;【楽】伴奏する
 akompan/o⟦伴ᴬ/o⟧:同伴,随行;【楽】伴奏
-akonit/o:【植】トリカブト（鳥兜）
+akonit/o⟦草ᴬᴷᴼ/o⟧:【植】トリカブト（鳥兜）
 Akonkagv/o:【地名】アコンカグワ山（アルゼンチン）
 akord/i⟦和ᴬ/i⟧:［自］調和している
 akord/ig/i⟦和ᴬ/使/i⟧:［他］一致させる
@@ -1021,7 +1021,7 @@ alban/a:アルバニア（人）の
 Alban/i/o:【国名】アルバニア（欧州）
 alban/o:{Ｏ}アルバニア人
 Alban/uj/o:【国名】=Albanio（アルバニア）
-albatros/o:【鳥】アホウドリ
+albatros/o⟦鸟ᴬᴮ/o⟧:【鳥】アホウドリ
 Albert/o:【地名】アルバータ州（カナダ）
 albin/ism/o⟦白ᴬ/主义/o⟧:【生】白化現象
 albin/o⟦白ᴬ/o⟧:{Ｏ}【生】白子（しろこ）,アルビノ
@@ -2242,7 +2242,7 @@ arane/ul/oj⟦蛛/者/oj⟧:【動】クモ目
 arang^/em/a⟦整ᴬ/倾/a⟧:創意工夫に富んだ
 arang^/i⟦整ᴬ/i⟧:{Ｂ}［他］整える,整頓する;手配する;【楽】編曲する;【劇】脚色する
 arang^/o⟦整ᴬ/o⟧:整理,整頓;配置,手配;催し;【楽】編曲,アレンジ;【劇】脚色;【情】レイアウト,>>alkadrigi,>>dekstrumigi,>>centrigi
-ara/o:【鳥】コンゴウインコ（属）
+ara/o⟦鹦ᴬ/o⟧:【鳥】コンゴウインコ（属）
 Ararat/o:【地名】アララット山（トルコ）
 Aras/o:【地名】アラース（フランス）
 arau^kari/o:【植】ナンヨウスギ（南洋杉）（属）
@@ -2988,7 +2988,7 @@ azot/o⟦氮ᴬ/o⟧:{Ｏ}【化】窒素（の古い呼称）,=nitrogeno
 Azov/a Mar/o:【地名】アゾフ海（ウクライナ南方）
 Azov/o:【地名】アゾフ（ロシア）
 aztek/oj:アステカ族（メキシコ先住民）
-azuki/o:【植】アズキ（小豆）（種）
+azuki/o⟦豆ᴬ/o⟧:【植】アズキ（小豆）（種）
 ba:［間］へっ！,ふん！（軽蔑、驚きを示す）
 baba/o:【料】ババ（ラム酒のシロップに浸したケーキ）
 babel/ism/o⟦babel/主义/o⟧:言語の混乱
@@ -3230,7 +3230,7 @@ bantu/o:バントゥー人
 bantu/oj:バントゥー族
 ban/uj/o⟦浴/器/o⟧:湯船,浴槽,=bankuvo
 ban/urb/o⟦浴/市/o⟧:温泉町,湯治場
-baobab/o:【植】バオバブ
+baobab/o⟦木ᴮᴮ/o⟧:【植】バオバブ
 bapt/an/o⟦洗ᴮ/员ᴬ/o⟧:洗礼立会人
 bapt/at/o⟦洗ᴮ/被/o⟧:洗礼を受ける人,受洗者
 bapt/i⟦洗ᴮ/i⟧:{Ｂ}［他］【宗】洗礼を施す;《転》名付ける
@@ -4032,7 +4032,7 @@ bombast/o⟦夸ᴮ/o⟧:{Ｏ}大言壮語,誇張
 bomb/aviad/il/o⟦弹/航/具/o⟧:爆撃機
 bomb/eksplod/o⟦弹/爆/o⟧:爆弾の爆発
 bomb/i⟦弹/i⟧:［他］【軍】爆撃する
-bombiks/o:【虫】カイコガ,カイコ（蚕）,>>silkrau^po
+bombiks/o⟦蛾ᴮ/o⟧:【虫】カイコガ,カイコ（蚕）,>>silkrau^po
 bomb/o⟦弹/o⟧:{Ｏ}【軍】爆弾;【理】ボンベ（耐圧容器）
 bomb/o/kanon/o⟦弹/o/炮/o⟧:【軍】臼砲（きゅうほう）
 bombon/o⟦糖ᴮ/o⟧:{Ｂ}【菓】キャンデー,ボンボン
@@ -4390,7 +4390,7 @@ brokant/i⟦贩/i⟧:{Ｂ}［自］古物売買する,中古で売買する
 brokant/ist/o⟦贩/家/o⟧:古物商,>>antikvaj^isto
 brok/at/o⟦锦/被/o⟧:=brokaj^o
 brok/i⟦锦/i⟧:［他］紋織りにする,錦織りにする
-brokol/o:{Ｏ}【植】ブロッコリー
+brokol/o⟦菜ᴮᴷ/o⟧:{Ｏ}【植】ブロッコリー
 brom/id/o⟦卤ᴮ/化ᴵᴰ/o⟧:【化】臭化物##偽分解(PIV正式分解)
 brom/id/paper/o⟦卤ᴮ/化ᴵᴰ/纸/o⟧:【写】ブロマイド印画紙##偽分解(PIV正式分解)
 brom/ism/o⟦卤ᴮ/主义/o⟧:【医】臭素中毒
@@ -4622,7 +4622,7 @@ bunt/a⟦彩/a⟧:=diverskolora（色とりどりの）
 bunt/peg/o⟦彩/啄木/o⟧:【鳥】アカゲラ（赤啄木鳥）（属）
 bu/o⟦浮/o⟧:【海】ブイ,浮標
 Burbon/o:【史】ブルボン家（フランスの王家）
-burd/o:{Ｏ}【虫】マルハナバチ
+burd/o⟦蜂ᴮ/o⟧:{Ｏ}【虫】マルハナバチ
 burger/o:【料】=hamburgero
 Burgonj/o:【地名】ブルゴーニュ地方（フランス）
 burg^/a⟦资ᴮ/a⟧:中産階級の,ブルジョアの
@@ -5003,7 +5003,7 @@ cikatr/o⟦疤/o⟧:{Ｂ}傷跡（きずあと）
 cikl/a⟦环ᶜ/a⟧:周期的な,循環の
 Ciklad/oj:【地名】キクラデス諸島（エーゲ海）
 cikl/a hidr/o/karbon/o⟦环ᶜ/a 水ᴴ/o/碳/o⟧:【化】環式炭化水素##偽分解##過細分解 cikl/a h/i/d/r/o/karbon/o
-ciklamen/o:【植】シクラメン（属）
+ciklamen/o⟦花ᶜ/o⟧:【植】シクラメン（属）
 cikl/ist/o⟦环ᶜ/家/o⟧:サイクリスト
 cikl/o⟦环ᶜ/o⟧:{Ｂ}周期,循環,サイクル;【文】（同一主題の）物語群,連作;【交】自転車;【化】炭素環;【環】（物質の）循環,=cirkulado;【理】サイクル（周波数の単位，c）
 cikl/oid/o⟦环ᶜ/似ᴼ/o⟧:【数】サイクロイド
@@ -5793,7 +5793,7 @@ daktil/o/palm/o⟦枣/o/棕/o⟧:【植】ナツメヤシ,=daktilujo
 daktil/uj/o⟦枣/器/o⟧:【植】ナツメヤシ
 Dalai-lama/o:【仏】ダライラマ（チベット仏教の最高指導者の称）
 Dalas/o:【地名】ダラス（米国）
-dali/o:{Ｏ}【植】ダリア
+dali/o⟦菊ᴰ/o⟧:{Ｏ}【植】ダリア
 dalmatik/o:【カ】ダルマチカ（助祭や司教の着ける祭服の一種）
 Dalmat/i/o:【史】ダルマティア（古代ローマ，アドリア海東岸地方）
 dalmat/o:【史】ダルマティア人
@@ -10100,7 +10100,7 @@ eu^forbi/ac/oj⟦草ᴱ/科ᴬ/oj⟧:【植】トウダイグサ科
 eu^forbi/o⟦草ᴱ/o⟧:【植】トウダイグサ（属）
 Eu^frat/o:【地名】ユーフラテス川（西アジア）
 eu^genik/o⟦优生/o⟧:【学】優生学
-eu^kalipt/o:{Ｏ}【植】ユーカリ（属）
+eu^kalipt/o⟦木ᴱᵀ/o⟧:{Ｏ}【植】ユーカリ（属）
 eu^karisti/o⟦圣餐ᴱ/o⟧:{Ｏ}【キ】（カトリックで）聖体の秘蹟（ひせき）,（プロテスタントで）聖餐（せいさん）
 eu^klid/a geo/metri/o⟦eu^klid/a 地ᴳ/测ᴹᵀ/o⟧:ユークリッド幾何学##偽分解
 Eu^klid/o:【人名】ユークリッド（古代ギリシアの数学者）
@@ -10743,7 +10743,7 @@ fenestr/o/s^irm/il/o⟦窗/o/庇/具/o⟧:窓の日よけ
 fenestr/o/vitr/o⟦窗/o/玻/o⟧:窓ガラス
 Fenic/i/o:【史】フェニキア（現レバノンの海岸地方）
 fenic/o:【史】フェニキア人
-fenikopter/o:【鳥】フラミンゴ（属）,ベニヅル
+fenikopter/o⟦鸟ᶠᵀ/o⟧:【鳥】フラミンゴ（属）,ベニヅル
 feniks/o⟦凤/o⟧:{Ｏ}不死鳥,フェニックス;鳳凰（ほうおう）;《転》第一人者
 Feniks/o:【天】ほうおう（鳳凰）座
 fenkol/o:{Ｏ}【植】ウイキョウ（属）
@@ -11781,7 +11781,7 @@ for/rul/i⟦离/卷ᴿ/i⟧:［他］転がしのける
 for/salt/i⟦离/跳/i⟧:［自］跳び去る,跳んで逃げる
 for/sav/ig^/i⟦离/救/成/i⟧:［自］逃れる,避難する
 for/send/i⟦离/送/i⟧:［他］遠くへ送る
-forsiti/o:【植】レンギョウ（連翹，属）
+forsiti/o⟦木ᶠˢ/o⟧:【植】レンギョウ（連翹，属）
 for/skrap/i⟦离/刮/i⟧:［他］削り取ってしまう
 for/skrib/i⟦离/书ˢ/i⟧:［他］（書いて）使い果たす
 for/sku/i⟦离/摇/i⟧:振り払う,払いのける
@@ -12586,7 +12586,7 @@ gard/ang^el/o⟦守/天使/o⟧:【キ】守護天使
 gard/ant/o⟦守/在/o⟧:見張り（人）,監視人
 gard/e⟦守/e⟧:番をして;用心深く
 gard/ej/o⟦守/所/o⟧:見張り所,番小屋;隠れ家,安全な場所
-gardeni/o:{Ｏ}【植】クチナシ（梔子）（属）
+gardeni/o⟦木ᴳᴱ/o⟧:{Ｏ}【植】クチナシ（梔子）（属）
 gard/i⟦守/i⟧:{Ｂ}［他］見張る,番をする;守護する,護衛する;監視する,警戒する;守る,保存する,保管する
 gard/il/o⟦守/具/o⟧:通行証;【電】回路遮断器（ブレーカー）
 gard/ist/ej/o⟦守/家/所/o⟧:見張り所,番小屋,警備員詰所
@@ -12923,7 +12923,7 @@ gingiv/inflam/o⟦牙肉/炎ᴵ/o⟧:【病】歯肉炎,=gingivito
 gingiv/it/o⟦牙肉/炎ᵀ/o⟧:【病】歯肉炎,=gingivinflamo##偽分解(PIV正式分解)
 gingiv/o⟦牙肉/o⟧:【解】歯肉,歯茎,=dentokarno
 Ginjol/o:【劇】ギニョール（フランスの指人形劇の主人公）
-gink/o:【植】イチョウ
+gink/o⟦木ᴳᴷ/o⟧:【植】イチョウ
 ginostem/o:【植】合着めしべ,ずい柱
 gipaet/o:【鳥】ヒゲワシ,=s^afgrifo
 gips/a bust/o⟦石膏/a 胸ᴮˢ/o⟧:石膏の胸像
@@ -13527,7 +13527,7 @@ guberni/o⟦省ᴳ/o⟧:{Ｏ}（ロシア・日本などの）県,都道府県,>
 gudr/i⟦焦油/i⟧:［他］タールを塗る
 gudr/o⟦焦油/o⟧:{Ｂ}【化】タール
 gudr/o/tuk/o⟦焦油/o/巾/o⟧:防水布
-guf/o:{Ｏ}【鳥】ワシミミズク,>>strigo
+guf/o⟦鸟ᴳᶠ/o⟧:{Ｏ}【鳥】ワシミミズク,>>strigo
 Gujan/o:【国名】ガイアナ（南アメリカ）
 gujav/arb/o⟦果ᴳ/树/o⟧:【植】グアバ,バンジロウ
 gujav/o⟦果ᴳ/o⟧:{Ｏ}【果】グアバ,バンジロウ（の実）
@@ -14431,7 +14431,7 @@ hipotenuz/o⟦斜边/o⟧:【数】（直角三角形の）斜辺
 hipo/tez/a⟦亚/题ᵀᶻ/a⟧:仮説の,仮定の##偽分解(PIV正式分解)
 hipo/tez/i⟦亚/题ᵀᶻ/i⟧:［他］仮説を立てる,仮定する##偽分解(PIV正式分解)
 hipo/tez/o⟦亚/题ᵀᶻ/o⟧:{Ｏ}仮説,仮定##偽分解(PIV正式分解)
-hipsipet/o:《Ｎ》【鳥】ヒヨドリ（属）（鵯、_Hypsipetes_）
+hipsipet/o⟦鸟ᴴˢ/o⟧:《Ｎ》【鳥】ヒヨドリ（属）（鵯、_Hypsipetes_）
 hips/o/metri/o⟦高ᴴ/o/测ᴹᵀ/o⟧:【学】沸点測高法##偽分解##強語根分解
 hips/o/metr/o⟦高ᴴ/o/计ᴹ/o⟧:【学】沸点測高計##偽分解##強語根分解
 Hirkani/o:【古地名】ヒルカニア地方（古代ペルシア，カスピ海南東岸）
@@ -14846,7 +14846,7 @@ ibeks/o:【動】アイベックス（野生ヤギの一種）
 Iber/a Du/on/insul/o:【地名】イベリア半島（西ヨーロッパ）
 Iber/i/o:【史】イベリア（スペインの古称）
 iber/o:【史】イベリア人（西ヨーロッパに住んでいた古代民族）
-ibis/o:{Ｏ}【鳥】トキ（朱鷺，トキ亜科の総称）
+ibis/o⟦鸟ᴵ/o⟧:{Ｏ}【鳥】トキ（朱鷺，トキ亜科の総称）
 ic/o:【情】ＩＣ,=integra cirkvito
 -id-⟦子⟧:{Ｂ}［接尾辞］（子・子孫を示す）,>>reg^ido,>>kokido
 -id-⟦子⟧:［学術接尾辞］（化合物を示す）,>>cianido,>>klorido
@@ -16517,7 +16517,7 @@ j^et/rimen/o⟦投/带ᴿ/o⟧:投石器,=j^etilo
 j^ib/o⟦帆ᴶ̂/o⟧:【海】ジブ（船首の三角帆）
 j^ib/staj/o⟦帆ᴶ̂/索ˢ/o⟧:【海】ジブステイ（支索）
 j^ig/o:【楽】ジグ,ジーグ（テンポの速い舞曲）;【遊】=puzlo（ジグソーパズル）
-j^ij^icikad/o:《Ｎ》【虫】ニイニイゼミ（_Platypleura kaempferi_）
+j^ij^icikad/o⟦蝉ᴶ̂/o⟧:《Ｎ》【虫】ニイニイゼミ（_Platypleura kaempferi_）
 j^inriks^/o:【日】=rikis^o（人力車）
 j^ip/o:【車】ジープ
 j^o:{Ｏ}［文字名］ジョー（文字J^，j^の名称）
@@ -17198,7 +17198,7 @@ karamel/o⟦焦糖/o⟧:{Ｏ}【料】カラメル
 karaoke/o:《Ｎ》【楽】カラオケ
 karapac/o⟦壳ᴷᴾ/o⟧:【動】（カメ・カニなどの）甲羅（こうら）,甲皮,背甲,>>testuds^elo
 Karar/o:【地名】カッラーラ（イタリア）
-karas/o:{Ｏ}【魚】フナ（鮒，属）;ヨーロッパブナ
+karas/o⟦鲤ᴷˢ/o⟧:{Ｏ}【魚】フナ（鮒，属）;ヨーロッパブナ
 karate/o:【運】空手
 karat/o:{Ｏ}【単】カラット（宝石の重さ）;カラット（金の純度）
 Karavag^/o:【人名】カラバッジョ（イタリアの画家、1571-1610）
@@ -18253,7 +18253,7 @@ kokard/o⟦徽ᴷ/o⟧:{Ｏ}花形帽章,記章;（リボンの）花結び,>>ba
 kok/batal/o⟦鸡/战ᴮ/o⟧:闘鶏
 kok/brust/aj^/o⟦鸡/胸/物/o⟧:【料】鶏胸肉（とりむねにく）
 kokcig/o:【解】尾骨
-kokcinel/o:{Ｏ}【虫】ナナホシテントウ（属）;《般》テントウムシ
+kokcinel/o⟦虫ᴷᶜ/o⟧:{Ｏ}【虫】ナナホシテントウ（属）;《般》テントウムシ
 kok/ej/o⟦鸡/所/o⟧:鶏小屋
 kokerik/i⟦啼ᴷ/i⟧:［自］（雄鶏が）コケコッコと鳴く
 kokerik/o⟦啼ᴷ/o⟧:コケコッコー（雄鶏の鳴き声）
@@ -18379,7 +18379,7 @@ koloid/a kemi/o⟦胶ᴷᴸ/a 化学/o⟧:コロイド化学
 koloid/a solv/aj^/o⟦胶ᴷᴸ/a 解ˢ/物/o⟧:【化】コロイド溶液
 koloid/er/o⟦胶ᴷᴸ/粒/o⟧:【化】コロイド粒子
 koloid/o⟦胶ᴷᴸ/o⟧:【化】コロイド,膠質（こうしつ）
-kolokasi/o:【植】サトイモ
+kolokasi/o⟦草ᴷᴼᴸᴼ/o⟧:【植】サトイモ
 kolokint/o⟦药瓜ᴷᴷ/o⟧:【植】=kolocinto（コロシントウリ）
 kolokv/o⟦会ᴷᴸ/o⟧:専門家会議,討論集会
 kolomb/ed/oj⟦鸽/科ᴱ/oj⟧:【鳥】ハト科
@@ -18916,7 +18916,7 @@ kondolenc/a vizit/o⟦哀/a 访/o⟧:弔問
 kondolenc/i⟦哀/i⟧:{Ｏ}［他］（人に）お悔みを言う,哀悼の意を表す
 kondolenc/o⟦哀/o⟧:哀悼,お悔み
 kondom/o:{Ｏ}【医】コンドーム
-kondor/o:{Ｏ}【鳥】コンドル（_Vultur gryphus_）
+kondor/o⟦鸟ᴷᴼ/o⟧:{Ｏ}【鳥】コンドル（_Vultur gryphus_）
 kondotier/o:【史】（中世イタリアの）傭兵隊長,コンドッティエーレ
 konduk/ad/o⟦导ᴷ/行/o⟧:=konduko（誘導）
 konduk/a faden/o⟦导ᴷ/a 丝ᶠ/o⟧:導きの糸
@@ -19707,7 +19707,7 @@ korbel/fenestr/o⟦托ᴷᴿ/窗/o⟧:出窓,張出し窓
 korbel/o⟦托ᴷᴿ/o⟧:【建】持送り積み
 korbel/rok/o⟦托ᴷᴿ/岩/o⟧:張出し岩,オーバーハング
 korb/et/o⟦篮/小/o⟧:小かご
-korbikul/o:《Ｎ》【貝】シジミ（mang^ebla duvalva konkulo，_Corbicila leana_）
+korbikul/o⟦贝ᴷᴿ/o⟧:《Ｎ》【貝】シジミ（mang^ebla duvalva konkulo，_Corbicila leana_）
 korb/o⟦篮/o⟧:{Ｂ}かご,ざる
 korb/o/pilk/o⟦篮/o/球/o⟧:【運】バスケットボール,篭球
 Korcir/o:【地名】ケルキラ島（ギリシア）,=Korfuo
@@ -19784,7 +19784,7 @@ kork/o⟦塞/o⟧:{Ｂ}コルク;コルク栓
 kork/o/kverk/o⟦塞/o/橡/o⟧:【植】コルクガシ
 kork/tir/il/o⟦塞/拉/具/o⟧:栓抜き,コルク抜き
 kor/mal/san/o⟦心/反/健/o⟧:【医】心臓病
-kormoran/o:【鳥】ウ（鵜）（属）
+kormoran/o⟦鸟ᴷᴹ/o⟧:【鳥】ウ（鵜）（属）
 kor/muskol/o⟦心/筋/o⟧:【解】心筋
 korn/a⟦角ᴷ/a⟧:角の,角製の
 korn/ar/o⟦角ᴷ/群/o⟧:（シカなどの枝状になった）角
@@ -19908,7 +19908,7 @@ kosmopolit/ism/o⟦泛/主义/o⟧:コスモポリタニズム,世界主義
 kosmopolit/o⟦泛/o⟧:{Ｏ}コスモポリタン,世界市民
 kosm/o/pram/o⟦宇/o/渡/o⟧:【空】スペースシャトル
 kosm/o/radi/oj⟦宇/o/射ᴿ/oj⟧:【理】宇宙線
-kosmos/o:【植】コスモス（属）（秋桜）
+kosmos/o⟦菊ᴷˢ/o⟧:【植】コスモス（属）（秋桜）
 kosm/o/staci/o⟦宇/o/站/o⟧:宇宙ステーション
 kosm/o/s^ip/o⟦宇/o/船/o⟧:宇宙船
 kosm/o/vojag^/o⟦宇/o/旅/o⟧:宇宙旅行
@@ -19961,7 +19961,7 @@ koton/sem/a ole/o⟦棉ᴷ/种/a 油/o⟧:綿実油
 koton/uj/o⟦棉ᴷ/器/o⟧:【植】ワタ
 kotorn/o:【劇】（古代ギリシア悲劇の俳優が履いた）厚底の半長靴
 kot/s^irm/il/o⟦泥/庇/具/o⟧:（自転車などの車輪の）泥よけ,フェンダー
-koturn/o:{Ｏ}【鳥】ウズラ（属）（鶉）
+koturn/o⟦鸟ᴷᴼᵀ/o⟧:{Ｏ}【鳥】ウズラ（属）（鶉）
 kov/ad/o⟦孵/行/o⟧:抱卵,孵化
 ko/valent/a lig/o⟦ko/价ⱽ/a 结/o⟧:【理】共有結合##偽分解(PIV正式分解)
 kovard/a:《稀》=malnobla（ひきょうな）
@@ -20202,7 +20202,7 @@ kript/a⟦墓窖/a⟧:黙契の,秘密の;=c^ifrita
 kript/aj^/o⟦墓窖/物/o⟧:【宗】秘法,奥義;=c^ifraj^o（暗号文）
 kript/o⟦墓窖/o⟧:{Ｏ}（教会の）地下墓室;【解】陰窩（いんか）
 kriptogam/oj:【植】隠花植物,><fanerogamoj
-kriptomeri/o:【植】スギ,>>cedro
+kriptomeri/o⟦木ᴷᴿᴵ/o⟧:【植】スギ,>>cedro
 kripton/o⟦气ᴷ/o⟧:【化】クリプトン（原子番号３６の希ガス元素）
 kriptoteni/o:《Ｎ》【植】ミツバ（genro _Cryptotaenia_ el apiacoj，de plurjaraj herboj kun mang^belaj folioj）
 kri/sign/o⟦叫/符/o⟧:【印】【情】感嘆符（！）
@@ -20287,7 +20287,7 @@ krokodil/aj larm/oj⟦鳄/aj 泪/oj⟧:ワニの涙,偽りの涙
 krokodil/et/o⟦鳄/小/o⟧:洗濯ばさみ,=tukpinc^ilo
 krokodil/i⟦鳄/i⟧:［自］【Ｅ】（Esp.で話すべき場面で）自国語で話す
 krokodil/o⟦鳄/o⟧:{Ｂ}【動】ワニ（鰐，総称）;クロコダイル（科）（ナイルワニ、イリエワニなど）,>>aligatoro
-krokus/o:【植】クロッカス（属）,サフラン（属）,>>safrano
+krokus/o⟦花ᴷ/o⟧:【植】クロッカス（属）,サフラン（属）,>>safrano
 krom⟦外⟧:{Ｂ}［前］〜のほかは（〜を除いて）;〜のほかにも（〜を含めて）
 krom-⟦外⟧:［接頭辞］（追加・余分を示す）,>>kromefiko
 krom/a⟦外/a⟧:ほかの;余分の
@@ -20899,7 +20899,7 @@ kur/ist/o⟦跑/家/o⟧:【運】（陸上競技の）ランナー,走者;【�
 kur/konkurs/o⟦跑/竞ᴷˢ/o⟧:【運】競走,>>vetkuro
 kurkuli/ed/oj⟦象甲/科ᴱ/oj⟧:【虫】ゾウムシ（科）
 kurkuli/o⟦象甲/o⟧:【虫】ゾウムシ（科）,=bekskarabo;シギゾウムシ（属）,>>kalandrao
-kurkum/o:【植】ウコン（属）（鬱金）
+kurkum/o⟦草ᴷᵁᴿ/o⟧:【植】ウコン（属）（鬱金）
 Kurland/o:【地名】クルランド地方（ラトビア）
 kur/o⟦跑/o⟧:ひと走り;【情】（プログラムやジョブの）走行
 kurs/ad/i⟦课/行/i⟧:［自］（列車・路線バスが）運行している;（貨幣が）通用している
@@ -21255,7 +21255,7 @@ labor/ul/o⟦劳/者/o⟧:作業員
 labor/vest/o⟦劳/衣/o⟧:作業服
 labrador/a hund/o⟦labrador/a 犬/o⟧:ラブラドール犬
 Labrador/o:【地名】ラブラドル半島（カナダ）
-labrak/o:【魚】ヨーロピアンシーバス,ヨーロッパスズキ（種）
+labrak/o⟦鱼ᴸᴷ/o⟧:【魚】ヨーロピアンシーバス,ヨーロッパスズキ（種）
 lac/a⟦疲/a⟧:{Ｂ}疲れた,くたびれた;《転》飽き飽きした
 lac/ec/o⟦疲/性/o⟧:疲れ,疲労
 lac/eg/a⟦疲/巨/a⟧:疲れ切った,ぐったりした
@@ -21294,7 +21294,7 @@ laf/o/flu/o⟦熔岩/o/流/o⟧:【地質】溶岩流
 Lafonten/o:【人名】ラ・フォンテーヌ（フランスの詩人、1621-1695）
 lag/a⟦湖/a⟧:湖の;湖畔の
 lagenari/o:【植】ユウガオ（属）;ヒョウタン,>>kalabaskukurbo
-lagerstrom/o:【植】サルスベリ（百日紅，属）
+lagerstrom/o⟦木ᴸᴳ/o⟧:【植】サルスベリ（百日紅，属）
 lag/et/o⟦湖/小/o⟧:池
 lag/o⟦湖/o⟧:{Ｂ}湖
 lag/o kaj marc^/o⟦湖/o 和ᴷ 沼/o⟧:【環】湖沼
@@ -21968,7 +21968,7 @@ Liau^ning/o:【地名】=Ljau^ningo（遼寧省）
 Liau^/o:【地名】リャオ川（遼河，中国）
 liban/an/o⟦liban/员ᴬ/o⟧:レバノン人
 Liban/o:{Ｏ}【国名】レバノン（アジア）
-libel/o:{Ｏ}【虫】トンボ（蜻蛉）
+libel/o⟦虫ᴸᴮ/o⟧:{Ｏ}【虫】トンボ（蜻蛉）
 liber/a⟦自由/a⟧:{Ｂ}自由な;独立の,束縛されない,免れた;ひまな,空いている,広々した
 liber/a c^ambr/o⟦自由/a 室/o⟧:空室,空き部屋
 liber/a elekt/ad/o⟦自由/a 选/行/o⟧:自由選挙
@@ -22792,7 +22792,7 @@ macer/ad/o⟦浸ᴹ/行/o⟧:【化】冷浸,浸漬;【宗】苦行
 macer/aj^/o⟦浸ᴹ/物/o⟧:【化】浸出液
 macer/i⟦浸ᴹ/i⟧:［他］【化】冷浸する,浸漬（しんし）する;【宗】（贖罪のため肉体を）苦しめる
 mac/o:{Ｏ}【宗】種なしパン（ユダヤ教やキリスト教の祭式で用いる無酵母パン）
-macutak/o:【菌】マツタケ（松茸）
+macutak/o⟦菌ᴹᵀ/o⟧:【菌】マツタケ（松茸）
 mac^/ad/o⟦嚼/行/o⟧:咀嚼（そしゃく）
 mac^/gum/o⟦嚼/胶ᴳᴹ/o⟧:【菓】チューインガム
 mac^/i⟦嚼/i⟧:{Ｂ}［他］かみ砕く,かむ
@@ -22897,7 +22897,7 @@ mag^ang/o:【遊】マージャン（麻雀）
 Mag^ori/o:【地名】マジョーレ湖（イタリア）,=Majora Lago
 Mahabarat/o:【文】マハーバーラタ（古代インドの叙事詩）
 Mahabharat/o:=Mahabarato（マハーバーラタ）
-mahagon/o:{Ｏ}【植】マホガニー（種）;マホガニー（属）;マホガニー材
+mahagon/o⟦木ᴹᴴ/o⟧:{Ｏ}【植】マホガニー（種）;マホガニー（属）;マホガニー材
 mahajan/o:【仏】大乗,>>teravado,>>hinajano
 Maharas^tr/o:【地名】マハラシュトラ州（インド）
 mahomet/an/o⟦mahomet/员ᴬ/o⟧:《廃》=>islamano（イスラム教徒）
@@ -24313,7 +24313,7 @@ mantel/o⟦披/o⟧:{Ｂ}【服】マント,外套,コート,ケープ;【建】
 man/ten/il/o⟦手/持/具/o⟧:取っ手,ハンドル
 mantil/o:【服】マンティーラ（スペイン女性が頭に被る長いスカーフ）
 mantis/o:【数】（対数の）仮数,>>karakterizilo;【情】（浮動小数点表示の）仮数
-mant/o:《般》カマキリ（蟷螂）;【虫】ウスバカマキリ（属）
+mant/o⟦虫ᴹᴺ/o⟧:《般》カマキリ（蟷螂）;【虫】ウスバカマキリ（属）
 man/tuk/o⟦手/巾/o⟧:ハンカチ,手ぬぐい,タオル,>>naztuko,>>pos^tuko,>>bantuko
 Mantu/o:【地名】マントバ（イタリア）
 manufaktur/ad/o⟦造/行/o⟧:製造,製作
@@ -24865,7 +24865,7 @@ melodi/o⟦调ᴹ/o⟧:{Ｏ}【楽】旋律,調べ,メロディー
 melodram/o⟦剧ᴹ/o⟧:{Ｏ}【劇】メロドラマ（通俗的・感傷的な恋愛劇）;【史】メロドラマ（音楽伴奏入りの演劇）
 melolont/o:【虫】コフキコガネ（属）（粉吹金亀子）,=majskarabo
 melon/arb/o⟦瓜/树/o⟧:【植】メロン（種）
-melongen/o:{Ｏ}【植】ナス（種）（茄子）;【果】ナス（の実）
+melongen/o⟦茄ᴹ/o⟧:{Ｏ}【植】ナス（種）（茄子）;【果】ナス（の実）
 melon/o⟦瓜/o⟧:{Ｂ}【果】メロン;【植】メロン（種）
 melope/o:【楽】朗吟歌
 melopep/o⟦瓜ᴹᴾ/o⟧:【植】ペポカボチャ（南瓜）,>>kukurbo
@@ -25509,7 +25509,7 @@ mil/obl/e⟦千/倍/e⟧:千倍ほど
 mil/on/o⟦千/分/o⟧:千分の一
 mil paper/gru/oj⟦千 纸/鹤/oj⟧:【日】千羽鶴
 Milton/o:【人名】ミルトン（イギリスの詩人、1608-1674）
-milv/o:{Ｏ}【鳥】トビ（鳶）（属）,トンビ
+milv/o⟦鹰ᴹ/o⟧:{Ｏ}【鳥】トビ（鳶）（属）,トンビ
 Milvoki/o:【地名】ミルウォーキー（米国）
 mime/o/graf/i⟦印ᴹ/o/记ᴳ/i⟧:［他］謄写版で刷る,=multobligi##偽分解
 mime/o/graf/o⟦印ᴹ/o/记ᴳ/o⟧:謄写版,=multobligilo##偽分解
@@ -25627,7 +25627,7 @@ Minut/on!:［間］ちょっと待って！
 min/vejn/o⟦矿/脉/o⟧:鉱脈
 miocen/o:【地質】中新世;中新統
 miogal/o:{Ｏ}【動】デスマン（ヨーロッパにすむ水生のモグラ類）
-miog/o:《Ｎ》【植】ミョウガ（茗荷）,=c^ina zingibro
+miog/o⟦姜ᴹ/o⟧:《Ｎ》【植】ミョウガ（茗荷）,=c^ina zingibro
 miop/a⟦近ᴹ/a⟧:{Ｏ}【医】近視の,近眼の,>>hipermetropa,>>presbiopa
 miop/ec/o⟦近ᴹ/性/o⟧:【医】近視,近眼
 miop/ul/o⟦近ᴹ/者/o⟧:近視の人
@@ -26183,7 +26183,7 @@ morgau^/maten/e⟦明/晨/e⟧:明朝,明日の朝に
 morgau^/o⟦明/o⟧:明日,翌日;《転》（近い）将来
 morh^el/o:=morkelo（アミガサタケ）
 mor/ist/o⟦俗/家/o⟧:風俗画家,風俗作家
-morkel/o:【菌】アミガサタケ（属）
+morkel/o⟦菌ᴹᴷ/o⟧:【菌】アミガサタケ（属）
 mor/konform/a⟦俗/合ᴷᴺ/a⟧:作法にかなった,礼儀正しい
 mormon/ism/o⟦mormon/主义/o⟧:【宗】モルモン教
 mormon/o:【宗】モルモン教徒
@@ -26456,7 +26456,7 @@ murd/ist/o⟦杀ᴹ/家/o⟧:殺し屋,刺客
 murd/it/o⟦杀ᴹ/受/o⟧:被殺害者,殺された人
 murd/o⟦杀ᴹ/o⟧:殺害,殺人,人殺し
 mur/eg/o⟦壁/巨/o⟧:城壁
-muren/o:【魚】トラウツボ（属）;《般》ウツボ（科の総称）
+muren/o⟦鱼ᴹᴺ/o⟧:【魚】トラウツボ（属）;《般》ウツボ（科の総称）
 mur/ferm/i⟦壁/闭/i⟧:［他］壁で閉じ込める
 mur/gazet/o⟦壁/报/o⟧:壁新聞
 mur/hirund/o⟦壁/燕/o⟧:【鳥】=urbhirundo（イワツバメ）
@@ -28729,7 +28729,7 @@ orient/o⟦东/o⟧:{Ｂ}東,東方,東部,><okcidento;（フリーメーソン�
 Orient/o:東洋;オリエント
 orient/o/logi/o⟦东/o/学ᴸᴳ/o⟧:東洋学;オリエント学##偽分解
 orient/o/log/o⟦东/o/学家/o⟧:東洋学者;オリエント学者##偽分解
-origan/o:【植】ハナハッカ（花薄荷）（属）,オレガノ
+origan/o⟦香草ᴼ/o⟧:【植】ハナハッカ（花薄荷）（属）,オレガノ
 or/ig/i⟦金/使/i⟧:［他］=ori（金をかぶせる）;金色にする
 origin/a⟦源/a⟧:起源の,原初の,元来の
 origin/a form/o⟦源/a 形/o⟧:原形
@@ -29005,7 +29005,7 @@ pag/lim/o⟦付/界/o⟧:支払期限
 pag/o⟦付/o⟧:料金,支払い;《転》報復
 pagod/o⟦佛塔/o⟧:{Ｏ}【建】パゴダ,仏塔,>>stupao
 pag/o/kapabl/a⟦付/o/能ᴷ/a⟧:支払能力のある,=solventa
-pagr/o:【魚】マダイ（真鯛）（属）;《般》鯛（たい）
+pagr/o⟦鱼ᴾᴬ/o⟧:【魚】マダイ（真鯛）（属）;《般》鯛（たい）
 pagur/o⟦蟹ᴾ/o⟧:【動】ヤドカリ（宿借）
 pag/voj/o⟦付/路/o⟧:【交】有料道路
 pag^i/o⟦侍ᴾ/o⟧:{Ｏ}【史】小姓（こしょう）,近習（きんじゅう）;=fanto
@@ -29086,7 +29086,7 @@ pal/ig/i⟦苍/使/i⟧:［他］（顔色を）青ざめさせる;色をあせ�
 pal/ig^/i⟦苍/成/i⟧:［自］（顔色が）青ざめる;色あせる
 Palikir/o:【地名】パリキール（ミクロネシア連邦の首都）
 palinur/o:{Ｏ}【動】イセエビ（伊勢海老）（属）,=langusto,>>omaro
-palisandr/o:{Ｏ}紫檀材;【植】シタン（紫檀）
+palisandr/o⟦木ᴾᴬᴸ/o⟧:{Ｏ}紫檀材;【植】シタン（紫檀）
 palis/ar/o⟦桩ᴾ/群/o⟧:（木の）柵,矢来（やらい）
 palis/dig/o⟦桩ᴾ/拦/o⟧:防水堰,矢板井筒（やいたいづつ）
 palis/et/o⟦桩ᴾ/小/o⟧:【農】支柱,添え木
@@ -29824,7 +29824,7 @@ penetr/iv/ec/o⟦穿ᴾ/能ᴵ/性/o⟧:【理】透過能
 penetr/o⟦穿ᴾ/o⟧:=penetrado（浸透）
 pen/i⟦努/i⟧:{Ｂ}［自］努める,努力する,苦労する,骨を折る,>>klopodi,>>strebi
 penicilin/o⟦青霉素/o⟧:{Ｏ}【薬】ペニシリン
-penicili/o:【菌】ペニシリウム（属）,アオカビ（青黴）（属）,=peniks^imo
+penicili/o⟦菌ᴾᴵ/o⟧:【菌】ペニシリウム（属）,アオカビ（青黴）（属）,=peniks^imo
 pen/ig/a⟦努/使/a⟧:骨の折れる,つらい
 penik/et/o⟦笔/小/o⟧:小筆,細筆
 penik/i⟦笔/i⟧:［自］筆で描く,はけで塗る
@@ -31208,7 +31208,7 @@ pop/art/o⟦pop/艺/o⟧:【美】ポップ・アート##偽分解##強語根分
 po/pec/a⟦每/片/a⟧:出来高払いの
 po/pec/e⟦每/片/e⟧:出来高払いで
 poplit/o⟦膝窝/o⟧:【解】膝窩（しっか）,ひかがみ
-popl/o:{Ｏ}【植】ポプラ,ハコヤナギ（箱柳）（属）
+popl/o⟦柳ᴾ/o⟧:{Ｏ}【植】ポプラ,ハコヤナギ（箱柳）（属）
 pop/muzik/o⟦pop/乐/o⟧:【楽】ポップ・ミュージック,ポップス##偽分解##強語根分解
 pop/o:【キ】（ギリシア正教の）司祭,>>pastro
 popol/a⟦民/a⟧:人民の;民衆の
@@ -31281,7 +31281,7 @@ pord/o/sonor/il/o⟦门/o/响/具/o⟧:（玄関の）呼び鈴,チャイム
 por/ec/o⟦为/性/o⟧:多孔性
 por/eduk/a⟦为/育ᴱ/a⟧:教育用の
 por/ekster/a⟦为/外ᴱ/a⟧:外部に対する,対外的
-pore/o:{Ｏ}【植】リーキ（種）,ニラネギ（韮葱）,ポロネギ
+pore/o⟦葱ᴾ/o⟧:{Ｏ}【植】リーキ（種）,ニラネギ（韮葱）,ポロネギ
 por/esperant/a⟦为/esperant/a⟧:エスペラントのための,エスペラントを普及する,>>peresperanta
 por etern/e⟦为 永/e⟧:永遠に,未来永劫（えいごう）に,>>por c^iam
 porfir/o⟦斑岩/o⟧:{Ｏ}【鉱】斑岩（はんがん）
@@ -34553,7 +34553,7 @@ ros/er/o⟦露/粒/o⟧:露のしずく
 ros/gut/o⟦露/滴/o⟧:露のしずく,=rosero
 ros/i⟦露/i⟧:［自］（無主語）露がおりる
 rosin/o:【料】レーズン（干しぶどう）,=sekvinbero
-rosmaren/o:{Ｏ}【植】マンネンロウ（万年蝋）（属）;ローズマリー（種）
+rosmaren/o⟦香草ᴿ/o⟧:{Ｏ}【植】マンネンロウ（万年蝋）（属）;ローズマリー（種）
 rosmar/o:{Ｏ}【動】セイウチ（海象）（種）,=marc^evalo
 ros/o⟦露/o⟧:{Ｂ}露（つゆ）
 ros/o/punkt/o⟦露/o/点/o⟧:【理】露点
@@ -34637,7 +34637,7 @@ rubus/ber/o⟦果ᴿᴮ/浆果/o⟧:【果】キイチゴ（木苺）（実）
 rubus/o⟦果ᴿᴮ/o⟧:{Ｏ}【植】キイチゴ（木苺）（属）（木）,>>frambujo;《般》ブラックベリー,>>frambo
 rudiment/a⟦初ᴿ/a⟧:初歩的な,基本の,未発達の;痕跡の
 rudiment/o⟦初ᴿ/o⟧:（学問・芸術の）初歩,入門,基礎;【生】原基,痕跡器官
-ruditap/o:《Ｎ》【貝】アサリ（mang^ebla duvalva konkulo，_Ruditapes philippinarum_）
+ruditap/o⟦蛤ᴿ/o⟧:《Ｎ》【貝】アサリ（mang^ebla duvalva konkulo，_Ruditapes philippinarum_）
 Rudolf/o:【人名】ルドルフ（男子名）
 rudr/o⟦舵/o⟧:【空】【海】かじ（舵）
 rudr/o/stang/o⟦舵/o/杆/o⟧:【海】舵柄（だへい）
@@ -34908,7 +34908,7 @@ saks/o:【史】ザクセン人（＝サクソン人，ゲルマン人の一派�
 saksofon/o:{Ｏ}【楽】サクソフォーン,サックス
 sak/strat/o⟦袋/街/o⟧:袋小路,=senelirejo
 sak/s^alm/o⟦袋/管ˢ̂/o⟧:【楽】バグパイプ,風笛（ふうてき）
-sakur/o:【植】サクラ
+sakur/o⟦樱ˢ/o⟧:【植】サクラ
 sak/valiz/o⟦袋/箱ⱽ/o⟧:ボストンバッグ
 sal/a⟦盐/a⟧:塩の;塩味の,塩辛い;塩を含んだ
 Saladin/o:【人名】サラディン（エジプトのアイユーブ朝の始祖、1138-1193）
@@ -35600,7 +35600,7 @@ sek/vin/ber/o⟦干/酒/浆果/o⟧:【料】干しぶどう
 sekv/int/jar/e⟦随/过/年/e⟧:翌年に,次の年に
 sekv/i voj/on⟦随/i 路/on⟧:道をたどる
 sekv/o⟦随/o⟧:帰結,成行;結果,成果,>>konsekvenco
-sekvoj/o:【植】セコイア（属）
+sekvoj/o⟦木ˢᴱᴷ/o⟧:【植】セコイア（属）
 sekv/ont/jar/e⟦随/将/年/e⟧:来年,翌年
 sekv/o/ric^/a⟦随/o/富/a⟧:成果に満ちた
 selakt/o:{Ｏ}乳清,ホエー（チーズ製造後の残液）
@@ -36318,7 +36318,7 @@ seri/e⟦列ˢ/e⟧:連続して,系列的に
 seri/e konekt/it/a⟦列ˢ/e 连ᴷᴺ/受/a⟧:【電】直列接続の
 seri/o⟦列ˢ/o⟧:{Ｂ}連続,ひと続き,続き物,シリーズ;【化】系列;【理】直列,>>paralelo;【数】級数;【地質】統（とう）
 seri/o de dis/er/ig^/o⟦列ˢ/o 从 散/粒/成/o⟧:【理】崩壊系列
-seriol/o:《Ｎ》【魚】ブリ（鰤）（_Seriola_）,ハマチ
+seriol/o⟦鱼ˢᴱ/o⟧:《Ｎ》【魚】ブリ（鰤）（_Seriola_）,ハマチ
 serioz/a⟦严ˢᴿ/a⟧:{Ｂ}まじめな,謹厳な;本気の,真剣な;重大な,深刻な
 serioz/a mla/san/o⟦严ˢᴿ/a mla/健/o⟧:重い病気
 serioz/a pri/pens/o⟦严ˢᴿ/a 于/思/o⟧:真剣な考慮
@@ -36835,7 +36835,7 @@ skafald/i⟦架ˢᴷ/i⟧:［自］足場を組む
 skafald/o⟦架ˢᴷ/o⟧:【建】足場,=trabaro
 skafandr/ist/o⟦潜衣/家/o⟧:（潜水服を着た）潜水夫,>>subakvisto
 skafandr/o⟦潜衣/o⟧:【海】（ヘルメット付きの）潜水服
-skafark/o:《Ｎ》【貝】アカガイ（mang^ebla duvalva konkulo，_Scapharca broughtonii_）
+skafark/o⟦贝ˢ/o⟧:《Ｎ》【貝】アカガイ（mang^ebla duvalva konkulo，_Scapharca broughtonii_）
 Skajp/o:【情】スカイプ（_Skype_，インターネット電話サービス，商標）
 skalar/a⟦标量/a⟧:【数】スカラーの
 skalar/o⟦标量/o⟧:【数】スカラー,>>vektoro
@@ -38206,7 +38206,7 @@ stup/aj^/o⟦填ˢ/物/o⟧:（麻くずの）詰め物
 stupa/o:【仏】ストゥーパ,卒塔婆（そとば）,仏舎利塔,>>pagodo
 stup/i⟦填ˢ/i⟧:［他］麻くずを詰める
 stup/o⟦填ˢ/o⟧:{Ｏ}麻くず
-sturg/o:{Ｏ}【魚】ヨーロッパチョウザメ（蝶鮫）（種）;《般》チョウザメ（蝶鮫）（総称）
+sturg/o⟦鱼ˢᴳ/o⟧:{Ｏ}【魚】ヨーロッパチョウザメ（蝶鮫）（種）;《般》チョウザメ（蝶鮫）（総称）
 sturm/ant/o⟦突ˢᵀ/在/o⟧:【軍】突撃隊員,襲撃者
 sturm/i⟦突ˢᵀ/i⟧:［他］【軍】突撃する,襲撃する,=kurataki
 sturm/o⟦突ˢᵀ/o⟧:【軍】突撃,襲撃
@@ -39087,7 +39087,7 @@ s^ak/turnir/o⟦棋/赛ᵀ/o⟧:チェス競技会,チェストーナメント
 s^al/et/o⟦披肩/小/o⟧:【服】ネッカチーフ,フィシュ
 s^alm/o⟦管ˢ̂/o⟧:{Ｏ}あし笛,牧笛;【楽】シャリュモー;ストロー;【化】吹管（すいかん）
 s^al/o⟦披肩/o⟧:{Ｏ}【服】ショール,肩掛け
-s^alot/o:【植】シャロット（ラッキョウに似た野菜）;【料】シャロット（の鱗茎）
+s^alot/o⟦葱ˢ̂/o⟧:【植】シャロット（ラッキョウに似た野菜）;【料】シャロット（の鱗茎）
 s^alt/i⟦开/i⟧:{Ｏ}［他］スイッチを入れる
 s^alt/i komput/il/on⟦开/i 算ᴷᴹ/具/on⟧:コンピュータのスイッチを入れる
 s^alt/il/o⟦开/具/o⟧:スイッチ,開閉器
@@ -39314,7 +39314,7 @@ s^ir/pec/o⟦裂/片/o⟧:（布などを引きちぎった）切れ端
 s^ir/pinc^/i⟦裂/掐/i⟧:［他］摘み取る
 s^ir/vund/i⟦裂/伤/i⟧:［他］裂傷をつくる
 s^ir/vund/o⟦裂/伤/o⟧:裂傷
-s^itak/o:【菌】シイタケ（椎茸）
+s^itak/o⟦菌ˢ̂/o⟧:【菌】シイタケ（椎茸）
 S^iva/o:【宗】シヴァ（ヒンドゥー教の破壊神・創造神）
 S^jian/o:【地名】シーアン（西安，中国）,=Siano
 s^kot/o:【海】帆脚索（ほあしづな）
@@ -39868,7 +39868,7 @@ talp/okul/a⟦地鼠/目/a⟧:ひどい近眼の,>>miopa
 talus/i⟦坡ᵀ/i⟧:［他］【建】盛り土する
 talus/o⟦坡ᵀ/o⟧:【建】盛り土;（堀などの）勾配,>>deklivo
 tamarik/o:【植】ギョリュウ（御柳）（属）
-tamarind/o:【植】タマリンド;《般》タマリンドの実
+tamarind/o⟦木ᵀᴰ/o⟧:【植】タマリンド;《般》タマリンドの実
 tambur/ad/o⟦鼓/行/o⟧:太鼓を打つこと;太鼓の連打音
 tambur/eg/o⟦鼓/巨/o⟧:【楽】大太鼓,バスドラム
 tambur/et/o⟦鼓/小/o⟧:【楽】小太鼓,つづみ（鼓）
@@ -41681,7 +41681,7 @@ trust/i⟦垄断/i⟧:［他］【経】トラストで独占する
 trust/ig/i⟦垄断/使/i⟧:［他］【経】トラストで独占する
 trust/o⟦垄断/o⟧:{Ｏ}【経】トラスト（企業合同）,>>kartelo
 trus/trab/o⟦架ᵀ/梁/o⟧:【建】トラス梁
-trut/o:{Ｏ}【魚】マス（鱒）（の類）;ブラウントラウト;ニジマス（虹鱒）
+trut/o⟦鱼ᵀᵀ/o⟧:{Ｏ}【魚】マス（鱒）（の類）;ブラウントラウト;ニジマス（虹鱒）
 t.s.:［略］=tio signifas,つまり
 TTT:【情】［略］=Tut-Tera Teksaj^o,WWW
 TTT-pag^/o:【情】ウェブページ
@@ -41948,7 +41948,7 @@ Uesant/o:【地名】ウエッサン島（フランス）
 UFE:【Ｅ】［略］=Unuig^o Franca por Esperanto
 U-form/a g^ir/ad/o⟦U-形/a 转ᴳ̂/行/o⟧:【車】Ｕターン
 Ugand/o:【国名】ウガンダ（アフリカ）
-ugvis/o:【鳥】ウグイス
+ugvis/o⟦莺ᵁ/o⟧:【鳥】ウグイス
 -uj-⟦器⟧:{Ｂ}［接尾辞］（容器・樹木・国名を示す）,>>monujo,>>rozujo,>>Japanujo
 Ujgur/i/o:【地名】ウイグル（中国の自治区）
 ujgur/o:ウイグル人（トルコ系民族の一）
@@ -41975,7 +41975,7 @@ ulcer/o⟦疮/o⟧:{Ｏ}【病】潰瘍（かいよう）
 uleks/o:【植】ハリエニシダ（属）
 ulem/o:【イ】ウラマー,イスラム法学者
 Ulis/o:【神】ウリッセース,ユリシーズ（オデュッセウスのラテン名から）,=Odiseo
-ulm/o:{Ｏ}【植】ニレ（楡）（属）
+ulm/o⟦木ᵁ/o⟧:{Ｏ}【植】ニレ（楡）（属）
 uln/o⟦尺/o⟧:{Ｏ}【解】尺骨;【史】腕尺（尺骨の長さに由来する昔の長さの単位、国により約50〜120cm）
 ul/o⟦者/o⟧:人,者
 Ulrungd/o:【地名】ウルルン島（鬱陵島，日本海）
@@ -42757,7 +42757,7 @@ vart/o/lern/ej/o⟦养ⱽ/o/学/所/o⟧:保育園,>>infang^ardeno
 var/trafik/o⟦货/交/o⟧:貨物輸送
 var/trajn/o⟦货/车ᵀ/o⟧:【鉄】貨物列車
 var/vagon/o⟦货/厢/o⟧:【鉄】貨車,=s^arg^vagono
-vasabi/o:【植】ワサビ
+vasabi/o⟦辣根ⱽ/o⟧:【植】ワサビ
 vasal/o⟦臣ⱽ/o⟧:{Ｏ}【史】（封建制下の）家臣,臣下
 vask/a lingv/o⟦vask/a 语/o⟧:（la 〜）バスク語
 Vask/i/o:【地名】バスク地方（スペイン・フランス）,=Eu^skio
@@ -44615,7 +44615,7 @@ akomod/o⟦适ᴬᴷ/o⟧:【PIV】Ago de iu, io akomodata: la povo de akomodo d
 akompan/a⟦伴ᴬ/a⟧:【地質】【生態】【PIV】Akompananta: akompana mineralo; akompana specio.
 akompan/ad/i⟦伴ᴬ/行/i⟧:【PIV】Regule au^ konstante akompani: mia beno vin akompanadu! ; tiu c^i ideo akompanadis E-on de g^ia naskig^o g^is la nuna tempo .
 akompan/ant/in/o⟦伴ᴬ/在/女/o⟧:【PIV】Iu akompananta: la ministro prezentis siajn akompanantojn; li palpebrumas k montras per la okuloj la akompanantinon ; s^i estas la akompanantino de la fama violonisto. Vd kavaliro, servanto.
-akonit/in/o:【化】【PIV】Ege toksa alkaloido, ekstraktata el akonito, precipe pasintece uzata etdoze kontrau^ doloro k febro.
+akonit/in/o⟦草ᴬᴷᴼ/in/o⟧:【化】【PIV】Ege toksa alkaloido, ekstraktata el akonito, precipe pasintece uzata etdoze kontrau^ doloro k febro.
 akonti/o⟦龙ᴬᴷ/o⟧:【動】【PIV】G. (Genro) (Acontias) de Afrikaj, senkruraj, vivonaskaj lacertuloj el la fam. (familio) de scinkedoj.
 akor/o⟦草ᴬᴼ/o⟧:【植】【PIV】G. (Genro) (Acorus el akoracoj) de plurjaraj herboj kun horizontala rizomo, klingoformaj folioj, mallarg^a spadiko k foliforma spato; 2 sp-oj (specioj), N-hemisferaj, humidejaj, pororname kultivataj, i.a. (interalie, inter aliaj)
 kalam-akor/o⟦木ᴷᴬᴸᴬ-草ᴬᴼ/o⟧:【PIV】(A. calamus).
@@ -51103,7 +51103,7 @@ kuret/i⟦刮匙/i⟧:【PIV】(tr (transitiva)) Fari skrapadon per kureto.
 kuret/ad/o⟦刮匙/行/o⟧:【PIV】Skrapado per kureto: utera kuretado.
 kuri/um/o⟦廷/um/o⟧:【PIV】Transurania elemento, Cm, atomnumero 96, atommaso 247,07.
 kurier/a⟦信使/a⟧:【PIV】1 Rilata al kuriero: kuriera sako, ofico. 2 Rilata al la pos^ta stacioreto: kuriere veturi (plej rapide).
-kurkum/in/o:【化】【PIV】Flava kolorilo, C 21 H 20 O 6, ekstraktata el la radiko de kurkumo, pasintece uzata i.a. (interalie, inter aliaj) por tinkturi vestojn.
+kurkum/in/o⟦草ᴷᵁᴿ/in/o⟧:【化】【PIV】Flava kolorilo, C 21 H 20 O 6, ekstraktata el la radiko de kurkumo, pasintece uzata i.a. (interalie, inter aliaj) por tinkturi vestojn.
 kurl/o⟦鸟ᴷᵁᴿ/o⟧:【PIV】= numenio.
 kurm/o⟦果ᴷᴿ/o⟧:【植】【PIV】Speco de pirforma sorpo, flava, rug^eta au^ bruneta, nur tromature mang^ebla, uzata por konfitaj^oj k por distili brandon. Vd alizo, sorpo.
 kurm/uj/o⟦果ᴷᴿ/器/o⟧:【PIV】Arbo, produktanta kurmojn. Sin. (sinonimo) doma sorbuso.
@@ -52795,7 +52795,7 @@ orient/ebl/a⟦东/可/a⟧:【数】【PIV】(pp (se paroli pri) sternaj^o) Tia
 orient/it/a⟦东/受/a⟧:【数】【PIV】Provizita per orientig^o.
 orific/o⟦孔ᴼ/o⟧:【解】【PIV】Enira au^ elira aperturo: faringa orifico de au^da tubo (ostium pharyngeum tubae auditivae au^ auditoriae).
 oriflam/o:【史】【PIV】1 Standardo de la francaj reg^oj, inter la 12a k la 15a jc (jarcento). 2 (f (figurasence)) Materia au^ idea signalo de kolektig^o en batalo ks (kaj simile, kaj similaj).
-diktamn-origan/o⟦草ᴰᴷ-origan/o⟧:【PIV】Diktamno 2.
+diktamn-origan/o⟦草ᴰᴷ-香草ᴼ/o⟧:【PIV】Diktamno 2.
 Origen/o:【PIV】Greklingva ekzegezisto k teologo (185−253).
 original/aj^/o⟦原ᴼ/物/o⟧:【PIV】Ago, faro originala, strangeta.
 orikterop/o⟦兽ᴼᵀ/o⟧:【動】【PIV】Afrika mamulo (unuspecia g. (genro) Orycteropus afer) el la ordo de tubetodentuloj, kun longaj kapo k oreloj, rubandforma lango k dentoj kvazau^ kunmetitaj el tubetoj; g^i mang^as termitojn. = orikteropod/o

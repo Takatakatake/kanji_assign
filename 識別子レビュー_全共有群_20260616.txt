@@ -1,6 +1,6 @@
 ﻿# 識別子レビュー(GAS/§5位置・§3厳密・§6a別文字・特殊字修正・base上書き版): 全共有群・全メンバー・語義付き
 
-【草】 459件
+【草】 462件
   herb           草          F=67    basic   
   pajl           草ᴾ         F=18    basic   
   skiz           草ˢ         F=6     basic   
@@ -45,6 +45,7 @@
   alis           草ᴬᴵ        F=1     piv     
   ajug           草ᴬᴶ        F=1     piv     
   ajapan         草ᴬᴶᴬ       F=1     piv     
+  akonit         草ᴬᴷᴼ       F=1     piv     
   alium          草ᴬᴸᴵ       F=1     piv     
   aliari         草ᴬᴸᴵᴬ      F=1     piv     
   alkekeng       草ᴬᴸᴷ       F=1     piv     
@@ -245,6 +246,7 @@
   karum          草ᴷᴹ        F=1     piv     
   korkor         草ᴷᴼ        F=1     piv     
   kolokazi       草ᴷᴼᴸ       F=1     piv     
+  kolokasi       草ᴷᴼᴸᴼ      F=1     piv     
   komelin        草ᴷᴼᴹ       F=1     piv     
   konsolid       草ᴷᴼᴺ       F=1     piv     
   koridal        草ᴷᴼᴿ       F=1     piv     
@@ -260,6 +262,7 @@
   krinum         草ᴷᵁ        F=1     piv     
   knau^ti        草ᴷᵁ̆       F=1     piv     
   kukumis        草ᴷᵁᴷ       F=1     piv     
+  kurkum         草ᴷᵁᴿ       F=1     piv     
   kuskut         草ᴷᵁˢ       F=1     piv     
   koniz          草ᴷᶻ        F=1     piv     
   lemn           草ᴸ         F=1     piv     
@@ -461,7 +464,7 @@
   zigofil        草ᶻᴳ        F=1     piv     
   zoster         草ᶻˢ        F=1     piv     
 
-【木】 235件
+【木】 247件
   lign           木          F=51    basic   
   ksil           木ᴷ         F=6     pejvo   
   muskat         木ᴹ         F=6     pejvo   
@@ -509,6 +512,7 @@
   au^kub         木ᴬᵁ̆       F=1     piv     
   avero          木ᴬⱽ        F=1     piv     
   azarol         木ᴬᶻ        F=1     piv     
+  baobab         木ᴮᴮ        F=1     piv     
   budle          木ᴮᴰ        F=1     piv     
   brunfelsi      木ᴮᶠ        F=1     piv     
   bignoni        木ᴮᴳ        F=1     piv     
@@ -552,12 +556,16 @@
   epakrid        木ᴱᴾ        F=1     piv     
   ereti          木ᴱᴿ        F=1     piv     
   eskul          木ᴱˢ        F=1     piv     
+  eŭkalipt       木ᴱᵀ        F=1     piv     
   eu^geni        木ᴱᵁ̆       F=1     piv     
   flog           木ᶠ         F=1     piv     
   foradendr      木ᶠᴰ        F=1     piv     
   fenik          木ᶠᴺ        F=1     piv     
   fortunel       木ᶠᴿ        F=1     piv     
+  forsiti        木ᶠˢ        F=1     piv     
   garcini        木ᴳᶜ        F=1     piv     
+  gardeni        木ᴳᴱ        F=1     piv     
+  gink           木ᴳᴷ        F=1     piv     
   gledic^i       木ᴳᴸ        F=1     piv     
   gari           木ᴳᴿ        F=1     piv     
   grosulari      木ᴳˢ        F=1     piv     
@@ -607,6 +615,7 @@
   kopaifer       木ᴷᴼᴾ       F=1     piv     
   kopaiv         木ᴷᴾ        F=1     piv     
   krescenti      木ᴷᴿᴱ       F=1     piv     
+  kriptomeri     木ᴷᴿᴵ       F=1     piv     
   kupres         木ᴷˢ        F=1     piv     
   ksiloste       木ᴷˢᴵ       F=1     piv     
   karite         木ᴷᵀ        F=1     piv     
@@ -617,6 +626,7 @@
   laburn         木ᴸᴮ        F=1     piv     
   lecitid        木ᴸᶜ        F=1     piv     
   liriodendr     木ᴸᴰ        F=1     piv     
+  lagerstrom     木ᴸᴳ        F=1     piv     
   likvidambar    木ᴸᴷ        F=1     piv     
   longan         木ᴸᴺ        F=1     piv     
   larici         木ᴸᴿ        F=1     piv     
@@ -627,6 +637,7 @@
   maduk          木ᴹᴰ        F=1     piv     
   metroksil      木ᴹᴱ        F=1     piv     
   mangifer       木ᴹᶠ        F=1     piv     
+  mahagon        木ᴹᴴ        F=1     piv     
   miristik       木ᴹᴵ        F=1     piv     
   miroksil       木ᴹᴵᴿ       F=1     piv     
   makeri         木ᴹᴷ        F=1     piv     
@@ -646,6 +657,7 @@
   okrom          木ᴼᴷ        F=1     piv     
   opul           木ᴼᴾ        F=1     piv     
   pirakant       木ᴾᴬ        F=1     piv     
+  palisandr      木ᴾᴬᴸ       F=1     piv     
   pistaci        木ᴾᶜ        F=1     piv     
   podokarp       木ᴾᴰ        F=1     piv     
   pterokarp      木ᴾᴱ        F=1     piv     
@@ -673,6 +685,7 @@
   sorbus         木ˢᴮ        F=1     piv     
   sapind         木ˢᴰ        F=1     piv     
   semekarp       木ˢᴱ        F=1     piv     
+  sekvoj         木ˢᴱᴷ       F=1     piv     
   sofor          木ˢᶠ        F=1     piv     
   sekvojadendr   木ˢᴶ        F=1     piv     
   skin           木ˢᴷ        F=1     piv     
@@ -687,6 +700,7 @@
   sumak          木ˢᵁ        F=1     piv     
   sviteni        木ˢⱽ        F=1     piv     
   teobrom        木ᵀᴮ        F=1     piv     
+  tamarind       木ᵀᴰ        F=1     piv     
   tipuan         木ᵀᴵ        F=1     piv     
   tujops         木ᵀᴶ        F=1     piv     
   taksodi        木ᵀᴷ        F=1     piv     
@@ -695,10 +709,11 @@
   telope         木ᵀᴾ        F=1     piv     
   tibus^en       木ᵀˢ̂       F=1     piv     
   tetraklin      木ᵀᵀ        F=1     piv     
+  ulm            木ᵁ         F=1     piv     
   vikstremi      木ⱽᴷ        F=1     piv     
   zelkov         木ᶻ         F=1     piv     
 
-【鸟】 124件
+【鸟】 132件
   bird           鸟          F=63    basic   
   cikoni         鸟ᶜ         F=3     basic   
   arde           鸟ᴬ         F=4     pejvo   
@@ -724,6 +739,7 @@
   pluvi          鸟ᴾⱽ        F=2     piv     【動】チドリ
   sit            鸟ˢᴵ        F=2     piv     
   alka           鸟ᴬᴬ        F=1     piv     
+  albatros       鸟ᴬᴮ        F=1     piv     
   agami          鸟ᴬᴳ        F=1     piv     
   alced          鸟ᴬᴸ        F=1     piv     
   antus          鸟ᴬᴺ        F=1     piv     
@@ -754,6 +770,8 @@
   fulmar         鸟ᶠᴸ        F=1     piv     
   fenikur        鸟ᶠᴺ        F=1     piv     
   falaropod      鸟ᶠᴿ        F=1     piv     
+  fenikopter     鸟ᶠᵀ        F=1     piv     
+  guf            鸟ᴳᶠ        F=1     piv     
   galinag        鸟ᴳᴺ        F=1     piv     
   gip            鸟ᴳᴾ        F=1     piv     
   hipola         鸟ᴴ         F=1     piv     
@@ -762,6 +780,8 @@
   haliaet        鸟ᴴᴸ        F=1     piv     
   hematop        鸟ᴴᴹ        F=1     piv     
   himantop       鸟ᴴᴺ        F=1     piv     
+  hipsipet       鸟ᴴˢ        F=1     piv     
+  ibis           鸟ᴵ         F=1     piv     
   jing           鸟ᴶ         F=1     piv     
   jabiru         鸟ᴶᴮ        F=1     piv     
   katart         鸟ᴷᴬ        F=1     piv     
@@ -769,7 +789,10 @@
   karduel        鸟ᴷᴰ        F=1     piv     
   kokotrau^st    鸟ᴷᴷ        F=1     piv     
   kalidr         鸟ᴷᴸ        F=1     piv     
+  kormoran       鸟ᴷᴹ        F=1     piv     
   kairin         鸟ᴷᴺ        F=1     piv     
+  kondor         鸟ᴷᴼ        F=1     piv     
+  koturn         鸟ᴷᴼᵀ       F=1     piv     
   krek           鸟ᴷᴿ        F=1     piv     
   krakt          鸟ᴷᴿᴬ       F=1     piv     
   kreks          鸟ᴷˢ        F=1     piv     
@@ -824,7 +847,7 @@
   tring          鸟ᵀᴿ        F=1     piv     
   uri            鸟ᵁᴿ        F=1     piv     
 
-【虫】 95件
+【虫】 98件
   insekt         虫          F=19    basic   
   verm           虫ⱽ         F=22    basic   
   koral          虫ᴷ         F=11    pejvo   
@@ -887,6 +910,7 @@
   ikneu^mon      虫ᴵᴷ        F=1     piv     
   ip             虫ᴵᴾ        F=1     piv     
   karab          虫ᴷᴮ        F=1     piv     
+  kokcinel       虫ᴷᶜ        F=1     piv     
   koriks         虫ᴷᴷ        F=1     piv     
   kalosom        虫ᴷᴸ        F=1     piv     
   kopris         虫ᴷᴾ        F=1     piv     
@@ -894,12 +918,14 @@
   ksestobi       虫ᴷˢ        F=1     piv     
   katokal        虫ᴷᵀ        F=1     piv     
   krizop         虫ᴷᶻ        F=1     piv     
+  libel          虫ᴸᴮ        F=1     piv     
   licen          虫ᴸᶜ        F=1     piv     
   lig^e          虫ᴸᴳ̂       F=1     piv     
   leptinotars    虫ᴸᴺ        F=1     piv     
   lept           虫ᴸᴾ        F=1     piv     
   melo           虫ᴹ         F=1     piv     
   makaon         虫ᴹᴷ        F=1     piv     
+  mant           虫ᴹᴺ        F=1     piv     
   nepa           虫ᴺ         F=1     piv     
   nere           虫ᴺᴱ        F=1     piv     
   nekrofor       虫ᴺᴷ        F=1     piv     
@@ -921,7 +947,7 @@
   vanes          虫ⱽᴺ        F=1     piv     
   zigen          虫ᶻ         F=1     piv     
 
-【鱼】 87件
+【鱼】 93件
   fiŝ            鱼          F=83    basic   
   haring         鱼ᴴ         F=5     basic   
   angil          鱼ᴬ         F=4     basic   
@@ -981,22 +1007,27 @@
   kongr          鱼ᴷᴺ        F=1     piv     
   labr           鱼ᴸ         F=1     piv     
   leptocefal     鱼ᴸᶜ        F=1     piv     
+  labrak         鱼ᴸᴷ        F=1     piv     
   lamn           鱼ᴸᴹ        F=1     piv     
   lampetr        鱼ᴸᴾ        F=1     piv     
   latimeri       鱼ᴸᵀ        F=1     piv     
   leu^cisk       鱼ᴸᵁ̆       F=1     piv     
   merluc^        鱼ᴹᶜ̂       F=1     piv     
   mola           鱼ᴹᴸ        F=1     piv     
+  muren          鱼ᴹᴺ        F=1     piv     
   molv           鱼ᴹⱽ        F=1     piv     
   nau^krat       鱼ᴺ         F=1     piv     
   nemakejl       鱼ᴺᴹ        F=1     piv     
   osmer          鱼ᴼ         F=1     piv     
+  pagr           鱼ᴾᴬ        F=1     piv     
   pagel          鱼ᴾᴳ        F=1     piv     
   piranj         鱼ᴾᴺ        F=1     piv     
   prist          鱼ᴾˢ        F=1     piv     
   remor          鱼ᴿᴹ        F=1     piv     
   rutel          鱼ᴿᵀ        F=1     piv     
   sebast         鱼ˢᴮ        F=1     piv     
+  seriol         鱼ˢᴱ        F=1     piv     
+  sturg          鱼ˢᴳ        F=1     piv     
   salvelen       鱼ˢᴸ        F=1     piv     
   seran          鱼ˢᴿ        F=1     piv     
   serasalm       鱼ˢˢ        F=1     piv     
@@ -1007,10 +1038,11 @@
   trakin         鱼ᵀᴷ        F=1     piv     
   timal          鱼ᵀᴹ        F=1     piv     
   trigl          鱼ᵀᴿ        F=1     piv     
+  trut           鱼ᵀᵀ        F=1     piv     
   zeu^s          鱼ᶻ         F=1     piv     
   zoarc          鱼ᶻᴿ        F=1     piv     
 
-【菌】 83件
+【菌】 87件
   fung           菌          F=42    basic   
   bakteri        菌ᴮ         F=36    basic   
   bacil          菌ᴮᶜ        F=7     basic   
@@ -1064,14 +1096,17 @@
   lepist         菌ᴸˢ        F=1     piv     
   leptospir      菌ᴸᵀ        F=1     piv     
   miceli         菌ᴹᴱ        F=1     piv     
+  morkel         菌ᴹᴷ        F=1     piv     
   meruli         菌ᴹᴸ        F=1     piv     
   monili         菌ᴹᴼ        F=1     piv     
   mukor          菌ᴹᴿ        F=1     piv     
   marasmi        菌ᴹˢ        F=1     piv     
+  macutak        菌ᴹᵀ        F=1     piv     
   mikoriz        菌ᴹᶻ        F=1     piv     
   ojdi           菌ᴼ         F=1     piv     
   peziz          菌ᴾ         F=1     piv     
   pukcini        菌ᴾᶜ        F=1     piv     
+  penicili       菌ᴾᴵ        F=1     piv     
   paksil         菌ᴾᴷ        F=1     piv     
   plute          菌ᴾᴸ        F=1     piv     
   plasmopar      菌ᴾᴹ        F=1     piv     
@@ -1085,6 +1120,7 @@
   rokcel         菌ᴿᴷ        F=1     piv     
   rizokarp       菌ᴿᶻ        F=1     piv     
   serpul         菌ˢ         F=1     piv     
+  ŝitak          菌ˢ̂        F=1     piv     
   sporotrikum    菌ˢᴹ        F=1     piv     
   strofari       菌ˢᵀ        F=1     piv     
   trikolom       菌ᵀᴷ        F=1     piv     
@@ -1360,6 +1396,27 @@
   palemon        虾ᴾᴸ        F=1     piv     
   talitr         虾ᵀ         F=1     piv     
 
+【贝】 19件
+  konk           贝          F=16    basic   
+  folad          贝ᶠ         F=1     pejvo   
+  pekten         贝ᴾᵀ        F=1     pejvo   
+  anodont        贝ᴬ         F=1     piv     
+  arkiteu^t      贝ᴬᴿ        F=1     piv     
+  dorid          贝ᴰ         F=1     piv     
+  eledon         贝ᴱ         F=1     piv     
+  gujdak         贝ᴳ         F=1     piv     
+  korbikul       贝ᴷᴿ        F=1     piv     
+  limne          贝ᴸ         F=1     piv     
+  mureks         贝ᴹ         F=1     piv     
+  meleagren      贝ᴹᴸ        F=1     piv     
+  pina           贝ᴾ         F=1     piv     
+  pinktad        贝ᴾᴷ        F=1     piv     
+  panope         贝ᴾᴾ        F=1     piv     
+  skafark        贝ˢ         F=1     piv     
+  tered          贝ᵀ         F=1     piv     
+  tridakn        贝ᵀᴷ        F=1     piv     
+  testacel       贝ᵀˢ        F=1     piv     
+
 【龙】 19件
   drak           龙          F=9     pejvo   
   igvan          龙ᴵ         F=1     pejvo   
@@ -1399,25 +1456,6 @@
   niton          气ᴺᵀ        F=1     pejvo   
   radon          气ᴿ         F=1     pejvo   
   ksenon         气ᴷˢ        F=1     piv     
-
-【贝】 17件
-  konk           贝          F=16    basic   
-  folad          贝ᶠ         F=1     pejvo   
-  pekten         贝ᴾᵀ        F=1     pejvo   
-  anodont        贝ᴬ         F=1     piv     
-  arkiteu^t      贝ᴬᴿ        F=1     piv     
-  dorid          贝ᴰ         F=1     piv     
-  eledon         贝ᴱ         F=1     piv     
-  gujdak         贝ᴳ         F=1     piv     
-  limne          贝ᴸ         F=1     piv     
-  mureks         贝ᴹ         F=1     piv     
-  meleagren      贝ᴹᴸ        F=1     piv     
-  pina           贝ᴾ         F=1     piv     
-  pinktad        贝ᴾᴷ        F=1     piv     
-  panope         贝ᴾᴾ        F=1     piv     
-  tered          贝ᵀ         F=1     piv     
-  tridakn        贝ᵀᴷ        F=1     piv     
-  testacel       贝ᵀˢ        F=1     piv     
 
 【蛇】 14件
   serpent        蛇          F=20    basic   
@@ -1692,6 +1730,16 @@
   eskadron       队ᴱ         F=1     pejvo   
   skadron        队ˢᴺ        F=1     pejvo   
 
+【花】 8件
+  flor           花          F=87    basic   
+  gerani         花ᴳ         F=3     pejvo   
+  irid           花ᴵ         F=3     pejvo   
+  amarilid       花ᴬ         F=1     pejvo   
+  balzamin       花ᴮ         F=1     pejvo   
+  enoter         花ᴱ         F=1     pejvo   
+  ciklamen       花ᶜ         F=1     piv     
+  krokus         花ᴷ         F=1     piv     
+
 【隔】 8件
   izol           隔          F=38    basic   
   vand           隔ⱽ         F=6     pejvo   
@@ -1960,6 +2008,15 @@
   konjunkci      合ᴷᴶ        F=4     pejvo   
   kombinaci      合ᴷᶜ        F=1     piv     
 
+【菜】 7件
+  legom          菜          F=15    basic   
+  brasik         菜ᴮ         F=31    basic   
+  lap            菜ᴸᴾ        F=2     basic   
+  sabelik        菜ˢ         F=1     basic   
+  artis^ok       菜ᴬ         F=4     pejvo   
+  amarant        菜ᴬᴹ        F=3     pejvo   
+  brokol         菜ᴮᴷ        F=1     piv     
+
 【使】 7件
   ig             使          F=2032  suf     
   ambasador      使ᴬᴿ        F=5     basic   
@@ -2176,14 +2233,6 @@
   truk           骗ᵀᴷ        F=4     pejvo   
   bluf           骗ᴮ         F=3     pejvo   
 
-【花】 6件
-  flor           花          F=87    basic   
-  gerani         花ᴳ         F=3     pejvo   
-  irid           花ᴵ         F=3     pejvo   
-  amarilid       花ᴬ         F=1     pejvo   
-  balzamin       花ᴮ         F=1     pejvo   
-  enoter         花ᴱ         F=1     pejvo   
-
 【械】 6件
   mekanik        械          F=18    basic   
   meĥanik        械ᴹᴴ̂       F=1     basic   
@@ -2216,6 +2265,14 @@
   emblem         徽ᴱ         F=1     pejvo   
   kokard         徽ᴷ         F=1     pejvo   
 
+【菊】 6件
+  krizantem      菊          F=5     basic   
+  kompozit       菊ᴷᴹ        F=2     pejvo   
+  aster          菊ᴬ         F=1     pejvo   
+  lekant         菊ᴸ         F=1     pejvo   
+  dali           菊ᴰ         F=1     piv     
+  kosmos         菊ᴷˢ        F=1     piv     
+
 【教】 6件
   instru         教          F=40    basic   
   eklezi         教ᴱ         F=19    basic   
@@ -2247,14 +2304,6 @@
   proto          原ᴾᵀ        F=6     pejvo   
   primar         原ᴾᴿ        F=3     pejvo   
   pamp           原ᴾᴾ        F=2     piv     【地理】パンパ
-
-【菜】 6件
-  legom          菜          F=15    basic   
-  brasik         菜ᴮ         F=31    basic   
-  lap            菜ᴸᴾ        F=2     basic   
-  sabelik        菜ˢ         F=1     basic   
-  artis^ok       菜ᴬ         F=4     pejvo   
-  amarant        菜ᴬᴹ        F=3     pejvo   
 
 【刺】 6件
   pik            刺          F=44    basic   
@@ -2750,6 +2799,13 @@
   zigzag         折ᶻ         F=5     pejvo   
   plis           折ᴾ         F=3     pejvo   
 
+【蝉】 5件
+  cikad          蝉          F=5     basic   
+  cukcukcikad    蝉ᶜᶜ        F=1     basic   
+  kanacikad      蝉ᴷ         F=1     basic   
+  mincikad       蝉ᴹ         F=1     basic   
+  ĵiĵicikad      蝉ᴶ̂        F=1     piv     
+
 【宣】 5件
   anonc          宣          F=15    basic   
   reklam         宣ᴿ         F=21    basic   
@@ -2959,6 +3015,13 @@
   infuz          泡ᴵ         F=5     pejvo   
   efervesk       泡ᴱ         F=3     pejvo   
   blaz           泡ᴮᴸ        F=3     piv     【医】水疱
+
+【蜂】 5件
+  abel           蜂          F=21    basic   
+  vesp           蜂ⱽ         F=4     basic   
+  krabr          蜂ᴷ         F=1     pejvo   
+  burd           蜂ᴮ         F=1     piv     
+  cinip          蜂ᶜ         F=1     piv     
 
 【暴】 5件
   ŝtorm          暴          F=11    basic   
@@ -3289,6 +3352,13 @@
   tez            题ᵀᶻ        F=6     basic   
   topik          题ᵀᴾ        F=2     piv     論題・主題
 
+【鹰】 5件
+  falk           鹰          F=14    pejvo   
+  akcipitr       鹰ᴬ         F=4     pejvo   
+  bute           鹰ᴮ         F=4     pejvo   
+  niz            鹰ᴺ         F=2     pejvo   
+  milv           鹰ᴹ         F=1     piv     
+
 【龟】 5件
   testud         龟          F=8     basic   
   h^eloni        龟ᴴ̂        F=1     pejvo   
@@ -3367,12 +3437,6 @@
   inĝenier       技ᴵ         F=12    basic   
   teknologi      技ᵀᴸ        F=7     basic   
   teĥnik         技ᵀᴴ̂       F=2     basic   
-
-【菊】 4件
-  krizantem      菊          F=5     basic   
-  kompozit       菊ᴷᴹ        F=2     pejvo   
-  aster          菊ᴬ         F=1     pejvo   
-  lekant         菊ᴸ         F=1     pejvo   
 
 【客】 4件
   gast           客          F=24    basic   
@@ -3620,12 +3684,6 @@
   splis          接ˢ         F=4     pejvo   
   tang^          接ᵀ         F=3     pejvo   
 
-【蝉】 4件
-  cikad          蝉          F=5     basic   
-  cukcukcikad    蝉ᶜᶜ        F=1     basic   
-  kanacikad      蝉ᴷ         F=1     basic   
-  mincikad       蝉ᴹ         F=1     basic   
-
 【潜鸟】 4件
   gavi           潜鸟         F=3     pejvo   
   kolimb         潜鸟ᴷ        F=1     pejvo   
@@ -3709,6 +3767,12 @@
   proces         程ᴾᶜ        F=8     basic   
   procedur       程ᴾᴰ        F=7     pejvo   
   procez         程ᴾᶻ        F=6     pejvo   
+
+【豆】 4件
+  fab            豆          F=9     basic   
+  fazeol         豆ᶠᶻ        F=3     basic   
+  legumen        豆ᴸ         F=1     pejvo   
+  azuki          豆ᴬ         F=1     piv     
 
 【撞】 4件
   kolizi         撞          F=9     basic   
@@ -3859,12 +3923,6 @@
   celul          胞ᶜ         F=2     pejvo   
   cito           胞ᶜᵀ        F=6     piv     【生】細胞
   citoz          胞ᶜᶻ        F=5     piv     【生】サイトーシス(小胞輸送)
-
-【蜂】 4件
-  abel           蜂          F=21    basic   
-  vesp           蜂ⱽ         F=4     basic   
-  krabr          蜂ᴷ         F=1     pejvo   
-  cinip          蜂ᶜ         F=1     piv     
 
 【防】 4件
   defend         防          F=24    basic   
@@ -4394,11 +4452,11 @@
   frugileg       鸦ᶠ         F=1     pejvo   
   moned          鸦ᴹ         F=1     pejvo   
 
-【鹰】 4件
-  falk           鹰          F=14    pejvo   
-  akcipitr       鹰ᴬ         F=4     pejvo   
-  bute           鹰ᴮ         F=4     pejvo   
-  niz            鹰ᴺ         F=2     pejvo   
+【鹦】 4件
+  papag          鹦          F=8     basic   
+  konur          鹦ᴷ         F=1     pejvo   
+  kakatu         鹦ᴷᴷ        F=1     pejvo   
+  ara            鹦ᴬ         F=1     piv     
 
 【哀】 3件
   kondolenc      哀          F=4     basic   
@@ -4684,6 +4742,11 @@
   bemol          降          F=2     pejvo   
   degrad         降ᴰ         F=4     pejvo   
   kapitulac      降ᴷ         F=4     pejvo   
+
+【香草】 3件
+  lavend         香草         F=3     pejvo   
+  origan         香草ᴼ        F=1     piv     
+  rosmaren       香草ᴿ        F=1     piv     
 
 【高】 3件
   alt            高          F=94    basic   
@@ -5160,11 +5223,6 @@
   izo            等ᴵ         F=36    pref    
   ekvivalent     等ᴱᴷ        F=11    pejvo   
 
-【豆】 3件
-  fab            豆          F=9     basic   
-  fazeol         豆ᶠᶻ        F=3     basic   
-  legumen        豆ᴸ         F=1     pejvo   
-
 【逃】 3件
   fuĝ            逃          F=6     basic   
   eskap          逃ᴱ         F=7     basic   
@@ -5199,6 +5257,11 @@
   toler          忍          F=20    basic   
   pacienc        忍ᴾ         F=10    basic   
   stoik          忍ˢ         F=5     pejvo   
+
+【葱】 3件
+  cep            葱          F=4     basic   
+  pore           葱ᴾ         F=1     piv     
+  ŝalot          葱ˢ̂        F=1     piv     
 
 【白】 3件
   blank          白          F=68    basic   
@@ -5289,6 +5352,11 @@
   papaj          木瓜         F=3     pejvo   
   cidoni         木瓜ᶜ        F=6     pejvo   
   karik          木瓜ᴷ        F=2     pejvo   
+
+【柳】 3件
+  salik          柳          F=6     basic   
+  vimen          柳ⱽ         F=4     pejvo   
+  popl           柳ᴾ         F=1     piv     
 
 【容】 3件
   mien           容          F=16    basic   
@@ -5695,6 +5763,11 @@
   sampl          样ˢᴹ        F=3     piv     【統計】標本・サンプル
   muestr         样ᴹ         F=2     piv     【統計】標本
 
+【樱】 3件
+  ĉeriz          樱          F=13    basic   
+  meriz          樱ᴹ         F=2     pejvo   
+  sakur          樱ˢ         F=1     piv     
+
 【步】 3件
   paŝ            步          F=48    basic   
   marŝ           步ᴹ         F=11    basic   
@@ -5960,15 +6033,15 @@
   eksperiment    验ᴱ         F=12    basic   
   empiri         验ᴱᴹ        F=7     pejvo   
 
+【鲤】 3件
+  karp           鲤          F=3     basic   
+  ciprin         鲤ᶜ         F=2     pejvo   
+  karas          鲤ᴷˢ        F=1     piv     
+
 【鸽】 3件
   kolomb         鸽          F=22    basic   
   turt           鸽ᵀ         F=3     pejvo   
   livi           鸽ᴸ         F=2     pejvo   
-
-【鹦】 3件
-  papag          鹦          F=8     basic   
-  konur          鹦ᴷ         F=1     pejvo   
-  kakatu         鹦ᴷᴷ        F=1     pejvo   
 
 【齿】 3件
   dent           齿          F=95    basic   
@@ -6099,9 +6172,17 @@
   girland        花环         F=2     basic   
   feston         花环ᶠ        F=2     pejvo   
 
+【茄】 2件
+  tomat          茄          F=3     basic   
+  melongen       茄ᴹ         F=1     piv     
+
 【我】 2件
   mi             我          F=20    func    
   atm            我ᴬ         F=2     piv     【理】蒸発計
+
+【蛾】 2件
+  mote           蛾          F=3     piv     【動】イガ
+  bombiks        蛾ᴮ         F=1     piv     
 
 【介电】 2件
   permitiv       介电         F=3     pejvo   
@@ -7099,6 +7180,10 @@
   oktav          八度         F=3     pejvo   
   okt            八度ᴼᴷ       F=2     piv     【楽】オクターブ
 
+【蛤】 2件
+  meretrik       蛤          F=2     pejvo   
+  ruditap        蛤ᴿ         F=1     piv     
+
 【半】 2件
   hemi           半          F=13    pejvo   
   semi           半ˢ         F=3     piv     【化】セミカルバジド
@@ -7347,10 +7432,6 @@
   servut         役          F=5     pejvo   
   kampanj        役ᴷ         F=10    pejvo   
 
-【柳】 2件
-  salik          柳          F=6     basic   
-  vimen          柳ⱽ         F=4     pejvo   
-
 【愈】 2件
   des            愈          F=4     basic   
   konvalesk      愈ᴷ         F=2     piv     【医】快復・回復期
@@ -7531,6 +7612,10 @@
   fanfaron       夸          F=6     basic   
   bombast        夸ᴮ         F=2     pejvo   
 
+【姜】 2件
+  zingibr        姜          F=4     pejvo   
+  miog           姜ᴹ         F=1     piv     
+
 【孕】 2件
   graved         孕          F=9     basic   
   koncip         孕ᴷ         F=13    pejvo   
@@ -7690,6 +7775,10 @@
 【辣】 2件
   kapsik         辣          F=6     pejvo   
   kajen          辣ᴷᴶ        F=1     pejvo   
+
+【辣根】 2件
+  kren           辣根         F=1     pejvo   
+  vasabi         辣根ⱽ        F=1     piv     
 
 【醋】 2件
   acet           醋          F=7     pejvo   
@@ -8011,10 +8100,6 @@
   sojl           槛          F=11    basic   
   limin          槛ᴸ         F=1     piv     
 
-【樱】 2件
-  ĉeriz          樱          F=13    basic   
-  meriz          樱ᴹ         F=2     pejvo   
-
 【欢】 2件
   gaj            欢          F=27    basic   
   jovial         欢ᴶ         F=1     piv     
@@ -8262,6 +8347,10 @@
 【药瓜】 2件
   kolocint       药瓜         F=2     pejvo   
   kolokint       药瓜ᴷᴷ       F=1     pejvo   
+
+【莺】 2件
+  silvi          莺          F=3     pejvo   
+  ugvis          莺ᵁ         F=1     piv     
 
 【萝卜】 2件
   rafan          萝卜         F=3     basic   
@@ -8570,10 +8659,6 @@
 【鱼龙】 2件
   iktiosau^r     鱼龙         F=2     pejvo   
   ih^tiosau^r    鱼龙ᴵᴴ̂      F=1     pejvo   
-
-【鲤】 2件
-  karp           鲤          F=3     basic   
-  ciprin         鲤ᶜ         F=2     pejvo   
 
 【鲨】 2件
   ŝark           鲨          F=5     basic   
