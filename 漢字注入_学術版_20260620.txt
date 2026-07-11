@@ -2597,7 +2597,7 @@ aspir/ant/o⟦渴ᴬ/在/o⟧:志願者
 aspir/i⟦渴ᴬ/i⟧:{Ｏ}［他］熱望する,あこがれる
 aspirin/o:{Ｏ}【薬】アスピリン
 aspir/o⟦渴ᴬ/o⟧:熱望,志願
-astak/o⟦虾ᴬ/o⟧:【動】ザリガニ（の類）
+astak/o⟦虾ᴬˢ/o⟧:【動】ザリガニ（の類）
 Astan/o:【地名】アスタナ（カザフスタンの首都）
 astat/a⟦无定/a⟧:【理】無定位の,>>stata
 as-temp/o⟦as-时/o⟧:【Ｇ】現在（時制）,=prezenco
@@ -18225,7 +18225,7 @@ koher/i⟦贯/i⟧:［自］（論理が）首尾一貫している,まとまっ
 koher/ig/a fort/o⟦贯/使/a 强/o⟧:【理】凝集力
 koher/il/o⟦贯/具/o⟧:【通】コヒーラ
 koher/o⟦贯/o⟧:【理】凝集;一貫性,まとまり,（話の）筋道
-kohort/o⟦团ᴷ/o⟧:【史】（古代ローマの）歩兵隊;《転》一団,一群（人の集団）
+kohort/o⟦团ᴷᴴ/o⟧:【史】（古代ローマの）歩兵隊;《転》一団,一群（人の集団）
 koincid/i⟦巧合/i⟧:{Ｏ}［自］同時に起こる;一致する,符合する;【数】一致する
 koincid/o⟦巧合/o⟧:同時発生;合致,一致,符合;【数】一致
 koit/i⟦交ᴷ/i⟧:［自］交接する,性交する,=sekskunig^i
@@ -20993,7 +20993,7 @@ kvadrig/o:【史】クァドリガ（古代ローマの四頭立て二輪戦車�
 kvadril/o:{Ｏ}【楽】カドリール
 kvaker/ism/o⟦kvaker/主义/o⟧:【宗】クエーカー教徒の信条（教義）
 kvaker/o:{Ｏ}【宗】クエーカー教徒
-kvak/i⟦鸣ᴷ/i⟧:［自］（カエルが）ゲロゲロ鳴く,（アヒルが）ガァガァ鳴く
+kvak/i⟦鸣ᴷᴷ/i⟧:［自］（カエルが）ゲロゲロ鳴く,（アヒルが）ガァガァ鳴く
 kvalif/i:=>kvalifiki（規定する）
 kvalifik/i⟦称ᴷ/i⟧:［他］規定する,〜と呼ぶ;資格を与える,肩書きを与える;【Ｇ】修飾する
 kvalifik/it/a⟦称ᴷ/受/a⟧:資格のある,免許を得た;【Ｇ】修飾された
@@ -28527,7 +28527,7 @@ oportun/ec/o⟦便/性/o⟧:便利さ;便宜
 oportun/ism/o⟦便/主义/o⟧:日和見主義,御都合主義
 oportun/ist/o⟦便/家/o⟧:日和見主義者,御都合主義の人
 oportun/o⟦便/o⟧:好機,好都合
-oposum/o:【服】オポッサムの毛皮;【動】=didelfo
+oposum/o⟦鼠ᴼᴾ/o⟧:【服】オポッサムの毛皮;【動】=didelfo
 opozici/a⟦对ᴼ/a⟧:（政治的に）反対の,対立する
 opozici/a kandidat/o⟦对ᴼ/a 候/o⟧:対立候補
 opozici/an/o⟦对ᴼ/员ᴬ/o⟧:反対派の人,野党員,=opoziciulo
@@ -29755,7 +29755,7 @@ pekl/it/a⟦盐浸/受/a⟧:【料】塩漬けの
 pekl/it/a ume/o⟦盐浸/受/a 梅/o⟧:【料】梅干
 pek/o⟦罪ᴾ/o⟧:（宗教的・道徳的な）罪,あやまち;（規則・習慣に対する）違反
 pek/o/plen/a⟦罪ᴾ/o/满/a⟧:罪深い
-pekten/o⟦贝ᴾ/o⟧:【貝】イタヤガイ（板屋貝）（科の総称）,ホタテガイ（帆立貝）
+pekten/o⟦贝ᴾᵀ/o⟧:【貝】イタヤガイ（板屋貝）（科の総称）,ホタテガイ（帆立貝）
 pek/ul/o⟦罪ᴾ/者/o⟧:（宗教的・道徳的な）罪人（つみびと）,罪を犯しやすい人
 pelargoni/o:【植】テンジクアオイ（属）;【園】ゼラニウム
 pelasg/o:【史】ペラスゴイ人
@@ -35250,7 +35250,7 @@ saracen/o:【史】サラセン人（中世ヨーロッパ人が用いたイス�
 Sarajev/o:【地名】サラエボ（ボスニア・ヘルツェゴビナの首都）
 sardel/o:{Ｏ}【料】（缶詰や瓶詰の）塩漬けイワシ,塩漬けアンチョビー,>>anc^ovo
 Sardini/o:【地名】サルジニア島,サルディーニャ島（地中海西部）
-sardin/o⟦鱼ˢᴿ/o⟧:【料】（缶詰の）油漬けイワシ,サーディン;【魚】=pilc^ardo（ピルチャード）
+sardin/o⟦鱼ˢᴰ/o⟧:【料】（缶詰の）油漬けイワシ,サーディン;【魚】=pilc^ardo（ピルチャード）
 sard/o:サルディーニャ人（イタリア）
 Sargas/mar/o:【地名】サルガッソー海（北大西洋の海域）
 sari/o:【服】サリー（インド女性の民族服）
@@ -43801,7 +43801,7 @@ vok/o⟦呼/o⟧:呼び声;招き;（電話の）呼出音
 vok/o/centr/o⟦呼/o/央/o⟧:コールセンター,電話受付センター
 vok/signal/o⟦呼/号ˢ/o⟧:呼出信号
 vok/sign/o⟦呼/符/o⟧:【通】呼出符号,コールサイン
-vokt/o⟦督ⱽ/o⟧:監督者,監視人,=laborkontrolisto
+vokt/o⟦督ⱽᴷ/o⟧:監督者,監視人,=laborkontrolisto
 vol.:［略］=volumo
 vol/a⟦愿/a⟧:意志の,意志的な,>>konscia
 volan/lud/o⟦羽ⱽ/玩/o⟧:【運】バドミントン,=badmintono
@@ -45306,7 +45306,7 @@ arm/il/pag^i/o⟦武/具/侍ᴾ/o⟧:【史】【PIV】En Mezepoko, juna servist
 arm/il/port/ist/o⟦武/具/运/家/o⟧:【史】【PIV】En Mezepoko, juna servisto, kiu portadis la armilojn de sia mastro dum la rajdado.
 arm/it/o⟦武/受/o⟧:【PIV】Homo armita: c^evalo eliras kontrau^ armiton .
 armadel/o⟦兽ᴬᴿ/o⟧:【動】【PIV】1 Kn (Kolektiva nomo) de la mamuloj, apartenantaj al la fam. (familio) de dazipodedoj. 2 Sp. (Specio) de dazipodo (Dasypus novemcinctus) kun 9 vicoj de ostopecoj.
-armadilidi/o⟦虾ᴬᴿ/o⟧:【動】【PIV】G. (Genro) (Armadillidium) de krustacoj, parencaj al onisko.
+armadilidi/o⟦虾ᴬ/o⟧:【動】【PIV】G. (Genro) (Armadillidium) de krustacoj, parencaj al onisko.
 Armand/o:【PIV】Vira nomo.
 arme/estr/o⟦军/长ᴱ/o⟧:【PIV】C^efo de armeo. Vd generalo, stratego.
 armen/a:【PIV】Rilata al armenoj au^ Armenio: la armena eklezio; la armena genocido (fare de la turka s^tato, 1915).
@@ -50668,9 +50668,9 @@ konfuz/iv/a⟦乱/能ᴵ/a⟧:【PIV】Kapabla j^eti konfuzon en la menson: jen 
 kongorug^/o:【PIV】kolorindikanto, blua en acida solvaj^o, rug^a en alkala solvaj^o.
 kongel/i⟦冻ᴷᴺ/i⟧:【PIV】(tr (transitiva)) Fridigi produkton je temperaturo de minus 30°, por konservi g^in je −18 °C (celsia(j) grado(j)).
 kongel/uj/o⟦冻ᴷᴺ/器/o⟧:【PIV】S^ranko, hejma au^ industria, uzata por konservi kongelitajn produktojn. Vd frostigilo.
-konglomer/i⟦团ᴷᴺ/i⟧:【理】【地質】【PIV】(tr (transitiva)) Kunligi per liga substanco sam-au^ nesam-specajn elementojn, pecojn. Vd aglomeri.
-konglomer/aj^/o⟦团ᴷᴺ/物/o⟧:【PIV】1 Detrita sedimenta petro, konsistanta el minimume 50% da rondaj rokpecoj pli ol 2 mm (milimetro(j)) dimensiaj, kunligitaj de etgrajna cemento. Vd aglomeri, brec^io, tilito. 2 Maso, konsistanta el kunligitaj ne samspecaj partoj.
-konglomer/ig^/i⟦团ᴷᴺ/成/i⟧:【PIV】Kunligig^i en konglomeraj^on.
+konglomer/i⟦团ᴷ/i⟧:【理】【地質】【PIV】(tr (transitiva)) Kunligi per liga substanco sam-au^ nesam-specajn elementojn, pecojn. Vd aglomeri.
+konglomer/aj^/o⟦团ᴷ/物/o⟧:【PIV】1 Detrita sedimenta petro, konsistanta el minimume 50% da rondaj rokpecoj pli ol 2 mm (milimetro(j)) dimensiaj, kunligitaj de etgrajna cemento. Vd aglomeri, brec^io, tilito. 2 Maso, konsistanta el kunligitaj ne samspecaj partoj.
+konglomer/ig^/i⟦团ᴷ/成/i⟧:【PIV】Kunligig^i en konglomeraj^on.
 kongr/o⟦鱼ᴷᴺ/o⟧:【動】【PIV】G. (Genro) (Conger) de grandaj fis^oj el la ordo de angiloformaj, tute sen skvamoj. Sin. (sinonimo) marangilo.
 koni/in/o⟦毒参/in/o⟧:【化】【PIV】Venena alkaloido, C 8 H 17 N, el la makula konio.
 konidi/o:【植】【PIV】Neseksa, ne movig^ema fungosporo, g^enerale defalema
@@ -51048,7 +51048,7 @@ kuir/ad/i⟦烹/行/i⟧:【PIV】Prepari tutan mang^on: s^i tute ne scias kuira
 Kukland/o:【PIV】Vd (vidu) lando.
 Ku-Kluks-Klan/o:【PIV】Sekreta Usona societo rasista k ksenofoba, komence (c^. (c^irkau^) 1865) batalanta per teroro kontrau^ la rajtoj de negroj, poste (ekde 1915) ankau^ kontrau^juda, kontrau^katolika, puritana 2 k batalanta kontrau^ c^ia socia progreso.
 kukol/o/form/aj⟦鹃/o/形/aj⟧:【動】【PIV】Ordo (Cuculiformes) de birdoj, plejparte tropikaj nestparazitoj.
-kuku/i⟦鸣ᴷᴷ/i⟧:【PIV】(ntr (netransitiva)) Krii pp (se paroli pri) kukolo; (f (figurasence)) krii « kuku», kas^ante sin, por inciti la serc^antojn. Vd kas^ludo.
+kuku/i⟦鸣ᴷᵁ/i⟧:【PIV】(ntr (netransitiva)) Krii pp (se paroli pri) kukolo; (f (figurasence)) krii « kuku», kas^ante sin, por inciti la serc^antojn. Vd kas^ludo.
 kukum/frukt/o⟦瓜ᴷ/果/o⟧:【PIV】Kukumo 2.
 kukumis/o⟦草ᴷᵁᴷ/o⟧:【植】【PIV】G. (Genro) (Cucumis el kukurbacoj) de unu-k plur-jaraj herboj, monoikaj au^ dioikaj, volvegrimpaj, kun karnaj fruktoj (beroj au^ peponedoj) glob-, ovo-au^ cilindro-formaj; c^. (c^irkau^) 30 sp-oj (specioj) el Azio k precipe Afriko, el kiuj kukumo k melono.
 kulan/o⟦马ᴷ/o⟧:【PIV】= onagro.
@@ -51166,8 +51166,8 @@ Kvinto-Kurti/o:【PIV】Kurtio.
 Kvirinal/o:【史】【PIV】1 Unu el la sep montetoj de Romo. 2 Sidejo de la Italia Respublikestro.
 kvit/e⟦偿/e⟧:【PIV】1 En kvita maniero: inter ni kvite – reston al Dio ni lasu! ^G. 2 Interj-a (Interjekcia) esprimo de definitiva rifuzo: Traktato? Mi g^in jam finis, s^iris – kun traktatoj kvite! ^G.
 kvivit!:【PIV】Onomatopeo de la birdokrieto: la malgrandaj birdoj pepadis « kvivit! kvivit!» .
-kvivit/o⟦鸣ᴷⱽ/o⟧:【PIV】Tiu krieto: kion birdo havas pro c^iuj siaj kvivitoj, kiam venas la vintro? .
-kvivit/i⟦鸣ᴷⱽ/i⟧:【PIV】(ntr (netransitiva)) Krii kvivit! Vd pepi.
+kvivit/o⟦鸣ᴷ/o⟧:【PIV】Tiu krieto: kion birdo havas pro c^iuj siaj kvivitoj, kiam venas la vintro? .
+kvivit/i⟦鸣ᴷ/i⟧:【PIV】(ntr (netransitiva)) Krii kvivit! Vd pepi.
 kvocient/a⟦商ᴷⱽ/a⟧:【数】【PIV】Rilata al kvociento: kvocienta spaco, grupo.
 l:【PIV】Konsonanto, voc^a laterala likvido.
 lab/o⟦皱胃/o⟧:【PIV】1 = abomaso. 2 La membrano de la stomako de la mamuloj (inkl. (inkluzive) de la homo), kiu sekrecias kazeigan enzimon (labenzimon). / 【技】(fm (familiara, familiare)) Laboratorio.
@@ -53375,7 +53375,7 @@ pinan/o:【化】【PIV】Simpla, unucikla monoterpeno, saturita analogo de pine
 pinen/o:【化】【PIV】Monoterpeno, C 10 H 16, c^efa konsistaj^o de la terebintina esenco.
 pinofit/oj:【植】【PIV】Filumo (Pinophyta) el la spermatofitoj. Sin. (sinonimo) gimnospermoj.
 pinopsid/oj:【植】【PIV】Klaso (Pinopsida) el la gimnospermoj. Sin. (sinonimo) koniferoj.
-pina/o⟦贝ᴾᴺ/o⟧:【動】【PIV】G. (Genro) (Pinna) de grandaj (30−60 cm (centimetro) longaj) duvalvuloj el la varmaj k mezvarmaj maroj, havantaj staran konkon kun pinto en la sablo.
+pina/o⟦贝ᴾ/o⟧:【動】【PIV】G. (Genro) (Pinna) de grandaj (30−60 cm (centimetro) longaj) duvalvuloj el la varmaj k mezvarmaj maroj, havantaj staran konkon kun pinto en la sablo.
 pinakol/o:【化】【PIV】Produkto de redukta kondensado de acetono, (CH 3) 2 C(OH)-C(OH)(CH 3) 2.
 pinakolon/o:【化】【PIV】Dimetilbutanono, (CH 3) 3 C-C(O)CH 3, akirebla el pinakolo per la t.n. (tiel nomata) pinakolona transformig^o.
 pinakotek/o:【PIV】Muzeo de pentraj^oj: la Munkena pinakoteko.
@@ -54605,10 +54605,10 @@ salikorni/o⟦草ˢᴬᴸ/o⟧:【植】【PIV】G. (Genro) (Salicornia el kenop
 saliv/a⟦唾/a⟧:【PIV】Rilata al la salivo: saliva amelazo.
 saliv/ig/a⟦唾/使/a⟧:【PIV】Iganta salivi: saliviga medikamento.
 salmis/o:【PIV】Raguo el jam antau^e kuiritaj viandopecoj: anasa, perdrika, meleagra salmiso.
-salmon/o⟦鱼ˢᴼ/o⟧:【動】【PIV】G. (Genro) (Salmo) de fis^oj el la fam. (familio) salmonedoj, kiu ampleksas salmon k la trutojn.
-salmon/ed/oj⟦鱼ˢᴼ/科ᴱ/oj⟧:【動】【PIV】Fam. (Familio) (Salmonidae), kiun karakterizas grasnag^ilo post la ordinara dorsa nag^ilo, k kiu ampleksas i.a. (interalie, inter aliaj) koregonon k salmonon.
-salmon/form/aj⟦鱼ˢᴼ/形/aj⟧:【動】【PIV】Ordo (Salmoniformes) de teleosteoj, kiu ampleksas i.a. (interalie, inter aliaj) la salmonedojn k la ezokedojn.
-salmon/o/form/aj⟦鱼ˢᴼ/o/形/aj⟧:【動】【PIV】Ordo (Salmoniformes) de teleosteoj, kiu ampleksas i.a. (interalie, inter aliaj) la salmonedojn k la ezokedojn.
+salmon/o⟦鱼ˢᴺ/o⟧:【動】【PIV】G. (Genro) (Salmo) de fis^oj el la fam. (familio) salmonedoj, kiu ampleksas salmon k la trutojn.
+salmon/ed/oj⟦鱼ˢᴺ/科ᴱ/oj⟧:【動】【PIV】Fam. (Familio) (Salmonidae), kiun karakterizas grasnag^ilo post la ordinara dorsa nag^ilo, k kiu ampleksas i.a. (interalie, inter aliaj) koregonon k salmonon.
+salmon/form/aj⟦鱼ˢᴺ/形/aj⟧:【動】【PIV】Ordo (Salmoniformes) de teleosteoj, kiu ampleksas i.a. (interalie, inter aliaj) la salmonedojn k la ezokedojn.
+salmon/o/form/aj⟦鱼ˢᴺ/o/形/aj⟧:【動】【PIV】Ordo (Salmoniformes) de teleosteoj, kiu ampleksas i.a. (interalie, inter aliaj) la salmonedojn k la ezokedojn.
 salmonel/o:【生】【PIV】G. (Genro) (Salmonella) de enterobakterioj kau^zantaj salmonelozojn.
 salmonel/oz/o⟦salmonel/症ᴼ/o⟧:【医】【PIV】(kn (kolektiva nomo)) Afekcio, kau^zata de salmonelo: tifoido, paratifoj k diversaj gastro-enteritoj estas salmonelozoj.
 Salomon/a:【PIV】Rilata al Salomono: Salomona jug^o (tute justa).
@@ -54846,8 +54846,8 @@ ser/o/negativ/a⟦血清/o/否/a⟧:【PIV】(pp (se paroli pri) iu) Havanta ser
 ser/o/pozitiv/a⟦血清/o/正ᴾ/a⟧:【PIV】(pp (se paroli pri) iu) Havanta serodiagnozon negativan, resp. (respektive) pozitivan.
 seraf/a⟦天使ˢ/a⟧:【PIV】Rilata al serafo(j): (f (figurasence)) serafa amo (plej arda k pura). Vd platona.
 serak/o:【地理】【地質】【PIV】Kaosa amaso da glacipecoj, kiuj estig^as c^e la pli deklivaj lokoj, kie la glacirivero dividig^as per fendegoj.
-seran/o⟦鱼ˢᴺ/o⟧:【動】【PIV】G. (Genro) (Serranus el la fam. (familio) de seranedoj) de maraj fis^oj, ege voremaj, hermafroditaj.
-seran/ed/oj⟦鱼ˢᴺ/科ᴱ/oj⟧:【動】【PIV】Fam. (Familio) el la ordo de perkoformaj fis^oj, al kiu apartenas i.a. (interalie, inter aliaj) serano k labrako.
+seran/o⟦鱼ˢᴿ/o⟧:【動】【PIV】G. (Genro) (Serranus el la fam. (familio) de seranedoj) de maraj fis^oj, ege voremaj, hermafroditaj.
+seran/ed/oj⟦鱼ˢᴿ/科ᴱ/oj⟧:【動】【PIV】Fam. (Familio) el la ordo de perkoformaj fis^oj, al kiu apartenas i.a. (interalie, inter aliaj) serano k labrako.
 serasalm/o⟦鱼ˢˢ/o⟧:【動】【PIV】G. (Genro) (Serrasalmus) de dolc^akvaj S-k C-Amerikaj ciprinoformaj fis^oj, kun akregaj dentoj, k kies plej konata sp. estas piranjo 1 (S. piraya). Sin. (sinonimo) piranjo 2.
 serat/o:【解】【PIV】C^iu el la tri dorsaj muskoloj segildentoformaj: antau^a serato (M. serratus anterior).
 seratul/o⟦草ˢᵁ/o⟧:【植】【PIV】G. (Genro) (Serratula el asteracoj) de plurjaraj herboj parencaj al centau^reo; c^. (c^irkau^) 70 sp-oj (specioj) el Eu^ropo, Azio k N Afriko.
@@ -56924,9 +56924,9 @@ vodevil/et/o⟦歌舞剧/小/o⟧:【PIV】Mallonga vodevilo.
 voj/a⟦路/a⟧:【PIV】Rilata al vojo(j), precipe 3: voja administracio, prizorgado, reto, obstrukco.
 voj/ul/o⟦路/者/o⟧:【PIV】1 Homo, kiu vivas c^efe sur la vojoj. Vd trampo, vagabondo. 2 Rovero.
 vojag^/il/ar/o⟦旅/具/群/o⟧:【PIV】Aro de la tualetaj^oj necesaj dum vojag^o.
-vojevod/o⟦督ⱽᴶ/o⟧:【史】【政】【PIV】Titolo iam uzata en Balkanlandoj k Pollando k aplikata, lau^ la landoj k epokoj, al armeestro, regnestro au^ guberniestro.
+vojevod/o⟦督ⱽ/o⟧:【史】【政】【PIV】Titolo iam uzata en Balkanlandoj k Pollando k aplikata, lau^ la landoj k epokoj, al armeestro, regnestro au^ guberniestro.
 vojevodi/o:【PIV】Distrikto, regata de vojevodo (en la nuna epoko, en Pollando): la 16 vojevodioj de Pollando.
-vojevod/uj/o⟦督ⱽᴶ/器/o⟧:【PIV】Distrikto, regata de vojevodo (en la nuna epoko, en Pollando): la 16 vojevodioj de Pollando.
+vojevod/uj/o⟦督ⱽ/器/o⟧:【PIV】Distrikto, regata de vojevodo (en la nuna epoko, en Pollando): la 16 vojevodioj de Pollando.
 Vojvodin/o:【PIV】Regiono plurgenta en la N parto de Serbio (Novisado).
 vok/ad/o⟦呼/行/o⟧:【PIV】Ripetata voko: la donacoj k la vokado de Dio estas nere vokeblaj .
 vok/ist/o⟦呼/家/o⟧:【PIV】Malsupera jug^eja oficisto, kies devo estas disporti la tribunalajn alvokojn, anonci la verdiktojn ktp (kaj tiel plu).

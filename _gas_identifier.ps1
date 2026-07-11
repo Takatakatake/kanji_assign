@@ -39,6 +39,12 @@ foreach($grp in ($rows | Group-Object k)){
   # --- 頭文字でグループ化(出現順保持) ---
   $headOrder=New-Object System.Collections.ArrayList; $headGroups=@{}
   foreach($p in $proc){ if(-not $headGroups.ContainsKey($p.head)){ $headGroups[$p.head]=New-Object System.Collections.ArrayList; [void]$headOrder.Add($p.head) }; [void]$headGroups[$p.head].Add($p) }
+  # --- 識別子安定化(2026-07-11): 同頭文字群内で新規(P>=5=隙間充填)は既存(P<5)に識別子を譲る(既存上付きの互換保持)。基本形(sortedIndex0)は先頭固定=base選定(C順)は不変。安定並べ替え(class内はC順保持)。
+  foreach($h in $headOrder){ $lst=@($headGroups[$h]); if($lst.Count -le 1){ continue }
+    $baseM=@(); $exist=@(); $newM=@()
+    foreach($p in $lst){ if($p.sortedIndex -eq 0){ $baseM+=$p } elseif([double]$p.row.P -ge 5){ $newM+=$p } else { $exist+=$p } }
+    $re=New-Object System.Collections.ArrayList; foreach($p in (@($baseM)+@($exist)+@($newM))){ [void]$re.Add($p) }
+    $headGroups[$h]=$re }
   $used=New-Object System.Collections.Generic.HashSet[string]
   foreach($h in $headOrder){ $shr=$headGroups[$h]
     if($shr.Count -eq 1){ $p=$shr[0]; $idf=if($p.sortedIndex -eq 0){''}else{$h}

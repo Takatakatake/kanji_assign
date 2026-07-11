@@ -913,10 +913,10 @@
   misgurn        鱼ᴹˢ        F=1     pejvo   
   perc^          鱼ᴾᶜ̂       F=1     pejvo   
   pilc^ard       鱼ᴾᴸ        F=1     pejvo   
+  sardin         鱼ˢᴰ        F=1     pejvo   
   spar           鱼ˢᴾ        F=1     pejvo   
-  sardin         鱼ˢᴿ        F=1     pejvo   
   anchov         鱼ᴬᶜ        F=0     pejvo   
-  salmon         鱼ˢᴼ        F=3     piv     【動】サケ属
+  salmon         鱼ˢᴺ        F=3     piv     【動】サケ属
   acipenser      鱼ᴬᴾ        F=2     piv     【動】チョウザメ
   iktio          鱼ᴵᴷ        F=2     piv     【動】魚類学者
   kalmar         鱼ᴷᴹ        F=2     piv     【動】ヤリイカ
@@ -958,7 +958,7 @@
   rutel          鱼ᴿᵀ        F=1     piv     
   sebast         鱼ˢᴮ        F=1     piv     
   salvelen       鱼ˢᴸ        F=1     piv     
-  seran          鱼ˢᴺ        F=1     piv     
+  seran          鱼ˢᴿ        F=1     piv     
   serasalm       鱼ˢˢ        F=1     piv     
   surmulet       鱼ˢᵀ        F=1     piv     
   skvaten        鱼ˢⱽ        F=1     piv     
@@ -1212,7 +1212,7 @@
   titi           猴ᵀ         F=1     piv     
   tarsi          猴ᵀᴿ        F=1     piv     
 
-【鼠】 24件
+【鼠】 25件
   mus            鼠          F=15    basic   
   rat            鼠ᴿ         F=6     basic   
   mustel         鼠ᴹˢ        F=6     pejvo   
@@ -1223,6 +1223,7 @@
   vizon          鼠ⱽ         F=2     pejvo   
   zibel          鼠ᶻ         F=2     pejvo   
   didelf         鼠ᴰ         F=1     pejvo   
+  oposum         鼠ᴼᴾ        F=1     pejvo   
   sorik          鼠ˢ         F=1     pejvo   
   aguti          鼠ᴬ         F=1     piv     
   arvikol        鼠ᴬᴿ        F=1     piv     
@@ -1283,11 +1284,11 @@
 
 【虾】 18件
   kankr          虾          F=4     basic   
-  astak          虾ᴬ         F=1     pejvo   
+  astak          虾ᴬˢ        F=1     pejvo   
   salikok        虾ˢ         F=1     pejvo   
   Leandr         虾ᴸᴱ        F=2     piv     【動】テナガエビ
   leandr         虾ᴸᴺ        F=2     piv     【動】テナガエビ
-  armadilidi     虾ᴬᴿ        F=1     piv     
+  armadilidi     虾ᴬ         F=1     piv     
   birg           虾ᴮ         F=1     piv     
   dafni          虾ᴰ         F=1     piv     
   dromi          虾ᴰᴿ        F=1     piv     
@@ -1342,7 +1343,7 @@
 【贝】 16件
   konk           贝          F=16    basic   
   folad          贝ᶠ         F=1     pejvo   
-  pekten         贝ᴾ         F=1     pejvo   
+  pekten         贝ᴾᵀ        F=1     pejvo   
   anodont        贝ᴬ         F=1     piv     
   arkiteu^t      贝ᴬᴿ        F=1     piv     
   dorid          贝ᴰ         F=1     piv     
@@ -1350,8 +1351,8 @@
   gujdak         贝ᴳ         F=1     piv     
   limne          贝ᴸ         F=1     piv     
   mureks         贝ᴹ         F=1     piv     
+  pina           贝ᴾ         F=1     piv     
   pinktad        贝ᴾᴷ        F=1     piv     
-  pina           贝ᴾᴺ        F=1     piv     
   panope         贝ᴾᴾ        F=1     piv     
   tered          贝ᵀ         F=1     piv     
   tridakn        贝ᵀᴷ        F=1     piv     
@@ -1382,8 +1383,8 @@
   aglomer        团ᴬᴸ        F=4     pejvo   
   agreg          团ᴬ         F=2     pejvo   
   bolus          团ᴮˢ        F=2     pejvo   
-  kohort         团ᴷ         F=1     pejvo   
-  konglomer      团ᴷᴺ        F=3     piv     凝集させる
+  kohort         团ᴷᴴ        F=1     pejvo   
+  konglomer      团ᴷ         F=3     piv     凝集させる
 
 【复】 11件
   ripet          复          F=13    basic   
@@ -1417,12 +1418,12 @@
   pep            鸣ᴾ         F=4     pejvo   
   hup            鸣ᴴ         F=3     pejvo   
   c^irp          鸣ᶜ̂        F=2     pejvo   
-  kvak           鸣ᴷ         F=1     pejvo   
+  kvak           鸣ᴷᴷ        F=1     pejvo   
   mek            鸣ᴹ         F=1     pejvo   
   rukul          鸣ᴿ         F=1     pejvo   
-  kvivit         鸣ᴷⱽ        F=2     piv     チチッ(小鳥の鳴き声)
+  kvivit         鸣ᴷ         F=2     piv     チチッ(小鳥の鳴き声)
   gak            鸣ᴳ         F=1     piv     
-  kuku           鸣ᴷᴷ        F=1     piv     
+  kuku           鸣ᴷᵁ        F=1     piv     
 
 【异】 10件
   fremd          异          F=19    basic   
@@ -2739,9 +2740,9 @@
 【督】 5件
   prefekt        督          F=7     pejvo   
   satrap         督ˢ         F=1     pejvo   
-  vokt           督ⱽ         F=1     pejvo   
+  vokt           督ⱽᴷ        F=1     pejvo   
   banus          督ᴮ         F=3     piv     【史】バン(太守)
-  vojevod        督ⱽᴶ        F=2     piv     【史】総督
+  vojevod        督ⱽ         F=2     piv     【史】総督
 
 【毒】 5件
   venen          毒          F=20    basic   
