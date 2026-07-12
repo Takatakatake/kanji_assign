@@ -9357,10 +9357,10 @@ empiri/ism/o⟦验ᴱᴹ/主义/o⟧:（理論を無視した）経験主義;【
 empiri/ist/o⟦验ᴱᴹ/家/o⟧:【哲】経験論者
 empiri/kritik/ism/o⟦验ᴱᴹ/评ᴷ/主义/o⟧:【哲】経験批判論
 empiri/o⟦验ᴱᴹ/o⟧:{Ｏ}経験的方法;【哲】経験,>>sperto,><spekulativo
-empir/ism/o⟦帝风/主义/o⟧:=empiriismo（経験論）##偽分解##強語根分解##過細分解 e/m/p/i/r/ism/o
-empir/ist/o⟦帝风/家/o⟧:=empiriisto（経験論者）##偽分解##強語根分解##過細分解 e/m/p/i/r/ist/o
+empir/ism/o⟦验ᴱᴾ/主义/o⟧:=empiriismo（経験論）##偽分解##強語根分解##過細分解 e/m/p/i/r/ism/o
+empir/ist/o⟦验ᴱᴾ/家/o⟧:=empiriisto（経験論者）##偽分解##強語根分解##過細分解 e/m/p/i/r/ist/o
 empiri/ul/o⟦验ᴱᴹ/者/o⟧:経験主義者,経験だけに頼る人
-empir/o⟦帝风/o⟧:【芸】アンピール様式（ナポレオン帝政期に流行した古典風の家具・装飾様式）
+empir/o⟦验ᴱᴾ/o⟧:【芸】アンピール様式（ナポレオン帝政期に流行した古典風の家具・装飾様式）
 -em/ul/o⟦倾/者/o⟧:［接尾辞］〜好きな人
 emulsi/i⟦乳ᴱ/i⟧:［他］乳化させる,乳濁させる
 emulsi/ig^/i⟦乳ᴱ/成/i⟧:［自］乳化する,乳濁する
@@ -25435,22 +25435,22 @@ mild/ec/o⟦柔/性/o⟧:優しさ,穏やかさ
 mild/ig/i⟦柔/使/i⟧:［他］和らげる,静める,軽減する
 mile/o⟦黄米/o⟧:《Ｎ》【植】キビ（黍）（種）,>>panico
 mil/foli/o⟦千/叶/o⟧:【植】セイヨウノコギリソウ（種）,>>akileo
-mili-⟦粟ᴹ⟧:［接頭辞］【学】ミリ〜（補助単位，＝１０００分の１）
-mili/amper/o⟦粟ᴹ/amper/o⟧:【電】ミリアンペア（mA）
+mili-⟦毫ᴹᴵ⟧:［接頭辞］【学】ミリ〜（補助単位，＝１０００分の１）
+mili/amper/o⟦毫ᴹᴵ/amper/o⟧:【電】ミリアンペア（mA）
 miliard/o⟦十亿/o⟧:{Ｂ}十億
 miliard/ul/o⟦十亿/者/o⟧:億万長者
-mili/bar/o⟦粟ᴹ/压ᴮ/o⟧:【気】ミリバール（mbar）
+mili/bar/o⟦毫ᴹᴵ/压ᴮ/o⟧:【気】ミリバール（mbar）
 milic/an/o⟦民兵/员ᴬ/o⟧:民兵
 milici/o:=milico（民兵隊）
 milic/o⟦民兵/o⟧:民兵隊,義勇軍,国民軍
-mili/gram/o⟦粟ᴹ/克/o⟧:{Ｏ}【単】ミリグラム（mg）##偽分解
-mili/metr/o⟦粟ᴹ/米/o⟧:{Ｂ}【単】ミリメートル（mm）##偽分解
-mili/o⟦粟ᴹ/o⟧:{Ｏ}【植】雑穀（アワ，キビ，ヒエ，モロコシなど）,>>setario,>>panico,>>ekinoklo,>>sorgo;=>mileo（キビ）
+mili/gram/o⟦毫ᴹᴵ/克/o⟧:{Ｏ}【単】ミリグラム（mg）##偽分解
+mili/metr/o⟦毫ᴹᴵ/米/o⟧:{Ｂ}【単】ミリメートル（mm）##偽分解
+mili/o⟦毫ᴹᴵ/o⟧:{Ｏ}【植】雑穀（アワ，キビ，ヒエ，モロコシなど）,>>setario,>>panico,>>ekinoklo,>>sorgo;=>mileo（キビ）
 milion/o⟦百万/o⟧:{Ｂ}百万
 milion/obl/a⟦百万/倍/a⟧:百万倍の
 milion/on/o⟦百万/分/o⟧:百万分の一
 milion/ul/o⟦百万/者/o⟧:百万長者
-mili/sivert/o⟦粟ᴹ/sivert/o⟧:【理】ミリシーベルト（線量当量のSI単位，mSv）##偽分解
+mili/sivert/o⟦毫ᴹᴵ/sivert/o⟧:【理】ミリシーベルト（線量当量のSI単位，mSv）##偽分解
 milit/a⟦战/a⟧:戦争の;軍事の
 milit/ad/o⟦战/行/o⟧:戦争遂行
 milit/ag/o⟦战/办/o⟧:戦争行為

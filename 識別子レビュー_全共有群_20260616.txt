@@ -4434,6 +4434,12 @@
   dekor          饰ᴰᴱ        F=3     pejvo   
   garnitur       饰ᴳ         F=2     pejvo   
 
+【验】 4件
+  spert          验          F=21    basic   
+  eksperiment    验ᴱ         F=12    basic   
+  empiri         验ᴱᴹ        F=7     pejvo   
+  empir          验ᴱᴾ        F=3     pejvo   
+
 【鲸】 4件
   balen          鲸          F=14    basic   
   cetac          鲸ᶜ         F=3     pejvo   
@@ -6028,11 +6034,6 @@
   stir           驾ˢ         F=24    pejvo   
   koc^er         驾ᴷ         F=2     pejvo   
 
-【验】 3件
-  spert          验          F=21    basic   
-  eksperiment    验ᴱ         F=12    basic   
-  empiri         验ᴱᴹ        F=7     pejvo   
-
 【鲤】 3件
   karp           鲤          F=3     basic   
   ciprin         鲤ᶜ         F=2     pejvo   
@@ -6051,10 +6052,6 @@
 【或】 2件
   aŭ             或          F=4     func    
   disjunkci      或ᴰ         F=1     piv     
-
-【粟】 2件
-  panic          粟          F=2     basic   
-  mili           粟ᴹ         F=6     pejvo   
 
 【案】 2件
   projekt        案          F=10    basic   
@@ -7675,6 +7672,10 @@
 【檐】 2件
   kornic         檐          F=4     pejvo   
   vizier         檐ⱽ         F=3     pejvo   
+
+【毫】 2件
+  milimetr       毫          F=0     basic   
+  mili           毫ᴹᴵ        F=6     pejvo   
 
 【气管】 2件
   trake          气管         F=6     pejvo   
