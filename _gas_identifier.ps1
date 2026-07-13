@@ -48,7 +48,7 @@ foreach($grp in ($rows | Group-Object k)){
   $used=New-Object System.Collections.Generic.HashSet[string]
   foreach($h in $headOrder){ $shr=$headGroups[$h]
     if($shr.Count -eq 1){ $p=$shr[0]; $idf=if($p.sortedIndex -eq 0){''}else{$h}
-      if($idf -and $used.Contains($idf)){ $sfx=2; $cand="$idf$sfx"; while($used.Contains($cand)){$sfx++;$cand="$idf$sfx"}; $idf=$cand }
+      if($idf -and $used.Contains($idf)){ throw ("[識別子=数字禁止] 単独頭文字群の頭文字idが衝突: 漢字="+$grp.Name+" 語根="+$p.row.root+" id="+$idf+" — 設計上到達不能。到達したら要調査(数字添字は絶対に付与しない=エラー停止)") }
       $p.id=$idf; if($idf){[void]$used.Add($idf)} }
     else { $seenC=@{}; $seenA=@{}
       foreach($p in $shr){ $idf=''
@@ -62,7 +62,7 @@ foreach($grp in ($rows | Group-Object k)){
             if($alt){ $idf=$alt } else {
               # 2文字idが枯渇(巨大群=生物属§4.6救済等)→ 頭+語根後続文字の漸進プレフィックスで一意化(数字回避・全语根は別綴りゆえ必ず一意化)
               $cand=$h; for($z=0;$z -lt $p.all.Count;$z++){ $cand=$cand+[string]$p.all[$z]; if(-not $used.Contains($cand)){ break } }
-              if($used.Contains($cand)){ $sfx=2; $c2="$cand$sfx"; while($used.Contains($c2)){$sfx++;$c2="$cand$sfx"}; $cand=$c2 }   # 文字列尽きた極稀ケースのみ数字
+              if($used.Contains($cand)){ throw ("[識別子=数字禁止] 漸進プレフィックス枯渇(綴り前方一致の入れ子語根): 漢字="+$grp.Name+" 語根="+$p.row.root+" cand="+$cand+" — 数字添字は絶対に付与しない。要: 当該群の入れ子語根の処理順見直し(エラー停止)") }   # 綴りが尽きる極稀ケース=数字を出さずエラー停止
               $idf=$cand } } }
         $p.id=$idf; if($idf){[void]$used.Add($idf)}
         UpdateSeen $p.cons $seenC; UpdateSeen $p.all $seenA } }
