@@ -119,6 +119,7 @@ foreach($pair in $pairs){
 
         elseif($idx -eq 0 -and ($s -eq 'a' -or $s -eq 'an') -and $privOk){ $tok=$privDisp; $thisMapped=$true; $privN++ }
         elseif($s -eq 'en'){ if($idx -eq 0){ $tok=$enDisp; $thisMapped=$true } else { $tok=$s } }
+        elseif($s -eq 'ajn'){ if($idx -eq 0){ $tok=(DispGet 'ajn'); $thisMapped=$true } else { $tok=$s } }   # 相関詞/語根 ajn(任ᴬ=任意・どんな〜でも): 語頭/独立語(idx0)のみ注入。中位・終端の ajn は形容詞複数対格語尾-ajn(bon/ajn等)の可能性ゆえLatin維持(実データでは終端-ajnの見出しは0件だが将来安全のため位置ガード)。大文字Ajn(人名)は§7大文字ガードで既にLatin。enと同型(2026-07-13)
         elseif(($s -eq 'on' -or $s -eq 'an') -and $idx -gt 0 -and $idx -eq ($nseg-1)){ $tok=$s }   # 終端 -on/-an = 対格(名詞-o/形容詞-a + 対格-n)=文法語尾→ラテン保持(kat/on⟦猫/on⟧)。分数-on-(分)/会員-an-(员)は中位で維持(2026-06-20)
         elseif($s -match $endingRe){ $tok=$s }
         elseif($idx -gt 0 -and $comb.ContainsKey($s)){ $tok=$comb[$s]; $thisMapped=$true }   # 結合形(idx>0): fon→声 等。背景fon=底(idx0)は次の disp で

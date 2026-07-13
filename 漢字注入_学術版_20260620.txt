@@ -686,12 +686,12 @@ ajl/o⟦蒜/o⟧:{Ｂ}【植】ニンニク（葫）;《般》にんにく（球
 ajl/o/bulb/er/o⟦蒜/o/球ᴮ/粒/o⟧:にんにく片,=ajlero
 ajl/o/bulb/o⟦蒜/o/球ᴮ/o⟧:にんにく（球根）
 ajl/o/prem/il/o⟦蒜/o/压/具/o⟧:【料】ニンニク絞り器
-ajn:{Ｂ}［副］〜であっても（無差別を示す）
-ajn/a:どんな〜でも,任意の,=ia ajn
-ajn/ist/o⟦ajn/家/o⟧:無原則な人
-ajn/o:何でも,=io ajn
+ajn⟦任ᴬ⟧:{Ｂ}［副］〜であっても（無差別を示す）
+ajn/a⟦任ᴬ/a⟧:どんな〜でも,任意の,=ia ajn
+ajn/ist/o⟦任ᴬ/家/o⟧:無原則な人
+ajn/o⟦任ᴬ/o⟧:何でも,=io ajn
 ajnu/a:=aina（アイヌの）
-ajn/ul/o⟦ajn/者/o⟧:（任意の）ある人,誰か,某氏,>>sinjoro Ajnulo
+ajn/ul/o⟦任ᴬ/者/o⟧:（任意の）ある人,誰か,某氏,>>sinjoro Ajnulo
 ajnu/o:=aino（アイヌ）
 Ajun/o:【地名】アイウン（西サハラの首都）
 ajut/o⟦喷嘴/o⟧:【機】噴射管,筒口,ノズル
@@ -5506,7 +5506,7 @@ c^ic^eron/o⟦导ᶜ̂/o⟧:観光ガイド,名所案内人
 c^i c^io⟦此 全o⟧:［代］これらすべて
 c^ie⟦全e⟧:{Ｂ}［副］いたる所に,どこでも
 c^ie/a⟦全e/a⟧:いたる所の
-c^ie ajn⟦全e ajn⟧:［副］どこもかしこも
+c^ie ajn⟦全e 任ᴬ⟧:［副］どこもかしこも
 c^ie/est/a⟦全e/是/a⟧:どこにでもある;【情】ユビキタスの
 c^iel⟦全样⟧:{Ｂ}［副］いろいろと
 c^iel/a⟦天ᶜ̂/a⟧:空の,天の
@@ -14839,7 +14839,7 @@ ia/foj/e⟦某a/次/e⟧:{Ｂ}ある時
 ial⟦某因⟧:{Ｂ}［副］ある理由で,なぜか
 iam⟦某时⟧:{Ｂ}［副］ある時,いつか（過去・未来）
 iam/a⟦某时/a⟧:いつかの（主に過去の）,かつての
-iam ajn⟦某时 ajn⟧:［副］いつでも
+iam ajn⟦某时 任ᴬ⟧:［副］いつでも
 ia/manier/e⟦某a/式/e⟧:何かの方法で,なんとかして,>>iel
 iam kaj iam⟦某时 和ᴷ 某时⟧:［副］ときどき,=de tempo al tempo
 ibeks/o:【動】アイベックス（野生ヤギの一種）
