@@ -7,7 +7,11 @@ $pairs=@(
   @('世界语全部单词_大约44100个(原pejvo.txt)_学術版_utf8_20260416.txt','漢字注入_学術版_20260620.txt') )
 function ToHsys([string]$s){ $s -replace 'ĉ','c^' -replace 'Ĉ','C^' -replace 'ĝ','g^' -replace 'Ĝ','G^' -replace 'ĥ','h^' -replace 'Ĥ','H^' -replace 'ĵ','j^' -replace 'Ĵ','J^' -replace 'ŝ','s^' -replace 'Ŝ','S^' -replace 'ŭ','u^' -replace 'Ŭ','U^' }
 # --- sidecar disp(主義) ---
-$disp=@{}; Import-Csv "$dir\_identifier_sidecar.tsv" -Encoding UTF8 -Delimiter "`t" | ForEach-Object { $disp[(ToHsys $_.root)]=$_.disp }
+# $disp=完全一致(case-sensitive)辞書 / $dispCI=大小無視フォールバック。既定@{}は大小無視のため leandr(虾ᴸᴺ)が Leandr(虾ᴸᴱ)に上書きされ、小文字leandrの引きが誤ってᴸᴱになる大小衝突を是正(2026-07-13)。引きは「完全一致優先→無ければ従来どおり大小無視」で、大小衝突する語根(現状 leandr/Leandr の1件のみ)だけが自分の識別子に直り、他は完全不変。
+$disp=New-Object 'System.Collections.Generic.Dictionary[string,string]'; $dispCI=@{}
+Import-Csv "$dir\_identifier_sidecar.tsv" -Encoding UTF8 -Delimiter "`t" | ForEach-Object { $rk=(ToHsys $_.root); $disp[$rk]=$_.disp; $dispCI[$rk]=$_.disp }
+function DispHas([string]$k){ $disp.ContainsKey($k) -or $dispCI.ContainsKey($k) }
+function DispGet([string]$k){ if($disp.ContainsKey($k)){ $disp[$k] } elseif($dispCI.ContainsKey($k)){ $dispCI[$k] } }
 # --- homonym台帳(sep見出しのみ適用。amb=同一文字列は不採用) ---
 $hsep=@{}; $comb=@{}
 Get-Content "$dir\_homonym_disp.tsv" -Encoding UTF8 | Select-Object -Skip 1 | ForEach-Object {
@@ -23,7 +27,7 @@ $medIt = "炎$([char]0x1D40)"   # 医学-it-(-itis 炎症)=炎ᵀ。受動分詞
 $medStem=@{}; foreach($ms in @('aden','albugine','alveol','aneks','ang','angi','aort','apendic','araknoid','arteri','artr','atik','balan','bronk','burs','cekum','cist','dakriocist','derm','dermat','duoden','encefal','enter','ependim','ezofag','faring','fibr','fleb','folikl','gangli','gastr','gingiv','glos','hepat','ile','iris','kard','kardi','kerat','kojl','kondr','konjunktiv','kord','korne','koroid','koronari','laring','lien','mastoid','mediastin','medol','mening','mi','miring','mjel','nefr','neu^r','oftalm','orel','orkid','ost','ot','ovari','palat','palpebr','panikl','pankreat','parotid','penis','peritone','pjel','pleu^r','pneu^mon','prostat','pulp','radikl','rektum','retin','rin','salping','sinovi','sinus','sklerot','stomak','stomat','tarz','tenden','timpan','tiroid','tonsil','trah^e','trake','ureter','uretr','uter','uve','vagin','vaginal','vaskul','vejn','verumontan','vulv','epifiz','koks','testik','celul','periost','pulm')){ $medStem[$ms]=$true }   # 医学-itis(-it→炎)発火用=体部位/医学語幹。これら語幹+/it/=器官+炎症で確実に-itis(受動分詞は動詞語幹で非該当)。2026-06-25 WSL同期で露出: celul(蜂巣炎)・periost(骨膜炎)・pulm(肺炎=pneŭmonito)を追加(各語幹は-it/oの炎症形のみ・受動分詞用法なし)。※mitrは/o炎症と/a受動(ミトラ授与)が分かれるため語幹でなく$medItWord(語単位)で処理
 $medItWord = @{ 'mitr/it/o'=$true }   # 語単位の-itis→炎ᵀ override(語幹がambで医学語幹に入れられない語用)。mitr/it/o=僧帽弁炎→炎、mitr/it/a=ミトラを授けられた(受動)→受 を弁別(2026-06-25)
 $privDisp = "无$([char]0x1D2C)"   # privative a-/an- = 无ᴬ
-$enDisp = if($disp.ContainsKey('en')){$disp['en']}else{'内'}
+$enDisp = if(DispHas 'en'){DispGet 'en'}else{'内'}
 $endingRe = '^(o|a|e|i|u|oj|aj|ojn|ajn|as|is|os|us|u|j|n)$'   # on/an/en は除外し、-on=分/-an=员/en=内 を位置で裁定
 $sufSet = @('ad','aj^','an','ar','ec','eg','ej','em','end','er','estr','et','id','ig','ig^','il','in','ind','ing','ism','ist','obl','on','op','uj','ul','um')  # privativeガード: 直後が派生接尾辞のみなら privative 不発火(an/ar/o=员群 等)
 $dropLinkO = $false   # 連結母o省略: 【無効】=連結oも保持し1:1構造を残す(美/性/o/酪/o)。省略は後処理に委ねる(ユーザー2026-06-20確定)。$true で再有効化可
@@ -81,9 +85,9 @@ foreach($pair in $pairs){
         $s=$segs[$idx]
         if($medStem.ContainsKey($s)){ $medSeen=$true }   # 医学-itis: 体部位語幹を前方で検出(後続の it を炎へ)
         $fagEat=$false; if($s -eq 'fag'){ for($jf=$idx+1;$jf -lt $nseg;$jf++){ if($segs[$jf] -eq 'o'){continue}; if($segs[$jf] -eq 'cit'){$fagEat=$true}; break }; if(-not $fagEat){ for($jf=$idx-1;$jf -ge 0;$jf--){ if($segs[$jf] -eq 'o'){continue}; if('makro','bakteri','antrop' -contains $segs[$jf]){$fagEat=$true}; break } } }   # -fag-(-phage 喰): 後続の非o分節=cit(fagocit食細胞) または 前方の非o分節=makro/bakteri/antrop(大食/細菌/人食)→食。ブナFagus(山毛榉=disp 树)と弁別: 単独fag/o·fag/ar·fag/ac·fag/o/frukt·sang/o/fag(銅葉ブナ栽培種)·ŝajn/fag(Notofago南方ブナ)は前後該当なし→树維持。希φάγος vs Fagus の同綴別語(2026-06-28)
-        if($dropLinkO -and $s -eq 'o' -and $idx -gt 0 -and ($idx+1 -lt $nseg) -and $prevMapped -and $disp.ContainsKey($segs[$idx+1])){ $mergeNext=$true; continue }   # 連結母o省略(現在 $dropLinkO=$false で無効=連結oを保持)
+        if($dropLinkO -and $s -eq 'o' -and $idx -gt 0 -and ($idx+1 -lt $nseg) -and $prevMapped -and (DispHas $segs[$idx+1])){ $mergeNext=$true; continue }   # 連結母o省略(現在 $dropLinkO=$false で無効=連結oを保持)
         $tok=$null; $thisMapped=$false
-        if($s.Contains('-')){ $sub=$s -split '-'; $rp=@(); $anySub=$false; foreach($sp in $sub){ if($sp -eq ''){continue}; if($hsep.ContainsKey($w) -and $hsep[$w].ContainsKey($sp)){ $rp+=$hsep[$w][$sp]; $anySub=$true } elseif($disp.ContainsKey($sp)){ $rp+=$disp[$sp]; $anySub=$true } elseif($sp -match $endingRe){ $rp+=$sp } else { $rp+=$sp } }; $tok=($rp -join '-'); $thisMapped=$anySub }   # ハイフン複合は形態素分解(ĉi-jar→此-年・alfa-partikl→alfa-粒等。ĉi=此, jar=年)。下位分節もhomonym sep適用(- は / と同じ形態素境界。-gram/接尾辞定義→图等。既存はot/o-rin..のみで無影響)
+        if($s.Contains('-')){ $sub=$s -split '-'; $rp=@(); $anySub=$false; foreach($sp in $sub){ if($sp -eq ''){continue}; if($hsep.ContainsKey($w) -and $hsep[$w].ContainsKey($sp)){ $rp+=$hsep[$w][$sp]; $anySub=$true } elseif(DispHas $sp){ $rp+=(DispGet $sp); $anySub=$true } elseif($sp -match $endingRe){ $rp+=$sp } else { $rp+=$sp } }; $tok=($rp -join '-'); $thisMapped=$anySub }   # ハイフン複合は形態素分解(ĉi-jar→此-年・alfa-partikl→alfa-粒等。ĉi=此, jar=年)。下位分節もhomonym sep適用(- は / と同じ形態素境界。-gram/接尾辞定義→图等。既存はot/o-rin..のみで無影響)
         elseif($chemSaltLine -and ($s -eq 'at' -or $s -eq 'it') -and $idx -gt 0){ $tok=$(if($s -eq 'at'){$saltAt}else{$saltIt}); $thisMapped=$true }   # 化学塩/酸 -at→盐ᴬ・-it→盐ᴵ(行レベル判定 $chemSaltLine)。酸根は下の hsep(krom/titan/bor=金/金/矿)/disp(acet=醋・fer=铁等)で。受動分詞-at(被)は非化学行で維持
         elseif(($s -eq 'it') -and $idx -gt 0 -and ($medSeen -or $medItWord.ContainsKey($w))){ $tok=$medIt; $thisMapped=$true }   # 医学-it-(-itis 炎症)→炎ᵀ: 前方に体部位/医学語幹($medStem)がある時、または語単位override($medItWord=mitr/it/o等)。受動分詞-it(動詞語幹・far/it=做/受、mitr/it/a=ミトラ授与/受 等)は非該当で 受 維持。化学塩-it(盐)は上で先取
         elseif(($s -eq 'ol') -and $nseg -gt 1){ $tok='ol' }   # 化学アルコール -ol(多分節)=ラテン保持(opaque)。比較ol=比(disp)は単独語のみ。他分節は通常どおり漢字化(偽分解尊重・2026-06-22)
@@ -118,7 +122,7 @@ foreach($pair in $pairs){
         elseif(($s -eq 'on' -or $s -eq 'an') -and $idx -gt 0 -and $idx -eq ($nseg-1)){ $tok=$s }   # 終端 -on/-an = 対格(名詞-o/形容詞-a + 対格-n)=文法語尾→ラテン保持(kat/on⟦猫/on⟧)。分数-on-(分)/会員-an-(员)は中位で維持(2026-06-20)
         elseif($s -match $endingRe){ $tok=$s }
         elseif($idx -gt 0 -and $comb.ContainsKey($s)){ $tok=$comb[$s]; $thisMapped=$true }   # 結合形(idx>0): fon→声 等。背景fon=底(idx0)は次の disp で
-        elseif($disp.ContainsKey($s)){ $tok=$disp[$s]; $thisMapped=$true }
+        elseif(DispHas $s){ $tok=(DispGet $s); $thisMapped=$true }
         else { $tok=$s }
         if($thisMapped){ $anyMapped=$true }
         if($s -notmatch $endingRe){ $segTot++; if($thisMapped){$segMap++} }
