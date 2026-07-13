@@ -1,6 +1,6 @@
 ﻿# 識別子レビュー(GAS/§5位置・§3厳密・§6a別文字・特殊字修正・base上書き版): 全共有群・全メンバー・語義付き
 
-【草】 462件
+【草】 327件
   herb           草          F=67    basic   
   pajl           草ᴾ         F=18    basic   
   skiz           草ˢ         F=6     basic   
@@ -10,201 +10,141 @@
   cist           草ᶜ         F=4     pejvo   
   rut            草ᴿ         F=4     pejvo   
   akant          草ᴬᴷ        F=3     pejvo   
-  angelik        草ᴬᴸ        F=3     pejvo   
   betel          草ᴮ         F=3     pejvo   
   veratr         草ⱽ         F=3     pejvo   
-  anet           草ᴬᴺ        F=2     pejvo   
   eu^forbi       草ᴱ         F=2     pejvo   
   helebor        草ᴴᴸ        F=2     pejvo   
   krokiz         草ᴷᴷ        F=2     pejvo   
   kokleari       草ᴷᴸ        F=2     pejvo   
   kenopodi       草ᴷᴺ        F=2     pejvo   
   kareks         草ᴷˢ        F=2     pejvo   
-  anagal         草ᴬᴳ        F=1     pejvo   
+  anagal         草ᴬᴺ        F=1     pejvo   
   asklepiad      草ᴬˢ        F=1     pejvo   
   borag          草ᴮᴿ        F=1     pejvo   
   kres           草ᴷ         F=1     pejvo   
   ranunkol       草ᴿᴺ        F=1     pejvo   
-  solan          草ˢᴸ        F=1     pejvo   
   tragant        草ᵀ         F=1     pejvo   
-  umbelifer      草ᵁ         F=1     pejvo   
-  aspleni        草ᴬᴱ        F=4     piv     【植】チャセンシダ属
   trap           草ᵀᴾ        F=3     piv     
   bas^o          草ᴮˢ̂       F=2     piv     
   ciper          草ᶜᴾ        F=2     piv     【植】カヤツリグサ属
-  eritre         草ᴱᴵ        F=2     piv     
+  eritre         草ᴱᵀ        F=2     piv     
   paris          草ᴾᴿ        F=2     piv     
   sued           草ˢᴰ        F=2     piv     【植】マツナ属
   sagitari       草ˢᴳ        F=2     piv     
-  veronik        草ⱽᴿ        F=2     piv     
-  agerat         草ᴬᴬ        F=1     piv     
+  veronik        草ⱽᴺ        F=2     piv     
+  aliari         草ᴬᴬ        F=1     piv     
   abutil         草ᴬᴮ        F=1     piv     
   androzac       草ᴬᶜ        F=1     piv     
   arund          草ᴬᴰ        F=1     piv     
+  armeri         草ᴬᴱ        F=1     piv     
   amofil         草ᴬᶠ        F=1     piv     
-  alis           草ᴬᴵ        F=1     piv     
+  argemon        草ᴬᴳ        F=1     piv     
+  anil           草ᴬᴵ        F=1     piv     
   ajug           草ᴬᴶ        F=1     piv     
-  ajapan         草ᴬᴶᴬ       F=1     piv     
   akonit         草ᴬᴷᴼ       F=1     piv     
-  alium          草ᴬᴸᴵ       F=1     piv     
-  aliari         草ᴬᴸᴵᴬ      F=1     piv     
-  alkekeng       草ᴬᴸᴷ       F=1     piv     
+  alis           草ᴬᴸ        F=1     piv     
   alokazi        草ᴬᴸᴼ       F=1     piv     
   alopekur       草ᴬᴸᴼᴾ      F=1     piv     
-  alpini         草ᴬᴸᴾ       F=1     piv     
   alsin          草ᴬᴸˢ       F=1     piv     
-  ami            草ᴬᴹ        F=1     piv     
-  amom           草ᴬᴹᴼ       F=1     piv     
-  ampelopraz     草ᴬᴹᴾ       F=1     piv     
+  arum           草ᴬᴹ        F=1     piv     
   anastatik      草ᴬᴺᴬ       F=1     piv     
   andropogon     草ᴬᴺᴰ       F=1     piv     
-  angrek         草ᴬᴺᴳ       F=1     piv     
-  anil           草ᴬᴺᴵ       F=1     piv     
   anturi         草ᴬᴺᵀ       F=1     piv     
-  antenari       草ᴬᴺᵀᴱ      F=1     piv     
-  antilid        草ᴬᴺᵀᴵ      F=1     piv     
   antoksant      草ᴬᴺᵀᴼ      F=1     piv     
-  antrisk        草ᴬᴺᵀᴿ      F=1     piv     
   akor           草ᴬᴼ        F=1     piv     
   apocin         草ᴬᴾ        F=1     piv     
-  apios          草ᴬᴾᴵ       F=1     piv     
   air            草ᴬᴿ        F=1     piv     
   arabis         草ᴬᴿᴬ       F=1     piv     
   arabidops      草ᴬᴿᴬᴮ      F=1     piv     
   arenari        草ᴬᴿᴱ       F=1     piv     
-  argemon        草ᴬᴿᴳ       F=1     piv     
-  arkte          草ᴬᴿᴷ       F=1     piv     
-  armeri         草ᴬᴿᴹ       F=1     piv     
-  armoraci       草ᴬᴿᴹᴼ      F=1     piv     
-  arunk          草ᴬᴿᵁ       F=1     piv     
+  armoraci       草ᴬᴿᴹ       F=1     piv     
   aspidistr      草ᴬˢᴾ       F=1     piv     
   astilb         草ᴬˢᵀ       F=1     piv     
   akte           草ᴬᵀ        F=1     piv     
-  arum           草ᴬᵁ        F=1     piv     
+  arunk          草ᴬᵁ        F=1     piv     
   au^brieti      草ᴬᵁ̆       F=1     piv     
   aizo           草ᴬᶻ        F=1     piv     
-  azol           草ᴬᶻᴼ       F=1     piv     
-  balote         草ᴮᴬ        F=1     piv     
-  balzamit       草ᴮᴬᴸ       F=1     piv     
-  barbare        草ᴮᴬᴿ       F=1     piv     
-  bambuz         草ᴮᴮ        F=1     piv     
+  barbare        草ᴮᴮ        F=1     piv     
   bemeri         草ᴮᴱ        F=1     piv     
-  buftalm        草ᴮᶠ        F=1     piv     
-  bistort        草ᴮᴵ        F=1     piv     
-  biskutel       草ᴮᴵˢ       F=1     piv     
+  bromeli        草ᴮᴵ        F=1     piv     
   bekabung       草ᴮᴷ        F=1     piv     
-  belis          草ᴮᴸ        F=1     piv     
+  balote         草ᴮᴸ        F=1     piv     
   butom          草ᴮᴹ        F=1     piv     
-  brioni         草ᴮᴺ        F=1     piv     
-  bromeli        草ᴮᴼ        F=1     piv     
-  bupleu^r       草ᴮᴾ        F=1     piv     
+  brunel         草ᴮᴺ        F=1     piv     
   bromus         草ᴮˢ        F=1     piv     
-  bleti          草ᴮᵀ        F=1     piv     
-  brunel         草ᴮᵁ        F=1     piv     
+  bistort        草ᴮᵀ        F=1     piv     
+  biskutel       草ᴮᵁ        F=1     piv     
   bazili         草ᴮᶻ        F=1     piv     
-  centrant       草ᶜᴬ        F=1     piv     
-  cimbalari      草ᶜᴮ        F=1     piv     
+  cimbopogon     草ᶜᴮ        F=1     piv     
   cimicifug      草ᶜᶜ        F=1     piv     
   cinodont       草ᶜᴰ        F=1     piv     
-  cerasti        草ᶜᴱ        F=1     piv     
+  centrant       草ᶜᴱ        F=1     piv     
   ceratofil      草ᶜᶠ        F=1     piv     
   cinoglos       草ᶜᴳ        F=1     piv     
-  cinerari       草ᶜᴵ        F=1     piv     
-  cipripedi      草ᶜᴵᴾ       F=1     piv     
-  cistopterid    草ᶜᴵˢ       F=1     piv     
-  ceterak        草ᶜᴷ        F=1     piv     
-  citrol         草ᶜᴸ        F=1     piv     
-  cimbidi        草ᶜᴹ        F=1     piv     
+  cimbalari      草ᶜᴹ        F=1     piv     
   cinar          草ᶜᴺ        F=1     piv     
-  cimbopogon     草ᶜᴼ        F=1     piv     
   circe          草ᶜᴿ        F=1     piv     
-  cirsi          草ᶜˢ        F=1     piv     
+  cerasti        草ᶜˢ        F=1     piv     
   citin          草ᶜᵀ        F=1     piv     
   centau^ri      草ᶜᵁ̆       F=1     piv     
   cinozur        草ᶜᶻ        F=1     piv     
-  dau^k          草ᴰ         F=1     piv     
+  drab           草ᴰ         F=1     piv     
   difenbaki      草ᴰᴮ        F=1     piv     
   dafodil        草ᴰᶠ        F=1     piv     
   digitari       草ᴰᴳ        F=1     piv     
-  dioskore       草ᴰᴵ        F=1     piv     
-  diktamn        草ᴰᴷ        F=1     piv     
+  donak          草ᴰᴷ        F=1     piv     
   drimi          草ᴰᴹ        F=1     piv     
   dione          草ᴰᴺ        F=1     piv     
-  donak          草ᴰᴼ        F=1     piv     
-  driopterid     草ᴰᴾ        F=1     piv     
-  drab           草ᴰᴿ        F=1     piv     
+  dioskore       草ᴰᴿ        F=1     piv     
   daktilis       草ᴰˢ        F=1     piv     
-  densteti       草ᴰᵀ        F=1     piv     
-  davali         草ᴰⱽ        F=1     piv     
+  diktamn        草ᴰᵀ        F=1     piv     
   drozer         草ᴰᶻ        F=1     piv     
   eglanteri      草ᴱᴬ        F=1     piv     
-  epidendr       草ᴱᴰ        F=1     piv     
-  eletari        草ᴱᴱ        F=1     piv     
   erofil         草ᴱᶠ        F=1     piv     
   egilop         草ᴱᴳ        F=1     piv     
+  elitrigi       草ᴱᴵ        F=1     piv     
   ejs^horni      草ᴱᴶ        F=1     piv     
-  ekbali         草ᴱᴷ        F=1     piv     
+  eleokarit      草ᴱᴷ        F=1     piv     
   elode          草ᴱᴸ        F=1     piv     
-  eleokarit      草ᴱᴸᴱ       F=1     piv     
-  elitrigi       草ᴱᴸᴵ       F=1     piv     
   elatin         草ᴱᴺ        F=1     piv     
-  erigeron       草ᴱᴼ        F=1     piv     
-  ekinops        草ᴱᴾ        F=1     piv     
-  epipaktid      草ᴱᴾᴵ       F=1     piv     
   erodi          草ᴱᴿ        F=1     piv     
   es^olzi        草ᴱˢ̂       F=1     piv     
-  etuz           草ᴱᵀ        F=1     piv     
-  etlinger       草ᴱᵀᴸ       F=1     piv     
-  eu^patori      草ᴱᵁ̆       F=1     piv     
   eu^frazi       草ᴱᶻ        F=1     piv     
   fle            草ᶠ         F=1     piv     
-  fizalid        草ᶠᴬ        F=1     piv     
   falarid        草ᶠᴰ        F=1     piv     
-  fenugrek       草ᶠᴱ        F=1     piv     
   fragari        草ᶠᴳ        F=1     piv     
   fikari         草ᶠᴵ        F=1     piv     
-  filodendr      草ᶠᴵᴸ       F=1     piv     
   floks          草ᶠᴷ        F=1     piv     
-  ferolag        草ᶠᴸ        F=1     piv     
-  falenops       草ᶠᴺ        F=1     piv     
-  fitolak        草ᶠᴼ        F=1     piv     
+  fitolak        草ᶠᴸ        F=1     piv     
+  filodendr      草ᶠᴺ        F=1     piv     
   filipendul     草ᶠᴾ        F=1     piv     
   formi          草ᶠᴿ        F=1     piv     
-  fraksinel      草ᶠᴿᴬ       F=1     piv     
-  fazeolus       草ᶠˢ        F=1     piv     
+  fraksinel      草ᶠˢ        F=1     piv     
   fiteu^m        草ᶠᵀ        F=1     piv     
   frezi          草ᶠᶻ        F=1     piv     
   gage           草ᴳ         F=1     piv     
-  grindeli       草ᴳᴰ        F=1     piv     
-  gnafali        草ᴳᶠ        F=1     piv     
-  galang         草ᴳᴳ        F=1     piv     
-  ginseng        草ᴳᴵ        F=1     piv     
-  galg           草ᴳᴸ        F=1     piv     
+  ginseng        草ᴳᴳ        F=1     piv     
+  galeops        草ᴳᴸ        F=1     piv     
   gomb           草ᴳᴹ        F=1     piv     
   gnidi          草ᴳᴺ        F=1     piv     
-  glosopterid    草ᴳᴼ        F=1     piv     
-  galeops        草ᴳᴾ        F=1     piv     
+  glosopterid    草ᴳᴾ        F=1     piv     
   gesneri        草ᴳᴿ        F=1     piv     
   gosipi         草ᴳˢ        F=1     piv     
   gratiol        草ᴳᵀ        F=1     piv     
   glorioz        草ᴳᶻ        F=1     piv     
-  hidrastid      草ᴴᴬ        F=1     piv     
-  hieraci        草ᴴᶜ        F=1     piv     
-  hedizar        草ᴴᴰ        F=1     piv     
+  hidrokarit     草ᴴᴬ        F=1     piv     
+  hesperid       草ᴴᴰ        F=1     piv     
   helikoni       草ᴴᴱ        F=1     piv     
   helode         草ᴴᴱᴸ       F=1     piv     
   halofit        草ᴴᶠ        F=1     piv     
   harpagofit     草ᴴᴳ        F=1     piv     
-  hesperid       草ᴴᴵ        F=1     piv     
-  hidrokarit     草ᴴᴵᴰ       F=1     piv     
-  hidrokotil     草ᴴᴵᴰᴿ      F=1     piv     
-  hidrast        草ᴴᴵᴰᴿᴬ     F=1     piv     
-  hidrokarid     草ᴴᴵᴰᴿᴼ     F=1     piv     
+  hidrastid      草ᴴᴵ        F=1     piv     
+  hidrast        草ᴴᴵᴰ       F=1     piv     
+  hidrokarid     草ᴴᴵᴰᴿ      F=1     piv     
   holk           草ᴴᴷ        F=1     piv     
   humul          草ᴴᴹ        F=1     piv     
   hemant         草ᴴᴺ        F=1     piv     
-  hiosciam       草ᴴᴼ        F=1     piv     
-  hordelim       草ᴴᴼᴿ       F=1     piv     
+  hordelim       草ᴴᴼ        F=1     piv     
   hipurid        草ᴴᴾ        F=1     piv     
   herniari       草ᴴᴿ        F=1     piv     
   holost         草ᴴˢ        F=1     piv     
@@ -213,7 +153,6 @@
   iberis         草ᴵᴮ        F=1     piv     
   izolepid       草ᴵᴸ        F=1     piv     
   imortel        草ᴵᴹ        F=1     piv     
-  inul           草ᴵᴺ        F=1     piv     
   isolep         草ᴵᴼ        F=1     piv     
   ipome          草ᴵᴾ        F=1     piv     
   isat           草ᴵˢ        F=1     piv     
@@ -221,84 +160,57 @@
   izatid         草ᴵᶻ        F=1     piv     
   jazion         草ᴶ         F=1     piv     
   kala           草ᴷᴬ        F=1     piv     
-  kaladi         草ᴷᴬᴸ       F=1     piv     
-  kalate         草ᴷᴬᴸᴬ      F=1     piv     
-  kalamint       草ᴷᴬᴸᴬᴹ     F=1     piv     
-  kalamagrostid  草ᴷᴬᴸᴬᴹᴬ    F=1     piv     
+  kalamint       草ᴷᴬᴸ       F=1     piv     
   kalitrik       草ᴷᴬᴸᴵ      F=1     piv     
-  kamemel        草ᴷᴬᴹ       F=1     piv     
-  kamemor        草ᴷᴬᴹᴱ      F=1     piv     
-  kantalup       草ᴷᴬᴺ       F=1     piv     
-  kartam         草ᴷᴬᴿ       F=1     piv     
-  kardamom       草ᴷᴬᴿᴰ      F=1     piv     
-  katari         草ᴷᴬᵀ       F=1     piv     
-  katarant       草ᴷᴬᵀᴬ      F=1     piv     
-  kau^kalid      草ᴷᴬᵁ̆      F=1     piv     
+  kamemor        草ᴷᴬᴹ       F=1     piv     
+  katarant       草ᴷᴬᵀ       F=1     piv     
   kalceolari     草ᴷᶜ        F=1     piv     
-  kardu          草ᴷᴰ        F=1     piv     
-  kleom          草ᴷᴱ        F=1     piv     
+  kaladi         草ᴷᴰ        F=1     piv     
+  kalate         草ᴷᴱ        F=1     piv     
   krozofor       草ᴷᶠ        F=1     piv     
-  kriptogram     草ᴷᴳ        F=1     piv     
+  kalamagrostid  草ᴷᴳ        F=1     piv     
   keir           草ᴷᴵ        F=1     piv     
-  katlej         草ᴷᴶ        F=1     piv     
   klematit       草ᴷᴸᴱ       F=1     piv     
-  klitori        草ᴷᴸᴵ       F=1     piv     
-  karum          草ᴷᴹ        F=1     piv     
+  kleom          草ᴷᴹ        F=1     piv     
   korkor         草ᴷᴼ        F=1     piv     
-  kolokazi       草ᴷᴼᴸ       F=1     piv     
-  kolokasi       草ᴷᴼᴸᴼ      F=1     piv     
+  kolokasi       草ᴷᴼᴸ       F=1     piv     
   komelin        草ᴷᴼᴹ       F=1     piv     
   konsolid       草ᴷᴼᴺ       F=1     piv     
   koridal        草ᴷᴼᴿ       F=1     piv     
-  koraloriz      草ᴷᴼᴿᴬ      F=1     piv     
-  koronil        草ᴷᴼᴿᴼ      F=1     piv     
-  koreops        草ᴷᴾ        F=1     piv     
-  kritm          草ᴷᴿ        F=1     piv     
+  katari         草ᴷᴿ        F=1     piv     
   kroton         草ᴷᴿᴼ       F=1     piv     
-  krotalari      草ᴷᴿᴼᵀ      F=1     piv     
-  ksanti         草ᴷˢᴬ       F=1     piv     
-  ksantosom      草ᴷˢᴬᴺ      F=1     piv     
+  ksantosom      草ᴷˢᴬ       F=1     piv     
   kalt           草ᴷᵀ        F=1     piv     
   krinum         草ᴷᵁ        F=1     piv     
   knau^ti        草ᴷᵁ̆       F=1     piv     
-  kukumis        草ᴷᵁᴷ       F=1     piv     
-  kurkum         草ᴷᵁᴿ       F=1     piv     
   kuskut         草ᴷᵁˢ       F=1     piv     
-  koniz          草ᴷᶻ        F=1     piv     
+  kolokazi       草ᴷᶻ        F=1     piv     
   lemn           草ᴸ         F=1     piv     
   logani         草ᴸᴬ        F=1     piv     
   labrusk        草ᴸᴮ        F=1     piv     
-  lepidi         草ᴸᴰ        F=1     piv     
   leguzi         草ᴸᴱ        F=1     piv     
-  leontodon      草ᴸᴱᴼ       F=1     piv     
   lige           草ᴸᴳ        F=1     piv     
-  levistik       草ᴸᴵ        F=1     piv     
-  likopersik     草ᴸᴵᴷ       F=1     piv     
-  levkoj         草ᴸᴶ        F=1     piv     
-  leu^kant       草ᴸᴷ        F=1     piv     
+  lentibulari    草ᴸᴵ        F=1     piv     
+  levkoj         草ᴸᴷ        F=1     piv     
   loli           草ᴸᴸ        F=1     piv     
   litrum         草ᴸᴹ        F=1     piv     
   linari         草ᴸᴺ        F=1     piv     
   limoni         草ᴸᴼ        F=1     piv     
-  lapsan         草ᴸᴾ        F=1     piv     
+  lepidi         草ᴸᴾ        F=1     piv     
   litosperm      草ᴸᴿ        F=1     piv     
   litops         草ᴸˢ        F=1     piv     
   latre          草ᴸᵀ        F=1     piv     
-  lentibulari    草ᴸᵁ        F=1     piv     
   leu^koj        草ᴸᵁ̆       F=1     piv     
   lavandul       草ᴸⱽ        F=1     piv     
   luzul          草ᴸᶻ        F=1     piv     
-  madi           草ᴹ         F=1     piv     
-  matrikari      草ᴹᴬ        F=1     piv     
+  mimul          草ᴹ         F=1     piv     
   marubi         草ᴹᴮ        F=1     piv     
   moldavik       草ᴹᴰ        F=1     piv     
   meniant        草ᴹᴱ        F=1     piv     
   martagon       草ᴹᴳ        F=1     piv     
   manihot        草ᴹᴴ        F=1     piv     
   mirabil        草ᴹᴵ        F=1     piv     
-  momordik       草ᴹᴷ        F=1     piv     
   molini         草ᴹᴸ        F=1     piv     
-  mimul          草ᴹᴹ        F=1     piv     
   monard         草ᴹᴺ        F=1     piv     
   monster        草ᴹᴼ        F=1     piv     
   menisperm      草ᴹᴾ        F=1     piv     
@@ -308,9 +220,7 @@
   mezembriant    草ᴹᶻ        F=1     piv     
   napel          草ᴺ         F=1     piv     
   nasturci       草ᴺᶜ        F=1     piv     
-  nefrolepid     草ᴺᶠ        F=1     piv     
   niktag         草ᴺᴷ        F=1     piv     
-  nelumb         草ᴺᴸ        F=1     piv     
   nepent         草ᴺᴺ        F=1     piv     
   nopal          草ᴺᴼ        F=1     piv     
   nardostaki     草ᴺᴿ        F=1     piv     
@@ -318,60 +228,43 @@
   nepet          草ᴺᵀ        F=1     piv     
   ocim           草ᴼ         F=1     piv     
   orobank        草ᴼᴮ        F=1     piv     
-  ononid         草ᴼᴰ        F=1     piv     
-  ofri           草ᴼᶠ        F=1     piv     
   ornitogal      草ᴼᴳ        F=1     piv     
-  oncidi         草ᴼᴺ        F=1     piv     
-  onopord        草ᴼᴼ        F=1     piv     
+  oronti         草ᴼᴼ        F=1     piv     
   opunti         草ᴼᴾ        F=1     piv     
   oriz           草ᴼᴿ        F=1     piv     
-  oronti         草ᴼᵀ        F=1     piv     
-  parteni        草ᴾᴬ        F=1     piv     
-  pankrati       草ᴾᴬᴺ       F=1     piv     
-  pankraci       草ᴾᴬᴺᴷ      F=1     piv     
-  paroniki       草ᴾᴬᴿ       F=1     piv     
-  parietari      草ᴾᴬᴿᴵ      F=1     piv     
+  patienc        草ᴾᴬ        F=1     piv     
+  pankraci       草ᴾᴬᴺ       F=1     piv     
+  parietari      草ᴾᴬᴿ       F=1     piv     
   partenocis     草ᴾᴬᴿᵀ      F=1     piv     
   pasiflor       草ᴾᴬˢ       F=1     piv     
-  patienc        草ᴾᴬᵀ       F=1     piv     
   pecaj          草ᴾᶜ        F=1     piv     
   pedali         草ᴾᴰ        F=1     piv     
-  pense          草ᴾᴱ        F=1     piv     
+  potentil       草ᴾᴱ        F=1     piv     
   pedikular      草ᴾᴱᴰ       F=1     piv     
   persikari      草ᴾᴱᴿ       F=1     piv     
   psilofit       草ᴾᶠ        F=1     piv     
   poligal        草ᴾᴳ        F=1     piv     
-  piretr         草ᴾᴵ        F=1     piv     
-  pimpinel       草ᴾᴵᴹ       F=1     piv     
+  paroniki       草ᴾᴵ        F=1     piv     
   pingvikul      草ᴾᴵᴺ       F=1     piv     
   perilj         草ᴾᴶ        F=1     piv     
-  ptarmik        草ᴾᴷ        F=1     piv     
-  pilozel        草ᴾᴸ        F=1     piv     
-  platiceri      草ᴾᴸᴬ       F=1     piv     
+  pankrati       草ᴾᴷ        F=1     piv     
+  plumbag        草ᴾᴸ        F=1     piv     
   plektrant      草ᴾᴸᴱ       F=1     piv     
-  plumbag        草ᴾᴹ        F=1     piv     
+  polemoni       草ᴾᴹ        F=1     piv     
   panak          草ᴾᴺ        F=1     piv     
-  pepon          草ᴾᴼ        F=1     piv     
+  poliant        草ᴾᴼ        F=1     piv     
   pogostemon     草ᴾᴼᴳ       F=1     piv     
-  poliant        草ᴾᴼᴸ       F=1     piv     
-  polemoni       草ᴾᴼᴸᴱ      F=1     piv     
-  polistik       草ᴾᴼᴸᴵ      F=1     piv     
-  poligonat      草ᴾᴼᴸᴵᴳ     F=1     piv     
+  poligonat      草ᴾᴼᴸ       F=1     piv     
   pontederi      草ᴾᴼᴺ       F=1     piv     
-  portulak       草ᴾᴼᴿ       F=1     piv     
-  potiron        草ᴾᴼᵀ       F=1     piv     
-  potentil       草ᴾᴼᵀᴱ      F=1     piv     
-  prenantes      草ᴾᴿᴱ       F=1     piv     
-  psilot         草ᴾˢ        F=1     piv     
+  pense          草ᴾˢ        F=1     piv     
   pejotl         草ᴾᵀ        F=1     piv     
-  petuni         草ᴾᵁ        F=1     piv     
+  portulak       草ᴾᵁ        F=1     piv     
   pulsatil       草ᴾᵁᴸ       F=1     piv     
   pulmonari      草ᴾᵁᴸᴹ      F=1     piv     
   papaver        草ᴾⱽ        F=1     piv     
   pozidoni       草ᴾᶻ        F=1     piv     
   rubi           草ᴿᴮ        F=1     piv     
   read           草ᴿᴰ        F=1     piv     
-  rudbeki        草ᴿᴱ        F=1     piv     
   raflezi        草ᴿᶠ        F=1     piv     
   rumeks         草ᴿᴷ        F=1     piv     
   rami           草ᴿᴹ        F=1     piv     
@@ -380,86 +273,58 @@
   rinant         草ᴿᵀ        F=1     piv     
   reum           草ᴿᵁ        F=1     piv     
   rau^volfi      草ᴿᵁ̆       F=1     piv     
-  samol          草ˢᴬ        F=1     piv     
+  stapeli        草ˢᴬ        F=1     piv     
   salikorni      草ˢᴬᴸ       F=1     piv     
   sansevier      草ˢᴬᴺ       F=1     piv     
-  sangvisorb     草ˢᴬᴺᴳ      F=1     piv     
-  saponari       草ˢᴬᴾ       F=1     piv     
-  saraceni       草ˢᴬᴿ       F=1     piv     
-  silib          草ˢᴮ        F=1     piv     
+  sangvisorb     草ˢᴮ        F=1     piv     
   scirp          草ˢᶜ        F=1     piv     
-  seki           草ˢᴱ        F=1     piv     
-  selaginel      草ˢᴱᴸ       F=1     piv     
-  sesleri        草ˢᴱˢ       F=1     piv     
+  stelari        草ˢᴱ        F=1     piv     
   simfit         草ˢᶠ        F=1     piv     
-  selin          草ˢᴵ        F=1     piv     
+  saraceni       草ˢᴵ        F=1     piv     
   sigilari       草ˢᴵᴳ       F=1     piv     
-  sizimbri       草ˢᴵᶻ       F=1     piv     
-  sanikl         草ˢᴷ        F=1     piv     
-  skandik        草ˢᴷᴬ       F=1     piv     
+  smilak         草ˢᴷ        F=1     piv     
   skirp          草ˢᴷᴵ       F=1     piv     
-  sklare         草ˢᴷᴸ       F=1     piv     
-  sklerant       草ˢᴷᴸᴱ      F=1     piv     
-  skorpiur       草ˢᴷᴼ       F=1     piv     
-  skolopendri    草ˢᴷᴼᴸ      F=1     piv     
+  sklerant       草ˢᴷᴸ       F=1     piv     
   skrofulari     草ˢᴷᴿ       F=1     piv     
-  skutelari      草ˢᴷᵁ       F=1     piv     
-  sium           草ˢᴹ        F=1     piv     
-  smilak         草ˢᴹᴵ       F=1     piv     
-  sonk           草ˢᴺ        F=1     piv     
-  skolim         草ˢᴼ        F=1     piv     
+  salsol         草ˢᴸ        F=1     piv     
+  samol          草ˢᴹ        F=1     piv     
+  sanpau^li      草ˢᴺ        F=1     piv     
+  saponari       草ˢᴼ        F=1     piv     
   spergul        草ˢᴾ        F=1     piv     
   spargani       草ˢᴾᴬ       F=1     piv     
   spergulari     草ˢᴾᴱ       F=1     piv     
   spekulari      草ˢᴾᴱᴷ      F=1     piv     
-  spirantes      草ˢᴾᴵ       F=1     piv     
-  sizar          草ˢᴿ        F=1     piv     
-  salsol         草ˢˢ        F=1     piv     
+  sklare         草ˢᴿ        F=1     piv     
+  sesleri        草ˢˢ        F=1     piv     
   sature         草ˢᵀ        F=1     piv     
-  stapeli        草ˢᵀᴬ       F=1     piv     
-  stakis         草ˢᵀᴬᴷ      F=1     piv     
-  stelari        草ˢᵀᴱ       F=1     piv     
-  stramoni       草ˢᵀᴿ       F=1     piv     
-  stratiot       草ˢᵀᴿᴬ      F=1     piv     
+  stakis         草ˢᵀᴬ       F=1     piv     
+  stratiot       草ˢᵀᴿ       F=1     piv     
   strelici       草ˢᵀᴿᴱ      F=1     piv     
-  seratul        草ˢᵁ        F=1     piv     
-  sanpau^li      草ˢᵁ̆       F=1     piv     
+  skutelari      草ˢᵁ        F=1     piv     
   sensitiv       草ˢⱽ        F=1     piv     
-  sezel          草ˢᶻ        F=1     piv     
-  taraksak       草ᵀᴬ        F=1     piv     
-  taget          草ᵀᴬᴳ       F=1     piv     
-  topinambur     草ᵀᴮ        F=1     piv     
+  sizimbri       草ˢᶻ        F=1     piv     
   tradeskanti    草ᵀᴰ        F=1     piv     
-  timele         草ᵀᴱ        F=1     piv     
-  tetragoni      草ᵀᴱᵀ       F=1     piv     
+  tormentil      草ᵀᴱ        F=1     piv     
   tife           草ᵀᶠ        F=1     piv     
-  tragopog       草ᵀᴳ        F=1     piv     
-  tag^et         草ᵀᴳ̂       F=1     piv     
-  tapsi          草ᵀᴵ        F=1     piv     
+  tetragoni      草ᵀᴳ        F=1     piv     
+  timele         草ᵀᴵ        F=1     piv     
   trakeli        草ᵀᴷ        F=1     piv     
   tlasp          草ᵀᴸ        F=1     piv     
   tam            草ᵀᴹ        F=1     piv     
   tilandsi       草ᵀᴺ        F=1     piv     
   troli          草ᵀᴼ        F=1     piv     
-  tormentil      草ᵀᴼᴿ       F=1     piv     
   trili          草ᵀᴿ        F=1     piv     
-  tragopogon     草ᵀᴿᴬ       F=1     piv     
-  trigonel       草ᵀᴿᴵ       F=1     piv     
   taps           草ᵀˢ        F=1     piv     
   taliktr        草ᵀᵀ        F=1     piv     
   teu^kri        草ᵀᵁ̆       F=1     piv     
   tazet          草ᵀᶻ        F=1     piv     
-  ulmari         草ᵁᴸ        F=1     piv     
+  ulmari         草ᵁ         F=1     piv     
   utrikulari     草ᵁᵀ        F=1     piv     
   verbask        草ⱽᴮ        F=1     piv     
   vincetoksik    草ⱽᶜ        F=1     piv     
-  verbezen       草ⱽᴱ        F=1     piv     
-  vign           草ⱽᴳ        F=1     piv     
-  verbesin       草ⱽᴵ        F=1     piv     
   vakari         草ⱽᴷ        F=1     piv     
   valerianel     草ⱽᴸ        F=1     piv     
-  vanda          草ⱽᴺ        F=1     piv     
-  voandze        草ⱽᶻ        F=1     piv     
+  verbezen       草ⱽᶻ        F=1     piv     
   ze             草ᶻ         F=1     piv     
   zigofil        草ᶻᴳ        F=1     piv     
   zoster         草ᶻˢ        F=1     piv     
@@ -1269,6 +1134,59 @@
   venad          兽ⱽᴺ        F=1     piv     
   zibet          兽ᶻᴮ        F=1     piv     
 
+【菊】 51件
+  krizantem      菊          F=5     basic   
+  kompozit       菊ᴷᴹ        F=2     pejvo   
+  aster          菊ᴬ         F=1     pejvo   
+  lekant         菊ᴸ         F=1     pejvo   
+  agerat         菊ᴬᴳ        F=1     piv     
+  ajapan         菊ᴬᴶ        F=1     piv     
+  antenari       菊ᴬᴺ        F=1     piv     
+  arkte          菊ᴬᴿ        F=1     piv     
+  belis          菊ᴮ         F=1     piv     
+  buftalm        菊ᴮᶠ        F=1     piv     
+  balzamit       菊ᴮᶻ        F=1     piv     
+  cirsi          菊ᶜ         F=1     piv     
+  cinerari       菊ᶜᴺ        F=1     piv     
+  dali           菊ᴰ         F=1     piv     
+  ekinops        菊ᴱ         F=1     piv     
+  erigeron       菊ᴱᴿ        F=1     piv     
+  eu^patori      菊ᴱᵁ̆       F=1     piv     
+  gnafali        菊ᴳ         F=1     piv     
+  grindeli       菊ᴳᴿ        F=1     piv     
+  hieraci        菊ᴴ         F=1     piv     
+  inul           菊ᴵ         F=1     piv     
+  kardu          菊ᴷᴰ        F=1     piv     
+  kamemel        菊ᴷᴸ        F=1     piv     
+  koniz          菊ᴷᴺ        F=1     piv     
+  kosmos         菊ᴷᴼ        F=1     piv     
+  koreops        菊ᴷᴾ        F=1     piv     
+  ksanti         菊ᴷˢ        F=1     piv     
+  kartam         菊ᴷᵀ        F=1     piv     
+  leontodon      菊ᴸᴺ        F=1     piv     
+  lapsan         菊ᴸᴾ        F=1     piv     
+  leu^kant       菊ᴸᵁ̆       F=1     piv     
+  madi           菊ᴹ         F=1     piv     
+  matrikari      菊ᴹᵀ        F=1     piv     
+  onopord        菊ᴼ         F=1     piv     
+  piretr         菊ᴾ         F=1     piv     
+  pilozel        菊ᴾᴸ        F=1     piv     
+  parteni        菊ᴾᴺ        F=1     piv     
+  prenantes      菊ᴾᴿ        F=1     piv     
+  ptarmik        菊ᴾᵀ        F=1     piv     
+  rudbeki        菊ᴿ         F=1     piv     
+  sonk           菊ˢ         F=1     piv     
+  skolim         菊ˢᴷ        F=1     piv     
+  silib          菊ˢᴸ        F=1     piv     
+  seratul        菊ˢᴿ        F=1     piv     
+  tag^et         菊ᵀ         F=1     piv     
+  tragopogon     菊ᵀᴬ        F=1     piv     
+  taget          菊ᵀᴳ        F=1     piv     
+  topinambur     菊ᵀᴺ        F=1     piv     
+  tragopog       菊ᵀᴾ        F=1     piv     
+  taraksak       菊ᵀᴿ        F=1     piv     
+  verbesin       菊ⱽ         F=1     piv     
+
 【鼠】 29件
   mus            鼠          F=15    basic   
   rat            鼠ᴿ         F=6     basic   
@@ -1330,6 +1248,33 @@
   simfalang      猴ˢᴹ        F=1     piv     
   titi           猴ᵀ         F=1     piv     
   tarsi          猴ᵀᴿ        F=1     piv     
+
+【伞】 25件
+  ombrel         伞          F=5     basic   
+  paraŝut        伞ᴾ         F=8     basic   
+  angelik        伞ᴬᴳ        F=3     pejvo   
+  anet           伞ᴬ         F=2     pejvo   
+  umbel          伞ᵁ         F=2     pejvo   
+  umbelifer      伞ᵁᶠ        F=1     pejvo   
+  ami            伞ᴬᴹ        F=1     piv     
+  antrisk        伞ᴬᴿ        F=1     piv     
+  bupleu^r       伞ᴮ         F=1     piv     
+  dau^k          伞ᴰ         F=1     piv     
+  etuz           伞ᴱ         F=1     piv     
+  ferolag        伞ᶠ         F=1     piv     
+  hidrokotil     伞ᴴ         F=1     piv     
+  karum          伞ᴷ         F=1     piv     
+  kritm          伞ᴷᵀ        F=1     piv     
+  kau^kalid      伞ᴷᵁ̆       F=1     piv     
+  levistik       伞ᴸ         F=1     piv     
+  pimpinel       伞ᴾᴹ        F=1     piv     
+  sium           伞ˢ         F=1     piv     
+  skandik        伞ˢᴷ        F=1     piv     
+  selin          伞ˢᴸ        F=1     piv     
+  sanikl         伞ˢᴺ        F=1     piv     
+  sizar          伞ˢᴿ        F=1     piv     
+  sezel          伞ˢᶻ        F=1     piv     
+  tapsi          伞ᵀ         F=1     piv     
 
 【果】 20件
   frukt          果          F=65    basic   
@@ -1438,6 +1383,26 @@
   stelion        龙ˢᵀ        F=1     piv     
   triceratop     龙ᵀ         F=1     piv     
 
+【豆】 18件
+  fab            豆          F=9     basic   
+  fazeol         豆ᶠᶻ        F=3     basic   
+  legumen        豆ᴸ         F=1     pejvo   
+  apios          豆ᴬ         F=1     piv     
+  antilid        豆ᴬᴺ        F=1     piv     
+  azuki          豆ᴬᶻ        F=1     piv     
+  fenugrek       豆ᶠᴺ        F=1     piv     
+  fazeolus       豆ᶠˢ        F=1     piv     
+  galg           豆ᴳ         F=1     piv     
+  hedizar        豆ᴴ         F=1     piv     
+  klitori        豆ᴷ         F=1     piv     
+  koronil        豆ᴷᴿ        F=1     piv     
+  krotalari      豆ᴷᵀ        F=1     piv     
+  ononid         豆ᴼ         F=1     piv     
+  skorpiur       豆ˢ         F=1     piv     
+  trigonel       豆ᵀ         F=1     piv     
+  vign           豆ⱽ         F=1     piv     
+  voandze        豆ⱽᴺ        F=1     piv     
+
 【气】 17件
   aer            气          F=95    basic   
   gas            气ᴳ         F=84    basic   
@@ -1457,6 +1422,41 @@
   radon          气ᴿ         F=1     pejvo   
   ksenon         气ᴷˢ        F=1     piv     
 
+【羊齿】 16件
+  filik          羊齿         F=9     pejvo   
+  pterid         羊齿ᴾ        F=1     pejvo   
+  aspleni        羊齿ᴬˢ       F=4     piv     【植】チャセンシダ属
+  azol           羊齿ᴬ        F=1     piv     
+  ceterak        羊齿ᶜ        F=1     piv     
+  cistopterid    羊齿ᶜˢ       F=1     piv     
+  davali         羊齿ᴰ        F=1     piv     
+  densteti       羊齿ᴰᴺ       F=1     piv     
+  driopterid     羊齿ᴰᴿ       F=1     piv     
+  kriptogram     羊齿ᴷ        F=1     piv     
+  nefrolepid     羊齿ᴺ        F=1     piv     
+  polistik       羊齿ᴾᴸ       F=1     piv     
+  psilot         羊齿ᴾˢ       F=1     piv     
+  platiceri      羊齿ᴾᵀ       F=1     piv     
+  selaginel      羊齿ˢ        F=1     piv     
+  skolopendri    羊齿ˢᴷ       F=1     piv     
+
+【兰】 15件
+  orkid          兰          F=4     pejvo   
+  orkide         兰ᴼᴱ        F=2     pejvo   
+  angrek         兰ᴬ         F=1     piv     
+  bleti          兰ᴮ         F=1     piv     
+  cimbidi        兰ᶜ         F=1     piv     
+  cipripedi      兰ᶜᴾ        F=1     piv     
+  epidendr       兰ᴱ         F=1     piv     
+  epipaktid      兰ᴱᴾ        F=1     piv     
+  falenops       兰ᶠ         F=1     piv     
+  katlej         兰ᴷ         F=1     piv     
+  koraloriz      兰ᴷᴿ        F=1     piv     
+  ofri           兰ᴼᶠ        F=1     piv     
+  oncidi         兰ᴼᴺ        F=1     piv     
+  spirantes      兰ˢ         F=1     piv     
+  vanda          兰ⱽ         F=1     piv     
+
 【蛇】 14件
   serpent        蛇          F=20    basic   
   meandr         蛇ᴹ         F=2     pejvo   
@@ -1472,6 +1472,21 @@
   naj            蛇ᴺ         F=1     piv     
   natrik         蛇ᴺᵀ        F=1     piv     
   tropidonot     蛇ᵀ         F=1     piv     
+
+【瓜】 13件
+  melon          瓜          F=5     basic   
+  kukurb         瓜ᴷᴿ        F=9     basic   
+  kukum          瓜ᴷ         F=3     basic   
+  melopep        瓜ᴹᴾ        F=1     pejvo   
+  brioni         瓜ᴮ         F=1     piv     
+  citrol         瓜ᶜ         F=1     piv     
+  ekbali         瓜ᴱ         F=1     piv     
+  kantalup       瓜ᴷᴺ        F=1     piv     
+  kukumis        瓜ᴷˢ        F=1     piv     
+  momordik       瓜ᴹᴹ        F=1     piv     
+  pepon          瓜ᴾ         F=1     piv     
+  potiron        瓜ᴾᵀ        F=1     piv     
+  seki           瓜ˢ         F=1     piv     
 
 【带】 12件
   zon            带          F=43    basic   
@@ -1587,6 +1602,17 @@
   akme           顶ᴬ         F=1     piv     
   kulminaci      顶ᴷᶜ        F=1     piv     
 
+【茄】 9件
+  tomat          茄          F=3     basic   
+  solan          茄ˢ         F=1     pejvo   
+  alkekeng       茄ᴬ         F=1     piv     
+  fizalid        茄ᶠ         F=1     piv     
+  hiosciam       茄ᴴ         F=1     piv     
+  likopersik     茄ᴸ         F=1     piv     
+  melongen       茄ᴹ         F=1     piv     
+  petuni         茄ᴾ         F=1     piv     
+  stramoni       茄ˢᵀ        F=1     piv     
+
 【狂】 9件
   mani           狂          F=28    basic   
   frenez         狂ᶠ         F=14    basic   
@@ -1685,6 +1711,17 @@
   biret          帽ᴮ         F=1     pejvo   
   kasket         帽ᴷᵀ        F=1     pejvo   
   beret          帽ᴮᴱ        F=1     piv     
+
+【姜】 9件
+  zingibr        姜          F=4     pejvo   
+  amom           姜ᴬ         F=1     piv     
+  alpini         姜ᴬᴸ        F=1     piv     
+  eletari        姜ᴱ         F=1     piv     
+  etlinger       姜ᴱᵀ        F=1     piv     
+  galang         姜ᴳ         F=1     piv     
+  kurkum         姜ᴷ         F=1     piv     
+  kardamom       姜ᴷᴰ        F=1     piv     
+  miog           姜ᴹ         F=1     piv     
 
 【矿】 9件
   min            矿          F=43    basic   
@@ -2264,14 +2301,6 @@
   armori         徽ᴬ         F=1     pejvo   
   emblem         徽ᴱ         F=1     pejvo   
   kokard         徽ᴷ         F=1     pejvo   
-
-【菊】 6件
-  krizantem      菊          F=5     basic   
-  kompozit       菊ᴷᴹ        F=2     pejvo   
-  aster          菊ᴬ         F=1     pejvo   
-  lekant         菊ᴸ         F=1     pejvo   
-  dali           菊ᴰ         F=1     piv     
-  kosmos         菊ᴷˢ        F=1     piv     
 
 【教】 6件
   instru         教          F=40    basic   
@@ -2939,6 +2968,13 @@
   imanent        内ᴵᴹ        F=2     pejvo   
   intra          内ᴵᴿ        F=3     piv     筋肉内の
 
+【葱】 5件
+  cep            葱          F=4     basic   
+  alium          葱ᴬ         F=1     piv     
+  ampelopraz     葱ᴬᴹ        F=1     piv     
+  pore           葱ᴾ         F=1     piv     
+  ŝalot          葱ˢ̂        F=1     piv     
+
 【能】 5件
   pov            能          F=58    basic   
   iv             能ᴵ         F=126   suf     （能力を示す接尾辞）能力ある,〜できる
@@ -3378,12 +3414,6 @@
   institut       院ᴵ         F=4     basic   
   kolegi         院ᴷᴸ        F=4     basic   
 
-【瓜】 4件
-  melon          瓜          F=5     basic   
-  kukurb         瓜ᴷᴿ        F=9     basic   
-  kukum          瓜ᴷ         F=3     basic   
-  melopep        瓜ᴹᴾ        F=1     pejvo   
-
 【王】 4件
   reĝ            王          F=39    basic   
   rag^           王ᴿᴬ        F=2     pejvo   
@@ -3767,12 +3797,6 @@
   proces         程ᴾᶜ        F=8     basic   
   procedur       程ᴾᴰ        F=7     pejvo   
   procez         程ᴾᶻ        F=6     pejvo   
-
-【豆】 4件
-  fab            豆          F=9     basic   
-  fazeol         豆ᶠᶻ        F=3     basic   
-  legumen        豆ᴸ         F=1     pejvo   
-  azuki          豆ᴬ         F=1     piv     
 
 【撞】 4件
   kolizi         撞          F=9     basic   
@@ -5264,11 +5288,6 @@
   pacienc        忍ᴾ         F=10    basic   
   stoik          忍ˢ         F=5     pejvo   
 
-【葱】 3件
-  cep            葱          F=4     basic   
-  pore           葱ᴾ         F=1     piv     
-  ŝalot          葱ˢ̂        F=1     piv     
-
 【白】 3件
   blank          白          F=68    basic   
   albin          白ᴬ         F=3     pejvo   
@@ -5588,11 +5607,6 @@
   avantaĝ        优          F=6     basic   
   elit           优ᴱ         F=2     pejvo   
   optimum        优ᴼ         F=2     pejvo   
-
-【伞】 3件
-  ombrel         伞          F=5     basic   
-  paraŝut        伞ᴾ         F=8     basic   
-  umbel          伞ᵁ         F=2     pejvo   
 
 【偷】 3件
   ŝtel           偷          F=33    basic   
@@ -6168,10 +6182,6 @@
 【花环】 2件
   girland        花环         F=2     basic   
   feston         花环ᶠ        F=2     pejvo   
-
-【茄】 2件
-  tomat          茄          F=3     basic   
-  melongen       茄ᴹ         F=1     piv     
 
 【我】 2件
   mi             我          F=20    func    
@@ -6949,6 +6959,10 @@
   metro          地铁         F=3     pejvo   
   metropoliten   地铁ᴹᴾ       F=1     pejvo   
 
+【竹】 2件
+  bambu          竹          F=9     basic   
+  bambuz         竹ᴮᶻ        F=1     piv     
+
 【窒】 2件
   sufok          窒          F=9     basic   
   asfiksi        窒ᴬ         F=2     pejvo   
@@ -7465,10 +7479,6 @@
   uz             用          F=54    basic   
   aplik          用ᴬ         F=10    basic   
 
-【羊齿】 2件
-  filik          羊齿         F=9     pejvo   
-  pterid         羊齿ᴾ        F=1     pejvo   
-
 【欲】 2件
   dezir          欲          F=16    basic   
   apetit         欲ᴬ         F=11    basic   
@@ -7608,10 +7618,6 @@
 【夸】 2件
   fanfaron       夸          F=6     basic   
   bombast        夸ᴮ         F=2     pejvo   
-
-【姜】 2件
-  zingibr        姜          F=4     pejvo   
-  miog           姜ᴹ         F=1     piv     
 
 【孕】 2件
   graved         孕          F=9     basic   
@@ -7860,10 +7866,6 @@
 【储】 2件
   rezerv         储          F=29    basic   
   stok           储ˢ         F=5     basic   
-
-【兰】 2件
-  orkid          兰          F=4     pejvo   
-  orkide         兰ᴼᴱ        F=2     pejvo   
 
 【关】 2件
   rilat          关          F=22    basic   
@@ -8348,6 +8350,10 @@
 【药瓜】 2件
   kolocint       药瓜         F=2     pejvo   
   kolokint       药瓜ᴷᴷ       F=1     pejvo   
+
+【莲】 2件
+  lotus          莲          F=8     basic   
+  nelumb         莲ᴺ         F=1     piv     
 
 【莺】 2件
   silvi          莺          F=3     pejvo   
