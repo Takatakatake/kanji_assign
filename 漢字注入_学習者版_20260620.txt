@@ -60236,7 +60236,7 @@ ge/patr/o⟦双/父/o⟧:【PIV】Patro au^ patrino.
 ge/bo/patr/oj⟦双/姻/父/oj⟧:【PIV】Bopatro k bopatrino.
 sam/patr/a⟦同/父/a⟧:【PIV】Havanta la saman patron, sed ne la saman patrinon, kiel alia infano.
 sam/patr/in/a⟦同/父/女/a⟧:【PIV】Havanta la saman patrinon, sed ne la saman patron, kiel alia infano. Sin. (sinonimo) samutera.
-sam/patri/an/o⟦同/patri/员ᴬ/o⟧:【PIV】Ano de la sama patrujo.
+sam/patri/an/o⟦同/父ᴾᴵ/员ᴬ/o⟧:【PIV】Ano de la sama patrujo.
 sen/patr/a⟦无/父/a⟧:【PIV】Ne havanta patron (pf (propra-kaj figura-sence)).
 patr/in/patr/o⟦父/女/父/o⟧:【PIV】Patro de la patrino: la tuta familio de la domo de lia patrinpatro .
 sol/patr/in/o⟦唯/父/女/o⟧:【PIV】Senedza patrino.

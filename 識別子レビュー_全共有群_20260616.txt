@@ -3139,6 +3139,13 @@
   bukl           卷ᴮ         F=6     basic   
   cirus          卷ᶜ         F=3     pejvo   
 
+【脉炎】 5件
+  flebit         脉炎         F=1     piv     
+  angiit         脉炎ᴬ        F=1     piv     
+  arteriit       脉炎ᴬᴿ       F=1     piv     
+  vejnit         脉炎ⱽ        F=1     piv     
+  vaskulit       脉炎ⱽˢ       F=1     piv     
+
 【袍】 5件
   rob            袍          F=13    basic   
   surtut         袍ˢ         F=3     basic   
@@ -3659,6 +3666,12 @@
   stevard        侍ˢ         F=2     pejvo   
   grum           侍ᴳ         F=1     pejvo   
 
+【自治】 4件
+  au^tonom       自治         F=7     pejvo   
+  au^tonomi      自治ᴬᴵ       F=3     pejvo   
+  au^tokrat      自治ᴬᴷ       F=1     piv     
+  au^tokrati     自治ᴬᵁ̆      F=1     piv     
+
 【室】 4件
   ĉambr          室          F=68    basic   
   kamer          室ᴷ         F=12    pejvo   
@@ -4139,12 +4152,6 @@
   silici         硅ˢᴵ        F=2     elem    
   siliciat       硅ˢᵀ        F=8     piv     【鉱】ケイ酸塩
 
-【脉炎】 4件
-  flebit         脉炎         F=1     piv     
-  arteriit       脉炎ᴬ        F=1     piv     
-  vejnit         脉炎ⱽ        F=1     piv     
-  vaskulit       脉炎ⱽˢ       F=1     piv     
-
 【丝】 4件
   silk           丝          F=22    basic   
   faden          丝ᶠ         F=39    basic   
@@ -4336,6 +4343,12 @@
   disk           盘ᴰ         F=48    basic   
   plet           盘ᴾ         F=4     basic   
   inventar       盘ᴵ         F=3     pejvo   
+
+【矿盐】 4件
+  borat          矿盐         F=1     piv     【化】ホウ酸塩
+  selenat        矿盐ˢ        F=1     piv     
+  selenit        矿盐ˢᴵ       F=1     piv     
+  telurit        矿盐ᵀ        F=1     piv     
 
 【砍】 4件
   hak            砍          F=28    basic   
@@ -4935,11 +4948,6 @@
   manifestaci    示ᴹᶠ        F=3     basic   
   sugest         示ˢ         F=3     basic   
 
-【自治】 3件
-  au^tonom       自治         F=7     pejvo   
-  au^tonomi      自治ᴬᴵ       F=3     pejvo   
-  au^tokrati     自治ᴬᴷ       F=1     piv     
-
 【漆】 3件
   lak            漆          F=8     basic   
   vernis         漆ⱽ         F=4     pejvo   
@@ -5029,6 +5037,11 @@
   lip            唇          F=22    basic   
   labi           唇ᴸᴮ        F=2     pejvo   
   labial         唇ᴸᴸ        F=2     pejvo   
+
+【心病】 3件
+  psikopat       心病         F=1     piv     
+  kardiopati     心病ᴷ        F=1     piv     
+  psikopati      心病ᴾᴵ       F=1     piv     
 
 【振】 3件
   vibr           振          F=15    pejvo   
@@ -5485,6 +5498,11 @@
   profit         利ᴾ         F=33    basic   
   interez        利ᴵ         F=4     basic   
 
+【硫盐】 3件
+  sulfat         硫盐         F=1     piv     
+  sulfit         硫盐ˢᴵ       F=1     piv     
+  sulfinat       硫盐ˢᴺ       F=1     piv     
+
 【旅】 3件
   vojaĝ          旅          F=42    basic   
   turist         旅ᵀ         F=1     basic   
@@ -5919,11 +5937,6 @@
   bak            烤          F=17    basic   
   rost           烤ᴿ         F=27    basic   
   graten         烤ᴳ         F=6     pejvo   
-
-【矿盐】 3件
-  selenat        矿盐         F=1     piv     
-  selenit        矿盐ˢᴵ       F=1     piv     
-  telurit        矿盐ᵀ        F=1     piv     
 
 【碱】 3件
   lesiv          碱          F=8     basic   
@@ -6857,6 +6870,10 @@
   rekompenc      酬          F=4     basic   
   honorari       酬ᴴ         F=2     pejvo   
 
+【十二声】 2件
+  dodekafon      十二声        F=1     piv     
+  dodekafoni     十二声ᴰᴵ      F=1     piv     
+
 【汁】 2件
   suk            汁          F=26    basic   
   most           汁ᴹ         F=2     pejvo   
@@ -6968,10 +6985,6 @@
 【心学家】 2件
   psikolog       心学家        F=1     piv     
   kardiolog      心学家ᴷ       F=1     piv     
-
-【心病】 2件
-  psikopat       心病         F=1     piv     
-  kardiopati     心病ᴷ        F=1     piv     
 
 【振具】 2件
   vibrator       振具         F=1     piv     
@@ -7104,6 +7117,14 @@
 【腺】 2件
   gland          腺          F=12    pejvo   
   aden           腺ᴬ         F=10    piv     【解】【医】腺（adeno-、結合形。aden/o=Glan
+
+【腺病】 2件
+  adenpati       腺病         F=1     piv     
+  adenopati      腺病ᴬᴼ       F=1     piv     
+
+【全形】 2件
+  holomorf       全形         F=1     piv     
+  holomorfi      全形ᴴᴵ       F=1     piv     
 
 【相关】 2件
   korelaci       相关         F=3     pejvo   
@@ -7381,6 +7402,10 @@
   deĵor          当          F=13    basic   
   lombard        当ᴸ         F=9     pejvo   
 
+【等形】 2件
+  izomorf        等形         F=1     piv     
+  izomorfi       等形ᴵᴵ       F=1     piv     
+
 【等分】 2件
   mitoz          等分         F=2     piv     【生】有糸分裂
   kariokinez     等分ᴷ        F=1     piv     
@@ -7604,6 +7629,10 @@
 【浮】 2件
   bu             浮          F=5     pejvo   
   pelag          浮ᴾ         F=3     piv     【生態】遠洋生物
+
+【父】 2件
+  patr           父          F=61    basic   
+  patri          父ᴾᴵ        F=1     piv     
 
 【侮】 2件
   ofend          侮          F=11    basic   
@@ -8045,6 +8074,10 @@
   trah^eotomi    气管切        F=1     piv     
   trakeotomi     气管切ᵀᴷ      F=1     piv     
 
+【气生】 2件
+  aerobi         气生         F=1     piv     
+  gasogen        气生ᴳ        F=1     piv     
+
 【淤】 2件
   aluvi          淤          F=4     pejvo   
   kongest        淤ᴷ         F=3     pejvo   
@@ -8185,6 +8218,10 @@
   mjel           髓          F=7     pejvo   
   medol          髓ᴹᴰ        F=12    pejvo   
 
+【髓炎】 2件
+  mjelit         髓炎         F=1     piv     
+  medolit        髓炎ᴹᴰ       F=1     piv     
+
 【德】 2件
   virt           德          F=11    basic   
   moral          德ᴹ         F=22    basic   
@@ -8257,6 +8294,10 @@
   agr            农          F=14    pejvo   
   agrikultur     农ᴬᴷ        F=5     pejvo   
 
+【农学】 2件
+  agronom        农学         F=1     piv     
+  agronomi       农学ᴬᴵ       F=1     piv     
+
 【冻】 2件
   krio           冻          F=5     piv     【理】寒冷・低温
   kongel         冻ᴷᴺ        F=2     piv     冷凍する
@@ -8276,6 +8317,10 @@
 【卡】 2件
   kart           卡          F=41    basic   
   slip           卡ˢ         F=1     pejvo   
+
+【卤化】 2件
+  bromid         卤化         F=1     piv     
+  halogenid      卤化ᴴ        F=1     piv     
 
 【厕】 2件
   latrin         厕          F=1     pejvo   
@@ -8505,6 +8550,10 @@
   nitr           氮          F=19    sci     
   azot           氮ᴬ         F=3     pejvo   
 
+【氯盐】 2件
+  klorat         氯盐         F=1     piv     
+  klorit         氯盐ᴷᴵ       F=1     piv     
+
 【污】 2件
   makul          污          F=18    basic   
   polu           污ᴾ         F=23    sci     
@@ -8569,6 +8618,10 @@
   ĉas            猎          F=44    basic   
   pred           猎ᴾ         F=5     pejvo   
 
+【电解】 2件
+  elektrolit     电解         F=1     piv     
+  elektroliz     电解ᴱᶻ       F=1     piv     
+
 【电型】 2件
   elektrotip     电型         F=1     piv     
   elektrotipi    电型ᴱᴵ       F=1     piv     
@@ -8620,6 +8673,10 @@
 【砖】 2件
   brik           砖          F=15    basic   
   adob           砖ᴬ         F=1     pejvo   
+
+【磷盐】 2件
+  fosfat         磷盐         F=1     piv     
+  fosfit         磷盐ᶠᴵ       F=1     piv     
 
 【离】 2件
   for            离          F=200   func    
@@ -8728,6 +8785,10 @@
 【罚】 2件
   pun            罚          F=28    basic   
   penal          罚ᴾᴸ        F=3     pejvo   
+
+【肠炎】 2件
+  ileit          肠炎         F=1     piv     
+  enterit        肠炎ᴱ        F=1     piv     
 
 【肾】 2件
   ren            肾          F=10    basic   
