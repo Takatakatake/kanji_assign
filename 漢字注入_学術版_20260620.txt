@@ -5147,7 +5147,7 @@ civil/a stat/o⟦民ᶜ/a 态/o⟧:（戸籍上の）身分（配偶者の有無
 civil/a vest/o⟦民ᶜ/a 衣/o⟧:（〜aj 〜oj）（軍服や僧服ではない）私服,平服
 civil/ist/o⟦民ᶜ/家/o⟧:民法学者;民事専門家
 civil/iz/a⟦民ᶜ/化/a⟧:文明化の,開化の
-civilizaci/o:{Ｏ}文明
+civilizaci/o⟦民化/o⟧:{Ｏ}文明
 civil/iz/ad/o⟦民ᶜ/化/行/o⟧:教化,開化,文明化
 civil/iz/i⟦民ᶜ/化/i⟧:{Ｂ}［他］教化する,文明化する
 civil/iz/it/a⟦民ᶜ/化/受/a⟧:文明化された,開化した
@@ -8140,7 +8140,7 @@ eg/e⟦巨/e⟧:たいへん,ひどく,>>tre,>>terure
 Ege/a Mar/o:【地名】エーゲ海（ギリシア）
 eg/ec/o⟦巨/性/o⟧:巨大さ,重大さ,>>kulmino
 egid/o:{Ｏ}【神】アイギス（ゼウスがアテナに与えた盾）;《転》保護,後援
-egipt/a civilizaci/o:（la 〜）【史】エジプト文明
+egipt/a civilizaci/o⟦egipt/a 民化/o⟧:（la 〜）【史】エジプト文明
 egipt/a lotus/o⟦egipt/a 莲/o⟧:【植】スイレン（睡蓮）,>>nimfeo
 egipt/an/o⟦egipt/员ᴬ/o⟧:=>egipto（エジプト人）
 Egipt/i/o:【国名】エジプト（アフリカ）
@@ -15432,7 +15432,7 @@ injekt/il/o⟦注ᴵ/具/o⟧:【医】注射器;【機】=injektoro
 injekt/o⟦注ᴵ/o⟧:【医】注射;【機】注入
 injektor/o:【機】インジェクター,噴射式注水器,噴射式注入装置
 inka/a:インカの
-Inka/a civilizaci/o:【史】インカ文明
+Inka/a civilizaci/o⟦Inka/a 民化/o⟧:【史】インカ文明
 Inka/a imperi/o⟦Inka/a 帝/o⟧:【史】インカ帝国
 ink/a kartoc^/o⟦墨/a 壳ᴷᵀ/o⟧:（万年筆などの）インクカートリッジ
 inkandesk/a⟦白热/a⟧:【理】白熱の,白熱した
@@ -22910,7 +22910,7 @@ maiz/kac^/o⟦玉米/粥/o⟧:【料】ポレンタ,=polento
 maiz/kamp/o⟦玉米/田/o⟧:トウモロコシ畑
 maiz/o⟦玉米/o⟧:{Ｂ}【植】トウモロコシ（種）;トウモロコシの実
 maiz/pan/o⟦玉米/面包/o⟧:トウモロコシパン
-maja/a civilizaci/o:【史】マヤ文明
+maja/a civilizaci/o⟦maja/a 民化/o⟧:【史】マヤ文明
 maja/a lingv/o⟦maja/a 语/o⟧:（la 〜）マヤ語
 maja/o:マヤ人,マヤ族（中南米の先住民）
 maj/arb/o⟦五月/树/o⟧:メイポール（五月柱）
@@ -46394,7 +46394,7 @@ citronel/o⟦香茅/o⟧:【植】【PIV】Sp. (Specio) de cimbopogono (Cymbopog
 citronelal/o:【化】【PIV】La efika substanco el citronela esenco, C 10 H 18 O, aldehido parenca al citralo.
 civetikt/o⟦兽ᶜ/o⟧:【動】【PIV】Rabobesto (unuspecia g. (genro) Civettictis civetta, sin. (sinonimo (de latinscienca nomo)) Viverra c.) el la fam. (familio) de viveredoj, vivanta en Afriko k produktanta cibeton. Sin. (sinonimo) Afrika civeto.
 civil/ec/o⟦民ᶜ/性/o⟧:【PIV】Eco de io au^ iu civila.
-civilizaci/a:【PIV】Rilata al civilizacio: barbara restaj^o el la plej antikva antau^ civilizacia tempo .
+civilizaci/a⟦民化/a⟧:【PIV】Rilata al civilizacio: barbara restaj^o el la plej antikva antau^ civilizacia tempo .
 cucugamus^i/o:【医】【PIV】Febro, renkontata en Japanio k aliaj orientaj landoj, kau^zata de rikecio vs (vastasence) (Orienta tsutsugamushi) k inokulata de iu trombidio.
 cug/o⟦铁杉/o⟧:【植】【PIV】G. (Genro) (Tsuga el pinacoj) de koniferaj arboj kun malgrandaj, dense sidaj pingloj, kies malsupra flanko havas du blankajn striojn, k kun malgrandaj konusoj; c^. (c^irkau^) 14 sp-oj (specioj) el la mezvarmaj regionoj de N Ameriko k de E Azio, pluraj kultivataj por ornamo au^ forstumataj por ligno uzata en c^arpentado k meblofarado. see abio.
 cum/o⟦聚伞/o⟧:【植】【PIV】(cyma) Decentra infloresko (k finevolue infruktesko) de pedunklaj floroj, en kiu sub la unua floro aperas unu (unuflanka cumo) au^ - samnivele sur la akso - du (duflanka cumo, ekz. (ekzemple) c^e gipsofilo) au^ pluraj (plurflanka cumo, ekz. (ekzemple) c^e sedo) branc^oj finig^antaj per floro, sub kiu denove aperas aliaj branc^oj finig^antaj per floro ktp (kaj tiel plu). see glomerulo, grapolo.
@@ -48835,7 +48835,7 @@ hematop/o⟦鸟ᴴᴹ/o⟧:【動】【PIV】G. (Genro) (Haematopus) de birdoj e
 hematoz/o:【生】【PIV】Transformig^o de la sango en la spirorganoj (pulmoj, brankoj, hau^to ktp (kaj tiel plu)), nome malric^ig^o en karbondioksido k ric^ig^o en oksigeno. -> globulo, eritrocito, hemoglobino.
 hematozo/oj:【PIV】= plasmodio.
 hemi/⟦半/⟧:【医】【PIV】Pref. (Prefikso), elvokanta la ideon de g^usta duono k uzata: 1 kun nomoj de afekcioj, por montri, ke ili koncernas nur unu duonon (dekstra au^ maldekstra) de la korpo, au^ iafoje de la konsiderata anatomia parto: hemianestezo, hemikonvulsio, hemikoreo 2 kun aliaj nomoj, por signifi, ke oni konsideras nur la duonon: hemisfero, hemisistolo. Rim. (Rimarko) La vortkomenco hemi trovig^as en iuj neanalizeblaj nomoj: hemicelulozo, hemipteroj k.a. (kaj aliaj). Vd semi/.
-hemiceluloz/o:【化】【PIV】Polimero de glukozo, (C 6 H 10 O 5) n, en la vegetaj^a c^elmuro, malpli longc^ena ol celulozo k en akvo solvebla. Vd celulozo.
+hemiceluloz/o⟦半胞糖/o⟧:【化】【PIV】Polimero de glukozo, (C 6 H 10 O 5) n, en la vegetaj^a c^elmuro, malpli longc^ena ol celulozo k en akvo solvebla. Vd celulozo.
 hemih^ord/o:【動】【PIV】Mallonga dorsa h^ordo limig^anta je la antau^bus^a regiono.
 hemih^ord/ul/oj⟦hemih^ord/者/oj⟧:【PIV】Filumo (Hemichordata) de senvertebruloj kun hemih^ordo, k kiu ampleksas la enteropneu^stojn k pterobrankojn.
 hemimorfit/o:【地質】【PIV】Mineralo el ortoromba zinka siliciato, Zn 4 (Si 2 O 7)(OH) 2, 2H 2 O, fonto de zinko.
@@ -52784,7 +52784,7 @@ organdi/o:【PIV】Unutona muslino, kun speciala apreturo.
 organigram/o:【PIV】Grafiko, prezentanta la tutan strukturon de kompleksa organismo, entrepreno ks (kaj simile, kaj similaj), k indikanta la diversajn elementojn de la grupo k iliajn respektivajn interrilatojn.
 organism/a:【PIV】Apartenanta, rilata al organismo: organisma malsano, strukturo.
 organ/iz/ig^/i⟦器ᴼ/化/成/i⟧:【PIV】Ig^i organizita: estas necese, ke la E-istoj antau^e unuig^u k organizig^u .
-organizaci/o:【PIV】1 Unuig^o de homoj, strebantaj organizite realigi certajn celojn: mi volis nur doni al nia afero […] fortikan organizacion . Sin. (sinonimo) organizaj^o. 2 Maniero administri homojn k agadperilojn por atingi difinitan celon: demokratia, diktatora organizacio. Sin. (sinonimo) organizado. 3 Sistemo de elementoj (agadmodeloj, kontrolperiloj, aroj de valoroj k.a. (kaj aliaj)), kiuj kreas en la grupo socian ligon: niaj leg^aj, ekonomiaj, politikaj institucioj estas kerno de nia formala organizacio; ritoj k tradicioj de tiu c^i gento kreas neformalan organizacion.
+organizaci/o⟦器化/o⟧:【PIV】1 Unuig^o de homoj, strebantaj organizite realigi certajn celojn: mi volis nur doni al nia afero […] fortikan organizacion . Sin. (sinonimo) organizaj^o. 2 Maniero administri homojn k agadperilojn por atingi difinitan celon: demokratia, diktatora organizacio. Sin. (sinonimo) organizado. 3 Sistemo de elementoj (agadmodeloj, kontrolperiloj, aroj de valoroj k.a. (kaj aliaj)), kiuj kreas en la grupo socian ligon: niaj leg^aj, ekonomiaj, politikaj institucioj estas kerno de nia formala organizacio; ritoj k tradicioj de tiu c^i gento kreas neformalan organizacion.
 orgasm/a⟦高潮/a⟧:【PIV】Rilata al orgasmo: s^ia kri' orgasma .
 orgasm/i⟦高潮/i⟧:【PIV】(ntr (netransitiva)) Sperti orgasmon: trifoje sinsekve s^i orgasmis.
 Stalin-orgen/o:【軍】【PIV】Fuzej^etilo kun multaj tuboj, uzata de la Sovetia armeo dum la dua mondmilito.
