@@ -1917,6 +1917,16 @@
   elektrod       极ᴱᴸ        F=4     pejvo   
   paroks         极ᴾᴷ        F=2     pejvo   
 
+【节】 8件
+  diet           节          F=10    basic   
+  silab          节ˢ         F=23    basic   
+  artik          节ᴬ         F=19    basic   
+  strof          节ˢᵀ        F=3     basic   
+  artr           节ᴬᴿ        F=9     pejvo   
+  gangli         节ᴳ         F=3     pejvo   
+  dietik         节ᴰᴷ        F=2     piv     食餌療法学
+  ganglion       节ᴳᴺ        F=1     piv     
+
 【转】 8件
   turn           转          F=62    basic   
   ĝir            转ᴳ̂        F=20    basic   
@@ -2026,6 +2036,15 @@
   megalo         巨ᴹ         F=3     pejvo   
   ciklop         巨ᶜ         F=2     pejvo   
   enorm          巨ᴱᴺ        F=1     pejvo   
+
+【金盐】 7件
+  orat           金盐         F=1     piv     
+  bismutat       金盐ᴮ        F=1     piv     
+  niobat         金盐ᴺ        F=1     piv     
+  osmiat         金盐ᴼˢ       F=1     piv     
+  reniat         金盐ᴿ        F=1     piv     
+  titanat        金盐ᵀ        F=1     piv     
+  tantalat       金盐ᵀᴺ       F=1     piv     
 
 【膏】 7件
   cir            膏          F=4     basic   
@@ -2233,15 +2252,6 @@
   fervor         热ᶠ         F=8     basic   
   termik         热ᵀᴷ        F=9     pejvo   
   furor          热ᶠᴿ        F=7     pejvo   
-
-【节】 7件
-  diet           节          F=10    basic   
-  silab          节ˢ         F=23    basic   
-  artik          节ᴬ         F=19    basic   
-  strof          节ˢᵀ        F=3     basic   
-  artr           节ᴬᴿ        F=9     pejvo   
-  gangli         节ᴳ         F=3     pejvo   
-  dietik         节ᴰᴷ        F=2     piv     食餌療法学
 
 【证】 7件
   viz            证          F=9     basic   
@@ -3213,6 +3223,13 @@
   ŝancel         摇ˢ̂        F=9     basic   
   vobl           摇ⱽ         F=3     piv     振れ回る
 
+【晕】 5件
+  halo           晕          F=4     pejvo   
+  vertig^        晕ⱽ         F=3     pejvo   
+  nimb           晕ᴺ         F=1     pejvo   
+  areol          晕ᴬ         F=2     piv     【解】乳輪・暈
+  haloo          晕ᴴᴼ        F=1     piv     
+
 【栏】 5件
   kolumn         栏          F=2     basic   
   rubrik         栏ᴿ         F=1     basic   
@@ -3492,6 +3509,12 @@
   jad            玉ᴶ         F=2     pejvo   
   jaspis         玉ᴶᴾ        F=1     pejvo   
 
+【菌学】 4件
+  mikologi       菌学         F=1     piv     
+  bakteriologi   菌学ᴮ        F=1     piv     
+  fungologi      菌学ᶠ        F=1     piv     
+  micetologi     菌学ᴹᶜ       F=1     piv     
+
 【具】 4件
   il             具          F=1276  suf     
   mebl           具ᴹ         F=16    basic   
@@ -3755,6 +3778,12 @@
   majuskl        大ᴹ         F=6     basic   
   maj^or         大ᴹᴶ̂       F=8     pejvo   
   versal         大ⱽ         F=1     piv     
+
+【担子菌】 4件
+  bazidimicet    担子菌        F=1     piv     
+  bazidimikot    担子菌ᴮᴷ      F=1     piv     
+  bazidiomicet   担子菌ᴮᴼ      F=1     piv     
+  bazidiomikot   担子菌ᴮᶻ      F=1     piv     
 
 【段】 4件
   etap           段          F=2     basic   
@@ -4104,6 +4133,12 @@
   silici         硅ˢᴵ        F=2     elem    
   siliciat       硅ˢᵀ        F=8     piv     【鉱】ケイ酸塩
 
+【脉炎】 4件
+  flebit         脉炎         F=1     piv     
+  arteriit       脉炎ᴬ        F=1     piv     
+  vejnit         脉炎ⱽ        F=1     piv     
+  vaskulit       脉炎ⱽˢ       F=1     piv     
+
 【丝】 4件
   silk           丝          F=22    basic   
   faden          丝ᶠ         F=39    basic   
@@ -4163,6 +4198,12 @@
   salon          厅ˢ         F=12    basic   
   vestibl        厅ⱽ         F=1     pejvo   
   atri           厅ᴬ         F=2     piv     
+
+【压计】 4件
+  manometr       压计         F=2     pejvo   
+  barometr       压计ᴮ        F=1     piv     
+  tensimetr      压计ᵀ        F=1     piv     
+  tensiometr     压计ᵀᴼ       F=1     piv     
 
 【变】 4件
   ŝanĝ           变          F=62    basic   
@@ -4229,12 +4270,6 @@
   kompromit      损ᴷ         F=7     basic   
   damaĝ          损ᴰᴹ        F=6     basic   
   averi          损ᴬ         F=2     pejvo   
-
-【晕】 4件
-  halo           晕          F=4     pejvo   
-  vertig^        晕ⱽ         F=3     pejvo   
-  nimb           晕ᴺ         F=1     pejvo   
-  areol          晕ᴬ         F=2     piv     【解】乳輪・暈
 
 【权】 4件
   rajt           权          F=62    basic   
@@ -4694,6 +4729,11 @@
   kondens        凝ᴷᴺ        F=10    pejvo   
   koagul         凝ᴷᴳ        F=6     pejvo   
 
+【菌学家】 3件
+  mikolog        菌学家        F=1     piv     
+  bakteriolog    菌学家ᴮ       F=1     piv     
+  fungolog       菌学家ᶠ       F=1     piv     
+
 【句】 3件
   fraz           句          F=26    basic   
   vers           句ⱽ         F=21    basic   
@@ -4738,6 +4778,11 @@
   ofer           献          F=24    basic   
   dediĉ          献ᴰ         F=6     basic   
   konsekr        献ᴷ         F=4     pejvo   
+
+【古学家】 3件
+  arh^eolog      古学家        F=1     piv     
+  arkeolog       古学家ᴬᴷ      F=1     piv     
+  paleontolog    古学家ᴾ       F=1     piv     
 
 【股】 3件
   koks           股          F=8     basic   
@@ -4788,6 +4833,11 @@
   alt            高          F=94    basic   
   altitud        高ᴬᵀ        F=3     pejvo   
   hips           高ᴴ         F=3     pejvo   
+
+【高计】 3件
+  altimetr       高计         F=1     piv     
+  altometr       高计ᴬᴼ       F=1     piv     
+  hipsometr      高计ᴴ        F=1     piv     
 
 【号】 3件
   numer          号          F=21    basic   
@@ -4878,6 +4928,11 @@
   montr          示          F=36    basic   
   manifestaci    示ᴹᶠ        F=3     basic   
   sugest         示ˢ         F=3     basic   
+
+【自治】 3件
+  au^tonom       自治         F=7     pejvo   
+  au^tonomi      自治ᴬᴵ       F=3     pejvo   
+  au^tokrati     自治ᴬᴷ       F=1     piv     
 
 【漆】 3件
   lak            漆          F=8     basic   
@@ -5159,6 +5214,11 @@
   kreten         痴ᴷ         F=2     pejvo   
   imbecil        痴ᴵ         F=2     piv     【医】中等度知的障害者
 
+【中肠】 3件
+  mesenter       中肠         F=1     piv     
+  mesoenter      中肠ᴹᴼ       F=1     piv     
+  mezenter       中肠ᴹᶻ       F=1     piv     
+
 【抽筋】 3件
   spasm          抽筋         F=8     pejvo   
   kramf          抽筋ᴷ        F=3     pejvo   
@@ -5259,6 +5319,11 @@
   izo            等ᴵ         F=36    pref    
   ekvivalent     等ᴱᴷ        F=11    pejvo   
 
+【糖尿】 3件
+  diabet         糖尿         F=6     pejvo   
+  glukuri        糖尿ᴳ        F=1     piv     
+  glukozuri      糖尿ᴳᶻ       F=1     piv     
+
 【逃】 3件
   fuĝ            逃          F=6     basic   
   eskap          逃ᴱ         F=7     basic   
@@ -5293,6 +5358,11 @@
   toler          忍          F=20    basic   
   pacienc        忍ᴾ         F=10    basic   
   stoik          忍ˢ         F=5     pejvo   
+
+【肺】 3件
+  pulm           肺          F=15    basic   
+  pneu^mon       肺ᴾᴺ        F=7     pejvo   
+  pneu^moni      肺ᴾᴵ        F=1     piv     
 
 【白】 3件
   blank          白          F=68    basic   
@@ -5534,6 +5604,16 @@
   eminent        杰ᴱ         F=15    basic   
   prod           杰ᴾ         F=2     piv     【史】勇者(騎士)
 
+【气学】 3件
+  aerologi       气学         F=1     piv     
+  atmosferologi  气学ᴬᵀ       F=1     piv     
+  meteologi      气学ᴹ        F=1     piv     
+
+【气计】 3件
+  gasmetr        气计         F=1     piv     
+  aerometr       气计ᴬ        F=1     piv     
+  gasometr       气计ᴳᴼ       F=1     piv     
+
 【爬】 3件
   ramp           爬          F=11    basic   
   grimp          爬ᴳ         F=19    basic   
@@ -5598,6 +5678,11 @@
   rav            醉          F=9     basic   
   ebri           醉ᴱ         F=11    basic   
   ekstaz         醉ᴱᴷ        F=5     pejvo   
+
+【髓病】 3件
+  medolpati      髓病         F=1     piv     
+  mjelopati      髓病ᴹᴶ       F=1     piv     
+  medolopati     髓病ᴹᴼ       F=1     piv     
 
 【黑】 3件
   nigr           黑          F=60    basic   
@@ -5834,10 +5919,20 @@
   rost           烤ᴿ         F=27    basic   
   graten         烤ᴳ         F=6     pejvo   
 
+【矿盐】 3件
+  selenat        矿盐         F=1     piv     
+  selenit        矿盐ˢᴵ       F=1     piv     
+  telurit        矿盐ᵀ        F=1     piv     
+
 【碱】 3件
   lesiv          碱          F=8     basic   
   alkal          碱ᴬ         F=11    pejvo   
   sod            碱ˢ         F=6     pejvo   
+
+【碳】 3件
+  karbon         碳          F=33    basic   
+  karbur         碳ᴷᴿ        F=5     pejvo   
+  karboni        碳ᴷᴵ        F=1     piv     
 
 【磷】 3件
   fosf           磷          F=15    pejvo   
@@ -6085,9 +6180,25 @@
   homotet        位似         F=2     piv     【数】相似拡大であること
   homoteti       位似ᴴᴵ       F=2     piv     【数】相似拡大
 
+【胃炎】 2件
+  gastrit        胃炎         F=1     piv     
+  stomakit       胃炎ˢ        F=1     piv     
+
+【胃镜】 2件
+  gastroskop     胃镜         F=1     piv     
+  gastroskopi    胃镜ᴳᴵ       F=1     piv     
+
 【育】 2件
   kresk          育          F=43    basic   
   eduk           育ᴱ         F=35    basic   
+
+【咽炎】 2件
+  angin          咽炎         F=2     pejvo   
+  faringit       咽炎ᶠ        F=1     piv     
+
+【咽镜】 2件
+  faringoskop    咽镜         F=1     piv     
+  faringoskopi   咽镜ᶠᴵ       F=1     piv     
 
 【引】 2件
   cit            引          F=23    basic   
@@ -6104,6 +6215,10 @@
 【羽】 2件
   plum           羽          F=34    basic   
   volan          羽ⱽ         F=3     pejvo   
+
+【雨计】 2件
+  pluvmetr       雨计         F=1     piv     
+  pluvometr      雨计ᴾᴼ       F=1     piv     
 
 【云】 2件
   nub            云          F=24    basic   
@@ -6181,6 +6296,10 @@
   fajr           火          F=61    basic   
   mard           火ᴹ         F=4     cal     
 
+【火硫盐】 2件
+  pirosulfat     火硫盐        F=1     piv     
+  pirosulfit     火硫盐ᴾᴵ      F=1     piv     
+
 【火枪】 2件
   musked         火枪         F=3     pejvo   
   musket         火枪ᴹᵀ       F=2     pejvo   
@@ -6205,6 +6324,10 @@
   agrabl         快          F=10    basic   
   alegr          快ᴬᴸ        F=4     pejvo   
 
+【械疗】 2件
+  meh^anoterapi  械疗         F=1     piv     
+  mekanikoterapi 械疗ᴹᴷ       F=1     piv     
+
 【海胆】 2件
   ekin           海胆         F=4     pejvo   
   eh^in          海胆ᴱᴴ̂      F=2     piv     【動】ウニ
@@ -6225,6 +6348,10 @@
   kern           核          F=29    basic   
   nukle          核ᴺ         F=44    basic   
 
+【核配】 2件
+  nuklegami      核配         F=1     piv     
+  nukleogami     核配ᴺᴼ       F=1     piv     
+
 【革】 2件
   led            革          F=28    basic   
   revoluci       革ᴿ         F=11    basic   
@@ -6236,6 +6363,10 @@
 【褐】 2件
   brun           褐          F=28    basic   
   bistr          褐ᴮˢ        F=2     pejvo   
+
+【冠炎】 2件
+  mitrit         冠炎         F=1     piv     
+  koronariit     冠炎ᴷ        F=1     piv     
 
 【刊】 2件
   revu           刊          F=4     basic   
@@ -6305,6 +6436,10 @@
   kanal          渠          F=23    basic   
   kanalizaci     渠ᴷᶻ        F=1     piv     
 
+【距植】 2件
+  talfit         距植         F=1     piv     
+  talofit        距植ᵀᴼ       F=1     piv     
+
 【共】 2件
   kun            共          F=249   prep    
   komun          共ᴷᴹ        F=53    basic   
@@ -6328,6 +6463,14 @@
 【芹】 2件
   celeri         芹          F=7     pejvo   
   api            芹ᴬ         F=2     pejvo   
+
+【菌吞】 2件
+  bakteriofag    菌吞         F=1     piv     
+  bakteriofag^   菌吞ᴮᴳ̂      F=1     piv     
+
+【菌杀】 2件
+  fungicid       菌杀         F=1     piv     
+  baktericid     菌杀ᴮ        F=1     piv     
 
 【近】 2件
   proksim        近          F=28    basic   
@@ -6401,6 +6544,14 @@
   fini           限          F=3     piv     【数】有限の
   restrikt       限ᴿ         F=3     piv     制限・制約
 
+【古学】 2件
+  arh^eologi     古学         F=1     piv     
+  arkeologi      古学ᴬᴷ       F=1     piv     
+
+【古主义】 2件
+  arh^aism       古主义        F=1     piv     
+  arkaism        古主义ᴬᴷ      F=1     piv     
+
 【弧】 2件
   ark            弧          F=34    basic   
   arkus          弧ᴬˢ        F=1     basic   
@@ -6420,6 +6571,14 @@
 【侯】 2件
   princ          侯          F=17    basic   
   markiz         侯ᴹ         F=4     pejvo   
+
+【光疗】 2件
+  lumterapi      光疗         F=1     piv     
+  fototerapi     光疗ᶠ        F=1     piv     
+
+【口镜】 2件
+  stomatoskop    口镜         F=1     piv     
+  stomatoskopi   口镜ˢᴵ       F=1     piv     
 
 【后】 2件
   post           后          F=106   prep    
@@ -6441,6 +6600,10 @@
   konstant       恒          F=24    basic   
   permanent      恒ᴾ         F=1     piv     
 
+【抗粒】 2件
+  antipartikl    抗粒         F=1     piv     
+  antikorpuskl   抗粒ᴬᴷ       F=1     piv     
+
 【校】 2件
   lice           校          F=5     basic   
   gimnazi        校ᴳ         F=4     basic   
@@ -6460,6 +6623,10 @@
 【香柑】 2件
   cedrat         香柑         F=2     pejvo   
   bergamot       香柑ᴮ        F=5     pejvo   
+
+【高测】 2件
+  altometri      高测         F=1     piv     
+  hipsometri     高测ᴴ        F=1     piv     
 
 【劫】 2件
   kaper          劫          F=7     pejvo   
@@ -6585,6 +6752,10 @@
   ambici         志          F=4     basic   
   grafi          志ᴳ         F=94    sci     【医】書字障害(失書)
 
+【支镜】 2件
+  bronkoskop     支镜         F=1     piv     
+  bronkoskopi    支镜ᴮᴵ       F=1     piv     
+
 【止】 2件
   ĉes            止          F=10    basic   
   apne           止ᴬ         F=2     pejvo   
@@ -6601,9 +6772,9 @@
   magnet         磁          F=66    basic   
   magnetofon     磁ᴹᶠ        F=0     basic   
 
-【自治】 2件
-  au^tonom       自治         F=7     pejvo   
-  au^tonomi      自治ᴬᴵ       F=3     pejvo   
+【耳镜】 2件
+  otoskop        耳镜         F=1     piv     
+  otoskopi       耳镜ᴼᴵ       F=1     piv     
 
 【自发】 2件
   spontan        自发         F=4     pejvo   
@@ -6621,9 +6792,25 @@
   dizel          柴油         F=6     pejvo   
   disel          柴油ᴰˢ       F=1     pejvo   
 
+【射声】 2件
+  radiofon       射声         F=1     piv     
+  radiofoni      射声ᴿᴵ       F=1     piv     
+
+【射疗】 2件
+  radioterapi    射疗         F=1     piv     
+  aktinoterapi   射疗ᴬ        F=1     piv     
+
+【射计】 2件
+  radiometr      射计         F=1     piv     
+  aktinometr     射计ᴬ        F=1     piv     
+
 【赦】 2件
   amnesti        赦          F=3     pejvo   
   absolv         赦ᴬᴮ        F=1     pejvo   
+
+【斜计】 2件
+  klinometr      斜计         F=1     piv     
+  strabometr     斜计ˢ        F=1     piv     
 
 【邪】 2件
   pervers        邪          F=3     pejvo   
@@ -6745,6 +6932,14 @@
   viŝ            拭          F=16    basic   
   s^vabr         拭ˢ̂        F=3     pejvo   
 
+【色测】 2件
+  kolormetri     色测         F=1     piv     
+  kolorometri    色测ᴷᴼ       F=1     piv     
+
+【色计】 2件
+  kolormetr      色计         F=1     piv     
+  kolorometr     色计ᴷᴼ       F=1     piv     
+
 【触】 2件
   tuŝ            触          F=40    basic   
   tikso          触ᵀᴷ        F=2     piv     【理】チキソトロピー性
@@ -6752,6 +6947,10 @@
 【食】 2件
   manĝ           食          F=86    basic   
   eklips         食ᴱ         F=16    pejvo   
+
+【食管镜】 2件
+  ezofagoskop    食管镜        F=1     piv     
+  ezofagoskopi   食管镜ᴱᴵ      F=1     piv     
 
 【辱】 2件
   blasfem        辱          F=5     basic   
@@ -6765,13 +6964,41 @@
   psikiatr       心医         F=1     pejvo   
   psikiatri      心医ᴾᴵ       F=3     pejvo   
 
+【心学家】 2件
+  psikolog       心学家        F=1     piv     
+  kardiolog      心学家ᴷ       F=1     piv     
+
+【心病】 2件
+  psikopat       心病         F=1     piv     
+  kardiopati     心病ᴷ        F=1     piv     
+
+【振具】 2件
+  vibrator       振具         F=1     piv     
+  oscilator      振具ᴼ        F=1     piv     
+
+【神治】 2件
+  teokrat        神治         F=1     piv     
+  teokrati       神治ᵀᴵ       F=1     piv     
+
 【神经】 2件
   nerv           神经         F=22    basic   
   neŭr           神经ᴺᵁ̆      F=20    sci     
 
+【神经学】 2件
+  nervologi      神经学        F=1     piv     
+  neu^rologi     神经学ᴺᵁ̆     F=1     piv     
+
 【臣】 2件
   ministr        臣          F=33    basic   
   vasal          臣ⱽ         F=2     pejvo   
+
+【震学】 2件
+  sismologi      震学         F=1     piv     
+  seismologi     震学ˢᴱ       F=1     piv     
+
+【震记】 2件
+  sismograf      震记         F=1     piv     
+  seismograf     震记ˢᴱ       F=1     piv     
 
 【逗】 2件
   kom            逗          F=9     basic   
@@ -6805,6 +7032,18 @@
   politik        政          F=50    basic   
   polit          政ᴾᴼ        F=2     pejvo   
 
+【政学】 2件
+  politologi     政学         F=1     piv     
+  politikologi   政学ᴾᴷ       F=1     piv     
+
+【政学家】 2件
+  politolog      政学家        F=1     piv     
+  politikolog    政学家ᴾᴷ      F=1     piv     
+
+【星学】 2件
+  astronom       星学         F=1     piv     
+  astrologi      星学ᴬᴸ       F=1     piv     
+
 【正视】 2件
   eu^metrop      正视         F=2     piv     【医】正視
   emetrop        正视ᴱᴹ       F=1     piv     
@@ -6812,6 +7051,10 @@
 【精液】 2件
   sperm          精液         F=11    pejvo   
   c^ur           精液ᶜ̂       F=3     piv     精液(俗語)
+
+【声计】 2件
+  sonmetr        声计         F=1     piv     
+  fonometr       声计ᶠ        F=1     piv     
 
 【西】 2件
   okcident       西          F=23    basic   
@@ -6824,6 +7067,10 @@
 【醒】 2件
   vek            醒          F=13    basic   
   sobr           醒ˢ         F=7     basic   
+
+【青植】 2件
+  cianfit        青植         F=1     piv     
+  cianofit       青植ᶜᴼ       F=1     piv     
 
 【税】 2件
   impost         税          F=44    basic   
@@ -6840,6 +7087,10 @@
 【先例】 2件
   precedenc      先例         F=2     pejvo   
   precedent      先例ᴾᵀ       F=1     pejvo   
+
+【栓症】 2件
+  emboloz        栓症         F=1     piv     
+  tromboz        栓症ᵀ        F=1     piv     
 
 【潜】 2件
   plonĝ          潜          F=7     basic   
@@ -6885,6 +7136,10 @@
   pied           足          F=81    basic   
   pod            足ᴾᴼ        F=29    sci     
 
+【速计】 2件
+  takimetr       速计         F=1     piv     
+  rapidometr     速计ᴿ        F=1     piv     
+
 【属】 2件
   aparten        属          F=6     basic   
   genr           属ᴳ         F=6     pejvo   
@@ -6908,6 +7163,10 @@
 【腿】 2件
   krur           腿          F=18    basic   
   gamb           腿ᴳ         F=4     basic   
+
+【苔植】 2件
+  brifit         苔植         F=1     piv     
+  briofit        苔植ᴮᴼ       F=1     piv     
 
 【袋鼠】 2件
   makrop         袋鼠         F=2     pejvo   
@@ -6957,9 +7216,21 @@
   asert          断          F=3     basic   
   intermit       断ᴵ         F=9     pejvo   
 
+【地学】 2件
+  geologi        地学         F=1     piv     
+  topologi       地学ᵀ        F=1     piv     
+
+【地学家】 2件
+  geolog         地学家        F=1     piv     
+  topolog        地学家ᵀ       F=1     piv     
+
 【地籍】 2件
   katastr        地籍         F=3     pejvo   
   kadastr        地籍ᴷᴰ       F=1     pejvo   
+
+【地记】 2件
+  geograf        地记         F=1     piv     
+  topograf       地记ᵀ        F=1     piv     
 
 【地铁】 2件
   metro          地铁         F=3     pejvo   
@@ -6981,6 +7252,10 @@
   abstrakt       抽          F=13    basic   
   ekstrakt       抽ᴱ         F=3     pejvo   
 
+【虫杀】 2件
+  insekticid     虫杀         F=1     piv     
+  oksiuricid     虫杀ᴼ        F=1     piv     
+
 【著】 2件
   signifik       著          F=2     piv     【数】有意である
   signifikanc    著ˢᴺ        F=3     piv     【統計】有意性
@@ -6993,6 +7268,10 @@
   likvesk        潮解         F=2     piv     【化】潮解する
   delikvesk      潮解ᴰ        F=1     piv     
 
+【超感】 2件
+  hiperestez     超感         F=1     piv     
+  hiperestezi    超感ᴴᴵ       F=1     piv     
+
 【跳】 2件
   salt           跳          F=47    basic   
   kapriol        跳ᴷ         F=2     pejvo   
@@ -7004,6 +7283,10 @@
 【直升机】 2件
   helikopter     直升机        F=1     basic   
   ciklogir       直升机ᶜ       F=1     basic   
+
+【直肠镜】 2件
+  rektumoskop    直肠镜        F=1     piv     
+  rektumoskopi   直肠镜ᴿᴵ      F=1     piv     
 
 【痛】 2件
   dolor          痛          F=42    basic   
@@ -7101,6 +7384,14 @@
   mitoz          等分         F=2     piv     【生】有糸分裂
   kariokinez     等分ᴷ        F=1     piv     
 
+【糖血】 2件
+  glukemi        糖血         F=1     piv     
+  glukozemi      糖血ᴳᶻ       F=1     piv     
+
+【同形】 2件
+  homomorf       同形         F=1     piv     
+  homomorfi      同形ᴴᴵ       F=1     piv     
+
 【同伦】 2件
   homotop        同伦         F=2     piv     【数】ホモトピー的
   homotopi       同伦ᴴᴵ       F=2     piv     【数】ホモトピー
@@ -7112,6 +7403,14 @@
 【特许】 2件
   patent         特许         F=11    pejvo   
   koncesi        特许ᴷ        F=6     pejvo   
+
+【毒学】 2件
+  toksologi      毒学         F=1     piv     
+  virusologi     毒学ⱽ        F=1     piv     
+
+【毒学家】 2件
+  toksolog       毒学家        F=1     piv     
+  virusolog      毒学家ⱽ       F=1     piv     
 
 【毒蛇】 2件
   viper          毒蛇         F=1     pejvo   
@@ -7132,6 +7431,10 @@
 【肉】 2件
   viand          肉          F=21    basic   
   karn           肉ᴷ         F=27    basic   
+
+【尿学】 2件
+  urologi        尿学         F=1     piv     
+  urinologi      尿学ᵁᴺ       F=1     piv     
 
 【尿酸盐】 2件
   urat           尿酸盐        F=2     piv     【化】尿酸塩
@@ -7165,9 +7468,9 @@
   dors           背          F=33    basic   
   parker         背ᴾ         F=5     pejvo   
 
-【肺】 2件
-  pulm           肺          F=15    basic   
-  pneu^mon       肺ᴾᴺ        F=7     pejvo   
+【肺炎】 2件
+  pulmit         肺炎         F=1     piv     
+  pneu^monit     肺炎ᴾᴺ       F=1     piv     
 
 【倍】 2件
   obl            倍          F=56    suf     
@@ -7180,6 +7483,10 @@
 【梅】 2件
   ume            梅          F=5     pejvo   
   mume           梅ᴹ         F=1     piv     
+
+【拍型】 2件
+  fototip        拍型         F=1     piv     
+  fototipi       拍型ᶠᴵ       F=1     piv     
 
 【白喉】 2件
   difteri        白喉         F=2     pejvo   
@@ -7232,6 +7539,14 @@
 【披】 2件
   mantel         披          F=13    basic   
   pelerin        披ᴾ         F=1     pejvo   
+
+【皮炎】 2件
+  dermit         皮炎         F=1     piv     
+  dermatit       皮炎ᴰᵀ       F=1     piv     
+
+【皮翅】 2件
+  dermapter      皮翅         F=1     piv     
+  dermopter      皮翅ᴰᴼ       F=1     piv     
 
 【碑】 2件
   monument       碑          F=4     basic   
@@ -7345,6 +7660,10 @@
   juvel          宝          F=9     basic   
   trezor         宝ᵀ         F=5     basic   
 
+【胞学】 2件
+  c^elologi      胞学         F=1     piv     
+  citologi       胞学ᶜ        F=1     piv     
+
 【蓬】 2件
   vil            蓬          F=3     pejvo   
   hirt           蓬ᴴ         F=8     pejvo   
@@ -7433,6 +7752,10 @@
   blind          盲          F=18    basic   
   anopsi         盲ᴬ         F=2     piv     【医】半盲・視野欠損
 
+【木植】 2件
+  magnolifit     木植         F=1     piv     
+  magnoliofit    木植ᴹᴼ       F=1     piv     
+
 【木棉】 2件
   kapok          木棉         F=4     pejvo   
   bombak         木棉ᴮ        F=2     piv     【植】キワタ属
@@ -7440,6 +7763,10 @@
 【目】 2件
   okul           目          F=67    basic   
   oftalm         目ᴼᶠ        F=8     pejvo   
+
+【目镜】 2件
+  oftalmoskop    目镜         F=1     piv     
+  oftalmoskopi   目镜ᴼᴵ       F=1     piv     
 
 【野鸡】 2件
   tetra          野鸡         F=7     pejvo   
@@ -7497,6 +7824,10 @@
   krem           酪          F=19    basic   
   fromaĝ         酪ᶠ         F=9     basic   
 
+【卵源】 2件
+  ovogoni        卵源         F=1     piv     
+  ovogenez       卵源ᴼᶻ       F=1     piv     
+
 【李】 2件
   prun           李          F=4     basic   
   prunus         李ᴾˢ        F=6     pejvo   
@@ -7508,6 +7839,14 @@
 【立葵】 2件
   alte           立葵         F=2     pejvo   
   alce           立葵ᴬᶜ       F=2     piv     【植】タチアオイ属
+
+【立体声】 2件
+  stereofon      立体声        F=1     piv     
+  stereofoni     立体声ˢᴵ      F=1     piv     
+
+【立体镜】 2件
+  stereoskop     立体镜        F=1     piv     
+  stereoskopi    立体镜ˢᴵ      F=1     piv     
 
 【流】 2件
   flu            流          F=85    basic   
@@ -7689,9 +8028,21 @@
   milimetr       毫          F=0     basic   
   mili           毫ᴹᴵ        F=6     pejvo   
 
+【气学家】 2件
+  aerolog        气学家        F=1     piv     
+  meteolog       气学家ᴹ       F=1     piv     
+
 【气管】 2件
   trake          气管         F=6     pejvo   
   trah^e         气管ᵀᴴ̂      F=3     pejvo   
+
+【气管炎】 2件
+  trah^eit       气管炎        F=1     piv     
+  trakeit        气管炎ᵀᴷ      F=1     piv     
+
+【气管切】 2件
+  trah^eotomi    气管切        F=1     piv     
+  trakeotomi     气管切ᵀᴷ      F=1     piv     
 
 【淤】 2件
   aluvi          淤          F=4     pejvo   
@@ -7756,6 +8107,18 @@
 【胚】 2件
   embri          胚          F=13    pejvo   
   blast          胚ᴮ         F=10    piv     【生】胚・胚葉
+
+【胚源】 2件
+  embrigenez     胚源         F=1     piv     
+  embriogenez    胚源ᴱᴼ       F=1     piv     
+
+【胚植】 2件
+  embrifit       胚植         F=1     piv     
+  embriofit      胚植ᴱᴼ       F=1     piv     
+
+【胚切】 2件
+  embritomi      胚切         F=1     piv     
+  embriotomi     胚切ᴱᴼ       F=1     piv     
 
 【胖】 2件
   obez           胖          F=3     pejvo   
@@ -7840,6 +8203,14 @@
 【义】 2件
   justic         义          F=9     pejvo   
   deont          义ᴰ         F=2     piv     【哲】義務論・倫理学
+
+【乐家】 2件
+  hedonist       乐家         F=1     piv     
+  optimist       乐家ᴼ        F=1     piv     
+
+【乐主义】 2件
+  hedonism       乐主义        F=1     piv     
+  optimism       乐主义ᴼ       F=1     piv     
 
 【书】 2件
   libr           书          F=93    basic   
@@ -7949,6 +8320,14 @@
   hurl           嚎          F=3     pejvo   
   ulul           嚎ᵁ         F=3     pejvo   
 
+【囊炎】 2件
+  bursit         囊炎         F=1     piv     
+  foliklit       囊炎ᶠ        F=1     piv     
+
+【囊菌】 2件
+  askomicet      囊菌         F=1     piv     
+  askomikot      囊菌ᴬᴷ       F=1     piv     
+
 【囤】 2件
   stapl          囤          F=4     pejvo   
   akapar         囤ᴬ         F=3     pejvo   
@@ -7956,6 +8335,10 @@
 【园】 2件
   ĝarden         园          F=39    basic   
   park           园ᴾ         F=19    basic   
+
+【围心】 2件
+  perikard       围心         F=1     piv     
+  perikardi      围心ᴾᴵ       F=1     piv     
 
 【圣餐】 2件
   komuni         圣餐         F=4     pejvo   
@@ -8004,6 +8387,10 @@
 【帘】 2件
   kurten         帘          F=14    basic   
   persien        帘ᴾ         F=1     pejvo   
+
+【异形】 2件
+  alotrop        异形         F=3     piv     【化】同素体の・同素形の
+  alomorf        异形ᴬᴹ       F=1     piv     
 
 【张】 2件
   toni           张          F=8     piv     【生】緊張(筋緊張)
@@ -8093,6 +8480,10 @@
   krad           栅          F=20    basic   
   hurd           栅ᴴ         F=3     pejvo   
 
+【树学】 2件
+  arbologi       树学         F=1     piv     
+  dendrologi     树学ᴰ        F=1     piv     
+
 【桩】 2件
   stump          桩          F=9     basic   
   palis          桩ᴾ         F=8     basic   
@@ -8128,6 +8519,10 @@
 【涂】 2件
   ŝmir           涂          F=19    basic   
   stuk           涂ˢ         F=7     pejvo   
+
+【渗计】 2件
+  osmozmetr      渗计         F=1     piv     
+  osmozometr     渗计ᴼᴼ       F=1     piv     
 
 【满】 2件
   plen           满          F=151   basic   
@@ -8165,9 +8560,29 @@
   lut            焊          F=10    pejvo   
   veld           焊ⱽ         F=5     pejvo   
 
+【爱人】 2件
+  filantrop      爱人         F=1     piv     
+  filantropi     爱人ᶠᴵ       F=1     piv     
+
 【猎】 2件
   ĉas            猎          F=44    basic   
   pred           猎ᴾ         F=5     pejvo   
+
+【电型】 2件
+  elektrotip     电型         F=1     piv     
+  elektrotipi    电型ᴱᴵ       F=1     piv     
+
+【电疗】 2件
+  faradiz        电疗         F=2     pejvo   
+  galvanoterapi  电疗ᴳ        F=1     piv     
+
+【电计】 2件
+  elektrometr    电计         F=1     piv     
+  galvanometr    电计ᴳ        F=1     piv     
+
+【电镜】 2件
+  elektroskop    电镜         F=1     piv     
+  galvanoskop    电镜ᴳ        F=1     piv     
 
 【疗】 2件
   terapi         疗          F=55    sci     
@@ -8204,10 +8619,6 @@
 【砖】 2件
   brik           砖          F=15    basic   
   adob           砖ᴬ         F=1     pejvo   
-
-【碳】 2件
-  karbon         碳          F=33    basic   
-  karbur         碳ᴷᴿ        F=5     pejvo   
 
 【离】 2件
   for            离          F=200   func    
@@ -8272,6 +8683,10 @@
 【经济】 2件
   ekonomi        经济         F=33    basic   
   ekonomik       经济ᴱᴷ       F=5     basic   
+
+【经爱】 2件
+  bibliofil      经爱         F=1     piv     
+  bibliofili     经爱ᴮᴵ       F=1     piv     
 
 【结核】 2件
   ftiz           结核         F=4     pejvo   
@@ -8340,6 +8755,10 @@
 【艺】 2件
   art            艺          F=81    basic   
   meti           艺ᴹ         F=11    basic   
+
+【节炎】 2件
+  artrit         节炎         F=1     piv     
+  gangliit       节炎ᴳ        F=1     piv     
 
 【茧】 2件
   kal            茧          F=5     basic   
@@ -8440,6 +8859,10 @@
 【谨】 2件
   diskret        谨          F=6     pejvo   
   skrupul        谨ˢ         F=5     pejvo   
+
+【谱镜】 2件
+  spektroskop    谱镜         F=1     piv     
+  spektroskopi   谱镜ˢᴵ       F=1     piv     
 
 【贡】 2件
   kontribu       贡          F=5     basic   
@@ -8549,6 +8972,10 @@
   fer            铁          F=66    basic   
   fero           铁ᶠᴼ        F=4     pejvo   
 
+【铅盐】 2件
+  plumbat        铅盐         F=1     piv     
+  plumbit        铅盐ᴾᴵ       F=1     piv     
+
 【银】 2件
   arĝent         银          F=10    basic   
   bank           银ᴮ         F=34    basic   
@@ -8577,6 +9004,10 @@
   akr            锐          F=26    basic   
   akut           锐ᴬᵀ        F=9     pejvo   
 
+【锡盐】 2件
+  stanat         锡盐         F=1     piv     
+  stanit         锡盐ˢᴵ       F=1     piv     
+
 【锣】 2件
   tamtam         锣          F=2     pejvo   
   gong           锣ᴳ         F=1     pejvo   
@@ -8592,6 +9023,10 @@
 【长椅】 2件
   divan          长椅         F=2     pejvo   
   kanap          长椅ᴷ        F=2     pejvo   
+
+【闪镜】 2件
+  stroboskop     闪镜         F=1     piv     
+  stroboskopi    闪镜ˢᴵ       F=1     piv     
 
 【问】 2件
   demand         问          F=26    basic   
@@ -8664,6 +9099,10 @@
 【骑】 2件
   rajd           骑          F=24    basic   
   kavaleri       骑ᴷ         F=2     pejvo   
+
+【鱼学家】 2件
+  ih^tiolog      鱼学家        F=1     piv     
+  iktiolog       鱼学家ᴵᴷ      F=1     piv     
 
 【鱼龙】 2件
   iktiosau^r     鱼龙         F=2     pejvo   
