@@ -7040,8 +7040,8 @@
   enukle         摘ᴱ         F=2     pejvo   
 
 【哲】 2件
-  filozofi       哲          F=4     basic   
-  filozof        哲ᶠᴵ        F=2     pejvo   
+  filozof        哲          F=2     pejvo   
+  filozofi       哲ᶠᴵ        F=4     basic   
 
 【天】 2件
   paradiz        天          F=7     basic   

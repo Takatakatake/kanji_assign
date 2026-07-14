@@ -11042,11 +11042,11 @@ filologi/a:文献学的
 filologi/ist/o⟦filologi/家/o⟧:=filologo（文献学者）
 filologi/o:{Ｏ}文献学
 filolog/o:{Ｏ}文献学者
-filozof/i⟦哲ᶠᴵ/i⟧:［自］=filozofii（哲学する）;達観する
-filozof/i/a⟦哲ᶠᴵ/i/a⟧:哲学的な
-filozof/i/i⟦哲ᶠᴵ/i/i⟧:［自］哲学する,思索する
-filozof/i/o⟦哲ᶠᴵ/i/o⟧:{Ｏ}哲学;ものの見方,考え方,人生観,世界観
-filozof/o⟦哲ᶠᴵ/o⟧:{Ｏ}哲学者;哲人,賢者
+filozof/i⟦哲/i⟧:［自］=filozofii（哲学する）;達観する
+filozof/i/a⟦哲/i/a⟧:哲学的な
+filozof/i/i⟦哲/i/i⟧:［自］哲学する,思索する
+filozof/i/o⟦哲/i/o⟧:{Ｏ}哲学;ものの見方,考え方,人生観,世界観
+filozof/o⟦哲/o⟧:{Ｏ}哲学者;哲人,賢者
 filtr/ad/o⟦滤/行/o⟧:ろ過
 filtr/aj^/o⟦滤/物/o⟧:【化】濾液（ろえき）,ろ過液,>>restaj^o
 filtr/i⟦滤/i⟧:{Ｏ}［他］こす,ろ過する;【写】フィルターにかける
@@ -31555,7 +31555,7 @@ pozitiv/a⟦正ᴾ/a⟧:{Ｏ}積極的な,建設的な,実際的な,現実的な
 pozitiv/a ag/o⟦正ᴾ/a 办/o⟧:積極的な行動
 pozitiv/a elektr/o⟦正ᴾ/a 电/o⟧:【理】正電気
 pozitiv/a elektrod/o⟦正ᴾ/a 极ᴱᴸ/o⟧:【理】正極,>>anodo
-pozitiv/a filozof/i/o⟦正ᴾ/a 哲ᶠᴵ/i/o⟧:実証哲学
+pozitiv/a filozof/i/o⟦正ᴾ/a 哲/i/o⟧:実証哲学
 pozitiv/a fraz/o⟦正ᴾ/a 句/o⟧:【Ｇ】肯定文
 pozitiv/a jon/o⟦正ᴾ/a 离子/o⟧:【理】正イオン,=katjono
 pozitiv/a jug^/o⟦正ᴾ/a 判/o⟧:肯定的な判断
