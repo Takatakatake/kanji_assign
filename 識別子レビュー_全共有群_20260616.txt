@@ -2457,8 +2457,8 @@
 【伴】 6件
   koleg          伴          F=7     basic   
   kompani        伴ᴷᴹ        F=22    basic   
+  akompan        伴ᴬ         F=9     basic   
   kamarad        伴ᴷᴿ        F=8     basic   
-  akompan        伴ᴬ         F=9     pejvo   
   partner        伴ᴾ         F=2     pejvo   
   kompan         伴ᴷᴼ        F=1     piv     
 
@@ -3321,7 +3321,7 @@
 【诉】 5件
   plend          诉          F=9     basic   
   akuz           诉ᴬ         F=10    basic   
-  grumbl         诉ᴳ         F=5     pejvo   
+  grumbl         诉ᴳ         F=5     basic   
   apel           诉ᴬᴾ        F=3     pejvo   【軍】点呼
   reklamaci      诉ᴿ         F=2     pejvo   
 
@@ -3349,8 +3349,8 @@
 【赞】 5件
   laŭd           赞          F=11    basic   
   konsent        赞ᴷ         F=24    basic   
+  aprob          赞ᴬ         F=9     basic   
   kompliment     赞ᴷᴹ        F=4     basic   
-  aprob          赞ᴬ         F=9     pejvo   
   ovaci          赞ᴼ         F=2     pejvo   
 
 【过】 5件
@@ -3680,8 +3680,8 @@
 
 【障】 4件
   bar            障          F=32    basic   
+  obstakl        障ᴼ         F=3     basic   
   handikap       障ᴴ         F=7     pejvo   
-  obstakl        障ᴼ         F=3     pejvo   
   obstrukc       障ᴼᴿ        F=3     pejvo   
 
 【植】 4件
