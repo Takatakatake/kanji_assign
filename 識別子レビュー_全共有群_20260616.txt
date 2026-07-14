@@ -4109,6 +4109,12 @@
   arkiv          档ᴬ         F=4     pejvo   
   arh^iv         档ᴬᴴ̂       F=1     pejvo   
 
+【气计】 4件
+  gasmetr        气计         F=1     piv     
+  aerometr       气计ᴬ        F=1     piv     
+  atmometr       气计ᴬᵀ       F=1     piv     
+  gasometr       气计ᴳᴼ       F=1     piv     
+
 【渣】 4件
   feĉ            渣          F=5     basic   
   rekrement      渣ᴿ         F=5     pejvo   
@@ -5608,11 +5614,6 @@
   aerologi       气学         F=1     piv     
   atmosferologi  气学ᴬᵀ       F=1     piv     
   meteologi      气学ᴹ        F=1     piv     
-
-【气计】 3件
-  gasmetr        气计         F=1     piv     
-  aerometr       气计ᴬ        F=1     piv     
-  gasometr       气计ᴳᴼ       F=1     piv     
 
 【爬】 3件
   ramp           爬          F=11    basic   

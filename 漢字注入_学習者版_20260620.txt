@@ -2837,7 +2837,7 @@ au^todafe/o:【キ】異端者の火刑
 au^todidakt/o⟦自学/o⟧:独学者,独習者
 au^t/o/fabrik/o⟦车/o/厂/o⟧:自動車工場
 au^t/o/flot/o⟦车/o/舰/o⟧:（車両の）総保有量
-au^t/o/gir/o⟦车/o/旋/o⟧:【空】オートジャイロ,>>helikoptero##偽分解##過細分解 a/u^/t/o/gir/o
+au^t/o/gir/o⟦自ᴬ/o/旋/o⟧:【空】オートジャイロ,>>helikoptero##偽分解##過細分解 a/u^/t/o/gir/o
 au^t/o/grafi/o⟦自ᴬ/o/志ᴳ/o⟧:【印】肉筆印刷術##偽分解##過細分解 a/u^/t/o/grafi/o
 au^t/o/graf/o⟦自ᴬ/o/记ᴳ/o⟧:{Ｏ}自筆,自筆原稿,=memskribaj^o##偽分解##過細分解 a/u^/t/o/graf/o
 au^t/o/industri/o⟦车/o/业/o⟧:自動車産業
@@ -40088,8 +40088,8 @@ tekvond/o:【運】テコンドー
 Tel-Aviv/o:【地名】テルアビブ（イスラエル）
 tele-⟦远⟧:［学術接頭辞］（遠距離・遠隔を示す）,>>telebutiko,>>teleobjektivo
 tele/ac^et/i⟦远/买/i⟧:［他］（インターネットなどの）通信販売で買う
-tele/au^t/o/graf/i⟦远/车/o/记ᴳ/i⟧:［他］書画電送する##偽分解##過細分解 tele/a/u^/t/o/graf/i
-tele/au^t/o/graf/o⟦远/车/o/记ᴳ/o⟧:書画電送装置,（商標）テロートグラフ##偽分解##過細分解 tele/a/u^/t/o/graf/o
+tele/au^t/o/graf/i⟦远/自ᴬ/o/记ᴳ/i⟧:［他］書画電送する##偽分解##過細分解 tele/a/u^/t/o/graf/i
+tele/au^t/o/graf/o⟦远/自ᴬ/o/记ᴳ/o⟧:書画電送装置,（商標）テロートグラフ##偽分解##過細分解 tele/a/u^/t/o/graf/o
 tele/butik/o⟦远/店/o⟧:ネット通販店,テレビ通販店
 tele/butik/um/i⟦远/店/um/i⟧:［自］ネット通販で買い物をする,テレビ通販で買い物をする
 tele/film/o⟦远/影ᶠ/o⟧:テレビ映画##偽分解
@@ -45443,7 +45443,7 @@ atlant/o:【建】【PIV】1 Granda skulptaj^o virfigura, kiu subportas entablem
 Atlantik/a:【PIV】Rilata al Atlantiko: Nord-Atlantika trafiko; trans Atlantika flugado.
 atm/o⟦我ᴬ/o⟧:【哲】【PIV】Koncepto de persona memo en la hinda filozofio, pritraktata de la Upanis^adoj.
 atman/o:【PIV】= atmo.
-atm/o/metr/o⟦我ᴬ/o/计ᴹ/o⟧:【理】【PIV】Instrumento, por mezuri la elvaporig^on el humida surfaco.##偽分解(PIV正式分解)
+atm/o/metr/o⟦气ᴬᴹ/o/计ᴹ/o⟧:【理】【PIV】Instrumento, por mezuri la elvaporig^on el humida surfaco.##偽分解(PIV正式分解)
 atmosfer/a⟦气ᴬᵀ/a⟧:【PIV】Rilata al atmosfero: atmosfera elektro; atmosferaj fluoj; atmosferaj perturboj, atmosfera depremejo.
 atmosfer/aj^/oj⟦气ᴬᵀ/物/oj⟧:【PIV】Bruoj, produktataj en radioricevilo k kau^zataj de elektraj mals^argoj en la atmosfero. Vd perturbo 5.
 atmosfer/o/grafi/o⟦气ᴬᵀ/o/志ᴳ/o⟧:【PIV】Priskribo de la atmosfero k g^iaj influoj al la tero, ties vegetaj^oj, klimato ktp (kaj tiel plu).##偽分解
@@ -45500,9 +45500,9 @@ au^t/i⟦车/i⟧:【PIV】(ntr (netransitiva)) Veturi per au^to.
 au^t/ad/i⟦车/行/i⟧:【PIV】(ntr (netransitiva)) Veturi per au^to.
 au^tarki/o:【政】【PIV】Politika sendependeco.
 au^tigen/a:【地質】【PIV】(pp (se paroli pri) mineralo) Estig^inta surloke dum la demetig^o de sedimento au^ dum au^ post la formig^o de la petro, kie g^i trovig^as: au^tigena, neau^tigena mineralo; detrita mineralo estas neau^tigena. Vd au^toktono 2.
-au^t/o/gami/o⟦车/o/配ᴳ/o⟧:【PIV】= memfekundig^o.##偽分解##過細分解 a/u^/t/o/gami/o
+au^t/o/gami/o⟦自ᴬ/o/配ᴳ/o⟧:【PIV】= memfekundig^o.##偽分解##過細分解 a/u^/t/o/gami/o
 au^t/o/gen/a⟦自ᴬ/o/生ᴳ/a⟧:【化】【PIV】1 Dau^riganta sin mem: au^togena reakcio. 2【技】 (pp (se paroli pri) veldo) Tia, ke en g^in eniras neniu alia metalo ol tiu de la du veldotaj pecoj.##偽分解##過細分解 a/u^/t/o/gen/a
-au^t/o/kataliz/o⟦车/o/催/o⟧:【PIV】= memkatalizo.##偽分解##過細分解 a/u^/t/o/kataliz/o
+au^t/o/kataliz/o⟦自ᴬ/o/催/o⟧:【PIV】= memkatalizo.##偽分解##過細分解 a/u^/t/o/kataliz/o
 au^toklav/o⟦高压锅/o⟧:【技】【PIV】1 Speco de metala vazo tre fortika k hermete fermebla, en kiu oni povas preme varmigi likvon super g^ia bola varmogrado k tiel atingi specialajn reakciojn. 2【医】 Aparato, kiu per kunpremita akvovaporo sterilizas ladmang^aj^ojn, operaciilojn, kultivmediojn ktp (kaj tiel plu).
 au^toklav/i⟦高压锅/i⟧:【PIV】(tr (transitiva)) Sterilizi per au^toklavo. Vd sterilizilo.
 au^t/o/krat/a⟦自ᴬ/o/治ᴷ/a⟧:【PIV】Karakterizanta au^tokraton: oni diros, ke g^i estas ago au^tokrata .##偽分解##過細分解 a/u^/t/o/krat/a
@@ -45511,7 +45511,7 @@ au^t/o/liz/o⟦自ᴬ/o/解ᴸ/o⟧:【医】【PIV】Malkomponig^o au^ detruig^
 au^tomat/ec/o⟦动ᴬ/性/o⟧:【PIV】Karakterizaj^o de io au^tomata.
 au^tomatik/o:【PIV】Scienco pri la uzo de la au^tomatoj.
 au^t/o/mobil/a⟦车/o/动ᴹᴮ/a⟧:【PIV】Rilata al au^tomobilo(j): au^tomobilaj akcesoraj^oj; au^tomobila sporto.##偽分解##過細分解 a/u^/t/o/mobil/a
-au^t/o/morfi/o⟦车/o/形ᴹᴵ/o⟧:【数】【PIV】Izomorfio de objekto sur g^in mem.##偽分解##過細分解 a/u^/t/o/morfi/o
+au^t/o/morfi/o⟦自ᴬ/o/形ᴹᴵ/o⟧:【数】【PIV】Izomorfio de objekto sur g^in mem.##偽分解##過細分解 a/u^/t/o/morfi/o
 au^tonomi/a⟦自治ᴬᴵ/a⟧:【PIV】Havanta au^tonomion: la plena au^tonomia vivo de nia lingvo, kun g^ia absolute propra, ne pruntita k ne imitita spirito, c^iam pli k pli fortikig^as .
 au^tonom/ist/o⟦自治/家/o⟧:【PIV】Partiano de la au^tonomeco de sia lando, provinco au^ komunumo.
 au^tonom/ism/o⟦自治/主义/o⟧:【PIV】Movado celanta al au^tonomeca statuso de iu teritorio.

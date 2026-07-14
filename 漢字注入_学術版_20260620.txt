@@ -2837,7 +2837,7 @@ au^todafe/o:【キ】異端者の火刑
 au^todidakt/o⟦自学/o⟧:独学者,独習者
 au^t/o/fabrik/o⟦车/o/厂/o⟧:自動車工場
 au^t/o/flot/o⟦车/o/舰/o⟧:（車両の）総保有量
-au^togir/o:【空】オートジャイロ,>>helikoptero
+au^togir/o⟦自旋/o⟧:【空】オートジャイロ,>>helikoptero
 au^tografi/o⟦自志/o⟧:【印】肉筆印刷術
 au^tograf/o⟦自记/o⟧:{Ｏ}自筆,自筆原稿,=memskribaj^o
 au^t/o/industri/o⟦车/o/业/o⟧:自動車産業
@@ -45443,7 +45443,7 @@ atlant/o:【建】【PIV】1 Granda skulptaj^o virfigura, kiu subportas entablem
 Atlantik/a:【PIV】Rilata al Atlantiko: Nord-Atlantika trafiko; trans Atlantika flugado.
 atm/o⟦我ᴬ/o⟧:【哲】【PIV】Koncepto de persona memo en la hinda filozofio, pritraktata de la Upanis^adoj.
 atman/o:【PIV】= atmo.
-atmometr/o:【理】【PIV】Instrumento, por mezuri la elvaporig^on el humida surfaco.
+atmometr/o⟦气计ᴬᵀ/o⟧:【理】【PIV】Instrumento, por mezuri la elvaporig^on el humida surfaco.
 atmosfer/a⟦气ᴬᵀ/a⟧:【PIV】Rilata al atmosfero: atmosfera elektro; atmosferaj fluoj; atmosferaj perturboj, atmosfera depremejo.
 atmosfer/aj^/oj⟦气ᴬᵀ/物/oj⟧:【PIV】Bruoj, produktataj en radioricevilo k kau^zataj de elektraj mals^argoj en la atmosfero. Vd perturbo 5.
 atmosferografi/o⟦气志/o⟧:【PIV】Priskribo de la atmosfero k g^iaj influoj al la tero, ties vegetaj^oj, klimato ktp (kaj tiel plu).
@@ -45500,9 +45500,9 @@ au^t/i⟦车/i⟧:【PIV】(ntr (netransitiva)) Veturi per au^to.
 au^t/ad/i⟦车/行/i⟧:【PIV】(ntr (netransitiva)) Veturi per au^to.
 au^tarki/o:【政】【PIV】Politika sendependeco.
 au^tigen/a:【地質】【PIV】(pp (se paroli pri) mineralo) Estig^inta surloke dum la demetig^o de sedimento au^ dum au^ post la formig^o de la petro, kie g^i trovig^as: au^tigena, neau^tigena mineralo; detrita mineralo estas neau^tigena. Vd au^toktono 2.
-au^togami/o:【PIV】= memfekundig^o.
+au^togami/o⟦自配/o⟧:【PIV】= memfekundig^o.
 au^togen/a⟦自生/a⟧:【化】【PIV】1 Dau^riganta sin mem: au^togena reakcio. 2【技】 (pp (se paroli pri) veldo) Tia, ke en g^in eniras neniu alia metalo ol tiu de la du veldotaj pecoj.
-au^tokataliz/o:【PIV】= memkatalizo.
+au^tokataliz/o⟦自催/o⟧:【PIV】= memkatalizo.
 au^toklav/o⟦高压锅/o⟧:【技】【PIV】1 Speco de metala vazo tre fortika k hermete fermebla, en kiu oni povas preme varmigi likvon super g^ia bola varmogrado k tiel atingi specialajn reakciojn. 2【医】 Aparato, kiu per kunpremita akvovaporo sterilizas ladmang^aj^ojn, operaciilojn, kultivmediojn ktp (kaj tiel plu).
 au^toklav/i⟦高压锅/i⟧:【PIV】(tr (transitiva)) Sterilizi per au^toklavo. Vd sterilizilo.
 au^tokrat/a:【PIV】Karakterizanta au^tokraton: oni diros, ke g^i estas ago au^tokrata .
@@ -45511,7 +45511,7 @@ au^toliz/o⟦自解/o⟧:【医】【PIV】Malkomponig^o au^ detruig^o de histoj
 au^tomat/ec/o⟦动ᴬ/性/o⟧:【PIV】Karakterizaj^o de io au^tomata.
 au^tomatik/o:【PIV】Scienco pri la uzo de la au^tomatoj.
 au^tomobil/a⟦车ᴬᴹ/a⟧:【PIV】Rilata al au^tomobilo(j): au^tomobilaj akcesoraj^oj; au^tomobila sporto.
-au^tomorfi/o:【数】【PIV】Izomorfio de objekto sur g^in mem.
+au^tomorfi/o⟦自形/o⟧:【数】【PIV】Izomorfio de objekto sur g^in mem.
 au^tonomi/a⟦自治ᴬᴵ/a⟧:【PIV】Havanta au^tonomion: la plena au^tonomia vivo de nia lingvo, kun g^ia absolute propra, ne pruntita k ne imitita spirito, c^iam pli k pli fortikig^as .
 au^tonom/ist/o⟦自治/家/o⟧:【PIV】Partiano de la au^tonomeco de sia lando, provinco au^ komunumo.
 au^tonom/ism/o⟦自治/主义/o⟧:【PIV】Movado celanta al au^tonomeca statuso de iu teritorio.
