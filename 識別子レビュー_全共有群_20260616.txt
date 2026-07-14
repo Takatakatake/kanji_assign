@@ -4206,6 +4206,12 @@
   opozici        对ᴼ         F=8     basic   
   jes            对ᴶ         F=7     func    
 
+【层】 4件
+  etaĝ           层          F=16    basic   
+  tavol          层ᵀ         F=22    basic   
+  stratus        层ˢ         F=4     pejvo   
+  stratum        层ˢᴹ        F=1     piv     
+
 【庆】 4件
   fest           庆          F=31    basic   
   festival       庆ᶠⱽ        F=4     basic   
@@ -5712,11 +5718,6 @@
   larĝ           宽          F=29    basic   
   liberal        宽ᴸᴮ        F=3     basic   
   larg           宽ᴸᴳ        F=2     piv     【海】横風受け・幅広
-
-【层】 3件
-  etaĝ           层          F=16    basic   
-  tavol          层ᵀ         F=22    basic   
-  stratus        层ˢ         F=4     pejvo   
 
 【开】 3件
   ŝalt           开          F=25    basic   
