@@ -5147,7 +5147,7 @@ civil/a stat/o⟦民ᶜ/a 态/o⟧:（戸籍上の）身分（配偶者の有無
 civil/a vest/o⟦民ᶜ/a 衣/o⟧:（〜aj 〜oj）（軍服や僧服ではない）私服,平服
 civil/ist/o⟦民ᶜ/家/o⟧:民法学者;民事専門家
 civil/iz/a⟦民ᶜ/化/a⟧:文明化の,開化の
-civil/iz/aci/o⟦民ᶜ/化/aci/o⟧:{Ｏ}文明##偽分解
+civil/iz/aci/o⟦民ᶜ/化/态ᴬ/o⟧:{Ｏ}文明##偽分解
 civil/iz/ad/o⟦民ᶜ/化/行/o⟧:教化,開化,文明化
 civil/iz/i⟦民ᶜ/化/i⟧:{Ｂ}［他］教化する,文明化する
 civil/iz/it/a⟦民ᶜ/化/受/a⟧:文明化された,開化した
@@ -8140,7 +8140,7 @@ eg/e⟦巨/e⟧:たいへん,ひどく,>>tre,>>terure
 Ege/a Mar/o:【地名】エーゲ海（ギリシア）
 eg/ec/o⟦巨/性/o⟧:巨大さ,重大さ,>>kulmino
 egid/o:{Ｏ}【神】アイギス（ゼウスがアテナに与えた盾）;《転》保護,後援
-egipt/a civil/iz/aci/o⟦egipt/a 民ᶜ/化/aci/o⟧:（la 〜）【史】エジプト文明##偽分解
+egipt/a civil/iz/aci/o⟦egipt/a 民ᶜ/化/态ᴬ/o⟧:（la 〜）【史】エジプト文明##偽分解
 egipt/a lotus/o⟦egipt/a 莲/o⟧:【植】スイレン（睡蓮）,>>nimfeo
 egipt/an/o⟦egipt/员ᴬ/o⟧:=>egipto（エジプト人）
 Egipt/i/o:【国名】エジプト（アフリカ）
@@ -15432,7 +15432,7 @@ injekt/il/o⟦注ᴵ/具/o⟧:【医】注射器;【機】=injektoro
 injekt/o⟦注ᴵ/o⟧:【医】注射;【機】注入
 injektor/o:【機】インジェクター,噴射式注水器,噴射式注入装置
 inka/a:インカの
-Inka/a civil/iz/aci/o⟦Inka/a 民ᶜ/化/aci/o⟧:【史】インカ文明##偽分解
+Inka/a civil/iz/aci/o⟦Inka/a 民ᶜ/化/态ᴬ/o⟧:【史】インカ文明##偽分解
 Inka/a imperi/o⟦Inka/a 帝/o⟧:【史】インカ帝国
 ink/a kartoc^/o⟦墨/a 壳ᴷᵀ/o⟧:（万年筆などの）インクカートリッジ
 inkandesk/a⟦白热/a⟧:【理】白熱の,白熱した
@@ -22910,7 +22910,7 @@ maiz/kac^/o⟦玉米/粥/o⟧:【料】ポレンタ,=polento
 maiz/kamp/o⟦玉米/田/o⟧:トウモロコシ畑
 maiz/o⟦玉米/o⟧:{Ｂ}【植】トウモロコシ（種）;トウモロコシの実
 maiz/pan/o⟦玉米/面包/o⟧:トウモロコシパン
-maja/a civil/iz/aci/o⟦maja/a 民ᶜ/化/aci/o⟧:【史】マヤ文明##偽分解
+maja/a civil/iz/aci/o⟦maja/a 民ᶜ/化/态ᴬ/o⟧:【史】マヤ文明##偽分解
 maja/a lingv/o⟦maja/a 语/o⟧:（la 〜）マヤ語
 maja/o:マヤ人,マヤ族（中南米の先住民）
 maj/arb/o⟦五月/树/o⟧:メイポール（五月柱）
@@ -46394,7 +46394,7 @@ citronel/o⟦香茅/o⟧:【植】【PIV】Sp. (Specio) de cimbopogono (Cymbopog
 citronel/al/o⟦香茅/al/o⟧:【化】【PIV】La efika substanco el citronela esenco, C 10 H 18 O, aldehido parenca al citralo.##偽分解(PIV正式分解)##過細分解 citronel/a/l/o
 civetikt/o⟦兽ᶜ/o⟧:【動】【PIV】Rabobesto (unuspecia g. (genro) Civettictis civetta, sin. (sinonimo (de latinscienca nomo)) Viverra c.) el la fam. (familio) de viveredoj, vivanta en Afriko k produktanta cibeton. Sin. (sinonimo) Afrika civeto.
 civil/ec/o⟦民ᶜ/性/o⟧:【PIV】Eco de io au^ iu civila.
-civil/iz/aci/a⟦民ᶜ/化/aci/a⟧:【PIV】Rilata al civilizacio: barbara restaj^o el la plej antikva antau^ civilizacia tempo .##偽分解
+civil/iz/aci/a⟦民ᶜ/化/态ᴬ/a⟧:【PIV】Rilata al civilizacio: barbara restaj^o el la plej antikva antau^ civilizacia tempo .##偽分解
 cucugamus^i/o:【医】【PIV】Febro, renkontata en Japanio k aliaj orientaj landoj, kau^zata de rikecio vs (vastasence) (Orienta tsutsugamushi) k inokulata de iu trombidio.
 cug/o⟦铁杉/o⟧:【植】【PIV】G. (Genro) (Tsuga el pinacoj) de koniferaj arboj kun malgrandaj, dense sidaj pingloj, kies malsupra flanko havas du blankajn striojn, k kun malgrandaj konusoj; c^. (c^irkau^) 14 sp-oj (specioj) el la mezvarmaj regionoj de N Ameriko k de E Azio, pluraj kultivataj por ornamo au^ forstumataj por ligno uzata en c^arpentado k meblofarado. see abio.
 cum/o⟦聚伞/o⟧:【植】【PIV】(cyma) Decentra infloresko (k finevolue infruktesko) de pedunklaj floroj, en kiu sub la unua floro aperas unu (unuflanka cumo) au^ - samnivele sur la akso - du (duflanka cumo, ekz. (ekzemple) c^e gipsofilo) au^ pluraj (plurflanka cumo, ekz. (ekzemple) c^e sedo) branc^oj finig^antaj per floro, sub kiu denove aperas aliaj branc^oj finig^antaj per floro ktp (kaj tiel plu). see glomerulo, grapolo.

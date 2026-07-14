@@ -5729,6 +5729,11 @@
   trud           强ᵀ         F=34    basic   
   emfaz          强ᴱ         F=3     basic   
 
+【态】 3件
+  stat           态          F=41    basic   
+  aci            态ᴬ         F=1     suf     
+  ekologi        态ᴱ         F=0     basic   
+
 【总】 3件
   sum            总          F=19    basic   
   ĝeneral        总ᴳ̂        F=20    basic   
@@ -8007,10 +8012,6 @@
 【归】 2件
   atribu         归          F=3     pejvo   
   atribut        归ᴬᵀ        F=1     pejvo   
-
-【态】 2件
-  stat           态          F=41    basic   
-  ekologi        态ᴱ         F=0     basic   
 
 【恼】 2件
   irit           恼          F=3     basic   
