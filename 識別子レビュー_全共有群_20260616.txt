@@ -4798,6 +4798,11 @@
   dediĉ          献ᴰ         F=6     basic   
   konsekr        献ᴷ         F=4     pejvo   
 
+【古学】 3件
+  arh^eologi     古学         F=1     piv     
+  arkeologi      古学ᴬᴷ       F=1     piv     
+  paleontologi   古学ᴾ        F=1     piv     
+
 【古学家】 3件
   arh^eolog      古学家        F=1     piv     
   arkeolog       古学家ᴬᴷ      F=1     piv     
@@ -6558,10 +6563,6 @@
   fini           限          F=3     piv     【数】有限の
   restrikt       限ᴿ         F=3     piv     制限・制約
 
-【古学】 2件
-  arh^eologi     古学         F=1     piv     
-  arkeologi      古学ᴬᴷ       F=1     piv     
-
 【古主义】 2件
   arh^aism       古主义        F=1     piv     
   arkaism        古主义ᴬᴷ      F=1     piv     
@@ -7265,6 +7266,10 @@
 【窒】 2件
   sufok          窒          F=9     basic   
   asfiksi        窒ᴬ         F=2     pejvo   
+
+【中子】 2件
+  mezon          中子         F=1     piv     
+  neu^tron       中子ᴺ        F=1     piv     
 
 【忠】 2件
   fidel          忠          F=13    basic   
@@ -8550,6 +8555,10 @@
   nitr           氮          F=19    sci     
   azot           氮ᴬ         F=3     pejvo   
 
+【氮盐】 2件
+  nitrat         氮盐         F=1     piv     
+  nitrit         氮盐ᴺᴵ       F=1     piv     
+
 【氯盐】 2件
   klorat         氯盐         F=1     piv     
   klorit         氯盐ᴷᴵ       F=1     piv     
@@ -9005,6 +9014,10 @@
 【还】 2件
   plu            还          F=21    func    
   ankoraŭ        还ᴬ         F=4     func    
+
+【远声】 2件
+  telefon        远声         F=1     piv     
+  telefoni       远声ᵀᴵ       F=1     piv     
 
 【递归】 2件
   rikur          递归         F=3     piv     【情報】再帰

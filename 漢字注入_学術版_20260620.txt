@@ -2853,7 +2853,7 @@ au^tomat/a pes/il/o⟦动ᴬ/a 衡ᴾ/具/o⟧:【理】自動はかり
 au^tomat/a pistol/o⟦动ᴬ/a 枪ᴾ/o⟧:自動拳銃
 au^tomat/a reg/ad/o⟦动ᴬ/a 治/行/o⟧:自動制御
 au^tomat/a respond/il/o⟦动ᴬ/a 答/具/o⟧:自動応答装置;留守番電話機
-au^tomat/a telefon/o⟦动ᴬ/a telefon/o⟧:自動電話
+au^tomat/a telefon/o⟦动ᴬ/a 远声/o⟧:自動電話
 au^tomat/a vend/il/o de cigared/oj⟦动ᴬ/a 卖/具/o 从 烟ᶜ/oj⟧:たばこ自動販売機
 au^tomat/e⟦动ᴬ/e⟧:自動的に;《転》機械的に
 au^tomat/ig/i⟦动ᴬ/使/i⟧:［他］自動化する
@@ -3743,7 +3743,7 @@ biografi/o⟦生志/o⟧:{Ｏ}伝記,>>au^tobiografio
 biograf/o⟦生记/o⟧:{Ｏ}伝記作家
 bio/indik/ant/o⟦生ᴮᴼ/指ᴵ/在/o⟧:【環】生物指標
 bio/karbur/aj^/o⟦生ᴮᴼ/碳ᴷᴿ/物/o⟧:バイオ燃料,=biofuelo
-biokemi/a oksigen/postul/o⟦生化学/a oksigen/求ᴾˢ/o⟧:【環】生物化学的酸素要求量（BOD）
+biokemi/a oksigen/postul/o⟦生化学/a 氧生/求ᴾˢ/o⟧:【環】生物化学的酸素要求量（BOD）
 biokemi/o⟦生化学/o⟧:生化学
 bio/koncentr/ig^/o⟦生ᴮᴼ/集ᴷᴺ/成/o⟧:【環】生物濃縮
 biologi/a⟦生ᴮ/a⟧:生物学的
@@ -6674,7 +6674,7 @@ diagonal/a⟦斜ᴰ/a⟧:対角線の,はすかいの,>>oblikva
 diagonal/e⟦斜ᴰ/e⟧:対角線状に,はすかいに
 diagonal/o⟦斜ᴰ/o⟧:{Ｏ}【数】対角線;【遊】（チェス盤の）同色の斜めに連なるます目
 Di/a grac/o⟦Di/a 恩/o⟧:（la 〜）神の恩寵（おんちょう）
-diagram/o:図,図表,図式,>>grafikaj^o;【学】図解;【鉄】ダイヤグラム
+diagram/o⟦通图/o⟧:図,図表,図式,>>grafikaj^o;【学】図解;【鉄】ダイヤグラム
 di/aj^/o⟦神/物/o⟧:（キリスト教から見た異教の）神,ご神体;《転》あがめられる人
 diakil/o:【医】単鉛硬膏（こうこう）
 Di/a Komedi/o:（la 〜）【文】『神曲』（ダンテ作）
@@ -7062,7 +7062,7 @@ diskont/i⟦减ᴰ/i⟧:{Ｏ}［他］【商】（手形を）割引する
 diskont/o⟦减ᴰ/o⟧:【商】手形割引;割引歩合
 diskont/o/bank/o⟦减ᴰ/o/银ᴮ/o⟧:【商】割引銀行
 disk/o/tek/o⟦盘ᴰ/o/包ᵀ/o⟧:レコードライブラリ
-disk/o/telefon/o⟦盘ᴰ/o/telefon/o⟧:ダイヤル式電話
+disk/o/telefon/o⟦盘ᴰ/o/远声/o⟧:ダイヤル式電話
 disk/o/turn/il/o⟦盘ᴰ/o/转/具/o⟧:【楽】レコードプレーヤー
 disk/o/vend/ej/o⟦盘ᴰ/o/卖/所/o⟧:レコード店
 diskredit/i⟦散信受/i⟧:［他］【商】=senkreditigi（信用を失わせる）
@@ -7881,7 +7881,7 @@ du/on/litr/o⟦二/分/升/o⟧:（容量について）半リットル,５０�
 du/on/lum/o⟦二/分/光/o⟧:薄明り
 du/on/lun/o⟦二/分/月/o⟧:【天】半月,=lunduono;（つめの）半月,小づめ;【軍】（城の）半月堡
 du/on/manik/o⟦二/分/袖/o⟧:【服】半そで
-du/on/metamorfoz/a⟦二/分/metamorfoz/a⟧:【虫】不完全変態の
+du/on/metamorfoz/a⟦二/分/超形症/a⟧:【虫】不完全変態の
 du/on/milion/o⟦二/分/百万/o⟧:５０万
 du/on/monat/a⟦二/分/月ᴹ/a⟧:半月間の;月２回の
 du/on/mort/a⟦二/分/死/a⟧:半死半生の
@@ -10635,7 +10635,7 @@ faz/a indic/o⟦相ᶠ/a 指ᴵᶜ/o⟧:【電】位相指数,位相定数
 fazan/o⟦野鸡ᶠ/o⟧:{Ｏ}【鳥】キジ（雉）（科の総称）
 fazeol/o⟦豆ᶠᶻ/o⟧:{Ｂ}【植】インゲンマメ（隠元豆）（属）
 faz/o⟦相ᶠ/o⟧:{Ｏ}（変化の）段階,局面,様相;【理】位相;【化】相;【天】（月などの）相,位相
-faz/o/diagram/o⟦相ᶠ/o/diagram/o⟧:【理】状態図
+faz/o/diagram/o⟦相ᶠ/o/通图/o⟧:【理】状態図
 faz/o/diferenc/o⟦相ᶠ/o/异ᴰ/o⟧:【理】位相差
 faz/o/regul/o⟦相ᶠ/o/规/o⟧:【理】相律
 faz/trans/ir/o⟦相ᶠ/越/往/o⟧:【化】相転移
@@ -10966,7 +10966,7 @@ fiks/a kapital/o⟦定/a 资/o⟧:【経】固定資本
 fiks/a prez/o⟦定/a 价/o⟧:定価
 fiks/a punkt/o⟦定/a 点/o⟧:固定点,定点
 fiks/a stift/o⟦定/a 销/o⟧:【機】植込みボルト,スタッドボルト
-fiks/a telefon/o⟦定/a telefon/o⟧:（携帯電話に対して）固定電話,>>pos^telefono
+fiks/a telefon/o⟦定/a 远声/o⟧:（携帯電話に対して）固定電話,>>pos^telefono
 fiks/ban/o⟦定/浴/o⟧:【写】定着浴
 fiks/disk/o⟦定/盘ᴰ/o⟧:【情】ハードディスク,=durdisko
 fiks/e⟦定/e⟧:しっかりと,がっちりと;じっと
@@ -11038,9 +11038,9 @@ film/o/tek/o⟦影ᶠ/o/包ᵀ/o⟧:フィルム・ライブラリ
 film/teatr/o⟦影ᶠ/剧/o⟧:《古》映画館,=kinejo
 fil/o⟦儿/o⟧:{Ｂ}息子
 filokser/o:【虫】ネアブラムシ（属）,=vinlau^so
-filologi/a:文献学的
-filologi/ist/o⟦filologi/家/o⟧:=filologo（文献学者）
-filologi/o:{Ｏ}文献学
+filologi/a⟦爱学/a⟧:文献学的
+filologi/ist/o⟦爱学/家/o⟧:=filologo（文献学者）
+filologi/o⟦爱学/o⟧:{Ｏ}文献学
 filolog/o⟦爱学家/o⟧:{Ｏ}文献学者
 filozof/i⟦哲/i⟧:［自］=filozofii（哲学する）;達観する
 filozof/i/a⟦哲/i/a⟧:哲学的な
@@ -11205,7 +11205,7 @@ fizik/o⟦物理/o⟧:{Ｂ}物理学
 fizik/o/terapi/ist/o⟦物理/o/疗/家/o⟧:理学療法士
 fizik/o/terapi/o⟦物理/o/疗/o⟧:【医】理学療法,物理療法
 fiziografi/o⟦物理志/o⟧:自然地理学,=fizika geografio
-fiziologi/o:{Ｏ}生理学
+fiziologi/o⟦物理学/o⟧:{Ｏ}生理学
 fiziolog/o⟦物理学家/o⟧:{Ｏ}生理学者
 fizionomi/ist/o⟦相ᶠᴺ/家/o⟧:人相見
 fizionomi/o⟦相ᶠᴺ/o⟧:{Ｏ}人相,顔つき,容貌,=vizag^aspekto;《転》外観,様相,特徴
@@ -11351,7 +11351,7 @@ flok/a⟦絮/a⟧:一房の綿のような,小片状の
 flok/ig^/i⟦絮/成/i⟧:［自］綿状の固まりになる;【化】綿状沈殿する
 flok/o⟦絮/o⟧:{Ｏ}（綿・羊毛・羽毛・雪などの）一房,小片
 flor/a⟦花/a⟧:花の;花のような
-flor/a diagram/o⟦花/a diagram/o⟧:【植】花式図
+flor/a diagram/o⟦花/a 通图/o⟧:【植】花式図
 flor/ad/o⟦花/行/o⟧:開花;最盛期
 flor/aj^/o⟦花/物/o⟧:花飾り,花模様
 flor/bed/o⟦花/圃/o⟧:花壇
@@ -13236,8 +13236,8 @@ gramen/ac/oj⟦gramen/科ᴬ/oj⟧:【植】=>gramineoj（イネ科）
 gramin/ac/oj⟦禾/科ᴬ/oj⟧:【植】=>gramineoj（イネ科）
 gramine/oj:【植】イネ科
 gram/o⟦克/o⟧:{Ｂ}【単】グラム（g）
-gramofon/disk/o⟦gramofon/盘ᴰ/o⟧:レコード
-gramofon/o:{Ｏ}蓄音機
+gramofon/disk/o⟦图声/盘ᴰ/o⟧:レコード
+gramofon/o⟦图声/o⟧:{Ｏ}蓄音機
 gram/pez/o⟦克/重/o⟧:【理】グラム重（力の重力単位，gw）
 Granad/o:【地名】グラナダ（スペイン）
 granat/arb/o⟦榴/树/o⟧:【植】ザクロ
@@ -14321,13 +14321,13 @@ hidrodinamik/o⟦水力/o⟧:【理】流体力学
 hidroelektr/a⟦水电/a⟧:水力電気の,水力発電の
 hidroelektr/o⟦水电/o⟧:水力電気
 hidrofobi/o⟦水症/o⟧:{Ｏ}【病】恐水病,=akvofobio
-hidrogen/a klorid/o⟦hidrogen/a 氯化/o⟧:【化】塩化水素
-hidrogen/a peroksid/o⟦hidrogen/a 过氧化/o⟧:【化】過酸化水素
-hidrogen/a sulfid/o⟦hidrogen/a 硫化/o⟧:【化】硫化水素
-hidrogen/bomb/o⟦hidrogen/弹/o⟧:【軍】水素爆弾
-hidrogen/i:［他］【化】水素添加する,水素化する
-hidrogen/it/a⟦hidrogen/受/a⟧:【化】水素添加した
-hidrogen/o:{Ｏ}【化】水素
+hidrogen/a klorid/o⟦水生/a 氯化/o⟧:【化】塩化水素
+hidrogen/a peroksid/o⟦水生/a 过氧化/o⟧:【化】過酸化水素
+hidrogen/a sulfid/o⟦水生/a 硫化/o⟧:【化】硫化水素
+hidrogen/bomb/o⟦水生/弹/o⟧:【軍】水素爆弾
+hidrogen/i⟦水生/i⟧:［他］【化】水素添加する,水素化する
+hidrogen/it/a⟦水生/受/a⟧:【化】水素添加した
+hidrogen/o⟦水生/o⟧:{Ｏ}【化】水素
 hidrokarbid/o⟦水炭子/o⟧:=>hidrokarbono（炭化水素）
 hidrokarbon/o⟦水碳/o⟧:【化】炭化水素
 hidroksid/o⟦水氧化/o⟧:【化】水酸化物
@@ -14874,9 +14874,9 @@ ident/ig/il/o⟦同ᴵ/使/具/o⟧:身分証明書;鑑定書
 ident/ig^/i⟦同ᴵ/成/i⟧:［自］同一化する,一体化する;身元が判明する
 ide/o⟦意/o⟧:{Ｂ}観念;考え,思想;思いつき,アイデア;【哲】イデア;【楽】楽想
 ide/o/don/int/o⟦意/o/给/过/o⟧:発案者,提唱者
-ideografi/a:【語】表意文字の,表意的な
-ideografi/aj^/o⟦ideografi/物/o⟧:【語】表意文字,=ideogramo
-ideografi/o:{Ｏ}【語】表意文字方式
+ideografi/a⟦意志/a⟧:【語】表意文字の,表意的な
+ideografi/aj^/o⟦意志/物/o⟧:【語】表意文字,=ideogramo
+ideografi/o⟦意志/o⟧:{Ｏ}【語】表意文字方式
 ideogram/o⟦意字/o⟧:=ideografiaj^o（表意文字）
 ideologi/a⟦观ᴵ/a⟧:イデオロギーの,観念形態の
 ideologi/o⟦观ᴵ/o⟧:{Ｏ}イデオロギー,観念形態;【哲】観念学;《転》空理空論
@@ -17728,7 +17728,7 @@ Kembrig^/a Universitat/o:（la 〜）ケンブリッジ大学
 Kembrig^/o:【地名】ケンブリッジ（イギリス）
 kemi/a ekvivalent/o⟦化学/a 等ᴱᴷ/o⟧:【化】化学当量
 kemi/aj^/o⟦化学/物/o⟧:化学製品;化学物質;農薬
-kemi/a oksigen/postul/o⟦化学/a oksigen/求ᴾˢ/o⟧:【環】化学的酸素要求量（COD）
+kemi/a oksigen/postul/o⟦化学/a 氧生/求ᴾˢ/o⟧:【環】化学的酸素要求量（COD）
 kemi/a reakci/o⟦化学/a 反应/o⟧:【化】化学反応
 kemi/gist/o⟦化学/酵母/o⟧:【料】ふくらし粉,ベーキングパウダー,=bakpulvoro
 kemi/ist/o⟦化学/家/o⟧:化学者
@@ -18471,9 +18471,9 @@ Kom/a Lag/o:【地名】コモ湖（イタリア）
 komand/ant/o⟦令ᴷ/在/o⟧:【軍】指揮官,司令官
 komand/ej/o⟦令ᴷ/所/o⟧:司令部,司令所
 komand/i⟦令ᴷ/i⟧:{Ｂ}［他］【軍】指揮する,指図する,命令する;【機】操作する,制御する
-komandit/ant/o⟦komandit/在/o⟧:【商】（合資会社の）有限責任社員
-komandit/i:［他］【商】（合資会社へ）出資する
-komandit/o:{Ｏ}【商】合資会社;（合資会社への）出資金
+komandit/ant/o⟦令受/在/o⟧:【商】（合資会社の）有限責任社員
+komandit/i⟦令受/i⟧:［他］【商】（合資会社へ）出資する
+komandit/o⟦令受/o⟧:{Ｏ}【商】合資会社;（合資会社への）出資金
 komand/o⟦令ᴷ/o⟧:【軍】指揮,命令;指令,号令;【機】操作,制御【情】コマンド,指令
 komand/o/dosier/o⟦令ᴷ/o/档/o⟧:【情】コマンドファイル
 komandor/o:【史】騎士分団長;（仏で）三等勲章受勲者
@@ -21893,7 +21893,7 @@ lert/a kirurg/o⟦巧/a 外科/o⟧:腕のよい外科医
 lert/a labor/o⟦巧/a 劳/o⟧:巧みな仕事
 lert/a man/o⟦巧/a 手/o⟧:器用な手
 lert/a politik/ist/o⟦巧/a 政/家/o⟧:有能な政治家
-lert/a pos^/telefon/o⟦巧/a 袋ᴾ/telefon/o⟧:高機能携帯電話,スマートフォン
+lert/a pos^/telefon/o⟦巧/a 袋ᴾ/远声/o⟧:高機能携帯電話,スマートフォン
 lert/e⟦巧/e⟧:巧みに,上手に,うまく
 lert/ec/o⟦巧/性/o⟧:巧みさ,器用さ;敏捷さ
 lert/ig^/i⟦巧/成/i⟧:［自］うまくなる,熟練する
@@ -22529,7 +22529,7 @@ long/a vokal/o⟦长/a 元/o⟧:【声】長母音
 long/dau^r/a⟦长/续/a⟧:長期間の,長期的な
 long/distanc/a⟦长/距/a⟧:長距離の,遠距離の
 long/distanc/a kur/konkurs/o⟦长/距/a 跑/竞ᴷˢ/o⟧:【運】長距離レース
-long/distanc/a telefon/ad/o⟦长/距/a telefon/行/o⟧:長距離電話
+long/distanc/a telefon/ad/o⟦长/距/a 远声/行/o⟧:長距離電話
 long/e⟦长/e⟧:長く,長らく,ずっと
 long/ec/o⟦长/性/o⟧:長さ,長いこと
 long/e/dau^r/a⟦长/e/续/a⟧:長引く,長持ちする,長期の
@@ -25175,8 +25175,8 @@ metamorf/a⟦超形/a⟧:【地質】変成の
 metamorf/a rok/o⟦超形/a 岩/o⟧:【地質】変成岩
 metamorf/ig^/o⟦超形/成/o⟧:【地質】（岩石の）変成
 metamorf/ism/o⟦超形/主义/o⟧:【地質】（岩石の）変成作用
-metamorfoz/i:［他］変身させる,変形させる;《転》変貌させる
-metamorfoz/o:{Ｏ}変身,変形;【動】変態;【地質】=metamorfig^o;《転》変貌（へんぼう）
+metamorfoz/i⟦超形症/i⟧:［他］変身させる,変形させる;《転》変貌させる
+metamorfoz/o⟦超形症/o⟧:{Ｏ}変身,変形;【動】変態;【地質】=metamorfig^o;《転》変貌（へんぼう）
 metan/a hidrat/o⟦沼气/a 水合/o⟧:【化】メタンハイドレート
 metan/o⟦沼气/o⟧:【化】メタン
 metanol/o:【化】メタノール
@@ -26740,7 +26740,7 @@ Natal/o:【地名】ナタール州（南アフリカ共和国）
 natr/a kalk/o⟦钠ᴺᴬ/a 灰ᴷ/o⟧:【化】ソーダ石灰
 natr/a sap/o⟦钠ᴺᴬ/a 皂/o⟧:ソーダ石鹸
 natri/a bikarbonat/o⟦钠/a bikarbonat/o⟧:【化】重曹,重炭酸ナトリウム（＝炭酸水素ナトリウム）
-natri/a hidrogen/karbonat/o⟦钠/a hidrogen/碳盐/o⟧:【化】炭酸水素ナトリウム
+natri/a hidrogen/karbonat/o⟦钠/a 水生/碳盐/o⟧:【化】炭酸水素ナトリウム
 natri/a hidroksid/o⟦钠/a 水氧化/o⟧:【化】水酸化ナトリウム
 natri/a karbonat/o⟦钠/a 碳盐/o⟧:【化】炭酸ナトリウム
 natri/a klorid/o⟦钠/a 氯化/o⟧:【化】塩化ナトリウム（NaCl）
@@ -26759,9 +26759,9 @@ natur/aj^/o⟦然/物/o⟧:自然物,（自然の）産物
 natur/a lingv/o⟦然/a 语/o⟧:【語】自然語,自然言語
 naturalism/o⟦自然主义/o⟧:{Ｏ}【芸】【哲】自然主義
 naturalist/o⟦自然家/o⟧:【芸】【哲】自然主義者
-naturaliz/i:［他］【法】帰化させる,=nacianigi
-naturaliz/it/o⟦naturaliz/受/o⟧:【法】帰化人,=nacianigito
-naturaliz/o:【法】帰化,=nacianigo
+naturaliz/i⟦自然化/i⟧:［他］【法】帰化させる,=nacianigi
+naturaliz/it/o⟦自然化/受/o⟧:【法】帰化人,=nacianigito
+naturaliz/o⟦自然化/o⟧:【法】帰化,=nacianigo
 natur/a logaritm/o⟦然/a 对数/o⟧:【数】自然対数
 natur/a lum/o⟦然/a 光/o⟧:【写】自然光
 natur/a mal/amik/o⟦然/a 反/友/o⟧:【生】天敵
@@ -27169,8 +27169,8 @@ ne/kred/ebl/a⟦不/信/可/a⟧:信じがたい,信用できない
 ne/kred/ebl/a afer/o⟦不/信/可/a 事ᴬ/o⟧:信じられない事件
 ne/kred/ebl/e⟦不/信/可/e⟧:信じられないほどに
 ne/kred/o⟦不/信/o⟧:無信仰
-nekrolog/ar/o⟦nekrolog/群/o⟧:死亡者名簿
-nekrolog/o:{Ｏ}死亡記事,故人略歴
+nekrolog/ar/o⟦死学家/群/o⟧:死亡者名簿
+nekrolog/o⟦死学家/o⟧:{Ｏ}死亡記事,故人略歴
 nekromanci/ist/o⟦招魂/家/o⟧:降霊占い師,降霊術師
 nekromanci/o⟦招魂/o⟧:（死者の霊を呼び出して未来を占う）降霊占い,降霊術,口寄せ,>>spiritismo
 nekropol/o⟦墓ᴺ/o⟧:【史】ネクロポリス（古代の集合墓地遺跡）
@@ -27453,9 +27453,9 @@ neu^tr/ec/o⟦中ᴺᴱ/性/o⟧:中性
 neu^tr/ig/i⟦中ᴺᴱ/使/i⟧:［他］【化】中和させる
 neu^tr/ig^/o⟦中ᴺᴱ/成/o⟧:【化】中和
 neu^trin/o⟦中微子/o⟧:【理】ニュートリノ,中性微子
-neu^tron/a bomb/o⟦neu^tron/a 弹/o⟧:中性子爆弾
-neu^tron/a stel/o⟦neu^tron/a 星/o⟧:【天】中性子星
-neu^tron/o:【理】中性子
+neu^tron/a bomb/o⟦中子ᴺ/a 弹/o⟧:中性子爆弾
+neu^tron/a stel/o⟦中子ᴺ/a 星/o⟧:【天】中性子星
+neu^tron/o⟦中子ᴺ/o⟧:【理】中性子
 Nevad/o:【地名】ネバダ州（米国）
 ne/valid/a⟦不/效ⱽ/a⟧:【法】無効の
 ne/vari/a⟦不/变ⱽ/a⟧:不変の
@@ -27595,13 +27595,13 @@ niton/o⟦气ᴺᵀ/o⟧:《古》【化】ニトン（ラドンの旧名）,=ra
 nitrat/a acid/o⟦氮盐/a 酸/o⟧:【化】硝酸
 nitrat/o⟦氮盐/o⟧:【化】硝酸塩
 nitrid/o⟦氮化/o⟧:【化】窒化物
-nitrit/o:【化】亜硝酸塩
+nitrit/o⟦氮盐ᴺᴵ/o⟧:【化】亜硝酸塩
 nitriz/i:［他］【化】ニトロ化する
 nitr/o⟦氮/o⟧:［略］【化】=nitrogeno（窒素）
 nitrobenzin/o:【化】ニトロベンゼン
-nitrogen/a cikl/o⟦nitrogen/a 环ᶜ/o⟧:【環】窒素循環
-nitrogen/a oksid/o⟦nitrogen/a 氧化/o⟧:（〜aj 〜oj）【環】窒素酸化物
-nitrogen/o:【化】窒素
+nitrogen/a cikl/o⟦氮生/a 环ᶜ/o⟧:【環】窒素循環
+nitrogen/a oksid/o⟦氮生/a 氧化/o⟧:（〜aj 〜oj）【環】窒素酸化物
+nitrogen/o⟦氮生/o⟧:【化】窒素
 nitr/o/glicerin/o⟦氮/o/甘油/o⟧:【化】ニトログリセリン
 nivel/i⟦平ᴺ/i⟧:［他］水準器で測る;同一水準にする;《転》平等化する
 nivel/il/o⟦平ᴺ/具/o⟧:【機】水準器
@@ -28268,10 +28268,10 @@ oksid/ant/o⟦氧化/在/o⟧:【環】オキシダント
 oksid/i⟦氧化/i⟧:［他］【化】酸化させる
 oksid/ig^/i⟦氧化/成/i⟧:［自］【化】酸化する,>>rusti
 oksid/o⟦氧化/o⟧:{Ｏ}【化】酸化物
-oksigen/a bomb/o⟦oksigen/a 弹/o⟧:【理】酸素ボンベ
-oksigen/akv/o⟦oksigen/水/o⟧:【化】オキシフル,過酸化水素水
-oksigen/o:{Ｏ}【化】酸素
-oksigen/postul/o⟦oksigen/求ᴾˢ/o⟧:【環】酸素要求量
+oksigen/a bomb/o⟦氧生/a 弹/o⟧:【理】酸素ボンベ
+oksigen/akv/o⟦氧生/水/o⟧:【化】オキシフル,過酸化水素水
+oksigen/o⟦氧生/o⟧:{Ｏ}【化】酸素
+oksigen/postul/o⟦氧生/求ᴾˢ/o⟧:【環】酸素要求量
 oksikok/o:{Ｏ}【植】ツルコケモモ（蔓苔桃）（種）
 oktan/a nombr/o⟦oktan/a 数/o⟧:オクタン価
 oktan/o:【化】オクタン
@@ -29071,7 +29071,7 @@ paleocen/o:【地質】暁新世;暁新統
 paleografi/o⟦内壳志/o⟧:{Ｏ}古文書学
 paleograf/o⟦内壳记/o⟧:{Ｏ}古文書学者
 paleolitik/o⟦古石学/o⟧:【考古】旧石器時代,=pras^tonepoko
-paleontologi/o:{Ｏ}古生物学
+paleontologi/o⟦古学ᴾ/o⟧:{Ｏ}古生物学
 paleontolog/o⟦古学家ᴾ/o⟧:{Ｏ}古生物学者
 paleozoik/a⟦古生/a⟧:古生代の
 paleozoik/o⟦古生/o⟧:【地質】古生代;古生界
@@ -30656,7 +30656,7 @@ plen/larg^/a⟦满/宽/a⟧:【情】全角の,>>duonlarg^a
 plen/lun/o⟦满/月/o⟧:満月
 plen/man/o⟦满/手/o⟧:ひと握り,ひとつかみ
 plen/man/o da⟦满/手/o 份⟧:ひと握りの,ひとつかみの
-plen/metamorfoz/a⟦满/metamorfoz/a⟧:【虫】完全変態の
+plen/metamorfoz/a⟦满/超形症/a⟧:【虫】完全変態の
 plen/mezur/e⟦满/测/e⟧:たっぷりと,十分に
 plen/nub/a⟦满/云/a⟧:全天曇った
 plen/o⟦满/o⟧:全体会,=plenkunsido
@@ -31315,7 +31315,7 @@ port/ant/o⟦运/在/o⟧:運搬人,保有者;《転》担い手;【化】担体
 port/ebl/a⟦运/可/a⟧:携帯用の,持ち運べる
 port/ebl/a forn/o⟦运/可/a 炉/o⟧:こんろ
 port/ebl/a komput/il/o⟦运/可/a 算ᴷᴹ/具/o⟧:【情】携帯パソコン,ポータブルコンピュータ,モバイルパソコン,モバイルコンピュータ
-port/ebl/a telefon/o⟦运/可/a telefon/o⟧:携帯電話,=pos^telefono
+port/ebl/a telefon/o⟦运/可/a 远声/o⟧:携帯電話,=pos^telefono
 por/temp/a⟦为/时/a⟧:一時の,一時的な,臨時の
 por/temp/a ekspozici/o⟦为/时/a 展ᴱᴷ/o⟧:（美術館などの）企画展示,特別展示
 portepe/o:【軍】（腰に巻く）剣帯,>>balteo
@@ -31490,7 +31490,7 @@ pos^t/a tarif/o⟦邮/a 价ᵀ/o⟧:郵便料金
 pos^t/c^ek/kont/o⟦邮/票ᶜ̂/账/o⟧:郵便振替口座
 pos^t/c^ek/o⟦邮/票ᶜ̂/o⟧:【商】郵便小切手
 pos^t/e⟦邮/e⟧:郵便で
-pos^/telefon/o⟦袋ᴾ/telefon/o⟧:携帯電話
+pos^/telefon/o⟦袋ᴾ/远声/o⟧:携帯電話
 pos^t/estr/o⟦邮/长ᴱ/o⟧:郵便局長
 pos^t/fak/o⟦邮/专/o⟧:私書箱
 pos^t/g^ir/a kont/o⟦邮/转ᴳ̂/a 账/o⟧:郵便振替口座
@@ -32625,7 +32625,7 @@ publik/a respond/ec/o⟦公/a 答/性/o⟧:公的責任
 publik/a sekret/o⟦公/a 秘/o⟧:公然の秘密
 publik/a sekur/ec/o⟦公/a 安/性/o⟧:公安,公衆安全
 publik/a serv/o⟦公/a 务/o⟧:公共サービス
-publik/a telefon/o⟦公/a telefon/o⟧:公衆電話
+publik/a telefon/o⟦公/a 远声/o⟧:公衆電話
 publik/a trafik/il/o⟦公/a 交/具/o⟧:公共交通機関
 publik/a trafik/o⟦公/a 交/o⟧:公共交通
 publik/a trans/port/il/o⟦公/a 越/运/具/o⟧:公共交通機関
@@ -32949,7 +32949,7 @@ radioskopi/o de stomak/o⟦射镜/o 从 胃/o⟧:胃の透視
 radi/o/sond/il/o⟦射ᴿ/o/探ˢ/具/o⟧:【気】ラジオゾンデ
 radi/o/staci/o⟦射ᴿ/o/站/o⟧:ラジオ放送局
 radi/o/stel/o⟦射ᴿ/o/星/o⟧:【天】電波星
-radi/o/telegrafi/o⟦射ᴿ/o/telegrafi/o⟧:無線電信
+radi/o/telegrafi/o⟦射ᴿ/o/远志/o⟧:無線電信
 radi/o/telegram/o⟦射ᴿ/o/报ᵀᴹ/o⟧:=radiogramo（無線電報）
 radi/o/teleskop/o⟦射ᴿ/o/镜ᵀ/o⟧:【天】電波望遠鏡
 radioterapi/o⟦射疗/o⟧:【医】放射線療法,Ｘ線療法
@@ -35974,7 +35974,7 @@ sen/mastr/a⟦无/主/a⟧:主のいない,見捨てられた
 sen/mebl/ig/i⟦无/具ᴹ/使/i⟧:［他］家具を取り払う
 sen/merit/a⟦无/值ᴹ/a⟧:功績のない,取り柄のない
 sen/metafor/e⟦无/喻ᴹ/e⟧:本義で,あけすけに
-sen/metamorfoz/a⟦无/metamorfoz/a⟧:【虫】無変態の
+sen/metamorfoz/a⟦无/超形症/a⟧:【虫】無変態の
 sen/mezur/a⟦无/测/a⟧:無限の,けた外れの
 sen/miks/a⟦无/混/a⟧:混じり気のない,純粋な,>>pura
 sen/min/ig/i⟦无/矿/使/i⟧:［他］地雷を除去する
@@ -38081,7 +38081,7 @@ stratokumulus/o:【気】層積雲,=stratuskumuluso
 stratosfer/a ozon/o⟦平流层/a 臭氧/o⟧:【環】成層圏オゾン
 stratosfer/o⟦平流层/o⟧:【気】成層圏,>>troposfero
 strat/pur/ig/ist/o⟦街/纯/使/家/o⟧:道路清掃員
-strat/telefon/o⟦街/telefon/o⟧:公衆電話
+strat/telefon/o⟦街/远声/o⟧:公衆電話
 strat/ul/ac^/o⟦街/者/劣/o⟧:ごろつき,ならず者
 strat/ul/in/o⟦街/者/女/o⟧:街娼
 stratus/kumulus/o⟦层ˢ/积ᴷ/o⟧:【気】層積雲,=stratokumuluso
@@ -40093,28 +40093,28 @@ teleau^tograf/o:書画電送装置,（商標）テロートグラフ
 tele/butik/o⟦远/店/o⟧:ネット通販店,テレビ通販店
 tele/butik/um/i⟦远/店/um/i⟧:［自］ネット通販で買い物をする,テレビ通販で買い物をする
 telefilm/o⟦远影/o⟧:テレビ映画
-telefon/a:電話の
-telefon/abon/ant/o⟦telefon/订ᴬ/在/o⟧:電話加入者
-telefon/ad/o⟦telefon/行/o⟧:電話すること
-telefon/a lini/o⟦telefon/a 线/o⟧:電話回線,電話線
-telefon/aparat/o⟦telefon/器ᴬ/o⟧:電話機
-telefon/a ret/o⟦telefon/a 网/o⟧:電話網
-telefon/a tarif/o⟦telefon/a 价ᵀ/o⟧:電話料金
-telefon/bud/o⟦telefon/棚/o⟧:電話ボックス
-telefon/central/o⟦telefon/央ᶜᴸ/o⟧:電話局
-telefon/ej/o⟦telefon/所/o⟧:電話室
-telefon/i:［他］電話する,電話で話す
-telefon/ist/in/o⟦telefon/家/女/o⟧:電話交換手
-telefon/ist/o⟦telefon/家/o⟧:電話交換手
-telefon/kart/o⟦telefon/卡/o⟧:テレホンカード
-telefon/libr/o⟦telefon/书/o⟧:電話帳
-telefon/mark/o⟦telefon/标ᴹ/o⟧:（公衆電話用の）コイン
-telefon/numer/o⟦telefon/号/o⟧:電話番号
-telefon/o:{Ｂ}電話,電話機
-telefon/respond/il/o⟦telefon/答/具/o⟧:留守番電話機
-telefon/ret/o⟦telefon/网/o⟧:電話網
-telefon/serv/o⟦telefon/务/o⟧:電話事業
-telefon/vok/o⟦telefon/呼/o⟧:電話の呼び出し,通話
+telefon/a⟦远声/a⟧:電話の
+telefon/abon/ant/o⟦远声/订ᴬ/在/o⟧:電話加入者
+telefon/ad/o⟦远声/行/o⟧:電話すること
+telefon/a lini/o⟦远声/a 线/o⟧:電話回線,電話線
+telefon/aparat/o⟦远声/器ᴬ/o⟧:電話機
+telefon/a ret/o⟦远声/a 网/o⟧:電話網
+telefon/a tarif/o⟦远声/a 价ᵀ/o⟧:電話料金
+telefon/bud/o⟦远声/棚/o⟧:電話ボックス
+telefon/central/o⟦远声/央ᶜᴸ/o⟧:電話局
+telefon/ej/o⟦远声/所/o⟧:電話室
+telefon/i⟦远声/i⟧:［他］電話する,電話で話す
+telefon/ist/in/o⟦远声/家/女/o⟧:電話交換手
+telefon/ist/o⟦远声/家/o⟧:電話交換手
+telefon/kart/o⟦远声/卡/o⟧:テレホンカード
+telefon/libr/o⟦远声/书/o⟧:電話帳
+telefon/mark/o⟦远声/标ᴹ/o⟧:（公衆電話用の）コイン
+telefon/numer/o⟦远声/号/o⟧:電話番号
+telefon/o⟦远声/o⟧:{Ｂ}電話,電話機
+telefon/respond/il/o⟦远声/答/具/o⟧:留守番電話機
+telefon/ret/o⟦远声/网/o⟧:電話網
+telefon/serv/o⟦远声/务/o⟧:電話事業
+telefon/vok/o⟦远声/呼/o⟧:電話の呼び出し,通話
 tele/fot/a lens/o⟦远/拍/a 镜ᴸᴺ/o⟧:【写】望遠レンズ
 tele/fot/a objekt/iv/o⟦远/拍/a 物ᴼ/能ᴵ/o⟧:【写】望遠レンズ
 tele/fot/o⟦远/拍/o⟧:【写】望遠写真
@@ -40125,7 +40125,7 @@ telegraf/aj^/o⟦报ᵀ/物/o⟧:電報,=telegramo
 telegraf/drat/o⟦报ᵀ/线ᴰ/o⟧:電信線,電線
 telegraf/e⟦报ᵀ/e⟧:電報で
 telegraf/i⟦报ᵀ/i⟧:［他］電報で知らせる
-telegrafi/o:電信術
+telegrafi/o⟦远志/o⟧:電信術
 telegraf/ist/o⟦报ᵀ/家/o⟧:電信技手
 telegraf/o⟦报ᵀ/o⟧:{Ｂ}電信機
 telegraf/ret/o⟦报ᵀ/网/o⟧:電信網
@@ -43340,7 +43340,7 @@ vide/o/kamera/o⟦视ⱽ/o/摄/o⟧:【映】ビデオカメラ
 vide/o/kased/o⟦视ⱽ/o/盒ᴷ/o⟧:ビデオカセット
 vide/o/lud/o⟦视ⱽ/o/玩/o⟧:【遊】ビデオゲーム
 vide/o/registr/il/o⟦视ⱽ/o/录/具/o⟧:ビデオレコーダー
-vide/o/telefon/o⟦视ⱽ/o/telefon/o⟧:テレビ電話,ビデオ電話
+vide/o/telefon/o⟦视ⱽ/o/远声/o⟧:テレビ電話,ビデオ電話
 vid/et/i⟦见/小/i⟧:［他］ちらっと見る
 vid/handikap/it/o⟦见/障ᴴ/受/o⟧:視覚障害者
 vid/i⟦见/i⟧:{Ｂ}［他］見る,見える,目にうつる;会う,面会する;見て気づく,認める,わかる;目撃する
@@ -47820,7 +47820,7 @@ fitolak/o⟦草ᶠᴸ/o⟧:【植】【PIV】G. (Genro) (Phytolacca el fitolakac
 fizali/o:【動】【PIV】G. (Genro) (Physalia) de kolonie vivantaj kniduloj, kies kolonio estas portata de granda, gasplena sako nag^anta sur la akvosurfaco; tre venenaj. Sin. (sinonimo) portugala milits^ipo.
 fizalid/o⟦茄ᶠ/o⟧:【植】【PIV】G. (Genro) (Physalis el solanacoj) de unu-k plur-jaraj herboj kun funelkorolaj, blanketaj au^ bluetaj floroj, kies kaliko c^e maturig^o s^velas en membranecan, angulan vezikon, kiu fine enhavas globan beron; kosmopolita g. (genro) de c^. (c^irkau^) 80 sp-oj (specioj), i.a. (interalie, inter aliaj) alkekengo.
 fiziognomik/o:【PIV】Arto difini la karakteron de homo lau^ la trajtoj de lia vizag^o.
-fiziologi/a:【PIV】Rilata al fiziologio: fiziologiaj ecoj de la organoj de parolo .
+fiziologi/a⟦物理学/a⟧:【PIV】Rilata al fiziologio: fiziologiaj ecoj de la organoj de parolo .
 flag/et/o⟦旗/小/o⟧:【PIV】Malgranda flago. Vd vimplo.
 flagel/o⟦鞭ᶠ/o⟧:【植】【動】【PIV】Vipoforma filamento, movorgano de diversaj c^eloj, precipe de la unuc^eluloj.
 flagel/ul/oj⟦鞭ᶠ/者/oj⟧:【PIV】Subfilumo (Mastigophora, sin. (sinonimo (de latinscienca nomo)) Flagellata) de unuc^eluloj el la regno de protozooj, iuj sen klorofilo (zoo flageluloj), aliaj kun klorofilo (fito flageluloj), kiujn karakterizas posedo de unu au^ pluraj flageloj: pluraj flageluloj estas homaj parazitoj (lejs^manioj, tripanosomoj k.a. (kaj aliaj)). see ciliuloj, rizopodoj, sporozooj.
@@ -48939,7 +48939,7 @@ hidrazon/o:【化】【PIV】Produkto de la reakcio inter hidrazino k aldehido a
 hidrofil/a⟦水爱/a⟧:【化】【PIV】1 Akvoafina. Vd sorba. 2 = akveja.
 hidrofob/a⟦水怕/a⟧:【化】【PIV】Akvo-neafina.
 hidrofon/o⟦水声/o⟧:【PIV】Instrumento por au^skulti sonon, dissenditan tra akvo: malkovro de submars^ipoj per hidrofono.
-hidrogen/a:【PIV】Rilata al hidrogeno: hidrogena klorido (HCl; en akvo: klorida acido); hidrogenaj kombinaj^oj.
+hidrogen/a⟦水生/a⟧:【PIV】Rilata al hidrogeno: hidrogena klorido (HCl; en akvo: klorida acido); hidrogenaj kombinaj^oj.
 hidrogeolog/o⟦水地学家/o⟧:【地質】【PIV】Specialisto pri hidrogeologio.
 hidrogeologi/o⟦水地学/o⟧:【PIV】Scienco pri la subteraj akvoj, i.a. (interalie, inter aliaj) pri ilia cirkulado k naturaj rezervujoj.
 hidrograf/o⟦水记/o⟧:【PIV】Specialisto pri hidrografio.
@@ -50560,7 +50560,7 @@ kolumel/o:【植】【PIV】1 Sterila centra akso interne de la sporujo au^ bazi
 kolur/o:【天】【PIV】Nomo de la du c^efcirkloj c^ielaj, el kiuj unu trapasas la c^ielajn polusojn k la ekvinoksajn punktojn, la alia la c^ielajn polusojn k la solsticajn punktojn.
 kolute/o⟦木ᴷᴼ/o⟧:【植】【PIV】G. (Genro) (Colutea el fabacoj) de arbustoj kun nepare plume kunmetaj folioj, kun floroj en akselaj grapoloj k kun vezike pufaj gus^oj, plejofte nedehiskaj, kiuj eksplodetas c^e premo; 28 sp-oj (specioj) el S Eu^ropo, E k NE Afriko k Azio, kelkaj g^ardene kultivataj. Sin. (sinonimo) vezikarbusto.
 kolutori/o:【PIV】Medikamento por s^miri la gingivojn au^ la bus^parietojn.
-komandit/a:【PIV】Funkcianta lau^ komandito: komandita societo.
+komandit/a⟦令受/a⟧:【PIV】Funkcianta lau^ komandito: komandita societo.
 komasaci/o:【PIV】Regrupigo de parceloj, por faciligi la kultivadon per mekanikaj rimedoj.
 komatogen/a⟦昏生/a⟧:【PIV】Estiganta komaton.
 komb/ist/o⟦梳/家/o⟧:【PIV】Frizisto.
@@ -52649,8 +52649,8 @@ oksazol/o:【化】【PIV】Kvinatoma heterociklo, C 3 H 3 NO.
 okshoft/o:【PIV】Malnova mezurunuo por likvoj (c^. (c^irkau^) 230 l).
 oksi/o⟦氧/o⟧:【化】【PIV】Mll de oksigeno, uzata en kunmetaj^oj por montri la c^eeston de oksigeno (kompare kun la nomo de referenca substanco): oksitetraciklino (grava antibiotiko); oksionio (Vd (vidu) onio).
 oksidaz/o:【PIV】Enzimo, kiu katalizas oksidajn reakciojn.
-oksigen/i:【PIV】(tr (transitiva)) Miksi kun oksigeno.
-oksigen/a:【化】【PIV】Entenanta oksigenon: oksigena akvo (komunuza nomo por H 2 O 2, oksidanta mikrobicido k blankigilo).
+oksigen/i⟦氧生/i⟧:【PIV】(tr (transitiva)) Miksi kun oksigeno.
+oksigen/a⟦氧生/a⟧:【化】【PIV】Entenanta oksigenon: oksigena akvo (komunuza nomo por H 2 O 2, oksidanta mikrobicido k blankigilo).
 oksim/o:【化】【PIV】Kombinaj^o kun grupo ≻C=NOH, preparebla ekz. (ekzemple) el ketono k hidroksilamino.
 oksimor/o:【PIV】Stilfiguro, konsistanta en la kunigo de du vortoj, kies sencoj s^ajnas kontrau^diraj unu al la alia, por reliefigi neatenditan penson, ekz. (ekzemple) «elokventa silento», «triumfa malvenko», «la malsag^eco de Dio estas pli sag^a ol homoj », «la voluptamanta, ankorau^ vivante, malvivas» .
 oksiton/a:【語】【PIV】(pp (se paroli pri) vorto) Havanta akcenton sur la lasta silabo (ekz. (ekzemple): melankoli'). Vd paroksitona, proparoksitona.
@@ -55977,9 +55977,9 @@ tekton/ism/o⟦硬木/主义/o⟧:【PIV】Tuto de la tektonaj procezoj, orogene
 tektonik/o⟦构造/o⟧:【地質】【PIV】Scienco pri la tektonoj.
 tektonik/a⟦构造/a⟧:【PIV】Rilata al tiu scienco: tektonika mapo.
 tel/o:【PIV】Monteto el supermetitaj urboruinoj en Proksim-Oriento k Balkanaj regionoj.
-telefon/aj^/o⟦telefon/物/o⟧:【PIV】Informo, komunikita per telefono.
-telefoni/o:【PIV】1 Sistemo de transsendado de sonoj je distanco per elektraj kurentoj au^ ondoj: konduktila, senfadena telefonio. 2 Praktika organizo de tia sistemo: interurba telefonio.
-telegrafi/a:【PIV】Rilata al telegrafio: la telegrafia administracio.
+telefon/aj^/o⟦远声/物/o⟧:【PIV】Informo, komunikita per telefono.
+telefoni/o⟦远声ᵀᴵ/o⟧:【PIV】1 Sistemo de transsendado de sonoj je distanco per elektraj kurentoj au^ ondoj: konduktila, senfadena telefonio. 2 Praktika organizo de tia sistemo: interurba telefonio.
+telegrafi/a⟦远志/a⟧:【PIV】Rilata al telegrafio: la telegrafia administracio.
 telekinez/o⟦远动/o⟧:【PIV】Supozata ago de la menso al la materio, pli speciale movo de objekto per la sola menso: telekinezo estis g^is nun neniam pruvita.
 teleks/o⟦电传/o⟧:【PIV】Speco de telegrafo, konsistanta el teletajpilo, konektita al speciala reto: anstatau^igi la nunajn telefonan, teleksan k aliajn retojn. Vd faksilo, retpos^to.
 teleks/i⟦电传/i⟧:【PIV】(tr (transitiva)) Sendi per telekso.
@@ -58002,8 +58002,8 @@ ced/o/dev/o⟦让/o/应/o⟧:【法】【PIV】Leg^a preskribo, lau^ kiu veturil
 kompens/o/dev/o⟦补ᴷ/o/应/o⟧:【法】【PIV】Lau^leg^a devo kompensi damag^on au^ perdon, kiun oni kau^zis al alia persono.
 trud/dev/ig/i⟦强ᵀ/应/使/i⟧:【PIV】Perforte devigi iun fari ion: havi povon de trud devigo.
 sen/di/ul/o⟦无/神/者/o⟧:【PIV】Sen dia homo. Vd ateisto.
-faz/diagram/o⟦相ᶠ/diagram/o⟧:【理】【化】【PIV】Diagramo, montranta la stabilajn fazojn k faztransirojn de iu substanco kiel funkciojn de la termodinamikaj variabloj ekz. (ekzemple) premo (P), volumeno (V) k temperaturo (T).
-nivel/diagram/o⟦平ᴺ/diagram/o⟧:【PIV】Diagramo, montranta la variadon de la niveloj (de tensio, kurentintenso, povumo) lau^longe de transsenda sistemo, ekz. (ekzemple) konduktolineo.
+faz/diagram/o⟦相ᶠ/通图/o⟧:【理】【化】【PIV】Diagramo, montranta la stabilajn fazojn k faztransirojn de iu substanco kiel funkciojn de la termodinamikaj variabloj ekz. (ekzemple) premo (P), volumeno (V) k temperaturo (T).
+nivel/diagram/o⟦平ᴺ/通图/o⟧:【PIV】Diagramo, montranta la variadon de la niveloj (de tensio, kurentintenso, povumo) lau^longe de transsenda sistemo, ekz. (ekzemple) konduktolineo.
 arki/diakon/o⟦首ᴬ/助祭/o⟧:【PIV】En Mezepoko, helpanto de episkopo. -> c^efvikario, prelato.
 c^ef/diakon/o⟦首/助祭/o⟧:【PIV】En Mezepoko, helpanto de episkopo. -> c^efvikario, prelato.
 sang/o/dializ/o⟦血/o/透析/o⟧:【PIV】Dializo 2.
@@ -58372,7 +58372,7 @@ al/fiks/i⟦向/定/i⟧:【PIV】Fiksi 1: alfiksi al la muro florpotojn .
 mal/fiks/a⟦反/定/a⟧:【PIV】Ne firme tenata, kroc^ita, ligita ks (kaj simile, kaj similaj): malfiksa lac^o. Vd loza.
 fenestr/o/fiks/il/o⟦窗/o/定/具/o⟧:【PIV】Aparato por fiksi la fenestroklapojn en difinitaj pozicioj, k malhelpi ilin movig^i de la vento.
 kejl/o/fiks/i⟦钉ᴷ/o/定/i⟧:【PIV】Fiksi mas^inelementon per kejlo.
-nitrogen/fiks/ad/o⟦nitrogen/定/行/o⟧:【生態】【PIV】Fiksado de la atmosfera nitrogeno fare de bakterioj liberaj au^ simbiozantaj kun plantoj, i.a. (interalie, inter aliaj) fabacoj. -> nodeto 2.
+nitrogen/fiks/ad/o⟦氮生/定/行/o⟧:【生態】【PIV】Fiksado de la atmosfera nitrogeno fare de bakterioj liberaj au^ simbiozantaj kun plantoj, i.a. (interalie, inter aliaj) fabacoj. -> nodeto 2.
 karik/fikus/o⟦木瓜ᴷ/榕/o⟧:【PIV】Sp. (Specio) de fikuso (F. carica) vers^ajne origina el SU Azio, arbo kultivata (ekde 4 000 j a.K. (antau^ Kristo)) en la Mediteraneaj landoj por mang^eblaj figoj, kiun en antikveco oni kredis origina el Kario. Sin. (sinonimo) figarbo 2.
 ge/fil/oj⟦双/儿/oj⟧:【PIV】La filo(j) k la filino(j).
 pra/fil/o⟦原/儿/o⟧:【PIV】La filo de la nepo, au^ unu el ties posteularo.
@@ -58411,8 +58411,8 @@ pulm/fis^/oj⟦肺/鱼/oj⟧:【PIV】Dipnoj.
 rok/fis^/o⟦岩/鱼/o⟧:【PIV】Kn (Kolektiva nomo) de maraj fis^oj roklog^aj.
 s^lim/fis^/o⟦泥ˢ̂/鱼/o⟧:【PIV】Fis^o, vivanta en marc^egoj, bredlagoj ktp (kaj tiel plu), kies karno havas s^liman guston (ekz. (ekzemple) karpo ks (kaj simile, kaj similaj)).
 kern/fizik/o⟦核/物理/o⟧:【PIV】Branc^o de fiziko pri la leg^oj k konstruo de la atomkernoj.
-plant/fiziologi/o⟦植/fiziologi/o⟧:【植】【PIV】Fiziologio de la plantoj.
-psik/o/fiziologi/o⟦心ᴾˢ/o/fiziologi/o⟧:【PIV】Scienco pri la rilatoj inter la psikaj k la fiziologiaj faktoj.
+plant/fiziologi/o⟦植/物理学/o⟧:【植】【PIV】Fiziologio de la plantoj.
+psik/o/fiziologi/o⟦心ᴾˢ/o/物理学/o⟧:【PIV】Scienco pri la rilatoj inter la psikaj k la fiziologiaj faktoj.
 fit/o/flagel/ul/oj⟦植ᶠ/o/鞭ᶠ/者/oj⟧:【動】【PIV】Klaso (Phytomastigophorea) de flageluloj g^enerale klorofilohavaj.
 sulk/o/flagel/ul/oj⟦沟/o/鞭ᶠ/者/oj⟧:【動】【PIV】Ordo (Dinoflagellata) de protozooj el la klaso de fito flageluloj, g^enerale kun du flageloj lokig^intaj en sulkoj (unu en lau^longa, la alia en pli-malpli ekvatora sulko), k vivantaj en sala au^ nesala akvo. Vd alveoluloj.
 zo/o/flagel/ul/oj⟦兽ᶻ/o/鞭ᶠ/者/oj⟧:【動】【PIV】Klaso (Zoomastigophorea) de flageluloj senklorofilaj.
@@ -59999,14 +59999,14 @@ salangan/nest/o⟦金丝燕/巢/o⟧:【PIV】Nesto de salangano, kuirarte prepa
 vent/nest/o⟦风/巢/o⟧:【植】【PIV】Fefasko.
 poli/neu^rit/o⟦多ᴾ/神经炎/o⟧:【PIV】Malsano, karakterizata de samtempa inflamo de multaj nervoj.
 trofi/neu^roz/o⟦养ᵀ/神经症/o⟧:【PIV】Kn (Kolektiva nomo) de afekcioj, karakterizataj de nutradaj perturboj sen difinita lezo de la nerva sistemo.
-anti/neu^tron/o⟦抗ᴬ/neu^tron/o⟧:【PIV】La antipartiklo de neu^trono.
+anti/neu^tron/o⟦抗ᴬ/中子ᴺ/o⟧:【PIV】La antipartiklo de neu^trono.
 bo/nev/o⟦姻/侄/o⟧:【PIV】Nev(in)o per geedzig^o.
 bo/nev/in/o⟦姻/侄/女/o⟧:【PIV】Nev(in)o per geedzig^o.
 fenestr/o/nic^/o⟦窗/o/壁凹/o⟧:【PIV】Embrazuro 1.
 h^or/nic^/o⟦合唱/壁凹/o⟧:【イスラム】【PIV】Nic^o en muro de moskeo, kie sin tenas la kultogvidanto.
 lotus/nimfe/o⟦莲/睡莲/o⟧:【PIV】(N. lotus) el Egiptio, tropika k S Afriko, kun senodoraj, blankaj floroj parte rozaj au^ rug^aj (blanka Egiptia lotuso). Vd nelumbo, nufaro.
 led/o/nit/o⟦革/o/钉ᴺᵀ/o⟧:【PIV】Nito, konsistanta el du partoj, kiujn oni kunigas, enigante unu en alian per martelado por kunfiksi ekz. (ekzemple) du ledpecojn.
-hipo/nitrit/o⟦亚/nitrit/o⟧:【化】【PIV】Salo de hipo nitrita acido H 2 N 2 O 2.
+hipo/nitrit/o⟦亚/氮盐ᴺᴵ/o⟧:【化】【PIV】Salo de hipo nitrita acido H 2 N 2 O 2.
 sen/nitrat/ig/o⟦无/氮盐/使/o⟧:【生態】【PIV】Reduktado de nitrato al nitrito, amonio k ec^ nitrogeno fare de nitratreduktaj bakterioj.
 al/nivel/ig/i⟦向/平ᴺ/使/i⟧:【PIV】Fari, ke io estu sur la sama nivelo, kiel: Dio detruis la fortikaj^ojn, alniveligis ilin al la tero .
 akv/o/nivel/il/o⟦水/o/平ᴺ/具/o⟧:【PIV】Granda nivelilo sur stativo, kun du flakonoj duonplenaj de kolora akvo.
@@ -60162,7 +60162,7 @@ s^tat/pag/e⟦国ˢ̂/付/e⟧:【PIV】Kun c^iuj elspezoj pagitaj de la s^tato:
 ne/pak/it/e⟦不/包/受/e⟧:【PIV】(pp (se paroli pri) varoj) Tia, ke neniu pakumo g^in entenas: vendi rizon senpake. -> loza.
 sen/pak/e⟦无/包/e⟧:【PIV】(pp (se paroli pri) varoj) Tia, ke neniu pakumo g^in entenas: vendi rizon senpake. -> loza.
 ond/o/pak/et/o⟦波/o/包/小/o⟧:【理】【PIV】Kombinaj^o de ebenaj ondoj, kiu estas pli-malpli lokumita en la spaco.
-mikro/paleontologi/o⟦微/paleontologi/o⟧:【PIV】Paleontologio de la mikroskopaj fosilioj.
+mikro/paleontologi/o⟦微/古学ᴾ/o⟧:【PIV】Paleontologio de la mikroskopaj fosilioj.
 al/lig/palis/o⟦向/结/桩ᴾ/o⟧:【PIV】Paliso, fiksita en akvo, por alligi i.a. (interalie, inter aliaj) boaton.
 betel/palm/o⟦草ᴮ/棕/o⟧:【PIV】= katec^uareko.
 daktil/palm/o⟦枣/棕/o⟧:【植】【PIV】Daktila feniko: la daktil palmo etendis sian foliaron tre alte . Sin. (sinonimo) daktilujo.
@@ -61147,9 +61147,9 @@ palm/o/suker/o⟦棕/o/糖/o⟧:【PIV】Sukero, ekstraktata el tiuj respektivaj
 most/suker/i⟦汁ᴹ/糖/i⟧:【PIV】Sukeri moston antau^ la fermentado por plialtigi la alkoholkvanton de la vino. Sin. (sinonimo) s^aptalizi.
 rest/suker/o⟦余/糖/o⟧:【PIV】La sukero de vino, kiu dum la fermentado ne estis transformita en alkoholon.
 bi/sulfat/o⟦二ᴮ/硫盐/o⟧:【化】【PIV】Acida salo de sulfata acido: natria bisulfato, NaHSO 4.
-hidrogen/sulfat/o⟦hidrogen/硫盐/o⟧:【化】【PIV】Acida salo de sulfata acido: natria bisulfato, NaHSO 4.
+hidrogen/sulfat/o⟦水生/硫盐/o⟧:【化】【PIV】Acida salo de sulfata acido: natria bisulfato, NaHSO 4.
 bi/sulfit/o⟦二ᴮ/硫盐ˢᴵ/o⟧:【化】【PIV】Salo de la acida sulfita acido: natria bisulfito, NaHSO 3 estas uzata kiel antibakteria substanco en cidro-k vinfarad o.
-hidrogen/sulfit/o⟦hidrogen/硫盐ˢᴵ/o⟧:【化】【PIV】Salo de la acida sulfita acido: natria bisulfito, NaHSO 3 estas uzata kiel antibakteria substanco en cidro-k vinfarad o.
+hidrogen/sulfit/o⟦水生/硫盐ˢᴵ/o⟧:【化】【PIV】Salo de la acida sulfita acido: natria bisulfito, NaHSO 3 estas uzata kiel antibakteria substanco en cidro-k vinfarad o.
 hidrosulfit/o⟦水硫盐/o⟧:【PIV】(ark. (arkaismo, arkaisme)) = ditionito (Vd (vidu) tion/).
 meta/bi/sulfit/o⟦超ᴹ/二ᴮ/硫盐ˢᴵ/o⟧:【化】【PIV】Salo de la acido H 2 S 2 O 5: natria metabisulfito estas uzata kiel antioksidanto en la farmacia industrio.
 per/sulfat/oj⟦过ᴾᴱᴿ/硫盐/oj⟧:【化】【PIV】Saloj de la nestabilaj peroksi sulfata acido, H 2 SO 5, k peroksidisulfata acido, H 2 S 2 O 8: natria persulfato, Na 2 S 2 O 8, estas iniciatanto de polimerizado en la fabrikado de iaj plastoj.
@@ -61373,8 +61373,8 @@ en/teks/it/aj^/o⟦内/织/受/物/o⟧:【PIV】Vefto.
 lau^/tekst/e⟦按/文ᵀ/e⟧:【PIV】Reproduktanta g^uste la tekston: li skribis lau^tekste jenon.
 sen/tekst/a⟦无/文ᵀ/a⟧:【PIV】(pp (se paroli pri) bildo, ario ks (kaj simile, kaj similaj)) Ne akompanata de ia teksto: sentekstaj romancoj.
 plat/tekton/ism/o⟦扁/硬木/主义/o⟧:【PIV】Teorio (tre vers^ajna), lau^ kiu la supra tavolego de Tero (litosfero) konsistas el platoj (kontinentaj k oceanaj), kiuj povas horizontale movig^i sur la astenosfero.
-radi/o/telefoni/o⟦射ᴿ/o/telefoni/o⟧:【PIV】Telefonio 1, uzanta elektromagnetajn ondojn.
-fot/o/telegrafi/o⟦拍/o/telegrafi/o⟧:【PIV】Sistemo de transsendado de bildoj per telegrafio.
+radi/o/telefoni/o⟦射ᴿ/o/远声ᵀᴵ/o⟧:【PIV】Telefonio 1, uzanta elektromagnetajn ondojn.
+fot/o/telegrafi/o⟦拍/o/远志/o⟧:【PIV】Sistemo de transsendado de bildoj per telegrafio.
 akv/o/teler/o⟦水/o/盘/o⟧:【PIV】Hidrokotilo.
 al/temp/ig/i⟦向/时/使/i⟧:【PIV】1 (pp (se paroli pri) horlog^o) Fari, ke g^i montru la g^ustan tempon. 2 (pp (se paroli pri) ago) Fari, ke g^i okazu je la g^usta, interkonsentita ks (kaj simile, kaj similaj) tempo: altempigi sian aperon sur la scenejo; altempigi sian respondon, ke g^i alvenu antau^ la kunveno.
 antau^/temp/e⟦前/时/e⟧:【PIV】Pli frue ol la normala tempo: antau^ tempe morti.
@@ -61826,7 +61826,7 @@ aer/o/glit/a⟦气/o/滑/a⟧:【PIV】(pp veturilo) Sidanta, dum sia transmovig
 unu/g^ib/a⟦一/凸/a⟧:【植】【動】【PIV】Havanta nur unu g^ibon.
 unu/harmon/a⟦一/谐ᴴᴬ/a⟧:【理】【PIV】Unuharmona oscilado estas pure sinusoida oscilado.
 du/on/his/i⟦二/分/升ᴴ/i⟧:【PIV】Hisi nur g^is la mezo de la masto, en signo de funebro.
-hidrogen/karbonat/o⟦hidrogen/碳盐/o⟧:【PIV】Acida karbonato.
+hidrogen/karbonat/o⟦水生/碳盐/o⟧:【PIV】Acida karbonato.
 ne/klar/a⟦不/清/a⟧:【PIV】Ne tute klara: la sufikso farig^as neklara nur tiam, kiam; s^i estis frapita per la esprimig^o de tio, kio g^is nun staris antau^ s^i en neklaraj konturoj; multo da sonoj aliaj, neklaraj; la infano j^etig^adis kun senc^esa tusado k neklaraj plendoj.
 tele/komunik/a⟦远/传/a⟧:【PIV】Rilata al telekomunikado: telekomunika ing^eniero, reto, satelito, scienco, servo, sistemo, tekniko, turo; telekomunikaj aferoj.
 tri/korn/a⟦三/角ᴷ/a⟧:【PIV】Havanta du, tri kornojn: dukorna c^apelo, flago.
