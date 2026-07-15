@@ -26,7 +26,7 @@ function AddSegId([string]$K,[string]$seg){
   if($used.Contains($idf)){ $alt=$null; foreach($cc in (@($ah.cons)+@($ah.all))){ if(-not $used.Contains("$h$cc")){$alt="$h$cc";break} }
     if($alt){$idf=$alt}
     else{ $cand=$h; for($z=0;$z -lt $ah.all.Count;$z++){ $cand=$cand+[string]$ah.all[$z]; if(-not $used.Contains($cand)){ break } }   # 2文字id枯渇(草メガ群等)→頭+語根後続文字の漸進プレフィックスで一意化(数字回避。_gas_identifierと同型・2026-06-26)
-      if($used.Contains($cand)){ $sfx=2; $c2="$cand$sfx"; while($used.Contains($c2)){$sfx++;$c2="$cand$sfx"}; $cand=$c2 }
+      if($used.Contains($cand)){ $sfx=2; $c2="$cand$sfx"; while($used.Contains($c2)){$sfx++;$c2="$cand$sfx"}; $cand=$c2 }   # amb行(po→草[Poa]・line→草[Linne]等)は巨大群で2文字綴りが尽き数字添字が必要。amb行は注入非適用(_inject_finalはsep/combのみ)ゆえ数字はdisp列に留まり注入出力に到達しない=害なし。注入面の数字禁止は_gas_identifier.ps1のthrow+_verify_allの数字id=0で担保。2026-07-15 監査でthrow化を検討したが po/草 amb行で実際に発火するため数字保持が正(仕様書§0.5.2のthrowは注入対象のGAS識別子のみに適用)
       $idf=$cand } }
   return $idf
 }
