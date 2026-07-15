@@ -53423,7 +53423,7 @@ Pirene/a:【PIV】Rilata al Pireneoj.
 pirenomicet/oj:【植】【PIV】Nenatura grupo de askomikotoj (responda al la eksa klaso Pyrenomycetes), kies askujoj estas peritecioj. Vd diskomicetoj.
 piretr/o⟦菊ᴾ/o⟧:【植】【PIV】1 (ark. (arkaismo, arkaisme)) G. (Genro) (Pyrethrum), nun inkludita en tanaceto. 2 Vermicido k insekticido ricevita el la sekigitaj k pulvorigitaj kapituloj de kelkaj sp-oj (specioj) de tanaceto, precipe T. cinerariaefolium el Albanio k Dalmatio.
 piretr/in/o⟦菊ᴾ/in/o⟧:【化】【PIV】(kn (kolektiva nomo)) Vermicida k insekticida substanco, ekstraktata el piretro 2 au^ duonsintezata derivaj^o de krizantemata acido.
-pir/geo/metr/o⟦火ᴾ/地ᴳ/测ᴹᴱ/o⟧:【PIV】Instrumento por mezuri la teran disradiadon.##偽分解##過細分解 p/i/r/geo/metr/o
+pir/geo/metr/o⟦火ᴾ/地ᴳ/计ᴹ/o⟧:【PIV】Instrumento por mezuri la teran disradiadon.##偽分解##過細分解 p/i/r/geo/metr/o
 pirid/o:【化】【PIV】piridino (en kunmetaj^oj).
 piridin/o:【化】【PIV】Organika, hetero-unucikla substanco, C 5 H 5 N, likvo kun tre malagrabla odoro, preparata el terkarba gudro k bazo de multaj derivaj^oj.
 piridil/o:【化】【PIV】La grupo C 5 H 4 N, derivebla el piridino.

@@ -1115,7 +1115,7 @@ al/front/i⟦向/前ᶠ/i⟧:［他］直面する,立ち向かう
 al/frost/ig^/i⟦向/霜/成/i⟧:［自］凍りつく,氷結する
 al/fund/ig^/i⟦向/底/成/i⟧:［自］沈没する,底に沈む
 algebr/a ekvaci/o⟦代数/a 方程/o⟧:【数】代数方程式
-algebr/a geometri/o⟦代数/a 地测ᴳᴵ/o⟧:代数幾何学
+algebr/a geometri/o⟦代数/a 地测/o⟧:代数幾何学
 algebr/o⟦代数/o⟧:{Ｏ}代数学
 al/glu/i⟦向/胶/i⟧:［他］はりつける;【情】貼り付ける,ペーストする
 al/glu/ig^/em/a⟦向/胶/成/倾/a⟧:粘着力のある,粘着性の,くっつきやすい
@@ -1651,7 +1651,7 @@ Anaksagor/o:【人名】アナクサゴラス（古代ギリシアの哲学者�
 analfabet/ec/o⟦无字/性/o⟧:読み書きのできないこと,非識字
 analfabet/o⟦无字/o⟧:読み書きのできない人,非識字者
 analgezi/o:【病】無痛覚症
-analitik/a geometri/o⟦析ᴬᵀ/a 地测ᴳᴵ/o⟧:解析幾何学
+analitik/a geometri/o⟦析ᴬᵀ/a 地测/o⟧:解析幾何学
 analitik/o⟦析ᴬᵀ/o⟧:【数】解析学
 analiz/a⟦析/a⟧:分析的な
 analiz/i⟦析/i⟧:{Ｏ}［他］分析する
@@ -6886,7 +6886,7 @@ dinamik/a⟦力ᴰ/a⟧:力学の,動的な
 dinamik/a elektr/o⟦力ᴰ/a 电/o⟧:【理】動電気
 dinamik/a prem/o⟦力ᴰ/a 压/o⟧:【理】動圧
 dinamik/o⟦力ᴰ/o⟧:{Ｏ}【理】力学,動力学,>>statiko,>>kinetiko,>>mekaniko
-dinamism/o⟦发电主义/o⟧:【哲】ダイナミズム,力動説,力本説
+dinamism/o⟦力主义/o⟧:【哲】ダイナミズム,力動説,力本説
 dinamit/i⟦炸ᴰ/i⟧:［他］ダイナマイトで爆破する
 dinamit/o⟦炸ᴰ/o⟧:{Ｏ}ダイナマイト
 dinam/o⟦发电/o⟧:【機】【電】発電機,>>generatoro
@@ -7968,7 +7968,7 @@ e:{Ｏ}［文字名］エー（文字E，eの名称）
 E.:［略］=Esperanto（エスペラント）
 -e:{Ｂ}［副詞語尾］
 eben/a⟦平/a⟧:{Ｂ}平らな,平坦な,>>plata;なめらかな,>>glata
-eben/a geometri/o⟦平/a 地测ᴳᴵ/o⟧:平面幾何学
+eben/a geometri/o⟦平/a 地测/o⟧:平面幾何学
 eben/aj^/a goril/o⟦平/物/a 猩/o⟧:【動】ローランドゴリラ
 eben/aj^/o⟦平/物/o⟧:平原,平地
 eben/a ond/o⟦平/a 波/o⟧:【理】平面波
@@ -10102,7 +10102,7 @@ Eu^frat/o:【地名】ユーフラテス川（西アジア）
 eu^genik/o⟦优生/o⟧:【学】優生学
 eu^kalipt/o⟦木ᴱᵀ/o⟧:{Ｏ}【植】ユーカリ（属）
 eu^karisti/o⟦圣餐ᴱ/o⟧:{Ｏ}【キ】（カトリックで）聖体の秘蹟（ひせき）,（プロテスタントで）聖餐（せいさん）
-eu^klid/a geometri/o⟦eu^klid/a 地测ᴳᴵ/o⟧:ユークリッド幾何学
+eu^klid/a geometri/o⟦eu^klid/a 地测/o⟧:ユークリッド幾何学
 Eu^klid/o:【人名】ユークリッド（古代ギリシアの数学者）
 eu^nuk/o:{Ｏ}【史】宦官（かんがん）,>>kastrito
 Eu^razi/o:【地名】ユーラシア大陸
@@ -12823,17 +12823,17 @@ geologi/a epok/o⟦地学/a 纪/o⟧:【地質】地質時代
 geologi/a map/o⟦地学/a 图/o⟧:【地質】地質図
 geologi/o⟦地学/o⟧:{Ｏ}地質学;地質
 geolog/o⟦地学家/o⟧:{Ｏ}地質学者
-geometr/ed/oj⟦地测/科ᴱ/oj⟧:【虫】シャクガ科
-geometri/a⟦地测ᴳᴵ/a⟧:幾何学の;幾何学的な;幾何級数的な
-geometri/a desegn/aj^/o⟦地测ᴳᴵ/a 绘/物/o⟧:設計図
-geometri/a mez/nombr/o⟦地测ᴳᴵ/a 中/数/o⟧:【数】幾何平均,相乗平均
-geometri/a optik/o⟦地测ᴳᴵ/a 光学/o⟧:【理】幾何光学
-geometri/a progresi/o⟦地测ᴳᴵ/a 进ᴾᴵ/o⟧:【数】幾何数列,=geometria vico
-geometri/a seri/o⟦地测ᴳᴵ/a 列ˢ/o⟧:【数】幾何級数
-geometri/a vic/o⟦地测ᴳᴵ/a 列/o⟧:【数】幾何数列,等比数列
-geometri/o⟦地测ᴳᴵ/o⟧:{Ｏ}幾何学
-geometr/o⟦地测/o⟧:{Ｏ}幾何学者,測量技師
-geometr/o⟦地测/o⟧:【虫】シャクガ（属）;シャクトリムシ（尺取虫）（シャクガの幼虫）
+geometr/ed/oj⟦地测ᴳᴱ/科ᴱ/oj⟧:【虫】シャクガ科
+geometri/a⟦地测/a⟧:幾何学の;幾何学的な;幾何級数的な
+geometri/a desegn/aj^/o⟦地测/a 绘/物/o⟧:設計図
+geometri/a mez/nombr/o⟦地测/a 中/数/o⟧:【数】幾何平均,相乗平均
+geometri/a optik/o⟦地测/a 光学/o⟧:【理】幾何光学
+geometri/a progresi/o⟦地测/a 进ᴾᴵ/o⟧:【数】幾何数列,=geometria vico
+geometri/a seri/o⟦地测/a 列ˢ/o⟧:【数】幾何級数
+geometri/a vic/o⟦地测/a 列/o⟧:【数】幾何数列,等比数列
+geometri/o⟦地测/o⟧:{Ｏ}幾何学
+geometr/o⟦地测ᴳᴱ/o⟧:{Ｏ}幾何学者,測量技師
+geometr/o⟦地测ᴳᴱ/o⟧:【虫】シャクガ（属）;シャクトリムシ（尺取虫）（シャクガの幼虫）
 georgin/o:《古》【植】=dalio（ダリア）
 Georgi/o:【地名】ジョージア州（米国）
 Georg/o:{Ｏ}（男子名）ゲオルグ,ジョージ,ジョルジュ
@@ -16101,7 +16101,7 @@ Izer/o:【地名】イゼール川（フランス）
 Izmir/o:【地名】イズミール（旧称スミルナ，トルコ）
 izobar/o⟦等压/o⟧:【気】等圧線;【理】同重体
 izocel/a:【数】（三角形が）二等辺の
-izodinam/o⟦等发电/o⟧:【理】等力線
+izodinam/o⟦等力/o⟧:【理】等力線
 izokron/a⟦等时/a⟧:【理】等時性の
 izokron/ec/o⟦等时/性/o⟧:【理】等時性
 izol/a⟦隔/a⟧:=izolita（孤立した）
@@ -32041,7 +32041,7 @@ pri/sem/i⟦于/种/i⟧:［他］（〜に）種をまく,ばらまく
 pri/serc^/i⟦于/寻/i⟧:［他］（場所を）捜す,探る,調べる
 pri/serv/i⟦于/务/i⟧:［他］（身を捧げて）世話をする
 pri/silent/i⟦于/默/i⟧:［他］言わずに黙っている
-pri/skrib/a geometri/o⟦于/书ˢ/a 地测ᴳᴵ/o⟧:画法幾何学
+pri/skrib/a geometri/o⟦于/书ˢ/a 地测/o⟧:画法幾何学
 pri/skrib/a gramatik/o⟦于/书ˢ/a 语法/o⟧:【語】記述文法
 pri/skrib/i⟦于/书ˢ/i⟧:［他］記述する,描写する
 pri/skrib/it/a⟦于/书ˢ/受/a⟧:記述された
@@ -37462,7 +37462,7 @@ Sovet/uj/o:【史】=>Sovetio（ソ連）
 Sovet/uni/o:【史】=>Sovet-Unio（ソビエト連邦）
 Sovet-Uni/o:【史】ソビエト連邦,ソ連,=Sovetio
 sozi/o⟦替身/o⟧:《Ｎ》ドッペルゲンガー,うり二つの人,>>duulo
-spac/a geometri/o⟦空/a 地测ᴳᴵ/o⟧:立体幾何学
+spac/a geometri/o⟦空/a 地测/o⟧:立体幾何学
 spac/eg/o⟦空/巨/o⟧:虚空
 spac/et/o⟦空/小/o⟧:【印】スペース
 spac/kajut/o⟦空/舱/o⟧:宇宙カプセル,=spackapsulo

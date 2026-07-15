@@ -7263,8 +7263,8 @@
   kadastr        地籍ᴷᴰ       F=1     pejvo   
 
 【地测】 2件
-  geometr        地测         F=1     piv     
-  geometri       地测ᴳᴵ       F=1     piv     
+  geometri       地测         F=1     piv     
+  geometr        地测ᴳᴱ       F=1     piv     
 
 【地记】 2件
   geograf        地记         F=1     piv     
