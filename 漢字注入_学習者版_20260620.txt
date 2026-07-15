@@ -6886,11 +6886,11 @@ dinamik/a⟦力ᴰ/a⟧:力学の,動的な
 dinamik/a elektr/o⟦力ᴰ/a 电/o⟧:【理】動電気
 dinamik/a prem/o⟦力ᴰ/a 压/o⟧:【理】動圧
 dinamik/o⟦力ᴰ/o⟧:{Ｏ}【理】力学,動力学,>>statiko,>>kinetiko,>>mekaniko
-dinam/ism/o⟦发电/主义/o⟧:【哲】ダイナミズム,力動説,力本説##偽分解
+dinam/ism/o⟦力ᴰᴵ/主义/o⟧:【哲】ダイナミズム,力動説,力本説##偽分解
 dinamit/i⟦炸ᴰ/i⟧:［他］ダイナマイトで爆破する
 dinamit/o⟦炸ᴰ/o⟧:{Ｏ}ダイナマイト
 dinam/o⟦发电/o⟧:【機】【電】発電機,>>generatoro
-dinam/o/metr/o⟦发电/o/计ᴹ/o⟧:{Ｏ}【機】動力計;《般》力量計,筋力計##偽分解
+dinam/o/metr/o⟦力ᴰᴵ/o/计ᴹ/o⟧:{Ｏ}【機】動力計;《般》力量計,筋力計##偽分解
 dinamotor/o:【電】発電動機
 Dinar/aj Alp/oj:【地名】ディナル・アルプス山脈（ボスニア・ヘルツェゴビナ）
 dinar/o:【貨】ディナール（イラク・旧ユーゴスラビアなど）
@@ -8899,8 +8899,8 @@ elektr/o/au^t/o⟦电/o/车/o⟧:電気自動車
 elektr/o/central/o⟦电/o/央ᶜᴸ/o⟧:発電所,=centralo
 elektr/o/dinamik/a⟦电/o/力ᴰ/a⟧:【理】電気力学の
 elektr/o/dinamik/o⟦电/o/力ᴰ/o⟧:【理】電気力学
-elektr/o/dinam/ism/o⟦电/o/发电/主义/o⟧:【理】動電現象;=elektrodinamiko（電気力学）##偽分解
-elektr/o/dinam/o/metr/o⟦电/o/发电/o/计ᴹ/o⟧:【理】電流力計##偽分解
+elektr/o/dinam/ism/o⟦电/o/力ᴰᴵ/主义/o⟧:【理】動電現象;=elektrodinamiko（電気力学）##偽分解
+elektr/o/dinam/o/metr/o⟦电/o/力ᴰᴵ/o/计ᴹ/o⟧:【理】電流力計##偽分解
 elektrod/o⟦极ᴱᴸ/o⟧:【理】電極,>>katodo,>>anodo
 elektr/o/ekzekut/i⟦电/o/执/i⟧:［他］電気死刑にする
 elektr/o/energi/o⟦电/o/能ᴱ/o⟧:電気エネルギー
@@ -12823,7 +12823,7 @@ geo/logi/a epok/o⟦地ᴳ/学ᴸᴳ/a 纪/o⟧:【地質】地質時代##偽分
 geo/logi/a map/o⟦地ᴳ/学ᴸᴳ/a 图/o⟧:【地質】地質図##偽分解
 geo/logi/o⟦地ᴳ/学ᴸᴳ/o⟧:{Ｏ}地質学;地質##偽分解
 geo/log/o⟦地ᴳ/学家/o⟧:{Ｏ}地質学者##偽分解
-geo/metr/ed/oj⟦地ᴳ/计ᴹ/科ᴱ/oj⟧:【虫】シャクガ科##偽分解
+geo/metr/ed/oj⟦地ᴳ/测ᴹᴱ/科ᴱ/oj⟧:【虫】シャクガ科##偽分解
 geo/metri/a⟦地ᴳ/测ᴹᵀ/a⟧:幾何学の;幾何学的な;幾何級数的な##偽分解
 geo/metri/a desegn/aj^/o⟦地ᴳ/测ᴹᵀ/a 绘/物/o⟧:設計図##偽分解
 geo/metri/a mez/nombr/o⟦地ᴳ/测ᴹᵀ/a 中/数/o⟧:【数】幾何平均,相乗平均##偽分解
@@ -12832,8 +12832,8 @@ geo/metri/a progresi/o⟦地ᴳ/测ᴹᵀ/a 进ᴾᴵ/o⟧:【数】幾何数列
 geo/metri/a seri/o⟦地ᴳ/测ᴹᵀ/a 列ˢ/o⟧:【数】幾何級数##偽分解
 geo/metri/a vic/o⟦地ᴳ/测ᴹᵀ/a 列/o⟧:【数】幾何数列,等比数列##偽分解
 geo/metri/o⟦地ᴳ/测ᴹᵀ/o⟧:{Ｏ}幾何学##偽分解
-geo/metr/o⟦地ᴳ/米/o⟧:{Ｏ}幾何学者,測量技師##偽分解
-geo/metr/o⟦地ᴳ/米/o⟧:【虫】シャクガ（属）;シャクトリムシ（尺取虫）（シャクガの幼虫）##偽分解
+geo/metr/o⟦地ᴳ/测ᴹᴱ/o⟧:{Ｏ}幾何学者,測量技師##偽分解
+geo/metr/o⟦地ᴳ/测ᴹᴱ/o⟧:【虫】シャクガ（属）;シャクトリムシ（尺取虫）（シャクガの幼虫）##偽分解
 georgin/o:《古》【植】=dalio（ダリア）
 Georgi/o:【地名】ジョージア州（米国）
 Georg/o:{Ｏ}（男子名）ゲオルグ,ジョージ,ジョルジュ
@@ -16101,7 +16101,7 @@ Izer/o:【地名】イゼール川（フランス）
 Izmir/o:【地名】イズミール（旧称スミルナ，トルコ）
 izo/bar/o⟦等ᴵ/压ᴮ/o⟧:【気】等圧線;【理】同重体##偽分解(PIV正式分解)
 izocel/a:【数】（三角形が）二等辺の
-izo/dinam/o⟦等ᴵ/发电/o⟧:【理】等力線##偽分解(PIV正式分解)
+izo/dinam/o⟦等ᴵ/力ᴰᴵ/o⟧:【理】等力線##偽分解(PIV正式分解)
 izo/kron/a⟦等ᴵ/时ᴷ/a⟧:【理】等時性の##偽分解##過細分解 izo/k/r/o/n/a
 izo/kron/ec/o⟦等ᴵ/时ᴷ/性/o⟧:【理】等時性##偽分解##過細分解 izo/k/r/o/n/ec/o
 izol/a⟦隔/a⟧:=izolita（孤立した）
@@ -53423,7 +53423,7 @@ Pirene/a:【PIV】Rilata al Pireneoj.
 pirenomicet/oj:【植】【PIV】Nenatura grupo de askomikotoj (responda al la eksa klaso Pyrenomycetes), kies askujoj estas peritecioj. Vd diskomicetoj.
 piretr/o⟦菊ᴾ/o⟧:【植】【PIV】1 (ark. (arkaismo, arkaisme)) G. (Genro) (Pyrethrum), nun inkludita en tanaceto. 2 Vermicido k insekticido ricevita el la sekigitaj k pulvorigitaj kapituloj de kelkaj sp-oj (specioj) de tanaceto, precipe T. cinerariaefolium el Albanio k Dalmatio.
 piretr/in/o⟦菊ᴾ/in/o⟧:【化】【PIV】(kn (kolektiva nomo)) Vermicida k insekticida substanco, ekstraktata el piretro 2 au^ duonsintezata derivaj^o de krizantemata acido.
-pir/geo/metr/o⟦火ᴾ/地ᴳ/计ᴹ/o⟧:【PIV】Instrumento por mezuri la teran disradiadon.##偽分解##過細分解 p/i/r/geo/metr/o
+pir/geo/metr/o⟦火ᴾ/地ᴳ/测ᴹᴱ/o⟧:【PIV】Instrumento por mezuri la teran disradiadon.##偽分解##過細分解 p/i/r/geo/metr/o
 pirid/o:【化】【PIV】piridino (en kunmetaj^oj).
 piridin/o:【化】【PIV】Organika, hetero-unucikla substanco, C 5 H 5 N, likvo kun tre malagrabla odoro, preparata el terkarba gudro k bazo de multaj derivaj^oj.
 piridil/o:【化】【PIV】La grupo C 5 H 4 N, derivebla el piridino.

@@ -3780,6 +3780,12 @@
   fizionomi      相ᶠᴺ        F=2     pejvo   
   vezir          相ⱽ         F=2     pejvo   
 
+【藻藻】 4件
+  fukofic        藻藻         F=1     piv     
+  bangific       藻藻ᴮ        F=1     piv     
+  bangiofic      藻藻ᴮᴼ       F=1     piv     
+  ulvofic        藻藻ᵁ        F=1     piv     
+
 【替】 4件
   altern         替          F=20    basic   
   alternativ     替ᴬᵀ        F=0     basic   
@@ -5663,6 +5669,11 @@
   tumor          瘤ᵀ         F=7     pejvo   
   varik          瘤ⱽᴬ        F=4     pejvo   
 
+【盒】 3件
+  skatol         盒          F=16    basic   
+  kased          盒ᴷ         F=7     basic   
+  kaset          盒ᴷᵀ        F=1     piv     
+
 【穗】 3件
   spik           穗          F=7     basic   
   kvast          穗ᴷ         F=2     pejvo   
@@ -7251,6 +7262,10 @@
   katastr        地籍         F=3     pejvo   
   kadastr        地籍ᴷᴰ       F=1     pejvo   
 
+【地测】 2件
+  geometr        地测         F=1     piv     
+  geometri       地测ᴳᴵ       F=1     piv     
+
 【地记】 2件
   geograf        地记         F=1     piv     
   topograf       地记ᵀ        F=1     piv     
@@ -8106,10 +8121,6 @@
 【瓣】 2件
   klap           瓣          F=25    pejvo   
   petal          瓣ᴾ         F=14    pejvo   
-
-【盒】 2件
-  skatol         盒          F=16    basic   
-  kased          盒ᴷ         F=7     basic   
 
 【碎】 2件
   frakas         碎          F=7     basic   

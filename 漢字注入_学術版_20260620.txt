@@ -584,7 +584,7 @@ agnat/o:【法】父方の親族,><kognato
 agnosk/i⟦认ᴬ/i⟧:［他］（公に）認める,認可する,認知する
 agnosk/it/a⟦认ᴬ/受/a⟧:認可された,公認の
 agnosk/o⟦认ᴬ/o⟧:認可,公認
-agnostikism/o:【哲】不可知論
+agnostikism/o⟦不可知主义/o⟧:【哲】不可知論
 ag/o⟦办/o⟧:動作,行為,ふるまい;【理】作用
 ag/o/dev/o⟦办/o/应/o⟧:=devo（義務）
 ag/o/faktor/o⟦办/o/因ᶠ/o⟧:【理】力率,>>povumo
@@ -1115,7 +1115,7 @@ al/front/i⟦向/前ᶠ/i⟧:［他］直面する,立ち向かう
 al/frost/ig^/i⟦向/霜/成/i⟧:［自］凍りつく,氷結する
 al/fund/ig^/i⟦向/底/成/i⟧:［自］沈没する,底に沈む
 algebr/a ekvaci/o⟦代数/a 方程/o⟧:【数】代数方程式
-algebr/a geometri/o⟦代数/a 地测/o⟧:代数幾何学
+algebr/a geometri/o⟦代数/a 地测ᴳᴵ/o⟧:代数幾何学
 algebr/o⟦代数/o⟧:{Ｏ}代数学
 al/glu/i⟦向/胶/i⟧:［他］はりつける;【情】貼り付ける,ペーストする
 al/glu/ig^/em/a⟦向/胶/成/倾/a⟧:粘着力のある,粘着性の,くっつきやすい
@@ -1651,7 +1651,7 @@ Anaksagor/o:【人名】アナクサゴラス（古代ギリシアの哲学者�
 analfabet/ec/o⟦无字/性/o⟧:読み書きのできないこと,非識字
 analfabet/o⟦无字/o⟧:読み書きのできない人,非識字者
 analgezi/o:【病】無痛覚症
-analitik/a geometri/o⟦析ᴬᵀ/a 地测/o⟧:解析幾何学
+analitik/a geometri/o⟦析ᴬᵀ/a 地测ᴳᴵ/o⟧:解析幾何学
 analitik/o⟦析ᴬᵀ/o⟧:【数】解析学
 analiz/a⟦析/a⟧:分析的な
 analiz/i⟦析/i⟧:{Ｏ}［他］分析する
@@ -2031,7 +2031,7 @@ antipati/o⟦抗情/o⟧:{Ｏ}反感,毛嫌い
 antipirin/o:【薬】アンチピリン
 antipod/a⟦抗足/a⟧:【地理】対蹠的な;《転》正反対の
 antipod/o⟦抗足/o⟧:{Ｏ}【地理】対蹠地（たいせきち）
-antiproton/o:【理】反陽子
+antiproton/o⟦抗质子子/o⟧:【理】反陽子
 antirin/o:【植】キンギョソウ（金魚草）（属）
 antisemit/a:反ユダヤの,ユダヤ人排斥の
 antisemit/ism/o⟦antisemit/主义/o⟧:反ユダヤ主義
@@ -6890,7 +6890,7 @@ dinamism/o⟦发电主义/o⟧:【哲】ダイナミズム,力動説,力本説
 dinamit/i⟦炸ᴰ/i⟧:［他］ダイナマイトで爆破する
 dinamit/o⟦炸ᴰ/o⟧:{Ｏ}ダイナマイト
 dinam/o⟦发电/o⟧:【機】【電】発電機,>>generatoro
-dinamometr/o:{Ｏ}【機】動力計;《般》力量計,筋力計
+dinamometr/o⟦力计/o⟧:{Ｏ}【機】動力計;《般》力量計,筋力計
 dinamotor/o:【電】発電動機
 Dinar/aj Alp/oj:【地名】ディナル・アルプス山脈（ボスニア・ヘルツェゴビナ）
 dinar/o:【貨】ディナール（イラク・旧ユーゴスラビアなど）
@@ -7832,7 +7832,7 @@ du/obl/ig/i⟦二/倍/使/i⟧:［他］二倍にする
 du/obl/ig^/i⟦二/倍/成/i⟧:［自］二倍になる
 du/obl/o⟦二/倍/o⟧:二倍の数,二倍の量
 duoden/a ulcer/o⟦十二指肠/a 疮/o⟧:【病】十二指腸潰瘍（かいよう）
-duodenit/o:【病】十二指腸炎
+duodenit/o⟦十二指肠炎/o⟧:【病】十二指腸炎
 duoden/o⟦十二指肠/o⟧:【解】十二指腸,>>maldika intesto
 du/on-⟦二/分⟧:［接頭辞］（半分・中途を示す）
 du/on/a⟦二/分/a⟧:半分の,二分の一の
@@ -7968,7 +7968,7 @@ e:{Ｏ}［文字名］エー（文字E，eの名称）
 E.:［略］=Esperanto（エスペラント）
 -e:{Ｂ}［副詞語尾］
 eben/a⟦平/a⟧:{Ｂ}平らな,平坦な,>>plata;なめらかな,>>glata
-eben/a geometri/o⟦平/a 地测/o⟧:平面幾何学
+eben/a geometri/o⟦平/a 地测ᴳᴵ/o⟧:平面幾何学
 eben/aj^/a goril/o⟦平/物/a 猩/o⟧:【動】ローランドゴリラ
 eben/aj^/o⟦平/物/o⟧:平原,平地
 eben/a ond/o⟦平/a 波/o⟧:【理】平面波
@@ -8899,8 +8899,8 @@ elektr/o/au^t/o⟦电/o/车/o⟧:電気自動車
 elektr/o/central/o⟦电/o/央ᶜᴸ/o⟧:発電所,=centralo
 elektr/o/dinamik/a⟦电/o/力ᴰ/a⟧:【理】電気力学の
 elektr/o/dinamik/o⟦电/o/力ᴰ/o⟧:【理】電気力学
-elektrodinamism/o:【理】動電現象;=elektrodinamiko（電気力学）
-elektr/o/dinamometr/o⟦电/o/dinamometr/o⟧:【理】電流力計
+elektrodinamism/o⟦电力主义/o⟧:【理】動電現象;=elektrodinamiko（電気力学）
+elektr/o/dinamometr/o⟦电/o/力计/o⟧:【理】電流力計
 elektrod/o⟦极ᴱᴸ/o⟧:【理】電極,>>katodo,>>anodo
 elektr/o/ekzekut/i⟦电/o/执/i⟧:［他］電気死刑にする
 elektr/o/energi/o⟦电/o/能ᴱ/o⟧:電気エネルギー
@@ -10102,7 +10102,7 @@ Eu^frat/o:【地名】ユーフラテス川（西アジア）
 eu^genik/o⟦优生/o⟧:【学】優生学
 eu^kalipt/o⟦木ᴱᵀ/o⟧:{Ｏ}【植】ユーカリ（属）
 eu^karisti/o⟦圣餐ᴱ/o⟧:{Ｏ}【キ】（カトリックで）聖体の秘蹟（ひせき）,（プロテスタントで）聖餐（せいさん）
-eu^klid/a geometri/o⟦eu^klid/a 地测/o⟧:ユークリッド幾何学
+eu^klid/a geometri/o⟦eu^klid/a 地测ᴳᴵ/o⟧:ユークリッド幾何学
 Eu^klid/o:【人名】ユークリッド（古代ギリシアの数学者）
 eu^nuk/o:{Ｏ}【史】宦官（かんがん）,>>kastrito
 Eu^razi/o:【地名】ユーラシア大陸
@@ -11025,7 +11025,7 @@ film/festival/o⟦影ᶠ/庆ᶠⱽ/o⟧:映画祭
 film/i⟦影ᶠ/i⟧:［他］映画にとる,撮影する
 film/il/o⟦影ᶠ/具/o⟧:映画用カメラ,撮影機,>>kamerao
 film/ist/o⟦影ᶠ/家/o⟧:映画関係者,>>kameraisto,>>reg^isoro,>>direktoro,>>scenaristo
-film/kaset/o⟦影ᶠ/kaset/o⟧:【写】フィルム取枠（とりわく）,>>kaseto
+film/kaset/o⟦影ᶠ/盒ᴷᵀ/o⟧:【写】フィルム取枠（とりわく）,>>kaseto
 film/lud/i⟦影ᶠ/玩/i⟧:［自］映画に出る,出演する
 film/o⟦影ᶠ/o⟧:{Ｂ}（写真や映画の）フィルム;映画（個々の作品）
 film/o/boben/o⟦影ᶠ/o/圈/o⟧:【映】【写】スプール（フィルムの巻き枠）
@@ -12823,17 +12823,17 @@ geologi/a epok/o⟦地学/a 纪/o⟧:【地質】地質時代
 geologi/a map/o⟦地学/a 图/o⟧:【地質】地質図
 geologi/o⟦地学/o⟧:{Ｏ}地質学;地質
 geolog/o⟦地学家/o⟧:{Ｏ}地質学者
-geometr/ed/oj⟦geometr/科ᴱ/oj⟧:【虫】シャクガ科
-geometri/a⟦地测/a⟧:幾何学の;幾何学的な;幾何級数的な
-geometri/a desegn/aj^/o⟦地测/a 绘/物/o⟧:設計図
-geometri/a mez/nombr/o⟦地测/a 中/数/o⟧:【数】幾何平均,相乗平均
-geometri/a optik/o⟦地测/a 光学/o⟧:【理】幾何光学
-geometri/a progresi/o⟦地测/a 进ᴾᴵ/o⟧:【数】幾何数列,=geometria vico
-geometri/a seri/o⟦地测/a 列ˢ/o⟧:【数】幾何級数
-geometri/a vic/o⟦地测/a 列/o⟧:【数】幾何数列,等比数列
-geometri/o⟦地测/o⟧:{Ｏ}幾何学
-geometr/o:{Ｏ}幾何学者,測量技師
-geometr/o:【虫】シャクガ（属）;シャクトリムシ（尺取虫）（シャクガの幼虫）
+geometr/ed/oj⟦地测/科ᴱ/oj⟧:【虫】シャクガ科
+geometri/a⟦地测ᴳᴵ/a⟧:幾何学の;幾何学的な;幾何級数的な
+geometri/a desegn/aj^/o⟦地测ᴳᴵ/a 绘/物/o⟧:設計図
+geometri/a mez/nombr/o⟦地测ᴳᴵ/a 中/数/o⟧:【数】幾何平均,相乗平均
+geometri/a optik/o⟦地测ᴳᴵ/a 光学/o⟧:【理】幾何光学
+geometri/a progresi/o⟦地测ᴳᴵ/a 进ᴾᴵ/o⟧:【数】幾何数列,=geometria vico
+geometri/a seri/o⟦地测ᴳᴵ/a 列ˢ/o⟧:【数】幾何級数
+geometri/a vic/o⟦地测ᴳᴵ/a 列/o⟧:【数】幾何数列,等比数列
+geometri/o⟦地测ᴳᴵ/o⟧:{Ｏ}幾何学
+geometr/o⟦地测/o⟧:{Ｏ}幾何学者,測量技師
+geometr/o⟦地测/o⟧:【虫】シャクガ（属）;シャクトリムシ（尺取虫）（シャクガの幼虫）
 georgin/o:《古》【植】=dalio（ダリア）
 Georgi/o:【地名】ジョージア州（米国）
 Georg/o:{Ｏ}（男子名）ゲオルグ,ジョージ,ジョルジュ
@@ -17428,7 +17428,7 @@ kased/o⟦盒ᴷ/o⟧:{Ｏ}カセット,カセットテープ
 kas/ej/o⟦库/所/o⟧:帳場,会計課
 kaserol/o⟦锅ᴷˢ/o⟧:{Ｂ}【料】キャセロール,シチュー鍋,ソースパン（柄付きの深い平底鍋）
 kaserol/sub/ten/il/o⟦锅ᴷˢ/下/持/具/o⟧:【料】（こんろ用の）金網,=flamreto
-kaset/o:【写】取枠（とりわく）（撮影時に乾板やフィルムを入れる遮光ケース）
+kaset/o⟦盒ᴷᵀ/o⟧:【写】取枠（とりわく）（撮影時に乾板やフィルムを入れる遮光ケース）
 kas/et/o⟦库/小/o⟧:手提げ金庫
 Kasiope/o:【天】カシオペヤ座
 kas/ist/o⟦库/家/o⟧:会計係,出納係
@@ -32041,7 +32041,7 @@ pri/sem/i⟦于/种/i⟧:［他］（〜に）種をまく,ばらまく
 pri/serc^/i⟦于/寻/i⟧:［他］（場所を）捜す,探る,調べる
 pri/serv/i⟦于/务/i⟧:［他］（身を捧げて）世話をする
 pri/silent/i⟦于/默/i⟧:［他］言わずに黙っている
-pri/skrib/a geometri/o⟦于/书ˢ/a 地测/o⟧:画法幾何学
+pri/skrib/a geometri/o⟦于/书ˢ/a 地测ᴳᴵ/o⟧:画法幾何学
 pri/skrib/a gramatik/o⟦于/书ˢ/a 语法/o⟧:【語】記述文法
 pri/skrib/i⟦于/书ˢ/i⟧:［他］記述する,描写する
 pri/skrib/it/a⟦于/书ˢ/受/a⟧:記述された
@@ -32428,7 +32428,7 @@ protokanajl/o⟦原恶棍/o⟧:大悪党,元凶
 protokol/i⟦录ᴾ/i⟧:［自］議事録を作る,議定書を作る
 protokol/libr/o⟦录ᴾ/书/o⟧:議事録簿
 protokol/o⟦录ᴾ/o⟧:{Ｏ}議事録,調書,議定書;【情】ログ,運転記録;【情】プロトコル,通信規約
-proton/o:【理】陽子,>>atomo,>>elektrono,>>neu^trono
+proton/o⟦质子子/o⟧:【理】陽子,>>atomo,>>elektrono,>>neu^trono
 protoplasm/o⟦原浆/o⟧:【生】原形質
 prototip/o⟦原型/o⟧:{Ｏ}原型,基本型,=pratipo;【機】試作品,プロトタイプ
 protozo/oj⟦原兽/oj⟧:【動】原生動物（門）
@@ -37462,7 +37462,7 @@ Sovet/uj/o:【史】=>Sovetio（ソ連）
 Sovet/uni/o:【史】=>Sovet-Unio（ソビエト連邦）
 Sovet-Uni/o:【史】ソビエト連邦,ソ連,=Sovetio
 sozi/o⟦替身/o⟧:《Ｎ》ドッペルゲンガー,うり二つの人,>>duulo
-spac/a geometri/o⟦空/a 地测/o⟧:立体幾何学
+spac/a geometri/o⟦空/a 地测ᴳᴵ/o⟧:立体幾何学
 spac/eg/o⟦空/巨/o⟧:虚空
 spac/et/o⟦空/小/o⟧:【印】スペース
 spac/kajut/o⟦空/舱/o⟧:宇宙カプセル,=spackapsulo
@@ -45636,8 +45636,8 @@ banderil/o:【PIV】Pikilo kun rubandoj, kiun la toreistoj enpikas en la dorson 
 bandolier/o⟦带ᴮᴺ/o⟧:【PIV】= balteo.
 bangal/o:【建】【PIV】Malalta, memstara, ordinare teretag^a domo, ofte kun verando: bangalo estas tipa somerlog^ejo de Eu^ropanoj en Hindio.
 bangi/o⟦藻ᴮ/o⟧:【植】【PIV】G. (Genro) (Bangia el bangiacoj), kosmopolita, de multaj, g^enerale maraj, filamentaj rug^algoj.
-bangific/oj:【植】【PIV】Klaso (Bangiophyceae el rodofitoj) de rug^algoj lau^strukture relative simplaj, unuc^elaj, filamentaj au^ foliecaj, al kiu apartenas i.a. (interalie, inter aliaj) bangio k porfuro.
-bangiofic/oj:【植】【PIV】Klaso (Bangiophyceae el rodofitoj) de rug^algoj lau^strukture relative simplaj, unuc^elaj, filamentaj au^ foliecaj, al kiu apartenas i.a. (interalie, inter aliaj) bangio k porfuro.
+bangific/oj⟦藻藻ᴮ/oj⟧:【植】【PIV】Klaso (Bangiophyceae el rodofitoj) de rug^algoj lau^strukture relative simplaj, unuc^elaj, filamentaj au^ foliecaj, al kiu apartenas i.a. (interalie, inter aliaj) bangio k porfuro.
+bangiofic/oj⟦藻藻ᴮᴼ/oj⟧:【植】【PIV】Klaso (Bangiophyceae el rodofitoj) de rug^algoj lau^strukture relative simplaj, unuc^elaj, filamentaj au^ foliecaj, al kiu apartenas i.a. (interalie, inter aliaj) bangio k porfuro.
 bang^/o:【楽】【PIV】Platdorsa kordinstrumento kun sontabulo el strec^ita pergameno, kun fretoj; ludata fingre au^ plektre.
 banjan/o⟦木ᴮᴺ/o⟧:【植】【PIV】Sp. (Specio) de fikuso (Bengala fikuso) el Hindio k Pakistano, arbo kies branc^oj mem reenradikig^as, sankta por hinduoj.
 bank/a⟦银ᴮ/a⟧:【PIV】Rilata al banko 1: banka firmo, bileto.
@@ -47234,7 +47234,7 @@ endo/⟦内ᴱᴰ/⟧:【PIV】Pref. (Prefikso), signifanta «interne de»: endo
 endoderm/o⟦内皮/o⟧:【生】【PIV】1 Interna c^eltavolo de la embrio, kiu aperas c^e la gastrulo: el endodermo devenas la nutrokanalo k ties glandoj. Vd ektodermo, mezodermo. 2【植】 (pp (se paroli pri) radiko de vaskulplantoj) La plej interna c^eltavolo de la kortika parenkimo: endodermo rolas en la lau^radia cirkulado de la alsupra sevo.
 endogami/o⟦内配/o⟧:【PIV】1 Moro, deviganta la membrojn de klano edzig^i interne de sia klano. 2【生】 Reproduktig^o inter la individuoj de grupo apartenanta al iu specio, sen partopreno de la individuoj eksteraj al tiu grupo. Vd ekzogamio.
 endogen/a⟦内生/a⟧:【生】【医】【地質】【PIV】Interndevena; formig^anta au^ okazanta en la interno de organo, de c^elo, de organismo au^ de Tero: endogena toksig^o s^uldig^as al toksoj, produktitaj en la organismo mem; endogena fenomeno. Vd ekzogena.
-endokrinolog/o:【PIV】Specialisto pri endokrinologio.
+endokrinolog/o⟦内分泌学家/o⟧:【PIV】Specialisto pri endokrinologio.
 endokrinologi/o⟦内分泌学/o⟧:【PIV】Studo de la endokrinaj glandoj, de iliaj perturboj k de la malsanoj kau^zataj de tiuj c^i.
 endomorfi/o⟦内形/o⟧:【数】【PIV】Homomorfio de objekto al g^i mem.
 endorfin/o:【生】【PIV】Peptido, produktata de iuj neu^ronoj de encefalo, kiu inhibas la dolorsenton.
@@ -48087,7 +48087,7 @@ ftir/o⟦虫ᶠ/o⟧:【動】【PIV】G. (Genro) (Phthirus) de insektoj el la o
 fu!:【PIV】Interj. (Interjekcio): 1 uzata por esprimi detenatan ridon: iafoje c^ambristino enmontrig^as tia... fu! fu! fu! . 2 = uf!
 fuel/o⟦燃ᶠ/o⟧:【技】【PIV】Solida, likva au^ gasa substanco el kiu, per kemia au^ fizika reakcio, energio estas liberigebla: karbo, benzino, petrolo, mazuto, tergaso k uranio estas fueloj. Vd brulaj^o.
 fug^/ig/i⟦逃/使/i⟧:【PIV】Kau^zi, ke iu fug^as: la pesto fug^igis la popolon.
-fukofic/oj:【植】【PIV】Klaso (Fucophyceae el feofitoj) de brunalgoj.
+fukofic/oj⟦藻藻/oj⟧:【植】【PIV】Klaso (Fucophyceae el feofitoj) de brunalgoj.
 ful/ist/o⟦缩/家/o⟧:【PIV】Laboristo pri fulado: li estas kiel la fajro de la fandisto k kiel la sapo de la fulistoj .
 fuleren/o:【化】【PIV】Sfera karbona molekulo, C 60, trovita en fulgo: fulereno k ties analogoj havas novajn, promesplenajn kemiajn, biokemiajn, k elektronikajn ecojn. Vd nanotubo.
 fulgor/o⟦蜡蝉/o⟧:【動】【PIV】G. (Genro) (Fulgora) de insektoj el la ordo de hemipteroj kun lamposimila kapo, sed ne lumanta.
@@ -52010,7 +52010,7 @@ migr/em/o⟦迁/倾/o⟧:【PIV】Inklino al migrado.
 mihrab/o:【PIV】= h^ornic^o.
 mijoz/o:【医】【PIV】Kn (Kolektiva nomo) de afekcioj kau^zataj de diversaj mus^oj au^ iliaj larvoj: hau^ta mijozo.
 Mikael/o:【PIV】Mih^aelo.
-mikobakteri/o:【生】【PIV】G. (Genro) (Mycobacterium el aktinomicetoj) de eu^bakterioj, ofte aspektantaj kiel baciloj, ekz. (ekzemple) M. tuberculosis (Koh^a «bacilo»), aganto de la homa tuberkulozo, k M. leprae, aganto de la lepro.
+mikobakteri/o⟦菌菌/o⟧:【生】【PIV】G. (Genro) (Mycobacterium el aktinomicetoj) de eu^bakterioj, ofte aspektantaj kiel baciloj, ekz. (ekzemple) M. tuberculosis (Koh^a «bacilo»), aganto de la homa tuberkulozo, k M. leprae, aganto de la lepro.
 mikolog/o⟦菌学家/o⟧:【植】【PIV】Fungologo.
 mikologi/o⟦菌学/o⟧:【PIV】Fungologio.
 mikoplasm/o⟦菌浆/o⟧:【生】【PIV】G. (Genro) (Mycoplasma el mikoplasmaloj) de tre malgrandaj eu^bakterioj, el kiuj M. pneumoniae estigas iajn pneu^monitojn.
@@ -52389,8 +52389,8 @@ neofit/o:【宗】【PIV】1 Tiu, kiu j^us konvertig^is, precipe pp (se paroli p
 neofron/o⟦鸟ᴺᶠ/o⟧:【動】【PIV】Malgranda vulturo (unuspecia g. (genro) Neophron percnopterus) el la fam. (familio) de akcipitredoj, maturstadie kun helkolora plumaro; g^i vivas en S Eu^ropo k N Afriko k mang^as precipe kadavrojn. Sin. (sinonimo) kadavrogrifo.
 neogen/o:【地質】【PIV】1 Dua k lasta periodo de terciaro. Vd paleogeno. 2 La responda sistemo.
 neolog/o⟦新话/o⟧:【PIV】Lingvisto au^ verkisto, kiu provas enkonduki en lingvon g^is tiam ne uzatajn vortojn, kiujn li depruntas el alia lingvo au^ mem forg^as: la neologoj esence kontribuis al la perfektigo de la hungara literatura lingvo.
-neologismem/o:【PIV】Inklino uzadi neologismojn.
-neologismem/ul/o⟦neologismem/者/o⟧:【PIV】Homo, kiu emas uzadi neologismojn.
+neologismem/o⟦新话主义倾/o⟧:【PIV】Inklino uzadi neologismojn.
+neologismem/ul/o⟦新话主义倾/者/o⟧:【PIV】Homo, kiu emas uzadi neologismojn.
 neoplasm/o⟦新浆/o⟧:【医】【PIV】Malsaneca histo, rezultanta el neoplazio. Vd kancero.
 neoplazi/o⟦新生/o⟧:【医】【PIV】Formig^o de nova histo per pli-malpli senbrida multoblig^o de nenormalaj c^eloj, kiu kondukas al benigna au^ maligna tumoro: la enkondra histoformig^o estas neoplazio. Vd kancero.
 neopren/o:【化】【PIV】Arta kau^c^uko, polimero -(CH2-CCl=CH-CH2)n-de klor-butadieno, CH 2 =CCl-CH=CH 2.
@@ -56381,7 +56381,7 @@ trepan/ad/o⟦钻颅/行/o⟧:【PIV】Ago de iu, kiu trepanas.
 trepid/i:【医】【PIV】(ntr (netransitiva)) Tremi lau^ etaj skuoj: epilepsioida trepidado.
 treponem/o⟦密螺旋体/o⟧:【生】【PIV】G. (Genro) (Treponema el spiroketaloj) de eu^bakterioj liberaj au^ parazitaj al homoj k bestoj.
 treponem/oz/o⟦密螺旋体/症ᴼ/o⟧:【医】【PIV】Malsano, kau^zata de treponemoj.
-treponemicid/o:【PIV】Substanco, mortiganta la treponemojn: treponemicida efiko de hidrargo k bismuto.
+treponemicid/o⟦密螺旋体杀/o⟧:【PIV】Substanco, mortiganta la treponemojn: treponemicida efiko de hidrargo k bismuto.
 tret/o⟦踏/o⟧:【PIV】Ago de iu, kiu tretas.
 tri/op/ism/o⟦三/组/主义/o⟧:【PIV】Amorado fare de tri personoj.
 tritet/o:【楽】【PIV】1 Komponaj^o konsistanta el tri partoj au^ por tri ludantoj. 2 La ludantaro de tia komponaj^o.
@@ -56557,7 +56557,7 @@ ulmari/o⟦草ᵁ/o⟧:【植】【PIV】Sp. (Specio) de filipendulo (Filipendul
 uln/a⟦尺/a⟧:【解】【PIV】Rilata al ulno: la ulna arterio; la ulna nervo estas bone palpebla k facile vundebla malantau^ la interna epikondilo de la humero.
 ulul/ad/o⟦嚎ᵁ/行/o⟧:【PIV】Tia bleko.
 ulv/o⟦藻ᵁ/o⟧:【植】【PIV】G. (Genro) (Ulva el ulvacoj) de maraj verdalgoj en formo de maldika folio; kosmopolita g. (genro) de c^. (c^irkau^) 30 sp-oj (specioj), pluraj uzataj kiel sterkaj^o k en la homa nutrado.
-ulvofic/oj:【植】【PIV】Klaso (Ulvophyceae el klorofitoj) de multac^elaj verdalgoj g^enerale grandaj, foliecaj au^ tubformaj. Sin. (sinonimo) kloroficoj.
+ulvofic/oj⟦藻藻ᵁ/oj⟧:【植】【PIV】Klaso (Ulvophyceae el klorofitoj) de multac^elaj verdalgoj g^enerale grandaj, foliecaj au^ tubformaj. Sin. (sinonimo) kloroficoj.
 Umar/o:【PIV】= Omaro.
 umbel/et/o⟦伞ᵁ/小/o⟧:【PIV】Duavica umbelo de kunmeta umbelo.
 umbilikari/o⟦菌ᵁᴹ/o⟧:【植】【PIV】G. (Genro) (Umbilicaria el umbilikariacoj) de foliecaj, umbilikohavaj askolikenoj roklog^aj, nekalkejaj; kosmopolita g. (genro) de c^. (c^irkau^) 45 sp-oj (specioj), pluraj mang^eblaj, ekz. (ekzemple) U. esculenta. Vd roktripoj.
