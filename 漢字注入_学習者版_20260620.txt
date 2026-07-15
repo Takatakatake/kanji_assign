@@ -57487,7 +57487,7 @@ mar/anas/o⟦海/鸭/o⟧:【動】【PIV】G. (Genro) (Melanitta) de maraj anas
 tuf/anas/o⟦丛/鸭/o⟧:【PIV】Fuligulo.
 plant/anatom/i/o⟦植/剖/i/o⟧:【植】【PIV】Anatomio de la plantoj.
 mar/anemon/oj⟦海/银莲/oj⟧:【PIV】Aktiniuloj.
-frid/an/estez/o⟦冷ᶠ/员ᴬ/感ᴱ/o⟧:【PIV】Anestezo per malvarmo.##偽分解##過細分解 frid/a/n/estez/o
+frid/an/estez/o⟦冷ᶠ/无ᴬ/感ᴱ/o⟧:【PIV】Anestezo per malvarmo.##偽分解##過細分解 frid/a/n/estez/o
 g^arden/angelik/o⟦园/伞ᴬᴳ/o⟧:【PIV】Sp. (Specio) de angeliko (A. archangelica) el N Eu^ropo, ofte kultivata, antau^e kiel legomo, nun precipe por konfitado k aromigo.
 kole/angi/it/o⟦胆ᴷ/脉ᴬᴺ/炎ᵀ/o⟧:【医】【PIV】Inflamo de la galaj kanaloj.##偽分解(PIV正式分解)
 limf/angi/it/o⟦淋ᴸ/脉ᴬᴺ/炎ᵀ/o⟧:【PIV】Limfangito.##偽分解(PIV正式分解)
@@ -58589,7 +58589,7 @@ staj/fost/o⟦索ˢ/柱ᶠ/o⟧:【PIV】Stajita fosto, subtenanta radiotelegraf
 start/o/fost/o⟦起/o/柱ᶠ/o⟧:【PIV】Fosto, montranta al vetkurantoj la deiran linion.
 trus/fost/o⟦架ᵀ/柱ᶠ/o⟧:【PIV】Vertikala trabo de c^arpenta truso.
 radi/o/fot/o/graf/o⟦射ᴿ/o/拍/o/记ᴳ/o⟧:【PIV】Transsendo de fotografaj^oj, faksimilaj desegnaj^oj, skriboj ktp (kaj tiel plu) pere de elektromagnetaj ondoj.##偽分解(PIV正式分解)
-flagr/o/fot/o/metr/o⟦闪ᶠᴳ/o/拍/o/计ᴹ/o⟧:【PIV】Speco de fotometro, c^e kiu flagranta lumo estas uzata por mezurado de lumigo.##偽分解
+flagr/o/fot/o/metr/o⟦闪ᶠᴳ/o/光ᶠ/o/计ᴹ/o⟧:【PIV】Speco de fotometro, c^e kiu flagranta lumo estas uzata por mezurado de lumigo.##偽分解
 c^en/frakci/o⟦链/分ᶠ/o⟧:【数】【PIV】Frakcio, kies denominatoro estas entjero plus frakcio; tiu lasta povas esti kunmetita en la sama maniero ktp (kaj tiel plu).
 distribu/fram/o⟦配/框ᶠ/o⟧:【PIV】Metala framo, c^e kiu la ekstremaj^oj de la eksteraj au^ internaj lineoj de telefoncentralo estas arang^itaj k kiu ebligas lau^bezonajn konektojn.
 mas/fram/o⟦团ᴹ/框ᶠ/o⟧:【電】【PIV】Metala framo de elektraj aparatoj, uzata kiel maso.
