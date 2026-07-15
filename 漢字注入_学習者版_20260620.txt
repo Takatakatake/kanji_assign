@@ -60806,8 +60806,8 @@ odor/sal/oj⟦气ᴼ/盐/oj⟧:【PIV】Amonia karbonato, miksita kun odoraj^oj,
 sezam/sal/o⟦芝麻/盐/o⟧:【PIV】Kondimento el rostitaj sezamsemoj k salo.
 super/salajr/o⟦上ˢᴾ/薪/o⟧:【PIV】Komplemento de salajro, donata pro familiaj s^arg^oj au^ aliaj kau^zoj.
 salikok/et/o/salat/o⟦虾ˢ/小/o/salat/o⟧:【PIV】Entreo el salikoketoj, diversaj fruktoj k rozkolora sau^co.
-ot/o/salping/o⟦耳ᴼᵀ/o/卵管/o⟧:【PIV】Au^da tubo.
-ot/o/salping/it/o⟦耳ᴼᵀ/o/卵管/炎ᵀ/o⟧:【医】【PIV】Inflamo de otosalpingo(j).##偽分解(PIV正式分解)
+ot/o/salping/o⟦耳ᴼᵀ/o/管ˢ/o⟧:【PIV】Au^da tubo.
+ot/o/salping/it/o⟦耳ᴼᵀ/o/管ˢ/炎ᵀ/o⟧:【医】【PIV】Inflamo de otosalpingo(j).##偽分解(PIV正式分解)
 dis/salt/ig/i⟦散/跳/使/i⟧:【PIV】Subite disrompi: ili dissaltigus la pordegon ; (f (figurasence)) dissaltigi la malnovajn katenojn de la spirito .
 en/salt/i⟦内/跳/i⟧:【PIV】Eniri per salto: la homoj ensaltis en la boaton .
 re/salt/o⟦再/跳/o⟧:【PIV】Movig^o de io, kio resaltas: fari resaltojn per plata s^tono sur la akvo.
