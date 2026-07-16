@@ -4152,12 +4152,6 @@
   cigared        烟ᶜ         F=7     basic   
   cigar          烟ᶜᴵ        F=1     pejvo   
 
-【硅】 4件
-  silic          硅          F=4     pejvo   
-  silik          硅ˢᴷ        F=3     pejvo   
-  silici         硅ˢᴵ        F=2     elem    
-  siliciat       硅ˢᵀ        F=8     piv     【鉱】ケイ酸塩
-
 【丝】 4件
   silk           丝          F=22    basic   
   faden          丝ᶠ         F=39    basic   
@@ -5673,6 +5667,11 @@
   skatol         盒          F=16    basic   
   kased          盒ᴷ         F=7     basic   
   kaset          盒ᴷᵀ        F=1     piv     
+
+【硅】 3件
+  silic          硅          F=4     pejvo   
+  silik          硅ˢᴷ        F=3     pejvo   
+  silici         硅ˢᴵ        F=2     elem    
 
 【穗】 3件
   spik           穗          F=7     basic   
@@ -8121,6 +8120,10 @@
 【瓣】 2件
   klap           瓣          F=25    pejvo   
   petal          瓣ᴾ         F=14    pejvo   
+
+【硅盐】 2件
+  siliciat       硅盐         F=8     piv     【鉱】ケイ酸塩
+  silikat        硅盐ˢᴷ       F=1     piv     
 
 【碎】 2件
   frakas         碎          F=7     basic   
