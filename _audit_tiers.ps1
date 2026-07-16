@@ -22,7 +22,7 @@ for($i=0;$i -lt $lines.Count;$i++){
   $stat["$tier/$cls/tot"]++
   if($hasK){ $stat["$tier/$cls/inj"]++ }
 }
-Write-Host "=== 行番号境界(<=44104=PEJVO / >44104=PIV)での層別 見出し行被覆 ==="
+Write-Host "=== 行番号境界(<=44104=旧PEJVO / 44105-44440=PEJVO追補 / >=44441=PIV)での層別 見出し行被覆(粗2分割は被覆統計用) ==="
 foreach($t in 'PEJVO','PIV'){
   Write-Host ("--- {0} ---" -f $t)
   foreach($c in 'content','proper','gram'){
@@ -43,4 +43,10 @@ Write-Host ""
 Write-Host ("=== 境界整合チェック ===")
 Write-Host ("  【PIV】総数 {0}" -f $pivTot)
 Write-Host ("  境界(44104)以前にある【PIV】行 = {0}" -f $pivBeforeBound)
-Write-Host ("  境界以降にある 非【PIV】見出し行 = {0}" -f $nonpivAfterBound)
+Write-Host ("  境界以降にある 非【PIV】見出し行 = {0}(注: 44105-44440=PEJVO追補336行 + 44441以降の非PIV見出し。>44104=全PIV ではない)" -f $nonpivAfterBound)
+
+# 3層構造の精査(2026-07-16 第6回監査是正: PEJVO追補区間を明示。従来の">44104=PIV"は追補分だけ不正確)
+$firstPiv=-1; for($k=0;$k -lt $lines.Count;$k++){ if($lines[$k] -match '【PIV】'){ $firstPiv=$k+1; break } }
+$pivSupp=0; for($k=44104;$k -lt 44440;$k++){ if($lines[$k] -match '【PIV】'){ $pivSupp++ } }
+Write-Host ("  最初の【PIV】行 = {0}(=PIV層開始。44105-{1}はPEJVO 2024追補)" -f $firstPiv,($firstPiv-1))
+Write-Host ("  PEJVO追補区間(44105-44440)内の【PIV】行 = {0}(0が正=追補は純PEJVO)" -f $pivSupp)

@@ -31,8 +31,11 @@ $csvGap = ([regex]::Match($pri,'要検討content(\d+)')).Groups[1].Value
 Say ("[B] 優先順位: CSV2890被覆=" + $csvCov + "% / 要検討contentギャップ=" + $csvGap + "件(音訳/固有名/一级外=正当)")
 $bd = & "$dir\_audit_tiers.ps1" *>&1 | Out-String
 $piBefore = ([regex]::Match($bd,'44104\)以前にある【PIV】行\s*=\s*(\d+)')).Groups[1].Value
-Say ("    境界44104以前の【PIV】行=" + $piBefore + "(0が正)")
-if($piBefore -ne '0'){ $fail=1; Say "    !! 境界違反" }
+$firstPivLn = ([regex]::Match($bd,'最初の【PIV】行\s*=\s*(\d+)')).Groups[1].Value
+$pivSuppN = ([regex]::Match($bd,'PEJVO追補区間\(44105-44440\)内の【PIV】行\s*=\s*(\d+)')).Groups[1].Value
+Say ("    境界44104以前の【PIV】行=" + $piBefore + "(0が正) / 最初の【PIV】=" + $firstPivLn + "行 / 追補(44105-44440)内【PIV】=" + $pivSuppN + "(0が正=追補は純PEJVO)")
+Say ("    3層: 1-44104旧PEJVO / 44105-44440 PEJVO追補 / " + $firstPivLn + "以降PIV(>44104=全PIV ではない)")
+if($piBefore -ne '0' -or ($pivSuppN -ne '' -and $pivSuppN -ne '0')){ $fail=1; Say "    !! 境界違反(PEJVO領域にPIV混入)" }
 
 # --- C. 偽分解 検出器 base分岐フラグ ---
 foreach($v in @('学習者','学術')){
