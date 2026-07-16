@@ -53,10 +53,12 @@ if(Test-Path -LiteralPath $wsl){
   if($drift -eq 0){ Say "[D] WSLドリフト: なし(最新に同期済)" }
 } else { Say "[D] WSLドリフト: WSL未接続(スキップ)" }
 
-# --- E. 注入の数字付き識別子 ---
+# --- E. 注入の数字付き識別子(両版走査。2026-07-16 監査是正: 従来は学習者版のみだった) ---
 $nNum=0
-foreach($ln in [System.IO.File]::ReadAllLines((Join-Path $dir '漢字注入_学習者版_20260620.txt'))){ foreach($m in [regex]::Matches($ln,'⟦([^⟧]*)⟧')){ if($m.Groups[1].Value -match '[一-鿿][ʰ-˿ᴀ-ᶿ̀-ͯ]*[0-9]'){ $nNum++ } } }
-Say ("[E] 注入の数字付き識別子=" + $nNum + "(0が正)")
+foreach($f in @('漢字注入_学習者版_20260620.txt','漢字注入_学術版_20260620.txt')){
+  foreach($ln in [System.IO.File]::ReadAllLines((Join-Path $dir $f))){ foreach($m in [regex]::Matches($ln,'⟦([^⟧]*)⟧')){ if($m.Groups[1].Value -match '[一-鿿][ʰ-˿ᴀ-ᶿ̀-ͯ]*[0-9]'){ $nNum++ } } }
+}
+Say ("[E] 注入の数字付き識別子=" + $nNum + "(0が正。両版走査)")
 if($nNum -gt 0){ $fail=1; Say "    !! 注入に数字id" }
 
 # --- F. 偽分解尊重 整合性(漢字化語根がlatin残存=同綴別語/結合形/固有名で正当か) ---

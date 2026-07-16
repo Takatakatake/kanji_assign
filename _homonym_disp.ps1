@@ -35,6 +35,8 @@ Get-Content "$dir\_homonym.tsv" -Encoding UTF8 | Select-Object -Skip 1 | ForEach
   $p=$_ -split "`t"; if($p.Count -lt 5){return}
   $seg=$p[0];$ov=$p[1];$type=$p[2];$disc=$p[3];$note=$p[4]
   $id=AddSegId $ov $seg; $d=$ov+(ToSuper $id)
+  # 数字idガード(2026-07-16 監査是正): sep/comb は注入されるため数字禁止=throw。amb は注入非適用(記録のみ)ゆえ数字許容(po→草ᴾᴼ2 が実例)
+  if($type -ne 'amb' -and $id -match '[0-9]'){ throw ("[識別子=数字禁止] 注入対象の homonym override に数字id: type="+$type+" seg="+$seg+" 漢字="+$ov+" id="+$id+" — sep/comb は注入されるため数字添字不可(エラー停止)。amb のみ許容") }
   [void]$out.Add(($seg+"`t"+$type+"`t"+$disc+"`t"+$ov+"`t"+$d+"`t"+$note))
 }
 [System.IO.File]::WriteAllLines("$dir\_homonym_disp.tsv",$out,(New-Object System.Text.UTF8Encoding($false)))
