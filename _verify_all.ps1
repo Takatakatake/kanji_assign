@@ -71,6 +71,11 @@ if($newInc -eq ''){ $newInc='?' }
 Say ("[F] 偽分解整合性: ★新規不整合=" + $newInc + "件(0が正。既知19件=同綴別語/結合形/固有名で正当。新規が出たら語義照合で homonym か真の違反か判定)")
 if($newInc -ne '0' -and $newInc -ne '?'){ Say "    !! 新規の偽分解不整合候補あり → 変更語を語義照合で点検" }
 
+# --- G. P整合advisory(k列画数 vs st/P。技術的負債の可視化=非fail。詳細は _audit_pvalue_consistency.ps1) ---
+$pv = & "$dir\_audit_pvalue_consistency.ps1" *>&1 | Out-String
+$pvSummary = ([regex]::Match($pv,'\[G\][^\r\n]*')).Value
+if($pvSummary){ Say ("    " + $pvSummary) } else { Say "[G] P整合advisory: 実行不可(要 _audit_pvalue_consistency.ps1)" }
+
 # --- 総括 ---
 $verdict='全PASS(健全・同期も最新)'
 if($fail -ne 0){ $verdict='要対応(ハード違反あり)' } elseif($drift -ne 0){ $verdict='不変条件PASSだが WSL再同期推奨' } elseif($newInc -ne '0' -and $newInc -ne '?'){ $verdict='不変条件PASSだが 新規偽分解不整合の点検推奨' }
