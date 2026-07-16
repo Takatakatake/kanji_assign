@@ -71,10 +71,17 @@ if($newInc -eq ''){ $newInc='?' }
 Say ("[F] 偽分解整合性: ★新規不整合=" + $newInc + "件(0が正。既知19件=同綴別語/結合形/固有名で正当。新規が出たら語義照合で homonym か真の違反か判定)")
 if($newInc -ne '0' -and $newInc -ne '?'){ Say "    !! 新規の偽分解不整合候補あり → 変更語を語義照合で点検" }
 
-# --- G. P整合advisory(k列画数 vs st/P。技術的負債の可視化=非fail。詳細は _audit_pvalue_consistency.ps1) ---
+# --- G. P整合advisory(k列画数 vs st/E/D/P独立検査。技術的負債の可視化=非fail。詳細は _audit_pvalue_consistency.ps1) ---
 $pv = & "$dir\_audit_pvalue_consistency.ps1" *>&1 | Out-String
 $pvSummary = ([regex]::Match($pv,'\[G\][^\r\n]*')).Value
 if($pvSummary){ Say ("    " + $pvSummary) } else { Say "[G] P整合advisory: 実行不可(要 _audit_pvalue_consistency.ps1)" }
+
+# --- H. 逆転20群の期待基本形assertion(2026-07-16 第10回監査: P=5同士は再生成で基本形が動きうる→裁定=現状維持からの変動を検出=fail) ---
+$rb = & "$dir\_audit_reversal_bases.ps1" *>&1 | Out-String
+$rbLine = ([regex]::Match($rb,'\[H\][^\r\n]*')).Value
+$rbBad = ([regex]::Match($rb,'不一致\s*=\s*(\d+)')).Groups[1].Value
+if($rbLine){ Say $rbLine } else { Say "[H] 逆転20群assertion: 実行不可(要 _audit_reversal_bases.ps1)"; $rbBad='?' }
+if($rbBad -ne '0' -and $rbBad -ne '?'){ $fail=1; Say "    !! 逆転20群の基本形が裁定(§14=現状維持)から変動 → 変更コミットを点検" }
 
 # --- 総括 ---
 $verdict='全PASS(健全・同期も最新)'
