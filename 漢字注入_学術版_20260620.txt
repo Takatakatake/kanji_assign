@@ -18108,9 +18108,9 @@ klor/kalk/o⟦氯/灰ᴷ/o⟧:さらし粉
 klor/o⟦氯/o⟧:{Ｏ}【化】塩素（原子番号17の非金属元素）
 klorofil/o⟦叶绿/o⟧:【植】葉緑素
 klor/o/fluor/o/karbon/o⟦氯/o/气ᶠ/o/碳/o⟧:【環】クロロフルオロカーボン（CFC，日本では通称フロン）,>>freono
-kloroform/ad/o⟦氯仿/行/o⟧:【医】クロロホルム麻酔
-kloroform/i⟦氯仿/i⟧:［他］【医】クロロホルム麻酔をかける
-kloroform/o⟦氯仿/o⟧:【薬】クロロホルム
+kloroform/ad/o⟦氯形/行/o⟧:【医】クロロホルム麻酔
+kloroform/i⟦氯形/i⟧:［他］【医】クロロホルム麻酔をかける
+kloroform/o⟦氯形/o⟧:【薬】クロロホルム
 kloroz/a⟦萎黄/a⟧:萎黄病の
 kloroz/o⟦萎黄/o⟧:【病】萎黄病（いおうびょう）;【植】黄化,白化
 klostr/a silent/o⟦修院/a 默/o⟧:修道院の静けさ
@@ -54950,9 +54950,9 @@ silib/o⟦菊ˢᴸ/o⟧:【植】【PIV】G. (Genro) (Silybum el asteracoj) de u
 silic/a⟦硅/a⟧:【化】【PIV】Rilata al, konsistanta el silico: silica petro (precipe konsistanta el SiO 2). Vd kvarcito, siliko, sablopetro.
 silic/ig^/o⟦硅/成/o⟧:【PIV】S^ang^ig^o al silico: silicig^o de arbotrunko.
 silic/oz/o⟦硅/症ᴼ/o⟧:【医】【PIV】Pneu^monokoniozo, kau^zata de silico: silicozo ofte kuntrenas tuberkulozon. Sin. (sinonimo) silikozo.
-siliciat/o⟦硅ˢᵀ/o⟧:【化】【PIV】1 Salo de siliciata acido, H 2 SiO 3 au^ alia hidrato (ekz. (ekzemple) H 4 SiO 4, H 2 Si 2 O 6): siliciata likvo, Na 2 SiO 3 au^ K 2 SiO 3, fluor siliciato (salo de fluor siliciata acido, H 2 SiF 5). Sin. (sinonimo) silikato. 2 C^iu mineralo, karakterizata de la struktura kvaredra elemento (SiO 4) ^4−: siliciata petro (precipe konsistanta el siliciatoj 2). Sin. (sinonimo) silikato.
+siliciat/o⟦硅盐/o⟧:【化】【PIV】1 Salo de siliciata acido, H 2 SiO 3 au^ alia hidrato (ekz. (ekzemple) H 4 SiO 4, H 2 Si 2 O 6): siliciata likvo, Na 2 SiO 3 au^ K 2 SiO 3, fluor siliciato (salo de fluor siliciata acido, H 2 SiF 5). Sin. (sinonimo) silikato. 2 C^iu mineralo, karakterizata de la struktura kvaredra elemento (SiO 4) ^4−: siliciata petro (precipe konsistanta el siliciatoj 2). Sin. (sinonimo) silikato.
 siliciid/o⟦硅子/o⟧:【PIV】Kombinaj^o de metalo kun silicio: zirkonia siliciido (Zr 5 Si 3).
-silikat/o⟦硅盐/o⟧:【化】【地質】【PIV】Tradicia nomo de siliciato.
+silikat/o⟦硅盐ˢᴷ/o⟧:【化】【地質】【PIV】Tradicia nomo de siliciato.
 silikon/o:【化】【PIV】G^enerala nomo por diversaj organikaj silici-kombinaj^oj: al la silikonoj c^efe apartenas la (poli)siloksanoj, grandmolekulaj organikaj kombinaj^oj kun c^eno, en kiu alternas atomoj de silicio k oksigeno k kies siliciatomoj portas organikajn radikojn po du, ekz. (ekzemple) du metilojn; silikonoj estas kemie tre rezistaj k tial trovas multajn tre diversajn aplikojn, i.a. (interalie, inter aliaj) kiel tegaj^on por s^irmi kontrau^ korodo.
 silk/aj^/oj⟦丝/物/oj⟧:【PIV】Varoj el silko.
 silk/ist/o⟦丝/家/o⟧:【PIV】Industriisto pri silkaj^oj.
@@ -60923,14 +60923,14 @@ venk/o/sign/o⟦胜/o/符/o⟧:【PIV】Trofeo.
 ver/sign/o⟦真/符/o⟧:【PIV】Kriterio.
 lum/signal/oj⟦光/号ˢ/oj⟧:【PIV】= trafiklumoj.
 for/silent/i⟦离/默/i⟧:【PIV】(tr (transitiva)) Kas^i informon, okazaj^on k.a. (kaj aliaj), prisilentante g^in.
-alumini/siliciat/o⟦铝/硅ˢᵀ/o⟧:【地質】【PIV】Siliciato, en kiu Al anstatau^as iajn atomojn de Si de la tetraedroj: la feldspatoj estas alumini siliciatoj.
-c^en/siliciat/o⟦链/硅ˢᵀ/o⟧:【地質】【PIV】Siliciato el kvaredroj, arig^intaj en rektan c^enon, simplan (ekz. (ekzemple) piroksenoj) au^ duoblan (ekz. (ekzemple) amfiboloj).
-par/siliciat/o⟦偶/硅ˢᵀ/o⟧:【地質】【PIV】Siliciato el duopaj (paraj) kvaredroj; ekz. (ekzemple) epidoto.
-foli/siliciat/o⟦叶/硅ˢᵀ/o⟧:【地質】【PIV】Siliciato el kvaredroj, arig^intaj en foliaj^ojn; ekz. (ekzemple) glimoj.
-fluor/siliciat/o⟦气ᶠ/硅ˢᵀ/o⟧:【化】【PIV】Salo de fluor siliciata acido, H 2 SiF 6.
-ret/siliciat/o⟦网/硅ˢᵀ/o⟧:【地質】【PIV】Siliciato el kvaredroj, arig^intaj en tridimensian reton; ekz. (ekzemple) kvarco, feldspatoj.
-ring/siliciat/o⟦环/硅ˢᵀ/o⟧:【地質】【PIV】Siliciato el kvaredroj, arig^intaj en ringojn pro ligoj-O-O-; ekz. (ekzemple) berilo, turmalino.
-izol/siliciat/o⟦隔/硅ˢᵀ/o⟧:【地質】【PIV】Siliciato el unuopaj (izolaj) kvaredroj; ekz. (ekzemple) grenatoj, peridotoj.
+alumini/siliciat/o⟦铝/硅盐/o⟧:【地質】【PIV】Siliciato, en kiu Al anstatau^as iajn atomojn de Si de la tetraedroj: la feldspatoj estas alumini siliciatoj.
+c^en/siliciat/o⟦链/硅盐/o⟧:【地質】【PIV】Siliciato el kvaredroj, arig^intaj en rektan c^enon, simplan (ekz. (ekzemple) piroksenoj) au^ duoblan (ekz. (ekzemple) amfiboloj).
+par/siliciat/o⟦偶/硅盐/o⟧:【地質】【PIV】Siliciato el duopaj (paraj) kvaredroj; ekz. (ekzemple) epidoto.
+foli/siliciat/o⟦叶/硅盐/o⟧:【地質】【PIV】Siliciato el kvaredroj, arig^intaj en foliaj^ojn; ekz. (ekzemple) glimoj.
+fluor/siliciat/o⟦气ᶠ/硅盐/o⟧:【化】【PIV】Salo de fluor siliciata acido, H 2 SiF 6.
+ret/siliciat/o⟦网/硅盐/o⟧:【地質】【PIV】Siliciato el kvaredroj, arig^intaj en tridimensian reton; ekz. (ekzemple) kvarco, feldspatoj.
+ring/siliciat/o⟦环/硅盐/o⟧:【地質】【PIV】Siliciato el kvaredroj, arig^intaj en ringojn pro ligoj-O-O-; ekz. (ekzemple) berilo, turmalino.
+izol/siliciat/o⟦隔/硅盐/o⟧:【地質】【PIV】Siliciato el unuopaj (izolaj) kvaredroj; ekz. (ekzemple) grenatoj, peridotoj.
 art/silk/o⟦艺/丝/o⟧:【PIV】Tekstila materialo, farita el celulozo. Vd rajono, nilono.
 flok/silk/o⟦絮/丝/o⟧:【PIV】Speco de s^tofo, farita el la defalaj^oj de la silkindustrio.
 operaci/simbol/o⟦操/符ˢᴹ/o⟧:【情】【PIV】Simbolo, uzata en programlingvo por indiki operacion: la operaci simboloj k/ligas pli forte ol + k −.
