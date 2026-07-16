@@ -44,17 +44,22 @@ foreach($v in @('学習者','学術')){
   Say ("[C] 偽分解 "+$v+"版: base分岐フラグ=" + $flags + "(基準 学習81前後/学術46前後=2026-06-27。新規sep追加で漸増は正常・急増は新誤友の疑い→変更語点検)")
 }
 
-# --- D. WSLドリフト ---
+# --- D. 原本ドリフト(正本DICT + WSL) ---
+# 2026-07-16 教訓: 正本はD:の分解dir(20260630)。従来はWSL(20260619)しか監視せず正本更新を見逃した→DICT監視を主に。
+$dict=Join-Path (Split-Path $dir -Parent) 'エスペラント辞書徹底語根分解_20260630'
 $wsl='\\wsl.localhost\Ubuntu\home\y\エスペラント辞書徹底語根分解_20260619'
 $pej=Join-Path $dir '20_PEJVO語彙リスト_原本・生成版_2024-2026'
 $drift=0
-if(Test-Path -LiteralPath $wsl){
-  foreach($n in @('世界语全部单词_大约44100个(原pejvo.txt)_学習者版_utf8_20260416.txt','世界语全部单词_大约44100个(原pejvo.txt)_学術版_utf8_20260416.txt')){
-    $w=Get-Item -LiteralPath (Join-Path $wsl $n) -ErrorAction SilentlyContinue; $p=Get-Item -LiteralPath (Join-Path $pej $n) -ErrorAction SilentlyContinue
-    if($w -and $p -and ($w.Length -ne $p.Length)){ $drift++; Say ("[D] WSLドリフト検出: "+$n.Substring(0,4)+" WSL="+$w.Length+"("+$w.LastWriteTime.ToString('MM-dd HH:mm')+") != PROJ="+$p.Length+" → 同期+変更語点検を推奨") }
-  }
-  if($drift -eq 0){ Say "[D] WSLドリフト: なし(最新に同期済)" }
-} else { Say "[D] WSLドリフト: WSL未接続(スキップ)" }
+foreach($srcPair in @(@('DICT正本',$dict),@('WSL',$wsl))){
+  $label=$srcPair[0]; $src=$srcPair[1]
+  if(Test-Path -LiteralPath $src){
+    foreach($n in @('世界语全部单词_大约44100个(原pejvo.txt)_学習者版_utf8_20260416.txt','世界语全部单词_大约44100个(原pejvo.txt)_学術版_utf8_20260416.txt')){
+      $w=Get-Item -LiteralPath (Join-Path $src $n) -ErrorAction SilentlyContinue; $p=Get-Item -LiteralPath (Join-Path $pej $n) -ErrorAction SilentlyContinue
+      if($w -and $p -and ($w.Length -ne $p.Length)){ $drift++; Say ("[D] "+$label+"ドリフト検出: "+$n.Substring(29,3)+" "+$label+"="+$w.Length+"("+$w.LastWriteTime.ToString('MM-dd HH:mm')+") != PROJ="+$p.Length+" → 同期+再注入+変更語点検") }
+    }
+  } else { Say ("[D] "+$label+"ドリフト: 未接続/不在(スキップ)") }
+}
+if($drift -eq 0){ Say "[D] 原本ドリフト: なし(DICT正本/WSLとも同期済または不在)" }
 
 # --- E. 注入の数字付き識別子(両版走査。2026-07-16 監査是正: 従来は学習者版のみだった) ---
 $nNum=0

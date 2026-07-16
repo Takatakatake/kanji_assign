@@ -32,21 +32,28 @@ foreach($t in 'PEJVO','PIV'){
   }
 }
 # 境界整合: 【PIV】マーカー位置 vs 行番号境界
-$pivBeforeBound=0; $nonpivAfterBound=0; $pivTot=0
+# 2026-07-16 原本更新追従: PEJVO既存見出しへのPIV定義の合併(「... / 【史】【PIV】...」= Arg/Eol)が出現。
+# PIV由来見出し=「語釈冒頭(任意個の【タグ】の直後)に【PIV】」で判定し、途中合併は境界違反にしない(参考表示)。
+$pivNative='^[^:]+:(【[^】]*】)*【PIV】'
+$pivBeforeBound=0; $pivMergedBefore=0; $nonpivAfterBound=0; $pivTot=0
 for($i=0;$i -lt $lines.Count;$i++){
   $ln=$lines[$i]; if($ln.IndexOf(':') -lt 1){continue}
-  $isPiv = $ln -match '【PIV】'
+  $isPiv = $ln -match $pivNative
   if($isPiv){ $pivTot++; if(($i+1) -le $BOUND){ $pivBeforeBound++ } }
-  else { if(($i+1) -gt $BOUND){ $nonpivAfterBound++ } }
+  else {
+    if(($i+1) -le $BOUND -and $ln -match '【PIV】'){ $pivMergedBefore++ }
+    if(($i+1) -gt $BOUND){ $nonpivAfterBound++ }
+  }
 }
 Write-Host ""
 Write-Host ("=== 境界整合チェック ===")
-Write-Host ("  【PIV】総数 {0}" -f $pivTot)
+Write-Host ("  【PIV】由来見出し総数 {0}(語釈冒頭判定)" -f $pivTot)
 Write-Host ("  境界(44104)以前にある【PIV】行 = {0}" -f $pivBeforeBound)
+Write-Host ("  境界以前のPIV定義合併行(参考・違反でない) = {0}(既存PEJVO見出しに「 / 【PIV】…」追記された行=Arg/Eol型)" -f $pivMergedBefore)
 Write-Host ("  境界以降にある 非【PIV】見出し行 = {0}(注: 44105-44440=PEJVO追補336行 + 44441以降の非PIV見出し。>44104=全PIV ではない)" -f $nonpivAfterBound)
 
 # 3層構造の精査(2026-07-16 第6回監査是正: PEJVO追補区間を明示。従来の">44104=PIV"は追補分だけ不正確)
-$firstPiv=-1; for($k=0;$k -lt $lines.Count;$k++){ if($lines[$k] -match '【PIV】'){ $firstPiv=$k+1; break } }
-$pivSupp=0; for($k=44104;$k -lt 44440;$k++){ if($lines[$k] -match '【PIV】'){ $pivSupp++ } }
+$firstPiv=-1; for($k=0;$k -lt $lines.Count;$k++){ if($lines[$k] -match $pivNative){ $firstPiv=$k+1; break } }
+$pivSupp=0; for($k=44104;$k -lt 44440;$k++){ if($lines[$k] -match $pivNative){ $pivSupp++ } }
 Write-Host ("  最初の【PIV】行 = {0}(=PIV層開始。44105-{1}はPEJVO 2024追補)" -f $firstPiv,($firstPiv-1))
 Write-Host ("  PEJVO追補区間(44105-44440)内の【PIV】行 = {0}(0が正=追補は純PEJVO)" -f $pivSupp)
