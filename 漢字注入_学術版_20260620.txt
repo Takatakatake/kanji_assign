@@ -7935,7 +7935,7 @@ dur/a⟦硬ᴰ/a⟧:《詩》=malmola（かたい）
 du/rad/a⟦二/轮/a⟧:二輪の
 duramatr/o⟦硬膜/o⟧:【解】（脳の）硬膜,>>piamatro
 dur/disk/o⟦硬ᴰ/盘ᴰ/o⟧:【情】ハードディスク,>>disko
-dur/o⟦硬ᴰ/o⟧:【史】ドゥーロ（スペインの５ペセタ銀貨）
+dur/o⟦币/o⟧:【史】ドゥーロ（スペインの５ペセタ銀貨）
 du/sekc/ant/o⟦二/切ˢ/在/o⟧:【数】二等分線
 du/sekc/i⟦二/切ˢ/i⟧:［他］【数】二等分する
 Duseldorf/o:【地名】デュッセルドルフ（ドイツ）
@@ -44775,7 +44775,7 @@ alium/o⟦葱ᴬ/o⟧:【植】【PIV】G. (Genro) (Allium el aliumacoj) de unu-
 aliz/uj/o⟦果ᴬᴸ/器/o⟧:【PIV】C^iu arbo au^ arbusto el grupo de sp-oj (specioj) de sorbuso kun dentaj au^ ne profunde lobaj folioj. Vd sorpujo, sorbuso.
 alizarin/o:【化】【PIV】Rug^a kolorilo, C 14 H 8 O 4, pasintece ekstraktata el la tinktura rubio, nun kemie sintezata.
 alize/o⟦信风ᴬ/o⟧:【PIV】Iu el la ventoj, kiuj regule blovas tra la tuta jaro inter la tropikoj k estas deturnataj okcidenten pro la terrotacio: alizeo blovas de NE en la N duonhemisfero k de SE en la S duonhemisfero.
-alk/⟦驼鹿/⟧:【化】【PIV】Pref. (Prefikso), uzata por nomi nearomatajn hidrokarbonojn.
+alk/:【化】【PIV】Pref. (Prefikso), uzata por nomi nearomatajn hidrokarbonojn.
 alkadien/o:【化】【PIV】Nesaturita necikla hidrokarbono kun du duoblaj ligoj, C n H 2n-2, ekz. (ekzemple) butadieno.
 alkan/o:【化】【PIV】Saturita hidrokarbono, C n H 2n+2, ekz. (ekzemple) metano, etano, propano, butano, oktano. Vd parafino.
 alkanal/o:【PIV】Aldehido derivita de alkano. -> alkal/o.
@@ -53113,8 +53113,8 @@ pasat/o⟦信风ᴾ/o⟧:【PIV】= alizeo.
 paser/ed/oj⟦雀ᴾ/科ᴱ/oj⟧:【動】【PIV】Fam. (Familio) (Passeridae) de birdoj, al kiu apartenas precipe pasero.
 paser/o/form/aj⟦雀ᴾ/o/形/aj⟧:【動】【PIV】Ordo (Passeriformes) de birdoj, al kiu apartenas la g-oj (genroj) menuro, hirundo, silvio, turdo, fenikuro, troglodito, korvo, pigo, sturno, emberizo, pasero, fringo, paruo, motacilo ktp (kaj tiel plu).
 pasiflor/o⟦草ᴾᴬˢ/o⟧:【植】【PIV】G. (Genro) (Passiflora el pasifloracoj) de herbecaj au^ lignecaj plantoj, g^enerale grimpaj per c^iroj, kun kuriozaj, ornamaj, ofte grandaj floroj, unu-au^ du-opaj, kies diversaj partoj s^ajnas simbole la atribuaj^oj de la Pasiono de Kristo, k kun fruktoj (beroj) mang^eblaj c^e pluraj sp-oj (specioj); tropika k subtropika g. (genro) de c^. (c^irkau^) 430 sp-oj (specioj) el Ameriko, SE Azio k Oceanio, pluraj kultivataj por ornamo k kelkaj (i.a. (interalie, inter aliaj) barbadeno k grenadilo) por aromaj fruktoj.
-pas/iv/aj^/o⟦过ᴾ/能ᴵ/物/o⟧:【PIV】C^iu elemento de pasivo 2.
-pas/iv/ig/i⟦过ᴾ/能ᴵ/使/i⟧:【PIV】Fari, ke iu, io estu pasiva: pasivigi feron per kemia traktado.
+pasiv/aj^/o⟦被ᴾ/物/o⟧:【PIV】C^iu elemento de pasivo 2.
+pasiv/ig/i⟦被ᴾ/使/i⟧:【PIV】Fari, ke iu, io estu pasiva: pasivigi feron per kemia traktado.
 paspartu/o:【PIV】1 Kadro, kies fundo estas malfermebla, k en kiun oni tiel povas ens^ovi fotojn, desegnojn ks (kaj simile, kaj similaj). 2 C^efs^losilo. Vd dirko.
 past/aj^/oj⟦糊/物/oj⟧:【PIV】Kn (Kolektiva nomo) de mang^aj^oj el maldika pasto, konsistanta el tritika faruno, akvo, salo k foje ovoj, tajlitaj k kuiritaj en bolanta akvo Vd kanelonoj, lasanjoj, makaronioj, nokoj, nudeloj, ravioloj, spagetoj, vermic^eloj.
 pastern/o⟦系部/o⟧:【PIV】Parto de c^evalkruro super la hufo, responda al la unuaj du falangoj. Vd fanono.

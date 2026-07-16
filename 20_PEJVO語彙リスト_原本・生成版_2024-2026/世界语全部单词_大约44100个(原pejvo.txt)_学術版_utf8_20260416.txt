@@ -53113,8 +53113,8 @@ pasat/o:【PIV】= alizeo.
 paser/ed/oj:【動】【PIV】Fam. (Familio) (Passeridae) de birdoj, al kiu apartenas precipe pasero.
 paser/o/form/aj:【動】【PIV】Ordo (Passeriformes) de birdoj, al kiu apartenas la g-oj (genroj) menuro, hirundo, silvio, turdo, fenikuro, troglodito, korvo, pigo, sturno, emberizo, pasero, fringo, paruo, motacilo ktp (kaj tiel plu).
 pasiflor/o:【植】【PIV】G. (Genro) (Passiflora el pasifloracoj) de herbecaj au^ lignecaj plantoj, g^enerale grimpaj per c^iroj, kun kuriozaj, ornamaj, ofte grandaj floroj, unu-au^ du-opaj, kies diversaj partoj s^ajnas simbole la atribuaj^oj de la Pasiono de Kristo, k kun fruktoj (beroj) mang^eblaj c^e pluraj sp-oj (specioj); tropika k subtropika g. (genro) de c^. (c^irkau^) 430 sp-oj (specioj) el Ameriko, SE Azio k Oceanio, pluraj kultivataj por ornamo k kelkaj (i.a. (interalie, inter aliaj) barbadeno k grenadilo) por aromaj fruktoj.
-pas/iv/aj^/o:【PIV】C^iu elemento de pasivo 2.
-pas/iv/ig/i:【PIV】Fari, ke iu, io estu pasiva: pasivigi feron per kemia traktado.
+pasiv/aj^/o:【PIV】C^iu elemento de pasivo 2.
+pasiv/ig/i:【PIV】Fari, ke iu, io estu pasiva: pasivigi feron per kemia traktado.
 paspartu/o:【PIV】1 Kadro, kies fundo estas malfermebla, k en kiun oni tiel povas ens^ovi fotojn, desegnojn ks (kaj simile, kaj similaj). 2 C^efs^losilo. Vd dirko.
 past/aj^/oj:【PIV】Kn (Kolektiva nomo) de mang^aj^oj el maldika pasto, konsistanta el tritika faruno, akvo, salo k foje ovoj, tajlitaj k kuiritaj en bolanta akvo Vd kanelonoj, lasanjoj, makaronioj, nokoj, nudeloj, ravioloj, spagetoj, vermic^eloj.
 pastern/o:【PIV】Parto de c^evalkruro super la hufo, responda al la unuaj du falangoj. Vd fanono.
