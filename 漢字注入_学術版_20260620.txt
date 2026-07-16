@@ -17839,7 +17839,7 @@ kinet/a⟦动ᴷ/a⟧:【理】運動の
 kinet/a energi/o⟦动ᴷ/a 能ᴱ/o⟧:【理】運動エネルギー
 kinet/a frot/o⟦动ᴷ/a 擦/o⟧:【理】動摩擦
 kinet/a viskoz/ec/o⟦动ᴷ/a 粘ⱽ/性/o⟧:【理】動粘性,動粘度
-kinet/ik/o⟦动ᴷ/学ᴵ/o⟧:【理】動力学,>>dinamiko
+kinetik/o:【理】動力学,>>dinamiko
 Kingdau^/o:=>C^ingdau^o（チンタオ）
 Kinghai/o:=>C^inghajo（チンハイ省）
 Kingstau^n/o:【地名】キングスタウン（セントビンセントの首都）
@@ -21357,8 +21357,8 @@ lakt/o/suker/o⟦乳/o/糖/o⟧:乳糖,=laktozo
 lakt/o/sup/o⟦乳/o/汤/o⟧:【料】牛乳スープ,ミルクスープ
 lakt/o/vitr/o⟦乳/o/玻/o⟧:すりガラス,曇りガラス
 Lakt/o/voj/o:【天】天の川
-laktoz/a ne/toler/em/o⟦laktoz/a 不/忍/倾/o⟧:【医】乳糖不耐症
-laktoz/o:【化】乳糖
+laktoz/a ne/toler/em/o⟦乳糖/a 不/忍/倾/o⟧:【医】乳糖不耐症
+laktoz/o⟦乳糖/o⟧:【化】乳糖
 lakt/uj/o⟦乳/器/o⟧:牛乳びん,=laktobotelo
 laktuk/o⟦生菜/o⟧:{Ｏ}【植】レタス,チシャ;【植】アキノノゲシ（属）
 lakt/um/o⟦乳/um/o⟧:（魚の）しらこ
@@ -24030,7 +24030,7 @@ malt/o⟦麦芽/o⟧:{Ｏ}（醸造用の）麦芽,モルト
 Malt/o:【国名】マルタ（欧州）
 Malt/o:【地名】マルタ島（地中海中部）
 mal/tord/i⟦反/拧/i⟧:［他］（縄などの）よりをもどす
-maltoz/o:【化】マルトース,麦芽糖
+maltoz/o⟦麦芽糖/o⟧:【化】マルトース,麦芽糖
 mal/traf/a⟦反/击/a⟧:的はずれの
 mal/traf/i⟦反/击/i⟧:［他］はずれる,それる
 mal/traf/i lim/dat/on⟦反/击/i 界/期/on⟧:期日に遅れる
@@ -34883,7 +34883,7 @@ Sah^alen/o:【地名】サハリン島（樺太）
 Sajgon/o:【地名】サイゴン（ホーチミン市の旧称，ベトナム）,=Hoc^imino
 Sajpan/o:【地名】サイパン島（北太平洋西部）
 sakarin/o:【化】サッカリン
-sakaroz/o:【化】ショ糖,サッカロース
+sakaroz/o⟦蔗糖/o⟧:【化】ショ糖,サッカロース
 sake/a rekrement/o⟦酒ˢ/a 渣ᴿ/o⟧:酒粕（さけかす）
 sake/o⟦酒ˢ/o⟧:【料】酒,日本酒,=rizvino
 sak/et/o⟦袋/小/o⟧:小袋,ポーチ,ポシェット;財布
@@ -44563,7 +44563,7 @@ agrafi/o⟦无志/o⟧:【医】【PIV】Organika perturbo de la kapablo skribi.
 agreg/aj^/o⟦团ᴬ/物/o⟧:【理】【PIV】Amasig^o, kuntenata per nekemiaj fortoj.
 agregaci/o:【PIV】1 En Francio, plej alta konkurso por dungo de liceaj au^ universitataj instruistoj: agregacio pri filozofio, pri matematiko. 2 Rango de sukcesinto en tiu konkurso.
 agregaci/ul/o⟦agregaci/者/o⟧:【PIV】Persono havanta tiun rangon.
-agregat/o:【PIV】Agregaj^o.
+agreg/at/o⟦团ᴬ/被/o⟧:【PIV】Agregaj^o.
 Agrikol/o:【PIV】Romana vira nomo.
 agronomi/a⟦农学ᴬᴵ/a⟧:【PIV】Rilata al agronomio: agronomia altlernejo; agronomia eksperimentostacio.
 aguti/o⟦鼠ᴬ/o⟧:【動】【PIV】Sp. (Dasyprocta agouti) de Amerikaj mamuloj el la ordo de rong^uloj, same granda kiel kuniklo, sed havanta tre mallongajn orelojn k voston, longajn krurojn k brilan hirtan hararon, k rapide movig^anta per saltoj.
@@ -44890,7 +44890,7 @@ ambulatori/a⟦廊ᴬ/a⟧:【医】【PIV】Rilata al ambulatorio: ambulatoria 
 ameb/ec/o⟦变形虫/性/o⟧:【生】【PIV】Karaktero de iuj c^eloj de vivuloj (ekz. (ekzemple) leu^kocitoj), kiuj kondutas en sia movig^o kiel ameboj.
 ameb/ism/o⟦变形虫/主义/o⟧:【生】【PIV】Procezaro, rezultanta el amebeco.
 ameb/oz/o⟦变形虫/症ᴼ/o⟧:【医】【PIV】Parazita malsano kau^zata de iu amebo.
-ameloz/o:【化】【PIV】Polisakarido, polimero de glukozo, (C 6 H 5 O 5) n, unu el la du c^efaj konsistaj^oj de amelo.
+ameloz/o⟦糊糖/o⟧:【化】【PIV】Polisakarido, polimero de glukozo, (C 6 H 5 O 5) n, unu el la du c^efaj konsistaj^oj de amelo.
 amelanc^/o⟦木ᴬᶜ̂/o⟧:【植】【PIV】G. (Genro) (Amelanchier el rozacoj) de 33 sp-oj (specioj) de N-hemisferaj arboj k arbustoj, kelkaj kultivataj por ornamo k unu (A. lamarckii el NE Ameriko) por mang^eblaj fruktoj.
 amen/o:【PIV】La vorto amen au^ ties eldiro: ameno diablon ne forpelas .
 amenore/o:【医】【PIV】Manko de menstruado ekster gravedeco.
@@ -48078,7 +48078,7 @@ fru/ec/o⟦早/性/o⟧:【PIV】Eco de io frua: la frueco de lia inteligento es
 frukt/er/o⟦果/粒/o⟧:【植】【PIV】C^iu frukteto, kiel parto de plurobla au^ kunmeta frukto.
 fruktolog/o⟦果学家/o⟧:【PIV】Specialisto pri fruktologio.
 fruktologi/o⟦果学/o⟧:【PIV】Fruktoscienco, branc^o de la plantanatomio, speciale pri la strukturo de fruktoj k semoj.
-fruktoz/o:【化】【PIV】Sukero, ketoheksozo, C 6 H 12 O 6, izomero de glukozo, trovig^anta i.a. (interalie, inter aliaj) en dolc^aj fruktoj k mielo.
+fruktoz/o⟦果糖/o⟧:【化】【PIV】Sukero, ketoheksozo, C 6 H 12 O 6, izomero de glukozo, trovig^anta i.a. (interalie, inter aliaj) en dolc^aj fruktoj k mielo.
 Fruktidor/o:【史】【PIV】Dekdua monato de la franca respublika kalendaro (18a de Au^g.−16a de Sept.).
 frunt/a⟦额/a⟧:【PIV】Rilata al la frunto: frunta vundo.
 frustraci/o:【心】【PIV】Frustrig^o, frustriteco, frustrateco.
@@ -50988,7 +50988,7 @@ kromatin/er/o⟦染色质/粒/o⟧:【PIV】(pp (se paroli pri) eu^kariota kroma
 kromatografi/o⟦色志/o⟧:【化】【PIV】Analizmetodo de la konsistaj^oj de miksaj^o, kiuj, solvitaj en fluido (gaso, likvo), migras tra fiksa materialo (solida au^ likva) k apartig^as pro diferencaj fizikaj ecoj (i.a. (interalie, inter aliaj) alsorbeco, solvebleco, afineco kun aliaj molekuloj): kromatografio sur maldika tavolo de silica g^elo; gaslikva, likvolikva kromatografio (la fiksa materialo estas nesolvebla likvo sur inerta pulvoro); afineckromatografio (la fiksa materialo enhavas antikorpojn, lektinojn ks (kaj simile, kaj similaj)); grandec-ekskluziva kromatografio (la fiksa materialo konsistas el grajnoj plenaj de molekulgrandaj kavetoj). see kribrado.
 kromi/i⟦金ᴷᴿ/i⟧:【PIV】(tr (transitiva)) 1 Tegi per kromio: kromiita s^talo. 2 Tani per kromio: kromiita ledo.
 kromiat/o:【化】【PIV】Salo de kromiata acido, H 2 CrO 4.
-kromiil/o:【化】【PIV】La radikalo CrO 2, trovig^anta en diversaj kombinaj^oj.
+kromiil/o⟦金基/o⟧:【化】【PIV】La radikalo CrO 2, trovig^anta en diversaj kombinaj^oj.
 kromiflav/o⟦金黄/o⟧:【PIV】Plumba kromiato PbCrO 4.
 kromist/oj:【植】【PIV】Regno (Chromista el eu^kariotoj) de vegetaj^oj kun au^ sen klorofilo, precipe unuc^elaj, filamentaj au^ koloniaj, antau^e klasifikitaj en algoj (flav-, brun-algoj, diatomeoj k rug^algoj) k fungoj (oomikotoj). Vd plantoj, fungoj, protozooj.
 kromit/o:【地質】【PIV】Mineralo el kuba oksido de kromio k fero, FeCr 2 O 4, la plej grava kromierco.
@@ -51045,7 +51045,7 @@ ksestobi/o⟦虫ᴷˢ/o⟧:【動】【PIV】G. (Genro) (Xestobium) de insektoj 
 ksifoid/o:【解】【PIV】(processus xyphoideus) Pinta kartilago, malsupra parto de la sternumo.
 ksifozur/oj:【動】【PIV】Subklaso (Xiphosura) de h^eliceruloj, kies solaj nun vivantaj reprezentantoj estas la limuledoj. Sin. (sinonimo) ponardvostuloj.
 ksil/o⟦木ᴷ/o⟧:【化】【PIV】Radiko de: ksilozo = Pentozo, C 5 H 10 O 5, trovig^anta en c^iaj lignaj^oj sub formo de polisakarido; ksilitolo = Polialkoholo, C 5 H 12 O 5, trovig^anta en multaj vegetaj^oj, uzata kiel nekaridona anstatau^anto de sukero en bombonoj, mac^gumoj, ktp (kaj tiel plu).
-ksiloz/o:【化】【PIV】Pentozo, C 5 H 10 O 5, trovig^anta en c^iaj lignaj^oj sub formo de polisakarido.
+ksiloz/o⟦木糖/o⟧:【化】【PIV】Pentozo, C 5 H 10 O 5, trovig^anta en c^iaj lignaj^oj sub formo de polisakarido.
 ksilitol/o:【化】【PIV】Polialkoholo, C 5 H 12 O 5, trovig^anta en multaj vegetaj^oj, uzata kiel nekaridona anstatau^anto de sukero en bombonoj, mac^gumoj, ktp (kaj tiel plu).
 ksilem/o:【植】【PIV】Histaro, parto de la konduka aparato de la vaskulplantoj, kiu transportas la alsupran sevon k konsistas el tri histoj, parenkima, fibra k konduka, tiu c^i el tube arig^intaj c^eloj (Vd vaskulo), kiuj konservas (Vd trakeoido) au^ ne (Vd trakeo) la transversan septon; ksilemo rolas ankau^ en la tenig^o de la planto k konsistigas la lignon de la lignecaj plantoj. Vd floemo.
 ksilen/o:【化】【PIV】Benzena hidrokarbono, C 6 H 4 (CH 3) 2, likvo kun karakteriza odoro, multe uzata kiel solvanto, ekstraktata el karbo k c^efe nafto: orto-ksilenon, meta-ksilenon k para-ksilenon oni distingas lau^ la pozicio de la metilgrupo.
@@ -54148,7 +54148,7 @@ Rafael/ec/a:【PIV】Memoriganta Rafaelon pro la delikateco k harmonio de la lin
 rafanistr/o⟦草ᴿˢ/o⟧:【植】【PIV】Sp. (Specio) de rafano (Raphanus raphanistrum), N-hemisfera, unu-, du-au^ plur-jara herbo kun hele flavaj (kelkfoje blanketaj au^ violetaj) floroj k kun longa, artika silikvo aspektanta kiel perlovico.
 rafe/o:【解】【PIV】1 Sutursimila linio videbla sur diversaj organoj: palata rafeo (raphe palati). 2【植】 a) Parto de la funiklo, kunig^inta kun la ovolo. b) La responda parto de la semo.
 rafi/o⟦木ᴿᶠ/o⟧:【植】【PIV】1 G. (Genro) (Raphia el arekacoj) de monoikaj arboj (palmoj) kun tre grandaj folioj (g^is 3 m longaj k 0,2 m larg^aj), kies fibroj estas uzataj por brosoj k por fari ligilojn; tropika g. (genro) de 28 sp-oj (specioj) el Afriko, Madagaskaro k Ameriko, i.a. (interalie, inter aliaj) R. farinifera (sin. (sinonimo (de latinscienca nomo)) R. ruffia), el Madagaskaro, kultivata por rafio 2, k R. hookeri, el U Afriko, kultivata por vino ricevita per fermentigo de la suko de junaj infloreskoj. 2 Fibro de rafio, precipe de R. farinifera, uzata por fari ligilojn.
-rafinoz/o:【化】【PIV】Trisakarido, C 18 H 32 O 16, trovig^anta kun sakarozo en la suko de multaj plantoj, i.a. (interalie, inter aliaj) de sukerbeto; kromprodukto de la rafinado de betsukero.
+rafinoz/o⟦精糖/o⟧:【化】【PIV】Trisakarido, C 18 H 32 O 16, trovig^anta kun sakarozo en la suko de multaj plantoj, i.a. (interalie, inter aliaj) de sukerbeto; kromprodukto de la rafinado de betsukero.
 raflezi/o⟦草ᴿᶠ/o⟧:【植】【PIV】G. (Genro) (Rafflesia el rafleziacoj) de parazitaj, monoikaj plantoj sen-tigaj k senfoliaj, kun giganta floro, eliganta kadavran odoron; c^. (c^irkau^) 15 sp-oj (specioj) el U Malajzio, i.a. (interalie, inter aliaj) R. arnoldii, kies floro g^is 0,8 m diametra estas la plej granda en la mondo.
 ragtim/o:【楽】【PIV】1 Speco de muziko skribita, precipe por piano, naskig^inta en la kleraj nigraj komunumoj de S Usono, karakterizata de sinkopa traktado de Eu^ropdevena muziko, k ig^inta unu el la c^efaj fontoj de j^azo. 2 Peco de tia muziko: ragtimo konsistas g^enerale el kvar temoj 16-mezuraj.
 rag^/in/o⟦王ᴿᴬ/女/o⟧:【PIV】Hinda reg^ino au^ rag^edzino. Vd begamo.
@@ -55366,7 +55366,7 @@ Stah^anov/o:【PIV】Sovetia ministo, mita iniciatinto de stah^anovismo.
 stah^anov/ism/o⟦stah^anov/主义/o⟧:【史】【PIV】En la Stalina Sovetio, kolektiva penado kreskigi la rendimenton de la laboro per pli tau^ga organizado k psikologia kondic^igo. Vd normaligi, tajlorismo, laborbrigado.
 stakat/e:【楽】【PIV】En maniero, en kiu la tonoj estas abrupte disigataj unu de la alia.
 staki/o⟦水苏/o⟧:【植】【PIV】G. (Genro) (Stachys el lamiacoj) de plantoj - unu-k plur-jaraj herboj, arbustetoj k arbustoj - kun kontrau^e duopaj folioj k kun rug^aj, flavaj au^ blankaj, dulipaj floroj g^enerale en apeksaj spikoj el s^ajnverticiloj; c^. (c^irkau^) 300 sp-oj (specioj) el la mezvarmaj k varmaj regionoj, kelkaj kultivataj por ornamo au^ legomo.
-stakioz/o:【化】【PIV】Sukero, tetrasakarido trovig^anta en plantoj, precipe el la fam. (familio) lamiacoj, sed ankau^ en la semoj de fabacoj.
+stakioz/o⟦水苏糖/o⟧:【化】【PIV】Sukero, tetrasakarido trovig^anta en plantoj, precipe el la fam. (familio) lamiacoj, sed ankau^ en la semoj de fabacoj.
 stakis/o⟦草ˢᵀᴬ/o⟧:【PIV】= stakio.
 stal/i⟦马棚/i⟧:【PIV】(ntr (netransitiva)) Resti en stalo (precipe dum vintro).
 stalon/o:【PIV】Virc^evalo.
@@ -59754,7 +59754,7 @@ sen/makul/ig/i⟦无/污/使/i⟧:【PIV】Forigi la makulojn.
 foli/makul/oz/o⟦叶/污/症ᴼ/o⟧:【植】【PIV】Kategorio de plantmalsanoj, karakterizataj de la formig^o de foli makuloj pro loka mortigo de histo: folimakulozoj ofte estas kau^zataj de parazitaj fungoj.
 sun/makul/oj⟦阳/污/oj⟧:【天】【PIV】Makuloj en la fotosfero de Suno, karakterizataj de tre intensa magneta kampo k relative malvarma temperaturo.
 sen/makzel/ul/oj⟦无/makzel/者/oj⟧:【動】【PIV】Superklaso (Agnatha) de vertebruloj sen ostaj makzeloj; nun vivantaj g-oj (genroj) estas nur petromizo k miksino.
-gren/maltoz/aj^/o⟦谷ᴳ/maltoz/物/o⟧:【PIV】Ameo.
+gren/maltoz/aj^/o⟦谷ᴳ/麦芽糖/物/o⟧:【PIV】Ameo.
 ambau^/man/a⟦两/手/a⟧:【PIV】Kapabla uzi egale facile ambau^ manojn, por fari ion.
 kvar/man/a⟦四/手/a⟧:【動】【PIV】Havanta kaptokapablajn, manecajn piedojn (pp (se paroli pri) simioj).
 kvar/man/ul/oj⟦四/手/者/oj⟧:【PIV】(ark. (arkaismo, arkaisme)) = antropomorfoj (Vd (vidu) antropo).
@@ -60163,7 +60163,7 @@ fis^/ov/ar/o⟦鱼/卵/群/o⟧:【PIV】Kungluig^intaj ovoj de fis^o: dolc^a, m
 sup/ov/aj^/o⟦汤/卵/物/o⟧:【PIV】Kuirbanitaj^o el ovoj, kiun oni pecigas k metas en supon.
 s^au^m/ov/aj^/o⟦沫/卵/物/o⟧:【PIV】Kirlitaj ovoj kun lakto, poste frititaj en pato: s^au^m ovaj^o kun s^inko, lardo.
 aldoz/o:【化】【PIV】Aldehida monosakarido.
-deoksioz/o:【化】【PIV】Monosakarido, C n H 2n O n-1 au^ C n H 2n O n-2, kun unu au^ du oksigenatomoj malpli ol en ordinara monosakarido.
+deoksioz/o⟦从氧糖/o⟧:【化】【PIV】Monosakarido, C n H 2n O n-1 au^ C n H 2n O n-2, kun unu au^ du oksigenatomoj malpli ol en ordinara monosakarido.
 furanoz/o:【PIV】Monosakarido, karakterizata de kvinedra heterociklo (parenca al furano), konsistanta el 4 karbonatomoj k unu oksigenatomo: glukofuranozo; rib ozo estas furanozo.
 ketoz/o:【化】【PIV】Ketona monosakarido.
 piranoz/o:【PIV】Monosakarido, karakterizata de sesedra heterociklo (parenca al pirano), konsistanta el 5 karbonatomoj k unu oksigenatomo: glukopiranozo.

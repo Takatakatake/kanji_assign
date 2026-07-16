@@ -17839,7 +17839,7 @@ kinet/a:【理】運動の
 kinet/a energi/o:【理】運動エネルギー
 kinet/a frot/o:【理】動摩擦
 kinet/a viskoz/ec/o:【理】動粘性,動粘度
-kinet/ik/o:【理】動力学,>>dinamiko
+kinetik/o:【理】動力学,>>dinamiko
 Kingdau^/o:=>C^ingdau^o（チンタオ）
 Kinghai/o:=>C^inghajo（チンハイ省）
 Kingstau^n/o:【地名】キングスタウン（セントビンセントの首都）
@@ -44563,7 +44563,7 @@ agrafi/o:【医】【PIV】Organika perturbo de la kapablo skribi. Vd aleksio.
 agreg/aj^/o:【理】【PIV】Amasig^o, kuntenata per nekemiaj fortoj.
 agregaci/o:【PIV】1 En Francio, plej alta konkurso por dungo de liceaj au^ universitataj instruistoj: agregacio pri filozofio, pri matematiko. 2 Rango de sukcesinto en tiu konkurso.
 agregaci/ul/o:【PIV】Persono havanta tiun rangon.
-agregat/o:【PIV】Agregaj^o.
+agreg/at/o:【PIV】Agregaj^o.
 Agrikol/o:【PIV】Romana vira nomo.
 agronomi/a:【PIV】Rilata al agronomio: agronomia altlernejo; agronomia eksperimentostacio.
 aguti/o:【動】【PIV】Sp. (Dasyprocta agouti) de Amerikaj mamuloj el la ordo de rong^uloj, same granda kiel kuniklo, sed havanta tre mallongajn orelojn k voston, longajn krurojn k brilan hirtan hararon, k rapide movig^anta per saltoj.
