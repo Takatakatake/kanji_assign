@@ -29823,7 +29823,7 @@ penetr/ig^/i⟦穿ᴾ/成/i⟧:［自］浸る
 penetr/iv/ec/o⟦穿ᴾ/能ᴵ/性/o⟧:【理】透過能
 penetr/o⟦穿ᴾ/o⟧:=penetrado（浸透）
 pen/i⟦努/i⟧:{Ｂ}［自］努める,努力する,苦労する,骨を折る,>>klopodi,>>strebi
-penicil/in/o⟦菌ᴾᴺ/女/o⟧:{Ｏ}【薬】ペニシリン##偽分解(PIV正式分解)
+penicil/in/o⟦菌ᴾᴺ/in/o⟧:{Ｏ}【薬】ペニシリン##偽分解(PIV正式分解)
 penicili/o⟦菌ᴾᴵ/o⟧:【菌】ペニシリウム（属）,アオカビ（青黴）（属）,=peniks^imo
 pen/ig/a⟦努/使/a⟧:骨の折れる,つらい
 penik/et/o⟦笔/小/o⟧:小筆,細筆
@@ -44780,7 +44780,7 @@ alk/adien/o:【化】【PIV】Nesaturita necikla hidrokarbono kun du duoblaj lig
 alk/an/o:【化】【PIV】Saturita hidrokarbono, C n H 2n+2, ekz. (ekzemple) metano, etano, propano, butano, oktano. Vd parafino.##偽分解(PIV正式分解)##過細分解 a/l/k/a/n/o
 alk/an/al/o:【PIV】Aldehido derivita de alkano. -> alkal/o.##偽分解(PIV正式分解)##過細分解 a/l/k/a/n/a/l/o
 alk/an/ol/o:【PIV】Alkoholo, derivita de alkano.##偽分解(PIV正式分解)##過細分解 a/l/k/a/n/o/l/o
-alk/an/ol/at/o⟦alk/an/ol/被/o⟧:【PIV】Metala kombinaj^o de alkanolo (ankau^: alkoksido).##偽分解(PIV正式分解)##過細分解 a/l/k/a/n/o/l/at/o
+alk/an/ol/at/o⟦alk/an/ol/盐ᴬ/o⟧:【PIV】Metala kombinaj^o de alkanolo (ankau^: alkoksido).##偽分解(PIV正式分解)##過細分解 a/l/k/a/n/o/l/at/o
 alk/an/on/o⟦alk/an/分/o⟧:【PIV】Ketono derivita de alko.##偽分解(PIV正式分解)##過細分解 a/l/k/a/n/o/n/o
 alk/en/o:【化】【PIV】Nesaturita, necikla hidrokarbono kun unu duobla ligo, C n H 2n, ekz. (ekzemple) eteno, propeno.##偽分解(PIV正式分解)##過細分解 a/l/k/e/n/o
 alk/il/o⟦alk/基/o⟧:【化】【PIV】Radiko de alkano, C n H 2n+1 -; simb. (simbolo) en formuloj: R.##偽分解(PIV正式分解)##過細分解 a/l/k/il/o
@@ -53224,7 +53224,7 @@ pene/ed/oj⟦虾ᴾ/科ᴱ/oj⟧:【動】【PIV】Fam. (Familio) (Paeneidae) de
 peneplan/o:【地理】【地質】【PIV】Vasta tersurfaco, proks. (proksimume) ebena, finerozia stadio de antau^e montara regiono.
 penicil/o⟦菌ᴾᴺ/o⟧:【植】【PIV】G. (Genro) (Penicillium el Trichocomaceae) de neperfektaj fungoj kun penikforma konidiujo; c^. (c^irkau^) 220 sp-oj (specioj), tre disvastig^intaj, kelkaj produktantaj bluan au^ verdan feltaj^on sur s^imanta pano, fromag^o, pomo, citrono k.a. (kaj aliaj). Sin. (sinonimo) peniks^imo.
 penicil/in/az/o⟦菌ᴾᴺ/in/az/o⟧:【化】【PIV】Bakteria enzimo kontrau^a al la ago de penicilino.##偽分解(PIV正式分解)
-penicil/in/o/terapi/o⟦菌ᴾᴺ/女/o/疗/o⟧:【医】【PIV】Kuracado per penicilino.##偽分解(PIV正式分解)
+penicil/in/o/terapi/o⟦菌ᴾᴺ/in/o/疗/o⟧:【医】【PIV】Kuracado per penicilino.##偽分解(PIV正式分解)
 penik/form/a⟦笔/形/a⟧:【PIV】Havanta la formon de peniko.
 penis/ing/o⟦阴茎/座/o⟧:【PIV】1 Ingo, uzata de kelkaj Afrikaj k S-Amerikaj popoloj por s^irmi au^ ornami la penison. 2 = kondomo.
 penis/it/o⟦阴茎/炎ᵀ/o⟧:【医】【PIV】Inflamo de la tuta peniso.##偽分解
