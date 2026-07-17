@@ -50164,7 +50164,7 @@ kas^ub/o:【PIV】Ano de slava popolo, log^anta en Kas^ubio.
 kas^ub/a:【PIV】Rilata al kas^uboj: la kas^uba lingvo.
 Kas^ub/i/o:【PIV】Regiono en NU Pollando.
 kat/aj^/o⟦猫/物/o⟧:【PIV】Ago propra al katoj.
-kat/et/o⟦猫/小/o⟧:【数】【PIV】C^eorta latero de triangulo. Vd hipotenuzo.##偽分解(衝突語)
+kat/et/o⟦股/小/o⟧:【数】【PIV】C^eorta latero de triangulo. Vd hipotenuzo.##偽分解(衝突語)
 katabol/o⟦分解/o⟧:【生】【PIV】Tuto de la procezoj de malkonstruo de protoplasmo fare de la vivuloj: katabolo estas energidona. Vd anabolo, metabolo.
 katabol/aj^/o⟦分解/物/o⟧:【PIV】Produkto de la katabolo.
 katadioptrik/o:【理】【PIV】Parto de optiko pri la reflekto (katoptriko) k refrakto (dioptriko) de la lumradioj.
@@ -56312,7 +56312,7 @@ torij/o:【建】【PIV】Pordego, el ligno, fero au^ s^tono, starigita sendepen
 torinok/o:【PIV】Speco de japana papero, manefarita el plantofibroj de brusonetio k vikstremio k el gluaj^o, dika k bonkvalita, uzata ankau^ en Eu^ropo por gravegaj dokumentoj k.a. (kaj aliaj).
 Torkemad/o:【PIV】G^enerala inkvizitoro de Hispanio, (T. de Torquemada, 1420−1498), simb. (simbolo) de fanatikeco k krueleco.
 tormentil/o⟦草ᵀᴱ/o⟧:【植】【PIV】Sp. (Specio) de potentilo (Potentilla erecta, sin. (sinonimo (de latinscienca nomo)) P. tormentilla) el Eu^ropo k U Azio, kun 3-folieraj, 2-stipulaj folioj, kun 4-sepalaj k 4-petalaj, flavaj floroj k kun adstringa radiko medicine uzata.
-torn/ad/o⟦车ᵀᴺ/行/o⟧:【気】【PIV】Fortega rotacianta atmosfera perturbo lau^diametre relative malgranda. Vd ciklono, trombo.##偽分解(衝突語)
+torn/ad/o⟦旋/行/o⟧:【気】【PIV】Fortega rotacianta atmosfera perturbo lau^diametre relative malgranda. Vd ciklono, trombo.##偽分解(衝突語)
 torpor/o:【医】【PIV】1 Stato de korpa k mensa malvigleco. Vd stuporo. 2【生】 (pp (se paroli pri) iuj bestoj) Dormema stato, karakterizata de inhibo de la sensaj k motoraj agadoj k de malpliig^o de la spirado, reage al ekstremaj medikondic^oj, ekz. (ekzemple) troa malvarmo. Vd kvieco.
 tort/et/o⟦饼/小/o⟧:【PIV】Unuporcia malgranda torto.
 tort/uj/o⟦饼/器/o⟧:【PIV】Bakpleto, g^enerale rondforma.

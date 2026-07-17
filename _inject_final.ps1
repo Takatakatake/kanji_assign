@@ -125,6 +125,8 @@ foreach($pair in $pairs){
         elseif(($s -eq 'di') -and $idx -eq 0 -and $isSysChem -and ($idx+1 -lt $nseg) -and ($alkylStem.ContainsKey($segs[$idx+1]) -or $segs[$idx+1] -eq 'oksi')){ $tok='二'; $thisMapped=$true }   # 化学倍数接頭di-→二(dimetoksi二/甲/氧)。神(di/o)はアルキル隣接+化学タグで弁別(2026-07-17)
         elseif((($s -eq 'fen') -or ($s -eq 'alk')) -and $isSysChem){ $tok=$s }   # 芳香/総称の一级外語幹→ラテン: fen(苯 一级外)·alk(烷総称)。föhn焚风fen②·elk驼鹿alk の誤友回避(2026-07-17)
         elseif(($s -eq 'dur') -and ($rest -match '銀貨|ドゥーロ')){ $tok='币'; $thisMapped=$true }   # dur/o同綴の語釈scoped是正: PEJVO銀貨ドゥーロ(【史】)→币。硬度dur=硬(base・PIV L46963)は語釈非該当で不発火。原本更新で同綴dur/o(硬度)追加によりsep→amb降格し銀貨が硬に退行→gloss限定で復元(2026-07-17)
+        elseif(($s -eq 'kat') -and $idx -eq 0 -and ($rest -match 'latero.*triangul|C\^eorta latero')){ $tok='股'; $thisMapped=$true }   # kat/et同綴の語釈scoped是正: cathetus(kateto=直角三角形の直角辺・希káthetos垂線)→股(中国数学 勾股=直角边)。子猫kat/et(猫/小・語釈「小猫」)は非該当で不発火=猫維持(2026-07-18)
+        elseif(($s -eq 'torn') -and ($rest -match 'rotacianta')){ $tok='旋'; $thisMapped=$true }   # torn/ad同綴の語釈scoped是正: tornado(【気】Fortega rotacianta=激しい回転暴風=竜巻)→旋(旋回)。旋盤torn/ad(车/行・語釈「旋盤加工」)は非該当で不発火=车維持(2026-07-18)
         elseif($hsep.ContainsKey($w) -and $hsep[$w].ContainsKey($s)){ $tok=$hsep[$w][$s]; $thisMapped=$true; $hsepN++ }
         elseif($segLat.ContainsKey($w) -and ($segLat[$w] -contains $s)){ $tok=$s }   # 固有名分節(Gram染色)=ラテン保持・非mapped(§7)。disp(克)に落ちる前に捕捉
 
