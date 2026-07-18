@@ -25184,7 +25184,7 @@ meta/psik/i/o⟦超ᴹ/心ᴾˢ/i/o⟧:心霊学,心霊研究##偽分解(PIV正�
 meta/stabil/a⟦超ᴹ/稳/a⟧:【理】準安定の##偽分解(PIV正式分解)
 meta/tars/o⟦超ᴹ/足根/o⟧:【解】中足（ちゅうそく）;中足骨##偽分解(PIV正式分解)
 metatez/o:【声】音位転換
-metazo/oj⟦后生/oj⟧:【動】後生動物
+meta/zo/oj⟦超ᴹ/兽ᶻ/oj⟧:【動】後生動物##偽分解##エス的分解
 metempsikoz/o⟦轮回/o⟧:{Ｏ}【宗】輪廻（りんね）
 meteo/logi/a bulten/o⟦气ᴹ/学ᴸᴳ/a 报ᴮ/o⟧:【気】気象通報##偽分解
 meteo/logi/a observatori/o⟦气ᴹ/学ᴸᴳ/a 天文台/o⟧:気象台##偽分解
@@ -32431,7 +32431,7 @@ protokol/o⟦录ᴾ/o⟧:{Ｏ}議事録,調書,議定書;【情】ログ,運転�
 prot/on/o⟦质子/子ᴼ/o⟧:【理】陽子,>>atomo,>>elektrono,>>neu^trono##偽分解(PIV正式分解)
 proto/plasm/o⟦原ᴾᵀ/浆/o⟧:【生】原形質##偽分解(PIV正式分解)
 proto/tip/o⟦原ᴾᵀ/型/o⟧:{Ｏ}原型,基本型,=pratipo;【機】試作品,プロトタイプ##偽分解(PIV正式分解)
-protozo/oj⟦原兽/oj⟧:【動】原生動物（門）
+proto/zo/oj⟦原ᴾᵀ/兽ᶻ/oj⟧:【動】原生動物（門）##偽分解(PIV正式分解)
 protuberanc/o⟦隆ᴾ/o⟧:【解】隆起,突起,【天】（太陽の）紅炎
 prov/a⟦试/a⟧:試みの,試験的な
 prov/ad/o⟦试/行/o⟧:（一連の）試み,試験,試行
@@ -46061,7 +46061,7 @@ bril/aj^/o⟦亮ᴮ/物/o⟧:【PIV】1 Io havanta brilon. 2 Ornamaj^o brila, se
 Brindizi/o:【PIV】Havenurbo en la SE parto de Italio (N 40°38', E 17°56').
 brioc^/o:【PIV】Fajna kuko el faruno k ovoj, en formo de bulo kronita de alia, pli malgranda bulo, au^ en formo de pano. Sin. (sinonimo) buterbulko.
 brioni/o⟦瓜ᴮ/o⟧:【植】【PIV】G. (Genro) (Bryonia el kukurbacoj) de plurjaraj, monoikaj au^ dioikaj lianoj kun tubera, laksiga, venena radiko k kun karnaj fruktoj (multasemaj beroj); c^. (c^irkau^) 12 sp-oj (specioj) el Eu^ropo, N Afriko, Kanarioj k U Azio.
-briozo/oj:【動】【PIV】Filumo (Bryozoa) de akvaj senvertebraj animaloj, tre malgrandaj, kies kolonioj formas krustecan kovron sur fuko, s^tonoj ks (kaj simile, kaj similaj) au^ branc^aron similan al la talo de iuj algoj.
+bri/o/zo/oj⟦苔ᴮ/o/兽ᶻ/oj⟧:【動】【PIV】Filumo (Bryozoa) de akvaj senvertebraj animaloj, tre malgrandaj, kies kolonioj formas krustecan kovron sur fuko, s^tonoj ks (kaj simile, kaj similaj) au^ branc^aron similan al la talo de iuj algoj.##偽分解##エス的分解
 brisur/o⟦标ᴮ/o⟧:【PIV】Distinga marko, aldonita al iu blazono, por g^in distingi de la blazono de la c^efa heredanto.
 brisur/um/it/a⟦标ᴮ/um/受/a⟧:【PIV】Signita per distinga marko.
 briton/a:【PIV】Rilata al britonoj au^ al grupo de keltaj lingvoj (i.a. (interalie, inter aliaj) bretona k kimra). -> gaelo.
@@ -47032,7 +47032,7 @@ ekbali/o⟦瓜ᴱ/o⟧:【植】【PIV】G. (Genro) (Ecballium el kukurbacoj) de
 ekdison/o:【生】【PIV】Steroida hormono de artropodoj, kiu estigas kutiklan s^ang^ig^on. -> mudo.
 ekidn/o⟦兽ᴱᴰ/o⟧:【動】【PIV】Kn (Kolektiva nomo) de mamuloj (« Echidna», ampleksanta la g-ojn Tachyglossus k Zaglossus) el la ordo de kloakuloj, kiuj naskas ovojn, havas erinacosimilan felon k vivas en Au^stralio, Tasmanio k Novgvineo.
 ekin/oid/oj⟦海胆/似ᴼ/oj⟧:【動】【PIV】Klaso (Echinoidea) de pli-malpli globformaj ekinodermoj, kovritaj de kalka karapaco kun longaj, ofte moveblaj pikiloj.
-ekinozo/oj:【PIV】Subfilumo (Echinozoa) de ekinodermoj, ampleksanta la ekinoidojn k la holoturioidojn.
+ekin/o/zo/oj⟦海胆/o/兽ᶻ/oj⟧:【PIV】Subfilumo (Echinozoa) de ekinodermoj, ampleksanta la ekinoidojn k la holoturioidojn.##偽分解##エス的分解
 ekinokok/o⟦虫ᴱᴷ/o⟧:【動】【PIV】G. (Genro) (Echinococcus) de plathelmintoj el la klaso de cestodoj, kies tre malgranda, plenkreska formo vivas en la intesto de hundo k.a. (kaj aliaj) kanisedoj, sed kies larvo, la hidatido, kiu povas atingi la dimensiojn de homa kapo, trovig^as precipe en la hepato de diversaj mamuloj, i.a. (interalie, inter aliaj) dombestoj k homoj. see tenio.
 ekinops/o⟦菊ᴱ/o⟧:【植】【PIV】G. (Genro) (Echinops el asteracoj) de du-k plur-jaraj herboj g^enerale dornaj k aspektantaj kiel karduoj, sed kun floroj en globaj kapituloj; c^. (c^irkau^) 120 sp-oj (specioj) el Eu^ropo, la Mediteranea regiono, C Azio k montaroj de tropika Afriko, kelkaj pororname kultivataj.
 ekip/ad/o⟦备ᴱ/行/o⟧:【PIV】Ago de ekipanto.
@@ -51857,7 +51857,7 @@ meh^an/o/grafi/o⟦械ᴹᴺ/o/志ᴳ/o⟧:【PIV】Tekniko, per kiu oni registr
 meh^an/o/terapi/o⟦械ᴹᴺ/o/疗/o⟧:【医】【PIV】Mekanikoterapio.##偽分解
 Meh^len/o:【PIV】Urbo en Flandrio, fama pro sia punto (4°29′E, 51°01′N).
 Mejbom/o:【PIV】Germana medicinisto (Meibomius, 1638−1700).
-mejbomit/o:【医】【PIV】Inflamo de mejboma(j) glando(j).
+mejbom/it/o⟦mejbom/炎ᵀ/o⟧:【医】【PIV】Inflamo de mejboma(j) glando(j).##偽分解(PIV正式分解)
 mejoz/o⟦减分/o⟧:【生】【PIV】Tuto de la du sinsekvaj dividig^oj de duploida nukleo, el kiu rezultas disig^o de la homologaj kromosomoj (dum la unua dividig^o) k estig^o de 4 unuploidaj nukleoj: la gametoj de la plurc^elaj animaloj formig^as post mejozo.
 mejoz/a⟦减分/a⟧:【PIV】Rilata al mejozo: mejozaj sporoj (Vd (vidu) sporo). Vd mitozo.
 Meklenburgi/o-Antau^/pomer/i/o:【PIV】Unu el la landoj de FRG, en ties NE parto (S^verino).
@@ -51959,7 +51959,7 @@ meta/mer/ec/o⟦超ᴹ/链节/性/o⟧:【PIV】Segmenteco.##偽分解(PIV正式
 meta/morf/ig^/i⟦超ᴹ/形ᴹ/成/i⟧:【PIV】Ig^i metamorfa: el metamorfig^o rezultas perdo de akvo, dum el alteraciig^o rezultas gajno de akvo.##偽分解(PIV正式分解)
 meta/staz/o⟦超ᴹ/滞ˢᶻ/o⟧:【医】【PIV】Kancerrecidivo en alia korpoparto.##偽分解(PIV正式分解)
 meta/tars/a⟦超ᴹ/足根/a⟧:【PIV】Rilata al metatarso. Vd metakarpo.##偽分解(PIV正式分解)
-metazo/o⟦后生/o⟧:【動】【PIV】Plurc^ela, hista animalo.
+meta/zo/o⟦超ᴹ/兽ᶻ/o⟧:【動】【PIV】Plurc^ela, hista animalo.##偽分解##エス的分解
 mete/o:【PIV】Atmosfera elemento au^ fenomeno, rilata al la klimato k vetero (ekz. (ekzemple): humido, nubo, vento k.a. (kaj aliaj)); meteobulteno, meteostacio.
 metencefal/o:【解】【PIV】Tiu antau^a parto de la rombencefalo (posta cerboveziko), kiu konsistigas la cerebelon k la ponton.
 meteor/a⟦陨/a⟧:【PIV】Rilata al meteoro: meteora dus^o (apero de multaj meteoroj en la dau^ro de mallonga tempo, nomataj lau^ la konstelacio, el kies direkto ili s^ajne venas, ekz. (ekzemple) Leonidoj).
@@ -51995,7 +51995,7 @@ mez/o/mer/ism/o⟦中/o/链节/主义/o⟧:【PIV】Fenomeno, rezultanta el mezo
 mez/o/sau^r/oj⟦中/o/爬虫/oj⟧:【動】【PIV】Ordo (Mesosauria) de malgrandaj, maraj, anapsidaj reptilioj, el la karbonio k permio de Afriko k S Ameriko.##偽分解##エス的分解
 mezostik/o:【PIV】Poemo, en kiu la mezaj literoj de c^iu verso, sinsekve legitaj, formas nomon au^ vorton. Vd akrostiko, telestiko.
 mezotint/o:【PIV】Speco de tuc^-gravuro, per kiu oni ricevas duontonojn.
-mezozo/oj:【動】【PIV】Filumo (Mesozoa, sin. (sinonimo (de latinscienca nomo)) Planuloidea, el metazooj), kies reprezentantoj konsistas el nur unu c^eltavolo, c^irkau^anta unu grandan c^elon, k kiuj parazitas en la nefroj de maraj senvertebruloj.
+mez/o/zo/oj⟦中/o/兽ᶻ/oj⟧:【動】【PIV】Filumo (Mesozoa, sin. (sinonimo (de latinscienca nomo)) Planuloidea, el metazooj), kies reprezentantoj konsistas el nur unu c^eltavolo, c^irkau^anta unu grandan c^elon, k kiuj parazitas en la nefroj de maraj senvertebruloj.##偽分解##エス的分解
 mezur/aj^/o⟦测/物/o⟧:【PIV】Detala priskribo de konstruaj^o, kun indiko de c^iuj mezuroj.
 mezur/ebl/a⟦测/可/a⟧:【PIV】1 Tia, ke oni povas g^in mezuri: la amaso de viaj scioj estas facile mezurebla. 2 (pp (se paroli pri) aro, funkcio) Tia, ke oni povas g^in mezuri; kiu apartenas al la argumentaro de donita mezuro: uzante la aksiomon pri elekto, oni povas konstrui nemezureblan funkcion.
 mezur/ig^/i⟦测/成/i⟧:【PIV】Esti mezurebla: tio mezurig^as per futoj k coloj; (f (figurasence)) ne c^iam per ag^o mezurig^as la sag^o .
@@ -53057,7 +53057,7 @@ para/tiroid/o⟦para/甲状/o⟧:【PIV】Vd (vidu) tiroido.
 parazit/ec/o⟦寄生/性/o⟧:【生】【PIV】Vivmaniero de parazito. Vd simbiozo.
 parazit/oz/o⟦寄生/症ᴼ/o⟧:【医】【PIV】(kn (kolektiva nomo)) Malsano, kau^zata de parazito.
 parazit/icid/o⟦寄生/杀/o⟧:【PIV】Substanco, uzata por mortigi parazitojn.##偽分解(PIV正式分解)
-parazo/oj:【動】【PIV】Eksa subregno (Parazoa) de animaloj, ampleksanta la spongulojn, nun inkludita en la metazooj.
+para/zo/oj⟦para/兽ᶻ/oj⟧:【動】【PIV】Eksa subregno (Parazoa) de animaloj, ampleksanta la spongulojn, nun inkludita en la metazooj.##偽分解##エス的分解
 Parc/in/o:【PIV】= Parco. -> Atropo.
 parcel/ist/o⟦块ᴾ/家/o⟧:【PIV】Posedanto de parcelo 2, bienetisto.
 parcial/a⟦部ᴾᶜ/a⟧:【PIV】(pp (se paroli pri) derivaj^o) = parta.
@@ -53960,7 +53960,7 @@ protokol/ist/o⟦录ᴾ/家/o⟧:【PIV】Tiu, kiu estas komisiita protokoli au^
 protonem/o:【植】【PIV】Unua korpo de la briofitoj, c^ela, klorofila, g^enerale filamenta, aperanta tuj post la g^ermado de la sporo.
 proto/pter/o⟦原ᴾᵀ/翅/o⟧:【動】【PIV】G. (Genro) (Protopterus) el la subklaso de dipnoj, tropikafrikaj pulmfis^oj kapablaj ens^lime travivi la elsekig^on de la marc^oj, kie ili vivas.##偽分解##エス的分解
 prototrof/a:【生】【PIV】(pri c^elo au^ c^elaro) Ne bezonanta specialan organikan nutraj^on por kreskado k reproduktig^o. Vd au^ksotrofa, au^totrofa, heterotrofa.
-protozo/o⟦原兽/o⟧:【PIV】Vd (vidu) zoo.
+proto/zo/o⟦原ᴾᵀ/兽ᶻ/o⟧:【PIV】Vd (vidu) zoo.##偽分解(PIV正式分解)
 protrud/a⟦凸ᴾ/a⟧:【解】【PIV】1 Elstaranta, pp (se paroli pri) diversaj anatomiaj elementoj de individuo au^ homgrupo, kompare kun la samaj elementoj de aliaj individuoj au^ homgrupoj: protrudaj zigomoj. Vd prominenta. 2【医】 Elstaranta, pp (se paroli pri) organo: la protrudaj okuloj en la hipertiroidismo. 3【数】 (pp (se paroli pri) konuso) Tia, ke g^i ne enhavas tutan rekton.
 protrud/ec/o⟦凸ᴾ/性/o⟧:【PIV】Eco de elemento au^ organo protruda: protrudeco de la makzelo. Vd prognateco.
 Provenc/a:【PIV】Rilata al Provenco au^ al la Provencanoj: la Provenca klimato; la Provencaj dialektoj (Vd okcitana).
@@ -55345,7 +55345,7 @@ spor/o/goni/o⟦胞子/o/源ᴳᴼ/o⟧:【植】【PIV】Sporofito de la briofi
 spor/o/trik/o⟦胞子/o/织ᵀᴿ/o⟧:【植】【PIV】G. (Genro) (Sporothrix) de neperfektaj fungoj; 23 tre disvastig^intaj sp-oj (specioj), el kiuj S. schenkii estigas sporotrikozon.##偽分解##エス的分解
 spor/o/trik/oz/o⟦胞子/o/织ᵀᴿ/症ᴼ/o⟧:【医】【PIV】Parazita malsano, kau^zata de sp. de sporotriko k karakterizata de etaj gumabscesoj.##偽分解##エス的分解
 spor/o/trik/um/o⟦胞子/o/织ᵀᴿ/um/o⟧:【植】【PIV】G. (Genro) (Sporotrichum) kosmopolita de c^. (c^irkau^) 40 sp-oj (specioj) de neperfektaj fungoj.##偽分解##エス的分解
-sporozo/oj:【PIV】Vd (vidu) zoo ①.
+spor/o/zo/oj⟦胞子/o/兽ᶻ/oj⟧:【PIV】Vd (vidu) zoo ①.##偽分解(PIV正式分解)
 sport/ul/o⟦体ˢ/者/o⟧:【PIV】Tiu, kiu praktikas iun sporton: vera sportisto, k krome inteligenta.
 spot/o:【PIV】Malgranda lumj^etilo, produktanta luman makulon au^ radion sur apartan lokon de la scenejo.
 spraj/i:【PIV】(tr (transitiva)) Pulvorigi likvon sur ian surfacon: spraji antisepsan likvon sur vundon, sur operacian areon.
@@ -61792,7 +61792,7 @@ prem/vund/o⟦压/伤/o⟧:【医】【PIV】Vundo pro forta k longdau^ra premo 
 zeta:【PIV】La sesa grafemo de la greka alfabeto (Ζ, ζ), prononcata dz.
 jujub/zizif/o⟦枣ᴶ/枣ᶻ/o⟧:【PIV】(Z. jujuba). J ujubarbo.
 lotus/o/zizif/o⟦莲/o/枣ᶻ/o⟧:【PIV】(Z. lotus) L otuso 4.
-protozo/oz/o⟦原兽/症ᴼ/o⟧:【医】【PIV】Kn (Kolektiva nomo) por infektaj malsanoj de homo k bestoj, kau^zataj de protozooj.
+proto/zo/oz/o⟦原ᴾᵀ/兽ᶻ/症ᴼ/o⟧:【医】【PIV】Kn (Kolektiva nomo) por infektaj malsanoj de homo k bestoj, kau^zataj de protozooj.##偽分解(PIV正式分解)
 flank/zon/o⟦侧/带/o⟧:【PIV】Aro de tiuj frekvencoj en frekvencospektro de modulada fenomeno, kiuj trovig^as supre k malsupre de la portonda frekvenco: unuflankzono, duflankzono.
 kartoc^/zon/o⟦壳ᴷᵀ/带/o⟧:【PIV】Zono kun ingoj por teni kartoc^ojn. Vd kartoc^balteo.
 sen/zorg/ej/o⟦无/护/所/o⟧:【PIV】Fantazia nomo de kampara domo au^ kasteleto: la Senzorgejo de Frederiko la Dua.

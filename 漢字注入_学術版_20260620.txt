@@ -22370,7 +22370,7 @@ lit/kovr/il/o⟦床/盖/具/o⟧:掛け布団,掛け毛布;ベッドカバー
 lit/o⟦床/o⟧:{Ｂ}ベッド,寝台;寝床;（動物の）ねぐら
 litograf/aj^/o⟦litograf/物/o⟧:【印】=litografo（石版印刷物）
 litograf/i:{Ｏ}［他］【印】石版印刷する,石版刷りにする
-litografi/o⟦床志/o⟧:{Ｏ}【印】石版印刷（術）,リトグラフィー
+litografi/o⟦石志/o⟧:{Ｏ}【印】石版印刷（術）,リトグラフィー
 litograf/ist/o⟦litograf/家/o⟧:【印】石版工,石版師
 litograf/o:【印】石版印刷物;石版画,リトグラフ
 litorin/o:【貝】タマキビガイ（属）（玉黍貝）
@@ -45705,8 +45705,8 @@ batik/o:【服】【PIV】Metodo, precipe uzata en Javo, por tinkturi s^tofojn p
 batisfer/o:【PIV】Granda, fortika, log^ebla, subakvigebla sfero au^ sferoido, por observado de la marprofundoj. = batiskaf/o
 batokrom/a:【理】【PIV】Aliiganta la koloron en la direkto al rug^o: iuj atomgrupoj havas batokroman efikon. Vd hipsokroma.
 batolit/o:【地質】【PIV】Granda, pli-malpli ovoida plutono. Vd lakolito.
-batometr/o⟦打计/o⟧:【PIV】Instrumento servanta por mezuri la profundon de akvujoj.
-batometri/o⟦打测/o⟧:【PIV】Scienco pri la mezuro de la profundoj.
+batometr/o⟦深计/o⟧:【PIV】Instrumento servanta por mezuri la profundon de akvujoj.
+batometri/o⟦深测/o⟧:【PIV】Scienco pri la mezuro de la profundoj.
 batrak/o⟦蛙ᴮ/o⟧:【PIV】(ark. (arkaismo, arkaisme)) = amfibio.
 batu/o⟦围猎/o⟧:【PIV】Amasc^asado de bestoj, en kiu servistoj pelas ilin el iliaj kas^ejoj, por ke ili estu trafeblaj de la pafistoj.
 batu/i⟦围猎/i⟧:【PIV】(ntr (netransitiva)) Tiamaniere c^asi.
@@ -51500,14 +51500,14 @@ listeri/oz/o⟦listeri/症ᴼ/o⟧:【医】【PIV】Sepsemio, kau^zata de liste
 liter/e⟦字/e⟧:【PIV】G^uste, kiel skribite: mi (ombro) litere ricevis karnon k ostojn ; mi simple k litere ofte ne havis ec^ kion mang^i .
 liter/a-cifer/a⟦字/a-数ᶜ/a⟧:【情】【PIV】(pp (se paroli pri) signaro, kodo au^ datenoj) Estanta litero au^ cifero, au^ rilata al literoj au^ ciferoj. -> c^eno.
 litiaz/o⟦结石ᴸ/o⟧:【医】【PIV】Formig^o de s^tonetoj (kalkulusoj) en unu glando, veziko ktp (kaj tiel plu): rena, saliva, lakta, gala, intesta litiazoj. Sin. (sinonimo) gruzmalsano.
-litologi/o⟦床学/o⟧:【地質】【PIV】Parto de petrologio pri la fizikaj karakteroj de la petroj.
+litologi/o⟦石学/o⟧:【地質】【PIV】Parto de petrologio pri la fizikaj karakteroj de la petroj.
 litopon/o:【化】【技】【PIV】Blanka pigmento, miksaj^o de zinka sulfido (ZnS) k baria sulfato (BaSO 4), uzata por la fabrikado de farboj.
 litops/o⟦草ᴸˢ/o⟧:【植】【PIV】G. (Genro) (Lithops el aizoacoj) de plurjaraj, sukulentaj preskau^ sen-tigaj plantoj kun grupo de folioj dau^raj, duopaj, mallongaj, dikaj, obkonusaj; c^. (c^irkau^) 35 sp-oj (specioj) el S Afriko, pluraj pote kultivataj.
 litorn/o⟦鸟ᴸᵀ/o⟧:【動】【PIV】Granda sp. de turdo (Turdus pilaris) kun grizaj verto, kapo k postdorso. Sin. (sinonimo) griza turdo.
-litosfer/o⟦床球/o⟧:【地質】【PIV】Supra, rigida tavolego de la terglobo, ampleksanta la kruston k la ekstremsupran parton de la mantelo. Vd astenosfero.
-litoskop/o⟦床镜/o⟧:【医】【PIV】Ilo, uzata por vidi k mezuri s^tonon en la veziko.
+litosfer/o⟦石球/o⟧:【地質】【PIV】Supra, rigida tavolego de la terglobo, ampleksanta la kruston k la ekstremsupran parton de la mantelo. Vd astenosfero.
+litoskop/o⟦石镜/o⟧:【医】【PIV】Ilo, uzata por vidi k mezuri s^tonon en la veziko.
 litosperm/o⟦草ᴸᴿ/o⟧:【植】【PIV】1 (ss (striktasence)) G. (Genro) (Lithospermum el boragacoj) de c^. (c^irkau^) 45 sp-oj (specioj) de unu-k plur-jaraj herboj el la mezvarmaj regionoj. 2 (vs (vastasence)) Litospermo 1 k parencaj g-oj (genroj), herboj, arbustetoj k arbustoj kun blankaj, flavaj, bluaj au^ violbluaj floroj en skorpioidaj cumoj; c^. (c^irkau^) 55 sp-oj (specioj), kelkaj pororname kultivataj.
-litotomi/o⟦床切/o⟧:【医】【PIV】Fragmentigo k eltiro de s^tono el la urina veziko.
+litotomi/o⟦石切/o⟧:【医】【PIV】Fragmentigo k eltiro de s^tono el la urina veziko.
 litotrici/o:【医】【PIV】Disrompo de s^tono en la urina veziko, por ke g^i elfluu kune kun la urino.
 litrum/o⟦草ᴸᴹ/o⟧:【植】【PIV】G. (Genro) (Lythrum el litrumacoj) de unu-k plur-jaraj herboj - iuj malsupraparte lignecaj - kun purpuraj, rozaj au^ blankaj periginaj floroj en verticiloj arig^intaj en apeksajn spikojn, k kun dukameraj kapsuloj multasemaj; kosmopolita g. (genro) de c^. (c^irkau^) 35 sp-oj (specioj), i.a. (interalie, inter aliaj) salikario.
 Litv/an/o:【PIV】Log^anto de tiu iama regno, kiu g^is 1915 restis, sendependa de la Pola Reg^olando, sub la rusa regado: Z. estis Litvano, sed ne litovo.
