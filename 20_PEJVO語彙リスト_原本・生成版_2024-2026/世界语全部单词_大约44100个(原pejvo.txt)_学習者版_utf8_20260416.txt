@@ -49119,7 +49119,7 @@ hom/ig^/ad/o:【PIV】Tuto de la biologiaj k sociaj procezoj, kiuj ebligis la tr
 hom/ed/oj:【PIV】Familio (Hominidae) de primatoj, entenanta la c^impanzojn, la gorilojn k la homenojn.
 hom/en/oj:【PIV】Subfamilio (Homininae) de homedoj, ampleksanta la au^stralopitekojn, la parantropojn, la fosiliajn k la nunan homojn.##偽分解(PIV正式分解)##過細分解 hom/e/n/oj
 hom/iz/i:【PIV】(pp (se paroli pri) besta lakto) Industrie modifi, por ke g^i lau^konsiste estu kiel eble plej simila al la homa lakto.
-homoide/oj:【PIV】Superfamilio de primatoj (Hominoidea) entenanta tri familiojn: la gibonedojn, la orangutanojn k la homedojn.
+hom/oide/oj:【PIV】Superfamilio de primatoj (Hominoidea) entenanta tri familiojn: la gibonedojn, la orangutanojn k la homedojn.##偽分解(PIV正式分解)
 homeo/morf/a:【数】【PIV】(pp (se paroli pri) spaco) Havanta ekzakte la samajn topologiajn ecojn kiel alia spaco.##偽分解
 homeo/morf/o:【PIV】La eco esti homeomorfa.##偽分解
 homeo/morfi/o:【数】【PIV】Kontinua bijekcio, kies inverso ankau^ kontinuas.##偽分解
@@ -50462,7 +50462,7 @@ kobr/o:【動】【PIV】Kn (Kolektiva nomo) de la venenaj serpentoj el la g. (g
 Kocit/o:【PIV】Rivero en Hadeso. Vd Akerono, Leteo.
 koc^/o:【動】【PIV】1 Sp. (Specio) (Dactylopius coccus, sin. (sinonimo (de latinscienca nomo)) Coccus cacti el fam. (familio) Dactylopiidae), parazitanta sur kaktoj (precipe opuntioj), kiu sekrecias vakson k enhavas rug^an substancon, fonton de koc^enilo; indig^ena el Meksiko sed importita al Honduraso, Kanariaj Insuloj k Alg^erio. 2 G. (Genro) (Coccus el fam. (familio) koc^edoj), kies plenkreskuloj estas kovritaj de vaksa sekrecio.
 koc^/ed/oj:【動】【PIV】Fam. (Familio) (Coccidae) de insektoj al kiu apartenas i.a. (interalie, inter aliaj) koc^o 2.
-koc^oide/oj:【PIV】Superfam. (Coccoidea) de insektoj el la ordo de hemipteroj, subordo de sternorinkoj, al kiu apartenas i.a. (interalie, inter aliaj) koc^o 1 k 2; la inoj estas senflugilaj, sen-au^ tre mallong-piedaj, rondformaj k parazitas sur diversaj specioj de vaskulplantoj, dum la virseksuloj estas duflugilaj k ne sin nutras; ili sekrecias vakson au^ lakon.
+koc^/oide/oj:【PIV】Superfam. (Coccoidea) de insektoj el la ordo de hemipteroj, subordo de sternorinkoj, al kiu apartenas i.a. (interalie, inter aliaj) koc^o 1 k 2; la inoj estas senflugilaj, sen-au^ tre mallong-piedaj, rondformaj k parazitas sur diversaj specioj de vaskulplantoj, dum la virseksuloj estas duflugilaj k ne sin nutras; ili sekrecias vakson au^ lakon.##偽分解(PIV正式分解)
 koc^/ul/oj:【PIV】Superfam. (Coccoidea) de insektoj el la ordo de hemipteroj, subordo de sternorinkoj, al kiu apartenas i.a. (interalie, inter aliaj) koc^o 1 k 2; la inoj estas senflugilaj, sen-au^ tre mallong-piedaj, rondformaj k parazitas sur diversaj specioj de vaskulplantoj, dum la virseksuloj estas duflugilaj k ne sin nutras; ili sekrecias vakson au^ lakon.
 kod/er/o:【PIV】1 Unu el la signoj au^ grupoj de signoj en kodo 2. 2 Kodono.
 kod/on/o:【生】【PIV】Unuo de gena informo, konsistanta el triopo da nukleotidoj el mesag^a RNA k reganta la enkorpigon de unu aminacido en polipeptidon: unu kodono (g^enerale AUG) iniciatas la sintezon, dum aliaj estas netradukeblaj k haltigas la sintezon. Sin. (sinonimo) kodero (de la gena kodo).##偽分解(PIV正式分解)##過細分解 kod/o/n/o
@@ -51708,7 +51708,7 @@ malt/ig/ad/o:【PIV】Procedo, kiun oni aplikas al diversaj grenoj, por s^ang^i 
 maltus/a:【PIV】Rilata al maltusanismo.
 maltus/ism/o:【PIV】Teorio, lau^ kiu la kresko de la log^antaro devas esti bremsata; (vs (vastasence)) Idearo, favora al kontrau^koncipaj metodoj; (f (figurasence)): ekonomia maltusanismo.
 malus/o:【植】【PIV】G. (Genro) (Malus el rozacoj) de falfoliaj arboj k arbustoj kun simplaj folioj, kun 5-sepalaj k 5-petalaj, blankaj, rozaj au^ rug^aj floroj k kun fruktoj (s^ajndrupoj nomataj pomoj) ambau^fine konkavaj (kvazau^ enpremitaj); c^. (c^irkau^) 55 sp-oj (specioj) el la mezvarmaj regionoj de la N hemisfero; multaj sp-oj (specioj) k kf-oj (kultivoformoj) kultivataj, iuj por ornama floraro, aliaj por mang^eblaj fruktoj. Sin. (sinonimo) pomarbo 2.
-malusoide/oj:【PIV】Subfam. (Maloideae, sin. (sinonimo (de latinscienca nomo)) Pomoideae el rozacoj) karakterizata de gineceo el 2−5 karpeloj malsupraduone kunig^intaj en receptaklon, de malsupera ovario k de karna frukto (s^ajndrupo, konsistanta el la karpeloj kunig^intaj kun la karnig^inta kaliko) g^enerale el 5 kameroj kun parieto pergameneca (c^e pomarbo), dise sklera (c^e pirarbo) au^ lignomalmola (c^e kratago, mespilo).
+malus/oide/oj:【PIV】Subfam. (Maloideae, sin. (sinonimo (de latinscienca nomo)) Pomoideae el rozacoj) karakterizata de gineceo el 2−5 karpeloj malsupraduone kunig^intaj en receptaklon, de malsupera ovario k de karna frukto (s^ajndrupo, konsistanta el la karpeloj kunig^intaj kun la karnig^inta kaliko) g^enerale el 5 kameroj kun parieto pergameneca (c^e pomarbo), dise sklera (c^e pirarbo) au^ lignomalmola (c^e kratago, mespilo).##偽分解(PIV正式分解)
 malvazi/o:【PIV】Dolc^a greka vino.
 malversaci/o:【法】【PIV】Frau^da alproprigo de mono, en la plenumado de privata au^ publika ofico.
 mam/ing/o:【PIV】Mamzono.
@@ -53688,7 +53688,7 @@ polv/ec/o:【PIV】Eco de io polva.
 polv/et/o:【PIV】Fajna polvo: haroj supers^utitaj per apenau^ rimarkebla polveto el blanka pudro .
 pom/et/o:【PIV】1 Eta pomo. 2 C^iu el la du elstaraj partoj de la vango sub la okulo. Vd zigomo.
 pom/ac/oj:【植】【PIV】(ark. (arkaismo, arkaisme)) Eksa fam. (familio) (Pomaceae), responda al la nuna subfam. malusoideoj.
-pomoide/oj:【PIV】= malusoideoj.
+pom/oide/oj:【PIV】= malusoideoj.##偽分解(PIV正式分解)
 pom/o/log/o:【PIV】Fakulo pri pomologio.##偽分解
 pomel/o:【技】【PIV】1 Globa ekstremaj^o de la tenilo de spado au^ sabro. 2 Elstara antau^a parto de selo. Vd butono.
 Pomer/i/hund/o:【PIV】= s^pico.

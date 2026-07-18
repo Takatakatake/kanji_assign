@@ -29068,8 +29068,8 @@ pal/ec/o⟦苍/性/o⟧:青白さ;色の薄さ,光の弱さ;《転》生気の�
 paled/o⟦托盘/o⟧:【機】パレット（荷役用のすのこ状の台）,荷運び台
 pal/eg/a⟦苍/巨/a⟧:（顔色が）真っ青な
 paleocen/o:【地質】暁新世;暁新統
-pale/o/grafi/o⟦内壳/o/志ᴳ/o⟧:{Ｏ}古文書学##偽分解
-pale/o/graf/o⟦内壳/o/记ᴳ/o⟧:{Ｏ}古文書学者##偽分解(PIV正式分解)
+pale/o/grafi/o⟦古ᴾᴬ/o/志ᴳ/o⟧:{Ｏ}古文書学##偽分解
+pale/o/graf/o⟦古ᴾᴬ/o/记ᴳ/o⟧:{Ｏ}古文書学者##偽分解(PIV正式分解)
 paleo/lit/ik/o⟦古ᴾ/石ᴸ/学ᴵ/o⟧:【考古】旧石器時代,=pras^tonepoko##偽分解##過細分解 paleo/l/i/t/ik/o
 paleont/o/logi/o⟦古ᴾᴺ/o/学ᴸᴳ/o⟧:{Ｏ}古生物学##偽分解##強語根分解
 paleont/o/log/o⟦古ᴾᴺ/o/学家/o⟧:{Ｏ}古生物学者##偽分解##強語根分解
@@ -29962,7 +29962,7 @@ periferi/o⟦周边/o⟧:【数】（図形の）周囲,>>perimetro
 perige/o:【天】近地点,><apogeo
 Perigord/o:【地名】ペリゴール地方（フランス）
 Perigoz/o:【地名】ペリグー（フランス）
-peri/heli/o⟦围ᴾ/气ᴴ/o⟧:【天】近日点,><afelio##偽分解
+peri/heli/o⟦围ᴾ/日ᴴᴱ/o⟧:【天】近日点,><afelio##偽分解
 peri/kardi/o⟦围ᴾ/心ᴷᴰ/o⟧:【解】心膜##偽分解
 peri/kard/o⟦围ᴾ/心ᴷᴬ/o⟧:【解】=perikardio（心膜）##偽分解(PIV正式分解)
 perikarp/o:【植】果皮,>>s^elo
@@ -30400,7 +30400,7 @@ pirat/o⟦海盗/o⟧:{Ｏ}海賊,>>korsaro;《転》略奪者,盗作者,著作�
 Pirene/oj:【地名】ピレネー山脈（フランス・スペイン）
 Pire/o:【地名】ピレウス（ギリシア，古代アテネの外港として栄えた）
 pir/form/a⟦梨/形/a⟧:洋梨形の
-pir/heli/o/metr/o⟦火ᴾ/气ᴴ/o/计ᴹ/o⟧:【理】日射計##偽分解##強語根分解##過細分解 p/i/r/heli/o/metr/o
+pir/heli/o/metr/o⟦火ᴾ/日ᴴᴱ/o/计ᴹ/o⟧:【理】日射計##偽分解##強語根分解##過細分解 p/i/r/heli/o/metr/o
 pirit/o⟦黄铁矿/o⟧:{Ｏ}【鉱】黄鉄鉱
 pir/o⟦梨/o⟧:{Ｂ}【果】ナシ（梨）,洋ナシ
 pir/o/elektr/a⟦火ᴾ/o/电/a⟧:【理】ピロ電気の##偽分解##過細分解 p/i/r/o/elektr/a
@@ -45286,7 +45286,7 @@ arkebuz/o:【史】【PIV】Malnova formo de fusilo, kiun oni, por la uzo, devis
 arkegoni/o⟦颈卵器/o⟧:【植】【PIV】Inseksa reproduktorgano de la briofitoj k vaskulplantoj, tipe konsistanta el botelforma c^elaro entenanta gameton (Vd oosfero), sed tre reduktig^inta c^e la semplantoj.
 arkeo/pterig/o/form/aj⟦古ᴬᴼ/翅ᴾᴳ/o/形/aj⟧:【動】【PIV】Ordo (Archaeopterygiformes) de fosiliaj birdoj, la plej malnova birdo konata.##偽分解##エス的分解
 arkeozoik/o:【PIV】= arkeano.
-arke/tip/o⟦方舟/型/o⟧:【哲】【PIV】1 Eterna ideo, modelo de la estaj^oj. 2 Originalo, sur kiu oni kopiis la ceterajn manuskriptojn. 3【心】 Psika nekonscia strukturo, herede ricevita, povanta manifestig^i per tipaj simboloj, el kiu fontas sentoj, pensoj, imagaj^oj k energio. Vd pratipo.##偽分解
+arke/tip/o⟦原ᴬ/型/o⟧:【哲】【PIV】1 Eterna ideo, modelo de la estaj^oj. 2 Originalo, sur kiu oni kopiis la ceterajn manuskriptojn. 3【心】 Psika nekonscia strukturo, herede ricevita, povanta manifestig^i per tipaj simboloj, el kiu fontas sentoj, pensoj, imagaj^oj k energio. Vd pratipo.##偽分解
 arki/⟦首ᴬ/⟧:【PIV】= c^ef/: arkifripono; arkiang^elo; arkidiakono.
 Arkilok/o:【PIV】Helena satiristo de la 7a jc (jarcento) a.K. (antau^ Kristo). = Arh^iloh^/o
 arkimandrit/o:【キ】【PIV】Estro de monah^ejo en la ortodoksa eklezio.
@@ -46384,7 +46384,7 @@ cito/log/o⟦胞ᶜᵀ/学家/o⟧:【生】【PIV】Specialisto pri citologio.#
 cito/logi/o⟦胞ᶜᵀ/学ᴸᴳ/o⟧:【PIV】Scienco pri la strukturo k funkciado de la c^eloj. Sin. (sinonimo) c^elologio.##偽分解
 cito/plasm/o⟦胞ᶜᵀ/浆/o⟧:【生】【PIV】C^elplasmo. Vd plasmo.##偽分解
 cito/skelet/o⟦胞ᶜᵀ/骨ˢ/o⟧:【生】【PIV】C^elskeleto.##偽分解
-cito/sol/o⟦胞ᶜᵀ/唯/o⟧:【生】【PIV】C^elsolo.##偽分解
+cito/sol/o⟦胞ᶜᵀ/液ˢ/o⟧:【生】【PIV】C^elsolo.##偽分解
 cito/trop/a⟦胞ᶜᵀ/向ᵀ/a⟧:【生】【医】【PIV】Afina al la c^eloj: citotropa viruso. Sin. (sinonimo) c^elafina.##偽分解
 cit/oz/o⟦胞ᶜᴵ/症ᴼ/o⟧:【生】【PIV】(pp (se paroli pri) c^elo) Formig^o k movig^o de veziketoj, kiuj rolas en la inters^ang^oj inter c^elo k ties ekstera medio.##偽分解##過細分解 c/i/t/oz/o
 citozin/o:【生】【化】【PIV】Pirimidina nukleobazo, C 4 H 5 N 3 O.
@@ -47691,7 +47691,7 @@ fenik/o⟦木ᶠᴺ/o⟧:【植】【PIV】G. (Genro) (Phoenix el arekacoj) de d
 fenik/ac/oj⟦木ᶠᴺ/科ᴬ/oj⟧:【PIV】(Phoenicaceae) = arekacoj.
 fenikur/o⟦鸟ᶠᴺ/o⟧:【動】【PIV】G. (Genro) (Phoenicurus) de birdoj el la ordo de paseroformaj, fam. (familio) de turdedoj, kun rustrug^a vosto k vigla kanto. Sin. (sinonimo) rug^vostulo.
 fenotiazin/o:【PIV】(kn (kolektiva nomo)) Neu^rolepta medikamento, uzata i.a. (interalie, inter aliaj) kontrau^ nervo-k psiko-malsanoj pro ecoj anti-ekscitaj, -maniaj, -deliraj k -angoraj.
-fen/o/tip/o⟦焚风/o/型/o⟧:【生】【PIV】Tuto au^ parto de la videblaj au^ konstateblaj karakteroj de individuo, kiuj rezultas el la interago inter g^ia genaro k la medio. Vd diatezo, genotipo, heredo, temperamento.##偽分解
+fen/o/tip/o⟦现ᶠᴱ/o/型/o⟧:【生】【PIV】Tuto au^ parto de la videblaj au^ konstateblaj karakteroj de individuo, kiuj rezultas el la interago inter g^ia genaro k la medio. Vd diatezo, genotipo, heredo, temperamento.##偽分解
 fenugrek/o⟦豆ᶠᴺ/o⟧:【植】【PIV】Sp. (Specio) de trigonelo (Trigonella foenum-graecum el fabacoj), unujara herbo sekastate forte aroma, kun blankaj au^ flavete blankaj floroj unu-au^ du-opaj; hejma en S Eu^ropo, U Azio k N Afriko, kultivata por furag^o k por semoj medicine uzataj.
 feofit/oj:【植】【PIV】Filumo (Phaeophyta) de multac^elaj brunalgoj tre diversformaj sed g^enerale grandaj; c^. (c^irkau^) 1 500 sp-oj (specioj) el c^. (c^irkau^) 250 g-oj (genroj), i.a. (interalie, inter aliaj) fuko, laminario. Vd fukoficoj, kromistoj.
 feofitin/o:【化】【PIV】Malkombinig^a produkto de klorofilo, sen magnezio, sen fotosintezaj ecoj c^e la klorofilohavaj vegetaj^oj: alfafeofitino, C 55 H 74 N 4 O 5; betafeofitino, C 55 H 72 N 4 O 6.
@@ -48996,7 +48996,7 @@ hilozoism/o:【哲】【PIV】Konvinko, ke la materio estas elorigine vivigita.
 himantop/o⟦鸟ᴴᴺ/o⟧:【動】【PIV】Birdo (unuspecia g. (genro) (Himantopus himantopus) el la ordo de karadriformaj, kun longa, maldika, rekta beko k rug^aj, tre longaj kruroj. = himantopod/o
 himati/o:【史】【PIV】Helena mantelo por viroj au^ virinoj.
 himene/o⟦木ᴴᴹ/o⟧:【植】【PIV】G. (Genro) (Hymenaea el fabacoj), de c^. (c^irkau^) 15 sp-oj (specioj) de tropikaj arboj el Ameriko k Afriko, produktantaj mang^eblajn fruktojn, lignon similan al tiu de mahagono k kopalon (uzata precipe pasintece). Vd kopaifero.
-himen/o/micet/oj⟦处女膜/o/菌ᴹᶜ/oj⟧:【植】【PIV】Grupo de bazidifungoj (ampleksanta la eksan klason Hymenomycetes), kies bazidioj formig^as interne de malferma au^ duonferma bazidiujo. Vd gasteromicetoj.##偽分解(PIV正式分解)
+himen/o/micet/oj⟦膜/o/菌ᴹᶜ/oj⟧:【植】【PIV】Grupo de bazidifungoj (ampleksanta la eksan klason Hymenomycetes), kies bazidioj formig^as interne de malferma au^ duonferma bazidiujo. Vd gasteromicetoj.##偽分解(PIV正式分解)
 himn/a⟦颂/a⟧:【PIV】Rilata al himno(j).
 hin/o⟦兽ᴴ/o⟧:【動】【PIV】1 Hibrido de c^evalo k azenino. Vd mulo. 2【聖】Mezurilo por likvoj, c^. 6-litra: hino da vino.
 Hindustan/a:【語】【PIV】Rilata al Hindustano: la hindustana lingvo havas multajn regionajn variantojn k du oficialajn versiojn, hindian k urduan.
@@ -49119,7 +49119,7 @@ hom/ig^/ad/o⟦人/成/行/o⟧:【PIV】Tuto de la biologiaj k sociaj procezoj,
 hom/ed/oj⟦人/科ᴱ/oj⟧:【PIV】Familio (Hominidae) de primatoj, entenanta la c^impanzojn, la gorilojn k la homenojn.
 hom/en/oj⟦人/en/oj⟧:【PIV】Subfamilio (Homininae) de homedoj, ampleksanta la au^stralopitekojn, la parantropojn, la fosiliajn k la nunan homojn.##偽分解(PIV正式分解)##過細分解 hom/e/n/oj
 hom/iz/i⟦人/化/i⟧:【PIV】(pp (se paroli pri) besta lakto) Industrie modifi, por ke g^i lau^konsiste estu kiel eble plej simila al la homa lakto.
-homoide/oj:【PIV】Superfamilio de primatoj (Hominoidea) entenanta tri familiojn: la gibonedojn, la orangutanojn k la homedojn.
+hom/oide/oj⟦人/oide/oj⟧:【PIV】Superfamilio de primatoj (Hominoidea) entenanta tri familiojn: la gibonedojn, la orangutanojn k la homedojn.##偽分解(PIV正式分解)
 homeo/morf/a⟦homeo/形ᴹ/a⟧:【数】【PIV】(pp (se paroli pri) spaco) Havanta ekzakte la samajn topologiajn ecojn kiel alia spaco.##偽分解
 homeo/morf/o⟦homeo/形ᴹ/o⟧:【PIV】La eco esti homeomorfa.##偽分解
 homeo/morfi/o⟦homeo/形ᴹᴵ/o⟧:【数】【PIV】Kontinua bijekcio, kies inverso ankau^ kontinuas.##偽分解
@@ -49132,7 +49132,7 @@ homeo/term/a⟦homeo/热ᵀ/a⟧:【生】【PIV】(pp (se paroli pri) animalo) 
 Homer/a:【PIV】Rilata al Homero: la Homeraj poemoj; (f (figurasence)) Homera batalo (tiel akra, kiel la bataloj en Iliado); Homera epiteto (stilfiguro, kiu konsistas en la almeto al subst. (substantivo) de tradicia ornama epiteto, ekz. (ekzemple) «la rozofingra Au^roro»); Homera rido (tre lau^ta).
 homili/o:【キ】【PIV】Prediko pri bibliaj tekstoj k temoj.
 homo/fon/o⟦同ᴴ/声ᶠᴼ/o⟧:【語】【PIV】Morfemo au^ vorto foneme identa kun alia morfemo au^ vorto. Vd homonimo.##偽分解(PIV正式分解)
-homo/kromi/o⟦同ᴴ/金ᴷᴿ/o⟧:【動】【PIV】Adaptig^o de kelkaj animaloj al la medio, kiuj farig^as pli-malpli samkoloraj kiel g^i k sekve malfacile videblaj: homokromio de kameleono. Vd mimetismo.##偽分解(PIV正式分解)
+homo/kromi/o⟦同ᴴ/色ᴷᴵ/o⟧:【動】【PIV】Adaptig^o de kelkaj animaloj al la medio, kiuj farig^as pli-malpli samkoloraj kiel g^i k sekve malfacile videblaj: homokromio de kameleono. Vd mimetismo.##偽分解(PIV正式分解)
 homo/logi/o⟦同ᴴ/学ᴸᴳ/o⟧:【数】【PIV】1 Strukturo konstruita el nehomologaj cikloj. 2 Branc^o de la matematiko, kie oni studas homologion 1.##偽分解
 homo/morf/a⟦同ᴴ/形ᴹ/a⟧:【数】【PIV】(pp (se paroli pri) strukturo) Tia, ke g^i konservas certajn ecojn de alia strukturo: la cirklo estas homomorfa bildo de rekto, se ambau^ estas rigardataj kiel grupoj.##偽分解(PIV正式分解)
 homo/morf/o⟦同ᴴ/形ᴹ/o⟧:【PIV】La eco esti homomorfa.##偽分解(PIV正式分解)
@@ -50462,7 +50462,7 @@ kobr/o⟦眼镜蛇/o⟧:【動】【PIV】Kn (Kolektiva nomo) de la venenaj serp
 Kocit/o:【PIV】Rivero en Hadeso. Vd Akerono, Leteo.
 koc^/o⟦红虫/o⟧:【動】【PIV】1 Sp. (Specio) (Dactylopius coccus, sin. (sinonimo (de latinscienca nomo)) Coccus cacti el fam. (familio) Dactylopiidae), parazitanta sur kaktoj (precipe opuntioj), kiu sekrecias vakson k enhavas rug^an substancon, fonton de koc^enilo; indig^ena el Meksiko sed importita al Honduraso, Kanariaj Insuloj k Alg^erio. 2 G. (Genro) (Coccus el fam. (familio) koc^edoj), kies plenkreskuloj estas kovritaj de vaksa sekrecio.
 koc^/ed/oj⟦红虫/科ᴱ/oj⟧:【動】【PIV】Fam. (Familio) (Coccidae) de insektoj al kiu apartenas i.a. (interalie, inter aliaj) koc^o 2.
-koc^oide/oj:【PIV】Superfam. (Coccoidea) de insektoj el la ordo de hemipteroj, subordo de sternorinkoj, al kiu apartenas i.a. (interalie, inter aliaj) koc^o 1 k 2; la inoj estas senflugilaj, sen-au^ tre mallong-piedaj, rondformaj k parazitas sur diversaj specioj de vaskulplantoj, dum la virseksuloj estas duflugilaj k ne sin nutras; ili sekrecias vakson au^ lakon.
+koc^/oide/oj⟦红虫/oide/oj⟧:【PIV】Superfam. (Coccoidea) de insektoj el la ordo de hemipteroj, subordo de sternorinkoj, al kiu apartenas i.a. (interalie, inter aliaj) koc^o 1 k 2; la inoj estas senflugilaj, sen-au^ tre mallong-piedaj, rondformaj k parazitas sur diversaj specioj de vaskulplantoj, dum la virseksuloj estas duflugilaj k ne sin nutras; ili sekrecias vakson au^ lakon.##偽分解(PIV正式分解)
 koc^/ul/oj⟦红虫/者/oj⟧:【PIV】Superfam. (Coccoidea) de insektoj el la ordo de hemipteroj, subordo de sternorinkoj, al kiu apartenas i.a. (interalie, inter aliaj) koc^o 1 k 2; la inoj estas senflugilaj, sen-au^ tre mallong-piedaj, rondformaj k parazitas sur diversaj specioj de vaskulplantoj, dum la virseksuloj estas duflugilaj k ne sin nutras; ili sekrecias vakson au^ lakon.
 kod/er/o⟦码/粒/o⟧:【PIV】1 Unu el la signoj au^ grupoj de signoj en kodo 2. 2 Kodono.
 kod/on/o⟦码/分/o⟧:【生】【PIV】Unuo de gena informo, konsistanta el triopo da nukleotidoj el mesag^a RNA k reganta la enkorpigon de unu aminacido en polipeptidon: unu kodono (g^enerale AUG) iniciatas la sintezon, dum aliaj estas netradukeblaj k haltigas la sintezon. Sin. (sinonimo) kodero (de la gena kodo).##偽分解(PIV正式分解)##過細分解 kod/o/n/o
@@ -50521,9 +50521,9 @@ kolbas/ist/o⟦肠/家/o⟧:【PIV】Faristo au^ vendisto de kolbasoj.
 Kolc^id/o:【史】【PIV】Antikva regiono c^e la Nigra Maro k sude de Kau^kazo (42°E, 42°N). -> Orfelo, Argonau^toj.
 koldkrem/o:【医】【PIV】Speco de hau^ts^miraj^o, konsistanta el spermaceto, vakso k migdala oleo, uzata kiel kosmetiko k ingredienco de pomadoj.
 kole/o⟦胆ᴷ/o⟧:【化】【医】【PIV】Galo 1 (pref-e (prefikse) uzata).
-kole/cist/o⟦胆ᴷ/草ᶜ/o⟧:【医】【PIV】Gala veziko.
-kole/cist/a⟦胆ᴷ/草ᶜ/a⟧:【PIV】Rilata al galveziko: la kolecista dukto kunig^as al la hepata dukto por formi la koledokon.
-kole/cist/it/o⟦胆ᴷ/草ᶜ/炎ᵀ/o⟧:【医】【PIV】Inflamo de la galveziko.##偽分解(PIV正式分解)
+kole/cist/o⟦胆ᴷ/囊ᶜ/o⟧:【医】【PIV】Gala veziko.
+kole/cist/a⟦胆ᴷ/囊ᶜ/a⟧:【PIV】Rilata al galveziko: la kolecista dukto kunig^as al la hepata dukto por formi la koledokon.
+kole/cist/it/o⟦胆ᴷ/囊ᶜ/炎ᵀ/o⟧:【医】【PIV】Inflamo de la galveziko.##偽分解(PIV正式分解)
 kole/emi/o⟦胆ᴷ/血ᴱ/o⟧:【医】【PIV】Ekzisto de galaj elementoj en la sango: koleemio flavigas la hau^ton k okulojn. Vd iktero. -> kolesterolo.##偽分解(PIV正式分解)
 koleagog/a:【医】【PIV】Faciliganta la ekskrecion de galo per malplenigo de la galveziko, ekz. (ekzemple) olivoleo, magnezia sulfato.
 koleg/a⟦伴/a⟧:【PIV】Rilata al kolego(j): kolega rondeto .
@@ -51708,7 +51708,7 @@ malt/ig/ad/o⟦麦芽/使/行/o⟧:【PIV】Procedo, kiun oni aplikas al diversa
 maltus/a:【PIV】Rilata al maltusanismo.
 maltus/ism/o⟦maltus/主义/o⟧:【PIV】Teorio, lau^ kiu la kresko de la log^antaro devas esti bremsata; (vs (vastasence)) Idearo, favora al kontrau^koncipaj metodoj; (f (figurasence)): ekonomia maltusanismo.
 malus/o⟦木ᴹˢ/o⟧:【植】【PIV】G. (Genro) (Malus el rozacoj) de falfoliaj arboj k arbustoj kun simplaj folioj, kun 5-sepalaj k 5-petalaj, blankaj, rozaj au^ rug^aj floroj k kun fruktoj (s^ajndrupoj nomataj pomoj) ambau^fine konkavaj (kvazau^ enpremitaj); c^. (c^irkau^) 55 sp-oj (specioj) el la mezvarmaj regionoj de la N hemisfero; multaj sp-oj (specioj) k kf-oj (kultivoformoj) kultivataj, iuj por ornama floraro, aliaj por mang^eblaj fruktoj. Sin. (sinonimo) pomarbo 2.
-malusoide/oj:【PIV】Subfam. (Maloideae, sin. (sinonimo (de latinscienca nomo)) Pomoideae el rozacoj) karakterizata de gineceo el 2−5 karpeloj malsupraduone kunig^intaj en receptaklon, de malsupera ovario k de karna frukto (s^ajndrupo, konsistanta el la karpeloj kunig^intaj kun la karnig^inta kaliko) g^enerale el 5 kameroj kun parieto pergameneca (c^e pomarbo), dise sklera (c^e pirarbo) au^ lignomalmola (c^e kratago, mespilo).
+malus/oide/oj⟦木ᴹˢ/oide/oj⟧:【PIV】Subfam. (Maloideae, sin. (sinonimo (de latinscienca nomo)) Pomoideae el rozacoj) karakterizata de gineceo el 2−5 karpeloj malsupraduone kunig^intaj en receptaklon, de malsupera ovario k de karna frukto (s^ajndrupo, konsistanta el la karpeloj kunig^intaj kun la karnig^inta kaliko) g^enerale el 5 kameroj kun parieto pergameneca (c^e pomarbo), dise sklera (c^e pirarbo) au^ lignomalmola (c^e kratago, mespilo).##偽分解(PIV正式分解)
 malvazi/o:【PIV】Dolc^a greka vino.
 malversaci/o:【法】【PIV】Frau^da alproprigo de mono, en la plenumado de privata au^ publika ofico.
 mam/ing/o⟦乳ᴹ/座/o⟧:【PIV】Mamzono.
@@ -51894,7 +51894,7 @@ mendelevi/o⟦金ᴹᴺ/o⟧:【化】【PIV】Transurania elemento, Md, atomnum
 Menela/o:【PIV】Mita edzo de Heleno k frato de Agamemnono.
 menestrel/o:【PIV】Mezepoka poeto-muzikisto. -> aedo, bardo, rapsodo, skaldo.
 meniant/o⟦草ᴹᴱ/o⟧:【植】【PIV】G. (Genro) (Menyanthes el meniantacoj) de nur unu sp. (M. trifoliata), plurjara herbo kun rampa rizomo, kun longe petiolaj, trifolieraj folioj k kun grapolo el rozete blankaj floroj, kies korolo estas frang^a-barba; ofta en marc^oj k borde de lagoj en la mez-k mal-varmaj regionoj de la N hemisfero; uzata por produktado de medikamento i.a. (interalie, inter aliaj) digestiga k apetitodona.
-mening/o/kok/o⟦脑膜/o/鸡/o⟧:【生】【PIV】Sp. (Specio) de eu^bakterio (Neisseria meningitidis) kun malgrandaj, globaj c^eloj, aganto de homa malsano, la cerebrospina meningokokito.##偽分解
+mening/o/kok/o⟦脑膜/o/菌ᴷᴷ/o⟧:【生】【PIV】Sp. (Specio) de eu^bakterio (Neisseria meningitidis) kun malgrandaj, globaj c^eloj, aganto de homa malsano, la cerebrospina meningokokito.##偽分解
 menisperm/o⟦草ᴹᴾ/o⟧:【植】【PIV】G. (Genro) (Menispermum el menispermacoj) de falfoliaj, dioikaj, lignecaj lianoj kun nigraj beroj, kies semoj similas al duonluno; 2−4 sp-oj (specioj) el NE Ameriko k E Azio, uzataj por ornamo k medicino. Sin. (sinonimo) lunsemo.
 menonit/o:【キ】【PIV】Ano de movado, deveninta el la frua Reformacio, rifuzanta la bapton de infanoj, la eklezian au^toritaton k la kunlaboron kun la s^tatoj; menonitoj vivas nun kolonie en C k S Ameriko: tiuj mirigaj menonitoj observas la dian ordonon: «Ne mortigu!» .
 mensog/ad/o⟦谎/行/o⟧:【PIV】Konduto de tiu, kiu multe mensogas.
@@ -52875,7 +52875,7 @@ ost/o/tomi/o⟦骨/o/切ᵀᴹ/o⟧:【医】【PIV】Kirurgia tranc^o de osto.#
 ost/e/in/o⟦骨/e/女/o⟧:【PIV】= ostino.##偽分解(PIV正式分解)
 osteomjelit/o:【PIV】= ostomedolito.
 osteopat/o:【医】【PIV】Homo, kiu per mana metodo diagnozas k kuracas la mankojn en la movig^ivo de la artikoj, muskoloj, ligamentoj, visceroj.
-ost/e/o/pati/o⟦骨/e/o/情/o⟧:【PIV】Tiu kuracometodo. Vd kiropraktiko. -> ostopatio.##偽分解
+ost/e/o/pati/o⟦骨/e/o/病ᴾ/o⟧:【PIV】Tiu kuracometodo. Vd kiropraktiko. -> ostopatio.##偽分解
 ostiol/o:【植】【PIV】Eta malfermaj^o de diversaj organoj: ostiolo de peritecio, de stomo.
 ostomi/o:【医】【PIV】Kreo de dau^ra au^ dumtempa aperturo en organo. Vd ablacio, ektomio, otomio.
 ostrak/o⟦陶片/o⟧:【史】【PIV】En antikveco, potfragmento, sur kiu oni strekis vorton au^ figuron.
@@ -53688,7 +53688,7 @@ polv/ec/o⟦尘/性/o⟧:【PIV】Eco de io polva.
 polv/et/o⟦尘/小/o⟧:【PIV】Fajna polvo: haroj supers^utitaj per apenau^ rimarkebla polveto el blanka pudro .
 pom/et/o⟦苹/小/o⟧:【PIV】1 Eta pomo. 2 C^iu el la du elstaraj partoj de la vango sub la okulo. Vd zigomo.
 pom/ac/oj⟦苹/科ᴬ/oj⟧:【植】【PIV】(ark. (arkaismo, arkaisme)) Eksa fam. (familio) (Pomaceae), responda al la nuna subfam. malusoideoj.
-pomoide/oj:【PIV】= malusoideoj.
+pom/oide/oj⟦苹/oide/oj⟧:【PIV】= malusoideoj.##偽分解(PIV正式分解)
 pom/o/log/o⟦苹/o/学家/o⟧:【PIV】Fakulo pri pomologio.##偽分解
 pomel/o:【技】【PIV】1 Globa ekstremaj^o de la tenilo de spado au^ sabro. 2 Elstara antau^a parto de selo. Vd butono.
 Pomer/i/hund/o:【PIV】= s^pico.
@@ -57838,7 +57838,7 @@ tetra/bor/at/o⟦四ᵀ/矿ᴮ/盐ᴬ/o⟧:【化】【PIV】Salo de tetra borat
 fluor/bor/at/o⟦气ᶠ/矿ᴮ/盐ᴬ/o⟧:【化】【PIV】Salo de fluor borata acido, HBF 4.##偽分解(PIV正式分解)
 mar/bord/a⟦海/岸/a⟧:【生態】【地理】【PIV】Rilata al marbordo: zonoj au^ etag^oj supermarborda (super la nivelo de la plej altaj tajdoj, sed elmetata al la marinfluo), mezmarborda (intertajda), inframarborda (inter la nivelo de la plej malaltaj tajdoj g^is c^. (c^irkau^) -40 m). Vd apudmara, c^emara.
 labor/bors/o⟦劳/市ᴮ/o⟧:【PIV】Domo, en kiu la sindikatoj organizas siajn kunvenojn, centrigas la metiajn kursojn, siajn bibliotekojn, informejojn ktp (kaj tiel plu).
-pale/o/botanik/o⟦内壳/o/植ᴮ/o⟧:【PIV】Vegetaj^a paleontologio.
+pale/o/botanik/o⟦古ᴾᴬ/o/植ᴮ/o⟧:【PIV】Vegetaj^a paleontologio.
 term/o/botel/o⟦热ᵀ/o/瓶/o⟧:【PIV】Varmizola botelo, kun duoblaj parietoj, inter kiuj oni faris vakuon. Sin. (sinonimo) varmo botelo 1.##偽分解(PIV正式分解)##過細分解 t/e/r/m/o/botel/o
 lav/botel/o⟦洗/瓶/o⟧:【化】【PIV】Aparato, konsistanta el botelo k du tuboj, k uzata por tralikve purigi gasfluon je nedezirata konsistaj^o.
 prem/botel/o⟦压/瓶/o⟧:【PIV】Plasta botelo, kiu premate eligas likvon, uzata en laboratorioj.
@@ -58157,8 +58157,8 @@ ekster/eklezi/a⟦外ᴱ/教ᴱ/a⟧:【PIV】Ne rilata, ne apartenanta al eklez
 pra/eklezi/o⟦原/教ᴱ/o⟧:【キ】【PIV】La unua kristana komunumo en Jerusalemo.
 proto/eklezi/o⟦原ᴾᵀ/教ᴱ/o⟧:【PIV】Eklezio de la unuaj jc (jarcento).
 sam/eklezi/an/o⟦同/教ᴱ/员ᴬ/o⟧:【PIV】Ano de la sama eklezio.
-pale/o/eko/log/o⟦内壳/o/境ᴱ/学家/o⟧:【生態】【PIV】Specialisto pri paleo ekologio.##偽分解
-pale/o/eko/logi/o⟦内壳/o/境ᴱ/学ᴸᴳ/o⟧:【PIV】Ekologio de la biosfero en la pasinteco, ekde la apero de la vivo sur Tero.##偽分解
+pale/o/eko/log/o⟦古ᴾᴬ/o/境ᴱ/学家/o⟧:【生態】【PIV】Specialisto pri paleo ekologio.##偽分解
+pale/o/eko/logi/o⟦古ᴾᴬ/o/境ᴱ/学ᴸᴳ/o⟧:【PIV】Ekologio de la biosfero en la pasinteco, ekde la apero de la vivo sur Tero.##偽分解
 radi/o/eko/logi/o⟦射ᴿ/o/境ᴱ/学ᴸᴳ/o⟧:【生態】【PIV】Scienco pri la efikoj de la jonigaj radiadoj al la ekosistemoj, i.a. (interalie, inter aliaj) pri la radioaktiva poluado.##偽分解
 ekster/ekran/a⟦外ᴱ/屏/a⟧:【PIV】C^iu sono au^ dialogo venanta de punkto ekstera al la vidkampo de la kamerao k de la spektanto.
 for/eks/ig/i⟦离/旧/使/i⟧:【PIV】Forpeli, seniginte de la ofico: mi foreksigos miajn komizojn .
@@ -58849,7 +58849,7 @@ rab/gru/o⟦抢/鹤/o⟧:【動】【PIV】G. (Genro) (Diatryma) de tre grandaj 
 rab/gru/form/aj⟦抢/鹤/形/aj⟧:【動】【PIV】Ordo (Diatrymiformes) de fosiliaj kurbirdoj, kiu ampleksas rabgruon.
 rab/gru/o/form/aj⟦抢/鹤/o/形/aj⟧:【動】【PIV】Ordo (Diatrymiformes) de fosiliaj kurbirdoj, kiu ampleksas rabgruon.
 sub/grund/a⟦下/土/a⟧:【PIV】Rilata al la sub grundo: la roksubgrunda medio en Britio G.
-pale/o/grund/o⟦内壳/o/土/o⟧:【地質】【PIV】Grundo, estig^inta dum malnovaj tempoj, kiam la klimato k la vegetaj^aro estis diferencaj de la nunaj.
+pale/o/grund/o⟦古ᴾᴬ/o/土/o⟧:【地質】【PIV】Grundo, estig^inta dum malnovaj tempoj, kiam la klimato k la vegetaj^aro estis diferencaj de la nunaj.
 plafon/grund/o⟦顶ᴾ/土/o⟧:【PIV】La tuto de la naturaj grundo k sub grundo sur tunelo: se la plafon grundo ne estas tute el firma roko, oni malhelpas g^ian falon per volbo de tunelo.
 mis/gust/a⟦误/味/a⟧:【PIV】1 Montranta malbonan guston 3. 2 Havanta malbonan guston 4.
 sen/gust/ig^/i⟦无/味/成/i⟧:【PIV】(io) Perdi sian guston.
@@ -58961,7 +58961,7 @@ pseu^do/hidrat/o⟦伪ᴾ/水合/o⟧:【PIV】Substanco, kies molekuloj entenas
 suc^/hif/o⟦吸/菌丝/o⟧:【PIV】(pp (se paroli pri) fungoj, i.a. (interalie, inter aliaj) likenoj) Hau^storio.
 hiper/hipofiz/ism/o⟦超/垂体/主义/o⟧:【医】【PIV】Troa au^ nesufic^a funkciado de hipofizo.
 hipo/hipofiz/ism/o⟦亚/垂体/主义/o⟧:【医】【PIV】Troa au^ nesufic^a funkciado de hipofizo.
-pale/o/hist/o/logi/o⟦内壳/o/织ᴴ/o/学ᴸᴳ/o⟧:【PIV】Scienco pri la fosiliaj histoj.##偽分解
+pale/o/hist/o/logi/o⟦古ᴾᴬ/o/织ᴴ/o/学ᴸᴳ/o⟧:【PIV】Scienco pri la fosiliaj histoj.##偽分解
 antau^/histori/o⟦前/史/o⟧:【PIV】= prahistorio 2 k 3.
 pre/histori/o⟦前ᴾ/史/o⟧:【PIV】= prahistorio 2 k 3.
 proto/histori/o⟦原ᴾᵀ/史/o⟧:【PIV】1 Transira periodo inter prahistorio k historio, kiam ekzistis nur nerektaj skribaj dokumentoj pri la koncernaj homaj socioj. 2 La responda scienco.
@@ -59747,7 +59747,7 @@ ber/o/macer/aj^/o⟦浆果/o/浸ᴹ/物/o⟧:【PIV】Vinberkac^o, kiun oni elpr
 paper/mac^/aj^/o⟦纸/嚼/物/o⟧:【PIV】Muldokartono.
 tabak/mac^/i⟦烟ᵀ/嚼/i⟧:【PIV】(ntr (netransitiva)) Mac^i tabakon, por engluti la sukon.
 en/magazen/ig/i⟦内/仓/使/i⟧:【PIV】Stapli, akumuli en magazenon.
-pale/o/magnet/ism/o⟦内壳/o/磁/主义/o⟧:【地質】【PIV】Magnetismo de la terglobo en la pasinteco.
+pale/o/magnet/ism/o⟦古ᴾᴬ/o/磁/主义/o⟧:【地質】【PIV】Magnetismo de la terglobo en la pasinteco.
 pri/majstr/i⟦于/师/i⟧:【PIV】(tr (transitiva)) Uzi, kiel majstro: la fortojn de la naturo oni devas primajstri sekrete ; li primajstras la poezian lingvon.
 s^arg^/o/maksimum/o⟦载/o/极ᴹ/o⟧:【PIV】La totala nombro da tunoj da kargo, akvo, provianto, moveblaj^oj k vicpecoj, kiun s^ipo povas maksimume transporti.
 sen/makul/ig/i⟦无/污/使/i⟧:【PIV】Forigi la makulojn.
@@ -61022,7 +61022,7 @@ dis/skvam/ig^/o⟦散/鳞/成/o⟧:【地質】【PIV】Lau^skvama diserig^o: di
 fit/o/soci/o/logi/o⟦植ᶠ/o/社/o/学ᴸᴳ/o⟧:【PIV】Scienco pri la vegetaj^aj kunaj^oj, pli speciale asocioj.##偽分解
 sub/sojl/a⟦下/槛/a⟧:【心】【PIV】Trovig^anta au^ okazanta sub la sojlo de konscio: subsojla percepto (persensa ekkono sufic^a por estigi reagon, kvankam la subjekto ne konscias la sensatan au^ sensitan objekton).
 ge/sol/aj⟦双/唯/aj⟧:【PIV】S^erca epiteto, por signifi la apartig^on de du geviroj por intima kunestado.
-c^el/sol/o⟦胞/唯/o⟧:【生】【PIV】Duon-likva parto de la c^elplasmo. Sin. (sinonimo) citosolo.
+c^el/sol/o⟦胞/液ˢ/o⟧:【生】【PIV】Duon-likva parto de la c^elplasmo. Sin. (sinonimo) citosolo.
 de/solv/i⟦从/解ˢ/i⟧:【PIV】Deigi per solvado: la sigelvakso desolvig^is ; la ekstera falsa brilaj^o desolvig^as .
 dis/solv/o⟦散/解ˢ/o⟧:【PIV】1 Ago de iu, kiu dissolvas. 2 Progresiva malfermado au^ fermado de la objektivo de kamerao: malfermadissolvo (iompostioma malfermig^o de la obturatoro en 96 bildoj); fermadissolvo (per kiu oni sammaniere finas unu planon); kruca dissolvo (per kiu oni anstatau^igas planon per alia, finante la unuan per fermadissolvo k samtempe komencante la duan per malfermadissolvo).
 pseu^do/solv/aj^/o⟦伪ᴾ/解ˢ/物/o⟧:【化】【PIV】S^ajna solvaj^o: koloida pseu^do solvaj^o (Sin. (sinonimo) solo) , konsistas el solidaj eroj (koloideroj) inter 0,2.10 ^-9 k 2.10 ^-12 m), homogene disigitaj en likvo.
