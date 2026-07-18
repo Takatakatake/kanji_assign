@@ -4952,7 +4952,7 @@ cian/id/o:【化】シアン化物##偽分解
 cian/o:【化】シアン
 cian/o/bakteri/oj:【生】シアノバクテリア
 cibernetik/o:サイバネティックス,=kibernetiko
-ciberspac/o:《Ｎ》【情】サイバースペース,電脳空間（コンピュータネットワークによって形成された情報空間）,=kiberspaco,>>Interreto
+ciber/spac/o:《Ｎ》【情】サイバースペース,電脳空間（コンピュータネットワークによって形成された情報空間）,=kiberspaco,>>Interreto##偽分解##強語根分解
 cibet/kat/o:=civeto,ジャコウネコ
 cibet/o:じゃ香
 cicer/o:【印】シセロ（ヨーロッパの活字の大きさの単位，＝１２ポイント）
@@ -17780,7 +17780,7 @@ kiam:{Ｂ}［副］いつ
 kiam:［接］〜ときに
 kia/manier/e:どのようにして
 kibernetik/o:サイバネティックス,=cibernetiko
-kiberspac/o:《Ｎ》【情】サイバースペース,電脳空間（コンピュータネットワークによって形成された情報空間）,=ciberspaco,>>Interreto
+kiber/spac/o:《Ｎ》【情】サイバースペース,電脳空間（コンピュータネットワークによって形成された情報空間）,=ciberspaco,>>Interreto##偽分解##強語根分解
 kibuc/o:{Ｏ}キブツ（イスラエルの農業共同体）
 kic^/a:俗悪な,まがい物の
 kic^/o:キッチュ（芸術を気取った俗悪なまがい物）

@@ -51,7 +51,7 @@ $dict=Join-Path (Split-Path $dir -Parent) 'エスペラント辞書徹底語根�
 $wsl='\\wsl.localhost\Ubuntu\home\y\エスペラント辞書徹底語根分解_20260619'
 $pej=Join-Path $dir '20_PEJVO語彙リスト_原本・生成版_2024-2026'
 function Sha256Of([string]$path){ try{ (Get-FileHash -LiteralPath $path -Algorithm SHA256 -ErrorAction Stop).Hash }catch{ $null } }
-$drift=0
+$drift=0; $dictDrift=0
 foreach($srcPair in @(@('DICT正本',$dict),@('WSL',$wsl))){
   $label=$srcPair[0]; $src=$srcPair[1]
   if(Test-Path -LiteralPath $src){
@@ -59,12 +59,14 @@ foreach($srcPair in @(@('DICT正本',$dict),@('WSL',$wsl))){
       $sp=Join-Path $src $n; $pp=Join-Path $pej $n
       if((Test-Path -LiteralPath $sp) -and (Test-Path -LiteralPath $pp)){
         $hw=Sha256Of $sp; $hp=Sha256Of $pp
-        if($hw -and $hp -and ($hw -ne $hp)){ $drift++; $wi=Get-Item -LiteralPath $sp; $pi=Get-Item -LiteralPath $pp; Say ("[D] "+$label+"ドリフト検出(SHA不一致): "+$n.Substring(29,3)+" "+$label+"時刻="+$wi.LastWriteTime.ToString('MM-dd HH:mm')+" size="+$wi.Length+" != PROJ size="+$pi.Length+" → 同期+再注入+変更語点検") }
+        if($hw -and $hp -and ($hw -ne $hp)){ $drift++; if($label -eq 'DICT正本'){ $dictDrift++ }; $wi=Get-Item -LiteralPath $sp; $pi=Get-Item -LiteralPath $pp; Say ("[D] "+$label+"ドリフト検出(SHA不一致): "+$n.Substring(29,3)+" "+$label+"時刻="+$wi.LastWriteTime.ToString('MM-dd HH:mm')+" size="+$wi.Length+" != PROJ size="+$pi.Length+" → 同期+再注入+変更語点検") }
       }
     }
   } else { Say ("[D] "+$label+"ドリフト: 未接続/不在(スキップ)") }
 }
 if($drift -eq 0){ Say "[D] 原本ドリフト: なし(SHA-256一致=DICT正本/WSLとも同期済または不在)" }
+# 2026-07-18 監査是正: DICT正本(ユーザーが随時更新)のドリフトは hard-fail=同期必須の明示信号。WSL(20260619は旧式・放棄コピー)のドリフトは従来どおりadvisory。
+if($dictDrift -gt 0){ $fail=1; Say "    !! DICT正本ドリフト → PROJに未同期の正本更新あり。同期+再注入してからコミット" }
 
 # --- E. 注入の数字付き識別子(両版走査。2026-07-16 監査是正: 従来は学習者版のみだった) ---
 $nNum=0
