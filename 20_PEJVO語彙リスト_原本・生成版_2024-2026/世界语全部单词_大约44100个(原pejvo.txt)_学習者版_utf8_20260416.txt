@@ -27725,7 +27725,7 @@ nom/it/a:〜と名付けられた
 nom/kart/o:名刺,=vizitkarto;名札
 nom/kolekt/ad/o:署名集め
 nom/o:{Ｂ}名前;名称
-nomogenez/o:《Ｎ》【生】ノモゲネシス
+nomo/genez/o:《Ｎ》【生】ノモゲネシス##偽分解##強語根分解##過細分解 n/o/m/o/genez/o
 nom/plat/o:ネームプレート;表札
 nom/um/i:［他］指名する;任命する
 nom/um/o:指名;任命
@@ -55024,7 +55024,7 @@ sinalef/o:【PIV】En metriko, kunfando de la fina vokalo de vorto kun la komenc
 sinantrop/o:【PIV】Fosilia prahomo, malkovrita en C^inio, nun klasifikita en la sp. rekta homo (Homo erectus).
 sinaps/o:【生】【PIV】Loko de kontakto inter la ekstremaj^oj de du nervoc^eloj au^ inter nervoc^elo k muskol-, gland-au^ senso-c^elo: ekscita sinapso (ebliganta transpason de la nerva impulso de la antau^ sinapsa c^elo al la post sinapsa); inhiba sinapso (inhibanta la transpason de la nerva impulso). see septo.
 sinapsid/oj:【動】【PIV】Subklaso (Synapsida) de reptilioj, ampleksanta i.a. (interalie, inter aliaj) la terapsidojn.
-sinartr/o:【PIV】= senmova artiko.
+sin/artr/o:【PIV】= senmova artiko.##偽分解##過細分解 s/i/n/artr/o
 sinciti/o:【生】【PIV】Kontinua protoplasma maso, entenanta multajn nukleojn. Vd hifo, sifono 3, plasmodo.
 anarki-sindikat/ism/o:【PIV】Revolucia sindikatismo, influata de la anarkiista movado.
 sinekdok/o:【PIV】Vortfiguro konsistanta en la inters^ang^o de du vortoj, kiuj havas malsaman signif-amplekson, ekz. (ekzemple) inters^ang^o de la speco k la genro («la mortidevuloj» anst. (anstatau^) «homoj»), la parto k la tuto («ni ekvidis 30 velojn» anst. (anstatau^) «s^ipojn») ktp (kaj tiel plu).
@@ -55049,7 +55049,7 @@ sin/kron/o/skop/o:【PIV】Instrumento por montri, c^u du mas^inoj au^ funkciant
 sinodik/a:【天】【PIV】Rilata al konjunkcio de astroj: sinodika periodo (dau^ro necesa al la reapero de planedo en la sama pozicio rilate al Tero k Suno); sinodika (luna) monato.
 sin/onim/ik/o:【PIV】Scienco, celanta difini la senconuancojn inter la sinonimoj.##偽分解##過細分解 s/i/n/onim/ik/o
 sinopl/o:【PIV】Verdo.
-sinost/o:【解】【PIV】(synostosis) Nemovebla artiko, devenanta el ostig^o de la histo kuniganta du ostojn de la kranio.
+sin/ost/o:【解】【PIV】(synostosis) Nemovebla artiko, devenanta el ostig^o de la histo kuniganta du ostojn de la kranio.##偽分解##過細分解 s/i/n/ost/o
 sinovi/a:【PIV】Rilata al sinovio: sinovia membrano (interne teganta la kavojn de la artikoj, escepte de la artikaj surfacoj, k de iuj tendenoj k ties vaginaloj: membrana synovialis).
 sinovi/it/o:【医】【PIV】Inflamo de la sinovia membrano de artiko au^ de la vaginalo de tendeno.##偽分解
 sintagm/o:【語】【PIV】Unuo kun difinita sintaksa funkcio k rezultanta de kunigo de du au^ pluraj morfemoj; g^i povas esti vorto (ekz. (ekzemple) «ilarojn»), au^ vortgrupo (ekz. (ekzemple) «en la mondon», «nova sento»).

@@ -8689,6 +8689,10 @@
   alun           矾          F=5     pejvo   
   vitriol        矾ⱽ         F=7     pejvo   
 
+【矿化】 2件
+  arsenid        矿化         F=1     piv     
+  selenid        矿化ˢ        F=1     piv     
+
 【码】 2件
   kod            码          F=27    basic   
   jard           码ᴶ         F=2     pejvo   

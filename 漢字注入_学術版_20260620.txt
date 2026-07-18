@@ -45323,7 +45323,7 @@ arorut/uj/o⟦葛/器/o⟧:【PIV】Aroruto 1.
 arorut/plant/o⟦葛/植/o⟧:【PIV】Aroruto 1.
 arpent/o:【PIV】Malnova area mezurunuo en Francio, valoranta de 34 g^is 51 arojn. Vd akreo, hubo.
 arsacetin/o:【化】【PIV】(ark. (arkaismo, arkaisme)) Medikamento, C 8 H 9 AsNNaO 4, kies kerno estas benzena ciklo kun atomo de arseno; uzata kontrau^ la dormo-malsano, pasintece kontrau^ sifiliso.
-arsenid/o⟦矿子/o⟧:【PIV】Kombinaj^o de metalo k arseno, ekz. (ekzemple) K 3 As.
+arsenid/o⟦矿化/o⟧:【PIV】Kombinaj^o de metalo k arseno, ekz. (ekzemple) K 3 As.
 arsin/o:【化】【PIV】Kombinaj^o de formulo R 1 R 2 R 3 As, en kiu R 1, R 2, k R 3 povas esti hidrogeno au^ organika radiko; analoge kun amino.
 Arsonval/o:【PIV】Franca fizikisto (A. d'Arsonval, 1851−1940): arsonvalaj elektraj fluoj (altfrekvencaj k altintensaj, uzataj por produkti varmon).
 arsonval/iz/i⟦arsonval/化/i⟧:【医】【PIV】(tr (transitiva)) Apliki arsonvalajn elektrajn fluojn, por produkti varmon, por kuraci iajn malsanojn. Vd diatermio.
@@ -54809,7 +54809,7 @@ sekvenc/i⟦序ˢ/i⟧:【生】【化】【PIV】(tr (transitiva)) Determini la
 sekvojadendr/o⟦木ˢᴶ/o⟧:【植】【PIV】G. (Genro) (Sequoiadendron el taksodiacoj) de nur unu sp. (S. giganteum) de konifera arbego (g^is 105 m alta k 12 m diametra), tre longviva (eble g^is 3 000 j), kun mallongaj, akre pintaj, blue grizaj au^ malhele verdaj pingloj; hejma en Kalifornio, pororname kultivata.
 selaginel/o⟦羊齿ˢ/o⟧:【植】【PIV】G. (Genro) (Selaginella el selaginelacoj) de plejparte herbecaj, tufig^antaj, muskaspektaj pteridofitoj precipe el la varmaj regionoj; c^. (c^irkau^) 700 sp-oj (specioj), kelkaj subvitre kultivataj.
 selenat/o⟦矿盐ˢ/o⟧:【化】【PIV】Salo de selenata acido, H 2 SeO 4.
-selenid/o⟦矿化/o⟧:【化】【PIV】Salo de selenida acido, H 2 Se.
+selenid/o⟦矿化ˢ/o⟧:【化】【PIV】Salo de selenida acido, H 2 Se.
 selenit/o⟦矿盐ˢᴵ/o⟧:【化】【PIV】Salo de selenita acido, H 2 SeO 3.
 selin/o⟦伞ˢᴸ/o⟧:【植】【PIV】G. (Genro) (Selinum el apiacoj) de 2 sp-oj (specioj) de plurjaraj herboj el Eu^ropo k U k C Azio.
 sem/a⟦种/a⟧:【PIV】Rilata al semo: sema putro, s^imo; sema likvo; sema elfluo.
@@ -54972,7 +54972,7 @@ silic/a⟦硅/a⟧:【化】【PIV】Rilata al, konsistanta el silico: silica pe
 silic/ig^/o⟦硅/成/o⟧:【PIV】S^ang^ig^o al silico: silicig^o de arbotrunko.
 silic/oz/o⟦硅/症ᴼ/o⟧:【医】【PIV】Pneu^monokoniozo, kau^zata de silico: silicozo ofte kuntrenas tuberkulozon. Sin. (sinonimo) silikozo.
 siliciat/o⟦硅盐/o⟧:【化】【PIV】1 Salo de siliciata acido, H 2 SiO 3 au^ alia hidrato (ekz. (ekzemple) H 4 SiO 4, H 2 Si 2 O 6): siliciata likvo, Na 2 SiO 3 au^ K 2 SiO 3, fluor siliciato (salo de fluor siliciata acido, H 2 SiF 5). Sin. (sinonimo) silikato. 2 C^iu mineralo, karakterizata de la struktura kvaredra elemento (SiO 4) ^4−: siliciata petro (precipe konsistanta el siliciatoj 2). Sin. (sinonimo) silikato.
-siliciid/o⟦硅子/o⟧:【PIV】Kombinaj^o de metalo kun silicio: zirkonia siliciido (Zr 5 Si 3).
+siliciid/o⟦硅化/o⟧:【PIV】Kombinaj^o de metalo kun silicio: zirkonia siliciido (Zr 5 Si 3).
 silikat/o⟦硅盐ˢᴷ/o⟧:【化】【地質】【PIV】Tradicia nomo de siliciato.
 silikon/o:【化】【PIV】G^enerala nomo por diversaj organikaj silici-kombinaj^oj: al la silikonoj c^efe apartenas la (poli)siloksanoj, grandmolekulaj organikaj kombinaj^oj kun c^eno, en kiu alternas atomoj de silicio k oksigeno k kies siliciatomoj portas organikajn radikojn po du, ekz. (ekzemple) du metilojn; silikonoj estas kemie tre rezistaj k tial trovas multajn tre diversajn aplikojn, i.a. (interalie, inter aliaj) kiel tegaj^on por s^irmi kontrau^ korodo.
 silk/aj^/oj⟦丝/物/oj⟧:【PIV】Varoj el silko.

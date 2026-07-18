@@ -107,7 +107,7 @@ $existing=@(
  @('spin','旋','spin/momant/o,izo/spin/o','','物理spin(角運動量)→旋。背骨spin/o(脊)・脊髄spin/a・脳脊髄cerb/o/spin/a・cefal/o/spin/aは脊維持(disc不掲載)。spin/o=背骨/スピンの二義のうち物理複合のみ旋'),
  # /goal第2次敵対検証(2026-06-21)で検出した追加フォルスフレンド。allo-(他·異)→异・化学-id(-ide二元化合物)→化。全字一级。
  @('alo','异','alo/fon/o,alo/fon/a,alo/morf/o,alo/trofi/o,alo/pati/o','','ギリシャ接頭allo-(他·異different)→异。allophone异音(alo/fon)·allomorph异形态(alo/morf)·allotrophy异养(alo/trofi)·allopathy异/情(alo/pati=逆症療法。アロエでない)。アロエ alo/o(草)·alo/aj^/o(草)はdisc不掲載で草維持。合金aloj/oは別根(合金)'),
- @('id','化','brom/id/o,brom/id/paper/o,cian/id/o,klor/id/o,klor/id/a,di/klor/id/o,tri/klor/id/o,metil/klor/id/o,vinil/klor/id/o,klor/id/emi/o,hipo/klor/id/emi/o,sen/klor/id/ig^/o,sulf/id/o,di/sulf/id/o,fluor/id/o,fosf/id/o,halogen/id/o,hidr/id/o,hidr/id/i,jod/id/o,karb/id/o,karbon/id/o,nitr/id/o,selen/id/o,ure/id/o','','化学-id(-ide=二元化合物X化物)→化。塩-at/-it=盐の兄弟(-ide=化合物 / -ate-ite=塩)。子孫-id(bov/id仔牛·kat/id仔猫·c^eval/id等の動物の子)はdisc不掲載で子維持。lanthanoid lantan/id(系列)·saccharide sakar/id(糖類)は二元化合物でないため除外') )
+ @('id','化','brom/id/o,brom/id/paper/o,cian/id/o,klor/id/o,klor/id/a,di/klor/id/o,tri/klor/id/o,metil/klor/id/o,met/il/klor/id/o,vinil/klor/id/o,klor/id/emi/o,hipo/klor/id/emi/o,sen/klor/id/ig^/o,sulf/id/o,di/sulf/id/o,fluor/id/o,fosf/id/o,halogen/id/o,hidr/id/o,hidr/id/i,jod/id/o,karb/id/o,karbon/id/o,nitr/id/o,selen/id/o,silici/id/o,arsen/id/o,ure/id/o','','化学-id(-ide=二元化合物X化物)→化。塩-at/-it=盐の兄弟(-ide=化合物 / -ate-ite=塩)。子孫-id(bov/id仔牛·kat/id仔猫·c^eval/id等の動物の子)はdisc不掲載で子維持。lanthanoid lantan/id(系列)·saccharide sakar/id(糖類)は二元化合物でないため除外。2026-07-18 化物残件を追加: silici/id硅化物·arsen/id砷化物·met/il/klor/id塩化メチル(過細分解 metil→met/il でmetil/klor/idと不一致だった)') )
 # 新54(root,override,headwordForm,2nd義キーワード(amb判別用),note)
 $new=@(
  @('al','翼','al/o,helic/al/o,c^irkau^/al/a,frog/al/o,al/et/o,al/et/s^rau^b/ing/o','翼','翼(alo=翼/羽根)。前置詞al=向と別。複合語内al/o=翼も翼へ(helic/al/o=プロペラ羽根・c^irkau^/al/a=翼に囲まれた・frog/al/o=フログ翼部・al/et/o=蝶ナットのつまみ・al/et/s^rau^b/ing/o=蝶ねじ受け=aleto小翼。hsepはwhole-wordキーのため複合を明示列挙=2026-06-25 接尾辞悉皆監査WF・2026-07-04 aleto向誤適用是正)'),@('por','孔','por/o,por/a','孔','気孔。前置詞por=为と別'),@('sur','腿','sur/o','ふくらはぎ','ふくらはぎ。前置詞sur=上と別'),
@@ -149,6 +149,7 @@ $combN=0; foreach($e in $comb){ [void]$rows.Add(($e[0]+"`t"+$e[1]+"`tcomb`t`t"+$
 # -on: 物理粒子-on→子(電子/陽子/中性子/光子/中間子/磁子/核子)。分数-on/o(分)・対格-on・継息子du/on/fil・帽子c^ap/on等は語幹非該当で維持。
 $ozRich=@('herb/oz/a','bitum/oz/a')   # genuine -oza形容詞(草の多い/瀝青質の)→富。他の-oza(変態の/結核性等の条件形容詞)は症へ集約
 $ozChem=@('jod/oz/o')   # 化学結合形-oz(iodoso=grupo IO 価数接尾辞・nitrozo同系列)→どのoz discにも入れず=_inject_finalの$segLatでlatin化(病-osis症でない。2026-06-25 接尾辞悉皆監査WF)
+$ozGlyco=@('rut/oz/id/o','nukle/oz/id/o','sap/oz/id/o','salik/oz/id/o','indig/oz/id/az/o')   # 配糖体(glycoside=糖誘導体)→糖。語釈が糖語(Heterozido/Enzimo等)で$sugar正規表現に掛からず症に誤分類されていた(2026-07-18ユーザー裁定「配糖体oz→症/富を既存の糖へ」)。兄弟gluk/oz/id・indig/oz/id は語釈にGlukozidを含み$sugarで既に糖。標準oz/id/oは下でoz/oと同様に明示追加(oz語幹idx0で自動分類外)
 $onStem=@('elektr','prot','neu^tr','fot','mez','magnet','nukle','fon')   # fon追加: phonon=fon/on→子(2026-06-23ユーザー裁定。phono声+on子)
 $ozD=New-Object System.Collections.ArrayList;$ozS=New-Object System.Collections.ArrayList;$onP=New-Object System.Collections.ArrayList
 $ozK=@{};$onK=@{}
@@ -158,6 +159,7 @@ foreach($ln in $ozLines){ $ci=$ln.IndexOf(':'); if($ci -lt 1){continue}; $hh=$ln
     if($io -ge 1 -and -not $ozK.ContainsKey($w)){
       $sugar=($gg -match '糖') -or ($gg -match '(?i)(sakar|sukero|monosakar|polisakar|glucid|pentoz|heksoz|glikoz|glukoz|aldehid)') -or ($w -match 'celul/oz') -or ($w -eq 'gren/malt/oz/aj^/o')   # celul/oz* (celul/oz/o・celul/oz/a・hemi/celul/oz/o)=多糖→糖。celuloseは常に多糖類(2026-06-23 sep派生形網羅)
       if($sugar){ $ozK[$w]=$true; [void]$ozS.Add($w) }
+      elseif($ozGlyco -contains $w){ $ozK[$w]=$true; [void]$ozS.Add($w) }   # 配糖体→糖(語釈が糖語で$sugar非該当だが糖誘導体)
       elseif($ozRich -contains $w){ $ozK[$w]=$true }   # genuine -oza形容詞(草の多い/瀝青質の)→富(disp基底維持)
       elseif($ozChem -contains $w){ $ozK[$w]=$true }   # 化学結合形-oz(iodoso価数接尾辞)→どのoz discにも入れず=segLatでlatin
       else{ $ozK[$w]=$true; [void]$ozD.Add($w) }   # 他-oz全て→症(病/過程変態/食作用/膜/jetlag/条件形容詞=状態全般に集約)
@@ -166,6 +168,7 @@ foreach($ln in $ozLines){ $ci=$ln.IndexOf(':'); if($ci -lt 1){continue}; $hh=$ln
     if($in -ge 1 -and -not $onK.ContainsKey($w) -and ($onStem -contains $sg[$in-1])){ $onK[$w]=$true; [void]$onP.Add($w) }
   } }
 [void]$ozS.Add('oz/o')   # 標準語oz/o(単独=単糖monosaccharide)→糖。oz語幹idx0で自動分類外のため明示追加
+[void]$ozS.Add('oz/id/o')   # oz/id/o(oside=配糖体一般名)→糖。oz語幹idx0で自動分類外・既定富から是正(2026-07-18。oz/oと同型)
 if($ozD.Count){ [void]$rows.Add("oz`t症`tsep`t"+($ozD -join ',')+"`t-ozo名詞→症(状態/症状全般に集約。病/変態/食作用/膜/iodoso/jetlag。糖類のみ糖・genuine形容詞-oza富。2026-06-21ユーザー裁定で症+糖の2字に集約)") }
 if($ozS.Count){ [void]$rows.Add("oz`t糖`tsep`t"+($ozS -join ',')+"`t-ose糖→糖(標準語oz/o単糖含む)") }
 if($onP.Count){ [void]$rows.Add("on`t子`tsep`t"+($onP -join ',')+"`t物理粒子-on→子(電子/陽子/中性子/光子/中間子/磁子/核子。分数-on/o=分は維持)") }

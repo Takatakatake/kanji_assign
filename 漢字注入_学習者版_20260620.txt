@@ -25212,7 +25212,7 @@ metilen/o⟦亚甲/o⟧:【化】メチレン基
 meti/lern/ant/o⟦艺ᴹ/学/在/o⟧:【史】（ギルドの）徒弟,見習職人
 meti/lert/ec/o⟦艺ᴹ/巧/性/o⟧:（職人の）腕前,職人技
 met/il/hidrarg/o⟦甲/基/汞/o⟧:【化】メチル水銀##偽分解(PIV正式分解)##過細分解 m/e/t/il/hidrarg/o
-met/il/klor/id/o⟦甲/基/氯/子/o⟧:【化】塩化メチル##偽分解(PIV正式分解)##過細分解 m/e/t/il/klor/id/o
+met/il/klor/id/o⟦甲/基/氯/化ᴵᴰ/o⟧:【化】塩化メチル##偽分解(PIV正式分解)##過細分解 m/e/t/il/klor/id/o
 met/il/o⟦甲/基/o⟧:【化】メチル基##偽分解(PIV正式分解)##過細分解 m/e/t/il/o
 met/il/viol/o⟦甲/基/紫花/o⟧:【化】メチルバイオレット（染料）##偽分解(PIV正式分解)##過細分解 m/e/t/il/viol/o
 meti/o⟦艺ᴹ/o⟧:{Ｂ}手職,手仕事;職業
@@ -27725,7 +27725,7 @@ nom/it/a⟦名/受/a⟧:〜と名付けられた
 nom/kart/o⟦名/卡/o⟧:名刺,=vizitkarto;名札
 nom/kolekt/ad/o⟦名/集/行/o⟧:署名集め
 nom/o⟦名/o⟧:{Ｂ}名前;名称
-nomogenez/o:《Ｎ》【生】ノモゲネシス
+nomo/genez/o⟦nomo/源ᴳ/o⟧:《Ｎ》【生】ノモゲネシス##偽分解##強語根分解##過細分解 n/o/m/o/genez/o
 nom/plat/o⟦名/扁/o⟧:ネームプレート;表札
 nom/um/i⟦名/um/i⟧:［他］指名する;任命する
 nom/um/o⟦名/um/o⟧:指名;任命
@@ -45323,7 +45323,7 @@ arorut/uj/o⟦葛/器/o⟧:【PIV】Aroruto 1.
 arorut/plant/o⟦葛/植/o⟧:【PIV】Aroruto 1.
 arpent/o:【PIV】Malnova area mezurunuo en Francio, valoranta de 34 g^is 51 arojn. Vd akreo, hubo.
 arsacetin/o:【化】【PIV】(ark. (arkaismo, arkaisme)) Medikamento, C 8 H 9 AsNNaO 4, kies kerno estas benzena ciklo kun atomo de arseno; uzata kontrau^ la dormo-malsano, pasintece kontrau^ sifiliso.
-arsen/id/o⟦矿ᴬ/子/o⟧:【PIV】Kombinaj^o de metalo k arseno, ekz. (ekzemple) K 3 As.##偽分解
+arsen/id/o⟦矿ᴬ/化ᴵᴰ/o⟧:【PIV】Kombinaj^o de metalo k arseno, ekz. (ekzemple) K 3 As.##偽分解
 arsin/o:【化】【PIV】Kombinaj^o de formulo R 1 R 2 R 3 As, en kiu R 1, R 2, k R 3 povas esti hidrogeno au^ organika radiko; analoge kun amino.
 Arsonval/o:【PIV】Franca fizikisto (A. d'Arsonval, 1851−1940): arsonvalaj elektraj fluoj (altfrekvencaj k altintensaj, uzataj por produkti varmon).
 arsonval/iz/i⟦arsonval/化/i⟧:【医】【PIV】(tr (transitiva)) Apliki arsonvalajn elektrajn fluojn, por produkti varmon, por kuraci iajn malsanojn. Vd diatermio.
@@ -49381,7 +49381,7 @@ indic/a⟦指ᴵᶜ/a⟧:【PIV】Rilata al indico: indica metodo.
 indiferent/ism/o⟦冷/主义/o⟧:【PIV】Sistema indiferenteco pri sociaj (politikaj, religiaj ks (kaj simile, kaj similaj)) aferoj.
 indig/oid/a⟦蓝ᴵ/似ᴼ/a⟧:【化】【PIV】Havanta la funkcian grupon OC-C=C-CO.
 indig/oz/id/o⟦蓝ᴵ/糖ᴼ/子/o⟧:【化】【PIV】Glukozido de indigujo, hetero-ducikla, C 14 H 17 O 6 N, 3H 2 O, bazo de indigo.##偽分解(PIV正式分解)
-indig/oz/id/az/o⟦蓝ᴵ/症ᴼ/子/az/o⟧:【化】【PIV】Enzimo, kiu malkomponas indigozidon.##偽分解(PIV正式分解)
+indig/oz/id/az/o⟦蓝ᴵ/糖ᴼ/子/az/o⟧:【化】【PIV】Enzimo, kiu malkomponas indigozidon.##偽分解(PIV正式分解)
 indik/a⟦指ᴵ/a⟧:【数】【PIV】Liveranta indikon: indika fosto, simptomo, indika funkcio de aro.
 indik/aj^/oj⟦指ᴵ/物/oj⟧:【法】【PIV】Konstatitaj faktoj, kiuj probabligas la realecon de la c^efa fakto k estus malfacile klarigeblaj per alia supozo: la pruvo per la indikaj^oj estas la plej malforta. Vd atestaj^oj, konfeso.
 indium/o⟦金ᴵᴹ/o⟧:【PIV】= indio.
@@ -52576,7 +52576,7 @@ nukle/o/gami/o⟦核ᴺ/o/配ᴳ/o⟧:【生】【PIV】Kunig^o de du nukleoj du
 nukle/o/liz/a⟦核ᴺ/o/解ᴸ/a⟧:【生】【PIV】(pp (se paroli pri) substanco) Detruanta la nukleon de iuj c^eloj, ekz. (ekzemple) kanceraj.
 nukleosom/o:【PIV】= kromatinero.
 nukleotid/o:【生】【化】【PIV】Fosfatacida estero de nukleozido; kemia kombinaj^o, konsistanta el nukleobazo, pentozo (c^u ribozo au^ deoksiribozo) k fosfata acido.
-nukle/oz/id/o⟦核ᴺ/症ᴼ/子/o⟧:【PIV】Vd (vidu) ozo.##偽分解(PIV正式分解)
+nukle/oz/id/o⟦核ᴺ/糖ᴼ/子/o⟧:【PIV】Vd (vidu) ozo.##偽分解(PIV正式分解)
 nukul/o:【植】【PIV】(nucula) Akeneca frukto, kies s^elo estas ege malmola, ekz. (ekzemple) c^e korilo k rozo.
 nul/ec/o⟦零/性/o⟧:【PIV】Eco de io nula.
 nul/ej/o⟦零/所/o⟧:【数】【PIV】Punkto, en kiu funkcio alprenas la valoron nul.
@@ -52909,7 +52909,7 @@ ovol/a⟦卵ᴼᴸ/a⟧:【PIV】Rilata al ovolo.
 ovotid/o:【生】【PIV】Nematura inseksa c^elo, unuploida, devenanta el ovocito k evoluanta al ovolo.
 ovr/i:【PIV】(tr (transitiva)) Malfermi.
 oz/o⟦糖ᴼ/o⟧:【化】【PIV】Monosakarido; malofte uzata memstare, g^enerale en kunmetaj^oj por nomi: 1 monosakaridojn k ties derivaj^ojn, helpe de la pref-oj (prefiksoj) tri/ … non/: tri ozo, tetrozo, pentozo, heksozo; aldoheksozo, ketopentozo. Vd oz/. 2 tradiciajn nomojn de mono-, di-, oligo-au^ ec^ poli-sakaridojn: amelozo, fruktozo, laktozo, rafinozo, kal ozo.
-oz/id/o⟦富ᴼ/子/o⟧:【化】【PIV】Substanco, kies hidrolizo liveras unu au^ plurajn monosakaridojn k eventuale neglucidajn substancojn: la ozidoj ampleksas la di-, oligo-, poli-sakaridojn k la heterozidojn; nukle ozido, rutozido (Vd (vidu) ruto). Sin. (sinonimo) malsimpla sukero. Vd heterozido.##偽分解(PIV正式分解)
+oz/id/o⟦糖ᴼ/子/o⟧:【化】【PIV】Substanco, kies hidrolizo liveras unu au^ plurajn monosakaridojn k eventuale neglucidajn substancojn: la ozidoj ampleksas la di-, oligo-, poli-sakaridojn k la heterozidojn; nukle ozido, rutozido (Vd (vidu) ruto). Sin. (sinonimo) malsimpla sukero. Vd heterozido.##偽分解(PIV正式分解)
 ozazon/o:【化】【PIV】Kombinaj^o de monosakarido kun du molekuloj da fenil-hidrazino.
 ozokerit/o:【地質】【PIV】Miksaj^o de longmolekulaj hidrokarbonoj, de bruna g^is nigra, produkto de natura oksidig^o de nafto. Sin. (sinonimo) tervakso.
 ozon/i⟦臭氧/i⟧:【PIV】Provizi per ozono: ozonizita akvo; blankigi per ozonizado.
@@ -54566,7 +54566,7 @@ rustik/a⟦朴ᴿ/a⟧:【建】【PIV】Prezentanta simplan, ec^ krudan prilabo
 rustik/ec/o⟦朴ᴿ/性/o⟧:【PIV】Eco de io rustika: la rustikeco de modernaj seg^oj; (f (figurasence)) la rustikeco de lia stilo.
 rusul/o⟦菌ᴿ/o⟧:【植】【PIV】G. (Genro) (Russula el rusulacoj) de ombrelfungoj diferencaj de laktario i.a. (interalie, inter aliaj) pro malesto de laktosuko, kun karno kompakta k rompig^ema; kosmopolita g. (genro) de c^. (c^irkau^) 270 sp-oj (specioj), pluraj mang^indaj.
 rut/in/o⟦草ᴿ/in/o⟧:【化】【薬】【PIV】Heterozido, C 27 H 30 O 16, ekstraktata el ruto k.a. (kaj aliaj) plantoj, i.a. (interalie, inter aliaj) el la g. (genro) citruso; medicine uzata (plifortigas la sangkapilarojn); unu el la konsistaj^oj de la vitamino P.##偽分解(PIV正式分解)
-rut/oz/id/o⟦草ᴿ/症ᴼ/子/o⟧:【化】【PIV】Heterozido, C 27 H 30 O 16, ekstraktata el ruto k.a. (kaj aliaj) plantoj, i.a. (interalie, inter aliaj) el la g. (genro) citruso; medicine uzata (plifortigas la sangkapilarojn); unu el la konsistaj^oj de la vitamino P.##偽分解(PIV正式分解)
+rut/oz/id/o⟦草ᴿ/糖ᴼ/子/o⟧:【化】【PIV】Heterozido, C 27 H 30 O 16, ekstraktata el ruto k.a. (kaj aliaj) plantoj, i.a. (interalie, inter aliaj) el la g. (genro) citruso; medicine uzata (plifortigas la sangkapilarojn); unu el la konsistaj^oj de la vitamino P.##偽分解(PIV正式分解)
 rutel/o⟦鱼ᴿᵀ/o⟧:【動】【PIV】G. (Genro) (Rutilus), parenca al leu^cisko, de fis^oj el la fam. (familio) ciprinedoj, vivantaj en nesala, sen-au^ malrapid-flua akvo, el kiuj estas ploto.
 ruten/a:【PIV】Rilata al rutenoj au^ al slava lingvo, parolata en Vojvodino.
 Ruten/uj/o:【PIV】Regiono, sudokcidente de Karpatoj, aparteninta al Hungario, al C^eh^oslovakio, nun parto de Ukrainio (23°E, 48°30′N).
@@ -54619,7 +54619,7 @@ salicin/o:【PIV】(evi (evitinda)) = salikino (Vd (vidu) saliko).
 salik/a⟦柳/a⟧:【PIV】1 Rilata al saliko. 2 Farita el salikobranc^oj: salika korbo.
 salik/ej/o⟦柳/所/o⟧:【PIV】Loko, kie kreskas multe da salikoj.
 salik/in/o⟦柳/in/o⟧:【化】【PIV】Glukozido, C 6 H 4 (O.C 6 H 11 O 5)CH 2 OH, kun sendolorigaj k kontrau^febraj ecoj, ekstraktata el la s^elo de salikoj.##偽分解(PIV正式分解)
-salik/oz/id/o⟦柳/症ᴼ/子/o⟧:【PIV】Salikino.##偽分解(PIV正式分解)
+salik/oz/id/o⟦柳/糖ᴼ/子/o⟧:【PIV】Salikino.##偽分解(PIV正式分解)
 salik/at/o⟦柳/盐ᴬ/o⟧:【化】【PIV】Salo de salik(il)ata acido, uzata kontrau^ febro, doloro k inflamo (precipe c^e reu^matismoj).##偽分解(PIV正式分解)
 salik/il/at/o⟦柳/具/盐ᴬ/o⟧:【化】【PIV】Salo de salik(il)ata acido, uzata kontrau^ febro, doloro k inflamo (precipe c^e reu^matismoj).##偽分解(PIV正式分解)
 salikorni/o⟦草ˢᴬᴸ/o⟧:【植】【PIV】G. (Genro) (Salicornia el kenopodiacoj) de salejaj plantoj - unu-k plur-jaraj sukulentaj herboj k arbustetoj - kun tre malgrandaj, skvamformaj folioj k kun tre malgrandaj floroj 3−7-opaj funde de s^oskavoj; kosmopolita g. (genro) de 28 sp-oj (specioj), kelkaj mang^ataj kiel legomo; ilia cindro, ric^a je sodo, iam estis uzata en la fabrikado de vitro k sapo. see sodherbo.
@@ -54972,7 +54972,7 @@ silic/a⟦硅/a⟧:【化】【PIV】Rilata al, konsistanta el silico: silica pe
 silic/ig^/o⟦硅/成/o⟧:【PIV】S^ang^ig^o al silico: silicig^o de arbotrunko.
 silic/oz/o⟦硅/症ᴼ/o⟧:【医】【PIV】Pneu^monokoniozo, kau^zata de silico: silicozo ofte kuntrenas tuberkulozon. Sin. (sinonimo) silikozo.
 silici/at/o⟦硅ˢᴵ/盐ᴬ/o⟧:【化】【PIV】1 Salo de siliciata acido, H 2 SiO 3 au^ alia hidrato (ekz. (ekzemple) H 4 SiO 4, H 2 Si 2 O 6): siliciata likvo, Na 2 SiO 3 au^ K 2 SiO 3, fluor siliciato (salo de fluor siliciata acido, H 2 SiF 5). Sin. (sinonimo) silikato. 2 C^iu mineralo, karakterizata de la struktura kvaredra elemento (SiO 4) ^4−: siliciata petro (precipe konsistanta el siliciatoj 2). Sin. (sinonimo) silikato.##偽分解(PIV正式分解)
-silici/id/o⟦硅ˢᴵ/子/o⟧:【PIV】Kombinaj^o de metalo kun silicio: zirkonia siliciido (Zr 5 Si 3).##偽分解
+silici/id/o⟦硅ˢᴵ/化ᴵᴰ/o⟧:【PIV】Kombinaj^o de metalo kun silicio: zirkonia siliciido (Zr 5 Si 3).##偽分解
 silik/at/o⟦硅ˢᴷ/盐ᴬ/o⟧:【化】【地質】【PIV】Tradicia nomo de siliciato.##偽分解(PIV正式分解)
 silikon/o:【化】【PIV】G^enerala nomo por diversaj organikaj silici-kombinaj^oj: al la silikonoj c^efe apartenas la (poli)siloksanoj, grandmolekulaj organikaj kombinaj^oj kun c^eno, en kiu alternas atomoj de silicio k oksigeno k kies siliciatomoj portas organikajn radikojn po du, ekz. (ekzemple) du metilojn; silikonoj estas kemie tre rezistaj k tial trovas multajn tre diversajn aplikojn, i.a. (interalie, inter aliaj) kiel tegaj^on por s^irmi kontrau^ korodo.
 silk/aj^/oj⟦丝/物/oj⟧:【PIV】Varoj el silko.
@@ -55024,7 +55024,7 @@ sinalef/o:【PIV】En metriko, kunfando de la fina vokalo de vorto kun la komenc
 sinantrop/o:【PIV】Fosilia prahomo, malkovrita en C^inio, nun klasifikita en la sp. rekta homo (Homo erectus).
 sinaps/o:【生】【PIV】Loko de kontakto inter la ekstremaj^oj de du nervoc^eloj au^ inter nervoc^elo k muskol-, gland-au^ senso-c^elo: ekscita sinapso (ebliganta transpason de la nerva impulso de la antau^ sinapsa c^elo al la post sinapsa); inhiba sinapso (inhibanta la transpason de la nerva impulso). see septo.
 sinapsid/oj:【動】【PIV】Subklaso (Synapsida) de reptilioj, ampleksanta i.a. (interalie, inter aliaj) la terapsidojn.
-sinartr/o:【PIV】= senmova artiko.
+sin/artr/o⟦怀/节ᴬᴿ/o⟧:【PIV】= senmova artiko.##偽分解##過細分解 s/i/n/artr/o
 sinciti/o:【生】【PIV】Kontinua protoplasma maso, entenanta multajn nukleojn. Vd hifo, sifono 3, plasmodo.
 anarki-sindikat/ism/o⟦无政ᴬᴵ-盟/主义/o⟧:【PIV】Revolucia sindikatismo, influata de la anarkiista movado.
 sinekdok/o:【PIV】Vortfiguro konsistanta en la inters^ang^o de du vortoj, kiuj havas malsaman signif-amplekson, ekz. (ekzemple) inters^ang^o de la speco k la genro («la mortidevuloj» anst. (anstatau^) «homoj»), la parto k la tuto («ni ekvidis 30 velojn» anst. (anstatau^) «s^ipojn») ktp (kaj tiel plu).
@@ -55049,7 +55049,7 @@ sin/kron/o/skop/o⟦共ˢ/时ᴷ/o/镜ˢᴷ/o⟧:【PIV】Instrumento por montri
 sinodik/a:【天】【PIV】Rilata al konjunkcio de astroj: sinodika periodo (dau^ro necesa al la reapero de planedo en la sama pozicio rilate al Tero k Suno); sinodika (luna) monato.
 sin/onim/ik/o⟦共ˢ/名ᴼ/学ᴵ/o⟧:【PIV】Scienco, celanta difini la senconuancojn inter la sinonimoj.##偽分解##過細分解 s/i/n/onim/ik/o
 sinopl/o:【PIV】Verdo.
-sinost/o:【解】【PIV】(synostosis) Nemovebla artiko, devenanta el ostig^o de la histo kuniganta du ostojn de la kranio.
+sin/ost/o⟦怀/骨/o⟧:【解】【PIV】(synostosis) Nemovebla artiko, devenanta el ostig^o de la histo kuniganta du ostojn de la kranio.##偽分解##過細分解 s/i/n/ost/o
 sinovi/a⟦滑ˢᴺ/a⟧:【PIV】Rilata al sinovio: sinovia membrano (interne teganta la kavojn de la artikoj, escepte de la artikaj surfacoj, k de iuj tendenoj k ties vaginaloj: membrana synovialis).
 sinovi/it/o⟦滑ˢᴺ/炎ᵀ/o⟧:【医】【PIV】Inflamo de la sinovia membrano de artiko au^ de la vaginalo de tendeno.##偽分解
 sintagm/o:【語】【PIV】Unuo kun difinita sintaksa funkcio k rezultanta de kunigo de du au^ pluraj morfemoj; g^i povas esti vorto (ekz. (ekzemple) «ilarojn»), au^ vortgrupo (ekz. (ekzemple) «en la mondon», «nova sento»).
@@ -60167,7 +60167,7 @@ de/oksi/oz/o⟦从/氧/糖ᴼ/o⟧:【化】【PIV】Monosakarido, C n H 2n O n-
 furan/oz/o⟦furan/糖ᴼ/o⟧:【PIV】Monosakarido, karakterizata de kvinedra heterociklo (parenca al furano), konsistanta el 4 karbonatomoj k unu oksigenatomo: glukofuranozo; rib ozo estas furanozo.##偽分解(PIV正式分解)
 ket/oz/o⟦ket/糖ᴼ/o⟧:【化】【PIV】Ketona monosakarido.##偽分解(PIV正式分解)
 piran/oz/o⟦piran/糖ᴼ/o⟧:【PIV】Monosakarido, karakterizata de sesedra heterociklo (parenca al pirano), konsistanta el 5 karbonatomoj k unu oksigenatomo: glukopiranozo.##偽分解(PIV正式分解)
-sap/oz/id/o⟦皂/症ᴼ/子/o⟧:【PIV】Saponino.##偽分解(PIV正式分解)
+sap/oz/id/o⟦皂/糖ᴼ/子/o⟧:【PIV】Saponino.##偽分解(PIV正式分解)
 pent/ozan/o⟦五ᴾᴱ/ozan/o⟧:【PIV】(kn (kolektiva nomo)) Polisakarido de pentozo, trovig^anta i.a. (interalie, inter aliaj) en hemicelulozo: pentozana sulfato (artefarita heparinsimila antikoagula substanco).##偽分解(PIV正式分解)##過細分解 p/e/n/t/ozan/o
 inter/pac/ig/i⟦间/和/使/i⟧:【PIV】Pacigi reciproke: religia unuig^o, kiu interpacigus c^iujn ekzistantajn religiojn .
 mal/pacienc/ig^/i⟦反/忍ᴾ/成/i⟧:【PIV】Perdi sian paciencon.
