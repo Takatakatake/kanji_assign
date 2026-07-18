@@ -86,6 +86,7 @@ $existing=@(
  @('ur','尿','ur/gener/a,ur/o/gener/a','','uro-(尿)→尿。オーロックスur/o(原牛)は維持。uro/log/uro/grafiは既に尿ᵁᴼ'),
  @('an','无','frid/an/estez/o','','否定接頭an-(=a-,無-)→无。frid/an/estez(冷却麻酔=冷/无/感。anesthesia=無感覚)のanのみ。接尾辞-an-(員=member)は基本形员を維持(word-scoped限定)。2026-07-15 監査是正'),
  @('riz','根','riz/o/morf/o,riz/o/pod/oj','','rhizo-(根)→根。米riz/o(米)·稲riz/kamp/riz/o/spik等は維持。rizom=根茎'),
+ @('akant','刺','akant/o/cefal/oj,akant/o/pterig/oj','','akanto-(希ἄκανθα=棘·刺)→刺。棘頭虫Acanthocephala(akant/o/cefal=刺/头)・棘鰭類Acanthopterygii(akant/o/pterig=刺/翅)の thorn 義のみ。植物アカンサスakant/o(草=Acanthus属は棘葉だが植物として草維持)・トゲザメakantias(鱼)は不変。刺はdorn/pik/spron等と同じ棘グリフ(新字ゼロ)。2026-07-18 偽友スイープ'),
  @('daktil','指','daktil/o/graf/i,daktil/o/skop/i/o,pter/o/daktil/o','','dactylo-(指)→指。ナツメヤシdaktil/o(枣)·daktil/o/palm等は維持。2026-07-18 正本過細分解 pterodaktil→pter/o/daktil 露出→追加(pterodactyl翼指=翅/指。daktil→枣ナツメヤシの偽友是正)'),
  @('sperm','种','endo/sperm/o,peri/sperm/o,angi/o/sperm/oj','','-sperma(種·胚乳)→种。angi/o/sperm/oj(被子植物=覆われた種)もgimnosperm裸子(whole-word)・endo/peri/spermと平行に种(2026-07-04 WSL再分解angiosperm→angi/o/sperm露出で精液=semen誤適用を是正)。精液sperm/o(精液)·sperm/o/dukt等は維持'),
  # 結合形フォルスフレンド第4弾(2026-06-21・優先順位/方針 多エージェント監査で検出)。-log-=言葉(話)·-metr-=計器(计)。
