@@ -51403,7 +51403,7 @@ leu^koj/o:【植】【PIV】G. (Genro) (Leucojum el amarilidacoj), parenca al ga
 leu^kom/o:【医】【PIV】Blanka makulo de la korneo, cikatro de vundo au^ ulcero. Vd albugo.
 leu^koplast/o:【医】【PIV】Speco de kau^c^uka gluplastro, servanta por s^irmi malgrandajn vundojn.
 leu^ko/poez/o:【生】【PIV】Formig^o de leu^kocitoj en la organismo. Sin. (sinonimo) leu^kocitopoezo.##偽分解
-leu^koz/o:【医】【PIV】Nenormala multig^o de leu^kocitoj en la produktantaj organoj (lieno, medolo); g^i povas manifestig^i per leu^kemio.
+leu^k/oz/o:【医】【PIV】Nenormala multig^o de leu^kocitoj en la produktantaj organoj (lieno, medolo); g^i povas manifestig^i per leu^kemio.##偽分解(PIV正式分解)
 lev/ator/o:【PIV】1 = elevatoro. 2 Nomo de diversaj muskoloj, kiuj servas por levi membron: skapola, bus^angula levatoro.##偽分解(PIV正式分解)
 levanten/o:【PIV】(ark. (arkaismo, arkaisme)) Log^anto en la orienta parto de la Mediteraneaj regionoj.
 Levi/id/o:【PIV】Unu el la idoj de Levi.

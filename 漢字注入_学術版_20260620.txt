@@ -2023,7 +2023,7 @@ antilop/o⟦羚ᴬ/o⟧:{Ｏ}【動】レイヨウ,アンテロープ（総称�
 anti/materi/o⟦抗ᴬ/质ᴹ/o⟧:【理】反物質
 antimon/o⟦矿ᴬᴺ/o⟧:{Ｏ}【化】アンチモン（金属、５１番元素）
 antineu^trin/o⟦抗中微子/o⟧:【理】反ニュートリノ
-antinomi/o⟦抗学/o⟧:【哲】二律背反
+antinomi/o⟦抗律/o⟧:【哲】二律背反
 antipartikl/o⟦抗粒/o⟧:【理】=kontrau^partiklo（反粒子）
 antipati/a⟦抗情/a⟧:反感を覚えさせる,虫の好かない
 antipati/i⟦抗情/i⟧:［他］反感をもつ,毛嫌いする
@@ -3755,7 +3755,7 @@ bio/mal/kompon/ebl/a⟦生ᴮᴼ/反/组ᴷ/可/a⟧:【環】生分解性の
 biomas/a energi/o⟦生团/a 能ᴱ/o⟧:【環】バイオマスエネルギー
 biomas/a piramid/o⟦生团/a 锥ᴾ/o⟧:【環】生物量ピラミッド
 biomas/o⟦生团/o⟧:【環】生物量,バイオマス
-biontologi/o⟦生将学/o⟧:《廃》生物学,=>biologio
+biontologi/o⟦生在学/o⟧:《廃》生物学,=>biologio
 biosfer/o⟦生球/o⟧:【環】生物圏,生活圏
 biotop/o⟦生境/o⟧:【環】ビオトープ,小生活圏
 biplan/o:【空】複葉機,>>monoplano
@@ -6098,7 +6098,7 @@ dekagram/o⟦十克/o⟧:{Ｏ}【単】デカグラム
 dek/a/jar/a⟦十/a/年/a⟧:十年目の
 dekalitr/o⟦十升/o⟧:{Ｏ}【単】デカリットル
 de/kalkul/i⟦从/算/i⟧:［他］差し引く,控除する
-dekalog/o⟦十学家/o⟧:【聖】（モーセの）十戒
+dekalog/o⟦十戒/o⟧:【聖】（モーセの）十戒
 Dekameron/o:【文】『デカメロン』（ボッカチオ作）
 dekametr/o⟦十米/o⟧:{Ｏ}【単】デカメートル
 Dekan/a Alt/eben/ej/o:【地名】デカン高原（インド）
@@ -25196,10 +25196,10 @@ meteolog/o⟦气学家ᴹ/o⟧:気象学者,=meteorologo
 meteor/a dus^/o⟦陨/a 淋/o⟧:【天】流星雨
 meteorism/o⟦陨主义/o⟧:【医】鼓腸
 meteor/o⟦陨/o⟧:{Ｏ}【天】流星,=falstelo;【気】大気現象,=atmosfera fenomeno
-meteorologi/a bulten/o⟦陨学/a 报ᴮ/o⟧:【気】気象通報
-meteorologi/a observatori/o⟦陨学/a 天文台/o⟧:【気】気象台
-meteorologi/o⟦陨学/o⟧:{Ｏ}気象学,=meteologio
-meteorolog/o⟦陨学家/o⟧:{Ｏ}気象学者,=meteologo
+meteorologi/a bulten/o⟦气学ᴹᴿ/a 报ᴮ/o⟧:【気】気象通報
+meteorologi/a observatori/o⟦气学ᴹᴿ/a 天文台/o⟧:【気】気象台
+meteorologi/o⟦气学ᴹᴿ/o⟧:{Ｏ}気象学,=meteologio
+meteorolog/o⟦气学家ᴹᴿ/o⟧:{Ｏ}気象学者,=meteologo
 meteor/s^ton/o⟦陨/石/o⟧:【天】隕石（いんせき）,=aerolito
 met/i⟦置/i⟧:{Ｂ}［他］置く,入れる,備え付ける,身につける;（ある状態に）する
 meti/ej/o⟦艺ᴹ/所/o⟧:仕事場,工房
@@ -27169,8 +27169,8 @@ ne/kred/ebl/a⟦不/信/可/a⟧:信じがたい,信用できない
 ne/kred/ebl/a afer/o⟦不/信/可/a 事ᴬ/o⟧:信じられない事件
 ne/kred/ebl/e⟦不/信/可/e⟧:信じられないほどに
 ne/kred/o⟦不/信/o⟧:無信仰
-nekrolog/ar/o⟦死学家/群/o⟧:死亡者名簿
-nekrolog/o⟦死学家/o⟧:{Ｏ}死亡記事,故人略歴
+nekrolog/ar/o⟦死志/群/o⟧:死亡者名簿
+nekrolog/o⟦死志/o⟧:{Ｏ}死亡記事,故人略歴
 nekromanci/ist/o⟦招魂/家/o⟧:降霊占い師,降霊術師
 nekromanci/o⟦招魂/o⟧:（死者の霊を呼び出して未来を占う）降霊占い,降霊術,口寄せ,>>spiritismo
 nekropol/o⟦墓ᴺ/o⟧:【史】ネクロポリス（古代の集合墓地遺跡）
@@ -28471,9 +28471,9 @@ onomatope/o:【語】擬音語,擬声語
 -ont-⟦将⟧:{Ｂ}［分詞接尾辞］（能動・将然）
 Ontari/o:【地名】オンタリオ湖（五大湖の一，北米）
 Ontari/o:【地名】オンタリオ州（カナダ）
-ontogenez/o⟦将源/o⟧:【生】個体発生,=individugenezo
+ontogenez/o⟦在源/o⟧:【生】個体発生,=individugenezo
 ontogeni/o:【生】=individugenezo（個体発生）
-ontologi/o⟦将学/o⟧:【哲】存在論
+ontologi/o⟦在学/o⟧:【哲】存在論
 oomot/an/o⟦oomot/员ᴬ/o⟧:大本信徒
 Oomot/o:【宗】大本教
 -op-⟦组⟧:{Ｂ}［接尾辞］（集合を示す）,>>duope
@@ -45111,7 +45111,7 @@ antiklinal/o⟦背斜/o⟧:【地質】【PIV】Konveksa parto de falto. Vd sink
 Antil/an/o:【PIV】Log^anto de iu el la Antiloj.
 antilid/o⟦豆ᴬᴺ/o⟧:【植】【PIV】G. (Genro) (Anthyllis el fabacoj) de unu-k plur-jaraj herboj k de tufarbustoj kun diverskoloraj floroj en densaj kapoj, pli malofte unuopaj au^ en grapoloj, k kun malgrandaj gus^oj plejofte nedehiskaj; c^. (c^irkau^) 20 sp-oj (specioj) el S Eu^ropo, Makaronezio, NE Afriko k U Azio.
 Antino/o:【史】【PIV】Juna, tre bela sklavo, kiu ig^is la favorato de Hadriano.
-antinomi/a⟦抗学/a⟧:【PIV】Formanta antinomion: antinomiaj konceptoj.
+antinomi/a⟦抗律/a⟧:【PIV】Formanta antinomion: antinomiaj konceptoj.
 Antioh^/o:【史】【PIV】Nomo de pluraj reg^oj heleno-siriaj.
 Antioh^i/o:【史】【PIV】C^efurbo de la antikva Sirio k lulilo de la helena kristanismo (36°10′E, 36°14′N).
 Antiop/o:【PIV】1 Reg^idino, kiun Zeu^so amoris sub formo de satiruso. 2 Reg^ino de la Amazonoj, patrino de Hipolito.
@@ -47376,7 +47376,7 @@ eritroblast/o⟦红胚/o⟧:【解】【PIV】Nukleohava c^elo de la ostmedolo, 
 eritroksil/o⟦木ᴱᴷ/o⟧:【植】【PIV】G. (Genro) (Erythroxylum el eritroksilacoj) de lignecaj plantoj kun s^osoj lau^aspekte ofte skvamaj k kun simplaj, stipulohavaj folioj; tropika, precipe S-Amerika g. (genro) de c^. (c^irkau^) 230 sp-oj (specioj), el kiuj kokao.
 eritroni/o⟦猪牙花/o⟧:【植】【PIV】G. (Genro) (Erythronium el liliacoj) de herboj kun tunika bulbo, kun du elbazaj folioj k kun senfoliaj tigoj, portantaj pli-malpli pendantajn florojn po unu au^ malmultaj; N-hemisfera, precipe Amerika g. (genro) de c^. (c^irkau^) 20 sp-oj (specioj), kelkaj pororname kultivataj, ekz. (ekzemple) la hundodenta eritronio (E. dens-canis).
 eritropoez/o⟦红生/o⟧:【生】【PIV】Formig^o de la eritrocitoj en la osta medolo de plenkreskulo au^ en la hepato de embrio. Sin. (sinonimo) eritrocitopoezo.
-eritropoezin/o⟦红生女/o⟧:【PIV】Poezino, stimulanta la produktadon de eritrocitoj en la osta medolo k sekve pliiganta la oksigenadon de la histoj: eritropoezino estas uzata de iuj sportistoj por elteni longedau^rajn strec^ojn. -> dopi.
+eritropoezin/o⟦红生素/o⟧:【PIV】Poezino, stimulanta la produktadon de eritrocitoj en la osta medolo k sekve pliiganta la oksigenadon de la histoj: eritropoezino estas uzata de iuj sportistoj por elteni longedau^rajn strec^ojn. -> dopi.
 eritroz/o:【化】【PIV】1 Kvar-karbonatoma sukero, aldotetrozo, C 4 H 8 O 4. 2【医】 Stato de rug^ig^o de hau^to k de mukmembranoj, speciale pro troo de eritrocitoj en la sango.
 Erivan/o:【PIV】= Erevano.
 erizif/o⟦菌ᴱᴿ/o⟧:【植】【PIV】G. (Genro) (Erysiphe el erizifacoj), kosmopolita, de c^. (c^irkau^) 170 sp-oj (specioj) de mikroskopaj askofungoj, estigantaj melduon.
@@ -48401,9 +48401,9 @@ glor/ad/o⟦荣/行/o⟧:【PIV】Ago de gloranto: la glorado de la falintaj pat
 glor/aj^/o⟦荣/物/o⟧:【PIV】Faro glora.
 glor/ind/a⟦荣/值/a⟧:【PIV】Inda je grandaj lau^doj: la Eternulo estas granda k tre glorinda .
 glorioz/o⟦草ᴳᶻ/o⟧:【植】【PIV】G. (Genro) (Gloriosa el kolc^ikacoj) de nur unu plurforma sp. (G. (Genro) superba); plurjaraj, volvegrimpaj, tropikaj herboj el Azio k Afriko, el kiuj kelkaj formoj kultivataj por grandaj, ornamaj floroj unue verdaj, poste flavaj au^ rug^aj.
-glosektomi/o⟦注除/o⟧:【医】【PIV】Tuta au^ parta fortranc^o de la lango.
+glosektomi/o⟦舌除/o⟧:【医】【PIV】Tuta au^ parta fortranc^o de la lango.
 glosin/o⟦虫ᴳᴺ/o⟧:【動】【PIV】G. (Genro) (Glossina) de insektoj el la ordo de dipteroj, kies sp-oj (specioj) transportas i.a. (interalie, inter aliaj) la tripanosomojn. Sin. (sinonimo) ceceo.
-glosit/o⟦注炎/o⟧:【医】【PIV】Inflamo de la lango.
+glosit/o⟦舌炎/o⟧:【医】【PIV】Inflamo de la lango.
 glosofaring/a:【解】【PIV】(N. glossopharyngeus) Nomepiteto de la 9a krania nervoparo, kiu entenas movajn fibrojn por la faringo k parto de la lango, k sensajn fibrojn el la bazo de la lango.
 glosolali/o:【PIV】1 En la prakristanaj rondoj, kapablo preg^i k lau^di Dion en lingvo nekonata. 2【医】 Ekstaza au^ patologia parolo, plejofte neartikigita, eligata en ekzalta psika stato.
 glosopterid/o⟦草ᴳᴾ/o⟧:【植】【PIV】G. (Genro) (Glossopteris el glosopteridacoj) de pteridofitoj kun simplaj, longformaj folioj kun distingebla c^efa ripo, k kiuj vivis en Gondvano de karbonio g^is malfrua triaso.
@@ -49028,7 +49028,7 @@ hipofiz/o⟦垂体/o⟧:【解】【PIV】(hypophysis) Grava endokrina glando, s
 hipogastr/o⟦亚胃/o⟧:【解】【PIV】Meza malsupra parto de la ventro, kus^anta sub linio pasanta c^e la supro de la koksostoj. Vd epigastro.
 hipoge/o:【PIV】Prahistoria au^ antikva subtera tombo.
 hipogin/a:【植】【PIV】1 (pp (se paroli pri) perianto k androceo) S^ajne insertig^inta sub la ovario k ne kunig^inta kun tiu c^i. 2 (pp (se paroli pri) floro) Havanta hipoginajn perianton k androceon: hipogina floro c^iam havas superan ovarion. Vd epigina, perigina.
-hipoglos/o⟦亚注/o⟧:【解】【PIV】1 Tuto de la nervoj de la 12a krania paro, kiuj donas fibrojn al la langaj muskoloj (ankau^: hipoglosa nervo, N. hypoglossus). 2【動】【料】 G. (Genro) (Hippoglossus) de grandaj fis^oj el la ordo de pleu^ronektoformaj, fam. (familio) de pleu^ronektedoj, kun fendita vosto; tre bongustaj: hipogloso stufita en aluminia folio. Vd fleso, limando, plateso, rombo 2, soleo.
+hipoglos/o⟦亚舌/o⟧:【解】【PIV】1 Tuto de la nervoj de la 12a krania paro, kiuj donas fibrojn al la langaj muskoloj (ankau^: hipoglosa nervo, N. hypoglossus). 2【動】【料】 G. (Genro) (Hippoglossus) de grandaj fis^oj el la ordo de pleu^ronektoformaj, fam. (familio) de pleu^ronektedoj, kun fendita vosto; tre bongustaj: hipogloso stufita en aluminia folio. Vd fleso, limando, plateso, rombo 2, soleo.
 hipogrif/o⟦马狮鹰/o⟧:【PIV】Fabela estaj^o, duone c^evalo duone grifo.
 hipokamp/o:【神】【PIV】1 Monstro duone c^evalo duone fis^o. 2【動】 G. (Genro) (Hippocampus) de gasterosteformaj fis^oj, similaj al s^aka c^evaleto. 3【解】 Interna malsupra parto de c^iu cerebra hemisfero, rolanta en la konduto de la individuo.
 hipokastan/o⟦木ᴴˢ/o⟧:【植】【PIV】1 (ark. (arkaismo, arkaisme)) Alia nomo (Hippocastanum, nomenklature ne legitima) de eskulo. 2 Sp. (Specio) de eskulo (Aesculus hippocastanum), granda arbo kun densa branc^aro, kun longpetiolaj, mane kunmetaj folioj, kun 20−30 cm (centimetro) altaj infloreskoj el blankaj floroj flav-au^ roz-makulaj, k kun pli-malpli dornohavaj fruktoj; hejma de Balkanoj g^is Himalajo, ofte plantata ekz. (ekzemple) kiel alearbo; la s^elo estas medicine uzata pro enhavo de eskulino. Sin. (sinonimo) c^evalkas^tanujo.

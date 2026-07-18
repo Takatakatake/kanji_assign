@@ -2023,7 +2023,7 @@ antilop/o⟦羚ᴬ/o⟧:{Ｏ}【動】レイヨウ,アンテロープ（総称�
 anti/materi/o⟦抗ᴬ/质ᴹ/o⟧:【理】反物質
 antimon/o⟦矿ᴬᴺ/o⟧:{Ｏ}【化】アンチモン（金属、５１番元素）
 anti/neu^trin/o⟦抗ᴬ/中微子/o⟧:【理】反ニュートリノ##偽分解
-anti/nomi/o⟦抗ᴬ/学ᴺ/o⟧:【哲】二律背反##偽分解
+anti/nomi/o⟦抗ᴬ/律ᴺ/o⟧:【哲】二律背反##偽分解
 anti/partikl/o⟦抗ᴬ/粒ᴾ/o⟧:【理】=kontrau^partiklo（反粒子）##偽分解
 anti/pati/a⟦抗ᴬ/情/a⟧:反感を覚えさせる,虫の好かない##偽分解(PIV正式分解)
 anti/pati/i⟦抗ᴬ/情/i⟧:［他］反感をもつ,毛嫌いする##偽分解(PIV正式分解)
@@ -3755,7 +3755,7 @@ bio/mal/kompon/ebl/a⟦生ᴮᴼ/反/组ᴷ/可/a⟧:【環】生分解性の
 bio/mas/a energi/o⟦生ᴮᴼ/团ᴹ/a 能ᴱ/o⟧:【環】バイオマスエネルギー##偽分解
 bio/mas/a piramid/o⟦生ᴮᴼ/团ᴹ/a 锥ᴾ/o⟧:【環】生物量ピラミッド##偽分解
 bio/mas/o⟦生ᴮᴼ/团ᴹ/o⟧:【環】生物量,バイオマス##偽分解
-bi/ont/o/logi/o⟦生ᴮᴵ/将/o/学ᴸᴳ/o⟧:《廃》生物学,=>biologio##偽分解##過細分解 b/i/o/n/t/o/logi/o
+bi/ont/o/logi/o⟦生ᴮᴵ/在ᴼ/o/学ᴸᴳ/o⟧:《廃》生物学,=>biologio##偽分解##過細分解 b/i/o/n/t/o/logi/o
 bio/sfer/o⟦生ᴮᴼ/球ˢ/o⟧:【環】生物圏,生活圏##偽分解
 bio/top/o⟦生ᴮᴼ/境ᵀ/o⟧:【環】ビオトープ,小生活圏##偽分解##過細分解 bio/t/o/p/o
 bi/plan/o⟦二ᴮ/划/o⟧:【空】複葉機,>>monoplano##偽分解##過細分解 bi/p/l/a/n/o
@@ -6098,7 +6098,7 @@ deka/gram/o⟦十ᴰᴬ/克/o⟧:{Ｏ}【単】デカグラム##偽分解(PIV正
 dek/a/jar/a⟦十/a/年/a⟧:十年目の
 deka/litr/o⟦十ᴰᴬ/升/o⟧:{Ｏ}【単】デカリットル##偽分解(PIV正式分解)
 de/kalkul/i⟦从/算/i⟧:［他］差し引く,控除する
-deka/log/o⟦十ᴰᴬ/学家/o⟧:【聖】（モーセの）十戒##偽分解
+deka/log/o⟦十ᴰᴬ/戒ᴸ/o⟧:【聖】（モーセの）十戒##偽分解
 Dekameron/o:【文】『デカメロン』（ボッカチオ作）
 deka/metr/o⟦十ᴰᴬ/米/o⟧:{Ｏ}【単】デカメートル##偽分解
 Dekan/a Alt/eben/ej/o:【地名】デカン高原（インド）
@@ -18244,7 +18244,7 @@ kojn/o/skrib/o⟦kojn/o/书ˢ/o⟧:【史】楔形文字書法
 kojn/um/i:［他］くさび止めにする
 kojot/o:【動】コヨーテ,=prerilupo
 kojp/o:【動】ヌートリア,カイリネズミ（海狸鼠）
-koka/in/ism/o⟦koka/女/主义/o⟧:【病】コカイン中毒##偽分解(PIV正式分解)
+koka/in/ism/o⟦koka/in/主义/o⟧:【病】コカイン中毒##偽分解(PIV正式分解)
 koka/in/o:【化】コカイン##偽分解(PIV正式分解)
 kok/aj^/o⟦鸡/物/o⟧:【料】かしわ,鶏肉
 kokakola/o:コカコーラ（商品名）
@@ -25196,10 +25196,10 @@ meteo/log/o⟦气ᴹ/学家/o⟧:気象学者,=meteorologo##偽分解
 meteor/a dus^/o⟦陨/a 淋/o⟧:【天】流星雨
 meteor/ism/o⟦陨/主义/o⟧:【医】鼓腸##偽分解##強語根分解##過細分解 m/e/t/e/o/r/ism/o
 meteor/o⟦陨/o⟧:{Ｏ}【天】流星,=falstelo;【気】大気現象,=atmosfera fenomeno
-meteor/o/logi/a bulten/o⟦陨/o/学ᴸᴳ/a 报ᴮ/o⟧:【気】気象通報##偽分解
-meteor/o/logi/a observatori/o⟦陨/o/学ᴸᴳ/a 天文台/o⟧:【気】気象台##偽分解
-meteor/o/logi/o⟦陨/o/学ᴸᴳ/o⟧:{Ｏ}気象学,=meteologio##偽分解
-meteor/o/log/o⟦陨/o/学家/o⟧:{Ｏ}気象学者,=meteologo##偽分解
+meteor/o/logi/a bulten/o⟦气ᴹᴿ/o/学ᴸᴳ/a 报ᴮ/o⟧:【気】気象通報##偽分解
+meteor/o/logi/a observatori/o⟦气ᴹᴿ/o/学ᴸᴳ/a 天文台/o⟧:【気】気象台##偽分解
+meteor/o/logi/o⟦气ᴹᴿ/o/学ᴸᴳ/o⟧:{Ｏ}気象学,=meteologio##偽分解
+meteor/o/log/o⟦气ᴹᴿ/o/学家/o⟧:{Ｏ}気象学者,=meteologo##偽分解
 meteor/s^ton/o⟦陨/石/o⟧:【天】隕石（いんせき）,=aerolito
 met/i⟦置/i⟧:{Ｂ}［他］置く,入れる,備え付ける,身につける;（ある状態に）する
 meti/ej/o⟦艺ᴹ/所/o⟧:仕事場,工房
@@ -27169,8 +27169,8 @@ ne/kred/ebl/a⟦不/信/可/a⟧:信じがたい,信用できない
 ne/kred/ebl/a afer/o⟦不/信/可/a 事ᴬ/o⟧:信じられない事件
 ne/kred/ebl/e⟦不/信/可/e⟧:信じられないほどに
 ne/kred/o⟦不/信/o⟧:無信仰
-nekr/o/log/ar/o⟦死ᴺ/o/学家/群/o⟧:死亡者名簿##偽分解
-nekr/o/log/o⟦死ᴺ/o/学家/o⟧:{Ｏ}死亡記事,故人略歴##偽分解
+nekr/o/log/ar/o⟦死ᴺ/o/志ᴸ/群/o⟧:死亡者名簿##偽分解
+nekr/o/log/o⟦死ᴺ/o/志ᴸ/o⟧:{Ｏ}死亡記事,故人略歴##偽分解
 nekromanci/ist/o⟦招魂/家/o⟧:降霊占い師,降霊術師
 nekromanci/o⟦招魂/o⟧:（死者の霊を呼び出して未来を占う）降霊占い,降霊術,口寄せ,>>spiritismo
 nekropol/o⟦墓ᴺ/o⟧:【史】ネクロポリス（古代の集合墓地遺跡）
@@ -28471,9 +28471,9 @@ onomatope/o:【語】擬音語,擬声語
 -ont-⟦将⟧:{Ｂ}［分詞接尾辞］（能動・将然）
 Ontari/o:【地名】オンタリオ湖（五大湖の一，北米）
 Ontari/o:【地名】オンタリオ州（カナダ）
-ont/o/genez/o⟦将/o/源ᴳ/o⟧:【生】個体発生,=individugenezo##偽分解##強語根分解##過細分解 o/n/t/o/genez/o
+ont/o/genez/o⟦在ᴼ/o/源ᴳ/o⟧:【生】個体発生,=individugenezo##偽分解##強語根分解##過細分解 o/n/t/o/genez/o
 ontogeni/o:【生】=individugenezo（個体発生）
-ont/o/logi/o⟦将/o/学ᴸᴳ/o⟧:【哲】存在論##偽分解##強語根分解##過細分解 o/n/t/o/logi/o
+ont/o/logi/o⟦在ᴼ/o/学ᴸᴳ/o⟧:【哲】存在論##偽分解##強語根分解##過細分解 o/n/t/o/logi/o
 oomot/an/o⟦oomot/员ᴬ/o⟧:大本信徒
 Oomot/o:【宗】大本教
 -op-⟦组⟧:{Ｂ}［接尾辞］（集合を示す）,>>duope
@@ -41706,8 +41706,8 @@ tuber/aj^/o⟦隆/物/o⟧:こぶ状の物,
 tuber/celeri/o⟦隆/芹/o⟧:【植】セロリアーク,コンヨウ（根用）セロリ（セロリの変種）
 tuber/et/o⟦隆/小/o⟧:【解】隆起;【病】結節
 tuber/form/a⟦隆/形/a⟧:こぶ状の,結節状の
-tuberkul/in/a ekzamen/o⟦结ᵀ/女/a 检ᴱ/o⟧:【医】ツベルクリン検査##偽分解(PIV正式分解)
-tuberkul/in/a reakci/o⟦结ᵀ/女/a 反应/o⟧:【医】ツベルクリン反応##偽分解(PIV正式分解)
+tuberkul/in/a ekzamen/o⟦结ᵀ/in/a 检ᴱ/o⟧:【医】ツベルクリン検査##偽分解(PIV正式分解)
+tuberkul/in/a reakci/o⟦结ᵀ/in/a 反应/o⟧:【医】ツベルクリン反応##偽分解(PIV正式分解)
 tuberkul/in/o⟦结ᵀ/in/o⟧:【化】ツベルクリン##偽分解(PIV正式分解)
 tuberkul/o⟦结ᵀ/o⟧:{Ｏ}【病】結節,結核結節
 tuberkul/oz/o⟦结ᵀ/症ᴼ/o⟧:{Ｏ}【病】結核（症）,>>ftizo##偽分解
@@ -45111,7 +45111,7 @@ antiklinal/o⟦背斜/o⟧:【地質】【PIV】Konveksa parto de falto. Vd sink
 Antil/an/o:【PIV】Log^anto de iu el la Antiloj.
 antilid/o⟦豆ᴬᴺ/o⟧:【植】【PIV】G. (Genro) (Anthyllis el fabacoj) de unu-k plur-jaraj herboj k de tufarbustoj kun diverskoloraj floroj en densaj kapoj, pli malofte unuopaj au^ en grapoloj, k kun malgrandaj gus^oj plejofte nedehiskaj; c^. (c^irkau^) 20 sp-oj (specioj) el S Eu^ropo, Makaronezio, NE Afriko k U Azio.
 Antino/o:【史】【PIV】Juna, tre bela sklavo, kiu ig^is la favorato de Hadriano.
-anti/nomi/a⟦抗ᴬ/学ᴺ/a⟧:【PIV】Formanta antinomion: antinomiaj konceptoj.##偽分解
+anti/nomi/a⟦抗ᴬ/律ᴺ/a⟧:【PIV】Formanta antinomion: antinomiaj konceptoj.##偽分解
 Antioh^/o:【史】【PIV】Nomo de pluraj reg^oj heleno-siriaj.
 Antioh^i/o:【史】【PIV】C^efurbo de la antikva Sirio k lulilo de la helena kristanismo (36°10′E, 36°14′N).
 Antiop/o:【PIV】1 Reg^idino, kiun Zeu^so amoris sub formo de satiruso. 2 Reg^ino de la Amazonoj, patrino de Hipolito.
@@ -47376,7 +47376,7 @@ eritr/o/blast/o⟦红ᴱ/o/胚ᴮ/o⟧:【解】【PIV】Nukleohava c^elo de la 
 eritroksil/o⟦木ᴱᴷ/o⟧:【植】【PIV】G. (Genro) (Erythroxylum el eritroksilacoj) de lignecaj plantoj kun s^osoj lau^aspekte ofte skvamaj k kun simplaj, stipulohavaj folioj; tropika, precipe S-Amerika g. (genro) de c^. (c^irkau^) 230 sp-oj (specioj), el kiuj kokao.
 eritroni/o⟦猪牙花/o⟧:【植】【PIV】G. (Genro) (Erythronium el liliacoj) de herboj kun tunika bulbo, kun du elbazaj folioj k kun senfoliaj tigoj, portantaj pli-malpli pendantajn florojn po unu au^ malmultaj; N-hemisfera, precipe Amerika g. (genro) de c^. (c^irkau^) 20 sp-oj (specioj), kelkaj pororname kultivataj, ekz. (ekzemple) la hundodenta eritronio (E. dens-canis).
 eritr/o/poez/o⟦红ᴱ/o/生ᴾ/o⟧:【生】【PIV】Formig^o de la eritrocitoj en la osta medolo de plenkreskulo au^ en la hepato de embrio. Sin. (sinonimo) eritrocitopoezo.##偽分解
-eritr/o/poez/in/o⟦红ᴱ/o/生ᴾ/女/o⟧:【PIV】Poezino, stimulanta la produktadon de eritrocitoj en la osta medolo k sekve pliiganta la oksigenadon de la histoj: eritropoezino estas uzata de iuj sportistoj por elteni longedau^rajn strec^ojn. -> dopi.##偽分解(PIV正式分解)
+eritr/o/poez/in/o⟦红ᴱ/o/生ᴾ/in/o⟧:【PIV】Poezino, stimulanta la produktadon de eritrocitoj en la osta medolo k sekve pliiganta la oksigenadon de la histoj: eritropoezino estas uzata de iuj sportistoj por elteni longedau^rajn strec^ojn. -> dopi.##偽分解(PIV正式分解)
 eritroz/o:【化】【PIV】1 Kvar-karbonatoma sukero, aldotetrozo, C 4 H 8 O 4. 2【医】 Stato de rug^ig^o de hau^to k de mukmembranoj, speciale pro troo de eritrocitoj en la sango.
 Erivan/o:【PIV】= Erevano.
 erizif/o⟦菌ᴱᴿ/o⟧:【植】【PIV】G. (Genro) (Erysiphe el erizifacoj), kosmopolita, de c^. (c^irkau^) 170 sp-oj (specioj) de mikroskopaj askofungoj, estigantaj melduon.
@@ -48401,9 +48401,9 @@ glor/ad/o⟦荣/行/o⟧:【PIV】Ago de gloranto: la glorado de la falintaj pat
 glor/aj^/o⟦荣/物/o⟧:【PIV】Faro glora.
 glor/ind/a⟦荣/值/a⟧:【PIV】Inda je grandaj lau^doj: la Eternulo estas granda k tre glorinda .
 glorioz/o⟦草ᴳᶻ/o⟧:【植】【PIV】G. (Genro) (Gloriosa el kolc^ikacoj) de nur unu plurforma sp. (G. (Genro) superba); plurjaraj, volvegrimpaj, tropikaj herboj el Azio k Afriko, el kiuj kelkaj formoj kultivataj por grandaj, ornamaj floroj unue verdaj, poste flavaj au^ rug^aj.
-glos/ektomi/o⟦注ᴳ/除ᴱᴷ/o⟧:【医】【PIV】Tuta au^ parta fortranc^o de la lango.##偽分解(PIV正式分解)
+glos/ektomi/o⟦舌ᴳ/除ᴱᴷ/o⟧:【医】【PIV】Tuta au^ parta fortranc^o de la lango.##偽分解(PIV正式分解)
 glosin/o⟦虫ᴳᴺ/o⟧:【動】【PIV】G. (Genro) (Glossina) de insektoj el la ordo de dipteroj, kies sp-oj (specioj) transportas i.a. (interalie, inter aliaj) la tripanosomojn. Sin. (sinonimo) ceceo.
-glos/it/o⟦注ᴳ/炎ᵀ/o⟧:【医】【PIV】Inflamo de la lango.##偽分解(PIV正式分解)
+glos/it/o⟦舌ᴳ/炎ᵀ/o⟧:【医】【PIV】Inflamo de la lango.##偽分解(PIV正式分解)
 glosofaring/a:【解】【PIV】(N. glossopharyngeus) Nomepiteto de la 9a krania nervoparo, kiu entenas movajn fibrojn por la faringo k parto de la lango, k sensajn fibrojn el la bazo de la lango.
 glosolali/o:【PIV】1 En la prakristanaj rondoj, kapablo preg^i k lau^di Dion en lingvo nekonata. 2【医】 Ekstaza au^ patologia parolo, plejofte neartikigita, eligata en ekzalta psika stato.
 glosopterid/o⟦草ᴳᴾ/o⟧:【植】【PIV】G. (Genro) (Glossopteris el glosopteridacoj) de pteridofitoj kun simplaj, longformaj folioj kun distingebla c^efa ripo, k kiuj vivis en Gondvano de karbonio g^is malfrua triaso.
@@ -49028,7 +49028,7 @@ hipofiz/o⟦垂体/o⟧:【解】【PIV】(hypophysis) Grava endokrina glando, s
 hipo/gastr/o⟦亚/胃ᴳ/o⟧:【解】【PIV】Meza malsupra parto de la ventro, kus^anta sub linio pasanta c^e la supro de la koksostoj. Vd epigastro.##偽分解(PIV正式分解)
 hipoge/o:【PIV】Prahistoria au^ antikva subtera tombo.
 hipogin/a:【植】【PIV】1 (pp (se paroli pri) perianto k androceo) S^ajne insertig^inta sub la ovario k ne kunig^inta kun tiu c^i. 2 (pp (se paroli pri) floro) Havanta hipoginajn perianton k androceon: hipogina floro c^iam havas superan ovarion. Vd epigina, perigina.
-hipo/glos/o⟦亚/注ᴳ/o⟧:【解】【PIV】1 Tuto de la nervoj de la 12a krania paro, kiuj donas fibrojn al la langaj muskoloj (ankau^: hipoglosa nervo, N. hypoglossus). 2【動】【料】 G. (Genro) (Hippoglossus) de grandaj fis^oj el la ordo de pleu^ronektoformaj, fam. (familio) de pleu^ronektedoj, kun fendita vosto; tre bongustaj: hipogloso stufita en aluminia folio. Vd fleso, limando, plateso, rombo 2, soleo.##偽分解(PIV正式分解)
+hipo/glos/o⟦亚/舌ᴳ/o⟧:【解】【PIV】1 Tuto de la nervoj de la 12a krania paro, kiuj donas fibrojn al la langaj muskoloj (ankau^: hipoglosa nervo, N. hypoglossus). 2【動】【料】 G. (Genro) (Hippoglossus) de grandaj fis^oj el la ordo de pleu^ronektoformaj, fam. (familio) de pleu^ronektedoj, kun fendita vosto; tre bongustaj: hipogloso stufita en aluminia folio. Vd fleso, limando, plateso, rombo 2, soleo.##偽分解(PIV正式分解)
 hipo/grif/o⟦马/狮鹰/o⟧:【PIV】Fabela estaj^o, duone c^evalo duone grifo.##偽分解##過細分解 h/i/p/o/grif/o
 hipokamp/o:【神】【PIV】1 Monstro duone c^evalo duone fis^o. 2【動】 G. (Genro) (Hippocampus) de gasterosteformaj fis^oj, similaj al s^aka c^evaleto. 3【解】 Interna malsupra parto de c^iu cerebra hemisfero, rolanta en la konduto de la individuo.
 hipo/kastan/o⟦马/栗/o⟧:【植】【PIV】1 (ark. (arkaismo, arkaisme)) Alia nomo (Hippocastanum, nomenklature ne legitima) de eskulo. 2 Sp. (Specio) de eskulo (Aesculus hippocastanum), granda arbo kun densa branc^aro, kun longpetiolaj, mane kunmetaj folioj, kun 20−30 cm (centimetro) altaj infloreskoj el blankaj floroj flav-au^ roz-makulaj, k kun pli-malpli dornohavaj fruktoj; hejma de Balkanoj g^is Himalajo, ofte plantata ekz. (ekzemple) kiel alearbo; la s^elo estas medicine uzata pro enhavo de eskulino. Sin. (sinonimo) c^evalkas^tanujo.##偽分解##過細分解 h/i/p/o/kastan/o
@@ -50492,8 +50492,8 @@ kok/et/o⟦鸡/小/o⟧:【PIV】Malgranda virkoko.
 kok/in/aj^/o⟦鸡/女/物/o⟧:【PIV】Viando de kokino: kokinaj^o kun rizo. Vd pulardo.
 kok/in/ej/o⟦鸡/女/所/o⟧:【PIV】Kokejo.
 kok/ist/o⟦鸡/家/o⟧:【PIV】Tiu, kiu bredas k ludigas batal kokojn.
-koka/in/iz/o⟦koka/女/化/o⟧:【PIV】Terapia uzo de klorhidrato de kokaino, ordinare per injekto, por anestezi.##偽分解(PIV正式分解)
-koka/in/o/mani/o⟦koka/女/o/狂/o⟧:【PIV】Malsaneca bezono de kokaino.##偽分解(PIV正式分解)
+koka/in/iz/o⟦koka/in/化/o⟧:【PIV】Terapia uzo de klorhidrato de kokaino, ordinare per injekto, por anestezi.##偽分解(PIV正式分解)
+koka/in/o/mani/o⟦koka/in/o/狂/o⟧:【PIV】Malsaneca bezono de kokaino.##偽分解(PIV正式分解)
 kokcidi/o⟦球虫/o⟧:【動】【PIV】Subklaso (Coccidia) de sporozooj, parazitantaj en c^eloj de precipe la intesta epitelio de mamuloj k birdoj.
 kokcidi/oz/o⟦球虫/症ᴼ/o⟧:【医】【PIV】Afekcio, precipe de la hepato, kau^zata de kokcidioj k trafanta precipe kuniklojn, sed ankau^ homojn.
 kokl/o⟦木ᴷᴷ/o⟧:【植】【PIV】G. (Genro) (Cocculus el menispermacoj) de arbustoj k lignecaj lianoj kun unuseksaj, unu-au^ du-opaj floroj k kun U-formaj semoj; c^. (c^irkau^) 8 sp-oj (specioj) el N k C Ameriko, Afriko k SE Azio, kelkaj medicine uzataj. Vd anamirto.
@@ -51403,7 +51403,7 @@ leu^koj/o⟦草ᴸᵁ̆/o⟧:【植】【PIV】G. (Genro) (Leucojum el amarilida
 leu^kom/o:【医】【PIV】Blanka makulo de la korneo, cikatro de vundo au^ ulcero. Vd albugo.
 leu^koplast/o:【医】【PIV】Speco de kau^c^uka gluplastro, servanta por s^irmi malgrandajn vundojn.
 leu^ko/poez/o⟦白ᴸ/生ᴾ/o⟧:【生】【PIV】Formig^o de leu^kocitoj en la organismo. Sin. (sinonimo) leu^kocitopoezo.##偽分解
-leu^koz/o:【医】【PIV】Nenormala multig^o de leu^kocitoj en la produktantaj organoj (lieno, medolo); g^i povas manifestig^i per leu^kemio.
+leu^k/oz/o⟦白ᴸᴱ/症ᴼ/o⟧:【医】【PIV】Nenormala multig^o de leu^kocitoj en la produktantaj organoj (lieno, medolo); g^i povas manifestig^i per leu^kemio.##偽分解(PIV正式分解)
 lev/ator/o⟦举/具ᴬ/o⟧:【PIV】1 = elevatoro. 2 Nomo de diversaj muskoloj, kiuj servas por levi membron: skapola, bus^angula levatoro.##偽分解(PIV正式分解)
 levanten/o:【PIV】(ark. (arkaismo, arkaisme)) Log^anto en la orienta parto de la Mediteraneaj regionoj.
 Levi/id/o:【PIV】Unu el la idoj de Levi.
@@ -52321,7 +52321,7 @@ Napoleon/id/oj:【PIV】La devenantoj de Napoleono la Unua. Vd Bonaparto.
 nardostaki/o⟦草ᴺᴿ/o⟧:【植】【PIV】G. (Genro) (Nardostachys el valerianacoj) de nur unu sp. (N. grandiflora) de Himalaja plurjara herbo, el kies rizomo oni ekstraktis nardon 1.
 narkoanaliz/o:【医】【PIV】Speco de psika analizo, efektivigata en duonkonscia stato, post envejna injekto de barbitura substanco.
 narkolepsi/o:【医】【PIV】Neu^rologia malsano, karakterizata de subitaj endormig^o k malapero de tonuso.
-narkot/in/o⟦麻ᴺ/女/o⟧:【PIV】= noskapino.##偽分解(PIV正式分解)
+narkot/in/o⟦麻ᴺ/in/o⟧:【PIV】= noskapino.##偽分解(PIV正式分解)
 narkotik/a⟦麻ᴺᴷ/a⟧:【PIV】= narkota.
 narteks/o:【建】【PIV】En la unuaj kristanaj preg^ejoj, portiko au^ vestiblo, kie staris la katekumenoj k pentantoj.
 nask/ad/o⟦生/行/o⟧:【PIV】Ripeta au^ kutima nasko: senfina naskado de malfelic^oj, de konfliktoj.

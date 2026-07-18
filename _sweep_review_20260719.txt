@@ -1,0 +1,63 @@
+==== CONFIRMED = 28 ====
+L94    anti/nomi/o                    nomi=学 -> 法 | over=低い。nomi=学 を使う他語(agronomio=農学、astronomio=
+L265   deka/log/o                     log=学家 -> 戒 | over=低。/log/ を使う他エントリは既に 诱・话・学家 の三種に振り分けられており
+L433   far/ad/o                       far=做 -> 法 | over=過剰発火リスクなし。far=做 は正規複合語群(bonfarado, bierf
+L443   fek/ul/o                       fek=粪 -> 粉 | over=高い(global修正の場合)。fek=粪 は糞便語群(fek/i, fek/o
+L795   koka/in/ism/o                  in=女 -> （表記なし or 化学接尾辞として別扱い） | over=過剰発火リスク低。女=女性接尾辞の正当な用法は数百語あり一切影響しない。同様の化
+L793   klor/o/form/o                  form=形 -> （表記なし or 化学名として一括処理） | over=低い。提案修正はkloroformo・bromoformo・jodoformoの
+L791   klor/o/form/ad/o               form=形 -> （表記なし or 化学名として一括処理） | over=LOW — 修正は kloroform/bromoform/jodoform の
+L970   meteor/o/logi/a observatori/o  meteor=陨 -> 気 | over=高い。`meteor=气` に全域変更すると `meteor/s^ton/o`⟦
+L1082  nekr/o/log/ar/o                log=学家 -> 志 | over=過剰発火リスクなし。dialog/monolog/epilog/prolog/n
+L1083  nekr/o/log/o                   log=学家 -> 志 | over=なし。修正対象は nekrolog/o と nekrolog/ar/o の2語の
+L1137  ont/o/genez/o                  ont=将 -> 在 | over=低い。将は多数の正当な -ont-(将然分詞接尾辞)エントリで正しく使われている
+L1138  ont/o/logi/o                   ont=将 -> 在 | over=低リスク。`/ont/`を含む語は多数存在するが、`将`から`在`への変更対象は
+L41709 tuberkul/in/a ekzamen/o        in=女 -> 素 | over=LOW — the global suf in→女 mapping (336 o
+L41710 tuberkul/in/a reakci/o         in=女 -> 素 | over=低。`in`=女 の大域接尾辞割当を変更する必要はなく、`tuberkulin`
+L45114 anti/nomi/a                    nomi=学 -> 律 | over=高い(グローバル変更の場合)。nomi=律 をグローバルに変えると astron
+L45945 bol/o/metr/o                   bol=沸 -> 輻 | over=低リスク。bol=沸 の割り当てを変更するのではなく、bolometr/o とい
+L47379 eritropoezino                  in=女 -> 素 | over=高い。`/in/` = `女` はグローバル形態素割当であり約270語の正当な女
+L49031 hipogloso                      glos=注 -> 舌 | over=高い一括置換リスクあり。glos=注はglos/o(注釈)・glos/aro(用
+L51488 lipazo                         lip=唇 -> 脂 | over=高: `lip` のデフォルト漢字を `脂` に変更すると `lip/a⟦唇/a
+L52324 narkotino                      in=女 -> in | over=過剰発火なし。女性接尾辞 -in- = 女 の割り当ては他の数百語（abatin
+L52826 orkid/ektomi/o                 orkid=兰 -> 丸 | over=過剰発火なし。orkid(睾丸系: ektomi/o, it/o, o/tera
+L52827 orkid/o/terapi/o               orkid=兰 -> 丸 | over=orkide/o（蘭の植物）は兰、orkid/o（両義エントリ）は兰を維持し、o
+L52993 panikl/it/o                    panikl=圆锥 -> 脂 | over=panikloが本文中に現れる植物学語（air/o、amofil/o等）は多数あ
+L56624 ur/at/o                        ur=原牛 -> 尿 | over=低。⟦原牛⟧を使う見出しは学習者版3件のみ。ur/o(オーロックス)はhomon
+L57681 met/an/bakteri/oj              met=置 -> 甲 | over=過剰発火なし。met=置 を使う語(al/met/i, sub/met/i, k
+L58720 pir/o/gajl/ol/o                pir=梨 -> 火 | over=なし。_homonym.tsvのpirエントリはsep(語境界分離)設計であり、
+L59777 sfigm/o/man/o/metr/o           man=手 -> 圧 | over=高い。man=手 は数十の正当な「手」語(man/o手・man/libr/o手引
+L3502  kuri/terapi/o                  kuri=廷 -> 居礼 | over=低。kuri(廷)を使う語はマスターマップ上 kuri/o(クリア/教皇庁・放射
+==== BORDERLINE = 3 ====
+L969   meteor/o/logi/a bulten/o       meteor=陨 -> 気 | over=HIGH: meteor=気 globally would corrupt me
+L1147  orkid/it/o                     orkid=兰 -> 丸 | over=orkid → 丸 に一括変更すると orkide/o⟦兰/o⟧(学習者版287
+L1181  para/log/ism/o                 log=学家 -> 理 | over=log=学家の割り当てを理に変更すると、biolog/o, psikolog/o
+==== REJECTED = 29 ====
+L410   estr/ad/o                      estr=长 -> 壇 | over=中程度。estrを一括変更すると estr/o(長)・estr/ar/o(幹部)
+L13851 halo/o                         halo=晕 -> 嗨 | over=galaksi/a halo/o（銀河ハロー）、halo/o（光暈・ハレーション
+L13404 grenad/il/o                    grenad=手雷 -> 石榴 | over=grenad形態素を石榴に変更すると、grenado(手榴弾)・grenadis
+L14892 idiot/ism/o                    idiot=愚 -> 癖 | over=idiot=愚 は idiot/a・idiot/aj^/o・idiot/ec/o
+L792   klor/o/form/i                  form=形 -> （表記なし or 化学名として一括処理） | over=form=形 を変更すると、aliformi(変形)・deformi(歪める)・
+L968   meteor/ism/o                   meteor=陨 -> 気 | over=meteo（気象）根が既に 气 を使用しており meteor→気 にすると両根が
+L971   meteor/o/logi/o                meteor=陨 -> 気 | over=HIGH — meteor を含む天体系語群（meteor/o 流星、meteo
+L972   meteor/o/log/o                 meteor=陨 -> 気 | over=meteor語根は天文語彙(流星・隕石・流星体・流星雨)で正当使用されており、m
+L920   man/o/metr/o                   man=手 -> 圧 | over=Critical. man=手 is the correct assignmen
+L1192  parti/o                        parti=党 -> 帕 | over=parti=帕 に変更すると、学習者版・学術版の両ファイルに存在する政党系語群3
+L1216  pest/icid/o                    pest=疫 -> 害 | over=高: pest→害 に変更すると pest/o(ペスト)・pest/a・pest
+L34460 roman/a                        roman=小说 -> 羅 | over=高。roman根は小说として数十語(roman/o, roman/ist/o, 
+L34461 roman/a cifer/o                roman=小说 -> 羅 | over=roman→小说 はkanji_map_masterで形態素レベルに固定されてお
+L34473 roman/o                        roman=小说 -> 羅 | over=roman=小说 の割当を変えると adventur/a roman/o, kr
+L44717 ald/ol/o                       ald=中音 -> 醛 | over=高。ald=醛 をグローバルに変更すると、音楽のアルト系7語(ald/a bek
+L45607 balan/it/o                     balan=藤壶 -> 亀 | over=balan/o⟦藤壶/o⟧(動物学エントリ・フジツボ属、学術版 line 456
+L47213 emulsiino                      in=女 -> 素 | over=極めて高い。`in`=女 は女性接尾辞として約356件の正当用法を持ち、グローバ
+L47452 1,2-etandioло                  di=神 -> 二 | over=過剰発火リスクなし。di(神)とdi/(化学接頭辞=二)は既にプロジェクト内で区
+L48404 glos/ektomi/o                  glos=注 -> 舌 | over=glos を 舌 に変更すると、glos/ar/o(用語解説→舌の群れ)・glo
+L48406 glos/it/o                      glos=注 -> 舌 | over=glos → 舌 に変更した場合、pejvo 核語 glos/ar/o(用語解説
+L49816 kakografio                     kak=屎 -> 悪 | over=kak/i⟦屎/i⟧(うんちをする)が破壊される。kak=屎はkak/i(排泄動
+L50958 kriptonimo                     kript=墓窖 -> 隠 | over=kript/o⟦墓窖/o⟧(地下墓室)・kript/a⟦墓窖/a⟧(地下墓室の)
+L51214 lagofthalmo                    lag=湖 -> 兔 | over=lag=兔 に変更すると lago・lageto・kratera lago・Sa
+L2992  silvi/kultur/o                 silvi=莺 -> 林 | over=silvi=莺はsilvi/o(属Sylvia)・silvi/ed/oj(科Sy
+L3008  skiz/o/micet/oj                skiz=草 -> 裂 | over=skiz=裂 に変更すると skiz/o(スケッチ)⟦裂/o⟧・skiz/i(ス
+L3086  tal/fit/oj                     tal=距 -> 葉状体 | over=tal/o（距骨=解剖学的距骨）では距が正しく、tal/plant/ojも同義語
+L3087  tal/o/fit/oj                   tal=距 -> 葉状体 | over=低い。tal 形態素を使う語は tal/o(距=距骨)・tal/fit/oj・t
+L56625 ur/at/emi/o                    ur=原牛 -> 尿 | over=ur/o⟦原牛/o⟧(オーロックス、学習者版行42290)が「尿/o」に破壊され
+L3417  ald/oz/o                       ald=中音 -> 醛 | over=高: ald形態素は音楽アルト語群(ald/o, ald/ist/o, ald/

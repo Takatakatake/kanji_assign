@@ -32,7 +32,7 @@ $existing=@(
  @('fil','爱','bibli/o/fil/o,bibli/o/fil/i/o,pedo/fil/i/o,gastr/o/fil/o,gips/o/fil/o,hidr/o/fil/a,nekr/o/fil/i/o,skop/o/fil/i/o,fil/antrop/o,fil/antrop/i/o,fil/o/logi/o,fil/o/logi/a,fil/o/logi/ist/o,fil/o/log/o','','-fil-(philos=愛/-phile)→爱。語頭philo-(filantrop博愛/filolog文献学=言葉への愛)も含む(2026-06-22)。filo=息子(儿)はbo/du-on/adopt-o/bapt-o/pra/sol/ge/sen-fil で維持(disc不掲載)。filogenez=phylon系統は別語源で対象外'),
  @('per','过','per/oksid/o,per/oksid/i,per/oksid/a,per/oksid/az/o,per/klor/at/o,per/sulf/at/o,per/sulf/at/oj,per/klorat/o,per/oksidaz/o,per/sulfat/oj,per/mangan/at/o','','per-(化学:過酸化/過…)→过。前置詞per=以 は別。学術版粗分解 per/klorat/per/oksidaz/per/sulfat も过・per/mangan/at=過マンガン酸塩(両版)も过(2026-06-23 sep派生形網羅)'),
  @('oks','氧','an/oks/emi/o,hipoks/emi/o','','oxy-(酸素)→氧。牛oks/o=牛 は別'),
- @('leu^k','白','leu^k/emi/o','','leuko-(白)→白(白血病)。leu^ko=白ᴸ は別root'),
+ @('leu^k','白','leu^k/emi/o,leu^k/oz/o','','leuko-(白)→白(白血病·白血球增多症)。leu^ko=白ᴸ は別root。2026-07-19 正本ドリフト leukoz→leu^k/oz 露出で leu^k latin残([F]不整合)→白(白/富=白血球增多)で整合'),
  # PIV航海語 jul/o(艫でひねって漕ぐ櫓=yuloh)・jul/ad/i(櫓で漕ぐ)→漕ぐhub划(=rem。パドルpagaj=划ᴾᴳと同型・新字ゼロ)。クリスマス系 jul/arb/o=圣诞/树 は別見出しで維持(2026-07-04ユーザー裁定sep分離)。※$hsepは大小無視だが Jul/o(大文字=ユール祭)は固有名ガードがhsepより先に捕捉し注釈なしで無影響=衝突せず。jul/arb/o は見出し文字列がjul/oと異なるため非該当で圣诞/树維持
  @('jul','划','jul/o,jul/ad/i','','【PIV】航海 jul/o=艫でひねる櫓(yuloh)・jul/ad/i=櫓で漕ぐ→漕ぐhub划。クリスマス系(jul/arb/o=圣诞/树・Jul/o=圣诞ユール祭)は別見出しで維持。2026-07-04ユーザー裁定sep分離'),
  # -ator両義対応(2026-07-04): 装置義(=X-ilo)=具ᴬ(既定)、人物義(-anto/-isto/-ulo相当)=员(an=员hub合流・新字ゼロ)。PIV正式分解波(##偽分解マーカー)で露出。
@@ -97,6 +97,12 @@ $existing=@(
  @('pale','古','pale/o/grafi/o,pale/o/graf/o,pale/o/botanik/o,pale/o/eko/log/o,pale/o/eko/logi/o,pale/o/grund/o,pale/o/hist/o/logi/o,pale/o/magnet/ism/o,pale/o/ekolog/o,pale/o/ekologi/o,pale/o/histologi/o','','palaios(希古い)→古。古文書paleografi・古生態paleoekologi・古土壌paleogrund・古組織paleohistologi・古地磁気paleomagnetism等のpaleo-接頭辞。イネ科の内頴pale/o=内壳(palea)は維持(word-scoped)。paleo/lit旧石器=古ᴾと整合。2026-07-18 偽友スイープR3/2026-07-19 学術版粗分節pale/o/ekolog·ekologi·histologi追加(学習者版はeko/log等細分節でR3既発火・学術版は粗分節で未発火だった)'),
  @('plan','平','plan/i/metri/o,plan/i/metr/o','','plano(平面plane=平)→平。面積測定法planimetri(plan/i/metri=平/i/测)・プラニメータplanimetr(平/计)のplano-plane幾何。計画/図面plan/o=划(base)は維持(word-scoped)。平面eben=平と同字(識別子で弁別)。2026-07-19 偽友監査(planimetria=面積測定でplan=划は誤友)'),
  @('pedo','土','pedo/log/o','','希pedon(土壌soil)→土。土壌学者pedolog(pedo/log=土/学家)=grundolog(土/o/学家)の同義語。児童学pedo/logi/o=童(希pais子供)は同綴別語源で維持(word-scoped)。PIV定義「Specialisto pri pedologio. Sin. grundologo」=土壌学者ゆえ童は誤友。2026-07-19 偽友監査'),
+ @('nomi','律','anti/nomi/o,anti/nomi/a','','ギリシャnomos(法·規範)の法義→律。二律背反antinomi(anti/nomi=抗/律。二律背反の律)。-nomy科学(agronomi農学·astronomi天文学·gastronomi美食学)のnomi=学ᴺは維持(word-scoped)。metr/o/nom=律(節拍器)と同源。2026-07-19 偽友スイープ最終'),
+ @('log','戒','deka/log/o','','ギリシャlogos(言葉→戒め)→戒。モーセの十戒Dekalogo(deka/log=十/戒)。学問-logy/学者-logist=学家(biolog等)·対話dia/log=话·誘惑al/log=诱 とは別の第4義。2026-07-19 偽友スイープ最終'),
+ @('log','志','nekr/o/log/o,nekr/o/log/ar/o','','ギリシャlogos(記録·名簿)→志。死亡記事·死亡者名簿necrolog(nekr/o/log=死/志)。学者-logist=学家·话·诱·戒 とは別の第5義。志=地方志/杂志の記録義。2026-07-19 偽友スイープ最終'),
+ @('ont','在','ont/o/genez/o,ont/o/logi/o,bi/ont/o/logi/o','','ギリシャont-(ōn/ontos=存在するもの·being)→在(存在)。存在論ontologi(ont/o/logi=在/学)·個体発生ontogenez(在/源)·生物学biontologi(生/在/学)。将然分詞-ont-(faront将来〜する者=将)は将のまま維持(word-scoped)。paleont=古(古生物)は別morpheme。2026-07-19 偽友スイープ最終'),
+ @('meteor','气','meteor/o/logi/o,meteor/o/log/o,meteor/o/logi/a','','ギリシャmeteoron(大気現象)→气(気象)。気象学meteorologi(meteor/o/logi=气/学)は隕石meteor/o=陨·流星体meteor/oid=陨/似 とは別(word-scoped)。既存meteo/logi=气ᴹと整合。隕石学(陨学)との誤読を是正。2026-07-19 偽友スイープ最終'),
+ @('glos','舌','glos/ektomi/o,glos/it/o,hipo/glos/o','','ギリシャglōssa(舌tongue)の解剖義→舌。舌切除glosektomi(glos/除)·舌炎glosit(glos/炎)·舌下神経hipogloso(亚/舌)。注釈gloss(用語集glos/ar/o·gloso)のglos=注は維持(word-scoped 同綴別義)。2026-07-19 偽友スイープ最終'),
  @('daktil','指','daktil/o/graf/i,daktil/o/skop/i/o,pter/o/daktil/o','','dactylo-(指)→指。ナツメヤシdaktil/o(枣)·daktil/o/palm等は維持。2026-07-18 正本過細分解 pterodaktil→pter/o/daktil 露出→追加(pterodactyl翼指=翅/指。daktil→枣ナツメヤシの偽友是正)'),
  @('sperm','种','endo/sperm/o,peri/sperm/o,angi/o/sperm/oj','','-sperma(種·胚乳)→种。angi/o/sperm/oj(被子植物=覆われた種)もgimnosperm裸子(whole-word)・endo/peri/spermと平行に种(2026-07-04 WSL再分解angiosperm→angi/o/sperm露出で精液=semen誤適用を是正)。精液sperm/o(精液)·sperm/o/dukt等は維持'),
  # 結合形フォルスフレンド第4弾(2026-06-21・優先順位/方針 多エージェント監査で検出)。-log-=言葉(話)·-metr-=計器(计)。

@@ -1,0 +1,70 @@
+# 偽友網羅スイープ 最終台帳 (2026-07-19)
+# 手法: 学習者版 偽分解3546行を24チャンク×sonnetエージェントで検出→各候補を敵対的検証(agentType=Explore)。
+# 入力=_sweep_pool_20260719.tsv / ワークフロー=84エージェント・候補60(agent確定28/borderline3/却下29)。
+# 下記はagent確定28+関連を私が実データ再検証した最終処置。
+
+## 適用(両版是正) = 7系
+APPLIED	L94	anti/nomi/o	nomi=学->法	antinomi nomi->律
+APPLIED	L265	deka/log/o	log=学家->戒	dekalog log->戒
+APPLIED	L795	koka/in/ism/o	in=女->（表記なし or 化学接尾辞として別扱い）	kokain in->latin
+APPLIED	L970	meteor/o/logi/a observatori/o	meteor=陨->気	meteorolog meteor->气
+APPLIED	L1082	nekr/o/log/ar/o	log=学家->志	nekrolog log->志
+APPLIED	L1083	nekr/o/log/o	log=学家->志	nekrolog log->志
+APPLIED	L1137	ont/o/genez/o	ont=将->在	onto ont->在
+APPLIED	L1138	ont/o/logi/o	ont=将->在	onto ont->在
+APPLIED	L41709	tuberkul/in/a ekzamen/o	in=女->素	tuberkulin in->latin
+APPLIED	L41710	tuberkul/in/a reakci/o	in=女->素	tuberkulin in->latin
+APPLIED	L45114	anti/nomi/a	nomi=学->律	antinomi nomi->律
+APPLIED	L47379	eritropoezino	in=女->素	eritropoezin in->latin/素
+APPLIED	L49031	hipogloso	glos=注->舌	hipogloso glos->舌
+APPLIED	L52324	narkotino	in=女->in	narkotin in->latin
+
+## 据置(要裁定/化学/固有名/多重同綴over-fire) = agent確定のうち非適用
+HELD	L433	far/ad/o	far=做->法	farad=Farad眼名(法は恣意的)→据置
+HELD	L443	fek/ul/o	fek=粪->粉	fekulo(faecula語源近縁・稀)→据置
+HELD	L793	klor/o/form/o	form=形->（表記なし or 化学名として一括処理）	chloroform=化学系(評価のみ)
+HELD	L791	klor/o/form/ad/o	form=形->（表記なし or 化学名として一括処理）	chloroform=化学系(評価のみ)
+HELD	L45945	bol/o/metr/o	bol=沸->輻	bolometr bol=曲/撞/菇/沸と多重同綴・稀→据置
+HELD	L51488	lipazo	lip=唇->脂	lipazo lip=唇/夹と多重同綴→据置
+HELD	L52826	orkid/ektomi/o	orkid=兰->丸	orkid=兰/丸はamb意図固定(arke型・要裁定)
+HELD	L52827	orkid/o/terapi/o	orkid=兰->丸	orkid amb→据置
+HELD	L52993	panikl/it/o	panikl=圆锥->脂	panikl=圆锥/脂はamb意図固定→据置
+HELD	L56624	ur/at/o	ur=原牛->尿	urat=化学塩(評価のみ)・ur/o原牛over-fire
+HELD	L57681	met/an/bakteri/oj	met=置->甲	methanobakteri=化学系(甲乙丙・評価のみ)
+HELD	L58720	pir/o/gajl/ol/o	pir=梨->火	pyrogallol=化学系(評価のみ)
+HELD	L59777	sfigm/o/man/o/metr/o	man=手->圧	sfigmomanometr man=手はover-fire(manometrも据置と不整合)
+HELD	L3502	kuri/terapi/o	kuri=廷->居礼	kuritherapy=居礼は音訳(方針違反)→据置
+
+## agent却下(29件・over-fire/意図的設計。参考) + borderline(3件)
+REJECTED	L410	estr/ad/o	estr=长
+REJECTED	L13851	halo/o	halo=晕
+REJECTED	L13404	grenad/il/o	grenad=手雷
+REJECTED	L14892	idiot/ism/o	idiot=愚
+REJECTED	L792	klor/o/form/i	form=形
+REJECTED	L968	meteor/ism/o	meteor=陨
+REJECTED	L971	meteor/o/logi/o	meteor=陨
+REJECTED	L972	meteor/o/log/o	meteor=陨
+REJECTED	L920	man/o/metr/o	man=手
+REJECTED	L1192	parti/o	parti=党
+REJECTED	L1216	pest/icid/o	pest=疫
+REJECTED	L34460	roman/a	roman=小说
+REJECTED	L34461	roman/a cifer/o	roman=小说
+REJECTED	L34473	roman/o	roman=小说
+REJECTED	L44717	ald/ol/o	ald=中音
+REJECTED	L45607	balan/it/o	balan=藤壶
+REJECTED	L47213	emulsiino	in=女
+REJECTED	L47452	1,2-etandioло	di=神
+REJECTED	L48404	glos/ektomi/o	glos=注
+REJECTED	L48406	glos/it/o	glos=注
+REJECTED	L49816	kakografio	kak=屎
+REJECTED	L50958	kriptonimo	kript=墓窖
+REJECTED	L51214	lagofthalmo	lag=湖
+REJECTED	L2992	silvi/kultur/o	silvi=莺
+REJECTED	L3008	skiz/o/micet/oj	skiz=草
+REJECTED	L3086	tal/fit/oj	tal=距
+REJECTED	L3087	tal/o/fit/oj	tal=距
+REJECTED	L56625	ur/at/emi/o	ur=原牛
+REJECTED	L3417	ald/oz/o	ald=中音
+BORDERLINE	L969	meteor/o/logi/a bulten/o	meteor=陨
+BORDERLINE	L1147	orkid/it/o	orkid=兰
+BORDERLINE	L1181	para/log/ism/o	log=学家
