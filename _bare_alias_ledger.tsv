@@ -1,0 +1,34 @@
+root	token	line	kind	gate
+met	甲	37	alkyl	\+アルキル語幹隣接(甲乙丙基システム)
+et	乙	37	alkyl	\+アルキル語幹隣接(甲乙丙基システム)
+prop	丙	37	alkyl	\+アルキル語幹隣接(甲乙丙基システム)
+but	丁	37	alkyl	\+アルキル語幹隣接(甲乙丙基システム)
+pent	戊	37	alkyl	\+アルキル語幹隣接(甲乙丙基システム)
+heks	己	37	alkyl	\+アルキル語幹隣接(甲乙丙基システム)
+hept	庚	37	alkyl	\+アルキル語幹隣接(甲乙丙基システム)
+okt	辛	37	alkyl	\+アルキル語幹隣接(甲乙丙基システム)
+non	壬	37	alkyl	\+アルキル語幹隣接(甲乙丙基システム)
+dek	癸	37	alkyl	\+アルキル語幹隣接(甲乙丙基システム)
+et	乙	102	word-scoped	($s -eq 'et') -and $idx -eq 0 -and $nseg -ge 2 -and $segs[1] -eq 'oksi…
+met	甲	103	word-scoped	($s -eq 'met') -and $idx -eq 0 -and $nseg -ge 2 -and $segs[1] -eq 'oks…
+end	内	104	word-scoped	($s -eq 'end') -and $idx -eq 0 -and $nseg -ge 2 -and $segs[1] -eq 'osm…
+meso	中	105	word-scoped	($s -eq 'meso') -and $idx -eq 0
+mes	中	106	word-scoped	($s -eq 'mes') -and $idx -eq 0 -and $nseg -ge 2 -and $segs[1] -eq 'ent…
+nau^t	航	107	word-scoped	($s -eq 'nau^t') -and $idx -gt 0
+hipo	马	108	word-scoped	($s -eq 'hipo') -and $idx -eq 0 -and (($segs -contains 'drom') -or ($s…
+himen	膜	109	word-scoped	($s -eq 'himen') -and $idx -eq 0 -and ($segs -contains 'pter')
+kastan	栗	110	word-scoped	$s -eq 'kastan'
+cer	角	111	word-scoped	($s -eq 'cer') -and ($segs -contains 'rin')
+rink	嘴	112	word-scoped	($s -eq 'rink') -and (($segs -contains 'ornit') -or ($segs -contains '…
+om	瘤	115	word-scoped	($s -eq 'om') -and $idx -gt 0 -and ($rest -match 'Tumor|腫|瘤|Neoplasm')
+sial	唾	116	word-scoped	($s -eq 'sial') -and ($nseg -ge 3) -and ($rest -match 'saliv')
+citr	柑	117	word-scoped	($s -eq 'citr') -and ($rest -match '【化】')
+tuj	侧柏	118	word-scoped	($s -eq 'tuj') -and ($rest -match '【植】')
+uri	尿	119	word-scoped	($s -eq 'uri') -and ($idx -gt 0)
+lip	脂	120	word-scoped	($s -eq 'lip') -and ($idx -eq 0) -and ($nseg -ge 3) -and ($segs[1] -eq…
+fag	吞	121	word-scoped	($s -eq 'fag') -and $fagEat
+il	基	123	word-scoped	($s -eq 'il') -and $idx -gt 0 -and $isSysChem -and ($alkylStem.Contain…
+di	二	125	word-scoped	($s -eq 'di') -and $idx -eq 0 -and $isSysChem -and ($idx+1 -lt $nseg) …
+dur	币	127	word-scoped	($s -eq 'dur') -and ($rest -match '銀貨|ドゥーロ')
+kat	股	128	word-scoped	($s -eq 'kat') -and $idx -eq 0 -and ($rest -match 'latero.*triangul|C\…
+torn	旋	129	word-scoped	($s -eq 'torn') -and ($rest -match 'rotacianta')
