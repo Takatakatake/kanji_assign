@@ -50652,7 +50652,7 @@ konc^ert/o:【楽】【PIV】Verko sonateca por orkestro kun soloinstrumento (of
 kondens/o⟦凝ᴷᴺ/o⟧:【心】【PIV】Nekonscia procedo de la imago, en la revoj au^ song^oj, per kiu g^i miksas k kunfandas diversajn malsamajn bildojn, kiuj havas komuna la saman afekcian nuancon.
 kondens/aj^/o⟦凝ᴷᴺ/物/o⟧:【理】【PIV】1 Kondensita materio. 2 Makroskopa aro de bosonoj en ununura kvantumstato. -> superkonduktanto.
 kondil/o:【解】【PIV】Pli-malpli globforma artika apofizo: kondila proceso (processus condylaris).
-kondilartr/oj:【動】【PIV】Ordo (Condylarthra) de fosiliaj mamuloj, kiuj vivis sur la N duonglobo dum la komenco de terciaro; kelkaj kondilartroj havis hufosimilajn piedfingrojn; unu ordo el la prahufuloj.
+kondil/artr/oj⟦kondil/节ᴬᴿ/oj⟧:【動】【PIV】Ordo (Condylarthra) de fosiliaj mamuloj, kiuj vivis sur la N duonglobo dum la komenco de terciaro; kelkaj kondilartroj havis hufosimilajn piedfingrojn; unu ordo el la prahufuloj.##偽分解##エス的分解
 kondilom/o:【医】【PIV】Derma tumoreto apud la anuso au^ la vulvo.
 kondiment/uj/o⟦佐/器/o⟧:【PIV】Garnituro da vazetoj kun la diversaj kondimentoj kutime uzataj c^e tablo.
 kondr/o⟦软骨ᴷᴺ/o⟧:【医】【地質】【PIV】1 Kartilago (en kunmetaj^oj). 2 Minerala grajneto (c^. (c^irkau^) 1 mm diametra), precipe konsistanta el pirokseno k olivino, konsistaj^o de iuj aerolitoj. Vd kondrit/o.
@@ -51032,7 +51032,7 @@ ksantom/o⟦黄瘤/o⟧:【医】【PIV】Flava hau^ta tumoreto el lipidplenaj c
 ksantom/oz/o⟦黄瘤/症ᴼ/o⟧:【PIV】Metabola malsano, karakterizata de apero de ksantomoj k ksantelasmoj.
 ksantoprotein/o:【化】【PIV】Flava proteino, estig^anta el ordinara proteino pro efiko de nitrata acido: ksantoproteina reakcio.
 ksantosom/o⟦草ᴷˢᴬ/o⟧:【植】【PIV】G. (Genro) (Xanthosoma el arumacoj) de plurjaraj herboj kun dika au^ tubera, laktosukohava rizomo k kun grandaj ornamaj folioj; 57 sp-oj (specioj) el tropika Ameriko, kelkaj pororname kultivataj; la tuberoj de X. sagittifolium estas mang^ataj kvazau^ terpomoj. see kolokazio.
-ksenartr/oj:【動】【PIV】Ordo (Edentata, sin. (sinonimo (de latinscienca nomo)) Xenarthra) de mamuloj, sen dentoj au^ kun dentoj sen emajlo, al kiu apartenas bradipodo, dazipodo, mirmekofago. Sin. (sinonimo) edentatoj. Vd sendentuloj.
+ksen/artr/oj⟦外ᴷˢ/节ᴬᴿ/oj⟧:【動】【PIV】Ordo (Edentata, sin. (sinonimo (de latinscienca nomo)) Xenarthra) de mamuloj, sen dentoj au^ kun dentoj sen emajlo, al kiu apartenas bradipodo, dazipodo, mirmekofago. Sin. (sinonimo) edentatoj. Vd sendentuloj.##偽分解##エス的分解
 ksen/o/fob/o⟦外ᴷˢ/o/怕ᶠ/o⟧:【PIV】Homo malsanece malamanta la alilandulojn.##偽分解##強語根分解
 ksen/o/fobi/o⟦外ᴷˢ/o/症/o⟧:【PIV】Malsaneca malamo al la alilanduloj.##偽分解##強語根分解
 Ksenofon/o:【PIV】Helena vira nomo, i.a. (interalie, inter aliaj) de disc^iplo k biografo de Sokrato.
@@ -55024,7 +55024,7 @@ sinalef/o:【PIV】En metriko, kunfando de la fina vokalo de vorto kun la komenc
 sinantrop/o:【PIV】Fosilia prahomo, malkovrita en C^inio, nun klasifikita en la sp. rekta homo (Homo erectus).
 sinaps/o:【生】【PIV】Loko de kontakto inter la ekstremaj^oj de du nervoc^eloj au^ inter nervoc^elo k muskol-, gland-au^ senso-c^elo: ekscita sinapso (ebliganta transpason de la nerva impulso de la antau^ sinapsa c^elo al la post sinapsa); inhiba sinapso (inhibanta la transpason de la nerva impulso). see septo.
 sinapsid/oj:【動】【PIV】Subklaso (Synapsida) de reptilioj, ampleksanta i.a. (interalie, inter aliaj) la terapsidojn.
-sin/artr/o⟦怀/节ᴬᴿ/o⟧:【PIV】= senmova artiko.##偽分解##過細分解 s/i/n/artr/o
+sin/artr/o⟦共ˢ/节ᴬᴿ/o⟧:【PIV】= senmova artiko.##偽分解##過細分解 s/i/n/artr/o
 sinciti/o:【生】【PIV】Kontinua protoplasma maso, entenanta multajn nukleojn. Vd hifo, sifono 3, plasmodo.
 anarki-sindikat/ism/o⟦无政ᴬᴵ-盟/主义/o⟧:【PIV】Revolucia sindikatismo, influata de la anarkiista movado.
 sinekdok/o:【PIV】Vortfiguro konsistanta en la inters^ang^o de du vortoj, kiuj havas malsaman signif-amplekson, ekz. (ekzemple) inters^ang^o de la speco k la genro («la mortidevuloj» anst. (anstatau^) «homoj»), la parto k la tuto («ni ekvidis 30 velojn» anst. (anstatau^) «s^ipojn») ktp (kaj tiel plu).
@@ -55049,7 +55049,7 @@ sin/kron/o/skop/o⟦共ˢ/时ᴷ/o/镜ˢᴷ/o⟧:【PIV】Instrumento por montri
 sinodik/a:【天】【PIV】Rilata al konjunkcio de astroj: sinodika periodo (dau^ro necesa al la reapero de planedo en la sama pozicio rilate al Tero k Suno); sinodika (luna) monato.
 sin/onim/ik/o⟦共ˢ/名ᴼ/学ᴵ/o⟧:【PIV】Scienco, celanta difini la senconuancojn inter la sinonimoj.##偽分解##過細分解 s/i/n/onim/ik/o
 sinopl/o:【PIV】Verdo.
-sin/ost/o⟦怀/骨/o⟧:【解】【PIV】(synostosis) Nemovebla artiko, devenanta el ostig^o de la histo kuniganta du ostojn de la kranio.##偽分解##過細分解 s/i/n/ost/o
+sin/ost/o⟦共ˢ/骨/o⟧:【解】【PIV】(synostosis) Nemovebla artiko, devenanta el ostig^o de la histo kuniganta du ostojn de la kranio.##偽分解##過細分解 s/i/n/ost/o
 sinovi/a⟦滑ˢᴺ/a⟧:【PIV】Rilata al sinovio: sinovia membrano (interne teganta la kavojn de la artikoj, escepte de la artikaj surfacoj, k de iuj tendenoj k ties vaginaloj: membrana synovialis).
 sinovi/it/o⟦滑ˢᴺ/炎ᵀ/o⟧:【医】【PIV】Inflamo de la sinovia membrano de artiko au^ de la vaginalo de tendeno.##偽分解
 sintagm/o:【語】【PIV】Unuo kun difinita sintaksa funkcio k rezultanta de kunigo de du au^ pluraj morfemoj; g^i povas esti vorto (ekz. (ekzemple) «ilarojn»), au^ vortgrupo (ekz. (ekzemple) «en la mondon», «nova sento»).

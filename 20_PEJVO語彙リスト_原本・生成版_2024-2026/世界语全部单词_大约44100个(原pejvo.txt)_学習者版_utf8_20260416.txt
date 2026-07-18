@@ -50652,7 +50652,7 @@ konc^ert/o:【楽】【PIV】Verko sonateca por orkestro kun soloinstrumento (of
 kondens/o:【心】【PIV】Nekonscia procedo de la imago, en la revoj au^ song^oj, per kiu g^i miksas k kunfandas diversajn malsamajn bildojn, kiuj havas komuna la saman afekcian nuancon.
 kondens/aj^/o:【理】【PIV】1 Kondensita materio. 2 Makroskopa aro de bosonoj en ununura kvantumstato. -> superkonduktanto.
 kondil/o:【解】【PIV】Pli-malpli globforma artika apofizo: kondila proceso (processus condylaris).
-kondilartr/oj:【動】【PIV】Ordo (Condylarthra) de fosiliaj mamuloj, kiuj vivis sur la N duonglobo dum la komenco de terciaro; kelkaj kondilartroj havis hufosimilajn piedfingrojn; unu ordo el la prahufuloj.
+kondil/artr/oj:【動】【PIV】Ordo (Condylarthra) de fosiliaj mamuloj, kiuj vivis sur la N duonglobo dum la komenco de terciaro; kelkaj kondilartroj havis hufosimilajn piedfingrojn; unu ordo el la prahufuloj.##偽分解##エス的分解
 kondilom/o:【医】【PIV】Derma tumoreto apud la anuso au^ la vulvo.
 kondiment/uj/o:【PIV】Garnituro da vazetoj kun la diversaj kondimentoj kutime uzataj c^e tablo.
 kondr/o:【医】【地質】【PIV】1 Kartilago (en kunmetaj^oj). 2 Minerala grajneto (c^. (c^irkau^) 1 mm diametra), precipe konsistanta el pirokseno k olivino, konsistaj^o de iuj aerolitoj. Vd kondrit/o.
@@ -51032,7 +51032,7 @@ ksantom/o:【医】【PIV】Flava hau^ta tumoreto el lipidplenaj c^eloj.
 ksantom/oz/o:【PIV】Metabola malsano, karakterizata de apero de ksantomoj k ksantelasmoj.
 ksantoprotein/o:【化】【PIV】Flava proteino, estig^anta el ordinara proteino pro efiko de nitrata acido: ksantoproteina reakcio.
 ksantosom/o:【植】【PIV】G. (Genro) (Xanthosoma el arumacoj) de plurjaraj herboj kun dika au^ tubera, laktosukohava rizomo k kun grandaj ornamaj folioj; 57 sp-oj (specioj) el tropika Ameriko, kelkaj pororname kultivataj; la tuberoj de X. sagittifolium estas mang^ataj kvazau^ terpomoj. see kolokazio.
-ksenartr/oj:【動】【PIV】Ordo (Edentata, sin. (sinonimo (de latinscienca nomo)) Xenarthra) de mamuloj, sen dentoj au^ kun dentoj sen emajlo, al kiu apartenas bradipodo, dazipodo, mirmekofago. Sin. (sinonimo) edentatoj. Vd sendentuloj.
+ksen/artr/oj:【動】【PIV】Ordo (Edentata, sin. (sinonimo (de latinscienca nomo)) Xenarthra) de mamuloj, sen dentoj au^ kun dentoj sen emajlo, al kiu apartenas bradipodo, dazipodo, mirmekofago. Sin. (sinonimo) edentatoj. Vd sendentuloj.##偽分解##エス的分解
 ksen/o/fob/o:【PIV】Homo malsanece malamanta la alilandulojn.##偽分解##強語根分解
 ksen/o/fobi/o:【PIV】Malsaneca malamo al la alilanduloj.##偽分解##強語根分解
 Ksenofon/o:【PIV】Helena vira nomo, i.a. (interalie, inter aliaj) de disc^iplo k biografo de Sokrato.
