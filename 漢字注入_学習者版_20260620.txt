@@ -14919,7 +14919,7 @@ igvanodont/o:【古生】イグアノドン,禽竜（きんりゅう）
 -ig^-⟦成⟧:{Ｂ}［接尾辞］（自動詞を作る）,>>movig^i,>>s^tonig^i
 ig^/i⟦成/i⟧:［自］〜になる,>>farig^i
 ih^tiokol/o:{Ｏ}=iktiokolo,=fis^gluo（魚膠）
-ih^tiosau^r/o⟦鱼龙ᴵᴴ̂/o⟧:【古生】=iktiosau^ro
+ih^tio/sau^r/o⟦鱼ᴵᴴ̂/爬虫/o⟧:【古生】=iktiosau^ro##偽分解##強語根分解
 IJK:【Ｅ】［略］=Internacia Junulara Kongreso de Esperanto
 IJS:【Ｅ】［略］=Internacia Junulara Semajno
 -ik-⟦学ᴵ⟧:［学術接尾辞］（〜論・〜学を示す）,>>metodiko
@@ -14935,7 +14935,7 @@ iks/radi/o/aparat/o⟦iks/射ᴿ/o/器ᴬ/o⟧:Ｘ線装置
 iks/radi/oj⟦iks/射ᴿ/oj⟧:【理】Ｘ線,エックス線
 ikter/o:【病】黄疸（おうだん）,>>flavmalsano
 iktiokol/o:【化】魚膠（ぎょこう）,=fis^gluo
-iktiosau^r/o⟦鱼龙/o⟧:【古生】イクチオサウルス,魚竜（ぎょりゅう）
+iktio/sau^r/o⟦鱼ᴵᴷ/爬虫/o⟧:【古生】イクチオサウルス,魚竜（ぎょりゅう）##偽分解##強語根分解
 -il-⟦具⟧:{Ｂ}［接尾辞］（道具・機械・薬剤などを示す）,>>tajpilo,>>digestigilo
 il/ar/o⟦具/群/o⟧:道具一式,装備品,ツール
 ILEI:【Ｅ】［略］=Internacia Ligo de Esperantistaj Instruistoj
@@ -24801,7 +24801,7 @@ mega/lit/a monument/o⟦百万ᴹᴳ/石ᴸ/a 碑/o⟧:巨石記念物##偽分�
 mega/lit/o⟦百万ᴹᴳ/石ᴸ/o⟧:【考古】巨石##偽分解##過細分解 mega/l/i/t/o
 megalo/mani/o⟦巨ᴹ/狂/o⟧:【病】誇大妄想##偽分解(PIV正式分解)
 megalo/mani/ul/o⟦巨ᴹ/狂/者/o⟧:【病】誇大妄想患者##偽分解(PIV正式分解)
-megalosau^r/o:【古生】メガロサウルス,斑竜（はんりゅう）
+megalo/sau^r/o⟦巨ᴹ/爬虫/o⟧:【古生】メガロサウルス,斑竜（はんりゅう）##偽分解##エス的分解
 mega/om/o⟦百万ᴹᴳ/om/o⟧:【電】メガオーム（MΩ）
 mega/tun/o⟦百万ᴹᴳ/吨/o⟧:【単】メガトン（Mt）
 mega/vat/hor/o⟦百万ᴹᴳ/瓦ⱽ/钟/o⟧:【電】メガワット時（MWh）##偽分解
@@ -45195,8 +45195,8 @@ apret/aj^/o⟦整ᴬᴾ/物/o⟧:【PIV】Io apretita.
 apret/ant/o⟦整ᴬᴾ/在/o⟧:【PIV】Substanco (amelo k.a. (kaj aliaj)), uzata por apreti.
 aprior/e⟦先/e⟧:【PIV】Antau^ c^ia sperto pri io: apriore, oni povus pensi, ke…
 aproksim/i:【数】【PIV】(tr (transitiva)) Trovi nombrojn (funkciojn) senlime proksimajn al objekto: aproksimi la oran proporcion per c^ena frakcio.
-apterig/o⟦鸟ᴬᴾ/o⟧:【動】【PIV】G. (Genro) (Apteryx) de senflugilaj, senkarinaj birdoj, vivantaj en Nov-Zelando. Sin. (sinonimo) kivio.
-apterig/o/form/aj⟦鸟ᴬᴾ/o/形/aj⟧:【動】【PIV】Ordo (Apterygiformes) de birdoj, ampleksanta la solan g-on apterigo.
+a/pterig/o⟦无ᴬ/翅ᴾᴳ/o⟧:【動】【PIV】G. (Genro) (Apteryx) de senflugilaj, senkarinaj birdoj, vivantaj en Nov-Zelando. Sin. (sinonimo) kivio.##偽分解##エス的分解
+a/pterig/o/form/aj⟦无ᴬ/翅ᴾᴳ/o/形/aj⟧:【動】【PIV】Ordo (Apterygiformes) de birdoj, ampleksanta la solan g-on apterigo.##偽分解##エス的分解
 ar/et/o⟦群/小/o⟧:【PIV】Malgranda nombro el tiaj objektoj au^ personoj: areto da amikoj.
 ar/eg/o⟦群/巨/o⟧:【PIV】Granda nombro el tiaj objektoj au^ personoj: li alkondukis ja tutan aregon da rekrutoj . Vd grupo, bando, roto.
 ar/in/o⟦群/女/o⟧:【PIV】Aromata molekulo, en kiu unu el la ligoj estas triobla anst. (anstatau^) duobla: arinoj estas ege malstabilaj interaj^oj en reakcioj de aromataj molekuloj.##偽分解(PIV正式分解)##過細分解 a/r/in/o
@@ -49290,7 +49290,7 @@ ignimbrit/o:【地質】【PIV】Vulkana petro, estig^anta pro kunfandig^o de er
 igvan/ed/oj⟦龙ᴵ/科ᴱ/oj⟧:【動】【PIV】Fam. (Familio) (Iguanidae), al kiu apartenas igvano k bazilisko. Vd angviso, lacerto.
 ih^tiofagi/o:【PIV】= iktiofagio.
 ih^tio/log/o⟦鱼ᴵᴴ̂/学家/o⟧:【PIV】= iktiologo.##偽分解##強語根分解
-ih^tiopterig/oj:【PIV】= iktiopterigoj.
+ih^tio/pterig/oj⟦鱼ᴵᴴ̂/翅ᴾᴳ/oj⟧:【PIV】= iktiopterigoj.##偽分解##エス的分解
 Ijob/o:【聖】【PIV】Heroo de la samnoma libro de la Biblio: mizera kiel Ijobo.
 ikneu^mon/o⟦虫ᴵᴷ/o⟧:【動】【PIV】1 G. (Genro) (Ichneumon) de insektoj el la ordo de himenopteroj, kies larvoj parazitas en aliaj insektlarvoj; parazitvespo. 2 (evi (evitinda)) Sp. (Specio) de herpesto. Vd mungoto.
 ikon/o/logi/o⟦圣像/o/学ᴸᴳ/o⟧:【PIV】Studo de la ikonoj.##偽分解
@@ -49309,8 +49309,8 @@ ikt/o⟦拍ᴵ/o⟧:【PIV】1【文】En la antikva metriko, bato kiu akompanis
 iktiofagi/o:【PIV】= fis^mang^ado.
 iktio/log/o⟦鱼ᴵᴷ/学家/o⟧:【PIV】Sciencisto pri iktiologio.##偽分解##強語根分解
 iktio/logi/o⟦鱼ᴵᴷ/学ᴸᴳ/o⟧:【PIV】Parto de la zoologio pri la fis^oj.##偽分解##強語根分解
-iktiopterig/oj:【動】【PIV】Ordo (Ichthyopterygia) de mezozoikaj maraj reptilioj, al kiu apartenas la fis^osau^roj.
-iktiosau^r/ul/oj⟦鱼龙/者/oj⟧:【PIV】Fis^osau^roj.
+iktio/pterig/oj⟦鱼ᴵᴷ/翅ᴾᴳ/oj⟧:【動】【PIV】Ordo (Ichthyopterygia) de mezozoikaj maraj reptilioj, al kiu apartenas la fis^osau^roj.##偽分解##エス的分解
+iktio/sau^r/ul/oj⟦鱼ᴵᴷ/爬虫/者/oj⟧:【PIV】Fis^osau^roj.##偽分解##強語根分解
 iktioz/o:【医】【PIV】Sekeco de la hau^to kun senc^esa disskvamig^o, kio donas al g^i similecon kun la hau^to de fis^oj au^ reptilioj: iktiozo estas denaska misformig^o.
 il/aj^/o⟦具/物/o⟧:【情】【PIV】Ilprogramo.
 il/uj/o⟦具/器/o⟧:【PIV】Ujo, en kiu oni konservas ilo(j)n. Vd ilkesto.
@@ -51992,7 +51992,7 @@ mez/o/lit/ik/o⟦中/o/石ᴸ/学ᴵ/o⟧:【PIV】Transira facio, post la paleo
 mez/o/mer/o⟦中/o/链节/o⟧:【化】【PIV】C^iu el la du au^ pluraj formoj de molekulo, inter si diferencaj pro strukturo de sia elektronnubo k rapide transig^antaj de unu al la alia: benzeno estas mezomera molekulo.##偽分解(PIV正式分解)
 mez/o/mer/ec/o⟦中/o/链节/性/o⟧:【PIV】Propreco de mezomera molekulo.##偽分解(PIV正式分解)
 mez/o/mer/ism/o⟦中/o/链节/主义/o⟧:【PIV】Fenomeno, rezultanta el mezomereco.##偽分解(PIV正式分解)
-mezosau^r/oj:【動】【PIV】Ordo (Mesosauria) de malgrandaj, maraj, anapsidaj reptilioj, el la karbonio k permio de Afriko k S Ameriko.
+mez/o/sau^r/oj⟦中/o/爬虫/oj⟧:【動】【PIV】Ordo (Mesosauria) de malgrandaj, maraj, anapsidaj reptilioj, el la karbonio k permio de Afriko k S Ameriko.##偽分解##エス的分解
 mezostik/o:【PIV】Poemo, en kiu la mezaj literoj de c^iu verso, sinsekve legitaj, formas nomon au^ vorton. Vd akrostiko, telestiko.
 mezotint/o:【PIV】Speco de tuc^-gravuro, per kiu oni ricevas duontonojn.
 mezozo/oj:【動】【PIV】Filumo (Mesozoa, sin. (sinonimo (de latinscienca nomo)) Planuloidea, el metazooj), kies reprezentantoj konsistas el nur unu c^eltavolo, c^irkau^anta unu grandan c^elon, k kiuj parazitas en la nefroj de maraj senvertebruloj.
@@ -52413,7 +52413,7 @@ neo/log/ism/em/ul/o⟦新ᴺᴱ/话ᴸ/主义/倾/者/o⟧:【PIV】Homo, kiu em
 neo/plasm/o⟦新ᴺᴱ/浆/o⟧:【医】【PIV】Malsaneca histo, rezultanta el neoplazio. Vd kancero.##偽分解
 neo/plazi/o⟦新ᴺᴱ/生ᴾᴸ/o⟧:【医】【PIV】Formig^o de nova histo per pli-malpli senbrida multoblig^o de nenormalaj c^eloj, kiu kondukas al benigna au^ maligna tumoro: la enkondra histoformig^o estas neoplazio. Vd kancero.##偽分解
 neopren/o:【化】【PIV】Arta kau^c^uko, polimero -(CH2-CCl=CH-CH2)n-de klor-butadieno, CH 2 =CCl-CH=CH 2.
-neornit/oj:【動】【PIV】Subklaso (Neornithes) de birdoj kun reduktig^inta vosto k parte kunig^intaj fingroj.
+ne/ornit/oj⟦不/鸟ᴼ/oj⟧:【動】【PIV】Subklaso (Neornithes) de birdoj kun reduktig^inta vosto k parte kunig^intaj fingroj.##偽分解##エス的分解##過細分解 n/e/ornit/oj
 neoten/a⟦幼ᴺ/a⟧:【生】【PIV】Konservanta larvajn au^ junecajn karakterojn, kvankam kapabla sin reprodukti: aksoloto estas neotena formo de la Meksika ambistomo.
 neoten/ec/o⟦幼ᴺ/性/o⟧:【PIV】Eco de neotena vivulo.
 neoti/o⟦鸟巢兰/o⟧:【植】【PIV】G. (Genro) (Neottia el orkidacoj) de 9 sp-oj (specioj) de herboj el mezvarmaj Eu^ropo k Azio.
@@ -52831,7 +52831,7 @@ orlop/o:【PIV】La plej malsupra ferdeko de kvarferdeka s^ipo.
 Ormazd/o:【PIV】Mezepoka formo de Ahura-Mazdao.
 orn/o⟦木ᴼ/o⟧:【植】【PIV】Sp. (Specio) de frakseno (Fraxinus ornus) el S Eu^ropo k U Azio, kun okulfrapaj, verdete blankaj floroj en apeksaj, longaj, densaj panikloj; per incizo en la trunkos^elon, oni ricevas manaon 2.
 ornam/ig^/i⟦饰/成/i⟧:【PIV】Ig^i ornamita: vi ornamig^is per oro k arg^ento ; malhumila, ornamig^ema knabino .
-ornitiski/oj:【動】【PIV】Ordo (Ornithischia) de fosiliaj herbovoraj dinosau^roj, ampleksanta multajn grandajn reptiliojn el mezozoiko. Vd sau^riskioj.
+ornit/iski/oj⟦鸟ᴼ/坐骨/oj⟧:【動】【PIV】Ordo (Ornithischia) de fosiliaj herbovoraj dinosau^roj, ampleksanta multajn grandajn reptiliojn el mezozoiko. Vd sau^riskioj.##偽分解##エス的分解
 ornitogal/o⟦草ᴼᴳ/o⟧:【植】【PIV】G. (Genro) (Ornithogalum el hiacintacoj) de herboj kun tunika bulbo, kun liniformaj au^ mallarg^e lancetformaj, elbazaj folioj k kun blankaj au^ helege flavaj floroj en grapolo au^ korimbo; c^. (c^irkau^) 120 sp-oj (specioj) el Eu^ropo, Afriko k Azio, pluraj pororname kultivataj.
 ornitop/o:【PIV】= ornitopodo.
 ornit/o/pod/o⟦鸟ᴼ/o/足ᴾᴼ/o⟧:【植】【PIV】G. (Genro) (Ornithopus el fabacoj) de unu-, du-k plur-jaraj herboj kun nepare plume kunmetaj folioj, kun floroj en umbeloj k kun artikaj gus^oj; 6 sp-oj (specioj) el Eu^ropo, la Mediteranea regiono, U Azio k S Ameriko. Sin. (sinonimo) birdpiedo.##偽分解##エス的分解
@@ -52845,7 +52845,7 @@ ortodoks/ec/o⟦正统/性/o⟧:【PIV】Eco de io ortodoksa: nediskutebla estas
 ortodoks/ism/o⟦正统/主义/o⟧:【PIV】Ritaro k teologia sistemo de la ortodoksaj eklezioj.
 orto/fon/a⟦直ᴼ/声ᶠᴼ/a⟧:【医】【PIV】(pp (se paroli pri) prononcado) Normala, kontraste kun balbutado k.a. (kaj aliaj) voc^aj perturboj. -> blezi, kartavi, lispi.##偽分解(PIV正式分解)
 orto/fon/ist/o⟦直ᴼ/声ᶠᴼ/家/o⟧:【PIV】Specialisto pri tia traktado.##偽分解(PIV正式分解)
-ortognat/a:【解】【PIV】Prezentanta ne antau^en-elstarajn makzelojn. Vd prognata.
+ort/o/gnat/a⟦直角/o/gnat/a⟧:【解】【PIV】Prezentanta ne antau^en-elstarajn makzelojn. Vd prognata.##偽分解##強語根分解
 orto/grafi/a⟦直ᴼ/志ᴳ/a⟧:【PIV】Rilata al la ortografio: ortografiaj problemoj, duboj.##偽分解
 orto/gram/o⟦直ᴼ/图ᴳᴹ/o⟧:【PIV】= ortangulo.##偽分解(PIV正式分解)##過細分解 orto/g/r/a/m/o
 ortoklaz/o:【地質】【PIV】Mineralo, sp. de kalia feldspato sen kalko, K(AlSi 3 O 8). Vd plagioklazo, aventurino, luns^tono.
@@ -53852,8 +53852,8 @@ profilakt/i⟦防ᴾᴿ/i⟧:【PIV】(tr (transitiva)) = preventi.
 profit/e⟦利ᴾ/e⟧:【PIV】En profita maniero au^ cirkonstanco: estus pli profite por la maljuna paro vendi la c^evalon ; kio vendig^as kas^ite, vendig^as plej profite .
 profit/il/o⟦利ᴾ/具/o⟧:【PIV】Tio, per kio oni povas profiti: tiuj, kiuj vidas en E. nur malvarman provizoran komprenilon k profitilon .
 progesteron/o:【生】【PIV】Steroida hormono, C 21 H 30 O 2, sekreciata de la flava korpo (de la ovario) dum la dua fazo de la oestra ciklo, k preparanta la uteron al eventuala gravedeco.
-prognat/a⟦凸ᴾᴳ/a⟧:【解】【PIV】Prezentanta antau^en-elstara(j)n makzelo(j)n. Vd protruda, ortognata.
-prognat/ec/o⟦凸ᴾᴳ/性/o⟧:【PIV】Makzela protrudeco: prognateco de la maksiloj, de la mandiblo, de ambau^ makzeloj.
+pro/gnat/a⟦因ᴾ/gnat/a⟧:【解】【PIV】Prezentanta antau^en-elstara(j)n makzelo(j)n. Vd protruda, ortognata.##偽分解##過細分解 p/r/o/gnat/a
+pro/gnat/ec/o⟦因ᴾ/gnat/性/o⟧:【PIV】Makzela protrudeco: prognateco de la maksiloj, de la mandiblo, de ambau^ makzeloj.##偽分解##過細分解 p/r/o/gnat/ec/o
 prognoz/ik/o⟦预测/学ᴵ/o⟧:【PIV】Arto de la prognozoj.
 program/et/o⟦程/小/o⟧:【情】【PIV】Malgranda programo, plenumata per interpretilo.
 progres/ad/i⟦进/行/i⟧:【PIV】Dau^re progresi: progresadi en c^io brava ; en sia metio li progresadis malrapide .
@@ -54023,11 +54023,11 @@ pterid/o/fit/oj⟦羊齿ᴾ/o/植ᶠ/oj⟧:【植】【PIV】Filumo (Pteridophyt
 pterig/o⟦翅ᴾᴳ/o⟧:【動】【PIV】Permuskole movata flugilo de animalo.
 pterig/ul/oj⟦翅ᴾᴳ/者/oj⟧:【動】【PIV】Subklaso (Pterygota) de insektoj, havantaj funkciantajn au^ sekundare reduktig^intajn pterigojn.
 pter/o/brank/oj⟦翅/o/brank/oj⟧:【動】【PIV】Klaso (Pterobranchia) de hemih^orduloj, similantaj al briozooj, sed kun triparta korpo k kun tentakloj k kun dorsa h^ordo limig^inta je la antau^bus^a regiono.##偽分解##エス的分解
-pterodaktil/o⟦龙ᴾᴰ/o⟧:【動】【PIV】G. (Genro) (Pterodactylus) de relative malgrandaj, mallongvostaj flugsau^roj el malfrua j^urasio, eltrovitaj en Eu^ropo. Vd pteranodonto, ramforinko.
+pter/o/daktil/o⟦翅/o/枣/o⟧:【動】【PIV】G. (Genro) (Pterodactylus) de relative malgrandaj, mallongvostaj flugsau^roj el malfrua j^urasio, eltrovitaj en Eu^ropo. Vd pteranodonto, ramforinko.##偽分解##エス的分解
 pterokarp/o⟦木ᴾᴱ/o⟧:【植】【PIV】G. (Genro) (Pterocarpus el fabacoj) de c^. (c^irkau^) 20 sp-oj (specioj) de tropikaj, grimpaj arboj; kelkaj log^as en mangrovoj.
 pterokl/o⟦鸟ᴾᴱ/o⟧:【動】【PIV】G. (Genro) (Pterocles), parenca al sirapto, de birdoj vivantaj en duondezertaj au^ stepaj regionoj de N Afriko, S Eu^ropo k U Azio. Vd stepkoko.
 pterop/o⟦兽ᴾᵀ/o⟧:【動】【PIV】G. (Genro) (Pteropus) de mamuloj el la ordo de kiropteroj, grandaj fruktomang^antaj vespertoj, vivantaj en Afriko, Azio k Oceanio; «flughundoj». = pteropod/o
-pterosau^r/oj:【PIV】Flugsau^roj.
+pter/o/sau^r/oj⟦翅/o/爬虫/oj⟧:【PIV】Flugsau^roj.##偽分解
 ptialaz/o:【化】【PIV】Enzimo malkombinanta amelon.
 ptialin/o:【PIV】= ptialazo.
 ptilonorink/o⟦鸟ᴾᵀᴵ/o⟧:【動】【PIV】Au^stralia birdo (unuspecia g. (genro) Ptilonorhynchus violaceus) el la ordo de paseroformaj, kiu ornamas sian ludejon per belaj floroj, konkoj, beroj ktp (kaj tiel plu). Sin. (sinonimo) g^ardenisto 3.
@@ -54436,7 +54436,7 @@ ring/ig/i⟦环/使/i⟧:【PIV】Doni al io la formon de ringo.
 ring/iz/i⟦环/化/i⟧:【PIV】Provizi ion per metalaj ringoj, por plifortikigi g^in: ringizi la ekstremon de masto, la tubon de kanono; ringizi florojn.
 ring/uj/o⟦环/器/o⟧:【PIV】Skatolo, kie oni konservas ringojn.
 rinh^ocefal/oj:【PIV】= rinkocefaloj.
-rinkocefal/oj:【動】【PIV】Ordo (Rhynchocephalia) de reptilioj, kiujn karakterizas ostaj pontoj en la kranio; nur unu nun vivanta sp., sfenodonto.
+rink/o/cefal/oj⟦嘴/o/头ᶜ/oj⟧:【動】【PIV】Ordo (Rhynchocephalia) de reptilioj, kiujn karakterizas ostaj pontoj en la kranio; nur unu nun vivanta sp., sfenodonto.##偽分解##エス的分解
 rin/o/cer/ed/oj⟦鼻ᴿ/o/角/科ᴱ/oj⟧:【動】【PIV】Fam. (Familio) (Rhinocerotidae) de neparhufuloj, kies sp-oj (specioj) portas unu au^ du kornojn sur la nazo k vivas en Hindio, Indonezio k Afriko.##偽分解##エス的分解
 riolit/o:【地質】【PIV】Vulkana petro g^enerale helkolora, lau^kemie identa al granito, sed kun mikrolita strukturo. Vd ignimbrito, pec^os^tono.
 rip/a⟦肋/a⟧:【PIV】1 Rilata al homa ripo: ripaj vertebroj. 2 Prezentanta ripojn: ripa s^tofo, frukto, volbo.
@@ -54736,7 +54736,7 @@ sau^dad/o:【PIV】Amara g^uo de la rememoroj k bedau^roj, fontinta el la portug
 Sau^l/o:【PIV】= Saulo.
 sau^n/o:【PIV】S^vitbanejo lau^ finna maniero, kie trovig^as forno kun varmega s^tonaro, sur kiun la vers^ata akvo nebule vaporig^as.
 sau^r/o⟦爬虫/o⟧:【動】【PIV】Kn (Kolektiva nomo) de reptilioj eksklude de la testuduloj k serpentoj.
-sau^riski/oj:【動】【PIV】Ordo (Saurischia) de dinosau^roj herbovoraj k karnovoraj, inter ili la plej grandaj el c^iuj dinosau^roj. Vd ornitiskioj.
+sau^r/iski/oj⟦爬虫/坐骨/oj⟧:【動】【PIV】Ordo (Saurischia) de dinosau^roj herbovoraj k karnovoraj, inter ili la plej grandaj el c^iuj dinosau^roj. Vd ornitiskioj.##偽分解##エス的分解
 sav/ebl/a⟦救/可/a⟧:【PIV】Tia, kia povas esti savata: ne plu savebla animo.
 sav/ig^/o⟦救/成/o⟧:【PIV】1 Eksterdang^erig^o: danki Dion pro sia savig^o ; lastsekunda savig^o. 2 Stato de postmorta eterna felic^o: ekster la Eklezio ne estas savig^o (iama aserto de katolikaj teologoj).
 savarin/o:【PIV】Speco de kronforma babao, kun meze kremo au^ fruktoj.
