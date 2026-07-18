@@ -1276,7 +1276,7 @@ alo/aj^/o⟦草ᴬ/物/o⟧:【薬】アロエ剤
 aloj/o⟦合金/o⟧:【化】合金
 along^/o:【商】（手形の裏書の）補箋（ほせん）
 alo/o⟦草ᴬ/o⟧:{Ｏ}【植】アロエ
-alo/pati/o⟦异ᴬᴸ/情/o⟧:【医】逆症療法##偽分解
+alo/pati/o⟦异ᴬᴸ/病ᴾ/o⟧:【医】逆症療法##偽分解
 alopeci/o⟦秃ᴬ/o⟧:【病】脱毛症
 aloz/o⟦鱼ᴬᴸ/o⟧:【魚】ニシンダマシ,アローサ（ニシン科の食用魚）
 alp/a azale/o⟦峰/a 杜鹃/o⟧:【植】ミネズオウ（峰蘇芳）（種）
@@ -11916,7 +11916,7 @@ fot/o/kopi/ad/o⟦拍/o/复ᴷ/行/o⟧:写真複写,フォトコピー;【写�
 fot/o/kopi/i⟦拍/o/复ᴷ/i⟧:［他］写真複写する,フォトコピーする
 fot/o/kopi/il/o⟦拍/o/复ᴷ/具/o⟧:写真複写機,フォトコピー機
 fot/o/kopi/o⟦拍/o/复ᴷ/o⟧:写真複写（物）,フォトコピー;【写】印画,>>printaj^o
-fot/o/kromi/o⟦拍/o/金ᴷᴿ/o⟧:【写】天然色写真術##偽分解
+fot/o/kromi/o⟦拍/o/色ᴷᴵ/o⟧:【写】天然色写真術##偽分解
 fot/o/lit/o/grafi/o⟦拍/o/石ᴸ/o/志ᴳ/o⟧:【印】写真石版術,写真平版術##偽分解##過細分解 fot/o/l/i/t/o/grafi/o
 fot/o/metri/i⟦光ᶠ/o/测ᴹᵀ/i⟧:［他］【理】測光する##偽分解
 fot/o/metri/o⟦光ᶠ/o/测ᴹᵀ/o⟧:【理】測光##偽分解
@@ -14547,8 +14547,8 @@ hom/dign/a viv/o⟦人/尊ᴰ/a 活/o⟧:人間らしい生活
 hom/ec/a⟦人/性/a⟧:人間的な
 hom/ec/o⟦人/性/o⟧:人間性
 homeo/gril/o⟦homeo/蟋/o⟧:【虫】スズムシ##偽分解
-homeo/pati/a⟦homeo/情/a⟧:同種療法の,ホメオパシーの;《転》極微量の##偽分解
-homeo/pati/o⟦homeo/情/o⟧:{Ｏ}【医】同種療法,ホメオパシー##偽分解
+homeo/pati/a⟦homeo/病ᴾ/a⟧:同種療法の,ホメオパシーの;《転》極微量の##偽分解
+homeo/pati/o⟦homeo/病ᴾ/o⟧:{Ｏ}【医】同種療法,ホメオパシー##偽分解
 homeopat/o:{Ｏ}同種療法士,ホメオパス
 Homer/o:【人名】ホメロス（古代ギリシアの詩人）
 hom/et/o⟦人/小/o⟧:こびと,侏儒（しゅじゅ）
@@ -24796,9 +24796,9 @@ mega/bajt/o⟦百万ᴹᴳ/字节/o⟧:【情】メガバイト（Mb）
 mega/elektr/on/volt/o⟦百万ᴹᴳ/电/子ᴼ/volt/o⟧:【理】メガ電子ボルト（MeV）##偽分解
 mega/fon/o⟦巨ᴹᴱ/声ᶠᴼ/o⟧:メガホン,拡声器##偽分解(PIV正式分解)
 mega/herc/o⟦百万ᴹᴳ/herc/o⟧:【単】メガヘルツ（MHz）
-mega/lit/a⟦百万ᴹᴳ/石ᴸ/a⟧:巨石の;巨石文化の##偽分解##過細分解 mega/l/i/t/a
-mega/lit/a monument/o⟦百万ᴹᴳ/石ᴸ/a 碑/o⟧:巨石記念物##偽分解##過細分解 mega/l/i/t/a monument/o
-mega/lit/o⟦百万ᴹᴳ/石ᴸ/o⟧:【考古】巨石##偽分解##過細分解 mega/l/i/t/o
+mega/lit/a⟦巨ᴹᴱ/石ᴸ/a⟧:巨石の;巨石文化の##偽分解##過細分解 mega/l/i/t/a
+mega/lit/a monument/o⟦巨ᴹᴱ/石ᴸ/a 碑/o⟧:巨石記念物##偽分解##過細分解 mega/l/i/t/a monument/o
+mega/lit/o⟦巨ᴹᴱ/石ᴸ/o⟧:【考古】巨石##偽分解##過細分解 mega/l/i/t/o
 megalo/mani/o⟦巨ᴹ/狂/o⟧:【病】誇大妄想##偽分解(PIV正式分解)
 megalo/mani/ul/o⟦巨ᴹ/狂/者/o⟧:【病】誇大妄想患者##偽分解(PIV正式分解)
 megalo/sau^r/o⟦巨ᴹ/爬虫/o⟧:【古生】メガロサウルス,斑竜（はんりゅう）##偽分解##エス的分解
@@ -30489,7 +30489,7 @@ planed/o⟦星ᴾ/o⟧:{Ｂ}【天】惑星
 plan/ekonomi/o⟦划/经济/o⟧:【経】計画経済,>>merkatekonomio
 plane/o⟦翼/o⟧:【空】翼板,翼（よく）
 plan/i⟦划/i⟧:［他］計画する,設計する,立案する
-plan/i/metri/o⟦划/i/测ᴹᵀ/o⟧:【数】面積測定法##偽分解##過細分解 p/l/a/n/i/metri/o
+plan/i/metri/o⟦平ᴾ/i/测ᴹᵀ/o⟧:【数】面積測定法##偽分解##過細分解 p/l/a/n/i/metri/o
 plan/ism/o⟦划/主义/o⟧:計画主義
 plan/it/a ekonomi/o⟦划/受/a 经济/o⟧:【経】計画経済
 plank/i⟦板/i⟧:［他］床を張る
@@ -53173,7 +53173,7 @@ pedikular/o⟦草ᴾᴱᴰ/o⟧:【植】【PIV】G. (Genro) (Pedicularis el skr
 pedikur/i⟦修脚/i⟧:【PIV】(tr (transitiva)) Flegi la piedojn k kuraci ties epidermajn k ungajn afekciojn.
 pedikur/ist/o⟦修脚/家/o⟧:【PIV】Tiu, kiu profesie pedikuras. -> manikuri.
 pedipalp/o:【動】【PIV】Para dua membro c^e araknidoj, tuj post la h^eliceroj: c^e skorpioj pedipalpoj estas pinc^iloj, c^e la virseksaj araneuloj ili rolas en reproduktig^o.
-pedo/log/o⟦童ᴾ/学家/o⟧:【生態】【PIV】Specialisto pri pedologio. Sin. (sinonimo) grundologo.##偽分解##強語根分解
+pedo/log/o⟦土ᴾ/学家/o⟧:【生態】【PIV】Specialisto pri pedologio. Sin. (sinonimo) grundologo.##偽分解##強語根分解
 pedunkl/a⟦梗ᴾ/a⟧:【PIV】Havanta pedunklon; rilata al pedunklo.
 pedunkl/et/o⟦梗ᴾ/小/o⟧:【植】【PIV】1 Duavica pedunklo en kunmeta infloresko au^ infruktesko. 2 Malgranda pedunklo, portanta reproduktorgano(j)n c^e iuj fungoj, likenoj k briofitoj.
 peg/o/form/aj⟦啄木/o/形/aj⟧:【動】【PIV】Ordo (Piciformes) de birdoj, al kiu apartenas la fam-oj (familioj) de pegedoj k galbuledoj.
@@ -53510,7 +53510,7 @@ plan/iz/ad/o⟦划/化/行/o⟧:【PIV】Starigo de ekonomiaj programoj, indikan
 pland/a⟦足底/a⟧:【PIV】Rilata al la plando: planda doloro, veruko.
 pland/ul/o⟦足底/者/o⟧:【動】【PIV】Animalo, kiu mars^as sur la plando, ekz. (ekzemple) homo, urso.
 planetari/o:【PIV】Konstruaj^o enhavanta aparaton, kiu projekcias al interno de duonsfero bildojn de Suno, luno, planedoj k de la steloj por demonstracii la orbitojn de tiuj c^ielaj korpoj.
-plan/i/metr/o⟦划/i/计ᴹ/o⟧:【技】【数】【PIV】Instrumento por mezuri areojn en desegnaj^o.##偽分解##過細分解 p/l/a/n/i/metr/o
+plan/i/metr/o⟦平ᴾ/i/计ᴹ/o⟧:【技】【数】【PIV】Instrumento por mezuri areojn en desegnaj^o.##偽分解##過細分解 p/l/a/n/i/metr/o
 plankton/an/o⟦浮游/员ᴬ/o⟧:【PIV】Planktona vivulo.
 plankton/ul/o⟦浮游/者/o⟧:【PIV】Planktona vivulo.
 plant/it/aj^/o⟦植/受/物/o⟧:【PIV】Juna planto, fres^e plantita, au^ tau^ga por esti plantita: vita plantaj^o; (f (figurasence)) Jehuda estas lia plej amata plantaj^o .
@@ -56894,7 +56894,7 @@ vin/arbust/o⟦酒/灌木/o⟧:【植】【PIV】Vinberarbusto; vito.
 vincetoksik/o⟦草ⱽᶜ/o⟧:【植】【PIV】G. (Genro) (Vincetoxicum el asklepiadacoj) de plurjaraj herboj, tufarbustoj k lignecaj lianoj; c^. (c^irkau^) 15 sp-oj (specioj) el Eu^ropo, Azio k N Afriko.
 vinc^estr/o:【PIV】(evi (evitinda)) = disko 5.
 vind/ad/o⟦裹/行/o⟧:【PIV】Ago vindi.
-vinkamin/o:【化】【PIV】Hipotensiiga k antikancera substanco, C 21 H 26 N 2 O 3, kvincikla indolderivaj^o, ekstraktata el la eta vinko.
+vink/amin/o⟦蔓春/amin/o⟧:【化】【PIV】Hipotensiiga k antikancera substanco, C 21 H 26 N 2 O 3, kvincikla indolderivaj^o, ekstraktata el la eta vinko.##偽分解
 vinkul/o:【数】【印】【PIV】1 Linio strekita super pluraj termoj por ligi ilin kiel per krampoj: a-b-c = a - (b-c) = a-b + c. Rim. (Rimarko) C^ar la kompleksa konjugaj^o estas same notata, tiu uzado ne tau^gas, kiam la nombroj povas esti kompleksaj; tial g^i nun estas malofta. 2 Kuniga krampo.
 violent/e⟦暴ⱽ/e⟧:【PIV】En violenta maniero
 violent/o⟦暴ⱽ/o⟧:【PIV】Uzo de la forto por trudi al iu kontrau^volan agon au^ sintenon.
@@ -58048,7 +58048,7 @@ muel/dig/o⟦磨/拦/o⟧:【PIV】Digo 2, konstruita por apartigi de rivero la 
 mal/dik/ec/o⟦反/厚/性/o⟧:【PIV】Kvalito de io maldika: la maldikeco de s^ia talio estis nekredebla; maldikeco de cigaredfolio.
 mal/diligent/i⟦反/勤/i⟧:【PIV】Ne emi agi, esti malpenema, nenion faradi.
 ko/dimensi/o⟦ko/维/o⟧:【数】【PIV】(pp (se paroli pri) subspaco F de vektora spaco E) La minimuma dimensio de spaco G, kiu kune kun F determinas c^iujn punktojn de la spaco E: la kodimensio de F egalas al la dimensio de la kvocienta spaco E/F.
-kvantum/krom/o/dinamik/o⟦量子/外/o/力ᴰ/o⟧:【PIV】Kampteorio, pri la forta nuklea interago.##偽分解(PIV正式分解)
+kvantum/krom/o/dinamik/o⟦量子/色ᴷᴹ/o/力ᴰ/o⟧:【PIV】Kampteorio, pri la forta nuklea interago.##偽分解(PIV正式分解)
 lotus/diospir/o⟦莲/柿ᴰ/o⟧:【PIV】(D. lotus), el Azio, kun flavaj, mang^eblaj beroj maturstadie nigrig^antaj, 1−2 cm (centimetro) diametraj.
 lau^/dir/a⟦按/说/a⟧:【PIV】Asertata, sed ne certa: lau^dira titolo de nobeleco; lia lau^dira motivo.
 ne/dir/ebl/a⟦不/说/可/a⟧:【PIV】Tia, ke oni ne povas au^ devus g^in diri. Vd neesprimebla.

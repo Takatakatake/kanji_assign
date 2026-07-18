@@ -6570,8 +6570,8 @@
   vokoid         元ⱽᴰ        F=2     piv     【語】母音的音、ボコイド
 
 【原型】 2件
-  arketip        原型         F=1     piv     
-  prototip       原型ᴾ        F=1     piv     
+  prototip       原型         F=1     piv     
+  arketip        原型ᴬ        F=1     piv     
 
 【限】 2件
   fini           限          F=3     piv     【数】有限の
@@ -7408,6 +7408,10 @@
 【度】 2件
   grad           度          F=30    basic   
   skal           度ˢ         F=13    basic   
+
+【土学家】 2件
+  pedolog        土学家        F=1     piv     
+  grundolog      土学家ᴳ       F=1     piv     
 
 【怒】 2件
   koler          怒          F=18    basic   

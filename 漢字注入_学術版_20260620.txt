@@ -1276,7 +1276,7 @@ alo/aj^/o⟦草ᴬ/物/o⟧:【薬】アロエ剤
 aloj/o⟦合金/o⟧:【化】合金
 along^/o:【商】（手形の裏書の）補箋（ほせん）
 alo/o⟦草ᴬ/o⟧:{Ｏ}【植】アロエ
-alopati/o⟦异情/o⟧:【医】逆症療法
+alopati/o⟦异病/o⟧:【医】逆症療法
 alopeci/o⟦秃ᴬ/o⟧:【病】脱毛症
 aloz/o⟦鱼ᴬᴸ/o⟧:【魚】ニシンダマシ,アローサ（ニシン科の食用魚）
 alp/a azale/o⟦峰/a 杜鹃/o⟧:【植】ミネズオウ（峰蘇芳）（種）
@@ -11916,7 +11916,7 @@ fot/o/kopi/ad/o⟦拍/o/复ᴷ/行/o⟧:写真複写,フォトコピー;【写�
 fot/o/kopi/i⟦拍/o/复ᴷ/i⟧:［他］写真複写する,フォトコピーする
 fot/o/kopi/il/o⟦拍/o/复ᴷ/具/o⟧:写真複写機,フォトコピー機
 fot/o/kopi/o⟦拍/o/复ᴷ/o⟧:写真複写（物）,フォトコピー;【写】印画,>>printaj^o
-fotokromi/o⟦拍金/o⟧:【写】天然色写真術
+fotokromi/o⟦拍色/o⟧:【写】天然色写真術
 fotolitografi/o⟦拍石志/o⟧:【印】写真石版術,写真平版術
 fotometri/i⟦光测/i⟧:［他］【理】測光する
 fotometri/o⟦光测/o⟧:【理】測光
@@ -24796,9 +24796,9 @@ mega/bajt/o⟦百万ᴹᴳ/字节/o⟧:【情】メガバイト（Mb）
 mega/elektron/volt/o⟦百万ᴹᴳ/电子/volt/o⟧:【理】メガ電子ボルト（MeV）
 megafon/o⟦巨声/o⟧:メガホン,拡声器
 mega/herc/o⟦百万ᴹᴳ/herc/o⟧:【単】メガヘルツ（MHz）
-megalit/a⟦百万石/a⟧:巨石の;巨石文化の
-megalit/a monument/o⟦百万石/a 碑/o⟧:巨石記念物
-megalit/o⟦百万石/o⟧:【考古】巨石
+megalit/a⟦巨石/a⟧:巨石の;巨石文化の
+megalit/a monument/o⟦巨石/a 碑/o⟧:巨石記念物
+megalit/o⟦巨石/o⟧:【考古】巨石
 megalomani/o⟦巨狂/o⟧:【病】誇大妄想
 megalomani/ul/o⟦巨狂/者/o⟧:【病】誇大妄想患者
 megalosau^r/o:【古生】メガロサウルス,斑竜（はんりゅう）
@@ -29962,7 +29962,7 @@ periferi/o⟦周边/o⟧:【数】（図形の）周囲,>>perimetro
 perige/o:【天】近地点,><apogeo
 Perigord/o:【地名】ペリゴール地方（フランス）
 Perigoz/o:【地名】ペリグー（フランス）
-periheli/o⟦围气/o⟧:【天】近日点,><afelio
+periheli/o⟦围日/o⟧:【天】近日点,><afelio
 perikardi/o⟦围心ᴾᴵ/o⟧:【解】心膜
 perikard/o⟦围心/o⟧:【解】=perikardio（心膜）
 perikarp/o:【植】果皮,>>s^elo
@@ -30489,7 +30489,7 @@ planed/o⟦星ᴾ/o⟧:{Ｂ}【天】惑星
 plan/ekonomi/o⟦划/经济/o⟧:【経】計画経済,>>merkatekonomio
 plane/o⟦翼/o⟧:【空】翼板,翼（よく）
 plan/i⟦划/i⟧:［他］計画する,設計する,立案する
-planimetri/o⟦划测/o⟧:【数】面積測定法
+planimetri/o⟦平测/o⟧:【数】面積測定法
 plan/ism/o⟦划/主义/o⟧:計画主義
 plan/it/a ekonomi/o⟦划/受/a 经济/o⟧:【経】計画経済
 plank/i⟦板/i⟧:［他］床を張る
@@ -32430,7 +32430,7 @@ protokol/libr/o⟦录ᴾ/书/o⟧:議事録簿
 protokol/o⟦录ᴾ/o⟧:{Ｏ}議事録,調書,議定書;【情】ログ,運転記録;【情】プロトコル,通信規約
 proton/o⟦质子子/o⟧:【理】陽子,>>atomo,>>elektrono,>>neu^trono
 protoplasm/o⟦原浆/o⟧:【生】原形質
-prototip/o⟦原型ᴾ/o⟧:{Ｏ}原型,基本型,=pratipo;【機】試作品,プロトタイプ
+prototip/o⟦原型/o⟧:{Ｏ}原型,基本型,=pratipo;【機】試作品,プロトタイプ
 protozo/oj⟦原兽/oj⟧:【動】原生動物（門）
 protuberanc/o⟦隆ᴾ/o⟧:【解】隆起,突起,【天】（太陽の）紅炎
 prov/a⟦试/a⟧:試みの,試験的な
@@ -45286,7 +45286,7 @@ arkebuz/o:【史】【PIV】Malnova formo de fusilo, kiun oni, por la uzo, devis
 arkegoni/o⟦颈卵器/o⟧:【植】【PIV】Inseksa reproduktorgano de la briofitoj k vaskulplantoj, tipe konsistanta el botelforma c^elaro entenanta gameton (Vd oosfero), sed tre reduktig^inta c^e la semplantoj.
 arkeopterig/o/form/aj⟦古翅/o/形/aj⟧:【動】【PIV】Ordo (Archaeopterygiformes) de fosiliaj birdoj, la plej malnova birdo konata.
 arkeozoik/o:【PIV】= arkeano.
-arketip/o⟦原型/o⟧:【哲】【PIV】1 Eterna ideo, modelo de la estaj^oj. 2 Originalo, sur kiu oni kopiis la ceterajn manuskriptojn. 3【心】 Psika nekonscia strukturo, herede ricevita, povanta manifestig^i per tipaj simboloj, el kiu fontas sentoj, pensoj, imagaj^oj k energio. Vd pratipo.
+arketip/o⟦原型ᴬ/o⟧:【哲】【PIV】1 Eterna ideo, modelo de la estaj^oj. 2 Originalo, sur kiu oni kopiis la ceterajn manuskriptojn. 3【心】 Psika nekonscia strukturo, herede ricevita, povanta manifestig^i per tipaj simboloj, el kiu fontas sentoj, pensoj, imagaj^oj k energio. Vd pratipo.
 arki/⟦首ᴬ/⟧:【PIV】= c^ef/: arkifripono; arkiang^elo; arkidiakono.
 Arkilok/o:【PIV】Helena satiristo de la 7a jc (jarcento) a.K. (antau^ Kristo). = Arh^iloh^/o
 arkimandrit/o:【キ】【PIV】Estro de monah^ejo en la ortodoksa eklezio.
@@ -48581,7 +48581,7 @@ grumis^am/uj/o⟦木ᴳᴹ/器/o⟧:【PIV】Grumis^amo 1.
 grumis^am/ber/o⟦木ᴳᴹ/浆果/o⟧:【PIV】Grumis^amo 2.
 grund/a⟦土/a⟧:【PIV】Rilata al grundo: la grunda analizo, konsisto.
 grundgenez/o⟦土源/o⟧:【生態】【PIV】Estig^o k evoluo de grundo.
-grundolog/o⟦土学家/o⟧:【生態】【PIV】Fakulo pri grundologio. Sin. (sinonimo) pedologo.
+grundolog/o⟦土学家ᴳ/o⟧:【生態】【PIV】Fakulo pri grundologio. Sin. (sinonimo) pedologo.
 grundologi/o⟦土学/o⟧:【生態】【PIV】Scienco pri la grundoj, i.a. (interalie, inter aliaj) iliaj ecoj k genezo. Sin. (sinonimo) pedologio.
 grup/ej/o⟦团/所/o⟧:【PIV】Loko, kie kutime kunvenas grupo.
 gruz/mal/san/o⟦砾/反/健/o⟧:【医】【PIV】Litiazo.
@@ -48996,7 +48996,7 @@ hilozoism/o:【哲】【PIV】Konvinko, ke la materio estas elorigine vivigita.
 himantop/o⟦鸟ᴴᴺ/o⟧:【動】【PIV】Birdo (unuspecia g. (genro) (Himantopus himantopus) el la ordo de karadriformaj, kun longa, maldika, rekta beko k rug^aj, tre longaj kruroj. = himantopod/o
 himati/o:【史】【PIV】Helena mantelo por viroj au^ virinoj.
 himene/o⟦木ᴴᴹ/o⟧:【植】【PIV】G. (Genro) (Hymenaea el fabacoj), de c^. (c^irkau^) 15 sp-oj (specioj) de tropikaj arboj el Ameriko k Afriko, produktantaj mang^eblajn fruktojn, lignon similan al tiu de mahagono k kopalon (uzata precipe pasintece). Vd kopaifero.
-himenomicet/oj⟦处女膜菌/oj⟧:【植】【PIV】Grupo de bazidifungoj (ampleksanta la eksan klason Hymenomycetes), kies bazidioj formig^as interne de malferma au^ duonferma bazidiujo. Vd gasteromicetoj.
+himenomicet/oj⟦膜菌/oj⟧:【植】【PIV】Grupo de bazidifungoj (ampleksanta la eksan klason Hymenomycetes), kies bazidioj formig^as interne de malferma au^ duonferma bazidiujo. Vd gasteromicetoj.
 himn/a⟦颂/a⟧:【PIV】Rilata al himno(j).
 hin/o⟦兽ᴴ/o⟧:【動】【PIV】1 Hibrido de c^evalo k azenino. Vd mulo. 2【聖】Mezurilo por likvoj, c^. 6-litra: hino da vino.
 Hindustan/a:【語】【PIV】Rilata al Hindustano: la hindustana lingvo havas multajn regionajn variantojn k du oficialajn versiojn, hindian k urduan.
@@ -53173,7 +53173,7 @@ pedikular/o⟦草ᴾᴱᴰ/o⟧:【植】【PIV】G. (Genro) (Pedicularis el skr
 pedikur/i⟦修脚/i⟧:【PIV】(tr (transitiva)) Flegi la piedojn k kuraci ties epidermajn k ungajn afekciojn.
 pedikur/ist/o⟦修脚/家/o⟧:【PIV】Tiu, kiu profesie pedikuras. -> manikuri.
 pedipalp/o:【動】【PIV】Para dua membro c^e araknidoj, tuj post la h^eliceroj: c^e skorpioj pedipalpoj estas pinc^iloj, c^e la virseksaj araneuloj ili rolas en reproduktig^o.
-pedolog/o⟦童学家/o⟧:【生態】【PIV】Specialisto pri pedologio. Sin. (sinonimo) grundologo.
+pedolog/o⟦土学家/o⟧:【生態】【PIV】Specialisto pri pedologio. Sin. (sinonimo) grundologo.
 pedunkl/a⟦梗ᴾ/a⟧:【PIV】Havanta pedunklon; rilata al pedunklo.
 pedunkl/et/o⟦梗ᴾ/小/o⟧:【植】【PIV】1 Duavica pedunklo en kunmeta infloresko au^ infruktesko. 2 Malgranda pedunklo, portanta reproduktorgano(j)n c^e iuj fungoj, likenoj k briofitoj.
 peg/o/form/aj⟦啄木/o/形/aj⟧:【動】【PIV】Ordo (Piciformes) de birdoj, al kiu apartenas la fam-oj (familioj) de pegedoj k galbuledoj.
@@ -53510,7 +53510,7 @@ plan/iz/ad/o⟦划/化/行/o⟧:【PIV】Starigo de ekonomiaj programoj, indikan
 pland/a⟦足底/a⟧:【PIV】Rilata al la plando: planda doloro, veruko.
 pland/ul/o⟦足底/者/o⟧:【動】【PIV】Animalo, kiu mars^as sur la plando, ekz. (ekzemple) homo, urso.
 planetari/o:【PIV】Konstruaj^o enhavanta aparaton, kiu projekcias al interno de duonsfero bildojn de Suno, luno, planedoj k de la steloj por demonstracii la orbitojn de tiuj c^ielaj korpoj.
-planimetr/o⟦划计/o⟧:【技】【数】【PIV】Instrumento por mezuri areojn en desegnaj^o.
+planimetr/o⟦平计/o⟧:【技】【数】【PIV】Instrumento por mezuri areojn en desegnaj^o.
 plankton/an/o⟦浮游/员ᴬ/o⟧:【PIV】Planktona vivulo.
 plankton/ul/o⟦浮游/者/o⟧:【PIV】Planktona vivulo.
 plant/it/aj^/o⟦植/受/物/o⟧:【PIV】Juna planto, fres^e plantita, au^ tau^ga por esti plantita: vita plantaj^o; (f (figurasence)) Jehuda estas lia plej amata plantaj^o .
@@ -58157,8 +58157,8 @@ ekster/eklezi/a⟦外ᴱ/教ᴱ/a⟧:【PIV】Ne rilata, ne apartenanta al eklez
 pra/eklezi/o⟦原/教ᴱ/o⟧:【キ】【PIV】La unua kristana komunumo en Jerusalemo.
 proto/eklezi/o⟦原ᴾᵀ/教ᴱ/o⟧:【PIV】Eklezio de la unuaj jc (jarcento).
 sam/eklezi/an/o⟦同/教ᴱ/员ᴬ/o⟧:【PIV】Ano de la sama eklezio.
-pale/o/ekolog/o⟦内壳/o/境学家/o⟧:【生態】【PIV】Specialisto pri paleo ekologio.
-pale/o/ekologi/o⟦内壳/o/态ᴱ/o⟧:【PIV】Ekologio de la biosfero en la pasinteco, ekde la apero de la vivo sur Tero.
+pale/o/ekolog/o⟦古ᴾᴬ/o/境学家/o⟧:【生態】【PIV】Specialisto pri paleo ekologio.
+pale/o/ekologi/o⟦古ᴾᴬ/o/态ᴱ/o⟧:【PIV】Ekologio de la biosfero en la pasinteco, ekde la apero de la vivo sur Tero.
 radi/o/ekologi/o⟦射ᴿ/o/态ᴱ/o⟧:【生態】【PIV】Scienco pri la efikoj de la jonigaj radiadoj al la ekosistemoj, i.a. (interalie, inter aliaj) pri la radioaktiva poluado.
 ekster/ekran/a⟦外ᴱ/屏/a⟧:【PIV】C^iu sono au^ dialogo venanta de punkto ekstera al la vidkampo de la kamerao k de la spektanto.
 for/eks/ig/i⟦离/旧/使/i⟧:【PIV】Forpeli, seniginte de la ofico: mi foreksigos miajn komizojn .
@@ -58961,7 +58961,7 @@ pseu^do/hidrat/o⟦伪ᴾ/水合/o⟧:【PIV】Substanco, kies molekuloj entenas
 suc^/hif/o⟦吸/菌丝/o⟧:【PIV】(pp (se paroli pri) fungoj, i.a. (interalie, inter aliaj) likenoj) Hau^storio.
 hiper/hipofiz/ism/o⟦超/垂体/主义/o⟧:【医】【PIV】Troa au^ nesufic^a funkciado de hipofizo.
 hipo/hipofiz/ism/o⟦亚/垂体/主义/o⟧:【医】【PIV】Troa au^ nesufic^a funkciado de hipofizo.
-pale/o/histologi/o⟦内壳/o/织学/o⟧:【PIV】Scienco pri la fosiliaj histoj.
+pale/o/histologi/o⟦古ᴾᴬ/o/织学/o⟧:【PIV】Scienco pri la fosiliaj histoj.
 antau^/histori/o⟦前/史/o⟧:【PIV】= prahistorio 2 k 3.
 pre/histori/o⟦前ᴾ/史/o⟧:【PIV】= prahistorio 2 k 3.
 proto/histori/o⟦原ᴾᵀ/史/o⟧:【PIV】1 Transira periodo inter prahistorio k historio, kiam ekzistis nur nerektaj skribaj dokumentoj pri la koncernaj homaj socioj. 2 La responda scienco.
