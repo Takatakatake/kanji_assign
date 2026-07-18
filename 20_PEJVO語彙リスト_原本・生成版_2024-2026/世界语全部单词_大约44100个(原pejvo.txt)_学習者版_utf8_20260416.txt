@@ -30411,7 +30411,7 @@ pir/o/magnet/a:【理】熱磁気の##偽分解##過細分解 p/i/r/o/magnet/a
 pir/o/teknik/aj^/o:花火,=fajraj^o,=artfajraj^o##偽分解##過細分解 p/i/r/o/teknik/aj^/o
 pir/o/teknik/ist/o:花火師,=fajraj^isto##偽分解##過細分解 p/i/r/o/teknik/ist/o
 pir/o/teknik/o:花火製造術##偽分解##過細分解 p/i/r/o/teknik/o
-piroz/o:{Ｏ}【病】胸やけ
+pir/oz/o:{Ｏ}【病】胸やけ##偽分解##過細分解 p/i/r/oz/o
 piruet/i:［自］つま先で旋回する
 piruet/o:（バレエの）ピルエット,つま先旋回
 pir/uj/o:【植】ナシ（梨）,=pirarbo
