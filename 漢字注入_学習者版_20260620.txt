@@ -49230,7 +49230,7 @@ h^elicer/o⟦钳ᴴ̂/o⟧:【動】【PIV】La unua para membro c^e merostomoj 
 h^elicer/ul/oj⟦钳ᴴ̂/者/oj⟧:【PIV】Subfilumo (Chelicerata) de artropodoj, kiuj havas h^elicerojn.
 h^eloni/o⟦龟ᴴ̂/o⟧:【PIV】= kelonio.
 h^et/o:【PIV】= keto 1.
-h^etognat/oj:【PIV】= ketognatoj.
+h^et/o/gnat/oj:【PIV】= ketognatoj.##偽分解##エス的分解
 h^il/o:【PIV】= c^ilo.
 h^ilopod/oj:【PIV】= kilopodoj.
 H^imen/o:【PIV】Hispana virina nomo, i.a. (interalie, inter aliaj) de la edzino de la Cido. -> Rodrigo.
@@ -50270,7 +50270,7 @@ kerigm/o:【史】【キ】【PIV】1 (c^e helenoj) Proklamo elkriita per herold
 kestrel/o:【PIV】= turfalko.
 ket/o/grup/o⟦ket/o/团/o⟧:【PIV】≻C=O.
 keten/o:【化】【PIV】1 La kombinaj^o H 2 C=C=O, toksa gaso, facile dimerig^anta. 2 La radiko ≻C=C=O, trovig^anta en diversaj substancoj: metilketeno, CH3-HC=C=O.
-ketognat/oj:【動】【PIV】Filumo (Chaetognatha) de celomuloj vermosimilaj, sagoformaj kun nag^iloj k kun fortaj ketoj ambau^flanke de la bus^o, pelage vivantaj.
+ket/o/gnat/oj:【動】【PIV】Filumo (Chaetognatha) de celomuloj vermosimilaj, sagoformaj kun nag^iloj k kun fortaj ketoj ambau^flanke de la bus^o, pelage vivantaj.##偽分解##エス的分解
 keton/o:【化】【PIV】Substanco, enhavanta ketogrupon (≻C=O): multaj ketonoj estas uzataj kiel solvantoj en tekniko, i.a. acetono. Vd on/.
 keton/oz/o⟦keton/症ᴼ/o⟧:【医】【PIV】Patologia pliig^o de ketonoj en la sango.
 ki…:【PIV】Vortojn c^i tie ne trovig^antajn serc^u sub ci, c^i … au^ h^i …
@@ -52428,7 +52428,7 @@ ner/al/o:【化】【PIV】cis-citralo, monoterpena aldehido kun malforta sed do
 ner/ol/o:【化】【PIV】Cisa izomero de geraniolo, kun dolc^a rozodoro.##偽分解(PIV正式分解)##過細分解 ner/o/l/o
 Nere/o:【PIV】Helena mardio.
 Nere/id/in/oj:【PIV】La 50 filinoj de Nereo, personigo de la ludantaj ondoj.
-nereid/o⟦虫ᴺᴿ/o⟧:【動】【PIV】G. (Genro) (Nereis) de anelidoj el la klaso de poliketoj, vivantaj sur s^tona, sabla au^ kota fundo en pli-malpli sala akvo, c^e la bordoj. Vd afrodito.
+nere/id/o⟦虫ᴺᴱ/子/o⟧:【動】【PIV】G. (Genro) (Nereis) de anelidoj el la klaso de poliketoj, vivantaj sur s^tona, sabla au^ kota fundo en pli-malpli sala akvo, c^e la bordoj. Vd afrodito.##偽分解##エス的分解
 neritik/o⟦浅海/o⟧:【地理】【地質】【PIV】La parto de maro, kus^anta super la kontinenta breto.
 neritik/a⟦浅海/a⟧:【PIV】Rilata al neritiko: neritikaj sedimentoj; neritika kalkpetro.
 neroli/o:【PIV】Esenco, ricevata per distilado de la floroj de bigarado, uzata precipe kiel parfumo. Vd orang^oflora akvo.
@@ -52703,8 +52703,8 @@ olfakt/o⟦嗅ᴼ/o⟧:【生】【PIV】Flarsenso.
 olfakt/a⟦嗅ᴼ/a⟧:【解】【PIV】Rilata al olfakto: la olfakta nervo (la unua paro de cerbaj nervoj, kiu naskig^as el la olfakta bulbo, funde de la naza kavo).
 oligo/⟦寡ᴼ/⟧:【化】【PIV】Pref. (Prefikso), montranta, ke substanco estas karakterizata de, au^ konsistas el, kelkaj samaj funkcioj, molekuloj ks (kaj simile, kaj similaj): oligomero, oligopeptido, oligosakarido. Vd mono/, poli/. Rim. (Rimarko) La vortkomenco oligo, trovig^as en iuj neanalizeblaj vortoj: oligoelemento, oligoketo, oligopolo k.a. (kaj aliaj).
 oligo/element/o⟦寡ᴼ/素/o⟧:【生】【PIV】C^iu kemia elemento, spurkvante necesa por la vivo (ekz. (ekzemple) Cu, Mn, Zn).##偽分解(PIV正式分解)
-oligoh^et/o:【PIV】= oligoketo.
-oligoket/oj:【動】【PIV】Klaso (Oligochaeta) el la filumo de anelidoj, kies sp-oj (specioj) havas nur kelkajn ketojn ne portatajn de piedetoj, sed senpere de la segmentoj, k estas hermafroditaj: lumbriko estas oligoketo. Vd poliketoj.
+oligo/h^et/o⟦寡ᴼ/h^et/o⟧:【PIV】= oligoketo.##偽分解##エス的分解
+oligo/ket/oj⟦寡ᴼ/ket/oj⟧:【動】【PIV】Klaso (Oligochaeta) el la filumo de anelidoj, kies sp-oj (specioj) havas nur kelkajn ketojn ne portatajn de piedetoj, sed senpere de la segmentoj, k estas hermafroditaj: lumbriko estas oligoketo. Vd poliketoj.##偽分解##エス的分解
 oligoklaz/o:【地質】【PIV】Natria-kalcia feldspato el la plagioklazoj, enhavanta 10−30% da anortito.
 oligopol/o:【PIV】Tia situacio de la merkato, en kiu c^iu el limigita nombro de produktistoj estas sufic^e forta por influi la merkaton, sed ne sufic^e forta por malatenti la reagon de siaj konkurencantoj.
 oligo/terapi/o⟦寡ᴼ/疗/o⟧:【医】【PIV】Kuracado per oligoelementoj, g^enerale uzata en alternativa medicino.##偽分解(PIV正式分解)
@@ -53651,8 +53651,8 @@ poli/gami/ul/o⟦多ᴾ/配ᴳ/者/o⟧:【PIV】Homo au^ besto vivanta en polig
 poli/gami/ul/in/o⟦多ᴾ/配ᴳ/者/女/o⟧:【PIV】Homo au^ besto vivanta en poligamio.##偽分解(PIV正式分解)
 poligon/a⟦多角/a⟧:【建】【PIV】Konstruita sur plurangula plano: poligona turo.
 poligonat/o⟦草ᴾᴼᴸ/o⟧:【植】【PIV】G. (Genro) (Polygonatum el konvalacoj) de plurjaraj herboj kun rizomo, havanta okulfrapajn, diskoformajn cikatrojn de la s^osoj de la antau^aj jaroj, kun senbranc^aj tigoj, portantaj integrajn foliojn, kun pendaj, klos^-au^ tub-formaj floroj k kun globaj beroj; c^. (c^irkau^) 55 sp-oj (specioj), N-hemisferaj, kelkaj pororname kultivataj k/au^ medicine uzataj. Sin. (sinonimo) salomonsigelo.
-polih^et/oj:【PIV】= poliketoj.
-poliket/oj:【動】【PIV】Klaso (Polychaeta) de vermoj el la filumo de anelidoj, kies sp-oj (specioj) havas multketajn piedetojn, k estas unuseksaj: nereido estas poliketo. Vd oligoketoj.
+poli/h^et/oj⟦多ᴾ/h^et/oj⟧:【PIV】= poliketoj.##偽分解##エス的分解
+poli/ket/oj⟦多ᴾ/ket/oj⟧:【動】【PIV】Klaso (Polychaeta) de vermoj el la filumo de anelidoj, kies sp-oj (specioj) havas multketajn piedetojn, k estas unuseksaj: nereido estas poliketo. Vd oligoketoj.##偽分解##エス的分解
 Poliklit/o:【PIV】Helena skulptisto (5a jc (jarcento) a.K. (antau^ Kristo)).
 Polikrat/o:【PIV】Tirano de Samoso (6a jc (jarcento) a.K. (antau^ Kristo)).
 polikro/a⟦多色ᴾᴼ/a⟧:【PIV】= pleokroa.
@@ -56435,7 +56435,7 @@ trigonel/o⟦豆ᵀ/o⟧:【植】【PIV】G. (Genro) (Trigonella el fabacoj) de
 trigon/o/metri/a⟦三角ᵀᴿ/o/测ᴹᵀ/a⟧:【PIV】Rilata al trigonometrio: trigonometriaj funkcioj (sinuso, kosinuso, tangento, kotangento, sekanto, kosekanto). Vd ciklometria.##偽分解
 trih^/o:【PIV】= triko ①
 trih^ofit/o⟦毛癣菌ᵀᴴ̂/o⟧:【PIV】= trikofito.
-trih^opter/oj:【PIV】= trikopteroj.
+trih^/o/pter/oj⟦trih^/o/翅/oj⟧:【PIV】= trikopteroj.##偽分解##エス的分解
 trik/o⟦毛ᵀ/o⟧:【医】【PIV】Haro (en kunmetaj^oj).
 trik/oz/o⟦毛ᵀ/症ᴼ/o⟧:【PIV】Denaska au^ akirita devio de haroj c^e orifico au^ de la okulharoj, kiuj skrapas la okulglobon k kau^zas keratiton.
 trik/o/micet/oz/o⟦毛ᵀ/o/菌ᴹᶜ/症ᴼ/o⟧:【PIV】Harmalsano, kau^zata de fungo.##偽分解(PIV正式分解)
