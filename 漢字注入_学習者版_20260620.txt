@@ -2043,7 +2043,7 @@ anti/seps/o⟦抗ᴬ/腐ˢ/o⟧:【医】=kontrau^sepso（防腐）##偽分解
 anti/tez/o⟦抗ᴬ/题ᵀᶻ/o⟧:{Ｏ}【哲】アンチテーゼ;【修】対照法##偽分解
 anti/toksin/o⟦抗ᴬ/毒ᵀᴺ/o⟧:【医】抗毒素##偽分解
 antologi/o⟦选ᴬ/o⟧:{Ｏ}文学選集
-ant/onim/o⟦在/名ᴼ/o⟧:【語】反意語##偽分解##過細分解 a/n/t/onim/o
+ant/onim/o⟦反ᴬ/名ᴼ/o⟧:【語】反意語##偽分解##過細分解 a/n/t/onim/o
 Antoni/o:（男子名）アントニオ,アントニウス
 Anton/o:{Ｏ}（男子名）アントン
 antracit/o:【鉱】無煙炭
@@ -3675,8 +3675,8 @@ bigot/i⟦偏执/i⟧:［自］信心家ぶる,信心に凝り固まる
 bigot/o⟦偏执/o⟧:{Ｏ}偽善者,信心に凝り固まった人
 Bihar/o:【地名】ビハール州（インド）
 Bikin/o:【地名】ビキニ島（中部太平洋）
-bi/konkav/a⟦生ᴮᴵ/凹/a⟧:【理】=dukonkava（両凹の）##偽分解(PIV正式分解)
-bi/konveks/a⟦生ᴮᴵ/凸ᴷ/a⟧:【理】=dukonveksa（両凸の）##偽分解(PIV正式分解)
+bi/konkav/a⟦二ᴮ/凹/a⟧:【理】=dukonkava（両凹の）##偽分解(PIV正式分解)
+bi/konveks/a⟦二ᴮ/凸ᴷ/a⟧:【理】=dukonveksa（両凸の）##偽分解(PIV正式分解)
 biks^u/o:【仏】比丘（びく）
 bilanc/i⟦衡ᴮ/i⟧:［他］【商】貸借対照表を作る,差引勘定をする
 bilanc/o⟦衡ᴮ/o⟧:{Ｏ}【商】貸借対照表,>>inventaro,>>saldo
@@ -3758,7 +3758,7 @@ bio/mas/o⟦生ᴮᴼ/团ᴹ/o⟧:【環】生物量,バイオマス##偽分解
 bi/ont/o/logi/o⟦生ᴮᴵ/将/o/学ᴸᴳ/o⟧:《廃》生物学,=>biologio##偽分解##過細分解 b/i/o/n/t/o/logi/o
 bio/sfer/o⟦生ᴮᴼ/球ˢ/o⟧:【環】生物圏,生活圏##偽分解
 bio/top/o⟦生ᴮᴼ/境ᵀ/o⟧:【環】ビオトープ,小生活圏##偽分解##過細分解 bio/t/o/p/o
-bi/plan/o⟦生ᴮᴵ/划/o⟧:【空】複葉機,>>monoplano##偽分解##過細分解 bi/p/l/a/n/o
+bi/plan/o⟦二ᴮ/划/o⟧:【空】複葉機,>>monoplano##偽分解##過細分解 bi/p/l/a/n/o
 bird/a⟦鸟/a⟧:鳥の
 bird/a grip/o⟦鸟/a 流感/o⟧:【病】鳥インフルエンザ
 bird/aj^/o⟦鸟/物/o⟧:【料】鳥肉,鳥料理
@@ -20314,8 +20314,8 @@ krom/labor/o⟦外/劳/o⟧:副業,アルバイト
 krom/marg^en/o⟦外/边ᴹ/o⟧:【印】インデント
 krom/nom/o⟦外/名/o⟧:（本来の名前に付けて呼ばれる）異名,添え名,=alnomo
 krom/o⟦金ᴷᴹ/o⟧:【化】クロム（原子番号２４の金属元素）,=kromio
-krom/o/fot/o/grafi/o⟦外/o/拍/o/志ᴳ/o⟧:【写】天然色写真術##偽分解
-krom/o/lit/o/grafi/o⟦外/o/石ᴸ/o/志ᴳ/o⟧:【印】着色石版術##偽分解##過細分解 krom/o/l/i/t/o/grafi/o
+krom/o/fot/o/grafi/o⟦色ᴷᴹ/o/拍/o/志ᴳ/o⟧:【写】天然色写真術##偽分解
+krom/o/lit/o/grafi/o⟦色ᴷᴹ/o/石ᴸ/o/志ᴳ/o⟧:【印】着色石版術##偽分解##過細分解 krom/o/l/i/t/o/grafi/o
 kromosom/o⟦染色体/o⟧:{Ｏ}【生】染色体
 kromosom/par/o⟦染色体/偶/o⟧:【生】染色体対
 krom/pag/o⟦外/付/o⟧:割増金
@@ -45813,9 +45813,9 @@ bien/mastr/o⟦庄/主/o⟧:【PIV】La posedanto de bieno. -> bienservanto.
 bienal/o:【PIV】Kultura prezentado, ripetig^anta c^iun duan jaron.
 bier/ist/o⟦酒ᴮ/家/o⟧:【PIV】Bierfaristo.
 bier/um/i⟦酒ᴮ/um/i⟧:【PIV】(ntr (netransitiva)) G^ui bieron en bona etoso.
-bi/fac/o⟦生ᴮᴵ/面/o⟧:【PIV】S^tona ilo migdalforme tajlita k ambau^flanke retus^ita por ricevi tranc^an periferion; g^i karakterizas la ac^eu^lean industrion.
-bi/faden/a⟦生ᴮᴵ/丝ᶠ/a⟧:【PIV】= dudrata.
-bi/fen/il/o⟦生ᴮᴵ/焚风/具/o⟧:【PIV】Vd (vidu) feno ②.##偽分解(PIV正式分解)##過細分解 bi/f/e/n/il/o
+bi/fac/o⟦二ᴮ/面/o⟧:【PIV】S^tona ilo migdalforme tajlita k ambau^flanke retus^ita por ricevi tranc^an periferion; g^i karakterizas la ac^eu^lean industrion.
+bi/faden/a⟦二ᴮ/丝ᶠ/a⟧:【PIV】= dudrata.
+bi/fen/il/o⟦二ᴮ/焚风/具/o⟧:【PIV】Vd (vidu) feno ②.##偽分解(PIV正式分解)##過細分解 bi/f/e/n/il/o
 bifid/a⟦叉ᴮ/a⟧:【植】【解】【医】【PIV】Duparte dividig^inta: bifida folio; la bifida lango de serpento; bifida spino (denaska malsano de la spino). Vd forka.
 bifilar/a:【PIV】1 = dratrefalda. 2 (evi (evitinda)) = dudrata.
 bigarad/o⟦酸橙/o⟧:【植】【PIV】1 Subsp. de citruso (Citrus aurantium subsp. a.) hejma en Hindio k Birmanio, arbeto kun globaj fruktoj (amaraj orang^oj), havantaj rug^e orang^an s^elon, el kiu oni ekstraktas esencon (Vd nerolio), k tre acidan, pli-malpli amaran pulpon, uzatan por konfitaj^oj k amaraj trinkaj^oj. 2 Frukto de bigarado 1. Sin. (sinonimo) amara orang^o.
@@ -45848,8 +45848,8 @@ bir/ad/o⟦测ᴮ/行/o⟧:【PIV】Tuto de la operacioj, per kiuj oni ricevas b
 bird/ej/o⟦鸟/所/o⟧:【PIV】Aparta konstruo, destinita al la bredado de rimarkindaj birdoj.
 birg/o⟦虾ᴮ/o⟧:【動】【PIV】Krustaco (unuspecia g. (genro) Birgus latro) el fam. (familio) de paguredoj, kiu vivas sur la tero de Hindiaj k Pacifikaj insuloj k mang^as kokosojn.
 bis!:【PIV】Interj. (Interjekcio)
-bi/sak/o⟦生ᴮᴵ/袋/o⟧:【PIV】Sako de kolportisto au^ almozulo, enhavanta du pos^ojn.
-bi/sekc/i⟦生ᴮᴵ/切ˢ/i⟧:【数】【PIV】(tr (transitiva)) Dusekci.
+bi/sak/o⟦二ᴮ/袋/o⟧:【PIV】Sako de kolportisto au^ almozulo, enhavanta du pos^ojn.
+bi/sekc/i⟦二ᴮ/切ˢ/i⟧:【数】【PIV】(tr (transitiva)) Dusekci.
 bisin/o:【服】【PIV】Antikva teksaj^o farita el ne identigitaj plantofibroj; unu speco estis uzata por la mumioj.
 biskutel/o⟦草ᴮᵁ/o⟧:【植】【PIV】G. (Genro) (Biscutella el brasikacoj) de c^. (c^irkau^) 40 sp-oj (specioj) de unu-k plur-jaraj herboj el Eu^ropo, N Afriko k SU Azio, kun flavaj floroj k plataj, okulvitroformaj silikvoj.
 bismut/at/o⟦金ᴮˢ/盐ᴬ/o⟧:【化】【PIV】Salo de bismuta acido, HBiO 3 au^ H 3 BiO 4.##偽分解(PIV正式分解)

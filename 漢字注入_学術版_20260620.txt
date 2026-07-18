@@ -2043,7 +2043,7 @@ antiseps/o⟦抗腐/o⟧:【医】=kontrau^sepso（防腐）
 antitez/o⟦抗题/o⟧:{Ｏ}【哲】アンチテーゼ;【修】対照法
 antitoksin/o⟦抗毒/o⟧:【医】抗毒素
 antologi/o⟦选ᴬ/o⟧:{Ｏ}文学選集
-antonim/o⟦在名/o⟧:【語】反意語
+antonim/o⟦反名/o⟧:【語】反意語
 Antoni/o:（男子名）アントニオ,アントニウス
 Anton/o:{Ｏ}（男子名）アントン
 antracit/o:【鉱】無煙炭
@@ -20314,8 +20314,8 @@ krom/labor/o⟦外/劳/o⟧:副業,アルバイト
 krom/marg^en/o⟦外/边ᴹ/o⟧:【印】インデント
 krom/nom/o⟦外/名/o⟧:（本来の名前に付けて呼ばれる）異名,添え名,=alnomo
 krom/o⟦金ᴷᴹ/o⟧:【化】クロム（原子番号２４の金属元素）,=kromio
-kromofotografi/o⟦外拍志/o⟧:【写】天然色写真術
-kromolitografi/o⟦外石志/o⟧:【印】着色石版術
+kromofotografi/o⟦色拍志/o⟧:【写】天然色写真術
+kromolitografi/o⟦色石志/o⟧:【印】着色石版術
 kromosom/o⟦染色体/o⟧:{Ｏ}【生】染色体
 kromosom/par/o⟦染色体/偶/o⟧:【生】染色体対
 krom/pag/o⟦外/付/o⟧:割増金
@@ -45813,8 +45813,8 @@ bien/mastr/o⟦庄/主/o⟧:【PIV】La posedanto de bieno. -> bienservanto.
 bienal/o:【PIV】Kultura prezentado, ripetig^anta c^iun duan jaron.
 bier/ist/o⟦酒ᴮ/家/o⟧:【PIV】Bierfaristo.
 bier/um/i⟦酒ᴮ/um/i⟧:【PIV】(ntr (netransitiva)) G^ui bieron en bona etoso.
-bi/fac/o⟦生ᴮᴵ/面/o⟧:【PIV】S^tona ilo migdalforme tajlita k ambau^flanke retus^ita por ricevi tranc^an periferion; g^i karakterizas la ac^eu^lean industrion.
-bi/faden/a⟦生ᴮᴵ/丝ᶠ/a⟧:【PIV】= dudrata.
+bi/fac/o⟦二ᴮ/面/o⟧:【PIV】S^tona ilo migdalforme tajlita k ambau^flanke retus^ita por ricevi tranc^an periferion; g^i karakterizas la ac^eu^lean industrion.
+bi/faden/a⟦二ᴮ/丝ᶠ/a⟧:【PIV】= dudrata.
 bi/fenil/o⟦生ᴮᴵ/fenil/o⟧:【PIV】Vd (vidu) feno ②.
 bifid/a⟦叉ᴮ/a⟧:【植】【解】【医】【PIV】Duparte dividig^inta: bifida folio; la bifida lango de serpento; bifida spino (denaska malsano de la spino). Vd forka.
 bifilar/a:【PIV】1 = dratrefalda. 2 (evi (evitinda)) = dudrata.
@@ -45848,8 +45848,8 @@ bir/ad/o⟦测ᴮ/行/o⟧:【PIV】Tuto de la operacioj, per kiuj oni ricevas b
 bird/ej/o⟦鸟/所/o⟧:【PIV】Aparta konstruo, destinita al la bredado de rimarkindaj birdoj.
 birg/o⟦虾ᴮ/o⟧:【動】【PIV】Krustaco (unuspecia g. (genro) Birgus latro) el fam. (familio) de paguredoj, kiu vivas sur la tero de Hindiaj k Pacifikaj insuloj k mang^as kokosojn.
 bis!:【PIV】Interj. (Interjekcio)
-bi/sak/o⟦生ᴮᴵ/袋/o⟧:【PIV】Sako de kolportisto au^ almozulo, enhavanta du pos^ojn.
-bi/sekc/i⟦生ᴮᴵ/切ˢ/i⟧:【数】【PIV】(tr (transitiva)) Dusekci.
+bi/sak/o⟦二ᴮ/袋/o⟧:【PIV】Sako de kolportisto au^ almozulo, enhavanta du pos^ojn.
+bi/sekc/i⟦二ᴮ/切ˢ/i⟧:【数】【PIV】(tr (transitiva)) Dusekci.
 bisin/o:【服】【PIV】Antikva teksaj^o farita el ne identigitaj plantofibroj; unu speco estis uzata por la mumioj.
 biskutel/o⟦草ᴮᵁ/o⟧:【植】【PIV】G. (Genro) (Biscutella el brasikacoj) de c^. (c^irkau^) 40 sp-oj (specioj) de unu-k plur-jaraj herboj el Eu^ropo, N Afriko k SU Azio, kun flavaj floroj k plataj, okulvitroformaj silikvoj.
 bismutat/o⟦金盐ᴮ/o⟧:【化】【PIV】Salo de bismuta acido, HBiO 3 au^ H 3 BiO 4.
