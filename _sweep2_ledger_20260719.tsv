@@ -1,0 +1,98 @@
+# whole-word複合語(P=5分解鏡像)偽友検証 台帳 (2026-07-19)
+# 手法: P=5手動割当複合語1865件(=_sweep_pool2_wholeword_20260719.tsv)を18チャンク×sonnetエージェント検出→敵対的検証。
+# ワークフロー107エージェント・候補89(agent確定72/borderline3/却下14)。私の実データ再検証で明白衝突4系のみ適用、残は要精査。
+
+## 適用(明白な衝突/語釈矛盾・学術版whole-word k列) = 4系
+APPLIED	antigen	抗生->抗原	[抗原]
+APPLIED	poliomjelit	多髄炎->灰髄炎	[ポリオ, 急性灰白髄炎, 小児麻痺]
+APPLIED	fiziologi	物理学->生理学	[生理学]
+
+## 要精査(agent確定だが未適用=専用パス推奨)。分類: CHEM=化学(評価のみ) / REVIEW=衝突/誤読候補(字選び要) / SOFT=解釈可能・過剰flag
+REVIEW	au^l	礼堂->大講堂	[（大学などの式典用）大講堂,大ホール]
+REVIEW	aerodrom	气道->气场	[飛行場,=flugkampo]
+REVIEW	aklimatiz	无气候化->适气候化	[= alklimatigi（順化させる/acclimatize）]
+REVIEW	akrocianoz	锐青症->末青症	[Blua koloro de la ekstremajxoj（四肢末端の青変/a]
+REVIEW	akronim	锐名->首字名	[Vorto konsistanta el la komencliteroj（頭字]
+REVIEW	klau^str	修院->回廊	[=klostro（回廊）]
+REVIEW	astigmatism	散光主义->散光症	[乱視]
+REVIEW	au^tobiografi	自生志->自叙志	[自伝]
+REVIEW	au^tokrati	自治->専制	[専制政治]
+REVIEW	bolometr	沸計->輻計	[Aparato por mezuri temperaturojn（熱放射・温度測]
+REVIEW	deism	从主义->神主义	[理神論（神が理性によって知られるとする哲学）]
+REVIEW	deist	从家->神家	[理神論者]
+REVIEW	demonstrativ	证被能->指示性	[指示詞（this/thatなどの指示語）]
+REVIEW	bibliofil	经爱->书爱	[愛書家（本を愛する人）]
+REVIEW	diafanoskopi	透镜->透映机	[スライド投影器]
+REVIEW	diplokok	板障菌->双球菌	[双球菌属(Diplococcus)]
+REVIEW	diplopod	板障足->双対足	[ヤスデ綱(各体節に2対の脚)]
+REVIEW	elektroskop	电镜->验电器	[検電器]
+REVIEW	epifenomen	表现->副现象	[付随現象(epiphenomenon)]
+REVIEW	eksponometr	展计->露计	[露出計(露光計)]
+REVIEW	dividend	分须->分红	[（株の）配当金]
+REVIEW	estrad	长行->台壇	[演壇（podio）]
+REVIEW	fekul	粪者->淀粉	[でんぷん（amelfaruno）]
+REVIEW	filantrop	爱人->博愛者	[博愛主義者・慈善家]
+REVIEW	filantropi	爱人->博愛	[博愛・慈善]
+REVIEW	filogenez	儿源->系統源	[系統発生（kladogenezo）]
+CHEM	formiat	形盐->蚁酸盐	[ギ酸塩（formiata acido の塩）]
+CHEM	formiil	形基->蚁酸基	[ギ酸のラジカル（formiata acido のラジカル H-C=O·）]
+REVIEW	gastronom	胃学->胃道家	[食通,美食家]
+REVIEW	heksametr	六米->六步格	[六歩格（の詩）]
+REVIEW	heliograf	日記->日光镜	[光学電信装置（日照計）]
+REVIEW	heliografi	日志->日光信	[光信号による通信システム]
+REVIEW	heteronomi	異学->他律	[他律（外部から法を受ける状況）]
+REVIEW	hidrodinamik	水力->水动学	[流体力学]
+REVIEW	izoglos	等注->等語	[【語】等語線（方言境界線）]
+REVIEW	izostaz	等滞->等衡	[【地質】地殻の静水圧的平衡状態]
+CHEM	jodoform	碘形->碘仿	[【化】ヨードホルム（CHI）]
+REVIEW	kakografi	屎志->劣志	[【PIV】醜いまたは誤った書き方（悪筆・誤記）]
+REVIEW	kartograf	卡記->図記	[地図製作者]
+REVIEW	kartografi	卡志->図志	[地図製作法]
+REVIEW	klorofic	氯藻->緑藻	[【植】緑藻綱（Chlorophyceae）]
+REVIEW	klorofit	氯植->緑植	[【植】緑藻植物門（Chlorophyta）]
+REVIEW	megommetr	兆計->兆欧計	[非常に高い抵抗を測定する装置（メグオームメーター）]
+REVIEW	metastaz	超滞->超移	[転移（他部位への癌の再発）]
+REVIEW	mapotek	図包->図庫	[地図を分類・保管する施設（地図文庫）]
+REVIEW	meteorism	陨主义->腸胀	[【医】鼓腸]
+REVIEW	metodologi	法学->方法学	[【哲】方法論]
+REVIEW	mikroorganism	微器主义->微生物	[【生】微生物]
+REVIEW	monoplan	单划->单翼机	[【空】単葉機]
+REVIEW	ontologi	在学->存在学	[【哲】存在論]
+REVIEW	organism	器主义->有机体	[【生】有機体;生物]
+REVIEW	paroksism	极主义->极発作	[最も昂ぶった;【医】発作性の]
+REVIEW	pentametr	五米->五歩格	[五歩格（の詩）]
+REVIEW	rojalist	王家->王党者	[王政主義者,王党員,王党派]
+REVIEW	skizomicet	草菌->裂菌	[バクテリア（シアノバクテリアを除く）]
+REVIEW	superpozici	上位->叠加	[重ね合せ（物理：superposition）]
+REVIEW	termogenez	热源->热生	[熱産生（生物の体熱産生過程）]
+CHEM	titanat	金盐->钛盐	[チタン酸塩（HTiOの塩）]
+REVIEW	vaginism	阴道主义->阴道痉	[膣痙攣（ちつけいれん）]
+CHEM	au^tokrat	自治->自権	[専制君主]
+REVIEW	demoraliz	从德化->损德化	[士気をくじく、意気阻喪させる]
+CHEM	deoksi	从氧->脱氧	[酸素原子が欠けている（脱酸素）接頭辞]
+REVIEW	izoton	等调->等渗	[等浸透圧の（isotonic）]
+REVIEW	ideografi	意志->意図記	[表意文字の,表意的な]
+REVIEW	mitomani	神話狂->虚話狂	[虚言症]
+REVIEW	metafizik	超物理->形而上	[形而上学の,形而上の;きわめて抽象的な]
+REVIEW	metamorfoz	超形症->変形化	[変身させる,変形させる;変貌させる]
+REVIEW	renom	再名->声名	[名の通った,評判のよい]
+CHEM	rezultat	果被->結果	[結果になる（rezultiの名詞/形容詞形）]
+
+## borderline(3) + agent却下(14)=参考
+BORDERLINE	paskvil	批文->讽刺文
+BORDERLINE	arsenid	矿化->砷化
+BORDERLINE	reniat	金盐->錸盐
+REJECTED	agrafi	无志->无书
+REJECTED	biont	生将->生者
+REJECTED	bibliografi	经志->书志
+REJECTED	hidrofobi	水症->恐水病
+REJECTED	horoskop	钟镜->时镜
+REJECTED	hipertrofi	超养->超大
+REJECTED	kriptonim	墓窖名->隠名
+REJECTED	mediologi	境学->環境学
+REJECTED	niobat	金盐->铌盐
+REJECTED	osmiat	金盐->锇盐
+REJECTED	paleolitik	古石学->古石期
+REJECTED	pistil	捣具->雌蘂
+REJECTED	tantalat	金盐->钽盐
+REJECTED	tropism	向主义->向性

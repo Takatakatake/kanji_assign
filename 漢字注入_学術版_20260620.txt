@@ -2002,7 +2002,7 @@ anticip/i⟦预/i⟧:{Ｏ}［他］先んじる,前もって手配する;見越�
 antidot/o:【薬】解毒剤,=kontrau^veneno
 antifon/o⟦抗声/o⟧:【楽】交唱（聖歌）
 antifraz/o⟦抗句/o⟧:【修】語意の反用,反語
-antigen/o⟦抗生/o⟧:【医】抗原
+antigen/o⟦抗原/o⟧:【医】抗原
 Antigon/o:【神】アンティゴネ（ギリシア神話、オイディプスの娘）
 Antigv/o-Barbud/o:=>Antigvo kaj Barbudo（アンティグア・バーブーダ）
 Antigv/o kaj Barbud/o⟦Antigv/o 和ᴷ Barbud/o⟧:【国名】アンティグア・バーブーダ（北アメリカ）
@@ -11205,8 +11205,8 @@ fizik/o⟦物理/o⟧:{Ｂ}物理学
 fizik/o/terapi/ist/o⟦物理/o/疗/家/o⟧:理学療法士
 fizik/o/terapi/o⟦物理/o/疗/o⟧:【医】理学療法,物理療法
 fiziografi/o⟦物理志/o⟧:自然地理学,=fizika geografio
-fiziologi/o⟦物理学/o⟧:{Ｏ}生理学
-fiziolog/o⟦物理学家/o⟧:{Ｏ}生理学者
+fiziologi/o⟦生理学/o⟧:{Ｏ}生理学
+fiziolog/o⟦生理学家/o⟧:{Ｏ}生理学者
 fizionomi/ist/o⟦相ᶠᴺ/家/o⟧:人相見
 fizionomi/o⟦相ᶠᴺ/o⟧:{Ｏ}人相,顔つき,容貌,=vizag^aspekto;《転》外観,様相,特徴
 fizioterapi/ist/o⟦物理疗/家/o⟧:=fizikoterapiisto（理学療法士）
@@ -31066,7 +31066,7 @@ polinezi/an/o⟦polinezi/员ᴬ/o⟧:ポリネシア人
 Polinezi/o:{Ｏ}【地名】ポリネシア（太平洋中南部の島々）
 polinom/o:【数】多項式
 Pol/i/o:【国名】=Pollando（ポーランド）
-poliomjelit/o⟦多髓炎/o⟧:【病】ポリオ,急性灰白髄炎,小児麻痺,=infana paralizo
+poliomjelit/o⟦灰髓炎/o⟧:【病】ポリオ,急性灰白髄炎,小児麻痺,=infana paralizo
 polip/ar/o⟦息肉/群/o⟧:【動】ポリプ母体
 polip/o⟦息肉/o⟧:{Ｏ}【動】ポリプ;【医】ポリープ,茸腫（じょうしゅ）
 polipoz/o⟦息肉症/o⟧:【病】ポリープ症
@@ -47823,7 +47823,7 @@ fitolak/o⟦草ᶠᴸ/o⟧:【植】【PIV】G. (Genro) (Phytolacca el fitolakac
 fizali/o:【動】【PIV】G. (Genro) (Physalia) de kolonie vivantaj kniduloj, kies kolonio estas portata de granda, gasplena sako nag^anta sur la akvosurfaco; tre venenaj. Sin. (sinonimo) portugala milits^ipo.
 fizalid/o⟦茄ᶠ/o⟧:【植】【PIV】G. (Genro) (Physalis el solanacoj) de unu-k plur-jaraj herboj kun funelkorolaj, blanketaj au^ bluetaj floroj, kies kaliko c^e maturig^o s^velas en membranecan, angulan vezikon, kiu fine enhavas globan beron; kosmopolita g. (genro) de c^. (c^irkau^) 80 sp-oj (specioj), i.a. (interalie, inter aliaj) alkekengo.
 fiziognomik/o:【PIV】Arto difini la karakteron de homo lau^ la trajtoj de lia vizag^o.
-fiziologi/a⟦物理学/a⟧:【PIV】Rilata al fiziologio: fiziologiaj ecoj de la organoj de parolo .
+fiziologi/a⟦生理学/a⟧:【PIV】Rilata al fiziologio: fiziologiaj ecoj de la organoj de parolo .
 flag/et/o⟦旗/小/o⟧:【PIV】Malgranda flago. Vd vimplo.
 flagel/o⟦鞭ᶠ/o⟧:【植】【動】【PIV】Vipoforma filamento, movorgano de diversaj c^eloj, precipe de la unuc^eluloj.
 flagel/ul/oj⟦鞭ᶠ/者/oj⟧:【PIV】Subfilumo (Mastigophora, sin. (sinonimo (de latinscienca nomo)) Flagellata) de unuc^eluloj el la regno de protozooj, iuj sen klorofilo (zoo flageluloj), aliaj kun klorofilo (fito flageluloj), kiujn karakterizas posedo de unu au^ pluraj flageloj: pluraj flageluloj estas homaj parazitoj (lejs^manioj, tripanosomoj k.a. (kaj aliaj)). see ciliuloj, rizopodoj, sporozooj.
@@ -58440,8 +58440,8 @@ pulm/fis^/oj⟦肺/鱼/oj⟧:【PIV】Dipnoj.
 rok/fis^/o⟦岩/鱼/o⟧:【PIV】Kn (Kolektiva nomo) de maraj fis^oj roklog^aj.
 s^lim/fis^/o⟦泥ˢ̂/鱼/o⟧:【PIV】Fis^o, vivanta en marc^egoj, bredlagoj ktp (kaj tiel plu), kies karno havas s^liman guston (ekz. (ekzemple) karpo ks (kaj simile, kaj similaj)).
 kern/fizik/o⟦核/物理/o⟧:【PIV】Branc^o de fiziko pri la leg^oj k konstruo de la atomkernoj.
-plant/fiziologi/o⟦植/物理学/o⟧:【植】【PIV】Fiziologio de la plantoj.
-psik/o/fiziologi/o⟦心ᴾˢ/o/物理学/o⟧:【PIV】Scienco pri la rilatoj inter la psikaj k la fiziologiaj faktoj.
+plant/fiziologi/o⟦植/生理学/o⟧:【植】【PIV】Fiziologio de la plantoj.
+psik/o/fiziologi/o⟦心ᴾˢ/o/生理学/o⟧:【PIV】Scienco pri la rilatoj inter la psikaj k la fiziologiaj faktoj.
 fit/o/flagel/ul/oj⟦植ᶠ/o/鞭ᶠ/者/oj⟧:【動】【PIV】Klaso (Phytomastigophorea) de flageluloj g^enerale klorofilohavaj.
 sulk/o/flagel/ul/oj⟦沟/o/鞭ᶠ/者/oj⟧:【動】【PIV】Ordo (Dinoflagellata) de protozooj el la klaso de fito flageluloj, g^enerale kun du flageloj lokig^intaj en sulkoj (unu en lau^longa, la alia en pli-malpli ekvatora sulko), k vivantaj en sala au^ nesala akvo. Vd alveoluloj.
 zo/o/flagel/ul/oj⟦兽ᶻ/o/鞭ᶠ/者/oj⟧:【動】【PIV】Klaso (Zoomastigophorea) de flageluloj senklorofilaj.
