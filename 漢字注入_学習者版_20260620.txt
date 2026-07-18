@@ -22368,11 +22368,11 @@ lit/kap/o⟦床/头/o⟧:枕元
 lit/korb/o⟦床/篮/o⟧:ベビーかご,ベビーバスケット
 lit/kovr/il/o⟦床/盖/具/o⟧:掛け布団,掛け毛布;ベッドカバー
 lit/o⟦床/o⟧:{Ｂ}ベッド,寝台;寝床;（動物の）ねぐら
-lit/o/graf/aj^/o⟦床/o/记ᴳ/物/o⟧:【印】=litografo（石版印刷物）##偽分解##過細分解 l/i/t/o/graf/aj^/o
-lit/o/graf/i⟦床/o/记ᴳ/i⟧:{Ｏ}［他］【印】石版印刷する,石版刷りにする##偽分解##過細分解 l/i/t/o/graf/i
-lit/o/grafi/o⟦床/o/志ᴳ/o⟧:{Ｏ}【印】石版印刷（術）,リトグラフィー##偽分解##過細分解 l/i/t/o/grafi/o
-lit/o/graf/ist/o⟦床/o/记ᴳ/家/o⟧:【印】石版工,石版師##偽分解##過細分解 l/i/t/o/graf/ist/o
-lit/o/graf/o⟦床/o/记ᴳ/o⟧:【印】石版印刷物;石版画,リトグラフ##偽分解##過細分解 l/i/t/o/graf/o
+lit/o/graf/aj^/o⟦石ᴸ/o/记ᴳ/物/o⟧:【印】=litografo（石版印刷物）##偽分解##過細分解 l/i/t/o/graf/aj^/o
+lit/o/graf/i⟦石ᴸ/o/记ᴳ/i⟧:{Ｏ}［他］【印】石版印刷する,石版刷りにする##偽分解##過細分解 l/i/t/o/graf/i
+lit/o/grafi/o⟦石ᴸ/o/志ᴳ/o⟧:{Ｏ}【印】石版印刷（術）,リトグラフィー##偽分解##過細分解 l/i/t/o/grafi/o
+lit/o/graf/ist/o⟦石ᴸ/o/记ᴳ/家/o⟧:【印】石版工,石版師##偽分解##過細分解 l/i/t/o/graf/ist/o
+lit/o/graf/o⟦石ᴸ/o/记ᴳ/o⟧:【印】石版印刷物;石版画,リトグラフ##偽分解##過細分解 l/i/t/o/graf/o
 litorin/o:【貝】タマキビガイ（属）（玉黍貝）
 lit/o/tabl/et/o⟦床/o/桌/小/o⟧:ベッドサイドテーブル,=noktotablo
 litot/o:【文】緩叙法,曲言法（控えめな言葉で効果を強める修辞法）
@@ -42336,7 +42336,7 @@ Utar-Prades^/o:【地名】ウッタルプラデシ州（インド）
 UTC:［略］=Kunordigita Universala Tempo,協定世界時（原子時に基づく）
 uter/a⟦宫ᵁ/a⟧:子宮の
 uter/a kancer/o⟦宫ᵁ/a 癌/o⟧:【病】子宮がん（癌）
-uter/a mi/om/o⟦宫ᵁ/a 我/瘤/o⟧:【病】子宮筋腫##偽分解(PIV正式分解)##過細分解 uter/a mi/o/m/o
+uter/a mi/om/o⟦宫ᵁ/a 肌/瘤/o⟧:【病】子宮筋腫##偽分解(PIV正式分解)##過細分解 uter/a mi/o/m/o
 uter/a tub/o⟦宫ᵁ/a 管/o⟧:【解】卵管,=ovodukto
 uter/cervik/a kancer/o⟦宫ᵁ/颈ᶜ/a 癌/o⟧:【病】子宮頸がん（癌）
 uter/cervik/o⟦宫ᵁ/颈ᶜ/o⟧:【解】子宮頸部
@@ -45705,8 +45705,8 @@ batik/o:【服】【PIV】Metodo, precipe uzata en Javo, por tinkturi s^tofojn p
 batisfer/o:【PIV】Granda, fortika, log^ebla, subakvigebla sfero au^ sferoido, por observado de la marprofundoj. = batiskaf/o
 batokrom/a:【理】【PIV】Aliiganta la koloron en la direkto al rug^o: iuj atomgrupoj havas batokroman efikon. Vd hipsokroma.
 batolit/o:【地質】【PIV】Granda, pli-malpli ovoida plutono. Vd lakolito.
-bat/o/metr/o⟦打/o/计ᴹ/o⟧:【PIV】Instrumento servanta por mezuri la profundon de akvujoj.##偽分解##強語根分解##過細分解 b/a/t/o/metr/o
-bat/o/metri/o⟦打/o/测ᴹᵀ/o⟧:【PIV】Scienco pri la mezuro de la profundoj.##偽分解##強語根分解##過細分解 b/a/t/o/metri/o
+bat/o/metr/o⟦深ᴮ/o/计ᴹ/o⟧:【PIV】Instrumento servanta por mezuri la profundon de akvujoj.##偽分解##強語根分解##過細分解 b/a/t/o/metr/o
+bat/o/metri/o⟦深ᴮ/o/测ᴹᵀ/o⟧:【PIV】Scienco pri la mezuro de la profundoj.##偽分解##強語根分解##過細分解 b/a/t/o/metri/o
 batrak/o⟦蛙ᴮ/o⟧:【PIV】(ark. (arkaismo, arkaisme)) = amfibio.
 batu/o⟦围猎/o⟧:【PIV】Amasc^asado de bestoj, en kiu servistoj pelas ilin el iliaj kas^ejoj, por ke ili estu trafeblaj de la pafistoj.
 batu/i⟦围猎/i⟧:【PIV】(ntr (netransitiva)) Tiamaniere c^asi.
@@ -48712,7 +48712,7 @@ halih^er/o⟦兽ᴴᴴ̂/o⟧:【PIV】= halikero.
 haliker/o⟦兽ᴴᴸ/o⟧:【動】【PIV】G. (Genro) (Halichoerus) de mamuloj el la subordo de fokuloj, fam. (familio) de fokedoj, kun longa muzelo, vivantaj c^e la marbordoj de N Eu^ropo. Sin. (sinonimo) grizfoko. Vd foko.
 halit/o:【地質】【PIV】Mineralo el kuba natria klorido, NaCl. Sin. (sinonimo) minsalo. Vd salo, evaporito.
 halo!:【PIV】Interj. (Interjekcio), uzata por alvoki telefone.
-halo/fit/o⟦晕/植ᶠ/o⟧:【植】【PIV】Saleja planto.##偽分解##エス的分解##過細分解 h/a/l/o/fit/o
+halo/fit/o⟦盐ᴴ/植ᶠ/o⟧:【植】【PIV】Saleja planto.##偽分解##エス的分解##過細分解 h/a/l/o/fit/o
 haloid/o:【PIV】(ark. (arkaismo, arkaisme)) = halogenido.
 hals/o⟦帆索ᴴ/o⟧:【PIV】Takelo au^ s^nuro c^e la antau^a malsupra angulo de velo, por plistrec^i la antau^an randon. Vd s^koto.
 hals/i⟦帆索ᴴ/i⟧:【PIV】(tr (transitiva)) Strec^i per halso.
@@ -51500,14 +51500,14 @@ listeri/oz/o⟦listeri/症ᴼ/o⟧:【医】【PIV】Sepsemio, kau^zata de liste
 liter/e⟦字/e⟧:【PIV】G^uste, kiel skribite: mi (ombro) litere ricevis karnon k ostojn ; mi simple k litere ofte ne havis ec^ kion mang^i .
 liter/a-cifer/a⟦字/a-数ᶜ/a⟧:【情】【PIV】(pp (se paroli pri) signaro, kodo au^ datenoj) Estanta litero au^ cifero, au^ rilata al literoj au^ ciferoj. -> c^eno.
 litiaz/o⟦结石ᴸ/o⟧:【医】【PIV】Formig^o de s^tonetoj (kalkulusoj) en unu glando, veziko ktp (kaj tiel plu): rena, saliva, lakta, gala, intesta litiazoj. Sin. (sinonimo) gruzmalsano.
-lit/o/logi/o⟦床/o/学ᴸᴳ/o⟧:【地質】【PIV】Parto de petrologio pri la fizikaj karakteroj de la petroj.##偽分解##過細分解 l/i/t/o/logi/o
+lit/o/logi/o⟦石ᴸ/o/学ᴸᴳ/o⟧:【地質】【PIV】Parto de petrologio pri la fizikaj karakteroj de la petroj.##偽分解##過細分解 l/i/t/o/logi/o
 litopon/o:【化】【技】【PIV】Blanka pigmento, miksaj^o de zinka sulfido (ZnS) k baria sulfato (BaSO 4), uzata por la fabrikado de farboj.
 litops/o⟦草ᴸˢ/o⟧:【植】【PIV】G. (Genro) (Lithops el aizoacoj) de plurjaraj, sukulentaj preskau^ sen-tigaj plantoj kun grupo de folioj dau^raj, duopaj, mallongaj, dikaj, obkonusaj; c^. (c^irkau^) 35 sp-oj (specioj) el S Afriko, pluraj pote kultivataj.
 litorn/o⟦鸟ᴸᵀ/o⟧:【動】【PIV】Granda sp. de turdo (Turdus pilaris) kun grizaj verto, kapo k postdorso. Sin. (sinonimo) griza turdo.
-lit/o/sfer/o⟦床/o/球ˢ/o⟧:【地質】【PIV】Supra, rigida tavolego de la terglobo, ampleksanta la kruston k la ekstremsupran parton de la mantelo. Vd astenosfero.##偽分解##過細分解 l/i/t/o/sfer/o
-lit/o/skop/o⟦床/o/镜ˢᴷ/o⟧:【医】【PIV】Ilo, uzata por vidi k mezuri s^tonon en la veziko.##偽分解##過細分解 l/i/t/o/skop/o
+lit/o/sfer/o⟦石ᴸ/o/球ˢ/o⟧:【地質】【PIV】Supra, rigida tavolego de la terglobo, ampleksanta la kruston k la ekstremsupran parton de la mantelo. Vd astenosfero.##偽分解##過細分解 l/i/t/o/sfer/o
+lit/o/skop/o⟦石ᴸ/o/镜ˢᴷ/o⟧:【医】【PIV】Ilo, uzata por vidi k mezuri s^tonon en la veziko.##偽分解##過細分解 l/i/t/o/skop/o
 litosperm/o⟦草ᴸᴿ/o⟧:【植】【PIV】1 (ss (striktasence)) G. (Genro) (Lithospermum el boragacoj) de c^. (c^irkau^) 45 sp-oj (specioj) de unu-k plur-jaraj herboj el la mezvarmaj regionoj. 2 (vs (vastasence)) Litospermo 1 k parencaj g-oj (genroj), herboj, arbustetoj k arbustoj kun blankaj, flavaj, bluaj au^ violbluaj floroj en skorpioidaj cumoj; c^. (c^irkau^) 55 sp-oj (specioj), kelkaj pororname kultivataj.
-lit/o/tomi/o⟦床/o/切ᵀᴹ/o⟧:【医】【PIV】Fragmentigo k eltiro de s^tono el la urina veziko.##偽分解##過細分解 l/i/t/o/tomi/o
+lit/o/tomi/o⟦石ᴸ/o/切ᵀᴹ/o⟧:【医】【PIV】Fragmentigo k eltiro de s^tono el la urina veziko.##偽分解##過細分解 l/i/t/o/tomi/o
 litotrici/o:【医】【PIV】Disrompo de s^tono en la urina veziko, por ke g^i elfluu kune kun la urino.
 litrum/o⟦草ᴸᴹ/o⟧:【植】【PIV】G. (Genro) (Lythrum el litrumacoj) de unu-k plur-jaraj herboj - iuj malsupraparte lignecaj - kun purpuraj, rozaj au^ blankaj periginaj floroj en verticiloj arig^intaj en apeksajn spikojn, k kun dukameraj kapsuloj multasemaj; kosmopolita g. (genro) de c^. (c^irkau^) 35 sp-oj (specioj), i.a. (interalie, inter aliaj) salikario.
 Litv/an/o:【PIV】Log^anto de tiu iama regno, kiu g^is 1915 restis, sendependa de la Pola Reg^olando, sub la rusa regado: Z. estis Litvano, sed ne litovo.
@@ -52003,8 +52003,8 @@ mezur/ist/o⟦测/家/o⟧:【PIV】Tiu, kiu faras la mezuraj^on de konstruaj^o.
 ##重複語lau^/mezur/e:【PIV】Proporcie, kiel…: lau^mezure, kiel vi pagos, vi estos honorata.
 mi/o⟦肌/o⟧:【解】【医】【生】【PIV】Muskolo (en kunmetaj^oj): mialgio, miastenio, miofibretoj, miofibrito, mioglobino, miokardio, miosarkomo.
 mi/it/o⟦肌/炎ᵀ/o⟧:【医】【PIV】Inflamo de la muskola histo.##偽分解(PIV正式分解)
-mi/om/o⟦我/瘤/o⟧:【医】【PIV】Muskola tumoro.##偽分解(PIV正式分解)##過細分解 mi/o/m/o
-mi/on/o⟦我/分/o⟧:【生】【PIV】Funkcia unuo de la muskolo.##偽分解(PIV正式分解)##過細分解 mi/o/n/o
+mi/om/o⟦肌/瘤/o⟧:【医】【PIV】Muskola tumoro.##偽分解(PIV正式分解)##過細分解 mi/o/m/o
+mi/on/o⟦肌/分/o⟧:【生】【PIV】Funkcia unuo de la muskolo.##偽分解(PIV正式分解)##過細分解 mi/o/n/o
 mi/o/pati/o⟦肌/o/病ᴾ/o⟧:【PIV】Grava, hereda muskola atrofio.##偽分解(PIV正式分解)
 mi/aj^/o⟦我/物/o⟧:【PIV】Tio, kio apartenas al mi au^ koncernas min: mi faris la miaj^on, la rabado estas via afero! .
 micel/o:【理】【化】【PIV】Multmolekula (10 ^−8 −0,3. 10 ^−6 m dimensia) ero de koloido en koloida solvaj^o: sapo formas micelojn en akvo, kiuj kaptas malpuraj^ojn k suspensiigas ilin.
@@ -58782,7 +58782,7 @@ hetero/glob/in/o⟦异ᴴ/球ᴳ/in/o⟧:【化】【生】【PIV】Heteroprotei
 hemoglobin/emi/o⟦hemoglobin/血ᴱ/o⟧:【医】【PIV】C^eesto de hemo globino en la sangoplasmo au^ resp. (respektive) en la urino, pro hemolizo.##偽分解(PIV正式分解)
 hemoglobin/uri/o⟦hemoglobin/尿/o⟧:【医】【PIV】C^eesto de hemo globino en la sangoplasmo au^ resp. (respektive) en la urino, pro hemolizo.##偽分解(PIV正式分解)
 mam/glob/oj⟦乳ᴹ/球ᴳ/oj⟧:【PIV】Junag^aj rondaj mamoj.
-mi/o/glob/in/o⟦我/o/球ᴳ/in/o⟧:【化】【生】【PIV】Muskol globino.##偽分解(PIV正式分解)
+mi/o/glob/in/o⟦肌/o/球ᴳ/in/o⟧:【化】【生】【PIV】Muskol globino.##偽分解(PIV正式分解)
 muskol/glob/in/o⟦筋/球ᴳ/女/o⟧:【PIV】Hetero globino de la striitaj k kora muskoloj, kiu staplas oksigenon. Sin. (sinonimo) mioglobino.##偽分解(PIV正式分解)
 plat/o/glob/o⟦扁/o/球ᴳ/o⟧:【PIV】Mapo, prezentanta au^ la tutan teran globon (tera plat globo), au^ la tutan c^ielan volbon (c^iela plat globo). Vd globuso. = plat globo
 regn/o/glob/o⟦国ᴿ/o/球ᴳ/o⟧:【PIV】Juvelo globforma, insigno de imperieco. Vd sceptro.
