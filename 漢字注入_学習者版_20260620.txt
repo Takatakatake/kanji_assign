@@ -14915,7 +14915,7 @@ ignor/ant/e⟦忽/在/e⟧:無視して
 ignor/ebl/a⟦忽/可/a⟧:無視できる
 ignor/i⟦忽/i⟧:{Ｂ}［他］（意図的に）無視する,見ないふりをする,知らないふりをする,>>neglekti
 igvan/o⟦龙ᴵ/o⟧:【動】イグアナ（属）
-igvanodont/o:【古生】イグアノドン,禽竜（きんりゅう）
+igvan/odont/o⟦龙ᴵ/odont/o⟧:【古生】イグアノドン,禽竜（きんりゅう）##偽分解##エス的分解
 -ig^-⟦成⟧:{Ｂ}［接尾辞］（自動詞を作る）,>>movig^i,>>s^tonig^i
 ig^/i⟦成/i⟧:［自］〜になる,>>farig^i
 ih^tiokol/o:{Ｏ}=iktiokolo,=fis^gluo（魚膠）
@@ -45073,7 +45073,7 @@ ankr/um/i⟦锚/um/i⟧:【PIV】(ntr (netransitiva)) Esti ankrita c^e ankrejo.
 anksi/o⟦忧虑/o⟧:【医】【PIV】Stato de psika perturbo k agitig^o: maltrankvileco, anksio k angoro estas tri gradoj de unu sama stato.
 anksi/a⟦忧虑/a⟧:【PIV】1 Rilata al anksio. 2 Sentanta au^ prezentanta anksion.
 anobi/ed/oj⟦虫ᴬᴺ/科ᴱ/oj⟧:【動】【PIV】Fam. (Familio) (Anobiidae) de insektoj el la ordo de koleopteroj, kies larvoj k plenkreskuloj boras en morta ligno, k al kiu apartenas i.a. (interalie, inter aliaj) anobio k ksestobio.
-anodont/o⟦贝ᴬ/o⟧:【動】【PIV】G. (Genro) (Anodonta) de duvalvaj moluskoj kun maldikaj, sendentaj konkovalvoj, k vivantaj en sensalaj akvoj.
+an/odont/o⟦无ᴬ/odont/o⟧:【動】【PIV】G. (Genro) (Anodonta) de duvalvaj moluskoj kun maldikaj, sendentaj konkovalvoj, k vivantaj en sensalaj akvoj.##偽分解##エス的分解##過細分解 a/n/odont/o
 an/oks/emi/o⟦无ᴬ/氧ᴼᴷ/血ᴱ/o⟧:【生】【医】【PIV】Manko de oksigeno en sango.##偽分解##過細分解 a/n/oks/emi/o
 an/oksi/o⟦无ᴬ/氧/o⟧:【生】【医】【PIV】Manko de oksigeno en histoj.##偽分解##過細分解 a/n/oksi/o
 anon/o⟦木ᴬ/o⟧:【植】【PIV】G. (Genro) (Annona el anonacoj) de arboj k trunkarbustoj kun unu-au^ malmult-opaj floroj k kun fruktoj (pluroblaj beroj), devenantaj el la kunig^o de karpeloj po multaj; tropika g. (genro) de 137 sp-oj (specioj) el Afriko k Ameriko, pluraj kultivataj en la tropikaj regionoj por mang^eblaj fruktoj, i.a. (interalie, inter aliaj) c^erimolio, graviolo k sukerpomarbo.
@@ -46767,7 +46767,7 @@ di/morf/ism/o⟦二ᴰᴵ/形ᴹ/主义/o⟧:【PIV】= duformismo.##偽分解(P
 Dinar/a:【PIV】Rilata al la U regiono de Balkanoj: la Dinaraj Alpoj (16°30′E, 44°N).
 ding/o⟦兽ᴰ/o⟧:【動】【PIV】Sovag^a Au^stralia hundo (Canis lupus dingo), el la g. (genro) kaniso, enkondukita antau^ c^. (c^irkau^) 4000 j.
 dinornit/form/aj⟦恐鸟/形/aj⟧:【動】【PIV】Ordo (Dinornithiformes) de ekstermitaj, grandegaj, senkarinaj birdoj.
-diodont/o⟦鱼ᴰ/o⟧:【動】【PIV】G. (Genro) (Diodon) de globformaj tropikaj marfis^oj, kies skvamoj formas longajn pikilojn.
+di/odont/o⟦神/odont/o⟧:【動】【PIV】G. (Genro) (Diodon) de globformaj tropikaj marfis^oj, kies skvamoj formas longajn pikilojn.##偽分解##エス的分解##過細分解 d/i/odont/o
 Diodor/o:【PIV】Vira nomo, i.a. (interalie, inter aliaj) de helena historiisto (1a jc (jarcento) a.K. (antau^ Kristo)).
 Diofant/o:【PIV】Greka matematikisto (c^. (c^irkau^) 246− c^. (c^irkau^) 330).
 diofant/a:【数】【PIV】a) (pp (se paroli pri) ekvacio) Havanta entjerajn au^ racionalajn nekonatojn. b) (pp (se paroli pri) proksimumigo) Tia, ke oni serc^as racionalajn proksimumajn solvojn.
@@ -51845,7 +51845,7 @@ medol/ektomi/o⟦髓ᴹᴰ/除ᴱᴷ/o⟧:【医】【PIV】Desekco de la medola
 medol/pati/o⟦髓ᴹᴰ/病ᴾ/o⟧:【医】【PIV】Kn (Kolektiva nomo) de la afekcioj de la osta medolo. -> mjelopatio.##偽分解(PIV正式分解)
 medol/o/pati/o⟦髓ᴹᴰ/o/病ᴾ/o⟧:【医】【PIV】Kn (Kolektiva nomo) de la afekcioj de la osta medolo. -> mjelopatio.##偽分解(PIV正式分解)
 megalo/⟦巨ᴹ/⟧:【医】【PIV】Pref. (Prefikso), signanta la patologian plivolumenig^on de dukto, organo k (f (figurasence)) psiko: megaloezofago, megalokojlo, megalohepato, megalotimuso, megalomanio.
-megateri/o⟦兽ᴹᴳ/o⟧:【動】【PIV】G. (Genro) (Megatherium), parenca al bradipo, de gigantaj mamuloj, kiuj vivis dum kvaternaro en Ameriko.
+mega/teri/o⟦百万ᴹᴳ/兽ᵀ/o⟧:【動】【PIV】G. (Genro) (Megatherium), parenca al bradipo, de gigantaj mamuloj, kiuj vivis dum kvaternaro en Ameriko.##偽分解##エス的分解
 meger/i⟦悍妇/i⟧:【PIV】Konduti kiel megero: post c^iu fama viro staras virino, kiu lin megeras al c^iam nova, granda venkakiro (lin trude instigas).
 megom/metr/o⟦兆ᴹ/计ᴹ/o⟧:【PIV】Aparato por mezuri tre altajn rezistancojn. Vd izolmetro.##偽分解
 mehar/o⟦赛驼/o⟧:【PIV】Kurdromedaro.
@@ -52413,7 +52413,7 @@ neo/log/ism/em/ul/o⟦新ᴺᴱ/话ᴸ/主义/倾/者/o⟧:【PIV】Homo, kiu em
 neo/plasm/o⟦新ᴺᴱ/浆/o⟧:【医】【PIV】Malsaneca histo, rezultanta el neoplazio. Vd kancero.##偽分解
 neo/plazi/o⟦新ᴺᴱ/生ᴾᴸ/o⟧:【医】【PIV】Formig^o de nova histo per pli-malpli senbrida multoblig^o de nenormalaj c^eloj, kiu kondukas al benigna au^ maligna tumoro: la enkondra histoformig^o estas neoplazio. Vd kancero.##偽分解
 neopren/o:【化】【PIV】Arta kau^c^uko, polimero -(CH2-CCl=CH-CH2)n-de klor-butadieno, CH 2 =CCl-CH=CH 2.
-ne/ornit/oj⟦不/鸟ᴼ/oj⟧:【動】【PIV】Subklaso (Neornithes) de birdoj kun reduktig^inta vosto k parte kunig^intaj fingroj.##偽分解##エス的分解##過細分解 n/e/ornit/oj
+ne/ornit/oj⟦新/鸟ᴼ/oj⟧:【動】【PIV】Subklaso (Neornithes) de birdoj kun reduktig^inta vosto k parte kunig^intaj fingroj.##偽分解##エス的分解##過細分解 n/e/ornit/oj
 neoten/a⟦幼ᴺ/a⟧:【生】【PIV】Konservanta larvajn au^ junecajn karakterojn, kvankam kapabla sin reprodukti: aksoloto estas neotena formo de la Meksika ambistomo.
 neoten/ec/o⟦幼ᴺ/性/o⟧:【PIV】Eco de neotena vivulo.
 neoti/o⟦鸟巢兰/o⟧:【植】【PIV】G. (Genro) (Neottia el orkidacoj) de 9 sp-oj (specioj) de herboj el mezvarmaj Eu^ropo k Azio.
@@ -52845,7 +52845,7 @@ ortodoks/ec/o⟦正统/性/o⟧:【PIV】Eco de io ortodoksa: nediskutebla estas
 ortodoks/ism/o⟦正统/主义/o⟧:【PIV】Ritaro k teologia sistemo de la ortodoksaj eklezioj.
 orto/fon/a⟦直ᴼ/声ᶠᴼ/a⟧:【医】【PIV】(pp (se paroli pri) prononcado) Normala, kontraste kun balbutado k.a. (kaj aliaj) voc^aj perturboj. -> blezi, kartavi, lispi.##偽分解(PIV正式分解)
 orto/fon/ist/o⟦直ᴼ/声ᶠᴼ/家/o⟧:【PIV】Specialisto pri tia traktado.##偽分解(PIV正式分解)
-ort/o/gnat/a⟦直角/o/gnat/a⟧:【解】【PIV】Prezentanta ne antau^en-elstarajn makzelojn. Vd prognata.##偽分解##強語根分解
+ort/o/gnat/a⟦直/o/gnat/a⟧:【解】【PIV】Prezentanta ne antau^en-elstarajn makzelojn. Vd prognata.##偽分解##強語根分解
 orto/grafi/a⟦直ᴼ/志ᴳ/a⟧:【PIV】Rilata al la ortografio: ortografiaj problemoj, duboj.##偽分解
 orto/gram/o⟦直ᴼ/图ᴳᴹ/o⟧:【PIV】= ortangulo.##偽分解(PIV正式分解)##過細分解 orto/g/r/a/m/o
 ortoklaz/o:【地質】【PIV】Mineralo, sp. de kalia feldspato sen kalko, K(AlSi 3 O 8). Vd plagioklazo, aventurino, luns^tono.
@@ -53852,8 +53852,8 @@ profilakt/i⟦防ᴾᴿ/i⟧:【PIV】(tr (transitiva)) = preventi.
 profit/e⟦利ᴾ/e⟧:【PIV】En profita maniero au^ cirkonstanco: estus pli profite por la maljuna paro vendi la c^evalon ; kio vendig^as kas^ite, vendig^as plej profite .
 profit/il/o⟦利ᴾ/具/o⟧:【PIV】Tio, per kio oni povas profiti: tiuj, kiuj vidas en E. nur malvarman provizoran komprenilon k profitilon .
 progesteron/o:【生】【PIV】Steroida hormono, C 21 H 30 O 2, sekreciata de la flava korpo (de la ovario) dum la dua fazo de la oestra ciklo, k preparanta la uteron al eventuala gravedeco.
-pro/gnat/a⟦因ᴾ/gnat/a⟧:【解】【PIV】Prezentanta antau^en-elstara(j)n makzelo(j)n. Vd protruda, ortognata.##偽分解##過細分解 p/r/o/gnat/a
-pro/gnat/ec/o⟦因ᴾ/gnat/性/o⟧:【PIV】Makzela protrudeco: prognateco de la maksiloj, de la mandiblo, de ambau^ makzeloj.##偽分解##過細分解 p/r/o/gnat/ec/o
+pro/gnat/a⟦前ᴾᴼ/gnat/a⟧:【解】【PIV】Prezentanta antau^en-elstara(j)n makzelo(j)n. Vd protruda, ortognata.##偽分解##過細分解 p/r/o/gnat/a
+pro/gnat/ec/o⟦前ᴾᴼ/gnat/性/o⟧:【PIV】Makzela protrudeco: prognateco de la maksiloj, de la mandiblo, de ambau^ makzeloj.##偽分解##過細分解 p/r/o/gnat/ec/o
 prognoz/ik/o⟦预测/学ᴵ/o⟧:【PIV】Arto de la prognozoj.
 program/et/o⟦程/小/o⟧:【情】【PIV】Malgranda programo, plenumata per interpretilo.
 progres/ad/i⟦进/行/i⟧:【PIV】Dau^re progresi: progresadi en c^io brava ; en sia metio li progresadis malrapide .
@@ -54015,7 +54015,7 @@ psoralen/o:【PIV】(kn (kolektiva nomo)) Lumsentiviga substanco uzata en dermat
 psoriaz/o:【医】【PIV】Jukanta dermatozo, karakterizata de rondaj elementoj el blankaj k brilaj skvamoj, facile disig^antaj.
 ps^ent/o:【史】【PIV】Kapvesto de la faraonoj, formita el la du kronoj de la Alta k de la Malalta Egiptujo.
 ptarmik/o⟦菊ᴾᵀ/o⟧:【植】【PIV】Sp. (Specio) de akileo (Achillea ptarmica) el Eu^ropo k Azio, plurjara, terniga herbo kun preskau^ liniformaj, segildentaj folioj k kun paniklo el radiaj kapituloj, havantaj blankajn langetflorojn. Sin. (sinonimo) ternigherbo.
-pteranodont/o⟦龙ᴾᵀ/o⟧:【動】【PIV】G. (Genro) (Pteranodon) de grandaj flugsau^roj, kiuj vivis dum malfrua kretaceo, eltrovitaj en N Ameriko k Rusio. Vd pterodaktilo, ramforinko.
+pter/an/odont/o⟦翅/员ᴬ/odont/o⟧:【動】【PIV】G. (Genro) (Pteranodon) de grandaj flugsau^roj, kiuj vivis dum malfrua kretaceo, eltrovitaj en N Ameriko k Rusio. Vd pterodaktilo, ramforinko.##偽分解##エス的分解##過細分解 pter/a/n/odont/o
 pteraspid/o⟦翼甲/o⟧:【動】【PIV】G. (Genro) (Pteraspis) de fosiliaj senmakzeluloj el la ordo de pteraspidformaj.
 pteraspid/o/form/aj⟦翼甲/o/形/aj⟧:【動】【PIV】Ordo (Pteraspidiformes), fosiliaj antau^uloj de la miksinoj.
 pteraspid/morf/oj⟦翼甲/形ᴹ/oj⟧:【動】【PIV】Klaso (Pteraspidomorphi) de senmakzeluloj, al kiu apartenas la miksinoj.##偽分解(PIV正式分解)
@@ -54023,7 +54023,7 @@ pterid/o/fit/oj⟦羊齿ᴾ/o/植ᶠ/oj⟧:【植】【PIV】Filumo (Pteridophyt
 pterig/o⟦翅ᴾᴳ/o⟧:【動】【PIV】Permuskole movata flugilo de animalo.
 pterig/ul/oj⟦翅ᴾᴳ/者/oj⟧:【動】【PIV】Subklaso (Pterygota) de insektoj, havantaj funkciantajn au^ sekundare reduktig^intajn pterigojn.
 pter/o/brank/oj⟦翅/o/brank/oj⟧:【動】【PIV】Klaso (Pterobranchia) de hemih^orduloj, similantaj al briozooj, sed kun triparta korpo k kun tentakloj k kun dorsa h^ordo limig^inta je la antau^bus^a regiono.##偽分解##エス的分解
-pter/o/daktil/o⟦翅/o/枣/o⟧:【動】【PIV】G. (Genro) (Pterodactylus) de relative malgrandaj, mallongvostaj flugsau^roj el malfrua j^urasio, eltrovitaj en Eu^ropo. Vd pteranodonto, ramforinko.##偽分解##エス的分解
+pter/o/daktil/o⟦翅/o/指ᴰ/o⟧:【動】【PIV】G. (Genro) (Pterodactylus) de relative malgrandaj, mallongvostaj flugsau^roj el malfrua j^urasio, eltrovitaj en Eu^ropo. Vd pteranodonto, ramforinko.##偽分解##エス的分解
 pterokarp/o⟦木ᴾᴱ/o⟧:【植】【PIV】G. (Genro) (Pterocarpus el fabacoj) de c^. (c^irkau^) 20 sp-oj (specioj) de tropikaj, grimpaj arboj; kelkaj log^as en mangrovoj.
 pterokl/o⟦鸟ᴾᴱ/o⟧:【動】【PIV】G. (Genro) (Pterocles), parenca al sirapto, de birdoj vivantaj en duondezertaj au^ stepaj regionoj de N Afriko, S Eu^ropo k U Azio. Vd stepkoko.
 pterop/o⟦兽ᴾᵀ/o⟧:【動】【PIV】G. (Genro) (Pteropus) de mamuloj el la ordo de kiropteroj, grandaj fruktomang^antaj vespertoj, vivantaj en Afriko, Azio k Oceanio; «flughundoj». = pteropod/o

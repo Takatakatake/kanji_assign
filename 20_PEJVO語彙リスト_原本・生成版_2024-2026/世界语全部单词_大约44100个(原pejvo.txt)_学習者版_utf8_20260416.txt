@@ -14915,7 +14915,7 @@ ignor/ant/e:無視して
 ignor/ebl/a:無視できる
 ignor/i:{Ｂ}［他］（意図的に）無視する,見ないふりをする,知らないふりをする,>>neglekti
 igvan/o:【動】イグアナ（属）
-igvanodont/o:【古生】イグアノドン,禽竜（きんりゅう）
+igvan/odont/o:【古生】イグアノドン,禽竜（きんりゅう）##偽分解##エス的分解
 -ig^-:{Ｂ}［接尾辞］（自動詞を作る）,>>movig^i,>>s^tonig^i
 ig^/i:［自］〜になる,>>farig^i
 ih^tiokol/o:{Ｏ}=iktiokolo,=fis^gluo（魚膠）
@@ -45073,7 +45073,7 @@ ankr/um/i:【PIV】(ntr (netransitiva)) Esti ankrita c^e ankrejo.
 anksi/o:【医】【PIV】Stato de psika perturbo k agitig^o: maltrankvileco, anksio k angoro estas tri gradoj de unu sama stato.
 anksi/a:【PIV】1 Rilata al anksio. 2 Sentanta au^ prezentanta anksion.
 anobi/ed/oj:【動】【PIV】Fam. (Familio) (Anobiidae) de insektoj el la ordo de koleopteroj, kies larvoj k plenkreskuloj boras en morta ligno, k al kiu apartenas i.a. (interalie, inter aliaj) anobio k ksestobio.
-anodont/o:【動】【PIV】G. (Genro) (Anodonta) de duvalvaj moluskoj kun maldikaj, sendentaj konkovalvoj, k vivantaj en sensalaj akvoj.
+an/odont/o:【動】【PIV】G. (Genro) (Anodonta) de duvalvaj moluskoj kun maldikaj, sendentaj konkovalvoj, k vivantaj en sensalaj akvoj.##偽分解##エス的分解##過細分解 a/n/odont/o
 an/oks/emi/o:【生】【医】【PIV】Manko de oksigeno en sango.##偽分解##過細分解 a/n/oks/emi/o
 an/oksi/o:【生】【医】【PIV】Manko de oksigeno en histoj.##偽分解##過細分解 a/n/oksi/o
 anon/o:【植】【PIV】G. (Genro) (Annona el anonacoj) de arboj k trunkarbustoj kun unu-au^ malmult-opaj floroj k kun fruktoj (pluroblaj beroj), devenantaj el la kunig^o de karpeloj po multaj; tropika g. (genro) de 137 sp-oj (specioj) el Afriko k Ameriko, pluraj kultivataj en la tropikaj regionoj por mang^eblaj fruktoj, i.a. (interalie, inter aliaj) c^erimolio, graviolo k sukerpomarbo.
@@ -46767,7 +46767,7 @@ di/morf/ism/o:【PIV】= duformismo.##偽分解(PIV正式分解)##過細分解 d
 Dinar/a:【PIV】Rilata al la U regiono de Balkanoj: la Dinaraj Alpoj (16°30′E, 44°N).
 ding/o:【動】【PIV】Sovag^a Au^stralia hundo (Canis lupus dingo), el la g. (genro) kaniso, enkondukita antau^ c^. (c^irkau^) 4000 j.
 dinornit/form/aj:【動】【PIV】Ordo (Dinornithiformes) de ekstermitaj, grandegaj, senkarinaj birdoj.
-diodont/o:【動】【PIV】G. (Genro) (Diodon) de globformaj tropikaj marfis^oj, kies skvamoj formas longajn pikilojn.
+di/odont/o:【動】【PIV】G. (Genro) (Diodon) de globformaj tropikaj marfis^oj, kies skvamoj formas longajn pikilojn.##偽分解##エス的分解##過細分解 d/i/odont/o
 Diodor/o:【PIV】Vira nomo, i.a. (interalie, inter aliaj) de helena historiisto (1a jc (jarcento) a.K. (antau^ Kristo)).
 Diofant/o:【PIV】Greka matematikisto (c^. (c^irkau^) 246− c^. (c^irkau^) 330).
 diofant/a:【数】【PIV】a) (pp (se paroli pri) ekvacio) Havanta entjerajn au^ racionalajn nekonatojn. b) (pp (se paroli pri) proksimumigo) Tia, ke oni serc^as racionalajn proksimumajn solvojn.
@@ -51845,7 +51845,7 @@ medol/ektomi/o:【医】【PIV】Desekco de la medola histo (pp (se paroli pri) 
 medol/pati/o:【医】【PIV】Kn (Kolektiva nomo) de la afekcioj de la osta medolo. -> mjelopatio.##偽分解(PIV正式分解)
 medol/o/pati/o:【医】【PIV】Kn (Kolektiva nomo) de la afekcioj de la osta medolo. -> mjelopatio.##偽分解(PIV正式分解)
 megalo/:【医】【PIV】Pref. (Prefikso), signanta la patologian plivolumenig^on de dukto, organo k (f (figurasence)) psiko: megaloezofago, megalokojlo, megalohepato, megalotimuso, megalomanio.
-megateri/o:【動】【PIV】G. (Genro) (Megatherium), parenca al bradipo, de gigantaj mamuloj, kiuj vivis dum kvaternaro en Ameriko.
+mega/teri/o:【動】【PIV】G. (Genro) (Megatherium), parenca al bradipo, de gigantaj mamuloj, kiuj vivis dum kvaternaro en Ameriko.##偽分解##エス的分解
 meger/i:【PIV】Konduti kiel megero: post c^iu fama viro staras virino, kiu lin megeras al c^iam nova, granda venkakiro (lin trude instigas).
 megom/metr/o:【PIV】Aparato por mezuri tre altajn rezistancojn. Vd izolmetro.##偽分解
 mehar/o:【PIV】Kurdromedaro.
@@ -54015,7 +54015,7 @@ psoralen/o:【PIV】(kn (kolektiva nomo)) Lumsentiviga substanco uzata en dermat
 psoriaz/o:【医】【PIV】Jukanta dermatozo, karakterizata de rondaj elementoj el blankaj k brilaj skvamoj, facile disig^antaj.
 ps^ent/o:【史】【PIV】Kapvesto de la faraonoj, formita el la du kronoj de la Alta k de la Malalta Egiptujo.
 ptarmik/o:【植】【PIV】Sp. (Specio) de akileo (Achillea ptarmica) el Eu^ropo k Azio, plurjara, terniga herbo kun preskau^ liniformaj, segildentaj folioj k kun paniklo el radiaj kapituloj, havantaj blankajn langetflorojn. Sin. (sinonimo) ternigherbo.
-pteranodont/o:【動】【PIV】G. (Genro) (Pteranodon) de grandaj flugsau^roj, kiuj vivis dum malfrua kretaceo, eltrovitaj en N Ameriko k Rusio. Vd pterodaktilo, ramforinko.
+pter/an/odont/o:【動】【PIV】G. (Genro) (Pteranodon) de grandaj flugsau^roj, kiuj vivis dum malfrua kretaceo, eltrovitaj en N Ameriko k Rusio. Vd pterodaktilo, ramforinko.##偽分解##エス的分解##過細分解 pter/a/n/odont/o
 pteraspid/o:【動】【PIV】G. (Genro) (Pteraspis) de fosiliaj senmakzeluloj el la ordo de pteraspidformaj.
 pteraspid/o/form/aj:【動】【PIV】Ordo (Pteraspidiformes), fosiliaj antau^uloj de la miksinoj.
 pteraspid/morf/oj:【動】【PIV】Klaso (Pteraspidomorphi) de senmakzeluloj, al kiu apartenas la miksinoj.##偽分解(PIV正式分解)

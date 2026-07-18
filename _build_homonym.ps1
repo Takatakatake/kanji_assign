@@ -83,7 +83,7 @@ $existing=@(
  @('ur','尿','ur/gener/a,ur/o/gener/a','','uro-(尿)→尿。オーロックスur/o(原牛)は維持。uro/log/uro/grafiは既に尿ᵁᴼ'),
  @('an','无','frid/an/estez/o','','否定接頭an-(=a-,無-)→无。frid/an/estez(冷却麻酔=冷/无/感。anesthesia=無感覚)のanのみ。接尾辞-an-(員=member)は基本形员を維持(word-scoped限定)。2026-07-15 監査是正'),
  @('riz','根','riz/o/morf/o,riz/o/pod/oj','','rhizo-(根)→根。米riz/o(米)·稲riz/kamp/riz/o/spik等は維持。rizom=根茎'),
- @('daktil','指','daktil/o/graf/i,daktil/o/skop/i/o','','dactylo-(指)→指。ナツメヤシdaktil/o(枣)·daktil/o/palm等は維持'),
+ @('daktil','指','daktil/o/graf/i,daktil/o/skop/i/o,pter/o/daktil/o','','dactylo-(指)→指。ナツメヤシdaktil/o(枣)·daktil/o/palm等は維持。2026-07-18 正本過細分解 pterodaktil→pter/o/daktil 露出→追加(pterodactyl翼指=翅/指。daktil→枣ナツメヤシの偽友是正)'),
  @('sperm','种','endo/sperm/o,peri/sperm/o,angi/o/sperm/oj','','-sperma(種·胚乳)→种。angi/o/sperm/oj(被子植物=覆われた種)もgimnosperm裸子(whole-word)・endo/peri/spermと平行に种(2026-07-04 WSL再分解angiosperm→angi/o/sperm露出で精液=semen誤適用を是正)。精液sperm/o(精液)·sperm/o/dukt等は維持'),
  # 結合形フォルスフレンド第4弾(2026-06-21・優先順位/方針 多エージェント監査で検出)。-log-=言葉(話)·-metr-=計器(计)。
  @('log','话','dia/log/a,dia/log/i,dia/log/o,dia/log/oj,dia/log/uj/o,dia/log/ist/o,mono/log/i,mono/log/o,pro/log/o,epi/log/o,neo/log/o,neo/log/ism/o,neo/log/ism/em/o,neo/log/ism/em/ul/o','','-log-(logos=言葉·談話/-logue)→话(parol=话と同字共有)。対話dia/独白mono/序言pro/跋epi/新語neo(neologism=新话)。-logist/-ology=学家(biolog等)·al-de+log=诱は別。katalog=录·analog=似(whole-root)は不変'),
@@ -92,7 +92,7 @@ $existing=@(
  @('metr','测','dia/metr/o,dia/metr/a,du/on/dia/metr/o,peri/metr/o,geo/metr/o,geo/metr/ed/oj','','-metr-(抽象measure=直径/半径/周径/幾何)→测。测の基底mezur(測る)・metri(测ᴹᵀ)と同family。dia/metr=通ᴰ/测「横切って測る」=diameter語源。2026-07-15ユーザー裁定: 幾何geo/metr(=土地を測る)を米→测に移管(地测。シャクガ科geo/metr/edも土地を測る虫で整合)。※pir/geo/metr(pyrgeometer=地表放射を測る計器)は計器ゆえ comb metr→计(火/地/计)に戻す(2026-07-15 監査是正)。長さ単位centi/kilo·詩脚heks/pentaは米sep維持'),
  @('dinam','力','dinam/ism/o,dinam/o/metr/o,elektr/o/dinam/ism/o,elektr/o/dinam/o/metr/o,izo/dinam/o','','希dynamis(力·動力)の力義→力。dynamism力動説/dynamometer力計/electrodynamism電気力学/isodynamic等力線。発電機dinam/o(dynamo)=发电は基本形維持(word-scoped)。dinamik=力(別root力学)と整合。2026-07-15ユーザー裁定=发电の力義取りこぼしを是正'),
  # ギリシャ接頭pro-(前)·ワットwatt(瓦)の同綴是正(2026-06-21追補。/goal監査の据置項目をmerit判断で是正)
- @('pro','前','pro/log/o,pro/faz/o,pro/virus/o','','ギリシャ接頭pro-(前·fore)→前。prologue序言(pro/log⟦前/话⟧)·prophase前相(pro/faz⟦前/相⟧)·provirus前駆ウイルス(pro/virus⟦前/毒⟧)。epi=后と対。エス前置詞pro=因(pro tio因此·proparol代弁·pro/pek贖罪·pro/mort等)は維持(disc不掲載)'),
+ @('pro','前','pro/log/o,pro/faz/o,pro/virus/o,pro/gnat/a,pro/gnat/ec/o','','ギリシャ接頭pro-(前·fore)→前。prologue序言(pro/log⟦前/话⟧)·prophase前相(pro/faz⟦前/相⟧)·provirus前駆ウイルス(pro/virus⟦前/毒⟧)·prognathous前突顎(pro/gnat⟦前/gnat⟧)。epi=后と対。エス前置詞pro=因(pro tio因此·proparol代弁·pro/pek贖罪·pro/mort等)は維持(disc不掲載)。2026-07-18 正本過細分解 prognat→pro/gnat 露出→追加(pro→因理由の偽友是正)'),
  @('vat','瓦','giga/vat/o,kilo/vat/o,mega/vat/o,vat/hor/o,vat/hor/o/metr/o,vat/metr/o,vat/sekund/o,kilo/vat/hor/o,mega/vat/hor/o','','ワットwatt(瓦)→瓦。kilo/vat/hor=キロワット時・mega/vat/hor=メガワット時(2026-06-23 sep派生形網羅)。kilovat/megavat/gigavat/vatmetr電力計/vathor瓦時/vatsekund 等の電力複合。綿vat/o(棉)·suker/vat綿菓子·vat/baston綿棒·vat/it綿入 等は維持(disc不掲載)。bare vat/o=棉&瓦はamb(基本義 棉維持)'),
  # メトロノーム metronomo の同綴是正(2026-06-21。米/名は誤り→计/律。merit判断)。metr語頭idx0でcomb非適用→sepで计(計器)。nom=ギリシャnomos(法/掟)→律(leĝ=律と整合・かつ音律/拍節で楽器に二重適切)
  @('metr','计','metr/o/nom/o','','メトロノームmetr(計器·measure)→计。idx0でcomb metr→计 非適用のためsep明示。長さ単位等の非計器metrは上の米sepで処理'),
