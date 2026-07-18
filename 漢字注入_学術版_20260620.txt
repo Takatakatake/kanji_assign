@@ -24794,7 +24794,7 @@ mefit/o⟦鼠ᴹᶠ/o⟧:【動】シマスカンク（属）;（一般に）ス
 mega-⟦百万ᴹᴳ⟧:［接頭辞］【学】メガ〜（補助単位，＝１００万倍）
 mega/bajt/o⟦百万ᴹᴳ/字节/o⟧:【情】メガバイト（Mb）
 mega/elektron/volt/o⟦百万ᴹᴳ/电子/volt/o⟧:【理】メガ電子ボルト（MeV）
-megafon/o⟦百万声/o⟧:メガホン,拡声器
+megafon/o⟦巨声/o⟧:メガホン,拡声器
 mega/herc/o⟦百万ᴹᴳ/herc/o⟧:【単】メガヘルツ（MHz）
 megalit/a⟦百万石/a⟧:巨石の;巨石文化の
 megalit/a monument/o⟦百万石/a 碑/o⟧:巨石記念物
