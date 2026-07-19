@@ -2,7 +2,7 @@
 # 手法: 学術版/学習者版の両注入出力を行対応で走査。純ラテン語根残渣を集計(794異なり/1437出現)。
 #   厳格フィルタ=「学術版にラテン残渣あり かつ 同一行の学習者版が完全漢字化(ラテン残渣ゼロ)」= 49件。
 #   固有名(§7)は両版ラテンゆえ自動除外される(=真の被覆穴のみ抽出)。
-#   49件を triage: 8件APPLIED(クリーン融合複合語) / 41件HELD(既裁定カテゴリ)。
+#   49件を triage: 13件APPLIED(クリーン融合複合語=round1:8 + round2:5) / 36件HELD(既裁定カテゴリ)。
 # 機構: 学術版whole-word = _p_work.csv k列(P=5 sentinel・band=piv・br=2)。学習者版は別分節ゆえ無影響(diff=0実証)。
 # 全字一级3500内(新字ゼロ)・全て学習者版承認済み分解の忠実鏡像(識別子なしのbare連結)。
 # 検証: _verify_all EXITCODE=0 / [A]原本diff=0×2・学習者diff=0 / [F]★新規0 / [H]churn0活性19 / [I]NEW_REVERSAL=0 / [C]学術53(変更前後で不変=単独群)。
@@ -16,6 +16,12 @@ APPLIED	spirator	息具	器具	spir息+ator具 (inspirator。呼吸器)。学習
 APPLIED	kavator	洞具	器具	kav洞+ator具 (excavator。掘削機。elkavatoro=出/洞具)。学習者版=洞/具ᴬ
 APPLIED	trikomicet	毛菌	生物	triko毛+micet菌 (trichomycete。毛菌症trikomicetozo=毛菌症)。学習者版=毛ᵀ/菌ᴹᶜ
 APPLIED	gametogenez	配子源	生物	gamet配子+genez源 (gametogenesis。配偶子形成)。学習者版=配子/源ᴳ
+# --- round2 (2026-07-20 第23回続): クラスタ精査で誤友リスクなしのクリーン融合根を追加5件 ---
+APPLIED	eritrocitemi	红胞血	血液	eritr红+cit胞+emi血 (erythrocytemia。赤血球増多。hiper/eritrocitemi=超/红胞血)。学習者版=红ᴱ/胞ᶜᴵ/血ᴱ
+APPLIED	granulocitemi	粒胞血	血液	granul粒+cit胞+emi血 (granulocytemia)。学習者版=粒ᴳᴺ/胞ᶜᴵ/血ᴱ
+APPLIED	globulemi	血球血	血液	globul血球+emi血 (globulemia。血球+血症=同字反復可)。学習者版=血球/血ᴱ
+APPLIED	glukogenez	糖源	生化	gluk糖+genez源 (glucogenesis。gametogenez=配子源と平行)。学習者版=糖ᴳᴸ/源ᴳ
+APPLIED	kromodinamik	色力	物理	krom色+dinamik力 (chromodynamics。QCD=量子色力。kvantumkromodinamik=量子/色力)。学習者版=色ᴷᴹ/力ᴰ
 #
 # --- HELD (既裁定カテゴリ・非適用) ---
 HELD	senestez	(无感)	同義衝突	anestez=无感が既存。sen-/an-=無の同義ゆえ2員群化(識別子付与)になる=churn回避で今回除外。無感ˢ化は可だが要裁定
@@ -26,5 +32,5 @@ HELD	riboz	(醋栗糖)	誤友除外	rib≠スグリ(醋栗)。第10回でREJECT�
 HELD	kromiat	(金盐)	誤友除外	515ec91で誤友除外6件の一つ
 HELD	litograf/vulkaniz	(石记/火山化)	誤友除外	515ec91 誤友除外(綴り衝突で他語巻き込みриск)
 HELD	ioni/kolombi/liberi/mali/rom	(同綴トラップ)	固有名	Ionian/Colombian/Liberian/Malian/Roman。学習者版が同綴別語(离子/鸽/自由/反/小说)で偶然漢字化=充填すると誤友。§7ラテン維持
-HELD	eritrocitemi/granulocitemi/globulemi	(血液病理)	稀・要検討	-emi=血。忠実鏡像は可(红胞血/粒胞血/血球血)だが稀な病理語ゆえ今回保留・要裁定
-HELD	glukogenez/kromodinamik/ombropolarimetr/malbon/ciklo/poliobulbit/fibrit	(境界)	保留	化学近接/物理/稀/句レベル人工物/粗分節artifact。要個別裁定
+HELD	ombropolarimetr/malbon/ciklo/poliobulbit/fibrit	(境界)	保留	長複合/句レベル人工物(malbon反良=句中形容詞)/粗分節artifact(poliobulbit)/fibritはmi=我偽友を伴う(要別途)。個別裁定
+# (round2で eritrocitemi/granulocitemi/globulemi/glukogenez/kromodinamik を APPLIED に昇格=誤友リスクなし・全字一级・忠実鏡像と確認)

@@ -58048,7 +58048,7 @@ muel/dig/o⟦磨/拦/o⟧:【PIV】Digo 2, konstruita por apartigi de rivero la 
 mal/dik/ec/o⟦反/厚/性/o⟧:【PIV】Kvalito de io maldika: la maldikeco de s^ia talio estis nekredebla; maldikeco de cigaredfolio.
 mal/diligent/i⟦反/勤/i⟧:【PIV】Ne emi agi, esti malpenema, nenion faradi.
 ko/dimensi/o⟦ko/维/o⟧:【数】【PIV】(pp (se paroli pri) subspaco F de vektora spaco E) La minimuma dimensio de spaco G, kiu kune kun F determinas c^iujn punktojn de la spaco E: la kodimensio de F egalas al la dimensio de la kvocienta spaco E/F.
-kvantum/kromodinamik/o⟦量子/kromodinamik/o⟧:【PIV】Kampteorio, pri la forta nuklea interago.
+kvantum/kromodinamik/o⟦量子/色力/o⟧:【PIV】Kampteorio, pri la forta nuklea interago.
 lotus/diospir/o⟦莲/柿ᴰ/o⟧:【PIV】(D. lotus), el Azio, kun flavaj, mang^eblaj beroj maturstadie nigrig^antaj, 1−2 cm (centimetro) diametraj.
 lau^/dir/a⟦按/说/a⟧:【PIV】Asertata, sed ne certa: lau^dira titolo de nobeleco; lia lau^dira motivo.
 ne/dir/ebl/a⟦不/说/可/a⟧:【PIV】Tia, ke oni ne povas au^ devus g^in diri. Vd neesprimebla.
@@ -58207,7 +58207,7 @@ pec^/erc/o⟦沥青ᴾ/矿ᴱ/o⟧:【PIV】Uraninito.
 plumb/erc/o⟦铅/矿ᴱ/o⟧:【PIV】C^iu mineralo ric^a je plumbo k industrie ekspluatata. Vd ceruzito, galeno.
 zink/erc/o⟦锌/矿ᴱ/o⟧:【PIV】Mineralo (precipe smiconito), uzata por ekstraktado de zinko. Vd sfalerito.
 sekal/ergot/o⟦黑麦/麦角/o⟧:【PIV】Ergoto de sekalo.
-hiper/eritrocitemi/o⟦超/eritrocitemi/o⟧:【医】【PIV】Enesto de tro da eritrocitoj en la sango. Vd hiperglobulemio.
+hiper/eritrocitemi/o⟦超/红胞血/o⟧:【医】【PIV】Enesto de tro da eritrocitoj en la sango. Vd hiperglobulemio.
 kontrau^/ermen/o⟦对/鼠ᴱ/o⟧:【PIV】Sabla ermeno kun arg^entaj makuloj.
 sen/esenc/a⟦无/质/a⟧:【PIV】Ne havanta realaj^on, pozitivan enhavon.
 kus^/eskar/oj⟦躺/焦疤/oj⟧:【PIV】Vundokrustoj, kau^zitaj de kutima kus^ado dum longa malsano.
@@ -58787,7 +58787,7 @@ muskol/globin/o⟦筋/珠蛋白/o⟧:【PIV】Hetero globino de la striitaj k ko
 plat/o/glob/o⟦扁/o/球ᴳ/o⟧:【PIV】Mapo, prezentanta au^ la tutan teran globon (tera plat globo), au^ la tutan c^ielan volbon (c^iela plat globo). Vd globuso. = plat globo
 regn/o/glob/o⟦国ᴿ/o/球ᴳ/o⟧:【PIV】Juvelo globforma, insigno de imperieco. Vd sceptro.
 sang/o/globin/o⟦血/o/珠蛋白/o⟧:【化】【生】【PIV】Hemo globino 1.
-hiper/globulemi/o⟦超/globulemi/o⟧:【医】【PIV】Enesto de tro da globuloj en la sango; troglobuleco. Vd hipereritrocitemio.
+hiper/globulemi/o⟦超/血球血/o⟧:【医】【PIV】Enesto de tro da globuloj en la sango; troglobuleco. Vd hipereritrocitemio.
 gama/globulin/oj⟦gama/球蛋白/oj⟧:【生】【医】【PIV】Grupo de sero globulinoj, kiu ampleksas la plej multajn antikorpojn de la sango: gama globulinoj grave rolas en la defendo de la organismo kontrau^ la infektoj k estas uzataj en terapio.
 imun/o/globulin/o⟦免/o/球蛋白/o⟧:【生】【医】【PIV】Antikorpo.
 al/glu/ig^/a⟦向/胶/成/a⟧:【PIV】Ema algluig^i: la algluig^a forto. Vd adheri.
@@ -58795,7 +58795,7 @@ kun/glu/aj^/o⟦共/胶/物/o⟧:【楽】【PIV】Verko, en kiun estas enkonduk
 re/glu/i⟦再/胶/i⟧:【PIV】Denove al glui, kunglui: pecon detranc^itan al la pano ne re gluu .
 trans/glu/ebl/a⟦越/胶/可/a⟧:【PIV】Tia, ke oni povas g^in transmeti per gluado: trans gluebla bildo.
 mal/glukoliz/o⟦反/糖解/o⟧:【生】【化】【PIV】Estig^o de glukozo el piruvata k.a. (kaj aliaj) malgrandaj organikaj acidoj per reakcioj grandparte inversaj al tiuj de glukolizo.
-nov/glukogenez/o⟦新/glukogenez/o⟧:【生】【化】【PIV】Estig^o de glukozo el piruvata k.a. (kaj aliaj) malgrandaj organikaj acidoj per reakcioj grandparte inversaj al tiuj de glukolizo.
+nov/glukogenez/o⟦新/糖源/o⟧:【生】【化】【PIV】Estig^o de glukozo el piruvata k.a. (kaj aliaj) malgrandaj organikaj acidoj per reakcioj grandparte inversaj al tiuj de glukolizo.
 radi/o/goniometr/o⟦射ᴿ/o/角计/o⟧:【PIV】Ricevilo, ekipita per turnebla kadra anteno, k servanta por esplori la direkton de radiosendiloj. Vd radiobirilo.
 en/gorg^/ig/i⟦内/喉/使/i⟧:【PIV】Enigi en la gorg^on: Jug^isto L. engorg^igis la lastan gluton da kafo E.
 blu/gorg^/ul/o⟦蓝/喉/者/o⟧:【動】【PIV】Sp. (Specio) (Luscinia svecica) de birdo el la ordo de paseroformaj, fam. (familio) de turdedoj, kies virbesto havas bluan gorg^on kun rustrug^a au^ blanka makulo en la mezo.
@@ -58818,8 +58818,8 @@ ne/grand/a⟦不/大/a⟧:【PIV】Relative meza, nek granda nek malgranda: ni h
 tro/grand/a⟦太/大/a⟧:【PIV】Ekscesa: tro granda dezirado .
 tro/grand/ig/i⟦太/大/使/i⟧:【PIV】Preterpasi la g^ustan gradon: la raporto trograndigis la dang^eron ; la nombro estas evidenta trograndigo. Rim. (Rimarko) grand estas uzata kiel pref. (prefikso) kun la signifo «apartenanta al la kategorio de grandaj aferoj»: grandsinjoro, grandkomercisto , grandnegocisto , grandurbo, grandindustrio, grandlibro, grandmajstro; k malgrand same, kun geografia signifo, en: Malgrand-Azio, Malgrandruso .
 tuberkul/granul/oz/o⟦结ᵀ/粒ᴳᴺ/症ᴼ/o⟧:【PIV】Akuta miliara tuberkulozo.
-hiper/granulocitemi/o⟦超/granulocitemi/o⟧:【PIV】Resp. (Respektive) tro granda au^ ne sufic^e granda kvanto de granulocitoj en la sango.
-hipo/granulocitemi/o⟦亚/granulocitemi/o⟧:【PIV】Resp. (Respektive) tro granda au^ ne sufic^e granda kvanto de granulocitoj en la sango.
+hiper/granulocitemi/o⟦超/粒胞血/o⟧:【PIV】Resp. (Respektive) tro granda au^ ne sufic^e granda kvanto de granulocitoj en la sango.
+hipo/granulocitemi/o⟦亚/粒胞血/o⟧:【PIV】Resp. (Respektive) tro granda au^ ne sufic^e granda kvanto de granulocitoj en la sango.
 tro/gras/ig^/i⟦太/脂/成/i⟧:【PIV】Ig^i tro grasdika.
 lan/gras/o⟦毛ᴸ/脂/o⟧:【化】【PIV】Lanolino.
 s^mir/gras/o⟦涂/脂/o⟧:【PIV】Grasa korpo, uzata por s^miri (mas^inojn ks (kaj simile, kaj similaj)).

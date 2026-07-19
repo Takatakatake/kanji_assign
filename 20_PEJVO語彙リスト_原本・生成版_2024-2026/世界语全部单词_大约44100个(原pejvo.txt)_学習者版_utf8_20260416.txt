@@ -2805,7 +2805,7 @@ au^str/a:オーストリアの
 Au^stral/a Fis^/o:【天】みなみのうお座
 Au^stral/a Kron/o:【天】みなみのかんむり座
 Au^stral/a Tri/angul/o:【天】みなみのさんかく座
-Au^stral/azi/o:【地名】オーストララシア（オーストラリア・ニュージーランド及び南太平洋の島々を含む地域）##偽分解(PIV正式分解)
+Au^stralazi/o:【地名】オーストララシア（オーストラリア・ニュージーランド及び南太平洋の島々を含む地域）
 au^strali/a:オーストラリアの
 au^strali/an/o:オーストラリア人
 Au^strali/o:{Ｂ}【国名】オーストラリア（大洋州）
