@@ -20,7 +20,7 @@ APPLIED	diplopod	板障足->双足	[倍足綱Diplopoda。同上diplo=double誤�
 ## 要精査(agent確定だが未適用=専用パス推奨)。分類: CHEM=化学(評価のみ) / REVIEW=衝突/誤読候補(字選び要) / SOFT=解釈可能・過剰flag
 REVIEW	au^l	礼堂->大講堂	[（大学などの式典用）大講堂,大ホール]
 REVIEW	aerodrom	气道->气场	[飛行場,=flugkampo]
-REVIEW	aklimatiz	无气候化->适气候化	[= alklimatigi（順化させる/acclimatize）]
+HELD	aklimatiz	无气候化(据置)	[是正保留=技術的障害。分析上は a=al-/ad-→向 が正(逆意wrong-morpheme:无气候化=without-climate)だが、learner sep a→向 が識別子 a2(数字)を生成し _homonym_disp.ps1 が throw(sep/comb数字id禁止。向はalが既にbare保持で1字根aがbare奪取不可→数字fallback)。学術のみ是正すると学習者(无)と逆意矛盾ゆえ両版据置。稀PIV変種で標準 alklimatigi=向/气候/使 は正描画済=実害小。将来: 1字privative根aのhomograph sepは識別子系が非対応]
 REVIEW	akrocianoz	锐青症->末青症	[Blua koloro de la ekstremajxoj（四肢末端の青変/a]
 REVIEW	akronim	锐名->首字名	[Vorto konsistanta el la komencliteroj（頭字]
 REVIEW	klau^str	修院->回廊	[=klostro（回廊）]
