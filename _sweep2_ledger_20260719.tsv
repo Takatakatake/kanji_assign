@@ -7,6 +7,16 @@ APPLIED	antigen	抗生->抗原	[抗原]
 APPLIED	poliomjelit	多髄炎->灰髄炎	[ポリオ, 急性灰白髄炎, 小児麻痺]
 APPLIED	fiziologi	物理学->生理学	[生理学]
 
+## 適用(第18回パス 2026-07-19: 同字逆意衝突 + wrong-morpheme誤読のみ) = 語根4
+APPLIED	au^tokrat	自治->专制	[autocracy専制。autonomi自治(自律=逆意)と同字衝突を解消。despot专制と同義語group=despot基本形/autokrat=专制ᴬ識別子(PEJVO先despot・PIV後autokrat=層順保持)。学術版whole-word k列のみ。学習者版はau^t/o/krat=自ᴬ/治ᴷ faithful mirror維持(偽分解尊重)。au^tokratism=专制主义も自動是正]
+APPLIED	au^tokrati	自治->专制	[autocracy(-i形)同上]
+APPLIED	diplokok	板障菌->双菌	[双球菌Diplococcus。diplo=double(διπλόος)をdiploe板障(頭蓋海綿骨層)の同綴誤読から是正=polio灰型のwrong-morpheme。両版=新sep diplo→双(word-scoped diplo/kok/o,diplo/pod/oj)+学術k列。標準diplo/o=板障(diploe)/diploid二倍/diplomat交/diplom证は不干渉]
+APPLIED	diplopod	板障足->双足	[倍足綱Diplopoda。同上diplo=double誤読の是正]
+
+## ★原則(第18回で明確化・重要): 分解鏡像は faithful mirror を維持し、是正は(1)同字が逆意で衝突・(2)wrong-morpheme誤読(同綴別義の誤選択) の2種のみ
+# -ism→主义(organism器主义[有機体]/astigmatism散光主义[乱視]/au^tism自主义[自閉症]/vaginism阴道主义/paroksism极主义/atavism祖主义 等)は faithful mirror(stem正+接尾-ism固定master主义)ゆえ KEEP=据置。organizaci=器化(idiomatic组を不採用)と同じユーザー方針。分解-ism(albin/ism白/主义・brom/ism卤/主义等)はなおさら偽分解尊重で不可侵。
+# 過去4系(antigen/fiziologi/poliomjelit)も「衝突or wrong-morpheme」ゆえ是正した=idiomatic不一致だけでは是正しない(faithful mirrorは維持)。
+
 ## 要精査(agent確定だが未適用=専用パス推奨)。分類: CHEM=化学(評価のみ) / REVIEW=衝突/誤読候補(字選び要) / SOFT=解釈可能・過剰flag
 REVIEW	au^l	礼堂->大講堂	[（大学などの式典用）大講堂,大ホール]
 REVIEW	aerodrom	气道->气场	[飛行場,=flugkampo]
@@ -16,15 +26,15 @@ REVIEW	akronim	锐名->首字名	[Vorto konsistanta el la komencliteroj（頭字
 REVIEW	klau^str	修院->回廊	[=klostro（回廊）]
 REVIEW	astigmatism	散光主义->散光症	[乱視]
 REVIEW	au^tobiografi	自生志->自叙志	[自伝]
-REVIEW	au^tokrati	自治->専制	[専制政治]
+DONE18	au^tokrati	自治->专制	[適用済=第18回section参照]
 REVIEW	bolometr	沸計->輻計	[Aparato por mezuri temperaturojn（熱放射・温度測]
 REVIEW	deism	从主义->神主义	[理神論（神が理性によって知られるとする哲学）]
 REVIEW	deist	从家->神家	[理神論者]
 REVIEW	demonstrativ	证被能->指示性	[指示詞（this/thatなどの指示語）]
 REVIEW	bibliofil	经爱->书爱	[愛書家（本を愛する人）]
 REVIEW	diafanoskopi	透镜->透映机	[スライド投影器]
-REVIEW	diplokok	板障菌->双球菌	[双球菌属(Diplococcus)]
-REVIEW	diplopod	板障足->双対足	[ヤスデ綱(各体節に2対の脚)]
+DONE18	diplokok	板障菌->双菌	[適用済=第18回section参照。双菌(morpheme mirror。idiomatic双球菌でなくkok=菌)]
+DONE18	diplopod	板障足->双足	[適用済=第18回section参照]
 REVIEW	elektroskop	电镜->验电器	[検電器]
 REVIEW	epifenomen	表现->副现象	[付随現象(epiphenomenon)]
 REVIEW	eksponometr	展计->露计	[露出計(露光計)]
@@ -67,7 +77,7 @@ REVIEW	superpozici	上位->叠加	[重ね合せ（物理：superposition）]
 REVIEW	termogenez	热源->热生	[熱産生（生物の体熱産生過程）]
 CHEM	titanat	金盐->钛盐	[チタン酸塩（HTiOの塩）]
 REVIEW	vaginism	阴道主义->阴道痉	[膣痙攣（ちつけいれん）]
-CHEM	au^tokrat	自治->自権	[専制君主]
+DONE18	au^tokrat	自治->专制	[適用済=第18回section参照。旧ledgerのCHEM/自権ラベルは誤り]
 REVIEW	demoraliz	从德化->损德化	[士気をくじく、意気阻喪させる]
 CHEM	deoksi	从氧->脱氧	[酸素原子が欠けている（脱酸素）接頭辞]
 REVIEW	izoton	等调->等渗	[等浸透圧の（isotonic）]

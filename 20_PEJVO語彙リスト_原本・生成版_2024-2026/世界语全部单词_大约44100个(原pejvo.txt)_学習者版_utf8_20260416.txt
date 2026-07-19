@@ -25930,7 +25930,7 @@ monak/in/o:【宗】=monah^ino（修道女）
 monak/o:【宗】=monah^o（修道士）
 Monak/o:【国名】モナコ（欧州）
 Monak/o:【地名】モナコ（モナコの首都）
-monarh^i/o:{Ｏ}=monarkio（君主制）
+monarh^/i/o:{Ｏ}=monarkio（君主制）
 monarh^/o:{Ｏ}=monarko（君主）
 monark/i/o:{Ｏ}君主制,君主政治,王政;君主国
 monark/ism/o:君主制主義,王政主義
@@ -28354,7 +28354,7 @@ ole/um/i:［他］=olei
 ole/um/il/o:【機】油差し
 oliban/arb/o:【植】ニュウコウジュ（乳香樹）
 oliban/o:【植】乳香
-oligarh^i/o:{Ｏ}=oligarkio
+oligarh^/i/o:{Ｏ}=oligarkio
 oligarh^/o:{Ｏ}=oligarko
 oligark/i/o:{Ｏ}【政】寡頭制,寡頭政治
 oligark/o:{Ｏ}【政】寡頭制の支配者,少数独裁者

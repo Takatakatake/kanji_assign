@@ -2842,9 +2842,9 @@ au^tografi/o⟦自志/o⟧:【印】肉筆印刷術
 au^tograf/o⟦自记/o⟧:{Ｏ}自筆,自筆原稿,=memskribaj^o
 au^t/o/industri/o⟦车/o/业/o⟧:自動車産業
 au^t/o/korn/o⟦车/o/角ᴷ/o⟧:【車】警笛,クラクション,=hupo
-au^tokrati/o⟦自治ᴬᵁ̆/o⟧:{Ｏ}【政】専制政治
-au^tokrat/ism/o⟦自治ᴬᴷ/主义/o⟧:【政】専制主義
-au^tokrat/o⟦自治ᴬᴷ/o⟧:{Ｏ}専制君主
+au^tokrati/o⟦专制ᴬᴵ/o⟧:{Ｏ}【政】専制政治
+au^tokrat/ism/o⟦专制ᴬ/主义/o⟧:【政】専制主義
+au^tokrat/o⟦专制ᴬ/o⟧:{Ｏ}専制君主
 au^tokton/o⟦原住/o⟧:=pralog^anto（原住民）
 au^tomaci/o⟦动ᴬᶜ/o⟧:【機】オートメーション
 au^tomat/a⟦动ᴬ/a⟧:自動式の;《転》機械的な
@@ -25930,7 +25930,7 @@ monak/in/o⟦僧ᴹᴷ/女/o⟧:【宗】=monah^ino（修道女）
 monak/o⟦僧ᴹᴷ/o⟧:【宗】=monah^o（修道士）
 Monak/o:【国名】モナコ（欧州）
 Monak/o:【地名】モナコ（モナコの首都）
-monarh^i/o⟦君主ᴹᴼ/o⟧:{Ｏ}=monarkio（君主制）
+monarh^/i/o⟦君主ᴹᴴ̂/i/o⟧:{Ｏ}=monarkio（君主制）
 monarh^/o⟦君主ᴹᴴ̂/o⟧:{Ｏ}=monarko（君主）
 monark/i/o⟦君主/i/o⟧:{Ｏ}君主制,君主政治,王政;君主国
 monark/ism/o⟦君主/主义/o⟧:君主制主義,王政主義
@@ -28354,7 +28354,7 @@ ole/um/i⟦油/um/i⟧:［他］=olei
 ole/um/il/o⟦油/um/具/o⟧:【機】油差し
 oliban/arb/o⟦乳香/树/o⟧:【植】ニュウコウジュ（乳香樹）
 oliban/o⟦乳香/o⟧:【植】乳香
-oligarh^i/o:{Ｏ}=oligarkio
+oligarh^/i/o⟦寡头ᴼᴴ̂/i/o⟧:{Ｏ}=oligarkio
 oligarh^/o⟦寡头ᴼᴴ̂/o⟧:{Ｏ}=oligarko
 oligark/i/o⟦寡头/i/o⟧:{Ｏ}【政】寡頭制,寡頭政治
 oligark/o⟦寡头/o⟧:{Ｏ}【政】寡頭制の支配者,少数独裁者
@@ -45507,8 +45507,8 @@ au^togen/a⟦自生/a⟧:【化】【PIV】1 Dau^riganta sin mem: au^togena reak
 au^tokataliz/o⟦自催/o⟧:【PIV】= memkatalizo.
 au^toklav/o⟦高压锅/o⟧:【技】【PIV】1 Speco de metala vazo tre fortika k hermete fermebla, en kiu oni povas preme varmigi likvon super g^ia bola varmogrado k tiel atingi specialajn reakciojn. 2【医】 Aparato, kiu per kunpremita akvovaporo sterilizas ladmang^aj^ojn, operaciilojn, kultivmediojn ktp (kaj tiel plu).
 au^toklav/i⟦高压锅/i⟧:【PIV】(tr (transitiva)) Sterilizi per au^toklavo. Vd sterilizilo.
-au^tokrat/a⟦自治ᴬᴷ/a⟧:【PIV】Karakterizanta au^tokraton: oni diros, ke g^i estas ago au^tokrata .
-au^tokrat/ec/o⟦自治ᴬᴷ/性/o⟧:【PIV】Tuto de la karakterizaj^oj de au^tokrato: en la nuna tre maltrankvila tempo ni devas tre zorge eviti c^iun agon, kiu havas s^ajnon de au^tokrateco .
+au^tokrat/a⟦专制ᴬ/a⟧:【PIV】Karakterizanta au^tokraton: oni diros, ke g^i estas ago au^tokrata .
+au^tokrat/ec/o⟦专制ᴬ/性/o⟧:【PIV】Tuto de la karakterizaj^oj de au^tokrato: en la nuna tre maltrankvila tempo ni devas tre zorge eviti c^iun agon, kiu havas s^ajnon de au^tokrateco .
 au^toliz/o⟦自解/o⟧:【医】【PIV】Malkomponig^o au^ detruig^o de histoj per la tie entenataj enzimoj.
 au^tomat/ec/o⟦动ᴬ/性/o⟧:【PIV】Karakterizaj^o de io au^tomata.
 au^tomat/ik/o⟦动ᴬ/学ᴵ/o⟧:【PIV】Scienco pri la uzo de la au^tomatoj.
@@ -46791,12 +46791,12 @@ diospir/o⟦柿ᴰ/o⟧:【植】【PIV】G. (Genro) (Diospyros el ebonacoj) de 
 kakinok/o-diospir/o⟦柿ᴷ/o-柿ᴰ/o⟧:【PIV】(D. kaki). Sin. (sinonimo) kakinoko, Japania persimono.
 diplo/o⟦板障/o⟧:【解】【PIV】(diploe) Spongeca parto de plataj ostoj.
 diploid/a⟦二倍/a⟧:【PIV】= duploida.
-diplokok/o⟦板障菌/o⟧:【生】【PIV】1 G. (Genro) (Diplococcus) de eu^bakterioj. 2 Morfologia nomo de diversagenraj globaj eu^bakterioj, kies c^eloj estas duope arig^intaj. Vd koko.
+diplokok/o⟦双菌/o⟧:【生】【PIV】1 G. (Genro) (Diplococcus) de eu^bakterioj. 2 Morfologia nomo de diversagenraj globaj eu^bakterioj, kies c^eloj estas duope arig^intaj. Vd koko.
 diplom/ist/o⟦证ᴰ/家/o⟧:【PIV】Specialisto pri diplomologio.
 diplomologi/o⟦证学/o⟧:【PIV】Scienco pri la malnovaj diplomoj el paleografia, formulara, historia ktp (kaj tiel plu) vidpunktoj.
 diplomatik/o:【PIV】= diplomologio.
 diplopi/o:【医】【PIV】Percepto de du bildoj c^e la vido de unu sola objekto, ordinare pro malbona konverg^ado de la du okuloj al unu sama punkto.
-diplopod/oj⟦板障足/oj⟧:【動】【PIV】Klaso (Diplopoda) de miriapodoj kun du paroj da kruroj sur c^iu segmento. Vd kilopodoj.
+diplopod/oj⟦双足/oj⟧:【動】【PIV】Klaso (Diplopoda) de miriapodoj kun du paroj da kruroj sur c^iu segmento. Vd kilopodoj.
 dipn/oj:【動】【PIV】Subklaso (Dipnoi) de ostofis^oj kun brankoj k pulmoj, kapablaj spiri en akvo k en aero, konataj ekde devonio; la nuntempaj sp-oj (specioj) vivas en lagetoj, marc^oj k riveroj de Au^stralio, U Afriko k S Ameriko. Sin. (sinonimo) pulmfis^oj. Vd protoptero.
 dipod/o⟦二足/o⟧:【動】【PIV】G. (Genro) (Dipus) de mamuloj, el la ordo de rong^uloj, kies malantau^aj kruroj estas tre longaj, la antau^aj tre mallongaj, la vosto tre longa; ili movas sin saltante, k vivas en E Rusio k Azio.
 dipod/ed/oj⟦二足/科ᴱ/oj⟧:【動】【PIV】Fam. (Familio) (Dipodidae) de rong^uloj, vivantaj en stepaj k subdezertaj regionoj de Afriko k Azio, al kiu apartenas i.a. (interalie, inter aliaj) dipodo. Sin. (sinonimo) g^erbosoj.

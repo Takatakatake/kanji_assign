@@ -25930,7 +25930,7 @@ monak/in/o⟦僧ᴹᴷ/女/o⟧:【宗】=monah^ino（修道女）
 monak/o⟦僧ᴹᴷ/o⟧:【宗】=monah^o（修道士）
 Monak/o:【国名】モナコ（欧州）
 Monak/o:【地名】モナコ（モナコの首都）
-monarh^i/o⟦君主ᴹᴼ/o⟧:{Ｏ}=monarkio（君主制）
+monarh^/i/o⟦君主ᴹᴴ̂/i/o⟧:{Ｏ}=monarkio（君主制）
 monarh^/o⟦君主ᴹᴴ̂/o⟧:{Ｏ}=monarko（君主）
 monark/i/o⟦君主/i/o⟧:{Ｏ}君主制,君主政治,王政;君主国
 monark/ism/o⟦君主/主义/o⟧:君主制主義,王政主義
@@ -28354,7 +28354,7 @@ ole/um/i⟦油/um/i⟧:［他］=olei
 ole/um/il/o⟦油/um/具/o⟧:【機】油差し
 oliban/arb/o⟦乳香/树/o⟧:【植】ニュウコウジュ（乳香樹）
 oliban/o⟦乳香/o⟧:【植】乳香
-oligarh^i/o:{Ｏ}=oligarkio
+oligarh^/i/o⟦寡头ᴼᴴ̂/i/o⟧:{Ｏ}=oligarkio
 oligarh^/o⟦寡头ᴼᴴ̂/o⟧:{Ｏ}=oligarko
 oligark/i/o⟦寡头/i/o⟧:{Ｏ}【政】寡頭制,寡頭政治
 oligark/o⟦寡头/o⟧:{Ｏ}【政】寡頭制の支配者,少数独裁者
@@ -46791,12 +46791,12 @@ diospir/o⟦柿ᴰ/o⟧:【植】【PIV】G. (Genro) (Diospyros el ebonacoj) de 
 kakinok/o-diospir/o⟦柿ᴷ/o-柿ᴰ/o⟧:【PIV】(D. kaki). Sin. (sinonimo) kakinoko, Japania persimono.
 diplo/o⟦板障/o⟧:【解】【PIV】(diploe) Spongeca parto de plataj ostoj.
 di/ploid/a⟦二ᴰᴵ/倍ᴾ/a⟧:【PIV】= duploida.##偽分解(PIV正式分解)##過細分解 d/i/ploid/a
-diplo/kok/o⟦板障/菌ᴷᴷ/o⟧:【生】【PIV】1 G. (Genro) (Diplococcus) de eu^bakterioj. 2 Morfologia nomo de diversagenraj globaj eu^bakterioj, kies c^eloj estas duope arig^intaj. Vd koko.##偽分解(PIV正式分解)
+diplo/kok/o⟦双ᴰᴾ/菌ᴷᴷ/o⟧:【生】【PIV】1 G. (Genro) (Diplococcus) de eu^bakterioj. 2 Morfologia nomo de diversagenraj globaj eu^bakterioj, kies c^eloj estas duope arig^intaj. Vd koko.##偽分解(PIV正式分解)
 diplom/ist/o⟦证ᴰ/家/o⟧:【PIV】Specialisto pri diplomologio.
 diplom/o/logi/o⟦证ᴰ/o/学ᴸᴳ/o⟧:【PIV】Scienco pri la malnovaj diplomoj el paleografia, formulara, historia ktp (kaj tiel plu) vidpunktoj.##偽分解
 diplomatik/o:【PIV】= diplomologio.
 diplopi/o:【医】【PIV】Percepto de du bildoj c^e la vido de unu sola objekto, ordinare pro malbona konverg^ado de la du okuloj al unu sama punkto.
-diplo/pod/oj⟦板障/足ᴾᴼ/oj⟧:【動】【PIV】Klaso (Diplopoda) de miriapodoj kun du paroj da kruroj sur c^iu segmento. Vd kilopodoj.##偽分解
+diplo/pod/oj⟦双ᴰᴾ/足ᴾᴼ/oj⟧:【動】【PIV】Klaso (Diplopoda) de miriapodoj kun du paroj da kruroj sur c^iu segmento. Vd kilopodoj.##偽分解
 dipn/oj:【動】【PIV】Subklaso (Dipnoi) de ostofis^oj kun brankoj k pulmoj, kapablaj spiri en akvo k en aero, konataj ekde devonio; la nuntempaj sp-oj (specioj) vivas en lagetoj, marc^oj k riveroj de Au^stralio, U Afriko k S Ameriko. Sin. (sinonimo) pulmfis^oj. Vd protoptero.
 di/pod/o⟦二ᴰᴵ/足ᴾᴼ/o⟧:【動】【PIV】G. (Genro) (Dipus) de mamuloj, el la ordo de rong^uloj, kies malantau^aj kruroj estas tre longaj, la antau^aj tre mallongaj, la vosto tre longa; ili movas sin saltante, k vivas en E Rusio k Azio.##偽分解##エス的分解##過細分解 d/i/pod/o
 di/pod/ed/oj⟦二ᴰᴵ/足ᴾᴼ/科ᴱ/oj⟧:【動】【PIV】Fam. (Familio) (Dipodidae) de rong^uloj, vivantaj en stepaj k subdezertaj regionoj de Afriko k Azio, al kiu apartenas i.a. (interalie, inter aliaj) dipodo. Sin. (sinonimo) g^erbosoj.##偽分解##エス的分解##過細分解 d/i/pod/ed/oj

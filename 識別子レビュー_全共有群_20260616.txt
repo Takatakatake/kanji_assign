@@ -3666,12 +3666,6 @@
   stevard        侍ˢ         F=2     pejvo   
   grum           侍ᴳ         F=1     pejvo   
 
-【自治】 4件
-  au^tonom       自治         F=7     pejvo   
-  au^tonomi      自治ᴬᴵ       F=3     pejvo   
-  au^tokrat      自治ᴬᴷ       F=1     piv     
-  au^tokrati     自治ᴬᵁ̆      F=1     piv     
-
 【室】 4件
   ĉambr          室          F=68    basic   
   kamer          室ᴷ         F=12    pejvo   
@@ -5729,6 +5723,11 @@
   negr           黑ᴺᴱ        F=7     pejvo   
   melan          黑ᴹ         F=4     piv     黒・メラニン
 
+【专制】 3件
+  despot         专制         F=4     pejvo   
+  au^tokrat      专制ᴬ        F=1     piv     
+  au^tokrati     专制ᴬᴵ       F=1     piv     
+
 【丛】 3件
   tuf            丛          F=13    basic   
   vepr           丛ⱽ         F=4     pejvo   
@@ -6814,6 +6813,10 @@
 【耳镜】 2件
   otoskop        耳镜         F=1     piv     
   otoskopi       耳镜ᴼᴵ       F=1     piv     
+
+【自治】 2件
+  au^tonom       自治         F=7     pejvo   
+  au^tonomi      自治ᴬᴵ       F=3     pejvo   
 
 【自发】 2件
   spontan        自发         F=4     pejvo   
