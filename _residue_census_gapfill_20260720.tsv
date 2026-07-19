@@ -1,8 +1,9 @@
 # 残渣センサス→学術版分解鏡像 隙間充填 台帳 (2026-07-20, 第23回)
 # 手法: 学術版/学習者版の両注入出力を行対応で走査。純ラテン語根残渣を集計(794異なり/1437出現)。
-#   厳格フィルタ=「学術版にラテン残渣あり かつ 同一行の学習者版が完全漢字化(ラテン残渣ゼロ)」= 49件。
-#   固有名(§7)は両版ラテンゆえ自動除外される(=真の被覆穴のみ抽出)。
-#   49件を triage: 14件APPLIED(クリーン融合複合語=round1:8 + round2:5 + round3:fibrit偽友1) / 35件HELD(既裁定カテゴリ)。
+#   厳格フィルタ=「学術版にラテン残渣あり かつ 同一行の学習者版が完全漢字化(ラテン残渣ゼロ)」。
+#   ★カウント是正(2026-07-20 別AI監査): mirror_strict=49【行】(granulocitemi×2/litograf×4/rom×3等の重複含む)=異なり語根【44】。
+#   固有名(§7)は両版ラテンゆえ自動除外される(=真の被覆穴のみ抽出)。再現=`_residue_census.py`(生一覧+判定規則を固定)。
+#   triage(異なり44語根): 18件APPLIED(round1:8+round2:5+round3:fibrit+round4:kardiografi是正含む4) / 26件HELD(既裁定カテゴリ)。
 # 機構: 学術版whole-word = _p_work.csv k列(P=5 sentinel・band=piv・br=2)。学習者版は別分節ゆえ無影響(diff=0実証)。
 # 全字一级3500内(新字ゼロ)・全て学習者版承認済み分解の忠実鏡像(識別子なしのbare連結)。
 # 検証: _verify_all EXITCODE=0 / [A]原本diff=0×2・学習者diff=0 / [F]★新規0 / [H]churn0活性19 / [I]NEW_REVERSAL=0 / [C]学術53(変更前後で不変=単独群)。
@@ -24,9 +25,14 @@ APPLIED	glukogenez	糖源	生化	gluk糖+genez源 (glucogenesis。gametogenez=�
 APPLIED	kromodinamik	色力	物理	krom色+dinamik力 (chromodynamics。QCD=量子色力。kvantumkromodinamik=量子/色力)。学習者版=色ᴷᴹ/力ᴰ
 # --- round3 (2026-07-20): 隙間+偽友の複合ケース1件(隙間充填ではなく偽友是正を伴う) ---
 APPLIED	fibrit	纤炎	医療/偽友	mi/o/fibrit(myofibritis)は学術版で我/o/fibrit=我(I/me)がmyo筋の偽友+fibritラテン。学習者は肌/o/纤/炎ᵀで正(mi/o/fibr/it粒度)。mi→肌sepに学術粗分節mi/o/fibrit/o追加(我→肌)+fibrit→纤炎(p_work)で肌纤炎に。学術のみ変化(learner diff=0)・過剰発火0(fibrit学術1語のみ)
+# --- round4 (2026-07-20 別AI監査是正): 心志衝突是正1 + churn誤判定/台帳漏れ3 ---
+CORRECTED	kardiografi	心志→心记	衝突是正	心志は既成漢語(willpower・孟子「苦其心志」)=cardiographyと別概念(ideografi意志→表意と同型)。兄弟kardiograf=心记/kardiogram=心图が既存_p_workにあり不整合→心记に是正(kardiograf群加入・kardiograf短語根bare維持・kardiografi=心记ᴷᴵ)。学習者版は分節心/o/志で維持
+APPLIED	senestez	无感	医療	sen无+estez感 (anesthesia。senestezigi=無感覚化)。※前回HELD「anestez=无感churn」は誤り=anestez(root7)が短くbare維持・senestez(8)→无感ˢ=churnなし(別AI監査で反証)
+APPLIED	bulbit	球炎	医療	bulb球+it炎 (bulbitis。poliobulbito=灰ᴾ/o/球炎)。球炎は新群・衝突なし。学術2出現の1つは語釈テキストで無害。学習者版=球ᴮ/炎ᵀ
+APPLIED	elektroprodukto	电产	環境	elektro电+produkt产 (電力生産。tajdpova elektroprodukto=潮力発電)。台帳漏れ(別AI指摘)を是正・充填。学習者版=电/o/产
 #
 # --- HELD (既裁定カテゴリ・非適用) ---
-HELD	senestez	(无感)	同義衝突	anestez=无感が既存。sen-/an-=無の同義ゆえ2員群化(識別子付与)になる=churn回避で今回除外。無感ˢ化は可だが要裁定
+# (senestez は round4 で APPLIED に昇格=churn誤判定を別AI監査で反証)
 HELD	benzoat/gajlat/okzalat/bikarbonat/jodit	(X盐)	化学塩	-at/-it塩。ユーザー「化学残件=評価のみ」裁定(第13回)で保留
 HELD	oktan/propan/dekan/eten/heksanon	(系統化学)	化学	アルカン/ケトン系。an=烷(一级外)ラテン維持が甲乙丙基システムの仕様
 HELD	fenil/anilin/tanin/foliin/heksacian	(化学接尾)	化学	-in/-il/cian等。評価のみ保留
@@ -34,5 +40,5 @@ HELD	riboz	(醋栗糖)	誤友除外	rib≠スグリ(醋栗)。第10回でREJECT�
 HELD	kromiat	(金盐)	誤友除外	515ec91で誤友除外6件の一つ
 HELD	litograf/vulkaniz	(石记/火山化)	誤友除外	515ec91 誤友除外(綴り衝突で他語巻き込みриск)
 HELD	ioni/kolombi/liberi/mali/rom	(同綴トラップ)	固有名	Ionian/Colombian/Liberian/Malian/Roman。学習者版が同綴別語(离子/鸽/自由/反/小说)で偶然漢字化=充填すると誤友。§7ラテン維持
-HELD	ombropolarimetr/malbon/ciklo/poliobulbit	(境界)	保留	長複合(ombropolarimetr影极计=稀)/句レベル人工物(malbon反良=句中形容詞)/粗分節artifact(poliobulbit=灰ᴾ/bulbit)。個別裁定
-# (round2で eritrocitemi/granulocitemi/globulemi/glukogenez/kromodinamik を APPLIED に昇格=誤友リスクなし・全字一级・忠実鏡像と確認)
+HELD	ombropolarimetr/malbon/ciklo	(境界)	保留	長複合(ombropolarimetr影极计=稀)/句レベル人工物(malbon反良=句中形容詞・ciklo=環コピュラ)。個別裁定
+# (round2: eritrocitemi/granulocitemi/globulemi/glukogenez/kromodinamik / round4: senestez/bulbit(poliobulbit)/elektroprodukto を APPLIED に昇格)

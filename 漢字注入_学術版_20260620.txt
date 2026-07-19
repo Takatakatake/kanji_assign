@@ -8909,7 +8909,7 @@ elektrofor/o:【電】電気盆
 elektr/o/h^emi/o⟦电/o/化学ᴴ̂/o⟧:=>elektrokemio（電気化学）
 elektr/o/ing^enier/o⟦电/o/技ᴵ/o⟧:電気技師
 elektr/o/kardiograf/i⟦电/o/心记/i⟧:［他］心電図をとる
-elektr/o/kardiografi/o⟦电/o/心志/o⟧:【医】心電図検査（法）
+elektr/o/kardiografi/o⟦电/o/心记ᴷᴵ/o⟧:【医】心電図検査（法）
 elektr/o/kardiograf/o⟦电/o/心记/o⟧:【医】心電計
 elektr/o/kardiogram/o⟦电/o/心图/o⟧:【医】心電図
 elektr/o/kemi/a⟦电/o/化学/a⟧:電気化学の
@@ -39792,7 +39792,7 @@ tajd/land/o⟦潮/国/o⟧:【環】干潟
 tajd/o⟦潮/o⟧:【海】潮（の干満）,潮汐;潮流;《転》時流
 tajd/o/skal/o⟦潮/o/度ˢ/o⟧:【海】自記検潮計
 tajd/o/voj/o⟦潮/o/路/o⟧:潮路
-tajd/pov/a elektroprodukto⟦潮/能/a elektroprodukto⟧:【環】潮力発電
+tajd/pov/a elektroprodukto⟦潮/能/a 电产⟧:【環】潮力発電
 tajd/pov/o⟦潮/能/o⟧:【環】潮力
 tajfun/i⟦风ᵀ/i⟧:［自］台風が吹く
 tajfun/o⟦风ᵀ/o⟧:【気】台風
@@ -49608,7 +49608,7 @@ izostaz/o⟦等滞/o⟧:【地質】【PIV】Stato de hidrostatika ekvilibro de 
 izoton/a⟦等调/a⟧:【理】【化】【PIV】Havanta la saman osmozan premon: izotonaj solvaj^oj.
 izoton/ec/o⟦等调/性/o⟧:【化】【PIV】Stato de izotonaj likvoj.
 Izrael/a:【PIV】Rilata al Izraelo.
-Izraeli/o:【PIV】= Israelo.
+Izrael/i/o:【PIV】= Israelo.
 Izrael/id/o:【PIV】1 Deveninto de Izraelo 1: = hebreo. Vd Semido. 2 Ano de la antikva regno Izraelo: k Dio frapis Jerobeamon k c^iujn Izraelidojn antau^ Abija k la Judoj .
 jabiru/o⟦鸟ᴶᴮ/o⟧:【動】【PIV】Tropika birdo (Jabiru k parencaj g-oj (genroj)) el la ordo de cikoniformaj, kun granda kolora beko, vivanta en S Ameriko, tropika Afriko k SE Azio.
 jaborand/o⟦木ᴶᴮ/o⟧:【植】【PIV】1 Sp. (Specio) de pilokarpo (Pilocarpus jaborandi). 2 Pilokarpo. 3 Farmaciaj^o ekstraktata el pilokarpinohavaj sp-oj (specioj) de jaborando 1 k 2.
@@ -57886,7 +57886,7 @@ bon/buked/a⟦良/束ᴮ/a⟧:【PIV】(pp (se paroli pri) vino) Kun bona bukedo
 log/bukl/o⟦学家/卷ᴮ/o⟧:【PIV】Malgranda buklo, plata k ronda, sur la tempio au^ la frunto.
 glut/bul/o⟦吞/团ᴮ/o⟧:【生】【PIV】Nutraj^boluso.
 id/bulb/o⟦子/球ᴮ/o⟧:【植】【PIV】Subtera bulbilo, naskig^anta aksele de folioj de bulbo.
-poli/o/bulbit/o⟦灰ᴾ/o/bulbit/o⟧:【医】【PIV】Epidemia malsano simila al poliomjelito, sed trafanta la oblongan mjelon.
+poli/o/bulbit/o⟦灰ᴾ/o/球炎/o⟧:【医】【PIV】Epidemia malsano simila al poliomjelito, sed trafanta la oblongan mjelon.
 pseu^do/bulb/o⟦伪ᴾ/球ᴮ/o⟧:【植】【PIV】S^ajn bulbo.
 s^ajn/bulb/o⟦像/球ᴮ/o⟧:【植】【PIV】(pp (se paroli pri) iuj orkidacoj) Bulbos^ajna dikaj^o, konsistanta el tigbazo, al kiu iufoje aldonig^as kuntus^aj folibazoj, portanta adventivajn radikojn.
 tig/bulb/o⟦茎/球ᴮ/o⟧:【植】【PIV】S^ajn bulbo.
@@ -58232,7 +58232,7 @@ poli/ester/o⟦多ᴾ/ester/o⟧:【化】【技】【PIV】(kn (kolektiva nomo)
 trans/ester/ig/i⟦越/ester/使/i⟧:【化】【PIV】Reakciigi esteron kun alkoholo au^ acido, tiel ke la originala alkoholo (resp. (respektive) acido) de la estero estas anstatau^ita de la nova alkoholo (resp. (respektive) acido).
 hiperestez/o⟦超感/o⟧:【PIV】Hipersensiveco.
 hipoestez/o⟦亚感/o⟧:【PIV】Hiposensiveco.
-senestez/ig/i⟦senestez/使/i⟧:【医】【PIV】Anestezi.
+senestez/ig/i⟦无感ˢ/使/i⟧:【医】【PIV】Anestezi.
 fajr/esting/a⟦火/灭/a⟧:【PIV】Servanta por estingi fajron: li elveturis kun la fajr estinga tubo .
 voc^/esting/o⟦声ⱽ/灭/o⟧:【PIV】Malapero de la voc^a funkcio; parezo de la voc^kordoj.
 poli/eten/o⟦多ᴾ/eten/o⟧:【PIV】Mola, travidebla plasto, el kiu oni faras sakojn, skatolojn, ktp (kaj tiel plu).

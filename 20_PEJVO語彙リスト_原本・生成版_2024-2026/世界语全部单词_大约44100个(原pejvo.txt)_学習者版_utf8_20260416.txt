@@ -49608,7 +49608,7 @@ izo/staz/o:【地質】【PIV】Stato de hidrostatika ekvilibro de la terkrusto 
 izo/ton/a:【理】【化】【PIV】Havanta la saman osmozan premon: izotonaj solvaj^oj.##偽分解(PIV正式分解)
 izo/ton/ec/o:【化】【PIV】Stato de izotonaj likvoj.##偽分解(PIV正式分解)
 Izrael/a:【PIV】Rilata al Izraelo.
-Izraeli/o:【PIV】= Israelo.
+Izrael/i/o:【PIV】= Israelo.
 Izrael/id/o:【PIV】1 Deveninto de Izraelo 1: = hebreo. Vd Semido. 2 Ano de la antikva regno Izraelo: k Dio frapis Jerobeamon k c^iujn Izraelidojn antau^ Abija k la Judoj .
 jabiru/o:【動】【PIV】Tropika birdo (Jabiru k parencaj g-oj (genroj)) el la ordo de cikoniformaj, kun granda kolora beko, vivanta en S Ameriko, tropika Afriko k SE Azio.
 jaborand/o:【植】【PIV】1 Sp. (Specio) de pilokarpo (Pilocarpus jaborandi). 2 Pilokarpo. 3 Farmaciaj^o ekstraktata el pilokarpinohavaj sp-oj (specioj) de jaborando 1 k 2.

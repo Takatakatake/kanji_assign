@@ -101,7 +101,7 @@ $psOut = & python "$dir\_audit_priority_tiers.py" 2>&1 | Out-String
 $psLine = ([regex]::Match($psOut,'PRIORITY_STRUCT:[^\r\n]*')).Value
 $csvCov = ([regex]::Match($psOut,'CSV2890: rows=\d+ matched=\d+\(([\d\.]+)%\)')).Groups[1].Value
 $csvLoss = ([regex]::Match($psOut,'CSV2890_LOSES_BASE=(\d+)')).Groups[1].Value
-if($psLine){ Say ("[I] 優先順位構造(CSV2890照合" + $csvCov + "%): " + $psLine) } else { Say "[I] 優先順位構造: 実行不可(要 python + _audit_priority_tiers.py)"; $csvLoss='?' }
+if($psLine){ Say ("[I] 優先順位構造(CSV2890照合" + $csvCov + "%): " + $psLine) } else { Say "[I] 優先順位構造: 実行不可(要 python + _audit_priority_tiers.py) → hard-fail(未実行で全PASSと誤認しない。2026-07-20 別AI監査是正)"; $csvLoss='?'; $fail=1 }
 Say "    (NEW_SYNONYM_REVERSAL/CSV_MISLABEL=advisory=要裁定・非fail / 詳細 _audit_priority_tiers_ledger.tsv)"
 if($csvLoss -ne '0' -and $csvLoss -ne '?' -and $csvLoss -ne ''){ $fail=1; Say "    !! CSV2890中核語がbaseを失う層順違反 → 要即対応" }
 
