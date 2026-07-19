@@ -59,11 +59,11 @@ antibiotik	1998	抗生布	True
 anticiklon	1999	抗旋	True
 antifon	2003	抗声	True
 antifraz	2004	抗句	True
-antigen	2005	抗生	True
+antigen	2005	抗原	True
 antikorp	2009	抗体	True
 antikorpuskl	2010	抗粒	False
 antineu^trin	2025	抗中微子	True
-antinomi	2026	抗学	True
+antinomi	2026	抗律	True
 antipartikl	2027	抗粒	True
 antipati	2028	抗情	True
 antipod	2032	抗足	True
@@ -131,7 +131,7 @@ biograf	3743	生记	True
 biokemi	3747	生化学	True
 biolog	3752	生学家	True
 biomas	3757	生团	True
-biontologi	3758	生将学	True
+biontologi	3758	生在学	True
 biosfer	3759	生球	True
 biotop	3760	生境	True
 bombiks	4035	蛾	False
@@ -156,7 +156,7 @@ deism	6076	从主义	True
 deist	6077	从家	True
 dekagram	6097	十克	True
 dekalitr	6099	十升	True
-dekalog	6101	十学家	True
+dekalog	6101	十戒	True
 dekametr	6103	十米	True
 deltoid	6269	三角洲似	True
 demonstrativ	6324	证被能	True
@@ -258,8 +258,8 @@ filolog	11044	爱学家	True
 fitogeografi	11189	植地志	True
 fitoterapi	11190	植疗	True
 fiziografi	11207	物理志	True
-fiziologi	11208	物理学	True
-fiziolog	11209	物理学家	True
+fiziologi	11208	生理学	True
+fiziolog	11209	生理学家	True
 fizioterapi	11213	物理疗	True
 fluorid	11472	气化	True
 fonetism	11572	音主义	True
@@ -489,8 +489,8 @@ metatars	25185	超足根	True
 meteologi	25194	气学	False
 meteolog	25195	气学家	False
 meteorism	25197	陨主义	True
-meteorologi	25201	陨学	True
-meteorolog	25202	陨学家	True
+meteorologi	25201	气学	False
+meteorolog	25202	气学家	False
 metodologi	25226	法学	True
 metrologi	25238	米学	True
 metronom	25239	计律	True
@@ -542,7 +542,7 @@ muren	26459	鱼	False
 naturalism	26760	自然主义	True
 naturalist	26761	自然家	True
 naturaliz	26762	自然化	True
-nekrolog	27173	死学家	True
+nekrolog	27173	死志	True
 neolitik	27251	新石学	True
 neu^ralgi	27426	神经痛	True
 neu^rasteni	27427	神经弱	True
@@ -567,8 +567,8 @@ oftalmologi	28187	目学	True
 oftalmolog	28188	目学家	True
 oksigen	28273	氧生	True
 ondometr	28441	波计	True
-ontogenez	28474	将源	True
-ontologi	28476	将学	True
+ontogenez	28474	在源	True
+ontologi	28476	在学	True
 optimism	28553	乐主义	False
 optimist	28555	乐家	False
 organism	28674	器主义	True
@@ -641,7 +641,7 @@ polifoni	31053	多声	True
 poligami	31055	多配	True
 poliklinik	31059	多诊	True
 polimer	31064	多链节	True
-poliomjelit	31069	多髓炎	True
+poliomjelit	31069	灰髓炎	True
 polipoz	31072	息肉症	True
 politeism	31074	多神主义	True
 politeist	31075	多神家	True
