@@ -57886,7 +57886,7 @@ bon/buked/a⟦良/束ᴮ/a⟧:【PIV】(pp (se paroli pri) vino) Kun bona bukedo
 log/bukl/o⟦学家/卷ᴮ/o⟧:【PIV】Malgranda buklo, plata k ronda, sur la tempio au^ la frunto.
 glut/bul/o⟦吞/团ᴮ/o⟧:【生】【PIV】Nutraj^boluso.
 id/bulb/o⟦子/球ᴮ/o⟧:【植】【PIV】Subtera bulbilo, naskig^anta aksele de folioj de bulbo.
-poli/o/bulbit/o⟦多ᴾ/o/bulbit/o⟧:【医】【PIV】Epidemia malsano simila al poliomjelito, sed trafanta la oblongan mjelon.
+poli/o/bulbit/o⟦灰ᴾ/o/bulbit/o⟧:【医】【PIV】Epidemia malsano simila al poliomjelito, sed trafanta la oblongan mjelon.
 pseu^do/bulb/o⟦伪ᴾ/球ᴮ/o⟧:【植】【PIV】S^ajn bulbo.
 s^ajn/bulb/o⟦像/球ᴮ/o⟧:【植】【PIV】(pp (se paroli pri) iuj orkidacoj) Bulbos^ajna dikaj^o, konsistanta el tigbazo, al kiu iufoje aldonig^as kuntus^aj folibazoj, portanta adventivajn radikojn.
 tig/bulb/o⟦茎/球ᴮ/o⟧:【植】【PIV】S^ajn bulbo.
@@ -58187,7 +58187,7 @@ mal/eluvi/o⟦反/淋ᴱⱽ/o⟧:【PIV】Horizonto de grundo, ric^ig^inta je so
 mal/eluvi/i⟦反/淋ᴱⱽ/i⟧:【PIV】(pp (se paroli pri) akvo) Suben akumuli solvitaj^ojn au^ koloidojn en grundo.
 mal/eluvi/ad/o⟦反/淋ᴱⱽ/行/o⟧:【PIV】Ago maleluvii.
 mal/eminent/ul/o⟦反/杰ᴱ/者/o⟧:【PIV】Senranga, sensignifa, simpla homo. Vd nulo, senfama. = neeminentulo
-poli/o/encefalit/o⟦多ᴾ/o/脑炎/o⟧:【医】【PIV】Epidemia malsano simila al poliomjelito, sed trafanta la encefalon.
+poli/o/encefalit/o⟦灰ᴾ/o/脑炎/o⟧:【医】【PIV】Epidemia malsano simila al poliomjelito, sed trafanta la encefalon.
 romb/encefal/o⟦菱/脑ᴱ/o⟧:【解】【PIV】(rhombencephalon) Tuto de la oblonga mjelo, de la ponto k de la cerebelo: la kvara ventriklo, dilatig^o de la centra kanalo, kiu ilin komune trairas, havas romban formon.
 vort/enigm/o⟦词/谜/o⟧:【PIV】Logogrifo.
 konstru/entrepren/ist/o⟦建/办ᴱ/家/o⟧:【PIV】Entreprenisto de konstrulaboroj.

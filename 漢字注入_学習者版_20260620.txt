@@ -31066,7 +31066,7 @@ polinezi/an/o⟦polinezi/员ᴬ/o⟧:ポリネシア人
 Polinezi/o:{Ｏ}【地名】ポリネシア（太平洋中南部の島々）
 polinom/o:【数】多項式
 Pol/i/o:【国名】=Pollando（ポーランド）
-poli/o/mjel/it/o⟦多ᴾ/o/髓/炎ᵀ/o⟧:【病】ポリオ,急性灰白髄炎,小児麻痺,=infana paralizo##偽分解(PIV正式分解)
+poli/o/mjel/it/o⟦灰ᴾ/o/髓/炎ᵀ/o⟧:【病】ポリオ,急性灰白髄炎,小児麻痺,=infana paralizo##偽分解(PIV正式分解)
 polip/ar/o⟦息肉/群/o⟧:【動】ポリプ母体
 polip/o⟦息肉/o⟧:{Ｏ}【動】ポリプ;【医】ポリープ,茸腫（じょうしゅ）
 polip/oz/o⟦息肉/症ᴼ/o⟧:【病】ポリープ症##偽分解
@@ -56520,7 +56520,7 @@ tualet/a⟦妆/a⟧:【PIV】Rilata al la tualeto: tualeta kabineto, tablo, garn
 tub/ar/a⟦管/群/a⟧:【PIV】Formita el tubaro: tubara skafaldo, ponto; tubara kaldrono.
 tub/ist/o⟦管/家/o⟧:【PIV】1 Laboristo, kiu kunigas la tubojn en mas^ino, instalaj^o ks (kaj simile, kaj similaj). 2 Pli racia nomo de plumbisto.
 tuber/ig^/o⟦隆/成/o⟧:【植】【PIV】Transformig^o de tuto au^ de parto de tigo au^ radiko en tuberon: tuberig^o de radiko.
-tuberkul/in/iz/ad/o⟦结ᵀ/女/化/行/o⟧:【PIV】1 (ark. (arkaismo, arkaisme)) Memtoksig^o per tuberkulino, produktita de la baciloj. 2 Injekto de tuberkulino, por montri la ekziston de tuberkulozo.##偽分解(PIV正式分解)
+tuberkul/in/iz/ad/o⟦结ᵀ/in/化/行/o⟧:【PIV】1 (ark. (arkaismo, arkaisme)) Memtoksig^o per tuberkulino, produktita de la baciloj. 2 Injekto de tuberkulino, por montri la ekziston de tuberkulozo.##偽分解(PIV正式分解)
 tuberkul/iz/ad/o⟦结ᵀ/化/行/o⟧:【PIV】Invado de organismo fare de la tuberkuloza mikobakterio.
 tuberkul/oz/a⟦结ᵀ/症ᴼ/a⟧:【PIV】Rilata al tuberkulozo: tuberkuloza (au^: Koh^a) mikobakterio.##偽分解
 Tucidid/o:【PIV】Helena historiisto (460−395).
@@ -57886,7 +57886,7 @@ bon/buked/a⟦良/束ᴮ/a⟧:【PIV】(pp (se paroli pri) vino) Kun bona bukedo
 log/bukl/o⟦学家/卷ᴮ/o⟧:【PIV】Malgranda buklo, plata k ronda, sur la tempio au^ la frunto.
 glut/bul/o⟦吞/团ᴮ/o⟧:【生】【PIV】Nutraj^boluso.
 id/bulb/o⟦子/球ᴮ/o⟧:【植】【PIV】Subtera bulbilo, naskig^anta aksele de folioj de bulbo.
-poli/o/bulb/it/o⟦多ᴾ/o/球ᴮ/受/o⟧:【医】【PIV】Epidemia malsano simila al poliomjelito, sed trafanta la oblongan mjelon.##偽分解(PIV正式分解)
+poli/o/bulb/it/o⟦灰ᴾ/o/球ᴮ/炎ᵀ/o⟧:【医】【PIV】Epidemia malsano simila al poliomjelito, sed trafanta la oblongan mjelon.##偽分解(PIV正式分解)
 pseu^do/bulb/o⟦伪ᴾ/球ᴮ/o⟧:【植】【PIV】S^ajn bulbo.
 s^ajn/bulb/o⟦像/球ᴮ/o⟧:【植】【PIV】(pp (se paroli pri) iuj orkidacoj) Bulbos^ajna dikaj^o, konsistanta el tigbazo, al kiu iufoje aldonig^as kuntus^aj folibazoj, portanta adventivajn radikojn.
 tig/bulb/o⟦茎/球ᴮ/o⟧:【植】【PIV】S^ajn bulbo.
@@ -58187,7 +58187,7 @@ mal/eluvi/o⟦反/淋ᴱⱽ/o⟧:【PIV】Horizonto de grundo, ric^ig^inta je so
 mal/eluvi/i⟦反/淋ᴱⱽ/i⟧:【PIV】(pp (se paroli pri) akvo) Suben akumuli solvitaj^ojn au^ koloidojn en grundo.
 mal/eluvi/ad/o⟦反/淋ᴱⱽ/行/o⟧:【PIV】Ago maleluvii.
 mal/eminent/ul/o⟦反/杰ᴱ/者/o⟧:【PIV】Senranga, sensignifa, simpla homo. Vd nulo, senfama. = neeminentulo
-poli/o/encefal/it/o⟦多ᴾ/o/脑ᴱ/炎ᵀ/o⟧:【医】【PIV】Epidemia malsano simila al poliomjelito, sed trafanta la encefalon.##偽分解(PIV正式分解)
+poli/o/encefal/it/o⟦灰ᴾ/o/脑ᴱ/炎ᵀ/o⟧:【医】【PIV】Epidemia malsano simila al poliomjelito, sed trafanta la encefalon.##偽分解(PIV正式分解)
 romb/encefal/o⟦菱/脑ᴱ/o⟧:【解】【PIV】(rhombencephalon) Tuto de la oblonga mjelo, de la ponto k de la cerebelo: la kvara ventriklo, dilatig^o de la centra kanalo, kiu ilin komune trairas, havas romban formon.
 vort/enigm/o⟦词/谜/o⟧:【PIV】Logogrifo.
 konstru/entrepren/ist/o⟦建/办ᴱ/家/o⟧:【PIV】Entreprenisto de konstrulaboroj.
