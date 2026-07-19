@@ -95,6 +95,16 @@ $rbBad = ([regex]::Match($rb,'不一致\s*=\s*(\d+)')).Groups[1].Value
 if($rbLine){ Say $rbLine } else { Say "[H] 逆転20群assertion: 実行不可(要 _audit_reversal_bases.ps1)"; $rbBad='?' }
 if($rbBad -ne '0' -and $rbBad -ne '?'){ $fail=1; Say "    !! 逆転20群の基本形が裁定(§14=現状維持)から変動 → 変更コミットを点検" }
 
+# --- I. 優先順位 構造監査(CSV2890>PEJVO>PIV を独立ground-truthで検証。_audit_priority_tiers.py v3) ---
+# CSV2890中核語(band-basic=CSV照合由来)がbaseを失う層順違反=hard-fail。同義語逆転/CSV band誤ラベルはadvisory。
+$psOut = & python "$dir\_audit_priority_tiers.py" 2>&1 | Out-String
+$psLine = ([regex]::Match($psOut,'PRIORITY_STRUCT:[^\r\n]*')).Value
+$csvCov = ([regex]::Match($psOut,'CSV2890: rows=\d+ matched=\d+\(([\d\.]+)%\)')).Groups[1].Value
+$csvLoss = ([regex]::Match($psOut,'CSV2890_LOSES_BASE=(\d+)')).Groups[1].Value
+if($psLine){ Say ("[I] 優先順位構造(CSV2890照合" + $csvCov + "%): " + $psLine) } else { Say "[I] 優先順位構造: 実行不可(要 python + _audit_priority_tiers.py)"; $csvLoss='?' }
+Say "    (NEW_SYNONYM_REVERSAL/CSV_MISLABEL=advisory=要裁定・非fail / 詳細 _audit_priority_tiers_ledger.tsv)"
+if($csvLoss -ne '0' -and $csvLoss -ne '?' -and $csvLoss -ne ''){ $fail=1; Say "    !! CSV2890中核語がbaseを失う層順違反 → 要即対応" }
+
 # --- 総括 ---
 $verdict='全PASS(健全・同期も最新)'
 if($fail -ne 0){ $verdict='要対応(ハード違反あり)' } elseif($drift -ne 0){ $verdict='不変条件PASSだが WSL再同期推奨' } elseif($newInc -ne '0' -and $newInc -ne '?'){ $verdict='不変条件PASSだが 新規偽分解不整合の点検推奨' }

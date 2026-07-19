@@ -2332,9 +2332,9 @@ arg^ent/i⟦银/i⟧:［他］銀メッキする,銀張りにする
 arg^ent/o⟦银/o⟧:{Ｂ}銀;【遊】（将棋の）銀将
 arg^irol/o:【薬】アルジロール（弱力プロテイン銀製剤の商品名，殺菌剤）
 arh^aik/a⟦古ᴬᴷ/a⟧:{Ｏ}=arkaika
-arh^a/ism/o⟦古ᴬᴬ/主义/o⟧:{Ｏ}=arkaismo##偽分解##強語根分解
-arh^e/o/logi/o⟦古ᴬᴴ̂/o/学ᴸᴳ/o⟧:{Ｏ}=arkeologio##偽分解##強語根分解
-arh^e/o/log/o⟦古ᴬᴴ̂/o/学家/o⟧:{Ｏ}=arkeologo##偽分解##強語根分解
+arh^a/ism/o⟦古ᴬᴬ/主义/o⟧:{Ｏ}=arkaismo##偽分解(PIV正式分解)
+arh^eo/logi/o⟦arh^eo/学ᴸᴳ/o⟧:{Ｏ}=arkeologio##偽分解
+arh^eo/log/o⟦arh^eo/学家/o⟧:{Ｏ}=arkeologo##偽分解
 arh^ipelag/o⟦群岛ᴬᴴ̂/o⟧:{Ｏ}=arkipelago
 arh^itekt/o⟦建筑ᴬᴴ̂/o⟧:{Ｏ}=arkitekto
 arh^itektur/o⟦建筑ᴬᵀ/o⟧:{Ｏ}=arkitekturo
@@ -17539,8 +17539,8 @@ kategori/a rifuz/o⟦类ᴷᵀ/a 拒/o⟧:きっぱりした拒絶
 kategori/a ton/o⟦类ᴷᵀ/a 调/o⟧:断定的な口調
 kategori/e⟦类ᴷᵀ/e⟧:きっぱりと,断定的に
 kategori/o⟦类ᴷᵀ/o⟧:{Ｂ}部類,部門,種類,等級;【哲】カテゴリー,範疇（はんちゅう）
-kateh^/ism/o⟦kateh^/主义/o⟧:=katekismo（教理問答）##偽分解##強語根分解
-kateh^/ist/o⟦kateh^/家/o⟧:{Ｏ}=katekisto（伝道師）##偽分解##強語根分解
+kateh^ism/o:=katekismo（教理問答）
+kateh^ist/o:{Ｏ}=katekisto（伝道師）
 kateh^iz/i⟦诲ᴷᴴ̂/i⟧:{Ｏ}［他］=katekizi（問答で教える）
 katekism/o:【キ】教理問答（書）,公教要理;《転》問答式入門書
 katekist/o:{Ｏ}【キ】（教理を教える）伝道師,教理教師
@@ -24823,7 +24823,7 @@ mekanik/aj^/o⟦械/物/o⟧:=mekanismo（機械装置）
 mekanik/ism/o⟦械/主义/o⟧:【哲】機械論
 mekanik/ist/o⟦械/家/o⟧:力学者,機械学者;機械技師;【哲】機械論者
 mekanik/o⟦械/o⟧:{Ｂ}力学,機械学,>>dinamiko,>>statiko;=mekanismo（機械装置）
-mekan/ism/o⟦械ᴹᴷ/主义/o⟧:{Ｂ}機械装置,仕掛け,メカニズム;機構,構造,仕組み;【芸】技巧,テクニック##偽分解##強語根分解
+mekan/ism/o⟦械ᴹᴷ/主义/o⟧:{Ｂ}機械装置,仕掛け,メカニズム;機構,構造,仕組み;【芸】技巧,テクニック##偽分解
 mek/i⟦鸣ᴹ/i⟧:［自］（ヤギなどが）メーと鳴く,>>bleki
 Mekk/o:【地名】メッカ（サウジアラビア）
 Meklenburgi/o:【地名】メクレンブルク地方（ドイツ北東部の旧地方名）

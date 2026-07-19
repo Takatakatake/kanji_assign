@@ -1,20 +1,89 @@
-# 優先順位(層順)包括監査 v2 台帳  (base=min band_rank は構造保証・逆転はband誤ラベル時のみ)
-# arketip署名 = 多メンバー群でbare基本形が真PIVなのに同群に真PEJVOメンバー
+# 優先順位(層順)包括監査 v3 台帳  CSV2890(t0)>PEJVO(t1)>PIV(t2) を独立ground-truthで検証
+# tier: CSV2890=CSVを独立照合 / PEJVO・PIV=学術版原本の行位置+【PIV】タグ (band非依存)
+# base=min band_rank は C=br*1000+P で構造保証。逆転はband誤ラベル/意図的override時のみ。
+# CSV2890照合: rows=2890 matched=2508(86.8%) 語根=2413 未照合rows=382
 
-## [A] arketip型 新規逆転疑い(既知20群除く) = 0件  (0が理想)
-groupkey	bare(真PIV)	band	同群の真PEJVOメンバー
+## [A] 層順逆転(bare.tier より高優先=小tierのメンバーが非base) = 全31件
+#   NEW=7(0が必須=未説明の違反) / base_override=4(意図) / ratified現状維持=20(既知20群)
+groupkey	base	base_tier	高優先メンバー(逆転相手)	分類
+咏	c^ant	2=PIV	psalm(t1=PEJVO);kantik(t1=PEJVO)	NEW
+旋	gir	2=PIV	pivot(t1=PEJVO);spiral(t1=PEJVO);rotaci(t1=PEJVO);turb(t1=PEJVO);giro(t1=PEJVO);ciklon(t1=PEJVO);piruet(t1=PEJVO)	NEW
+架	rak	2=PIV	trus(t1=PEJVO);stabl(t1=PEJVO);c^arpent(t1=PEJVO);skafald(t1=PEJVO);c^asi(t1=PEJVO)	NEW
+梗	infarkt	2=PIV	pedunkl(t1=PEJVO)	NEW
+相关	korelaci	2=PIV	korelativ(t1=PEJVO)	NEW
+硫	sulf	2=PIV	sulfur(t1=PEJVO)	NEW
+胖	obez	2=PIV	korpulent(t1=PEJVO)	NEW
+乐主义	hedonism	2=PIV	optimism(t1=PEJVO)	ratified
+乐家	hedonist	2=PIV	optimist(t1=PEJVO)	ratified
+傲	arog	1=PEJVO	arogant(t0=CSV2890)	base_override
+厘	centi	1=PEJVO	centimetr(t0=CSV2890)	base_override
+哲	filozof	1=PEJVO	filozofi(t0=CSV2890)	base_override
+喂	ho	1=PEJVO	he(t0=CSV2890)	base_override
+拍型	fototip	2=PIV	fototipi(t1=PEJVO)	ratified
+振具	vibrator	2=PIV	oscilator(t1=PEJVO)	ratified
+气学	aerologi	2=PIV	meteologi(t1=PEJVO);meteorologi(t1=PEJVO)	ratified
+气学家	aerolog	2=PIV	meteolog(t1=PEJVO);meteorolog(t1=PEJVO)	ratified
+气计	gasmetr	2=PIV	aerometr(t1=PEJVO);gasometr(t1=PEJVO)	ratified
+渗计	osmozmetr	2=PIV	osmozometr(t1=PEJVO)	ratified
+神经学	nervologi	2=PIV	neu^rologi(t1=PEJVO)	ratified
+肠炎	ileit	2=PIV	enterit(t1=PEJVO)	ratified
+胃炎	gastrit	2=PIV	stomakit(t1=PEJVO)	ratified
+胚源	embrigenez	2=PIV	embriogenez(t1=PEJVO)	ratified
+脉炎	flebit	2=PIV	vejnit(t1=PEJVO)	ratified
+色计	kolormetr	2=PIV	kolorometr(t1=PEJVO)	ratified
+苔植	brifit	2=PIV	briofit(t1=PEJVO)	ratified
+菌学	mikologi	2=PIV	bakteriologi(t1=PEJVO)	ratified
+蛾	mote	2=PIV	bombiks(t1=PEJVO)	ratified
+速计	takimetr	2=PIV	rapidometr(t1=PEJVO)	ratified
+高测	altometri	2=PIV	hipsometri(t1=PEJVO)	ratified
+高计	altimetr	2=PIV	altometr(t1=PEJVO);hipsometr(t1=PEJVO)	ratified
 
-## [D] 純band_rank逆転(base.band_rankが同群メンバーより悪い=層順違反) = 4件  (0が理想)
-#     C=band_rank*1000+P で base=min band_rank が構造保証。>0なら base_override強制かバグ
-#     うち _base_override.tsv 由来(意図的・ユーザー承認)=4件 / 想定外=0件
-groupkey	base	base_band	より良band_rankのメンバー	判定
-傲	arog	pejvo	arogant(basic)	base_override(意図的)
-厘	centi	pejvo	centimetr(basic)	base_override(意図的)
-哲	filozof	pejvo	filozofi(basic)	base_override(意図的)
-喂	ho	pejvo	he(func)	base_override(意図的)
+## [B] CSV2890語根の band誤ラベル(br0でない=優先度喪失の温床) = 39件(うち非bare=20)
+#   CSV2890は band∈basic/suf/pref/prep/correl/num/func(br0) が正。bare=True(単独/基本形)なら無害・
+#   bare=False(非基本形)は同綴群で下位語にbaseを譲っている可能性=要点検。
+root	band	tier	bare?	groupkey	Unified_Level
+c^asi	pejvo	PEJVO	False	架	5.83
+cigar	pejvo	PEJVO	False	烟	9.0
+citron	pejvo	PEJVO	False	果	7.9
+gitar	pejvo	PEJVO	False	琴	8.79
+ju	pejvo	PEJVO	False	越	6.83
+kau^ri	piv	PIV	False	木	8.79
+kvi	piv	PIV	False	静	1.77
+lund	cal	PEJVO	False	月	3.77
+mard	cal	PEJVO	False	火	3.77
+merkred	cal	PEJVO	False	水	3.77
+nj	pejvo	PEJVO	False	女	7.33
+plur	pejvo	PEJVO	False	多	5.83
+pseu^d	pejvo	PEJVO	False	伪	8.79
+sabat	cal	PEJVO	False	土	3.77
+sekc	sci	PEJVO	False	切	9.0
+taksi	pejvo	PEJVO	False	车	8.79
+tam	piv	PIV	False	草	1.77
+ve	pejvo	PEJVO	False	哀	8.79
+vendred	cal	PEJVO	False	金	3.77
+violon	pejvo	PEJVO	False	琴	8.9
+april	cal	PEJVO	True	四月	3.77
+bronz	pejvo	PEJVO	True	青铜	8.9
+decembr	cal	PEJVO	True	十二月	3.77
+februar	cal	PEJVO	True	二月	3.77
+ha	pejvo	PEJVO	True	啊	5.67
+ho	pejvo	PEJVO	True	喂	5.67
+j^uri	pejvo	PEJVO	True	陪审	8.4
+januar	cal	PEJVO	True	一月	3.77
+juli	cal	PEJVO	True	七月	3.77
+juni	cal	PEJVO	True	六月	3.77
+kilogram	piv	PEJVO	True	千克	6.0
+maj	cal	PEJVO	True	五月	3.77
+mart	cal	PEJVO	True	三月	3.77
+mikrofon	piv	PEJVO	True	微声	8.79
+novembr	cal	PEJVO	True	十一月	3.77
+nu	pejvo	PEJVO	True	嘿	1.77
+oktobr	cal	PEJVO	True	十月	3.77
+septembr	cal	PEJVO	True	九月	3.77
+telefon	piv	PEJVO	True	远声	5.83
 
-## [C] band=piv だが真PEJVO(<=44440・PIVタグ無)の誤ラベル語 = 802件
-#     bare列=その語が漢字群のbare基本形か(Trueなら真PEJVO語が正しくbareを保持=無害)
+## [C] band=piv だが真PEJVO(<=44440・PIVタグ無)の誤ラベル語(温床) = 802件
+#   bare列=その語が漢字群のbare基本形か(Trueなら真PEJVO語が正しくbare保持=無害)
 root	行	groupkey	bareか
 acetat	173	醋盐	True
 administrator	282	管员	True
@@ -818,3 +887,65 @@ zoolog	44075	兽学家	True
 zoster	44092	草	False
 sargas	44187	藻	False
 montenegr	44359	山黑	True
+
+## 未照合CSV行(参考・照合改善余地) = 382件
+?	-a
+?	-as
+?	-aĉ-
+?	-e
+?	-i
+?	-is
+?	-j
+?	-n
+?	-o
+?	-os
+?	-u
+?	-um-
+?	-us
+?	-ĉj-
+?	Afriko
+?	Ameriko
+?	Atlantiko
+?	Azio
+?	Aŭstralio
+?	Esperanto
+?	Eŭropo
+?	Mediteraneo
+?	Pacifiko
+?	adiaŭ
+?	afiŝo
+?	almenaŭ
+?	ambaŭ
+?	ankaŭ
+?	ankoraŭ
+?	anstataŭ
+?	antaŭ
+?	anĝelo
+?	apenaŭ
+?	aplaŭdi
+?	aranĝi
+?	arĝento
+?	aĉeti
+?	aĝo
+?	aŭ
+?	aŭdi
+?	aŭgusto
+?	aŭskulti
+?	aŭto
+?	aŭtobuso
+?	aŭtomato
+?	aŭtomobilo
+?	aŭtoritato
+?	aŭtoro
+?	aŭtuno
+?	baldaŭ
+?	bandaĝo
+?	bedaŭri
+?	branĉo
+?	broŝuro
+?	burĝono
+?	buĝeto
+?	buŝo
+?	danĝero
+?	dediĉi
+?	deĵori
