@@ -9992,7 +9992,7 @@ est/ont/ec/o⟦是/将/性/o⟧:未来,将来;【Ｇ】未来（時制）
 est/ont/o⟦是/将/o⟧:=estonteco（未来）
 Eston/uj/o:【国名】=Estonio（エストニア）
 -estr-⟦长ᴱ⟧:{Ｂ}［接尾辞］（長を示す）,>>urbestro,>>lernejestro
-estrad/o⟦长行/o⟧:{Ｏ}=podio（演壇）
+estrad/o⟦讲台/o⟧:{Ｏ}=podio（演壇）
 estr/ad/o⟦长ᴱ/行/o⟧:統率,采配（さいはい）
 estragon/o:《Ｎ》【植】エストラゴン,タラゴン,>>drakunkolo
 estr/ar/a⟦长ᴱ/群/a⟧:役員会の
@@ -10670,7 +10670,7 @@ fek/aj^/o⟦粪ᶠ/物/o⟧:（大量の）大便,糞（ふん）
 fek/i⟦粪ᶠ/i⟧:{Ｏ}［自］大便をする,糞をする,>>kaki
 fek/o⟦粪ᶠ/o⟧:大便,くそ,糞（ふん）
 fek/seg^/o⟦粪ᶠ/椅/o⟧:便座,洋式便器
-fekul/o⟦粪者/o⟧:【料】=amelfaruno（でんぷん）
+fekul/o⟦淀粉/o⟧:【料】=amelfaruno（でんぷん）
 fek/ul/o⟦粪ᶠ/者/o⟧:くそ野郎,くそったれ
 fekund/a⟦肥/a⟧:繁殖力のある,多産な;《転》実り多い,肥沃（ひよく）な
 fekund/a s^af/in/o⟦肥/a 羊/女/o⟧:多産な雌羊
@@ -25223,7 +25223,7 @@ metod/ism/o⟦法ᴹ/主义/o⟧:【キ】メソジスト派の教義
 metod/ist/o⟦法ᴹ/家/o⟧:【キ】メソジスト教徒（プロテスタントの一派）
 metod/o⟦法ᴹ/o⟧:{Ｂ}方法,方式;【学】測定法
 Metod/o:【人名】聖メトディオス（９世紀モラビアで活動したキリスト教の伝道師，聖キュリロスの兄）,>>Cirilo
-metodologi/o⟦法学/o⟧:【哲】方法論
+metodologi/o⟦方法学/o⟧:【哲】方法論
 metonimi/o⟦喻ᴹᴺ/o⟧:【修】換喩（かんゆ）（plumoでverkadoを表すなど、隣接関係による比喩）
 -metr-⟦米⟧:［学術接尾辞］（計測器を示す）,>>ampermetro
 metr/a⟦米/a⟧:メートル（法）の
@@ -28473,7 +28473,7 @@ Ontari/o:【地名】オンタリオ湖（五大湖の一，北米）
 Ontari/o:【地名】オンタリオ州（カナダ）
 ontogenez/o⟦在源/o⟧:【生】個体発生,=individugenezo
 ontogeni/o:【生】=individugenezo（個体発生）
-ontologi/o⟦在学/o⟧:【哲】存在論
+ontologi/o⟦存在学/o⟧:【哲】存在論
 oomot/an/o⟦oomot/员ᴬ/o⟧:大本信徒
 Oomot/o:【宗】大本教
 -op-⟦组⟧:{Ｂ}［接尾辞］（集合を示す）,>>duope
@@ -47776,7 +47776,7 @@ film/ind/a⟦影ᶠ/值/a⟧:【PIV】Tia, ke g^i meritas esti filmita; tau^ga p
 film/uj/o⟦影ᶠ/器/o⟧:【PIV】C^iu el la du rondaj kestoj, entenantaj la filmon en kamerao au^ dum transporto.
 filodendr/o⟦草ᶠᴺ/o⟧:【植】【PIV】G. (Genro) (Philodendron el arumacoj) de plantoj - plejparte epifitaj herbecaj lianoj kun aeraj radikoj - kun diversgrandaj k -formaj folioj; 350−400 sp-oj (specioj) el la arbaroj de tropika Ameriko; multaj sp-oj (specioj) hejme kultivataj por ornama foliaro. see monstero.
 filodi/o:【植】【PIV】Petiolo platig^inta k larg^ig^inta, limbaspekta; limbeca petiolo: filodioj ekzistas c^e folioj kun limbo nula au^ tre malgranda, ekz. (ekzemple) en la g. (genro) akacio.
-filogenez/o⟦儿源/o⟧:【生】【PIV】Kladogenezo.
+filogenez/o⟦系源/o⟧:【生】【PIV】Kladogenezo.
 Filoktet/o:【PIV】Helena virnomo, k titolo de Sofokla tragedio.
 Filomel/o:【PIV】Malfelic^a princino, s^ang^ita al najtingalo.
 Filon/o:【PIV】Helena virnomo, i.a. (interalie, inter aliaj) de granda Aleksandria juda filozofo (c^. (c^irkau^) 13−54).
@@ -48814,8 +48814,8 @@ helik/form/a⟦螺ᴴ/形/a⟧:【PIV】Simila al la formo de la helika konko: h
 helikoni/o⟦草ᴴᴱ/o⟧:【植】【PIV】G. (Genro) (Heliconia el muzacoj) de plurjaraj, g^is 3 m altaj herboj, aspektantaj kiel nanaj bananujoj; 100−200 tropikaj sp-oj (specioj) el Ameriko k SU-Pacifikaj insuloj, pluraj kultivataj por ornamaj spatoj, okulfrape koloraj, rug^aj i.a. (interalie, inter aliaj) c^e H. bihai el tropika Ameriko.
 heliocentr/a⟦日央/a⟧:【天】【PIV】Mezurata rilate al la centro de Suno.
 Heliodor/o:【史】【PIV】Nomo de pluraj helenoj, i.a. (interalie, inter aliaj) de militestro, kiu prirabis la Jerusaleman templon.
-heliograf/o⟦日记/o⟧:【軍】【気】【PIV】1 Optika telegrafa aparato. 2 Instrumento por indiki la dau^ron de sunbrilo, tagon post tago.
-heliografi/o⟦日志/o⟧:【PIV】Telekomunikada sistemo, bazita sur la transsendo de lumsignaloj per speguloj.
+heliograf/o⟦日光镜/o⟧:【軍】【気】【PIV】1 Optika telegrafa aparato. 2 Instrumento por indiki la dau^ron de sunbrilo, tagon post tago.
+heliografi/o⟦日光信/o⟧:【PIV】Telekomunikada sistemo, bazita sur la transsendo de lumsignaloj per speguloj.
 heliogravur/o⟦日刻/o⟧:【PIV】Fotokemia kavpresa sistemo (en kiu la kavoj ricevas la inkon). -> fotogravuro.
 helioskop/o⟦日镜/o⟧:【天】【PIV】Teleskopo, arang^ita speciale por observi Sunon.
 helioterapi/o⟦日疗/o⟧:【PIV】= sunterapio.
@@ -48913,7 +48913,7 @@ hetero/⟦异ᴴ/⟧:【化】【PIV】Pref. (Prefikso), montranta heterogenecon
 heterodin/o⟦外差/o⟧:【PIV】Oscililo por suralmeti neamortizig^antan ondon de malmulte diferenca frekvenco sur ricevata ondo, por krei per la interferadaj s^veloj signalon, kies frekvenco ofte situas en la muzika zono: heterodina fenomeno (batig^o pp (se paroli pri) radioricevilo).
 heterodoks/a:【PIV】Malortodoksa. Vd hereza.
 heterogamet/a⟦异配子/a⟧:【生】【PIV】Produktanta du tipojn de gametoj, kiuj diferencas pro seksaj kromosomoj: la virseksaj mamuloj, la inseksaj birdoj estas heterogametaj.
-heteronomi/o⟦异学/o⟧:【政】【PIV】Situacio de persono au^ de kolektivo, kiu ricevas la leg^ojn el ekstero. Vd au^tonomio.
+heteronomi/o⟦他律/o⟧:【政】【PIV】Situacio de persono au^ de kolektivo, kiu ricevas la leg^ojn el ekstero. Vd au^tonomio.
 heteropter/oj⟦异翅/oj⟧:【動】【PIV】Subordo (Heteroptera) de insektoj el la ordo de hemipteroj, kies antau^aj flugiloj estas duonelitroj: cimo, hidrometro, geriso estas heteropteroj. Sin. (sinonimo) cimoj 1.
 heterosom/o:【生】【PIV】Seksa kromosomo.
 heterotrof/a:【生】【PIV】Bezonanta organikan nutraj^on kiel c^e animaloj k saprofitoj. Vd au^totrofa, au^ksotrofa.
@@ -49581,7 +49581,7 @@ Izis/o:【PIV】Plej granda diino de Egiptio, edzino de Oziriso k patrino de Hor
 izo/⟦等ᴵ/⟧:【化】【PIV】Pref. (Prefikso), montranta izomeran formon: izobutano estas izomero de normala butano. Rim. (Rimarko) La vortkomenco izo trovig^as en iuj neanalizeblaj sciencaj nomoj: izobaro, izobato, izocelo, izoelektra k.a. (kaj aliaj).
 izobat/o:【PIV】Linio el punktoj de sama profundo subtera au^ subakva.
 izoelektr/a⟦等电/a⟧:【化】【PIV】(pp (se paroli pri) molekulo) Tia, ke g^iaj pozitivaj k negativaj s^argoj estas egalaj: izoelektra punkto (la pH, c^e kiu molekulo estas izoelektra) de aminacido, de proteino.
-izoglos/o⟦等注/o⟧:【語】【PIV】En la teritorio de lingvo au^ dialekto, linio dividanta la lokojn, kiuj diferencas inter si per iu lingva trajto.
+izoglos/o⟦等语/o⟧:【語】【PIV】En la teritorio de lingvo au^ dialekto, linio dividanta la lokojn, kiuj diferencas inter si per iu lingva trajto.
 izogon/o:【PIV】Linio el punktoj de sama magneta deklinacio.
 izohips/o:【PIV】Linio el punktoj de sama altitudo.
 izoklin/o⟦等斜/o⟧:【PIV】Linio el punktoj de sama magneta inklinacio.
@@ -55107,7 +55107,7 @@ Skit/i/o:【PIV】Regiono, norde de Balkanio k de la Nigra Maro, pasintece log^a
 Skit/uj/o:【PIV】Regiono, norde de Balkanio k de la Nigra Maro, pasintece log^ata de skitoj.
 skiz/ec/o⟦草ˢ/性/o⟧:【PIV】Eco de io provita, ne finita, ankorau^ krude sendetala.
 skizofit/oj⟦菌ˢᴷ/oj⟧:【PIV】(ark. (arkaismo, arkaisme)) = bakterioj vs (vastasence).
-skizomicet/oj⟦草菌/oj⟧:【PIV】(ark. (arkaismo, arkaisme)) = bakterioj, eksklude de la cianobakterioj.
+skizomicet/oj⟦裂菌/oj⟧:【PIV】(ark. (arkaismo, arkaisme)) = bakterioj, eksklude de la cianobakterioj.
 sklare/o⟦草ˢᴿ/o⟧:【植】【PIV】Sp. (Specio) de salvio (Salvia sclarea) el S Eu^ropo k U k C Azio, tre aroma pro multaj esencaj glandoj, kun hele lilaj floroj, kultivata por medicino k parfumindustrio.
 sklav/in/o⟦奴/女/o⟧:【PIV】Virino en sklaveco: Saraj diris al Abram: eniru do al mia sklavino, eble mi havos infanojn per s^i .
 sklerant/o⟦草ˢᴷᴸ/o⟧:【植】【PIV】G. (Genro) (Scleranthus el kariofilacoj) de unu-, du-k plur-jaraj herboj kun malgrandaj, blanketaj au^ verdetaj, senpetalaj floroj; c^. (c^irkau^) 15 sp-oj (specioj) el Eu^ropo, Azio, Afriko k Au^stralio, c^ie enkondukitaj.

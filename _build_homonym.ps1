@@ -106,6 +106,15 @@ $existing=@(
  @('klor','绿','klor/o/fic/o,klor/o/fic/oj,klor/o/fit/o,klor/o/fit/oj','','chloro-(χλωρός緑)→绿。緑藻klorofic/klorofit(verdalgoj)。氯(塩素kloroform)はwrong-morpheme。klorofil叶绿と整合。2026-07-19'),
  # caco-(希κακός=悪い/劣った)→劣。kakografi悪筆/誤記(Malbela au^ erarplena skribmaniero)。屎(feces)はwrong-morpheme(κακός=badで糞でない)。kakofoni=噪(騒音)とは別描画。劣志=劣った書き方。2026-07-19 REVIEW専用パス是正。
  @('kak','劣','kak/o/grafi/o,kak/o/grafi/a','','caco-(κακός悪い)→劣。悪筆kakografi(劣志=劣った書き方)。屎(feces)はwrong-morpheme。騒音kakofoni=噪は別。2026-07-19'),
+ # 第22回追加(別AI監査で私の据置triage漏れを是正) — REVIEW残の明白wrong-morpheme4系(全て語スコープ)。
+ # izo/glos=等语(等語線isogloss)。glos=希γλῶσσα(言語/舌)→语。注(注釈gloss=glosaro注释表)/舌(舌炎glosit)は別sepで不干渉=isoglossのglosのみ语。
+ @('glos','语','izo/glos/o','','isogloss(等語線)のglos→语(希γλῶσσα言語)。注(glosaro注)/舌(glosit舌炎)は別。2026-07-19'),
+ # skiz/o/micet=裂菌(Schizomycetes裂殖菌)。schizo=希σχίζω(分裂)→裂。skiz/o=草(sketch草稿)は別義で不干渉=skizomicetのskizのみ裂。skizofit=菌(whole-word)は無関係。
+ @('skiz','裂','skiz/o/micet/o,skiz/o/micet/oj','','Schizomycetes(裂菌)のskiz→裂(schizo分裂)。sketch草稿skiz/o=草は別義。2026-07-19'),
+ # fil/o/genez=系源(系統発生phylogenesis)。filo=希φῦλον(系統/種族)→系。息子fil/o=儿・愛philo=爱・phyllo葉は別=filogenezのfilのみ系(1形のみ)。
+ @('fil','系','fil/o/genez/o','','phylogenesis(系統発生)のfil→系(φῦλον系統)。息子儿/愛爱は別義。2026-07-19'),
+ # hetero/nomi=异律(他律heteronomy)。nomi=希νόμος(法)→律。学(-nomy科学astronomi天文学)/治(autonomi自治)は別=heteronomiのnomiのみ律。自治au^tonomiと対の他律。
+ @('nomi','律','hetero/nomi/o','','heteronomy(他律)のnomi→律(νόμος法)。-nomy科学=学/autonomi自治は別。2026-07-19'),
  @('sol','液','cito/sol/o,c^el/sol/o','','Latin solutio(溶液)→液。細胞質液cytosol(cito/sol=胞/液)・ĉelsol。唯一sol/a・独唱sol/o等の sol=唯 は維持(word-scoped)。2026-07-18 偽友スイープR3'),
  @('fen','现','fen/o/tip/o','','phainein(希現れる·示す)→现。表現型phenotype(fen/o/tip=现/型)。フェーン風feno=焚风・フェノールfenol(化学)は別。fenomen现象と同源。2026-07-18 偽友スイープR3'),
  @('kromi','色','homo/kromi/o,fot/o/kromi/o','','chroma(希色)→色。保護色homochromy(homo/kromi=同/色)・天然色写真術fotokromi(fot/o/kromi=拍/色)。金属クロムkromi/o=金・クロム酸塩kromiat等の化学は金維持(word-scoped)。krom→色と同源。2026-07-18 偽友スイープR3'),

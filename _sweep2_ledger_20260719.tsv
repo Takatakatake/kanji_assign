@@ -137,3 +137,56 @@ KEEP47	akro=锐master	akronim锐名/akrocianoz锐青症	master一貫(tip/peak)
 KEEP47	atomic/多重同綴	bolometr沸计(bol多重同綴)/fekul粪者(faecula稀)/estrad长行(atomic)/klaŭstr修院/aŭl礼堂/bibliofil经爱/filogenez儿源(f/i/l Phase97管理)	清字なし/管理済
 KEEP47_中程度衝突	elektroskop电镜/superpozici上位/aerodrom气道/hidrodinamik水力	faithful mirror+技術文脈で解釈可能=据置(要ユーザー裁定なら是正可)
 SYNC	Liberurb	Liberurb/o->Liber/urb/o	正本14:48ドリフト同期(リーブルビル=自由都市の偽分解付与)。地名ゆえ§7でlatin維持([F]=0)
+# ===== 2026-07-19 第22回続: batch3(別AI監査で据置triage漏れ10系是正)+全58正規化 =====
+# 別AI監査(正確)=私の第22回据置triageが甘く、明白衝突4(heliograf日记/heliografi日志/metodologi法学/ontologi在学)とwrong-morpheme4(heteronomi/izoglos/skizomicet/filogenez)とatomic2(fekul/estrad)を据置していた→是正。計21是正(batch1:6+batch2:5+batch3:10)・据置37。
+APPLIED	heliograf	日记->日光镜	日记=diary衝突(helio日+graf记の融合)。学術k列
+APPLIED	heliografi	日志->日光信	日志=log/journal衝突。学術k列
+APPLIED	metodologi	法学->方法学	法学=jurisprudence衝突。学術k列。学習者metod/o/logi=法/学 faithful維持
+APPLIED	ontologi	在学->存在学	在学=enrolled衝突。学術k列。学習者ont/o/logi=在/学維持
+APPLIED	heteronomi	异学->他律	nomi=νόμος法のwrong-morpheme(異学≠他律)。両版(学術他律+学習者sep nomi→律=异律)。autonomi自治と対
+APPLIED	izoglos	等注->等语	glos=γλῶσσα言語のwrong-morpheme(注=glosaro/舌=glosit別義)。両版(学術+学習者sep glos→语)
+APPLIED	skizomicet	草菌->裂菌	skizo=σχίζω分裂のwrong-morpheme(草=sketch草稿skizo別義)。両版(学術+学習者sep skiz→裂)
+APPLIED	filogenez	儿源->系源	filo=φῦλον系統のwrong-morpheme(儿=息子/爱=philo別義)。両版(学術+学習者sep fil→系・1形のみ)
+APPLIED	fekul	粪者->淀粉	faecula澱粉(feces誤読)。学術idiomatic。学習者fek/ul=粪/者は偽分解§3.1維持
+APPLIED	estrad	长行->讲台	estrado演壇(atomic loanword・leader-action誤読)。学術idiomatic。学習者estr/ad維持
+# --- 別AI監査の事実是正 ---
+CORRECTION	filantropi	博爱=未参照(UNREF)	出力はfilantrop/i/o⟦博爱者/i/o⟧(filantrop=博爱者+i+o)。filantropi whole-word entryはDICT非分解ゆえ未到達=実効出力是正は20件。_p_workは前方互換で博爱維持・表示は博爱者(固定形態素崩さず)
+CORRECTION	deism_teism_tier	PIV->PEJVO	deism6076/deist6077/teism40044/teist40045行≤44440=真の出典位置は旧PEJVO(band=piv誤ラベル)。同層ゆえbase_override(識別子安定化)は有効・tier誤記のみ是正
+# --- 全58正規化disposition(是正21/据置37) ---
+DISP	au^l	KEEP	礼堂=auditorium大講堂で解釈可
+DISP	aerodrom	KEEP	气道=air-track~airfield近縁・drom道faithful(中程度衝突だが据置)
+DISP	akrocianoz	KEEP	锐青症=akro锐master一貫
+DISP	akronim	KEEP	锐名=akro锐一貫
+DISP	klau^str	KEEP	修院=cloister修道院で解釈可
+DISP	astigmatism	KEEP	散光主义=-ism faithful(散光=乱視正字)
+DISP	au^tobiografi	KEEP	自生志=biografi生志 faithful mirror
+DISP	bolometr	KEEP	沸计=bol多重同綴・熱測定で解釈可
+DISP	demonstrativ	KEEP	证被能=faithful mirror
+DISP	bibliofil	KEEP	经爱=book-love解釈可
+DISP	elektroskop	KEEP	电镜=both電気instrument近縁(中程度衝突だが据置)
+DISP	eksponometr	KEEP	展计=expose-meter解釈可
+DISP	dividend	KEEP	分须=divid/end faithful gerundive
+DISP	gastronom	KEEP	胃学=stomach-study解釈可
+DISP	heksametr	KEEP	六米=metr米master(borderline据置)
+DISP	hidrodinamik	KEEP	水力=water-force~hydrodynamics近縁
+DISP	izostaz	KEEP	等滞=equal-stasis~isostasy解釈可
+DISP	kartograf	KEEP	卡记=card-record非衝突
+DISP	kartografi	KEEP	卡志=card-record
+DISP	megommetr	KEEP	兆计=mega-ohm-meter解釈可
+DISP	metastaz	KEEP	超滞=beyond-stasis~metastasis解釈可
+DISP	mapotek	KEEP	图包=map-collection解釈可
+DISP	meteorism	KEEP	陨主义=-ism・atomic医学・清字なし
+DISP	mikroorganism	KEEP	微器主义=-ism faithful
+DISP	monoplan	KEEP	单划=single-wing解釈可
+DISP	organism	KEEP	器主义=-ism faithful(第18回)
+DISP	paroksism	KEEP	极主义=-ism faithful
+DISP	pentametr	KEEP	五米=metr米master(borderline据置)
+DISP	superpozici	KEEP	上位=positioned-above~superposition近縁(borderline据置)
+DISP	termogenez	KEEP	热源=heat-genesis解釈可
+DISP	vaginism	KEEP	阴道主义=-ism faithful
+DISP	demoraliz	KEEP	从德化=de-privative複雑・清字なし(要検討候補)
+DISP	izoton	KEEP	等调=equal-tone~isotonic解釈可
+DISP	mitomani	KEEP	神话狂=myth-mania解釈可
+DISP	metafizik	KEEP	超物理=beyond-physics~metaphysics解釈可
+DISP	metamorfoz	KEEP	超形症=beyond-form~metamorphosis(e63b718裁定済)
+DISP	renom	KEEP	再名=re-named~renowned faithful

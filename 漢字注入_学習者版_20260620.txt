@@ -2016,7 +2016,7 @@ antikv/aj^/ist/o⟦古/物/家/o⟧:骨董商
 antikv/aj^/o⟦古/物/o⟧:古代の遺物,骨董品（こっとうひん）
 antikv/ec/o⟦古/性/o⟧:古代,大昔;古さ
 antikv/ul/o⟦古/者/o⟧:古代人
-Antilebanon/o:【地名】アンチレバノン山脈（シリア・レバノン国境）
+Anti/lebanon/o:【地名】アンチレバノン山脈（シリア・レバノン国境）##偽分解
 Antil/oj:【国名】=Nederlandaj Antiloj
 Antil/oj:【地名】アンティル諸島（中部アメリカ）
 antilop/o⟦羚ᴬ/o⟧:{Ｏ}【動】レイヨウ,アンテロープ（総称）
@@ -3323,7 +3323,7 @@ basbal/ej/o⟦棒球/所/o⟧:野球場
 basbal/o⟦棒球/o⟧:【運】野球,=bazopilko
 basedov/a mal/san/o⟦basedov/a 反/健/o⟧:【病】バセドウ病
 basen/o⟦盆ᴮ/o⟧:{Ｏ}泉水,ため池;船溜まり;（川の）流域;【地理】盆地,=rondvalo
-Baseter/o:【地名】バセテール（セントクリストファー・ネイビスの首都）
+Bas/e/ter/o:【地名】バセテール（セントクリストファー・ネイビスの首都）##偽分解
 bas/gitar/o⟦低/琴ᴳ/o⟧:【楽】ベースギター
 basi/o:【植】ホウキギ,ホウキグサ
 bas/ist/o⟦低/家/o⟧:【楽】=basulo（バス歌手）;ベース楽器奏者
@@ -7813,7 +7813,7 @@ dung/ofic/ej/o⟦雇/职/所/o⟧:職業紹介所
 dung/o/mon/o⟦雇/o/钱/o⟧:給金,>>salajro
 dung/o/soldat/o⟦雇/o/兵/o⟧:傭兵,雇い兵
 du/nivel/a⟦二/平ᴺ/a⟧:二層になった,二段式の
-Dunkirk/o:【地名】ダンケルク（フランス）
+Dun/kirk/o:【地名】ダンケルク（フランス）##偽分解
 dun/o⟦沙丘/o⟧:砂丘
 du/nombr/o⟦二/数/o⟧:【Ｇ】=dualo（双数）
 du/o⟦二/o⟧:（数字の）２;二つ組,対,>>paro
@@ -26087,7 +26087,7 @@ mont/ar/o⟦山/群/o⟧:山脈,山塊,山岳地帯,>>montoc^eno,>>masivo
 mont/baston/o⟦山/棒/o⟧:登山杖（とざんづえ）
 mont/eg/o⟦山/巨/o⟧:岳（たけ）
 mont/eg^/o⟦山/棱/o⟧:尾根,稜線（りょうせん）,>>montkresto
-Montekarl/o:【地名】モンテカルロ（モナコ）
+Mont/e/karl/o:【地名】モンテカルロ（モナコ）##偽分解
 Mont/e/krist/o:【地名】モンテクリスト島（イタリア西方）##偽分解
 mont/e/negr/an/o⟦山/e/黑ᴺᴱ/员ᴬ/o⟧:モンテネグロ人##偽分解
 Mont/e/negr/o:【国名】モンテネグロ（欧州）##偽分解
@@ -26110,7 +26110,7 @@ mont/o/pied/o⟦山/o/足/o⟧:ふもと
 mont/o/pint/o⟦山/o/尖/o⟧:山頂,頂上,>>montosupro
 Mont/o Roz/a:【地名】モンテローザ山（スイス・イタリア）
 mont/o/supr/o⟦山/o/顶/o⟧:山頂,頂上,>>montopinto
-Montparnas/o:【地名】モンパルナス（フランス）
+Mont/parnas/o:【地名】モンパルナス（フランス）##偽分解
 mont/pas/ej/o⟦山/过ᴾ/所/o⟧:峠,峠道,>>intermonto
 mont/paser/o⟦山/雀ᴾ/o⟧:【鳥】スズメ（雀）（種）（日本の普通種）
 Montpelier/o:【地名】モンペリエ（フランス）
@@ -34291,8 +34291,8 @@ ring/o/libr/o⟦环/o/书/o⟧:リング綴じの本;ルーズリーフ・ノー
 ring/o/voj/o⟦环/o/路/o⟧:環状道路
 rin/o/cer/o⟦鼻ᴿ/o/角/o⟧:{Ｏ}【動】サイ（犀）（属・科）##偽分解##エス的分解
 Rio-de-J^anejr/o:【地名】リオデジャネイロ（ブラジル）
-Riogrand/o:【地名】グランデ川（ブラジル）
-Riogrand/o:【地名】リオ・グランデ川（米国・メキシコ国境）
+Rio/grand/o:【地名】グランデ川（ブラジル）##偽分解
+Rio/grand/o:【地名】リオ・グランデ川（米国・メキシコ国境）##偽分解
 Rionegr/o:【地名】ネグロ川（アルゼンチン）
 Rionegr/o:【地名】ネグロ川（ブラジル，アマゾン川の支流）
 rip/aj^/o⟦肋/物/o⟧:【料】骨付あばら肉,背肉,リブ
@@ -43023,7 +43023,7 @@ ve/o⟦哀ⱽ/o⟧:悲嘆,嘆き,うめき声
 vepr/o⟦丛ⱽ/o⟧:（いばら・小低木などの）茂み,やぶ,>>dornejo,>>arbustaro,>>arbustotufo
 ver/a⟦真/a⟧:{Ｂ}本当の,実際の;真実の,真の,本物の
 ver/aj^/o⟦真/物/o⟧:事実,真相
-Verakruc/o:【地名】ベラクルス（メキシコ）
+Ver/a/kruc/o:【地名】ベラクルス（メキシコ）##偽分解
 ver/a kulp/ul/o⟦真/a 罪/者/o⟧:真犯人
 ver/am/a⟦真/爱/a⟧:真実を愛する,真実一路の,=verema,>>sincera,>>honesta
 verand/o:{Ｏ}【建】ベランダ（屋根が付いてガラス張りのものと開放式のものがある）;（日本家屋の）縁側
@@ -47776,7 +47776,7 @@ film/ind/a⟦影ᶠ/值/a⟧:【PIV】Tia, ke g^i meritas esti filmita; tau^ga p
 film/uj/o⟦影ᶠ/器/o⟧:【PIV】C^iu el la du rondaj kestoj, entenantaj la filmon en kamerao au^ dum transporto.
 filodendr/o⟦草ᶠᴺ/o⟧:【植】【PIV】G. (Genro) (Philodendron el arumacoj) de plantoj - plejparte epifitaj herbecaj lianoj kun aeraj radikoj - kun diversgrandaj k -formaj folioj; 350−400 sp-oj (specioj) el la arbaroj de tropika Ameriko; multaj sp-oj (specioj) hejme kultivataj por ornama foliaro. see monstero.
 filodi/o:【植】【PIV】Petiolo platig^inta k larg^ig^inta, limbaspekta; limbeca petiolo: filodioj ekzistas c^e folioj kun limbo nula au^ tre malgranda, ekz. (ekzemple) en la g. (genro) akacio.
-fil/o/genez/o⟦儿/o/源ᴳ/o⟧:【生】【PIV】Kladogenezo.##偽分解##過細分解 f/i/l/o/genez/o
+fil/o/genez/o⟦系ᶠᴸ/o/源ᴳ/o⟧:【生】【PIV】Kladogenezo.##偽分解##過細分解 f/i/l/o/genez/o
 Filoktet/o:【PIV】Helena virnomo, k titolo de Sofokla tragedio.
 Filomel/o:【PIV】Malfelic^a princino, s^ang^ita al najtingalo.
 Filon/o:【PIV】Helena virnomo, i.a. (interalie, inter aliaj) de granda Aleksandria juda filozofo (c^. (c^irkau^) 13−54).
@@ -48913,7 +48913,7 @@ hetero/⟦异ᴴ/⟧:【化】【PIV】Pref. (Prefikso), montranta heterogenecon
 heterodin/o⟦外差/o⟧:【PIV】Oscililo por suralmeti neamortizig^antan ondon de malmulte diferenca frekvenco sur ricevata ondo, por krei per la interferadaj s^veloj signalon, kies frekvenco ofte situas en la muzika zono: heterodina fenomeno (batig^o pp (se paroli pri) radioricevilo).
 heterodoks/a:【PIV】Malortodoksa. Vd hereza.
 hetero/gamet/a⟦异ᴴ/配子/a⟧:【生】【PIV】Produktanta du tipojn de gametoj, kiuj diferencas pro seksaj kromosomoj: la virseksaj mamuloj, la inseksaj birdoj estas heterogametaj.##偽分解(PIV正式分解)
-hetero/nomi/o⟦异ᴴ/学ᴺ/o⟧:【政】【PIV】Situacio de persono au^ de kolektivo, kiu ricevas la leg^ojn el ekstero. Vd au^tonomio.##偽分解
+hetero/nomi/o⟦异ᴴ/律ᴺ/o⟧:【政】【PIV】Situacio de persono au^ de kolektivo, kiu ricevas la leg^ojn el ekstero. Vd au^tonomio.##偽分解
 hetero/pter/oj⟦异ᴴ/翅/oj⟧:【動】【PIV】Subordo (Heteroptera) de insektoj el la ordo de hemipteroj, kies antau^aj flugiloj estas duonelitroj: cimo, hidrometro, geriso estas heteropteroj. Sin. (sinonimo) cimoj 1.##偽分解##エス的分解
 heterosom/o:【生】【PIV】Seksa kromosomo.
 heterotrof/a:【生】【PIV】Bezonanta organikan nutraj^on kiel c^e animaloj k saprofitoj. Vd au^totrofa, au^ksotrofa.
@@ -49581,7 +49581,7 @@ Izis/o:【PIV】Plej granda diino de Egiptio, edzino de Oziriso k patrino de Hor
 izo/⟦等ᴵ/⟧:【化】【PIV】Pref. (Prefikso), montranta izomeran formon: izobutano estas izomero de normala butano. Rim. (Rimarko) La vortkomenco izo trovig^as en iuj neanalizeblaj sciencaj nomoj: izobaro, izobato, izocelo, izoelektra k.a. (kaj aliaj).
 izobat/o:【PIV】Linio el punktoj de sama profundo subtera au^ subakva.
 izo/elektr/a⟦等ᴵ/电/a⟧:【化】【PIV】(pp (se paroli pri) molekulo) Tia, ke g^iaj pozitivaj k negativaj s^argoj estas egalaj: izoelektra punkto (la pH, c^e kiu molekulo estas izoelektra) de aminacido, de proteino.##偽分解(PIV正式分解)
-izo/glos/o⟦等ᴵ/注ᴳ/o⟧:【語】【PIV】En la teritorio de lingvo au^ dialekto, linio dividanta la lokojn, kiuj diferencas inter si per iu lingva trajto.##偽分解(PIV正式分解)
+izo/glos/o⟦等ᴵ/语ᴳ/o⟧:【語】【PIV】En la teritorio de lingvo au^ dialekto, linio dividanta la lokojn, kiuj diferencas inter si per iu lingva trajto.##偽分解(PIV正式分解)
 izogon/o:【PIV】Linio el punktoj de sama magneta deklinacio.
 izohips/o:【PIV】Linio el punktoj de sama altitudo.
 izo/klin/o⟦等ᴵ/斜/o⟧:【PIV】Linio el punktoj de sama magneta inklinacio.##偽分解(PIV正式分解)
@@ -55107,7 +55107,7 @@ Skit/i/o:【PIV】Regiono, norde de Balkanio k de la Nigra Maro, pasintece log^a
 Skit/uj/o:【PIV】Regiono, norde de Balkanio k de la Nigra Maro, pasintece log^ata de skitoj.
 skiz/ec/o⟦草ˢ/性/o⟧:【PIV】Eco de io provita, ne finita, ankorau^ krude sendetala.
 skizofit/oj⟦菌ˢᴷ/oj⟧:【PIV】(ark. (arkaismo, arkaisme)) = bakterioj vs (vastasence).
-skiz/o/micet/oj⟦草ˢ/o/菌ᴹᶜ/oj⟧:【PIV】(ark. (arkaismo, arkaisme)) = bakterioj, eksklude de la cianobakterioj.##偽分解(PIV正式分解)
+skiz/o/micet/oj⟦裂ˢᶻ/o/菌ᴹᶜ/oj⟧:【PIV】(ark. (arkaismo, arkaisme)) = bakterioj, eksklude de la cianobakterioj.##偽分解(PIV正式分解)
 sklare/o⟦草ˢᴿ/o⟧:【植】【PIV】Sp. (Specio) de salvio (Salvia sclarea) el S Eu^ropo k U k C Azio, tre aroma pro multaj esencaj glandoj, kun hele lilaj floroj, kultivata por medicino k parfumindustrio.
 sklav/in/o⟦奴/女/o⟧:【PIV】Virino en sklaveco: Saraj diris al Abram: eniru do al mia sklavino, eble mi havos infanojn per s^i .
 sklerant/o⟦草ˢᴷᴸ/o⟧:【植】【PIV】G. (Genro) (Scleranthus el kariofilacoj) de unu-, du-k plur-jaraj herboj kun malgrandaj, blanketaj au^ verdetaj, senpetalaj floroj; c^. (c^irkau^) 15 sp-oj (specioj) el Eu^ropo, Azio, Afriko k Au^stralio, c^ie enkondukitaj.

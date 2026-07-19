@@ -2016,7 +2016,7 @@ antikv/aj^/ist/o:骨董商
 antikv/aj^/o:古代の遺物,骨董品（こっとうひん）
 antikv/ec/o:古代,大昔;古さ
 antikv/ul/o:古代人
-Antilebanon/o:【地名】アンチレバノン山脈（シリア・レバノン国境）
+Anti/lebanon/o:【地名】アンチレバノン山脈（シリア・レバノン国境）##偽分解
 Antil/oj:【国名】=Nederlandaj Antiloj
 Antil/oj:【地名】アンティル諸島（中部アメリカ）
 antilop/o:{Ｏ}【動】レイヨウ,アンテロープ（総称）
@@ -3323,7 +3323,7 @@ basbal/ej/o:野球場
 basbal/o:【運】野球,=bazopilko
 basedov/a mal/san/o:【病】バセドウ病
 basen/o:{Ｏ}泉水,ため池;船溜まり;（川の）流域;【地理】盆地,=rondvalo
-Baseter/o:【地名】バセテール（セントクリストファー・ネイビスの首都）
+Bas/e/ter/o:【地名】バセテール（セントクリストファー・ネイビスの首都）##偽分解
 bas/gitar/o:【楽】ベースギター
 basi/o:【植】ホウキギ,ホウキグサ
 bas/ist/o:【楽】=basulo（バス歌手）;ベース楽器奏者
@@ -7813,7 +7813,7 @@ dung/ofic/ej/o:職業紹介所
 dung/o/mon/o:給金,>>salajro
 dung/o/soldat/o:傭兵,雇い兵
 du/nivel/a:二層になった,二段式の
-Dunkirk/o:【地名】ダンケルク（フランス）
+Dun/kirk/o:【地名】ダンケルク（フランス）##偽分解
 dun/o:砂丘
 du/nombr/o:【Ｇ】=dualo（双数）
 du/o:（数字の）２;二つ組,対,>>paro
@@ -26087,7 +26087,7 @@ mont/ar/o:山脈,山塊,山岳地帯,>>montoc^eno,>>masivo
 mont/baston/o:登山杖（とざんづえ）
 mont/eg/o:岳（たけ）
 mont/eg^/o:尾根,稜線（りょうせん）,>>montkresto
-Montekarl/o:【地名】モンテカルロ（モナコ）
+Mont/e/karl/o:【地名】モンテカルロ（モナコ）##偽分解
 Mont/e/krist/o:【地名】モンテクリスト島（イタリア西方）##偽分解
 mont/e/negr/an/o:モンテネグロ人##偽分解
 Mont/e/negr/o:【国名】モンテネグロ（欧州）##偽分解
@@ -26110,7 +26110,7 @@ mont/o/pied/o:ふもと
 mont/o/pint/o:山頂,頂上,>>montosupro
 Mont/o Roz/a:【地名】モンテローザ山（スイス・イタリア）
 mont/o/supr/o:山頂,頂上,>>montopinto
-Montparnas/o:【地名】モンパルナス（フランス）
+Mont/parnas/o:【地名】モンパルナス（フランス）##偽分解
 mont/pas/ej/o:峠,峠道,>>intermonto
 mont/paser/o:【鳥】スズメ（雀）（種）（日本の普通種）
 Montpelier/o:【地名】モンペリエ（フランス）
@@ -34291,8 +34291,8 @@ ring/o/libr/o:リング綴じの本;ルーズリーフ・ノート
 ring/o/voj/o:環状道路
 rin/o/cer/o:{Ｏ}【動】サイ（犀）（属・科）##偽分解##エス的分解
 Rio-de-J^anejr/o:【地名】リオデジャネイロ（ブラジル）
-Riogrand/o:【地名】グランデ川（ブラジル）
-Riogrand/o:【地名】リオ・グランデ川（米国・メキシコ国境）
+Rio/grand/o:【地名】グランデ川（ブラジル）##偽分解
+Rio/grand/o:【地名】リオ・グランデ川（米国・メキシコ国境）##偽分解
 Rionegr/o:【地名】ネグロ川（アルゼンチン）
 Rionegr/o:【地名】ネグロ川（ブラジル，アマゾン川の支流）
 rip/aj^/o:【料】骨付あばら肉,背肉,リブ
@@ -43023,7 +43023,7 @@ ve/o:悲嘆,嘆き,うめき声
 vepr/o:（いばら・小低木などの）茂み,やぶ,>>dornejo,>>arbustaro,>>arbustotufo
 ver/a:{Ｂ}本当の,実際の;真実の,真の,本物の
 ver/aj^/o:事実,真相
-Verakruc/o:【地名】ベラクルス（メキシコ）
+Ver/a/kruc/o:【地名】ベラクルス（メキシコ）##偽分解
 ver/a kulp/ul/o:真犯人
 ver/am/a:真実を愛する,真実一路の,=verema,>>sincera,>>honesta
 verand/o:{Ｏ}【建】ベランダ（屋根が付いてガラス張りのものと開放式のものがある）;（日本家屋の）縁側

@@ -87,6 +87,6 @@
 地测	geometri
 # 原型群の基本形をPEJVO prototip(学術32433行)へ固定。arke→原是正後、arketip(PIV 45289行)が短語根タイブレークでbare原型を奪取した層順逆転を是正(2026-07-18監査)
 原型	prototip
-# 神主义/神家群の基本形を先在のteism/teist(有神論/有神論者)へ固定。deism=从主义→神主义是正(2026-07-19 REVIEW専用パス・wrong-morpheme是正・diism整合)で新規同字群が生じ、deism/deistがタイブレークでbareを奪取しteism/teistが識別子付きに退化した(churn)。両者PIV同tierゆえ層順問題でなく識別子安定の維持=先在のteism/teistをbareに固定しdeism/deistに識別子を付与(現状維持型)。
+# 神主义/神家群の基本形を先在のteism/teist(有神論/有神論者)へ固定。deism=从主义→神主义是正(2026-07-19 REVIEW専用パス・wrong-morpheme是正・diism整合)で新規同字群が生じ、deism/deistがタイブレークでbareを奪取しteism/teistが識別子付きに退化した(churn)。**4語とも真の出典位置は旧PEJVO(deism6076/deist6077/teism40044/teist40045行≤44440)でband=piv誤ラベル(802件の一部)**=同層(PEJVO)内ゆえ層順問題でなく識別子安定の維持=先在のteism/teistをbareに固定しdeism/deistに識別子を付与(現状維持型・原型→prototip型)。2026-07-19 第22回で別AI監査により tier誤記(PIV→PEJVO)是正。
 神主义	teism
 神家	teist
