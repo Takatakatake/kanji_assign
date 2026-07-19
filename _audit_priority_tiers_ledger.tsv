@@ -221,8 +221,8 @@ dali	5796	菊	False
 decigram	5976	分克	True
 decilitr	5977	分升	True
 decimetr	5984	分米	True
-deism	6076	从主义	True
-deist	6077	从家	True
+deism	6076	神主义	False
+deist	6077	神家	False
 dekagram	6097	十克	True
 dekalitr	6099	十升	True
 dekalog	6101	十戒	True
@@ -320,8 +320,8 @@ fenikopter	10746	鸟	False
 fenomenologi	10759	现学	True
 fibrom	10911	纤瘤	True
 fibroskop	10912	纤镜	True
-filantropi	10994	爱人	False
-filantrop	10995	爱人	True
+filantropi	10994	博爱	True
+filantrop	10995	博爱者	True
 filologi	11041	爱学	True
 filolog	11044	爱学家	True
 fitogeografi	11189	植地志	True
@@ -442,7 +442,7 @@ homogen	14569	同生	True
 homonim	14578	同名	True
 horoskop	14678	钟镜	True
 ibis	14849	鸟	False
-ideografi	14877	意志	True
+ideografi	14877	表意	True
 ideogram	14880	意字	True
 ideolog	14883	意学家	True
 idiotism	14892	愚主义	True
@@ -761,7 +761,7 @@ reu^matism	33991	风湿主义	True
 rezultat	34111	果被	True
 ro	34413	木	False
 rojalism	34428	王主义	True
-rojalist	34429	王家	True
+rojalist	34429	王党者	True
 rosmaren	34556	香草	False
 ruditap	34640	蛤	False
 sakaroz	34886	蔗糖	True

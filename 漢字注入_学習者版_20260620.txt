@@ -6073,8 +6073,8 @@ de/ig/i⟦从/使/i⟧:［他］離す
 de/ig^/i⟦从/成/i⟧:［自］離れる
 de/ir/i⟦从/往/i⟧:［自］離れる,立ち去る
 de/ir/punkt/o⟦从/往/点/o⟧:出発点
-deism/o⟦从主义/o⟧:【哲】=diismo,理神論
-deist/o⟦从家/o⟧:【哲】=diisto,理神論者
+deism/o⟦神主义ᴰ/o⟧:【哲】=diismo,理神論
+deist/o⟦神家ᴰ/o⟧:【哲】=diisto,理神論者
 de/j^et/i⟦从/投/i⟧:［他］投げ落とす,投げ捨てる
 Dej^on/o:【地名】テジョン（大田，韓国）
 dej^or/a ministr/o⟦当/a 臣/o⟧:【日】用番老中（ようばんろうじゅう）【私家版】
@@ -22025,7 +22025,7 @@ liber/temp/o⟦自由/时/o⟧:休暇,ひま,余暇
 libertin/ism/o⟦荡ᴸ/主义/o⟧:【哲】（宗教上の）自由思想
 libertin/o⟦荡ᴸ/o⟧:【史】解放奴隷;【哲】自由思想家,=liberpensulo
 liber/ul/o⟦自由/者/o⟧:自由人,自由民
-Liberurb/o:【地名】リーブルビル（ガボンの首都）
+Liber/urb/o:【地名】リーブルビル（ガボンの首都）##偽分解
 liber/viv/ul/o⟦自由/活/者/o⟧:放蕩（ほうとう）者,道楽者
 liber/vol/a⟦自由/愿/a⟧:自由意志の
 liber/vol/e⟦自由/愿/e⟧:自由意志で
@@ -49813,7 +49813,7 @@ kakinok/o⟦柿ᴷ/o⟧:【植】【PIV】1 Sp. (Specio) de diospiro (Diospyros 
 kakinok/ber/o⟦柿ᴷ/浆果/o⟧:【PIV】Kakinoko 2.
 kakofoni/o⟦噪ᴷ/o⟧:【PIV】1 Kunmeto de sonoj, silaboj au^ vortoj, kies senharmonio vundas la orelon (ekz. (ekzemple) «g^is c^esig^' de l' sing^eno»). 2 Malagrabla efiko de senakordaj voc^oj, instrumentoj.
 kakofoni/a⟦噪ᴷ/a⟧:【PIV】Produktanta kakofonion.
-kak/o/grafi/o⟦屎/o/志ᴳ/o⟧:【PIV】Malbela au^ erarplena skribmaniero.##偽分解
+kak/o/grafi/o⟦劣ᴷ/o/志ᴳ/o⟧:【PIV】Malbela au^ erarplena skribmaniero.##偽分解
 kakosmi/o:【医】【PIV】Patologia stato de iu, kiu perceptadas malbonan odoron.
 kakt/ac/oj⟦仙人掌/科ᴬ/oj⟧:【植】【PIV】Fam. (Familio) (Cactaceae) de plurjaraj plantoj kun karnecaj, diversformaj tigoj k branc^oj, kiuj (escepte de Pereskia) surhavas skvamojn au^ pikilojn anst. (anstatau^) folioj; c^. (c^irkau^) 1400 sp-oj (specioj) el 97 g-oj (genroj) - i.a. (interalie, inter aliaj) ekino kakto, melon kakto, opuntio -, preskau^ c^iuj hejmaj en la aridaj regionoj de Ameriko, multaj pororname kultivataj.
 kakuminal/o:【語】【PIV】Sono, produktata per alproksimigo de la langopinto al la osta palato malantau^ la gingivoj (ekz. (ekzemple) iuj konsonantoj en lingvoj hindia, sarda k.a. (kaj aliaj)).
@@ -50425,9 +50425,9 @@ klor/it/o⟦氯/盐ᴵ/o⟧:【地質】【PIV】Mineralo el hidrata folisilicia
 klor/al/o⟦氯/al/o⟧:【化】【PIV】1 Triklor-acetaldehido, CCl 3-CHO. 2 Medikamento, CCl 3-CH(OH) 2, antisepsa, kvietiga k hipnoza. Sin. (sinonimo) klorala hidrato.##偽分解(PIV正式分解)##過細分解 klor/a/l/o
 kloramfenikol/o:【PIV】Antibiotiko, produktata de grundolog^a bakterio (Streptomyces venezuelae el aktinomicetoj) k uzata precipe kontrau^ la tifoida febro k la salmonelozoj.
 klorel/o⟦藻ᴷᴸ/o⟧:【植】【PIV】G. (Genro) (Chlorella) de dolc^akvaj unuc^elaj verdalgoj, rapide proliferantaj k tial tre uzataj en laboratoriaj eksperimentoj i.a. (interalie, inter aliaj) pri studado de la fotosintezo.
-klor/o/fic/oj⟦氯/o/藻ᶠᶜ/oj⟧:【植】【PIV】Klaso (Chlorophyceae el klorofitoj) de verdalgoj unuc^elaj, koloniaj au^ filamentaj, plejparte mikroskopaj. Vd ulvoficoj.##偽分解(PIV正式分解)
+klor/o/fic/oj⟦绿ᴷ/o/藻ᶠᶜ/oj⟧:【植】【PIV】Klaso (Chlorophyceae el klorofitoj) de verdalgoj unuc^elaj, koloniaj au^ filamentaj, plejparte mikroskopaj. Vd ulvoficoj.##偽分解(PIV正式分解)
 klorofil/az/o⟦叶绿/az/o⟧:【PIV】Enzimo malkombinanta klorofilon.##偽分解(PIV正式分解)
-klor/o/fit/oj⟦氯/o/植ᶠ/oj⟧:【植】【PIV】Filumo (Chlorophyta), v.s. proks. (proksimume) ampleksanta la verdalgojn; 4 klasoj, el kiuj kloroficoj, ulvoficoj k karaficoj; c^. (c^irkau^) 7 000−8 000 sp-oj (specioj).##偽分解(PIV正式分解)
+klor/o/fit/oj⟦绿ᴷ/o/植ᶠ/oj⟧:【植】【PIV】Filumo (Chlorophyta), v.s. proks. (proksimume) ampleksanta la verdalgojn; 4 klasoj, el kiuj kloroficoj, ulvoficoj k karaficoj; c^. (c^irkau^) 7 000−8 000 sp-oj (specioj).##偽分解(PIV正式分解)
 kloroplast/o:【生】【植】【PIV】Klorofilhava plastido, en kiu okazas fotosintezo k karbonasimilado en c^eesto de lumo k karbondioksido. Sin. (sinonimo) klorofilplastido.
 kloropren/o:【化】【PIV】2-klorobuta-1,3-dieno, CH 2 =CCl-CH=CH 2, bazo de neopreno.
 klostr/a⟦修院/a⟧:【PIV】Rilata al klostro, precipe 2: klostra silento.

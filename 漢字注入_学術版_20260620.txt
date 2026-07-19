@@ -6073,8 +6073,8 @@ de/ig/i⟦从/使/i⟧:［他］離す
 de/ig^/i⟦从/成/i⟧:［自］離れる
 de/ir/i⟦从/往/i⟧:［自］離れる,立ち去る
 de/ir/punkt/o⟦从/往/点/o⟧:出発点
-deism/o⟦从主义/o⟧:【哲】=diismo,理神論
-deist/o⟦从家/o⟧:【哲】=diisto,理神論者
+deism/o⟦神主义ᴰ/o⟧:【哲】=diismo,理神論
+deist/o⟦神家ᴰ/o⟧:【哲】=diisto,理神論者
 de/j^et/i⟦从/投/i⟧:［他］投げ落とす,投げ捨てる
 Dej^on/o:【地名】テジョン（大田，韓国）
 dej^or/a ministr/o⟦当/a 臣/o⟧:【日】用番老中（ようばんろうじゅう）【私家版】
@@ -10991,8 +10991,8 @@ Filadelfi/o:【地名】フィラデルフィア（米国）
 filadelf/o⟦山梅花/o⟧:【植】バイカウツギ（属）
 filament/o⟦丝ᶠᴸ/o⟧:【電】フィラメント;【植】花糸;【解】線条組織
 filant/o:【植】コミカンソウ（属）
-filantrop/i/o⟦爱人/i/o⟧:{Ｏ}博愛,慈善
-filantrop/o⟦爱人/o⟧:{Ｏ}博愛主義者,慈善家
+filantrop/i/o⟦博爱者/i/o⟧:{Ｏ}博愛,慈善
+filantrop/o⟦博爱者/o⟧:{Ｏ}博愛主義者,慈善家
 filateli/o⟦邮ᶠᴵ/o⟧:=filatelo（切手収集）
 filatel/ist/o⟦邮ᶠ/家/o⟧:切手収集家,郵趣家
 filatel/o⟦邮ᶠ/o⟧:切手収集,郵趣
@@ -14874,9 +14874,9 @@ ident/ig/il/o⟦同ᴵ/使/具/o⟧:身分証明書;鑑定書
 ident/ig^/i⟦同ᴵ/成/i⟧:［自］同一化する,一体化する;身元が判明する
 ide/o⟦意/o⟧:{Ｂ}観念;考え,思想;思いつき,アイデア;【哲】イデア;【楽】楽想
 ide/o/don/int/o⟦意/o/给/过/o⟧:発案者,提唱者
-ideografi/a⟦意志/a⟧:【語】表意文字の,表意的な
-ideografi/aj^/o⟦意志/物/o⟧:【語】表意文字,=ideogramo
-ideografi/o⟦意志/o⟧:{Ｏ}【語】表意文字方式
+ideografi/a⟦表意/a⟧:【語】表意文字の,表意的な
+ideografi/aj^/o⟦表意/物/o⟧:【語】表意文字,=ideogramo
+ideografi/o⟦表意/o⟧:{Ｏ}【語】表意文字方式
 ideogram/o⟦意字/o⟧:=ideografiaj^o（表意文字）
 ideologi/a⟦观ᴵ/a⟧:イデオロギーの,観念形態の
 ideologi/o⟦观ᴵ/o⟧:{Ｏ}イデオロギー,観念形態;【哲】観念学;《転》空理空論
@@ -34426,7 +34426,7 @@ Rod/o:【地名】ロードス島（エーゲ海）,=Rodiso
 rododendr/o:【植】ツツジ（躑躅）（属，シャクナゲ・サツキを含む）,>>azaleo
 Rodop/o:【地名】ロドピ山脈（ブルガリア）
 rojalism/o⟦王主义/o⟧:王政主義,王党主義
-rojalist/o⟦王家/o⟧:{Ｏ}王政主義者,王党員,王党派
+rojalist/o⟦王党者/o⟧:{Ｏ}王政主義者,王党員,王党派
 rok/a⟦岩/a⟧:岩の,岩石からなる;岩に覆われた
 rok/aj^/o⟦岩/物/o⟧:【美】ロカイユ
 rok/blok/o⟦岩/块/o⟧:岩塊
@@ -46677,7 +46677,7 @@ dezajn/ist/o⟦设计/家/o⟧:【PIV】Artisto, kiu kreas belajn k raciajn form
 Dezider/o:【PIV】Vira nomo.
 di/⟦二ᴰᴵ/⟧:【化】【PIV】Pref. (Prefikso), montranta, ke substanco estas karakterizata de, au^ konsistas el, du samaj atomoj, funkcioj, molekuloj ks (kaj simile, kaj similaj): sulfura dioksido; diklorbenzeno, dimero. Vd mono/, bi/, du/, tri/, oligo/, poli/, et/.
 di/in/a⟦神/女/a⟧:【PIV】Rilata al diino: (f (figurasence)) diina pozo, pas^maniero.
-diafanoskopi/o⟦透镜/o⟧:【医】【PIV】Procedo por esplori iujn korpopartojn (sinusoj, testikoj, sklerotoj ks (kaj simile, kaj similaj)), diafanigante ilin per translumigado.
+diafanoskopi/o⟦透照/o⟧:【医】【PIV】Procedo por esplori iujn korpopartojn (sinusoj, testikoj, sklerotoj ks (kaj simile, kaj similaj)), diafanigante ilin per translumigado.
 diagenez/o⟦通源/o⟧:【地質】【PIV】Aro de procezoj (biokemiaj, kemiaj k fizikaj), per kiuj sedimento transformig^as al petro. Vd petrig^o, metamorfismo.
 diagnostik/o:【PIV】= diagnoziko.
 diagnoz/ist/o⟦诊断/家/o⟧:【PIV】Specialisto pri diagnozo 1.
@@ -47300,7 +47300,7 @@ epidendr/o⟦兰ᴱ/o⟧:【植】【PIV】G. (Genro) (Epidendrum el orkidacoj) 
 epiderm/a⟦表皮/a⟧:【PIV】Rilata al epidermo: (f (figurasence)) epiderma (tute supraj^a) reago.
 epidiaskop/o⟦表通镜/o⟧:【理】【PIV】Aparato, povanta projekcii bildojn per surfalanta au^ per trairanta lumo, tiel ke g^i ebligas projekcii ankau^ ilustraj^ojn el libroj ks (kaj simile, kaj similaj).
 epididim/o:【解】【PIV】(epididymis) Longforma korpo, situanta sur la supra k posta rando de la testiko, kiel kresto sur kasko; formita de sinua kanalo, en kiun kunfluas la spermotuboj, g^i estas la deirpunkto de la spermodukto.
-epifenomen/o⟦表现/o⟧:【哲】【PIV】Akcesora fenomeno koncerne la observataj^on; negrava, netus^anta la esencon de la pritraktata fenomeno.
+epifenomen/o⟦副现象/o⟧:【哲】【PIV】Akcesora fenomeno koncerne la observataj^on; negrava, netus^anta la esencon de la pritraktata fenomeno.
 epifit/o⟦表植/o⟧:【植】【PIV】Planto, kiu kreskas sur alia planto, sed ne nutras sin el tiu c^i: multaj muskoj, likenoj k orkideoj estas epifitoj. Vd parazito, saprofito, liano.
 epifizit/o⟦骨端炎/o⟧:【医】【PIV】Epifiza ostito.
 epifonem/o:【PIV】Parolfiguro, konsistanta en profunda penso au^ g^enerala maksimo, kiun oni prezentas kiel la konkludon de rezonado au^ rakonto.
@@ -49813,7 +49813,7 @@ kakinok/o⟦柿ᴷ/o⟧:【植】【PIV】1 Sp. (Specio) de diospiro (Diospyros 
 kakinok/ber/o⟦柿ᴷ/浆果/o⟧:【PIV】Kakinoko 2.
 kakofoni/o⟦噪ᴷ/o⟧:【PIV】1 Kunmeto de sonoj, silaboj au^ vortoj, kies senharmonio vundas la orelon (ekz. (ekzemple) «g^is c^esig^' de l' sing^eno»). 2 Malagrabla efiko de senakordaj voc^oj, instrumentoj.
 kakofoni/a⟦噪ᴷ/a⟧:【PIV】Produktanta kakofonion.
-kakografi/o⟦屎志/o⟧:【PIV】Malbela au^ erarplena skribmaniero.
+kakografi/o⟦劣志/o⟧:【PIV】Malbela au^ erarplena skribmaniero.
 kakosmi/o:【医】【PIV】Patologia stato de iu, kiu perceptadas malbonan odoron.
 kakt/ac/oj⟦仙人掌/科ᴬ/oj⟧:【植】【PIV】Fam. (Familio) (Cactaceae) de plurjaraj plantoj kun karnecaj, diversformaj tigoj k branc^oj, kiuj (escepte de Pereskia) surhavas skvamojn au^ pikilojn anst. (anstatau^) folioj; c^. (c^irkau^) 1400 sp-oj (specioj) el 97 g-oj (genroj) - i.a. (interalie, inter aliaj) ekino kakto, melon kakto, opuntio -, preskau^ c^iuj hejmaj en la aridaj regionoj de Ameriko, multaj pororname kultivataj.
 kakuminal/o:【語】【PIV】Sono, produktata per alproksimigo de la langopinto al la osta palato malantau^ la gingivoj (ekz. (ekzemple) iuj konsonantoj en lingvoj hindia, sarda k.a. (kaj aliaj)).
@@ -50425,9 +50425,9 @@ klorit/o⟦氯盐ᴷᴵ/o⟧:【地質】【PIV】Mineralo el hidrata folisilici
 kloral/o:【化】【PIV】1 Triklor-acetaldehido, CCl 3-CHO. 2 Medikamento, CCl 3-CH(OH) 2, antisepsa, kvietiga k hipnoza. Sin. (sinonimo) klorala hidrato.
 kloramfenikol/o:【PIV】Antibiotiko, produktata de grundolog^a bakterio (Streptomyces venezuelae el aktinomicetoj) k uzata precipe kontrau^ la tifoida febro k la salmonelozoj.
 klorel/o⟦藻ᴷᴸ/o⟧:【植】【PIV】G. (Genro) (Chlorella) de dolc^akvaj unuc^elaj verdalgoj, rapide proliferantaj k tial tre uzataj en laboratoriaj eksperimentoj i.a. (interalie, inter aliaj) pri studado de la fotosintezo.
-klorofic/oj⟦氯藻/oj⟧:【植】【PIV】Klaso (Chlorophyceae el klorofitoj) de verdalgoj unuc^elaj, koloniaj au^ filamentaj, plejparte mikroskopaj. Vd ulvoficoj.
+klorofic/oj⟦绿藻/oj⟧:【植】【PIV】Klaso (Chlorophyceae el klorofitoj) de verdalgoj unuc^elaj, koloniaj au^ filamentaj, plejparte mikroskopaj. Vd ulvoficoj.
 klorofilaz/o:【PIV】Enzimo malkombinanta klorofilon.
-klorofit/oj⟦氯植/oj⟧:【植】【PIV】Filumo (Chlorophyta), v.s. proks. (proksimume) ampleksanta la verdalgojn; 4 klasoj, el kiuj kloroficoj, ulvoficoj k karaficoj; c^. (c^irkau^) 7 000−8 000 sp-oj (specioj).
+klorofit/oj⟦绿植/oj⟧:【植】【PIV】Filumo (Chlorophyta), v.s. proks. (proksimume) ampleksanta la verdalgojn; 4 klasoj, el kiuj kloroficoj, ulvoficoj k karaficoj; c^. (c^irkau^) 7 000−8 000 sp-oj (specioj).
 kloroplast/o:【生】【植】【PIV】Klorofilhava plastido, en kiu okazas fotosintezo k karbonasimilado en c^eesto de lumo k karbondioksido. Sin. (sinonimo) klorofilplastido.
 kloropren/o:【化】【PIV】2-klorobuta-1,3-dieno, CH 2 =CCl-CH=CH 2, bazo de neopreno.
 klostr/a⟦修院/a⟧:【PIV】Rilata al klostro, precipe 2: klostra silento.

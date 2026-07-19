@@ -102,6 +102,10 @@ $existing=@(
  @('arke','原','arke/tip/o','','archē(希始まり·原型)→原。原型archetype(arke/tip=原/型)。ノアの箱船arke/o=方舟・考古arkeo/logi=古は別。2026-07-18 偽友スイープR3'),
  # arĥeo-(arh^eo)=arkeo-(archeo考古)の異綴り変種。arĥeologio/arĥeologo は arkeologio/arkeologo と同語(=別綴り)。arkeo/logi=古ᴬᴼと平行に arh^eo→古で被覆穴(latin残)を是正(2026-07-19)。arke原型/arke方舟とは別root。
  @('arh^eo','古','arh^eo/logi/o,arh^eo/log/o','','arĥeo-=arkeo-(archeo考古)異綴り→古。arkeo/logi=古と平行。arĥeologio/arĥeologo(=arkeologio/arkeologo変種綴り)。2026-07-19 被覆穴是正'),
+ # chloro-(希χλωρός=緑green)の緑藻類→绿。klorofic緑藻綱(Chlorophyceae)・klorofit緑藻植物門(Chlorophyta)は定義verdalgoj=緑藻。氯(塩素)はwrong-morpheme(klorofil=叶绿greenと不整合・kloroform=氯形chlorineとは別義)。緑verd=绿とは同義で識別子区別。2026-07-19 REVIEW専用パス是正。
+ @('klor','绿','klor/o/fic/o,klor/o/fic/oj,klor/o/fit/o,klor/o/fit/oj','','chloro-(χλωρός緑)→绿。緑藻klorofic/klorofit(verdalgoj)。氯(塩素kloroform)はwrong-morpheme。klorofil叶绿と整合。2026-07-19'),
+ # caco-(希κακός=悪い/劣った)→劣。kakografi悪筆/誤記(Malbela au^ erarplena skribmaniero)。屎(feces)はwrong-morpheme(κακός=badで糞でない)。kakofoni=噪(騒音)とは別描画。劣志=劣った書き方。2026-07-19 REVIEW専用パス是正。
+ @('kak','劣','kak/o/grafi/o,kak/o/grafi/a','','caco-(κακός悪い)→劣。悪筆kakografi(劣志=劣った書き方)。屎(feces)はwrong-morpheme。騒音kakofoni=噪は別。2026-07-19'),
  @('sol','液','cito/sol/o,c^el/sol/o','','Latin solutio(溶液)→液。細胞質液cytosol(cito/sol=胞/液)・ĉelsol。唯一sol/a・独唱sol/o等の sol=唯 は維持(word-scoped)。2026-07-18 偽友スイープR3'),
  @('fen','现','fen/o/tip/o','','phainein(希現れる·示す)→现。表現型phenotype(fen/o/tip=现/型)。フェーン風feno=焚风・フェノールfenol(化学)は別。fenomen现象と同源。2026-07-18 偽友スイープR3'),
  @('kromi','色','homo/kromi/o,fot/o/kromi/o','','chroma(希色)→色。保護色homochromy(homo/kromi=同/色)・天然色写真術fotokromi(fot/o/kromi=拍/色)。金属クロムkromi/o=金・クロム酸塩kromiat等の化学は金維持(word-scoped)。krom→色と同源。2026-07-18 偽友スイープR3'),

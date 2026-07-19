@@ -7018,9 +7018,17 @@
   vibrator       振具         F=1     piv     
   oscilator      振具ᴼ        F=1     piv     
 
+【神家】 2件
+  teist          神家         F=1     piv     
+  deist          神家ᴰ        F=1     piv     
+
 【神治】 2件
   teokrat        神治         F=1     piv     
   teokrati       神治ᵀᴵ       F=1     piv     
+
+【神主义】 2件
+  teism          神主义        F=1     piv     
+  deism          神主义ᴰ       F=1     piv     
 
 【神经】 2件
   nerv           神经         F=22    basic   
@@ -8649,10 +8657,6 @@
 【焊】 2件
   lut            焊          F=10    pejvo   
   veld           焊ⱽ         F=5     pejvo   
-
-【爱人】 2件
-  filantrop      爱人         F=1     piv     
-  filantropi     爱人ᶠᴵ       F=1     piv     
 
 【猎】 2件
   ĉas            猎          F=44    basic   

@@ -22025,7 +22025,7 @@ liber/temp/o:休暇,ひま,余暇
 libertin/ism/o:【哲】（宗教上の）自由思想
 libertin/o:【史】解放奴隷;【哲】自由思想家,=liberpensulo
 liber/ul/o:自由人,自由民
-Liberurb/o:【地名】リーブルビル（ガボンの首都）
+Liber/urb/o:【地名】リーブルビル（ガボンの首都）##偽分解
 liber/viv/ul/o:放蕩（ほうとう）者,道楽者
 liber/vol/a:自由意志の
 liber/vol/e:自由意志で

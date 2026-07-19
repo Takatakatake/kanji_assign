@@ -116,3 +116,24 @@ APPLIED	arh^eo	学習者版 latin->古	arĥeologio/arĥeologo(=arkeologio/arkeol
 # 学術版whole-word(抗原/专制/生理学)は既に正で不干渉。版差容認(学習者=自专 / 学術=专制=要ユーザー最終確認)。
 RATIFIED	咏/旋/架/梗/相关/硫/胖	NEW7->ratified	同義語逆転7群を KNOWN登録(全字一級内・全メンバー同一漢字で識別子区別・誤字なし)。_audit_priority_tiers.py KNOWN=20->27。[I]NEW_SYNONYM_REVERSAL 7->0
 BENIGN	CSV_MISLABEL39	無害確定	bare=True19(各月/感嘆詞/自基本形保持=band表面差)・bare=False20(七曜/楽器→琴/taksi车等=一般語が基本形の正しい識別子メンバー)・照合ノイズ(kviet静{Ｂ}を"kvi"誤strip・tamen→tam)。hard-fail CSV2890_LOSES_BASE=0
+# ===== 2026-07-19 第22回: REVIEW専用パス=明白衝突/wrong-morphemeを11系是正・47系据置 =====
+# 方針§14(第17-18回)原則: 明白衝突/逆意・wrong-morphemeのみ是正・解釈可能な近縁義は放置・faithful mirror維持。全て新字ゼロ・P=5 sentinel(k列)。
+APPLIED	filantrop	爱人->博爱者	爱人=配偶者/恋人と衝突。学術k列。学習者fil/antrop=爱/人 mirror維持
+APPLIED	filantropi	爱人->博爱	同上
+APPLIED	ideografi	意志->表意	意志=will衝突。学術k列。学習者ide/o/grafi=意/志維持
+APPLIED	epifenomen	表现->副现象	表现=expression/performance衝突。学術k列。学習者epi/fenomen=表/现維持
+APPLIED	deism	从主义->神主义	de=从(前置詞)wrong-morpheme。deus=神。diism=神/主义と整合。両版whole-word
+APPLIED	deist	从家->神家	同上(diist系)
+APPLIED	klorofic	氯藻->绿藻	chloro=χλωρός緑のwrong-morpheme(氯=塩素)。klorofil叶绿と整合。両版(学術k列+学習者sep klor→绿)
+APPLIED	klorofit	氯植->绿植	同上(Chlorophyta緑藻門)
+APPLIED	kakografi	屎志->劣志	caco=κακός悪いのwrong-morpheme(屎=feces不適)。両版(学術k列+学習者sep kak→劣)。kakofoni=噪は別
+APPLIED	rojalist	王家->王党者	王家=royal family別referent衝突。学術k列のみ。学習者rojal/ist=王/家維持
+APPLIED	diafanoskopi	透镜->透照	透镜=lens別referent衝突。学術k列のみ。学習者diafan/o/skop=透/镜維持
+FIX_CHURN	teism/teist	base_override	deism→神主义でteism/teist識別子退化→神主义/神家をbaseに固定(原型→prototip型・PIV同tier)
+KEEP47	-ism_mirror	organism器主义/astigmatism散光主义/vaginism阴道主义/paroksism极主义/meteorism陨主义	第18回原則=faithful mirror(stem正+接尾主义固定)
+KEEP47	近縁解釈可能	metafizik超物理/mitomani神话狂/renom再名/gastronom胃学/autobiografi自生志/metastaz超滞/metamorfoz超形症/heteronomi异学/izoton等调/izostaz等滞/izoglos等注/demoraliz从德化/termogenez热源/monoplan单划/eksponometr展计/dividend分须/demonstrativ证被能/heksametr六米/pentametr五米/megommetr兆计/metodologi法学/skizomicet草菌/superpozici上位/mapotek图包	解釈可能な近縁義=据置
+KEEP47	graf系faithful	heliograf日记/heliografi日志/kartograf卡记/kartografi卡志	-graf记/-grafi志は正
+KEEP47	akro=锐master	akronim锐名/akrocianoz锐青症	master一貫(tip/peak)
+KEEP47	atomic/多重同綴	bolometr沸计(bol多重同綴)/fekul粪者(faecula稀)/estrad长行(atomic)/klaŭstr修院/aŭl礼堂/bibliofil经爱/filogenez儿源(f/i/l Phase97管理)	清字なし/管理済
+KEEP47_中程度衝突	elektroskop电镜/superpozici上位/aerodrom气道/hidrodinamik水力	faithful mirror+技術文脈で解釈可能=据置(要ユーザー裁定なら是正可)
+SYNC	Liberurb	Liberurb/o->Liber/urb/o	正本14:48ドリフト同期(リーブルビル=自由都市の偽分解付与)。地名ゆえ§7でlatin維持([F]=0)
