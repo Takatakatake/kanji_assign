@@ -8909,7 +8909,7 @@ elektrofor/o:【電】電気盆
 elektr/o/h^emi/o⟦电/o/化学ᴴ̂/o⟧:=>elektrokemio（電気化学）
 elektr/o/ing^enier/o⟦电/o/技ᴵ/o⟧:電気技師
 elektr/o/kardiograf/i⟦电/o/心记/i⟧:［他］心電図をとる
-elektr/o/kardiografi/o⟦电/o/kardiografi/o⟧:【医】心電図検査（法）
+elektr/o/kardiografi/o⟦电/o/心志/o⟧:【医】心電図検査（法）
 elektr/o/kardiograf/o⟦电/o/心记/o⟧:【医】心電計
 elektr/o/kardiogram/o⟦电/o/心图/o⟧:【医】心電図
 elektr/o/kemi/a⟦电/o/化学/a⟧:電気化学の
@@ -9724,7 +9724,7 @@ eparh^i/o:【キ】=eparkio（主教管区）
 eparki/o:【キ】（ギリシア正教で）主教管区,>>diocezo
 ependimit/o⟦室膜炎/o⟧:【病】（脳室）上衣炎
 ependim/o⟦室膜/o⟧:【解】（脳室の）上衣
-epicikl/oid/o⟦epicikl/似ᴼ/o⟧:【数】外サイクロイド,外転サイクロイド
+epicikl/oid/o⟦表环/似ᴼ/o⟧:【数】外サイクロイド,外転サイクロイド
 Epidau^r/o:【古地名】エピダウロス（古代ギリシアの港湾都市）
 epidemi/a⟦疫/a⟧:【病】流行性の;流行病の;《転》伝染性の,流行性の
 epidemi/a parotidit/o⟦疫/a 腮腺炎/o⟧:【病】流行性耳下腺炎,=mumpso
@@ -14406,7 +14406,7 @@ hipnot/a⟦催眠/a⟧:催眠性の;催眠術の
 hipnot/ig/i⟦催眠/使/i⟧:［他］催眠術にかける
 hipnot/ism/o⟦催眠/主义/o⟧:【医】催眠術
 hipnot/o⟦催眠/o⟧:{Ｏ}【医】催眠状態
-hipocikl/oid/o⟦hipocikl/似ᴼ/o⟧:【数】内（ない）サイクロイド
+hipocikl/oid/o⟦亚环/似ᴼ/o⟧:【数】内（ない）サイクロイド
 hipodrom/o⟦马道/o⟧:{Ｏ}競馬場;【史】（馬・戦車の）競技場
 hipoh^ondri/o⟦疑病ᴴᴴ̂/o⟧:=hipokondrio
 hipokas^tan/o⟦马栗/o⟧:【植】マロニエ,セイヨウトチノキ,=c^evalkas^tano,>>eskulo
@@ -15864,7 +15864,7 @@ inter si⟦间 己⟧:たがいに
 inter/spac/ig/i⟦间/空/使/i⟧:［他］間隔をあける
 inter/spac/o⟦间/空/o⟧:間隔,間隙,すき間
 inter/stel/a materi/o⟦间/星/a 质ᴹ/o⟧:【天】星間物質
-interstel/a polv/o⟦interstel/a 尘/o⟧:【天】星間塵（せいかんじん）
+interstel/a polv/o⟦间星/a 尘/o⟧:【天】星間塵（せいかんじん）
 inter/sulk/o⟦间/沟/o⟧:【農】うね（畝）
 inter/s^ang^/a⟦间/变/a⟧:交換の,交換用の
 inter/s^ang^/e⟦间/变/e⟧:交換に,引替に
@@ -56438,7 +56438,7 @@ trih^ofit/o⟦毛癣菌ᵀᴴ̂/o⟧:【PIV】= trikofito.
 trih^opter/oj:【PIV】= trikopteroj.
 trik/o⟦毛ᵀ/o⟧:【医】【PIV】Haro (en kunmetaj^oj).
 trik/oz/o⟦毛ᵀ/症ᴼ/o⟧:【PIV】Denaska au^ akirita devio de haroj c^e orifico au^ de la okulharoj, kiuj skrapas la okulglobon k kau^zas keratiton.
-trikomicet/oz/o⟦trikomicet/症ᴼ/o⟧:【PIV】Harmalsano, kau^zata de fungo.
+trikomicet/oz/o⟦毛菌/症ᴼ/o⟧:【PIV】Harmalsano, kau^zata de fungo.
 trikopati/o⟦毛病/o⟧:【PIV】Kn (Kolektiva nomo) de la haraj malsanoj.
 trikoplazi/o⟦毛生/o⟧:【PIV】Nenormala kreskado de haroj sur mukozo: trikoplazio de la urina veziko. Vd hirtismo.
 triketr/o:【PIV】1 (triquetrum) Osto de la supra vico de la karpo, inter la lunato k la pizoforma. 2 Figuro en formo de tri homaj gamboj, kunigitaj en unu centro, kun piedoj eksteren. = trikvetr/o
@@ -58722,7 +58722,7 @@ re/gajn/i⟦再/赢/i⟧:【PIV】Denove gajni: li regajnis c^iom, kiom li antau
 sen/gal/ec/o⟦无/胆/性/o⟧:【医】【PIV】Manko de galsekrecio pro perturbo de la hepata funkcio. Sin. (sinonimo) akolio.
 for/galop/i⟦离/驰/i⟧:【PIV】Forkuri galope.
 inter/gamb/o⟦间/腿ᴳ/o⟧:【PIV】Parto de pantalono, kalsono ks (kaj simile, kaj similaj), trovig^anta inter la gamboj.
-vir/gametogenez/o⟦男/gametogenez/o⟧:【PIV】Spermatogenezo.
+vir/gametogenez/o⟦男/配子源/o⟧:【PIV】Spermatogenezo.
 sen/gant/ig/i⟦无/手套/使/i⟧:【PIV】Des^ovi de iu la gantojn.
 antau^/gard/a⟦前/守/a⟧:【PIV】Profilaktika, preventa.
 antau^/gard/em/a⟦前/守/倾/a⟧:【PIV】Kutimanta sin gardi anticipe kontrau^ dang^ero.
@@ -59235,7 +59235,7 @@ termokau^ter/o⟦热灼/o⟧:【医】【PIV】Instrumento por fari fajropunktoj
 mi/a/kau^z/a⟦我/a/因ᴷ/a⟧:【PIV】Kau^zita de mi: malben' ne miakau^za .
 el/kav/ig/i⟦出/洞/使/i⟧:【PIV】Eligi el kavo: elkavigi arbradikojn.
 el/kav/ig/o⟦出/洞/使/o⟧:【医】【PIV】Operacio, kiu konsistas el forskrapo, c^efe de osta internaj^o: petromastoida elkavigo.
-el/kavator/o⟦出/kavator/o⟧:【技】【PIV】Fortika mas^ino, por elkavigi el tero. Vd fosmas^ino, skrapmas^ino.
+el/kavator/o⟦出/洞具/o⟧:【技】【PIV】Fortika mas^ino, por elkavigi el tero. Vd fosmas^ino, skrapmas^ino.
 en/kav/ig^/i⟦内/洞/成/i⟧:【PIV】= kavig^i: liaj okuloj estis profunde enkavig^intaj .
 bel/kav/et/o⟦美/洞/小/o⟧:【PIV】Kaveto en karnoza korpoparto: belkaveto c^e vangoj.
 lup/kav/o⟦狼/洞/o⟧:【軍】【PIV】Konusforma fosaj^o en la tero, sur kies fundo staras vertikala pintigita fosto, sur kiun enpikig^u enfalinto.
@@ -61067,7 +61067,7 @@ send/el/spez/oj⟦送/出/兑/oj⟧:【PIV】Sendokostoj.
 cefalospin/a⟦头脊/a⟧:【PIV】Rilata al cerbo au^ cefalo k al spino: cerbo spina likvo.
 frag/spinac/o⟦果ᶠᴳ/菠菜/o⟧:【植】【PIV】Sp. (Specio) de kenopodio (Chenopodium virgatum). Vd blito.
 ek/spir/i⟦始/息/i⟧:【PIV】Mallonge ripozi por spiri: permesu al mi ekspiri .
-en/spirator/o⟦内/spirator/o⟧:【医】【PIV】1 Aparataro por enspirado de aerosoloj au^ vaporigitaj kuracaj substancoj. 2 Sekuriga arang^aj^o kontrau^ la enspirado de malvarma aero, de polvo en fabrikoj ks (kaj simile, kaj similaj).
+en/spirator/o⟦内/息具/o⟧:【医】【PIV】1 Aparataro por enspirado de aerosoloj au^ vaporigitaj kuracaj substancoj. 2 Sekuriga arang^aj^o kontrau^ la enspirado de malvarma aero, de polvo en fabrikoj ks (kaj simile, kaj similaj).
 ne/spir/ebl/a⟦不/息/可/a⟧:【PIV】Tia, ke oni spiras g^in nur kun g^eno: fumplena nespirebla atmosfero de drinkejo.
 sen/spir/e⟦无/息/e⟧:【PIV】Perdinte la kapablon spiri: mi estis kurinta k venis nun senspire trans la korton .
 hau^t/spir/ad/o⟦皮/息/行/o⟧:【PIV】Eligo k enlaso de gaso fare de hau^to.
