@@ -2002,7 +2002,7 @@ anticip/i⟦预/i⟧:{Ｏ}［他］先んじる,前もって手配する;見越�
 antidot/o:【薬】解毒剤,=kontrau^veneno
 anti/fon/o⟦抗ᴬ/声ᶠᴼ/o⟧:【楽】交唱（聖歌）##偽分解(PIV正式分解)
 anti/fraz/o⟦抗ᴬ/句/o⟧:【修】語意の反用,反語##偽分解
-anti/gen/o⟦抗ᴬ/生ᴳ/o⟧:【医】抗原##偽分解
+anti/gen/o⟦抗ᴬ/原ᴳ/o⟧:【医】抗原##偽分解
 Antigon/o:【神】アンティゴネ（ギリシア神話、オイディプスの娘）
 Antigv/o-Barbud/o:=>Antigvo kaj Barbudo（アンティグア・バーブーダ）
 Antigv/o kaj Barbud/o⟦Antigv/o 和ᴷ Barbud/o⟧:【国名】アンティグア・バーブーダ（北アメリカ）
@@ -2333,8 +2333,8 @@ arg^ent/o⟦银/o⟧:{Ｂ}銀;【遊】（将棋の）銀将
 arg^irol/o:【薬】アルジロール（弱力プロテイン銀製剤の商品名，殺菌剤）
 arh^aik/a⟦古ᴬᴷ/a⟧:{Ｏ}=arkaika
 arh^a/ism/o⟦古ᴬᴬ/主义/o⟧:{Ｏ}=arkaismo##偽分解(PIV正式分解)
-arh^eo/logi/o⟦arh^eo/学ᴸᴳ/o⟧:{Ｏ}=arkeologio##偽分解
-arh^eo/log/o⟦arh^eo/学家/o⟧:{Ｏ}=arkeologo##偽分解
+arh^eo/logi/o⟦古ᴬᴴ̂/学ᴸᴳ/o⟧:{Ｏ}=arkeologio##偽分解
+arh^eo/log/o⟦古ᴬᴴ̂/学家/o⟧:{Ｏ}=arkeologo##偽分解
 arh^ipelag/o⟦群岛ᴬᴴ̂/o⟧:{Ｏ}=arkipelago
 arh^itekt/o⟦建筑ᴬᴴ̂/o⟧:{Ｏ}=arkitekto
 arh^itektur/o⟦建筑ᴬᵀ/o⟧:{Ｏ}=arkitekturo
@@ -2842,9 +2842,9 @@ au^t/o/grafi/o⟦自ᴬ/o/志ᴳ/o⟧:【印】肉筆印刷術##偽分解##過�
 au^t/o/graf/o⟦自ᴬ/o/记ᴳ/o⟧:{Ｏ}自筆,自筆原稿,=memskribaj^o##偽分解##過細分解 a/u^/t/o/graf/o
 au^t/o/industri/o⟦车/o/业/o⟧:自動車産業
 au^t/o/korn/o⟦车/o/角ᴷ/o⟧:【車】警笛,クラクション,=hupo
-au^t/o/krati/o⟦自ᴬ/o/治ᴷᴵ/o⟧:{Ｏ}【政】専制政治##偽分解##過細分解 a/u^/t/o/krati/o
-au^t/o/krat/ism/o⟦自ᴬ/o/治ᴷ/主义/o⟧:【政】専制主義##偽分解##過細分解 a/u^/t/o/krat/ism/o
-au^t/o/krat/o⟦自ᴬ/o/治ᴷ/o⟧:{Ｏ}専制君主##偽分解##過細分解 a/u^/t/o/krat/o
+au^t/o/krati/o⟦自ᴬ/o/专ᴷ/o⟧:{Ｏ}【政】専制政治##偽分解##過細分解 a/u^/t/o/krati/o
+au^t/o/krat/ism/o⟦自ᴬ/o/专ᴷ/主义/o⟧:【政】専制主義##偽分解##過細分解 a/u^/t/o/krat/ism/o
+au^t/o/krat/o⟦自ᴬ/o/专ᴷ/o⟧:{Ｏ}専制君主##偽分解##過細分解 a/u^/t/o/krat/o
 au^tokton/o⟦原住/o⟧:=pralog^anto（原住民）
 au^tomaci/o⟦动ᴬᶜ/o⟧:【機】オートメーション
 au^tomat/a⟦动ᴬ/a⟧:自動式の;《転》機械的な
@@ -11205,8 +11205,8 @@ fizik/o⟦物理/o⟧:{Ｂ}物理学
 fizik/o/terapi/ist/o⟦物理/o/疗/家/o⟧:理学療法士
 fizik/o/terapi/o⟦物理/o/疗/o⟧:【医】理学療法,物理療法
 fizi/o/grafi/o⟦物理ᶠᴵ/o/志ᴳ/o⟧:自然地理学,=fizika geografio##偽分解
-fizi/o/logi/o⟦物理ᶠᴵ/o/学ᴸᴳ/o⟧:{Ｏ}生理学##偽分解
-fizi/o/log/o⟦物理ᶠᴵ/o/学家/o⟧:{Ｏ}生理学者##偽分解
+fizi/o/logi/o⟦生理/o/学ᴸᴳ/o⟧:{Ｏ}生理学##偽分解
+fizi/o/log/o⟦生理/o/学家/o⟧:{Ｏ}生理学者##偽分解
 fizionomi/ist/o⟦相ᶠᴺ/家/o⟧:人相見
 fizionomi/o⟦相ᶠᴺ/o⟧:{Ｏ}人相,顔つき,容貌,=vizag^aspekto;《転》外観,様相,特徴
 fizi/o/terapi/ist/o⟦物理ᶠᴵ/o/疗/家/o⟧:=fizikoterapiisto（理学療法士）##偽分解
@@ -45507,8 +45507,8 @@ au^t/o/gen/a⟦自ᴬ/o/生ᴳ/a⟧:【化】【PIV】1 Dau^riganta sin mem: au^
 au^t/o/kataliz/o⟦自ᴬ/o/催/o⟧:【PIV】= memkatalizo.##偽分解##過細分解 a/u^/t/o/kataliz/o
 au^toklav/o⟦高压锅/o⟧:【技】【PIV】1 Speco de metala vazo tre fortika k hermete fermebla, en kiu oni povas preme varmigi likvon super g^ia bola varmogrado k tiel atingi specialajn reakciojn. 2【医】 Aparato, kiu per kunpremita akvovaporo sterilizas ladmang^aj^ojn, operaciilojn, kultivmediojn ktp (kaj tiel plu).
 au^toklav/i⟦高压锅/i⟧:【PIV】(tr (transitiva)) Sterilizi per au^toklavo. Vd sterilizilo.
-au^t/o/krat/a⟦自ᴬ/o/治ᴷ/a⟧:【PIV】Karakterizanta au^tokraton: oni diros, ke g^i estas ago au^tokrata .##偽分解##過細分解 a/u^/t/o/krat/a
-au^t/o/krat/ec/o⟦自ᴬ/o/治ᴷ/性/o⟧:【PIV】Tuto de la karakterizaj^oj de au^tokrato: en la nuna tre maltrankvila tempo ni devas tre zorge eviti c^iun agon, kiu havas s^ajnon de au^tokrateco .##偽分解##過細分解 a/u^/t/o/krat/ec/o
+au^t/o/krat/a⟦自ᴬ/o/专ᴷ/a⟧:【PIV】Karakterizanta au^tokraton: oni diros, ke g^i estas ago au^tokrata .##偽分解##過細分解 a/u^/t/o/krat/a
+au^t/o/krat/ec/o⟦自ᴬ/o/专ᴷ/性/o⟧:【PIV】Tuto de la karakterizaj^oj de au^tokrato: en la nuna tre maltrankvila tempo ni devas tre zorge eviti c^iun agon, kiu havas s^ajnon de au^tokrateco .##偽分解##過細分解 a/u^/t/o/krat/ec/o
 au^t/o/liz/o⟦自ᴬ/o/解ᴸ/o⟧:【医】【PIV】Malkomponig^o au^ detruig^o de histoj per la tie entenataj enzimoj.##偽分解##過細分解 a/u^/t/o/liz/o
 au^tomat/ec/o⟦动ᴬ/性/o⟧:【PIV】Karakterizaj^o de io au^tomata.
 au^tomat/ik/o⟦动ᴬ/学ᴵ/o⟧:【PIV】Scienco pri la uzo de la au^tomatoj.
@@ -47823,7 +47823,7 @@ fitolak/o⟦草ᶠᴸ/o⟧:【植】【PIV】G. (Genro) (Phytolacca el fitolakac
 fizali/o:【動】【PIV】G. (Genro) (Physalia) de kolonie vivantaj kniduloj, kies kolonio estas portata de granda, gasplena sako nag^anta sur la akvosurfaco; tre venenaj. Sin. (sinonimo) portugala milits^ipo.
 fizalid/o⟦茄ᶠ/o⟧:【植】【PIV】G. (Genro) (Physalis el solanacoj) de unu-k plur-jaraj herboj kun funelkorolaj, blanketaj au^ bluetaj floroj, kies kaliko c^e maturig^o s^velas en membranecan, angulan vezikon, kiu fine enhavas globan beron; kosmopolita g. (genro) de c^. (c^irkau^) 80 sp-oj (specioj), i.a. (interalie, inter aliaj) alkekengo.
 fiziognomik/o:【PIV】Arto difini la karakteron de homo lau^ la trajtoj de lia vizag^o.
-fizi/o/logi/a⟦物理ᶠᴵ/o/学ᴸᴳ/a⟧:【PIV】Rilata al fiziologio: fiziologiaj ecoj de la organoj de parolo .##偽分解
+fizi/o/logi/a⟦生理/o/学ᴸᴳ/a⟧:【PIV】Rilata al fiziologio: fiziologiaj ecoj de la organoj de parolo .##偽分解
 flag/et/o⟦旗/小/o⟧:【PIV】Malgranda flago. Vd vimplo.
 flagel/o⟦鞭ᶠ/o⟧:【植】【動】【PIV】Vipoforma filamento, movorgano de diversaj c^eloj, precipe de la unuc^eluloj.
 flagel/ul/oj⟦鞭ᶠ/者/oj⟧:【PIV】Subfilumo (Mastigophora, sin. (sinonimo (de latinscienca nomo)) Flagellata) de unuc^eluloj el la regno de protozooj, iuj sen klorofilo (zoo flageluloj), aliaj kun klorofilo (fito flageluloj), kiujn karakterizas posedo de unu au^ pluraj flageloj: pluraj flageluloj estas homaj parazitoj (lejs^manioj, tripanosomoj k.a. (kaj aliaj)). see ciliuloj, rizopodoj, sporozooj.
@@ -58440,8 +58440,8 @@ pulm/fis^/oj⟦肺/鱼/oj⟧:【PIV】Dipnoj.
 rok/fis^/o⟦岩/鱼/o⟧:【PIV】Kn (Kolektiva nomo) de maraj fis^oj roklog^aj.
 s^lim/fis^/o⟦泥ˢ̂/鱼/o⟧:【PIV】Fis^o, vivanta en marc^egoj, bredlagoj ktp (kaj tiel plu), kies karno havas s^liman guston (ekz. (ekzemple) karpo ks (kaj simile, kaj similaj)).
 kern/fizik/o⟦核/物理/o⟧:【PIV】Branc^o de fiziko pri la leg^oj k konstruo de la atomkernoj.
-plant/fizi/o/logi/o⟦植/物理ᶠᴵ/o/学ᴸᴳ/o⟧:【植】【PIV】Fiziologio de la plantoj.##偽分解
-psik/o/fizi/o/logi/o⟦心ᴾˢ/o/物理ᶠᴵ/o/学ᴸᴳ/o⟧:【PIV】Scienco pri la rilatoj inter la psikaj k la fiziologiaj faktoj.##偽分解
+plant/fizi/o/logi/o⟦植/生理/o/学ᴸᴳ/o⟧:【植】【PIV】Fiziologio de la plantoj.##偽分解
+psik/o/fizi/o/logi/o⟦心ᴾˢ/o/生理/o/学ᴸᴳ/o⟧:【PIV】Scienco pri la rilatoj inter la psikaj k la fiziologiaj faktoj.##偽分解
 fit/o/flagel/ul/oj⟦植ᶠ/o/鞭ᶠ/者/oj⟧:【動】【PIV】Klaso (Phytomastigophorea) de flageluloj g^enerale klorofilohavaj.
 sulk/o/flagel/ul/oj⟦沟/o/鞭ᶠ/者/oj⟧:【動】【PIV】Ordo (Dinoflagellata) de protozooj el la klaso de fito flageluloj, g^enerale kun du flageloj lokig^intaj en sulkoj (unu en lau^longa, la alia en pli-malpli ekvatora sulko), k vivantaj en sala au^ nesala akvo. Vd alveoluloj.
 zo/o/flagel/ul/oj⟦兽ᶻ/o/鞭ᶠ/者/oj⟧:【動】【PIV】Klaso (Zoomastigophorea) de flageluloj senklorofilaj.

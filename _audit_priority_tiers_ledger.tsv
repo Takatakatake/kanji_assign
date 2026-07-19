@@ -4,30 +4,30 @@
 # CSV2890照合: rows=2890 matched=2508(86.8%) 語根=2413 未照合rows=382
 
 ## [A] 層順逆転(bare.tier より高優先=小tierのメンバーが非base) = 全31件
-#   NEW=7(0が必須=未説明の違反) / base_override=4(意図) / ratified現状維持=20(既知20群)
+#   NEW=0(0が必須=未説明の違反) / base_override=4(意図) / ratified現状維持=27(既知20群)
 groupkey	base	base_tier	高優先メンバー(逆転相手)	分類
-咏	c^ant	2=PIV	psalm(t1=PEJVO);kantik(t1=PEJVO)	NEW
-旋	gir	2=PIV	pivot(t1=PEJVO);spiral(t1=PEJVO);rotaci(t1=PEJVO);turb(t1=PEJVO);giro(t1=PEJVO);ciklon(t1=PEJVO);piruet(t1=PEJVO)	NEW
-架	rak	2=PIV	trus(t1=PEJVO);stabl(t1=PEJVO);c^arpent(t1=PEJVO);skafald(t1=PEJVO);c^asi(t1=PEJVO)	NEW
-梗	infarkt	2=PIV	pedunkl(t1=PEJVO)	NEW
-相关	korelaci	2=PIV	korelativ(t1=PEJVO)	NEW
-硫	sulf	2=PIV	sulfur(t1=PEJVO)	NEW
-胖	obez	2=PIV	korpulent(t1=PEJVO)	NEW
 乐主义	hedonism	2=PIV	optimism(t1=PEJVO)	ratified
 乐家	hedonist	2=PIV	optimist(t1=PEJVO)	ratified
 傲	arog	1=PEJVO	arogant(t0=CSV2890)	base_override
 厘	centi	1=PEJVO	centimetr(t0=CSV2890)	base_override
+咏	c^ant	2=PIV	psalm(t1=PEJVO);kantik(t1=PEJVO)	ratified
 哲	filozof	1=PEJVO	filozofi(t0=CSV2890)	base_override
 喂	ho	1=PEJVO	he(t0=CSV2890)	base_override
 拍型	fototip	2=PIV	fototipi(t1=PEJVO)	ratified
 振具	vibrator	2=PIV	oscilator(t1=PEJVO)	ratified
+旋	gir	2=PIV	pivot(t1=PEJVO);spiral(t1=PEJVO);rotaci(t1=PEJVO);turb(t1=PEJVO);giro(t1=PEJVO);ciklon(t1=PEJVO);piruet(t1=PEJVO)	ratified
+架	rak	2=PIV	trus(t1=PEJVO);stabl(t1=PEJVO);c^arpent(t1=PEJVO);skafald(t1=PEJVO);c^asi(t1=PEJVO)	ratified
+梗	infarkt	2=PIV	pedunkl(t1=PEJVO)	ratified
 气学	aerologi	2=PIV	meteologi(t1=PEJVO);meteorologi(t1=PEJVO)	ratified
 气学家	aerolog	2=PIV	meteolog(t1=PEJVO);meteorolog(t1=PEJVO)	ratified
 气计	gasmetr	2=PIV	aerometr(t1=PEJVO);gasometr(t1=PEJVO)	ratified
 渗计	osmozmetr	2=PIV	osmozometr(t1=PEJVO)	ratified
+相关	korelaci	2=PIV	korelativ(t1=PEJVO)	ratified
+硫	sulf	2=PIV	sulfur(t1=PEJVO)	ratified
 神经学	nervologi	2=PIV	neu^rologi(t1=PEJVO)	ratified
 肠炎	ileit	2=PIV	enterit(t1=PEJVO)	ratified
 胃炎	gastrit	2=PIV	stomakit(t1=PEJVO)	ratified
+胖	obez	2=PIV	korpulent(t1=PEJVO)	ratified
 胚源	embrigenez	2=PIV	embriogenez(t1=PEJVO)	ratified
 脉炎	flebit	2=PIV	vejnit(t1=PEJVO)	ratified
 色计	kolormetr	2=PIV	kolorometr(t1=PEJVO)	ratified

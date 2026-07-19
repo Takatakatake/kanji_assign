@@ -106,3 +106,13 @@ REJECTED	paleolitik	古石学->古石期
 REJECTED	pistil	捣具->雌蘂
 REJECTED	tantalat	金盐->钽盐
 REJECTED	tropism	向主义->向性
+# ===== 2026-07-19 第21回: 学習者版の明白誤解3語族を局所是正 + arĥeo被覆穴 + 逆転7群ratified確定 =====
+# ユーザー裁定: 学習者版も「明白に別の確立した誤概念に着地する」ケースは是正(偽分解尊重・解釈可能な限り漢字不変・meteorolog据置)。全て word-scoped sep(_build_homonym)・新字ゼロ・両版diff0・[F]★新規0・EXITCODE=0。
+APPLIED	fizi	学習者版 物理/学->生理/学	fiziologi=希physis生命≠physics物理。fizik/o物理は不干渉。5語(fizi/o/logi/o,fizi/o/log/o,fizi/o/logi/a,plant/fizi/o/logi/o,psik/o/fizi/o/logi/o)
+APPLIED	gen	学習者版 抗/生->抗/原	antigen=抗体を生じさせる源。抗生(antibiotiko想起)の誤読是正。1語(anti/gen/o)。‑gen生/genez生成/au^togenはmaster生維持
+APPLIED	krat	学習者版 自/治->自/专	autokrat=自专(au^t=自維持・krat治->专のみ)。自治au^tonom(autonomy)との同字別義衝突を解消。4語(au^t/o/krat/o,krat/a,krat/ism/o,krat/ec/o)
+APPLIED	krati	学習者版 自/治->自/专	au^t/o/krati/o(krati分節)。teokrati=神治は不干渉。1語
+APPLIED	arh^eo	学習者版 latin->古	arĥeologio/arĥeologo(=arkeologio/arkeologo異綴り)の被覆穴。arkeo/logi=古ᴬᴼと平行。2語(arh^eo/logi/o,arh^eo/log/o)
+# 学術版whole-word(抗原/专制/生理学)は既に正で不干渉。版差容認(学習者=自专 / 学術=专制=要ユーザー最終確認)。
+RATIFIED	咏/旋/架/梗/相关/硫/胖	NEW7->ratified	同義語逆転7群を KNOWN登録(全字一級内・全メンバー同一漢字で識別子区別・誤字なし)。_audit_priority_tiers.py KNOWN=20->27。[I]NEW_SYNONYM_REVERSAL 7->0
+BENIGN	CSV_MISLABEL39	無害確定	bare=True19(各月/感嘆詞/自基本形保持=band表面差)・bare=False20(七曜/楽器→琴/taksi车等=一般語が基本形の正しい識別子メンバー)・照合ノイズ(kviet静{Ｂ}を"kvi"誤strip・tamen→tam)。hard-fail CSV2890_LOSES_BASE=0

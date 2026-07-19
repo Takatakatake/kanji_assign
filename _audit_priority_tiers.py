@@ -113,10 +113,14 @@ with io.open("_base_override.tsv", encoding='utf-8') as f:
         p = line.split('\t')
         if len(p) >= 2: ovr.add(p[1].strip())
 
-# 既知20逆転群=第7回でユーザーが「現状維持」裁定済(意味は正・識別子で区別・churn回避)。
+# 既知27逆転群=第7回で20群+2026-07-19で7群をユーザーが「現状維持」裁定済(全メンバー同一漢字·識別子で区別·全字一级内·偽分解尊重·churn回避)。
 # ※silent除外せず ratified として明示計上する。
+# 2026-07-19追加7群: 咏(c^ant/psalm/kantik=詠唱)·旋(gir/pivot/spiral/rotaci等=回旋)·架(rak/trus/stabl/c^arpent/skafald/c^asi=枠·架)·
+#   梗(infarkt/pedunkl=梗塞·花梗)·相关(korelaci/korelativ=相関)·硫(sulf/sulfur=硫黄同物)·胖(obez/korpulent=肥満同義)。
+# いずれも「同一漢字·PIVがbare·PEJVOが識別子」型で誤字なし=既存20群と同クラス。全字一级3500内を確認済。
 KNOWN = {'蛾','气学家','气学','气计','高计','高测','脉炎','菌学','苔植','胚源','拍型',
-         '胃炎','乐主义','乐家','肠炎','色计','神经学','振具','渗计','速计'}
+         '胃炎','乐主义','乐家','肠炎','色计','神经学','振具','渗计','速计',
+         '咏','旋','架','梗','相关','硫','胖'}
 
 from collections import defaultdict
 groups = defaultdict(list)
