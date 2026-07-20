@@ -3,6 +3,7 @@
 #   厳格フィルタ=「学術版にラテン残渣あり かつ 同一行の学習者版が完全漢字化(ラテン残渣ゼロ)」。
 #   ★カウント是正(2026-07-20 別AI監査): mirror_strict=49【行】(granulocitemi×2/litograf×4/rom×3等の重複含む)=異なり語根【44】。
 #   固有名(§7)は両版ラテンゆえ自動除外される(=真の被覆穴のみ抽出)。再現=`_residue_census.py`(生一覧+判定規則を固定)。
+#   ★基点コミット(別AI監査補足 2026-07-21): 794異なり/strict49行/44根 は e3eb3e3(第22回続・2026-07-19 23:41)時点の集計。以後 round1-5 で18件APPLIED→現行 strict31行/27根(=HELD27と一致)。49/44の厳密再現には e3eb3e3 をcheckout して `_residue_census.py` を走らせる。
 #   triage(異なり44語根): 17件APPLIED(round1:8+round2:5+round3:fibrit1+round4:senestez/bulbit/elektroprodukto3。kardiografiはround1既出でround4はCORRECTED=同根の再割当ゆえ二重計上せず) / 27件HELD(既裁定カテゴリ)。
 #   ★別AI監査是正(2026-07-20 第25回): 前記「18件APPLIED/26件HELD」は kardiografi を round1(APPLIED心志)と round4(CORRECTED心记)で二重計上した誤記。異なり語根では 17 APPLIED / 27 HELD(合計44不変)。
 # 機構: 学術版whole-word = _p_work.csv k列(P=5 sentinel・band=piv・br=2)。学習者版は別分節ゆえ無影響(diff=0実証)。

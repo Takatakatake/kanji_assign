@@ -61450,7 +61450,7 @@ aktin/o/terapi/o:【PIV】Terapio per aktinaj radiadoj.##偽分解(PIV正式分�
 fokus/terapi/o:【PIV】Psika terapio, celanta klarigi k per tio kuraci specifan konflikton perturbo-generan en homo.##偽分解
 frid/o/terapi/o:【PIV】Terapia uzo de la malvarmo kreita jen per frida dus^o au^ bano, malseka envolvig^o, glacioveziko, jen per metila klorido, karbonacida neg^o k.a. (kaj aliaj).##偽分解
 hipnot/o/terapi/o:【PIV】Terapia uzo de hipnoto, ekz. (ekzemple) por malpliigi dolorojn.##偽分解
-insulin/o/terapi/o:【PIV】Terapio per insulino.##偽分解(PIV正式分解)
+insulin/o/terapi/o:【PIV】Terapio per insulino.##偽分解
 kelat/o/terapi/o:【PIV】Terapia uzo de kelatigantoj kontrau^ pezmetalaj toksig^oj.##偽分解(PIV正式分解)
 kemi/terapi/o:【PIV】Kuracado, pli speciale de kanceroj, per kemiaj substancoj.##偽分解
 kinez/o/terapi/o:【PIV】C^iu kuracado per movoj aktivaj au^ pasivaj.##偽分解(PIV正式分解)
