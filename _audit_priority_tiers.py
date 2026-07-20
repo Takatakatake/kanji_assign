@@ -122,6 +122,18 @@ KNOWN = {'蛾','气学家','气学','气计','高计','高测','脉炎','菌学'
          '胃炎','乐主义','乐家','肠炎','色计','神经学','振具','渗计','速计',
          '咏','旋','架','梗','相关','硫','胖'}
 
+# tier0内部の「機能形態素base(prep/suf/pref/correl/num/func) vs CSV2890 basic内容語衛星」= §5/§6確定機能層。
+# 従来 tier() は basic/suf/pref を一律tier0に潰すため 0<0=false でこのカテゴリを検出できなかった(盲点)。
+# 2026-07-20 第24回で全47群を精査=全て方針§5/§6の確定機能形態素割当(mal反/ig使/ist家/uj器/il具/ec性/
+#   前置詞kun共/en内/前置詞層/数詞mil千/相関nun现/分詞6体系-ant在-int过-ont将-at被-it受-ot待 等)。
+#   機能形態素が固有字を所有しCSV2890内容語が識別子付き衛星=意図的設計(nun现と同型)・誤読なし=違反ゼロ。
+#   漢字割当は現状維持(Fable判断+ユーザー承認)。TIER0_KNOWN=現行47群=確定機能層。集合外の新規のみNEW(要点検)。
+TIER0_KNOWN = {
+    '事','代','份','使','值','倾','共','具','内','减','出','分','前','加','千','单','原','反','受','器',
+    '因','女','始','子','家','对','将','小','巨','己','微','性','成','散','无','比','物','现','穿','粒',
+    '组','群','被','过','逆','待','情'}
+AFFIX = BR0 - {'basic'}   # 機能形態素(内容語basic以外の br0 = suf/pref/prep/correl/num/func)
+
 from collections import defaultdict
 groups = defaultdict(list)
 for r in rows: groups[r['gk']].append(r)
@@ -149,6 +161,23 @@ rat_rev = [x for x in reversals if x[4] == 'ratified']
 # PEJVO↔PIV の同義語逆転(bare選択が頻度tiebreak・全メンバー同一漢字で識別子区別=誤字なし)は
 # 既知20群と同クラス=advisory(現状維持裁定の対象。exitに影響させない)。
 csv_loss = [x for x in new_rev if any(v[1] == 0 for v in x[3])]
+
+# --- tier0内部逆転(従来盲点): 機能接辞(suf/pref/…)がbareを握り CSV2890 basic内容語が識別子付き衛星 ---
+#   tier()が basic/suf を共にtier0へ潰すため [A]の tier(m)<bt(0<0) では検出不能だったカテゴリを別途走査。
+#   漢字は全員同一で正しく識別子区別=誤読なし。acknowledged(待/情=分詞体系・結合形)以外のNEWは要点検(非fail)。
+tier0_rev = []   # (gk, base_root, base_band, [basic sat roots], cls)
+for gk, members in groups.items():
+    if len(members) < 2: continue
+    base = next((m for m in members if m['id'] == ''), None)
+    if base is None: continue
+    if bandByRoot.get(base['root']) in AFFIX:
+        basic_sats = [m['root'] for m in members
+                      if m['root'] != base['root'] and bandByRoot.get(m['root']) == 'basic']
+        if basic_sats:
+            cls = 'func_layer' if gk in TIER0_KNOWN else 'NEW'
+            tier0_rev.append((gk, base['root'], bandByRoot.get(base['root']), basic_sats, cls))
+tier0_new = [x for x in tier0_rev if x[4] == 'NEW']
+tier0_known = [x for x in tier0_rev if x[4] == 'func_layer']
 
 # --- CSV2890 band整合: CSV語根が br0でない=誤ラベル(優先度喪失の温床) ---
 csv_mislabel = [(r, bandByRoot.get(r, '?')) for r in sorted(csv_roots) if bandByRoot.get(r) not in BR0]
@@ -191,6 +220,16 @@ out.append("root\t行\tgroupkey\tbareか")
 for r, ln, gk, isbare in sorted(piv_mislabel, key=lambda x: x[1]):
     out.append("%s\t%d\t%s\t%s" % (r, ln, gk, isbare))
 out.append("")
+out.append("## [D] tier0内部: 機能形態素base(§5/§6確定) vs CSV2890 basic内容語衛星。従来[A]の盲点 = 全%d件" % len(tier0_rev))
+out.append("#   func_layer=%d(§5/§6確定機能割当=意図的設計・誤読なし・違反でない) / NEW=%d(集合外の新規=要点検・非fail)" %
+           (len(tier0_known), len(tier0_new)))
+out.append("#   機能形態素(前置詞/接尾辞/接頭辞/相関/数詞/分詞)が固有字を所有しCSV2890内容語が識別子付き衛星=nun现と同型。")
+out.append("#   base=bare機能形態素 / basic_satellites=識別子付きに落ちたCSV2890内容語(語根:Unified_Level)")
+out.append("groupkey\tbase(接辞)\tbase_band\tbasic衛星(CSV2890内容語)\t分類")
+for gk, br, bb, sats, cls in sorted(tier0_rev, key=lambda x: (x[4] != 'NEW', x[0])):
+    sat_s = ';'.join("%s(%s)" % (s, csv_level.get(s, '?')) for s in sats)
+    out.append("%s\t%s\t%s\t%s\t%s" % (gk, br, bb, sat_s, cls))
+out.append("")
 out.append("## 未照合CSV行(参考・照合改善余地) = %d件" % len(unmatched))
 for u in unmatched[:60]:
     out.append("?\t%s" % u)
@@ -202,7 +241,9 @@ print("VALIDATE prototip=%s(tier%s) arketip=%s(tier%s)" %
       (genuine('prototip'), tier('prototip'), genuine('arketip'), tier('arketip')))
 print("CSV2890: rows=%d matched=%d(%.1f%%) roots=%d unmatched=%d" %
       (csv_rows, matched_rows, 100.0 * matched_rows / max(csv_rows, 1), len(csv_roots), len(unmatched)))
-print("PRIORITY_STRUCT: CSV2890_LOSES_BASE=%d NEW_SYNONYM_REVERSAL=%d BASE_OVERRIDE=%d RATIFIED=%d CSV_MISLABEL=%d PIV_MISLABEL_PEJVO=%d" %
-      (len(csv_loss), len(new_rev) - len(csv_loss), len(ovr_rev), len(rat_rev), len(csv_mislabel), len(piv_mislabel)))
-# hard-fail = CSV2890中核語のbase喪失のみ(0が必須)。同義語逆転/band誤ラベルはadvisory(要裁定・非fail)。
+print("PRIORITY_STRUCT: CSV2890_LOSES_BASE=%d NEW_SYNONYM_REVERSAL=%d BASE_OVERRIDE=%d RATIFIED=%d CSV_MISLABEL=%d PIV_MISLABEL_PEJVO=%d TIER0_FUNC_LAYER=%d(new=%d)" %
+      (len(csv_loss), len(new_rev) - len(csv_loss), len(ovr_rev), len(rat_rev), len(csv_mislabel), len(piv_mislabel), len(tier0_known), len(tier0_new)))
+# hard-fail = CSV2890中核語のbase喪失のみ(0が必須)。同義語逆転/band誤ラベル/tier0機能層はadvisory(非fail)。
+# TIER0_FUNC_LAYER=§5/§6確定機能形態素割当(mal反/ig使/ist家/nun现/分詞-ot待 等47群)=意図的設計・違反でない。
+# new>0(集合外の新規に機能形態素が内容語からbareを奪取)が出たら要点検(現状 new=0)。
 sys.exit(1 if len(csv_loss) > 0 else 0)

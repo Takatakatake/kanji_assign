@@ -888,6 +888,59 @@ zoster	44092	草	False
 sargas	44187	藻	False
 montenegr	44359	山黑	True
 
+## [D] tier0内部: 機能形態素base(§5/§6確定) vs CSV2890 basic内容語衛星。従来[A]の盲点 = 全47件
+#   func_layer=47(§5/§6確定機能割当=意図的設計・誤読なし・違反でない) / NEW=0(集合外の新規=要点検・非fail)
+#   機能形態素(前置詞/接尾辞/接頭辞/相関/数詞/分詞)が固有字を所有しCSV2890内容語が識別子付き衛星=nun现と同型。
+#   base=bare機能形態素 / basic_satellites=識別子付きに落ちたCSV2890内容語(語根:Unified_Level)
+groupkey	base(接辞)	base_band	basic衛星(CSV2890内容語)	分類
+事	ke	func	afer(2.27);fakt(5.83);event(8.9)	func_layer
+代	anstataŭ	prep	agent(9.0);pronom(8.9);generaci(8.9)	func_layer
+份	da	prep	porci(8.9)	func_layer
+使	ig	suf	ambasad(9.0);apostol(9.0);ambasador(8.9)	func_layer
+值	ind	suf	valor(2.77);merit(5.83)	func_layer
+倾	em	suf	inklin(8.4);tendenc(8.9)	func_layer
+共	kun	prep	komun(3.27)	func_layer
+具	il	suf	mebl(5.83);konkret(8.79)	func_layer
+内	en	prep	intern(4.83)	func_layer
+减	minus	func	redukt(8.9);subtrah(8.9)	func_layer
+出	el	prep	eksport(8.9)	func_layer
+分	on	suf	divid(6.33);minut(3.27);frakci(8.79);molekul(8.79)	func_layer
+前	antaŭ	prep	front(8.9)	func_layer
+加	plus	func	adici(8.4)	func_layer
+千	mil	num	kilometr(8.0)	func_layer
+单	mono	pref	menu(8.9);fraŭl(?);singular(9.0)	func_layer
+原	pra	pref	original(6.83);primitiv(8.79)	func_layer
+反	mal	pref	opon(9.0);ironi(8.9)	func_layer
+受	it	suf	akcept(3.27)	func_layer
+器	uj	suf	organ(6.33);vaz(7.9);aparat(6.33);instrument(8.4)	func_layer
+因	ĉar	func	kaŭz(?);faktor(8.79)	func_layer
+女	in	suf	feminism(8.79)	func_layer
+始	ek	pref	komenc(2.27)	func_layer
+子	id	suf	atom(8.9)	func_layer
+家	ist	suf	hejm(2.77);famili(2.77)	func_layer
+对	kontraŭ	prep	opozici(8.79);kontrast(8.79)	func_layer
+将	ont	suf	general(9.0)	func_layer
+小	et	suf	minuskl(8.79)	func_layer
+巨	eg	suf	gigant(8.79)	func_layer
+己	si	func	propr(2.77);egoist(9.0)	func_layer
+待	ot	suf	atend(2.77)	func_layer
+微	mikro	pref	nuanc(8.79)	func_layer
+性	ec	suf	seks(8.4);amor(8.79)	func_layer
+情	pati	suf	pasi(8.4);humor(6.33);emoci(8.0)	func_layer
+成	iĝ	suf	sukces(3.77);konsist(5.83)	func_layer
+散	dis	pref	distr(7.9)	func_layer
+无	sen	prep	neni(1.77)	func_layer
+比	ol	func	proporci(8.79)	func_layer
+物	aĵ	suf	objekt(5.33)	func_layer
+现	nun	func	aper(3.27);modern(6.83);aktual(8.9);fenomen(8.9);kontant(8.9)	func_layer
+穿	tra	prep	penetr(6.83)	func_layer
+粒	er	suf	grajn(8.4)	func_layer
+组	op	suf	kompon(8.9);organiz(5.83)	func_layer
+群	ar	suf	greg(9.0)	func_layer
+被	at	suf	pasiv(8.79)	func_layer
+过	int	suf	pas(2.77)	func_layer
+逆	retro	pref	spit(8.79);invers(8.79)	func_layer
+
 ## 未照合CSV行(参考・照合改善余地) = 382件
 ?	-a
 ?	-as
