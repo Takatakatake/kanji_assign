@@ -4807,9 +4807,9 @@ cent/estr/o:【史】百人隊長,百人組長
 centezimal/a:【数】百分法の,百進法の
 centezimal/a term/o/metr/o:セ氏温度計,百分度温度計##偽分解(PIV正式分解)##過細分解 centezimal/a t/e/r/m/o/metr/o
 centi-:［接頭辞］【学】センチ〜（補助単位，＝１００分の１）
-centiar/o:【単】平方メートル,=kvadrata metro
-centi/gram/o:{Ｏ}【単】センチグラム##偽分解(PIV正式分解)
-centi/litr/o:{Ｏ}【単】センチリットル##偽分解(PIV正式分解)
+centi/ar/o:【単】平方メートル,=kvadrata metro##偽分解
+centi/gram/o:{Ｏ}【単】センチグラム##偽分解
+centi/litr/o:{Ｏ}【単】センチリットル##偽分解
 centi/metr/o:{Ｂ}【単】センチメートル（cm）##偽分解
 centim/o:{Ｏ}【貨】サンチーム,=centono de franko;センチモ,=centono de peseto
 cent/jar/a:百年の
@@ -5260,7 +5260,7 @@ c^arpi/o:{Ｏ}【医】綿撒糸（めんざんし、綿布をほぐして傷口
 c^art/aviad/il/o:【空】チャーター機
 c^art/i:［他］（船を）チャーターする
 c^art/o:【法】憲章;【史】（中世の）証書,勅許状;【海】用船契約
-C^art/o de UNo:【法】国連憲章,=la C^arto de la Unuig^intaj Nacioj
+C^art/o de UN/o:【法】国連憲章,=la C^arto de la Unuig^intaj Nacioj##偽分解
 c^ar/um/o:{Ｂ}（一輪の）手押車
 c^as/ad/o:狩猟,狩り
 c^as/aj^/o:（狩りの）獲物,餌食（えじき）
@@ -5973,8 +5973,8 @@ decid/it/a:既定の,既決の
 decid/kapabl/a:決断力のある
 decid/o:決定,決断;決心,決意
 decid/rajt/o:決定権
-deci/gram/o:{Ｏ}【単】デシグラム（十分の一グラム）##偽分解(PIV正式分解)
-deci/litr/o:{Ｏ}【単】デシリットル（十分の一リットル）##偽分解(PIV正式分解)
+deci/gram/o:{Ｏ}【単】デシグラム（十分の一グラム）##偽分解
+deci/litr/o:{Ｏ}【単】デシリットル（十分の一リットル）##偽分解
 decimal/a:{Ｏ}【数】十進法の,=dekuma
 decimal/a klasifik/ad/o:（図書の）十進分類法
 decimal/a kom/o:【数】小数点
@@ -6094,9 +6094,9 @@ dekadenc/i:［自］衰退する;退廃する
 dekadenc/ig/i:［他］退廃させる
 dekadenc/o:{Ｏ}衰退,衰微;退廃;【文】デカダンス
 dekad/o:=tagdeko（旬）
-deka/gram/o:{Ｏ}【単】デカグラム##偽分解(PIV正式分解)
+deka/gram/o:{Ｏ}【単】デカグラム##偽分解
 dek/a/jar/a:十年目の
-deka/litr/o:{Ｏ}【単】デカリットル##偽分解(PIV正式分解)
+deka/litr/o:{Ｏ}【単】デカリットル##偽分解
 de/kalkul/i:［他］差し引く,控除する
 deka/log/o:【聖】（モーセの）十戒##偽分解
 Dekameron/o:【文】『デカメロン』（ボッカチオ作）
@@ -12890,7 +12890,7 @@ gigant/a:巨人の;巨大な
 gigant/a rad/o:（遊園地の）観覧車
 gigant/ism/o:【病】巨人症;巨大発育;《転》巨大化
 gigant/o:{Ｏ}巨人
-giga/vat/o:【理】ギガワット（GW）##偽分解(PIV正式分解)
+giga/vat/o:【理】ギガワット（GW）##偽分解
 gilbert/o:【理】ギルバート（起磁力のCGS単位）
 Gilbert/o:（男子名）ギルバート,ジルベール
 Gilbert/o:【人名】ギルバート（イギリスの科学者、1544-1603）
@@ -14090,10 +14090,10 @@ hektar/o:{Ｂ}【単】ヘクタール,=cent aroj
 hekto-:［接頭辞］【学】ヘクト〜（補助単位，＝１００倍）
 hekto/graf/i:［他］【機】こんにゃく版で刷る##偽分解(PIV正式分解)
 hekto/graf/o:【機】こんにゃく版複写機##偽分解(PIV正式分解)
-hekto/gram/o:{Ｏ}【単】ヘクトグラム,=cent gramoj##偽分解(PIV正式分解)
-hekto/litr/o:{Ｏ}【単】ヘクトリットル,=cent litroj##偽分解(PIV正式分解)
+hekto/gram/o:{Ｏ}【単】ヘクトグラム,=cent gramoj##偽分解
+hekto/litr/o:{Ｏ}【単】ヘクトリットル,=cent litroj##偽分解
 hekto/metr/o:{Ｏ}【単】ヘクトメートル,=cent metroj##偽分解
-hekto/paskal/o:【理】ヘクトパスカル（hPa，圧力の単位）##偽分解(PIV正式分解)
+hekto/paskal/o:【理】ヘクトパスカル（hPa，圧力の単位）##偽分解
 Hektor/o:【神】ヘクトル（トロイア軍の総大将）
 hel/a:{Ｂ}明るい,晴れやかな,>>luma,>>brila;（色が）明るい,薄い,>>pala;（音が）澄んだ
 hel/a c^ambr/o:明るい部屋
@@ -17805,20 +17805,20 @@ Kikihar/o:【地名】チチハル（中国）,=C^jic^jiharo
 Kilimang^ar/o:【地名】キリマンジャロ山（タンザニア）
 kil/o:{Ｏ}【海】キール,竜骨
 kilo-:［接頭辞］【学】キロ〜（補助単位，＝１０００倍）
-kilo/bajt/o:【情】キロバイト（kB）##偽分解(PIV正式分解)
-kilo/bit/o:【情】キロビット（kb）##偽分解(PIV正式分解)
-kilo/cikl/o:【理】キロサイクル（kc）##偽分解(PIV正式分解)
-kilo/gram/fort/o:【理】=kilogrampezo（重量キログラム）##偽分解(PIV正式分解)
+kilo/bajt/o:【情】キロバイト（kB）##偽分解
+kilo/bit/o:【情】キロビット（kb）##偽分解
+kilo/cikl/o:【理】キロサイクル（kc）##偽分解
+kilo/gram/fort/o:【理】=kilogrampezo（重量キログラム）##偽分解
 kilo/gram/metr/o:【理】キログラムメートル（仕事の単位，kgm）##偽分解
-kilo/gram/o:{Ｂ}【単】キログラム（kg）##偽分解(PIV正式分解)
-kilo/gram/pez/o:【理】重量キログラム（力の重力単位，kgw，kgf）,=kilogramforto##偽分解(PIV正式分解)
-kilo/herc/o:【理】キロヘルツ（kHz）##偽分解(PIV正式分解)
-kilo/kalori/o:【理】キロカロリー（熱量の単位，kcal）##偽分解(PIV正式分解)
-kilo/litr/o:【単】キロリットル（kl）##偽分解(PIV正式分解)
+kilo/gram/o:{Ｂ}【単】キログラム（kg）##偽分解
+kilo/gram/pez/o:【理】重量キログラム（力の重力単位，kgw，kgf）,=kilogramforto##偽分解
+kilo/herc/o:【理】キロヘルツ（kHz）##偽分解
+kilo/kalori/o:【理】キロカロリー（熱量の単位，kcal）##偽分解
+kilo/litr/o:【単】キロリットル（kl）##偽分解
 kilo/metr/o:{Ｂ}【単】キロメートル（km）##偽分解
-kilo/om/o:【理】キロオーム（kΩ）##偽分解(PIV正式分解)
-kilo/vat/hor/o:【電】キロワット時（kWh）##偽分解(PIV正式分解)
-kilo/vat/o:【理】キロワット（kW）##偽分解(PIV正式分解)
+kilo/om/o:【理】キロオーム（kΩ）##偽分解
+kilo/vat/hor/o:【電】キロワット時（kWh）##偽分解
+kilo/vat/o:【理】キロワット（kW）##偽分解
 kilo/volt/o:【理】キロボルト（kV）##偽分解
 kilson/o:【海】内竜骨,キールソン;【空】（機体下部の）骨組構造
 kimc^i/o:【料】キムチ,>>peklaj^o
@@ -22868,7 +22868,7 @@ magnet/ebl/ec/o:【理】磁化率
 magnet/i:［他］【理】帯磁させる,磁化する
 magnet/ig/i:［他］=magneti（帯磁させる）
 magnet/ism/o:{Ｏ}【理】磁気,磁性;磁気学
-magnet/it/o:【鉱】磁鉄鉱##偽分解(PIV正式分解)
+magnetit/o:【鉱】磁鉄鉱
 magnet/iz/i:［他］=hipnotigi（催眠術にかける）
 magnet/kamp/o:【理】磁場
 magnet/kap/o:【情】磁気ヘッド
@@ -26684,7 +26684,7 @@ Nanling/o:【地名】ナンリン山脈（南嶺山脈，中国）
 nan/o:{Ｏ}小人（こびと）;【生】矮小体（わいしょうたい）
 nano-:［接頭辞］【学】ナノ〜（補助単位，＝１０億分の１）
 nan/o/planed/o:【天】準惑星
-nano/sekund/o:【単】ナノ秒（ns）##偽分解(PIV正式分解)
+nano/sekund/o:【単】ナノ秒（ns）##偽分解
 Nant/a edikt/o:（la 〜）【史】ナントの勅令（1958）
 napalm/a bomb/o:【軍】ナパーム弾
 napalm/o:【軍】ナパーム（焼夷弾用の燃料）
@@ -31647,7 +31647,7 @@ pra/s^arg/o:【情】ブート,ブートストラップ
 pra/s^ton/epok/o:【考古】旧石器時代,=paleolitiko
 pra/temp/o:太古,大昔
 pra/tip/o:原型,基本型,=prototipo
-pra/tip/o de kilo/gram/o:【理】キログラム原器,>>etalono##偽分解(PIV正式分解)
+pra/tip/o de kilo/gram/o:【理】キログラム原器,>>etalono##偽分解
 pra/ul/o:先祖,祖先
 prav/a:{Ｂ}正当な,正しい,道理にかなった,もっともな
 pra/valor/iz/i:［他］【情】（変数を）初期化する
@@ -40311,7 +40311,7 @@ te/pau^z/o:ティータイム,お茶の時間,休憩時間
 tepid/a:《詩》=varmeta（ぬるい）
 ter/a:地球の;土の;地上の;【生】陸生の
 tera-:［接頭辞］【学】テラ〜（補助単位，＝１兆倍）
-tera/bajt/o:【情】テラバイト（TB）##偽分解(PIV正式分解)
+tera/bajt/o:【情】テラバイト（TB）##偽分解
 Ter/a Defend/korpus/o:陸上自衛隊
 ter/aj animal/oj:陸生動物
 ter/aj plant/oj:陸生植物
@@ -40332,7 +40332,7 @@ teras/kamp/o:棚田（たなだ）,段々畑
 teras/o:{Ｂ}【建】テラス,露台;【建】テラス,屋上露台;（石垣などで支えた）台地,高台,築山;【地理】段丘
 terat/o/logi/o:【生】奇形学##偽分解##強語根分解
 teravad/o:【仏】上座部,>>mahajano
-teravat/hor/o:【電】テラワット時（TWh）
+tera/vat/hor/o:【電】テラワット時（TWh）##偽分解
 ter/bul/o:土くれ
 ter/centr/a latitud/o:【地理】地心緯度
 tercet/o:{Ｏ}【文】三行連句,三行詩;【楽】三部合唱曲,三重奏曲
@@ -46232,7 +46232,7 @@ cent/op/o:【PIV】Grupo de cent aferoj au^ personoj.
 cent/foj/e:【PIV】Vd (vidu) fojo.
 centau^ri/o:【植】【PIV】G. (Genro) (Centaurium el gencianacoj) de unu-, du-k plur-jaraj herboj kun integraj, senpetiolaj folioj k kun cumo el purpuraj, rozaj au^ malofte flavaj floroj; c^. (c^irkau^) 20 sp-oj (specioj), precipe N-hemisferaj, i.a. (interalie, inter aliaj) eritreo. -> centau^reo.
 cent/i/foli/o:【植】【PIV】Centfolia rozo. Vd muskrozo. -> trifolio, milfolio.##偽分解
-centi/grad/a:【PIV】= centezimala, centuma.##偽分解(PIV正式分解)
+centi/grad/a:【PIV】= centezimala, centuma.##偽分解
 centipeli/o:【動】【PIV】(centipellio) La dua stomaka pos^o de la remac^uloj, trovig^anta post la rumeno. Sin. (sinonimo) retostomako. Vd abomaso, omaso, rumeno.
 centr/ad/o:【PIV】Ago de iu, kiu centras.
 centr/ec/o:【PIV】Pozicio centra.
@@ -56148,7 +56148,7 @@ teu^g/o:【PIV】Speco de parta ferdeko, konstruita super la supra ferdeko c^e l
 teu^kri/o:【植】【PIV】G. (Genro) (Teucrium el lamiacoj) de plantoj - herboj, plejparte plurjaraj, arbustetoj k tufarbustoj - kun malgrandaj, simplaj folioj k kun floroj havantaj korolon s^ajne unulipan pro la du supraj loboj malsuprendirektaj, tute apudaj de la tri malsupraj; kosmopolita g. (genro) de c^. (c^irkau^) 100 sp-oj (specioj), precipe Mediteraneaj, kelkaj pororname kultivataj au^ medicine uzataj.
 teu^ton/a:【PIV】Rilata al la teu^tonoj: la teu^tona dialekto; la Teu^tona Ordeno (kavalira ordeno, fondita c^. (c^irkau^) 1128, kiu grandparte konkeris Prusujon al kristanismo k germaneco).
 ti:【楽】【PIV】= si.
-ti/a-ti/a:【PIV】Esprimo, uzata por eviti tro longan au^ tro precizan montron: la Komitato diru, ke la sola g^usta vojo estas tia-tia ; alproksimig^u, vi, tia-tia! .
+tia-tia:【PIV】Esprimo, uzata por eviti tro longan au^ tro precizan montron: la Komitato diru, ke la sola g^usta vojo estas tia-tia ; alproksimig^u, vi, tia-tia! .
 ti/aj^/o:【PIV】Io tia: tiaj^ojn mi neniam diris.
 tial/a:【PIV】Rilata al la dirita kau^zo: oni devas decidi pri la celoj de la du kunsidserioj, por eviti la duoblan laboron k la tialan perdon de tempo.
 tiamin/o:【化】【生】【PIV】Vitamino B 1, C 12 H 18 C 12 N 4 OS.

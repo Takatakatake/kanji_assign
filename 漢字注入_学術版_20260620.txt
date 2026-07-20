@@ -22868,7 +22868,7 @@ magnet/ebl/ec/o⟦磁/可/性/o⟧:【理】磁化率
 magnet/i⟦磁/i⟧:［他］【理】帯磁させる,磁化する
 magnet/ig/i⟦磁/使/i⟧:［他］=magneti（帯磁させる）
 magnet/ism/o⟦磁/主义/o⟧:{Ｏ}【理】磁気,磁性;磁気学
-magnetit/o:【鉱】磁鉄鉱
+magnetit/o⟦磁铁矿/o⟧:【鉱】磁鉄鉱
 magnet/iz/i⟦磁/化/i⟧:［他］=hipnotigi（催眠術にかける）
 magnet/kamp/o⟦磁/田/o⟧:【理】磁場
 magnet/kap/o⟦磁/头/o⟧:【情】磁気ヘッド
@@ -56148,7 +56148,7 @@ teu^g/o:【PIV】Speco de parta ferdeko, konstruita super la supra ferdeko c^e l
 teu^kri/o⟦草ᵀᵁ̆/o⟧:【植】【PIV】G. (Genro) (Teucrium el lamiacoj) de plantoj - herboj, plejparte plurjaraj, arbustetoj k tufarbustoj - kun malgrandaj, simplaj folioj k kun floroj havantaj korolon s^ajne unulipan pro la du supraj loboj malsuprendirektaj, tute apudaj de la tri malsupraj; kosmopolita g. (genro) de c^. (c^irkau^) 100 sp-oj (specioj), precipe Mediteraneaj, kelkaj pororname kultivataj au^ medicine uzataj.
 teu^ton/a:【PIV】Rilata al la teu^tonoj: la teu^tona dialekto; la Teu^tona Ordeno (kavalira ordeno, fondita c^. (c^irkau^) 1128, kiu grandparte konkeris Prusujon al kristanismo k germaneco).
 ti:【楽】【PIV】= si.
-ti/a-ti/a:【PIV】Esprimo, uzata por eviti tro longan au^ tro precizan montron: la Komitato diru, ke la sola g^usta vojo estas tia-tia ; alproksimig^u, vi, tia-tia! .
+tia-tia⟦那a-那a⟧:【PIV】Esprimo, uzata por eviti tro longan au^ tro precizan montron: la Komitato diru, ke la sola g^usta vojo estas tia-tia ; alproksimig^u, vi, tia-tia! .
 ti/aj^/o⟦ti/物/o⟧:【PIV】Io tia: tiaj^ojn mi neniam diris.
 tial/a⟦那因/a⟧:【PIV】Rilata al la dirita kau^zo: oni devas decidi pri la celoj de la du kunsidserioj, por eviti la duoblan laboron k la tialan perdon de tempo.
 tiamin/o:【化】【生】【PIV】Vitamino B 1, C 12 H 18 C 12 N 4 OS.

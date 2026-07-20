@@ -7014,6 +7014,10 @@
   psikolog       心学家        F=1     piv     
   kardiolog      心学家ᴷ       F=1     piv     
 
+【心记】 2件
+  kardiograf     心记         F=1     piv     
+  kardiografi    心记ᴷᴵ       F=1     piv     
+
 【振具】 2件
   vibrator       振具         F=1     piv     
   oscilator      振具ᴼ        F=1     piv     
@@ -8073,6 +8077,10 @@
 【揉】 2件
   kned           揉          F=8     basic   
   tau^z          揉ᵀ         F=7     pejvo   
+
+【无感】 2件
+  anestez        无感         F=1     piv     
+  senestez       无感ˢ        F=1     piv     
 
 【无产】 2件
   prolet         无产         F=6     basic   

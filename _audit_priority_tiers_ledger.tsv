@@ -82,7 +82,7 @@ oktobr	cal	PEJVO	True	十月	3.77
 septembr	cal	PEJVO	True	九月	3.77
 telefon	piv	PEJVO	True	远声	5.83
 
-## [C] band=piv だが真PEJVO(<=44440・PIVタグ無)の誤ラベル語(温床) = 802件
+## [C] band=piv だが真PEJVO(<=44440・PIVタグ無)の誤ラベル語(温床) = 803件
 #   bare列=その語が漢字群のbare基本形か(Trueなら真PEJVO語が正しくbare保持=無害)
 root	行	groupkey	bareか
 acetat	173	醋盐	True
@@ -530,6 +530,7 @@ litografi	22373	石志	True
 lokomobil	22493	处动	True
 lumbalgi	22678	腰痛	True
 macutak	22795	菌	False
+magnetit	22871	磁铁矿	True
 magnetometr	22880	磁计	True
 magneton	22882	磁子	True
 magnetostring	22883	磁勒	True

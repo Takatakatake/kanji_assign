@@ -3,7 +3,8 @@
 #   厳格フィルタ=「学術版にラテン残渣あり かつ 同一行の学習者版が完全漢字化(ラテン残渣ゼロ)」。
 #   ★カウント是正(2026-07-20 別AI監査): mirror_strict=49【行】(granulocitemi×2/litograf×4/rom×3等の重複含む)=異なり語根【44】。
 #   固有名(§7)は両版ラテンゆえ自動除外される(=真の被覆穴のみ抽出)。再現=`_residue_census.py`(生一覧+判定規則を固定)。
-#   triage(異なり44語根): 18件APPLIED(round1:8+round2:5+round3:fibrit+round4:kardiografi是正含む4) / 26件HELD(既裁定カテゴリ)。
+#   triage(異なり44語根): 17件APPLIED(round1:8+round2:5+round3:fibrit1+round4:senestez/bulbit/elektroprodukto3。kardiografiはround1既出でround4はCORRECTED=同根の再割当ゆえ二重計上せず) / 27件HELD(既裁定カテゴリ)。
+#   ★別AI監査是正(2026-07-20 第25回): 前記「18件APPLIED/26件HELD」は kardiografi を round1(APPLIED心志)と round4(CORRECTED心记)で二重計上した誤記。異なり語根では 17 APPLIED / 27 HELD(合計44不変)。
 # 機構: 学術版whole-word = _p_work.csv k列(P=5 sentinel・band=piv・br=2)。学習者版は別分節ゆえ無影響(diff=0実証)。
 # 全字一级3500内(新字ゼロ)・全て学習者版承認済み分解の忠実鏡像(識別子なしのbare連結)。
 # 検証: _verify_all EXITCODE=0 / [A]原本diff=0×2・学習者diff=0 / [F]★新規0 / [H]churn0活性19 / [I]NEW_REVERSAL=0 / [C]学術53(変更前後で不変=単独群)。
@@ -30,6 +31,11 @@ CORRECTED	kardiografi	心志→心记	衝突是正	心志は既成漢語(willpow
 APPLIED	senestez	无感	医療	sen无+estez感 (anesthesia。senestezigi=無感覚化)。※前回HELD「anestez=无感churn」は誤り=anestez(root7)が短くbare維持・senestez(8)→无感ˢ=churnなし(別AI監査で反証)
 APPLIED	bulbit	球炎	医療	bulb球+it炎 (bulbitis。poliobulbito=灰ᴾ/o/球炎)。球炎は新群・衝突なし。学術2出現の1つは語釈テキストで無害。学習者版=球ᴮ/炎ᵀ
 APPLIED	elektroprodukto	电产	環境	elektro电+produkt产 (電力生産。tajdpova elektroprodukto=潮力発電)。台帳漏れ(別AI指摘)を是正・充填。学習者版=电/o/产
+# --- round5 (2026-07-20 第25回・DICT正本同期由来。※44根の残渣センサス外=別系統の追加/是正) ---
+# 契機: DICT正本(../エスペラント辞書徹底語根分解_20260630)が今日再更新(学習者11:04/学術09:32)→PROJ未同期で_verify_all[D]がDICT正本drift=hard-fail状態。protocol通り source→PROJ同期(SHA一致確認)+全パイプライン再注入。境界変更5件のうち3件が要対応:
+APPLIED	magnetit	磁铁矿	鉱物	正本が magnet/it/o→magnetit/o に統合(hematit=矿ᴴ/pirit=黄铁矿/grafit=石墨 と同じ「鉱物名は-it分解せず whole-root」規約へ整合。従来の磁/it/o が規約外の例外だった)。統合で磁を失う退行を防ぎ pirit=黄铁矿 と完全並行に magnetit=磁铁矿(magnetic-iron-ore=磁鉄鉱)を_p_work充填。全字一级(磁14/铁10/矿8=32画)・唯一k=識別子なしbare・両版⟦磁铁矿/o⟧。sentinel(piv/br2/P5・他gap-fillと同型)
+FIXED	tera/vat/hor	tera/瓦ⱽ/钟	amb是正	正本 teravat/hor/o→tera/vat/hor/o 露出で vat が既定義棉(綿wool)に落ち「テラ綿時」化=明らかな誤解。giga/kilo/mega/vat/hor と同じ vat=瓦 sepリスト(_build_homonym L141)に tera/vat/hor/o 追加→瓦ⱽ に是正。兄弟giga/kilo/megaは無変化(巻き込み0)
+FIXED	centi/ar	厘/亩	amb是正	正本 centiar/o(pure-latin残渣)→centi/ar/o 露出で ar が既定義群(集合接尾)に落ちた。centiaro=1/100 are=面積単位ゆえ ar=亩(are単位) が正。centi/ar/o のみ word-scoped sep(_build_homonym)で 厘/亩 に是正。集合-ar-(群)・bare ar/o(amb)・-ar-数千語には無影響。hektar/o=公顷(whole)と整合。※他2件(C^art de UNo→UN/o・ti/a-ti/a→tia-tia)は自動で正常描画(要対応なし)
 #
 # --- HELD (既裁定カテゴリ・非適用) ---
 # (senestez は round4 で APPLIED に昇格=churn誤判定を別AI監査で反証)
