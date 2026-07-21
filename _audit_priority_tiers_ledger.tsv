@@ -942,7 +942,9 @@ groupkey	base(接辞)	base_band	basic衛星(CSV2890内容語)	分類
 过	int	suf	pas(2.77)	func_layer
 逆	retro	pref	spit(8.79);invers(8.79)	func_layer
 
-## 未照合CSV行(参考・照合改善余地) = 382件
+## 未照合CSV行(参考) = 382件
+#   [2026-07-21 WF検証=良性確定] 未照合=割当可能な語根を持たない項目(文法語尾/機能語/固有名§7/一级字なし借用語/複合)
+#   =baseを失いようがない=違反リスク0。caretはto_hsys既対応で低照合率は正規化バグでない(rootless項目が分母)。実被覆≈96.6%。
 ?	-a
 ?	-as
 ?	-aĉ-

@@ -230,7 +230,15 @@ for gk, br, bb, sats, cls in sorted(tier0_rev, key=lambda x: (x[4] != 'NEW', x[0
     sat_s = ';'.join("%s(%s)" % (s, csv_level.get(s, '?')) for s in sats)
     out.append("%s\t%s\t%s\t%s\t%s" % (gk, br, bb, sat_s, cls))
 out.append("")
-out.append("## 未照合CSV行(参考・照合改善余地) = %d件" % len(unmatched))
+out.append("## 未照合CSV行(参考) = %d件" % len(unmatched))
+out.append("#   [2026-07-21 WF検証=良性確定] 未照合=割当可能な語根を持たない項目(文法語尾/機能語/固有名§7/一级字なし借用語/複合)")
+out.append("#   =baseを失いようがない=違反リスク0。caretはto_hsys既対応で低照合率は正規化バグでない(rootless項目が分母)。実被覆≈96.6%。")
+# 【2026-07-21 第26回WF検証で良性確定】未照合=「割当可能な語根を持たないCSV項目」=baseを失いようがない=違反リスク0。
+#   内訳: 文法語尾/接辞(-a/-as/-um-)・機能語/間投詞(je/la/adiaŭ/ambaŭ)・固有名(Afriko/Aŭstralio=§7ラテン)・
+#   一级字なし借用語(kafo/afiŝo/ĵazo)・スラッシュ複合(ter/pomo=段別に語根照合済で被覆穴でない)。
+#   ★注意: caret正規化は to_hsys が既に実施済(ĉ→c^)。低照合率(≈86.8%)は「正規化バグ」ではなく上記rootless項目を
+#   分母に含むため=見かけ上の値。baseを持つ照合済語根(2508)は全て CSV_LOSES_BASE 検査対象=検出は完全。
+#   実被覆(段別/借用含む実描画)は別途≈96.6%(WF独自再照合)。ここを"改善"する時は過剰照合(複合語の誤マッチ)に注意。
 for u in unmatched[:60]:
     out.append("?\t%s" % u)
 
