@@ -54,6 +54,10 @@ $segLat = @{ 'gram/negativ/a'=@('gram'); 'gram/pozitiv/a'=@('gram'); 'deci/bel/o
   # 2026-06-25 接尾辞悉皆監査(WF w3piqpnyc)で露出した非受動/非病/非前置詞のtransparent結合形:
   'fer/it/o'=@('it')   # ferrite(純鉄のα/γ/δ相=冶金相)→-itラテン。鉱物magnet/it磁鉄鉱と同型。受動分詞-it=受 でない(fer=鉄に他動詞なし)。fer/at=铁/盐ᴬ(ferrate塩)は別処理で正
   'jod/oz/o'=@('oz')   # iodoso基(grupo IO=ヨードソ価数接尾辞・nitrozo同系列)→-ozラテン。病-osis(症)でない。_build_homonymの$ozChemでoz-症 disc から除外し本segLatでlatin化
+  'fer/oz/a'=@('oz')   # 第一鉄feroza(ferrous=Fe(II)価数接尾-oz=iodoso/nitrozo同系列)→-ozラテン。病-osis(症)でない=fer/oz/a⟦铁/症⟧の誤読是正(§6化学価数)。_build_homonymの$ozChemにも追加(2026-07-21 第27回)
+  'trap/an/o'=@('trap')   # トラピスト修道会員(La Trappe修道会=固有名§7)→trapラテン。菱Trapa(trap/o=草)の偽の友=trap/an/o⟦草/员⟧の誤読是正(trap latin・an=员維持)。2026-07-21 第27回
+  'umbr/a'=@('umbr')   # ウンブリア語/派(Umbrian=固有名§7)→umbrラテン。魚Umbra(umbr/o=鱼)の偽の友=umbr/a⟦鱼⟧の誤読是正。umbr/o(魚義と歴史義が同綴amb)は§6.5据置。2026-07-21 第27回
+  'agami/a'=@('agami')   # 無性の(agamia=希a-privative無配偶・生物学)→agamiラテン。ラッパチョウagami/o=鸟(Psophia)の偽の友=agami/a⟦鸟⟧(asexual≠bird)の誤読是正。正本がagami whole分解ゆえ理想の无配は不可・誤読除去優先。2026-07-21 第27回
   '2-buten/al/o'=@('al')   # クロトンアルデヒド(CH3-CH=CH-CHO)→-alラテン。アルデヒド結合形(cinam/al・klor/al兄弟と同型)。前置詞al=向 でない。##過細分解由来(学術版は単一根)
   'piridoks/al/fosf/at/o'=@('al')   # ピリドキサールリン酸(アルデヒド誘導体補酵素)→-alラテン。fosf/at=磷/盐ᴬ は正。##過細分解由来
   'miko/plasm/al/oj'=@('al')   # Mycoplasmatales(マイコプラズマ目)→分類学-al(目)はラテン。前置詞al=向 でない。##エス的分解由来

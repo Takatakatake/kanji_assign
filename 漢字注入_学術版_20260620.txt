@@ -41199,7 +41199,7 @@ trans/viol/aj radi/oj⟦越/紫花/aj 射ᴿ/oj⟧:【理】紫外線
 trans/viv/ant/o⟦越/活/在/o⟧:生存者,=postvivanto
 trans/viv/i⟦越/活/i⟧:［他］生き残る,生きのびる,=postvivi,=supervivi
 tra/paf/i⟦穿/射/i⟧:［他］撃ちぬく,射ぬく
-trap/an/o⟦草ᵀᴾ/员ᴬ/o⟧:【カ】トラピスト修道会員
+trap/an/o⟦trap/员ᴬ/o⟧:【カ】トラピスト修道会員
 tra/pas/i⟦穿/过ᴾ/i⟧:［他］通り抜ける,くぐり抜ける;《転》経る,経験する
 tra/pas/i ekzamen/on⟦穿/过ᴾ/i 检ᴱ/on⟧:試験を受ける（注：「合格する」の意味で使われることもあるが誤用とされる）
 tra/pas/int/o⟦穿/过ᴾ/过/o⟧:（講習会などの）修了者
@@ -44544,7 +44544,7 @@ afis/o⟦虫ᴬˢ/o⟧:【PIV】(evi (evitinda)) = afido.
 aga/o:【史】【PIV】Otomana oficiro au^ s^tatoficisto.
 agam/o⟦龙ᴬ/o⟧:【動】【PIV】G. (Genro) (Agama) de reptilioj el la subordo de lacertuloj, karakterizataj de egalaj skvamoj, kiuj formas oblikvajn liniojn sur la korpo, de plata kapo k de fortaj membroj; vivas en la varmaj landoj.
 agam/ed/oj⟦龙ᴬ/科ᴱ/oj⟧:【動】【PIV】Fam. (Familio) (Agamidae) de lacertuloj, al kiu apartenas agamo, drako k.a. (kaj aliaj)
-agami/a⟦鸟ᴬᴳ/a⟧:【PIV】(evi (evitinda)) 1 = nesekse reproduktig^anta. 2 = neseksa, senseksa.
+agami/a:【PIV】(evi (evitinda)) 1 = nesekse reproduktig^anta. 2 = neseksa, senseksa.
 agami/o⟦鸟ᴬᴳ/o⟧:【動】【PIV】Sp. de birdo (Psophia crepitans) el la ordo de gruformaj, vivanta en S Ameriko.
 agar/o:【PIV】Mll de agaragaro, uzata en kuirarto, biotekniko k.a. (kaj aliaj).
 agatid/o⟦木ᴬᴳ/o⟧:【植】【PIV】G. (Genro) (Agathis, sin. (sinonimo (de latinscienca nomo)) Dammara, el arau^kariacoj) de koniferaj, g^enerale monoikaj arboj kun fortika trunko, verticilaj branc^oj k kontrau^e duopaj au^ alternaj folioj lancetformaj au^ longe ovalaj, mallonge petiolaj; 20 sp-oj (specioj) hejmaj de Sumatro g^is Nov-Zelando k Fig^ioj, kelkaj kultivataj por ornamo, por ligno k/au^ por helkolora rezino uzata por produktado de speco de kopalo, i.a. (interalie, inter aliaj) kau^rio k damaro.
@@ -45815,7 +45815,7 @@ bier/ist/o⟦酒ᴮ/家/o⟧:【PIV】Bierfaristo.
 bier/um/i⟦酒ᴮ/um/i⟧:【PIV】(ntr (netransitiva)) G^ui bieron en bona etoso.
 bi/fac/o⟦二ᴮ/面/o⟧:【PIV】S^tona ilo migdalforme tajlita k ambau^flanke retus^ita por ricevi tranc^an periferion; g^i karakterizas la ac^eu^lean industrion.
 bi/faden/a⟦二ᴮ/丝ᶠ/a⟧:【PIV】= dudrata.
-bi/fenil/o⟦生ᴮᴵ/fenil/o⟧:【PIV】Vd (vidu) feno ②.
+bi/fenil/o⟦二ᴮ/fenil/o⟧:【PIV】Vd (vidu) feno ②.
 bifid/a⟦叉ᴮ/a⟧:【植】【解】【医】【PIV】Duparte dividig^inta: bifida folio; la bifida lango de serpento; bifida spino (denaska malsano de la spino). Vd forka.
 bifilar/a:【PIV】1 = dratrefalda. 2 (evi (evitinda)) = dudrata.
 bigarad/o⟦酸橙/o⟧:【植】【PIV】1 Subsp. de citruso (Citrus aurantium subsp. a.) hejma en Hindio k Birmanio, arbeto kun globaj fruktoj (amaraj orang^oj), havantaj rug^e orang^an s^elon, el kiu oni ekstraktas esencon (Vd nerolio), k tre acidan, pli-malpli amaran pulpon, uzatan por konfitaj^oj k amaraj trinkaj^oj. 2 Frukto de bigarado 1. Sin. (sinonimo) amara orang^o.
@@ -56590,7 +56590,7 @@ umbel/et/o⟦伞ᵁ/小/o⟧:【PIV】Duavica umbelo de kunmeta umbelo.
 umbilikari/o⟦菌ᵁᴹ/o⟧:【植】【PIV】G. (Genro) (Umbilicaria el umbilikariacoj) de foliecaj, umbilikohavaj askolikenoj roklog^aj, nekalkejaj; kosmopolita g. (genro) de c^. (c^irkau^) 45 sp-oj (specioj), pluraj mang^eblaj, ekz. (ekzemple) U. esculenta. Vd roktripoj.
 umbr/o⟦鱼ᵁ/o⟧:【動】【PIV】G. (Genro) (Umbra) de fis^oj el la fam. (familio) de umbredoj, ordo de salmonoformaj, malgrandaj, nesalakvaj, vivantaj en E-Eu^ropo, Azio k N Ameriko.
 umbr/o⟦鱼ᵁ/o⟧:【史】【PIV】Log^anto de Umbrio.
-umbr/a⟦鱼ᵁ/a⟧:【PIV】Rilata al umbroj: la umbra lingvo; la umbra skolo (al kiu apartenis Rafaelo k Perug^ano).
+umbr/a:【PIV】Rilata al umbroj: la umbra lingvo; la umbra skolo (al kiu apartenis Rafaelo k Perug^ano).
 ume/uj/o⟦梅/器/o⟧:【PIV】Umeo 1.
 umjak/o:【PIV】Eskima boato, manovrata de virinoj.
 umlau^t/o:【語】【PIV】Modifo de vokalo sub la influo de sekvanta vokalo. Vd metafonio.

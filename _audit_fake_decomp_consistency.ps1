@@ -15,7 +15,7 @@ foreach($e in @('o','a','e','i','u','j','n','oj','aj','ej','on','an','en','ojn',
 # lip: 希lipos(脂肪)結合形(lip/om/o脂肪腫)→latin。lip/o唇(lip)と同綴別語(2026-06-27追加)。
 # melo: 希melos(音楽)結合形(melo/mani/o音楽狂)→latin。melo/o虫ᴹ(アナグマ甲虫属Meloe)と同綴別語(2026-06-28追加)。
 # oni: 化学-onium(陽イオン: fosf/oni磷·sulf/oni硫·hidr/oni水·oksi/oni氧)→latin。代名詞oni=人(impersonal)と同綴別語(2026-06-29追加)。
-$known = @('aktini','al','alk','are','bel','fen','gram','in','lip','log','melo','od','oni','ol','om','or','oz','par','tio','tom','ul')   # 2026-07-17 追加: alk(烷総称=驼鹿elk誤友回避)・fen(苯 一级外=焚风föhn誤友回避)を化学Latin保持(甲乙丙基システム)
+$known = @('aktini','al','alk','are','bel','fen','gram','in','lip','log','melo','od','oni','ol','om','or','oz','par','tio','tom','ul','trap')   # 2026-07-17 追加: alk(烷総称=驼鹿elk誤友回避)・fen(苯 一级外=焚风föhn誤友回避)を化学Latin保持(甲乙丙基システム)。2026-07-21 追加: trap(菱Trapa=草 / 修道会Trappist=trap/an/oはlatin§7=同綴別語。第27回)
 $knownSet=@{}; foreach($k in $known){ $knownSet[$k]=$true }
 
 $lo=[char]0x4E00; $hi=[char]0x9FFF; $hasCJK=[regex]('['+$lo+'-'+$hi+']')

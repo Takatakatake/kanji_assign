@@ -27679,7 +27679,7 @@ nokt/o/mang^/o:夜食
 nokt/o/mez/o:真夜中,夜半
 nokt/o/papili/o:【虫】ガ（蛾）
 nokt/o/serv/o:夜間営業;夜勤,><tagservo
-nokt/o/surtut/o:【服】ナイトガウン,（夜間の）部屋着
+nokt/o/sur/tut/o:【服】ナイトガウン,（夜間の）部屋着##偽分解
 nokt/o/tabl/o:ナイトテーブル,=litotableto
 nokt/o/tac^ment/o:【軍】夜襲部隊
 nokt/o/vaz/o:しびん（尿瓶）
@@ -31057,8 +31057,8 @@ poligini/o:一夫多妻,=pluredzineco;【動】一雄多雌
 poliglot/o:{Ｏ}ポリグロット（多言語を話す人）,博言家,=plurlingvulo
 poligon/o:{Ｏ}【植】タデ（蓼）（属）;【数】多角形,=plurangulo;《古》=fagopiro（ソバ）
 poli/klinik/o:総合病院##偽分解(PIV正式分解)
-polikromi/a:【美】多色装飾の;《稀》=>multkolora（多色の）
-polikromi/o:【美】多色装飾,多色画法,ポリクロミー
+poli/kromi/a:【美】多色装飾の;《稀》=>multkolora（多色の）##偽分解(PIV正式分解)
+poli/kromi/o:【美】多色装飾,多色画法,ポリクロミー##偽分解(PIV正式分解)
 poli/mer/ig/i:［他］【化】重合させる##偽分解(PIV正式分解)
 poli/mer/ig^/i:［自］【化】重合する##偽分解(PIV正式分解)
 poli/mer/o:【化】重合体,ポリマー##偽分解(PIV正式分解)
@@ -38939,7 +38939,7 @@ sur/tret/i:［他］踏みつける;踏みつぶす
 sur/tron/ig/i:［他］即位させる
 sur/tron/ig^/i:［自］即位する
 sur/tron/ig^/o:即位
-surtut/o:{Ｂ}【服】オーバー,外套（がいとう）,コート,>>palto,>>kaftano
+sur/tut/o:{Ｂ}【服】オーバー,外套（がいとう）,コート,>>palto,>>kaftano##偽分解
 sur/vang/o:=vangofrapo（びんた）
 sur/ventr/e:腹の上に;腹ばいに,><surdorse
 sur/vers^/i:［他］（花・道などに）水をまく,水をかける,=privers^i
@@ -41387,7 +41387,7 @@ trikot/c^emiz/o:【服】ニットシャツ
 trikot/jak/o:【服】ニットジャケット
 trikot/o:{Ｂ}【服】編地,ニット,=trikos^tofo
 trikot/ves^t/o:【服】ニットベスト
-trikromi/o:【写】三色写真法;【印】三色製版法
+tri/kromi/o:【写】三色写真法;【印】三色製版法##偽分解
 triktrak/o:【遊】トリックトラック,バックギャモン（西洋すごろく）
 tri/kvar/on/e:四分の三で;《転》大部分,おおかた
 tri/land/a:三国の
@@ -41451,7 +41451,7 @@ triptik/o:【美】三連祭壇画,トリプティク
 tri/punkt/o:【印】三点リーダ
 tri/rad/a:三輪の
 tri/rapid/um/a:【機】三段変速の
-trirem/o:【史】三段櫂船（古代地中海で使用された軍船）
+tri/rem/o:【史】三段櫂船（古代地中海で使用された軍船）##偽分解##エス的分解
 tri/salt/o:【運】三段跳び
 tri/sekc/i:［他］【数】三等分する
 tri/silab/a:【Ｇ】三音節の
@@ -46282,8 +46282,8 @@ Cezare/o:【史】【PIV】Nomo de pluraj antikvaj urboj, i.a. (interalie, inter
 cgs:【理】【PIV】Sistemo de unuoj de fizikaj grandoj; en tiu sistemo la centimetro, la gramo k la sekundo estas la fundamentaj unuoj de longo, maso k tempo, de kiuj c^iuj aliaj mekanikaj unuoj derivig^as. Vd SI, mks. = C.G.S.
 ci/um/i:【PIV】(tr (transitiva)) Parolante al iu, uzi la pron-on (pronomon) ci. Vd cidiri.
 cian/at/o:【化】【PIV】Salo au^ organika derivaj^o de cianata acido HOCN.##偽分解(PIV正式分解)
-cianorat/o:【PIV】Vd (vidu) oro.
-cianorit/o:【PIV】Vd (vidu) oro.
+cian/or/at/o:【PIV】Vd (vidu) oro.##偽分解
+cian/or/it/o:【PIV】Vd (vidu) oro.##偽分解
 cian/:【生】【医】【PIV】Pref. (Prefikso), montranta bluecon: cianobakterio, cianozo. -> cejano.
 cian/fit/oj:【PIV】(iom ark. (arkaismo, arkaisme)) = cianobakterioj.##偽分解(PIV正式分解)
 cian/o/fit/oj:【PIV】(iom ark. (arkaismo, arkaisme)) = cianobakterioj.##偽分解(PIV正式分解)
@@ -61204,7 +61204,7 @@ g^is/supr/e:【PIV】G^is la supro: g^is supre plenigita sako .
 mal/supr/ig/i:【PIV】Igi ion tia, ke g^i estu malsupre: (f (figurasence)) la Eternulo malsuprigas en S^eolon k suprigas .
 hejt/o/surfac/o:【PIV】Tiu surfaco de kaldrona parieto, trans kiu la varmo estas transdonata.
 rul/surfac/o:【PIV】Tiu surfaco de rado, kiu tus^as relon, au^ de pneu^matiko, kiu tus^as la vojon dum veturado.
-bal/surtut/o:【PIV】Ampleksa mantelo, portata de virinoj super balkostumo.
+bal/sur/tut/o:【PIV】Ampleksa mantelo, portata de virinoj super balkostumo.##偽分解
 ne/suspekt/ebl/a:【PIV】Tia, ke oni ne povas suspekti lin, s^in au^ g^in: la edzino de Cezaro devas esti nesuspektebla.
 sen/suspekt/e:【PIV】Sen ia suspekto, fidante.
 ek/svarm/i:【PIV】Subite svarmi: elmontrig^is (el la fandita neg^o) verda placeto, kie tuj eksvarmis paseroj ; (analoge) k eksvarmos la Rivero per ranoj .

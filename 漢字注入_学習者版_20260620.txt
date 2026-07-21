@@ -10821,7 +10821,7 @@ fero/magnet/aj^/o⟦铁ᶠᴼ/磁/物/o⟧:【理】強磁性体##偽分解
 fero/magnet/ism/o⟦铁ᶠᴼ/磁/主义/o⟧:【理】強磁性##偽分解
 feromon/o:【生】フェロモン
 ferotipi/o:【写】フェロタイプ
-fer/oz/a⟦铁/症ᴼ/a⟧:【化】第一鉄の##偽分解(PIV正式分解)##過細分解 fer/o/z/a
+fer/oz/a⟦铁/oz/a⟧:【化】第一鉄の##偽分解(PIV正式分解)##過細分解 fer/o/z/a
 fer/produkt/ad/o⟦铁/产/行/o⟧:鉄鋼生産,=s^talproduktado【私家版】
 fer/rub/o⟦铁/废/o⟧:くず鉄
 fer/stang/o⟦铁/杆/o⟧:鉄棒
@@ -27679,7 +27679,7 @@ nokt/o/mang^/o⟦夜/o/食/o⟧:夜食
 nokt/o/mez/o⟦夜/o/中/o⟧:真夜中,夜半
 nokt/o/papili/o⟦夜/o/蝶/o⟧:【虫】ガ（蛾）
 nokt/o/serv/o⟦夜/o/务/o⟧:夜間営業;夜勤,><tagservo
-nokt/o/surtut/o⟦夜/o/袍ˢ/o⟧:【服】ナイトガウン,（夜間の）部屋着
+nokt/o/sur/tut/o⟦夜/o/上/整/o⟧:【服】ナイトガウン,（夜間の）部屋着##偽分解
 nokt/o/tabl/o⟦夜/o/桌/o⟧:ナイトテーブル,=litotableto
 nokt/o/tac^ment/o⟦夜/o/队ᵀᶜ̂/o⟧:【軍】夜襲部隊
 nokt/o/vaz/o⟦夜/o/器ⱽ/o⟧:しびん（尿瓶）
@@ -31057,8 +31057,8 @@ poligini/o:一夫多妻,=pluredzineco;【動】一雄多雌
 poliglot/o:{Ｏ}ポリグロット（多言語を話す人）,博言家,=plurlingvulo
 poligon/o⟦多角/o⟧:{Ｏ}【植】タデ（蓼）（属）;【数】多角形,=plurangulo;《古》=fagopiro（ソバ）
 poli/klinik/o⟦多ᴾ/诊/o⟧:総合病院##偽分解(PIV正式分解)
-polikromi/a⟦彩ᴾ/a⟧:【美】多色装飾の;《稀》=>multkolora（多色の）
-polikromi/o⟦彩ᴾ/o⟧:【美】多色装飾,多色画法,ポリクロミー
+poli/kromi/a⟦多ᴾ/色ᴷᴵ/a⟧:【美】多色装飾の;《稀》=>multkolora（多色の）##偽分解(PIV正式分解)
+poli/kromi/o⟦多ᴾ/色ᴷᴵ/o⟧:【美】多色装飾,多色画法,ポリクロミー##偽分解(PIV正式分解)
 poli/mer/ig/i⟦多ᴾ/链节/使/i⟧:［他］【化】重合させる##偽分解(PIV正式分解)
 poli/mer/ig^/i⟦多ᴾ/链节/成/i⟧:［自］【化】重合する##偽分解(PIV正式分解)
 poli/mer/o⟦多ᴾ/链节/o⟧:【化】重合体,ポリマー##偽分解(PIV正式分解)
@@ -38939,7 +38939,7 @@ sur/tret/i⟦上/踏/i⟧:［他］踏みつける;踏みつぶす
 sur/tron/ig/i⟦上/座ᵀ/使/i⟧:［他］即位させる
 sur/tron/ig^/i⟦上/座ᵀ/成/i⟧:［自］即位する
 sur/tron/ig^/o⟦上/座ᵀ/成/o⟧:即位
-surtut/o⟦袍ˢ/o⟧:{Ｂ}【服】オーバー,外套（がいとう）,コート,>>palto,>>kaftano
+sur/tut/o⟦上/整/o⟧:{Ｂ}【服】オーバー,外套（がいとう）,コート,>>palto,>>kaftano##偽分解
 sur/vang/o⟦上/颊/o⟧:=vangofrapo（びんた）
 sur/ventr/e⟦上/腹/e⟧:腹の上に;腹ばいに,><surdorse
 sur/vers^/i⟦上/浇/i⟧:［他］（花・道などに）水をまく,水をかける,=privers^i
@@ -41199,7 +41199,7 @@ trans/viol/aj radi/oj⟦越/紫花/aj 射ᴿ/oj⟧:【理】紫外線
 trans/viv/ant/o⟦越/活/在/o⟧:生存者,=postvivanto
 trans/viv/i⟦越/活/i⟧:［他］生き残る,生きのびる,=postvivi,=supervivi
 tra/paf/i⟦穿/射/i⟧:［他］撃ちぬく,射ぬく
-trap/an/o⟦草ᵀᴾ/员ᴬ/o⟧:【カ】トラピスト修道会員
+trap/an/o⟦trap/员ᴬ/o⟧:【カ】トラピスト修道会員
 tra/pas/i⟦穿/过ᴾ/i⟧:［他］通り抜ける,くぐり抜ける;《転》経る,経験する
 tra/pas/i ekzamen/on⟦穿/过ᴾ/i 检ᴱ/on⟧:試験を受ける（注：「合格する」の意味で使われることもあるが誤用とされる）
 tra/pas/int/o⟦穿/过ᴾ/过/o⟧:（講習会などの）修了者
@@ -41387,7 +41387,7 @@ trikot/c^emiz/o⟦织ᵀᵀ/衫/o⟧:【服】ニットシャツ
 trikot/jak/o⟦织ᵀᵀ/服ᴶ/o⟧:【服】ニットジャケット
 trikot/o⟦织ᵀᵀ/o⟧:{Ｂ}【服】編地,ニット,=trikos^tofo
 trikot/ves^t/o⟦织ᵀᵀ/坎/o⟧:【服】ニットベスト
-trikromi/o:【写】三色写真法;【印】三色製版法
+tri/kromi/o⟦三/色ᴷᴵ/o⟧:【写】三色写真法;【印】三色製版法##偽分解
 triktrak/o:【遊】トリックトラック,バックギャモン（西洋すごろく）
 tri/kvar/on/e⟦三/四/分/e⟧:四分の三で;《転》大部分,おおかた
 tri/land/a⟦三/国/a⟧:三国の
@@ -41451,7 +41451,7 @@ triptik/o:【美】三連祭壇画,トリプティク
 tri/punkt/o⟦三/点/o⟧:【印】三点リーダ
 tri/rad/a⟦三/轮/a⟧:三輪の
 tri/rapid/um/a⟦三/速/um/a⟧:【機】三段変速の
-trirem/o:【史】三段櫂船（古代地中海で使用された軍船）
+tri/rem/o⟦三/划ᴿ/o⟧:【史】三段櫂船（古代地中海で使用された軍船）##偽分解##エス的分解
 tri/salt/o⟦三/跳/o⟧:【運】三段跳び
 tri/sekc/i⟦三/切ˢ/i⟧:［他］【数】三等分する
 tri/silab/a⟦三/节ˢ/a⟧:【Ｇ】三音節の
@@ -46282,8 +46282,8 @@ Cezare/o:【史】【PIV】Nomo de pluraj antikvaj urboj, i.a. (interalie, inter
 cgs:【理】【PIV】Sistemo de unuoj de fizikaj grandoj; en tiu sistemo la centimetro, la gramo k la sekundo estas la fundamentaj unuoj de longo, maso k tempo, de kiuj c^iuj aliaj mekanikaj unuoj derivig^as. Vd SI, mks. = C.G.S.
 ci/um/i⟦尔/um/i⟧:【PIV】(tr (transitiva)) Parolante al iu, uzi la pron-on (pronomon) ci. Vd cidiri.
 cian/at/o⟦青/盐ᴬ/o⟧:【化】【PIV】Salo au^ organika derivaj^o de cianata acido HOCN.##偽分解(PIV正式分解)
-cianorat/o:【PIV】Vd (vidu) oro.
-cianorit/o:【PIV】Vd (vidu) oro.
+cian/or/at/o⟦青/金/盐ᴬ/o⟧:【PIV】Vd (vidu) oro.##偽分解
+cian/or/it/o⟦青/金/盐ᴵ/o⟧:【PIV】Vd (vidu) oro.##偽分解
 cian/⟦青/⟧:【生】【医】【PIV】Pref. (Prefikso), montranta bluecon: cianobakterio, cianozo. -> cejano.
 cian/fit/oj⟦青/植ᶠ/oj⟧:【PIV】(iom ark. (arkaismo, arkaisme)) = cianobakterioj.##偽分解(PIV正式分解)
 cian/o/fit/oj⟦青/o/植ᶠ/oj⟧:【PIV】(iom ark. (arkaismo, arkaisme)) = cianobakterioj.##偽分解(PIV正式分解)
@@ -56590,7 +56590,7 @@ umbel/et/o⟦伞ᵁ/小/o⟧:【PIV】Duavica umbelo de kunmeta umbelo.
 umbilikari/o⟦菌ᵁᴹ/o⟧:【植】【PIV】G. (Genro) (Umbilicaria el umbilikariacoj) de foliecaj, umbilikohavaj askolikenoj roklog^aj, nekalkejaj; kosmopolita g. (genro) de c^. (c^irkau^) 45 sp-oj (specioj), pluraj mang^eblaj, ekz. (ekzemple) U. esculenta. Vd roktripoj.
 umbr/o⟦鱼ᵁ/o⟧:【動】【PIV】G. (Genro) (Umbra) de fis^oj el la fam. (familio) de umbredoj, ordo de salmonoformaj, malgrandaj, nesalakvaj, vivantaj en E-Eu^ropo, Azio k N Ameriko.
 umbr/o⟦鱼ᵁ/o⟧:【史】【PIV】Log^anto de Umbrio.
-umbr/a⟦鱼ᵁ/a⟧:【PIV】Rilata al umbroj: la umbra lingvo; la umbra skolo (al kiu apartenis Rafaelo k Perug^ano).
+umbr/a:【PIV】Rilata al umbroj: la umbra lingvo; la umbra skolo (al kiu apartenis Rafaelo k Perug^ano).
 ume/uj/o⟦梅/器/o⟧:【PIV】Umeo 1.
 umjak/o:【PIV】Eskima boato, manovrata de virinoj.
 umlau^t/o:【語】【PIV】Modifo de vokalo sub la influo de sekvanta vokalo. Vd metafonio.
@@ -61204,7 +61204,7 @@ g^is/supr/e⟦至/顶/e⟧:【PIV】G^is la supro: g^is supre plenigita sako .
 mal/supr/ig/i⟦反/顶/使/i⟧:【PIV】Igi ion tia, ke g^i estu malsupre: (f (figurasence)) la Eternulo malsuprigas en S^eolon k suprigas .
 hejt/o/surfac/o⟦热/o/面ˢ/o⟧:【PIV】Tiu surfaco de kaldrona parieto, trans kiu la varmo estas transdonata.
 rul/surfac/o⟦卷ᴿ/面ˢ/o⟧:【PIV】Tiu surfaco de rado, kiu tus^as relon, au^ de pneu^matiko, kiu tus^as la vojon dum veturado.
-bal/surtut/o⟦舞ᴮ/袍ˢ/o⟧:【PIV】Ampleksa mantelo, portata de virinoj super balkostumo.
+bal/sur/tut/o⟦舞ᴮ/上/整/o⟧:【PIV】Ampleksa mantelo, portata de virinoj super balkostumo.##偽分解
 ne/suspekt/ebl/a⟦不/疑ˢ/可/a⟧:【PIV】Tia, ke oni ne povas suspekti lin, s^in au^ g^in: la edzino de Cezaro devas esti nesuspektebla.
 sen/suspekt/e⟦无/疑ˢ/e⟧:【PIV】Sen ia suspekto, fidante.
 ek/svarm/i⟦始/拥/i⟧:【PIV】Subite svarmi: elmontrig^is (el la fandita neg^o) verda placeto, kie tuj eksvarmis paseroj ; (analoge) k eksvarmos la Rivero per ranoj .
