@@ -58,6 +58,7 @@ $segLat = @{ 'gram/negativ/a'=@('gram'); 'gram/pozitiv/a'=@('gram'); 'deci/bel/o
   'trap/an/o'=@('trap')   # トラピスト修道会員(La Trappe修道会=固有名§7)→trapラテン。菱Trapa(trap/o=草)の偽の友=trap/an/o⟦草/员⟧の誤読是正(trap latin・an=员維持)。2026-07-21 第27回
   'umbr/a'=@('umbr')   # ウンブリア語/派(Umbrian=固有名§7)→umbrラテン。魚Umbra(umbr/o=鱼)の偽の友=umbr/a⟦鱼⟧の誤読是正。umbr/o(魚義と歴史義が同綴amb)は§6.5据置。2026-07-21 第27回
   'agami/a'=@('agami')   # 無性の(agamia=希a-privative無配偶・生物学)→agamiラテン。ラッパチョウagami/o=鸟(Psophia)の偽の友=agami/a⟦鸟⟧(asexual≠bird)の誤読是正。正本がagami whole分解ゆえ理想の无配は不可・誤読除去優先。2026-07-21 第27回
+  'hipo/tal/o'=@('tal'); 'tal/fit/oj'=@('tal'); 'tal/o/fit/oj'=@('tal')   # 叶状体thallus(talo=地衣/藻類の植物体)→talラテン。距骨talus(tal/o=距=解剖の踵骨)の偽の友=hipotal/talfit(Thallophyta)⟦距⟧の誤読是正。tal/o=距骨は維持。2026-07-22 正本 hipotal→hipo/tal 露出で顕在化(第27回続)
   '2-buten/al/o'=@('al')   # クロトンアルデヒド(CH3-CH=CH-CHO)→-alラテン。アルデヒド結合形(cinam/al・klor/al兄弟と同型)。前置詞al=向 でない。##過細分解由来(学術版は単一根)
   'piridoks/al/fosf/at/o'=@('al')   # ピリドキサールリン酸(アルデヒド誘導体補酵素)→-alラテン。fosf/at=磷/盐ᴬ は正。##過細分解由来
   'miko/plasm/al/oj'=@('al')   # Mycoplasmatales(マイコプラズマ目)→分類学-al(目)はラテン。前置詞al=向 でない。##エス的分解由来
@@ -77,7 +78,7 @@ foreach($pair in $pairs){
     $words=$head -split ' '; $anyMapped=$false
     # 化学塩/酸 判定(行レベル): ①語釈に Sal[oj](Salo de/aŭ・Saloj de)・酸塩・酸盐 ②見出しに別語 acid/o(酸形 benzo/at/a acid/o) ③任意分節が酸根(中位は bor除外)。該当行の -at/-it→盐ᴬ/盐ᴵ。受動分詞-at(被)は非化学行で維持(am/at⟦爱/被⟧)
     $chemSaltLine = ($rest -match 'Sal[oj]+ ') -or ($rest -match '酸塩') -or ($rest -match '酸盐') -or ($rest -match 'Metal[a]?\s*deriva') -or ($rest -match 'Metal[a]?\s*kombina')   # Metalderivaĵo/Metalkombinaĵo de X = 金属誘導体/化合物=塩(sakar/at・etanol/at 等。Salo を含まない塩語釈)。2026-07-17: 分綴 "Metala kombinaĵo/derivaĵo"(空白入り)も捕捉=alk/an/ol/at(alkanolate=金属アルコキシド)の -at→被 誤描画を盐ᴬ に是正
-    $isSysChem = ($rest -match '【化】|hidrokarbon|[Aa]lkan|[Aa]lkil|[Aa]lken|alkohol|[Aa]ldehid|Ketono|keton|Saturita|Nesaturita|brulebl|brulem|monoterpen|monosakar|[Mm]olekul|polimer|estero|glikol|propandiol|etandiol|hidroksil|morfin|[Hh]eroin|Radiko|radikal|Radikal|C\s?\d|CH\s?\d|H-CHO|アルコール|アルカン|アルキル|メタン|プロパン|ブタン|オクタン|グリコール')   # 系統化学(IUPAC)行=天干/-il基/-anラテン のゲート(アルキル語幹の非化学義 met置/et小/okt八・器具-il具・数列dek十 との弁別)。化学式/カタカナ/PIV化学語も捕捉。2026-07-17
+    $isSysChem = ($rest -match '【化】|hidrokarbon|[Aa]lkan|[Aa]lkil|[Aa]lken|alkohol|[Aa]ldehid|Ketono|keton|Saturita|Nesaturita|brulebl|brulem|monoterpen|monosakar|[Mm]olekul|polimer|estero|glikol|propandiol|etandiol|hidroksil|morfin|[Hh]eroin|Radiko|radikal|Radikal|C\s?\d|CH\s?\d|H-CHO|アルコール|アルカン|アルキル|メタン|プロパン|ブタン|オクタン|グリコール') -or ($head -match 'bi/fen/il/o$')   # 系統化学(IUPAC)行=天干/-il基/-anラテン のゲート。2026-07-22 追加: 学習者版 bi/fen/il/o(ビフェニル・語釈"Vd feno"に【化】タグ無)/poli/klor/bi/fen/il/o(PCB) を化学強制=fen苯latin/il基 発火(焚风föhn/具device誤描画是正・第27回続)(アルキル語幹の非化学義 met置/et小/okt八・器具-il具・数列dek十 との弁別)。化学式/カタカナ/PIV化学語も捕捉。2026-07-17
     foreach($ww in $words){
       if($ww -match '^acid/(o|a|oj|aj)$'){ $chemSaltLine=$true }
       $sg=@($ww -split '/'); $midHit=$false; for($k=1;$k -lt $sg.Count;$k++){ if($chemMid -contains $sg[$k]){ $midHit=$true } }

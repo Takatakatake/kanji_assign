@@ -45815,7 +45815,7 @@ bier/ist/o⟦酒ᴮ/家/o⟧:【PIV】Bierfaristo.
 bier/um/i⟦酒ᴮ/um/i⟧:【PIV】(ntr (netransitiva)) G^ui bieron en bona etoso.
 bi/fac/o⟦二ᴮ/面/o⟧:【PIV】S^tona ilo migdalforme tajlita k ambau^flanke retus^ita por ricevi tranc^an periferion; g^i karakterizas la ac^eu^lean industrion.
 bi/faden/a⟦二ᴮ/丝ᶠ/a⟧:【PIV】= dudrata.
-bi/fen/il/o⟦二ᴮ/焚风/具/o⟧:【PIV】Vd (vidu) feno ②.##偽分解(PIV正式分解)##過細分解 bi/f/e/n/il/o
+bi/fen/il/o⟦二ᴮ/fen/基/o⟧:【PIV】Vd (vidu) feno ②.##偽分解(PIV正式分解)##過細分解 bi/f/e/n/il/o
 bifid/a⟦叉ᴮ/a⟧:【植】【解】【医】【PIV】Duparte dividig^inta: bifida folio; la bifida lango de serpento; bifida spino (denaska malsano de la spino). Vd forka.
 bifilar/a:【PIV】1 = dratrefalda. 2 (evi (evitinda)) = dudrata.
 bigarad/o⟦酸橙/o⟧:【植】【PIV】1 Subsp. de citruso (Citrus aurantium subsp. a.) hejma en Hindio k Birmanio, arbeto kun globaj fruktoj (amaraj orang^oj), havantaj rug^e orang^an s^elon, el kiu oni ekstraktas esencon (Vd nerolio), k tre acidan, pli-malpli amaran pulpon, uzatan por konfitaj^oj k amaraj trinkaj^oj. 2 Frukto de bigarado 1. Sin. (sinonimo) amara orang^o.
@@ -46282,8 +46282,8 @@ Cezare/o:【史】【PIV】Nomo de pluraj antikvaj urboj, i.a. (interalie, inter
 cgs:【理】【PIV】Sistemo de unuoj de fizikaj grandoj; en tiu sistemo la centimetro, la gramo k la sekundo estas la fundamentaj unuoj de longo, maso k tempo, de kiuj c^iuj aliaj mekanikaj unuoj derivig^as. Vd SI, mks. = C.G.S.
 ci/um/i⟦尔/um/i⟧:【PIV】(tr (transitiva)) Parolante al iu, uzi la pron-on (pronomon) ci. Vd cidiri.
 cian/at/o⟦青/盐ᴬ/o⟧:【化】【PIV】Salo au^ organika derivaj^o de cianata acido HOCN.##偽分解(PIV正式分解)
-cian/or/at/o⟦青/金/盐ᴬ/o⟧:【PIV】Vd (vidu) oro.##偽分解
-cian/or/it/o⟦青/金/盐ᴵ/o⟧:【PIV】Vd (vidu) oro.##偽分解
+cian/or/at/o⟦青/金/盐ᴬ/o⟧:【PIV】Vd (vidu) oro.##偽分解(PIV正式分解)
+cian/or/it/o⟦青/金/盐ᴵ/o⟧:【PIV】Vd (vidu) oro.##偽分解(PIV正式分解)
 cian/⟦青/⟧:【生】【医】【PIV】Pref. (Prefikso), montranta bluecon: cianobakterio, cianozo. -> cejano.
 cian/fit/oj⟦青/植ᶠ/oj⟧:【PIV】(iom ark. (arkaismo, arkaisme)) = cianobakterioj.##偽分解(PIV正式分解)
 cian/o/fit/oj⟦青/o/植ᶠ/oj⟧:【PIV】(iom ark. (arkaismo, arkaisme)) = cianobakterioj.##偽分解(PIV正式分解)
@@ -46810,7 +46810,7 @@ direkt/ism/o⟦方/主义/o⟧:【PIV】Sistemo, en kiu la registaro kontrolas k
 dirk/o:【技】【PIV】Speciala hoko, kiun uzas seruristoj k s^telistoj por mals^losi la serurojn.
 dirlididi!:【PIV】Interj. (Interjekcio), uzata por montri, ke oni rigardas la j^us diritan aferon bagatela.
 dis/e-mis/e⟦散/e-误/e⟧:【PIV】En plena malordo: liaj verkoj kus^is dise-mise en la c^ambro.
-disag^i/o:【PIV】Malprofita diferenco inter la nominala k la aktuala kurzo, au^ inter la nominala valoro k emisia kurzo, de bilo. -> ag^io.
+dis/ag^i/o⟦散/升水/o⟧:【PIV】Malprofita diferenco inter la nominala k la aktuala kurzo, au^ inter la nominala valoro k emisia kurzo, de bilo. -> ag^io.##偽分解
 disdegn/i⟦蔑/i⟧:【PIV】(tr (transitiva)) Mals^ati: alpreni tian s^ajnon, kiun disdegnas ec^ la hundoj mem .
 disdegn/o⟦蔑/o⟧:【PIV】Sinteno de iu, kiu disdegnas.
 disdegn/a⟦蔑/a⟧:【PIV】Karakterizanta la sintenon de tiu, kiu disdegnas.
@@ -46838,7 +46838,7 @@ dispers/ant/o⟦散ᴰᴾ/在/o⟧:【PIV】Substanco, kiu povas servi kiel disp
 dispne/o⟦喘ᴰ/o⟧:【医】【PIV】Stato de spirmalfacilo.
 dispon/aj^/o⟦处ᴰ/物/o⟧:【PIV】Io disponata au^ disponebla: la mastruma sistemo de komputilo asignas disponaj^ojn al taskoj.
 dispozici/a⟦处ᴰᶻ/a⟧:【PIV】Rilata al dispozicio au^ dispozicioj.
-disproporci/o:【PIV】Misproporcio.
+dis/proporci/o⟦散/比ᴾ/o⟧:【PIV】Misproporcio.##偽分解
 disprozi/o⟦金ᴰ/o⟧:【化】【PIV】1 Elemento, Dy, atomnumero 66, atommaso 162,50, lantanido: disprozia klorido, DyCl 3; disproziaj kombinaj^oj. 2 Metalo malofta, blanka.
 dist/a:【PIV】Distanca.
 disten/o:【地質】【PIV】Mineralo el triklina aluminia siliciato, karakteriza de la metamorfaj petroj, estig^intaj sub fortaj premoj.
@@ -49048,7 +49048,7 @@ hipostat/a:【生】【PIV】(pp (se paroli pri) geno) Senefika pro la influo de
 hipo/staz/o⟦亚/滞ˢᶻ/o⟧:【医】【哲】【キ】【PIV】1 Sanga amasig^o en la malsupro de la pulmoj, pro malbona cirkulado k devigo resti en kus^pozicio. 2 C^iu el la diaj principoj en la novplatona sistemo. 3 C^iu el la tri Di-personoj, konsiderataj kiel diferencaj. Vd Triunuo.##偽分解(PIV正式分解)
 hipostil/o:【PIV】Granda salono, kies plafonon subportas kolonoj: la hipostilo de Karnako. Vd galerio, peristilo.
 hipotaks/o:【語】【PIV】Sintaksa procedo, en kiu la dependorilatoj de prop-oj (propozicioj) estas markitaj per subjunkcioj.
-hipotal/o:【植】【PIV】(pp (se paroli pri) likenoj) Plej malsupra tavolo de krusteca au^ skvameta talo: hipotala linio.
+hipo/tal/o⟦亚/tal/o⟧:【植】【PIV】(pp (se paroli pri) likenoj) Plej malsupra tavolo de krusteca au^ skvameta talo: hipotala linio.##偽分解(PIV正式分解)
 hipo/talam/o⟦亚/丘脑/o⟧:【解】【PIV】(hypothalamus) Regiono de la diencefalo sub la talamoj, formanta la plankon de la tria ventriklo: la hipotalamo ludas gravan rolon pro siaj grizaj kernoj, g^i estas centro kunordiga de la simpata aktiveco, de vekig^o k endormig^o, de varmoregulado k.a. (kaj aliaj).##偽分解(PIV正式分解)
 hipotek/a⟦抵/a⟧:【PIV】Rilata al hipoteko: hipoteka akto.
 hipotek/ad/o⟦抵/行/o⟧:【PIV】Ago hipoteki: s^iphipotekado.
@@ -55886,8 +55886,8 @@ takt/a⟦拍ᵀ/a⟧:【PIV】Karakterizata de takto(j): takta mars^ado; lau^ vi
 takt/e⟦拍ᵀ/e⟧:【PIV】Lau^ takto: takte balanci la kapon.
 taktism/o:【PIV】Tropismo.
 tal/o⟦距ᵀ/o⟧:【解】【PIV】(talus) Tarsa osto de la reptilioj k mamuloj, kiu c^e la mamuloj situas sur la kalkaneo k malantau^ la navikularo, k subportas la tibion k la fibulon. Vd ludostoj.
-tal/fit/oj⟦距ᵀ/植ᶠ/oj⟧:【植】【PIV】Grupego de plantoj (Thallophyta), nenatura, al kiu apartenas algoj, parto de la briofitoj (talaj hepatmuskoj) k lau^ malnovaj klasifikoj ankau^ bakterioj, cianobakterioj, fungoj k likenoj. Sin. (sinonimo) talplantoj.##偽分解(PIV正式分解)
-tal/o/fit/oj⟦距ᵀ/o/植ᶠ/oj⟧:【植】【PIV】Grupego de plantoj (Thallophyta), nenatura, al kiu apartenas algoj, parto de la briofitoj (talaj hepatmuskoj) k lau^ malnovaj klasifikoj ankau^ bakterioj, cianobakterioj, fungoj k likenoj. Sin. (sinonimo) talplantoj.##偽分解(PIV正式分解)
+tal/fit/oj⟦tal/植ᶠ/oj⟧:【植】【PIV】Grupego de plantoj (Thallophyta), nenatura, al kiu apartenas algoj, parto de la briofitoj (talaj hepatmuskoj) k lau^ malnovaj klasifikoj ankau^ bakterioj, cianobakterioj, fungoj k likenoj. Sin. (sinonimo) talplantoj.##偽分解(PIV正式分解)
+tal/o/fit/oj⟦tal/o/植ᶠ/oj⟧:【植】【PIV】Grupego de plantoj (Thallophyta), nenatura, al kiu apartenas algoj, parto de la briofitoj (talaj hepatmuskoj) k lau^ malnovaj klasifikoj ankau^ bakterioj, cianobakterioj, fungoj k likenoj. Sin. (sinonimo) talplantoj.##偽分解(PIV正式分解)
 talam/o⟦丘脑/o⟧:【解】【PIV】(thalamus) Nomo de du dikaj kernoj de griza substanco, situantaj ambau^flanke de la tria cerba ventriklo.
 taliktr/o⟦草ᵀᵀ/o⟧:【植】【PIV】G. (Genro) (Thalictrum el ranunkolacoj) de plurjaraj herboj kun 2−3-oble plume kunmetaj folioj k kun senpetalaj, multastamenaj floroj en kunmetaj umbeloj; c^. (c^irkau^) 330 sp-oj (specioj) precipe N-hemisferaj, pluraj pororname kultivataj pro okulfrapaj sepaloj k/au^ stamenoj.
 talitr/o⟦虾ᵀ/o⟧:【動】【PIV】G. (Genro) (Talitrus) de marbordaj krustacoj, sin nutrantaj per malkomponig^antaj vegetaj^oj super la marnivelo, saltantaj al la maro, kiam oni perturbas ilin. Sin. (sinonimo) marpulo.
@@ -58335,7 +58335,7 @@ mal/felic^/ig/i⟦反/幸/使/i⟧:【PIV】Fari iun malfelic^a.
 mal/felic^/ul/o⟦反/幸/者/o⟧:【PIV】Homo malfelic^a: ho ve, mi malfelic^ulo! ; helpi al la malfelic^uloj.
 s^af/femur/aj^/o⟦羊/股ᶠ/物/o⟧:【PIV】Femuro de s^afo, preparita por la mang^o. Sin. (sinonimo) s^afklabo.
 di/met/oksi/fen/ol/o⟦神/置/氧/焚风/ol/o⟧:【PIV】Gvajakolo.##偽分解(PIV正式分解)##過細分解 d/i/m/e/t/oksi/f/e/n/o/l/o
-poli/klor/bi/fen/il/o⟦多ᴾ/氯/生ᴮᴵ/fen/基/o⟧:【化】【生態】【PIV】Sintezita substanco, uzata i.a. (interalie, inter aliaj) en kondensatoroj, kiu estas tre persista en la medio k i.a. (interalie, inter aliaj) perturbas la reproduktig^on de fokoj.##偽分解(PIV正式分解)##過細分解 poli/klor/bi/f/e/n/il/o
+poli/klor/bi/fen/il/o⟦多ᴾ/氯/二ᴮ/fen/基/o⟧:【化】【生態】【PIV】Sintezita substanco, uzata i.a. (interalie, inter aliaj) en kondensatoroj, kiu estas tre persista en la medio k i.a. (interalie, inter aliaj) perturbas la reproduktig^on de fokoj.##偽分解(PIV正式分解)##過細分解 poli/klor/bi/f/e/n/il/o
 tio/fen/ol/o:【化】【PIV】C 6 H 5-SH.##偽分解(PIV正式分解)##過細分解 t/i/o/f/e/n/o/l/o
 dis/fend/o⟦散/裂ᶠ/o⟧:【PIV】Larg^a fendo: disfendo en roko; (f (figurasence)) disfendo en partio. Vd skismo.
 nukle/o/fend/ad/o⟦核ᴺ/o/裂ᶠ/行/o⟧:【理】【PIV】Disigo de atomkerno en plurajn pecojn. Sin. (sinonimo) fisio.

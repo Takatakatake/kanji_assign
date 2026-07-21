@@ -46282,8 +46282,8 @@ Cezare/o:【史】【PIV】Nomo de pluraj antikvaj urboj, i.a. (interalie, inter
 cgs:【理】【PIV】Sistemo de unuoj de fizikaj grandoj; en tiu sistemo la centimetro, la gramo k la sekundo estas la fundamentaj unuoj de longo, maso k tempo, de kiuj c^iuj aliaj mekanikaj unuoj derivig^as. Vd SI, mks. = C.G.S.
 ci/um/i:【PIV】(tr (transitiva)) Parolante al iu, uzi la pron-on (pronomon) ci. Vd cidiri.
 cian/at/o:【化】【PIV】Salo au^ organika derivaj^o de cianata acido HOCN.##偽分解(PIV正式分解)
-cian/or/at/o:【PIV】Vd (vidu) oro.##偽分解
-cian/or/it/o:【PIV】Vd (vidu) oro.##偽分解
+cian/or/at/o:【PIV】Vd (vidu) oro.##偽分解(PIV正式分解)
+cian/or/it/o:【PIV】Vd (vidu) oro.##偽分解(PIV正式分解)
 cian/:【生】【医】【PIV】Pref. (Prefikso), montranta bluecon: cianobakterio, cianozo. -> cejano.
 cian/fit/oj:【PIV】(iom ark. (arkaismo, arkaisme)) = cianobakterioj.##偽分解(PIV正式分解)
 cian/o/fit/oj:【PIV】(iom ark. (arkaismo, arkaisme)) = cianobakterioj.##偽分解(PIV正式分解)
@@ -46810,7 +46810,7 @@ direkt/ism/o:【PIV】Sistemo, en kiu la registaro kontrolas k direktadas la lan
 dirk/o:【技】【PIV】Speciala hoko, kiun uzas seruristoj k s^telistoj por mals^losi la serurojn.
 dirlididi!:【PIV】Interj. (Interjekcio), uzata por montri, ke oni rigardas la j^us diritan aferon bagatela.
 dis/e-mis/e:【PIV】En plena malordo: liaj verkoj kus^is dise-mise en la c^ambro.
-disag^i/o:【PIV】Malprofita diferenco inter la nominala k la aktuala kurzo, au^ inter la nominala valoro k emisia kurzo, de bilo. -> ag^io.
+dis/ag^i/o:【PIV】Malprofita diferenco inter la nominala k la aktuala kurzo, au^ inter la nominala valoro k emisia kurzo, de bilo. -> ag^io.##偽分解
 disdegn/i:【PIV】(tr (transitiva)) Mals^ati: alpreni tian s^ajnon, kiun disdegnas ec^ la hundoj mem .
 disdegn/o:【PIV】Sinteno de iu, kiu disdegnas.
 disdegn/a:【PIV】Karakterizanta la sintenon de tiu, kiu disdegnas.
@@ -46838,7 +46838,7 @@ dispers/ant/o:【PIV】Substanco, kiu povas servi kiel dispersa medio.
 dispne/o:【医】【PIV】Stato de spirmalfacilo.
 dispon/aj^/o:【PIV】Io disponata au^ disponebla: la mastruma sistemo de komputilo asignas disponaj^ojn al taskoj.
 dispozici/a:【PIV】Rilata al dispozicio au^ dispozicioj.
-disproporci/o:【PIV】Misproporcio.
+dis/proporci/o:【PIV】Misproporcio.##偽分解
 disprozi/o:【化】【PIV】1 Elemento, Dy, atomnumero 66, atommaso 162,50, lantanido: disprozia klorido, DyCl 3; disproziaj kombinaj^oj. 2 Metalo malofta, blanka.
 dist/a:【PIV】Distanca.
 disten/o:【地質】【PIV】Mineralo el triklina aluminia siliciato, karakteriza de la metamorfaj petroj, estig^intaj sub fortaj premoj.
@@ -49048,7 +49048,7 @@ hipostat/a:【生】【PIV】(pp (se paroli pri) geno) Senefika pro la influo de
 hipo/staz/o:【医】【哲】【キ】【PIV】1 Sanga amasig^o en la malsupro de la pulmoj, pro malbona cirkulado k devigo resti en kus^pozicio. 2 C^iu el la diaj principoj en la novplatona sistemo. 3 C^iu el la tri Di-personoj, konsiderataj kiel diferencaj. Vd Triunuo.##偽分解(PIV正式分解)
 hipostil/o:【PIV】Granda salono, kies plafonon subportas kolonoj: la hipostilo de Karnako. Vd galerio, peristilo.
 hipotaks/o:【語】【PIV】Sintaksa procedo, en kiu la dependorilatoj de prop-oj (propozicioj) estas markitaj per subjunkcioj.
-hipotal/o:【植】【PIV】(pp (se paroli pri) likenoj) Plej malsupra tavolo de krusteca au^ skvameta talo: hipotala linio.
+hipo/tal/o:【植】【PIV】(pp (se paroli pri) likenoj) Plej malsupra tavolo de krusteca au^ skvameta talo: hipotala linio.##偽分解(PIV正式分解)
 hipo/talam/o:【解】【PIV】(hypothalamus) Regiono de la diencefalo sub la talamoj, formanta la plankon de la tria ventriklo: la hipotalamo ludas gravan rolon pro siaj grizaj kernoj, g^i estas centro kunordiga de la simpata aktiveco, de vekig^o k endormig^o, de varmoregulado k.a. (kaj aliaj).##偽分解(PIV正式分解)
 hipotek/a:【PIV】Rilata al hipoteko: hipoteka akto.
 hipotek/ad/o:【PIV】Ago hipoteki: s^iphipotekado.
