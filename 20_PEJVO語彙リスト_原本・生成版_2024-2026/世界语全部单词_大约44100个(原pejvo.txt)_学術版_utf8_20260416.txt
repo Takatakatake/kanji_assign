@@ -46810,7 +46810,7 @@ direkt/ism/o:【PIV】Sistemo, en kiu la registaro kontrolas k direktadas la lan
 dirk/o:【技】【PIV】Speciala hoko, kiun uzas seruristoj k s^telistoj por mals^losi la serurojn.
 dirlididi!:【PIV】Interj. (Interjekcio), uzata por montri, ke oni rigardas la j^us diritan aferon bagatela.
 dis/e-mis/e:【PIV】En plena malordo: liaj verkoj kus^is dise-mise en la c^ambro.
-disag^i/o:【PIV】Malprofita diferenco inter la nominala k la aktuala kurzo, au^ inter la nominala valoro k emisia kurzo, de bilo. -> ag^io.
+dis/ag^i/o:【PIV】Malprofita diferenco inter la nominala k la aktuala kurzo, au^ inter la nominala valoro k emisia kurzo, de bilo. -> ag^io.
 disdegn/i:【PIV】(tr (transitiva)) Mals^ati: alpreni tian s^ajnon, kiun disdegnas ec^ la hundoj mem .
 disdegn/o:【PIV】Sinteno de iu, kiu disdegnas.
 disdegn/a:【PIV】Karakterizanta la sintenon de tiu, kiu disdegnas.

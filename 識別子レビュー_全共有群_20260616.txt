@@ -6470,10 +6470,6 @@
   kanal          渠          F=23    basic   
   kanalizaci     渠ᴷᶻ        F=1     piv     
 
-【距植】 2件
-  talfit         距植         F=1     piv     
-  talofit        距植ᵀᴼ       F=1     piv     
-
 【共】 2件
   kun            共          F=249   prep    
   komun          共ᴷᴹ        F=53    basic   

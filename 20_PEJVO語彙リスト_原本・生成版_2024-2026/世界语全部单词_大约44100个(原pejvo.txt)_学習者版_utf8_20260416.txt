@@ -46810,7 +46810,7 @@ direkt/ism/o:【PIV】Sistemo, en kiu la registaro kontrolas k direktadas la lan
 dirk/o:【技】【PIV】Speciala hoko, kiun uzas seruristoj k s^telistoj por mals^losi la serurojn.
 dirlididi!:【PIV】Interj. (Interjekcio), uzata por montri, ke oni rigardas la j^us diritan aferon bagatela.
 dis/e-mis/e:【PIV】En plena malordo: liaj verkoj kus^is dise-mise en la c^ambro.
-dis/ag^i/o:【PIV】Malprofita diferenco inter la nominala k la aktuala kurzo, au^ inter la nominala valoro k emisia kurzo, de bilo. -> ag^io.##偽分解
+dis/ag^i/o:【PIV】Malprofita diferenco inter la nominala k la aktuala kurzo, au^ inter la nominala valoro k emisia kurzo, de bilo. -> ag^io.
 disdegn/i:【PIV】(tr (transitiva)) Mals^ati: alpreni tian s^ajnon, kiun disdegnas ec^ la hundoj mem .
 disdegn/o:【PIV】Sinteno de iu, kiu disdegnas.
 disdegn/a:【PIV】Karakterizanta la sintenon de tiu, kiu disdegnas.
@@ -46838,7 +46838,7 @@ dispers/ant/o:【PIV】Substanco, kiu povas servi kiel dispersa medio.
 dispne/o:【医】【PIV】Stato de spirmalfacilo.
 dispon/aj^/o:【PIV】Io disponata au^ disponebla: la mastruma sistemo de komputilo asignas disponaj^ojn al taskoj.
 dispozici/a:【PIV】Rilata al dispozicio au^ dispozicioj.
-dis/proporci/o:【PIV】Misproporcio.##偽分解
+disproporci/o:【PIV】Misproporcio.
 disprozi/o:【化】【PIV】1 Elemento, Dy, atomnumero 66, atommaso 162,50, lantanido: disprozia klorido, DyCl 3; disproziaj kombinaj^oj. 2 Metalo malofta, blanka.
 dist/a:【PIV】Distanca.
 disten/o:【地質】【PIV】Mineralo el triklina aluminia siliciato, karakteriza de la metamorfaj petroj, estig^intaj sub fortaj premoj.
@@ -53777,7 +53777,7 @@ pred/ad/o:【PIV】Ago de tiu, kiu kutime predas: la marc^aso restas g^is hodiau
 pred/ant/o:【PIV】(pf (propra-kaj figura-sence)) Tiu, kiu predas, i.a. (interalie, inter aliaj) per c^asado.
 predel/o:【PIV】Malsupra friso de altarpentraj^o au^ skulptaj^o.
 predikt/o:【語】【PIV】Verba formo, esprimanta, ke la procezo okazos post la tempo montrata de la statverbo: predikta prezenco («mi estas mang^onta»), preterito («g^i estis mang^ota»), futuro («ni estos mang^ontaj») ktp (kaj tiel plu). Vd aspekto.
-predispozici/i:【医】【PIV】(tr (transitiva)) (pp (se paroli pri) malsano) Dispozicii 4.
+pre/dispozici/i:【医】【PIV】(tr (transitiva)) (pp (se paroli pri) malsano) Dispozicii 4.##偽分解(PIV正式分解)
 prefac/o:【PIV】Antau^parolo.
 prefaci/o:【キ】【PIV】Preg^o, solene lau^danta Dion, antau^ la kanono de la meso au^ de la evangelia sankta mang^o.
 prefer/a:【PIV】Stariganta preferon por iu(j): prefera tarifo; prefera voc^donado (en kiu la voc^anto povas indiki interne de listo sian preferon por unu elektoto).

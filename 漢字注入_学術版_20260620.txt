@@ -46810,7 +46810,7 @@ direkt/ism/o⟦方/主义/o⟧:【PIV】Sistemo, en kiu la registaro kontrolas k
 dirk/o:【技】【PIV】Speciala hoko, kiun uzas seruristoj k s^telistoj por mals^losi la serurojn.
 dirlididi!:【PIV】Interj. (Interjekcio), uzata por montri, ke oni rigardas la j^us diritan aferon bagatela.
 dis/e-mis/e⟦散/e-误/e⟧:【PIV】En plena malordo: liaj verkoj kus^is dise-mise en la c^ambro.
-disag^i/o:【PIV】Malprofita diferenco inter la nominala k la aktuala kurzo, au^ inter la nominala valoro k emisia kurzo, de bilo. -> ag^io.
+dis/ag^i/o⟦散/升水/o⟧:【PIV】Malprofita diferenco inter la nominala k la aktuala kurzo, au^ inter la nominala valoro k emisia kurzo, de bilo. -> ag^io.
 disdegn/i⟦蔑/i⟧:【PIV】(tr (transitiva)) Mals^ati: alpreni tian s^ajnon, kiun disdegnas ec^ la hundoj mem .
 disdegn/o⟦蔑/o⟧:【PIV】Sinteno de iu, kiu disdegnas.
 disdegn/a⟦蔑/a⟧:【PIV】Karakterizanta la sintenon de tiu, kiu disdegnas.
@@ -55886,8 +55886,8 @@ takt/a⟦拍ᵀ/a⟧:【PIV】Karakterizata de takto(j): takta mars^ado; lau^ vi
 takt/e⟦拍ᵀ/e⟧:【PIV】Lau^ takto: takte balanci la kapon.
 taktism/o:【PIV】Tropismo.
 tal/o⟦距ᵀ/o⟧:【解】【PIV】(talus) Tarsa osto de la reptilioj k mamuloj, kiu c^e la mamuloj situas sur la kalkaneo k malantau^ la navikularo, k subportas la tibion k la fibulon. Vd ludostoj.
-talfit/oj⟦距植/oj⟧:【植】【PIV】Grupego de plantoj (Thallophyta), nenatura, al kiu apartenas algoj, parto de la briofitoj (talaj hepatmuskoj) k lau^ malnovaj klasifikoj ankau^ bakterioj, cianobakterioj, fungoj k likenoj. Sin. (sinonimo) talplantoj.
-talofit/oj⟦距植ᵀᴼ/oj⟧:【植】【PIV】Grupego de plantoj (Thallophyta), nenatura, al kiu apartenas algoj, parto de la briofitoj (talaj hepatmuskoj) k lau^ malnovaj klasifikoj ankau^ bakterioj, cianobakterioj, fungoj k likenoj. Sin. (sinonimo) talplantoj.
+talfit/oj:【植】【PIV】Grupego de plantoj (Thallophyta), nenatura, al kiu apartenas algoj, parto de la briofitoj (talaj hepatmuskoj) k lau^ malnovaj klasifikoj ankau^ bakterioj, cianobakterioj, fungoj k likenoj. Sin. (sinonimo) talplantoj.
+talofit/oj:【植】【PIV】Grupego de plantoj (Thallophyta), nenatura, al kiu apartenas algoj, parto de la briofitoj (talaj hepatmuskoj) k lau^ malnovaj klasifikoj ankau^ bakterioj, cianobakterioj, fungoj k likenoj. Sin. (sinonimo) talplantoj.
 talam/o⟦丘脑/o⟧:【解】【PIV】(thalamus) Nomo de du dikaj kernoj de griza substanco, situantaj ambau^flanke de la tria cerba ventriklo.
 taliktr/o⟦草ᵀᵀ/o⟧:【植】【PIV】G. (Genro) (Thalictrum el ranunkolacoj) de plurjaraj herboj kun 2−3-oble plume kunmetaj folioj k kun senpetalaj, multastamenaj floroj en kunmetaj umbeloj; c^. (c^irkau^) 330 sp-oj (specioj) precipe N-hemisferaj, pluraj pororname kultivataj pro okulfrapaj sepaloj k/au^ stamenoj.
 talitr/o⟦虾ᵀ/o⟧:【動】【PIV】G. (Genro) (Talitrus) de marbordaj krustacoj, sin nutrantaj per malkomponig^antaj vegetaj^oj super la marnivelo, saltantaj al la maro, kiam oni perturbas ilin. Sin. (sinonimo) marpulo.

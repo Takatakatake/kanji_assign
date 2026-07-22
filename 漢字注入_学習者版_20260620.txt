@@ -46810,7 +46810,7 @@ direkt/ism/o⟦方/主义/o⟧:【PIV】Sistemo, en kiu la registaro kontrolas k
 dirk/o:【技】【PIV】Speciala hoko, kiun uzas seruristoj k s^telistoj por mals^losi la serurojn.
 dirlididi!:【PIV】Interj. (Interjekcio), uzata por montri, ke oni rigardas la j^us diritan aferon bagatela.
 dis/e-mis/e⟦散/e-误/e⟧:【PIV】En plena malordo: liaj verkoj kus^is dise-mise en la c^ambro.
-dis/ag^i/o⟦散/升水/o⟧:【PIV】Malprofita diferenco inter la nominala k la aktuala kurzo, au^ inter la nominala valoro k emisia kurzo, de bilo. -> ag^io.##偽分解
+dis/ag^i/o⟦散/升水/o⟧:【PIV】Malprofita diferenco inter la nominala k la aktuala kurzo, au^ inter la nominala valoro k emisia kurzo, de bilo. -> ag^io.
 disdegn/i⟦蔑/i⟧:【PIV】(tr (transitiva)) Mals^ati: alpreni tian s^ajnon, kiun disdegnas ec^ la hundoj mem .
 disdegn/o⟦蔑/o⟧:【PIV】Sinteno de iu, kiu disdegnas.
 disdegn/a⟦蔑/a⟧:【PIV】Karakterizanta la sintenon de tiu, kiu disdegnas.
@@ -46838,7 +46838,7 @@ dispers/ant/o⟦散ᴰᴾ/在/o⟧:【PIV】Substanco, kiu povas servi kiel disp
 dispne/o⟦喘ᴰ/o⟧:【医】【PIV】Stato de spirmalfacilo.
 dispon/aj^/o⟦处ᴰ/物/o⟧:【PIV】Io disponata au^ disponebla: la mastruma sistemo de komputilo asignas disponaj^ojn al taskoj.
 dispozici/a⟦处ᴰᶻ/a⟧:【PIV】Rilata al dispozicio au^ dispozicioj.
-dis/proporci/o⟦散/比ᴾ/o⟧:【PIV】Misproporcio.##偽分解
+disproporci/o:【PIV】Misproporcio.
 disprozi/o⟦金ᴰ/o⟧:【化】【PIV】1 Elemento, Dy, atomnumero 66, atommaso 162,50, lantanido: disprozia klorido, DyCl 3; disproziaj kombinaj^oj. 2 Metalo malofta, blanka.
 dist/a:【PIV】Distanca.
 disten/o:【地質】【PIV】Mineralo el triklina aluminia siliciato, karakteriza de la metamorfaj petroj, estig^intaj sub fortaj premoj.
@@ -51485,7 +51485,7 @@ linolen/o:【化】【PIV】Radiko de linolenata acido.
 liofiliz/i:【生】【技】【PIV】(tr (transitiva)) Senakvigi substancon, c^elaron ks (kaj simile, kaj similaj), per sublimado je tre malalta temperaturo k sub vakuo, por konservi ilin.
 lip/et/o⟦唇/小/o⟧:【解】【PIV】C^iu el duopaj lipformaj malgrandaj elementoj: vulvaj lipetoj.
 lip/eg/o⟦唇/巨/o⟧:【PIV】Dika, pendanta lipo: lipego de azeno. Vd komisuro.
-lip/az/o⟦唇/az/o⟧:【化】【生】【PIV】Enzimo, katalizanta la hidrolizon de lipidoj: pankreata lipazo.##偽分解(PIV正式分解)##過細分解 l/i/p/az/o
+lip/az/o⟦脂/az/o⟧:【化】【生】【PIV】Enzimo, katalizanta la hidrolizon de lipidoj: pankreata lipazo.##偽分解(PIV正式分解)##過細分解 l/i/p/az/o
 lip/o/liz/o⟦脂/o/解ᴸ/o⟧:【生】【化】【PIV】Hidrolizo de la lipidoj en la organismo.##偽分解(PIV正式分解)##過細分解 l/i/p/o/liz/o
 lip/om/o⟦脂/瘤/o⟧:【医】【PIV】Negrava tumoro, konsistanta el subhau^ta grashisto.##偽分解(PIV正式分解)##過細分解 l/i/p/o/m/o
 lip/o/protein/o⟦脂/o/蛋白/o⟧:【PIV】Vd (vidu) proteino.##偽分解(PIV正式分解)##過細分解 l/i/p/o/protein/o
@@ -53777,7 +53777,7 @@ pred/ad/o⟦猎ᴾ/行/o⟧:【PIV】Ago de tiu, kiu kutime predas: la marc^aso 
 pred/ant/o⟦猎ᴾ/在/o⟧:【PIV】(pf (propra-kaj figura-sence)) Tiu, kiu predas, i.a. (interalie, inter aliaj) per c^asado.
 predel/o:【PIV】Malsupra friso de altarpentraj^o au^ skulptaj^o.
 predikt/o⟦预ᴾ/o⟧:【語】【PIV】Verba formo, esprimanta, ke la procezo okazos post la tempo montrata de la statverbo: predikta prezenco («mi estas mang^onta»), preterito («g^i estis mang^ota»), futuro («ni estos mang^ontaj») ktp (kaj tiel plu). Vd aspekto.
-predispozici/i:【医】【PIV】(tr (transitiva)) (pp (se paroli pri) malsano) Dispozicii 4.
+pre/dispozici/i⟦前ᴾ/处ᴰᶻ/i⟧:【医】【PIV】(tr (transitiva)) (pp (se paroli pri) malsano) Dispozicii 4.##偽分解(PIV正式分解)
 prefac/o:【PIV】Antau^parolo.
 prefaci/o:【キ】【PIV】Preg^o, solene lau^danta Dion, antau^ la kanono de la meso au^ de la evangelia sankta mang^o.
 prefer/a⟦宁ᴾ/a⟧:【PIV】Stariganta preferon por iu(j): prefera tarifo; prefera voc^donado (en kiu la voc^anto povas indiki interne de listo sian preferon por unu elektoto).
@@ -59689,7 +59689,7 @@ nivel/lini/o⟦平ᴺ/线/o⟧:【PIV】1 Imaga linio, kuniganta la punktojn de 
 ond/lini/a⟦波/线/a⟧:【PIV】Prezentanta ondig^antajn formojn.
 servir/lini/o⟦发球/线/o⟧:【PIV】En teniso, retpilko ks (kaj simile, kaj similaj), linio, malantau^ kiu staru la serviranto, ne transpasebla g^is ekflugo de la pilko.
 s^arg^/lini/o⟦载/线/o⟧:【PIV】Sur la flanko de komerca s^ipo desegnita linio, g^is kiu povas enakvig^i la s^ipkorpo.
-fosfo/lip/az/o⟦磷ᶠᴼ/唇/az/o⟧:【化】【PIV】Enzimo, katalizanta la hidrolizon de glicerofosfolipidoj.##偽分解(PIV正式分解)##過細分解 fosfo/l/i/p/az/o
+fosfo/lip/az/o⟦磷ᶠᴼ/脂/az/o⟧:【化】【PIV】Enzimo, katalizanta la hidrolizon de glicerofosfolipidoj.##偽分解(PIV正式分解)##過細分解 fosfo/l/i/p/az/o
 fosfo/lipid/o⟦磷ᶠᴼ/脂ᴸᴾ/o⟧:【PIV】Malsimpla lipido el glicerolo, du grasaj acidoj k fosfatida acido, grava konsistaj^o de la c^elaj membranoj. Sin. glicerofosfolipido. Vd fosfatido, lecitino.
 glicer/o/lipid/o⟦甘油ᴳᶜ/o/脂ᴸᴾ/o⟧:【化】【PIV】Lipido, kies alkoholo estas glicerolo.
 glicer/o/fosfo/lipid/o⟦甘油ᴳᶜ/o/磷ᶠᴼ/脂ᴸᴾ/o⟧:【PIV】Fosfo lipido.
