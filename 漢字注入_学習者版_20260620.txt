@@ -2054,7 +2054,7 @@ antrop/oid/oj⟦人ᴬ/似ᴼ/oj⟧:【動】類人猿##偽分解(PIV正式分�
 antrop/o/logi/o⟦人ᴬ/o/学ᴸᴳ/o⟧:{Ｏ}人類学##偽分解
 antrop/o/log/o⟦人ᴬ/o/学家/o⟧:{Ｏ}人類学者##偽分解
 antrop/o/metri/o⟦人ᴬ/o/测ᴹᵀ/o⟧:人体測定##偽分解
-antrop/o/morf/ism/o⟦人ᴬ/o/形ᴹ/主义/o⟧:【哲】神人同形同性論##偽分解(PIV正式分解)
+antrop/o/morf/ism/o⟦人ᴬ/o/形ᴹ/主义/o⟧:【哲】神人同形同性論##偽分解
 Antverpen/o:【地名】アントワープ（ベルギー）
 Anub/o:【神】アヌビス（古代エジプトの死者の神）
 Anunciaci/o:{Ｏ}【キ】受胎告知;【カ】お告げの祝日（３月２５日）
@@ -6947,7 +6947,7 @@ direkci/o:理事会,役員会,経営陣;役員室
 direkt/a⟦方/a⟧:方向の
 direkt/a angul/o⟦方/a 角/o⟧:【数】方向角,>>azimuto
 direkt/ad/o⟦方/行/o⟧:方向づけ;操縦;指揮,指導;管理
-direkt/al/o⟦方/向/o⟧:【空】垂直安定板,>>empeno##偽分解##過細分解 direkt/a/l/o
+direkt/al/o⟦方/al/o⟧:【空】垂直安定板,>>empeno##偽分解##過細分解 direkt/a/l/o
 direkt/ant/o⟦方/在/o⟧:指導者;【楽】指揮者
 direkt/e al⟦方/e 向⟧:〜の方へ,〜に向かって
 direkt/ebl/a⟦方/可/a⟧:操縦可能な
@@ -7057,7 +7057,7 @@ disk/o/koncert/o⟦盘ᴰ/o/奏/o⟧:【楽】レコードコンサート
 dis/komb/i⟦散/梳/i⟧:［他］（繊維を）すく,=kardi
 dis/kon/ig/i⟦散/认/使/i⟧:［他］知れわたらせる,周知させる,広める
 dis/kon/ig/o⟦散/认/使/o⟧:周知,流布
-diskont/a pro/cent/o⟦减ᴰ/a 因ᴾ/百/o⟧:【商】割引率##偽分解
+diskont/a pro/cent/o⟦减ᴰ/a pro/百/o⟧:【商】割引率##偽分解
 diskont/i⟦减ᴰ/i⟧:{Ｏ}［他］【商】（手形を）割引する
 diskont/o⟦减ᴰ/o⟧:【商】手形割引;割引歩合
 diskont/o/bank/o⟦减ᴰ/o/银ᴮ/o⟧:【商】割引銀行
@@ -7881,7 +7881,7 @@ du/on/litr/o⟦二/分/升/o⟧:（容量について）半リットル,５０�
 du/on/lum/o⟦二/分/光/o⟧:薄明り
 du/on/lun/o⟦二/分/月/o⟧:【天】半月,=lunduono;（つめの）半月,小づめ;【軍】（城の）半月堡
 du/on/manik/o⟦二/分/袖/o⟧:【服】半そで
-du/on/meta/morf/oz/a⟦二/分/超ᴹ/形ᴹ/症ᴼ/a⟧:【虫】不完全変態の##偽分解(PIV正式分解)
+du/on/meta/morf/oz/a⟦二/分/超ᴹ/形ᴹ/症ᴼ/a⟧:【虫】不完全変態の##偽分解
 du/on/milion/o⟦二/分/百万/o⟧:５０万
 du/on/monat/a⟦二/分/月ᴹ/a⟧:半月間の;月２回の
 du/on/mort/a⟦二/分/死/a⟧:半死半生の
@@ -10714,7 +10714,7 @@ femin/ism/o⟦女ᶠᴱ/主义/o⟧:{Ｏ}フェミニズム##偽分解(PIV正式
 femin/ist/o⟦女ᶠᴱ/家/o⟧:{Ｏ}フェミニスト##偽分解(PIV正式分解)
 femur/a biceps/o⟦股ᶠ/a 二头肌/o⟧:【解】大腿二頭筋
 femur/aj^/o⟦股ᶠ/物/o⟧:【料】もも肉
-femur/al/o⟦股ᶠ/向/o⟧:【解】=femurosto（大腿骨）##偽分解(PIV正式分解)##過細分解 femur/a/l/o
+femur/al/o⟦股ᶠ/al/o⟧:【解】=femurosto（大腿骨）##偽分解(PIV正式分解)##過細分解 femur/a/l/o
 femur/o⟦股ᶠ/o⟧:{Ｏ}ふともも;【解】大腿（だいたい）
 femur/ost/o⟦股ᶠ/骨/o⟧:【解】大腿骨（だいたいこつ）
 fend/eg/o⟦裂ᶠ/巨/o⟧:亀裂,深い裂け目;（山の）峡谷,（氷河の）クレバス,>>interkrutejo
@@ -12237,7 +12237,7 @@ frukt/uz/o⟦果/用/o⟧:【法】用益権
 fru/maten/e⟦早/晨/e⟧:早朝に
 fru/matur/a⟦早/熟/a⟧:早生（わせ）の,早熟な
 fru/nask/it/o⟦早/生/受/o⟧:早産児
-frunt/al/o⟦额/向/o⟧:【解】=fruntosto（前頭骨）##偽分解(PIV正式分解)##過細分解 frunt/a/l/o
+frunt/al/o⟦额/al/o⟧:【解】=fruntosto（前頭骨）##偽分解(PIV正式分解)##過細分解 frunt/a/l/o
 frunt/o⟦额/o⟧:{Ｂ}額（ひたい）,前頭部
 frunt/ost/o⟦额/骨/o⟧:【解】前頭骨
 fru/sezon/a⟦早/季/a⟧:走りの,旬に先がけた
@@ -14426,7 +14426,7 @@ hipotek/a merkat/o⟦抵/a 市ᴹ/o⟧:【経】抵当権市場,モーゲージ�
 hipotek/bank/o⟦抵/银ᴮ/o⟧:勧業銀行,抵当銀行
 hipotek/i⟦抵/i⟧:［他］抵当に入れる,担保に入れる
 hipotek/o⟦抵/o⟧:{Ｏ}【法】抵当権
-hipo/tensi/o⟦亚/压ᵀ/o⟧:【病】低血圧（症）##偽分解
+hipo/tensi/o⟦亚/压ᵀ/o⟧:【病】低血圧（症）##偽分解(PIV正式分解)
 hipotenuz/o⟦斜边/o⟧:【数】（直角三角形の）斜辺
 hipo/tez/a⟦亚/题ᵀᶻ/a⟧:仮説の,仮定の##偽分解(PIV正式分解)
 hipo/tez/i⟦亚/题ᵀᶻ/i⟧:［他］仮説を立てる,仮定する##偽分解(PIV正式分解)
@@ -15679,7 +15679,7 @@ interes/o⟦趣/o⟧:{Ｂ}興味,関心;おもしろさ,興趣;利害関係,利�
 interes/o/sfer/o⟦趣/o/球ˢ/o⟧:関心領域
 inter/etag^/o⟦间/层/o⟧:中二階
 interez/o⟦利ᴵ/o⟧:【経】利子,利息,金利,=rentumo;利潤
-interez/pro/cent/o⟦利ᴵ/因ᴾ/百/o⟧:利率,金利##偽分解
+interez/pro/cent/o⟦利ᴵ/pro/百/o⟧:利率,金利##偽分解
 inter/fac/o⟦间/面/o⟧:【情】インタフェース##偽分解
 inter/fac/o⟦间/面/o⟧:【理】界面;【機】【情】インターフェース
 interfer/a⟦涉ᴵ/a⟧:干渉の,干渉する
@@ -16127,7 +16127,7 @@ izol/ruband/o⟦隔/带ᴿᴮ/o⟧:【電】絶縁テープ
 izo/mer/a⟦等ᴵ/链节/a⟧:【化】異性体の;【理】異性核の##偽分解(PIV正式分解)
 izo/mer/ism/o⟦等ᴵ/链节/主义/o⟧:【化】異性;【理】核異性##偽分解(PIV正式分解)
 izo/mer/o⟦等ᴵ/链节/o⟧:【化】異性体;【理】異性核##偽分解(PIV正式分解)
-izo/morf/a⟦等ᴵ/形ᴹ/a⟧:【鉱】同形の;【数】同型の##偽分解(PIV正式分解)
+izo/morf/a⟦等ᴵ/形ᴹ/a⟧:【鉱】同形の;【数】同型の##偽分解
 izo/term/a⟦等ᴵ/热ᵀ/a⟧:【理】等温の##偽分解(PIV正式分解)##過細分解 izo/t/e/r/m/a
 izo/term/a s^ang^/o⟦等ᴵ/热ᵀ/a 变/o⟧:【理】等温変化##偽分解(PIV正式分解)##過細分解 izo/t/e/r/m/a s^ang^/o
 izo/term/o⟦等ᴵ/热ᵀ/o⟧:【気】等温線##偽分解(PIV正式分解)##過細分解 izo/t/e/r/m/o
@@ -25171,12 +25171,12 @@ metal/o⟦金ᴹ/o⟧:{Ｂ}金属,地金;【化】金属元素
 metal/oid/a⟦金ᴹ/似ᴼ/a⟧:半金属の
 metal/oid/o⟦金ᴹ/似ᴼ/o⟧:【化】半金属,メタロイド;非金属,=nemetalo
 metalurgi/o⟦冶金/o⟧:{Ｂ}冶金（やきん）業,冶金術;冶金学
-meta/morf/a⟦超ᴹ/形ᴹ/a⟧:【地質】変成の##偽分解(PIV正式分解)
-meta/morf/a rok/o⟦超ᴹ/形ᴹ/a 岩/o⟧:【地質】変成岩##偽分解(PIV正式分解)
-meta/morf/ig^/o⟦超ᴹ/形ᴹ/成/o⟧:【地質】（岩石の）変成##偽分解(PIV正式分解)
-meta/morf/ism/o⟦超ᴹ/形ᴹ/主义/o⟧:【地質】（岩石の）変成作用##偽分解(PIV正式分解)
-meta/morf/oz/i⟦超ᴹ/形ᴹ/症ᴼ/i⟧:［他］変身させる,変形させる;《転》変貌させる##偽分解(PIV正式分解)
-meta/morf/oz/o⟦超ᴹ/形ᴹ/症ᴼ/o⟧:{Ｏ}変身,変形;【動】変態;【地質】=metamorfig^o;《転》変貌（へんぼう）##偽分解(PIV正式分解)
+meta/morf/a⟦超ᴹ/形ᴹ/a⟧:【地質】変成の##偽分解
+meta/morf/a rok/o⟦超ᴹ/形ᴹ/a 岩/o⟧:【地質】変成岩##偽分解
+meta/morf/ig^/o⟦超ᴹ/形ᴹ/成/o⟧:【地質】（岩石の）変成##偽分解
+meta/morf/ism/o⟦超ᴹ/形ᴹ/主义/o⟧:【地質】（岩石の）変成作用##偽分解
+meta/morf/oz/i⟦超ᴹ/形ᴹ/症ᴼ/i⟧:［他］変身させる,変形させる;《転》変貌させる##偽分解
+meta/morf/oz/o⟦超ᴹ/形ᴹ/症ᴼ/o⟧:{Ｏ}変身,変形;【動】変態;【地質】=metamorfig^o;《転》変貌（へんぼう）##偽分解
 met/an/a hidrat/o⟦甲/an/a 水合/o⟧:【化】メタンハイドレート##偽分解(PIV正式分解)##過細分解 m/e/t/a/n/a hidrat/o
 met/an/o⟦甲/an/o⟧:【化】メタン##偽分解(PIV正式分解)##過細分解 m/e/t/a/n/o
 met/an/ol/o⟦甲/an/ol/o⟧:【化】メタノール##偽分解(PIV正式分解)##過細分解 m/e/t/a/n/o/l/o
@@ -28236,7 +28236,7 @@ okcident/o⟦西/o⟧:{Ｂ}西,西方;西部,><oriento
 Okcident/o:西洋
 Okcident-Virgini/o:【地名】ウエスト・バージニア州（米国）
 ok/cilindr/a⟦八/圆柱/a⟧:【車】八気筒の
-okcipit/al/o⟦后脑/向/o⟧:【解】=okcipitosto（後頭骨）##偽分解(PIV正式分解)##過細分解 okcipit/a/l/o
+okcipit/al/o⟦后脑/al/o⟧:【解】=okcipitosto（後頭骨）##偽分解(PIV正式分解)##過細分解 okcipit/a/l/o
 okcipit/o⟦后脑/o⟧:【解】後頭部,=postkranio
 okcipit/ost/o⟦后脑/骨/o⟧:【解】後頭骨
 okcitan/a:オクシタン語の
@@ -29316,8 +29316,8 @@ paraliz/ig^/o⟦瘫ᴾᴿ/成/o⟧:麻痺;停滞,機能停止
 paraliz/o⟦瘫ᴾᴿ/o⟧:【病】麻痺,不随;中風（ちゅうぶう）
 paraliz/ul/o⟦瘫ᴾᴿ/者/o⟧:【医】麻痺患者,中風患者
 para/log/ism/o⟦para/学家/主义/o⟧:【哲】偽推理##偽分解
-para/magnet/a⟦para/磁/a⟧:【理】常磁性の##偽分解
-para/magnet/a korp/o⟦para/磁/a 体/o⟧:【理】常磁性体##偽分解
+para/magnet/a⟦para/磁/a⟧:【理】常磁性の##偽分解(PIV正式分解)
+para/magnet/a korp/o⟦para/磁/a 体/o⟧:【理】常磁性体##偽分解(PIV正式分解)
 para/magnet/ism/o⟦para/磁/主义/o⟧:【理】常磁性##偽分解(PIV正式分解)
 Paramarib/o:【地名】パラマリボ（スリナムの首都）
 para/metr/o⟦para/米/o⟧:【数】助変数,媒介変数;【情】パラメータ,仮引数（かりひきすう）##偽分解(PIV正式分解)
@@ -29371,7 +29371,7 @@ parget/er/o⟦拼ᴾ/粒/o⟧:【建】寄せ木の床板（木片）
 parget/i⟦拼ᴾ/i⟧:［他］【建】寄せ木張りにする
 parget/o⟦拼ᴾ/o⟧:{Ｏ}【建】寄せ木張りの床
 par/huf/ul/oj⟦偶/蹄/者/oj⟧:【動】偶蹄類（ぐうているい）
-pariet/al/o⟦壁ᴾ/向/o⟧:【解】頭頂骨,=parietosto##偽分解(PIV正式分解)##過細分解 pariet/a/l/o
+pariet/al/o⟦壁ᴾ/al/o⟧:【解】頭頂骨,=parietosto##偽分解(PIV正式分解)##過細分解 pariet/a/l/o
 pariet/o⟦壁ᴾ/o⟧:【機】内壁;【解】壁
 pariet/ost/o⟦壁ᴾ/骨/o⟧:【解】頭頂骨,=parietalo
 par/ig/i⟦偶/使/i⟧:［他］つがいにする;つがわせる
@@ -30656,7 +30656,7 @@ plen/larg^/a⟦满/宽/a⟧:【情】全角の,>>duonlarg^a
 plen/lun/o⟦满/月/o⟧:満月
 plen/man/o⟦满/手/o⟧:ひと握り,ひとつかみ
 plen/man/o da⟦满/手/o 份⟧:ひと握りの,ひとつかみの
-plen/meta/morf/oz/a⟦满/超ᴹ/形ᴹ/症ᴼ/a⟧:【虫】完全変態の##偽分解(PIV正式分解)
+plen/meta/morf/oz/a⟦满/超ᴹ/形ᴹ/症ᴼ/a⟧:【虫】完全変態の##偽分解
 plen/mezur/e⟦满/测/e⟧:たっぷりと,十分に
 plen/nub/a⟦满/云/a⟧:全天曇った
 plen/o⟦满/o⟧:全体会,=plenkunsido
@@ -32106,10 +32106,10 @@ procedur/a program/ad/o⟦程ᴾᴰ/a 程/行/o⟧:【情】手続き型プロ�
 procedur/i⟦程ᴾᴰ/i⟧:［自］訴訟手続をとる
 procedur/ist/o⟦程ᴾᴰ/家/o⟧:【法】代訴人
 procedur/o⟦程ᴾᴰ/o⟧:{Ｏ}【法】訴訟手続,=jug^agado;【情】プロシージャ,サブルーチン
-pro/cent/eg/e⟦因ᴾ/百/巨/e⟧:高利で,>>uzure##偽分解
-pro/cent/eg/ist/o⟦因ᴾ/百/巨/家/o⟧:高利貸,>>uzuristo##偽分解
-pro/cent/eg/o⟦因ᴾ/百/巨/o⟧:【商】高利,>>uzuro##偽分解
-pro/cent/o⟦因ᴾ/百/o⟧:{Ｂ}パーセント,=elcento;利率,利回り;利息,利子,=interezo##偽分解
+pro/cent/eg/e⟦pro/百/巨/e⟧:高利で,>>uzure##偽分解
+pro/cent/eg/ist/o⟦pro/百/巨/家/o⟧:高利貸,>>uzuristo##偽分解
+pro/cent/eg/o⟦pro/百/巨/o⟧:【商】高利,>>uzuro##偽分解
+pro/cent/o⟦pro/百/o⟧:{Ｂ}パーセント,=elcento;利率,利回り;利息,利子,=interezo##偽分解
 proces/em/a⟦程ᴾᶜ/倾/a⟧:訴訟好きの
 proces/i⟦程ᴾᶜ/i⟧:［自］訴訟を起こす
 procesi/a⟦列ᴾ/a⟧:行列の
@@ -35974,7 +35974,7 @@ sen/mastr/a⟦无/主/a⟧:主のいない,見捨てられた
 sen/mebl/ig/i⟦无/具ᴹ/使/i⟧:［他］家具を取り払う
 sen/merit/a⟦无/值ᴹ/a⟧:功績のない,取り柄のない
 sen/metafor/e⟦无/喻ᴹ/e⟧:本義で,あけすけに
-sen/meta/morf/oz/a⟦无/超ᴹ/形ᴹ/症ᴼ/a⟧:【虫】無変態の##偽分解(PIV正式分解)
+sen/meta/morf/oz/a⟦无/超ᴹ/形ᴹ/症ᴼ/a⟧:【虫】無変態の##偽分解
 sen/mezur/a⟦无/测/a⟧:無限の,けた外れの
 sen/miks/a⟦无/混/a⟧:混じり気のない,純粋な,>>pura
 sen/min/ig/i⟦无/矿/使/i⟧:［他］地雷を除去する
@@ -39219,7 +39219,7 @@ s^erp/o:シェルパ（ネパールのチベット系民族の一員）
 S^etland/oj:【地名】シェトランド諸島（イギリス）
 s^i⟦她⟧:{Ｂ}［代］彼女
 s^i/a⟦她/a⟧:彼女の
-S^i/a Reg^/in/a Mos^t/o:（三人称）女王陛下##偽分解(PIV正式分解)
+S^i/a Reg^/in/a Mos^t/o:（三人称）女王陛下##偽分解
 s^ija/ism/o⟦s^ija/主义/o⟧:【イ】シーア派（の教義）,>>sunaismo##偽分解##強語根分解
 s^ija/ist/o⟦s^ija/家/o⟧:【イ】シーア派教徒##偽分解##強語根分解
 s^ik/a⟦雅ˢ̂/a⟧:シックな,いきな,しゃれた,趣味の良い,>>eleganta,>>bongusta
@@ -42818,7 +42818,7 @@ veget/ad/o⟦茂/行/o⟧:（植物の）生長,生育;《転》（植物的な�
 veget/aj^/a⟦茂/物/a⟧:植物の,植物性の,>>botanika
 veget/aj^/a buter/o⟦茂/物/a 黄油/o⟧:植物性バター
 veget/aj^/a c^el/o⟦茂/物/a 胞/o⟧:植物細胞
-veget/aj^/a fibr/in/o⟦茂/物/a 纤/女/o⟧:【植】麩素（ふそ）,=gluteno##偽分解(PIV正式分解)
+veget/aj^/a fibr/in/o⟦茂/物/a 纤/in/o⟧:【植】麩素（ふそ）,=gluteno##偽分解(PIV正式分解)
 veget/aj^/a fibr/o⟦茂/物/a 纤/o⟧:植物繊維
 veget/aj^/a margarin/o⟦茂/物/a 人造油/o⟧:【料】植物性マーガリン
 veget/aj^/an/o⟦茂/物/员ᴬ/o⟧:完全菜食家,ヴィーガン
@@ -44815,7 +44815,7 @@ alo/fon/a⟦异ᴬᴸ/声ᶠᴼ/a⟧:【PIV】(pp (se paroli pri) transskribo) I
 aloj/ig/i⟦合金/使/i⟧:【PIV】Fari alojon.
 alokazi/o⟦草ᴬᴸᴼ/o⟧:【植】【PIV】G. (Genro) (Alocasia el arumacoj) de plurjaraj, ofte rizomaj herboj kun grandaj folioj; c^. (c^irkau^) 70 sp-oj (specioj) el tropika Azio k Au^stralio, pluraj kultivataj por ornamaj folioj sag-au^ blazon-formaj, du-au^ plur-koloraj.
 alokton/o:【地質】【PIV】Io aliloke estig^inta: aloktona mineralo, petro, tereno. Vd au^toktono, pus^tegaj^o.
-alo/morf/o⟦异ᴬᴸ/形ᴹ/o⟧:【語】【PIV】Varianto de morfemo (precipe en aglutinaj lingvoj).##偽分解(PIV正式分解)
+alo/morf/o⟦异ᴬᴸ/形ᴹ/o⟧:【語】【PIV】Varianto de morfemo (precipe en aglutinaj lingvoj).##偽分解
 alopat/o:【PIV】Specialisto pri alopatio.
 alopekur/o⟦草ᴬᴸᴼᴾ/o⟧:【植】【PIV】G. (Genro) (Alopecurus el poacoj) de unu-k plur-jaraj herboj kun ovoida au^ cilindra, multarista spiko; 36 sp-oj (specioj) el la mezvarmaj regionoj de la N hemisfero k S Ameriko. Sin. (sinonimo) vulpovosto.
 aloritmi/o:【医】【PIV】Periode nenormala ritmo de la pulso.
@@ -45133,8 +45133,8 @@ antrop/o/morf/oj⟦人ᴬ/o/形ᴹ/oj⟧:【動】【PIV】Grupo de senvostaj, h
 antrop/o/centr/a⟦人ᴬ/o/央/a⟧:【PIV】Havanta la homon kiel centron de intereso au^ studo: la antropocentra teorio longatempe regis en astronomio.##偽分解(PIV正式分解)
 antrop/o/fag/o⟦人ᴬ/o/吞/o⟧:【PIV】Homo, kiu en difinitaj okazoj mang^as la karnon de alia homo Vd kanibalo.##偽分解(PIV正式分解)##過細分解 antrop/o/f/a/g/o
 antrop/o/fag/ism/o⟦人ᴬ/o/吞/主义/o⟧:【PIV】Tiu aparta kutimo de la antropofagoj: la antropofagismo havas samtempe ekonomiajn k magiajn kau^zojn.##偽分解(PIV正式分解)##過細分解 antrop/o/f/a/g/ism/o
-antrop/o/morf/a⟦人ᴬ/o/形ᴹ/a⟧:【PIV】Homaspekta.##偽分解(PIV正式分解)
-antrop/o/morf/o⟦人ᴬ/o/形ᴹ/o⟧:【PIV】Paleolitika homfiguro.##偽分解(PIV正式分解)
+antrop/o/morf/a⟦人ᴬ/o/形ᴹ/a⟧:【PIV】Homaspekta.##偽分解
+antrop/o/morf/o⟦人ᴬ/o/形ᴹ/o⟧:【PIV】Paleolitika homfiguro.##偽分解
 anturi/o⟦草ᴬᴺᵀ/o⟧:【植】【PIV】G. (Genro) (Anthurium el arumacoj) de plurjaraj herboj kun simplaj au^ mane kunmetaj folioj, kies petiolo genuforme s^velas c^e la limbo; pli ol 700 sp-oj (specioj) el tropika Ameriko, multaj kultivataj en varmaj forcejoj, kelkaj por la grandaj, ofte helripaj, kor-au^ sag-formaj folioj, aliaj - precipe flamengofloro (A. scherzerianum) - por la kuriozaj k ornamaj infloreskoj havantaj intense rug^ajn spatojn po unu.
 antus/o⟦鸟ᴬᴺ/o⟧:【PIV】= pipio.
 anuitat/o:【PIV】Difinita monsumo, c^iujare pagenda, per kiu s^uldanto iom post iom kvitigas sin je s^uldo k je ties interezoj: la prezo de la domo estas amortizebla en 15 anuitatoj.
@@ -45199,7 +45199,7 @@ a/pterig/o⟦无ᴬ/翅ᴾᴳ/o⟧:【動】【PIV】G. (Genro) (Apteryx) de sen
 a/pterig/o/form/aj⟦无ᴬ/翅ᴾᴳ/o/形/aj⟧:【動】【PIV】Ordo (Apterygiformes) de birdoj, ampleksanta la solan g-on apterigo.##偽分解##エス的分解
 ar/et/o⟦群/小/o⟧:【PIV】Malgranda nombro el tiaj objektoj au^ personoj: areto da amikoj.
 ar/eg/o⟦群/巨/o⟧:【PIV】Granda nombro el tiaj objektoj au^ personoj: li alkondukis ja tutan aregon da rekrutoj . Vd grupo, bando, roto.
-ar/in/o⟦群/女/o⟧:【PIV】Aromata molekulo, en kiu unu el la ligoj estas triobla anst. (anstatau^) duobla: arinoj estas ege malstabilaj interaj^oj en reakcioj de aromataj molekuloj.##偽分解(PIV正式分解)##過細分解 a/r/in/o
+ar/in/o:【PIV】Aromata molekulo, en kiu unu el la ligoj estas triobla anst. (anstatau^) duobla: arinoj estas ege malstabilaj interaj^oj en reakcioj de aromataj molekuloj.##偽分解(PIV正式分解)##過細分解 a/r/in/o
 aril/o:【植】【化】【PIV】1 【植】Ekstera kovraj^o au^ alpendaj^o de iuj semoj, ekz. la intense rug^a, karneca kovraj^o sur la semo de taksuso au^ de evonimo. 2 【化】Radiko derivita de areno per forigo de hidrogeno ligita al unu el la karbonoj de la aromata ciklo: fenilo, naftilo.
 arab/in/o:【化】【PIV】(ark. (arkaismo, arkaisme)) = arabata acido.##偽分解(PIV正式分解)
 arab/in/oz/o⟦arab/in/糖ᴼ/o⟧:【化】【PIV】Pentozo, C 5 H 10 O 5, konsistiganto de la polisakarido de la araba gumo.##偽分解(PIV正式分解)
@@ -46761,9 +46761,9 @@ dilig^enc/o:【PIV】Pasinteca publika c^evaljungita veturilo, por transporti vo
 dilu/a⟦稀ᴰ/a⟧:【PIV】Solvaj^o malkoncentrita.
 diminu/i⟦减ᴰᴹ/i⟧:【PIV】(tr (transitiva)) 1 Malgrandigi c^iujn dimensiojn de originala bildo: diminuita klis^o. 2 En trikado, iom post iom malpliigi la nombron de la mas^oj, por regule malplilarg^igi la rezultan bendon. 3 Malpliintensigi la forton de la tono.
 diminuend/o:【楽】【PIV】Loko en muzikpeco, kies tono estas diminua. Vd kresc^endo.
-di/morf/a⟦二ᴰᴵ/形ᴹ/a⟧:【PIV】= duforma.##偽分解(PIV正式分解)##過細分解 d/i/morf/a
-di/morf/ec/o⟦二ᴰᴵ/形ᴹ/性/o⟧:【PIV】= duformeco.##偽分解(PIV正式分解)##過細分解 d/i/morf/ec/o
-di/morf/ism/o⟦二ᴰᴵ/形ᴹ/主义/o⟧:【PIV】= duformismo.##偽分解(PIV正式分解)##過細分解 d/i/morf/ism/o
+di/morf/a⟦二ᴰᴵ/形ᴹ/a⟧:【PIV】= duforma.##偽分解##過細分解 d/i/morf/a
+di/morf/ec/o⟦二ᴰᴵ/形ᴹ/性/o⟧:【PIV】= duformeco.##偽分解##過細分解 d/i/morf/ec/o
+di/morf/ism/o⟦二ᴰᴵ/形ᴹ/主义/o⟧:【PIV】= duformismo.##偽分解##過細分解 d/i/morf/ism/o
 Dinar/a:【PIV】Rilata al la U regiono de Balkanoj: la Dinaraj Alpoj (16°30′E, 44°N).
 ding/o⟦兽ᴰ/o⟧:【動】【PIV】Sovag^a Au^stralia hundo (Canis lupus dingo), el la g. (genro) kaniso, enkondukita antau^ c^. (c^irkau^) 4000 j.
 dinornit/form/aj⟦恐鸟/形/aj⟧:【動】【PIV】Ordo (Dinornithiformes) de ekstermitaj, grandegaj, senkarinaj birdoj.
@@ -47380,7 +47380,7 @@ eritr/o/poez/in/o⟦红ᴱ/o/生ᴾ/in/o⟧:【PIV】Poezino, stimulanta la prod
 eritroz/o:【化】【PIV】1 Kvar-karbonatoma sukero, aldotetrozo, C 4 H 8 O 4. 2【医】 Stato de rug^ig^o de hau^to k de mukmembranoj, speciale pro troo de eritrocitoj en la sango.
 Erivan/o:【PIV】= Erevano.
 erizif/o⟦菌ᴱᴿ/o⟧:【植】【PIV】G. (Genro) (Erysiphe el erizifacoj), kosmopolita, de c^. (c^irkau^) 170 sp-oj (specioj) de mikroskopaj askofungoj, estigantaj melduon.
-erizif/al/oj⟦菌ᴱᴿ/向/oj⟧:【植】【PIV】Ordo (Erysiphales el askomikotoj) de fungoj, estigantaj melduon sur tre diversaspeciaj vaskulplantoj k kies neperfekta formo estas ojdio; c^. (c^irkau^) 520 sp-oj (specioj) el 18 g-oj (genroj) el nur unu fam. (familio) (erizifacoj).##偽分解(PIV正式分解)##過細分解 erizif/a/l/oj
+erizif/al/oj⟦菌ᴱᴿ/al/oj⟧:【植】【PIV】Ordo (Erysiphales el askomikotoj) de fungoj, estigantaj melduon sur tre diversaspeciaj vaskulplantoj k kies neperfekta formo estas ojdio; c^. (c^irkau^) 520 sp-oj (specioj) el 18 g-oj (genroj) el nur unu fam. (familio) (erizifacoj).##偽分解(PIV正式分解)##過細分解 erizif/a/l/oj
 erizipel/a⟦丹毒/a⟧:【PIV】Rilatanta au^ similanta erizipelon.
 Erlang/o:【PIV】Dana matematikisto (A. K. Erlang, 1878−1929).
 ermit/a⟦隐/a⟧:【PIV】Rilata al ermito: vivi ermitan vivon.
@@ -47677,7 +47677,7 @@ femur/ing/o⟦股ᶠ/座/o⟧:【PIV】1 Parto de la armaj^o, kiu s^irmis la fem
 femur/ost/a⟦股ᶠ/骨/a⟧:【PIV】Rilata al la femurosto: femurosta kapo, kolo.
 fen/il/o⟦fen/基/o⟧:【化】【PIV】Radiko unuvalenta de benzeno, C 6 H 5 -.##偽分解(PIV正式分解)##過細分解 f/e/n/il/o
 fenilen/o:【化】【PIV】Radiko duvalenta, -C 6 H 4 - (ark. (arkaismo, arkaisme) escepte en la nomoj de kelkaj industriaj kemiaj^oj): fenilendiamino, H 2 N-C 6 H 4-NH 2 (diaminobenzeno, kruda materialo por la fabrikado de farboj, plastoj, k.a. (kaj aliaj)).
-fen/ol/at/o⟦焚风/ol/盐ᴬ/o⟧:【PIV】Metalkombinaj^o de feno.##偽分解(PIV正式分解)##過細分解 f/e/n/o/l/at/o
+fen/ol/at/o⟦fen/ol/盐ᴬ/o⟧:【PIV】Metalkombinaj^o de feno.##偽分解(PIV正式分解)##過細分解 f/e/n/o/l/at/o
 fenacetin/o:【化】【PIV】Antifebra medikamento, C 6 H 4 (OC 2 H 5)(NHCOCH 3).
 fenantren/o:【化】【PIV】Tricikla aromata hidrokarbono, C 14 H 10.
 fenciklidin/o:【PIV】Anestezaj^o, uzata ankau^ kiel drogo pro halucinaj ecoj.
@@ -47919,7 +47919,7 @@ foli/ec/a⟦叶/性/a⟧:【植】【PIV】Havanta unu au^ kelkajn el la ecoj de
 foli/eg/o⟦叶/巨/o⟧:【PIV】Papera peco, en formo de ortangulo, de dimensioj iom diversaj lau^ la fabrikantoj, kiun oni faldas du, kvar ktp (kaj tiel plu) fojojn, por ricevi la diversajn formatojn.
 kvin/foli/o⟦五/叶/o⟧:【PIV】Fantazia folio el tri, kvar, kvin… folieroj, kunigitaj en unu centro.
 foliant/o:【PIV】1 Foliego, kiun oni faldas unufoje, por fari kvar presitajn pag^ojn. 2 Libro de tia formato: la foliantoj de S^ekspiro.
-folikl/in/o⟦囊ᶠ/女/o⟧:【生】【PIV】Oestrono.##偽分解(PIV正式分解)
+folikl/in/o⟦囊ᶠ/in/o⟧:【生】【PIV】Oestrono.##偽分解(PIV正式分解)
 folikl/it/o⟦囊ᶠ/炎ᵀ/o⟧:【医】【PIV】Inflamo de foliklo.##偽分解
 folikulin/o:【PIV】= oestrono.
 foliot/o⟦菌ᶠᴸ/o⟧:【植】【PIV】G. (Genro) (Pholiota el strofariacoj) de bazidifungoj kun lamenohava, skvama c^apelo k kun skvama k/au^ ringohava stipo; c^. (c^irkau^) 50 sp-oj (specioj), precipe el la mezvarmaj regionoj; multaj sp-oj (specioj) lignolog^aj.
@@ -49134,8 +49134,8 @@ homili/o:【キ】【PIV】Prediko pri bibliaj tekstoj k temoj.
 homo/fon/o⟦同ᴴ/声ᶠᴼ/o⟧:【語】【PIV】Morfemo au^ vorto foneme identa kun alia morfemo au^ vorto. Vd homonimo.##偽分解(PIV正式分解)
 homo/kromi/o⟦同ᴴ/色ᴷᴵ/o⟧:【動】【PIV】Adaptig^o de kelkaj animaloj al la medio, kiuj farig^as pli-malpli samkoloraj kiel g^i k sekve malfacile videblaj: homokromio de kameleono. Vd mimetismo.##偽分解(PIV正式分解)
 homo/logi/o⟦同ᴴ/学ᴸᴳ/o⟧:【数】【PIV】1 Strukturo konstruita el nehomologaj cikloj. 2 Branc^o de la matematiko, kie oni studas homologion 1.##偽分解
-homo/morf/a⟦同ᴴ/形ᴹ/a⟧:【数】【PIV】(pp (se paroli pri) strukturo) Tia, ke g^i konservas certajn ecojn de alia strukturo: la cirklo estas homomorfa bildo de rekto, se ambau^ estas rigardataj kiel grupoj.##偽分解(PIV正式分解)
-homo/morf/o⟦同ᴴ/形ᴹ/o⟧:【PIV】La eco esti homomorfa.##偽分解(PIV正式分解)
+homo/morf/a⟦同ᴴ/形ᴹ/a⟧:【数】【PIV】(pp (se paroli pri) strukturo) Tia, ke g^i konservas certajn ecojn de alia strukturo: la cirklo estas homomorfa bildo de rekto, se ambau^ estas rigardataj kiel grupoj.##偽分解
+homo/morf/o⟦同ᴴ/形ᴹ/o⟧:【PIV】La eco esti homomorfa.##偽分解
 homo/morfi/o⟦同ᴴ/形ᴹᴵ/o⟧:【PIV】(pp (se paroli pri) grupo, ringo ktp (kaj tiel plu)) Bildigo, kiu respektas la koncernajn strukturojn: homomorfio de ringoj konservas k la adicion k la multiplikon.##偽分解(PIV正式分解)
 homo/morfi/a⟦同ᴴ/形ᴹᴵ/a⟧:【PIV】Rilata al homomorfio; estanta homomorfio.##偽分解(PIV正式分解)
 homo/pter/oj⟦同ᴴ/翅/oj⟧:【動】【PIV】Grupo (eksa ordo Homoptera) de insektoj kun g^enerale kvar membranecaj flugiloj, ampleksanta la hemipterojn escepte de la heteropteroj: afido, cikado, koc^o estas homopteroj.##偽分解##エス的分解
@@ -49595,8 +49595,8 @@ izo/metr/a⟦等ᴵ/米/a⟧:【数】【PIV】(pp (se paroli pri) metrika spaco
 izo/metr/o⟦等ᴵ/米/o⟧:【PIV】La eco esti izometra.##偽分解(PIV正式分解)
 izo/metri/o⟦等ᴵ/测ᴹᵀ/o⟧:【PIV】Bijekcio, kiu konservas c^iujn distancojn.##偽分解
 izo/metri/a⟦等ᴵ/测ᴹᵀ/a⟧:【PIV】Rilata al izometrio; estanta izometrio.##偽分解
-izo/morf/o⟦等ᴵ/形ᴹ/o⟧:【数】【地質】【化】【PIV】La eco esti izomorfa: pruvi la izomorfon de du grupoj.##偽分解(PIV正式分解)
-izo/morf/ec/o⟦等ᴵ/形ᴹ/性/o⟧:【数】【地質】【化】【PIV】La eco esti izomorfa: pruvi la izomorfon de du grupoj.##偽分解(PIV正式分解)
+izo/morf/o⟦等ᴵ/形ᴹ/o⟧:【数】【地質】【化】【PIV】La eco esti izomorfa: pruvi la izomorfon de du grupoj.##偽分解
+izo/morf/ec/o⟦等ᴵ/形ᴹ/性/o⟧:【数】【地質】【化】【PIV】La eco esti izomorfa: pruvi la izomorfon de du grupoj.##偽分解
 izo/morfi/o⟦等ᴵ/形ᴹᴵ/o⟧:【数】【PIV】Bijekcio, kiu kune kun sia inverso konservas c^iujn studatajn ecojn de strukturo.##偽分解(PIV正式分解)
 izo/morfi/a⟦等ᴵ/形ᴹᴵ/a⟧:【PIV】Rilata al izomorfio; estanta izomorfio.##偽分解(PIV正式分解)
 izo/pod/oj⟦等ᴵ/足ᴾᴼ/oj⟧:【動】【PIV】Ordo (Isopoda) de krustacoj, el la subklaso de malakostrakoj, dorsoventre plataj. Vd amfipodoj.##偽分解
@@ -51956,7 +51956,7 @@ metaleps/o:【PIV】Esprimo de koncepto per nerekta rilato, ekz. (ekzemple): «s
 metal/o/grafi/o⟦金ᴹ/o/志ᴳ/o⟧:【PIV】Scienco pri la metaloj.##偽分解
 meta/mer/o⟦超ᴹ/链节/o⟧:【動】【PIV】1 Segmento 2. 2【生】 Segmento de embrio.##偽分解(PIV正式分解)
 meta/mer/ec/o⟦超ᴹ/链节/性/o⟧:【PIV】Segmenteco.##偽分解(PIV正式分解)
-meta/morf/ig^/i⟦超ᴹ/形ᴹ/成/i⟧:【PIV】Ig^i metamorfa: el metamorfig^o rezultas perdo de akvo, dum el alteraciig^o rezultas gajno de akvo.##偽分解(PIV正式分解)
+meta/morf/ig^/i⟦超ᴹ/形ᴹ/成/i⟧:【PIV】Ig^i metamorfa: el metamorfig^o rezultas perdo de akvo, dum el alteraciig^o rezultas gajno de akvo.##偽分解
 meta/staz/o⟦超ᴹ/滞ˢᶻ/o⟧:【医】【PIV】Kancerrecidivo en alia korpoparto.##偽分解(PIV正式分解)
 meta/tars/a⟦超ᴹ/足根/a⟧:【PIV】Rilata al metatarso. Vd metakarpo.##偽分解(PIV正式分解)
 meta/zo/o⟦超ᴹ/兽ᶻ/o⟧:【動】【PIV】Plurc^ela, hista animalo.##偽分解##エス的分解
@@ -52210,7 +52210,7 @@ Morfe/o:【PIV】Dio de la dormo k de la song^oj.
 morfem/ik/o⟦语素/学ᴵ/o⟧:【PIV】Morfologio.
 morfem/o/scienc/o⟦语素/o/科/o⟧:【PIV】Morfologio.
 morfi/o⟦形ᴹᴵ/o⟧:【数】【PIV】Baza koncepto en la teorio pri kategorioj, en la plej gravaj kazoj responda al bildigo de certa tipo.
-morf/o/genez/o⟦形ᴹ/o/源ᴳ/o⟧:【生】【PIV】Estig^o k disvolvig^o de la organoj dum la embria vivo. Vd embriogenezo.##偽分解(PIV正式分解)
+morf/o/genez/o⟦形ᴹ/o/源ᴳ/o⟧:【生】【PIV】Estig^o k disvolvig^o de la organoj dum la embria vivo. Vd embriogenezo.##偽分解
 Morgan/o:【PIV】Usona biologo (T. Morgan, 1866−1945).
 morganat/a:【法】【PIV】Adj. kvalifikanta 1 la geedzig^on inter persono de reg^a au^ nobela rango k persono de nenobela rango, en kiu nek la nenobela persono nek la infanoj naskitaj en tiu geedzeco ricevas nobelajn titolojn au^ rajtojn. 2 la rezultantan geedzecon k la koncernatan edz(in)on.
 mort/ec/o⟦死/性/o⟧:【PIV】Eco de io, kio estas mortema: la morteco de la civilizo.
@@ -52259,7 +52259,7 @@ muget/o:【医】【PIV】Erupcio de blankaj platoj, precipe sur la bus^a mukozo
 mugil/oid/oj⟦鱼ᴹᴳ/似ᴼ/oj⟧:【動】【PIV】Subordo (Mugiloides) de teleosteaj fis^oj, ampleksanta i.a. (interalie, inter aliaj) la mugilojn.
 mug^/o⟦吼/o⟧:【PIV】Tia bleko au^ sono.
 mukor/o⟦菌ᴹᴿ/o⟧:【植】【PIV】G. (Genro) (Mucor el mukoracoj el zigomicetoj) de mikroskopaj fungoj, kies sporoj produktig^as en globforma sporujo portata de pedunkleto simpla au^ branc^a; kosmopolita g. (genro) de c^. (c^irkau^) 50 sp-oj (specioj) oftaj sur putrantaj substancoj, ekz. (ekzemple) plantpartoj, malnova pano ks (kaj simile, kaj similaj). see pans^imo.
-mukor/al/oj⟦菌ᴹᴿ/向/oj⟧:【菌】【PIV】Ordo (Mucorales el zigomicetoj) de mikroskopaj, g^enerale saprejaj fungoj; 170 sp-oj (specioj) el 49 g-oj (genroj).##偽分解(PIV正式分解)##過細分解 mukor/a/l/oj
+mukor/al/oj⟦菌ᴹᴿ/al/oj⟧:【菌】【PIV】Ordo (Mucorales el zigomicetoj) de mikroskopaj, g^enerale saprejaj fungoj; 170 sp-oj (specioj) el 49 g-oj (genroj).##偽分解(PIV正式分解)##過細分解 mukor/a/l/oj
 muk/oz/aj^/o⟦粘/症ᴼ/物/o⟧:【PIV】Amaso da viskeca substanco kiu tegas iujn mukozojn, k konsistas precipe el muko, sed ankau^ el deskvamig^intaj c^eloj k mikroboj.
 mukr/o:【植】【PIV】(mucro) Mallonga, rigida pinto c^e la apekso de organo, i.a. (interalie, inter aliaj) folio, petalo au^ sepalo.
 muleta/o:【PIV】Rug^a tuko, ligita al bastono k uzata de matadoro dum tau^robatalo por instigi la tau^ron al difinitaj alkuroj.
@@ -53658,9 +53658,9 @@ Polikrat/o:【PIV】Tirano de Samoso (6a jc (jarcento) a.K. (antau^ Kristo)).
 polikro/a⟦多色ᴾᴼ/a⟧:【PIV】= pleokroa.
 Poliksen/o:【PIV】Filino de Priamo, oferita sur la tombo de Ah^ilo.
 Polimni/o:【PIV】Muzo de liriko.
-poli/morf/a⟦多ᴾ/形ᴹ/a⟧:【PIV】= plurforma.##偽分解(PIV正式分解)
-poli/morf/ec/o⟦多ᴾ/形ᴹ/性/o⟧:【PIV】= plurformeco, plurformismo.##偽分解(PIV正式分解)
-poli/morf/ism/o⟦多ᴾ/形ᴹ/主义/o⟧:【PIV】= plurformeco, plurformismo.##偽分解(PIV正式分解)
+poli/morf/a⟦多ᴾ/形ᴹ/a⟧:【PIV】= plurforma.##偽分解
+poli/morf/ec/o⟦多ᴾ/形ᴹ/性/o⟧:【PIV】= plurformeco, plurformismo.##偽分解
+poli/morf/ism/o⟦多ᴾ/形ᴹ/主义/o⟧:【PIV】= plurformeco, plurformismo.##偽分解
 Polinik/o:【PIV】Frato de Eteoklo, mortigita de li.
 poli/nukle/a⟦多ᴾ/核ᴺ/a⟧:【生】【PIV】(pp (se paroli pri) c^elo) S^ajne plurnuklea pro nukleo profunde divida en plurajn lobojn.##偽分解(PIV正式分解)
 poliplektr/o⟦鸟ᴾᴼᴸ/o⟧:【動】【PIV】G. (Genro) (Polyplectron), tre parenca al fazano, de birdoj kun 2 au^ 3 ergotoj sur c^iu tarso; vivas en Azio. Sin. (sinonimo) pavofazano.
@@ -53983,8 +53983,8 @@ mirobolan-prunus/o⟦mirobolan-李ᴾˢ/o⟧:【PIV】(P. cerasifera, sin. (sino
 prurit/o:【医】【PIV】Jukado sen dermatozo.
 prus/ig/i⟦prus/使/i⟧:【PIV】Trudi al gento la prusajn metodojn de administracio, germanan lingvon ktp (kaj tiel plu).
 psamit/o:【地質】【PIV】Detrita sedimenta petro, koherig^inta au^ ne, konsistanta el detritoj 0,05−2 mm (milimetro(j)) dimensiaj. Vd argilo, grau^vako, sablopetro, sablo, silto.
-pseu^do/morf/a⟦伪ᴾ/形ᴹ/a⟧:【地質】【PIV】(pp (se paroli pri) mineralo) Alpreninta kristalan strukturon de anstatau^ita kristalo.##偽分解(PIV正式分解)
-pseu^do/morf/ig^/i⟦伪ᴾ/形ᴹ/成/i⟧:【PIV】Ig^i pseu^domorfa: olivino pseu^domorfig^as al serpenteno.##偽分解(PIV正式分解)
+pseu^do/morf/a⟦伪ᴾ/形ᴹ/a⟧:【地質】【PIV】(pp (se paroli pri) mineralo) Alpreninta kristalan strukturon de anstatau^ita kristalo.##偽分解
+pseu^do/morf/ig^/i⟦伪ᴾ/形ᴹ/成/i⟧:【PIV】Ig^i pseu^domorfa: olivino pseu^domorfig^as al serpenteno.##偽分解
 pseu^do/morf/ism/o⟦伪ᴾ/形ᴹ/主义/o⟧:【PIV】Pseu^domorfig^a procezaro. Vd epigenezo.##偽分解
 pseu^do/nim/a⟦伪ᴾ/名ᴺᴵ/a⟧:【PIV】Prezentita sub pseu^donimo: pseu^donima verko. Vd anonima.##偽分解
 pseu^do/pod/o⟦伪ᴾ/足ᴾᴼ/o⟧:【動】【生】【PIV】Pseu^dopiedo.##偽分解
@@ -54406,7 +54406,7 @@ rigard/ul/o⟦看/者/o⟧:【PIV】Z. Homo, kiu voluptocele s^atas rigardi erot
 rigl/ad/o⟦栓ᴿ/行/o⟧:【PIV】Agado de tiu, kiu riglas: c^iuvespere li certig^is pri la riglado de c^iuj aperturoj; riglado per alproksimig^o (au^tomata procedo, per kiu, c^e trakveturilo alproksimig^anta al signalilo, c^iuj regorganoj estas riglataj).
 rikeci/o:【生】【PIV】G. (Genro) (Rickettsia el rikecialoj) de eu^bakterioj, patogenaj i.a. (interalie, inter aliaj) al la homo.
 rikeci/oj:【PIV】Rikecialoj.
-rikeci/al/oj⟦rikeci/向/oj⟧:【PIV】Ordo (Rickettsiales) de diversformaj malgrandaj eu^bakterioj, enc^elaj parazitoj de vertebruloj.##偽分解(PIV正式分解)##過細分解 rikeci/a/l/oj
+rikeci/al/oj:【PIV】Ordo (Rickettsiales) de diversformaj malgrandaj eu^bakterioj, enc^elaj parazitoj de vertebruloj.##偽分解(PIV正式分解)##過細分解 rikeci/a/l/oj
 rikeci/oz/oj⟦rikeci/症ᴼ/oj⟧:【医】【PIV】Diversaj tifoj, kau^zataj de sp-oj (specioj) de rikecio.
 rikur/i⟦递归/i⟧:【数】【情】【PIV】(pp (se paroli pri) difino au^ komputika proceduro) Referenci al si mem.
 rikur/o⟦递归/o⟧:【PIV】1 Vokado de proceduro dum plenumado de tiu sama proceduro: rikuro estas karakteriza por funkciema programado. 2 Procedo, kiu difinas funkcion per uzo de la sama funkcio, au^ difinas nocion, uzante la saman difinon en pli simpla formo. Vd indukto.
@@ -54790,7 +54790,7 @@ sek/ig/ej/o⟦干/使/所/o⟧:【PIV】C^ambro, en kiu oni sekigas lavitan tola
 sek/ig/aj^/o⟦干/使/物/o⟧:【化】【PIV】Substanco kun sekigaj ecoj, ekz. (ekzemple) kalcia klorido, CaCl 2, magnezia sulfato, MgSO 4, fosfora oksido, P 4 O 10, silica g^elo.
 seki/o⟦瓜ˢ/o⟧:【植】【PIV】G. (Genro) (Sechium el kukurbacoj) de 6 sp-oj (specioj) de tropik-Amerikaj plantoj, el kiuj c^ajoto (S. edule).
 sekreci/aj^/o⟦泌/物/o⟧:【PIV】1 Substanco sekreciita. 2 Organika substanco, pli-malpli likva, produktata de iuj vegetaj^aj c^eloj, haroj, c^elsakoj, glandoj, kanaloj. Vd esenco.
-sekreci/in/o⟦泌/女/o⟧:【生】【PIV】Sekretino.##偽分解(PIV正式分解)
+sekreci/in/o⟦泌/in/o⟧:【生】【PIV】Sekretino.##偽分解(PIV正式分解)
 sekret/aj^/o⟦秘/物/o⟧:【PIV】Afero sekreta: estos tre amuze, c^ar la edzo ec^ ne suspektos la sekretaj^ojn .
 sekret/ec/o⟦秘/性/o⟧:【PIV】Eco de io sekreta: protekti la sekretecon de la konsilig^oj.
 sekretari/ec/o⟦秘ˢᴿ/性/o⟧:【PIV】Funkcio, rango de sekretario.
@@ -55319,7 +55319,7 @@ spirit/ec/o⟦灵/性/o⟧:【PIV】Eco de tio, kio estas spirito: la spiriteco 
 spirit/for/est/o⟦灵/离/是/o⟧:【PIV】= konscimanko, memormanko (Vd (vidu) manko).
 spirit/mank/o⟦灵/缺/o⟧:【PIV】= konscimanko, memormanko (Vd (vidu) manko).
 spiroket/oj⟦螺旋体/oj⟧:【PIV】Spiroketaloj.
-spiroket/al/oj⟦螺旋体/向/oj⟧:【PIV】Ordo (Spirochaetales) de helicoidaj eu^bakterioj, movig^emaj per du au^ pluraj lau^longaj, internaj flageloj; inkludas la parazitajn g-ojn spiroketo, borelio, leptospiro k treponemo. Vd spiriloj.##偽分解(PIV正式分解)##過細分解 spiroket/a/l/oj
+spiroket/al/oj⟦螺旋体/al/oj⟧:【PIV】Ordo (Spirochaetales) de helicoidaj eu^bakterioj, movig^emaj per du au^ pluraj lau^longaj, internaj flageloj; inkludas la parazitajn g-ojn spiroketo, borelio, leptospiro k treponemo. Vd spiriloj.##偽分解(PIV正式分解)##過細分解 spiroket/a/l/oj
 spiroket/oz/o⟦螺旋体/症ᴼ/o⟧:【医】【PIV】(kn (kolektiva nomo)) Malsano kau^zata de patogena spiroketalo: sifiliso, frambezio estas spiroketozoj.
 spirulin/o:【生】【PIV】G. (Genro) (Spirulina) de movig^emaj helicoidaj cianobakterioj, maraj au^ dolc^akvaj, el kiuj iu sp., saltolera, rapidkreska k tre ric^a je proteinoj, estas uzata en la homa nutrado.
 spit!:【PIV】Interj. (Interjekcio), esprimanta defion: vi ne kurag^os pinc^i al li la barbon! - spit!
@@ -56636,7 +56636,7 @@ urb/an/iz/ist/o⟦市/员ᴬ/化/家/o⟧:【PIV】Arkitekto, specialigita en la
 ure/az/o⟦尿素/az/o⟧:【化】【PIV】Enzimo de iuj bakterioj, kiu malkomponas ureon al karbondioksido k amoniako.##偽分解(PIV正式分解)
 ure/emi/o⟦尿素/血ᴱ/o⟧:【生】【PIV】Enesto de ureo en la sango, uzata por taksi uremion.##偽分解(PIV正式分解)
 ured/o⟦锈ᵁ/o⟧:【植】【PIV】1 Eksa formgenro (Uredo), nomenklature ne legitima. 2 Grupo de neperfektaj uredaloj, karakterizataj de uredujo produktanta uredosporojn; precipe tropika grupo de c^. (c^irkau^) 500 sp-oj (specioj).
-ured/al/oj⟦锈ᵁ/向/oj⟧:【PIV】Ordo de mikroskopaj fungoj (Uredinales el bazidimikotoj) parazitaj al vaskulplantoj, havantaj spermatiojn au^ sporojn, kiuj c^e la unuopaj sp-oj (specioj) apartenas al unu g^is kvin el la jenaj stadiformoj: O-formo au^ spermatiuj-formo, I-formo au^ eci-formo, II-formo au^ uredosporuj-formo, III-formo au^ teli-formo k IV-formo au^ bazidi-formo; la vivociklo povas lau^ la sp-oj (specioj) okazi c^e nur unu parazitata planto au^ alterne, iuj stadioj sur unu planto, aliaj sur diferenca planto; c^. (c^irkau^) 7 000 sp-oj (specioj) el 164 g-oj (genroj). Sin. (sinonimo) rustofungoj.##偽分解(PIV正式分解)##過細分解 ured/a/l/oj
+ured/al/oj⟦锈ᵁ/al/oj⟧:【PIV】Ordo de mikroskopaj fungoj (Uredinales el bazidimikotoj) parazitaj al vaskulplantoj, havantaj spermatiojn au^ sporojn, kiuj c^e la unuopaj sp-oj (specioj) apartenas al unu g^is kvin el la jenaj stadiformoj: O-formo au^ spermatiuj-formo, I-formo au^ eci-formo, II-formo au^ uredosporuj-formo, III-formo au^ teli-formo k IV-formo au^ bazidi-formo; la vivociklo povas lau^ la sp-oj (specioj) okazi c^e nur unu parazitata planto au^ alterne, iuj stadioj sur unu planto, aliaj sur diferenca planto; c^. (c^irkau^) 7 000 sp-oj (specioj) el 164 g-oj (genroj). Sin. (sinonimo) rustofungoj.##偽分解(PIV正式分解)##過細分解 ured/a/l/oj
 ured/o/spor/uj/o⟦锈ᵁ/o/胞子/器/o⟧:【PIV】Sporujo de uredo, produktanta uredsporojn. Vd ecio, telio.
 uretan/o:【化】【PIV】NH 2-COO-R (en kiu R= radiko), estero de karbamata acido (NH 2-COOH).
 ureus/o:【史】【PIV】Kapvesto de egiptaj dioj k reg^oj, en formo de kobro.
@@ -56657,7 +56657,7 @@ uskl/o⟦字ᵁ/o⟧:【情】【PIV】«Minusklo au^ majusklo».
 usne/o⟦菌ᵁ/o⟧:【植】【PIV】G. (Genro) (Usnea el parmeliacoj) kosmopolita de c^. (c^irkau^) 600 sp-oj (specioj) de arbustecaj askolikenoj. -> tilandsio.
 ustas^/o:【政】【PIV】Kroata naciisma batalanto: estis la tempo de regado de ustas^oj, de la Sendependa S^tato Kroatio ^t. Vd fas^ismo 2.
 ustilag/o⟦菌ᵁᵀ/o⟧:【植】【PIV】G. (Genro) (Ustilago el ustilagaloj) de mikroskopaj, parazitaj fungoj, kau^zantaj multajn gravajn malsanojn al vaskulplantoj, precipe al poacoj, ofte transformante iliajn grajnojn en nigran fungan sporpolvon; kosmopolita g. (genro) de c^. (c^irkau^) 350 sp-oj (specioj). -> smuto, antrakso.
-ustilag/al/oj⟦菌ᵁᵀ/向/oj⟧:【菌】【PIV】Ordo (Ustilaginales el ustilagomicetoj el bazidimikotoj) de mikroskopaj bazidifungoj, kun la c^efaj karakteroj de ustilago.##偽分解(PIV正式分解)##過細分解 ustilag/a/l/oj
+ustilag/al/oj⟦菌ᵁᵀ/al/oj⟧:【菌】【PIV】Ordo (Ustilaginales el ustilagomicetoj el bazidimikotoj) de mikroskopaj bazidifungoj, kun la c^efaj karakteroj de ustilago.##偽分解(PIV正式分解)##過細分解 ustilag/a/l/oj
 utaj/o:【PIV】1 Teksto de noo, k g^ia c^antado. 2 Arto de tia c^antado.
 uter/it/o⟦宫ᵁ/炎ᵀ/o⟧:【医】【PIV】Inflama afekcio de la utero.##偽分解
 Utik/o:【史】【PIV】Antikva urbo apud Kartago, kie mortigis sin Katono (10°06′E, 37°03′N).
@@ -57038,7 +57038,7 @@ Zohar/o:【PIV】Kabala libro, verkita en aramea lingvo c^. (c^irkau^) la 14a jc
 Zoil/o:【PIV】Helena sofisto, au^toro de akraj kritikoj pri Homero (4a jc (jarcento) a.K. (antau^ Kristo)).
 zon/et/o⟦带/小/o⟧:【解】【PIV】Sistemo de travidaj subtenfibretoj, kiuj c^irkau^tenas la kristalinon k estas strec^ataj de la ciliara korpo: ciliara zoneto (zonula ciliaris).
 zonul/o⟦带ᶻᴸ/o⟧:【PIV】= zoneto.
-zo/o/morf/a⟦兽ᶻ/o/形ᴹ/a⟧:【PIV】Zooforma.##偽分解(PIV正式分解)
+zo/o/morf/a⟦兽ᶻ/o/形ᴹ/a⟧:【PIV】Zooforma.##偽分解
 zulu/o:【PIV】Ano de gento de au^strala Afriko.
 zum/a⟦嗡/a⟧:【PIV】Rilata al zumado: el zuma fono distingig^is akra voc^eto.
 zum/oj⟦嗡/oj⟧:【PIV】Bruo de iu, io zumanta: orelaj zumoj (pro malsaneco); la zumado de la insektoj en la herbejo; la senc^esa zumado de la virinaj langoj c^irkau^ la akus^intino; zumado de radioricevilo (pro la fortaj kurentoj de proksime funkcianta aparato).
@@ -57682,7 +57682,7 @@ met/an/bakteri/oj⟦置/an/菌ᴮ/oj⟧:【PIV】Grupo de prabakterioj, kiuj pro
 purpur/bakteri/oj⟦紫/菌ᴮ/oj⟧:【PIV】Grupo de fotosintezaj eu^bakterioj, kun bakterioklorofilo k rug^a pigmento: sulfuraj purpur bakterioj (aernetoleraj, oksidantaj sulfidojn al sulfuro) , nesulfuraj purpur bakterioj (aertoleraj).
 sal/eg/bakteri/oj⟦盐/巨/菌ᴮ/oj⟧:【PIV】Grupo de prabakterioj kreskantaj en ege salaj akvoj (120−300 g/l da natria klorido).
 sapr/o/bakteri/o⟦腐ˢᴿ/o/菌ᴮ/o⟧:【生】【PIV】Bakterio, vivanta nur el sapro, sed povanta vegeti en organismo sen malutilo por c^i tiu: iuj sapro bakterioj povas sub iuj kondic^oj farig^i patogenaj. Sin. (sinonimo) saprofito 2.
-tio/bakteri/o⟦tio/菌ᴮ/o⟧:【PIV】G. (Genro) (Thiobacterium) de acidtoleraj eu^bakterioj, kiuj produktas energion per oksidado de sulfuro au^ tiosulfato al sulfato. Vd tiobacilo.##偽分解##過細分解 t/i/o/bakteri/o
+tio/bakteri/o⟦tio/菌ᴮ/o⟧:【PIV】G. (Genro) (Thiobacterium) de acidtoleraj eu^bakterioj, kiuj produktas energion per oksidado de sulfuro au^ tiosulfato al sulfato. Vd tiobacilo.##偽分解(PIV正式分解)##過細分解 t/i/o/bakteri/o
 varm/bakteri/oj⟦暖/菌ᴮ/oj⟧:【PIV】Grupo de eu^bakterioj kreskantaj en la profundaj k varmaj subakvaj sedimentoj.
 varm/eg/bakteri/oj⟦暖/巨/菌ᴮ/oj⟧:【PIV】Grupo de prabakterioj kreskantaj en ege varmaj (80−105 °C (celsia(j) grado(j))), akvoj.
 verd/bakteri/oj⟦绿/菌ᴮ/oj⟧:【PIV】Grupo de fotosintezaj eu^bakterioj, aernetoleraj, kun bakterioklorofilo, sen rug^a pigmento, oksidantaj sulfidojn al sulfuro k eventuale al sulfato.
@@ -58334,7 +58334,7 @@ mal/felic^/eg/o⟦反/幸/巨/o⟧:【PIV】Ekstrema malfelic^o. Vd katastrofo.
 mal/felic^/ig/i⟦反/幸/使/i⟧:【PIV】Fari iun malfelic^a.
 mal/felic^/ul/o⟦反/幸/者/o⟧:【PIV】Homo malfelic^a: ho ve, mi malfelic^ulo! ; helpi al la malfelic^uloj.
 s^af/femur/aj^/o⟦羊/股ᶠ/物/o⟧:【PIV】Femuro de s^afo, preparita por la mang^o. Sin. (sinonimo) s^afklabo.
-di/met/oksi/fen/ol/o⟦神/置/氧/焚风/ol/o⟧:【PIV】Gvajakolo.##偽分解(PIV正式分解)##過細分解 d/i/m/e/t/oksi/f/e/n/o/l/o
+di/met/oksi/fen/ol/o⟦神/置/氧/fen/ol/o⟧:【PIV】Gvajakolo.##偽分解(PIV正式分解)##過細分解 d/i/m/e/t/oksi/f/e/n/o/l/o
 poli/klor/bi/fen/il/o⟦多ᴾ/氯/二ᴮ/fen/基/o⟧:【化】【生態】【PIV】Sintezita substanco, uzata i.a. (interalie, inter aliaj) en kondensatoroj, kiu estas tre persista en la medio k i.a. (interalie, inter aliaj) perturbas la reproduktig^on de fokoj.##偽分解(PIV正式分解)##過細分解 poli/klor/bi/f/e/n/il/o
 tio/fen/ol/o:【化】【PIV】C 6 H 5-SH.##偽分解(PIV正式分解)##過細分解 t/i/o/f/e/n/o/l/o
 dis/fend/o⟦散/裂ᶠ/o⟧:【PIV】Larg^a fendo: disfendo en roko; (f (figurasence)) disfendo en partio. Vd skismo.
@@ -58676,7 +58676,7 @@ kern/o/frukt/o⟦核/o/果/o⟧:【PIV】Drupo.
 mar/frukt/oj⟦海/果/oj⟧:【料】【PIV】(metafore lau^ frukto 3) Diversaj mang^eblaj maraj moluskoj k krustuloj.
 s^ajn/frukt/o⟦像/果/o⟧:【植】【PIV】Frukto, devenanta el la kunig^o de la karpeloj de unu (simpla s^ajn frukto) au^ pluraj (kunmeta s^ajn frukto) floroj kun aliaj organoj (i.a. (interalie, inter aliaj) kaliko, korolo, receptaklo), kiuj konsistigas gravan parton de la frukto; ekz. (ekzemple) ananaso (kunmeta s^ajn frukto), frago, pomo (simplaj s^ajn fruktoj). Sin. (sinonimo) pseu^do frukto.
 spor/o/frukt/o⟦胞子/o/果/o⟧:【植】【PIV】Sporujo de la miksomikotoj.
-fen/ol/ftalein/o⟦焚风/ol/ftalein/o⟧:【PIV】Plej simpla, tricikla ftaleino, uzata kiel acid-alkala indikanto k laksiganto.##偽分解(PIV正式分解)##過細分解 f/e/n/o/l/ftalein/o
+fen/ol/ftalein/o:【PIV】Plej simpla, tricikla ftaleino, uzata kiel acid-alkala indikanto k laksiganto.##偽分解(PIV正式分解)##過細分解 f/e/n/o/l/ftalein/o
 kolizi/fug^/int/o⟦撞/逃/过/o⟧:【PIV】Tiu au^tokondukanto, kiu, koliziinte kun io au^ iu, fug^as por eviti la sekvojn.
 ek/fulm/i⟦始/闪/i⟧:【PIV】Abrupte fulmi.
 el/fum/i⟦出/烟/i⟧:【PIV】(tr (transitiva)) G^isfine fumi 4: mi volus el fumi pipon .
@@ -60543,7 +60543,7 @@ pension/prez/o⟦宿/价/o⟧:【PIV】Monsumo, kiun oni pagas (c^iu-tage, -sema
 nov/primitiv/ul/o⟦新/原ᴾᴹ/者/o⟧:【PIV】Pentristo de la 19a−20a jc (jarcento), strebanta imiti la popolan arton. Sin. (sinonimo) naivisto.
 sem/primordi/o⟦种/原基/o⟧:【PIV】Ovolo 2.
 sang/o/princ/o⟦血/o/侯/o⟧:【PIV】Tiu, kiu devenas de reg^o lau^ la virseksa flanko.
-ripar/pro/cent/o⟦修/因ᴾ/百/o⟧:【PIV】Procento de materialo provizore neuzebla pro difekto.##偽分解
+ripar/pro/cent/o⟦修/pro/百/o⟧:【PIV】Procento de materialo provizore neuzebla pro difekto.##偽分解
 mikro/procesor/o⟦微/处理器/o⟧:【PIV】Integra cirkvito, kiu enhavas tutan procesoron.
 eko/produkt/o⟦境ᴱ/产/o⟧:【生態】【PIV】Produkto, konceptita k fabrikata por ne noci al la medio.
 re/produkt/a⟦再/产/a⟧:【PIV】Rilata al reprodukt(ad)o: produkta bildo ricevita per klis^o.
@@ -61433,7 +61433,7 @@ pas^/o/ten/i⟦步/o/持/i⟧:【PIV】(ntr (netransitiva)) Fari, ke oni egaligu
 pied/ten/o⟦足/持/o⟧:【PIV】Teno de grundo per la piedoj, sufic^a por stari: antau^eniri en la akvon, dum oni havas ankorau^ pied tenon; perdi la pied tenon.
 s^trump/o/ten/il/o⟦袜/o/持/具/o⟧:【PIV】Krurzono au^ j^artelo.
 vest/o/ten/ej/o⟦衣/o/持/所/o⟧:【PIV】Loko, kie oni tenas staplitajn vestojn, ekz. (ekzemple) por soldatoj ks (kaj simile, kaj similaj).
-hipo/tensi/ig/il/o⟦亚/压ᵀ/使/具/o⟧:【医】【PIV】Medikamento, estiganta hipo tension.##偽分解
+hipo/tensi/ig/il/o⟦亚/压ᵀ/使/具/o⟧:【医】【PIV】Medikamento, estiganta hipo tension.##偽分解(PIV正式分解)
 bas/tensi/a⟦低/压ᵀ/a⟧:【電】【PIV】Rilata al malaltaj tensioj: bastensia lineo.
 pus^/tensi/o⟦推/压ᵀ/o⟧:【電】【PIV】Subita ekpligrandig^o de elektra potencialo, kiu okazas ofte dum la funkciado de alttensiaj transsendaj lineoj.
 el/ter/ig^/i⟦出/地/成/i⟧:【PIV】Elig^i el la tero: jam la unuaj s^osoj elterig^is.
@@ -62067,7 +62067,7 @@ Kau^kaz/a:【PIV】Rilata al Kau^kazo: la Kau^kazaj lingvoj.
 Kazimir/o:【PIV】Vira nomo, i.a. (interalie, inter aliaj) de pluraj reg^oj de Pollando.
 ##重複語Kejns/ism/o:【PIV】La ekonomikaj teorioj k programoj de Kejnso, pli specife pledado por monaj k fiskaj programoj, difinitaj de registaro por pligrandigi la dungatecon.
 kipr/o:【PIV】Fis^o, precipe haringo, malfermita per tranc^o c^e la dorsa rando k poste salita k fumaj^ita. Vd gado.
-klement/in/o⟦klement/女/o⟧:【植】【PIV】Frukto tre simila al mandarino, sed malfrue maturig^inta, kun orang^e rug^a s^elo.##偽分解(衝突語)
+klement/in/o:【植】【PIV】Frukto tre simila al mandarino, sed malfrue maturig^inta, kun orang^e rug^a s^elo.##偽分解(衝突語)
 Knid/o:【史】【PIV】Urbo en Kario, kun templo de Afrodito (27°24′E, 36°41′N).
 Knut/o:【PIV】Vira nomo, i.a. (interalie, inter aliaj) de pluraj reg^oj de Danlando.
 kobe/o⟦木ᴷᴮ/o⟧:【植】【PIV】G. (Genro) (Cobaea el polemoniacoj) de grimpaj tufarbustoj kun plume kunmetaj, unuc^iraj folioj, kun unuope akselaj, grandaj floroj, karakterizataj de folieca kaliko k de klos^forma korolo 5-loba; c^. (c^irkau^) 10 sp-oj (specioj) el tropika Ameriko, i.a. (interalie, inter aliaj) la grimpa kobeo (C. scandens) kun unue verdaj, poste violbluaj floroj, indig^ena en Meksiko, pororname kultivata i.a. en mezvarmaj landoj.

@@ -2054,7 +2054,7 @@ antrop/oid/oj:【動】類人猿##偽分解(PIV正式分解)
 antrop/o/logi/o:{Ｏ}人類学##偽分解
 antrop/o/log/o:{Ｏ}人類学者##偽分解
 antrop/o/metri/o:人体測定##偽分解
-antrop/o/morf/ism/o:【哲】神人同形同性論##偽分解(PIV正式分解)
+antrop/o/morf/ism/o:【哲】神人同形同性論##偽分解
 Antverpen/o:【地名】アントワープ（ベルギー）
 Anub/o:【神】アヌビス（古代エジプトの死者の神）
 Anunciaci/o:{Ｏ}【キ】受胎告知;【カ】お告げの祝日（３月２５日）
@@ -7881,7 +7881,7 @@ du/on/litr/o:（容量について）半リットル,５００cc
 du/on/lum/o:薄明り
 du/on/lun/o:【天】半月,=lunduono;（つめの）半月,小づめ;【軍】（城の）半月堡
 du/on/manik/o:【服】半そで
-du/on/meta/morf/oz/a:【虫】不完全変態の##偽分解(PIV正式分解)
+du/on/meta/morf/oz/a:【虫】不完全変態の##偽分解
 du/on/milion/o:５０万
 du/on/monat/a:半月間の;月２回の
 du/on/mort/a:半死半生の
@@ -14426,7 +14426,7 @@ hipotek/a merkat/o:【経】抵当権市場,モーゲージ市場
 hipotek/bank/o:勧業銀行,抵当銀行
 hipotek/i:［他］抵当に入れる,担保に入れる
 hipotek/o:{Ｏ}【法】抵当権
-hipo/tensi/o:【病】低血圧（症）##偽分解
+hipo/tensi/o:【病】低血圧（症）##偽分解(PIV正式分解)
 hipotenuz/o:【数】（直角三角形の）斜辺
 hipo/tez/a:仮説の,仮定の##偽分解(PIV正式分解)
 hipo/tez/i:［他］仮説を立てる,仮定する##偽分解(PIV正式分解)
@@ -16127,7 +16127,7 @@ izol/ruband/o:【電】絶縁テープ
 izo/mer/a:【化】異性体の;【理】異性核の##偽分解(PIV正式分解)
 izo/mer/ism/o:【化】異性;【理】核異性##偽分解(PIV正式分解)
 izo/mer/o:【化】異性体;【理】異性核##偽分解(PIV正式分解)
-izo/morf/a:【鉱】同形の;【数】同型の##偽分解(PIV正式分解)
+izo/morf/a:【鉱】同形の;【数】同型の##偽分解
 izo/term/a:【理】等温の##偽分解(PIV正式分解)##過細分解 izo/t/e/r/m/a
 izo/term/a s^ang^/o:【理】等温変化##偽分解(PIV正式分解)##過細分解 izo/t/e/r/m/a s^ang^/o
 izo/term/o:【気】等温線##偽分解(PIV正式分解)##過細分解 izo/t/e/r/m/o
@@ -25171,12 +25171,12 @@ metal/o:{Ｂ}金属,地金;【化】金属元素
 metal/oid/a:半金属の
 metal/oid/o:【化】半金属,メタロイド;非金属,=nemetalo
 metalurgi/o:{Ｂ}冶金（やきん）業,冶金術;冶金学
-meta/morf/a:【地質】変成の##偽分解(PIV正式分解)
-meta/morf/a rok/o:【地質】変成岩##偽分解(PIV正式分解)
-meta/morf/ig^/o:【地質】（岩石の）変成##偽分解(PIV正式分解)
-meta/morf/ism/o:【地質】（岩石の）変成作用##偽分解(PIV正式分解)
-meta/morf/oz/i:［他］変身させる,変形させる;《転》変貌させる##偽分解(PIV正式分解)
-meta/morf/oz/o:{Ｏ}変身,変形;【動】変態;【地質】=metamorfig^o;《転》変貌（へんぼう）##偽分解(PIV正式分解)
+meta/morf/a:【地質】変成の##偽分解
+meta/morf/a rok/o:【地質】変成岩##偽分解
+meta/morf/ig^/o:【地質】（岩石の）変成##偽分解
+meta/morf/ism/o:【地質】（岩石の）変成作用##偽分解
+meta/morf/oz/i:［他］変身させる,変形させる;《転》変貌させる##偽分解
+meta/morf/oz/o:{Ｏ}変身,変形;【動】変態;【地質】=metamorfig^o;《転》変貌（へんぼう）##偽分解
 met/an/a hidrat/o:【化】メタンハイドレート##偽分解(PIV正式分解)##過細分解 m/e/t/a/n/a hidrat/o
 met/an/o:【化】メタン##偽分解(PIV正式分解)##過細分解 m/e/t/a/n/o
 met/an/ol/o:【化】メタノール##偽分解(PIV正式分解)##過細分解 m/e/t/a/n/o/l/o
@@ -29316,8 +29316,8 @@ paraliz/ig^/o:麻痺;停滞,機能停止
 paraliz/o:【病】麻痺,不随;中風（ちゅうぶう）
 paraliz/ul/o:【医】麻痺患者,中風患者
 para/log/ism/o:【哲】偽推理##偽分解
-para/magnet/a:【理】常磁性の##偽分解
-para/magnet/a korp/o:【理】常磁性体##偽分解
+para/magnet/a:【理】常磁性の##偽分解(PIV正式分解)
+para/magnet/a korp/o:【理】常磁性体##偽分解(PIV正式分解)
 para/magnet/ism/o:【理】常磁性##偽分解(PIV正式分解)
 Paramarib/o:【地名】パラマリボ（スリナムの首都）
 para/metr/o:【数】助変数,媒介変数;【情】パラメータ,仮引数（かりひきすう）##偽分解(PIV正式分解)
@@ -30656,7 +30656,7 @@ plen/larg^/a:【情】全角の,>>duonlarg^a
 plen/lun/o:満月
 plen/man/o:ひと握り,ひとつかみ
 plen/man/o da:ひと握りの,ひとつかみの
-plen/meta/morf/oz/a:【虫】完全変態の##偽分解(PIV正式分解)
+plen/meta/morf/oz/a:【虫】完全変態の##偽分解
 plen/mezur/e:たっぷりと,十分に
 plen/nub/a:全天曇った
 plen/o:全体会,=plenkunsido
@@ -35974,7 +35974,7 @@ sen/mastr/a:主のいない,見捨てられた
 sen/mebl/ig/i:［他］家具を取り払う
 sen/merit/a:功績のない,取り柄のない
 sen/metafor/e:本義で,あけすけに
-sen/meta/morf/oz/a:【虫】無変態の##偽分解(PIV正式分解)
+sen/meta/morf/oz/a:【虫】無変態の##偽分解
 sen/mezur/a:無限の,けた外れの
 sen/miks/a:混じり気のない,純粋な,>>pura
 sen/min/ig/i:［他］地雷を除去する
@@ -39219,7 +39219,7 @@ s^erp/o:シェルパ（ネパールのチベット系民族の一員）
 S^etland/oj:【地名】シェトランド諸島（イギリス）
 s^i:{Ｂ}［代］彼女
 s^i/a:彼女の
-S^i/a Reg^/in/a Mos^t/o:（三人称）女王陛下##偽分解(PIV正式分解)
+S^i/a Reg^/in/a Mos^t/o:（三人称）女王陛下##偽分解
 s^ija/ism/o:【イ】シーア派（の教義）,>>sunaismo##偽分解##強語根分解
 s^ija/ist/o:【イ】シーア派教徒##偽分解##強語根分解
 s^ik/a:シックな,いきな,しゃれた,趣味の良い,>>eleganta,>>bongusta
@@ -44815,7 +44815,7 @@ alo/fon/a:【PIV】(pp (se paroli pri) transskribo) Inkluzivanta specialajn simb
 aloj/ig/i:【PIV】Fari alojon.
 alokazi/o:【植】【PIV】G. (Genro) (Alocasia el arumacoj) de plurjaraj, ofte rizomaj herboj kun grandaj folioj; c^. (c^irkau^) 70 sp-oj (specioj) el tropika Azio k Au^stralio, pluraj kultivataj por ornamaj folioj sag-au^ blazon-formaj, du-au^ plur-koloraj.
 alokton/o:【地質】【PIV】Io aliloke estig^inta: aloktona mineralo, petro, tereno. Vd au^toktono, pus^tegaj^o.
-alo/morf/o:【語】【PIV】Varianto de morfemo (precipe en aglutinaj lingvoj).##偽分解(PIV正式分解)
+alo/morf/o:【語】【PIV】Varianto de morfemo (precipe en aglutinaj lingvoj).##偽分解
 alopat/o:【PIV】Specialisto pri alopatio.
 alopekur/o:【植】【PIV】G. (Genro) (Alopecurus el poacoj) de unu-k plur-jaraj herboj kun ovoida au^ cilindra, multarista spiko; 36 sp-oj (specioj) el la mezvarmaj regionoj de la N hemisfero k S Ameriko. Sin. (sinonimo) vulpovosto.
 aloritmi/o:【医】【PIV】Periode nenormala ritmo de la pulso.
@@ -45133,8 +45133,8 @@ antrop/o/morf/oj:【動】【PIV】Grupo de senvostaj, homsimilaj simioj. Vd c^i
 antrop/o/centr/a:【PIV】Havanta la homon kiel centron de intereso au^ studo: la antropocentra teorio longatempe regis en astronomio.##偽分解(PIV正式分解)
 antrop/o/fag/o:【PIV】Homo, kiu en difinitaj okazoj mang^as la karnon de alia homo Vd kanibalo.##偽分解(PIV正式分解)##過細分解 antrop/o/f/a/g/o
 antrop/o/fag/ism/o:【PIV】Tiu aparta kutimo de la antropofagoj: la antropofagismo havas samtempe ekonomiajn k magiajn kau^zojn.##偽分解(PIV正式分解)##過細分解 antrop/o/f/a/g/ism/o
-antrop/o/morf/a:【PIV】Homaspekta.##偽分解(PIV正式分解)
-antrop/o/morf/o:【PIV】Paleolitika homfiguro.##偽分解(PIV正式分解)
+antrop/o/morf/a:【PIV】Homaspekta.##偽分解
+antrop/o/morf/o:【PIV】Paleolitika homfiguro.##偽分解
 anturi/o:【植】【PIV】G. (Genro) (Anthurium el arumacoj) de plurjaraj herboj kun simplaj au^ mane kunmetaj folioj, kies petiolo genuforme s^velas c^e la limbo; pli ol 700 sp-oj (specioj) el tropika Ameriko, multaj kultivataj en varmaj forcejoj, kelkaj por la grandaj, ofte helripaj, kor-au^ sag-formaj folioj, aliaj - precipe flamengofloro (A. scherzerianum) - por la kuriozaj k ornamaj infloreskoj havantaj intense rug^ajn spatojn po unu.
 antus/o:【PIV】= pipio.
 anuitat/o:【PIV】Difinita monsumo, c^iujare pagenda, per kiu s^uldanto iom post iom kvitigas sin je s^uldo k je ties interezoj: la prezo de la domo estas amortizebla en 15 anuitatoj.
@@ -46761,9 +46761,9 @@ dilig^enc/o:【PIV】Pasinteca publika c^evaljungita veturilo, por transporti vo
 dilu/a:【PIV】Solvaj^o malkoncentrita.
 diminu/i:【PIV】(tr (transitiva)) 1 Malgrandigi c^iujn dimensiojn de originala bildo: diminuita klis^o. 2 En trikado, iom post iom malpliigi la nombron de la mas^oj, por regule malplilarg^igi la rezultan bendon. 3 Malpliintensigi la forton de la tono.
 diminuend/o:【楽】【PIV】Loko en muzikpeco, kies tono estas diminua. Vd kresc^endo.
-di/morf/a:【PIV】= duforma.##偽分解(PIV正式分解)##過細分解 d/i/morf/a
-di/morf/ec/o:【PIV】= duformeco.##偽分解(PIV正式分解)##過細分解 d/i/morf/ec/o
-di/morf/ism/o:【PIV】= duformismo.##偽分解(PIV正式分解)##過細分解 d/i/morf/ism/o
+di/morf/a:【PIV】= duforma.##偽分解##過細分解 d/i/morf/a
+di/morf/ec/o:【PIV】= duformeco.##偽分解##過細分解 d/i/morf/ec/o
+di/morf/ism/o:【PIV】= duformismo.##偽分解##過細分解 d/i/morf/ism/o
 Dinar/a:【PIV】Rilata al la U regiono de Balkanoj: la Dinaraj Alpoj (16°30′E, 44°N).
 ding/o:【動】【PIV】Sovag^a Au^stralia hundo (Canis lupus dingo), el la g. (genro) kaniso, enkondukita antau^ c^. (c^irkau^) 4000 j.
 dinornit/form/aj:【動】【PIV】Ordo (Dinornithiformes) de ekstermitaj, grandegaj, senkarinaj birdoj.
@@ -49134,8 +49134,8 @@ homili/o:【キ】【PIV】Prediko pri bibliaj tekstoj k temoj.
 homo/fon/o:【語】【PIV】Morfemo au^ vorto foneme identa kun alia morfemo au^ vorto. Vd homonimo.##偽分解(PIV正式分解)
 homo/kromi/o:【動】【PIV】Adaptig^o de kelkaj animaloj al la medio, kiuj farig^as pli-malpli samkoloraj kiel g^i k sekve malfacile videblaj: homokromio de kameleono. Vd mimetismo.##偽分解(PIV正式分解)
 homo/logi/o:【数】【PIV】1 Strukturo konstruita el nehomologaj cikloj. 2 Branc^o de la matematiko, kie oni studas homologion 1.##偽分解
-homo/morf/a:【数】【PIV】(pp (se paroli pri) strukturo) Tia, ke g^i konservas certajn ecojn de alia strukturo: la cirklo estas homomorfa bildo de rekto, se ambau^ estas rigardataj kiel grupoj.##偽分解(PIV正式分解)
-homo/morf/o:【PIV】La eco esti homomorfa.##偽分解(PIV正式分解)
+homo/morf/a:【数】【PIV】(pp (se paroli pri) strukturo) Tia, ke g^i konservas certajn ecojn de alia strukturo: la cirklo estas homomorfa bildo de rekto, se ambau^ estas rigardataj kiel grupoj.##偽分解
+homo/morf/o:【PIV】La eco esti homomorfa.##偽分解
 homo/morfi/o:【PIV】(pp (se paroli pri) grupo, ringo ktp (kaj tiel plu)) Bildigo, kiu respektas la koncernajn strukturojn: homomorfio de ringoj konservas k la adicion k la multiplikon.##偽分解(PIV正式分解)
 homo/morfi/a:【PIV】Rilata al homomorfio; estanta homomorfio.##偽分解(PIV正式分解)
 homo/pter/oj:【動】【PIV】Grupo (eksa ordo Homoptera) de insektoj kun g^enerale kvar membranecaj flugiloj, ampleksanta la hemipterojn escepte de la heteropteroj: afido, cikado, koc^o estas homopteroj.##偽分解##エス的分解
@@ -49595,8 +49595,8 @@ izo/metr/a:【数】【PIV】(pp (se paroli pri) metrika spaco) Tia, ke c^iuj g^
 izo/metr/o:【PIV】La eco esti izometra.##偽分解(PIV正式分解)
 izo/metri/o:【PIV】Bijekcio, kiu konservas c^iujn distancojn.##偽分解
 izo/metri/a:【PIV】Rilata al izometrio; estanta izometrio.##偽分解
-izo/morf/o:【数】【地質】【化】【PIV】La eco esti izomorfa: pruvi la izomorfon de du grupoj.##偽分解(PIV正式分解)
-izo/morf/ec/o:【数】【地質】【化】【PIV】La eco esti izomorfa: pruvi la izomorfon de du grupoj.##偽分解(PIV正式分解)
+izo/morf/o:【数】【地質】【化】【PIV】La eco esti izomorfa: pruvi la izomorfon de du grupoj.##偽分解
+izo/morf/ec/o:【数】【地質】【化】【PIV】La eco esti izomorfa: pruvi la izomorfon de du grupoj.##偽分解
 izo/morfi/o:【数】【PIV】Bijekcio, kiu kune kun sia inverso konservas c^iujn studatajn ecojn de strukturo.##偽分解(PIV正式分解)
 izo/morfi/a:【PIV】Rilata al izomorfio; estanta izomorfio.##偽分解(PIV正式分解)
 izo/pod/oj:【動】【PIV】Ordo (Isopoda) de krustacoj, el la subklaso de malakostrakoj, dorsoventre plataj. Vd amfipodoj.##偽分解
@@ -51956,7 +51956,7 @@ metaleps/o:【PIV】Esprimo de koncepto per nerekta rilato, ekz. (ekzemple): «s
 metal/o/grafi/o:【PIV】Scienco pri la metaloj.##偽分解
 meta/mer/o:【動】【PIV】1 Segmento 2. 2【生】 Segmento de embrio.##偽分解(PIV正式分解)
 meta/mer/ec/o:【PIV】Segmenteco.##偽分解(PIV正式分解)
-meta/morf/ig^/i:【PIV】Ig^i metamorfa: el metamorfig^o rezultas perdo de akvo, dum el alteraciig^o rezultas gajno de akvo.##偽分解(PIV正式分解)
+meta/morf/ig^/i:【PIV】Ig^i metamorfa: el metamorfig^o rezultas perdo de akvo, dum el alteraciig^o rezultas gajno de akvo.##偽分解
 meta/staz/o:【医】【PIV】Kancerrecidivo en alia korpoparto.##偽分解(PIV正式分解)
 meta/tars/a:【PIV】Rilata al metatarso. Vd metakarpo.##偽分解(PIV正式分解)
 meta/zo/o:【動】【PIV】Plurc^ela, hista animalo.##偽分解##エス的分解
@@ -52210,7 +52210,7 @@ Morfe/o:【PIV】Dio de la dormo k de la song^oj.
 morfem/ik/o:【PIV】Morfologio.
 morfem/o/scienc/o:【PIV】Morfologio.
 morfi/o:【数】【PIV】Baza koncepto en la teorio pri kategorioj, en la plej gravaj kazoj responda al bildigo de certa tipo.
-morf/o/genez/o:【生】【PIV】Estig^o k disvolvig^o de la organoj dum la embria vivo. Vd embriogenezo.##偽分解(PIV正式分解)
+morf/o/genez/o:【生】【PIV】Estig^o k disvolvig^o de la organoj dum la embria vivo. Vd embriogenezo.##偽分解
 Morgan/o:【PIV】Usona biologo (T. Morgan, 1866−1945).
 morganat/a:【法】【PIV】Adj. kvalifikanta 1 la geedzig^on inter persono de reg^a au^ nobela rango k persono de nenobela rango, en kiu nek la nenobela persono nek la infanoj naskitaj en tiu geedzeco ricevas nobelajn titolojn au^ rajtojn. 2 la rezultantan geedzecon k la koncernatan edz(in)on.
 mort/ec/o:【PIV】Eco de io, kio estas mortema: la morteco de la civilizo.
@@ -53658,9 +53658,9 @@ Polikrat/o:【PIV】Tirano de Samoso (6a jc (jarcento) a.K. (antau^ Kristo)).
 polikro/a:【PIV】= pleokroa.
 Poliksen/o:【PIV】Filino de Priamo, oferita sur la tombo de Ah^ilo.
 Polimni/o:【PIV】Muzo de liriko.
-poli/morf/a:【PIV】= plurforma.##偽分解(PIV正式分解)
-poli/morf/ec/o:【PIV】= plurformeco, plurformismo.##偽分解(PIV正式分解)
-poli/morf/ism/o:【PIV】= plurformeco, plurformismo.##偽分解(PIV正式分解)
+poli/morf/a:【PIV】= plurforma.##偽分解
+poli/morf/ec/o:【PIV】= plurformeco, plurformismo.##偽分解
+poli/morf/ism/o:【PIV】= plurformeco, plurformismo.##偽分解
 Polinik/o:【PIV】Frato de Eteoklo, mortigita de li.
 poli/nukle/a:【生】【PIV】(pp (se paroli pri) c^elo) S^ajne plurnuklea pro nukleo profunde divida en plurajn lobojn.##偽分解(PIV正式分解)
 poliplektr/o:【動】【PIV】G. (Genro) (Polyplectron), tre parenca al fazano, de birdoj kun 2 au^ 3 ergotoj sur c^iu tarso; vivas en Azio. Sin. (sinonimo) pavofazano.
@@ -53983,8 +53983,8 @@ mirobolan-prunus/o:【PIV】(P. cerasifera, sin. (sinonimo (de latinscienca nomo
 prurit/o:【医】【PIV】Jukado sen dermatozo.
 prus/ig/i:【PIV】Trudi al gento la prusajn metodojn de administracio, germanan lingvon ktp (kaj tiel plu).
 psamit/o:【地質】【PIV】Detrita sedimenta petro, koherig^inta au^ ne, konsistanta el detritoj 0,05−2 mm (milimetro(j)) dimensiaj. Vd argilo, grau^vako, sablopetro, sablo, silto.
-pseu^do/morf/a:【地質】【PIV】(pp (se paroli pri) mineralo) Alpreninta kristalan strukturon de anstatau^ita kristalo.##偽分解(PIV正式分解)
-pseu^do/morf/ig^/i:【PIV】Ig^i pseu^domorfa: olivino pseu^domorfig^as al serpenteno.##偽分解(PIV正式分解)
+pseu^do/morf/a:【地質】【PIV】(pp (se paroli pri) mineralo) Alpreninta kristalan strukturon de anstatau^ita kristalo.##偽分解
+pseu^do/morf/ig^/i:【PIV】Ig^i pseu^domorfa: olivino pseu^domorfig^as al serpenteno.##偽分解
 pseu^do/morf/ism/o:【PIV】Pseu^domorfig^a procezaro. Vd epigenezo.##偽分解
 pseu^do/nim/a:【PIV】Prezentita sub pseu^donimo: pseu^donima verko. Vd anonima.##偽分解
 pseu^do/pod/o:【動】【生】【PIV】Pseu^dopiedo.##偽分解
@@ -57038,7 +57038,7 @@ Zohar/o:【PIV】Kabala libro, verkita en aramea lingvo c^. (c^irkau^) la 14a jc
 Zoil/o:【PIV】Helena sofisto, au^toro de akraj kritikoj pri Homero (4a jc (jarcento) a.K. (antau^ Kristo)).
 zon/et/o:【解】【PIV】Sistemo de travidaj subtenfibretoj, kiuj c^irkau^tenas la kristalinon k estas strec^ataj de la ciliara korpo: ciliara zoneto (zonula ciliaris).
 zonul/o:【PIV】= zoneto.
-zo/o/morf/a:【PIV】Zooforma.##偽分解(PIV正式分解)
+zo/o/morf/a:【PIV】Zooforma.##偽分解
 zulu/o:【PIV】Ano de gento de au^strala Afriko.
 zum/a:【PIV】Rilata al zumado: el zuma fono distingig^is akra voc^eto.
 zum/oj:【PIV】Bruo de iu, io zumanta: orelaj zumoj (pro malsaneco); la zumado de la insektoj en la herbejo; la senc^esa zumado de la virinaj langoj c^irkau^ la akus^intino; zumado de radioricevilo (pro la fortaj kurentoj de proksime funkcianta aparato).
@@ -57682,7 +57682,7 @@ met/an/bakteri/oj:【PIV】Grupo de prabakterioj, kiuj produktas metanon el hidr
 purpur/bakteri/oj:【PIV】Grupo de fotosintezaj eu^bakterioj, kun bakterioklorofilo k rug^a pigmento: sulfuraj purpur bakterioj (aernetoleraj, oksidantaj sulfidojn al sulfuro) , nesulfuraj purpur bakterioj (aertoleraj).
 sal/eg/bakteri/oj:【PIV】Grupo de prabakterioj kreskantaj en ege salaj akvoj (120−300 g/l da natria klorido).
 sapr/o/bakteri/o:【生】【PIV】Bakterio, vivanta nur el sapro, sed povanta vegeti en organismo sen malutilo por c^i tiu: iuj sapro bakterioj povas sub iuj kondic^oj farig^i patogenaj. Sin. (sinonimo) saprofito 2.
-tio/bakteri/o:【PIV】G. (Genro) (Thiobacterium) de acidtoleraj eu^bakterioj, kiuj produktas energion per oksidado de sulfuro au^ tiosulfato al sulfato. Vd tiobacilo.##偽分解##過細分解 t/i/o/bakteri/o
+tio/bakteri/o:【PIV】G. (Genro) (Thiobacterium) de acidtoleraj eu^bakterioj, kiuj produktas energion per oksidado de sulfuro au^ tiosulfato al sulfato. Vd tiobacilo.##偽分解(PIV正式分解)##過細分解 t/i/o/bakteri/o
 varm/bakteri/oj:【PIV】Grupo de eu^bakterioj kreskantaj en la profundaj k varmaj subakvaj sedimentoj.
 varm/eg/bakteri/oj:【PIV】Grupo de prabakterioj kreskantaj en ege varmaj (80−105 °C (celsia(j) grado(j))), akvoj.
 verd/bakteri/oj:【PIV】Grupo de fotosintezaj eu^bakterioj, aernetoleraj, kun bakterioklorofilo, sen rug^a pigmento, oksidantaj sulfidojn al sulfuro k eventuale al sulfato.
@@ -61433,7 +61433,7 @@ pas^/o/ten/i:【PIV】(ntr (netransitiva)) Fari, ke oni egaligu siajn pas^ojn ku
 pied/ten/o:【PIV】Teno de grundo per la piedoj, sufic^a por stari: antau^eniri en la akvon, dum oni havas ankorau^ pied tenon; perdi la pied tenon.
 s^trump/o/ten/il/o:【PIV】Krurzono au^ j^artelo.
 vest/o/ten/ej/o:【PIV】Loko, kie oni tenas staplitajn vestojn, ekz. (ekzemple) por soldatoj ks (kaj simile, kaj similaj).
-hipo/tensi/ig/il/o:【医】【PIV】Medikamento, estiganta hipo tension.##偽分解
+hipo/tensi/ig/il/o:【医】【PIV】Medikamento, estiganta hipo tension.##偽分解(PIV正式分解)
 bas/tensi/a:【電】【PIV】Rilata al malaltaj tensioj: bastensia lineo.
 pus^/tensi/o:【電】【PIV】Subita ekpligrandig^o de elektra potencialo, kiu okazas ofte dum la funkciado de alttensiaj transsendaj lineoj.
 el/ter/ig^/i:【PIV】Elig^i el la tero: jam la unuaj s^osoj elterig^is.

@@ -31,7 +31,7 @@ $enDisp = if(DispHas 'en'){DispGet 'en'}else{'内'}
 $endingRe = '^(o|a|e|i|u|oj|aj|ojn|ajn|as|is|os|us|u|j|n)$'   # on/an/en は除外し、-on=分/-an=员/en=内 を位置で裁定
 $sufSet = @('ad','aj^','an','ar','ec','eg','ej','em','end','er','estr','et','id','ig','ig^','il','in','ind','ing','ism','ist','obl','on','op','uj','ul','um')  # privativeガード: 直後が派生接尾辞のみなら privative 不発火(an/ar/o=员群 等)
 $dropLinkO = $false   # 連結母o省略: 【無効】=連結oも保持し1:1構造を残す(美/性/o/酪/o)。省略は後処理に委ねる(ユーザー2026-06-20確定)。$true で再有効化可
-$chemInWord = @{ 'kaze/in/o'=$true; 'te/foli/in/o'=$true; 'aglutin/in/o'=$true; 'dent/in/o'=$true; 'vitr/o/dent/in/o'=$true; 'encefal/in/o'=$true; 'stimul/in/o'=$true; 'tiroid/stimul/in/o'=$true; 'gonad/o/stimul/in/o'=$true; 'digital/in/o'=$true; 'gastr/in/o'=$true; 'lign/in/o'=$true; 'koka/in/ism/o'=$true; 'koka/in/iz/o'=$true; 'koka/in/o/mani/o'=$true; 'tuberkul/in/a'=$true; 'tuberkul/in/iz/ad/o'=$true; 'eritr/o/poez/in/o'=$true; 'narkot/in/o'=$true }   # 化学-ine過剰分解語: -in分節のみラテン保持(女性接尾-in→女 の誤友回避)し、他分節は活かす(偽分解尊重・2026-06-22)。kaze/in→凝/in(カゼイン=凝固蛋白)・te/foli/in→茶/叶/in(テオフィリン=茶葉成分)。insulin=胰岛素等の不可分根は元から1形態素。2026-06-25 WSL同期で露出した生化学-ine 4語追加: aglutin/in(凝集素=抗体)・dent/in(象牙質)・encefal/in(エンケファリン=神経ペプチド・encefal/it炎は不変)・stimul/in(刺激ホルモン)。2026-06-27 WSL同期で gonad/o/stimul/in/o(性腺刺激ホルモン=gonadotropin)露出→追加(兄弟 stimul/in/o・tiroid/stimul/in/o と一致させ 性腺/o/激ˢ/in/o。同期前 gonad/o/stimulin/o=性腺/o/激素ˢ/o の透明性を維持)
+$chemInWord = @{ 'kaze/in/o'=$true; 'te/foli/in/o'=$true; 'aglutin/in/o'=$true; 'dent/in/o'=$true; 'vitr/o/dent/in/o'=$true; 'encefal/in/o'=$true; 'stimul/in/o'=$true; 'tiroid/stimul/in/o'=$true; 'gonad/o/stimul/in/o'=$true; 'digital/in/o'=$true; 'gastr/in/o'=$true; 'lign/in/o'=$true; 'koka/in/ism/o'=$true; 'koka/in/iz/o'=$true; 'koka/in/o/mani/o'=$true; 'tuberkul/in/a'=$true; 'tuberkul/in/iz/ad/o'=$true; 'eritr/o/poez/in/o'=$true; 'narkot/in/o'=$true; 'folikl/in/o'=$true; 'sekreci/in/o'=$true; 'fibr/in/o'=$true }   # 化学-ine過剰分解語: -in分節のみラテン保持(女性接尾-in→女 の誤友回避)し、他分節は活かす(偽分解尊重・2026-06-22)。2026-07-22 敵対監査(WF)で露出した生化学-ine 3語追加: folikl/in/o(卵胞ホルモン=Oestrono・囊ᶠ/女→囊ᶠ/in)・sekreci/in/o(セクレチン=腸ホルモン・泌/女→泌/in・兄弟gastr/in/o胃ᴳと一致)・fibr/in/o(フィブリン=血液凝固蛋白/グルテン麩素・句"veget/aĵ/a fibr/in/o"の【植】見出しで纤/女に漏出→纤/in・単独fibr/in/oは【化】で既にlatin)。kaze/in→凝/in(カゼイン=凝固蛋白)・te/foli/in→茶/叶/in(テオフィリン=茶葉成分)。insulin=胰岛素等の不可分根は元から1形態素。2026-06-25 WSL同期で露出した生化学-ine 4語追加: aglutin/in(凝集素=抗体)・dent/in(象牙質)・encefal/in(エンケファリン=神経ペプチド・encefal/it炎は不変)・stimul/in(刺激ホルモン)。2026-06-27 WSL同期で gonad/o/stimul/in/o(性腺刺激ホルモン=gonadotropin)露出→追加(兄弟 stimul/in/o・tiroid/stimul/in/o と一致させ 性腺/o/激ˢ/in/o。同期前 gonad/o/stimulin/o=性腺/o/激素ˢ/o の透明性を維持)
 # 系統化学(IUPAC)アルキル語幹→天干【2026-07-17 甲乙丙基システム=ユーザー裁定】: 中国化学命名 metil甲基/etil乙基/propil丙基/butan丁烷。
 # 全て一级(甲乙丙丁戊己庚辛壬癸)。met=置(meti置く)/et=小(指小)/okt=八/di=神 等の非化学義は「化学タグ$isSysChem + 化学接尾隣接($alkylSuf)」の二重ゲートで弁別。烷/烯/苯は一级外ゆえ -an/-en/fen はlatin。既存 et/oksi→乙・met/oksi→甲(下)の系列拡張。
 $alkylStem = @{ 'met'='甲'; 'et'='乙'; 'prop'='丙'; 'but'='丁'; 'pent'='戊'; 'heks'='己'; 'hept'='庚'; 'okt'='辛'; 'non'='壬'; 'dek'='癸' }
@@ -62,6 +62,17 @@ $segLat = @{ 'gram/negativ/a'=@('gram'); 'gram/pozitiv/a'=@('gram'); 'deci/bel/o
   '2-buten/al/o'=@('al')   # クロトンアルデヒド(CH3-CH=CH-CHO)→-alラテン。アルデヒド結合形(cinam/al・klor/al兄弟と同型)。前置詞al=向 でない。##過細分解由来(学術版は単一根)
   'piridoks/al/fosf/at/o'=@('al')   # ピリドキサールリン酸(アルデヒド誘導体補酵素)→-alラテン。fosf/at=磷/盐ᴬ は正。##過細分解由来
   'miko/plasm/al/oj'=@('al')   # Mycoplasmatales(マイコプラズマ目)→分類学-al(目)はラテン。前置詞al=向 でない。##エス的分解由来
+  # 2026-07-22 敵対監査(WF false-friend audit)で露出した -al=向 誤描画(学習者版のみ・学術版はwhole-root latinで健全):
+  'femur/al/o'=@('al'); 'frunt/al/o'=@('al'); 'okcipit/al/o'=@('al'); 'pariet/al/o'=@('al')   # 解剖-al骨(=X-osto: 大腿骨/前頭骨/後頭骨/頭頂骨)→解剖形容詞-alはラテン。股/额/后脑/壁ᴾ 母体維持。前置詞al=向 でない(股ᶠ/向=「股へ」の誤読是正)。##過細分解 X/a/l/o 由来
+  'erizif/al/oj'=@('al'); 'mukor/al/oj'=@('al'); 'rikeci/al/oj'=@('al'); 'spiroket/al/oj'=@('al'); 'ured/al/oj'=@('al'); 'ustilag/al/oj'=@('al')   # 分類学-al目(Ordo -ales: Erysiphales/Mucorales/Rickettsiales/Spirochaetales/Uredinales/Ustilaginales)→miko/plasm/al/oj と同型。菌ᴱᴿ/菌ᴹᴿ/rikeci/螺旋体/锈ᵁ/菌ᵁᵀ 母体維持・al=向でない
+  'direkt/al/o'=@('al')   # 垂直安定板(【空】direktalo=尾翼・>>empeno)→形容詞-alはラテン(ton/al同型)。方(direkt master)維持。方/向=方向 の偶発可読が「方角」の誤読を招く=向除去。##過細分解 direkt/a/l/o 由来
+  # 2026-07-22 敵対監査: föhn焚风fen の偽の友=phenol族(【PIV】のみで$isSysChem不発火→fen=焚风に漏出)。fen分節のみラテン(fen/ol/o【化】と一致):
+  'fen/ol/at/o'=@('fen'); 'fen/ol/ftalein/o'=@('fen'); 'di/met/oksi/fen/ol/o'=@('fen')   # phenolate/phenolphthalein/dimethoxyphenol→fenラテン(苯 一级外)。盐ᴬ/ol/神/置/氧 等 他分節維持。焚风(気象フェーン fen/o=②)の偽の友
+  # 2026-07-22 敵対監査: 因ᴾ(因果前置詞pro=〜のせいで)の偽の友=percent族(procento=羅pro centum「百につき」のpro=perで因果でない):
+  'pro/cent/o'=@('pro'); 'pro/cent/eg/o'=@('pro'); 'pro/cent/eg/e'=@('pro'); 'pro/cent/eg/ist/o'=@('pro'); 'interez/pro/cent/o'=@('pro'); 'ripar/pro/cent/o'=@('pro')   # パーセント/高利/利率/修理率→proラテン。百(cent)維持=pro/百。因ᴾ/百「原因-百」の誤読是正。句"diskont/a pro/cent/o"内の pro/cent/o トークンも本キーで捕捉
+  # 2026-07-22 敵対監査: 女性接尾-in=女 の偽の友(化学/固有名で母体無マッピングのため女に漏出):
+  'klement/in/o'=@('in')   # クレメンティン(柑橘・Clément神父由来の固有名§7)→in全体ラテン。klement/女「クレメンの女」の誤読是正。兄弟klementin/uj/o・klementin/arb/oは木ᴷᴸᴱで別途正
+  'ar/in/o'=@('ar','in')   # アライン/ベンザイン(aryne=aryl+-yne 芳香族反応中間体)→ar/in両分節ラテン(学術版arin/o whole latin と一致)。群/女「群れ-女」の誤読是正=過細分解 a/r/in/o の産物
 }
 
 foreach($pair in $pairs){
