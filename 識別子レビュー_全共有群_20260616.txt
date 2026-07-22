@@ -8326,6 +8326,10 @@
   skolt          侦          F=7     pejvo   
   rekognosk      侦ᴿ         F=1     piv     
 
+【侧柏】 2件
+  tujan          侧柏         F=1     piv     
+  tujon          侧柏ᵀᴼ       F=1     piv     
+
 【储】 2件
   rezerv         储          F=29    basic   
   stok           储ˢ         F=5     basic   

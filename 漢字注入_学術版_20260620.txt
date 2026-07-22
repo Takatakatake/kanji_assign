@@ -56529,9 +56529,9 @@ Tudor/a:【PIV】Rilata al tiu periodo, precipe pp (se paroli pri) arta k arkite
 tuf/a⟦丛/a⟧:【PIV】Prezentanta tufo(j)n: li havis grizajn tufajn brovojn .
 tuf/ig^/ant/a⟦丛/成/在/a⟧:【PIV】Tufformanta: tufig^anta musko.
 Tuileri/oj:【PIV】1 Palaco de la francaj reg^oj en Parizo, forbruligita en 1871 de la Komunumaj trupoj. 2 Granda publika parko sur tiu loko.
-tujan/o⟦即员/o⟧:【化】【PIV】Simpla, unucikla monoterpeno, C 10 H 18, kies derivaj^oj estas gravaj natursubstancoj, i.a. (interalie, inter aliaj) tujolo k tujono.
+tujan/o⟦侧柏/o⟧:【化】【PIV】Simpla, unucikla monoterpeno, C 10 H 18, kies derivaj^oj estas gravaj natursubstancoj, i.a. (interalie, inter aliaj) tujolo k tujono.
 tujol/o:【化】【PIV】Alkohola monoterpeno, C 10 H 17 OH, trovig^anta i.a. (interalie, inter aliaj) en absinto.
-tujon/o⟦即分/o⟧:【化】【PIV】Ketona monoterpeno, C 10 H 16 O, trovig^anta i.a. (interalie, inter aliaj) en tujo k absinto.
+tujon/o⟦侧柏ᵀᴼ/o⟧:【化】【PIV】Ketona monoterpeno, C 10 H 16 O, trovig^anta i.a. (interalie, inter aliaj) en tujo k absinto.
 tujops/o⟦木ᵀᴶ/o⟧:【植】【PIV】G. (Genro) (Thujopsis el kupresacoj) de nur unu sp. (T. dolabrata) de arbo el Japanio.
 tuku/o⟦鼠ᵀ/o⟧:【動】【PIV】Kn (Kolektiva nomo) de diversaspecaj oftaj S-Amerikaj rong^uloj el la g. (genro) Ctenomys, kiuj vivas preskau^ c^iam en siaj subteraj galerioj k de tie au^digas specialan bruon, kiel obtuzan frapon, al kio aludas la nomo.
 tularemi/o:【医】【PIV】Epidemia malsano de leporo, kuniklo ks (kaj simile, kaj similaj), transdonebla al homo per pikoj de insektoj.
@@ -60405,7 +60405,7 @@ roz/et/plant/o⟦玫/小/植/o⟧:【植】【PIV】Planto kun mallongega tigo, 
 sal/plant/o⟦盐/植/o⟧:【生態】【PIV】Saleja planto (Vd (vidu) eja).
 sek/plant/o⟦干/植/o⟧:【PIV】Sekeja planto (Vd (vidu) eja).
 sem/plant/oj⟦种/植/oj⟧:【植】【PIV】Spermatofitoj.
-tal/plant/oj⟦距ᵀ/植/oj⟧:【植】【PIV】Talofitoj.
+tal/plant/oj⟦tal/植/oj⟧:【植】【PIV】Talofitoj.
 telegraf/plant/o⟦报ᵀ/植/o⟧:【PIV】Oscila desmodio.
 vaskul/plant/oj⟦脉ⱽˢ/植/oj⟧:【植】【PIV】Vaskulohavaj plantoj, t.e. (tio estas) sem plantoj k pteridofitoj. Sin. (sinonimo) trakeofitoj.
 akv/o/plantag/o⟦水/o/车前/o⟧:【PIV】Plantag-alismo.

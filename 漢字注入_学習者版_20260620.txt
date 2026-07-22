@@ -2025,9 +2025,9 @@ antimon/o⟦矿ᴬᴺ/o⟧:{Ｏ}【化】アンチモン（金属、５１番元
 anti/neu^trin/o⟦抗ᴬ/中微子/o⟧:【理】反ニュートリノ##偽分解
 anti/nomi/o⟦抗ᴬ/律ᴺ/o⟧:【哲】二律背反##偽分解
 anti/partikl/o⟦抗ᴬ/粒ᴾ/o⟧:【理】=kontrau^partiklo（反粒子）##偽分解
-anti/pati/a⟦抗ᴬ/情/a⟧:反感を覚えさせる,虫の好かない##偽分解(PIV正式分解)
-anti/pati/i⟦抗ᴬ/情/i⟧:［他］反感をもつ,毛嫌いする##偽分解(PIV正式分解)
-anti/pati/o⟦抗ᴬ/情/o⟧:{Ｏ}反感,毛嫌い##偽分解(PIV正式分解)
+anti/pati/a⟦抗ᴬ/情/a⟧:反感を覚えさせる,虫の好かない##偽分解
+anti/pati/i⟦抗ᴬ/情/i⟧:［他］反感をもつ,毛嫌いする##偽分解
+anti/pati/o⟦抗ᴬ/情/o⟧:{Ｏ}反感,毛嫌い##偽分解
 antipirin/o:【薬】アンチピリン
 anti/pod/a⟦抗ᴬ/足ᴾᴼ/a⟧:【地理】対蹠的な;《転》正反対の##偽分解
 anti/pod/o⟦抗ᴬ/足ᴾᴼ/o⟧:{Ｏ}【地理】対蹠地（たいせきち）##偽分解
@@ -14331,7 +14331,7 @@ hidr/o/gen/o⟦水ᴴ/o/生ᴳ/o⟧:{Ｏ}【化】水素##偽分解(PIV正式分
 hidr/o/karb/id/o⟦水ᴴ/o/炭/子/o⟧:=>hidrokarbono（炭化水素）##偽分解(PIV正式分解)##過細分解 h/i/d/r/o/karb/id/o
 hidr/o/karbon/o⟦水ᴴ/o/碳/o⟧:【化】炭化水素##偽分解(PIV正式分解)##過細分解 h/i/d/r/o/karbon/o
 hidr/oksid/o⟦水ᴴ/氧化/o⟧:【化】水酸化物##偽分解(PIV正式分解)##過細分解 h/i/d/r/oksid/o
-hidr/o/metri/o⟦水ᴴ/o/测ᴹᵀ/o⟧:【理】液体比重測定;流速測定##偽分解(PIV正式分解)##過細分解 h/i/d/r/o/metri/o
+hidr/o/metri/o⟦水ᴴ/o/测ᴹᵀ/o⟧:【理】液体比重測定;流速測定##偽分解##過細分解 h/i/d/r/o/metri/o
 hidr/o/metr/o⟦水ᴴ/o/计ᴹ/o⟧:【理】液体比重計,浮きばかり;流速計##偽分解(PIV正式分解)##過細分解 h/i/d/r/o/metr/o
 hidr/o/plan/o⟦水ᴴ/o/划/o⟧:【空】水上飛行機,=maraviadilo##偽分解##過細分解 h/i/d/r/o/p/l/a/n/o
 hidrops/o:【医】水症,水腫（すいしゅ）,むくみ,>>edemo
@@ -14400,7 +14400,7 @@ hipermetrop/a⟦远ᴴ/a⟧:【医】遠視の,>>miopa,>>presbiopa
 hipermetrop/ec/o⟦远ᴴ/性/o⟧:【医】遠視
 hiper/onim/o⟦超/名ᴼ/o⟧:【語】上位語,=supervorto,><hiponimo##偽分解
 hiper/tekst/o⟦超/文ᵀ/o⟧:【情】ハイパーテキスト
-hiper/tensi/o⟦超/压ᵀ/o⟧:【病】高血圧（症）##偽分解
+hiper/tensi/o⟦超/压ᵀ/o⟧:【病】高血圧（症）##偽分解(PIV正式分解)
 hiper/trofi/o⟦超/养ᵀ/o⟧:{Ｏ}【病】肥大##偽分解(PIV正式分解)
 hipnot/a⟦催眠/a⟧:催眠性の;催眠術の
 hipnot/ig/i⟦催眠/使/i⟧:［他］催眠術にかける
@@ -16133,8 +16133,8 @@ izo/term/a s^ang^/o⟦等ᴵ/热ᵀ/a 变/o⟧:【理】等温変化##偽分解(
 izo/term/o⟦等ᴵ/热ᵀ/o⟧:【気】等温線##偽分解(PIV正式分解)##過細分解 izo/t/e/r/m/o
 izotop/a⟦同位素/a⟧:【理】【化】同位体の
 izotop/o⟦同位素/o⟧:【理】【化】同位体,同位元素,アイソトープ
-izo/trop/a⟦等ᴵ/向ᵀ/a⟧:【理】等方性の##偽分解(PIV正式分解)
-izo/trop/ec/o⟦等ᴵ/向ᵀ/性/o⟧:【理】等方性##偽分解(PIV正式分解)
+izo/trop/a⟦等ᴵ/向ᵀ/a⟧:【理】等方性の##偽分解
+izo/trop/ec/o⟦等ᴵ/向ᵀ/性/o⟧:【理】等方性##偽分解
 Izrael/id/oj:イスラエル（ヤコブ）の子孫,ユダヤ人
 Izrael/o:{Ｏ}（男子名）イスラエル
 -j:{Ｂ}［複数語尾］
@@ -27105,8 +27105,8 @@ ne/interes/a⟦不/趣/a⟧:=seninteresa（興味のない）
 ne/invers/ig/ebl/a⟦不/逆ᴵ/使/可/a⟧:逆転できない;【理】不可逆の
 ne/invers/ig/ebl/a s^ang^/o⟦不/逆ᴵ/使/可/a 变/o⟧:【理】不可逆変化
 ne/ir/ebl/a⟦不/往/可/a⟧:行けない,通れない
-ne/izo/trop/a⟦不/等ᴵ/向ᵀ/a⟧:【理】異方性の##偽分解(PIV正式分解)
-ne/izo/trop/ec/o⟦不/等ᴵ/向ᵀ/性/o⟧:【理】異方性##偽分解(PIV正式分解)
+ne/izo/trop/a⟦不/等ᴵ/向ᵀ/a⟧:【理】異方性の##偽分解
+ne/izo/trop/ec/o⟦不/等ᴵ/向ᵀ/性/o⟧:【理】異方性##偽分解
 ne jam⟦不 已⟧:［副］=ankorau^ ne（まだ〜ない）
 nek⟦也不⟧:{Ｂ}［接］〜もまた〜ない
 ne/kalkul/ebl/a⟦不/算/可/a⟧:数えられない,計り知れない
@@ -29977,7 +29977,7 @@ period/a mov/ad/o⟦期ᴾ/a 动/行/o⟧:【理】周期運動
 period/e⟦期ᴾ/e⟧:周期的に,定期的に
 period/ec/o⟦期ᴾ/性/o⟧:周期性
 period/o⟦期ᴾ/o⟧:{Ｂ}期間,時期,時代;【理】周期;【地質】紀;【修】総合文
-peri/ost/it/o⟦围ᴾ/骨/炎ᵀ/o⟧:【病】骨膜炎##偽分解(PIV正式分解)
+peri/ost/it/o⟦围ᴾ/骨/炎ᵀ/o⟧:【病】骨膜炎##偽分解
 peri/ost/o⟦围ᴾ/骨/o⟧:【解】骨膜##偽分解
 peripl/o:周航;周航記
 peri/skop/o⟦围ᴾ/镜ˢᴷ/o⟧:{Ｏ}潜望鏡,展望鏡,ペリスコープ##偽分解
@@ -40150,7 +40150,7 @@ tele/metri/o⟦远/测ᴹᵀ/o⟧:【学】遠隔測定##偽分解
 tele/metr/o⟦远/计ᴹ/o⟧:測距儀;【学】テレメーター（遠隔測定装置）;【写】（カメラの）距離計##偽分解
 tele/objekt/iv/o⟦远/物ᴼ/能ᴵ/o⟧:【写】望遠レンズ
 teleo/logi/o⟦teleo/学ᴸᴳ/o⟧:【哲】目的論##偽分解##強語根分解
-tele/pati/o⟦远/情/o⟧:{Ｏ}テレパシー,精神感応##偽分解(PIV正式分解)
+tele/pati/o⟦远/情/o⟧:{Ｏ}テレパシー,精神感応##偽分解
 tele/pres/il/o⟦远/印/具/o⟧:【通】テレプリンタ
 teler/ar/o⟦盘/群/o⟧:食器類（一式）
 teler/bret/ar/o⟦盘/板ᴮ/群/o⟧:食器棚
@@ -40412,7 +40412,7 @@ term/o/elektr/o/mov/a fort/o⟦热ᵀ/o/电/o/动/a 强/o⟧:【理】熱起電�
 term/o/elektr/on/o⟦热ᵀ/o/电/子ᴼ/o⟧:【理】熱電子##偽分解(PIV正式分解)##過細分解 t/e/r/m/o/elektr/on/o
 term/o/kupl/o⟦热ᵀ/o/连ᴷ/o⟧:【理】熱電対,=termoparo##偽分解(PIV正式分解)##過細分解 t/e/r/m/o/kupl/o
 term/o/logi/o⟦热ᵀ/o/学ᴸᴳ/o⟧:【理】熱学##偽分解##過細分解 t/e/r/m/o/logi/o
-term/o/metri/o⟦热ᵀ/o/测ᴹᵀ/o⟧:【理】温度測定##偽分解(PIV正式分解)##過細分解 t/e/r/m/o/metri/o
+term/o/metri/o⟦热ᵀ/o/测ᴹᵀ/o⟧:【理】温度測定##偽分解##過細分解 t/e/r/m/o/metri/o
 term/o/metr/o⟦热ᵀ/o/计ᴹ/o⟧:{Ｂ}温度計,寒暖計;【医】体温計##偽分解(PIV正式分解)##過細分解 t/e/r/m/o/metr/o
 term/o/nukle/a⟦热ᵀ/o/核ᴺ/a⟧:【理】熱核の##偽分解(PIV正式分解)##過細分解 t/e/r/m/o/nukle/a
 term/o/nukle/a reakci/o⟦热ᵀ/o/核ᴺ/a 反应/o⟧:【理】熱核反応##偽分解(PIV正式分解)##過細分解 t/e/r/m/o/nukle/a reakci/o
@@ -42831,7 +42831,7 @@ veget/aj^/ole/o⟦茂/物/油/o⟧:植物性油
 vegetal/a⟦植ⱽ/a⟧:植物の,=vegetaj^a
 vegetal/a regn/o⟦植ⱽ/a 国ᴿ/o⟧:【植】=vegetaj^a regno（植物界）
 vegetal/ar/o⟦植ⱽ/群/o⟧:【植】=vegetaj^aro（植物相）
-vegetal/in/o⟦植ⱽ/女/o⟧:=vegetaj^a butero（植物性バター）##偽分解(PIV正式分解)
+vegetal/in/o⟦植ⱽ/in/o⟧:=vegetaj^a butero（植物性バター）##偽分解(PIV正式分解)
 vegetal/ism/o⟦植ⱽ/主义/o⟧:=vegetaj^ismo（菜食主義）
 vegetal/o⟦植ⱽ/o⟧:{Ｂ}植物,=vegetaj^o
 vegetar/a⟦素ⱽ/a⟧:{Ｂ}菜食の
@@ -44781,7 +44781,7 @@ alk/an/o:【化】【PIV】Saturita hidrokarbono, C n H 2n+2, ekz. (ekzemple) me
 alk/an/al/o:【PIV】Aldehido derivita de alkano. -> alkal/o.##偽分解(PIV正式分解)##過細分解 a/l/k/a/n/a/l/o
 alk/an/ol/o:【PIV】Alkoholo, derivita de alkano.##偽分解(PIV正式分解)##過細分解 a/l/k/a/n/o/l/o
 alk/an/ol/at/o⟦alk/an/ol/盐ᴬ/o⟧:【PIV】Metala kombinaj^o de alkanolo (ankau^: alkoksido).##偽分解(PIV正式分解)##過細分解 a/l/k/a/n/o/l/at/o
-alk/an/on/o⟦alk/an/分/o⟧:【PIV】Ketono derivita de alko.##偽分解(PIV正式分解)##過細分解 a/l/k/a/n/o/n/o
+alk/an/on/o:【PIV】Ketono derivita de alko.##偽分解(PIV正式分解)##過細分解 a/l/k/a/n/o/n/o
 alk/en/o:【化】【PIV】Nesaturita, necikla hidrokarbono kun unu duobla ligo, C n H 2n, ekz. (ekzemple) eteno, propeno.##偽分解(PIV正式分解)##過細分解 a/l/k/e/n/o
 alk/il/o⟦alk/基/o⟧:【化】【PIV】Radiko de alkano, C n H 2n+1 -; simb. (simbolo) en formuloj: R.##偽分解(PIV正式分解)##過細分解 a/l/k/il/o
 alk/in/o:【化】【PIV】Nesaturita necikla hidrokarbono kun unu triobla ligo, C n H 2n-2, ekz. (ekzemple) etino (acetileno). Rim. (Rimarko) La menciita nomado validas ankau^ por aliaj substancogrupoj de la organika kemio, kies nomoj ne estis enmetitaj en c^i tiu vortaro, ekz. (ekzemple) alkenalo.##偽分解(PIV正式分解)##過細分解 a/l/k/in/o
@@ -45433,7 +45433,7 @@ atend/a⟦待ᴬ/a⟧:【PIV】Rilata al atendo: atenda periodo; li prenis pozon
 atene/o:【史】【PIV】1 Templo de Atena. 2 Kultura domo, kie artistoj, beletristoj au^ sciencistoj prelegas. 3 (en Belgio) = liceo.
 atenu/il/o⟦衰/具/o⟧:【電】【PIV】Aparato, ebliganta malpliigi la amplitudon de elektra signalo.
 aterom/o:【医】【PIV】Kn (Kolektiva nomo) de diversaspecaj lezoj de la interna arteri-tavolo, entenantaj kac^osimilan materion k/au^ montrantaj durajn platojn. Vd aterosklerozo, sklerozo.
-atero/skler/oz/o⟦atero/硬ˢ/症ᴼ/o⟧:【医】【PIV】Malsano de grandaj arterioj, en kiuj trovig^as tipaj lezoj, la ateromoj.##偽分解(PIV正式分解)
+atero/skler/oz/o⟦atero/硬ˢ/症ᴼ/o⟧:【医】【PIV】Malsano de grandaj arterioj, en kiuj trovig^as tipaj lezoj, la ateromoj.##偽分解##強語根分解
 atest/aj^/oj⟦证ᴬ/物/oj⟧:【PIV】Tuto de la atestoj en proceso: pruvi per atestaj^oj. Vd indikaj^oj.
 atest/ig/i⟦证ᴬ/使/i⟧:【PIV】Alvoki iun kiel atestanton: mi atestigas al vi hodiau^ la c^ielon, ke vi rapide pereos .
 atik/it/o⟦atik/炎ᵀ/o⟧:【医】【PIV】Inflamo de atiko(j).##偽分解(PIV正式分解)
@@ -46170,7 +46170,7 @@ but/⟦培/⟧:【化】【PIV】Pref. (Prefikso), montranta kvarkarbonan c^enon
 but/adien/o⟦培/adien/o⟧:【化】【PIV】C 4 H 6, nesaturita hidrokarbono kun du duoblaj ligoj, antau^anto de artefarita kau^c^uko: 1,3-butadieno (CH 2 =CH-CH=CH 2).##偽分解(PIV正式分解)##過細分解 b/u/t/adien/o
 1-but/an/ol/o⟦1-培/员ᴬ/ol/o⟧:【化】【PIV】CH 3-CH 2-CH 2-CH 2-OH. Sin. (sinonimo) n-butanolo.##偽分解(PIV正式分解)##過細分解 1-b/u/t/a/n/o/l/o
 2-but/an/ol/o⟦2-培/员ᴬ/ol/o⟧:【化】【PIV】CH 3-CH 2-CH(OH)-CH 3. Sin. (sinonimo) sek-butanolo.##偽分解(PIV正式分解)##過細分解 2-b/u/t/a/n/o/l/o
-but/an/on/o⟦丁/an/分/o⟧:【化】【PIV】Ketono (metil-etil-ketono), CH 3-CH 2-CO-CH 3, tre grava solvanto simila al acetono.##偽分解(PIV正式分解)##過細分解 b/u/t/a/n/o/n/o
+but/an/on/o⟦丁/an/on/o⟧:【化】【PIV】Ketono (metil-etil-ketono), CH 3-CH 2-CO-CH 3, tre grava solvanto simila al acetono.##偽分解(PIV正式分解)##過細分解 b/u/t/a/n/o/n/o
 but/en/o⟦丁/en/o⟧:【化】【PIV】C 4 H 8, nesaturita hidrokarbono kun unu duobla ligo: metil-2-buten-1-tiolo, CH 3-C(CH 3)=CH-CH 2-SH, estas la fetora odoraj^o de mefito k de lumdifektita biero.##偽分解(PIV正式分解)##過細分解 b/u/t/e/n/o
 2-but/en/al/o⟦2-培/en/al/o⟧:【化】【PIV】CH 3-CH=CH-CHO, akrodora, incita likvo uzata kiel industria krudmaterialo. Sin. (sinonimo) krotonalo.##偽分解(PIV正式分解)##過細分解 2-b/u/t/e/n/a/l/o
 but/in/o⟦培/in/o⟧:【化】【PIV】C 4 H 6, nesaturita hidrokarbono kun unu triobla ligo.##偽分解(PIV正式分解)##過細分解 b/u/t/in/o
@@ -46698,7 +46698,7 @@ diastrofism/o:【地質】【PIV】Tektonismo. Rim. (Rimarko): Oni nepre ne uzu 
 diatome/oj:【植】【PIV】Filumo (Bacillariophyta) de mikroskopaj, unuc^elaj au^ koloniformantaj algoj, kies c^elmuro surhavas du silicajn, ofte ric^e ornamajn valvojn, kiuj intermovig^as k konsistigas movorganeton; c^. (c^irkau^) 10 000 sp-oj (specioj) el c^. (c^irkau^) 2 000 g-oj (genroj), dolc^-k sal-akvaj; post la morto de la c^elo, la valvoj bone konservig^as k amase konsistigas diatomiton.
 diatomit/o:【地質】【PIV】Sedimenta, silica petro, konsistanta tute au^ precipe el valvoj de diatomeoj. Sin. (sinonimo) kiselguro, diatomea tero.
 diazo/:【PIV】= diazoto (Vd (vidu) azoto).
-diazo/met/an/o⟦diazo/置/an/o⟧:【PIV】= diazotmetano (Vd (vidu) azoto).##偽分解(PIV正式分解)##過細分解 diazo/m/e/t/a/n/o
+diazo/met/an/o⟦diazo/甲/an/o⟧:【PIV】= diazotmetano (Vd (vidu) azoto).##偽分解(PIV正式分解)##過細分解 diazo/m/e/t/a/n/o
 diazoni/o⟦重氮/o⟧:【化】【PIV】Organika salo kun g^enerala formulo R-N=N ^+ X ^−, en kiu R estas organika radiko k X anjono: aromataj diazonioj estas g^enerale sufic^e stabilaj k uzataj en organika sintezado. Vd diazotato (Vd (vidu) azoto).
 diazoni/ig/i⟦重氮/使/i⟧:【PIV】Reakciigi aminon (c^efe aromatan) kun nitrita acido por produkti diazonion. Sin. (sinonimo) diazoti.
 diboc^/aj^/oj⟦荡ᴰ/物/oj⟧:【PIV】Ekscesoj en la mang^aj au^ amoraj plezuroj.
@@ -47210,7 +47210,7 @@ emulsi/ant/o⟦乳ᴱ/在/o⟧:【理】【化】【PIV】Substanco ebliganta la
 emulsi/ant/aj^/o⟦乳ᴱ/在/物/o⟧:【理】【化】【PIV】Substanco ebliganta la formig^on de emulsio el nature nemikseblaj enmetaj^oj: lecitino, ovoflavo (ekz. (ekzemple) en majonezo) estas emulsiigantaj^oj.
 emulsi/il/o⟦乳ᴱ/具/o⟧:【PIV】Aparato por emulsii.
 emulsi/az/o⟦乳ᴱ/az/o⟧:【化】【PIV】Enzimo, kiu katalizas la malkomponon de beta-emulsiglukozidoj, ekz. (ekzemple) migdalozidon.##偽分解(PIV正式分解)
-emulsi/in/o⟦乳ᴱ/女/o⟧:【PIV】= emulsiazo.##偽分解(PIV正式分解)
+emulsi/in/o⟦乳ᴱ/in/o⟧:【PIV】= emulsiazo.##偽分解(PIV正式分解)
 emulsi/oid/o⟦乳ᴱ/似ᴼ/o⟧:【PIV】Koloida solvaj^o, simila al emulsio.
 en/ig/o⟦内/使/o⟧:【PIV】Ago enigi.
 en/ig/aj^/o⟦内/使/物/o⟧:【PIV】Io enigata, precipe signaloj en cirkviton au^ datenoj en komputilon.
@@ -47376,7 +47376,7 @@ eritr/o/blast/o⟦红ᴱ/o/胚ᴮ/o⟧:【解】【PIV】Nukleohava c^elo de la 
 eritroksil/o⟦木ᴱᴷ/o⟧:【植】【PIV】G. (Genro) (Erythroxylum el eritroksilacoj) de lignecaj plantoj kun s^osoj lau^aspekte ofte skvamaj k kun simplaj, stipulohavaj folioj; tropika, precipe S-Amerika g. (genro) de c^. (c^irkau^) 230 sp-oj (specioj), el kiuj kokao.
 eritroni/o⟦猪牙花/o⟧:【植】【PIV】G. (Genro) (Erythronium el liliacoj) de herboj kun tunika bulbo, kun du elbazaj folioj k kun senfoliaj tigoj, portantaj pli-malpli pendantajn florojn po unu au^ malmultaj; N-hemisfera, precipe Amerika g. (genro) de c^. (c^irkau^) 20 sp-oj (specioj), kelkaj pororname kultivataj, ekz. (ekzemple) la hundodenta eritronio (E. dens-canis).
 eritr/o/poez/o⟦红ᴱ/o/生ᴾ/o⟧:【生】【PIV】Formig^o de la eritrocitoj en la osta medolo de plenkreskulo au^ en la hepato de embrio. Sin. (sinonimo) eritrocitopoezo.##偽分解
-eritr/o/poez/in/o⟦红ᴱ/o/生ᴾ/in/o⟧:【PIV】Poezino, stimulanta la produktadon de eritrocitoj en la osta medolo k sekve pliiganta la oksigenadon de la histoj: eritropoezino estas uzata de iuj sportistoj por elteni longedau^rajn strec^ojn. -> dopi.##偽分解(PIV正式分解)
+eritr/o/poez/in/o⟦红ᴱ/o/生ᴾ/in/o⟧:【PIV】Poezino, stimulanta la produktadon de eritrocitoj en la osta medolo k sekve pliiganta la oksigenadon de la histoj: eritropoezino estas uzata de iuj sportistoj por elteni longedau^rajn strec^ojn. -> dopi.##偽分解
 eritroz/o:【化】【PIV】1 Kvar-karbonatoma sukero, aldotetrozo, C 4 H 8 O 4. 2【医】 Stato de rug^ig^o de hau^to k de mukmembranoj, speciale pro troo de eritrocitoj en la sango.
 Erivan/o:【PIV】= Erevano.
 erizif/o⟦菌ᴱᴿ/o⟧:【植】【PIV】G. (Genro) (Erysiphe el erizifacoj), kosmopolita, de c^. (c^irkau^) 170 sp-oj (specioj) de mikroskopaj askofungoj, estigantaj melduon.
@@ -47850,7 +47850,7 @@ flav/in/o⟦黄/in/o⟧:【化】【PIV】Rug^flava hetero-kvarcikla aromata ket
 Flavi/o:【PIV】Latina vira nomo: la Flavia familio (de la Romiaj imperiestroj Vespaziano k Tito).
 flavon/o:【化】【PIV】2-fenil-benzo-γ-pirono, C 15 H 10 O 2, baza substanco de flavaj koloraj^oj el floroj.
 fle/o⟦草ᶠ/o⟧:【植】【PIV】G. (Genro) (Phleum el poacoj) de unu-k plur-jaraj herboj kun unufloraj spiketoj en infloresko (cilindra spiko au^ spikforma paniklo) simila al ratvosto; c^. (c^irkau^) 15 sp-oj (specioj) el la mezvarmaj regionoj.
-fleb/it/o⟦脉ᶠ/炎ᵀ/o⟧:【医】【PIV】Inflamo de vejno, ofte c^e la malsupraj membroj; iafoje formig^as koagulaj^o, kiu povas kau^zi embolozon.##偽分解(PIV正式分解)
+fleb/it/o⟦脉ᶠ/炎ᵀ/o⟧:【医】【PIV】Inflamo de vejno, ofte c^e la malsupraj membroj; iafoje formig^as koagulaj^o, kiu povas kau^zi embolozon.##偽分解
 flebotom/o⟦虫ᶠᴮ/o⟧:【動】【PIV】G. (Genro) (Phlebotomus) de sangosuc^aj insektoj el la ordo de dipteroj, kiuj iom parencas al kulo, sed tenas la flugilojn duone levitaj dum ripozo; la ino sin nutras per la sango de homo, reptilioj k anuroj k povas transdoni parazitajn protozoojn, la lejs^maniojn.
 fleb/o/tomi/o⟦脉ᶠ/o/切ᵀᴹ/o⟧:【医】【PIV】Eltiro de vejna sango ordinare c^e la kubutfaldo.##偽分解
 fleg/ant/o⟦护ᶠ/在/o⟧:【PIV】Tiu, kiu flegas pro helpemo, amo, kompato: s^i farig^is flegantino de la reg^o ; la Morto levis sin inter la infano en la lulilo k g^ia flegantino (la patrino).
@@ -48231,7 +48231,7 @@ gasojl/o:【技】【PIV】Speco de peza benzino, uzata en dizelo. Sin. (sinonim
 Gaspar/o:【PIV】Vira nomo.
 gast/ej/estr/o⟦客/所/长ᴱ/o⟧:【PIV】Mastro de gastejo: li elprenis du denarojn kaj donis ilin al la gastejestro .
 gast/ig/int/o⟦客/使/过/o⟧:【PIV】Tiu, kiu gastigis/gastigas iun: multajn dankojn al liaj afablaj gastigintoj! ; c^u mi povas ion peti de la gastigantino?
-gaster/o/micet/oj⟦胃ᴳᴱ/o/菌ᴹᶜ/oj⟧:【植】【PIV】Grupo de bazidifungoj, ampleksanta la eksan klason Gasteromycetes, kies bazidioj produktig^as interne de ferma bazidiujo. Vd himenomicetoj.##偽分解(PIV正式分解)
+gaster/o/micet/oj⟦胃ᴳᴱ/o/菌ᴹᶜ/oj⟧:【植】【PIV】Grupo de bazidifungoj, ampleksanta la eksan klason Gasteromycetes, kies bazidioj produktig^as interne de ferma bazidiujo. Vd himenomicetoj.##偽分解
 gasteroste/form/aj⟦刺鱼/形/aj⟧:【動】【PIV】Ordo (Gasterosteiformes) de teleosteaj fis^oj, al kiu apartenas gasterosteo k.a. (kaj aliaj).
 gasteroste/o/form/aj⟦刺鱼/o/形/aj⟧:【動】【PIV】Ordo (Gasterosteiformes) de teleosteaj fis^oj, al kiu apartenas gasterosteo k.a. (kaj aliaj).
 gastr/o⟦胃ᴳ/o⟧:【医】【PIV】Stomako (en kunmetaj^oj).
@@ -50465,7 +50465,7 @@ koc^/ed/oj⟦红虫/科ᴱ/oj⟧:【動】【PIV】Fam. (Familio) (Coccidae) de 
 koc^/oide/oj⟦红虫/oide/oj⟧:【PIV】Superfam. (Coccoidea) de insektoj el la ordo de hemipteroj, subordo de sternorinkoj, al kiu apartenas i.a. (interalie, inter aliaj) koc^o 1 k 2; la inoj estas senflugilaj, sen-au^ tre mallong-piedaj, rondformaj k parazitas sur diversaj specioj de vaskulplantoj, dum la virseksuloj estas duflugilaj k ne sin nutras; ili sekrecias vakson au^ lakon.##偽分解(PIV正式分解)
 koc^/ul/oj⟦红虫/者/oj⟧:【PIV】Superfam. (Coccoidea) de insektoj el la ordo de hemipteroj, subordo de sternorinkoj, al kiu apartenas i.a. (interalie, inter aliaj) koc^o 1 k 2; la inoj estas senflugilaj, sen-au^ tre mallong-piedaj, rondformaj k parazitas sur diversaj specioj de vaskulplantoj, dum la virseksuloj estas duflugilaj k ne sin nutras; ili sekrecias vakson au^ lakon.
 kod/er/o⟦码/粒/o⟧:【PIV】1 Unu el la signoj au^ grupoj de signoj en kodo 2. 2 Kodono.
-kod/on/o⟦码/分/o⟧:【生】【PIV】Unuo de gena informo, konsistanta el triopo da nukleotidoj el mesag^a RNA k reganta la enkorpigon de unu aminacido en polipeptidon: unu kodono (g^enerale AUG) iniciatas la sintezon, dum aliaj estas netradukeblaj k haltigas la sintezon. Sin. (sinonimo) kodero (de la gena kodo).##偽分解(PIV正式分解)##過細分解 kod/o/n/o
+kod/on/o⟦码/on/o⟧:【生】【PIV】Unuo de gena informo, konsistanta el triopo da nukleotidoj el mesag^a RNA k reganta la enkorpigon de unu aminacido en polipeptidon: unu kodono (g^enerale AUG) iniciatas la sintezon, dum aliaj estas netradukeblaj k haltigas la sintezon. Sin. (sinonimo) kodero (de la gena kodo).##偽分解(PIV正式分解)##過細分解 kod/o/n/o
 kod/vort/o⟦码/词/o⟧:【PIV】Konvencia vorto au^ vortgrupo en kodo 2.
 kodein/o:【化】【PIV】Alkaloido, C 18 H 21 NO 3, ekstraktata el opio au^ pli ofte sintezata el morfino; uzata pro antidolora k precipe antitusa efiko.
 koendu/o⟦兽ᴷᴰ/o⟧:【動】【PIV】G. (Genro) (Coendu) de S-Amerikaj mamuloj el la ordo de rong^uloj, kun hau^to kovrita de pikiloj simile al histriko, sed kun longa, prenpova vosto; kapablaj grimpi sur arboj.
@@ -50869,7 +50869,7 @@ Kortes/oj:【史】【PIV】Hispania au^ Portugalia leg^ofara asembleo.
 kortez/a:【PIV】Konforma al la tradicio de la trobadoroj, kiuj prikantis rafinitan, nematerian amon.
 kortici/o⟦菌ᴷᴿ/o⟧:【植】【PIV】G. (Genro) (Corticium el korticiacoj) kosmopolita de c^. (c^irkau^) 250 sp-oj (specioj) de bazidifungoj g^enerale lignolog^aj, kun glathimenia bazidio g^enerale krustoforma.
 kortik/o⟦皮ᴷ/o⟧:【解】【植】【PIV】(cortex) 1 Supraj^a tavolo de diversaj organoj: la rena kortiko (cortex renalis); kortiko de la talo de likeno. Vd s^elo, kortekso, medolo. 2 (speciale) Supraj^a tavolo de la surrena glando. Vd kortikoterapio, kortikosteroido, kortikosurrena (Vd (vidu) reno). 3 (pp (se paroli pri) vaskulplantoj) La ekstera parto de radiko k tigo, konsistanta el nekondukaj histoj, i.a. (interalie, inter aliaj) epidermo, subera parenkimo, kortika parenkimo k endodermo. Vd steleo, endodermo.
-kortik/o/trop/a⟦皮ᴷ/o/向ᵀ/a⟧:【生】【医】【PIV】Havanta afinecon al la kortika substanco de la surrena glando (kortikoafina) au^ stimulanta g^in (kortikostimula).##偽分解
+kortik/o/trop/a⟦皮ᴷ/o/向ᵀ/a⟧:【生】【医】【PIV】Havanta afinecon al la kortika substanco de la surrena glando (kortikoafina) au^ stimulanta g^in (kortikostimula).##偽分解(PIV正式分解)
 kortikosteron/o:【生】【PIV】Unu el la kortikosurrenaj hormonoj, tre parenca al kortizolo, sed malpli aktiva.
 kortinari/o⟦菌ᴷᴼ/o⟧:【植】【PIV】G. (Genro) (Cortinarius el kortinariacoj) de ombrelfungoj g^enerale kurtenohavaj, kun bruna sporaro; c^. (c^irkau^) 1000 sp-oj (specioj), N-hemisferaj, pluraj tre venenaj k ec^ (ekz. (ekzemple) C. orellanus) mortigaj.
 kortizol/o:【生】【PIV】La c^efa kortikosurrena hormono, kiu grave rolas i.a. (interalie, inter aliaj) en la regado de la metabolo de la glucidoj k proteinoj k lukto kontrau^ streso: kortizolo estas terapie uzata pro antiinflamaj ecoj; la sekrecion de kortizolo stimulas la hipofiza adrenal-kortikostimula hormono. Sin. (sinonimo) hidrokortizono. see kortizono, kortikosterono.
@@ -52004,7 +52004,7 @@ mezur/ist/o⟦测/家/o⟧:【PIV】Tiu, kiu faras la mezuraj^on de konstruaj^o.
 mi/o⟦肌/o⟧:【解】【医】【生】【PIV】Muskolo (en kunmetaj^oj): mialgio, miastenio, miofibretoj, miofibrito, mioglobino, miokardio, miosarkomo.
 mi/it/o⟦肌/炎ᵀ/o⟧:【医】【PIV】Inflamo de la muskola histo.##偽分解(PIV正式分解)
 mi/om/o⟦肌/瘤/o⟧:【医】【PIV】Muskola tumoro.##偽分解(PIV正式分解)##過細分解 mi/o/m/o
-mi/on/o⟦肌/分/o⟧:【生】【PIV】Funkcia unuo de la muskolo.##偽分解(PIV正式分解)##過細分解 mi/o/n/o
+mi/on/o⟦肌/on/o⟧:【生】【PIV】Funkcia unuo de la muskolo.##偽分解(PIV正式分解)##過細分解 mi/o/n/o
 mi/o/pati/o⟦肌/o/病ᴾ/o⟧:【PIV】Grava, hereda muskola atrofio.##偽分解(PIV正式分解)
 mi/aj^/o⟦我/物/o⟧:【PIV】Tio, kio apartenas al mi au^ koncernas min: mi faris la miaj^on, la rabado estas via afero! .
 micel/o:【理】【化】【PIV】Multmolekula (10 ^−8 −0,3. 10 ^−6 m dimensia) ero de koloido en koloida solvaj^o: sapo formas micelojn en akvo, kiuj kaptas malpuraj^ojn k suspensiigas ilin.
@@ -52365,7 +52365,7 @@ nefr/o⟦肾ᴺ/o⟧:【解】【医】【PIV】Reno (precipe en kunmetaj^oj).
 nefr/a⟦肾ᴺ/a⟧:【PIV】Rilata al reno(j).
 nefr/it/o⟦肾ᴺ/炎ᵀ/o⟧:【医】【PIV】Inflamo de nefro(j).##偽分解(PIV正式分解)
 nefr/it/o⟦肾ᴺ/炎ᵀ/o⟧:【地質】【PIV】Ege kohera, verdeta au^ blueta amfibolo (pli speciale tremolito au^ aktinolito) felteca, mikroskope fibra. Vd jado.##偽分解(衝突語)
-nefr/on/o⟦肾ᴺ/分/o⟧:【解】【PIV】Funkcia unuo de la reno.##偽分解(PIV正式分解)##過細分解 nefr/o/n/o
+nefr/on/o⟦肾ᴺ/on/o⟧:【解】【PIV】Funkcia unuo de la reno.##偽分解(PIV正式分解)##過細分解 nefr/o/n/o
 nefr/oz/o⟦肾ᴺ/症ᴼ/o⟧:【医】【PIV】Neinflama rena afekcio.
 nefr/ektomi/o⟦肾ᴺ/除ᴱᴷ/o⟧:【PIV】Parta au^ tuta ablacio de unu reno.##偽分解(PIV正式分解)
 nefr/o/logi/o⟦肾ᴺ/o/学ᴸᴳ/o⟧:【PIV】Medicina fako pri la renoj.##偽分解
@@ -52448,7 +52448,7 @@ neu^r/o⟦神经ᴺᵁ̆/o⟧:【生】【PIV】Nervo, nerva histo (en kunmetaj^
 neu^r/it/o⟦神经ᴺᵁ̆/炎ᵀ/o⟧:【医】【PIV】Kn (Kolektiva nomo) de inflamaj au^ degeneraj lezoj de la nervoj.##偽分解(PIV正式分解)
 neu^r/o/log/o⟦神经ᴺᵁ̆/o/学家/o⟧:【PIV】Specialisto pri neu^rologio.##偽分解
 neu^r/om/o⟦神经ᴺᵁ̆/瘤/o⟧:【PIV】Tumoro el la nerva histo.##偽分解(PIV正式分解)##過細分解 neu^r/o/m/o
-neu^r/on/o⟦神经ᴺᵁ̆/分/o⟧:【生】【PIV】Nerva c^elo, ekscitebla k kapabla konduki nervajn mesag^ojn (Vd impulso), konsistanta el c^ela korpo kun sia nukleo, el speco de branc^etaro (Vd dendrito 2) k el ordinare longa filamento (aksono). Sin. (sinonimo) nervoc^elo.##偽分解(PIV正式分解)##過細分解 neu^r/o/n/o
+neu^r/on/o⟦神经ᴺᵁ̆/on/o⟧:【生】【PIV】Nerva c^elo, ekscitebla k kapabla konduki nervajn mesag^ojn (Vd impulso), konsistanta el c^ela korpo kun sia nukleo, el speco de branc^etaro (Vd dendrito 2) k el ordinare longa filamento (aksono). Sin. (sinonimo) nervoc^elo.##偽分解(PIV正式分解)##過細分解 neu^r/o/n/o
 neu^r/asteni/a⟦神经ᴺᵁ̆/弱ᴬ/a⟧:【PIV】Rilata al neu^rastenio: neu^rastenia temperamento, krizo.##偽分解(PIV正式分解)
 neu^r/o/pati/o⟦神经ᴺᵁ̆/o/病ᴾ/o⟧:【医】【心】【PIV】1 (kn (kolektiva nomo)) Nerva afekcio: neu^ropatio diabeta, vaskula, alkohola, nervoprema, vitaminmanka, toksa, hepata, plumba; c^e vestibla neu^ropatio la paciento perdas la ekvilibrosenson. 2 (ark. (arkaismo, arkaisme)) Psika perturbo.##偽分解(PIV正式分解)
 neu^r/o/trop/a⟦神经ᴺᵁ̆/o/向ᵀ/a⟧:【PIV】(pp (se paroli pri) kemia substanco, mikrobo, viruso ktp (kaj tiel plu)) Nervoafina.##偽分解(PIV正式分解)
@@ -52872,7 +52872,7 @@ ost/om/o⟦骨/瘤/o⟧:【医】【PIV】Tumoro el osta histo.##偽分解(PIV�
 ost/o/pati/o⟦骨/o/病ᴾ/o⟧:【医】【PIV】C^iu osta afekcio.##偽分解(PIV正式分解)
 ost/o/substanc/o⟦骨/o/质ˢ/o⟧:【PIV】Osto 2.
 ost/o/tomi/o⟦骨/o/切ᵀᴹ/o⟧:【医】【PIV】Kirurgia tranc^o de osto.##偽分解
-ost/e/in/o⟦骨/e/女/o⟧:【PIV】= ostino.##偽分解(PIV正式分解)
+ost/e/in/o⟦骨/e/in/o⟧:【PIV】= ostino.##偽分解(PIV正式分解)
 osteomjelit/o:【PIV】= ostomedolito.
 osteopat/o:【医】【PIV】Homo, kiu per mana metodo diagnozas k kuracas la mankojn en la movig^ivo de la artikoj, muskoloj, ligamentoj, visceroj.
 ost/e/o/pati/o⟦骨/e/o/病ᴾ/o⟧:【PIV】Tiu kuracometodo. Vd kiropraktiko. -> ostopatio.##偽分解
@@ -53188,7 +53188,7 @@ pekan/o⟦山核桃ᴾ/o⟧:【植】【PIV】Speco de nukso, frukto de pekankar
 pekan/arb/o⟦山核桃ᴾ/树/o⟧:【PIV】Pekankarjo.
 Pekin/a:【PIV】Rilata al Pekino: la Pekina dialekto; Pekina hundo.
 pekt/o:【化】【PIV】Radiko de plantaj g^eligaj glucidoj, enhavantaj d-galakturonatan acidon.
-pekt/in/o⟦pekt/女/o⟧:【PIV】Pektata acido, kies karboksiloj estas grandparte esterigitaj de metanolo; grava konsistaj^o de la c^elmuro de plantoj: pektino estas uzata kiel g^eliganto en nutraj^a k farmacia industrio.##偽分解(PIV正式分解)
+pekt/in/o:【PIV】Pektata acido, kies karboksiloj estas grandparte esterigitaj de metanolo; grava konsistaj^o de la c^elmuro de plantoj: pektino estas uzata kiel g^eliganto en nutraj^a k farmacia industrio.##偽分解(PIV正式分解)
 pektine/o:【解】【PIV】(M. pectineus) Unu el la muskoloj de la femuro.
 pektoral/o:【解】【PIV】Nomo de du brustaj muskoloj, la maj^ora k la minora pektoralo (M. pectoralis major k minor).
 pel/ad/i⟦驱/行/i⟧:【PIV】Ripete peli: li peladis sin kun strataj buboj sur herbejoj k montoj ; (f (figurasence)) sento de maltrankvileco peladis lin sur la erikejon .
@@ -53277,7 +53277,7 @@ peri/fraz/o⟦围ᴾ/句/o⟧:【PIV】C^irkau^frazo (ekz. (ekzemple): «kiam la
 perigin/a:【植】【PIV】1 (pp (se paroli pri) perianto k androceo) Insertig^anta sur la rando de pelvo-au^ kruc^o-forma receptaklo: periginaj sepaloj. 2 (pp (se paroli pri) floro) Kies perianto k androceo estas periginaj: periginaj floroj havas superan au^ duonsuperan ovarion. Vd epigina, hipogina.
 peri/glaci/a⟦围ᴾ/冰/a⟧:【地質】【地理】【PIV】(pp (se paroli pri) regiono) Klimate malvarma, situanta proksime al la rando de la surkontinenta glacikovraj^o.##偽分解
 Perigozi/o:【PIV】Regiono c^irkau^ Perigozo.
-peri/kardi/it/o⟦围ᴾ/心ᴷᴰ/炎ᵀ/o⟧:【医】【PIV】Inflamo de la perikardio.##偽分解(PIV正式分解)
+peri/kardi/it/o⟦围ᴾ/心ᴷᴰ/炎ᵀ/o⟧:【医】【PIV】Inflamo de la perikardio.##偽分解
 Perikl/o:【PIV】Helena vira nomo, i.a. (interalie, inter aliaj) de la plej granda regnestro de Ateno: la jc (jarcento) de Periklo (la 5a a.K. (antau^ Kristo)).
 perikop/o:【キ】【PIV】Paragrafo el la Biblio, voc^legata dum kulto.
 perilj/o⟦草ᴾᴶ/o⟧:【植】【PIV】G. (Genro) (Perilla el lamiacoj), parenca al ocimo, de unujaraj, aromaj herboj; 6 sp-oj (specioj) el SE Azio.
@@ -53887,7 +53887,7 @@ prolifer/ad/o⟦殖ᴾ/行/o⟧:【PIV】Ago de io, kio proliferas.
 prolifer/em/a⟦殖ᴾ/倾/a⟧:【PIV】Kapabla proliferi.
 prolin/o:【化】【PIV】Heterocikla aminacido, C 5 H 9 NO 2, unu el la 20 c^efaj aminacidoj de la proteinoj; simb. (simbolo): Pro.
 prometi/o⟦金ᴾᴿ/o⟧:【化】【PIV】1 Radioaktiva elemento, Pm, atomnumero 61, atommaso 145, lantanido: prometia klorido, PmCl 3; prometiaj kombinaj^oj. 2 Metalo.
-pro/mil/o⟦因ᴾ/千/o⟧:【PIV】Valoro au^ taksado difinita rilate al la nombro mil. Sin. (sinonimo) elmilo. Vd procento 2, milono.##偽分解
+pro/mil/o⟦pro/千/o⟧:【PIV】Valoro au^ taksado difinita rilate al la nombro mil. Sin. (sinonimo) elmilo. Vd procento 2, milono.##偽分解
 prominenc/o:【解】【PIV】1 Nomo de diversaj elstaraj^oj: laringa prominenco (prominentia laryngea). 2【天】 C^iu el la relative malvarmaj k densaj regionoj en la suna korono, similaj al flamoj k videblaj dum plena suna eklipso.
 prominent/a:【解】【PIV】Pli elstaranta: la prominenta vertebro (vertebra prominens) estas la sepa kola vertebro. Vd protruda.
 promotor/o:【生】【PIV】Regad-regiono de geno, kie unue alfiksig^as RNA-polimerazo: promotoro ofte estas ric^a je timino k adenino.
@@ -55961,7 +55961,7 @@ tavol/et/o⟦层ᵀ/小/o⟧:【地質】【PIV】Subdividaj^o de tavolo lau^ et
 tavol/ig/o⟦层ᵀ/使/o⟧:【PIV】Diferencigado de socio lau^ tavoloj 5.
 tazet/o⟦草ᵀᶻ/o⟧:【植】【PIV】Sp. (Specio) de narciso (Narcissus tazetta) kun 3−5-opaj floroj tre aromaj, blankaj, flavaj, blankaj-flavaj au^ blankaj-okraj; mediteranea, disvastigita g^is C^inio k Japanio, pororname kultivata.
 te/ac/oj⟦茶/科ᴬ/oj⟧:【植】【PIV】Fam. (Familio) (Theaceae) de c^. (c^irkau^) 610 sp-oj (specioj) el 22 g-oj (genroj), i.a. (interalie, inter aliaj) kamelio.
-te/in/o⟦茶/女/o⟧:【PIV】(ark. (arkaismo, arkaisme)) = kafeino el teo.##偽分解(PIV正式分解)
+te/in/o⟦茶/in/o⟧:【PIV】(ark. (arkaismo, arkaisme)) = kafeino el teo.##偽分解(PIV正式分解)
 te/ism/o⟦神ᵀ/主义/o⟧:【医】【PIV】Toksig^o per teo.
 teba/a⟦鸦片ᵀ/a⟧:【PIV】(ark. (arkaismo, arkaisme)) Rilata al opio: tebaa preparaj^o.
 teba/ism/o⟦鸦片ᵀ/主义/o⟧:【医】【PIV】Venenig^o per opio.
@@ -56013,7 +56013,7 @@ Telemah^/o:【PIV】Mita filo de Odiseo k Penelopo.
 telemark/o:【PIV】Lerta svingturnig^o en skiado, uzata por s^ang^i la direkton au^ rapide halti.
 telencefal/o:【解】【PIV】(telencephalon) Antau^a parto de la antau^a cerbo, kiu formas la cerebrajn hemisferojn.
 teleoste/oj:【動】【PIV】Superordo (Teleostei) de aktinopterigaj fis^oj kun plene osteca skeleto; ampleksas la pli grandan parton de nunaj fis^oj; ordoj: ciprinoformaj, klupeformaj, salmonoformaj, angiloformaj, siluroformaj, simbrankoformaj, gasterosteformaj, notakantoformaj, gadoformaj, lofiformaj, perkoformaj, pleu^ronektoformaj k.a. (kaj aliaj). see holosteoj, kondrosteoj.
-tele/pati/a⟦远/情/a⟧:【PIV】Rilata al telepatio: telepatia komunikig^o.##偽分解(PIV正式分解)
+tele/pati/a⟦远/情/a⟧:【PIV】Rilata al telepatio: telepatia komunikig^o.##偽分解
 telestik/o:【PIV】Poemo, en kiu la lasta litero de c^iu verso formas nomon au^ vorton. Vd akrostiko, mezostiko.
 teleu^tospor/o:【PIV】= telisporo.
 telfer/a⟦缆路/a⟧:【PIV】Apartenanta al telfero.
@@ -56090,7 +56090,7 @@ terat/om/o⟦畸/瘤/o⟧:【医】【PIV】Nomo de kompleksaj tumoroj kun multa
 terbi/o⟦金ᵀᴮ/o⟧:【化】【PIV】1 Elemento, Tb, atomnumero 65, atommaso 158,93, lantanido: terbia triklorido, TbCl 3; terbiaj kombinaj^oj. 2 Metalo.
 tercian/a:【医】【PIV】(pp (se paroli pri) febro) Tia, ke g^i atake okazas c^iun duan tagon, k tiel restas unutaga senfebra intervalo. Vd kvartana.
 tercin/o:【PIV】Metrika skemo, iniciatita de Danto k konsistanta el serio da trioj (rimoj: aba bcb cdc).
-terebint/in/o⟦木ᵀᴿ/女/o⟧:【PIV】1 Flava au^ bruna, duonfluida esencrezino (vera terebintino), els^vitaj^o el terebinto. 2 Esencrezino, els^vitaj^o de diversaj koniferoj, precipe de pino.##偽分解(PIV正式分解)
+terebint/in/o⟦木ᵀᴿ/in/o⟧:【PIV】1 Flava au^ bruna, duonfluida esencrezino (vera terebintino), els^vitaj^o el terebinto. 2 Esencrezino, els^vitaj^o de diversaj koniferoj, precipe de pino.##偽分解(PIV正式分解)
 tered/o⟦贝ᵀ/o⟧:【動】【PIV】G. (Genro) (Teredo) de maraj moluskoj el la klaso de duvalvuloj, fam. (familio) de foladedoj, kiuj boras en lignaj traboj, s^ipoj, kajofostoj kc (kaj ceteraj). Vd folado.
 teren/a⟦地ᵀᴺ/a⟧:【PIV】Rilata al la tereno: terenaj studoj (kontraste kun la laboratoriaj).
 Terenci/o:【PIV】Latina vira nomo, i.a. (interalie, inter aliaj) de komediverkisto (P. Terentius Afer, c^. (c^irkau^) 190−159).
@@ -56529,9 +56529,9 @@ Tudor/a:【PIV】Rilata al tiu periodo, precipe pp (se paroli pri) arta k arkite
 tuf/a⟦丛/a⟧:【PIV】Prezentanta tufo(j)n: li havis grizajn tufajn brovojn .
 tuf/ig^/ant/a⟦丛/成/在/a⟧:【PIV】Tufformanta: tufig^anta musko.
 Tuileri/oj:【PIV】1 Palaco de la francaj reg^oj en Parizo, forbruligita en 1871 de la Komunumaj trupoj. 2 Granda publika parko sur tiu loko.
-tuj/an/o⟦即/员ᴬ/o⟧:【化】【PIV】Simpla, unucikla monoterpeno, C 10 H 18, kies derivaj^oj estas gravaj natursubstancoj, i.a. (interalie, inter aliaj) tujolo k tujono.##偽分解(PIV正式分解)##過細分解 t/u/j/a/n/o
-tuj/ol/o⟦即/ol/o⟧:【化】【PIV】Alkohola monoterpeno, C 10 H 17 OH, trovig^anta i.a. (interalie, inter aliaj) en absinto.##偽分解(PIV正式分解)##過細分解 t/u/j/o/l/o
-tuj/on/o⟦即/分/o⟧:【化】【PIV】Ketona monoterpeno, C 10 H 16 O, trovig^anta i.a. (interalie, inter aliaj) en tujo k absinto.##偽分解(PIV正式分解)##過細分解 t/u/j/o/n/o
+tuj/an/o⟦侧柏/an/o⟧:【化】【PIV】Simpla, unucikla monoterpeno, C 10 H 18, kies derivaj^oj estas gravaj natursubstancoj, i.a. (interalie, inter aliaj) tujolo k tujono.##偽分解(PIV正式分解)##過細分解 t/u/j/a/n/o
+tuj/ol/o⟦侧柏/ol/o⟧:【化】【PIV】Alkohola monoterpeno, C 10 H 17 OH, trovig^anta i.a. (interalie, inter aliaj) en absinto.##偽分解(PIV正式分解)##過細分解 t/u/j/o/l/o
+tuj/on/o⟦侧柏/on/o⟧:【化】【PIV】Ketona monoterpeno, C 10 H 16 O, trovig^anta i.a. (interalie, inter aliaj) en tujo k absinto.##偽分解(PIV正式分解)##過細分解 t/u/j/o/n/o
 tujops/o⟦木ᵀᴶ/o⟧:【植】【PIV】G. (Genro) (Thujopsis el kupresacoj) de nur unu sp. (T. dolabrata) de arbo el Japanio.
 tuku/o⟦鼠ᵀ/o⟧:【動】【PIV】Kn (Kolektiva nomo) de diversaspecaj oftaj S-Amerikaj rong^uloj el la g. (genro) Ctenomys, kiuj vivas preskau^ c^iam en siaj subteraj galerioj k de tie au^digas specialan bruon, kiel obtuzan frapon, al kio aludas la nomo.
 tularemi/o:【医】【PIV】Epidemia malsano de leporo, kuniklo ks (kaj simile, kaj similaj), transdonebla al homo per pikoj de insektoj.
@@ -57133,7 +57133,7 @@ Herodias:【PIV】N. Nepino de Herodo la Granda, bofratino k edzino de Herodo An
 Higie/a:【神話】【PIV】Helena diino de la sano.
 Hild/a:【PIV】Virina nomo.
 himantopod/o⟦鸟ᴴᴰ/o⟧:【動】【PIV】Birdo (unuspecia g. (Himantopus himantopus) el la ordo de karadriformaj, kun longa, maldika, rekta beko k rug^aj, tre longaj kruroj.
-hiper/krit/a⟦超/临界/a⟧:【PIV】= superkrita.##偽分解
+hiper/krit/a⟦超/临界/a⟧:【PIV】= superkrita.##偽分解(PIV正式分解)
 Hipolit/e:【神話】【PIV】Reg^ino de la Amazonoj.
 Ho-C^i-Min:【PIV】Vjetnama poeto k politikisto (1890−1969), grava gvidanto de la batalo por sendependeco de Vjetnamio. Ho-C^i-Min-Urbo. S-Vjetnamia havenurbo (106°45′E, 10°44′N). Vd Sajgono.
 Hos^e/a:【聖】【PIV】La unua el la malgrandaj profetoj.
@@ -57469,7 +57469,7 @@ kontrau^/alize/o⟦对/信风ᴬ/o⟧:【PIV】Vento, kiu blovas en la samaj kon
 cikl/o/alk/an/o⟦环ᶜ/o/alk/an/o⟧:【PIV】Molekulo simila al alkano, sed kun unu ciklo en la karbona skeleto, ekz. (ekzemple) ciklopropano.##偽分解(PIV正式分解)##過細分解 cikl/o/a/l/k/a/n/o
 cikl/o/alk/adien/o⟦环ᶜ/o/alk/adien/o⟧:【PIV】Molekulo simila al alkadieno (resp. (respektive) alkeno), sed kun unu ciklo en la karbona skeleto, ekz. (ekzemple) 1,3-cikloheksadieno.##偽分解(PIV正式分解)##過細分解 cikl/o/a/l/k/adien/o
 cikl/o/alk/en/o⟦环ᶜ/o/alk/en/o⟧:【PIV】Molekulo simila al alkadieno (resp. (respektive) alkeno), sed kun unu ciklo en la karbona skeleto, ekz. (ekzemple) 1,3-cikloheksadieno.##偽分解(PIV正式分解)##過細分解 cikl/o/a/l/k/e/n/o
-cikl/o/alk/in/o⟦环ᶜ/o/alk/女/o⟧:【PIV】Molekulo simila al alkino, sed kun unu ciklo en la karbona skeleto.##偽分解(PIV正式分解)##過細分解 cikl/o/a/l/k/in/o
+cikl/o/alk/in/o⟦环ᶜ/o/alk/in/o⟧:【PIV】Molekulo simila al alkino, sed kun unu ciklo en la karbona skeleto.##偽分解(PIV正式分解)##過細分解 cikl/o/a/l/k/in/o
 ter/alkal/o⟦地/碱ᴬ/o⟧:【PIV】(evi (evitinda)) = teralkala metalo.
 brul/alkohol/o⟦燃/醇/o⟧:【化】【PIV】Kolorigita, denaturigita alkoholo, servanta por hejti k boligi.
 tio/alkohol/o⟦tio/醇/o⟧:【化】【PIV】Tiolo.##偽分解(PIV正式分解)##過細分解 t/i/o/alkohol/o
@@ -57678,7 +57678,7 @@ glob/bakteri/o⟦球ᴳ/菌ᴮ/o⟧:【PIV】Bakterio en formo de globeto. Sin. 
 grapol/bakteri/o⟦串/菌ᴮ/o⟧:【PIV】Bakterio, kies pli-malpli globaj c^eloj estas arig^intaj en kompaktajn grupojn, iom similajn al grapoloj de vinbero. Vd stafilokoko.
 katen/bakteri/o⟦链ᴷ/菌ᴮ/o⟧:【PIV】Bakterio, kies pli-malpli globaj c^eloj estas arig^intaj en katenetojn. Vd streptokoko.
 lakt/o/bakteri/oj⟦乳/o/菌ᴮ/oj⟧:【PIV】Grupo de diversagenraj eu^bakterioj, kapablaj transformi sukerojn al laktata acido. Vd laktobacilo.
-met/an/bakteri/oj⟦置/an/菌ᴮ/oj⟧:【PIV】Grupo de prabakterioj, kiuj produktas metanon el hidrogeno k karbondioksido au^ organikaj acidoj; vivas en senaeraj subakvaj sedimentoj k produktas grandan parton de la marc^aj gasoj.##偽分解(PIV正式分解)##過細分解 m/e/t/a/n/bakteri/oj
+met/an/bakteri/oj⟦甲/an/菌ᴮ/oj⟧:【PIV】Grupo de prabakterioj, kiuj produktas metanon el hidrogeno k karbondioksido au^ organikaj acidoj; vivas en senaeraj subakvaj sedimentoj k produktas grandan parton de la marc^aj gasoj.##偽分解(PIV正式分解)##過細分解 m/e/t/a/n/bakteri/oj
 purpur/bakteri/oj⟦紫/菌ᴮ/oj⟧:【PIV】Grupo de fotosintezaj eu^bakterioj, kun bakterioklorofilo k rug^a pigmento: sulfuraj purpur bakterioj (aernetoleraj, oksidantaj sulfidojn al sulfuro) , nesulfuraj purpur bakterioj (aertoleraj).
 sal/eg/bakteri/oj⟦盐/巨/菌ᴮ/oj⟧:【PIV】Grupo de prabakterioj kreskantaj en ege salaj akvoj (120−300 g/l da natria klorido).
 sapr/o/bakteri/o⟦腐ˢᴿ/o/菌ᴮ/o⟧:【生】【PIV】Bakterio, vivanta nur el sapro, sed povanta vegeti en organismo sen malutilo por c^i tiu: iuj sapro bakterioj povas sub iuj kondic^oj farig^i patogenaj. Sin. (sinonimo) saprofito 2.
@@ -58334,7 +58334,7 @@ mal/felic^/eg/o⟦反/幸/巨/o⟧:【PIV】Ekstrema malfelic^o. Vd katastrofo.
 mal/felic^/ig/i⟦反/幸/使/i⟧:【PIV】Fari iun malfelic^a.
 mal/felic^/ul/o⟦反/幸/者/o⟧:【PIV】Homo malfelic^a: ho ve, mi malfelic^ulo! ; helpi al la malfelic^uloj.
 s^af/femur/aj^/o⟦羊/股ᶠ/物/o⟧:【PIV】Femuro de s^afo, preparita por la mang^o. Sin. (sinonimo) s^afklabo.
-di/met/oksi/fen/ol/o⟦神/置/氧/fen/ol/o⟧:【PIV】Gvajakolo.##偽分解(PIV正式分解)##過細分解 d/i/m/e/t/oksi/f/e/n/o/l/o
+di/met/oksi/fen/ol/o⟦二/甲/氧/fen/ol/o⟧:【PIV】Gvajakolo.##偽分解(PIV正式分解)##過細分解 d/i/m/e/t/oksi/f/e/n/o/l/o
 poli/klor/bi/fen/il/o⟦多ᴾ/氯/二ᴮ/fen/基/o⟧:【化】【生態】【PIV】Sintezita substanco, uzata i.a. (interalie, inter aliaj) en kondensatoroj, kiu estas tre persista en la medio k i.a. (interalie, inter aliaj) perturbas la reproduktig^on de fokoj.##偽分解(PIV正式分解)##過細分解 poli/klor/bi/f/e/n/il/o
 tio/fen/ol/o:【化】【PIV】C 6 H 5-SH.##偽分解(PIV正式分解)##過細分解 t/i/o/f/e/n/o/l/o
 dis/fend/o⟦散/裂ᶠ/o⟧:【PIV】Larg^a fendo: disfendo en roko; (f (figurasence)) disfendo en partio. Vd skismo.
@@ -58462,7 +58462,7 @@ ek/flar/i⟦始/嗅/i⟧:【PIV】Enspiri aeron, por distingi odoron.
 c^irkau^/flat/ad/i⟦围/媚/行/i⟧:【PIV】Supers^uti iun per flataj^oj.
 el/flat/i⟦出/媚/i⟧:【PIV】Akiri per flatado.
 mikro/flau^r/o⟦微/植相/o⟧:【PIV】Flau^ro 2.##偽分解
-lakt/o/flav/in/o⟦乳/o/黄/女/o⟧:【PIV】= ribo flavino.##偽分解(PIV正式分解)
+lakt/o/flav/in/o⟦乳/o/黄/in/o⟧:【PIV】= ribo flavino.##偽分解(PIV正式分解)
 rib/o/flav/in/o⟦醋栗/o/黄/in/o⟧:【化】【PIV】Flava, akvosolvebla substanco C 17 H 20 O 6 N 4 (vitamino B2), kies manko kau^zas i.a. (interalie, inter aliaj) lezojn de la hau^to k mukozoj: ribo flavino trovig^as libera en la naturo k ankau^ kiel konsistiga parto de kunenzimoj grave rolantaj en la c^ela metabolo. Vd flavnukleotido, flavoproteino.##偽分解(PIV正式分解)
 pied/fleg/i⟦足/护ᶠ/i⟧:【PIV】Pedikuri.
 de/fleks/ig^/o⟦从/弯/成/o⟧:【技】【PIV】La eta kurbig^o de trabo sub troa s^arg^o.
@@ -58783,7 +58783,7 @@ hemoglobin/emi/o⟦hemoglobin/血ᴱ/o⟧:【医】【PIV】C^eesto de hemo glob
 hemoglobin/uri/o⟦hemoglobin/尿/o⟧:【医】【PIV】C^eesto de hemo globino en la sangoplasmo au^ resp. (respektive) en la urino, pro hemolizo.##偽分解(PIV正式分解)
 mam/glob/oj⟦乳ᴹ/球ᴳ/oj⟧:【PIV】Junag^aj rondaj mamoj.
 mi/o/glob/in/o⟦肌/o/球ᴳ/in/o⟧:【化】【生】【PIV】Muskol globino.##偽分解(PIV正式分解)
-muskol/glob/in/o⟦筋/球ᴳ/女/o⟧:【PIV】Hetero globino de la striitaj k kora muskoloj, kiu staplas oksigenon. Sin. (sinonimo) mioglobino.##偽分解(PIV正式分解)
+muskol/glob/in/o⟦筋/球ᴳ/in/o⟧:【PIV】Hetero globino de la striitaj k kora muskoloj, kiu staplas oksigenon. Sin. (sinonimo) mioglobino.##偽分解(PIV正式分解)
 plat/o/glob/o⟦扁/o/球ᴳ/o⟧:【PIV】Mapo, prezentanta au^ la tutan teran globon (tera plat globo), au^ la tutan c^ielan volbon (c^iela plat globo). Vd globuso. = plat globo
 regn/o/glob/o⟦国ᴿ/o/球ᴳ/o⟧:【PIV】Juvelo globforma, insigno de imperieco. Vd sceptro.
 sang/o/glob/in/o⟦血/o/球ᴳ/in/o⟧:【化】【生】【PIV】Hemo globino 1.##偽分解(PIV正式分解)
@@ -58933,7 +58933,7 @@ re/hejm/ig^/i⟦再/家ᴴ/成/i⟧:【PIV】Reveni hejmen.
 sam/hejm/an/o⟦同/家ᴴ/员ᴬ/o⟧:【PIV】Ano de la sama hejmo: patriotismo mi nomas la servadon al la bono de c^iuj miaj samhejmanoj .
 akv/o/hejt/ad/o⟦水/o/热/行/o⟧:【PIV】Centra hejtado, en kiu oni cirkuligas en la radiatoroj varmigatan akvon.
 ban/hejt/il/o⟦浴/热/具/o⟧:【PIV】Mura aparato por hejti la akvon de bano.
-cikl/o/heks/an/on/o⟦环ᶜ/o/己/an/分/o⟧:【化】【PIV】C 6 H 10 O, grava bazmaterialo por la fabrikado de multaj kemiaj^oj, i.a. (interalie, inter aliaj) nilono.##偽分解(PIV正式分解)##過細分解 cikl/o/heks/a/n/o/n/o
+cikl/o/heks/an/on/o⟦环ᶜ/o/己/an/on/o⟧:【化】【PIV】C 6 H 10 O, grava bazmaterialo por la fabrikado de multaj kemiaj^oj, i.a. (interalie, inter aliaj) nilono.##偽分解(PIV正式分解)##過細分解 cikl/o/heks/a/n/o/n/o
 dis/hel/ig/i⟦散/亮/使/i⟧:【PIV】Skui tiel, ke la flamoj helig^as: disheligu la fajron! .
 antau^/helen/a⟦前/helen/a⟧:【PIV】Ekzistinta antau^ la 5a jc (jarcento) a.K. (antau^ Kristo) k influinta la helenan floradon: la antau^ helena civilizacio de Kreto; antau^ helena alfabeto.
 plat/helmint/oj⟦扁/蠕/oj⟧:【PIV】Filumo (Platyhelminthes) de sencelomaj vermoj, ampleksanta la klasojn de turbelarioj, trematodoj k cestodoj.
@@ -59328,9 +59328,9 @@ anti/koagul/ant/o⟦抗ᴬ/凝ᴷᴳ/在/o⟧:【生】【医】【PIV】Substan
 tro/koagul/ig^/em/o⟦太/凝ᴷᴳ/成/倾/o⟧:【医】【PIV】Troa emo de la sango al koagulig^ado. Vd hemofilio.
 krac^/kobr/o⟦吐ᴷ/眼镜蛇/o⟧:【PIV】Kn (Kolektiva nomo) de kelkaj sp-oj (specioj) de kobro (ekz. (ekzemple) Naja nigricollis), kiuj krac^as sian venenon g^is distanco de 2−3 m.
 lak/o/koc^/o⟦漆/o/红虫/o⟧:【PIV】Sp. (Specio) de koc^ulo (Tachardia lacca, sin. (sinonimo (de latinscienca nomo)) Coccus lacca), kies ino parazitas sur s^osoj de diversspeciaj arboj en Hindio, Tajlando k C^inio, k sekrecias lakon 3.
-anti/kod/on/o⟦抗ᴬ/码/分/o⟧:【PIV】(evi (evitinda)) = kontrau^ kodono.##偽分解(PIV正式分解)##過細分解 anti/kod/o/n/o
+anti/kod/on/o⟦抗ᴬ/码/on/o⟧:【PIV】(evi (evitinda)) = kontrau^ kodono.##偽分解(PIV正式分解)##過細分解 anti/kod/o/n/o
 kontrau^/kod/er/o⟦对/码/粒/o⟧:【生】【PIV】Kontrau^ kodono.
-kontrau^/kod/on/o⟦对/码/分/o⟧:【PIV】Triopo da nukleotidoj el transdona RNA, kiu kongruas kun kodono de la responda mesag^a RNA. Sin. (sinonimo) kontrau^ kodero (de la gena kodo).##偽分解(PIV正式分解)##過細分解 kontrau^/kod/o/n/o
+kontrau^/kod/on/o⟦对/码/on/o⟧:【PIV】Triopo da nukleotidoj el transdona RNA, kiu kongruas kun kodono de la responda mesag^a RNA. Sin. (sinonimo) kontrau^ kodero (de la gena kodo).##偽分解(PIV正式分解)##過細分解 kontrau^/kod/o/n/o
 pos^t/kod/o⟦邮/码/o⟧:【PIV】Sistemo de ciferoj au^ ciferoj k literoj, ellaborita de pos^taj instancoj, por faciligi la klasifikon de postaj^oj lau^ la cellokoj.
 pos^t/o/kod/o⟦邮/o/码/o⟧:【PIV】Sistemo de ciferoj au^ ciferoj k literoj, ellaborita de pos^taj instancoj, por faciligi la klasifikon de postaj^oj lau^ la cellokoj.
 stri/kod/o⟦条/码/o⟧:【PIV】Kodo uzanta vicon de diverslarg^aj paralelaj strioj, kiujn oni skanas per lumfasko au^ legas per lumplumo, c^efe uzata en etikedoj sur varoj au^ sur libroj en biblioteko: strikod-legilo.
@@ -60405,7 +60405,7 @@ roz/et/plant/o⟦玫/小/植/o⟧:【植】【PIV】Planto kun mallongega tigo, 
 sal/plant/o⟦盐/植/o⟧:【生態】【PIV】Saleja planto (Vd (vidu) eja).
 sek/plant/o⟦干/植/o⟧:【PIV】Sekeja planto (Vd (vidu) eja).
 sem/plant/oj⟦种/植/oj⟧:【植】【PIV】Spermatofitoj.
-tal/plant/oj⟦距ᵀ/植/oj⟧:【植】【PIV】Talofitoj.
+tal/plant/oj⟦tal/植/oj⟧:【植】【PIV】Talofitoj.
 tele/graf/plant/o⟦远/记ᴳ/植/o⟧:【PIV】Oscila desmodio.##偽分解(PIV正式分解)
 vaskul/plant/oj⟦脉ⱽˢ/植/oj⟧:【植】【PIV】Vaskulohavaj plantoj, t.e. (tio estas) sem plantoj k pteridofitoj. Sin. (sinonimo) trakeofitoj.
 akv/o/plantag/o⟦水/o/车前/o⟧:【PIV】Plantag-alismo.
