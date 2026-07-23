@@ -29964,7 +29964,7 @@ Perigord/o:【地名】ペリゴール地方（フランス）
 Perigoz/o:【地名】ペリグー（フランス）
 peri/heli/o⟦围ᴾ/日ᴴᴱ/o⟧:【天】近日点,><afelio##偽分解
 peri/kardi/o⟦围ᴾ/心ᴷᴰ/o⟧:【解】心膜##偽分解
-peri/kard/o⟦围ᴾ/心ᴷᴬ/o⟧:【解】=perikardio（心膜）##偽分解(PIV正式分解)
+peri/kard/o⟦围ᴾ/心ᴷᴬ/o⟧:【解】=perikardio（心膜）##偽分解
 perikarp/o:【植】果皮,>>s^elo
 per/il/o⟦以/具/o⟧:手段,媒体
 peri/metr/o⟦围ᴾ/测ᴹᴱ/o⟧:{Ｏ}【数】（平面図形の）周囲の長さ##偽分解
@@ -47454,7 +47454,7 @@ et/an/ol/at/o⟦乙/an/ol/盐ᴬ/o⟧:【化】【PIV】Metalkombinaj^o de etano
 et/en/o⟦乙/en/o⟧:【化】【PIV】CH 2 =CH 2, senkolora, nesaturita, facile polimerigebla gaso, kiun oni ricevas per distilado de karbo au^ per ago de H 2 SO 4 sur alkoholon: eteno estas vegataj^a hormono, rolanta i.a. (interalie, inter aliaj) en la maturig^o de fruktoj.##偽分解(PIV正式分解)##過細分解 e/t/e/n/o
 et/oksi/o⟦乙/氧/o⟧:【化】【PIV】Unuvalenta radiko C 2 H 5 O-k la responda anjono C 2 H 5 O ^-. Rim. (Rimarko) etoksi estas pref-e (prefikse) uzata por nomi substancojn, enhavantajn la grupon C 2 H 5 O-: etoksi etanolo, CH 3-CH 2-O-CH 2-CH 2-OH, solvanto de nitrocelulozo, vernisoj, farboj, puriganto por forigi grasojn k vaksojn.##偽分解(PIV正式分解)##過細分解 e/t/oksi/o
 et/il/ism/o⟦乙/基/主义/o⟧:【PIV】= alkoholismo.##偽分解(PIV正式分解)##過細分解 e/t/il/ism/o
-et/in/o⟦小/in/o⟧:【化】【PIV】HC≡CH, brulema, eksplodema gaso, pasintece uzata por lumigado, nun en s^almoj kun oksigeno, por veldi au^ tranc^i metalojn, k en la fabrikado de diversaj kemiaj^oj, i.a. (interalie, inter aliaj) kiel antau^anto de vinila klorido. Sin. (sinonimo) acetileno.##偽分解(PIV正式分解)##過細分解 e/t/in/o
+et/in/o⟦乙/in/o⟧:【化】【PIV】HC≡CH, brulema, eksplodema gaso, pasintece uzata por lumigado, nun en s^almoj kun oksigeno, por veldi au^ tranc^i metalojn, k en la fabrikado de diversaj kemiaj^oj, i.a. (interalie, inter aliaj) kiel antau^anto de vinila klorido. Sin. (sinonimo) acetileno.##偽分解(PIV正式分解)##過細分解 e/t/in/o
 etalon/o:【PIV】1 Precize difinita modelo, servanta kiel baza konvencia mezurilo por c^iuj samspecaj objektoj. Vd normo 4. 2【経】 La fiksita kvanto de nobla metalo, al kiu estas egaligita la unuo de metala monsistemo: oretalono, arg^ent etalono.
 etend/a⟦伸/a⟧:【理】【PIV】Rilata al etend(ad)o: etenda muskolo; strec^ etenda diagramo.
 etend/o⟦伸/o⟧:【PIV】1 Ago de etendanto: etendo de la brakoj supren. 2 Mezuro de etendado: g^isrompa etendo de drato; limo de etendo.
@@ -51900,7 +51900,7 @@ menonit/o:【キ】【PIV】Ano de movado, deveninta el la frua Reformacio, rifu
 mensog/ad/o⟦谎/行/o⟧:【PIV】Konduto de tiu, kiu multe mensogas.
 mensog/aj^/o⟦谎/物/o⟧:【PIV】Eldiro, teksto ks (kaj simile, kaj similaj), bazita sur mensogoj: G^i (la instruo de Dio) farig^is ja mensogaj^o per la mensoga skribilo de la skribistoj .
 menstru/a⟦月经/a⟧:【PIV】Rilata al menstruo: la menstrua ciklo estas 28-taga; menopau^zo c^esigas la menstruan funkcion.
-ment/an/o⟦薄荷/员ᴬ/o⟧:【化】【PIV】Simpla, unucikla monoterpeno, C 10 H 20, kies derivaj^oj estas gravaj natursubstancoj, i.a. (interalie, inter aliaj) mentolo k timianolo.##偽分解(PIV正式分解)##過細分解 ment/a/n/o
+ment/an/o⟦薄荷/an/o⟧:【化】【PIV】Simpla, unucikla monoterpeno, C 10 H 20, kies derivaj^oj estas gravaj natursubstancoj, i.a. (interalie, inter aliaj) mentolo k timianolo.##偽分解(PIV正式分解)##過細分解 ment/a/n/o
 mentor/i⟦导师/i⟧:【PIV】Agi kiel mentoro.
 menuver/o:【PIV】Felo de la rusa au^ siberia sciuro, uzata por peltoj.
 mer/o⟦链节/o⟧:【化】【PIV】Baza, ripetig^anta kemia radiko, konsistaj^o de pli-malpli granda kunmeta molekulo (poli mero).
@@ -52491,7 +52491,7 @@ nitr/oksid/ad/o⟦氮/氧化/行/o⟧:【生態】【PIV】Oksidado de amonio al
 nitril/o:【化】【PIV】(kn (kolektiva nomo)) Organika ciankombinaj^o, R-C≡N: acetonitrilo au^ etannitrilo (Sin. (sinonimo) metila cianido).
 nitrobakter/o:【生】【PIV】G. (Genro) (Nitrobacter) de grundolog^aj, piroformaj eu^bakterioj, kiuj oksidas nitriton al nitrato. Vd nitrozomonado, nitroksidaj bakterioj.
 nitrozo/:【化】【PIV】Pref. (Prefikso), montranta la c^eeston de grupo-NO en organikaj kombinaj^oj: nitrozo-benzeno, C 6 H 5 NO ktp (kaj tiel plu). -> nitr/oz/a acido.
-nitrozo/il/o⟦nitrozo/具/o⟧:【化】【PIV】La grupo-NO en neorganika kemio: nitrozoila sulfata acido.##偽分解(PIV正式分解)
+nitrozo/il/o⟦nitrozo/基/o⟧:【化】【PIV】La grupo-NO en neorganika kemio: nitrozoila sulfata acido.##偽分解(PIV正式分解)
 nitrozomonad/o:【生】【PIV】G. (Genro) (Nitrosomonas) de grundolog^aj, bastonetformaj eu^bakterioj kiuj oksidas amonion al nitrito. Vd nitrobaktero, nitroksidaj bakterioj.
 nivel/ad/o⟦平ᴺ/行/o⟧:【PIV】Ago de tiu, kiu nivelas: nivelado de la trako.
 nivel/ig/i⟦平ᴺ/使/i⟧:【PIV】1 Ebenigi lau^ dezirata nivelo: niveligi vojon, g^ardenon, korton. 2 (f (figurasence)) Egaligi, samrangigi: niveligi la klasojn sociajn, la kondic^ojn.
@@ -52686,7 +52686,7 @@ okto/pod/o⟦okto/足ᴾᴼ/o⟧:【動】【PIV】G. (Genro) (Octopus) de polpo
 okul/er/o⟦目/粒/o⟧:【PIV】Omatidio.
 okul/et/o⟦目/小/o⟧:【PIV】1 Okulo kun aparta c^armo: tiuj bubetoj, kun la g^ojaj ridantaj okuletoj ; fari al s^i la amajn okuletojn . 2 Eta truo por lac^o, s^nureto: okuletoj de korseto, de velo.
 okupaci/o⟦占领/o⟧:【軍】【PIV】Uzurpa okupado de loko, lando ks (kaj simile, kaj similaj).
-okzal/il/o⟦酸模/具/o⟧:【化】【PIV】La grupo-CO-CO-: okzalila klorido, (COCl) 2.##偽分解(PIV正式分解)
+okzal/il/o⟦酸模/基/o⟧:【化】【PIV】La grupo-CO-CO-: okzalila klorido, (COCl) 2.##偽分解(PIV正式分解)
 ol/at/o⟦ol/盐ᴬ/o⟧:【化】【PIV】(en kunmetaj^oj) Metala salo de alkoholo; alkoholato: kalia etan olato, K ^+ C 2 H 5-O ^−; natria fenolato, Na ^+ C 6 H 5-O ^−.##偽分解(PIV正式分解)##過細分解 o/l/at/o
 oldovaj/o:【PIV】Praac^eu^lea industrio, karakterizata i.a. (interalie, inter aliaj) de la c^operoj; ili estis elfositaj unue en la nordo de Tanzanio samtempe kiel fosilioj de lertaj homoj (Homo habilis) k de parantropoj (c^. (c^irkau^) −2 milionoj j).
 ole/aj^/oj⟦油/物/oj⟧:【PIV】C^iuj oleaj substancoj, uzataj en industrio.
@@ -53390,7 +53390,7 @@ pilot/ej/o⟦领航/所/o⟧:【PIV】Loko, de kiu la piloto gvidas au^ direktas
 pilozel/o⟦菊ᴾᴸ/o⟧:【植】【PIV】1 Sp. (Specio) de hieracio (Hieracium pilosella) sen tigo, kun baza rozeto el integraj, malsupraflanke longaharaj folioj; hejma en Eu^ropo, U Azio k N Afriko, medicine uzata k pororname kultivata. 2 Subgenro (Pilosella el la g. (genro) hieracio), ampleksanta pilozelon k parencajn sp-ojn (speciojn), entute 20−80 sp-ojn (speciojn) el Eu^ropo, Azio k N Afriko.
 pimpinel/o⟦伞ᴾᴹ/o⟧:【植】【PIV】G. (Genro) (Pimpinella el apiacoj) de unu-, du-k plur-jaraj herboj kun folioj 1−3-oble plume dividaj k kun blankaj au^ rozaj floroj; c^. (c^irkau^) 150 sp-oj (specioj) hejmaj en Eu^ropo, Azio k Afriko, el kiuj anizo.
 pin/ac/oj⟦松/科ᴬ/oj⟧:【植】【PIV】Fam. (Familio) (Pinaceae) de rezinaj, pinglohavaj arboj k trunkarbustoj; c^. (c^irkau^) 220 sp-oj (specioj) el 12 g-oj (genroj), i.a. (interalie, inter aliaj) pino, abio, cedro, cugo, lariko, piceo.
-pin/an/o⟦松/员ᴬ/o⟧:【化】【PIV】Simpla, unucikla monoterpeno, saturita analogo de pineno, C 10 H 18, kies derivaj^oj estas gravaj natursubstancoj.##偽分解(PIV正式分解)##過細分解 pin/a/n/o
+pin/an/o⟦松/an/o⟧:【化】【PIV】Simpla, unucikla monoterpeno, saturita analogo de pineno, C 10 H 18, kies derivaj^oj estas gravaj natursubstancoj.##偽分解(PIV正式分解)##過細分解 pin/a/n/o
 pin/en/o⟦松/en/o⟧:【化】【PIV】Monoterpeno, C 10 H 16, c^efa konsistaj^o de la terebintina esenco.##偽分解(PIV正式分解)##過細分解 pin/e/n/o
 pin/o/fit/oj⟦松/o/植ᶠ/oj⟧:【植】【PIV】Filumo (Pinophyta) el la spermatofitoj. Sin. (sinonimo) gimnospermoj.##偽分解(PIV正式分解)
 pin/opsid/oj⟦松/opsid/oj⟧:【植】【PIV】Klaso (Pinopsida) el la gimnospermoj. Sin. (sinonimo) koniferoj.##偽分解(PIV正式分解)
@@ -53445,7 +53445,7 @@ piretr/in/o⟦菊ᴾ/in/o⟧:【化】【PIV】(kn (kolektiva nomo)) Vermicida k
 pir/geo/metr/o⟦火ᴾ/地ᴳ/计ᴹ/o⟧:【PIV】Instrumento por mezuri la teran disradiadon.##偽分解##過細分解 p/i/r/geo/metr/o
 pirid/o:【化】【PIV】piridino (en kunmetaj^oj).
 pirid/in/o:【化】【PIV】Organika, hetero-unucikla substanco, C 5 H 5 N, likvo kun tre malagrabla odoro, preparata el terkarba gudro k bazo de multaj derivaj^oj.##偽分解(PIV正式分解)
-pirid/il/o⟦pirid/具/o⟧:【化】【PIV】La grupo C 5 H 4 N, derivebla el piridino.##偽分解(PIV正式分解)
+pirid/il/o⟦pirid/基/o⟧:【化】【PIV】La grupo C 5 H 4 N, derivebla el piridino.##偽分解(PIV正式分解)
 piridoks/o:【化】【PIV】piridoksino (en kunmetaj^oj).
 piridoks/in/o:【化】【PIV】Organika, hetero-unucikla substanco, C 8 H 11 NO 3, antau^anto de piridoksalo k piridoksalfosfato. Sin. (sinonimo) vitamino B 6.##偽分解(PIV正式分解)
 piridoks/al/o:【PIV】Aldehida derivaj^o de piridoksino.##偽分解(PIV正式分解)##過細分解 piridoks/a/l/o
@@ -53911,7 +53911,7 @@ prop/en/al/o⟦丙/en/al/o⟧:【化】【PIV】Senkolora, pikodora likvo, CH 2 
 prop/en/at/o⟦丙/en/盐ᴬ/o⟧:【化】【PIV】Salo de propata acido.##偽分解(PIV正式分解)##過細分解 prop/e/n/at/o
 prop/en/aldehid/o⟦丙/en/aldehid/o⟧:【PIV】Propenalo.##偽分解(PIV正式分解)##過細分解 prop/e/n/aldehid/o
 prop/il/o⟦丙/基/o⟧:【化】【PIV】La radiko CH 3-CH 2-CH 2 -.##偽分解(PIV正式分解)
-2-prop/en/il/o⟦2-prop/en/具/o⟧:【化】【PIV】La radiko CH 2 =CH-CH 2 -, tre ofta en naturaj substancoj. Sin. (sinonimo) alilo.##偽分解(PIV正式分解)##過細分解 2-prop/e/n/il/o
+2-prop/en/il/o⟦2-prop/en/基/o⟧:【化】【PIV】La radiko CH 2 =CH-CH 2 -, tre ofta en naturaj substancoj. Sin. (sinonimo) alilo.##偽分解(PIV正式分解)##過細分解 2-prop/e/n/il/o
 2-prop/an/ol/o⟦2-prop/员ᴬ/ol/o⟧:【PIV】Alkoholo, uzata kiel purigilo, antisepsaj^o, solvanto; pli toksa ol etanolo sed multe malpli ol metanolo. Sin. (sinonimo) izopropanolo.##偽分解(PIV正式分解)##過細分解 2-prop/a/n/o/l/o
 1,2-prop/an/di/ol/o⟦1,2-prop/员ᴬ/神/ol/o⟧:【化】【PIV】CH 3-CH(OH)-CH 2-OH, netoksa analogo de glikolo, uzata kiel antifrosto. Sin. (sinonimo) metilglikolo.##偽分解(PIV正式分解)##過細分解 1,2-prop/a/n/d/i/o/l/o
 1,2,3-prop/an/tri/ol/o⟦1,2,3-prop/员ᴬ/三/ol/o⟧:【PIV】Glicerolo.##偽分解(PIV正式分解)##過細分解 1,2,3-prop/a/n/tri/o/l/o
@@ -55621,10 +55621,10 @@ sulfinil/o:【PIV】La radiko ≻S=O en organikaj molekuloj. Vd tionilo.
 sulfon/o:【化】【PIV】Organika substanco kun g^enerala formulo R-S(O 2)-R. Rim. (Rimarko) sulfon/ estas uzata kiel mll (mallongigo) de sulfonat/ en kunmetaj^oj: sulfonamido.
 sulfon/at/o⟦sulfon/盐ᴬ/o⟧:【化】【PIV】Salo au^ estero de sulfonata acido kun g^enerala formulo R-S(O 2)OH: p-toluensulfonata acido, CH 3-C 6 H 4-S(O 2)OH estas grava reakcianto.##偽分解(PIV正式分解)
 sulfon/amid/o:【化】【PIV】R-S(O 2)NH 2, amido de sulfonata acido: multaj sulfonamidoj estas baktericidaj. Sin. (sinonimo) sulfamid/o .##偽分解(PIV正式分解)
-sulfon/il/o⟦sulfon/具/o⟧:【化】【PIV】La radiko ≻SO 2 en organikaj molekuloj: p -toluensulfonila klorido CH 3 C 6 H 4 S(O 2)Cl, estas grava sinteza k analiza reakcianto. Vd sulfurilo.##偽分解(PIV正式分解)
+sulfon/il/o⟦sulfon/基/o⟧:【化】【PIV】La radiko ≻SO 2 en organikaj molekuloj: p -toluensulfonila klorido CH 3 C 6 H 4 S(O 2)Cl, estas grava sinteza k analiza reakcianto. Vd sulfurilo.##偽分解(PIV正式分解)
 sulfur/ad/o⟦硫ˢᴿ/行/o⟧:【PIV】Tia pritrakto.
 sulfur/ej/o⟦硫ˢᴿ/所/o⟧:【PIV】Loko, kie oni kolektas au^ ekstraktas sulfuron.
-sulfur/il/o⟦硫ˢᴿ/具/o⟧:【化】【PIV】1 La radiko ≻SO 2 en neorganikaj substancnomoj: sulfurila klorido, SO 2 Cl 2. Vd sulfonilo. 2 Aparato por sulfuri.##偽分解(PIV正式分解)
+sulfur/il/o⟦硫ˢᴿ/基/o⟧:【化】【PIV】1 La radiko ≻SO 2 en neorganikaj substancnomoj: sulfurila klorido, SO 2 Cl 2. Vd sulfonilo. 2 Aparato por sulfuri.##偽分解(PIV正式分解)
 sulfur/tri/oksid/o⟦硫ˢᴿ/三/氧化/o⟧:【化】【PIV】SO 3, sulfat-anhidrido.
 sulki/o:【PIV】Malpeza durada c^aro, uzata dum trot-konkursoj.
 Sull/o:【PIV】Roma diktatoro (L. C. Sylla, 136−78).
@@ -55962,7 +55962,7 @@ tavol/ig/o⟦层ᵀ/使/o⟧:【PIV】Diferencigado de socio lau^ tavoloj 5.
 tazet/o⟦草ᵀᶻ/o⟧:【植】【PIV】Sp. (Specio) de narciso (Narcissus tazetta) kun 3−5-opaj floroj tre aromaj, blankaj, flavaj, blankaj-flavaj au^ blankaj-okraj; mediteranea, disvastigita g^is C^inio k Japanio, pororname kultivata.
 te/ac/oj⟦茶/科ᴬ/oj⟧:【植】【PIV】Fam. (Familio) (Theaceae) de c^. (c^irkau^) 610 sp-oj (specioj) el 22 g-oj (genroj), i.a. (interalie, inter aliaj) kamelio.
 te/in/o⟦茶/in/o⟧:【PIV】(ark. (arkaismo, arkaisme)) = kafeino el teo.##偽分解(PIV正式分解)
-te/ism/o⟦神ᵀ/主义/o⟧:【医】【PIV】Toksig^o per teo.
+te/ism/o⟦茶/主义/o⟧:【医】【PIV】Toksig^o per teo.
 teba/a⟦鸦片ᵀ/a⟧:【PIV】(ark. (arkaismo, arkaisme)) Rilata al opio: tebaa preparaj^o.
 teba/ism/o⟦鸦片ᵀ/主义/o⟧:【医】【PIV】Venenig^o per opio.
 teba/in/o⟦鸦片ᵀ/in/o⟧:【化】【PIV】Unu el la alkaloidoj de opio, sen narkota efiko, sed uzata en la sintezo de morfinaj derivaj^oj.##偽分解(PIV正式分解)

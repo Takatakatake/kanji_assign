@@ -29964,7 +29964,7 @@ Perigord/o:【地名】ペリゴール地方（フランス）
 Perigoz/o:【地名】ペリグー（フランス）
 peri/heli/o:【天】近日点,><afelio##偽分解
 peri/kardi/o:【解】心膜##偽分解
-peri/kard/o:【解】=perikardio（心膜）##偽分解(PIV正式分解)
+peri/kard/o:【解】=perikardio（心膜）##偽分解
 perikarp/o:【植】果皮,>>s^elo
 per/il/o:手段,媒体
 peri/metr/o:{Ｏ}【数】（平面図形の）周囲の長さ##偽分解
