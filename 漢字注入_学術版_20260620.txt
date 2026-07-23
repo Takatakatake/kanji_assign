@@ -46166,7 +46166,7 @@ burser/o⟦木ᴮᵁ/o⟧:【植】【PIV】G. (Genro) (Bursera el burseracoj) d
 burser/ac/oj⟦木ᴮᵁ/科ᴬ/oj⟧:【植】【PIV】Fam. (Familio) (Burseraceae), parenca al la rutacoj k simarubacoj, de dukotiledonaj plantoj - arboj k arbustoj -, enhavantaj rezinojn k gumojn; c^. (c^irkau^) 540, tropikaj sp-oj (specioj) el 17 g-oj (genroj), i.a. (interalie, inter aliaj) bosvelio (Vd olibanarbo), bursero k komiforo.
 bus^/ac^/o⟦口/劣/o⟧:【PIV】Mals^ata nomo de bus^o: tenu la bus^ac^on, vi sovag^a besto, k dormu! .
 but/il/o⟦培/具/o⟧:【PIV】Laborilo, uzata por buti, konsistanta el maldika metala plato lau^larg^e fiksita sur longa tenilo.
-but/⟦培/⟧:【化】【PIV】Pref. (Prefikso), montranta kvarkarbonan c^enon en la nomoj de hidrokarbonoj. Vd et/, pent/.
+but/⟦丁/⟧:【化】【PIV】Pref. (Prefikso), montranta kvarkarbonan c^enon en la nomoj de hidrokarbonoj. Vd et/, pent/.
 butadien/o:【化】【PIV】C 4 H 6, nesaturita hidrokarbono kun du duoblaj ligoj, antau^anto de artefarita kau^c^uko: 1,3-butadieno (CH 2 =CH-CH=CH 2).
 1-butanol/o:【化】【PIV】CH 3-CH 2-CH 2-CH 2-OH. Sin. (sinonimo) n-butanolo.
 2-butanol/o:【化】【PIV】CH 3-CH 2-CH(OH)-CH 3. Sin. (sinonimo) sek-butanolo.
@@ -48791,7 +48791,7 @@ hejm/ig/i⟦家ᴴ/使/i⟧:【PIV】Kutimigi al kunvivado kun homoj: hejmigi sc
 hejt/a⟦热/a⟧:【PIV】Rilata al hejtado: la hejta surfaco de kaldrono, de radiatoro; hejta aparato.
 Hekat/o:【PIV】Helena diino triforma, luna, mara k infera.
 Hekate/o:【PIV】Helena historiisto k geografo (c^. (c^irkau^) 540−480).
-heks/⟦六ᴴ/⟧:【化】【PIV】Pref. (Prefikso), montranta 6-karbonan c^enon en la nomoj de: 1 hidrokarbonoj: heksano (Vd (vidu) poste), hekseno (C 6 H 12) , heksino (C 6 H 10) , heksilo (C 6 H 13 -). Vd (vidu) alk/ 2 monosakaridoj k derivaj^oj: heksozo (C 6 H 12 O 6 au^ C 6 H 12 O 5 c^e deoksi heksozoj); heksitolo (C 6 H 12 O 6). Vd glukozo, fruktozo, galaktozo.
+heks/⟦己/⟧:【化】【PIV】Pref. (Prefikso), montranta 6-karbonan c^enon en la nomoj de: 1 hidrokarbonoj: heksano (Vd (vidu) poste), hekseno (C 6 H 12) , heksino (C 6 H 10) , heksilo (C 6 H 13 -). Vd (vidu) alk/ 2 monosakaridoj k derivaj^oj: heksozo (C 6 H 12 O 6 au^ C 6 H 12 O 5 c^e deoksi heksozoj); heksitolo (C 6 H 12 O 6). Vd glukozo, fruktozo, galaktozo.
 heksan/o:【化】【PIV】C 6 H 14, brulema likvo, uzata kiel puriga solvanto por forigi grasojn de mas^inpartoj.
 heksa/⟦六ᴴᴬ/⟧:【化】【PIV】Pref. (Prefikso), montranta, ke substanco estas karakterizata de, au^ konsistas el, ses atomoj, funkcioj, molekuloj ks (kaj simile, kaj similaj): urania heksafluorido (UF 6); heksationato; heksamero, heksapeptido. Vd mono/, penta/, hepta/, oligo/, poli/.
 heksagon/o⟦六角/o⟧:【PIV】1 = regula sesangulo. 2 = sesangulo.
@@ -48862,7 +48862,7 @@ henikoz/:【化】【PIV】Pref. (Prefikso), montranta 21-karbonan c^enon en la 
 Henj/o:【PIV】Karesformo de Henrieto k de Heleno.
 heparin/o:【化】【生】【PIV】Antikoagula substanco, sulfata glukozamina polisakarido, produktata i.a. (interalie, inter aliaj) en hepato, pulmoj k intestoj.
 hepat/o/pankreat/o⟦肝/o/胰/o⟧:【動】【PIV】Organo de iuj senvertebruloj, kiu rolas kiel k hepato k pankreato.
-hept/:【化】【PIV】Pref. (Prefikso), montranta sepkarbonan c^enon en la nomoj de: 1 hidrokarbonoj: heptano (Vd (vidu) poste) , hepteno (C 7 H 14) , heptino (C 7 H 12), heptilo (C 7 H 15 -) ktp (kaj tiel plu) (vidu alk/) 2 monosakaridoj k derivaj^oj: heptozo (C 7 H 14 O 7 au^ (C 7 H 14 O 5-6 c^e deoksi heptozoj), heptitolo (C 7 H 14 O 7).
+hept/⟦庚/⟧:【化】【PIV】Pref. (Prefikso), montranta sepkarbonan c^enon en la nomoj de: 1 hidrokarbonoj: heptano (Vd (vidu) poste) , hepteno (C 7 H 14) , heptino (C 7 H 12), heptilo (C 7 H 15 -) ktp (kaj tiel plu) (vidu alk/) 2 monosakaridoj k derivaj^oj: heptozo (C 7 H 14 O 7 au^ (C 7 H 14 O 5-6 c^e deoksi heptozoj), heptitolo (C 7 H 14 O 7).
 heptan/o:【化】【PIV】C 7 H 16, brulema likvo, ingredienco de benzino.
 hepta/⟦七ᴴ/⟧:【化】【PIV】Pref. (Prefikso), montranta, ke substanco estas karakterizata de, au^ konsistas el, sep atomoj, funkcioj, molekuloj ks (kaj simile, kaj similaj): heptapeptido. Vd mono/, heksa/, okta/, oligo/, poli/.
 heptagon/o:【PIV】1 = regula sepangulo. 2 = sepangulo.
@@ -52517,7 +52517,7 @@ n-nombr/aj⟦n-数/aj⟧:【植】【PIV】(pp (se paroli pri) floroj) Kun 2, 3,
 nomenklatur/ik/o⟦命名/学ᴵ/o⟧:【PIV】Scienco pri la nomado de la taksonoj. Vd taksonomio.
 nomes/o:【PIV】= nomarkio.
 nominaci/o:【語】【PIV】Tiu speco de subst-a (substantiva) epiteto, kiu havas malpli grandan amplekson ol la antau^a subst. (substantivo); ekz. (ekzemple) en la monato Majo, la nomo Majo estas nominacio de la vorto monato. Vd hiponimo. -> apozicio.
-non/:【化】【PIV】Pref. (Prefikso), montranta nau^karbonan c^enon en la nomoj de hidrokarbonoj, de monosakaridoj k de ties derivaj^oj: nonano, noneno, nonino, nonilo ktp (kaj tiel plu) (Vd (vidu) alk/); nonozo.
+non/⟦壬/⟧:【化】【PIV】Pref. (Prefikso), montranta nau^karbonan c^enon en la nomoj de hidrokarbonoj, de monosakaridoj k de ties derivaj^oj: nonano, noneno, nonino, nonilo ktp (kaj tiel plu) (Vd (vidu) alk/); nonozo.
 nonan/o:【化】【PIV】Likva hidrokarbono, konsistaj^o de benzino, C 9 H 20.
 non/o:【キ】【PIV】Diservo, kanonika horo, ordinare preg^ata je la 15a horo.
 Non/oj:【史】【PIV】C^e la Romanoj, la «nau^a» (fakte la oka) tago lau^ retrokalkulo antau^ la Iduoj (la 7a au^ la 5a, lau^ la monatoj).
@@ -52678,7 +52678,7 @@ oksiur/oz/o⟦虫ᴼᴷ/症ᴼ/o⟧:【医】【PIV】Malsano pro oksiuroj.
 oksiuricid/o⟦虫杀ᴼ/o⟧:【PIV】Medikamento, mortiganta la oksiurojn.
 oksoni/o:【PIV】= oksionio (Vd (vidu) onio).
 okt/o⟦八度ᴼᴷ/o⟧:【楽】【PIV】Intervalo inter ok tonoj en diatona gamo (frekvencproporcio: 2).
-okt/⟦八度ᴼᴷ/⟧:【化】【PIV】Pref. (Prefikso), montranta okkarbonan c^enon en la nomoj de hidrokarbonoj, de monosakaridoj k de ties derivaj^oj: oktano, okteno, oktino, oktilo ktp (kaj tiel plu) (Vd (vidu) alk/); oktozo.
+okt/⟦辛/⟧:【化】【PIV】Pref. (Prefikso), montranta okkarbonan c^enon en la nomoj de hidrokarbonoj, de monosakaridoj k de ties derivaj^oj: oktano, okteno, oktino, oktilo ktp (kaj tiel plu) (Vd (vidu) alk/); oktozo.
 okta/⟦八ᴼᵀ/⟧:【化】【PIV】Pref. (Prefikso), montranta, ke substanco estas karakterizata de, au^ konsistas el, ok atomoj, funkcioj, molekuloj ks (kaj simile, kaj similaj): oktahidrato, oktapeptido. Vd mono/, hepta/, nona/, oligo/, poli/.
 oktaedr/o⟦八面/o⟧:【PIV】1 = regula okedro. 2 = okedro.
 Oktavi/o:【PIV】Romana familia nomo, i.a. (interalie, inter aliaj) de la imperiestro Au^gusto.
@@ -53230,7 +53230,7 @@ penis/ing/o⟦阴茎/座/o⟧:【PIV】1 Ingo, uzata de kelkaj Afrikaj k S-Ameri
 penisit/o⟦阴茎炎/o⟧:【医】【PIV】Inflamo de la tuta peniso.
 pense/o⟦草ᴾˢ/o⟧:【植】【PIV】C^iu violo kun el la kvin petaloj nur unu malsuprendirekta. Vd trikoloreto.
 pensionat/o:【PIV】Iama altklasa edukejo por junaj knab(in)oj. Vd internulejo.
-pent/⟦悔/⟧:【化】【PIV】Pref. (Prefikso), montranta kvinkarbonan c^enon en la nomoj de: 1 hidrokarbonoj: pentano (Vd (vidu) poste) , penteno (C 5 H 10) , pentino (C 5 H 8) , pentilo (C 5 H 11 -; Sin. (sinonimo) amilo) ktp (kaj tiel plu), Vd (vidu) alk/ 2 monosakaridoj k derivaj^oj: pentozo (C 5 H 10 O 5 au^ C 5 H 10 O 4 c^e deoksi pentozoj); pentitolo (C 5 H 10 O 5); pentozano. Vd ribozo, deoksiribozo.
+pent/⟦戊/⟧:【化】【PIV】Pref. (Prefikso), montranta kvinkarbonan c^enon en la nomoj de: 1 hidrokarbonoj: pentano (Vd (vidu) poste) , penteno (C 5 H 10) , pentino (C 5 H 8) , pentilo (C 5 H 11 -; Sin. (sinonimo) amilo) ktp (kaj tiel plu), Vd (vidu) alk/ 2 monosakaridoj k derivaj^oj: pentozo (C 5 H 10 O 5 au^ C 5 H 10 O 4 c^e deoksi pentozoj); pentitolo (C 5 H 10 O 5); pentozano. Vd ribozo, deoksiribozo.
 pentan/o:【化】【PIV】C 5 H 12, brulema likvo, uzata kiel solvanto.
 pentanol/o:【化】【PIV】C 5 H 11 OH, industria solvanto. Sin. (sinonimo) pentila alkoholo.
 penta/⟦五ᴾ/⟧:【化】【PIV】Pref. (Prefikso), montranta, ke substanco estas karakterizata de, au^ konsistas el, kvin atomoj, funkcioj, molekuloj ks (kaj simile, kaj similaj): antimona pentaklorido (SbCl 5); pentationato; pentamero, pentapeptido. Vd mono/, tetra/, heksa/, oligo/, poli/.
@@ -53615,7 +53615,7 @@ pneu^monektomi/o⟦肺除/o⟧:【PIV】Parta au^ tuta ablacio de unu pulmo.
 pneu^monokoni/oz/o⟦pneu^monokoni/症ᴼ/o⟧:【PIV】Malsano, kau^zata de la fiksig^o de karbaj, silicaj ks (kaj simile, kaj similaj) polveroj en la pulmoj.
 pneu^monologi/o⟦肺学/o⟧:【PIV】Studo pri la pulmoj k iliaj malsanoj.
 pneu^monopati/o⟦肺病/o⟧:【PIV】Kn (Kolektiva nomo) de la pulmaj malsanoj.
-po/ac/oj⟦每/科ᴬ/oj⟧:【植】【PIV】Fam. (Familio) (Poaceae, sin. (sinonimo (de latinscienca nomo)) Gramineae, el unukotiledonoj) de herboj, pli malofte lignecaj plantoj (ekz. (ekzemple) bambuoj), kun artikaj, kavaj tigoj (escepte de la nodoj), kun mallarg^aj, g^enerale liniformaj folioj, havantaj cilindran, lau^longe fendan ingon, k kun spiketoj el ne tre videblaj, g^enerale duseksaj floroj kun tre malgranda perianto (see lodiklo) k c^irkau^itaj de karakterizaj brakteoj (see glumo); c^. (c^irkau^) 9 500 sp-oj (specioj) el 668 g-oj (genroj), el kiuj la plej multaj grenspecioj (i.a. (interalie, inter aliaj) aveno, hordeo, maizo, sekalo, tritiko) k kanoj (arundo, bambuoj, fragmito). see greso.
+po/ac/oj⟦草/科ᴬ/oj⟧:【植】【PIV】Fam. (Familio) (Poaceae, sin. (sinonimo (de latinscienca nomo)) Gramineae, el unukotiledonoj) de herboj, pli malofte lignecaj plantoj (ekz. (ekzemple) bambuoj), kun artikaj, kavaj tigoj (escepte de la nodoj), kun mallarg^aj, g^enerale liniformaj folioj, havantaj cilindran, lau^longe fendan ingon, k kun spiketoj el ne tre videblaj, g^enerale duseksaj floroj kun tre malgranda perianto (see lodiklo) k c^irkau^itaj de karakterizaj brakteoj (see glumo); c^. (c^irkau^) 9 500 sp-oj (specioj) el 668 g-oj (genroj), el kiuj la plej multaj grenspecioj (i.a. (interalie, inter aliaj) aveno, hordeo, maizo, sekalo, tritiko) k kanoj (arundo, bambuoj, fragmito). see greso.
 poci/o:【医】【PIV】Likva medikamento, pokulere trinkota.
 Podgoric/o:【PIV】C^efurbo de Montenegro (19°17′E, 42°26′N).
 podicip/o⟦潜鸟ᴾ/o⟧:【動】【PIV】G. (Genro) (Podiceps) de akvolog^aj birdoj, kies kruroj trovig^as tuj antau^ la vosto, k kies piedfingroj estas hau^tborderitaj. Vd grebo.
@@ -53903,7 +53903,7 @@ pron/ad/o⟦俯/行/o⟧:【PIV】Tia movo de la antau^brako, k la rezultanta po
 pron/ant/o⟦俯/在/o⟧:【解】【PIV】Nomo de difinitaj pronantaj muskoloj: kvadrata pronanto (M. pronator quadratus).
 pronel/o⟦鸟ᴾᴺ/o⟧:【動】【PIV】G. (Genro) (Prunella) de birdoj el la ordo de paseroformaj, malgrandaj, similaj al pasero, sed kun maldika beko.
 prononc/ac^/i⟦音/劣/i⟧:【PIV】Prononci, difektante la vortojn.
-prop/:【化】【PIV】Pref. (Prefikso), montranta 3-karbonan c^enon en la nomoj de hidrokarbonoj.
+prop/⟦丙/⟧:【化】【PIV】Pref. (Prefikso), montranta 3-karbonan c^enon en la nomoj de hidrokarbonoj.
 propan/o:【化】【PIV】Saturita gasa hidrokarbono, C 3 H 8, multe uzata kiel brulgaso.
 propanal/o:【化】【PIV】C 2 H 5-CHO. Sin. (sinonimo) propionata aldehido.
 propen/o:【化】【PIV】Nesaturita gasa hidrokarbono, C 3 H 6, kun unu duobla ligo, polimerizebla al poli propeno, plasto pli forta k malpli mola ol polieteno.
@@ -54565,7 +54565,7 @@ rust/a⟦锈/a⟧:【PIV】Kovrita de rusto: rustaj feraj^oj; rusta s^pato.
 rustik/a⟦朴ᴿ/a⟧:【建】【PIV】Prezentanta simplan, ec^ krudan prilaboradon, kiu restigis multajn neregulaj^ojn, malglataj^ojn ktp (kaj tiel plu): rustika meblo, ponto, muro.
 rustik/ec/o⟦朴ᴿ/性/o⟧:【PIV】Eco de io rustika: la rustikeco de modernaj seg^oj; (f (figurasence)) la rustikeco de lia stilo.
 rusul/o⟦菌ᴿ/o⟧:【植】【PIV】G. (Genro) (Russula el rusulacoj) de ombrelfungoj diferencaj de laktario i.a. (interalie, inter aliaj) pro malesto de laktosuko, kun karno kompakta k rompig^ema; kosmopolita g. (genro) de c^. (c^irkau^) 270 sp-oj (specioj), pluraj mang^indaj.
-rutin/o⟦惯/o⟧:【化】【薬】【PIV】Heterozido, C 27 H 30 O 16, ekstraktata el ruto k.a. (kaj aliaj) plantoj, i.a. (interalie, inter aliaj) el la g. (genro) citruso; medicine uzata (plifortigas la sangkapilarojn); unu el la konsistaj^oj de la vitamino P.
+rutin/o:【化】【薬】【PIV】Heterozido, C 27 H 30 O 16, ekstraktata el ruto k.a. (kaj aliaj) plantoj, i.a. (interalie, inter aliaj) el la g. (genro) citruso; medicine uzata (plifortigas la sangkapilarojn); unu el la konsistaj^oj de la vitamino P.
 rutozid/o:【化】【PIV】Heterozido, C 27 H 30 O 16, ekstraktata el ruto k.a. (kaj aliaj) plantoj, i.a. (interalie, inter aliaj) el la g. (genro) citruso; medicine uzata (plifortigas la sangkapilarojn); unu el la konsistaj^oj de la vitamino P.
 rutel/o⟦鱼ᴿᵀ/o⟧:【動】【PIV】G. (Genro) (Rutilus), parenca al leu^cisko, de fis^oj el la fam. (familio) ciprinedoj, vivantaj en nesala, sen-au^ malrapid-flua akvo, el kiuj estas ploto.
 ruten/a:【PIV】Rilata al rutenoj au^ al slava lingvo, parolata en Vojvodino.
@@ -57281,7 +57281,7 @@ ato/:【PIV】Pref. (Prefikso), uzata antau^ unuoj k signifanta «triilionono» 
 -en⟦内⟧:【PIV】Fina parto de lokadv-oj, montranta almovon: j^eti ter en, iri hejm en.
 -eca:【PIV】(ofte kun nomoj de materialoj) Havanta iujn ecojn de, simila, samaspekta: lan eca mantelo (el io similanta lanon); silkecaj s^trumpoj (havantaj la aspekton de silko); ligneca trunketo; vitreca rigardo; dezerteca silento . Vd esk/, oid/.
 -eja:【生態】【PIV】Karakterizanta vivulon, kiu ekskluzive au^ prefere kreskas en loko indikita de la rad. (radiko): sun eja planto kreskas en sunaj lokoj, ombreja planto en ombraj lokoj, sal eja planto (Sin. (sinonimo) salplanto, halofito) en salaj lokoj, sek eja planto (Sin. (sinonimo) sekplanto, kserofito) en sekaj lokoj ks (kaj simile, kaj similaj); kalk eja, nekalk eja, humid eja, pluveg eja; mezvarm eja (el mezvarmaj lokoj). Rim. (Rimarko) 2. -eja respondas al la greka suf. (sufikso) -phila.
-et/⟦小/⟧:【化】【PIV】Pref. (Prefikso), montranta dukarbonan c^enon en la nomoj de hidrokarbonoj.
+et/⟦乙/⟧:【化】【PIV】Pref. (Prefikso), montranta dukarbonan c^enon en la nomoj de hidrokarbonoj.
 -fic/⟦藻ᶠᶜ/⟧:【植】【PIV】Suf. (Sufikso), uzata por formi nomojn de klasoj de algoj el la genra nomo uzata por la tipa ordo de la klaso: fuko ficoj, bangi(o) ficoj.
 -fit/⟦植ᶠ/⟧:【植】【PIV】1 Suf. (Sufikso), uzata por formi nomojn de filumojn c^e la arkegoniplantoj el la genra nomo uzata por la tipa klaso: brio fitoj, pterido fitoj, pino fitoj (Sin. (sinonimo) gimnospermoj) , magnoli(o) fitoj (Sin. (sinonimo) angiospermoj). Rim. (Rimarko) Kelkaj filumnomoj, neregule formitaj, estas akceptitaj kiel esceptoj: klorofitoj (Vd verdalgoj), spermatofitoj (Sin. (sinonimo) semplantoj). 2 Suf. (Sufikso), uzata por formi nomojn de nenaturaj c^efgrupoj de plantoj superaj al filumo: talo fitoj, embriofitoj, trakeo fitoj (Sin. (sinonimo) vaskulplantoj).
 -gami/⟦配ᴳ/⟧:【生】【PIV】Suf. (Sufikso) kun la signifo «kunig^o de gametoj au^ de aliaj seksaj elementoj»: plasmogamio, nukleogamio, sifonogamio, somatogamio.
@@ -62117,7 +62117,7 @@ Marki/o:【地理】【PIV】Regiono de Italio, inter Apeninoj k Adriatiko (Anko
 Meleagr/o:【PIV】Helena vira nomo, i.a. (interalie, inter aliaj) de poeto, publikiginto de la unua antologio (2a jc (jarcento) a.K. (antau^ Kristo)).
 Mentor/o:【PIV】Amiko de Odiseo, kies filon Telemah^o li edukis.
 ##重複語Mesi/an/ism/o:【PIV】Kredo k atendado pri la Mesio.
-met/⟦置/⟧:【化】【PIV】Pref. (Prefikso), montranta 1-karbonan c^enon en la nomoj de hidrokarbonoj.
+met/⟦甲/⟧:【化】【PIV】Pref. (Prefikso), montranta 1-karbonan c^enon en la nomoj de hidrokarbonoj.
 micen/o⟦菌ᴹᴺ/o⟧:【植】【PIV】G. (Genro) (Mycena el marasmiacoj) de ombrelfungoj kun bazidiujo g^enerale malgranda, sen ringo k sen stipingo k kun c^apelo duongloba au^ konusa, lau^radie stria; kosmopolita g. (genro) de c^. (c^irkau^) 200 sp-oj (specioj).
 ##重複語Mic^igan-Lag/o:【PIV】Unu el la kvin grandaj lagoj en N-Usono (87°U, 44°N).
 Mirt/o:【PIV】Helena virina nomo.
@@ -62172,7 +62172,7 @@ Piton/o:【PIV】Monstra serpento, mortigita de Apolono apud Delfo.
 ##重複語Platon/a:【数】【PIV】Rilata al Platono: la Platonaj Ideoj, mitoj; platonaj korpoj (Sin. (sinonimo) regulaj pluredroj).
 plejad/o:【PIV】(f (figurasence)) Eta grupo aparte elstara de poetoj, artistoj, intelektuloj ks (kaj simile, kaj similaj).
 pluton/o:【地質】【PIV】Granda, ovoida au^ lentoforma maso el magmaj petroj malrapide malvarmig^intaj en la profundo de la tero k tial grajnastrukturaj. Vd batolito, lakolito, magmo, vulkano.
-po/o⟦每/o⟧:【植】【PIV】G. (Genro) (Poa el poacoj) de unu-, du-k plur-jaraj herboj kun senaristaj, plurfloraj spiketoj; kosmopolita g. (genro) de pli ol 200 sp-oj (specioj), kelkaj kultivataj por gazono.
+po/o⟦草/o⟧:【植】【PIV】G. (Genro) (Poa el poacoj) de unu-, du-k plur-jaraj herboj kun senaristaj, plurfloraj spiketoj; kosmopolita g. (genro) de pli ol 200 sp-oj (specioj), kelkaj kultivataj por gazono.
 pob/o:【PIV】1 La malantau^a parto de s^ipo, boato ks (kaj simile, kaj similaj), kontraste al la pruo; (f (figurasence)) la malantau^a parto de ajna veturilo. Vd posta steveno. 2 = pobferdeko.
 ##重複語Polinezi/an/o:【PIV】Indig^eno de Polinezio: la Polinezianoj estas rimarkindaj navigantoj.
 polio/:【医】【PIV】Pref. (Prefikso), uzata por nomi malsanojn de la griza substanco mjela au^ cerba: polioencefalito, poliobulbito, poliomjelito.
