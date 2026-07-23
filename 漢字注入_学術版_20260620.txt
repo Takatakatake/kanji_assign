@@ -4851,7 +4851,7 @@ centrifug/a infloresk/o⟦离心/a 花序/o⟧:【植】遠心花序
 centrifug/i⟦离心/i⟧:［他］（洗濯物を）脱水機にかける
 centrifug/il/o⟦离心/具/o⟧:【機】脱水機,遠心分離機
 centr/ig/i⟦央/使/i⟧:［他］【情】中寄せする,センタリングする;=centralizi,集中する
-centr/ig/it/a klimatiz/o⟦央/使/受/a 调ᴷ/o⟧:【環】集中冷暖房
+centr/ig/it/a klimat/iz/o⟦央/使/受/a 气候/化/o⟧:【環】集中冷暖房
 centripet/a⟦向心/a⟧:【理】求心の,向心の,><centrifuga
 centripet/a akcel/o⟦向心/a 促/o⟧:【理】向心加速度
 centripet/a fort/o⟦向心/a 强/o⟧:【理】求心力,向心力
@@ -10500,8 +10500,8 @@ fantom/i⟦幽/i⟧:［自］幽霊に出る,化けて出る;幽霊のように�
 fantom/o⟦幽/o⟧:{Ｏ}幽霊,亡霊;《転》まぼろし
 fantom/s^ip/o⟦幽/船/o⟧:幽霊船
 far⟦做⟧:［前］〜によって（受け身の主語）
-faradiz/i⟦电疗/i⟧:［他］【医】感応通電法で治療する
-faradiz/o⟦电疗/o⟧:【医】感応通電法
+farad/iz/i⟦farad/化/i⟧:［他］【医】感応通電法で治療する
+farad/iz/o⟦farad/化/o⟧:【医】感応通電法
 farad/o:【理】ファラド（電気容量の単位、Ｆ）
 Farad/o:【人名】ファラデー（イギリスの物理学者、1791-1867）
 far/ad/o⟦做/行/o⟧:製造,行動
@@ -18035,10 +18035,10 @@ klik/tint/ad/o⟦爪ᴷ/鸣/行/o⟧:（ラチェットが）カチカチ鳴る�
 klik/tint/o⟦爪ᴷ/鸣/o⟧:カチリという音
 klimat/a region/o⟦气候/a 区/o⟧:【気】気候区
 klimat/a s^ang^/ig^/o⟦气候/a 变/成/o⟧:気候変動
-klimatiz/i⟦调ᴷ/i⟧:［他］空気調節を施す
-klimatiz/il/o⟦调ᴷ/具/o⟧:空調機,エアコン
-klimatiz/it/a⟦调ᴷ/受/a⟧:空調された
-klimatiz/o⟦调ᴷ/o⟧:空調
+klimat/iz/i⟦气候/化/i⟧:［他］空気調節を施す
+klimat/iz/il/o⟦气候/化/具/o⟧:空調機,エアコン
+klimat/iz/it/a⟦气候/化/受/a⟧:空調された
+klimat/iz/o⟦气候/化/o⟧:空調
 klimat/o⟦气候/o⟧:{Ｂ}気候;風土
 klimat/o/varm/ig^/o⟦气候/o/暖/成/o⟧:気候温暖化
 klimat/s^ang^/ig^/o⟦气候/变/成/o⟧:【気】気候変動
@@ -57242,7 +57242,7 @@ Sit/a:【文】【PIV】Mita edzino de Ramo. Vd Ramajano.
 SOS:【電】【PIV】Signalo, per kiu s^ipo au^ aviadilo petas helpon okaze de pereiga akcidento; adoptita en la radiotelegrafia konferenco de Berlino en 1906.
 divers/a/spec/a⟦杂/a/种ˢᴾ/a⟧:【PIV】B. Estanta de diversaj specoj: diversaspeca vesto B.
 strudl/o:【食】【PIV】Bakaj^o el maldika, kunrulita pastofolio, farc^ita per fruktoj, kazeo ks: poma, papava, terpoma strudelo. Sin. rulkukaj^o.
-s^aptaliz/i:【PIV】(tr) Mostosukeri (vinon).
+s^aptal/iz/i⟦s^aptal/化/i⟧:【PIV】(tr) Mostosukeri (vinon).
 S^iloah^:【聖】【PIV】Nomo de banejo en Jerusalemo.
 S^us^an:【聖】【PIV】Suzo.
 Tais:【PIV】Helena virina nomo, i.a. de du hetajroj: la amatino de Aleksandro la Granda (4a jc a.K.) k kristana sanktulino (4a jc p.K.).

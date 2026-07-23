@@ -4851,7 +4851,7 @@ centrifug/a infloresk/o:【植】遠心花序
 centrifug/i:［他］（洗濯物を）脱水機にかける
 centrifug/il/o:【機】脱水機,遠心分離機
 centr/ig/i:［他］【情】中寄せする,センタリングする;=centralizi,集中する
-centr/ig/it/a klimat/iz/o:【環】集中冷暖房##偽分解
+centr/ig/it/a klimat/iz/o:【環】集中冷暖房
 centripet/a:【理】求心の,向心の,><centrifuga
 centripet/a akcel/o:【理】向心加速度
 centripet/a fort/o:【理】求心力,向心力
@@ -10500,8 +10500,8 @@ fantom/i:［自］幽霊に出る,化けて出る;幽霊のように現れる
 fantom/o:{Ｏ}幽霊,亡霊;《転》まぼろし
 fantom/s^ip/o:幽霊船
 far:［前］〜によって（受け身の主語）
-faradiz/i:［他］【医】感応通電法で治療する
-faradiz/o:【医】感応通電法
+farad/iz/i:［他］【医】感応通電法で治療する
+farad/iz/o:【医】感応通電法
 far/ad/o:【理】ファラド（電気容量の単位、Ｆ）##偽分解(衝突語)
 Far/ad/o:【人名】ファラデー（イギリスの物理学者、1791-1867）##偽分解(衝突語)
 far/ad/o:製造,行動
@@ -18035,10 +18035,10 @@ klik/tint/ad/o:（ラチェットが）カチカチ鳴る音
 klik/tint/o:カチリという音
 klimat/a region/o:【気】気候区
 klimat/a s^ang^/ig^/o:気候変動
-klimat/iz/i:［他］空気調節を施す##偽分解
-klimat/iz/il/o:空調機,エアコン##偽分解
-klimat/iz/it/a:空調された##偽分解
-klimat/iz/o:空調##偽分解
+klimat/iz/i:［他］空気調節を施す
+klimat/iz/il/o:空調機,エアコン
+klimat/iz/it/a:空調された
+klimat/iz/o:空調
 klimat/o:{Ｂ}気候;風土
 klimat/o/varm/ig^/o:気候温暖化
 klimat/s^ang^/ig^/o:【気】気候変動
@@ -57242,7 +57242,7 @@ Sit/a:【文】【PIV】Mita edzino de Ramo. Vd Ramajano.
 SOS:【電】【PIV】Signalo, per kiu s^ipo au^ aviadilo petas helpon okaze de pereiga akcidento; adoptita en la radiotelegrafia konferenco de Berlino en 1906.
 divers/a/spec/a:【PIV】B. Estanta de diversaj specoj: diversaspeca vesto B.
 strudl/o:【食】【PIV】Bakaj^o el maldika, kunrulita pastofolio, farc^ita per fruktoj, kazeo ks: poma, papava, terpoma strudelo. Sin. rulkukaj^o.
-s^aptaliz/i:【PIV】(tr) Mostosukeri (vinon).
+s^aptal/iz/i:【PIV】(tr) Mostosukeri (vinon).
 S^iloah^:【聖】【PIV】Nomo de banejo en Jerusalemo.
 S^us^an:【聖】【PIV】Suzo.
 Tais:【PIV】Helena virina nomo, i.a. de du hetajroj: la amatino de Aleksandro la Granda (4a jc a.K.) k kristana sanktulino (4a jc p.K.).
