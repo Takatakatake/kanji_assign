@@ -20467,7 +20467,7 @@ kub/a⟦方ᴷ/a⟧:立方体の,立方形の;立方の
 kub/a dilat/o⟦方ᴷ/a 膨/o⟧:【理】体膨張
 kub/a ekvaci/o⟦方ᴷ/a 方程/o⟧:【数】三次方程式
 kub/a metr/o⟦方ᴷ/a 米/o⟧:【単】立方メートル
-kub/an/o⟦方ᴷ/员ᴬ/o⟧:キューバ人
+kub/an/o⟦kub/员ᴬ/o⟧:キューバ人
 kub/a radik/o⟦方ᴷ/a 根/o⟧:【数】立方根
 kub/ig/i⟦方ᴷ/使/i⟧:［他］【数】三乗する;立方形にする
 kub/ism/o⟦方ᴷ/主义/o⟧:【芸】キュビスム,立体派
@@ -56622,7 +56622,7 @@ uro/grafi/o⟦尿ᵁᴼ/志ᴳ/o⟧:【PIV】Radiografio de la urina aparato, po
 uro/log/o⟦尿ᵁᴼ/学家/o⟧:【PIV】Specialisto pri urologio.##偽分解##強語根分解
 uro/logi/o⟦尿ᵁᴼ/学ᴸᴳ/o⟧:【PIV】Tiu parto de la medicino, kiu studas la urinan aparaton.##偽分解##強語根分解
 ur/at/o⟦ur/盐ᴬ/o⟧:【PIV】Unu el la saloj de la urata acido, kiu povas precipitig^i en la organismo, au^ en la artikoj (Vd podagro) au^ en la urinaj vojoj (Vd litiazo).##偽分解(PIV正式分解)##過細分解 u/r/at/o
-ur/at/emi/o⟦ur/被/血ᴱ/o⟧:【生】【医】【PIV】C^eesto au^ kvanto de urata acido en la sango: hiper uratemio. -> ureemio, uremio.##偽分解(PIV正式分解)##過細分解 u/r/at/emi/o
+ur/at/emi/o⟦ur/盐ᴬ/血ᴱ/o⟧:【生】【医】【PIV】C^eesto au^ kvanto de urata acido en la sango: hiper uratemio. -> ureemio, uremio.##偽分解(PIV正式分解)##過細分解 u/r/at/emi/o
 uracil/o:【化】【生】【PIV】Pirimidina nukleobazo, C 4 H 4 N 2 O 2.
 urak/o:【解】【PIV】Fibra s^nuro, strec^ita inter la umbiliko k la supro de la urina veziko. Sin. (sinonimo) meza umbilika faldo (Plica umbilicalis mediana).
 Ural/a:【PIV】1 Rilata al Uralo: la Urala regiono estas unu el la c^efaj industriaj centroj de la Rusia Federacio. 2 Rilata al lingvofamilio, kiun konsistigas la lingvoj finn-ugraj k samojedaj.

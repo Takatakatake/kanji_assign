@@ -20467,7 +20467,7 @@ kub/a⟦方ᴷ/a⟧:立方体の,立方形の;立方の
 kub/a dilat/o⟦方ᴷ/a 膨/o⟧:【理】体膨張
 kub/a ekvaci/o⟦方ᴷ/a 方程/o⟧:【数】三次方程式
 kub/a metr/o⟦方ᴷ/a 米/o⟧:【単】立方メートル
-kub/an/o⟦方ᴷ/员ᴬ/o⟧:キューバ人
+kub/an/o⟦kub/员ᴬ/o⟧:キューバ人
 kub/a radik/o⟦方ᴷ/a 根/o⟧:【数】立方根
 kub/ig/i⟦方ᴷ/使/i⟧:［他］【数】三乗する;立方形にする
 kub/ism/o⟦方ᴷ/主义/o⟧:【芸】キュビスム,立体派
@@ -46175,7 +46175,7 @@ buten/o:【化】【PIV】C 4 H 8, nesaturita hidrokarbono kun unu duobla ligo: 
 2-butenal/o:【化】【PIV】CH 3-CH=CH-CHO, akrodora, incita likvo uzata kiel industria krudmaterialo. Sin. (sinonimo) krotonalo.
 butin/o:【化】【PIV】C 4 H 6, nesaturita hidrokarbono kun unu triobla ligo.
 izobutanol/o:【化】【PIV】CH 3-CH(CH 3)-CH 2-OH. Sin. (sinonimo) 2-metilpropanolo.
-ter-butanol/o⟦地-butanol/o⟧:【化】【PIV】1,1-dimetiletanolo, (CH 3) 3 C-OH, kvarkarbona alkoholo, uzata kiel krudmaterialo en multaj kemiaj sintezoj.
+ter-butanol/o:【化】【PIV】1,1-dimetiletanolo, (CH 3) 3 C-OH, kvarkarbona alkoholo, uzata kiel krudmaterialo en multaj kemiaj sintezoj.
 buter/a⟦黄油/a⟧:【PIV】1 Rilata al butero: butera acido (buterata acido). 2 Entenanta buteron: butera sau^co.
 buterat/a⟦黄油被/a⟧:【PIV】Butera 1.
 buter/ist/o⟦黄油/家/o⟧:【PIV】Vendisto de lakto, kremo, butero, fromag^o ks (kaj simile, kaj similaj).
