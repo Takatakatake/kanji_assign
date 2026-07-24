@@ -1349,7 +1349,7 @@ al/ter/ig/i⟦向/地/使/i⟧:［他］【電】接地する
 al/ter/ig^/i⟦向/地/成/i⟧:［自］【海】接岸する;【空】着陸する
 altern/a⟦替/a⟧:交互の;【電】交流の
 altern/a kurent/o⟦替/a 电流/o⟧:【電】交流
-alternanc/o:【電】交番,（交代現象の）半周期
+altern/anc/o⟦替/anc/o⟧:【電】交番,（交代現象の）半周期
 altern/a tensi/o⟦替/a 压ᵀ/o⟧:【電】交流電圧
 alternativ/a⟦替ᴬᵀ/a⟧:二者択一の;もう一つの;【環】代替の
 alternativ/a energi/font/o⟦替ᴬᵀ/a 能ᴱ/泉/o⟧:【環】代替エネルギー源
