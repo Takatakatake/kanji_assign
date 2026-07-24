@@ -40193,9 +40193,9 @@ temp/a⟦时/a⟧:時間の,時の;一時的な,=portempa
 temperament/o⟦禀/o⟧:{Ｏ}気質,気性,性分;（古代西洋医学で）体質
 temperatur/a⟦温/a⟧:温度の;体温の
 temperatur/o⟦温/o⟧:{Ｂ}温度,気温;【医】体温
-temp/er/e⟦时/粒/e⟧:テンペラ技法で##偽分解(衝突語)
+temp/er/e:テンペラ技法で##偽分解(衝突語)
 temper/i:［自］テンペラ技法で描く
-temp/er/o⟦时/粒/o⟧:【美】テンペラ（絵画技法の一つ）##偽分解(衝突語)
+temp/er/o:【美】テンペラ（絵画技法の一つ）##偽分解(衝突語)
 temp/er/o⟦时/粒/o⟧:一瞬,瞬時
 tempest/o⟦暴风ᵀ/o⟧:{Ｂ}暴風雨;【気】暴風（風力階級11）,>>s^tormo,>>uragano
 temp/i⟦时/i⟧:［他］（無主語）〜する時間だ（不定法動詞を目的語に取る）
@@ -58954,7 +58954,7 @@ vund/o/herb/o⟦伤/o/草/o⟧:【PIV】Vundosaniga antilido.
 kun/hered/i⟦共/继/i⟧:【PIV】Heredi divide kun iu, au^ iuj.
 pseu^do/hermafrodit/ec/o⟦伪ᴾ/两性/性/o⟧:【医】【PIV】Misformo de la generaj organoj, karakterizata de la c^eesto en unu individuo de kelkaj el la karakteroj de ambau^ seksoj.
 super/heterodin/o⟦上ˢᴾ/外差/o⟧:【PIV】Riceva aparato, en kiu la osciloj, produktitaj de la alvenaj ondoj, estas kombinataj kun tiuj de loka oscililo, tiel ke estig^as osciloj de intera frekvenco, kiuj estas amplifataj k tuj detektataj por la ricevado de la signalo.
-karbon/hidr/id/o⟦碳/水ᴴ/子/o⟧:【化】【PIV】= hidrokarbono.##偽分解(PIV正式分解)##過細分解 karbon/h/i/d/r/id/o
+karbon/hidr/id/o⟦碳/水ᴴ/化ᴵᴰ/o⟧:【化】【PIV】= hidrokarbono.##偽分解(PIV正式分解)##過細分解 karbon/h/i/d/r/id/o
 de/hidrat/ig/i⟦从/水合/使/i⟧:【PIV】= senhidratigi.
 sen/hidrat/ig/i⟦无/水合/使/i⟧:【PIV】Senigi kombinaj^on de g^ia hidrata akvo.
 pseu^do/hidrat/o⟦伪ᴾ/水合/o⟧:【PIV】Substanco, kies molekuloj entenas akvon eltireblan nur per ilia detruo, ekz. (ekzemple) karbon hidrato.
