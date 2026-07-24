@@ -74,6 +74,7 @@ $segLat = @{ 'gram/negativ/a'=@('gram'); 'gram/pozitiv/a'=@('gram'); 'deci/bel/o
   'klement/in/o'=@('in')   # クレメンティン(柑橘・Clément神父由来の固有名§7)→in全体ラテン。klement/女「クレメンの女」の誤読是正。兄弟klementin/uj/o・klementin/arb/oは木ᴷᴸᴱで別途正
   'a/klimat/iz/i'=@('a')   # 2026-07-24 別AI round6: acclimatize(aklimatizi=alklimatigi「気候順化」)のa-はラテン ad-(〜へ)で否定接頭でない→aラテン。无ᴬ/气候/化(non-climate)の誤読是正。a/klimat/iz/i⟦a/气候/化/i⟧。privativeルール(idx0 a→无)より$segLatが先発火で無害化
   'kub/an/o'=@('kub')   # 2026-07-23 WF round5: キューバ人(Kubo=固有名§7)→kub分節ラテン。方ᴷ(cube立方体kub/o)の偽の友=kub/an/o⟦方/员⟧の誤読是正→kub/员ᴬ(兄弟afrik/员ᴬ・meksik/员ᴬ と同型=固有名根latin+-an员)。立方kub/o=方は維持
+  'lombard/a'=@('lombard')   # 2026-07-24 別AI round7: ロンバルド/ロンバルディア(Lombardo=固有名§7・語釈"Rilata al lombardoj")→lombard分節ラテン。質屋当ᴸ(lombard/o質入れ=Lombard銀行家由来の換喩)の偽の友=民族形容詞lombard/a⟦当ᴸ⟧の誤読是正。質入れ義lombard/o=当ᴸは維持(同綴多義の-o形は据置=民族と質入れがamb)。afrik/kub型の§7民族latin
   'ar/in/o'=@('ar','in')   # アライン/ベンザイン(aryne=aryl+-yne 芳香族反応中間体)→ar/in両分節ラテン(学術版arin/o whole latin と一致)。群/女「群れ-女」の誤読是正=過細分解 a/r/in/o の産物
   # 2026-07-23 敵対監査(WF round2)で露出した -on(単位/ケトン-one)の偽の友=分数接尾-on(分)に誤落ち(gangli/on/o同型):
   'kod/on/o'=@('on'); 'anti/kod/on/o'=@('on'); 'kontrau^/kod/on/o'=@('on')   # コドン/アンチコドン(遺伝暗号の三つ組=単位・分数でない)→onラテン。码/密码子 母体維持
@@ -166,6 +167,7 @@ foreach($pair in $pairs){
         elseif(($s -eq 'rutin') -and ($rest -match 'Heterozido')){ $tok='rutin' }   # 2026-07-23 WF round4: rutin同綴二義の語釈scoped是正。黄酮配糖体ルチン(【化】【薬】Heterozido C27H30O16=ビタミンP成分)→ラテン。日課/慣例rutin=惯(語釈非該当)は不発火=惯維持。同綴別義(routine vs 化合物)
         elseif(($s -eq 'ur') -and $idx -eq 0 -and ($rest -match 'urata acid')){ $tok='ur' }   # 2026-07-23 WF round4: ur同綴の語釈scoped是正。尿酸塩urate(過細分解 u/r/at→原牛ur+盐)のur=尿酸系→ラテン。原牛ur/o(オーロックス=野生原牛Bos primigenius)は語釈非該当で不発火=原牛維持。原牛/盐(aurochs-salt)の誤読除去
         elseif(($s -eq 'po') -and $idx -eq 0 -and ($rest -match 'Poa el|poacoj|Poace')){ $tok='草'; $thisMapped=$true }   # 2026-07-23 WF round4: po同綴二義の語釈scoped是正。イネ科Poaceae/Poa属(【植】)→草(禾本科=草の系列と整合)。配分前置詞po=每(each/per・語釈非該当)は不発火=每維持。每/科(per-family)の誤読を草/科へ。同綴別語(preposition vs 植物属)
+        elseif(($s -eq 'lizin') -and ($rest -match 'estiganta hemo lizon')){ $tok='解'; $thisMapped=$true }   # 2026-07-24 別AI round7: hemo/lizin/o(溶血素hemolysin)の-lizin=溶解lysis→解。lizin/o=赖(アミノ酸リジンlysine)の偽の友を語釈scoped是正。学術版はwhole分節hemo/lizin(lizin→赖に漏出)・学習者版hemo/liz/inは既に血ᴴ/解ᴸで正=版間整合。lysine(赖)vs lysis(解)の同綴別義。lizin/o単独(リジン)は語釈"Aminacido"で非該当=赖維持
         elseif($hsep.ContainsKey($w) -and $hsep[$w].ContainsKey($s)){ $tok=$hsep[$w][$s]; $thisMapped=$true; $hsepN++ }
         elseif($segLat.ContainsKey($w) -and ($segLat[$w] -contains $s)){ $tok=$s }   # 固有名分節(Gram染色)=ラテン保持・非mapped(§7)。disp(克)に落ちる前に捕捉
 

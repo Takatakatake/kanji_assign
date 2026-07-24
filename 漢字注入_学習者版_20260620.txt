@@ -51560,7 +51560,7 @@ lokustel/o⟦鸟ᴸᴷ/o⟧:【動】【PIV】G. (Genro) (Locustella) de birdoj 
 lol/herb/o⟦毒麦/草/o⟧:【PIV】C^iu sp. de lolio furag^e au^ gazone kultivata.
 loli/o⟦草ᴸᴸ/o⟧:【植】【PIV】G. (Genro) (Lolium el poacoj) de unu-, du-k plur-jaraj herboj kun maldensa spiko el plataj spiketoj unuglumaj (escepte de la apeksa, dugluma), unuope sidaj en elkavaj^oj de la spikakso k almetaj al tiu c^i lau^ la interna flanko; 8 sp-oj (specioj) el Eu^ropo, Azio k N Afriko, el kiuj gravaj furag^plantoj k gazonherboj (ekz. (ekzemple) multjara lolio, L. perenne) k unu trudherbo (narkota lolio au^ lolo, L. temulentum).
 lom/o:【農】【PIV】1 Grundo, konsistanta el miksaj^o de sablo, argilo k humo, g^enerale fruktodona. 2【地質】 Detrita kontinenta sedimento permeabla, konsistanta el miksaj^o de argilo, silto k sablo (en proks. (proksimume) egalaj proporcioj) k g^enerale ankau^ de humo: rezidua, rivera, glacera, eola lomo. Vd leu^so.
-lombard/a⟦当ᴸ/a⟧:【PIV】Rilata al lombardoj: lombarda arkitekturo, pentrarto.
+lombard/a:【PIV】Rilata al lombardoj: lombarda arkitekturo, pentrarto.
 longan/o⟦木ᴸᴺ/o⟧:【植】【PIV】1 Sp. (Specio) (Dimocarpus longan el sapindacoj) de arbo el Hindio k Srilanko, parenca al rambutano, kultivata – ankau^ en Florido k Kalifornio – por glats^elaj fruktoj, mang^ataj fres^aj. 2 La frukto de longano 1.
 longeron/o:【PIV】C^iu el la c^efaj lau^longaj membroj de fuzelag^o, planeo au^ nacelo.
 longisim/o:【解】【PIV】(M. longissimus) C^iu el la du tre longaj muskoloj, la kapa k la dorsa.
