@@ -918,7 +918,7 @@ akv/a sport/o⟦水/a 体ˢ/o⟧:【運】水上競技
 akvatint/o:【美】アクアチント（腐食銅版画法の一つ）
 akv/a vapor/o⟦水/a 汽/o⟧:【理】水蒸気
 akv/ec/a⟦水/性/a⟧:水のような;水を含んだ,水っぽい
-akv/e/dukt/o⟦水/e/管ᴰ/o⟧:【建】導水管,水道;水道橋,=akvodukto
+akv/e/dukt/o⟦水/e/管ᴰ/o⟧:【建】導水管,水道;水道橋,=akvodukto##偽分解
 akv/er/o⟦水/粒/o⟧:水滴
 akv/i⟦水/i⟧:［他］水を注ぐ
 akvilegi/o:{Ｏ}【植】オダマキ（苧環）,=aglofloro
@@ -1349,7 +1349,7 @@ al/ter/ig/i⟦向/地/使/i⟧:［他］【電】接地する
 al/ter/ig^/i⟦向/地/成/i⟧:［自］【海】接岸する;【空】着陸する
 altern/a⟦替/a⟧:交互の;【電】交流の
 altern/a kurent/o⟦替/a 电流/o⟧:【電】交流
-altern/anc/o⟦替/anc/o⟧:【電】交番,（交代現象の）半周期
+altern/anc/o⟦替/anc/o⟧:【電】交番,（交代現象の）半周期##偽分解(PIV正式分解)
 altern/a tensi/o⟦替/a 压ᵀ/o⟧:【電】交流電圧
 altern/at/iv/a⟦替/被/能ᴵ/a⟧:二者択一の;もう一つの;【環】代替の##偽分解
 altern/at/iv/a energi/font/o⟦替/被/能ᴵ/a 能ᴱ/泉/o⟧:【環】代替エネルギー源##偽分解
@@ -6187,7 +6187,7 @@ Dek Ordon/oj:（la 〜）【キ】（モーセの）十戒
 dekor/i⟦饰ᴰᴱ/i⟧:［他］=dekoracii（装飾する）
 dekor/o⟦饰ᴰᴱ/o⟧:=dekoracio（装飾）
 de/krad/i⟦从/栅/i⟧:［他］格子で仕切る
-de/krement/o⟦从/变ᴷ/o⟧:【電】減衰率
+de/krement/o⟦从/变ᴷ/o⟧:【電】減衰率##偽分解(PIV正式分解)
 dekret/i⟦颁/i⟧:［他］【政】（政令を）発令する,布告する
 dekret/o⟦颁/o⟧:{Ｏ}【政】（行政責任者の）命令,政令;勅令
 de/kroc^/i⟦从/钩ᴷ/i⟧:［他］（かぎから）はずす
@@ -22429,7 +22429,7 @@ loes/o:【地理】=leu^so（黄土）
 lof/i⟦迎/i⟧:［他］【海】船首を風上にむける
 log/aj^/o⟦诱ᴸ/物/o⟧:（おびき寄せるための）餌（えさ）,誘惑の言葉
 logaritm/a⟦对数/a⟧:対数の
-logaritm/a de/krement/o⟦对数/a 从/变ᴷ/o⟧:【理】対数減衰率
+logaritm/a de/krement/o⟦对数/a 从/变ᴷ/o⟧:【理】対数減衰率##偽分解(PIV正式分解)
 logaritm/a funkci/o⟦对数/a 功/o⟧:【数】対数関数
 logaritm/a paper/o⟦对数/a 纸/o⟧:対数方眼紙
 logaritm/a tabel/o⟦对数/a 表/o⟧:【数】対数表
@@ -36490,8 +36490,8 @@ sien/o⟦红土/o⟧:【化】シエンナ（赤褐色の顔料）
 Sien/o:【地名】シエナ（イタリア）
 Sieraleon/o:【国名】シエラレオネ（アフリカ）
 Siera-Leon/o:=>Sieraleono（シエラレオネ）
-Siera-Nevad/o:【地名】シエラネバダ山脈（スペイン）
-Siera-Nevad/o:【地名】シエラネバダ山脈（米国）
+SieraNevad/o:【地名】シエラネバダ山脈（スペイン）
+SieraNevad/o:【地名】シエラネバダ山脈（米国）
 siest/i⟦午睡/i⟧:［自］昼寝する,午睡する
 siest/o⟦午睡/o⟧:（昼食後の）昼寝,午睡
 sifilis/a⟦梅毒/a⟧:梅毒の
@@ -49819,7 +49819,7 @@ kakt/ac/oj⟦仙人掌/科ᴬ/oj⟧:【植】【PIV】Fam. (Familio) (Cactaceae)
 kakuminal/o:【語】【PIV】Sono, produktata per alproksimigo de la langopinto al la osta palato malantau^ la gingivoj (ekz. (ekzemple) iuj konsonantoj en lingvoj hindia, sarda k.a. (kaj aliaj)).
 kal/aj^/o⟦茧/物/o⟧:【PIV】Hau^ta malmolig^o, malpli bone difinita ol kalo.
 kal/oz/o⟦茧/糖ᴼ/o⟧:【化】【PIV】Glucido, polimero de glukozo (C 6 H 10 O 5) n, parenca al celulozo, kiu konsistigas la kalon de la floemaj tuboj k parton de la membrano de iuj fungoj. -> kalozo.##偽分解(PIV正式分解)
-kal/oz/o⟦茧/糖ᴼ/o⟧:【解】【PIV】(corpus callosum) Lameno de nerva blanka substanco, strec^ita inter la du cerbaj hemisferoj. -> kal/ozo.##偽分解(衝突語)
+kal/oz/o⟦茧/oz/o⟧:【解】【PIV】(corpus callosum) Lameno de nerva blanka substanco, strec^ita inter la du cerbaj hemisferoj. -> kal/ozo.##偽分解(衝突語)
 kala/o⟦草ᴷᴬ/o⟧:【植】【PIV】G. (Genro) (Calla el arumacoj) de nur unu sp. (C. palustris), plurjara, marc^a herbo el la mezvarmaj regionoj de la N hemisfero, kun rampa rizomo, kun staraj, korformaj, longe petiolaj folioj, kun mallonga spadiko, kies bazo portas staran, platan spaton, k kun korale rug^aj beroj.
 kala-azar/o⟦草ᴷᴬ-azar/o⟧:【医】【PIV】Varmalanda malsano, kau^zata de protozoo el la g. (genro) lejs^manio transdonebla de diversaj parazitoj, k ankau^ nomata «nigra febro»: kala-azaro estas endemia en Hindio k Ekstrem-Oriento, g^i plioftig^as en la Mediteraneaj landoj.
 kalabas/arb/o⟦葫芦/树/o⟧:【PIV】= kalabaso 1.
