@@ -20462,7 +20462,7 @@ KSS^:【政】［略］=la Komunumo de Sendependaj S^tatoj（独立国家共同�
 ktp:［略］=kaj tiel plu,〜など
 k.t.p.:{Ｏ}［略］=kaj tiel plu,〜など
 Kuala-Lumpur/o:【地名】クアラルンプール（マレーシアの首都）
-kub/a⟦方ᴷ/a⟧:キューバの
+kub/a:キューバの
 kub/a⟦方ᴷ/a⟧:立方体の,立方形の;立方の
 kub/a dilat/o⟦方ᴷ/a 膨/o⟧:【理】体膨張
 kub/a ekvaci/o⟦方ᴷ/a 方程/o⟧:【数】三次方程式
@@ -34760,7 +34760,7 @@ Rur/o:【地名】ルール川（ドイツ，ライン川の支流）
 Rur/val/o:【地名】ルール渓谷;ルール地方
 rus/a:ロシア（人）の
 rus/a brand/o⟦rus/a 酒ᴮᴺ/o⟧:ウォッカ,=vodko
-Rus/a-Japan/a Milito:（la 〜）【史】日露戦争
+Rus/a-Japan/a Milit/o:（la 〜）【史】日露戦争
 rus/a lingv/o⟦rus/a 语/o⟧:（la 〜）ロシア語
 Rus/a Ortodoks/a Eklezi/o:（la 〜）【キ】ロシア正教会
 Rus/i/a:ロシア（国）の
@@ -39637,7 +39637,7 @@ s^uld/atest/o⟦欠/证ᴬ/o⟧:借用証書
 s^uld/at/o⟦欠/被/o⟧:=>kreditoro（債権者）
 s^uld/i⟦欠/i⟧:{Ｂ}［他］借りがある;【商】債務を負う;（精神的）義務がある;恩義を受けている,おかげである
 s^uld/i al iu mil frank/ojn⟦欠/i 向 某u 千 frank/ojn⟧:ある人に千フランの借りがある
-s^uld/i al la membroj detal/an klar/ig/on⟦欠/i 向 la membroj 细ᴰᵀ/an 清/使/on⟧:会員に詳しく説明しなければならない
+s^uld/i al la membr/oj detal/an klar/ig/on⟦欠/i 向 la 员/oj 细ᴰᵀ/an 清/使/on⟧:会員に詳しく説明しなければならない
 s^uld/i al s^i ni/an sukces/on⟦欠/i 向 她 我们/an 成ˢ/on⟧:我々の成功は彼女のおかげである
 s^uld/ig/i⟦欠/使/i⟧:［他］債務を負わせる;（精神的）義務を負わせる,貸しをつくる
 s^uld/ig^/i⟦欠/成/i⟧:［自］（精神的）義務を負う,借りをつくる
@@ -57265,7 +57265,7 @@ Vinc^/i:【PIV】Pentristo, arkitekto k ing^eniero de la itala Renesanco (Leonar
 Zeh^arj/a:【聖】【PIV】La dekunua el la malgrandaj profetoj.
 Zo/e:【PIV】Grekdevena virina nomo (traduko de la hebrea Eva).
 -adien/:【化】【PIV】Suf. (Sufikso), montranta, ke hidrokarbono havas du duoblajn ligojn: butadieno (Vd (vidu) but/), cikloheksadieno.
--al/⟦向/⟧:【植】【PIV】Suf. (Sufikso), uzata por formi nomojn de plantordoj el la genra nomo uzata por la tipa familio de la ordo: rozaloj, poligon aloj, kukurb aloj, orkid aloj. Vd -ac/, -e/, -ine/, -oide/.
+-al/:【植】【PIV】Suf. (Sufikso), uzata por formi nomojn de plantordoj el la genra nomo uzata por la tipa familio de la ordo: rozaloj, poligon aloj, kukurb aloj, orkid aloj. Vd -ac/, -e/, -ine/, -oide/.
 -anc/:【数】【理】【PIV】Suf. (Sufikso), karakterizanta iajn matematikajn k fizikajn grandojn, ofte por ilin distingi de terminoj derivig^antaj de la sama rad. (radiko) k signifantaj fizikan procezon, ekz. (ekzemple) por distingi indukto (procezo kreado de elektromova forto) k indukt anco (fizika grando, rilatanta al indukto): [Matematiko (inkl. Geometrion)] vari anco, signifik anco, [Fiziko (inkl. optikon)] indukt anco; [Aviado] port anco. Rim. (Rimarko) La vortfino anco trovig^as en neanalizeblaj nomoj: admitanco, disonanco, distanco, impedanco k.a. (kaj aliaj).
 -ante:【PIV】Responda adv. (adverbo), uzebla nur, kiam la plenumanto de la procezo estas esprimata per la subjekto de la prop. (propozicio): promen ante sur la strato, mi falis . Rim. (Rimarko) «La adv-an (adverban) formon ni uzas nur anst. (anstatau^) «kiam li (s^i, g^i, ili) antas au^ « c^ar li… antas » (Z.)».
 -anto:【PIV】Persono au^ objekto, kiu plenumas iun procezon: la parol anto; la Estanto sendis min al vi! ; ag anto (substanco), divid anto (nombro), deterg anto (solvaj^o), fleks anto (muskolo), rezult anto (vektoro) ks (kaj simile, kaj similaj).
@@ -57312,7 +57312,7 @@ j:【PIV】Konsonanto, voc^a palatala glitanto.
 n:【PIV】Konsonanto, voc^a nazala dentalo.
 -nomial/:【数】【PIV】Suf. (Sufikso) indikanta potencon de algebra esprimo: dunomiala koeficiento, distribuo.
 -oide/:【植】【PIV】Suf. (Sufikso) (- oideae), per kiu oni derivas la nomon de: 1 subfamilioj el la nomo de ilia tipa genro: orkidoideoj 2【動】 superfamilioj el la nomo de la genro de ilia tipa familio: homoideoj.
--ol/⟦比/⟧:【化】【PIV】Suf. (Sufikso), uzata: 1) post nomo de hidrokarbono por nomi alkoholojn: etanolo, metanolo, cikloheksanolo; 2) tradicie post nomo de plantoj k.a., por nomi alkoholojn (mentolo, retinolo) au^ kelkajn eterojn (anetolo, anizolo).
+-ol/:【化】【PIV】Suf. (Sufikso), uzata: 1) post nomo de hidrokarbono por nomi alkoholojn: etanolo, metanolo, cikloheksanolo; 2) tradicie post nomo de plantoj k.a., por nomi alkoholojn (mentolo, retinolo) au^ kelkajn eterojn (anetolo, anizolo).
 -om/:【医】【PIV】Suf. (Sufikso), indikanta benignan au^ malignan tumoron el difinita histo: epiteliomo, ost omo, hepatomo.
 -onte:【PIV】Responda adv. (adverbo), uzebla nur, kiam la plenumanto de la procezo estas esprimata per la subjekto de la prop. (propozicio): ir onte promeni, purigu (sk. (subkompreni, subkomprenu) «vi») vian veston .
 -onto:【PIV】Persono au^ objekto, kiu plenumos iun procezon: mi scias, ke mia liberig onto vivas ; sieg^ontoj venas el lando malproksima ; pend onto ne dronos ; la Savonto .
@@ -57329,7 +57329,7 @@ ot/o⟦耳ᴼᵀ/o⟧:【医】【PIV】Orelo.
 -tet/:【楽】【PIV】Suf. (Sufikso), kiu, aldonite al la numeraloj (precipe ekde 4), ebligas kunmeti nomojn, signifantajn: 1 komponaj^on konsistantan el la dirita nombro de partoj au^ por la dirita nombro de ludantoj 2 la ludantaron mem: kvarteto, kvinteto, sesteto, septeto, ok teto. Vd solo, dueto, terceto.
 -tom/:【医】【PIV】Suf. (Sufikso), uzata en kirurgio por nomi tranc^an instrumenton, per kiu oni incizas difinitan organon: trakeo tomo, kerato tomo ktp (kaj tiel plu).
 -tomizi:【PIV】Operacii pacienton per - tomo: trakeo tomizi infanon trafitan de krupo.
--trop/⟦喻/⟧:【生】【医】【PIV】Suf. (Sufikso), signifanta «havanta afinecon kun» au^ «stimulanta», pp (se paroli pri) organo au^ histo: gonadotropa hormono (Vd gonadostimulino), psikotropa (psikostimula) medikamento, neu^rotropa (nervoafina) viruso, dermotropa (dermoafina) mikrobo. Rim. (Rimarko) La uzo de -afina k -stimula estas g^enerale pli klara k preferinda.
+-trop/⟦向ᵀ/⟧:【生】【医】【PIV】Suf. (Sufikso), signifanta «havanta afinecon kun» au^ «stimulanta», pp (se paroli pri) organo au^ histo: gonadotropa hormono (Vd gonadostimulino), psikotropa (psikostimula) medikamento, neu^rotropa (nervoafina) viruso, dermotropa (dermoafina) mikrobo. Rim. (Rimarko) La uzo de -afina k -stimula estas g^enerale pli klara k preferinda.
 -unt/:【PIV】Eksperimenta suf. (sufikso), signifanta «kiu -us»: ec^ perfiduntan mi s^in volas mia!
 -ut/:【PIV】Eksperimenta suf. (sufikso), signifanta «kiun oni -us»: la ofendutoj pardonu!
 -vora:【PIV】(pp (se paroli pri) animalo) Karakterize sin nutranta per io: karno vora, feko vora, grundo vora, kadavro vora, c^iovora (Sin. (sinonimo) c^iomang^anta) besto.

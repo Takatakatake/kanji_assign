@@ -34760,7 +34760,7 @@ Rur/o:【地名】ルール川（ドイツ，ライン川の支流）
 Rur/val/o:【地名】ルール渓谷;ルール地方
 rus/a:ロシア（人）の
 rus/a brand/o:ウォッカ,=vodko
-Rus/a-Japan/a Milito:（la 〜）【史】日露戦争
+Rus/a-Japan/a Milit/o:（la 〜）【史】日露戦争
 rus/a lingv/o:（la 〜）ロシア語
 Rus/a Ortodoks/a Eklezi/o:（la 〜）【キ】ロシア正教会
 Rus/i/a:ロシア（国）の
@@ -39637,7 +39637,7 @@ s^uld/atest/o:借用証書
 s^uld/at/o:=>kreditoro（債権者）
 s^uld/i:{Ｂ}［他］借りがある;【商】債務を負う;（精神的）義務がある;恩義を受けている,おかげである
 s^uld/i al iu mil frank/ojn:ある人に千フランの借りがある
-s^uld/i al la membroj detal/an klar/ig/on:会員に詳しく説明しなければならない
+s^uld/i al la membr/oj detal/an klar/ig/on:会員に詳しく説明しなければならない
 s^uld/i al s^i ni/an sukces/on:我々の成功は彼女のおかげである
 s^uld/ig/i:［他］債務を負わせる;（精神的）義務を負わせる,貸しをつくる
 s^uld/ig^/i:［自］（精神的）義務を負う,借りをつくる
