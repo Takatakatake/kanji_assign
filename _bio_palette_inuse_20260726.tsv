@@ -1,0 +1,884 @@
+# 使用中の単字 = 2260字 / 使用中の master表示 = 5362種
+# ★候補にしてよいのは この一覧に載っている字のみ。載っていない字は使わない。
+
+## [A] 生物に使われている字(最近縁字を選ぶ際の第一候補)
+字	語根数	既に割り当てられている代表例(語根=語釈)
+草	352(生物320)	herb={Ｂ}草;牧草,芝草;【植】草本 / gliciriz={Ｏ}【植】カンゾウ（甘草）（属） / medikag=【植】ウマゴヤシ（属）,>>luzerno / melis={Ｏ}【植】メリッサ,セイヨウヤマハッカ（属 / lavend={Ｏ}【植】ラベンダー（属）
+木	271(生物249)	platan={Ｂ}【植】プラタナス,スズカケノキ（篠懸の / arbust={Ｏ}低木,小低木;【植】小低木 / cidoni={Ｏ}【植】マルメロ / peg={Ｏ}【鳥】キツツキ（啄木鳥）（科の総称）; / kapok=【植】カポック,パンヤ綿（クッション・救命胴
+鸟	150(生物130)	motacil=【鳥】セキレイ（鶺鴒）（属）,=vostsk / gavi=【鳥】=kolimbo（アビ） / hesperornit=【動】【PIV】G. (Genro) (He / greb=【動】【PIV】Podicipo k par / epiornit=【鳥】エピオルニス（絶滅した大型の走鳥類の鳥
+虫	130(生物100)	larv={Ｂ}【虫】幼虫;【動】幼生,>>imagi / cim={Ｏ}【虫】ナンキンムシ（南京虫）;カメムシ / teni={Ｏ}【動】ジョウチュウ（条虫）,サナダムシ / sau^r=【動】【PIV】Kn (Kolektiva  / askarid=【動】回虫
+鱼	114(生物93)	ezok={Ｂ}【魚】カワカマス / gobi={Ｂ}【魚】タイリクスナモグリ（属）,川ハゼ / gasteroste=【魚】イトヨ（属）;トゲウオ,=dornfi / pleu^ronekt={Ｏ}【魚】ツノガレイ（属）,>>platf / lofi=【動】【PIV】G. (Genro) (Lo
+菌	130(生物74)	fung={Ｂ}【植】キノコ / kandid=【植】【PIV】G. (Genro) (Ca / kantarel=【菌】アンズタケ（属） / hif=【植】【PIV】Fadenforma ele / trikofit=【植】【医】【PIV】G. (Genro) 
+兽	77(生物60)	teri=【動】【PIV】Subklaso (Ther / fau^n=【動】動物相,ファウナ,=bestaro / dazipod=【動】【PIV】G. (Genro) (Da / mirmekofag=【動】オオアリクイ（大蟻喰）,=formik / falanger=【動】【PIV】G. (Genro) (Ph
+菊	55(生物52)	krizantem={Ｏ}【植】キク（の類）（菊）;《般》菊 / arnik={Ｏ}【植】ウサギギク（兎菊）（属）;アルニ / kamomil={Ｏ}【植】カミツレ,カミルレ（_Matri / kompozit=【植】=asteracoj（キク科） / cejan={Ｏ}【植】ヤグルマギク（矢車菊）
+鼠	37(生物29)	mus={Ｂ}【動】ハツカネズミ（二十日鼠）（属）; / rat={Ｂ}【動】クマネズミ（熊鼠）（属）,ドブネ / sciur={Ｂ}【動】リス（栗鼠）（科の総称） / makrop=【動】カンガルー（属）,>>kanguruo / salvi={Ｏ}【植】サルビア（属）,アキギリ（属）;
+猴	31(生物29)	kiv=《Ｎ》【果】キウイ / resus=【動】【PIV】Sp. (Specio) d / aktinidi=【植】【PIV】G. (Genro) (Ac / ceb=【動】【PIV】G. (Genro) (Ce / kalitriks=【動】【PIV】G. (Genro) (Ca
+果	37(生物26)	ber={Ｂ}（イチゴ・ブドウなど汁気の多い）実;【 / nuks={Ｂ}【植】堅果,木の実,ナッツ,>>jug / fig={Ｂ}【果】イチジク / aken=【植】【PIV】1 (ss (strikta / avel={Ｏ}【果】ハシバミの実,ヘーゼルナッツ
+伞	28(生物24)	umbel=【植】散形花序 / cum=【植】【PIV】(cyma) Decentr / angelik={Ｏ}【植】アンゼリカ;シシウド（属） / anet=【料】ディル;【植】イノンド,ヒメウイキョウ / umbelifer=【植】散形科（セリ科の古称）,=apiaco
+豆	25(生物24)	fab={Ｂ}【植】ソラマメ（空豆）;《般》豆（まめ / fazeol={Ｂ}【植】インゲンマメ（隠元豆）（属） / soj=【植】ダイズ（大豆、マメ科の植物）,=soj / latir=【植】レンリソウ（属） / karob={Ｏ}【果】イナゴマメ（の実）
+羊	28(生物21)	kapr={Ｂ}【動】ヤギ（山羊） / filik={Ｏ}【植】シダ（羊歯） / arnik={Ｏ}【植】ウサギギク（兎菊）（属）;アルニ / ovi=【動】【PIV】G. (Genro) (Ov / vikun=【動】ビクーニャ（ラマに似たアンデス産の偶蹄
+虾	22(生物20)	kankr={Ｂ}【動】ザリガニ（の類） / leandr=【動】【PIV】G. (Genro) (Le / eu^fau^zi=【動】【PIV】G. (Genro) (Eu / gobius=【魚】ハゼ（科の総称）;ゴビウス（属） / omar={Ｏ}【動】ウミザリガニ（属）,オマールエビ
+龙	33(生物20)	drak={Ｏ}竜,ドラゴン;【動】トビトカゲ（属）; / gencian={Ｏ}【植】リンドウ（属） / dracen=【植】【PIV】G. (Genro) (Dr / h^ameleon=【動】=kameleono（カメレオン） / omar={Ｏ}【動】ウミザリガニ（属）,オマールエビ
+贝	23(生物19)	konk={Ｏ}【動】貝殻,（カタツムリの）殻;《転》 / cipre=【動】【PIV】G. (Genro) (Cy / fritilari=【植】バイモ（貝母）（属）;ヨウラクユリ / folad=【貝】ニオガイ（属） / arkiteu^t=【動】【PIV】G. (Genro) (Ar
+瓜	19(生物19)	melon={Ｂ}【果】メロン;【植】メロン（種） / kukum={Ｂ}【植】キュウリ（種）;キュウリの果実 / kukurb={Ｂ}【植】カボチャ（属） / cidoni={Ｏ}【植】マルメロ / papaj=【植】パパイア
+藻	27(生物18)	bangi=【植】【PIV】G. (Genro) (Ba / fuk={Ｏ}【植】ヒバマタ（属） / ulv=【植】【PIV】G. (Genro) (Ul / sargas={Ｏ}【植】ホンダワラ属（の海藻） / cerami=【植】【PIV】G. (Genro) (Ce
+蛇	23(生物17)	piton=【動】ニシキヘビ（錦蛇）（属） / vipur={Ｏ}【動】クサリヘビ（鎖蛇）（属）;《般》 / lupol={Ｏ}【植】ホップ（種） / kobr=【動】【PIV】Kn (Kolektiva  / ofiur=【動】【PIV】G. (Genro) (Op
+兰	22(生物17)	konval={Ｂ}【植】スズラン（属）（鈴蘭）,>>ma / orkid=【植】ハクサンチドリ（属）,オルキス;【解】 / orkide={Ｏ}《般》【植】ラン（蘭）（科の総称） / neoti=【植】【PIV】G. (Genro) (Ne / angrek=【植】【PIV】G. (Genro) (An
+齿	22(生物16)	filik={Ｏ}【植】シダ（羊歯） / aspleni=【植】【PIV】G. (Genro) (As / psilot=【植】【PIV】G. (Genro) (Ps / azol=【植】【PIV】G. (Genro) (Az / ceterak=【植】【PIV】Sp. (Specio) d
+花	32(生物16)	fig={Ｂ}【果】イチジク / korol={Ｏ}【植】花冠（かかん）,=petalar / infloresk=【植】花序 / kalistegi=【植】ヒルガオ（属）,>>konvolvul / arakid=【植】ラッカセイ（落花生）（属）,>>ter
+香	30(生物16)	latir=【植】レンリソウ（属） / bergamot=【植】ベルガモット（オレンジの一種） / mirt={Ｏ}【植】ギンバイカ（銀梅花）（属）,ミル / siring={Ｏ}【植】ライラック,ハシドイ（属） / ladan=【植】【PIV】Aroma gumo, li
+菜	16(生物15)	brasik={Ｂ}【植】キャベツ,=kapobrasik / bet={Ｂ}【植】ビート,テンサイ（甜菜）,サトウ / spinac={Ｂ}【植】ホウレンソウ（菠薐草）（属） / nap={Ｏ}【農】カブ,カブラ（蕪）,=rapo; / endivi={Ｏ}【植】キクヂシャ,エンダイブ
+海	17(生物9)	fok={Ｏ}【動】ゴマフアザラシ（属）;《般》アザ / ekin=【動】ウニ,=markas^tano / procelari=【動】【PIV】G. (Genro) (Pr / asteri=【動】ヒトデ,=marstelo / salp=【動】【PIV】G. (Genro) (Sa
+鸡	10(生物9)	kok={Ｂ}【鳥】ニワトリ（鶏）;【生】=mikr / tetra={Ｏ}【鳥】エゾライチョウ（蝦夷雷鳥）（種） / fazan={Ｏ}【鳥】キジ（雉）（科の総称） / meleagr={Ｏ}【鳥】シチメンチョウ（属）（七面鳥） / kantarel=【菌】アンズタケ（属）
+松	12(生物9)	pin={Ｂ}【植】マツ（松）（属） / sciur={Ｂ}【動】リス（栗鼠）（科の総称） / larik={Ｏ}【植】カラマツ（属） / cedr={Ｏ}【植】ヒマラヤスギ属;セイヨウスギ,シ / juniper={Ｏ}【植】ビャクシン（属）;セイヨウネズ
+麦	12(生物9)	aven={Ｂ}【植】カラスムギ（烏麦）（属）;【植】 / horde={Ｂ}【植】オオムギ（属） / sekal={Ｂ}【植】ライムギ（属）;ライ麦（穀物） / ergot=【植】麦角（ばっかく）;【鳥】蹴爪（けづめ） / fagopir=【植】ソバ（蕎麦）（属）;ソバの実
+蛛	11(生物9)	arane={Ｂ}【動】クモ（蜘蛛） / opilion=【動】【PIV】G. (Genro) (Op / terafoz=【動】【PIV】G. (Genro) (Th / argiop=【動】【PIV】G. (Genro) (Ar / argironet=【動】【PIV】Araneulo (unus
+茄	10(生物9)	solan=【植】ナス（茄子）（属） / alkekeng=【植】【PIV】Sp. (Specio) d / fizalid=【植】【PIV】G. (Genro) (Ph / hiosciam=【植】【PIV】Hiskiamo. / likopersik=【植】【PIV】G. (Genro) (Ly
+鹰	10(生物9)	strig={Ｂ}【鳥】フクロウ（梟）（の類） / vultur={Ｂ}【鳥】コンドル（種）,=kondoro / falk={Ｏ}【鳥】ハヤブサ（隼）（属） / grif=【神】グリュプス,グリフォン（頭と翼が鷲で胴 / akcipitr={Ｏ}《般》タカ（鷹）,>>falko,>>
+树	15(生物8)	arb={Ｂ}木,樹木;【植】高木 / gajl={Ｏ}【植】虫こぶ,ふし,没食子（もっしょく / mangl=【果】マングローブ（の実） / dracen=【植】【PIV】G. (Genro) (Dr / kasi=【植】【PIV】G. (Genro) (Ca
+鹿	9(生物8)	cerv={Ｂ}【動】シカ（鹿，属）;シカ（科） / dama=【動】ダマジカ,=damcervo / kapreol={Ｏ}【動】ノロ（シカ科の動物の一種） / g^iraf={Ｏ}【動】キリン / rangifer=【動】=boaco（トナカイ）
+桃	11(生物8)	persik={Ｂ}【果】モモ（桃） / migdal={Ｏ}【果】アーモンド / jugland={Ｏ}【果】クルミ（胡桃）;【植】クルミ（属 / mirt={Ｏ}【植】ギンバイカ（銀梅花）（属）,ミル / kiv=《Ｎ》【果】キウイ
+蛙	10(生物8)	ran={Ｂ}【動】トノサマガエル（殿様蛙）（属）; / batrak=【動】無尾類,=senvostuloj / hil=【動】アマガエル（雨蛙）（属）,=verda / salamandr={Ｏ}【動】サンショウウオ（山椒魚）の類;サ / aksolotl=【動】【PIV】La larvo de la
+姜	9(生物8)	alpini=【植】【PIV】G. (Genro) (Al / amom=【植】【PIV】G. (Genro) (Am / eletari=【植】【PIV】G. (Genro) (El / etlinger=【植】【PIV】G. (Genro) (Et / galang=【植】【PIV】1 (ss (strikta
+叶	15(生物7)	lob={Ｏ}【解】葉（よう）;【植】裂片 / klorofil=【植】葉緑素 / frond=【植】（地衣類の）葉状体;（シダ類・ヤシ・シ / limb=【植】葉身;【機】分度弧,目盛り縁 / korm=【植】【PIV】1 Vegeta korpo
+根	15(生物7)	radik=根の;《転》根本的な,根源的な;【植】根生の / tars=【解】足根骨;【虫】ふ節 / ipek=【植】【PIV】1 Sp. (Specio) / rizom=【植】根茎,地下茎 / draj^=【植】【PIV】S^oso, kiu kre
+麻	13(生物7)	lin={Ｂ}【植】アマ（属）（亜麻） / kanab={Ｏ}【植】アサ（麻）,タイマ（大麻） / sezam=【植】ゴマ（胡麻）（属）;【料】ごま（ゴマの / lami=【植】オドリコソウ（属）;【神】ラミア（ギリ / jut=【織】ジュート;【植】=jutplanto（
+水	47(生物6)	hidr={Ｏ}【動】ヒドラ;【神】ヒドラ（九つの頭を / meduz={Ｏ}【動】クラゲ（海月・水母） / narcis={Ｏ}【植】スイセン（水仙）（属） / kolc^ik=【植】コルチカム（属）,イヌサフラン / staki=【植】【PIV】G. (Genro) (St
+山	12(生物6)	pekan=【植】【PIV】Speco de nukso / filadelf=【植】バイカウツギ（属） / karj=【植】【PIV】G. (Genro) (Ca / manis=【動】【PIV】G. (Genro) (Ma / kapor={Ｏ}【植】フウチョウボク（属）,ケーパー（
+野	8(生物6)	tetra={Ｏ}【鳥】エゾライチョウ（蝦夷雷鳥）（種） / prunel={Ｏ}【果】スピノサスモモの実 / fazan={Ｏ}【鳥】キジ（雉）（科の総称） / lami=【植】オドリコソウ（属）;【神】ラミア（ギリ / bizon={Ｏ}【動】バイソン,ヤギュウ（野牛）,>>
+蜂	8(生物6)	vesp={Ｂ}【虫】スズメバチ（雀蜂）（科の総称）; / melis={Ｏ}【植】メリッサ,セイヨウヤマハッカ（属 / petazit=《Ｎ》【植】フキ（蕗）（genro _Pet / cinip=【動】【PIV】G. (Genro) (Cy / krabr={Ｏ}【虫】モンスズメバチ,>>vespo
+毒	27(生物6)	cikut={Ｏ}【植】ドクゼリ（属）;ドクニンジンの毒 / lol={Ｏ}【植】ドクムギ（属）,ライグラス / koni=【植】ドクニンジン（属） / vipur={Ｏ}【動】クサリヘビ（鎖蛇）（属）;《般》 / mancinel=【植】マンチニール（有毒な樹液を分泌する熱帯
+雀	8(生物6)	kanari={Ｏ}【鳥】カナリア（種） / paser={Ｂ}【鳥】スズメ（雀）（属） / fring={Ｏ}【鳥】アトリ（属） / emberiz=【鳥】ホオジロ（属） / pirol={Ｏ}【鳥】ウソ（鷽）
+鸦	8(生物6)	korv={Ｂ}【鳥】カラス（属）（鴉、烏）,>>ko / kornik={Ｂ}【鳥】ハシボソガラス / korak=【鳥】ワタリガラス / garol={Ｏ}【鳥】カケス（属） / frugileg={Ｏ}【鳥】ミヤマガラス
+甲	21(生物6)	skarab={Ｏ}【虫】タマオシコガネ,スカラベ（属）; / cefalaspid=【動】【PIV】G. (Genro) (Ce / pteraspid=【動】【PIV】G. (Genro) (Pt / kurkuli=【虫】ゾウムシ（科）,=bekskarabo / manis=【動】【PIV】G. (Genro) (Ma
+大	13(生物5)	soj=【植】ダイズ（大豆、マメ科の植物）,=soj / rabarb={Ｏ}【植】ダイオウ（大黄）（属）;【料】ル / sizigi=【天】【植】【PIV】1 Konjunkci / glicin=【植】ダイズ属;【化】グリシン（アミノ酸の一 / glicine=【植】=glicino（ダイズ属）
+猫	7(生物5)	strig={Ｂ}【鳥】フクロウ（梟）（の類） / karakal=【動】【PIV】Sp. (Specio) d / link={Ｏ}【動】オオヤマネコ（属）（大山猫） / felis=【動】ネコ属（の動物）,>>kato / pand=【動】パンダ
+牛	12(生物5)	bov={Ｂ}【動】ウシ（牛）（属） / tau^r=《稀》雄牛,種牛,=virbovo;【動】ウ / ur={Ｏ}【動】オーロックス（17世紀に絶滅した / bizon={Ｏ}【動】バイソン,ヤギュウ（野牛）,>> / bubal={Ｏ}【動】スイギュウ（水牛）
+黄	22(生物5)	rabarb={Ｏ}【植】ダイオウ（大黄）（属）;【料】ル / buks={Ｏ}【植】ツゲ（黄楊） / mile=《Ｎ》【植】キビ（黍）（種）,>>panic / hesperornit=【動】【PIV】G. (Genro) (He / jut=【織】ジュート;【植】=jutplanto（
+尾	11(生物5)	cisticerk=【動】【PIV】Larvo de iuj t / onkocerk=【動】【PIV】G. (Genro) (On / salvi={Ｏ}【植】サルビア（属）,アキギリ（属）; / ofiur=【動】【PIV】G. (Genro) (Op / celakant=【魚】シーラカンス
+燕	6(生物5)	hirund={Ｂ}【鳥】ツバメ（属）;=domhirun / aven={Ｂ}【植】カラスムギ（烏麦）（属）;【植】 / procelari=【動】【PIV】G. (Genro) (Pr / fring={Ｏ}【鳥】アトリ（属） / salangan=【動】【PIV】G. (Genro) (Co
+萝	6(生物5)	karot={Ｂ}【植】ニンジン（人参） / rafan={Ｂ}【植】ダイコン（大根）（種）;【植】ダ / rap={Ｏ}【植】カブ,カブラ（蕪）（種） / ananas={Ｏ}【果】パイナップル / jakv=【植】【PIV】Frukto (s^ajnf
+鲸	7(生物5)	balen={Ｏ}【動】クジラ;セミクジラ / cetac=【動】クジラ類,>>baleno,>>mak / ork=【動】シャチ（鯱）（種） / narval=【動】イッカク（一角） / kac^alot=【動】マッコウクジラ（抹香鯨，種）,=mak
+鹅	6(生物5)	cign={Ｂ}【鳥】ハクチョウ（白鳥）;《転》詩聖 / anser={Ｂ}【鳥】ガチョウ（鵞鳥）;《転》まぬけ者 / sfenisk=【動】【PIV】G. (Genro) (Sp / amanit=【菌】テングタケ（天狗茸）,ベニテングタケ / pingven={Ｏ}【鳥】ペンギン（科の総称）
+鹦	6(生物5)	psitak=【動】【PIV】Papago (unuspe / nau^til=【動】オウムガイ（属） / kakatu=【鳥】バタンインコ,オウム（属）,>>pap / konur=【鳥】=papageto（インコ）;（特に） / ara=【鳥】コンゴウインコ（属）
+虎	5(生物5)	tigr={Ｂ}【動】トラ（虎） / lacert={Ｂ}【動】トカゲ（類）;【動】コモチカナヘ / karis=【植】【PIV】G. (Genro) (Ca / ork=【動】シャチ（鯱）（種） / gobius=【魚】ハゼ（科の総称）;ゴビウス（属）
+蝉	8(生物5)	cikad={Ｂ}【虫】セミ（蝉） / fulgor=【動】【PIV】G. (Genro) (Fu / cukcukcikad=《Ｎ》【虫】ツクツクボウシ（speco de / kanacikad=《Ｎ》【虫】ヒグラシ（speco de ci / mincikad=《Ｎ》【虫】ミンミンゼミ（speco de 
+莲	5(生物5)	lotus={Ｂ}【植】ハス（蓮）,スイレン（睡蓮）;【 / anemon={Ｏ}【植】アネモネ / barbaden=【植】【PIV】1 Sp. (Specio) / nimfe=【植】スイレン（睡蓮）（属）,=akvoli / nelumb=【植】【PIV】G. (Genro) (Ne
+豹	5(生物5)	fok={Ｏ}【動】ゴマフアザラシ（属）;《般》アザ / leopard={Ｏ}【動】ヒョウ（豹）,=pantero / panter={Ｏ}【動】ヒョウ（豹）（種）=leopar / gepard=【動】チーター,=c^asleopardo / jaguar={Ｏ}【動】ジャガー
+子	54(生物4)	bazidi=【植】【PIV】Cilindra, klab / gimnosperm=【植】裸子の,裸子植物の / silen=【植】【PIV】G. (Genro) (Si / hiacint={Ｏ}【植】ヒアシンス（属）
+心	33(生物4)	kardi=【貝】ヨーロッパザルガイ（食用の二枚貝）;【 / karpel=【植】【PIV】Florfolio, sur / pistak={Ｏ}【果】ピスタチオ（果実・種子） / sapot=【植】【PIV】1 Alia, nelegi
+红	21(生物4)	arbut=【果】アルブツスの実（ヘビイチゴに似た赤く丸 / koc^=【動】【PIV】1 Sp. (Specio) / mangl=【果】マングローブ（の実） / rizofor=【植】【PIV】G. (Genro) (Rh
+甘	9(生物4)	gliciriz={Ｏ}【植】カンゾウ（甘草）（属） / kamomil={Ｏ}【植】カミツレ,カミルレ（_Matri / batat=【植】サツマイモ（薩摩芋）（種）,甘藷（かん / patat=【植】=batato（サツマイモ）
+体	39(生物4)	plastid=【生】【植】【PIV】Organeto de / celom=【動】【PIV】Korpa kavo c^e / molusk={Ｏ}【動】軟体動物 / korm=【植】【PIV】1 Vegeta korpo
+石	49(生物4)	diant={Ｂ}【植】ナデシコ（属）,カーネーション, / erik={Ｏ}【植】エリカ（属）,ヒース / kokolit=【植】【PIV】1 G. (Genro) C / likopodi=【植】ヒカゲノカズラ（属）
+茶	5(生物4)	te={Ｂ}茶,紅茶（茶葉および飲料）;【植】チャ / kameli={Ｏ}【植】ツバキ（椿，属） / mate={Ｏ}【植】マテチャ;【料】マテ茶 / sazank=《Ｎ》【植】サザンカ（山茶花）（specio
+角	26(生物4)	ergot=【植】麦角（ばっかく）;【鳥】蹴爪（けづめ） / anten={Ｏ}【虫】触角;【通】アンテナ / karob={Ｏ}【果】イナゴマメ（の実） / poligon={Ｏ}【植】タデ（蓼）（属）;【数】多角形,
+血	43(生物4)	vampir={Ｏ}吸血鬼;【動】チスイコウモリモドキ,> / hirud={Ｏ}【動】ヒル / dracen=【植】【PIV】G. (Genro) (Dr / skistosom=【動】【PIV】G. (Genro) (Sc
+袋	6(生物4)	krop={Ｏ}【鳥】そ嚢（のう）;【病】=strum / makrop=【動】カンガルー（属）,>>kanguruo / marsupi=【動】【PIV】(marsupium) Ve / kanguru={Ｏ}【動】カンガルー（一般名）,>>mak
+刺	15(生物4)	gasteroste=【魚】イトヨ（属）;トゲウオ,=dornfi / knid=【動】【PIV】Speco de c^elo / karis=【植】【PIV】G. (Genro) (Ca / notakant=【動】【PIV】G. (Genro) (No
+冠	13(生物4)	krest={Ｂ}【動】（鳥の）とさか;（鳥の）羽冠;《 / korol={Ｏ}【植】花冠（かかん）,=petalar / egret=【鳥】冠羽（かんう）;【服】（帽子の）羽根飾 / kraks=【動】【PIV】G. (Genro) (Cr
+葱	5(生物4)	cep={Ｂ}【料】玉ネギ;【植】タマネギ / alium=【植】【PIV】G. (Genro) (Al / ampelopraz=【植】【PIV】1 Kf. (Kultivo / pore={Ｏ}【植】リーキ（種）,ニラネギ（韮葱）,
+核	19(生物4)	jugland={Ｏ}【果】クルミ（胡桃）;【植】クルミ（属 / drup=【植】石果（せきか）（ウメ、モモなど堅い核を / pekan=【植】【PIV】Speco de nukso / karj=【植】【PIV】G. (Genro) (Ca
+龟	5(生物4)	testud={Ｂ}【動】カメ（亀）;【史】（古代ローマの / emid=【動】【PIV】Testudulo (Emy / keloni=【動】ウミガメ（科の総称）,=martest / karet=【動】【PIV】Mara testudulo
+茎	7(生物4)	tig={Ｂ}【植】茎（くき）;（ピストンなどの）棒 / rizom=【植】根茎,地下茎 / kulm=【植】（麦などの）茎,>>tigo;《詩》= / korm=【植】【PIV】1 Vegeta korpo
+枣	4(生物4)	daktil={Ｂ}【果】ナツメヤシ;【文】長短短格,強弱 / jujub=【果】ナツメ;【菓】（ナツメの香りを付けた） / zizif=【植】ナツメ（属）,>>jujubarbo / scil=【植】【PIV】G. (Genro) (Sc
+鳄	5(生物4)	avokad={Ｏ}【果】アボカド（の実） / aligator={Ｏ}【動】（アリゲーター科の）ワニ（鰐）（ / kajman=【動】カイマン（中南米産のワニ）,>>ali / gavial=【動】ガビアル,ガンジスワニ,>>kroko
+驼	6(生物4)	kamel={Ｂ}【動】ラクダ（属） / dromedar={Ｏ}【動】ヒトコブラクダ,=unug^ib / alk={Ｏ}【動】オオシカ / vikun=【動】ビクーニャ（ラマに似たアンデス産の偶蹄
+葵	5(生物4)	alte={Ｏ}【植】タチアオイ（立葵）（属） / heliant=【植】ヒマワリ（向日葵）（属）,=sunfl / alce=【植】【PIV】G. (Genro) (Al / aktini=【動】【化】【PIV】1 Rozosimil
+潜	7(生物4)	gavi=【鳥】=kolimbo（アビ） / greb=【動】【PIV】Podicipo k par / podicip=【動】【PIV】G. (Genro) (Po / kolimb={Ｏ}【鳥】アビ（属）,=gavio
+囊	18(生物4)	kapsul={Ｏ}（ビンの）王冠;【化】蒸発皿;【薬】（ / ask=【植】【PIV】Fungoc^elo oft / folikl=【植】袋果（たいか）;【解】小胞,濾胞（ろほ / cisticerk=【動】【PIV】Larvo de iuj t
+柑	5(生物4)	bergamot=【植】ベルガモット（オレンジの一種） / citrus=【植】かんきつ（柑橘）類（の樹木、ミカン・ダ / kapor={Ｏ}【植】フウチョウボク（属）,ケーパー（ / cedrat=【果】シトロン,ブシュカン（仏手柑）
+蛤	4(生物4)	lofi=【動】【PIV】G. (Genro) (Lo / buf={Ｏ}【動】ヒキガエル（蟇蛙）（属）,ガマ（ / meretrik=《Ｎ》【貝】ハマグリ（mang^ebla d / ruditap=《Ｎ》【貝】アサリ（mang^ebla du
+百	17(生物3)	lili={Ｂ}【植】ユリ（属）（百合） / timian={Ｏ}【植】タチジャコウソウ（立麝香草）（属 / serpil=【植】イブキジャコウソウ（伊吹麝香草）（種）
+原	23(生物3)	ur={Ｏ}【動】オーロックス（17世紀に絶滅した / pamp=【植】【生態】【地理】【PIV】S-Amer / primordi=【植】【PIV】Junega au^ jun
+马	17(生物3)	zebr={Ｏ}【動】シマウマ（縞馬） / faeton=フェートン（無蓋 の軽四輪馬車）;【鳥】ネッ / onagr=【動】【PIV】Sp. (Specio) d
+油	23(生物3)	nap={Ｏ}【農】カブ,カブラ（蕪）,=rapo; / kantarel=【菌】アンズタケ（属） / kolz={Ｏ}【植】（セイヨウ）アブラナ,=oleo
+卵	13(生物3)	ovari=【解】卵巣;【植】子房 / ovol=【動】卵子;【植】胚珠（はいしゅ） / arkegoni=【植】【PIV】Inseksa reprod
+猪	5(生物3)	apr={Ｂ}【動】イノシシ（猪）（種）,=sova / eritroni=【植】【PIV】G. (Genro) (Er / su=【動】【PIV】Apro.
+丝	8(生物3)	filament=【電】フィラメント;【植】花糸;【解】線条組 / salangan=【動】【PIV】G. (Genro) (Co / hif=【植】【PIV】Fadenforma ele
+米	14(生物3)	riz={Ｂ}【植】イネ（稲）（種）;《般》米（粒） / maiz={Ｂ}【植】トウモロコシ（種）;トウモロコシ / mile=《Ｎ》【植】キビ（黍）（種）,>>panic
+杉	3(生物3)	abi={Ｂ}【植】モミ（樅）（属） / pice={Ｂ}【植】トウヒ（唐檜）（属） / cug=【植】【PIV】G. (Genro) (Ts
+卜	4(生物3)	karot={Ｂ}【植】ニンジン（人参） / rafan={Ｂ}【植】ダイコン（大根）（種）;【植】ダ / rap={Ｏ}【植】カブ,カブラ（蕪）（種）
+豌	4(生物3)	piz={Ｂ}【植】エンドウ（豌豆）（属）;《般》え / latir=【植】レンリソウ（属） / vici=【植】ソラマメ（空豆）（属）（ソラマメ、カラ
+鹃	3(生物3)	kukol={Ｂ}【鳥】カッコウ（属） / trogon=【動】【PIV】G. (Genro) (Tr / azale=【植】アザレア;ツツジ（躑躅）,>>rodo
+天	14(生物3)	cign={Ｂ}【鳥】ハクチョウ（白鳥）;《転》詩聖 / sfing=【動】【PIV】1 G. (Genro) ( / nandin=《Ｎ》【植】ナンテン（南天）（specio 
+药	13(生物3)	oficin=【植】（分類名で）薬用の;【薬】薬局方の,= / kolocint=【植】コロシントウリ（種） / kolokint=【植】=kolocinto（コロシントウリ）
+樱	4(生物3)	bigarel=【植】【PIV】Rug^a k blanka / meriz={Ｏ}【果】サクランボ（の実）,=dolc^ / sakur=【植】サクラ
+蚊	3(生物3)	moskit={Ｂ}《般》【虫】蚊（か）,>>kulo / kul={Ｏ}【虫】カ（蚊）;（特に）イエカ（属）, / anofel=【虫】ハマダラカ（属）,>>moskito
+合	23(生物3)	lili={Ｂ}【植】ユリ（属）（百合） / akaci={Ｏ}【植】アカシア（属） / anastomoz=【解】【植】【PIV】Kunig^a pun
+蟹	3(生物3)	krab={Ｏ}【動】カニ（類）（蟹） / pagur=【動】ヤドカリ（宿借） / limul=【動】カブトガニ
+竹	4(生物3)	fasm=【動】【PIV】Vulgara nomo ( / nandin=《Ｎ》【植】ナンテン（南天）（specio  / bambuz=【植】【PIV】Tipa g. (genro
+苔	7(生物3)	bri=【植】【PIV】G. (Genro) (Br / hipn=【植】【PIV】G. (Genro) (Hy / sfagn=【植】【PIV】G. (Genro) (Sp
+柳	4(生物3)	salik={Ｂ}【植】ヤナギ（柳）（属） / vimen=【植】タイリクキヌヤナギ（大陸絹柳）（種）; / popl={Ｏ}【植】ポプラ,ハコヤナギ（箱柳）（属）
+穗	4(生物3)	spik={Ｂ}【植】穂（ほ）;【植】穂状花序（すいじ / smut=【植】黒穂病 / ament=【植】【PIV】Infloresko, de
+鹤	3(生物3)	gru={Ｂ}【鳥】ツル / kazuar=【鳥】ヒクイドリ（属） / kasuar=【鳥】=kazuaro（ヒクイドリ）
+栗	5(生物3)	rib={Ｂ}【植】スグリ（酸塊）（属）;《般》スグ / gros={Ｏ}【植】=grosujo;【果】グーズベ / maron=【果】（栽培された）栗,大栗,>>kas^t
+鸽	3(生物3)	kolomb={Ｂ}【鳥】ハト（鳩）（ハト科の鳥の総称） / turt={Ｏ}【鳥】コキジバト（小雉鳩）（種）;【鳥 / livi=【鳥】カワラバト（河原鳩）（種）,=rokk
+仙	3(生物3)	kakt={Ｂ}【植】サボテン（科） / narcis={Ｏ}【植】スイセン（水仙）（属） / kolc^ik=【植】コルチカム（属）,イヌサフラン
+鲤	3(生物3)	karp={Ｂ}【魚】コイ（鯉） / ciprin=【動】コイ（属）,>>karpo / karas={Ｏ}【魚】フナ（鮒，属）;ヨーロッパブナ
+铃	5(生物3)	konval={Ｂ}【植】スズラン（属）（鈴蘭）,>>ma / platan={Ｂ}【植】プラタナス,スズカケノキ（篠懸の / soldanel=【植】【PIV】G. (Genro) (So
+莺	3(生物3)	najtingal={Ｂ}【鳥】ナイチンゲール,サヨナキドリ（小 / silvi={Ｏ}【鳥】オナガムシクイ（尾長虫喰）（属） / ugvis=【鳥】ウグイス
+李	4(生物3)	prun={Ｂ}【果】西洋すもも,すもも（李）,プラム / prunus=【植】【PIV】G. (Genro) (Pr / prunel={Ｏ}【果】スピノサスモモの実
+菠	3(生物3)	spinac={Ｂ}【植】ホウレンソウ（菠薐草）（属） / ananas={Ｏ}【果】パイナップル / jakv=【植】【PIV】Frukto (s^ajnf
+鸵	4(生物3)	rea=【動】【PIV】G. (Genro) (Rh / kazuar=【鳥】ヒクイドリ（属） / kasuar=【鳥】=kazuaro（ヒクイドリ）
+芹	4(生物3)	celeri={Ｏ}【植】セロリ,オランダミツバ / cikut={Ｏ}【植】ドクゼリ（属）;ドクニンジンの毒 / api={Ｏ}【植】オランダミツバ（属）,>>cel
+疮	11(生物3)	skab=【植】【PIV】Plantmalsano,  / gajak=【植】=gvajako（ユソウボク） / gvajak=【植】ユソウボク（属）,グアヤク
+梅	6(生物3)	ume=【果】ウメ（梅）の実;【植】ウメ（梅）,=u / filadelf=【植】バイカウツギ（属） / lentan=【植】【PIV】1 G. (Genro) (
+辣	4(生物3)	kapsik={Ｏ}【植】トウガラシ（唐辛子）（属）,>> / kren={Ｏ}【植】セイヨウワサビ,ワサビダイコン; / vasabi=【植】ワサビ
+薯	3(生物3)	maniok={Ｏ}【植】キャッサバ,マニオク,>>tap / batat=【植】サツマイモ（薩摩芋）（種）,甘藷（かん / patat=【植】=batato（サツマイモ）
+柠	5(生物3)	limon=【果】レモン,>>citrono / lime=【植】【PIV】1 Sp. (Specio) / limed=【植】【PIV】1 Sp. (Specio)
+羚	3(生物3)	c^am={Ｏ}【動】シャモア,>>antilopo / antilop={Ｏ}【動】レイヨウ,アンテロープ（総称） / gazel={Ｏ}【動】ガゼル（属）,>>antilop
+蛾	4(生物3)	mote=【動】【PIV】Malgranda, mal / sfing=【動】【PIV】1 G. (Genro) ( / bombiks=【虫】カイコガ,カイコ（蚕）,>>silkr
+杜	3(生物3)	juniper={Ｏ}【植】ビャクシン（属）;セイヨウネズ / sabin=【植】【PIV】Sp. (Specio) d / azale=【植】アザレア;ツツジ（躑躅）,>>rodo
+柿	4(生物3)	kakinok=【植】【PIV】1 Sp. (Specio) / diospir=【植】【PIV】G. (Genro) (Di / persimon=【植】カキ;【果】カキ（柿）
+蝠	3(生物3)	filostom=【動】【PIV】G. (Genro) (Ph / vespertilion=【動】【PIV】G. (Genro) (Ve / vespert={Ｏ}【動】コウモリ（蝙蝠）（翼手目の総称）
+巨	14(生物2)	piton=【動】ニシキヘビ（錦蛇）（属） / tukan={Ｏ}【鳥】オオハシ（大嘴）（科）
+月	18(生物2)	au^reli=【動】【PIV】G. (Genro) (Au / lamprid=【動】【PIV】Granda mara fi
+金	90(生物2)	akaci={Ｏ}【植】アカシア（属） / salangan=【動】【PIV】G. (Genro) (Co
+火	26(生物2)	meleagr={Ｏ}【鳥】シチメンチョウ（属）（七面鳥） / flameng=【動】【PIV】Fenikoptero. -
+人	20(生物2)	kakt={Ｂ}【植】サボテン（科） / sapot=【植】【PIV】1 Alia, nelegi
+头	29(生物2)	strig={Ｂ}【鳥】フクロウ（梟）（の類） / cefalaspid=【動】【PIV】G. (Genro) (Ce
+生	70(生物2)	arakid=【植】ラッカセイ（落花生）（属）,>>ter / laktuk={Ｏ}【植】レタス,チシャ;【植】アキノノゲ
+立	12(生物2)	alte={Ｏ}【植】タチアオイ（立葵）（属） / alce=【植】【PIV】G. (Genro) (Al
+白	31(生物2)	alburn=【魚】ブリーク（ヨーロッパ産のコイ科の淡水魚 / termit={Ｏ}【虫】シロアリ（白蟻）（目の総称）
+睡	6(生物2)	nimfe=【植】スイレン（睡蓮）（属）,=akvoli / glir=【動】オオヤマネ,=dormomuso
+落	3(生物2)	larik={Ｏ}【植】カラマツ（属） / decidu=【植】【動】【PIV】Defalema.
+单	32(生物2)	dromedar={Ｏ}【動】ヒトコブラクダ,=unug^ib / ocel=【動】【PIV】1 Simpla okulo
+毛	15(生物2)	cili=【動】繊毛;【植】細毛 / trikofit=【植】【医】【PIV】G. (Genro) 
+色	36(生物2)	lentan=【植】【PIV】1 G. (Genro) ( / h^ameleon=【動】=kameleono（カメレオン）
+黑	9(生物2)	sekal={Ｂ}【植】ライムギ（属）;ライ麦（穀物） / smut=【植】黒穂病
+气	62(生物2)	trake=【解】気管,>>bronko;【虫】気管;【 / trah^e={Ｏ}【解】気管,>>bronko;【虫】気
+蓝	5(生物2)	cejan={Ｏ}【植】ヤグルマギク（矢車菊） / vajd=【植】【PIV】1 Tinktura iza
+犬	4(生物2)	dog={Ｏ}【動】マスチフ;《転》大型の番犬,>> / kanis=【動】【PIV】G. (Genro) (Ca
+雪	8(生物2)	cedr={Ｏ}【植】ヒマラヤスギ属;セイヨウスギ,シ / soldanel=【植】【PIV】G. (Genro) (So
+夜	5(生物2)	najtingal={Ｂ}【鳥】ナイチンゲール,サヨナキドリ（小 / kaprimulg=【鳥】ヨタカ（属）
+春	5(生物2)	vink={Ｏ}【植】ツルニチニチソウ（蔓日々草）（属 / vernaliz=【植】【PIV】(tr (transitiv
+触	7(生物2)	anten={Ｏ}【虫】触角;【通】アンテナ / tentakl=【動】触手,触腕
+冬	5(生物2)	ileks={Ｏ}【植】モチノキ（属）;セイヨウヒイラギ / kaprifoli=【植】スイカズラ（科）;=lonicero
+铁	12(生物2)	cug=【植】【PIV】G. (Genro) (Ts / adiant=【植】クジャクシダ（属）,アジアンタム,=h
+颈	5(生物2)	g^iraf={Ｏ}【動】キリン / arkegoni=【植】【PIV】Inseksa reprod
+线	10(生物2)	line=【植】リンネソウ（属） / adiant=【植】クジャクシダ（属）,アジアンタム,=h
+圆	12(生物2)	strongil=【動】【PIV】G. (Genro) (St / panikl=【解】皮下脂肪;【植】円錐花序
+苦	7(生物2)	absint={Ｏ}【植】ニガヨモギ（苦艾）（種）;=ab / endivi={Ｏ}【植】キクヂシャ,エンダイブ
+车	24(生物2)	plantag={Ｏ}【植】オオバコ（大葉子）（属） / faeton=フェートン（無蓋 の軽四輪馬車）;【鳥】ネッ
+盘	12(生物2)	placent=【解】胎盤;【植】胎座 / onkocerk=【動】【PIV】G. (Genro) (On
+叉	5(生物2)	bifid=【植】【解】【医】【PIV】Duparte  / dikotom=【植】【PIV】Forkece disbra
+皮	38(生物2)	kortik=【解】【植】【PIV】(cortex) 1  / karpel=【植】【PIV】Florfolio, sur
+球	31(生物2)	bulb={Ｂ}【植】球根,りん茎;【料】玉ねぎ,=> / kokcidi=【動】【PIV】Subklaso (Cocc
+植	31(生物2)	fit=【植】【PIV】Planto vs (vas / flau^r=【植】植物相,フロラ,=vegetaj^ar
+愈	5(生物2)	gajak=【植】=gvajako（ユソウボク） / gvajak=【植】ユソウボク（属）,グアヤク
+巢	5(生物2)	ovari=【解】卵巣;【植】子房 / neoti=【植】【PIV】G. (Genro) (Ne
+酸	10(生物2)	bigarad=【植】【PIV】1 Subsp. de ci / okzal={Ｏ}【植】スイバ（酸葉）（種）
+针	4(生物2)	pingl={Ｂ}ピン,留め針;【植】針葉 / belon=【動】【PIV】G. (Genro) (Be
+爬	4(生物2)	ramp=這う;【植】匍匐性の;《転》卑屈な / sau^r=【動】【PIV】Kn (Kolektiva 
+棉	7(生物2)	kapok=【植】カポック,パンヤ綿（クッション・救命胴 / bombak=【植】【PIV】G. (Genro) (Bo
+兔	5(生物2)	kunikl={Ｂ}【動】カイウサギ,イエウサギ（家兎）, / prokavi=【動】【PIV】G. (Genro) (Pr
+咬	5(生物2)	trogon=【動】【PIV】G. (Genro) (Tr / psok=【動】【PIV】G. (Genro) (Ps
+管	27(生物2)	trake=【解】気管,>>bronko;【虫】気管;【 / trah^e={Ｏ}【解】気管,>>bronko;【虫】気
+蹄	3(生物2)	huf={Ｂ}【動】ひづめ（蹄） / prokavi=【動】【PIV】G. (Genro) (Pr
+象	9(生物2)	elefant={Ｂ}【動】ゾウ（象） / kurkuli=【虫】ゾウムシ（科）,=bekskarabo
+壳	6(生物2)	pale=【植】【PIV】(pp (se paroli / karapac=【動】（カメ・カニなどの）甲羅（こうら）,甲
+橡	2(生物2)	kverk={Ｂ}【植】ナラ（楢）,カシ（樫）,オーク; / glan={Ｏ}【植】カシの実,どんぐり;【解】亀頭
+梨	2(生物2)	pir={Ｂ}【果】ナシ（梨）,洋ナシ / avokad={Ｏ}【果】アボカド（の実）
+索	8(生物2)	h^ord=【動】【PIV】(chorda dorsal / funikl=【植】珠柄;【解】帯（たい）,索,束
+肠	29(生物2)	kasi=【植】【PIV】G. (Genro) (Ca / celenter=【動】【PIV】Interna kavo d
+蕉	2(生物2)	banan={Ｂ}【果】バナナ / pizang=【植】バナナの一種,>>banano
+精	22(生物2)	nimf={Ｏ}【神】ニンフ（ギリシア神話の水の精）; / spermati=【植】【PIV】Seksa c^elo, n
+里	4(生物2)	timian={Ｏ}【植】タチジャコウソウ（立麝香草）（属 / serpil=【植】イブキジャコウソウ（伊吹麝香草）（種）
+鸥	2(生物2)	mev={Ｏ}【鳥】カモメ（鴎）（科） / lar=【鳥】カモメ（属）,>>mevo
+参	4(生物2)	koni=【植】ドクニンジン（属） / holoturi=【動】ナマコ（海鼠）（綱の総称）,=mark
+蜜	4(生物2)	jakv=【植】【PIV】Frukto (s^ajnf / nektar={Ｏ}【神】ネクタル（酒）;《転》甘露,美酒
+蝶	4(生物2)	papilion=【虫】アゲハチョウ（揚羽蝶）（属） / pierid=【動】【PIV】G. (Genro) (Pi
+相	14(生物2)	fau^n=【動】動物相,ファウナ,=bestaro / flau^r=【植】植物相,フロラ,=vegetaj^ar
+硬	11(生物2)	tekton=【植】【PIV】1 G. (Genro) ( / elitr=【虫】（甲虫類の）翅鞘（ししょう）,さやばね
+吸	11(生物2)	vampir={Ｏ}吸血鬼;【動】チスイコウモリモドキ,> / hirud={Ｏ}【動】ヒル
+鞭	5(生物2)	flagel=【植】【動】【PIV】Vipoforma f / verben={Ｏ}【植】クマツヅラ（熊葛）（属）;【園】
+蝗	2(生物2)	akrid={Ｂ}（一般に）バッタ（蝗虫）;【虫】ショウ / lokust=【虫】トノサマバッタ（属）,>>akrido
+甜	4(生物2)	bet={Ｂ}【植】ビート,テンサイ（甜菜）,サトウ / limed=【植】【PIV】1 Sp. (Specio)
+胎	3(生物2)	placent=【解】胎盤;【植】胎座 / fet=【動】胎児（妊娠３ヶ月以降）,>>embri
+棕	2(生物2)	palm={Ｂ}【植】ヤシ（椰子）,シュロ（棕櫚）（ヤ / arek=【植】【PIV】G. (Genro) (Ar
+胆	12(生物2)	ekin=【動】ウニ,=markas^tano / gencian={Ｏ}【植】リンドウ（属）
+椰	2(生物2)	kokos={Ｂ}【果】ヤシの実,ココナッツ;【植】=k / kopr=【植】コプラ（ココヤシの胚乳を乾燥したもの）
+醋	5(生物2)	rib={Ｂ}【植】スグリ（酸塊）（属）;《般》スグ / gros={Ｏ}【植】=grosujo;【果】グーズベ
+蝎	2(生物2)	skorpi={Ｂ}【動】サソリ（蠍）（目の総称）;【聖】 / skorpen=【動】【PIV】G. (Genro) (Sc
+雄	3(生物2)	stamen={Ｂ}【植】おしべ,雄蕊（ゆうずい）,>>p / androgin=【植】（同一花序に）雌雄両花のある
+瘤	23(生物2)	veruk={Ｂ}【医】いぼ;【植】こぶ,小隆起 / gajl={Ｏ}【植】虫こぶ,ふし,没食子（もっしょく
+翅	21(生物2)	pterig=【動】【PIV】Permuskole mov / elitr=【虫】（甲虫類の）翅鞘（ししょう）,さやばね
+锥	6(生物2)	panikl=【解】皮下脂肪;【植】円錐花序 / strobil=【植】球果（きゅうか）,=konuso
+膜	40(生物2)	kori=【解】【動】【PIV】1 Ekstera p / sklerot=【解】【植】【PIV】1 (sclera) 
+眼	8(生物2)	ocel=【動】【PIV】1 Simpla okulo / kobr=【動】【PIV】Kn (Kolektiva 
+母	6(生物2)	meduz={Ｏ}【動】クラゲ（海月・水母） / fritilari=【植】バイモ（貝母）（属）;ヨウラクユリ
+牡	3(生物2)	tau^r=《稀》雄牛,種牛,=virbovo;【動】ウ / peoni={Ｏ}【植】ボタン（牡丹）（属）,シャクヤク
+青	20(生物2)	lime=【植】【PIV】1 Sp. (Specio) / ileks={Ｏ}【植】モチノキ（属）;セイヨウヒイラギ
+丁	3(生物2)	siring={Ｏ}【植】ライラック,ハシドイ（属） / lilak=【植】=siringo（ライラック）
+柄	4(生物2)	stip={Ｏ}【植】ハネガヤ（羽茅）（属）;【植】（ / petiol=【植】葉柄,=folitigo
+蚌	2(生物2)	ostr={Ｏ}《般》カキ（牡蠣）;【貝】イタボガキ（ / mitul={Ｏ}【貝】イガイ（貽貝）（属）,ムール貝
+茅	2(生物2)	espart=【植】【PIV】Komuna nomo de / citronel=【植】【PIV】Sp. (Specio) d
+榴	3(生物2)	granat={Ｏ}【果】ザクロ / punik=【植】【PIV】G. (Genro) (Pu
+芝	2(生物2)	sezam=【植】ゴマ（胡麻）（属）;【料】ごま（ゴマの / lami=【植】オドリコソウ（属）;【神】ラミア（ギリ
+腔	2(生物2)	celom=【動】【PIV】Korpa kavo c^e / celenter=【動】【PIV】Interna kavo d
+翼	4(生物2)	pteraspid=【動】【PIV】G. (Genro) (Pt / envergur=【海】帆幅;【空】翼幅;【鳥】翼幅
+藤	4(生物2)	balan=【動】【PIV】1 G. (Genro) ( / heder={Ｏ}【植】キヅタ（属）,ヘデラ,アイビー
+蟆	2(生物2)	lofi=【動】【PIV】G. (Genro) (Lo / buf={Ｏ}【動】ヒキガエル（蟇蛙）（属）,ガマ（
+苞	2(生物2)	involukr=【植】総苞 / brakte=【植】【PIV】Folio, aksele 
+企	3(生物2)	sfenisk=【動】【PIV】G. (Genro) (Sp / pingven={Ｏ}【鳥】ペンギン（科の総称）
+萤	2(生物2)	lampir={Ｏ}【虫】ツチボタル（属）,>>lumve / luciol=【虫】ゲンジボタル（属）,>>lampiro
+无	54(生物1)	fig={Ｂ}【果】イチジク
+穿	7(生物1)	manis=【動】【PIV】G. (Genro) (Ma
+向	20(生物1)	heliant=【植】ヒマワリ（向日葵）（属）,=sunfl
+内	24(生物1)	pale=【植】【PIV】(pp (se paroli
+前	15(生物1)	plantag={Ｏ}【植】オオバコ（大葉子）（属）
+五	7(生物1)	lentan=【植】【PIV】1 G. (Genro) (
+小	11(生物1)	vikun=【動】ビクーニャ（ラマに似たアンデス産の偶蹄
+须	5(生物1)	c^ir=【植】【PIV】1 Maldika, vol
+成	8(生物1)	imagin=【虫】成虫,成体,>>larvo,>>pup
+器	12(生物1)	arkegoni=【植】【PIV】Inseksa reprod
+性	13(生物1)	hermafrodit==ambau^seksa,両性具有の,半陰陽
+长	16(生物1)	primat=【動】霊長類（の動物）
+女	13(生物1)	ligustr=【植】イボタノキ（属）
+日	18(生物1)	heliant=【植】ヒマワリ（向日葵）（属）,=sunfl
+两	3(生物1)	hermafrodit==ambau^seksa,両性具有の,半陰陽
+事	5(生物1)	ke=【動】【PIV】Sp. (Specio) (
+自	24(生物1)	spontane={Ｏ}自発的な,自然に起こる,自然発生的な;
+明	5(生物1)	sena=【植】【PIV】G. (Genro) (Se
+比	6(生物1)	pleu^ronekt={Ｏ}【魚】ツノガレイ（属）,>>platf
+高	16(生物1)	sorg={Ｂ}【植】モロコシ（蜀黍）（属）;《般》コ
+美	4(生物1)	rea=【動】【PIV】G. (Genro) (Rh
+问	3(生物1)	ekvizet=【植】スギナ（属）,>>mang^ebla 
+幼	3(生物1)	larv={Ｂ}【虫】幼虫;【動】幼生,>>imagi
+信	20(生物1)	hiacint={Ｏ}【植】ヒアシンス（属）
+手	8(生物1)	tentakl=【動】触手,触腕
+多	25(生物1)	poligon={Ｏ}【植】タデ（蓼）（属）;【数】多角形,
+地	42(生物1)	liken={Ｏ}【植】地衣;【病】苔蘚（たいせん）
+续	3(生物1)	dipsak=【植】ナベナ（属）
+闭	2(生物1)	klejstogam=【植】【PIV】(pp (se paroli
+儿	4(生物1)	scil=【植】【PIV】G. (Genro) (Sc
+食	9(生物1)	krop={Ｏ}【鳥】そ嚢（のう）;【病】=strum
+缺	4(生物1)	lakun=【植】【解】【PIV】1 (lacuna) 
+钱	3(生物1)	numulit=【動】【PIV】G. (Genro) (Nu
+壁	6(生物1)	lacert={Ｂ}【動】トカゲ（類）;【動】コモチカナヘ
+目	12(生物1)	pleu^ronekt={Ｏ}【魚】ツノガレイ（属）,>>platf
+足	25(生物1)	tars=【解】足根骨;【虫】ふ節
+变	20(生物1)	h^ameleon=【動】=kameleono（カメレオン）
+静	8(生物1)	kvi=【動】【PIV】Estanta en kvi
+风	33(生物1)	hiacint={Ｏ}【植】ヒアシンス（属）
+衣	6(生物1)	liken={Ｏ}【植】地衣;【病】苔蘚（たいせん）
+秋	2(生物1)	kolc^ik=【植】コルチカム（属）,イヌサフラン
+厚	2(生物1)	krasul=【植】クラッスラ（属）（ベンケイソウ科の多肉
+欢	5(生物1)	akaci={Ｏ}【植】アカシア（属）
+杯	4(生物1)	kalik={Ｏ}（脚のついた広口の）杯;【カ】聖杯;【
+乳	16(生物1)	oliban=【植】乳香
+鼻	11(生物1)	rostr={Ｏ}【動】（象の）鼻,>>muzelo;【
+云	8(生物1)	pice={Ｂ}【植】トウヒ（唐檜）（属）
+耳	9(生物1)	karakal=【動】【PIV】Sp. (Specio) d
+包	9(生物1)	hidatid=【動】【PIV】Larvo de ekino
+纸	8(生物1)	papirus={Ｏ}【植】パピルス（種）;【史】パピルス紙
+河	4(生物1)	kastor={Ｏ}【動】ビーバー（属）;ビーバーの毛皮
+绿	6(生物1)	klorofil=【植】葉緑素
+决	4(生物1)	sena=【植】【PIV】G. (Genro) (Se
+软	10(生物1)	molusk={Ｏ}【動】軟体動物
+偶	10(生物1)	pup={Ｂ}人形;指人形,=gantopupo;【
+卷	7(生物1)	c^ir=【植】【PIV】1 Maldika, vol
+序	4(生物1)	infloresk=【植】花序
+乐	15(生物1)	paradize=【鳥】フウチョウ（風鳥）,ゴクラクチョウ（極
+羽	3(生物1)	egret=【鳥】冠羽（かんう）;【服】（帽子の）羽根飾
+银	4(生物1)	anemon={Ｏ}【植】アネモネ
+胸	10(生物1)	torak=【解】胸郭;【虫】（昆虫の）胸部
+背	7(生物1)	notakant=【動】【PIV】G. (Genro) (No
+墨	4(生物1)	sepi={Ｏ}【動】コウイカ（類）;《般》イカ（烏賊
+王	10(生物1)	prote=【植】【PIV】1 G. (Genro) (
+干	11(生物1)	kopr=【植】コプラ（ココヤシの胚乳を乾燥したもの）
+息	8(生物1)	polip={Ｏ}【動】ポリプ;【医】ポリープ,茸腫（じ
+灵	10(生物1)	primat=【動】霊長類（の動物）
+星	19(生物1)	asteri=【動】ヒトデ,=marstelo
+总	5(生物1)	involukr=【植】総苞
+裂	10(生物1)	dehisk=【植】裂開性の
+含	5(生物1)	mimoz={Ｏ}【植】ミモザ,オジギソウ（属）,>>a
+接	8(生物1)	sambuk={Ｏ}【植】ニワトコ（接骨木）（属）
+警	4(生物1)	siren=【機】サイレン;【動】カイギュウ（海牛）類
+坚	7(生物1)	avel={Ｏ}【果】ハシバミの実,ヘーゼルナッツ
+烟	7(生物1)	tabak={Ｂ}たばこ（煙草）;【植】タバコ,=nik
+脂	15(生物1)	ladan=【植】【PIV】Aroma gumo, li
+吻	2(生物1)	anastomoz=【解】【植】【PIV】Kunig^a pun
+唇	3(生物1)	labi=【植】（花冠の）上唇,下唇;【解】唇形のもの
+西	4(生物1)	barbaden=【植】【PIV】1 Sp. (Specio)
+骨	37(生物1)	sambuk={Ｏ}【植】ニワトコ（接骨木）（属）
+忍	4(生物1)	kaprifoli=【植】スイカズラ（科）;=lonicero
+尖	5(生物1)	apeks=【解】【植】【天】【PIV】1 Konusf
+苹	4(生物1)	mancinel=【植】マンチニール（有毒な樹液を分泌する熱帯
+轮	6(生物1)	verticil=【植】【PIV】Aro, almenau^ 
+南	3(生物1)	erik={Ｏ}【植】エリカ（属）,ヒース
+谷	5(生物1)	cereal=【植】穀草,穀物,>>greno
+肉	10(生物1)	polip={Ｏ}【動】ポリプ;【医】ポリープ,茸腫（じ
+盲	6(生物1)	opilion=【動】【PIV】G. (Genro) (Op
+电	37(生物1)	gimnot=【動】ギムノートゥス（属）（デンキウナギ目の
+展	8(生物1)	envergur=【海】帆幅;【空】翼幅;【鳥】翼幅
+假	8(生物1)	karis=【植】【PIV】G. (Genro) (Ca
+滑	13(生物1)	bleni=【動】【PIV】G. (Genro) (Bl
+质	16(生物1)	plastid=【生】【植】【PIV】Organeto de
+裸	2(生物1)	gimnosperm=【植】裸子の,裸子植物の
+橙	2(生物1)	bigarad=【植】【PIV】1 Subsp. de ci
+腹	6(生物1)	abdomen=【解】腹部,=ventro;【虫】（昆虫の）
+基	11(生物1)	primordi=【植】【PIV】Junega au^ jun
+极	16(生物1)	paradize=【鳥】フウチョウ（風鳥）,ゴクラクチョウ（極
+斗	5(生物1)	petazit=《Ｎ》【植】フキ（蕗）（genro _Pet
+胡	3(生物1)	karot={Ｂ}【植】ニンジン（人参）
+嘴	7(生物1)	tukan={Ｏ}【鳥】オオハシ（大嘴）（科）
+桶	6(生物1)	salp=【動】【PIV】G. (Genro) (Sa
+蝇	2(生物1)	silen=【植】【PIV】G. (Genro) (Si
+扁	5(生物1)	migdal={Ｏ}【果】アーモンド
+壶	4(生物1)	balan=【動】【PIV】1 G. (Genro) (
+镜	68(生物1)	kobr=【動】【PIV】Kn (Kolektiva 
+浆	13(生物1)	ber={Ｂ}（イチゴ・ブドウなど汁気の多い）実;【
+笛	4(生物1)	siren=【機】サイレン;【動】カイギュウ（海牛）類
+粉	12(生物1)	polen=［他］【植】受粉させる,授粉する
+钩	5(生物1)	ancilostom=【動】【PIV】G. (Genro) (An
+狮	4(生物1)	grif=【神】グリュプス,グリフォン（頭と翼が鷲で胴
+师	4(生物1)	divizi={Ｏ}【軍】師団;【植】（分類学上の）門,>
+牧	6(生物1)	medikag=【植】ウマゴヤシ（属）,>>luzerno
+桦	1(生物1)	betul={Ｂ}【植】カバノキ（属）,シラカバ（白樺）
+魔	14(生物1)	amorfofal=【植】コンニャク（蒟蒻）
+化	48(生物1)	vernaliz=【植】【PIV】(tr (transitiv
+毫	3(生物1)	mili={Ｏ}【植】雑穀（アワ，キビ，ヒエ，モロコシ
+榄	1(生物1)	oliv={Ｂ}【果】オリーブ
+橄	1(生物1)	oliv={Ｂ}【果】オリーブ
+葡	6(生物1)	vit={Ｂ}【植】ブドウ（葡萄）（属）,=vinb
+鸭	1(生物1)	anas={Ｂ}【鳥】アヒル（家鴨）
+配	22(生物1)	kopulaci=［自］【動】交尾する;【生】接合する
+帝	4(生物1)	prote=【植】【PIV】1 G. (Genro) (
+宝	4(生物1)	cipre=【動】【PIV】G. (Genro) (Cy
+肋	2(生物1)	rip={Ｂ}【解】肋骨（ろっこつ）,あばら骨;【植
+袍	7(生物1)	tunik={Ｏ}【服】チュニック（古代ローマの寛衣、女
+螺	8(生物1)	nau^til=【動】オウムガイ（属）
+条	8(生物1)	teni={Ｏ}【動】ジョウチュウ（条虫）,サナダムシ
+昏	6(生物1)	hesperornit=【動】【PIV】G. (Genro) (He
+熊	2(生物1)	pand=【動】パンダ
+栓	10(生物1)	suber=【植】【PIV】Histo de vasku
+模	3(生物1)	okzal={Ｏ}【植】スイバ（酸葉）（種）
+开	6(生物1)	pistak={Ｏ}【果】ピスタチオ（果実・種子）
+烈	2(生物1)	flameng=【動】【PIV】Fenikoptero. -
+癌	4(生物1)	kancer={Ｏ}【病】がん（癌）,>>tumoro;【
+潮	5(生物1)	sizigi=【天】【植】【PIV】1 Konjunkci
+郁	3(生物1)	tulip={Ｏ}【植】チューリップ（属）
+断	7(生物1)	dipsak=【植】ナベナ（属）
+芽	7(生物1)	draj^=【植】【PIV】S^oso, kiu kre
+胞	32(生物1)	knid=【動】【PIV】Speco de c^elo
+回	4(生物1)	askarid=【動】回虫
+矛	3(生物1)	celakant=【魚】シーラカンス
+发	12(生物1)	spontane={Ｏ}自発的な,自然に起こる,自然発生的な;
+腰	5(生物1)	akaj^u=【果】カシューの果実
+芥	3(生物1)	sinap={Ｏ}【植】カラシ（芥子）（属）,>>mus
+粟	1(生物1)	panic=《Ｎ》【植】キビ（黍）（属）,>>mileo
+鲨	3(生物1)	skval=【魚】ツノザメ（角鮫）（属）
+节	30(生物1)	fasm=【動】【PIV】Vulgara nomo (
+琴	14(生物1)	tetr={Ｏ}【鳥】クロライチョウ（黒雷鳥）（種）
+椒	3(生物1)	piper=【植】【PIV】G. (Genro) (Pi
+沟	3(生物1)	kloak={Ｏ}下水道,下水管;《転》掃きだめ,巣窟（
+隆	3(生物1)	epiornit=【鳥】エピオルニス（絶滅した大型の走鳥類の鳥
+贞	2(生物1)	ligustr=【植】イボタノキ（属）
+吐	5(生物1)	ipek=【植】【PIV】1 Sp. (Specio)
+杏	2(生物1)	anzu=【植】【PIV】1 Var. (Vari(a
+轴	5(生物1)	aks={Ｂ}軸,軸線;【植】軸;【数】軸;【天】自
+脉	24(生物1)	angi=【解】脈管,>>arterio,>>vejn
+疤	3(生物1)	skab=【植】【PIV】Plantmalsano, 
+桂	2(生物1)	lau^r={Ｏ}【植】ゲッケイジュ（属）（月桂樹）
+膏	11(生物1)	amanit=【菌】テングタケ（天狗茸）,ベニテングタケ
+驯	3(生物1)	rangifer=【動】=boaco（トナカイ）
+肝	3(生物1)	hepatik=【植】スハマソウ（属）,=hepatherb
+玉	8(生物1)	maiz={Ｂ}【植】トウモロコシ（種）;トウモロコシ
+蚁	2(生物1)	termit={Ｏ}【虫】シロアリ（白蟻）（目の総称）
+掌	4(生物1)	kakt={Ｂ}【植】サボテン（科）
+茧	2(生物1)	kokon={Ｏ}【虫】繭（まゆ）;（クモの）卵嚢（らん
+漆	3(生物1)	urus^i=【植】【PIV】1 Sp. (Specio)
+亚	17(生物1)	lin={Ｂ}【植】アマ（属）（亜麻）
+悬	2(生物1)	platan={Ｂ}【植】プラタナス,スズカケノキ（篠懸の
+锈	2(生物1)	ured=【植】【PIV】1 Eksa formgen
+粱	1(生物1)	sorg={Ｂ}【植】モロコシ（蜀黍）（属）;《般》コ
+绵	2(生物1)	scil=【植】【PIV】G. (Genro) (Sc
+蕊	2(生物1)	stamen={Ｂ}【植】おしべ,雄蕊（ゆうずい）,>>p
+丛	3(生物1)	makis=【植】（地中海沿岸の）潅木密生地帯,マキ,>
+蜡	6(生物1)	fulgor=【動】【PIV】G. (Genro) (Fu
+绒	6(生物1)	kori=【解】【動】【PIV】1 Ekstera p
+秃	3(生物1)	vultur={Ｂ}【鳥】コンドル（種）,=kondoro
+纤	9(生物1)	cili=【動】繊毛;【植】細毛
+磷	11(生物1)	eu^fau^zi=【動】【PIV】G. (Genro) (Eu
+瓣	4(生物1)	petal={Ｏ}【植】花弁,花びら,=korolfol
+灌	2(生物1)	arbust={Ｏ}低木,小低木;【植】小低木
+阀	1(生物1)	valv=【機】弁,バルブ;（タイヤの）チューブバルブ
+旋	19(生物1)	kalistegi=【植】ヒルガオ（属）,>>konvolvul
+臭	7(生物1)	cim={Ｏ}【虫】ナンキンムシ（南京虫）;カメムシ
+峰	2(生物1)	dromedar={Ｏ}【動】ヒトコブラクダ,=unug^ib
+寄	5(生物1)	visk={Ｏ}【植】ヤドリギ（宿木）（属）
+蚤	1(生物1)	pul={Ｏ}【動】ノミ（蚤）（ノミ目の総称）,>>
+泻	5(生物1)	alism=【植】【PIV】G. (Genro) (Al
+担	6(生物1)	bazidi=【植】【PIV】Cilindra, klab
+槽	6(生物1)	alveol=【植】【解】（蜂の巣状の）小孔;【解】歯槽,
+抑	6(生物1)	inhib=【植】【生】【化】【PIV】(tr (tra
+菱	4(生物1)	romb={Ｏ}【数】菱形（ひしがた）;【魚】=rom
+牙	6(生物1)	eritroni=【植】【PIV】G. (Genro) (Er
+臀	2(生物1)	grop=【動】【PIV】1 La posta par
+脊	10(生物1)	h^ord=【動】【PIV】(chorda dorsal
+薄	2(生物1)	ment={Ｏ}【植】ハッカ（属）（薄荷）,ミント
+荷	1(生物1)	ment={Ｏ}【植】ハッカ（属）（薄荷）,ミント
+蔗	10(生物1)	sakar=【植】【PIV】G. (Genro) (Sa
+瘦	2(生物1)	aken=【植】【PIV】1 (ss (strikta
+串	2(生物1)	grapol=（花や果実の）房;【植】総状花序
+蟋	1(生物1)	gril={Ｏ}【虫】コオロギ
+蜕	1(生物1)	mud=【動】【PIV】S^ang^ig^o de 
+羞	2(生物1)	mimoz={Ｏ}【植】ミモザ,オジギソウ（属）,>>a
+渡	3(生物1)	korak=【鳥】ワタリガラス
+泽	2(生物1)	alism=【植】【PIV】G. (Genro) (Al
+桑	1(生物1)	morus={Ｏ}【果】桑（くわ）の実;【植】=moru
+腋	1(生物1)	aksel={Ｏ}【解】腋（わき）の下;【植】葉腋（よう
+癣	6(生物1)	trikofit=【植】【医】【PIV】G. (Genro) 
+垛	2(生物1)	krenel=銃眼のついた;【植】（葉の縁が）鈍鋸歯状の
+葫	1(生物1)	kalabas=【植】ヒョウタンノキ,フクベノキ;【植】ヒョ
+芦	1(生物1)	kalabas=【植】ヒョウタンノキ,フクベノキ;【植】ヒョ
+啄	1(生物1)	peg={Ｏ}【鳥】キツツキ（啄木鳥）（科の総称）;
+艾	2(生物1)	absint={Ｏ}【植】ニガヨモギ（苦艾）（種）;=ab
+梗	3(生物1)	pedunkl=【植】花柄;【解】脳脚
+洲	3(生物1)	rea=【動】【PIV】G. (Genro) (Rh
+钳	4(生物1)	h^elicer=【動】【PIV】La unua para m
+病	35(生物1)	smut=【植】黒穂病
+蠕	3(生物1)	helmint=【動】【PIV】Kn (Kolektiva 
+菇	1(生物1)	bolet=【菌】イグチ（アミタケ科のキノコの総称）,=
+枫	1(生物1)	acer={Ｏ}【植】カエデ（楓）（属）
+葛	1(生物1)	arorut=【植】クズウコン;【料】アロールートデンプン
+鬼	1(生物1)	vampir={Ｏ}吸血鬼;【動】チスイコウモリモドキ,>
+檬	2(生物1)	limon=【果】レモン,>>citrono
+舰	4(生物1)	fregat={Ｏ}【軍】フリゲート艦;【鳥】グンカンドリ
+斑	2(生物1)	zebr={Ｏ}【動】シマウマ（縞馬）
+芋	1(生物1)	amorfofal=【植】コンニャク（蒟蒻）
+猩	2(生物1)	goril={Ｏ}【動】ゴリラ
+颠	2(生物1)	atrop=【植】【PIV】G. (Genro) (At
+杨	1(生物1)	buks={Ｏ}【植】ツゲ（黄楊）
+芒	1(生物1)	mang={Ｏ}【果】マンゴー（の実）
+芙	1(生物1)	hibisk=【植】ハイビスカス,フヨウ（属）
+蓉	1(生物1)	hibisk=【植】ハイビスカス,フヨウ（属）
+橘	1(生物1)	mandarin={Ｏ}【果】マンダリン,ミカン（蜜柑）,>>
+荔	1(生物1)	lic^i=【植】【PIV】1 G. (Genro) (
+丹	2(生物1)	peoni={Ｏ}【植】ボタン（牡丹）（属）,シャクヤク
+蔓	2(生物1)	vink={Ｏ}【植】ツルニチニチソウ（蔓日々草）（属
+荆	1(生物1)	ekvizet=【植】スギナ（属）,>>mang^ebla 
+脆	2(生物1)	bigarel=【植】【PIV】Rug^a k blanka
+鹉	1(生物1)	psitak=【動】【PIV】Papago (unuspe
+榕	1(生物1)	fikus=【植】【PIV】G. (Genro) (Fi
+瑞	1(生物1)	dafn=【植】ジンチョウゲ（属）
+狸	1(生物1)	kastor={Ｏ}【動】ビーバー（属）;ビーバーの毛皮
+腊	2(生物1)	kasi=【植】【PIV】G. (Genro) (Ca
+砰	1(生物1)	pum=【動】ピューマ
+颖	1(生物1)	glum=【植】包穎（ほうえい）
+猬	1(生物1)	erinac={Ｏ}【動】ハリネズミ
+雌	2(生物1)	androgin=【植】（同一花序に）雌雄両花のある
+番	1(生物1)	barbaden=【植】【PIV】1 Sp. (Specio)
+豚	1(生物1)	delfen={Ｏ}【動】イルカ
+巩	2(生物1)	sklerot=【解】【植】【PIV】1 (sclera) 
+苏	2(生物1)	staki=【植】【PIV】G. (Genro) (St
+秧	1(生物1)	ral=【動】【PIV】G. (Genro) (Ra
+颗	1(生物1)	kokolit=【植】【PIV】1 G. (Genro) C
+聚	3(生物1)	cum=【植】【PIV】(cyma) Decentr
+锹	1(生物1)	lukan=【虫】クワガタムシ（属）,=cervskar
+柏	3(生物1)	cipres={Ｏ}【植】イトスギ（ヨーロッパでは喪の象徴
+翠	1(生物1)	alcion={Ｏ}【鳥】カワセミ
+
+## [B] 生物以外も含む 使用中の全単字(五十音ならぬ使用頻度順・上位400)
+草352 
+木271 
+学269 
+鸟150 
+虫130 
+菌130 
+家121 
+鱼114 
+炎107 
+计97 
+金90 
+兽77 
+主76 
+生70 
+镜68 
+义63 
+气62 
+盐61 
+记55 
+菊55 
+无54 
+子54 
+志54 
+测50 
+神50 
+石49 
+化48 
+水47 
+形47 
+血43 
+地42 
+热42 
+具40 
+膜40 
+体39 
+皮38 
+二37 
+分37 
+果37 
+声37 
+骨37 
+电37 
+鼠37 
+色36 
+糖36 
+病35 
+源34 
+疗34 
+心33 
+风33 
+龙33 
+单32 
+花32 
+射32 
+胞32 
+白31 
+球31 
+植31 
+微31 
+猴31 
+香30 
+节30 
+头29 
+切29 
+肠29 
+等28 
+羊28 
+伞28 
+经27 
+除27 
+管27 
+毒27 
+尿27 
+藻27 
+火26 
+角26 
+多25 
+光25 
+足25 
+胃25 
+豆25 
+症25 
+内24 
+自24 
+车24 
+素24 
+脉24 
+原23 
+同23 
+压23 
+异23 
+油23 
+抗23 
+蛇23 
+古23 
+合23 
+贝23 
+瘤23 
+全22 
+外22 
+齿22 
+痛22 
+结22 
+黄22 
+表22 
+配22 
+精22 
+虾22 
+兰22 
+时21 
+红21 
+面21 
+图21 
+狂21 
+矿21 
+翅21 
+甲21 
+向20 
+十20 
+人20 
+信20 
+变20 
+感20 
+圣20 
+道20 
+青20 
+名19 
+板19 
+理19 
+星19 
+核19 
+瓜19 
+氧19 
+超19 
+旋19 
+月18 
+日18 
+解18 
+中18 
+直18 
+带18 
+音18 
+囊18 
+百17 
+散17 
+动17 
+海17 
+流17 
+马17 
+拍17 
+环17 
+型17 
+亚17 
+硫17 
+远17 
+围16 
+长16 
+高16 
+乳16 
+教16 
+斜16 
+字16 
+复16 
+菜16 
+质16 
+极16 
+位16 
+量15 
+前15 
+树15 
+毛15 
+团15 
+数15 
+乐15 
+叶15 
+脂15 
+刺15 
+情15 
+根15 
+脑15 
+岩15 
+胚15 
+蛋15 
+巨14 
+土14 
+爱14 
+口14 
+顶14 
+院14 
+酒14 
+米14 
+政14 
+魔14 
+天14 
+链14 
+琴14 
+相14 
+腺14 
+杀14 
+阴14 
+使13 
+粒13 
+性13 
+女13 
+大13 
+卵13 
+划13 
+滑13 
+升13 
+浆13 
+药13 
+航13 
+冠13 
+筋13 
+磁13 
+台13 
+麻13 
+因12 
+三12 
+器12 
+反12 
+室12 
+话12 
+立12 
+山12 
+目12 
+方12 
+似12 
+法12 
+铁12 
+圆12 
+牛12 
+盘12 
+会12 
+力12 
+粉12 
+松12 
+麦12 
+械12 
+辩12 
+帆12 
+鸣12 
+发12 
+隔12 
+胆12 
+共11 
+千11 
+小11 
+物11 
+族11 
+词11 
+指11 
+门11 
+鼻11 
+船11 
+干11 
+伪11 
+通11 
+机11 
+游11 
+印11 
+秘11 
+军11 
+层11 
+养11 
+基11 
+官11 
+幻11 
+系11 
+剧11 
+调11 
+尾11 
+蛛11 
+证11 
+队11 
+宇11 
+桃11 
+硬11 
+吸11 
+膏11 
+液11 
+氮11 
+磷11 
+半11 
+疮11 
+垂11 
+后10 
+不10 
+重10 
+片10 
+治10 
+转10 
+报10 
+软10 
+偶10 
+公10 
+帽10 
+线10 
+态10 
+胸10 
+鸡10 
+封10 
+号10 
+王10 
+灵10 
+裂10 
+科10 
+特10 
+肉10 
+文10 
+央10 
+闪10 
+俗10 
+酸10 
+雕10 
+喉10 
+引10 
+套10 
+湿10 
+浸10 
+弹10 
+栓10 
+震10 
+蛙10 
+茄10 
+凸10 
+鹰10 
+振10 
+髓10 
+架10 
+脊10 
+蔗10 
+何9 
+某9 
+那9 
+代9 
+六9 
+员9 
+和9 
+现9 
+战9 
+死9 
+新9 
+像9 
+甘9 
+议9 
+食9 
+黑9 
+正9 
+耳9 
+包9 
+护9 
+存9 
+种9 
+产9 
+支9 
+密9 
+万9 
+检9 
+洞9 
+诗9 
+视9 
+交9 
+边9 
+曲9 
+暴9 
+醇9 
+淋9 
+象9 
+柱9 
+技9 
+抽9 
+饼9 
+乱9 
+腐9 
+排9 
+冲9 
+鼓9 
+鹿9 
+被9 
+制9 
+肾9 
+补9 
+克9 
+碱9 
+脓9 
+氯9 
+纤9 
+谱9 
+汇9 
+短9 
+姜9 
+样8 
+对8 
+上8 
+过8 
+四8 
+成8 
+双8 
+减8 

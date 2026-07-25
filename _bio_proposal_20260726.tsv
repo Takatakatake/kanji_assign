@@ -1,0 +1,385 @@
+root	proposal	tier	rationale	verdict	problem	fix
+abrotan	木艾	3_compound	ヨモギ属キダチヨモギ。absint=苦艾の系	OK	良好。absint=苦艾/moks=艾の系で、木本性ヨモギを的確に表す。衝突なし。	
+adonid	金莲	3_compound	キンポウゲ科。anemon=银莲の対、黄金花	OK	良好。anemon=银莲との金銀対は同科(キンポウゲ科)内の秀逸な対。同科のranunkol/akonit/helebor=草より情報量が多い。中国語で金莲花はTrolliusを指す点のみ軽微な誤友。	
+agapant	蓝兰	3_compound	ムラサキクンシラン。青紫花のラン様草本	OK	留意: ラン科ではないが、konval=铃兰(スズラン)の前例通り兰は「ラン様観賞草本」として運用済み。cejan=蓝菊で蓝は色字として確立。衝突なし。	
+agarik	原菇	3_compound	ハラタケ属=原茸。bolet=菇の系	OK	【参考】原はpra/proto/primar系だがpamp=原(草原)も既にあり「原野の菇」の読みは成立。ハラタケ=原茸と一致。野菇(sovaĝ=野)も空きなので不安なら代替可。	
+agrimoni	金草	3_compound	バラ科キンミズヒキ。金色の花穂の草	OK	留意: バラ科草本は fragari/potentil/filipendul が全て草(裸)なので草は逃げでなく体系整合。ただし中国語正名は龙芽草/仙鹤草で、龙・芽・鹤は全てパレット内・未衝突。より忠実にするなら龙芽草も可。	(任意)龙芽草
+agropir	野麦	3_compound	イネ科コムギ連カモジグサ=野生の麦	OK	良好。コムギ連なので麦(aven/horde/sekal)は妥当、野はvici=野豌豆/tetra等の前例あり。衝突なし。	
+agrostem	麦仙	3_compound	ナデシコ科ムギセンノウ=麦仙翁の略	OK	良好。麦仙翁の略(翁はパレット外)。仙は裸の所有者がなく水仙/秋水仙/仙人掌のように植物名専用に使われており、機能形態素との衝突なし。	
+agrostid	颖草	3_compound	イネ科ヌカボ属=剪股颖。glum=颖の系	OK	良好。glum=颖(現在1語根のみ)を活かし、中国名剪股颖の核を保持。イネ科でも穀類でないので麦を避けたのは適切。	
+ailant	臭漆	3_compound	ニワウルシ=臭椿。urus^i=漆状の羽状葉	OK	良好。urus^i=漆、臭はcim(臭虫)の系。ニガキ科でウルシ科ではないが、和名ニワウルシ(庭漆)・中国名臭椿の双方を反映した名前鏡像で偽分解尊重の範囲。	
+akile	菊	1_family	キク科ノコギリソウ属。同属ptarmik=菊	OK	良好。同属のptarmik(Achillea ptarmica)が既に菊、菊は51語根が共有する科レベルの裸字なので重複は仕様通り。	
+akirant	牛节	3_compound	ヒユ科イノコズチ=牛膝。節が膨れる	OK	留意: 中国名牛膝の膝がパレット外のため节で代用。artik=节なので「牛の関節」と読めるが、節が膨れる特徴を的確に表す。ヒユ科の代表amarant=菜だが本種は食用でないため菜回避は妥当。	
+akvilegi	鹰花	3_compound	オダマキ=aglofloro鷲の花、距が鷲爪状	NG	字が誤り。提案理由が=aglofloro(鷲の花)の鏡像だと明言しているが、マスターで agl=雕 であり 鹰 は akcipitr/falk/strig/vultur/grif の字。固定形態素描画の原則に反し、鏡像として成立していない。	雕花(未衝突を確認済み)。同科の銀/金蓮系に寄せるなら雕莲も可だが、aglofloro鏡像としては雕花が正。
+albumen	胚乳	3_compound	植物の胚乳そのもの。胚+乳	OK	良好。embri=胚+乳で中国語・日本語の正式術語と一致。衝突なし。	
+alc^emil	羽衣草	3_compound	=alkemilo。バラ科ハゴロモグサ=羽衣草	OK	良好。alkemilと同語の綴り異体で同一表示は正しい方針(patat/batat=甘薯、trikofit/trih^ofit=毛癣菌、kanguru/makrop=袋鼠の前例)。バラ科草本=草とも整合。	
+alf	羽茅	3_compound	イネ科アフリカハネガヤ。espart=茅の近縁	OK	良好。espart=茅の近縁(Stipa)で和名・中国名の羽茅そのもの。同属stipは茎柄義で柄を取っているため衝突なし。	
+alkemil	羽衣草	3_compound	バラ科ハゴロモグサ=羽衣草そのもの	OK	良好。和名ハゴロモグサ=羽衣草そのもの、alc^emilと同表示で正しい。衝突なし。	
+aln	水桦	3_compound	カバノキ科ハンノキ。betul=桦、湿地生	OK	良好。betul=桦(現在1語根)を活かしたカバノキ科内の差別化で、湿地生の特徴も反映。衝突なし。	
+alpak	羊驼	3_compound	ラクダ科;中国名羊驼(vikun驼と同属近縁)	OK		
+amianti	毒蝇草	3_compound	ユリ科の有毒草本。殺蝿用(fly poison)	OK	留意: muŝ=蝇の唯一の生物用例が silen=蝇子草(ナデシコ科)で、字面が近く別科との偽近縁を招きうる。ただし同科veratr=草に対し「殺蝿性」という本種固有の識別情報を持ち、毒草(空き)より情報量が高い。現案で可。	
+ampelops	野葡	3_compound	ブドウ科ノブドウ=野葡萄。vit=葡	OK	良好。vit=葡(裸)+野で野葡萄の略。衝突なし。	
+anelid	环虫	3_compound	環形動物門;环(環形)+虫。teni条虫等と同型	OK		
+angvis	蛇虎	3_compound	アシナシトカゲ科;蛇状+虎(lacert壁虎の虎)	NG	虎の単独masterはtigr=虎。虎がトカゲを指すのは壁虎(lacert)の内部だけで、蛇虎は『蛇+トラ』(末字が主要素=トラ)と誤読される。中国名の蛇蜥は蜥がパレット外。	蛇壁虎(lacert=壁虎を主要素にした鏡像。3字だが誤読なし)
+ankuz	牛草	3_compound	=bovlango(牛の舌草)。ムラサキ科の草	OK	留意: 舌がパレット外のため bovlango の鏡像(牛舌草)が作れず牛草に後退。ムラサキ科は borag/simfit/pulmonari/cinoglos/konsolid が全て草(裸)なので草は体系整合であり逃げではない。medikag=牧草と字面が近いのみ注意。	
+antemid	菊	1_family	キク科カミツレモドキ属。kamemel等=菊	OK	良好。同群のkamemel/matrikari等が既に菊。科レベル裸字の共有は仕様通り。	
+anter	花药	3_compound	葯=花药。雄蕊の花粉嚢を担う部位	OK	留意: 药はmedikament/apotek/farmaciの字で「花の薬」とも読めるが、花药は中国語の標準植物学術語。polen=粉/囊を使う粉囊も可能だが標準性で現案が優る。衝突なし。	
+antirin	金鱼草	3_compound	キンギョソウ=金鱼草そのもの	OK	良好。中国語正名そのもの。鱼は飽和群への逃げではなく名前の一部(金鱼=キンギョ)であり、fiŝ系の魚類と混同する構成でもない。	
+apus	燕	1_family	アマツバメ科。同科salangan=金丝燕の燕	NG	裸の 燕 は既に hirund(ツバメ Hirundinidae)の固定字。apus はアマツバメ科(Apodiformes)で目レベルで別系統であり、同表示にすると読者は hirund と区別できない。しかも本プロジェクトは同じアマツバメ科の salangan を裸の 燕 ではなく 金丝燕 と修飾付きで描画しており、その先例にも反する（procelari=海燕, fring=燕雀, aven=燕麦 も全て修飾付き）。	雨燕（中国語のアマツバメ科の正名。雨 は pluv=雨 で既使用・雨云/雨计 の実績あり＝新字ではない。雨燕 はマスター内で未使用で衝突なし。ただし 雨 は palette.tsv の抜粋には未掲載なので採用時に実績確認を）
+arau^kari	南杉	3_compound	ナンヨウスギ=南洋杉。pice=云杉の系	OK	良好。abi=杉/pice=云杉/cug=铁杉の針葉樹シリーズに整合、南洋杉の略。衝突なし。	
+arbed	小树	3_compound	低木。arb=树より小、arbust=灌木と区別	OK	留意: arbust=灌木との語義境界がPEJVO自体で曖昧(arbed=低木/arbust=低木・小低木)。arb=树+小の構成は透明で、et=小/minor=小の前例に整合。衝突なし。	
+ardizi	万两	3_compound	ヤブコウジ科マンリョウ=和名万両	OK	留意: 万=miria(万足/万米/百万)、两=ambaŭ(两性/两栖)という強い数詞・機能形態素の組合せで、系内読みでは植物情報がゼロ。ただしlili=百合(百=cent+合=kombin系)という同型の既成名前例があり、和名万両・中国園芸名黄金万两の実在性も担保される。採用可だが、系内可読性を重んじるなら赤い実+木本の合成に置換する余地あり。	(任意)红果木 — 红果はarbutが既取得のため単独不可、红果木/红子木はいずれも未衝突
+arist	麦芒	3_compound	麦などの実の芒(のぎ)=麦芒	OK	留意: 芒はmang=芒果の構成字だが、麦芒は中国語で芒(のぎ)そのものを指す標準語。spik=穗/ament=穗とも衝突せず可。	
+aristoloki	马铃草	3_compound	ウマノスズクサ=馬の鈴草そのもの	OK	留意: 中国正名の马兜铃は兜がパレット外のため不可。ĉeval=马+铃(konval=铃兰の鈴)で和名ウマノスズクサの正確な鏡像。马铃薯(ジャガイモ)と読み違える危険はあるがterpomは未割当で系内衝突はない。	
+artemizi	艾草	3_compound	ヨモギ属=艾。moks=艾と区別し艾草	OK	良好。裸の艾は既にmoks(もぐさ)が保持、absint=苦艾/abrotan=木艾と揃う。既存割当のチャーンを起こさない解として妥当。	
+asfodel	日光兰	3_compound	ツルボラン=中国名日光兰。ユリ様草本	OK	良好。中国語正名(日光兰属)そのもの。tag=日/lum=光/兰(konval=铃兰の緩用)で系内読みも破綻せず、衝突なし。	
+askalon	葱	1_family	=ŝaloto(葱)と同一のネギ属。同字	OK	良好。マスターで ŝalot=葱 を実測確認。cep/alium/ampelopraz/pore と同じ葱の共有群に入る同義語根なので、同表示が正しい。	
+asperul	车叶草	3_compound	アカネ科クルマバソウ=车叶草。輪生葉	OK	良好。中国語正名そのもの(輪生葉)。rad=轮ではなくĉar系の车だが名前としての実在性が優先され、衝突なし。	
+aspid	冠蛇	3_compound	コブラ科Naja属;頸の冠(hood)+蛇。kobr眼镜蛇と別	OK		
+astragal	莲豆	3_compound	マメ科ゲンゲ=蓮華草。豆科+蓮華状花	OK	留意: 莲はlotus/nelumb(裸)・nimfe=睡莲とハス類に強く結びついており偽近縁の懸念はあるが、豆でマメ科に確実に係留され、和名レンゲソウ(蓮華草)由来として説明可能。黄芪の芪・紫はパレット外で代替不能。	
+atripl	海菜	3_compound	ヒユ科ハマアカザ。海浜生で若葉を食用	OK	良好。菜はlegom/brasik/spinac(菠菜)/bet(甜菜)/amarant と「食用草本」で運用されており、特に同科amarant=菜があるため海菜はヒユ科の海浜種として整合。中国語で海菜が海藻を指す点のみ軽微な誤友(藻は別字で確保済み)。	
+au^rikul	厚樱草	3_compound	サクラソウ科アツバサクラソウ＝厚葉桜草	NG	(1)樱は本マップでĉeriz/meriz/sakur=桜(バラ科)に固定済み。Primula(サクラソウ科)は無縁で科レベルの誤友。(2)3字で冗長。(3)最大の問題は優先順位の逆転——上位語 primol(サクラソウ属, biolist 273行)が未割当のまま、その一種 au^rikul に3字を与えている。	保留。先に primol=报春(中国語正名 报春花属。报・春とも palette 収載)を決め、au^rikul は 厚报春 等の派生にする
+azar	葵	2_superordinate	ウマノスズクサ科、和名フタバアオイの葵字	NG	葵(単字)は既に malv=葵(アオイ属)に占有されている(_kanji_map_master.tsv)。azar は Asarum(ウマノスズクサ科)で、アオイ科ではない。完全同一表示＋科レベルの誤友の二重欠陥。和名フタバアオイは日本語限定の呼称で、中国語 葵 は錦葵/向日葵を指す。	草(kenopodi/borag等と同じ科別字なし既定)。evocativeさを残すなら双葵(自由)だが双=ge/dual/ĝeminに固定済みで「双葉」は読み取れない
+babirus	鹿猪	3_compound	イノシシ科;語釈シカイノシシ=鹿+猪(apr猪)	OK		
+basi	草	2_superordinate	ヒユ科ホウキギの一年草、科別字なく草本字	OK	ヒユ科の既存割当は kenopodi=草, salsol=草, atripl未割当。同科の葉野菜 amarant のみ菜。ホウキギは食用主体でないので草で整合	
+bast	皮	2_superordinate	樹皮内層の靭皮組織、皮の上位字	OK	皮(単字)は既に haŭt/fel/pelt/derm/dermat/kortik の6語根が共有。bast を足すと kortik(樹皮・皮質)と完全に同一表示になり区別が消える。ただし韧はpalette外、内皮は endoderm が占有済みで代案が無い。皮に同義層を積む運用は既存慣行どおりなので許容範囲	
+bazilisk	王蛇	3_compound	伝説の蛇の王(basileus)。grif=狮鹰に倣う	OK		
+begoni	草	2_superordinate	シュウカイドウ科の多年草、科別字なし	OK		
+beladon	毒茄	3_compound	ナス科(茄)の猛毒植物、毒＋茄	NG	beladon は Atropa belladonna そのもので、同一植物の属語根 atrop が既に 颠(=颠茄の颠)に割当済み。毒茄では両者の同一性が切れる。中国語正名も 颠茄。毒芹(cikut)/毒参(koni)の毒Xパターン自体は妥当だが、既存整合を優先すべき	颠茄(自由。atrop=颠 + solan=茄 の鏡像で正名一致)
+betonik	药苏	3_compound	シソ科Stachys(苏)の薬用種、漢名薬水蘇	OK	staki=水苏なので、苏だけでは staki 形態素に戻らない(苏単独はどの語根の表示でもない)。中国語正名は 药水苏。3字を許すなら 药水苏(自由)の方が固定形態素描画として整合	药水苏(任意)
+blit	菜	1_family	ヒユ科の葉野菜、菠薐草(spinac)と同科	OK	同科(ヒユ科)の amarant=菜, spinac=菠菜, bet=甜菜 と整合。ただし菜は「食用葉菜」の上位字であって科別字ではない(legom/brasik/lap/artiŝok/sabelik/brokol/asparag が共有)ので、tier表示 1_family は 2_superordinate が正しい	
+boa	卷蛇	3_compound	ボア科;獲物に巻きつく大蛇。piton巨蛇と別	OK		
+botau^r	鸟	2_superordinate	サンカノゴイはサギ科。同科ardeも鸟	OK		
+bulbil	球芽	3_compound	球根(bulb=球)状の芽＝むかご	OK	bulb=球, burĝon=芽 の鏡像で自由。良い	
+buldog	斗牛犬	3_compound	イヌ品種;中国名斗牛犬(闘牛用の犬)	OK		
+c^impanz	黑猩	3_compound	ヒト科;中国名黑猩猩。goril猩と同群	OK		
+cembr	松	1_family	マツ科マツ属の高山性種、pinと同属	OK	pin/pini と同属(Pinus)なので過大代用ではない。ただし同科の larik=落松, cedr=雪松, juniper/sabin=杜松 は全て X松 型で識別されており、cembr だけ裸の松にすると pin と完全同一になる。山松(自由)等で識別する余地あり	山松(任意)
+centau^re	菊	1_family	キク科ヤグルマギク属、cejanと同属	OK	裸の菊はキク科属の既定字(aster/lekant/kardu等50語根が共有)。種の cejan=蓝菊 と階層も整合	
+cerefoli	芹	1_family	セリ科の香草チャービル、芹字	NG	裸の芹は celeri/api(いずれも Apium)に固定済み。cerefoli は Anthriscus cerefolium で、その属 antrisk は既に 伞。セリ科の科別字は伞(umbel/umbelifer/anet/angelik等20+語根)で、芹はセロリ限定字。属違いの完全重複	叶芹(中国語 细叶芹 の短縮、自由)。保守的にいくなら antrisk と同じ 伞
+cikori	苦菊	3_compound	キク科キクニガナ、苦味の菊(漢名菊苣)	OK	自由。endivi=苦菜 と好対照で、漢名 菊苣 とも整合	
+cipsel	燕	1_family	apusoと同一のアマツバメ。同表示	NG	apus と同一の鳥なので同表示という方針自体は正しいが、その apus の 燕 が hirund=燕 と衝突するため同じ理由で不可。	雨燕（apus と同表示。理由は apus 欄参照）
+citiz	豆	1_family	マメ科エニシダ属の低木	OK	裸の豆はマメ科既定字(fab/fazeol/legumen/hedizar等18語根)。ただし同じエニシダ類の sparti=木(木本は木)という前例もあり、低木を豆にするのは軽い揺れ	
+civet	香猫	3_compound	ジャコウネコ科;麝香猫=香+猫	OK		
+datur	茄	1_family	ナス科チョウセンアサガオ属	OK	同属種 stramoni が既に 茄。裸の茄はナス科既定字(tomat/solan/hiosciam/petuni等10語根)で完全整合	
+delfini	燕草	3_compound	キンポウゲ科、和名ヒエンソウ＝飛燕草	OK	自由。hirund=燕で、漢名 飞燕草 の短縮として妥当	
+desmodi	豆	1_family	マメ科ヌスビトハギ属	OK		
+diklin	单性	3_compound	雌雄異花＝単性花、hermafrodit両性と対	OK	自由。hermafrodit=两性, androgin=雌雄 と体系が揃う	
+drakunkol	龙芋	3_compound	サトイモ科(芋)の竜名属Dracunculus	OK	自由。drak=龙、芋は amorfofal=魔芋 の構成字(芋単独は未使用)。サトイモ科の既定は草(arum/kolokazi/anturi=草)だが、龙芋の方が情報量が多く許容	
+ebol	血毒	3_compound	出血熱を起こすウイルス。virus=毒	OK	【参考】virus=毒/sang=血で組成は正しいが、血毒は敗血・血液毒とも読める汎用性がある。出がパレット外で出血毒は不可のため代替なし。	
+edelvejs	雪菊	3_compound	キク科ウスユキソウ、雪の花	OK	自由。neĝ=雪でキク科の菊も正しい。ただし中国語で 雪菊 は昆仑雪菊(Coreopsis, koreops=菊)を指す既存名で軽い衝突。エーデルワイスの中国語通用名 雪绒(花)も自由なので代案になる	雪绒(任意)
+egopodi	岩芹	3_compound	セリ科イワミツバ＝岩＋芹	OK	自由。ただし岩は rok/petr に固定され、既に petroselin=岩伞(petr+selin)がある。岩芹は petro- 系合成と読み違えられ得る(和名イワミツバ由来としては妥当)	
+eki	蓝花	3_compound	ムラサキ科、漢名蓝蓟の青い花	OK	自由。blu=蓝, flor=花で「青い花」という汎用語に近く、cejan=蓝菊 のような科情報が無いのが弱点。ただし既存 蓝菊 と同じ構成法で、実在名との衝突は無い	
+ekinokl	粟	1_family	イネ科ヒエ属の雑穀、キビ属粟と同列	NG	粟(単字)は panic=キビ属 Panicum の専有字(palette でも 粟 は生物1=panicのみ)。Echinochloa はヒエ属で別属、完全同一表示になり属の区別が消える。粟はイネ科の科別字ではない(イネ科の既定は草、穀類は麦)	野粟(自由。野=palette収載、ヒエ＝雑穀/野生粟の意)
+ekvil	鱼	2_superordinate	イカナゴ科に該当字なし。魚の上位字	OK		
+eleagn	木	2_superordinate	グミ科の低木、科別字なく木本字	OK	同科(グミ科)の hipofe が既に 木。科別字は無く整合	
+enad	鸽	1_family	ヒメモリバトはColumba属。kolombと同属	OK		
+enant	水芹	3_compound	セリ科Oenanthe＝漢名水芹属	OK	自由で漢名 水芹属 と一致。cikut=毒芹 とも体系が揃う	
+endokarp	内果皮	3_compound	果皮の内層、そのまま内果皮	OK	intern=内, frukt=果, 皮 の透明な鏡像で自由。3字だが術語として正確	
+epigin		4_none	子房下位の意、下位を表す既使用字なく保留	OK	保留自体は妥当。ただし理由「下位を表す既使用字なく」は不正確で、下は sub=下 として実使用中(今回のpalette抜粋は上位400字のみで下が載っていないだけ)。全字表を見れば 下位/巢下 等の余地はある	
+epikarp	外果皮	3_compound	果皮の外層、そのまま外果皮	OK	ekster=外 で endokarp と対になる。自由	
+epilobi	红花	3_compound	アカバナ科アカバナ属＝赤花	NG	红花は中国語でベニバナ(Carthamus=kartam、本マップでは菊)を指す著名な生薬名で、アカバナ科 Epilobium とは別物。加えて ruĝ=红/flor=花 という完全透明な合成で識別子として弱い。和名アカバナの直訳に寄りすぎ	柳菜(自由。中国語正名 柳叶菜属 の短縮)
+epizooti	兽病	3_compound	獣の流行病;兽+病(疫字はパレット外)	NG	『疫字はパレット外』が事実誤認。疫は使用中(epidemi=疫, pest=疫, vakcin=疫苗, epidemiologi=疫学)。epizootio=獣の流行病なので zo(兽)+epidemi(疫) の鏡像がそのまま成る。兽病では単なる『獣の病気』(morb=病)で流行性が落ちる。	兽疫
+erantid	节分草	3_compound	キンポウゲ科、和名セツブンソウ＝節分草	NG	节分は日本固有の暦語で、中国語・韓国語版(index.zh/ko.html)の読者には全く通じない。かつ3字で冗長。同科の ranunkol/helebor/akonit は全て 草 で、3字を投じる根拠も弱い	冬草(自由。学名 hyemalis=冬 に対応)。難しければ科既定の 草
+eringi	刺芹	3_compound	セリ科Eryngium＝漢名刺芹属	OK	自由で漢名 刺芹属 と一致。良い	
+eriobotri	梨	1_family	バラ科ナシ亜科の常緑果樹ビワ、梨に最近縁	NG	梨(単字)は pir=Pyrus の専有字。ビワは Eriobotrya で別属、完全同一表示になり「ビワ＝ナシ」になってしまう。同亜科の mespil=果, cidoni=木瓜, malus/sorbus=木 のように別字が与えられている	毛果(自由。語釈自身が >>lanmespilo と示す通り lan=毛 + mespil=果 の鏡像)
+eriofor	棉草	3_compound	カヤツリグサ科ワタスゲ＝綿毛の穂の草	OK	自由。棉は koton/vat の表示字なので、棉草＝kotonherbo の鏡像として機能する。同科の kareks/scirp/ciper=草 とも矛盾しない	
+erizim	芥	1_family	アブラナ科エゾスズシロ属、漢名糖芥属	NG	芥(単字)は mustard と sinap(いずれもカラシ)に固定済み。Erysimum は別属で、アブラナ科の既定字は草/菜(kres/armoraci/tlasp=草, brasik=菜)。芥はカラシ限定字なので過大代用	糖芥(自由。中国語正名 糖芥属)
+eruk	菜	1_family	アブラナ科の食用葉菜ルッコラ	OK	裸の菜は食用葉菜の上位字(legom/brasik/lap/artiŝok/amarant等8語根)。ルッコラは葉菜なので整合	
+estragon	龙艾	3_compound	キク科ヨモギ属(艾)、漢名龙蒿	OK	自由。absint=苦艾(艾=Artemisia)と体系が揃い、漢名 龙蒿 とも対応。drakunkol=龙芋 との龙共有も一貫	
+fakoc^er	瘤猪	3_compound	イノシシ科イボイノシシ;veruk瘤+猪	OK		
+falar	茅	1_family	イネ科クサヨシ属の野草、茅字	NG	二重の不整合。(1)茅(単字)は espart=Stipa(エスパルト)の専有字で、Phalaris は別属→完全重複。(2)同属の異綴語根 falarid が既に 草 に割当済みで、falar だけ茅にすると同一属が二字に割れる(双子語根の不整合)	草(falarid と揃える)。茅を使うなら falarid も同時に改める必要がある
+falarop	鸟	2_superordinate	ヒレアシシギ。同鳥の語根falaropodも鸟	OK		
+fanerogam	花植	3_compound	花をつける植物＝顕花植物、裸子と対	OK	字選び自体は許容(自由)。ただし理由の「裸子と対」は誤り——対語は kriptogam(隠花植物)であって gimnosperm(=裸子)ではない。また flor=花/fit・plant=植 なので合成語 florplanto と同一表示になる潜在衝突がある	
+farbit	旋	1_family	ヒルガオ科(旋花科)のアサガオ	NG	旋(単字)は spiral/rotaci/pivot/ciklon/gir/giro/turb/piruet の8語根＝機械・回転語に完全占有されている。植物に裸の旋を与えると「渦・回転」と読まれる分野越境の重複。ヒルガオ科の既存は kalistegi=旋花, ipome=草	旋草(自由)。ただし未割当の konvolvul(biolist 219行, 漢名 旋花属)用に旋藤/旋蔓を残すこと。保守案は 草(同属 ipome=草 と整合)
+fasciol	肝吸虫	3_compound	扁形動物吸虫;肝蛭=肝+吸+虫	OK		
+fatsi	掌木	3_compound	ウコギ科ヤツデ、掌状葉の常緑低木	OK	自由。掌は polm(手のひら)に固定されており「八つ手」の直訳として機能する。kakt=仙人掌 の掌と読み違える軽い危険はあるが、同科の arali=木 とも区別でき許容	
+felandri	毒水芹	3_compound	有毒のセリ属(水芹)、cikut毒芹と別	OK	自由。cikut=毒芹, enant=水芹 と体系が揃う。3字だが有毒セリ属の識別として妥当	
+feloid	猫	1_family	ネコ科(felisedoj)の総称;felis猫が科字	NG	猫は既に kat=猫 と felis=猫 の2語根が保持しており、3語根目の完全重複になる(homonym層の負荷増)。語釈は=felisedoj(ネコ科)で、接尾 ed/ac=科 が既に確定しているため科字で正確に区別できる。	猫科(felis猫+ed科の鏡像)
+fenkol	香伞	3_compound	セリ科ウイキョウ＝茴香、香＋散形科	OK	自由。arom/spic=香、伞はセリ科科別字。茴がpalette外である以上、茴香の代替として妥当	
+ferol	大伞	3_compound	セリ科オオウイキョウ属、大型の散形科	OK	自由。grand=大でやや汎用だが、近縁の ferolag=伞 と識別でき許容	
+festuk	羊茅	3_compound	イネ科ウシノケグサ属＝漢名羊茅	OK	自由で漢名 羊茅属 と完全一致。良い(なお、これがあるので falar に裸の茅を与えるのは一層不可)	
+filant	橘草	3_compound	コミカンソウ＝小蜜柑状の実をつける草	NG	(1)橘は mandarin=橘(ミカン)に固定された字で、Phyllanthus(コミカンソウ科)は無縁——科レベルの誤友。(2)橘草 は中国語で実在する別植物名(Cymbopogon goeringii)で、cimbopogon=草 と衝突する紛らわしさがある	叶花(自由。学名 Phyllanthus＝葉+花 の直訳で、foli=叶/flor=花 の既存字に一致)
+filokser	葡虫	3_compound	ブドウネアブラムシ=vinlau^so。afid=虫	OK		
+fimbril	边毛	3_compound	縁の房状突起＝縁(边)＋毛	OK	自由。rand=边, lan/har=毛 の鏡像。cili=纤毛 とも区別できる	
+flakurti	果木	3_compound	ヤナギ科の熱帯果樹、果＋木	NG	「果樹」という一般名詞そのもので、属を特定する情報が皆無(過度な汎用化)。加えて frukt=果/lign=木 なので合成語 fruktligno と同一表示になる衝突リスクもある	刺木(自由。中国語正名 刺篱木属、pik/dorn=刺)
+fles	比目鱼	1_family	ヌマガレイはカレイ科。pleu^ronekt=比目鱼と同科	OK		
+foin	石鼠	3_compound	イタチ科テン(既定=鼠);中国名石貂	OK		
+foliol	小叶	3_compound	小葉、foli=叶の縮小形	OK	自由。et=小, foli=叶 の鏡像。合成語 folieto は語根順で 叶小 になるため衝突しない	
+forfikul	钳虫	3_compound	ハサミムシ目。腹端に鋏(钳)を持つ虫	OK		
+fragmit	芦	1_family	イネ科ヨシ属＝芦(あし)	OK	自由。中国語 芦(苇)＝ヨシで正確。芦は kalabas=葫芦 の構成字だが単独使用は空いている	
+fraksen	白蜡	3_compound	モクセイ科トネリコ属＝漢名白蜡树	OK	自由で中国語正名 白蜡树 の短縮。ligustr=女贞, siring=丁香, kaprifoli=忍冬 と同じ「中国語植物名をそのまま使う」既存方針に沿う	
+frangol	木	2_superordinate	クロウメモドキ科の落葉低木、科別字なし	OK	同属の ramn(Rhamnus)が既に 木 なので科内整合はとれている。ただし ramn と完全同一表示になり区別は失われる(クロウメモドキ科に科別字は無いので代案なし)	
+fraterkul	鸟	2_superordinate	ツノメドリはウミスズメ科。alka/pufinも鸟	OK		
+fringel	黄雀	3_compound	マヒワはアトリ科。黄(黄羽)+雀	OK		
+fuksi	铃花	3_compound	アカバナ科フクシア、垂れる鈴状の花	OK	自由。铃は konval=铃兰, soldanel=雪铃 の構成字で、sonorilo は接尾語合成のため 铃花 との衝突は起きない。ただし未割当の kampanul(biolist 201行, ホタルブクロ属＝sonorilfloro)が本来「鈴の花」の第一候補なので、kampanul には中国語正名の 风铃(草)を確保しておくこと	
+fuligul	潜鸭	3_compound	キンクロハジロはAythya=潜水ガモ。潜+鸭	OK		
+fulik	秧鸡	1_family	オオバンはクイナ科。ral=秧鸡と同科	OK		
+fumari	草	2_superordinate	ケシ科カラクサケマン属の草本、科別字なし	OK	同科の koridal=草, papav/papaver=草 と整合。科別字は無い	
+fur	雪鼠	3_compound	イタチ科ケナガイタチ変種;中国名雪貂	OK		
+galeopitek	翼猴	3_compound	皮翼目ヒヨケザル;滑空の翼+猴	OK	参考: PIV層の kaguang(=ヒヨケザル同一動物)が兽。粒度差が残る点は承知の上で(翼猴の方が精密)。	
+galinol	秧鸡	1_family	バンはクイナ科。ralと同科	OK		
+galinul	秧鸡	1_family	galinoloと同一のバン。同表示	OK		
+gastornit	巨鸟	3_compound	始新世の地上性巨鳥。巨+鸟(epiornit=隆鸟に倣う)	OK		
+gek	壁虎	1_family	ヤモリ科=壁虎そのもの(lacert現行と重複注意)	NG	lacert=壁虎(content層・基本語根)と完全重複。提案理由も重複を自認している。壁虎は本来ヤモリの名なのでlacert側が過大だが、基本語根の変更はchurnになる。	壁虎科(語釈『ヤモリ(類)』に対応, ed/ac=科)。重複を許容して壁虎のまま出すなら要ユーザー裁定
+genist	豆	1_family	マメ科ヒトツバエニシダ属	OK	citiz と同様。マメ科既定字で整合	
+genot	斑狸	3_compound	ジャコウネコ科;中国名斑林狸=斑+狸	OK		
+georgin	菊	1_family	キク科ダリア(=dalio)	OK	dali(=同一植物ダリア)が既に 菊 なので、同義語根が同一字になる既存慣行(taget/tag^et、papav/papaver、tragopog/tragopogon)どおり	
+gerbil	野鼠	3_compound	ネズミ科アレチネズミ;沙字なく野+鼠	NG	『沙字なく』が事実誤認。沙は使用中(sabl=沙, dun=沙丘, raŭk=沙哑)。中国名そのものの沙鼠が作れるのに、野=sovaĝ の汎用語で『野生のネズミ』に薄めている(過大代用)。	沙鼠
+geum	草	2_superordinate	バラ科の草本;potentil等同科草本も草	OK		
+ginece	雌蕊	3_compound	雌ずい群;stamen=雄蕊と対の雌+蕊	OK		
+ginostem	蕊柱	3_compound	ラン科の蕊柱;蕊が合着した柱	OK		
+gipaet	须鹰	3_compound	ヒゲワシはタカ科。须(髭)+鹰(vultur=秃鹰型)	OK		
+gladiol	花	1_family	アヤメ科;科根irid・krokusも花	OK		
+glareol	鸟	2_superordinate	ツバメチドリ科。チドリ目に該当字なし	OK		
+glau^ci	角草	3_compound	ケシ科(papav=草);角状の長い果実	OK		
+glekom	草	2_superordinate	シソ科の草本;nepet・melisも草	OK		
+gliceri	甜茅	3_compound	イネ科;中国名甜茅属(茅=espart)	OK		
+globulari	草	2_superordinate	球状花序の小草本;科別字なし	OK	(参考・非致命) 中国名でGlobulariaこそが「球花属/球花科」であり、本バッチはその球花をhidrange/hortensi(绣球花)に配分している。配分自体は頻度的に妥当だが、記録として残すべき逆転。なおバッチ内の飽和字回避としては球草(未使用・衝突なし)も選択可。	球草(任意。草のままでも科別字が存在しないため規則違反ではない)
+gnu	牛羚	3_compound	ウシ科ヌー;牛に似たレイヨウ(antilop羚)	OK		
+gramine	麦	1_family	イネ科(禾本科);穀草代表字の麦	OK		
+grifon	硬毛犬	3_compound	犬品種グリフォン;粗い硬毛の猟犬	OK		
+gul	熊鼠	3_compound	イタチ科クズリ;中国名貂熊=熊+鼠(既定)	OK		
+gurnard	鱼	2_superordinate	ホウボウ科。同科triglも鱼で専用字なし	OK		
+gus^	豆壳	3_compound	マメ科の莢;豆+壳(karapac=壳)	OK		
+harpi	鹰女	3_compound	鷲身女妖。オウギワシ(Harpia)も鹰	OK		
+hedisar	豆	1_family	マメ科;別綴hedizarが既に豆	OK		
+heliantem	草	2_superordinate	ハンニチバナ科;同科cist=草	OK		
+helikriz	蜡菊	3_compound	キク科;中国名蜡菊属(苞が蝋質)	OK		
+helvel	龙菌	3_compound	ノボリリュウタケ属=昇竜の菌	OK		
+hemerokal	黄花	3_compound	ワスレグサ属;中国名黄花菜	OK		
+hemerokalid	黄花	3_compound	キスゲ属;中国名黄花菜(黄+花)	OK		
+hemion	野马	3_compound	ウマ科アジアノロバ;野生のウマ属(onagr近縁)	NG	『驴字がなく』が事実誤認。azen=驴 が使用中。アジアノロバはロバ(亚洲野驴)であってウマではなく、野马は Przewalski の野生ウマと衝突する誤友。さらに 马 は ĉeval/onagr/kulan が保持済み。	野驴(sovaĝ野+azen驴。onagr/kulanと同一種群である点はPIV側=马のまま残る)
+herakle	伞	1_family	セリ科;umbel・angelikと同じ伞	OK		
+herbari	草集	3_compound	herb草+kolekt集の鏡像;集は既使用	OK	(要注意・ただし可) 「集」はpalette.tsvの掲載範囲外([B]は上位400字=頻度8以上で打ち切り)。ただし_kanji_map_master.tsvでkolekt=集/foir=集/kolektiv=集/koncentr=集を実測確認したため新字ではない。palette.tsvだけを見て機械的に判定すると誤って落ちる案件。	
+hermini	蛾	1_family	ヤガ科アツバの一群。mote/bombiks=蛾	OK	【参考】mote/bombiksが既に裸蛾。属レベルの語根に目レベル字を当てる粗さは残るが、菊51件・草300件と同じ家風の範囲内。	
+hidrange	球花	3_compound	アジサイ属;球状花序(绣球花)	OK		
+hien		4_none	ハイエナ科;鬣狗の鬣狗ともパレット外、近縁字不在	OK	未対応自体は安全だが『近縁字不在』は不正確。鬣・狗・獴は確かにパレット外だが、狼(lup=狼)と土(grund=土)は在庫にあり、ハイエナ科の実在中国名『土狼』が組める。	土狼(採用は任意。見送っても害はない)
+hilum	种脐	3_compound	種脐;脐はumbilikで既使用(印字外)	OK	(要注意・ただし可) 「脐」はpalette.tsv掲載範囲外だが、_kanji_map_master.tsvでumbilik=脐を実測確認。新字ではない。「种」は[B]に种9で掲載済。种脐は中国植物学の正式術語で、umbilik=脐とも衝突しない。	
+himeni	膜层	3_compound	菌の子実層。himenomicet=膜菌に整合	OK		
+hiperik	草	2_superordinate	オトギリソウ科の草本;科別字なし	OK		
+hisop	香草	1_family	シソ科芳香ハーブ;lavendも香草	OK	(参考・非致命) 香草は既にlavend/rosmaren/origanの3語根が使用中で、hisopは4語根目の同形になる。規則3の対象(単字の飽和群)ではなく既存慣行に沿うので却下はしないが、識別性は下がる。ヒソップの中国名「神香草」は未使用で神(神50)・香・草とも既存字。	神香草(識別性を上げたい場合のみ。香草据置も慣行上は可)
+histrik	刺鼠	3_compound	齧歯目ヤマアラシ科;棘のある齧歯類	OK		
+hormin	草	2_superordinate	シソ科の高山草本;nepetも草	OK		
+hortensi	球花	3_compound	hidrangeと同種;球状花序の花木	OK		
+hortulan	雀	1_family	ズアオホオジロはEmberiza属。emberizと同属	OK		
+hotujni	臭草	3_compound	ドクダミ科;強臭(中国名魚腥草)	OK		
+huz	鱼	2_superordinate	チョウザメ科。sturg/acipenserも鱼	OK		
+ibeks	山羊	3_compound	ウシ科ヤギ属;中国名北山羊。kapr羊と別	NG	山羊は中国語でヤギ(=kapr)そのもの。kapr=羊, ŝaf=羊 が既にあるため、山羊はkaprの正名を別語根が奪う偽友になる。	岩羊(rok/petr=岩。高山性の野生ヤギを表し、kaprの正名と衝突しない)
+ignam	山薯	3_compound	ヤマノイモの塊根;maniok=薯の類	OK		
+iksod	硬蛛	3_compound	クモ綱マダニ科;中国名硬蜱=硬+蛛(クモ綱字)	OK		
+ilici	香木	3_compound	シキミ・八角;強い芳香の木本	OK		
+indigofer	蓝豆	3_compound	マメ科の藍染料源;indig=蓝+豆	OK		
+jasmen	香花	3_compound	モクセイ科の芳香花木(siring=丁香)	OK		
+jonkvil	黄水仙	3_compound	narcis=水仙の黄花種=黄水仙	OK		
+juka	丝兰	3_compound	リュウゼツラン科(agav=龙舌兰);糸蘭	OK		
+junk	草	2_superordinate	イグサ科;同科luzul=草に倣う	OK		
+kalandra	谷象	3_compound	コクゾウムシ=穀象。kurkuli=象甲	OK	【参考】kurkuli(ゾウムシ)=象甲なので厳密な鏡像は谷象甲。2字に収めた穀象の慣用優先で可。	
+kalendul	金菊	3_compound	キク科;中国名金盏菊(金+菊)	OK		
+kalikl	小杯	3_compound	副萼。kalik=杯の小型版	OK	留意: 語義は副萼(萼の外側の苞輪)で、et=小の指小と厳密には別概念。ただし語源calyculus=小さな杯であり、cerebel=小脑/uvul=小舌の指小前例に整合。副・萼はパレット外のため代替不能。現案で可。	
+kalistef	菊	1_family	キク科;同一植物のaster=菊	OK		
+kampanul	铃草	3_compound	キキョウ科;鐘形花(konval=铃兰)	OK		
+kampec^	血木	3_compound	マメ科染料木;学名=血の木(赤心材)	OK		
+kanaben	雀	1_family	ムネアカヒワはアトリ科。fring/pirolと同群	OK		
+kapibar	水豚	3_compound	齧歯目カピバラ;中国名水豚	OK		
+kapitul	头花	3_compound	頭状花序;umbel=伞と並ぶ花序字	OK		
+kapsel	草	2_superordinate	アブラナ科の野草;alis・matiolも草	OK		
+kardamin	草	2_superordinate	アブラナ科の野草;drab・arabisも草	OK		
+kardon	菊	1_family	キク科チョウセンアザミ属の一種	OK	(参考・非致命) 同属のartis^ok(チョウセンアザミ)は菜、kardonも語釈に「食用にする」とある。菊はkardu/cirsi等キク科50語根の共有字で規則3に適合するため却下はしないが、食用性の情報は落ちる。菜に振ると逆にartis^ok等8語根と完全同形になるため、菊据置の方が総合的には無難。	(代案なし=菊据置を推奨)
+karlin	菊	1_family	キク科アザミ類;kardu・cirsiも菊	OK		
+karpen	熊桦	3_compound	カバノキ科;betul=桦+クマシデの熊	OK	(参考・非致命) 「熊」の根拠は和名クマシデのみで、中国名は鹅耳枥属(鹅・耳とも既存字、鹅耳は未使用)。桦=betulの科標識は妥当なので構造上の問題はない。和名由来を許容する方針なら現案で可。	
+karvi	伞	1_family	セリ科;同属karum(Carum)=伞	OK		
+keirant	草	2_superordinate	アブラナ科;同種keir・matiolも草	OK		
+kelidoni	疮草	3_compound	ケシ科;瘡の薬草=クサノオウ	OK		
+kerkedul	鸭	1_family	シマアジはマガモ属。anasと同属で鸭	OK		
+kiker	鸡豆	3_compound	マメ科;ヒヨコマメ=鸡豆(鸡+豆)	OK	(参考・非致命) 中国語の「鸡豆」は本来ヒヨコマメではなく芡実を指す偽友。ヒヨコマメの標準中国名は鹰嘴豆で、鹰・嘴・豆はいずれも既存字(鹰豆も未使用)。和名ヒヨコマメからの透明性を採るなら現案で可。	鹰豆(中国名準拠を優先する場合)
+kinu	麦	2_superordinate	アカザ科の擬似穀物;ソバfagopir=麦	OK		
+kladoni	菌	2_superordinate	地衣類;usne・parmeliも菌	OK		
+klangul	鸭	1_family	コオリガモはカモ科。anasと同科	OK		
+klemat	草	2_superordinate	キンポウゲ科;同属klematit=草	OK		
+klematid	草	2_superordinate	クレマチス属;同属klematit=草	OK		
+koal	树袋熊	3_compound	有袋類コアラ;中国名树袋熊(袋+熊)	OK		
+kobaj	豚鼠	3_compound	テンジクネズミ科;中国名豚鼠	OK		
+kojot	原犬	3_compound	イヌ科;=prerilupo草原の犬(狼字なし)	NG	原は pra/original/primitiv/proto/primar の形態素で、原犬は『原始犬』と誤読される。加えて『狼字なし』が事実誤認で lup=狼 が使用中(ŝakal=胡狼も)。preri=草原 なので prerilupo の鏡像がそのまま成る。	草原狼(コヨーテの実在中国名でもある。2字希望なら 郊/鬣 はパレット外のため草原狼推奨)
+kojp	海狸鼠	3_compound	齧歯目ヌートリア;語釈の海狸鼠そのもの	NG	kastor=河狸 が確定しているため、同じビーバーを海狸と描くと形態素ドリフト(同一動物の二重描画)になる。	河狸鼠(ヌートリアの実在中国名の一つ。PIV側 miokastor=鼠 との粒度差は残る)
+koka	麻木	3_compound	コカ科の低木。narkot/kanab=麻の系	OK	良好。narkot/kanab=麻、木は樹木の巨大共有字(コカ属eritroksil自身も木)。麻木は中国語で「しびれ」の意になるが、系内の合成読み(麻+木)は透明で、同属eritroksil=木との差別化も適切。	
+koleopter	甲翅	3_compound	鞘翅目=甲虫。dipter=二翅等の翅系列	OK		
+komatul	海羊齿	3_compound	ウミユリ綱ウミシダ=海羊歯(filik羊齿)	OK	参考: PIV層 antedon(ウミシダ属)=虫 と粒度差。海羊齿(mar海+filik羊齿)自体は妥当。	
+komisur	接合	3_compound	解剖の交連・植物の接合面。接+合で接合部	OK		
+konferv	丝藻	3_compound	糸状の緑藻;丝+藻(alg=藻)	OK		
+konifer	针树	3_compound	pinglarbo=针(pingl)+树(arb)の鏡像	OK		
+konvolvul	旋草	3_compound	ヒルガオ科;kalistegi=旋花の旋+草	OK		
+koregon	鱼	2_superordinate	サケ科。salm/trutも鱼で専用字なし	OK		
+kramb	菜	1_family	アブラナ科の食用ハマナ(浜菜)	OK	(参考・非致命) 菜は既にlegom/brasik/lap/artis^ok/amarant/sabelik/brokol/asparagの8語根が共有し、krambは9語根目。規則3では菜は「科レベルの良い字」側なので却下しないが、Crambe=海甘蓝属・和名ハマナ(浜菜)から海菜(未使用、海17・菜16とも既存)が取れる。	海菜(識別性を上げたい場合のみ)
+kratag	山果	3_compound	バラ科サンザシ(山査子);mespil=果	OK		
+krepid	菊	1_family	キク科タンポポ類;taraksak=菊	OK		
+kriptogam	秘花	3_compound	隠花植物。隠を秘で写す2字(gimnosperm=裸子に倣う)	OK	パレット全字収載。秘=sekret、花=flor、字列衝突なし。gimnosperm=裸子の2字型と整合。	
+kriptoteni	芹	1_family	セリ科ミツバ。api/celeri=芹と同科同用途	OK	api=芹/celeri=芹と三重同形になるが、fab=豆/fazeol=豆と同じ既定運用。鸭儿芹(セリ科ミツバ)の実名とも一致。	
+krizalid	蝶偶	3_compound	チョウのさなぎ。pup=偶(蛹)に蝶を冠す	OK		
+krotal	鸣尾蛇	3_compound	クサリヘビ科;响尾蛇=鳴る尾の蛇(sonserpento)	NG	『响』は使用中(sonor=响, laŭt=响, klak=响)なので実在名『响尾蛇』がそのまま作れる。鸣は blek/pep/kvak など動物の鳴き声の字で、尾のガラガラ音には不適。	响尾蛇
+krucifer	菜	1_family	アブラナ科旧称。brasik=菜(kompozit=菊と同型)	OK	brasik=菜の科=属同形。kompozit=菊/umbelifer=伞/legumen=豆と同型で正しい。	
+ksifi	矛鱼	3_compound	メカジキは剣状の吻。矛(槍)+鱼	OK		
+kumin	伞	1_family	セリ科クミン属。anet/angelik/karum=伞と同	OK	伞は umbelifer/angelik/anet/karum/dau^k 等24語根のセリ科字。既定どおり。	
+kup	吸盘	3_compound	吸い玉と吸盤。吸+盘で器具・器官を兼ねる	OK	良好。吸(hirud=吸血虫/vampir=吸血鬼)+盘(placent=胎盘)。医学義(吸い玉)と動物義(吸盤)を同時に担え、衝突なし。	
+kupul	壳斗	3_compound	殻斗そのもの。壳(殻)+斗で用語一致	OK	壳=ŝel/krust、斗は自由。壳斗科の術語と完全一致、衝突なし。	
+kvino	菠麦	3_compound	アカザ亜科(菠菜と同科)の穀物=藜麦	OK	藜(藜麦)はパレット外なので次善。菠は spinac=菠菜/ananas=菠萝の拘束字である点のみ留意。fagopir=麦(擬穀類)の前例があり麦は妥当。	
+lagenari	瓜	1_family	ウリ科ユウガオ・ヒョウタン。kukurb等と同科	OK	kalabas=葫芦が既存でLagenariaは本来「葫芦属」だが、葫芦は既占。kukurb/melon/kukum等14語根の科字=瓜で問題なし。	
+lagri	伪叶甲	3_compound	ハムシダマシ=伪叶甲科の甲虫	OK	【参考】krizomel(ハムシ)は裸虫なので系内に「叶甲」という単位が存在せず、鏡像としては機能しない(伪+叶+甲の記述的読みは成立)。3字。	
+laminari	藻	2_superordinate	褐藻コンブ属。kombu/fuk/sargas=藻に同じ	OK	kombu=藻/fuk=藻/sargas=藻と同形。laminari自体がコンブなので同形は正当。	
+langust	刺虾	3_compound	イセエビ科の俗称;棘のあるエビ。omar龙虾と別	NG	langusto=palinuro(語釈が相互参照する完全同義)なのに、同じ動物へ刺虾/刺龙虾の別表示を与えており双子語根の不整合。	palinurと同一表示に統一(omar=龙虾と整合する刺龙虾を推奨。2字優先なら双方刺虾)
+laniari	牧犬	3_compound	犬品種;大型の牧畜犬=牧+犬	OK		
+leguminoz	豆	1_family	マメ科(=fabacoj)。fab/legumen=豆と同	OK	legumen=豆(=マメ科)と同形。科=属同形の既定どおり。	
+lent	豆	1_family	マメ科レンズマメ属。fazeol等と同科	OK		
+leontod	菊	1_family	キク科タンポポ。taraksak/leontodon=菊	OK	leontodon=菊/taraksak=菊が既存で完全整合。	
+lepidopter	粉翅	3_compound	鱗翅目。鱗粉の翅、hemipter=半翅の系列	OK		
+lepism	衣鱼	3_compound	シミ目。衣魚(紙魚)の標準名	OK		
+lian	蔓木	3_compound	つる植物=木質のつる。蔓単字はsarment既用	OK	sarment=蔓+lign=木の鏡像で「木質のつる」。heder=藤が既占なので藤は使えず、この2字が最適。	
+liknid	石	1_family	ナデシコ科(石竹科)センノウ。diant=石と同科	OK	石は ŝton/diant/spat と既に多重同形で、Lychnisを足すと四重。ただし同科でも silen=蝇子草のような固有字はパレットに無く、diant=石の科字運用に従うのが妥当。	
+likorid	红仙	3_compound	ヒガンバナ科。narcis=水仙の仙+赤花	OK	仙は水仙(narcis)/秋水仙(kolĉik)/仙人掌(kakt)の拘束字で、サボテンにも使われる以上ヒガンバナ科の標識ではない。蒜(石蒜)はパレット外のため代案は限られる。	より透明にするなら kolĉik=秋水仙 に倣った「红水仙」(3字、衝突なし)。现案のままでも可。
+lima	蚌	1_family	ミノガイは二枚貝。ostr/mitulと同じ蚌	OK		
+limand	比目鱼	1_family	マガレイはカレイ科。pleu^ronektと同科	OK		
+litorin	海螺	3_compound	タマキビは海産巻貝。helik=螺と区別し海+螺	OK		
+lobeli	半边莲	3_compound	ミゾカクシ=半边莲。花が片側に偏る	OK	3字だが半边莲は中国正名。莲=lotusの固定字を含むが実名なので許容。衝突なし。	
+lodikl	浆片	3_compound	鱗被=浆片(植物学用語)。glum=颖と別	OK	浆片は鱗被(lodicule)の標準中国語術語。glum=颖と明確に別。	
+lojt	鱼	2_superordinate	カワメンタイはタラ科。gad/molvも鱼	OK		
+loksi	交嘴雀	3_compound	イスカは交差する嘴。交+嘴+雀(アトリ科)	OK		
+lolig	矛墨	3_compound	頭足類ヤリイカ=槍烏賊;矛+墨(sepiのイカ字)	NG	イカの固定形態素は sepi=墨鱼 であり、墨単独は ink=墨/tuĉ=墨(インク)。矛墨は『槍+インク』になり、墨鱼の切断で形態素が壊れる。	矛墨鱼(枪乌贼の鏡像。枪=pistol/fusil を使うなら枪墨鱼)
+lonicer	忍冬	1_family	スイカズラ属=忍冬。科kaprifoliと同表記	OK	kaprifoli=忍冬と完全同形だが、azale/rododendr=杜鹃、brasik/krucifer=菜と同じ科=属同形の既定。	
+luf	丝瓜	3_compound	ウリ科ヘチマ=丝瓜。丝(繊維)+瓜	OK		
+lumbrik	土虫	3_compound	環形動物ミミズ;=tervermo土+虫	NG	理由文の『=tervermo土+虫』が不正確。ter=地(talp=地鼠, teren/geo=地)であり、土は grund=土。tervermoの鏡像は地虫。重大度は低いが鏡像原則からは地虫。	地虫(talp=地鼠と同系。土のままにするならgrundvermo相当と割り切る裁定が必要)
+lunari	银菜	3_compound	ギンセンソウ。银(銀扇の莢)+菜(アブラナ科)	OK	银=arĝent、菜=legom/brasik(アブラナ科)。銀扇草の圧縮として透明、衝突なし。	
+lupen	豆	1_family	マメ科ハウチワマメ属。fab等と同科	OK		
+luzern	牧豆	3_compound	マメ科の飼料作物。medikag=牧草+豆	OK	medikag=牧草の鏡像で妥当。中国語の「牧豆树」(メスキート属Prosopis)と誤友になる点のみ留意(同じマメ科なので実害は小)。	
+mahoni	刺天竹	3_compound	メギ科柊南天。nandin=天竹+刺(柊状葉)	OK	nandin=天竹が既存、刺=pik/dorn。ヒイラギナンテンの鏡像として成立。ileks=冬青を使う4字案より短く良い。	
+majoran	花薄荷	3_compound	シソ科ハナハッカ。ment=薄荷+花	OK	語釈自体が「ハナハッカ(花薄荷)」と明示、ment=薄荷と整合。	
+makak	猴	1_family	オナガザル科マカク属;resus等と同じ猴が最近縁	OK		
+manat	海牛	3_compound	海牛目マナティー;語釈の海牛そのもの	OK		
+mandibl		4_none	顎に当たる既使用字が無い。牙/齿は別義で過大代用	OK	未対応で妥当。颚/颌/腭 はマスター全体(_kanji_map_master.tsv)にも一切使用実績が無く、下顎骨を構成できる字が存在しない。牙(eritroni系)/齿 は別義で過大代用という判断は正しい。	
+mandragor	魔茄	3_compound	ナス科。魔力伝説+茄(solan等と同科)	OK	solan=茄、魔は amorfofal=魔芋 の前例あり。衝突なし。	
+marabu	秃鸟	3_compound	ハゲコウはコウノトリ科(cikoni=鸟)。秃+鸟	OK		
+marmot	土鼠	3_compound	リス科マーモット;中国名土拨鼠=土+鼠	OK	参考: talp=地鼠 と字面が近く(土鼠/地鼠)混同しやすい。土拨鼠の略として妥当ではあるので必須ではないが、旱(arid=旱)を使う旱鼠(旱獭の鏡像)なら衝突しない。	
+marsupial	袋兽	3_compound	有袋類;marsupi袋+兽(獣)	OK		
+melampir	米草	3_compound	ママコナ(飯子菜)。種子が米粒状+草本	OK	米は riz/metr の固定字なので「稲の草」と読め、さらに中国語の米草属=Spartina(イネ科)と誤友。ママコナはイネ科ではない。ただし罗(山罗花)・饭はパレット外で代案が無く、PIV級属の既定字である単字「草」まで落とすと情報が減るため現案を許容。	
+meli	木	2_superordinate	センダン科の高木。cedrel/sviteni=木と同科	OK	飽和字だが、cedrel=木/sviteni=木(同科)の既定どおりで、センダン科の科字はパレットに存在しない。楝・檀はパレット外。PIV級樹木属は一律=木の運用に合致。	
+melilot	香豆	3_compound	マメ科。クマリン香(香豆素)+豆	OK	香=spic、豆=fab。latir=香豌豆と字列が別なので衝突なし。	
+melolont	金龟	3_compound	コガネムシ科=金亀子。コフキコガネ属	OK		
+menur	琴鸟	3_compound	コトドリ=琴尾鳥。琴(tetr=琴鸡)+鸟	OK		
+merkurial	山蓝	3_compound	ヤマアイ=山藍。山+蓝(藍染料)	OK	山=mont、蓝=blu/indig/vajd(染料)。ヤマアイ=染料植物なので蓝は適切。	
+merlang	鱼	2_superordinate	タラ科。merluc^も鱼で専用字なし	OK		
+merop	蜂虎	3_compound	ハチクイ科。蜂(蜂食)+虎(gobius=虾虎型の名)	OK		
+miogal	水鼠	3_compound	モグラ科デスマン;水生のモグラ類=水+鼠	OK		
+miozot	鼠耳草	3_compound	学名は鼠の耳。salvi=鼠尾草に倣う	OK	salvi=鼠尾草の型に合致し語源(Myosotis=鼠の耳)も透明だが、鼠耳草は中国語で鼠麴草(キク科Gnaphalium)の別名=誤友。辞書名の勿忘草は勿・忘ともパレット外(忘は正本には forges=忘 として存在するので新字ではない)、记は memor/graf系で飽和のため実用的な代案なし。現案を許容。	
+mirh	药香	3_compound	没薬。oliban=乳香と対の芳香樹脂	OK	药=medikament/drog、oliban=乳香と対になる樹脂香。没(没药)はパレット外。	
+mirid	伞	1_family	セリ科スイートシスリー。anet/karum=伞と同	OK		
+mirmeleon	蚁狮	3_compound	ウスバカゲロウ。幼虫アリジゴク=蚁狮	OK		
+miskant	芒草	3_compound	イネ科ススキ=芒属。芒+草(espart=茅と別)	OK	確認したところ単字「芒」は空き(mang の master は2字の芒果)。芒属=ススキなので「芒」1字で足り、2字は冗長ぎみ。芒果連想を避ける目的なら芒草も可。	短縮するなら「芒」(単字、衝突なし)。
+mops	扁鼻犬	3_compound	犬品種パグ;鼻の扁平な小型犬	OK		
+mul	马	2_superordinate	ウマ科の雑種ラバ;驴字がなく马の上位字で代替	NG	马は ĉeval(ウマ)・onagr・kulan が保持済みで、ラバをウマそのものと同一表示にするのは過大代用。さらに『驴字がなく』は事実誤認で azen=驴 が使用中(骡のみパレット外)。	驴马(ロバ×ウマの交雑を成分連結で。順序を马驴とする案も可)
+mungot	蛇狸	3_compound	マングース科;蛇獴=蛇を狩る小型食肉獣	OK	参考: 獴はパレット外で代替は妥当。PIV herpest(マングース属)=兽 との粒度差は残る。	
+neri	竹桃	3_compound	キョウチクトウ属=夾竹桃。竹葉+桃花	OK	夹竹桃の圧縮で、竹葉+桃花という命名動機を保持。衝突なし。	
+nervur	脉	2_superordinate	翅脈・葉脈・肋材の総称=脈	OK		
+nigel	黑种草	3_compound	クロタネソウ=黒種草。黑+种+草	OK	种=sem(種子)なので黑种草=「黒い種の草」と字義どおりに読め、中国正名とも一致。	
+nikotian	烟茄	3_compound	ナス科タバコ属。tabak=烟+茄	OK	tabak=烟、solan=茄の鏡像。tabakと別字列で識別可。	
+niktereu^t	狸	1_family	イヌ科タヌキ;語釈どおり狸(kastor海狸と別)	OK		
+noktu	猫头鹰	1_family	コキンメフクロウ。strig=猫头鹰と同科	OK		
+nufar	河骨	3_compound	コウホネ=河骨。sambuk=接骨と同型の名	OK	語釈が「コウホネ(河骨)」と明示、sambuk=接骨と同型。萍蓬草(中国名)は萍・蓬ともパレット外。	
+oksalid	醋浆草	3_compound	カタバミ=酢漿草。okzal=酸模と区別	OK	酢浆草の酢がパレット外のため醋(vinagr/acet)で代替、浆=ber系。実名準拠で可。	
+oksikok	蔓苔桃	3_compound	ツルコケモモ=蔓苔桃。和名の字をそのまま	NG	苔は musk(コケ)、桃は persik の固定字で、ツルコケモモ(Vaccinium)は蘚類でも桃でもない。和名の字面をそのまま写した結果「蔓-コケ-モモ」と読め、系統標識にならない。同属の mirtel=果、近縁の frag/rubus/framb/kurm=果 という既定の漿果運用からも外れる。	蔓果 (sarment=蔓 + 果、衝突なし。「つる性の漿果」で蔓越莓の実態とも合致し2字に収まる)
+oleandr	西竹桃	3_compound	セイヨウキョウチクトウ。西+竹桃(neri)	OK	西=okcident、neri=竹桃との対も明確。	
+oleastr	银枣	3_compound	グミ科ホソバグミ(沙枣)。銀白の葉+枣状果	OK	沙(沙枣)はパレット外。枣=daktil/jujub/zizif の実果字、银=arĝentで銀白葉を表し透明。	
+onisk	潮虫	3_compound	等脚目ワラジムシ;中国名潮虫(湿所の虫)	OK		
+onobrik	刺豆	3_compound	マメ科イガマメ。刺のある莢+豆	OK	刺=pik/dorn、豆=マメ科字。イガマメの鏡像として妥当。	
+orangutang	红猩	3_compound	ヒト科;中国名红毛猩猩。goril猩と同群	NG	PIV層に同一種の orangutan=猴 が既存。红猩を入れると同じオランウータンが猴/红猩の二重描画になる(双子語根の不整合)。	orangutan(PIV)も红猩へ同期して統一する(goril=猩, c^impanz=黑猩と揃う)。同期しないなら orangutang=猴 に踏襲
+osmant	桂花	3_compound	モクセイ属=桂花。桂(lau^r既用)+花	OK	桂単字は cinam/lau^r が既占。桂花はモクセイ属の中国正名で最適。	
+osmund	王齿	3_compound	ゼンマイ=reĝofiliko。王(reĝ)+齿(羊齿)	NG	齿の単字は dent(歯)の固定字であり、シダの固定字は2字の羊齿。正本では filik/aspleni/psilot/azol/ceterak/driopterid/nefrolepid/polistik 等16語根すべてが羊齿を保持しており、齿1字に縮めた例は皆無。王齿は「王の歯」と読め、シダ標識が消える。	王羊齿 (reĝ=王 + filik=羊齿。pteridofit=羊齿植 という3字前例あり、衝突なし)。区別が不要なら他属同様「羊齿」でも既定に合う。
+otid	鸟	2_superordinate	ノガン科に該当字なし。鳥の上位字	OK		
+otus	猫头鹰	1_family	ミミズクはフクロウ科。strigと同科	OK		
+pac^ul	香荷	3_compound	シソ科パチョリ。香料+荷(薄荷=シソ科)	OK	荷は ment=薄荷 の後半だけを抜いた拘束字(荷単独の語根は無い)。majoran が花薄荷と2字を保つのに対し不揃いだが、荷は他に占有者がおらず衝突しないので可。藿(广藿香)はパレット外。	
+padus	串樱	3_compound	総状の桜=grapolĉerizo。串(grapol)+樱	OK	grapol=串、ĉeriz/meriz/sakur=樱。grapolĉerizoの正確な鏡像。	
+pakiderm	厚皮兽	3_compound	旧分類の厚皮動物;厚+皮+兽の鏡像	OK		
+palinur	刺龙虾	3_compound	イセエビ科Palinurus属;棘のある龙虾	NG	langust(=langusto)と完全同義の同一動物なのに刺虾/刺龙虾で表示が割れる。	langustと同一表示に統一(刺龙虾に揃えるのを推奨)
+palmiped	游鸟	3_compound	游禽類=水掻きで泳ぐ鳥。游+鸟	OK		
+palumb	鸽	1_family	モリバトはColumba属。kolombと同属	OK		
+pandion	鱼鹰	3_compound	ミサゴ=魚を捕る猛禽(fis^aglo)。鱼+鹰	OK		
+parenkim	软质	3_compound	柔組織・実質。软(柔)+质(質・組織)の透明2字	OK		
+pastinak	伞	1_family	セリ科パースニップ。dauk/karum=伞と同科	OK		
+patel		4_none	主義は膝蓋骨。貝字を当てると解剖義を誤描画	OK	未対応でも害は無いが、膝 は既使用(genu=膝, poplit=膝窝)・骨 も既使用(ost=骨)で、膝骨/膝盖骨 はいずれも未使用(衝突なし)。新字ゼロで割当可能。	（任意）膝骨。ただし 膝 は palette.tsv(上位400+生物字の抜粋)には未掲載なので、採用時はマスター実績(genu=膝)で新字でないことを再確認のこと
+patrini	女花	3_compound	オミナエシ=女郎花。ligustr=女贞と同型	OK	女は接尾辞 -in(女性)および femin/ginek の固定字なので「女の花」と読める。女郎花の圧縮としては許容範囲、ligustr=女贞と同型で衝突なし。	
+pavian	犬猴	3_compound	オナガザル科ヒヒ属;犬面のサル(cynocephalus)	OK		
+pekari	美洲猪	3_compound	ペッカリー科;新大陸のイノシシ類(rea美洲に倣う)	OK		
+pelargoni	天葵	3_compound	テンジクアオイ=天竺葵。天+葵	OK	竺はパレット外なので天竺葵の圧縮として妥当(葵=malv系)。中国語の天葵(Semiaquilegia)と誤友になる点のみ留意。nandin=天竹とは字列が別。	
+pentatom	龟虫	3_compound	カメムシ科=亀虫。cim=臭虫と区別	OK		
+perikarp	果皮	3_compound	果皮。karpel=心皮に倣う透明2字	OK	果=frukt、皮=haŭt/kortik。karpel=心皮と同型の術語一致。	
+plates	比目鱼	1_family	プレイスはカレイ科の基準属。同科表示	OK		
+platikodon	铃草	3_compound	キキョウ科の鐘形花。铃(konval=铃兰)+草	OK	桔梗の桔はパレット外。铃単字は未使用(konval=铃兰)なので衝突なし、鐘形花の描写として透明。	
+plot	鲤	1_family	ローチはコイ科。karp/karas/ciprinと同科	NG	階層逆転。PIVで ploto は rutelo(Rutilus属)の一種と明記されるが、その親語根 rutel は既に=鱼。さらに同亜科の leu^cisk=鱼 / idus=鱼 / aland=鱼 / bram=鱼(語釈はいずれも「コイ科」)と、本プロジェクトの 鲤 は karp/ciprin/karas(コイ・フナ)の3語根に限定運用されている。種語根 plot だけを 鲤 に上げると、属語根 rutel より下位が高精度という逆転が生じ、かつ読者には「鯉」と誤読される。	鱼（親語根 rutel=鱼 および同群 leu^cisk/idus/aland/bram=鱼 に合わせる）
+poliandri	多雄	3_compound	一雌多雄;多+雄(stamen雄蕊の雄)	OK		
+poligini	多雌	3_compound	一雄多雌;多+雌(androgin雌の字)	OK		
+polp	触贝	3_compound	頭足類タコ。eledon等=贝、触腕の触を添える	OK	留意: 頭足類の字は不統一(kalmar=鱼/sepi=墨鱼/eledon=贝/arkiteŭt=贝)。ただしタコ属eledon=贝に合わせる選択は妥当。触はtuŝだがtentakl=触手/anten=触角の系で読める。全字パレット内。	
+primol	樱草	3_compound	サクラソウ=樱草。樱(sakur)+草	OK	sakur=樱と整合。报春(中国名)の报は生物用途外の一般字で、樱草の方が既存字運用に沿う。	
+pteridi	雕齿	3_compound	ワラビ=aglofiliko。雕(agl)+齿(羊齿)	NG	osmundと同じ欠陥で、齿単字は dent の固定字、シダの固定字は羊齿。加えて正本には既に pterid=羊齿(Pteris)があり、綴りの近い pteridi との識別のためにも羊齿を保った上での修飾が必要。	雕羊齿 (agl=雕 + 羊齿。衝突なし、aglofilikoの鏡像を保ちつつ pterid=羊齿 とも区別できる)
+pudel	卷毛犬	3_compound	犬の品種。巻き毛の犬=プードル。hund=犬	OK	留意: 3字だが前例603件あり。har=毛/hund=犬/卷(volv,friz,bukl)の忠実な鏡像。ただし同じ犬種のŝpic=犬(裸)と粒度が不揃い。	
+regol	冠莺	3_compound	キクイタダキは頭頂の冠羽。冠+莺(silvi系小鳥)	OK		
+reptili	爬虫	3_compound	爬虫類そのもの。sau^r=爬虫と同系	OK	留意: sau^r=爬虫が既存で完全重複。ただし両者はほぼ同義(集合名)で、本プロジェクトは重複表示を許容(菊51語根/葱5語根/贝2語根)。識別子で区別される前提なら可。	
+rezed	桂草	3_compound	モクセイソウ=木犀草。桂(木犀)+草	OK	osmant=桂花(木犀)と対で木犀草を写す。桂単字は cinam/lau^r が既占だが2字なので衝突なし。	
+rododendr	杜鹃	1_family	ツツジ属=杜鹃。azale(>>rododendro)と同表記	OK	azale=杜鹃と同形(語釈も相互参照)。kukol=鹃(カッコウ)は単字なので字列は別、衝突しない。	
+rosmar	海象	3_compound	セイウチ=海象。鰭脚類、牙が象状	OK	良好。mar=海/elefant=象で海豹(fok)・海豚(delfen)・海参・海葵の系に整合。エス語同義marĉevaloの直訳(海马)はタツノオトシゴと衝突するため回避されており正しい。	
+rotang	棕藤	3_compound	籐=つる性ヤシ。棕(palm)+藤(つる)	OK	palm/arek=棕、heder=藤。藤単字は heder が既占なので2字化は正当で、籐の実態(つる性ヤシ)とも一致。	
+rubekol	红莺	3_compound	赤い喉のコマドリ。红+莺(najtingal=夜莺と同科)	OK		
+s^enopraz	葱	1_family	ネギ属。cep/pore/aliumと同じ葱	OK		
+saksifrag	石草	3_compound	ユキノシタ科。岩上に生える草(saxi=石)	OK		
+salikari	柳草	3_compound	ミソハギ科。柳状葉(salicaria)の水辺の草	OK		
+sandr	鱼	2_superordinate	ペルカ科。perk/labrakも鱼	OK		
+santolin	菊	1_family	キク科ワタスギギク属。菊が科の既定字	OK		
+semperviv	长生草	3_compound	ベンケイソウ科多肉。中国名长生草(semper=长生)	OK	【参考】同科krasul=厚叶なので科的一貫では厚叶系。ただし长生草はSempervivumの実在中国名で长(long)+生(nask/bio)と分解も通るため可。	
+seneci	菊	1_family	キク科キオン属。菊が科の既定字	OK		
+sepal	杯瓣	3_compound	萼片=kalik(杯)の片。petal=瓣に対応	OK	良好。kalik=杯/petal=瓣の正確な鏡像。korol=花冠/stamen=雄蕊とも整合。衝突なし。	
+setari	粟	1_family	イネ科アワ属。粟=Setaria italica	OK	【参考】panic(キビ属)が既に裸粟を保持。粟=Setaria italicaが本来なので共有は許容(むしろ是正)だが、将来分別するならsetariが粟の本命でpanic側を動かす筋。	
+sevrug	鱼	2_superordinate	ホシチョウザメ。sturgと同科で鱼	OK		
+sikomor	桑榕	3_compound	クワ科イチジク属。イチジクグワ=桑+榕(fikus)	OK		
+silf	气精	3_compound	四大精霊の空気の精。nimf/niks=精	OK		
+silikv	角果	3_compound	アブラナ科の長角果。aken=瘦果と同型	OK		
+sirfed	花蝇	3_compound	ハナアブ科=flormus^o(花蠅)	OK		
+sisirinki	草	2_superordinate	アヤメ科の小草本。同科iksiも草	OK	【参考】アヤメ科に科字は存在しない(irid=花/iris=虹膜)。同科iksiも裸草なので家風どおり。	
+skabioz	续草	3_compound	マツムシソウ科。同科dipsak=续断の草	OK	【参考】续の固定義はdaŭr/kontinuで、dipsak=续断を既知でないと解読不能。中国名蓝盆花は盆がパレット外、山萝卜は萝卜=大根の誤信号となるため续草が現実的最善。	
+skarol	菊菜	3_compound	キク科の葉菜(広葉エンダイブ)。endivi=苦菜	NG	日本語の「菊菜」は春菊(Glebionis coronaria)の一般名。同じキク科の葉菜であるため誤同定リスクが極めて高い偽友。またskarolは語釈上larĝfolia endivio(endivi=苦菜の広葉変種)なのに、苦菜との親子関係が字面から消える。	大苦菜(grand=大が確定・未使用。endivi=苦菜の広葉変種として鏡像化。2字に収めたい場合でも菊菜は避け、苦菜系派生を推奨)
+skink	石龙子	3_compound	トカゲ亜目スキンク科=中国名石龙子	NG	同一動物の別綴り語根 scink が既に 龙ˢ(エクスポート実測: scink/o=龙ˢ/o, scink/ed/oj=龙ˢ/科ᴱ)。skinkoとscinkoは同語の綴り異体であり、別表示にすると脳梁不整合になる。提案自身がalc^emil/alkemilに同一表示(羽衣草)を与えている原則と矛盾。なお龙はvaran/igvan/agam/akonti等トカゲ類の共通字。	龙(scink=龙ˢと同表示に統一し識別子で区別)。石龙子を採るなら scink 側も同時に 石龙子 へ揃えること。
+skolopendr	百足	3_compound	多足類オオムカデ=百足(和名むかで)	OK	良好かつ体系的。cent=百でkilopod=千足(ムカデ綱)/miriapod=万足/diplopod=双足の既存シリーズに完全整合し、和名むかで(百足)とも一致。衝突なし。	
+skorzoner	菊	1_family	キク科フタナミソウ属。菊が科の既定字	OK		
+solidag	菊	1_family	キク科アキノキリンソウ属	OK		
+spavin	马瘤	3_compound	馬の飛節に生じる骨瘤。veruk=瘤の系	OK	良好。ĉeval=马、veruk/tumor=瘤、gajl=树瘤と同型。生物でなく馬の疾患だが瘤系で正しく処理。	
+spirant		4_none	本義は摩擦音。植物義はspirantes=兰が担う	OK	未対応が正解。spir=息が既に存在し spirant は spir+ant で描画される。植物義(ネジバナ)は別語根 spirantes=兰 が既に担当済み(マスター7514行)。追加割当は不要。	
+spirogir	藻	1_family	緑藻アオミドロ。ulv/fuk等と同じ藻	OK	【参考】藻はalg/klorel/volvok/kombu等20語根が裸割当の家風で、属レベルでも裸藻が標準。分別したい場合のみ中国名水绵(水/绵ともパレット内・未使用)が候補。	
+sprot	鱼	2_superordinate	ニシン科。klupe/sardinも鱼	OK		
+stau^d	多草	3_compound	多年生植物=多年草。多(多年)+草	OK	【参考】年(jar=年)はパレット一覧外のため「多年草」にできず、多草はやや不透明(多=mult/plur/poli)。代替がないので現状可。	
+sterled	鱼	2_superordinate	コチョウザメ。sturgと同科で鱼	OK		
+stigm	柱头	3_compound	めしべの柱頭。stilus=花柱の先端	OK	【参考】kapitel(建築の柱頭)が既に柱头を保持しており完全重複。ただし同一比喩の同義語であり、脉(arteri/vejn/angi/vaskul等7件)・果(frukt/rezult/konsekvenc)と同水準の既存重複範囲内。stilus=花柱との柱共有も整合。	
+stilus	花柱	3_compound	めしべの花柱。花+柱の標準名	OK		
+stirak	香木	3_compound	エゴノキ科。安息香を採る芳香樹	OK	【参考】香木は総称的で他の芳香樹(santal等は裸木)と競合しうる。ただし安がパレット外で安息香が組めず、野茉莉も茉が外のため現実的な最善。	
+taksus	红豆杉	3_compound	イチイ科の針葉樹。中国名红豆杉(杉系)	NG	豆はマメ科の固定字(fab/fazeol/vign等18語根が裸豆)であり、針葉樹の名の内部に埋め込むと形態素固定描画の原則に反して科の誤信号を出す。加えて3字で冗長。	红杉(abi=杉/pice=云杉/cug=铁杉のX+杉系列に完全整合。未使用。sekvoj=木なのでセコイアとの系内衝突もなし)
+tamarik	河柳	3_compound	ギョリュウ科。河岸の柳状樹=柽柳/河柳	OK		
+tanacet	菊	1_family	キク科ヨモギギク属(蓬菊)	OK		
+tapir	鼻猪	3_compound	バク。長い鼻と豚状の体(delfen=海豚型)	OK	留意: 貘がパレット外のため代替。rostr=鼻/apr=猪で構成は透明。バクは奇蹄目で猪(偶蹄)と系統は遠いが、delfen=海豚と同じ形態鏡像の方式で許容範囲。	
+tarantul	毒蛛	3_compound	コモリグモ科。arane=蛛に毒性を添える	OK	良好。arane=蛛(terafoz/argiop/opilion等と同群)。狼蛛の狼はパレット外のため毒が最善。衝突なし。	
+tegument	被皮	3_compound	外被・種皮。derm=皮/ektoderm=外皮と区別	OK	留意: 被はpasiv/atという文法形態素の字(被=at)。被皮は「at+皮」とも読めるが、derm=皮/epiderm=表皮/ektoderm=外皮とは衝突せず、語義(外被)は透明。代案の盖はパレット外、种皮は植物義のみで劣る。現案維持で可。	
+tink	鲤	1_family	テンチはコイ科。karp/karasと同じ鲤	OK	注意（不合格ではない）: 語釈が「コイ科」なので 鲤 は形式上成立するが、現行の 鲤 は karp/ciprin/karas のみで、他のコイ科(bram/idus/rutel/foksen/alburn=白鱼)は 鱼 に置かれている。plot を 鱼 に倒すなら tink も 鱼 に揃える選択肢がある。	
+tremol	山杨	3_compound	ヤナギ科ポプラ属。ヤマナラシ=山杨	OK	【参考】同属popl(ポプラ属)は裸柳で、杨は現状buks=黄杨の内部にしか現れない。同属なのに字が繋がらない点は残る。trem=颤はパレット一覧外のため颤柳は不可、山柳は中国語でSalixとなるので山杨が最善。	
+trikin	旋毛虫	3_compound	線虫センモウチュウ=旋毛虫そのもの	OK	良好。filari=丝虫/strongil=圆虫/askarid=回虫/teni=条虫の既存X虫シリーズに完全整合し、中国語正名とも一致。	
+trikosant	瓜	1_family	ウリ科カラスウリ属。瓜が科の既定字	OK	【参考】瓜はmelon/kukurb/brioni/momordik等14語根が裸割当の家風で問題なし。分別したい場合のみ鸦瓜(烏瓜、未使用)が候補。	
+tripanosom	锥虫	3_compound	寄生性鞭毛虫トリパノソーマ=中国名锥虫	OK	良好。中国語正名。锥はstrobil/paniklの円錐義で整合、衝突なし。	
+tritur	水蛙	3_compound	イモリ科。salamandr=蛙、水生を示す	OK	留意: salamandr/ran/batrak/hil/aksolotl が全て蛙(裸)なので、水で水生イモリを差別化する構成は整合的。hidr/akv=水、水母/水牛/水仙の前例あり。有尾類である点は尾字でも表現可能だが現案で可。	
+tropeol	金莲	3_compound	ノウゼンハレン科。金蓮花、蓮状の葉	OK		
+tuberos	月香	3_compound	チューベロース=月下香。夜に強く香る	OK		
+tusilag	菊	1_family	キク科フキタンポポ属	OK		
+uleks	豆	1_family	マメ科ハリエニシダ属。豆が科の既定字	OK	【参考】豆はantilid/koronil/ononid等18語根が裸割当の家風で可。ハリを立てるなら刺豆(pik/dorn=刺、未使用)が候補。	
+urogal	松鸡	3_compound	オオライチョウ=松鸡。松+鸡(tetr=琴鸡型)	OK		
+vakcini	石南果	3_compound	ツツジ科(erik=石南)の液果=コケモモ属	OK		
+valerian	草	2_superordinate	オミナエシ科。同科valerianel/nardostakiも草	OK	【参考】同科valerianel/nardostakiが裸草、オミナエシ科に科字なし。缬草の缬はパレット外。家風どおりで可。	
+vanel	鸟	2_superordinate	タゲリはチドリ科。karadri/pluviも鸟	OK		
+vertag	鼠犬	3_compound	=melhundo。mel=鼠+hund=犬の鏡像	OK	良好。mel=鼠(マスク実測)、hund=犬。melhundoの正確な鏡像。イタチ科=鼠はユーザー裁定済み方針とも一致。	
+vistari	豆藤	3_compound	=visterio。マメ科フジ属のつる	OK	【参考】visteriと同一masterになるが、gajak/gvajak=愈疮木、kazuar/kasuar=鹤鸵、tragopog/tragopogon=菊と同じ異綴同義対の確立作法どおり。	
+visteri	豆藤	3_compound	マメ科フジ属。豆(科)+藤(フジ)	OK		
+vombat	袋熊	3_compound	有袋類ウォンバット=袋熊。袋=有袋字	OK	良好。marsupi/poŝ/sak=袋、urs=熊。kanguru/makrop=袋鼠の系で中国語正名と一致。	
+zantoksil	山椒	3_compound	ミカン科サンショウ属=山椒。piper=椒	OK		
+zebu	瘤牛	3_compound	コブウシ=瘤牛。bov=牛と同属	OK	良好。bov=牛、veruk=瘤。中国語正名。	
+zini	菊	1_family	キク科ヒャクニチソウ属	OK		
+zizel	黄鼠	3_compound	リス科ジリス属=中国名黄鼠。talp=地鼠回避	OK	良好。talp=地鼠/sciur=松鼠と衝突せず、Spermophilusの中国語正名(黄鼠)そのもの。	
