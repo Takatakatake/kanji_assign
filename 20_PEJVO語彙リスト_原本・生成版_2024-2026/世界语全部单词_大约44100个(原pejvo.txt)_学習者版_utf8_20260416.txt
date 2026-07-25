@@ -18387,7 +18387,7 @@ kolomb/ej/o:ハト小屋,鳩舎（きゅうしゃ）
 kolomb/et/o:小鳩
 kolomb/i/an/o:コロンビア人##偽分解
 kolomb/id/o:子鳩,若鳩
-Kolomb/in/o:【劇】コロンビーナ（イタリア仮面劇の登場人物、快活な若い女中）##偽分解
+Kolomb/in/o:【劇】コロンビーナ（イタリア仮面劇の登場人物、快活な若い女中）##偽分解(衝突語)
 kolomb/in/o:雌鳩
 Kolomb/i/o:【国名】コロンビア（南アメリカ）##偽分解
 kolomb/o:{Ｂ}【鳥】ハト（鳩）（ハト科の鳥の総称）
@@ -25946,7 +25946,7 @@ monat/e:月に
 monat/fin/o:月末
 monat/komenc/o:月初め
 monat/o:{Ｂ}（暦の）月;一か月
-MONAT/O:【Ｅ】FEL発行の月刊総合誌##偽分解
+MONAT/O:【Ｅ】FEL発行の月刊総合誌##偽分解(衝突語)
 monat/pag/o:月賦
 mon/avid/a:金にがつがつした,金銭欲の強い
 mon/avid/o:金銭欲
@@ -26077,7 +26077,7 @@ mont/a goril/o:【動】マウンテンゴリラ
 Montajn/o:【人名】=Montanjo（モンテーニュ）
 mont/a klimat/o:山岳気候
 Montanj/o:【人名】モンテーニュ（フランスの思想家、1533-1592）
-Mont/an/o:【地名】モンタナ州（米国）##偽分解
+Mont/an/o:【地名】モンタナ州（米国）##偽分解(衝突語)
 mont/an/o:山地民
 mont/ar/a gvid/ist/o:山岳ガイド,山案内人
 mont/ar/an/o:山地の住民,山地民
