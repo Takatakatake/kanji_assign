@@ -46167,13 +46167,13 @@ burser/ac/oj⟦木ᴮᵁ/科ᴬ/oj⟧:【植】【PIV】Fam. (Familio) (Burserac
 bus^/ac^/o⟦口/劣/o⟧:【PIV】Mals^ata nomo de bus^o: tenu la bus^ac^on, vi sovag^a besto, k dormu! .
 but/il/o⟦培/具/o⟧:【PIV】Laborilo, uzata por buti, konsistanta el maldika metala plato lau^larg^e fiksita sur longa tenilo.
 but/⟦丁/⟧:【化】【PIV】Pref. (Prefikso), montranta kvarkarbonan c^enon en la nomoj de hidrokarbonoj. Vd et/, pent/.
-but/adien/o⟦培/adien/o⟧:【化】【PIV】C 4 H 6, nesaturita hidrokarbono kun du duoblaj ligoj, antau^anto de artefarita kau^c^uko: 1,3-butadieno (CH 2 =CH-CH=CH 2).##偽分解(PIV正式分解)##過細分解 b/u/t/adien/o
+but/adien/o⟦丁/adien/o⟧:【化】【PIV】C 4 H 6, nesaturita hidrokarbono kun du duoblaj ligoj, antau^anto de artefarita kau^c^uko: 1,3-butadieno (CH 2 =CH-CH=CH 2).##偽分解(PIV正式分解)##過細分解 b/u/t/adien/o
 1-but/an/ol/o⟦1-丁/an/ol/o⟧:【化】【PIV】CH 3-CH 2-CH 2-CH 2-OH. Sin. (sinonimo) n-butanolo.##偽分解(PIV正式分解)##過細分解 1-b/u/t/a/n/o/l/o
 2-but/an/ol/o⟦2-丁/an/ol/o⟧:【化】【PIV】CH 3-CH 2-CH(OH)-CH 3. Sin. (sinonimo) sek-butanolo.##偽分解(PIV正式分解)##過細分解 2-b/u/t/a/n/o/l/o
 but/an/on/o⟦丁/an/on/o⟧:【化】【PIV】Ketono (metil-etil-ketono), CH 3-CH 2-CO-CH 3, tre grava solvanto simila al acetono.##偽分解(PIV正式分解)##過細分解 b/u/t/a/n/o/n/o
 but/en/o⟦丁/en/o⟧:【化】【PIV】C 4 H 8, nesaturita hidrokarbono kun unu duobla ligo: metil-2-buten-1-tiolo, CH 3-C(CH 3)=CH-CH 2-SH, estas la fetora odoraj^o de mefito k de lumdifektita biero.##偽分解(PIV正式分解)##過細分解 b/u/t/e/n/o
 2-but/en/al/o⟦2-丁/en/al/o⟧:【化】【PIV】CH 3-CH=CH-CHO, akrodora, incita likvo uzata kiel industria krudmaterialo. Sin. (sinonimo) krotonalo.##偽分解(PIV正式分解)##過細分解 2-b/u/t/e/n/a/l/o
-but/in/o⟦培/in/o⟧:【化】【PIV】C 4 H 6, nesaturita hidrokarbono kun unu triobla ligo.##偽分解(PIV正式分解)##過細分解 b/u/t/in/o
+but/in/o⟦丁/in/o⟧:【化】【PIV】C 4 H 6, nesaturita hidrokarbono kun unu triobla ligo.##偽分解(PIV正式分解)##過細分解 b/u/t/in/o
 izo/but/an/ol/o⟦等ᴵ/丁/an/ol/o⟧:【化】【PIV】CH 3-CH(CH 3)-CH 2-OH. Sin. (sinonimo) 2-metilpropanolo.##偽分解(PIV正式分解)##過細分解 izo/b/u/t/a/n/o/l/o
 ter-but/an/ol/o⟦ter-丁/an/ol/o⟧:【化】【PIV】1,1-dimetiletanolo, (CH 3) 3 C-OH, kvarkarbona alkoholo, uzata kiel krudmaterialo en multaj kemiaj sintezoj.##偽分解(PIV正式分解)##過細分解 ter-b/u/t/a/n/o/l/o
 buter/a⟦黄油/a⟧:【PIV】1 Rilata al butero: butera acido (buterata acido). 2 Entenanta buteron: butera sau^co.

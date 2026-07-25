@@ -35,7 +35,7 @@ $chemInWord = @{ 'sen/kaf/e/in/a'=$true; 'kaze/in/o'=$true; 'te/foli/in/o'=$true
 # 系統化学(IUPAC)アルキル語幹→天干【2026-07-17 甲乙丙基システム=ユーザー裁定】: 中国化学命名 metil甲基/etil乙基/propil丙基/butan丁烷。
 # 全て一级(甲乙丙丁戊己庚辛壬癸)。met=置(meti置く)/et=小(指小)/okt=八/di=神 等の非化学義は「化学タグ$isSysChem + 化学接尾隣接($alkylSuf)」の二重ゲートで弁別。烷/烯/苯は一级外ゆえ -an/-en/fen はlatin。既存 et/oksi→乙・met/oksi→甲(下)の系列拡張。
 $alkylStem = @{ 'met'='甲'; 'et'='乙'; 'prop'='丙'; 'but'='丁'; 'pent'='戊'; 'heks'='己'; 'hept'='庚'; 'okt'='辛'; 'non'='壬'; 'dek'='癸' }
-$alkylSuf  = @('an','il','en','on','ol','anol','anal','anon')   # アルキル語幹に続く化学接尾(この隣接時のみ天干化)
+$alkylSuf  = @('an','il','en','on','ol','anol','anal','anon','in','adien')   # アルキル語幹に続く化学接尾(この隣接時のみ天干化)。2026-07-25 第27回続20: 'in'(-yne三重結合)/'adien'(-adiene二重結合2つ)を追加=but/in/o(ブチン)・but/adien/o(ブタジエン)が培(【農】土寄せ)で描画される不整合を是正。兄弟のet/in/o(アセチレン)は既に乙で、but系のみ取り残されていた。二重ゲート($isSysChem)は維持ゆえ女性接尾-in-(patr/in/o母 等)には不発火=影響は学習者版2語のみ(学術版0)を事前実測
 # 元々: $forceUnt=@() (krom/o→金・titan/o→金・bor/o→矿 は homonym。krom/at→金ᴷᴹ/盐ᴬ は化学塩へ)
 # segment単位ラテン: 語中の固有名morphemeのみ未対応(latin)保持。語全体ではなくその分節だけ漢字化しない。Japana落松·T-胞·E-屋(語/ハイフン単位)の分節版。非mapped=被覆を水増ししない。§7
 $segLat = @{ 'gram/negativ/a'=@('gram'); 'gram/pozitiv/a'=@('gram'); 'deci/bel/o'=@('bel'); 'melo/mani/o'=@('melo'); 'di/en/o'=@('di')   # di/en/o(diene=ジエン): 化学di-(=二)は神(dio=神)の偽の友→di分節のみラテン(en=-ene接尾もラテン)。di/in/o=女神(di神+in女)は神維持=正(2026-06-29 WSL同期で dien→di/en 露出)。 # lip/om/o は脂肪lip→脂の構造ルール($s -eq 'lip')へ移行(2026-06-28・lip/瘤→脂/瘤に透明化)。 人名Gram(グラム染色)=固有名→gram分節のみラテン(否/正は維持)。重量gram(克)·記録gram(图)とは別。2026-06-21。 deci/bel/o: bel=音響単位ベル(人名Bell由来)→bel分節のみラテン保持(deci=分ᴰᶜは維持=キロオームkilo/om型)。bela美(beautiful)とは別の偽の友。2026-06-27 WSL同期で decibel/o→deci/bel/o 露出。 melo/mani/o: melo=希melos(音楽)結合形→ラテン保持(mani=狂は維持)。melo/o虫ᴹ(アナグマ=甲虫属Meloe)とは同綴別語の偽の友。melodi调ᴹ(旋律)は別root。2026-06-28
