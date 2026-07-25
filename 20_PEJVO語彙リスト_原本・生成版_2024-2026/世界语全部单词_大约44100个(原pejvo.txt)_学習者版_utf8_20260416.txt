@@ -62026,7 +62026,7 @@ Infer/o:【PIV】La submondo de la mortintoj; en pluraj religioj, loko de eterna
 ##重複語Inkvizici/o:【キ】【史】【PIV】Eklezia institucio k tribunalo, starigita por serc^i k jug^i herezulojn k sorc^istojn, kiujn g^i punis helpe de la civilaj regantoj, i.a. (interalie, inter aliaj) per brulmortigo: unu viaspeca pastro ploris, ke la Inkvizicio perdis sian forton .
 ##重複語Inkvizitor/o:【PIV】Membro de Inkvizicia tribunalo: la granda Inkvizitoro malpermesis al la pastroj fumi tabakon . -> Torkemado.
 Ion/o:【PIV】Helena vira nomo, i.a. (interalie, inter aliaj) de la mita praavo de la Ionianoj. / 【PIV】Ioniano.
-##重複語Ion/i/an/o:【PIV】Ano de unu el la c^efaj helenaj triboj, log^antaj c^iuflanke de la Egea Maro, i.a. (interalie, inter aliaj) en Atiko.
+##重複語Ion/i/an/o:【PIV】Ano de unu el la c^efaj helenaj triboj, log^antaj c^iuflanke de la Egea Maro, i.a. (interalie, inter aliaj) en Atiko.##偽分解(PIV正式分解)
 ion/i/o:【化】【PIV】(ark. (arkaismo, arkaisme)) Radioaktiva elemento, Io, atomnumero 90, atommaso 230, izotopo de torio.##偽分解(衝突語)
 ##重複語Iran/a:【PIV】Rilata al Irano: la Iranaj lingvoj (hindeu^ropaj lingvoj, parolataj nun au^ pasintece en Irano k la c^irkau^aj regionoj). Vd Persujo.
 Iris/o:【PIV】Kurierino de la dioj, kun c^ielarka skarpo.
@@ -62187,9 +62187,9 @@ pretori/o:【PIV】= pretorejo.
 procion/o:【動】【PIV】G. (Genro) (Procyon) de N Amerikaj rabobestoj, similaj al malgranda urso, kun longa vosto markita de koloraj ringoj, havantaj la kutimon lavi en akvo sian mang^aj^on antau^ ol mang^i g^in. Sin. (sinonimo) lavurso.
 Prosper/o:【PIV】Vira nomo, i.a. (interalie, inter aliaj) de la duko en «La Tempesto» de S^ekspiro.
 Prote/o:【PIV】Helena duondio, kiu povis alpreni c^iajn formojn.
-##重複語Protest/ant/o:【キ】【PIV】Kristano, apartenanta al unu el la eklezioj au^ komunumoj, originintaj el la Reformacio.
-##重複語Protest/ant/a:【PIV】Rilata al Protestoj: Protesta preg^ejo. Vd evangelia.
-##重複語Protest/ant/ism/o:【PIV】Tuto de la doktrinoj, eklezioj k komunumoj, kiuj starig^is ekde la 16a jc (jarcento) kontrau^ la romkatolikismo. Vd Kalvinano, Luterano; -> amis^o, anglikanismo, baptisto, menonito, metodismo, remonstranto, valdano.
+##重複語Protest/ant/o:【キ】【PIV】Kristano, apartenanta al unu el la eklezioj au^ komunumoj, originintaj el la Reformacio.##偽分解(衝突語)
+##重複語Protest/ant/a:【PIV】Rilata al Protestoj: Protesta preg^ejo. Vd evangelia.##偽分解
+##重複語Protest/ant/ism/o:【PIV】Tuto de la doktrinoj, eklezioj k komunumoj, kiuj starig^is ekde la 16a jc (jarcento) kontrau^ la romkatolikismo. Vd Kalvinano, Luterano; -> amis^o, anglikanismo, baptisto, menonito, metodismo, remonstranto, valdano.##偽分解
 ##重複語Providenc/a:【PIV】Rilata al la Providenco: Providenca hazardo.
 ram/o:【史】【PIV】1 Trabo, fortikigita c^e unu ekstremo, k uzata de antikvuloj, por rompi muron de sieg^ata urbo. Sin. (sinonimo) murrompilo. Vd rostro. 2【技】 Mas^ino en formo de granda stampilo, uzata por enbati firme en la grundon fostojn, pavims^tonojn ks (kaj simile, kaj similaj): vapormova, aerprema, elektra ramo.
 ##重複語Ramadan/o:【イスラム】【PIV】La nau^a monato de la islama jaro, dum kies c^iuj taghoroj la islamanoj devas strikte fasti. Vd Karesmo.
@@ -62200,7 +62200,7 @@ rodan/o:【化】【PIV】(ark. (arkaismo, arkaisme)) Radiko de rodanida acido =
 ##重複語Rom/a:【史】【キ】【PIV】Rilata al Romo: la Romaj monumentoj; la Roma kamparo; por esti Nerono, al vi mankas nur la Roma regno ; la Roma politiko, disciplino, virto; la Roma Eklezio; (min. (minuskle)) Romaj ciferoj (I, V, X, L, C, D, M, kontraste al la Eu^ropaj); (min. (minuskle)) Roma fasono, tiparo (klasika au^ rekta).
 Roman/o:【PIV】1 Civitano de Romo: municipoj fonditaj de la Romanoj ; (f (figurasence)) mi nun ne volas resti Dano, mi ankau^ apartenas al la Romanoj . 2 Log^anto de Romo: Epistolo al la Romanoj. 3 (ark. (arkaismo, arkaisme), maj. (majuskle) au^ min. (minuskle)) Homo, parolanta latinidan lingvon: slavoj ofte posedas en E. pli bonan stilon, ol germanoj au^ Romanoj . / 1 Literatura eposa proza verko, konsistanta el longa rakonto pri image elpensitaj au^ arang^itaj faktoj: li ne estis amanto de la anglaj romanoj pri guvernantinoj ; biografia, aventura, detektiva, sciencfikcia romano; nigra romano (antau^e kun fantomoj, rabistoj ks (kaj simile, kaj similaj), nun kun gangsteraj perfortaj^oj); mantelponarda romano (kiel «La Tri Musketeroj»). Vd fabelo, felietono, historio, novelo. 2 Mezepoka rakonto, plejofte versa, pri la fabelaj aventuroj de kavalira heroo: la romanoj de la Tablo Ronda; la romano de Gralo; (ironie) la romano de Renardo. 3 (f (figurasence)) Rakonto, plena de neatenditaj okazaj^oj; pli-malpli vers^ajna rakonto: lia vivo estis vera romano; la plej rimarkinda el c^iuj romanoj .##偽分解(衝突語)
 Roman/a:【PIV】(maj. (majuskle) au^ min. (minuskle)) Rilata al la antikvaj Romanoj: la Romana cemento (hidrau^lika); la Romana (latinida) fundamento de nia lingvo . Rim. (Rimarko) Pro la eblaj konfuzoj kun roman estas pli bone konservi la komencan majusklon c^e Romano, Romana.##偽分解(衝突語)
-##重複語Rom/i/an/o:【PIV】Ano au^ log^anto de Romio: Saul-Pau^lo estis Romiano.
+##重複語Rom/i/an/o:【PIV】Ano au^ log^anto de Romio: Saul-Pau^lo estis Romiano.##偽分解
 Roman/ist/o:【PIV】Specialisto pri la latinidaj lingvoj.##偽分解(衝突語)
 ##重複語Rus/land/an/o:【PIV】Regato de Rusio 2 au^ civitano de Rusio 3 (ne nepre ruso): la kongreson mi salutas duoble: kiel E-isto k kiel Ruslandano .
 ##重複語Rus/i/an/o:【PIV】Regato de Rusio 2 au^ civitano de Rusio 3 (ne nepre ruso): la kongreson mi salutas duoble: kiel E-isto k kiel Ruslandano .
@@ -62233,7 +62233,7 @@ Sivert/o:【PIV】Sveda fizikisto (R. Sievert, 1898−1966).
 Skot/o:【PIV】Anglalingva poeto k verkisto de historiaj romanoj (W. Scott, 1771−1832).
 ##重複語Sodom/ism/o:【PIV】= sodomio.
 ##重複語Somal/i/an/o:【PIV】Log^anto de Somalio.
-##重複語Sovet/i/a:【PIV】Rilata al Sovetio au^ al g^ia registaro: la Sovetia ekonomio; la Sovetia politiko de paca kunekzistado.
+##重複語Sovet/i/a:【PIV】Rilata al Sovetio au^ al g^ia registaro: la Sovetia ekonomio; la Sovetia politiko de paca kunekzistado.##偽分解
 Sozi/o:【PIV】Helena vira nomo, i.a. (interalie, inter aliaj) de persono en komedio de Plau^to, en kiu Merkuro alprenas lian aspekton, tiel kreante multajn konfuzojn.
 ##重複語Spinoz/ism/o:【哲】【PIV】Panteisma doktrino, lau^ kiu ekzistas nur unu senlima substanco, kies atributoj estas spaco k penso, k kies s^ang^ig^antaj formoj estas la individuoj.
 Sumer/a:【PIV】Rilata al Sumero au^ Sumeranoj: la Sumera religio, arto, juro; la Sumera rakonto de la Diluvo.
