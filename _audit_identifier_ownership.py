@@ -114,16 +114,14 @@ for ed, inj in [('学習者版', '漢字注入_学習者版_20260620.txt'),
     total_new += len(new)
 
 # ---------------------------------------------------------------------------
-# [2] sep 表示の一意性 (2026-07-25 第27回続21 追加)
-#   _homonym_disp.ps1 の AddSegId は、同一群に *同じ実行内で* 追加される他の sep 分節を
-#   $used に積まない(sidecar の既存メンバーしか見ない)。その結果、語根とその -i- 拡張形が
-#   同じ識別子を得て、別語が同一の漢字列になることがある。
-#   既知4群: 四ᵀ(tetr/tetra)・专ᴷ(krat/krati)・病ᴾ(pati/pat)・律ᴺ(nomi/nom)。
-#   うち実際に語衝突を生むのは 专ᴷ(au^tokrato↔au^tokratio) と 病ᴾ(psikopato↔psikopatio) の2組。
-#   tetr/tetra は同一形態素の綴り違い、律ᴺ は衝突語を生まないため無害。
-#   ※ 是正には識別子を伸ばす必要があり 学習者版で約27語の表示が変わる。
-#     実害2語対 vs churn27語 のトレードオフゆえ、現状は検出のみ(ユーザー裁定待ち)。
-KNOWN_SEPDUP = set(['四ᵀ', '专ᴷ', '病ᴾ', '律ᴺ'])
+# [2] sep 表示の一意性 (2026-07-25 第27回続21 追加 / 続22 で根因を是正済み)
+#   かつて _homonym_disp.ps1 の AddSegId は、同一群に *同じ実行内で* 追加される他の sep 分節を
+#   $used にも per-head 位置ベース判定にも積んでいなかった(sidecar の既存メンバーしか見ない)。
+#   その結果、語根とその -i- 拡張形が同じ識別子を得て、別語が同一の漢字列になっていた。
+#   4群が重複: 四ᵀ(tetr/tetra)・专ᴷ(krat/krati)・病ᴾ(pati/pat)・律ᴺ(nomi/nom)。
+#   2026-07-25 続22 に runUsed/runSegs/runMemo を導入して是正 → 重複0群。
+#   基準値は **0**。1群でも出たら AddSegId の払い出し記録が壊れている。
+KNOWN_SEPDUP = set()
 segs = {}
 dup = {}
 with io.open('_homonym_disp.tsv', encoding='utf-8') as f:

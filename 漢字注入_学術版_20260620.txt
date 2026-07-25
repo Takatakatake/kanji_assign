@@ -56131,7 +56131,7 @@ tetani/o:【医】【PIV】Sindromo, karakterizata de kontrakturaj atakoj, trafa
 tetanos/o⟦破伤风/o⟧:【医】【PIV】Infekta malsano, kau^zata de la toksino de la tetanosa bacilo (Clostridium tetani) k karakterizata de ege doloraj kontrakturoj.
 Tetis/o:【PIV】1 Diino, filino de Nereo k patrino de Ah^ilo. 2 Mardiino, patrino de la Oceanidinoj.
 tetr/⟦四ᵀ/⟧:【化】【PIV】Pref. (Prefikso), montranta, ke sakarido konsistas el 4-karbona c^eno: eritrozo estas tetrozo. Vd but/.
-tetra/⟦四ᵀ/⟧:【化】【PIV】Pref. (Prefikso) montranta, ke substanco estas karakterizata de, au^ konsistas el, kvar samaj atomoj, funkcioj, molekuloj ks (kaj simile, kaj similaj): tetrafluorido, tetrationato; tetramero, tetrapeptido, tetrasakarido. Vd mono/, tri/, oligo/, poli/. ->...
+tetra/⟦四ᵀᴬ/⟧:【化】【PIV】Pref. (Prefikso) montranta, ke substanco estas karakterizata de, au^ konsistas el, kvar samaj atomoj, funkcioj, molekuloj ks (kaj simile, kaj similaj): tetrafluorido, tetrationato; tetramero, tetrapeptido, tetrasakarido. Vd mono/, tri/, oligo/, poli/. ->...
 tetragon/a⟦方ᵀ/a⟧:【PIV】= kvadrata 2.
 tetragoni/o⟦草ᵀᴳ/o⟧:【植】【PIV】1 G. (Genro) (Tetragonia el aizoacoj) de c^. (c^irkau^) 85 sp-oj (specioj) de herboj k arbustetoj, kus^aj au^ grimpaj, sukulentaj, el la tropikaj k subtropikaj regionoj de la S hemisfero k ankau^ el N Ameriko; precipa sp.: T. tetragonioides, s^atata legomo, kun longaj, kus^aj tigoj k dikaj, karnecaj folioj, kiuj estas utiligataj kiel spinaco sub la nomo «Nov-Zelanda spinaco». 2 T. tetragonioides.
 tetragram/o⟦四字/o⟧:【聖】【PIV】La nomo de la hebrea Dio, skribita per kvar literoj (JHVH). -> Javeo, Jehovo.
@@ -57834,7 +57834,7 @@ neg^/bor/ul/o⟦雪/钻/者/o⟧:【PIV】Neg^a galanto.
 s^rau^b/bor/i⟦螺/钻/i⟧:【PIV】= s^rau^binigi.
 s^ton/bor/ul/o⟦石/钻/者/o⟧:【PIV】Kn (Kolektiva nomo) de plantoj kun radiko s^ajne traboranta rokon, precipe kritmo k saksifrago.
 verm/bor/it/a⟦虫ⱽ/钻/受/a⟧:【PIV】(pp (se paroli pri) ligno) Borita de vermoj.
-tetra/borat/o⟦四ᵀ/矿盐/o⟧:【化】【PIV】Salo de tetra borata acido, H 2 B 4 O 7.
+tetra/borat/o⟦四ᵀᴬ/矿盐/o⟧:【化】【PIV】Salo de tetra borata acido, H 2 B 4 O 7.
 fluor/borat/o⟦气ᶠ/矿盐/o⟧:【化】【PIV】Salo de fluor borata acido, HBF 4.
 mar/bord/a⟦海/岸/a⟧:【生態】【地理】【PIV】Rilata al marbordo: zonoj au^ etag^oj supermarborda (super la nivelo de la plej altaj tajdoj, sed elmetata al la marinfluo), mezmarborda (intertajda), inframarborda (inter la nivelo de la plej malaltaj tajdoj g^is c^. (c^irkau^) -40 m). Vd apudmara, c^emara.
 labor/bors/o⟦劳/市ᴮ/o⟧:【PIV】Domo, en kiu la sindikatoj organizas siajn kunvenojn, centrigas la metiajn kursojn, siajn bibliotekojn, informejojn ktp (kaj tiel plu).

@@ -2842,7 +2842,7 @@ au^t/o/grafi/o⟦自ᴬ/o/志ᴳ/o⟧:【印】肉筆印刷術##偽分解##過�
 au^t/o/graf/o⟦自ᴬ/o/记ᴳ/o⟧:{Ｏ}自筆,自筆原稿,=memskribaj^o##偽分解##過細分解 a/u^/t/o/graf/o
 au^t/o/industri/o⟦车/o/业/o⟧:自動車産業
 au^t/o/korn/o⟦车/o/角ᴷ/o⟧:【車】警笛,クラクション,=hupo
-au^t/o/krati/o⟦自ᴬ/o/专ᴷ/o⟧:{Ｏ}【政】専制政治##偽分解##過細分解 a/u^/t/o/krati/o
+au^t/o/krati/o⟦自ᴬ/o/专ᴷᴵ/o⟧:{Ｏ}【政】専制政治##偽分解##過細分解 a/u^/t/o/krati/o
 au^t/o/krat/ism/o⟦自ᴬ/o/专ᴷ/主义/o⟧:【政】専制主義##偽分解##過細分解 a/u^/t/o/krat/ism/o
 au^t/o/krat/o⟦自ᴬ/o/专ᴷ/o⟧:{Ｏ}専制君主##偽分解##過細分解 a/u^/t/o/krat/o
 au^tokton/o⟦原住/o⟧:=pralog^anto（原住民）
@@ -25236,7 +25236,7 @@ metr/o⟦米/o⟧:{Ｂ}【単】メートル（長さの単位，m）;メート�
 metr/o en sekund/o⟦米/o 内 秒/o⟧:【理】メートル毎秒（速度の単位，m/s）
 metro/lini/o⟦地铁/线/o⟧:【交】地下鉄線
 metr/o/logi/o⟦米/o/学ᴸᴳ/o⟧:【学】度量衡学,計測学##偽分解
-metr/o/nom/o⟦计ᴹ/o/律ᴺ/o⟧:{Ｏ}【楽】メトロノーム##偽分解##過細分解 metr/o/n/o/m/o
+metr/o/nom/o⟦计ᴹ/o/律ᴺᴼ/o⟧:{Ｏ}【楽】メトロノーム##偽分解##過細分解 metr/o/n/o/m/o
 metro/o⟦地铁/o⟧:【交】地下鉄
 metropol/o⟦都/o⟧:{Ｏ}（植民地に対して）本国;（国・地方の）中心都市,大都市,メトロポリス,>>c^efurbo
 metro/staci/o⟦地铁/站/o⟧:【交】地下鉄駅
@@ -29620,10 +29620,10 @@ pat/kuk/o⟦锅/糕/o⟧:【料】ホットケーキ;=krespo（クレープ）
 Patm/o:【地名】パトモス島（ギリシア）
 pat/o⟦锅/o⟧:{Ｂ}【料】フライパン
 pat/o⟦锅/o⟧:【遊】（チェスの）ステールメイト,手詰まり
-pat/o/gen/a⟦病ᴾ/o/生ᴳ/a⟧:【医】病原性の,=malsaniga##偽分解##過細分解 p/a/t/o/gen/a
-pat/o/logi/a⟦病ᴾ/o/学ᴸᴳ/a⟧:病理学の;病的な##偽分解##過細分解 p/a/t/o/logi/a
-pat/o/logi/o⟦病ᴾ/o/学ᴸᴳ/o⟧:{Ｏ}病理学##偽分解##過細分解 p/a/t/o/logi/o
-pat/o/log/o⟦病ᴾ/o/学家/o⟧:{Ｏ}病理学者##偽分解##過細分解 p/a/t/o/log/o
+pat/o/gen/a⟦病ᴾᴬ/o/生ᴳ/a⟧:【医】病原性の,=malsaniga##偽分解##過細分解 p/a/t/o/gen/a
+pat/o/logi/a⟦病ᴾᴬ/o/学ᴸᴳ/a⟧:病理学の;病的な##偽分解##過細分解 p/a/t/o/logi/a
+pat/o/logi/o⟦病ᴾᴬ/o/学ᴸᴳ/o⟧:{Ｏ}病理学##偽分解##過細分解 p/a/t/o/logi/o
+pat/o/log/o⟦病ᴾᴬ/o/学家/o⟧:{Ｏ}病理学者##偽分解##過細分解 p/a/t/o/log/o
 patos/a⟦情ᴾᵀ/a⟧:熱情的な,感動的な
 patos/o⟦情ᴾᵀ/o⟧:{Ｏ}【芸】情熱的表現,感動的表現,>>bombasto,>>emfazo,>>vervo;【哲】パトス
 pat/o/ten/il/o⟦锅/o/持/具/o⟧:フライパンの柄
@@ -53139,7 +53139,7 @@ paternalism/o:【PIV】Doktrino au^ konduto, lau^ kiu la mastro sola regas la so
 pati/o⟦病ᴾ/o⟧:【医】【PIV】Kn (Kolektiva nomo) de malsanoj, trafantaj la saman organon, funkcion ks (kaj simile, kaj similaj): nefrito, nefrozo estas nefropatioj; medol patio, mjelo patio, neu^ro patio, osto patio, psiko patio. -> patologio.
 patienc/o⟦草ᴾᴬ/o⟧:【植】【PIV】Sp. (Specio) de rumekso (Rumex patientia) el E Eu^ropo k U Azio, plurjara herbo kun grandaj, de ovalaj g^is lancetformaj folioj, kiu estas uzata kiel spinaco.
 patn/o⟦梁ᴾ/o⟧:【PIV】C^iu el la horizontalaj traboj, kus^antaj sur la gabloj k la trusoj k portantaj la c^evronojn: firsta, meza, baza patno.
-pat/o/genez/o⟦病ᴾ/o/源ᴳ/o⟧:【医】【PIV】Studo pri la mekanismoj, lau^ kiuj estig^as la malsanoj.##偽分解##過細分解 p/a/t/o/genez/o
+pat/o/genez/o⟦病ᴾᴬ/o/源ᴳ/o⟧:【医】【PIV】Studo pri la mekanismoj, lau^ kiuj estig^as la malsanoj.##偽分解##過細分解 p/a/t/o/genez/o
 patognomoni/a:【医】【PIV】(pp (se paroli pri) simptomo, patologia au^ laboratoria trovaj^o) Decide diagnoziga de malsano: la permikroskopa trovo de korpoj de Negri en cerbaj c^eloj estas patognomonia de rabio.
 patr/in/i⟦父/女/i⟧:【PIV】Prizorgi, kiel patrino: s^i patrinis al tiu nova revuo.
 patr/o/logi/o⟦父/o/学ᴸᴳ/o⟧:【PIV】Scienca studo pri la ekleziaj Patroj.##偽分解
@@ -53995,7 +53995,7 @@ psik/o/pati/ul/o⟦心ᴾˢ/o/病ᴾ/者/o⟧:【PIV】Homo en stato de psikopat
 psikedel/a⟦迷幻/a⟧:【医】【心】【PIV】Rilata al psikedelismo.
 psikedel/ism/o⟦迷幻/主义/o⟧:【PIV】Stato de maldorma song^o, kun impreso de ekspansio de la psiko, kau^zata de la uzo de halucinogenaj substancoj.
 psikiatr/i/a⟦心医/i/a⟧:【PIV】Rilata al psikiatrio: psikiatria hospitalo.
-psik/o/pat/o⟦心ᴾˢ/o/病ᴾ/o⟧:【PIV】= psikopatiulo.##偽分解##過細分解 psik/o/p/a/t/o
+psik/o/pat/o⟦心ᴾˢ/o/病ᴾᴬ/o⟧:【PIV】= psikopatiulo.##偽分解##過細分解 psik/o/p/a/t/o
 psil/o:【PIV】J^onglisto, kiu dresas serpentojn.
 psil/ed/oj⟦psil/科ᴱ/oj⟧:【動】【PIV】Fam. (Familio) (Psyllidae) de malgrandaj insektoj el la ordo de hemipteroj, subordo de sternorinkoj, kies inoj k virseksuloj havas 4 membranecajn flugilojn, la malantau^ajn pli malgrandajn; ili parazitas sur vaskulplantoj, i.a. (interalie, inter aliaj) fruktarboj, kiujn ili grave damag^as.
 psilofit/o⟦草ᴾᶠ/o⟧:【植】【PIV】G. (Genro) (Psilophyton el psilofitacoj) el la psilofitopsidoj, aspektanta kiel psiloto.
@@ -56131,10 +56131,10 @@ tetani/o:【医】【PIV】Sindromo, karakterizata de kontrakturaj atakoj, trafa
 tetanos/o⟦破伤风/o⟧:【医】【PIV】Infekta malsano, kau^zata de la toksino de la tetanosa bacilo (Clostridium tetani) k karakterizata de ege doloraj kontrakturoj.
 Tetis/o:【PIV】1 Diino, filino de Nereo k patrino de Ah^ilo. 2 Mardiino, patrino de la Oceanidinoj.
 tetr/⟦四ᵀ/⟧:【化】【PIV】Pref. (Prefikso), montranta, ke sakarido konsistas el 4-karbona c^eno: eritrozo estas tetrozo. Vd but/.
-tetra/⟦四ᵀ/⟧:【化】【PIV】Pref. (Prefikso) montranta, ke substanco estas karakterizata de, au^ konsistas el, kvar samaj atomoj, funkcioj, molekuloj ks (kaj simile, kaj similaj): tetrafluorido, tetrationato; tetramero, tetrapeptido, tetrasakarido. Vd mono/, tri/, oligo/, poli/. ->...
+tetra/⟦四ᵀᴬ/⟧:【化】【PIV】Pref. (Prefikso) montranta, ke substanco estas karakterizata de, au^ konsistas el, kvar samaj atomoj, funkcioj, molekuloj ks (kaj simile, kaj similaj): tetrafluorido, tetrationato; tetramero, tetrapeptido, tetrasakarido. Vd mono/, tri/, oligo/, poli/. ->...
 tetragon/a⟦方ᵀ/a⟧:【PIV】= kvadrata 2.
 tetragoni/o⟦草ᵀᴳ/o⟧:【植】【PIV】1 G. (Genro) (Tetragonia el aizoacoj) de c^. (c^irkau^) 85 sp-oj (specioj) de herboj k arbustetoj, kus^aj au^ grimpaj, sukulentaj, el la tropikaj k subtropikaj regionoj de la S hemisfero k ankau^ el N Ameriko; precipa sp.: T. tetragonioides, s^atata legomo, kun longaj, kus^aj tigoj k dikaj, karnecaj folioj, kiuj estas utiligataj kiel spinaco sub la nomo «Nov-Zelanda spinaco». 2 T. tetragonioides.
-tetra/gram/o⟦四ᵀ/字ᴳᴹ/o⟧:【聖】【PIV】La nomo de la hebrea Dio, skribita per kvar literoj (JHVH). -> Javeo, Jehovo.##偽分解(PIV正式分解)##過細分解 tetra/g/r/a/m/o
+tetra/gram/o⟦四ᵀᴬ/字ᴳᴹ/o⟧:【聖】【PIV】La nomo de la hebrea Dio, skribita per kvar literoj (JHVH). -> Javeo, Jehovo.##偽分解(PIV正式分解)##過細分解 tetra/g/r/a/m/o
 tetraklin/o⟦木ᵀᵀ/o⟧:【植】【PIV】G. (Genro) (Tetraclinis el kupresacoj) de nur unu sp. (T. articulata) de malgranda, dioika, dau^rafolia arbo el N Afriko, S Hispanio k Malto, forstumata por rug^e bruna ligno uzata en meblofarado k por rezino utiligata i.a. (interalie, inter aliaj) por vernisoj. -> sandarako.
 tetralen/o:【化】【PIV】Tetrahidronaftaleno, C 10 H 12, solvanto de multaj organikaj substancoj.
 tetralogi/o:【PIV】1 C^e la helenoj, aro de kvar teatraj^oj, ludataj unu post la alia (tri tragedioj k unu satirusa dramo). 2 Nomo donita al kvar operoj de Vagnero, tiritaj el la g^ermana mitologio.
@@ -57834,7 +57834,7 @@ neg^/bor/ul/o⟦雪/钻/者/o⟧:【PIV】Neg^a galanto.
 s^rau^b/bor/i⟦螺/钻/i⟧:【PIV】= s^rau^binigi.
 s^ton/bor/ul/o⟦石/钻/者/o⟧:【PIV】Kn (Kolektiva nomo) de plantoj kun radiko s^ajne traboranta rokon, precipe kritmo k saksifrago.
 verm/bor/it/a⟦虫ⱽ/钻/受/a⟧:【PIV】(pp (se paroli pri) ligno) Borita de vermoj.
-tetra/bor/at/o⟦四ᵀ/矿ᴮ/盐ᴬ/o⟧:【化】【PIV】Salo de tetra borata acido, H 2 B 4 O 7.##偽分解(PIV正式分解)
+tetra/bor/at/o⟦四ᵀᴬ/矿ᴮ/盐ᴬ/o⟧:【化】【PIV】Salo de tetra borata acido, H 2 B 4 O 7.##偽分解(PIV正式分解)
 fluor/bor/at/o⟦气ᶠ/矿ᴮ/盐ᴬ/o⟧:【化】【PIV】Salo de fluor borata acido, HBF 4.##偽分解(PIV正式分解)
 mar/bord/a⟦海/岸/a⟧:【生態】【地理】【PIV】Rilata al marbordo: zonoj au^ etag^oj supermarborda (super la nivelo de la plej altaj tajdoj, sed elmetata al la marinfluo), mezmarborda (intertajda), inframarborda (inter la nivelo de la plej malaltaj tajdoj g^is c^. (c^irkau^) -40 m). Vd apudmara, c^emara.
 labor/bors/o⟦劳/市ᴮ/o⟧:【PIV】Domo, en kiu la sindikatoj organizas siajn kunvenojn, centrigas la metiajn kursojn, siajn bibliotekojn, informejojn ktp (kaj tiel plu).
@@ -59838,7 +59838,7 @@ poli/mer/ec/o⟦多ᴾ/链节/性/o⟧:【PIV】Eco de poli meroj, kiuj diferenc
 mal/poli/mer/ig/i⟦反/多ᴾ/链节/使/i⟧:【PIV】Malkombini polimeron en mono merojn.##偽分解(PIV正式分解)
 homo/poli/mer/o⟦同ᴴ/多ᴾ/链节/o⟧:【PIV】Poli mero, konsistanta el unuspecaj meroj: polietileno estas homopolimero de etileno.##偽分解(PIV正式分解)
 hetero/poli/mer/o⟦异ᴴ/多ᴾ/链节/o⟧:【化】【PIV】Poli mero, konsistanta el plurspecaj meroj: proteinoj estas heteropolimeroj de aminacidoj.##偽分解(PIV正式分解)
-tetra/mer/o⟦四ᵀ/链节/o⟧:【PIV】Molekulo, konsistanta el kvar meroj.##偽分解(PIV正式分解)
+tetra/mer/o⟦四ᵀᴬ/链节/o⟧:【PIV】Molekulo, konsistanta el kvar meroj.##偽分解(PIV正式分解)
 tri/mer/o⟦三/链节/o⟧:【PIV】Molekulo, konsistanta el tri meroj.##偽分解(PIV正式分解)
 elast/o/poli/mer/o⟦弹ᴱ/o/多ᴾ/链节/o⟧:【化】【PIV】Poli mero, karakterizata de elastaj ecoj: kau^c^uko estas elasto mero. Rim. (Rimarko) La vortfino mero trovig^as en iuj sciencaj nomoj ne analizeblaj: izomero, mezomero k.a. (kaj aliaj)##偽分解(PIV正式分解)
 de/met/o⟦从/置/o⟧:【PIV】Ag(ad)o de iu, io demetanta: baldau^ estos la de meto de mia tabernaklo (karno); la de meto de ovoj.
@@ -60114,7 +60114,7 @@ sen/okup/a⟦无/占/a⟧:【PIV】Havanta nenian okupig^on.
 mono/ol/o⟦单/ol/o⟧:【化】【PIV】(kemio) Alkoholo kun unu hidroksila grupo (-OH).##偽分解(PIV正式分解)##過細分解 mono/o/l/o
 di/ol/o⟦二ᴰᴵ/ol/o⟧:【化】【PIV】(kemio) Alkoholo kun du hidroksilaj grupoj (-OH).##偽分解(PIV正式分解)##過細分解 d/i/o/l/o
 tri/ol/o⟦三/ol/o⟧:【化】【PIV】(kemio) Alkoholo kun tri hidroksilaj grupoj (-OH).##偽分解(PIV正式分解)##過細分解 tri/o/l/o
-tetra/ol/o⟦四ᵀ/ol/o⟧:【化】【PIV】(kemio) Alkoholo kun kvar hidroksilaj grupoj (-OH).##偽分解(PIV正式分解)##過細分解 tetra/o/l/o
+tetra/ol/o⟦四ᵀᴬ/ol/o⟧:【化】【PIV】(kemio) Alkoholo kun kvar hidroksilaj grupoj (-OH).##偽分解(PIV正式分解)##過細分解 tetra/o/l/o
 poli/ol/o⟦多ᴾ/ol/o⟧:【PIV】Alkoholo kun unu, du, tri, kvar… pluraj hidroksioj.##偽分解(PIV正式分解)##過細分解 poli/o/l/o
 gas/ole/o⟦气ᴳ/油/o⟧:【PIV】= gasojlo.
 kreozot/ole/o⟦木馏/油/o⟧:【化】【PIV】Peza frakcio de la karba gudro, uzata kiel konservilo por ligno.
@@ -60255,10 +60255,10 @@ danc/o/pas^/o⟦舞/o/步/o⟧:【PIV】C^iu el la apartaj turnig^oj au^ krurmov
 sturm/o/pas^/e⟦突ˢᵀ/o/步/e⟧:【PIV】Per tre rapida pas^o, kiel de sturmantoj.
 s^rau^b/aj^/pas^/o⟦螺/物/步/o⟧:【技】【PIV】La distanco, kiun s^rau^bo antau^eniras en unu turno.
 first/o/patn/o⟦脊ᶠ/o/梁ᴾ/o⟧:【PIV】La supra patno, sur kiu estas ambau^flanke fiksitaj la c^evronoj. Vd solivo, truso.
-fit/o/pat/o/logi/o⟦植ᶠ/o/病ᴾ/o/学ᴸᴳ/o⟧:【植】【PIV】Patologio de la plantoj.##偽分解##過細分解 fit/o/p/a/t/o/logi/o
-plant/pat/o/logi/o⟦植/病ᴾ/o/学ᴸᴳ/o⟧:【植】【PIV】Patologio de la plantoj.##偽分解##過細分解 plant/p/a/t/o/logi/o
-psik/o/pat/o/logi/o⟦心ᴾˢ/o/病ᴾ/o/学ᴸᴳ/o⟧:【医】【PIV】Studo de la psikaj malordoj.##偽分解##過細分解 psik/o/p/a/t/o/logi/o
-sem/pat/o/logi/o⟦种/病ᴾ/o/学ᴸᴳ/o⟧:【植】【PIV】Patologio de la semoj.##偽分解##過細分解 sem/p/a/t/o/logi/o
+fit/o/pat/o/logi/o⟦植ᶠ/o/病ᴾᴬ/o/学ᴸᴳ/o⟧:【植】【PIV】Patologio de la plantoj.##偽分解##過細分解 fit/o/p/a/t/o/logi/o
+plant/pat/o/logi/o⟦植/病ᴾᴬ/o/学ᴸᴳ/o⟧:【植】【PIV】Patologio de la plantoj.##偽分解##過細分解 plant/p/a/t/o/logi/o
+psik/o/pat/o/logi/o⟦心ᴾˢ/o/病ᴾᴬ/o/学ᴸᴳ/o⟧:【医】【PIV】Studo de la psikaj malordoj.##偽分解##過細分解 psik/o/p/a/t/o/logi/o
+sem/pat/o/logi/o⟦种/病ᴾᴬ/o/学ᴸᴳ/o⟧:【植】【PIV】Patologio de la semoj.##偽分解##過細分解 sem/p/a/t/o/logi/o
 bo/ge/patr/oj⟦姻/双/父/oj⟧:【PIV】= gebopatroj.
 el/patr/uj/ig/i⟦出/父/器/使/i⟧:【PIV】Ekzili.
 ge/patr/o⟦双/父/o⟧:【PIV】Patro au^ patrino.
@@ -61482,7 +61482,7 @@ di/o/tim/o⟦神/o/怕/o⟧:【PIV】Sento de respekto k obeemo al Dio: profunde
 mal/timid/a⟦反/怯/a⟧:【PIV】Havanta tro da seng^eneco, da au^daco en societo.
 ek/tint/i⟦始/鸣/i⟧:【PIV】Subite tinti: tia malbono, ke c^e c^iu, kiu tion au^dos, ektintos en ambau^ liaj oreloj .
 di/tionat/o⟦二ᴰᴵ/硫ᵀ/o⟧:【化】【PIV】Salo de ditionata acido, H 2 O 6 S 2, unu el la politionataj acidoj.##偽分解##過細分解 d/i/tionat/o
-tetra/tionat/o⟦四ᵀ/硫ᵀ/o⟧:【化】【PIV】Salo de tetrationata acido, H 2 O 6 S 4.##偽分解
+tetra/tionat/o⟦四ᵀᴬ/硫ᵀ/o⟧:【化】【PIV】Salo de tetrationata acido, H 2 O 6 S 4.##偽分解
 norm/o/tip/o⟦范/o/型/o⟧:【PIV】= prototipo 2.
 pres/tip/o⟦印/型/o⟧:【PIV】= tipo 3, 4.
 ser/o/tip/o⟦血清/o/型/o⟧:【生】【PIV】Genotipo distingebla per aglutino au^ neaglutino de c^eloj au^ molekuloj fare de sera antikorpo.
