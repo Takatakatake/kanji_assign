@@ -8538,7 +8538,7 @@ eksterm/ad/o:=ekstermo（根絶）
 eksterm/i:{Ｏ}［他］根絶する,皆殺しにする,絶滅させる,全滅させる,壊滅させる
 eksterm/ig^/i:［自］全滅する,絶滅する;壊滅する
 eksterm/ig^/o:絶滅,全滅;壊滅
-eksterm/i malbon/an kutim/on:悪習を一掃する
+eksterm/i mal/bon/an kutim/on:悪習を一掃する
 eksterm/i popol/on:人々を皆殺しにする
 eksterm/i urb/on:市を壊滅させる
 eksterm/o:皆殺し,根絶,絶滅
@@ -9914,7 +9914,7 @@ esper/ant/o:希望する人
 esperantologi/a:エスペラント学の
 esperantologi/o:エスペラント学
 esperantolog/o:エスペラント学者
-Esperant/o-movad/o:【Ｅ】エスペラント運動
+Esperant/o-mov/ad/o:【Ｅ】エスペラント運動
 Esperant/o-tip/ar/o:【情】エスペラント・フォント
 Esperant/uj/o:【Ｅ】エスペラント界
 esper/don/a:有望な,幸先（さいさき）のよい
@@ -39219,7 +39219,7 @@ s^erp/o:シェルパ（ネパールのチベット系民族の一員）
 S^etland/oj:【地名】シェトランド諸島（イギリス）
 s^i:{Ｂ}［代］彼女
 s^i/a:彼女の
-S^i/a Reg^in/a Mos^t/o:（三人称）女王陛下
+S^i/a Reg^/in/a Mos^t/o:（三人称）女王陛下
 s^ijaism/o:【イ】シーア派（の教義）,>>sunaismo
 s^ijaist/o:【イ】シーア派教徒
 s^ik/a:シックな,いきな,しゃれた,趣味の良い,>>eleganta,>>bongusta
@@ -39792,7 +39792,7 @@ tajd/land/o:【環】干潟
 tajd/o:【海】潮（の干満）,潮汐;潮流;《転》時流
 tajd/o/skal/o:【海】自記検潮計
 tajd/o/voj/o:潮路
-tajd/pov/a elektroprodukto:【環】潮力発電
+tajd/pov/a elektr/o/produkt/o:【環】潮力発電
 tajd/pov/o:【環】潮力
 tajfun/i:［自］台風が吹く
 tajfun/o:【気】台風

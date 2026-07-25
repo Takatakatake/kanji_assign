@@ -424,7 +424,7 @@ aer/o/nau^t/o⟦气/o/航/o⟧:【空】軽気球操縦士,飛行船操縦士,=f
 aer/o/plan/o⟦气/o/划/o⟧:{Ｏ}【空】飛行機,=aviadilo##偽分解##過細分解 aer/o/p/l/a/n/o
 aer/o/prem/o⟦气/o/压/o⟧:【理】気圧
 aer/o/pur/ig/il/o⟦气/o/纯/使/具/o⟧:空気清浄機
-aerosol/o:【環】エーロゾル,煙霧質
+aer/o/sol/o⟦气/o/唯/o⟧:【環】エーロゾル,煙霧質##偽分解
 aer/o/statik/o⟦气/o/静ˢ/o⟧:【理】気体静力学,>>aerodinamiko
 aer/o/stat/o⟦气/o/态/o⟧:【空】軽航空機（気球・飛行船など）,=flugbalono,>>aers^ipo,>>balono##偽分解
 aer/paf/il/o⟦气/射/具/o⟧:空気銃
@@ -8538,7 +8538,7 @@ eksterm/ad/o⟦歼/行/o⟧:=ekstermo（根絶）
 eksterm/i⟦歼/i⟧:{Ｏ}［他］根絶する,皆殺しにする,絶滅させる,全滅させる,壊滅させる
 eksterm/ig^/i⟦歼/成/i⟧:［自］全滅する,絶滅する;壊滅する
 eksterm/ig^/o⟦歼/成/o⟧:絶滅,全滅;壊滅
-eksterm/i mal/bon/an kutim/on⟦歼/i 反/良/an 习/on⟧:悪習を一掃する##偽分解
+eksterm/i mal/bon/an kutim/on⟦歼/i 反/良/an 习/on⟧:悪習を一掃する
 eksterm/i popol/on⟦歼/i 民/on⟧:人々を皆殺しにする
 eksterm/i urb/on⟦歼/i 市/on⟧:市を壊滅させる
 eksterm/o⟦歼/o⟧:皆殺し,根絶,絶滅
@@ -9914,7 +9914,7 @@ esperant/o:希望する人##偽分解(衝突語)
 esperant/o/logi/a⟦esperant/o/学ᴸᴳ/a⟧:エスペラント学の##偽分解
 esperant/o/logi/o⟦esperant/o/学ᴸᴳ/o⟧:エスペラント学##偽分解
 esperant/o/log/o⟦esperant/o/学家/o⟧:エスペラント学者##偽分解
-Esperant/o-mov/ad/o:【Ｅ】エスペラント運動##偽分解
+Esperant/o-mov/ad/o:【Ｅ】エスペラント運動
 Esperant/o-tip/ar/o:【情】エスペラント・フォント
 Esperant/uj/o:【Ｅ】エスペラント界
 esper/don/a⟦望/给/a⟧:有望な,幸先（さいさき）のよい
@@ -16629,7 +16629,7 @@ kaf/aparat/o⟦kaf/器ᴬ/o⟧:コーヒーメーカー
 kaf/arb/o⟦kaf/树/o⟧:【植】コーヒーの木
 kaf/ber/o⟦kaf/浆果/o⟧:コーヒーの実,>>kafgrajno
 kaf/brun/a⟦kaf/褐/a⟧:コーヒーブラウンの,暗い茶色の
-kafein/o:【化】カフェイン
+kaf/e/in/o:【化】カフェイン##偽分解(PIV正式分解)
 kaf/ej/o⟦kaf/所/o⟧:喫茶店;喫茶室
 kafeteri/o:カフェテリア（セルフサービスの食堂）
 kaf/grajn/o⟦kaf/粒ᴳ/o⟧:コーヒー豆
@@ -39219,7 +39219,7 @@ s^erp/o:シェルパ（ネパールのチベット系民族の一員）
 S^etland/oj:【地名】シェトランド諸島（イギリス）
 s^i⟦她⟧:{Ｂ}［代］彼女
 s^i/a⟦她/a⟧:彼女の
-S^i/a Reg^/in/a Mos^t/o:（三人称）女王陛下##偽分解
+S^i/a Reg^/in/a Mos^t/o:（三人称）女王陛下
 s^ija/ism/o⟦s^ija/主义/o⟧:【イ】シーア派（の教義）,>>sunaismo##偽分解##強語根分解
 s^ija/ist/o⟦s^ija/家/o⟧:【イ】シーア派教徒##偽分解##強語根分解
 s^ik/a⟦雅ˢ̂/a⟧:シックな,いきな,しゃれた,趣味の良い,>>eleganta,>>bongusta
@@ -39792,7 +39792,7 @@ tajd/land/o⟦潮/国/o⟧:【環】干潟
 tajd/o⟦潮/o⟧:【海】潮（の干満）,潮汐;潮流;《転》時流
 tajd/o/skal/o⟦潮/o/度ˢ/o⟧:【海】自記検潮計
 tajd/o/voj/o⟦潮/o/路/o⟧:潮路
-tajd/pov/a elektr/o/produkt/o⟦潮/能/a 电/o/产/o⟧:【環】潮力発電##偽分解
+tajd/pov/a elektr/o/produkt/o⟦潮/能/a 电/o/产/o⟧:【環】潮力発電
 tajd/pov/o⟦潮/能/o⟧:【環】潮力
 tajfun/i⟦风ᵀ/i⟧:［自］台風が吹く
 tajfun/o⟦风ᵀ/o⟧:【気】台風
@@ -50369,7 +50369,7 @@ Klau^di/o:【史】【PIV】Latina vira nomo, i.a. (interalie, inter aliaj) de R
 Klau^dian/o:【PIV】Roma poeto (c^. (c^irkau^) 370 − c^. (c^irkau^) 404).
 klavari/o⟦菌ᴷⱽ/o⟧:【植】【PIV】1 (ss (striktasence)) G. (Genro) (Clavaria el klavariacoj) de fungoj kun glathimenia bazidiujo ofte karneca, stara, bastonforma; kosmopolita g. (genro) de c^. (c^irkau^) 25 sp-oj (specioj). 2 (vs (vastasence)) Grupo de g-oj (genroj) (klavario 1 k parencaj, i.a. (interalie, inter aliaj) Ramaria), ampleksanta la fam-on (familion) klavariacoj, fungoj kun glathimenia bazidiujo koralece au^ arbece branc^a; kosmopolita fam. (familio) de c^. (c^irkau^) 500 sp-oj (specioj) el 24 g-oj (genroj); pluraj sp-oj (specioj) mang^eblaj, sed kelkaj venenaj. Sin. koralfungo.
 klavicen/o:【楽】【PIV】Instrumento kun kordoj plukataj per plumbekoj, provizita per mekanismo k klavaro. Vd spineto, virg^inalo.
-klavikord/o:【楽】【PIV】Frua klavara instrumento kun frapataj kordoj, populara de la 15a g^is la 18a jc (jarcento). Vd fortepiano, piano.
+klav/i/kord/o⟦键/i/弦/o⟧:【楽】【PIV】Frua klavara instrumento kun frapataj kordoj, populara de la 15a g^is la 18a jc (jarcento). Vd fortepiano, piano.##偽分解
 Kleant/o:【PIV】Helena vira nomo.
 klef/o:【PIV】= kleo.
 klejstogam/a⟦闭花/a⟧:【植】【PIV】(pp (se paroli pri) floro au^ florplanto) Karakterizata de fekundig^o (memfekundig^o), okazanta en ferma floro.
@@ -51030,7 +51030,7 @@ Ksantip/in/o:【PIV】Helena virina nomo, i.a. (interalie, inter aliaj) de la la
 ksantofil/o:【化】【PIV】Karotenoido, C 40 H 56 O 2, akcesora fotosinteza, flava pigmento, i.a. (interalie, inter aliaj) el folioj.
 ksantom/o⟦黄瘤/o⟧:【医】【PIV】Flava hau^ta tumoreto el lipidplenaj c^eloj.
 ksantom/oz/o⟦黄瘤/症ᴼ/o⟧:【PIV】Metabola malsano, karakterizata de apero de ksantomoj k ksantelasmoj.
-ksantoprotein/o:【化】【PIV】Flava proteino, estig^anta el ordinara proteino pro efiko de nitrata acido: ksantoproteina reakcio.
+ksant/o/protein/o⟦ksant/o/蛋白/o⟧:【化】【PIV】Flava proteino, estig^anta el ordinara proteino pro efiko de nitrata acido: ksantoproteina reakcio.##偽分解##強語根分解
 ksantosom/o⟦草ᴷˢᴬ/o⟧:【植】【PIV】G. (Genro) (Xanthosoma el arumacoj) de plurjaraj herboj kun dika au^ tubera, laktosukohava rizomo k kun grandaj ornamaj folioj; 57 sp-oj (specioj) el tropika Ameriko, kelkaj pororname kultivataj; la tuberoj de X. sagittifolium estas mang^ataj kvazau^ terpomoj. see kolokazio.
 ksen/artr/oj⟦外ᴷˢ/节ᴬᴿ/oj⟧:【動】【PIV】Ordo (Edentata, sin. (sinonimo (de latinscienca nomo)) Xenarthra) de mamuloj, sen dentoj au^ kun dentoj sen emajlo, al kiu apartenas bradipodo, dazipodo, mirmekofago. Sin. (sinonimo) edentatoj. Vd sendentuloj.##偽分解##エス的分解
 ksen/o/fob/o⟦外ᴷˢ/o/怕ᶠ/o⟧:【PIV】Homo malsanece malamanta la alilandulojn.##偽分解##強語根分解
@@ -52635,7 +52635,7 @@ oer/o:【PIV】Monero, centono de skandinava krono.
 oestr/o⟦发情/o⟧:【生】【PIV】Fiziologia stato de ina mamulo dum la maturig^o de la ovaria(j) foliklo(j) k ovolado: antau^ oestro, post oestro. -> seksardo.
 oestr/ig/a⟦发情/使/a⟧:【生】【PIV】Estiganta oestron: oestrigaj hormonoj.
 oestradiol/o:【生】【化】【PIV】Precipa oestrogeno.
-oestrogen/o:【生】【化】【PIV】(kn (kolektiva nomo)) Ovaria hormono, precipe reganta la disvolvig^on k la funkciadon de la reproduktig^aj organoj k de la mamoj c^e la inoj de mamuloj. Vd oestradiolo, oestrono.
+oestr/o/gen/o⟦发情/o/生ᴳ/o⟧:【生】【化】【PIV】(kn (kolektiva nomo)) Ovaria hormono, precipe reganta la disvolvig^on k la funkciadon de la reproduktig^aj organoj k de la mamoj c^e la inoj de mamuloj. Vd oestradiolo, oestrono.##偽分解(PIV正式分解)
 oestron/o:【生】【化】【PIV】Oksidita formo de oestradiolo, trovig^anta en la urino de gravedaj inoj, malpli efika al oestro ol oestradiolo. Sin. (sinonimo) foliklino.
 ofer/e⟦献/e⟧:【PIV】Kiel ofero: farinte sanktan promeson, li alportas ofere al la Sinjoro kriplaj^on ; multego da laboroj iris ofere por tia ideo .
 ofert/ad/o⟦供/行/o⟧:【PIV】Kvanto de varo au^ servo, kiu povas esti vendata sur unu merkato je difinita prezo: la leg^o pri ofertado k mendado. Vd proponado.
@@ -53875,7 +53875,7 @@ prokrast/ad/o⟦延/行/o⟧:【PIV】Transmeto de la plenumo de ago al alia tem
 prokrast/il/o⟦延/具/o⟧:【技】【PIV】Tempumilo, uzata por prokrasti agon: prokrastilo de fotografilo.
 prokurator/o:【史】【PIV】1 Roma administranto de la fisko. 2 Guberniestro de imperia provinco. 3 Magistratano en iuj Italiaj civitoj.
 Prokust/o:【PIV】= Prokrusto.
-prolaktin/o:【生】【PIV】Antau^hipofiza hormono, stimulanta la laktosekrecion.
+pro/lakt/in/o⟦pro/乳/in/o⟧:【生】【PIV】Antau^hipofiza hormono, stimulanta la laktosekrecion.##偽分解(PIV正式分解)
 prolamin/o:【化】【PIV】(kn (kolektiva nomo)) Vegetaj^a proteino, precipe el la unukotiledonaj plantoj, ekz. (ekzemple) tritiko, hordeo, zeo. Vd zeino.
 prolan/o:【生】【PIV】(kn (kolektiva nomo)) Hormono tre parenca al la hipofizaj gonadostimulinoj, sekreciata de la placento: prolano A k prolano B; c^e virino, prolanoj estas sekreciataj ekde la 15a tago de gravedig^o k ebligas ties fruan diagnozon.
 prolan/emi/o⟦prolan/血ᴱ/o⟧:【PIV】C^eesto k/au^ kvanto de prolano en la sango.##偽分解(PIV正式分解)
@@ -59113,7 +59113,7 @@ pend/kabl/oj⟦挂/缆/oj⟧:【PIV】S^nuroj, kiuj transmisias la pezon de la j
 sen/kadr/a⟦无/框/a⟧:【PIV】Ne provizita per kadro: senkadraj okulvitroj; senkadra spegulo.
 traduk/kadr/o⟦译/框/o⟧:【生】【PIV】Triopa grupigo de nukleotidoj en kodonojn: c^ar estas tri nukleotidoj en unu kodono, estas tri traduk kadroj.
 malt/o/kaf/o⟦麦芽/o/kaf/o⟧:【PIV】Surogato de kafo, farita el rostitaj g^ermintaj hordeograjnoj.
-sen/kafein/a⟦无/kafein/a⟧:【PIV】Preparita tiel, ke la kafeino estis ekstraktita el la kafgrajnoj.
+sen/kaf/e/in/a⟦无/kaf/e/in/a⟧:【PIV】Preparita tiel, ke la kafeino estis ekstraktita el la kafgrajnoj.##偽分解(PIV正式分解)
 brust/o/kag^/o⟦胸/o/笼/o⟧:【解】【PIV】(compages thoracis) Skeleto de la brusto, formita de la ripoj, sternumo k vertebraro. Sin. (sinonimo) brustokorbo.
 sur/kaj/e⟦上/和ᴷ/e⟧:【PIV】Trovig^ante sur la kajo: surkaje liverebla varo.
 karg/ad/kaj/o⟦货ᴷ/行/和ᴷ/o⟧:【PIV】Konstruaj^o kun surveturebla surfaco super traka au^ s^osea nivelo, por faciligi kargadon.
@@ -62067,7 +62067,7 @@ Kau^kaz/a:【PIV】Rilata al Kau^kazo: la Kau^kazaj lingvoj.
 Kazimir/o:【PIV】Vira nomo, i.a. (interalie, inter aliaj) de pluraj reg^oj de Pollando.
 ##重複語Kejns/ism/o:【PIV】La ekonomikaj teorioj k programoj de Kejnso, pli specife pledado por monaj k fiskaj programoj, difinitaj de registaro por pligrandigi la dungatecon.
 kipr/o:【PIV】Fis^o, precipe haringo, malfermita per tranc^o c^e la dorsa rando k poste salita k fumaj^ita. Vd gado.
-klement/in/o:【植】【PIV】Frukto tre simila al mandarino, sed malfrue maturig^inta, kun orang^e rug^a s^elo.##偽分解(衝突語)
+klement/in/o⟦木ᴷᴸᴱ/in/o⟧:【植】【PIV】Frukto tre simila al mandarino, sed malfrue maturig^inta, kun orang^e rug^a s^elo.##偽分解(衝突語)
 Knid/o:【史】【PIV】Urbo en Kario, kun templo de Afrodito (27°24′E, 36°41′N).
 Knut/o:【PIV】Vira nomo, i.a. (interalie, inter aliaj) de pluraj reg^oj de Danlando.
 kobe/o⟦木ᴷᴮ/o⟧:【植】【PIV】G. (Genro) (Cobaea el polemoniacoj) de grimpaj tufarbustoj kun plume kunmetaj, unuc^iraj folioj, kun unuope akselaj, grandaj floroj, karakterizataj de folieca kaliko k de klos^forma korolo 5-loba; c^. (c^irkau^) 10 sp-oj (specioj) el tropika Ameriko, i.a. (interalie, inter aliaj) la grimpa kobeo (C. scandens) kun unue verdaj, poste violbluaj floroj, indig^ena en Meksiko, pororname kultivata i.a. en mezvarmaj landoj.
