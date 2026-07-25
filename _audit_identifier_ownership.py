@@ -113,5 +113,32 @@ for ed, inj in [('学習者版', '漢字注入_学習者版_20260620.txt'),
               % (n, head, kanji, s, k, ','.join(ow)))
     total_new += len(new)
 
+# ---------------------------------------------------------------------------
+# [2] sep 表示の一意性 (2026-07-25 第27回続21 追加)
+#   _homonym_disp.ps1 の AddSegId は、同一群に *同じ実行内で* 追加される他の sep 分節を
+#   $used に積まない(sidecar の既存メンバーしか見ない)。その結果、語根とその -i- 拡張形が
+#   同じ識別子を得て、別語が同一の漢字列になることがある。
+#   既知4群: 四ᵀ(tetr/tetra)・专ᴷ(krat/krati)・病ᴾ(pati/pat)・律ᴺ(nomi/nom)。
+#   うち実際に語衝突を生むのは 专ᴷ(au^tokrato↔au^tokratio) と 病ᴾ(psikopato↔psikopatio) の2組。
+#   tetr/tetra は同一形態素の綴り違い、律ᴺ は衝突語を生まないため無害。
+#   ※ 是正には識別子を伸ばす必要があり 学習者版で約27語の表示が変わる。
+#     実害2語対 vs churn27語 のトレードオフゆえ、現状は検出のみ(ユーザー裁定待ち)。
+KNOWN_SEPDUP = set(['四ᵀ', '专ᴷ', '病ᴾ', '律ᴺ'])
+segs = {}
+dup = {}
+with io.open('_homonym_disp.tsv', encoding='utf-8') as f:
+    next(f)
+    for line in f:
+        p = line.rstrip('\n').split('\t')
+        if len(p) < 5 or not p[4]:
+            continue
+        dup.setdefault(p[4], set()).add(p[0])
+sepdup = {d: s for d, s in dup.items() if len(s) >= 2}
+newdup = [d for d in sepdup if d not in KNOWN_SEPDUP]
+print("[sep表示の一意性] 重複表示=%d群 / ★新規=%d群" % (len(sepdup), len(newdup)))
+for d in newdup:
+    print("   ★ %s <- %s" % (d, ', '.join(sorted(sepdup[d]))))
+total_new += len(newdup)
+
 print("★新規合計=%d (0が正)" % total_new)
 sys.exit(1 if total_new else 0)

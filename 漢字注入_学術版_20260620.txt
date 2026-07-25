@@ -31751,7 +31751,7 @@ prem/marmit/o⟦压/锅ᴹ/o⟧:【料】圧力鍋,=prempoto
 prem/mas^in/o⟦压/机/o⟧:【機】圧搾機,プレス機
 prem/mort/ig/i⟦压/死/使/i⟧:［他］圧し殺す,圧死させる
 prem/o⟦压/o⟧:圧力,圧迫;【理】圧力
-pre/molar/o⟦前ᴾ/臼/o⟧:【解】小臼歯,=antau^molaro
+premolar/o⟦臼ᴾ/o⟧:【解】小臼歯,=antau^molaro
 prem/pens/o⟦压/思/o⟧:強迫観念,=obsedo
 prem/pingl/i⟦压/针ᴾ/i⟧:［他］押しピンで止める
 prem/pingl/o⟦压/针ᴾ/o⟧:押しピン,画鋲（がびょう）,=desegnonajlo
@@ -58963,7 +58963,7 @@ hiper/hipofiz/ism/o⟦超/垂体/主义/o⟧:【医】【PIV】Troa au^ nesufic^
 hipo/hipofiz/ism/o⟦亚/垂体/主义/o⟧:【医】【PIV】Troa au^ nesufic^a funkciado de hipofizo.
 pale/o/histologi/o⟦古ᴾᴬ/o/织学/o⟧:【PIV】Scienco pri la fosiliaj histoj.
 antau^/histori/o⟦前/史/o⟧:【PIV】= prahistorio 2 k 3.
-pre/histori/o⟦前ᴾ/史/o⟧:【PIV】= prahistorio 2 k 3.
+prehistori/o⟦史ᴾ/o⟧:【PIV】= prahistorio 2 k 3.
 proto/histori/o⟦原ᴾᵀ/史/o⟧:【PIV】1 Transira periodo inter prahistorio k historio, kiam ekzistis nur nerektaj skribaj dokumentoj pri la koncernaj homaj socioj. 2 La responda scienco.
 c^en/hok/o⟦链/钩/o⟧:【PIV】Hoko c^e la fino de c^eno (de gruo ekz. (ekzemple)).
 fajr/o/hok/o⟦火/o/钩/o⟧:【PIV】Noc^ostango.

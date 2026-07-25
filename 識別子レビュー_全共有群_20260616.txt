@@ -4932,6 +4932,11 @@
   kripl          残ᴷᴾ        F=6     basic   
   mutil          残ᴹ         F=1     piv     
 
+【史】 3件
+  histori        史          F=32    basic   
+  anal           史ᴬ         F=2     piv     【史】年代記
+  prehistori     史ᴾ         F=1     piv     
+
 【思】 3件
   pens           思          F=49    basic   
   medit          思ᴹ         F=5     basic   
@@ -6263,6 +6268,10 @@
   pluvmetr       雨计         F=1     piv     
   pluvometr      雨计ᴾᴼ       F=1     piv     
 
+【臼】 2件
+  molar          臼          F=3     pejvo   
+  premolar       臼ᴾ         F=1     pejvo   
+
 【云】 2件
   nub            云          F=24    basic   
   nef            云ᴺᶠ        F=2     piv     【気】雲量計
@@ -6762,10 +6771,6 @@
 【餐】 2件
   restoraci      餐          F=4     basic   
   supe           餐ˢ         F=2     piv     晩餐
-
-【史】 2件
-  histori        史          F=32    basic   
-  anal           史ᴬ         F=2     piv     【史】年代記
 
 【史诗】 2件
   epope          史诗         F=2     pejvo   

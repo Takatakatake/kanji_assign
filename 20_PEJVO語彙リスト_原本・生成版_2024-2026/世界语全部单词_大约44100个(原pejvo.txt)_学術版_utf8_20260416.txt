@@ -31751,7 +31751,7 @@ prem/marmit/o:【料】圧力鍋,=prempoto
 prem/mas^in/o:【機】圧搾機,プレス機
 prem/mort/ig/i:［他］圧し殺す,圧死させる
 prem/o:圧力,圧迫;【理】圧力
-pre/molar/o:【解】小臼歯,=antau^molaro
+premolar/o:【解】小臼歯,=antau^molaro
 prem/pens/o:強迫観念,=obsedo
 prem/pingl/i:［他］押しピンで止める
 prem/pingl/o:押しピン,画鋲（がびょう）,=desegnonajlo
@@ -58963,7 +58963,7 @@ hiper/hipofiz/ism/o:【医】【PIV】Troa au^ nesufic^a funkciado de hipofizo.
 hipo/hipofiz/ism/o:【医】【PIV】Troa au^ nesufic^a funkciado de hipofizo.
 pale/o/histologi/o:【PIV】Scienco pri la fosiliaj histoj.
 antau^/histori/o:【PIV】= prahistorio 2 k 3.
-pre/histori/o:【PIV】= prahistorio 2 k 3.
+prehistori/o:【PIV】= prahistorio 2 k 3.
 proto/histori/o:【PIV】1 Transira periodo inter prahistorio k historio, kiam ekzistis nur nerektaj skribaj dokumentoj pri la koncernaj homaj socioj. 2 La responda scienco.
 c^en/hok/o:【PIV】Hoko c^e la fino de c^eno (de gruo ekz. (ekzemple)).
 fajr/o/hok/o:【PIV】Noc^ostango.
