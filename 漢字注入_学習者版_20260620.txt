@@ -2585,7 +2585,7 @@ asoci/it/o⟦联ᴬ/受/o⟧:協力者
 asoci/o⟦联ᴬ/o⟧:{Ｂ}協会,結社;結合,連合
 asonanc/i⟦韵ᴬ/i⟧:［他］【文】母音で押韻する
 asonanc/o⟦韵ᴬ/o⟧:{Ｏ}【文】母音押韻;【文】半諧音,類音
-asparag/o:{Ｏ}【植】アスパラガス
+asparag/o⟦菜ᴬˢ/o⟧:{Ｏ}【植】アスパラガス
 aspekt/e⟦显/e⟧:外見上
 aspekt/i⟦显/i⟧:{Ｂ}［自］見える
 aspekt/o⟦显/o⟧:{Ｏ}外観,見かけ
@@ -4221,7 +4221,7 @@ bov/o/stal/o⟦牛/o/马棚/o⟧:牛小屋,牛舎
 bov/o/viand/o⟦牛/o/肉/o⟧:牛肉
 Brabant/o:【地名】ブラバント州（ベルギー）
 bracelet/o⟦环ᴮ/o⟧:{Ｂ}【服】腕輪,ブレスレット
-bradip/o:{Ｏ}【動】ミユビナマケモノ（三指樹懶）（属）
+bradip/o⟦兽ᴮᴿ/o⟧:{Ｏ}【動】ミユビナマケモノ（三指樹懶）（属）
 brag^/o⟦炭ᴮ/o⟧:おき,消し炭
 brag^/uj/o⟦炭ᴮ/器/o⟧:（金属製の）火鉢
 Brahma/o:【宗】ブラフマー（ヒンドゥー教の創造神）;【仏】梵天（ぼんてん）
@@ -5921,7 +5921,7 @@ dau^r/i/pov/a⟦续/i/能/a⟧:持続可能な,=dau^rigebla
 dau^r/kur/ad/o⟦续/跑/行/o⟧:【運】持久走,長距離競走
 dau^r/o⟦续/o⟧:継続期間;持続
 David/o:【人名】ダビデ（前十世紀頃のイスラエルの王）
-dazip/o:【動】ココノオビアルマジロ（属）;《般》アルマジロ
+dazip/o⟦兽ᴰᴬ/o⟧:【動】ココノオビアルマジロ（属）;《般》アルマジロ
 de⟦从⟧:{Ｂ}［前］〜の（所有・関係）;〜から（起点・原因）;〜によって（動作の主体）
 de/admon/a arm/il/o⟦从/劝/a 武/具/o⟧:抑止兵器
 de/admon/i⟦从/劝/i⟧:［他］思いとどまらせる,〜しないよう（人を）説得する
@@ -6804,8 +6804,8 @@ digest/ig/aj^/o⟦消/使/物/o⟧:【料】ディジェスチフ,食後酒,>>ap
 digest/ig/il/o⟦消/使/具/o⟧:【薬】消化剤
 digest/o⟦消/o⟧:消化
 dig/i⟦拦/i⟧:［他］（堤防などで）せき止める
-digital/in/o:【化】ジギタリン##偽分解(PIV正式分解)
-digital/o:【植】ジギタリス
+digital/in/o⟦草ᴰᴵ/in/o⟧:【化】ジギタリン##偽分解(PIV正式分解)
+digital/o⟦草ᴰᴵ/o⟧:【植】ジギタリス
 dign/a⟦尊ᴰ/a⟧:威厳のある,堂々とした
 dign/a mort/o⟦尊ᴰ/a 死/o⟧:尊厳死,>>eu^tanazio
 dign/o⟦尊ᴰ/o⟧:{Ｏ}威厳,尊厳;品位,自尊心
@@ -8769,7 +8769,7 @@ elast/ec/lim/o⟦弹ᴱ/性/界/o⟧:【理】弾性限界
 elast/ec/o⟦弹ᴱ/性/o⟧:弾力性,柔軟性;【理】弾性
 elast/ig/i⟦弹ᴱ/使/i⟧:［他］柔軟にする
 elast/ig^/i⟦弹ᴱ/成/i⟧:［自］柔軟になる
-elateri/o:【植】テッポウウリ;【薬】エラテリウム（下剤）
+elateri/o⟦瓜ᴱᴸ/o⟧:【植】テッポウウリ;【薬】エラテリウム（下剤）
 elater/o⟦虫ᴱᴸ/o⟧:【虫】コメツキムシ（科の総称）;【植】弾糸（胞子をはじき出す糸状器官）
 elatr/o⟦虫ᴱᵀ/o⟧:=>elatero（コメツキムシ）
 el/babil/i⟦出/聊/i⟧:［他］（秘密などを）雑談で漏らす
@@ -14445,7 +14445,7 @@ hirund/vost/a papili/o⟦燕/尾/a 蝶/o⟧:【虫】キアゲハ（黄揚羽）
 his/ad/o⟦升ᴴ/行/o⟧:掲揚
 his/i⟦升ᴴ/i⟧:［他］【海】（帆を）あげる;（旗を）掲げる,=suprentiri
 his/il/o⟦升ᴴ/具/o⟧:帆綱,掲揚綱
-hiskiam/o:{Ｏ}【植】ヒヨス（属）
+hiskiam/o⟦茄ᴴ/o⟧:{Ｏ}【植】ヒヨス（属）
 hisop/o:{Ｏ}【植】ヒソップ,ヤナギハッカ;【聖】ヒソップ（その小枝を清めに用いた）
 hispan/a:スペイン（人）の
 hispan/a artis^ok/o⟦hispan/a 菜ᴬ/o⟧:【植】=kardono（カルドン）
@@ -15864,7 +15864,7 @@ inter si⟦间 己⟧:たがいに
 inter/spac/ig/i⟦间/空/使/i⟧:［他］間隔をあける
 inter/spac/o⟦间/空/o⟧:間隔,間隙,すき間
 inter/stel/a materi/o⟦间/星/a 质ᴹ/o⟧:【天】星間物質
-inter/stel/a polv/o⟦间/星/a 尘/o⟧:【天】星間塵（せいかんじん）##偽分解
+inter/stel/a polv/o⟦间/星/a 尘/o⟧:【天】星間塵（せいかんじん）
 inter/sulk/o⟦间/沟/o⟧:【農】うね（畝）
 inter/s^ang^/a⟦间/变/a⟧:交換の,交換用の
 inter/s^ang^/e⟦间/变/e⟧:交換に,引替に
@@ -16200,7 +16200,7 @@ Japan-Brit/a alianc/o⟦Japan-Brit/a 盟ᴬ/o⟧:【史】日英同盟
 japan/de/ven/a⟦japan/从/来/a⟧:日系の,日本起源の
 japan/ec/a⟦japan/性/a⟧:日本的な
 japan/esk/a⟦japan/风ᴱ/a⟧:日本趣味の;日本風の,=japanstila
-japan/esk/o⟦japan/风ᴱ/o⟧:日本趣味;【文】（短歌・俳句などの形式をまねた）日本風の作品##偽分解
+japan/esk/o⟦japan/风ᴱ/o⟧:日本趣味;【文】（短歌・俳句などの形式をまねた）日本風の作品
 japan/i/an/o⟦japan/i/员ᴬ/o⟧:日本国民
 Japan/i/o:【国名】日本（アジア）
 japan/ism/o⟦japan/主义/o⟧:日本風;【Ｇ】日本語的語法;【美】ジャポニスム
@@ -16996,7 +16996,7 @@ kan/suker/o⟦苇/糖/o⟧:ショ糖
 kant/ad/o⟦唱/行/o⟧:歌うこと,歌唱
 Kantal/o:【地名】カンタル県（フランス）
 kantarel/o⟦鸡油菌/o⟧:【菌】アンズタケ（属）
-kantarid/o:{Ｏ}【虫】ミドリゲンセイ（ツチハンミョウ科の甲虫の一種）
+kantarid/o⟦虫ᴷᴺ/o⟧:{Ｏ}【虫】ミドリゲンセイ（ツチハンミョウ科の甲虫の一種）
 kant/ar/o⟦唱/群/o⟧:歌集
 kant/art/o⟦唱/艺/o⟧:歌唱法
 kantat/o:{Ｏ}【楽】カンタータ
@@ -17846,8 +17846,8 @@ Kingstau^n/o:【地名】キングスタウン（セントビンセントの首�
 Kingston/o:【地名】キングストン（ジャマイカの首都）
 kinin/o:{Ｏ}【化】キニーネ
 kin/ist/o⟦映/家/o⟧:映画製作者,映画人
-kinkon/in/o:【化】シンコニン##偽分解(PIV正式分解)
-kinkon/o:【植】キナノキ（属）;【薬】キナ皮
+kinkon/in/o⟦木ᴷᴵᴺ/in/o⟧:【化】シンコニン##偽分解(PIV正式分解)
+kinkon/o⟦木ᴷᴵᴺ/o⟧:【植】キナノキ（属）;【薬】キナ皮
 kin/o⟦映/o⟧:{Ｂ}映画,映画制作,>>filmo
 kin/o/dram/o⟦映/o/剧ᴰ/o⟧:【映】シネドラマ,劇映画
 kin/o/klub/o⟦映/o/社ᴷ/o⟧:シネクラブ,映画研究会
@@ -35220,7 +35220,7 @@ Sansimon/o:【人名】サンシモン（フランスの社会思想家）
 san/sistem/o⟦健/系/o⟧:医療制度
 sanskrit/o:【語】サンスクリット
 san/stat/o⟦健/态/o⟧:健康状態
-santal/o:{Ｏ}【植】ビャクダン（白檀）（属）
+santal/o⟦木ˢᴬᴺ/o⟧:{Ｏ}【植】ビャクダン（白檀）（属）
 Santiag/o:【地名】サンチアゴ（チリの首都、スペインの町など）
 Santo-Doming/o:【地名】サントドミンゴ（ドミニカ共和国の首都）
 santolin/o:【植】サントリナ,ワタスギギク（属）
@@ -40142,7 +40142,7 @@ tele/komunik/il/o⟦远/传/具/o⟧:通信手段
 tele/konduk/i⟦远/导ᴷ/i⟧:［他］遠隔操縦する
 tele/kopi/i⟦远/复ᴷ/i⟧:［他］ファックスで送る,=faksi
 tele/kopi/il/o⟦远/复ᴷ/具/o⟧:ファックス機,=faksilo
-tele/kopi/o⟦远/复ᴷ/o⟧:=fakso##偽分解
+tele/kopi/o⟦远/复ᴷ/o⟧:=fakso
 tele/labor/i⟦远/劳/i⟧:［自］（インターネットなどを介して）在宅勤務する,サテライト勤務する
 telematik/o:【情】情報通信技術（通信とコンピュータによるデータ処理の融合）
 tele/metr/i⟦远/计ᴹ/i⟧:［他］（測距儀で）距離を測る;【学】遠隔測定する##偽分解
@@ -45390,7 +45390,7 @@ asklepiad/ac/oj⟦草ᴬˢ/科ᴬ/oj⟧:【植】【PIV】Fam. (Familio) (Asclep
 askorb/a:【PIV】Mll de antiskorbuta.
 asoci/ec/a⟦联ᴬ/性/a⟧:【数】【PIV】(pp (se paroli pri) duloka operacio *) Plenumanta la identaj^on a * (b * c) = (a * b) * c.
 Asok/o:【PIV】= As^oko.
-asparag/in/o:【化】【PIV】Amida aminacido, CONH 2-CH 2-CHNH 2-COOH, unu el la 20 c^efaj aminacidoj de la proteinoj, grava rezervoformo de amonio c^e plantoj, i.a. (interalie, inter aliaj) en s^osoj de asparago.##偽分解(PIV正式分解)
+asparag/in/o⟦菜ᴬˢ/in/o⟧:【化】【PIV】Amida aminacido, CONH 2-CH 2-CHNH 2-COOH, unu el la 20 c^efaj aminacidoj de la proteinoj, grava rezervoformo de amonio c^e plantoj, i.a. (interalie, inter aliaj) en s^osoj de asparago.##偽分解(PIV正式分解)
 aspart/o⟦天冬/o⟧:【化】【PIV】Radiko de aspartata acido (en kunmetaj^oj).
 aspart/at/o⟦天冬/盐ᴬ/o⟧:【化】【PIV】Salo de aspartata acido, HOOC-CH 2-CH(NH 2)-COOH, unu el la 20 c^efaj aminacidoj de la proteinoj.##偽分解(PIV正式分解)
 Aspazi/o:【PIV】Z. Helena hetajro, amikino de Periklo.
@@ -46007,7 +46007,7 @@ bov/o/vir/o⟦牛/o/男/o⟧:【PIV】1 Tau^ro kun homa kapo, en Asirio. Vd Mino
 boviste/o⟦菌ᴮⱽ/o⟧:【植】【PIV】G. (Genro) (Bovista el likoperdacoj) de bazidifungoj kun globforma, ferma bazidiujo tute senpedunkla, kiu c^e maturig^o ellasas per apeksa ostiolo la enhavon el bruna sporaro; tre disvastig^inta g. (genro) de 46 sp-oj (specioj). Vd likoperdo, polvofungoj.
 brac^/o:【史】【PIV】Speco de pantalono, portata de gau^loj, g^ermanoj k kelkaj Aziaj popoloj.
 bradi/kardi/o⟦bradi/心ᴷᴰ/o⟧:【医】【PIV】Malrapideco de la kora pulsado.##偽分解
-bradip/ed/oj⟦bradip/科ᴱ/oj⟧:【動】【PIV】Fam. (Familio) (Bradypodidae) de ksenartroj, al kiu apartenas bradipo k unau^o.
+bradip/ed/oj⟦兽ᴮᴿ/科ᴱ/oj⟧:【動】【PIV】Fam. (Familio) (Bradypodidae) de ksenartroj, al kiu apartenas bradipo k unau^o.
 bradi/pepsi/o:【医】【PIV】Malrapida k malfacila digesto.##偽分解
 brahmo/o:【宗】【PIV】Monoteisto, apartenanta al la bengala hinduismoreforma movado, fondita en la frua 19a jc (jarcento) surbaze de kritika relego de la Upanis^adoj.
 brah^in/o⟦虫ᴮᴴ̂/o⟧:【PIV】= brakino.
@@ -46542,7 +46542,7 @@ dau^k/o⟦伞ᴰ/o⟧:【植】【PIV】G. (Genro) (Daucus el apiacoj) de unu-k 
 dau^r/ad/o⟦续/行/o⟧:【PIV】Stato de io, kio plu ekzistas, ne c^esas: la dau^rado de la malbona vetero ruinigas niajn projektojn de ekskurso.
 davali/o⟦羊齿ᴰ/o⟧:【植】【PIV】G. (Genro) (Davallia el davaliacoj) de 34 sp-oj (specioj) de tropikaj k subtropikaj filikoj el la Malnova Mondo, pluraj pororname kultivataj.
 davit/o:【PIV】Turnebla gruo sur s^ipoj, destinita por surakvigi, suprenlevi k pendigi boatojn.
-dazip/ed/oj⟦dazip/科ᴱ/oj⟧:【動】【PIV】Fam. (Familio) (Dasypodidae) de ksenartroj, al kiu apartenas i.a. (interalie, inter aliaj) dazipo. Vd armadelo, tatuo, gliptodonto.
+dazip/ed/oj⟦兽ᴰᴬ/科ᴱ/oj⟧:【動】【PIV】Fam. (Familio) (Dasypodidae) de ksenartroj, al kiu apartenas i.a. (interalie, inter aliaj) dazipo. Vd armadelo, tatuo, gliptodonto.
 dazipod/ed/oj⟦兽ᴰᶻ/科ᴱ/oj⟧:【動】【PIV】Fam. (Familio) (Dasypodidae) de ksenartroj, al kiu apartenas i.a. (interalie, inter aliaj) dazipo. Vd armadelo, tatuo, gliptodonto.
 DDT:【化】【PIV】Kemia komponaj^o, dikloro-difenil-trikloro-etano, tre efika insekticido hodiau^ ne plu au^ preskau^ ne plu uzata, c^ar ne biomalkomponebla.
 debil/a⟦弱ᴰ/a⟧:【医】【PIV】1 Perdinta siajn fortojn: debila knabo, stomako, cerbo. 2【心】 Havanta inteligentecon, kiu ne atingas 70%-an inteligento-kvocienton:
@@ -47126,7 +47126,7 @@ elast/o⟦弹ᴱ/o⟧:【PIV】Grando, difinanta la gradon de elasta konduto de 
 elast/in/o⟦弹ᴱ/in/o⟧:【化】【PIV】En-k el-volvebla skleroproteino, kiu konsistigas la elastajn fibrojn de la kuniga histo, i.a. (interalie, inter aliaj) de la hau^to, sangvaskuloj k pulmoj.##偽分解(PIV正式分解)
 elast/o/mer/o⟦弹ᴱ/o/链节/o⟧:【PIV】Vd (vidu) mero.##偽分解(PIV正式分解)
 elater/ed/oj⟦虫ᴱᴸ/科ᴱ/oj⟧:【動】【PIV】Fam. (Familio) (Elateridae) de koleopteroj, plejparte kapablaj salti same kiel elatero; la larvoj de kelkaj sp-oj (specioj) faras gravan malutilon al kultivplantoj.
-elateri/in/o:【化】【PIV】Efika substanco (glukozido) de elaterio 2.##偽分解(PIV正式分解)
+elateri/in/o⟦瓜ᴱᴸ/in/o⟧:【化】【PIV】Efika substanco (glukozido) de elaterio 2.##偽分解(PIV正式分解)
 elatin/o⟦草ᴱᴺ/o⟧:【植】【PIV】G. (Genro) (Elatine el elatinacoj) de malgrandaj, unu-k plur-jaraj, rampaj, akvejaj herboj kun sidaj, kontrau^e duopaj au^ verticilaj folioj, kun malgrandaj, g^enerale unuopaj, akselaj floroj k kun kapsuloj enhavantaj pli-malpli kurbajn semojn po multaj; kosmopolita g. (genro) de 10 sp-oj (specioj), tropikaj au^ mezvarmejaj, uzataj en akvarioj.
 ele/o⟦木ᴱᴸ/o⟧:【植】【PIV】G. (Genro) (Elaeis el arekacoj) de tropikaj palmarboj, kies fruktoj (drupoj au^ «nuksoj») havas karnan, oleoric^an perikarpon, el kiu oni ekstraktas oleon; 2 sp-oj (specioj): E. guineensis (oleopalmo) el U Afriko; E. oleifera, el Ameriko.
 eledon/o⟦贝ᴱ/o⟧:【動】【PIV】G. (Genro) (Eledone) de polpoj kun unu vico de suc^iloj sur c^iu brako. Vd oktopodo.
@@ -49002,8 +49002,8 @@ hin/o⟦兽ᴴ/o⟧:【動】【PIV】1 Hibrido de c^evalo k azenino. Vd mulo. 2
 Hindustan/a:【語】【PIV】Rilata al Hindustano: la hindustana lingvo havas multajn regionajn variantojn k du oficialajn versiojn, hindian k urduan.
 hioglos/o:【解】【PIV】(M. hyoglossus) Langa muskolo, insertita sur la hioido: g^i mallevas k entiras la langon.
 hioid/o:【解】【PIV】(os hyoideum) U-forma osto, ligita per ligamentoj al temporalo k laringo, skeleto de la langobazo; mll (mallongigo) en kunmetaj^oj: hio.
-hiosciam/o⟦茄ᴴ/o⟧:【植】【PIV】Hiskiamo.
-hiosciam/in/o⟦茄ᴴ/in/o⟧:【化】【PIV】Hiskiamino.##偽分解(PIV正式分解)
+hiosciam/o⟦茄ᴴᶜ/o⟧:【植】【PIV】Hiskiamo.
+hiosciam/in/o⟦茄ᴴᶜ/in/o⟧:【化】【PIV】Hiskiamino.##偽分解(PIV正式分解)
 hip/o:【PIV】Speco de forta tranc^ilego, uzata por detranc^i branc^ojn.
 hipalag/o:【PIV】Stilfiguro, per kiu oni atribuas al vorto la kvalifikon, kiu logike konvenas al tutproksima ideo; ekz. (ekzemple) neniam sendefenda sang' makulos mian spadon (la sango de sendefenda estaj^o).
 hipeastr/o⟦草ᴴᵀ/o⟧:【植】【PIV】G. (Genro) (Hippeastrum el amarilidacoj), tre parenca al amarilido, de plurjaraj bulboherboj kun larg^e liniformaj folioj k kun grandaj, funelformaj, ofte okulfrape koloraj floroj unuopaj au^ en umbelo; 76 sp-oj (specioj) el tropika Ameriko k U Afriko, pluraj pororname kultivataj. see amarilido.
@@ -49066,7 +49066,7 @@ hirud/in/o⟦吸血虫/in/o⟧:【化】【PIV】Proteino de la salivo de hirudo
 hirud/ul/oj⟦吸血虫/者/oj⟧:【動】【PIV】Klaso (Hirudinea) de anelidoj, al kiu apartenas i.a. (interalie, inter aliaj) hirudo.
 hirund/a⟦燕/a⟧:【PIV】Rilata al hirundo(j): hirunda nesto (salangannesto).
 hirund/ed/oj⟦燕/科ᴱ/oj⟧:【動】【PIV】Fam. (Familio) (Hirundinidae) de paseroformaj birdoj, al kiu apartenas i.a. (interalie, inter aliaj) la hirundoj.
-hiskiam/in/o:【化】【PIV】Alkaloido el la nigra hiskiamo, C 17 H 23 NO 3. Sin. (sinonimo) hiosciamino.##偽分解(PIV正式分解)
+hiskiam/in/o⟦茄ᴴ/in/o⟧:【化】【PIV】Alkaloido el la nigra hiskiamo, C 17 H 23 NO 3. Sin. (sinonimo) hiosciamino.##偽分解(PIV正式分解)
 hispan/ism/o⟦hispan/主义/o⟧:【PIV】Apartaj^o de la hispana lingvo.
 hispan-amerik/an/a⟦hispan-amerik/员ᴬ/a⟧:【PIV】Rilata al la lingvo au^ civilizacio de la hispandevenaj regnoj en Ameriko.
 hispan/o/mau^r/a:【PIV】Rilata al la civilizacio au^ arto de mau^roj, log^intaj en Hispanio. Vd mozarabo, mudeh^aro.
@@ -49964,7 +49964,7 @@ kant/ac^/o⟦唱/劣/o⟧:【PIV】Triviala kanto: buba kantac^o .
 kant/ad/i⟦唱/行/i⟧:【PIV】Dau^re au^ ripete kanti.
 majstr/oj-kant/ist/oj⟦师/oj-唱/家/oj⟧:【PIV】En la germanaj urboj (14a − 16a jc (jarcento)), poetoj, kiuj verkis kantojn lau^ tre severaj artreguloj.
 kantalup/o⟦瓜ᴷᴺ/o⟧:【植】【PIV】Grupo (Cantalupensis) de kf-oj (kultivoformoj) de melono kun sulkaj fruktoj, havantaj verukan hau^ton k tre aroman karnon. Vd retmelono.
-kantarid/in/o:【化】【PIV】Toksa, kongesta substanco de kantarido, pasintece uzata en medicino por vezikplastroj k afrodizio.##偽分解(PIV正式分解)
+kantarid/in/o⟦虫ᴷᴺ/in/o⟧:【化】【PIV】Toksa, kongesta substanco de kantarido, pasintece uzata en medicino por vezikplastroj k afrodizio.##偽分解(PIV正式分解)
 Kanti/an/o:【PIV】Disc^iplo de Kantio.
 kanti/ism/o⟦kanti/主义/o⟧:【哲】【PIV】Doktrino de Kantio, kiu starigas la bazojn de kritiko de la homa racio. = kantianismo
 kantilen/o:【文】【PIV】1 Mezepoka lirika poemo. Vd balado. 2【楽】 Lirika k sentimentala kanto kun monotona ritmo.
@@ -54670,8 +54670,8 @@ sanikl/o⟦伞ˢᴺ/o⟧:【植】【PIV】G. (Genro) (Sanicula el apiacoj) de p
 sanpau^li/o⟦草ˢᴺ/o⟧:【植】【PIV】G. (Genro) (Saintpaulia el gesneriacoj) de plurjaraj herboj kun 1−2-opaj, bluaj, blankaj, rozaj au^ violetaj floroj; c^. (c^irkau^) 20 sp-oj (specioj) el E tropika Afriko, i.a. (interalie, inter aliaj) S. ionantha, pote k subvitre multe kultivata por ornamo.
 sansevier/o⟦草ˢᴬᴺ/o⟧:【植】【PIV】G. (Genro) (Sansevieria el dracenacoj) de plurjaraj sukulentaj plantoj kun au^ sen tigo, kun cilindraj au^ duoncilindraj folioj ofte blanke zebrostriaj; pli ol 100 sp-oj (specioj), el Afriko, Arabio k S Azio, pluraj pororname kultivataj.
 Sansimon/ist/o:【PIV】Ano de la Sansimonismo.
-santal/in/o:【化】【PIV】Koloraj^o, ekstraktata el santalligno.##偽分解(PIV正式分解)
-santal/ol/o:【化】【PIV】C^efa substanco de santalesenco, miksaj^o el du izomeraj seskviterpenaj alkoholoj, C 15 H 24 O.##偽分解(PIV正式分解)##過細分解 santal/o/l/o
+santal/in/o⟦木ˢᴬᴺ/in/o⟧:【化】【PIV】Koloraj^o, ekstraktata el santalligno.##偽分解(PIV正式分解)
+santal/ol/o⟦木ˢᴬᴺ/ol/o⟧:【化】【PIV】C^efa substanco de santalesenco, miksaj^o el du izomeraj seskviterpenaj alkoholoj, C 15 H 24 O.##偽分解(PIV正式分解)##過細分解 santal/o/l/o
 sap/a⟦皂/a⟧:【PIV】Rilata al sapo: sapa veziko.
 sap/s^ton/o⟦皂/石/o⟧:【PIV】Steatito.
 sapek/o:【PIV】Malmultvalora monero, uzata en Ekstrem-Oriento.

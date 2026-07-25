@@ -82,7 +82,7 @@ oktobr	cal	PEJVO	True	十月	3.77
 septembr	cal	PEJVO	True	九月	3.77
 telefon	piv	PEJVO	True	远声	5.83
 
-## [C] band=piv だが真PEJVO(<=44440・PIVタグ無)の誤ラベル語(温床) = 803件
+## [C] band=piv だが真PEJVO(<=44440・PIVタグ無)の誤ラベル語(温床) = 812件
 #   bare列=その語が漢字群のbare基本形か(Trueなら真PEJVO語が正しくbare保持=無害)
 root	行	groupkey	bareか
 acetat	173	醋盐	True
@@ -161,6 +161,7 @@ artritism	2515	节炎主义	True
 artrit	2516	节炎	True
 artropod	2517	节足	True
 aseps	2544	无腐	True
+asparag	2588	菜	False
 astigmatism	2611	散光主义	True
 astrologi	2621	星学	False
 astrolog	2622	星学家	True
@@ -204,6 +205,7 @@ biontologi	3758	生在学	True
 biosfer	3759	生球	True
 biotop	3760	生境	True
 bombiks	4035	蛾	False
+bradip	4224	兽	False
 briofit	4351	苔植	False
 brokol	4393	菜	False
 bromid	4394	卤化	True
@@ -218,6 +220,7 @@ centilitr	4812	厘升	True
 cianid	4951	青化	True
 ciklamen	5006	花	False
 dali	5796	菊	False
+dazip	5924	兽	False
 decigram	5976	分克	True
 decilitr	5977	分升	True
 decimetr	5984	分米	True
@@ -243,6 +246,7 @@ diametr	6703	通测	True
 diaskop	6713	通镜	True
 diaterm	6718	通热	True
 diatermi	6719	通温	True
+digital	6808	草	False
 diklorid	6838	二氯化	True
 diktafon	6843	述声	True
 dinamism	6889	力主义	True
@@ -263,6 +267,7 @@ ektoplasm	8622	外浆	True
 ekzistencialism	8737	存主义	True
 ekzistencialist	8738	存家	True
 ekzoterm	8747	外热	True
+elateri	8772	瓜	False
 elektrodinamism	8902	电力主义	True
 elektrolit	8920	电解	True
 elektroliz	8922	电解	False
@@ -436,6 +441,7 @@ hipotez	14431	亚题	True
 hipsipet	14434	鸟	False
 hipsometri	14435	高测	False
 hipsometr	14436	高计	False
+hiskiam	14448	茄	False
 holografi	14517	全志	True
 hologram	14518	全图	True
 homogen	14569	同生	True
@@ -464,6 +470,7 @@ izotrop	16136	等向	True
 jodid	16293	碘化	True
 jodoform	16296	碘形	True
 kanaliz	16923	渠化	True
+kantarid	16999	虫	False
 karas	17201	鲤	False
 karbonat	17236	碳盐	True
 karboni	17241	碳	False
@@ -478,6 +485,7 @@ kilocikl	17810	千环	True
 kilogram	17813	千克	True
 kilolitr	17817	千升	True
 kilovat	17821	千瓦	True
+kinkon	17850	木	False
 kinoskop	17854	映镜	True
 klinometr	18070	斜计	True
 klorid	18106	氯化	True
@@ -767,6 +775,7 @@ rosmaren	34556	香草	False
 ruditap	34640	蛤	False
 sakaroz	34886	蔗糖	True
 sakur	34911	樱	False
+santal	35223	木	False
 sekvoj	35603	木	False
 seriol	36321	鱼	False
 sferometr	36434	球计	True

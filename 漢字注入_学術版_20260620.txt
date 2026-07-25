@@ -2585,7 +2585,7 @@ asoci/it/o⟦联ᴬ/受/o⟧:協力者
 asoci/o⟦联ᴬ/o⟧:{Ｂ}協会,結社;結合,連合
 asonanc/i⟦韵ᴬ/i⟧:［他］【文】母音で押韻する
 asonanc/o⟦韵ᴬ/o⟧:{Ｏ}【文】母音押韻;【文】半諧音,類音
-asparag/o:{Ｏ}【植】アスパラガス
+asparag/o⟦菜ᴬˢ/o⟧:{Ｏ}【植】アスパラガス
 aspekt/e⟦显/e⟧:外見上
 aspekt/i⟦显/i⟧:{Ｂ}［自］見える
 aspekt/o⟦显/o⟧:{Ｏ}外観,見かけ
@@ -4221,7 +4221,7 @@ bov/o/stal/o⟦牛/o/马棚/o⟧:牛小屋,牛舎
 bov/o/viand/o⟦牛/o/肉/o⟧:牛肉
 Brabant/o:【地名】ブラバント州（ベルギー）
 bracelet/o⟦环ᴮ/o⟧:{Ｂ}【服】腕輪,ブレスレット
-bradip/o:{Ｏ}【動】ミユビナマケモノ（三指樹懶）（属）
+bradip/o⟦兽ᴮᴿ/o⟧:{Ｏ}【動】ミユビナマケモノ（三指樹懶）（属）
 brag^/o⟦炭ᴮ/o⟧:おき,消し炭
 brag^/uj/o⟦炭ᴮ/器/o⟧:（金属製の）火鉢
 Brahma/o:【宗】ブラフマー（ヒンドゥー教の創造神）;【仏】梵天（ぼんてん）
@@ -5921,7 +5921,7 @@ dau^r/i/pov/a⟦续/i/能/a⟧:持続可能な,=dau^rigebla
 dau^r/kur/ad/o⟦续/跑/行/o⟧:【運】持久走,長距離競走
 dau^r/o⟦续/o⟧:継続期間;持続
 David/o:【人名】ダビデ（前十世紀頃のイスラエルの王）
-dazip/o:【動】ココノオビアルマジロ（属）;《般》アルマジロ
+dazip/o⟦兽ᴰᴬ/o⟧:【動】ココノオビアルマジロ（属）;《般》アルマジロ
 de⟦从⟧:{Ｂ}［前］〜の（所有・関係）;〜から（起点・原因）;〜によって（動作の主体）
 de/admon/a arm/il/o⟦从/劝/a 武/具/o⟧:抑止兵器
 de/admon/i⟦从/劝/i⟧:［他］思いとどまらせる,〜しないよう（人を）説得する
@@ -6805,7 +6805,7 @@ digest/ig/il/o⟦消/使/具/o⟧:【薬】消化剤
 digest/o⟦消/o⟧:消化
 dig/i⟦拦/i⟧:［他］（堤防などで）せき止める
 digitalin/o:【化】ジギタリン
-digital/o:【植】ジギタリス
+digital/o⟦草ᴰᴵ/o⟧:【植】ジギタリス
 dign/a⟦尊ᴰ/a⟧:威厳のある,堂々とした
 dign/a mort/o⟦尊ᴰ/a 死/o⟧:尊厳死,>>eu^tanazio
 dign/o⟦尊ᴰ/o⟧:{Ｏ}威厳,尊厳;品位,自尊心
@@ -8769,7 +8769,7 @@ elast/ec/lim/o⟦弹ᴱ/性/界/o⟧:【理】弾性限界
 elast/ec/o⟦弹ᴱ/性/o⟧:弾力性,柔軟性;【理】弾性
 elast/ig/i⟦弹ᴱ/使/i⟧:［他］柔軟にする
 elast/ig^/i⟦弹ᴱ/成/i⟧:［自］柔軟になる
-elateri/o:【植】テッポウウリ;【薬】エラテリウム（下剤）
+elateri/o⟦瓜ᴱᴸ/o⟧:【植】テッポウウリ;【薬】エラテリウム（下剤）
 elater/o⟦虫ᴱᴸ/o⟧:【虫】コメツキムシ（科の総称）;【植】弾糸（胞子をはじき出す糸状器官）
 elatr/o⟦虫ᴱᵀ/o⟧:=>elatero（コメツキムシ）
 el/babil/i⟦出/聊/i⟧:［他］（秘密などを）雑談で漏らす
@@ -8899,7 +8899,7 @@ elektr/o/au^t/o⟦电/o/车/o⟧:電気自動車
 elektr/o/central/o⟦电/o/央ᶜᴸ/o⟧:発電所,=centralo
 elektr/o/dinamik/a⟦电/o/力ᴰ/a⟧:【理】電気力学の
 elektr/o/dinamik/o⟦电/o/力ᴰ/o⟧:【理】電気力学
-elektrodinamism/o⟦电力主义/o⟧:【理】動電現象;=elektrodinamiko（電気力学）
+elektr/o/dinamism/o⟦电/o/力主义/o⟧:【理】動電現象;=elektrodinamiko（電気力学）
 elektr/o/dinamometr/o⟦电/o/力计/o⟧:【理】電流力計
 elektrod/o⟦极ᴱᴸ/o⟧:【理】電極,>>katodo,>>anodo
 elektr/o/ekzekut/i⟦电/o/执/i⟧:［他］電気死刑にする
@@ -14445,7 +14445,7 @@ hirund/vost/a papili/o⟦燕/尾/a 蝶/o⟧:【虫】キアゲハ（黄揚羽）
 his/ad/o⟦升ᴴ/行/o⟧:掲揚
 his/i⟦升ᴴ/i⟧:［他］【海】（帆を）あげる;（旗を）掲げる,=suprentiri
 his/il/o⟦升ᴴ/具/o⟧:帆綱,掲揚綱
-hiskiam/o:{Ｏ}【植】ヒヨス（属）
+hiskiam/o⟦茄ᴴ/o⟧:{Ｏ}【植】ヒヨス（属）
 hisop/o:{Ｏ}【植】ヒソップ,ヤナギハッカ;【聖】ヒソップ（その小枝を清めに用いた）
 hispan/a:スペイン（人）の
 hispan/a artis^ok/o⟦hispan/a 菜ᴬ/o⟧:【植】=kardono（カルドン）
@@ -15864,7 +15864,7 @@ inter si⟦间 己⟧:たがいに
 inter/spac/ig/i⟦间/空/使/i⟧:［他］間隔をあける
 inter/spac/o⟦间/空/o⟧:間隔,間隙,すき間
 inter/stel/a materi/o⟦间/星/a 质ᴹ/o⟧:【天】星間物質
-interstel/a polv/o⟦间星/a 尘/o⟧:【天】星間塵（せいかんじん）
+inter/stel/a polv/o⟦间/星/a 尘/o⟧:【天】星間塵（せいかんじん）
 inter/sulk/o⟦间/沟/o⟧:【農】うね（畝）
 inter/s^ang^/a⟦间/变/a⟧:交換の,交換用の
 inter/s^ang^/e⟦间/变/e⟧:交換に,引替に
@@ -16200,7 +16200,7 @@ Japan-Brit/a alianc/o⟦Japan-Brit/a 盟ᴬ/o⟧:【史】日英同盟
 japan/de/ven/a⟦japan/从/来/a⟧:日系の,日本起源の
 japan/ec/a⟦japan/性/a⟧:日本的な
 japan/esk/a⟦japan/风ᴱ/a⟧:日本趣味の;日本風の,=japanstila
-japanesk/o:日本趣味;【文】（短歌・俳句などの形式をまねた）日本風の作品
+japan/esk/o⟦japan/风ᴱ/o⟧:日本趣味;【文】（短歌・俳句などの形式をまねた）日本風の作品
 japan/i/an/o⟦japan/i/员ᴬ/o⟧:日本国民
 Japan/i/o:【国名】日本（アジア）
 japan/ism/o⟦japan/主义/o⟧:日本風;【Ｇ】日本語的語法;【美】ジャポニスム
@@ -16996,7 +16996,7 @@ kan/suker/o⟦苇/糖/o⟧:ショ糖
 kant/ad/o⟦唱/行/o⟧:歌うこと,歌唱
 Kantal/o:【地名】カンタル県（フランス）
 kantarel/o⟦鸡油菌/o⟧:【菌】アンズタケ（属）
-kantarid/o:{Ｏ}【虫】ミドリゲンセイ（ツチハンミョウ科の甲虫の一種）
+kantarid/o⟦虫ᴷᴺ/o⟧:{Ｏ}【虫】ミドリゲンセイ（ツチハンミョウ科の甲虫の一種）
 kant/ar/o⟦唱/群/o⟧:歌集
 kant/art/o⟦唱/艺/o⟧:歌唱法
 kantat/o:{Ｏ}【楽】カンタータ
@@ -17847,7 +17847,7 @@ Kingston/o:【地名】キングストン（ジャマイカの首都）
 kinin/o:{Ｏ}【化】キニーネ
 kin/ist/o⟦映/家/o⟧:映画製作者,映画人
 kinkonin/o:【化】シンコニン
-kinkon/o:【植】キナノキ（属）;【薬】キナ皮
+kinkon/o⟦木ᴷᴵᴺ/o⟧:【植】キナノキ（属）;【薬】キナ皮
 kin/o⟦映/o⟧:{Ｂ}映画,映画制作,>>filmo
 kin/o/dram/o⟦映/o/剧ᴰ/o⟧:【映】シネドラマ,劇映画
 kin/o/klub/o⟦映/o/社ᴷ/o⟧:シネクラブ,映画研究会
@@ -35220,7 +35220,7 @@ Sansimon/o:【人名】サンシモン（フランスの社会思想家）
 san/sistem/o⟦健/系/o⟧:医療制度
 sanskrit/o:【語】サンスクリット
 san/stat/o⟦健/态/o⟧:健康状態
-santal/o:{Ｏ}【植】ビャクダン（白檀）（属）
+santal/o⟦木ˢᴬᴺ/o⟧:{Ｏ}【植】ビャクダン（白檀）（属）
 Santiag/o:【地名】サンチアゴ（チリの首都、スペインの町など）
 Santo-Doming/o:【地名】サントドミンゴ（ドミニカ共和国の首都）
 santolin/o:【植】サントリナ,ワタスギギク（属）
@@ -40142,7 +40142,7 @@ tele/komunik/il/o⟦远/传/具/o⟧:通信手段
 tele/konduk/i⟦远/导ᴷ/i⟧:［他］遠隔操縦する
 tele/kopi/i⟦远/复ᴷ/i⟧:［他］ファックスで送る,=faksi
 tele/kopi/il/o⟦远/复ᴷ/具/o⟧:ファックス機,=faksilo
-telekopi/o⟦远复/o⟧:=fakso
+tele/kopi/o⟦远/复ᴷ/o⟧:=fakso
 tele/labor/i⟦远/劳/i⟧:［自］（インターネットなどを介して）在宅勤務する,サテライト勤務する
 telematik/o:【情】情報通信技術（通信とコンピュータによるデータ処理の融合）
 telemetr/i⟦远计/i⟧:［他］（測距儀で）距離を測る;【学】遠隔測定する
@@ -46007,7 +46007,7 @@ bov/o/vir/o⟦牛/o/男/o⟧:【PIV】1 Tau^ro kun homa kapo, en Asirio. Vd Mino
 boviste/o⟦菌ᴮⱽ/o⟧:【植】【PIV】G. (Genro) (Bovista el likoperdacoj) de bazidifungoj kun globforma, ferma bazidiujo tute senpedunkla, kiu c^e maturig^o ellasas per apeksa ostiolo la enhavon el bruna sporaro; tre disvastig^inta g. (genro) de 46 sp-oj (specioj). Vd likoperdo, polvofungoj.
 brac^/o:【史】【PIV】Speco de pantalono, portata de gau^loj, g^ermanoj k kelkaj Aziaj popoloj.
 bradikardi/o:【医】【PIV】Malrapideco de la kora pulsado.
-bradip/ed/oj⟦bradip/科ᴱ/oj⟧:【動】【PIV】Fam. (Familio) (Bradypodidae) de ksenartroj, al kiu apartenas bradipo k unau^o.
+bradip/ed/oj⟦兽ᴮᴿ/科ᴱ/oj⟧:【動】【PIV】Fam. (Familio) (Bradypodidae) de ksenartroj, al kiu apartenas bradipo k unau^o.
 bradipepsi/o:【医】【PIV】Malrapida k malfacila digesto.
 brahmo/o:【宗】【PIV】Monoteisto, apartenanta al la bengala hinduismoreforma movado, fondita en la frua 19a jc (jarcento) surbaze de kritika relego de la Upanis^adoj.
 brah^in/o⟦虫ᴮᴴ̂/o⟧:【PIV】= brakino.
@@ -46542,7 +46542,7 @@ dau^k/o⟦伞ᴰ/o⟧:【植】【PIV】G. (Genro) (Daucus el apiacoj) de unu-k 
 dau^r/ad/o⟦续/行/o⟧:【PIV】Stato de io, kio plu ekzistas, ne c^esas: la dau^rado de la malbona vetero ruinigas niajn projektojn de ekskurso.
 davali/o⟦羊齿ᴰ/o⟧:【植】【PIV】G. (Genro) (Davallia el davaliacoj) de 34 sp-oj (specioj) de tropikaj k subtropikaj filikoj el la Malnova Mondo, pluraj pororname kultivataj.
 davit/o:【PIV】Turnebla gruo sur s^ipoj, destinita por surakvigi, suprenlevi k pendigi boatojn.
-dazip/ed/oj⟦dazip/科ᴱ/oj⟧:【動】【PIV】Fam. (Familio) (Dasypodidae) de ksenartroj, al kiu apartenas i.a. (interalie, inter aliaj) dazipo. Vd armadelo, tatuo, gliptodonto.
+dazip/ed/oj⟦兽ᴰᴬ/科ᴱ/oj⟧:【動】【PIV】Fam. (Familio) (Dasypodidae) de ksenartroj, al kiu apartenas i.a. (interalie, inter aliaj) dazipo. Vd armadelo, tatuo, gliptodonto.
 dazipod/ed/oj⟦兽ᴰᶻ/科ᴱ/oj⟧:【動】【PIV】Fam. (Familio) (Dasypodidae) de ksenartroj, al kiu apartenas i.a. (interalie, inter aliaj) dazipo. Vd armadelo, tatuo, gliptodonto.
 DDT:【化】【PIV】Kemia komponaj^o, dikloro-difenil-trikloro-etano, tre efika insekticido hodiau^ ne plu au^ preskau^ ne plu uzata, c^ar ne biomalkomponebla.
 debil/a⟦弱ᴰ/a⟧:【医】【PIV】1 Perdinta siajn fortojn: debila knabo, stomako, cerbo. 2【心】 Havanta inteligentecon, kiu ne atingas 70%-an inteligento-kvocienton:
@@ -49002,7 +49002,7 @@ hin/o⟦兽ᴴ/o⟧:【動】【PIV】1 Hibrido de c^evalo k azenino. Vd mulo. 2
 Hindustan/a:【語】【PIV】Rilata al Hindustano: la hindustana lingvo havas multajn regionajn variantojn k du oficialajn versiojn, hindian k urduan.
 hioglos/o:【解】【PIV】(M. hyoglossus) Langa muskolo, insertita sur la hioido: g^i mallevas k entiras la langon.
 hioid/o:【解】【PIV】(os hyoideum) U-forma osto, ligita per ligamentoj al temporalo k laringo, skeleto de la langobazo; mll (mallongigo) en kunmetaj^oj: hio.
-hiosciam/o⟦茄ᴴ/o⟧:【植】【PIV】Hiskiamo.
+hiosciam/o⟦茄ᴴᶜ/o⟧:【植】【PIV】Hiskiamo.
 hiosciamin/o:【化】【PIV】Hiskiamino.
 hip/o:【PIV】Speco de forta tranc^ilego, uzata por detranc^i branc^ojn.
 hipalag/o:【PIV】Stilfiguro, per kiu oni atribuas al vorto la kvalifikon, kiu logike konvenas al tutproksima ideo; ekz. (ekzemple) neniam sendefenda sang' makulos mian spadon (la sango de sendefenda estaj^o).

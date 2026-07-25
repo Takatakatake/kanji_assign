@@ -15864,7 +15864,7 @@ inter si:たがいに
 inter/spac/ig/i:［他］間隔をあける
 inter/spac/o:間隔,間隙,すき間
 inter/stel/a materi/o:【天】星間物質
-inter/stel/a polv/o:【天】星間塵（せいかんじん）##偽分解
+inter/stel/a polv/o:【天】星間塵（せいかんじん）
 inter/sulk/o:【農】うね（畝）
 inter/s^ang^/a:交換の,交換用の
 inter/s^ang^/e:交換に,引替に
@@ -16200,7 +16200,7 @@ Japan-Brit/a alianc/o:【史】日英同盟
 japan/de/ven/a:日系の,日本起源の
 japan/ec/a:日本的な
 japan/esk/a:日本趣味の;日本風の,=japanstila
-japan/esk/o:日本趣味;【文】（短歌・俳句などの形式をまねた）日本風の作品##偽分解
+japan/esk/o:日本趣味;【文】（短歌・俳句などの形式をまねた）日本風の作品
 japan/i/an/o:日本国民
 Japan/i/o:【国名】日本（アジア）
 japan/ism/o:日本風;【Ｇ】日本語的語法;【美】ジャポニスム
@@ -40142,7 +40142,7 @@ tele/komunik/il/o:通信手段
 tele/konduk/i:［他］遠隔操縦する
 tele/kopi/i:［他］ファックスで送る,=faksi
 tele/kopi/il/o:ファックス機,=faksilo
-tele/kopi/o:=fakso##偽分解
+tele/kopi/o:=fakso
 tele/labor/i:［自］（インターネットなどを介して）在宅勤務する,サテライト勤務する
 telematik/o:【情】情報通信技術（通信とコンピュータによるデータ処理の融合）
 tele/metr/i:［他］（測距儀で）距離を測る;【学】遠隔測定する##偽分解

@@ -1,6 +1,6 @@
 ﻿# 識別子レビュー(GAS/§5位置・§3厳密・§6a別文字・特殊字修正・base上書き版): 全共有群・全メンバー・語義付き
 
-【草】 327件
+【草】 328件
   herb           草          F=67    basic   
   pajl           草ᴾ         F=18    basic   
   skiz           草ˢ         F=6     basic   
@@ -92,6 +92,7 @@
   difenbaki      草ᴰᴮ        F=1     piv     
   dafodil        草ᴰᶠ        F=1     piv     
   digitari       草ᴰᴳ        F=1     piv     
+  digital        草ᴰᴵ        F=1     piv     
   donak          草ᴰᴷ        F=1     piv     
   drimi          草ᴰᴹ        F=1     piv     
   dione          草ᴰᴺ        F=1     piv     
@@ -329,7 +330,7 @@
   zigofil        草ᶻᴳ        F=1     piv     
   zoster         草ᶻˢ        F=1     piv     
 
-【木】 247件
+【木】 249件
   lign           木          F=51    basic   
   ksil           木ᴷ         F=6     pejvo   
   muskat         木ᴹ         F=6     pejvo   
@@ -468,6 +469,7 @@
   kenomel        木ᴷᴱᴺ       F=1     piv     
   kofe           木ᴷᶠ        F=1     piv     
   kanang         木ᴷᴳ        F=1     piv     
+  kinkon         木ᴷᴵᴺ       F=1     piv     
   kajeput        木ᴷᴶ        F=1     piv     
   kokl           木ᴷᴷ        F=1     piv     
   klerodendr     木ᴷᴸᴱᴿ      F=1     piv     
@@ -547,6 +549,7 @@
   rambutan       木ᴿᵀ        F=1     piv     
   ravenal        木ᴿⱽ        F=1     piv     
   sparti         木ˢᴬ        F=1     piv     
+  santal         木ˢᴬᴺ       F=1     piv     
   sorbus         木ˢᴮ        F=1     piv     
   sapind         木ˢᴰ        F=1     piv     
   semekarp       木ˢᴱ        F=1     piv     
@@ -712,7 +715,7 @@
   tring          鸟ᵀᴿ        F=1     piv     
   uri            鸟ᵁᴿ        F=1     piv     
 
-【虫】 98件
+【虫】 99件
   insekt         虫          F=19    basic   
   verm           虫ⱽ         F=22    basic   
   koral          虫ᴷ         F=11    pejvo   
@@ -778,6 +781,7 @@
   kokcinel       虫ᴷᶜ        F=1     piv     
   koriks         虫ᴷᴷ        F=1     piv     
   kalosom        虫ᴷᴸ        F=1     piv     
+  kantarid       虫ᴷᴺ        F=1     piv     
   kopris         虫ᴷᴾ        F=1     piv     
   krizomel       虫ᴷᴿ        F=1     piv     
   ksestobi       虫ᴷˢ        F=1     piv     
@@ -996,6 +1000,77 @@
   verticili      菌ⱽ         F=1     piv     
   volvariel      菌ⱽᴸ        F=1     piv     
 
+【兽】 69件
+  best           兽          F=49    basic   
+  zo             兽ᶻ         F=16    basic   
+  animal         兽ᴬ         F=8     basic   
+  zoologi        兽ᶻᴸ        F=0     basic   
+  lutr           兽ᴸ         F=1     pejvo   
+  mirmekofag     兽ᴹ         F=1     pejvo   
+  otari          兽ᴼ         F=1     pejvo   
+  teri           兽ᵀ         F=3     piv     【動】獣亜綱
+  besti          兽ᴮᴵ        F=2     piv     野獣
+  procion        兽ᴾᴿ        F=2     piv     【動】アライグマ属（Procyon、アライグマ科の食肉獣）
+  agvara         兽ᴬᴳ        F=1     piv     
+  alcelaf        兽ᴬᴸ        F=1     piv     
+  armadel        兽ᴬᴿ        F=1     piv     
+  boselaf        兽ᴮᴸ        F=1     piv     
+  bradip         兽ᴮᴿ        F=1     piv     
+  blastocer      兽ᴮˢ        F=1     piv     
+  civetikt       兽ᶜ         F=1     piv     
+  ding           兽ᴰ         F=1     piv     
+  dazip          兽ᴰᴬ        F=1     piv     
+  dendrolag      兽ᴰᴰ        F=1     piv     
+  dugong         兽ᴰᴳ        F=1     piv     
+  desmod         兽ᴰˢ        F=1     piv     
+  dazipod        兽ᴰᶻ        F=1     piv     
+  ekv            兽ᴱ         F=1     piv     
+  ekidn          兽ᴱᴰ        F=1     piv     
+  eh^idn         兽ᴱᴴ̂       F=1     piv     
+  focen          兽ᶠ         F=1     piv     
+  falanger       兽ᶠᴸ        F=1     piv     
+  gau^r          兽ᴳ         F=1     piv     
+  gvemul         兽ᴳᴹ        F=1     piv     
+  gvanak         兽ᴳⱽ        F=1     piv     
+  hin            兽ᴴ         F=1     piv     
+  h^ironekt      兽ᴴ̂        F=1     piv     
+  halih^er       兽ᴴᴴ̂       F=1     piv     
+  haliker        兽ᴴᴸ        F=1     piv     
+  herpest        兽ᴴᴿ        F=1     piv     
+  izatis         兽ᴵ         F=1     piv     
+  kiang          兽ᴷ         F=1     piv     
+  koendu         兽ᴷᴰ        F=1     piv     
+  kaguang        兽ᴷᴳ        F=1     piv     
+  karibu         兽ᴷᴿ        F=1     piv     
+  korsak         兽ᴷˢ        F=1     piv     
+  kironekt       兽ᴷᵀ        F=1     piv     
+  ljam           兽ᴸᴶ        F=1     piv     
+  lutreol        兽ᴸᴸ        F=1     piv     
+  megateri       兽ᴹᴳ        F=1     piv     
+  monodelf       兽ᴹᴺ        F=1     piv     
+  marmoz         兽ᴹᴿ        F=1     piv     
+  martes         兽ᴹᵀ        F=1     piv     
+  mazam          兽ᴹᶻ        F=1     piv     
+  nazu           兽ᴺ         F=1     piv     
+  ocelot         兽ᴼᶜ        F=1     piv     
+  orikteropod    兽ᴼᴰ        F=1     piv     
+  okapi          兽ᴼᴷ        F=1     piv     
+  orcin          兽ᴼᴿ        F=1     piv     
+  orikterop      兽ᴼᵀ        F=1     piv     
+  pudu           兽ᴾ         F=1     piv     
+  pipistrel      兽ᴾᴾ        F=1     piv     
+  pterop         兽ᴾᵀ        F=1     piv     
+  serval         兽ˢ         F=1     piv     
+  smilodont      兽ˢᴹ        F=1     piv     
+  tragelaf       兽ᵀᴳ        F=1     piv     
+  tamandu        兽ᵀᴹ        F=1     piv     
+  unau^          兽ᵁ         F=1     piv     
+  unci           兽ᵁᶜ        F=1     piv     
+  viver          兽ⱽ         F=1     piv     
+  valabi         兽ⱽᴸ        F=1     piv     
+  venad          兽ⱽᴺ        F=1     piv     
+  zibet          兽ᶻᴮ        F=1     piv     
+
 【金】 67件
   or             金          F=61    basic   
   metal          金ᴹ         F=33    basic   
@@ -1064,75 +1139,6 @@
   terbi          金ᵀᴮ        F=1     piv     
   tekneci        金ᵀᴷ        F=1     piv     
   tuli           金ᵀᴸ        F=1     piv     
-
-【兽】 67件
-  best           兽          F=49    basic   
-  zo             兽ᶻ         F=16    basic   
-  animal         兽ᴬ         F=8     basic   
-  zoologi        兽ᶻᴸ        F=0     basic   
-  lutr           兽ᴸ         F=1     pejvo   
-  mirmekofag     兽ᴹ         F=1     pejvo   
-  otari          兽ᴼ         F=1     pejvo   
-  teri           兽ᵀ         F=3     piv     【動】獣亜綱
-  besti          兽ᴮᴵ        F=2     piv     野獣
-  procion        兽ᴾᴿ        F=2     piv     【動】アライグマ属（Procyon、アライグマ科の食肉獣）
-  agvara         兽ᴬᴳ        F=1     piv     
-  alcelaf        兽ᴬᴸ        F=1     piv     
-  armadel        兽ᴬᴿ        F=1     piv     
-  boselaf        兽ᴮᴸ        F=1     piv     
-  blastocer      兽ᴮˢ        F=1     piv     
-  civetikt       兽ᶜ         F=1     piv     
-  ding           兽ᴰ         F=1     piv     
-  dendrolag      兽ᴰᴰ        F=1     piv     
-  dugong         兽ᴰᴳ        F=1     piv     
-  desmod         兽ᴰˢ        F=1     piv     
-  dazipod        兽ᴰᶻ        F=1     piv     
-  ekv            兽ᴱ         F=1     piv     
-  ekidn          兽ᴱᴰ        F=1     piv     
-  eh^idn         兽ᴱᴴ̂       F=1     piv     
-  focen          兽ᶠ         F=1     piv     
-  falanger       兽ᶠᴸ        F=1     piv     
-  gau^r          兽ᴳ         F=1     piv     
-  gvemul         兽ᴳᴹ        F=1     piv     
-  gvanak         兽ᴳⱽ        F=1     piv     
-  hin            兽ᴴ         F=1     piv     
-  h^ironekt      兽ᴴ̂        F=1     piv     
-  halih^er       兽ᴴᴴ̂       F=1     piv     
-  haliker        兽ᴴᴸ        F=1     piv     
-  herpest        兽ᴴᴿ        F=1     piv     
-  izatis         兽ᴵ         F=1     piv     
-  kiang          兽ᴷ         F=1     piv     
-  koendu         兽ᴷᴰ        F=1     piv     
-  kaguang        兽ᴷᴳ        F=1     piv     
-  karibu         兽ᴷᴿ        F=1     piv     
-  korsak         兽ᴷˢ        F=1     piv     
-  kironekt       兽ᴷᵀ        F=1     piv     
-  ljam           兽ᴸᴶ        F=1     piv     
-  lutreol        兽ᴸᴸ        F=1     piv     
-  megateri       兽ᴹᴳ        F=1     piv     
-  monodelf       兽ᴹᴺ        F=1     piv     
-  marmoz         兽ᴹᴿ        F=1     piv     
-  martes         兽ᴹᵀ        F=1     piv     
-  mazam          兽ᴹᶻ        F=1     piv     
-  nazu           兽ᴺ         F=1     piv     
-  ocelot         兽ᴼᶜ        F=1     piv     
-  orikteropod    兽ᴼᴰ        F=1     piv     
-  okapi          兽ᴼᴷ        F=1     piv     
-  orcin          兽ᴼᴿ        F=1     piv     
-  orikterop      兽ᴼᵀ        F=1     piv     
-  pudu           兽ᴾ         F=1     piv     
-  pipistrel      兽ᴾᴾ        F=1     piv     
-  pterop         兽ᴾᵀ        F=1     piv     
-  serval         兽ˢ         F=1     piv     
-  smilodont      兽ˢᴹ        F=1     piv     
-  tragelaf       兽ᵀᴳ        F=1     piv     
-  tamandu        兽ᵀᴹ        F=1     piv     
-  unau^          兽ᵁ         F=1     piv     
-  unci           兽ᵁᶜ        F=1     piv     
-  viver          兽ⱽ         F=1     piv     
-  valabi         兽ⱽᴸ        F=1     piv     
-  venad          兽ⱽᴺ        F=1     piv     
-  zibet          兽ᶻᴮ        F=1     piv     
 
 【菊】 51件
   krizantem      菊          F=5     basic   
@@ -1457,6 +1463,22 @@
   spirantes      兰ˢ         F=1     piv     
   vanda          兰ⱽ         F=1     piv     
 
+【瓜】 14件
+  melon          瓜          F=5     basic   
+  kukurb         瓜ᴷᴿ        F=9     basic   
+  kukum          瓜ᴷ         F=3     basic   
+  melopep        瓜ᴹᴾ        F=1     pejvo   
+  brioni         瓜ᴮ         F=1     piv     
+  citrol         瓜ᶜ         F=1     piv     
+  ekbali         瓜ᴱ         F=1     piv     
+  elateri        瓜ᴱᴸ        F=1     piv     
+  kantalup       瓜ᴷᴺ        F=1     piv     
+  kukumis        瓜ᴷˢ        F=1     piv     
+  momordik       瓜ᴹᴹ        F=1     piv     
+  pepon          瓜ᴾ         F=1     piv     
+  potiron        瓜ᴾᵀ        F=1     piv     
+  seki           瓜ˢ         F=1     piv     
+
 【蛇】 14件
   serpent        蛇          F=20    basic   
   meandr         蛇ᴹ         F=2     pejvo   
@@ -1472,21 +1494,6 @@
   naj            蛇ᴺ         F=1     piv     
   natrik         蛇ᴺᵀ        F=1     piv     
   tropidonot     蛇ᵀ         F=1     piv     
-
-【瓜】 13件
-  melon          瓜          F=5     basic   
-  kukurb         瓜ᴷᴿ        F=9     basic   
-  kukum          瓜ᴷ         F=3     basic   
-  melopep        瓜ᴹᴾ        F=1     pejvo   
-  brioni         瓜ᴮ         F=1     piv     
-  citrol         瓜ᶜ         F=1     piv     
-  ekbali         瓜ᴱ         F=1     piv     
-  kantalup       瓜ᴷᴺ        F=1     piv     
-  kukumis        瓜ᴷˢ        F=1     piv     
-  momordik       瓜ᴹᴹ        F=1     piv     
-  pepon          瓜ᴾ         F=1     piv     
-  potiron        瓜ᴾᵀ        F=1     piv     
-  seki           瓜ˢ         F=1     piv     
 
 【带】 12件
   zon            带          F=43    basic   
@@ -1554,6 +1561,18 @@
   gak            鸣ᴳ         F=1     piv     
   kuku           鸣ᴷᵁ        F=1     piv     
 
+【茄】 10件
+  tomat          茄          F=3     basic   
+  solan          茄ˢ         F=1     pejvo   
+  alkekeng       茄ᴬ         F=1     piv     
+  fizalid        茄ᶠ         F=1     piv     
+  hiskiam        茄ᴴ         F=1     piv     
+  hiosciam       茄ᴴᶜ        F=1     piv     
+  likopersik     茄ᴸ         F=1     piv     
+  melongen       茄ᴹ         F=1     piv     
+  petuni         茄ᴾ         F=1     piv     
+  stramoni       茄ˢᵀ        F=1     piv     
+
 【蛙】 10件
   ran            蛙          F=8     basic   
   batrak         蛙ᴮ         F=2     pejvo   
@@ -1601,17 +1620,6 @@
   klimaks        顶ᴷᴷ        F=2     piv     【文】クライマックス
   akme           顶ᴬ         F=1     piv     
   kulminaci      顶ᴷᶜ        F=1     piv     
-
-【茄】 9件
-  tomat          茄          F=3     basic   
-  solan          茄ˢ         F=1     pejvo   
-  alkekeng       茄ᴬ         F=1     piv     
-  fizalid        茄ᶠ         F=1     piv     
-  hiosciam       茄ᴴ         F=1     piv     
-  likopersik     茄ᴸ         F=1     piv     
-  melongen       茄ᴹ         F=1     piv     
-  petuni         茄ᴾ         F=1     piv     
-  stramoni       茄ˢᵀ        F=1     piv     
 
 【狂】 9件
   mani           狂          F=28    basic   
@@ -1806,6 +1814,16 @@
   marionet       偶ᴹ         F=2     pejvo   
   akcidenc       偶ᴬ         F=2     piv     【哲】偶有性
   aleator        偶ᴬᴸ        F=1     piv     
+
+【菜】 8件
+  legom          菜          F=15    basic   
+  brasik         菜ᴮ         F=31    basic   
+  lap            菜ᴸᴾ        F=2     basic   
+  sabelik        菜ˢ         F=1     basic   
+  artis^ok       菜ᴬ         F=4     pejvo   
+  amarant        菜ᴬᴹ        F=3     pejvo   
+  asparag        菜ᴬˢ        F=1     piv     
+  brokol         菜ᴮᴷ        F=1     piv     
 
 【散】 8件
   dis            散          F=205   pref    
@@ -2063,15 +2081,6 @@
   kongru         合ᴷᴳ        F=6     pejvo   
   konjunkci      合ᴷᴶ        F=4     pejvo   
   kombinaci      合ᴷᶜ        F=1     piv     
-
-【菜】 7件
-  legom          菜          F=15    basic   
-  brasik         菜ᴮ         F=31    basic   
-  lap            菜ᴸᴾ        F=2     basic   
-  sabelik        菜ˢ         F=1     basic   
-  artis^ok       菜ᴬ         F=4     pejvo   
-  amarant        菜ᴬᴹ        F=3     pejvo   
-  brokol         菜ᴮᴷ        F=1     piv     
 
 【使】 7件
   ig             使          F=2032  suf     
