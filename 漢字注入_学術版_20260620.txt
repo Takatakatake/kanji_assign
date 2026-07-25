@@ -8552,8 +8552,8 @@ ekster/ordinar/a kun/ven/o⟦外ᴱ/普/a 共/来/o⟧:特別会合,臨時会合
 ekster/ordinar/a spert/o⟦外ᴱ/普/a 验/o⟧:並外れた経験
 ekster/ordinar/a veter/o⟦外ᴱ/普/a 气ⱽ/o⟧:異常な天候
 ekster/parti/a⟦外ᴱ/党/a⟧:無党派の;党外の
-ekster/pol/i⟦外ᴱ/pol/i⟧:［他］【数】補外する,外挿する
-ekster/pol/o⟦外ᴱ/pol/o⟧:【数】補外（法）,外挿（法）
+ekster/pol/i⟦外ᴱ/插ᴾ/i⟧:［他］【数】補外する,外挿する
+ekster/pol/o⟦外ᴱ/插ᴾ/o⟧:【数】補外（法）,外挿（法）
 ekster/regul/a⟦外ᴱ/规/a⟧:変則的な,例外的な
 ekster/religi/a⟦外ᴱ/宗/a⟧:非宗教的な,宗教外の
 ekster/ret/a⟦外ᴱ/网/a⟧:【情】オフラインの
@@ -53628,7 +53628,7 @@ poezin/o:【PIV】(kn (kolektiva nomo)) Hormono, stimulanta la disvolvig^on de s
 pogostemon/o⟦草ᴾᴼᴳ/o⟧:【植】【PIV】G. (Genro) (Pogostemon el lamiacoj) de c^. (c^irkau^) 95 sp-oj (specioj) de plurjaraj herboj au^ de tufarbustoj el Azio k Au^stralio, el kiuj pac^ulo.
 pojkiloterm/a:【生】【PIV】(pp (se paroli pri) animalo) Havanta temperaturon dependan de la ekstero, k varianta kun ties temperaturo: fis^oj, batrakoj, nunaj reptilioj estas pojkilotermaj. Sin. (sinonimo) malvarmsanga. Vd homeoterma.
 poks/o:【医】【PIV】Variolosimila malsano de bov(in)o (bova pokso, au^ kau^pokso) k c^evalo (c^evala pokso) kau^zata de la poksa viruso: la bova pokso imunigas homon kontrau^ variolo. Vd vakcino.
-pol/i:【数】【PIV】(tr (transitiva)) Kalkuli (proksimuman) valoron de funkcio c^e punkto, uzante g^iajn valorojn c^e aliaj punktoj: poli funkcion per duagradaj polinomoj; poli kontinuan funkcion lau^ la metodo de Gau^so resp. (respektive) Neu^tono.
+pol/i⟦插ᴾ/i⟧:【数】【PIV】(tr (transitiva)) Kalkuli (proksimuman) valoron de funkcio c^e punkto, uzante g^iajn valorojn c^e aliaj punktoj: poli funkcion per duagradaj polinomoj; poli kontinuan funkcion lau^ la metodo de Gau^so resp. (respektive) Neu^tono.
 polajr/o:【数】【PIV】(pp (se paroli pri) koniko k punkto c) Certa rekto asociita al la koniko k la punkto, k enhavanta c^iujn harmonajn kunulojn de c rilate al la sekcopunktoj de la koniko k rekto trapasanta la punkton c: la ekvacio de la polajro estas A (x, c) = 0, se A (x, x) = 0 estas la duagrada ekvacio de la koniko. see poluso 6.
 polarograf/o⟦极记/o⟧:【化】【PIV】Aparato, kiu au^tomate registras la kurenton dum elektrolizo c^e gutanta hidrarga elektrodo.
 polarografi/o⟦极志/o⟧:【PIV】Metodo de kvalita au^ kvanta analizo per polarografo, precipe uzata por analizi la metalojn en salaj solvaj^oj.

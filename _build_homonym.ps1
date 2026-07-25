@@ -43,6 +43,13 @@ $existing=@(
  @('lit','解','elektr/o/lit/o,elektr/o/lit/a','','-lyte(電解質electrolyte=溶解/分解する物)→解。中国語 电解质 と一致。lithos=石(-lith)とは別形態素・寝台lit/o=床とも別'),
  @('te','神','a/te/ism/o,a/te/ist/a,a/te/ist/o,mono/te/ism/o,mono/te/ist/o,pan/te/ism/a,pan/te/ism/o,pan/te/ist/o,poli/te/ism/o,poli/te/ist/o,te/o/krati/a,te/o/krati/o,te/o/krat/o,te/o/logi/a,te/o/logi/ist/o,te/o/logi/o,te/o/log/o,te/o/goni/o,te/ism/o,te/ist/o','','-te-(theo=神)→神。teo=茶(茶)はbuter/te で維持(disc不掲載)。te/ism/o=有神論・te/ist/o=有神論者(theism/theist)も神(2026-06-23 sep派生形網羅)。2026-07-06 正本波でte/o/goni/o(神統記theogonia)露出→被覆漏れ是正で追加(teokrati/teologiと同神)'),
  @('top','境','bio/top/o','','-top-(topos=場所/-tope)→境(生境=habitat)。topo=檣楼(帆楼)はtop/o単独で維持'),
+ # 2026-07-25 続17(ユーザー裁定): DICT正本が interpol/i→inter/pol/i・interpol/aj^/o→inter/pol/aj^/o と分割したため
+ # 学習者版で whole-root interpol(插ᴵᵀ)が引けなくなり 间/pol と版間・版内が割れた。pol は未割当かつ pol/o=ポーランド人と
+ # 同綴ゆえ master への単純割当は不可 → 数学義の見出しに限定した sep で 插 へ合流させる(新字ゼロ=插は既存)。
+ # 識別子はハードコードせず _homonym_disp.ps1 が插群(stik=bare/insert=插ᴵ/interpol=插ᴵᵀ)に pol を入れて算出する
+ # (p は插群で未使用ゆえ 插ᴾ)。結果 内挿=间/插ᴾ・外挿=外ᴱ/插ᴾ で日中の「内挿/外挿・内插/外插」と literal 一致し、
+ # 元からラテンだった ekster/pol も同時に解消。ポーランド義(pol/a・pol/o・pol/a lingv/o)は disc 不掲載=ラテン維持。
+ @('pol','插','inter/pol/i,inter/pol/aj^/o,ekster/pol/i,ekster/pol/o,pol/i','','【数】pol-(補間/補外 interpolate/extrapolate)→插(挿入)。既存 interpol/o=插ᴵᵀ・insert=插ᴵ・stik=插(基本形)と同hub。ポーランドpol/o・pol/a・pol/a lingv/oは§7固有名でラテン維持(disc不掲載)。DICT正本の PIV正式分解(inter/pol・ekster/pol)露出への追随'),
  # -goni-(-gony/-gonia=生成·発生·原細胞。ギリシャgonḗ「産む·種」)→源。角度goni/o=角ᴳ(ギリシャgōnía「角」=goniometr角度計等)は別語源の同綴ゆえ維持=homograph sep分離(2026-07-06ユーザー裁定)。genez/o=源ᴳ(genesis)と同源で「起源·生成」を的中。
  @('goni','源','kosm/o/goni/o,ov/o/goni/o,sperm/o/goni/o,spor/o/goni/o,te/o/goni/o','','-goni-(生成·発生·原細胞gonḗ)→源。宇宙起源kosmogoni=宇/源·神々の起源teogoni=神ᵀ/源·卵原ov/精原sperm/胞原spor/o/goni=卵·精液·胞子+源。角度goni=角ᴳ(gōnía別語源)は正本が X/o/goni へ分割した際に生成義へ化ける誤友ゆえ語スコープで是正。arkegoni=颈卵器(whole-root)·agoni=垂死·tetragoni=草ᵀᴱᵀ(植物属)·begoni/pelargoni/geraniは別語で不干渉'),
  # WSL最新分解(2026-06-21)同期で露出した結合形(多義のため列挙sep)。-cyte=胞。主義(引=citi引用)は disc不掲載で保護。

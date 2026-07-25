@@ -983,8 +983,8 @@ akv/o/ski/ad/o:【運】水上スキー（競技）
 akv/o/ski/o:【運】水上スキー（板）
 akv/o/soldat/o:【植】ミズアロエ（トチカガミ科の水草）,=stratioto
 akv/o/solv/ebl/a:【化】水溶性の
-akv/o/surfac/a ond/o:【理】水面波
-akv/o/surfac/o:水面
+akv/o/sur/fac/a ond/o:【理】水面波##偽分解
+akv/o/sur/fac/o:水面##偽分解
 akv/o/temperatur/o:水温
 akv/o/tim/o:【病】恐水病,=hidrofobio
 akv/o/tub/o:送水管,給水管
@@ -7236,7 +7236,7 @@ dis/ventr/ig^/o:【病】腹壁ヘルニア
 dis/vent/um/i:［他］吹き散らす,追い散らす
 dis/vers^/i:［他］（液体を）撒き散らす,ぶちまける
 dis/voj/ig^/o:（道の）分岐,=vojforko
-dis/volv/ebl/a surfac/o:【数】可展面
+dis/volv/ebl/a sur/fac/o:【数】可展面##偽分解
 dis/volv/i:［他］（巻いた物を）広げる,展開する;《転》発展させる,開発する
 dis/volv/ig^/i:［自］広がる,展開する;《転》開花する,発展する
 dis/volv/ig^/o:展開,発展
@@ -7428,7 +7428,7 @@ domicil/a registr/o:住民登録
 domicil/o:【法】（登録された）住所;本籍
 domin/a:支配的な,優越した;【生】優性の,=rega
 domin/ad/o:支配,制圧,優勢,=superregado
-domin/ant/o:【楽】ドミナント,属音##偽分解
+domin/ant/o:【楽】ドミナント,属音##偽分解(衝突語)
 domin/ant/o:支配者,優位者
 domin/em/a:横柄な,威圧的な,>>regema
 Doming/o:【国名】ドミニカ共和国（通称）,=Dominika Respubliko
@@ -7973,7 +7973,7 @@ eben/aj^/a goril/o:【動】ローランドゴリラ
 eben/aj^/o:平原,平地
 eben/a ond/o:【理】平面波
 eben/a spegul/o:【理】平面鏡
-eben/a surfac/o:【数】平面
+eben/a sur/fac/o:【数】平面##偽分解
 eben/bat/i:［他］打ちならす
 eben/ej/o:=ebenaj^o（平地）
 eben/ig/i:［他］平らにする,地ならしする
@@ -8128,7 +8128,7 @@ egal/o:=egaleco（同等）
 egal/pez/i:［他］〜と釣り合う
 egal/pez/o:釣り合い,=ekvilibro
 egal/potencial/a:【理】等ポテンシャルの,等電位の
-egal/potencial/a surfac/o:【理】等電位面
+egal/potencial/a sur/fac/o:【理】等電位面##偽分解
 egal/rajt/a:同権の,平等な
 egal/rajt/ec/o:同権
 egal/sign/o:【情】等号（＝）
@@ -13848,7 +13848,7 @@ halogen/a lamp/o:ハロゲンランプ
 halogen/id/o:【化】ハロゲン化物##偽分解
 halogen/o:【化】ハロゲン
 halo/o:【気】（太陽や月の）かさ;【写】ハレーション
-halo/o:［間］（電話で）もしもし！##偽分解
+halo/o:［間］（電話で）もしもし！##偽分解(衝突語)
 Halt!:［間］止まれ！
 halt/ad/i:［自］立ち止まっている,停止している
 halt/ej/o:停留所
@@ -15680,7 +15680,7 @@ interes/o/sfer/o:関心領域
 inter/etag^/o:中二階
 interez/o:【経】利子,利息,金利,=rentumo;利潤
 interez/pro/cent/o:利率,金利##偽分解
-inter/fac/o:【情】インタフェース##偽分解
+inter/fac/o:【情】インタフェース##偽分解(衝突語)
 inter/fac/o:【理】界面;【機】【情】インターフェース
 interfer/a:干渉の,干渉する
 interfer/aj frang^/oj:【理】干渉縞（じま）
@@ -20858,7 +20858,7 @@ kurb/a/krur/a:がに股の
 kurb/a/krur/e:がに股で
 kurb/a lini/o:曲線
 kurb/a mov/ad/o:【理】曲線運動
-kurb/a surfac/o:【数】曲面
+kurb/a sur/fac/o:【数】曲面##偽分解
 kurb/ec/o:曲がり,湾曲,反り;【数】曲率
 kurb/ig/i:［他］曲げる,たわめる;（体を）かがめる
 kurb/ig^/i:［自］曲がる,たわむ;身をかがめる
@@ -21080,7 +21080,7 @@ kvartal/o:{Ｂ}市区,区画,街区,地区,>>urboparto
 kvar/tet/o:【楽】カルテット（四重唱曲，四重奏曲）;【楽】カルテット（四重唱団，四重奏団）##偽分解(PIV正式分解)##過細分解 kvar/t/e/t/o
 kvartir/i:［他］【軍】=kantonmenti（宿営する）
 kvartir/o:【軍】=kantonmento（宿営地）
-kvart/o:{Ｏ}【楽】四度音程;【印】四つ折判;【運】（フェンシング）カルト（第四の構え）;《古》クォート（約１リットル）
+kvar/t/o:{Ｏ}【楽】四度音程;【印】四つ折判;【運】（フェンシング）カルト（第四の構え）;《古》クォート（約１リットル）##偽分解(PIV正式分解)
 kvar ver/oj:（la 〜）【仏】四聖諦（ししょうたい）,四諦
 kvar/vers/o:【文】四行詩
 kvar/voc^/a:【楽】四声の,四部合唱の
@@ -27608,7 +27608,7 @@ nivel/il/o:【機】水準器
 nivel/kurb/o:【地理】等高線
 nivel/o:{Ｂ}水平面;（基準面からの）高さ,水位,水準;程度,レベル
 nivel/pas/ej/o:（鉄道の）踏切
-nivel/surfac/o:【理】水準面
+nivel/sur/fac/o:【理】水準面##偽分解
 Nizni-Novgorod/o:【地名】ニジニ・ノヴゴロド（旧ゴーリキー，ロシア）
 niz/o:{Ｏ}【鳥】ハイタカ（鷂）（種）,>>akcipitro
 -nj-:{Ｂ}［接尾辞］（女子の愛称を示す）,>>panjo
@@ -32416,7 +32416,7 @@ protest/ag/ad/o:抗議行動
 protest/ant/a:プロテスタントの,新教の##偽分解
 protest/ant/a templ/o:プロテスタントの教会堂##偽分解
 protest/ant/ism/o:【キ】プロテスタンティズム,新教##偽分解
-protest/ant/o:【キ】プロテスタント,新教徒##偽分解
+protest/ant/o:【キ】プロテスタント,新教徒##偽分解(衝突語)
 protest/ant/o:抗議者,異議申立人
 protest/i:{Ｂ}［自］抗議する,異議を唱える,反対を表明する;［他］【商】（手形の）支払を拒絶する
 protest/leter/o:抗議文
@@ -33976,7 +33976,7 @@ re/turn/e:後向きに,元の方へ;元に戻って;お返しに
 re/turn/i:［他］後へ向ける
 re/turn/ig^/i:［自］後ろを向く,振り返る
 re/turn/it/e:後向きになって;裏返しに
-re/tus^/i:［他］【写】修整する;【情】（画像を）レタッチする##偽分解
+re/tus^/i:［他］【写】修整する;【情】（画像を）レタッチする##偽分解(衝突語)
 re/tus^/i:［他］再び触れる
 REU:【Ｅ】［略］=Rusia Esperanto-Unuig^o
 Reuni/o:【地名】レユニオン島（インド洋南西部）
@@ -34380,7 +34380,7 @@ river/uj/o:河道;川床
 Rivier/o:【地名】リビエラ海岸（イタリア）
 rivolu/a period/o:【天】公転周期
 rivolu/a solid/o:【数】回転体
-rivolu/a surfac/o:【機】回転面;【天】公転面
+rivolu/a sur/fac/o:【機】回転面;【天】公転面##偽分解
 rivolu/i:［自］一回転する;【天】公転する,>>rotacii
 rivolu/metr/o:【機】回転速度計
 rivolu/o:{Ｂ}【機】回転;【天】公転
@@ -38856,11 +38856,11 @@ sur/dors/e:背中に;あお向けに,><surventre
 sur/dors/ig/i:［他］背負わす;【商】裏書する,=g^iri
 surd/ul/o:耳の不自由な人,聾者
 sur/ekran/ig/i:［他］映写する;《転》映画化する
-surfac/a:表面の
-surfac/aktiv/aj^/o:【化】界面活性剤
-surfac/a s^ip/o:【軍】水上艦船,><submars^ipo
-surfac/o:{Ｂ}表面;【数】面
-surfac/tensi/o:【理】表面張力
+sur/fac/a:表面の##偽分解
+sur/fac/aktiv/aj^/o:【化】界面活性剤##偽分解
+sur/fac/a s^ip/o:【軍】水上艦船,><submars^ipo##偽分解
+sur/fac/o:{Ｂ}表面;【数】面##偽分解
+sur/fac/tensi/o:【理】表面張力##偽分解
 sur/faden/ig/i:［他］（ビーズなどを）糸に通す
 sur/fal/i:［自］倒れかかる
 surf/i:［自］波乗りをする,サーフィンをする
@@ -40041,7 +40041,7 @@ Tegucigalp/o:【地名】テグシガルパ（ホンジュラスの首都）
 tegument/o:【動】外被,外皮;【植】種皮,珠皮
 Teheran/o:【地名】テヘラン（イランの首都）
 teh^nik/o:{Ｂ}=tekniko（技術）
-te/ism/o:{Ｏ}【哲】有神論,>>diismo,><ateismo##偽分解##過細分解 t/e/ism/o
+te/ism/o:{Ｏ}【哲】有神論,>>diismo,><ateismo##偽分解(衝突語)##過細分解 t/e/ism/o
 te/ist/o:{Ｏ}有神論者##偽分解##過細分解 t/e/ist/o
 TEJO:【Ｅ】［略］テーヨ,=Tutmonda Esperantista Junulara Organizo（世界青年エスペランチスト機構）
 te/kaldron/o:茶釜
@@ -42014,7 +42014,7 @@ UN:［略］=Unuig^intaj Nacioj,国連
 unc/o:{Ｏ}【単】オンス（質量の単位、28〜31g）
 undin/o:【神】=akvofeino（水の精）
 Unesk/o:ユネスコ（国連教育科学文化機関）,=la Organizaj^o de Unuig^intaj Nacioj por Edukado, Scienco kaj Kulturo
-Unesk/o:ユネスコ,UNESCO,=Unesko##偽分解
+Unesk/o:ユネスコ,UNESCO,=Unesko##偽分解(衝突語)
 ung/eg/o:（猛獣・猛禽の）つめ
 ung/i:［他］つめを立てる,ひっかく,>>ungograti,>>ungovundi
 ung/il/ar/o:マニキュアセット（つめの手入れ道具）
@@ -42644,7 +42644,7 @@ variabl/o:【数】変数
 variaci/o:【楽】変奏曲
 vari/ad/o:変動,変化;【生】変異
 vari/aj^/o:【動】【植】変種,=vario
-vari/ant/o:{Ｏ}【文】異文,異本##偽分解
+vari/ant/o:{Ｏ}【文】異文,異本##偽分解(衝突語)
 vari/ant/o:【数】=variablo（変数）
 varicel/o:【病】水痘（すいとう）,水疱瘡（みずぼうそう）
 vari/ebl/a:可変の
@@ -55651,8 +55651,8 @@ suprem/o:【数】【PIV】(pp (se paroli pri) aro de reelaj nombroj) La plej ma
 supremat/ism/o:【PIV】Formo de abstraktismo, karakterizata de pure geometriaj konstruaj^oj.##偽分解##強語根分解
 surd/ig^/i:【PIV】Ig^i surda: iliaj oreloj surdig^is .
 surealist/oj:【PIV】= superrealistoj.
-surfac/aj^/o:【PIV】Io, aparte rigardata el la vidpunkto de la surfaco: porta surfacaj^o de aviadilo.
-Fermi-surfac/o:【理】【PIV】La divido inter okupitaj k neokupitaj elektronniveloj en la bendostrukturo de metalo au^ duonkonduktanto.
+sur/fac/aj^/o:【PIV】Io, aparte rigardata el la vidpunkto de la surfaco: porta surfacaj^o de aviadilo.##偽分解
+Fermi-sur/fac/o:【理】【PIV】La divido inter okupitaj k neokupitaj elektronniveloj en la bendostrukturo de metalo au^ duonkonduktanto.##偽分解
 surmulet/o:【動】【PIV】Sp. (Specio) (Mullus surmuletus) de fis^o el la ordo de perkoformaj fis^oj, kun rug^a dorso k flavaj strioj lau^ la flankoj; bongusta karno.
 surpriz/e:【PIV】En surpriza maniero: alveni tute surprize; li surprize rigardis la donacon.
 suspend/i:【法】【PIV】1 Provizore deteni iun de la plenumado de ties funkcio au^ ofico: suspendi policiston, administranton; la episkopo suspendis tiun pastron. Vd interdikto. 2 Provizore igi senefika au^ neaplikata: suspendi la regulojn de elektig^o favore al eminenta persono; suspendi leg^on; (f (figurasence)) suspendi sian nekredemon.
@@ -57507,7 +57507,7 @@ met/il/amin/o:【化】【PIV】CH 3-NH 3, incita alkala gaso uzata en sintezoj.
 katekol/amin/o:【PIV】(kn (kolektiva nomo)) Amino, devenanta el katekolo, ekz. (ekzemple) dopamino k adrenalino.
 sen/amni/ul/oj:【PIV】Grupo de vertebruloj, kies embrio estas senamnia: fis^oj k amfibioj.
 heks/amoniak/o:【PIV】Vulgara nomo de kompleksa kobalta salo, [Co(NH 3) 6]Cl 3.
-surfac/ampleks/o:【技】【PIV】Areo 2.
+sur/fac/ampleks/o:【技】【PIV】Areo 2.##偽分解
 antau^/amplif/il/o:【PIV】Unus^tupa amplifilo, uzata por plialtigi la nivelon de malfortaj signaloj ricevitaj de anteno, mikrofono ks (kaj simile, kaj similaj).
 fajf/anas/o:【動】【PIV】Sp. (Specio) de anaso (A. penelope), kun mallonga beko, brunaj kapo k kolo, kruta frunto, blankflavaj frunto k verto, k blanka ventro.
 glaci/anas/o:【PIV】Klangulo.
@@ -61202,8 +61202,8 @@ testud/sup/o:【PIV】Supo el karno de kelonioj (martestudoj). Vd salangano.
 al/supr/a:【PIV】Direktig^anta supren.
 g^is/supr/e:【PIV】G^is la supro: g^is supre plenigita sako .
 mal/supr/ig/i:【PIV】Igi ion tia, ke g^i estu malsupre: (f (figurasence)) la Eternulo malsuprigas en S^eolon k suprigas .
-hejt/o/surfac/o:【PIV】Tiu surfaco de kaldrona parieto, trans kiu la varmo estas transdonata.
-rul/surfac/o:【PIV】Tiu surfaco de rado, kiu tus^as relon, au^ de pneu^matiko, kiu tus^as la vojon dum veturado.
+hejt/o/sur/fac/o:【PIV】Tiu surfaco de kaldrona parieto, trans kiu la varmo estas transdonata.##偽分解
+rul/sur/fac/o:【PIV】Tiu surfaco de rado, kiu tus^as relon, au^ de pneu^matiko, kiu tus^as la vojon dum veturado.##偽分解
 bal/sur/tut/o:【PIV】Ampleksa mantelo, portata de virinoj super balkostumo.##偽分解
 ne/suspekt/ebl/a:【PIV】Tia, ke oni ne povas suspekti lin, s^in au^ g^in: la edzino de Cezaro devas esti nesuspektebla.
 sen/suspekt/e:【PIV】Sen ia suspekto, fidante.
@@ -62067,7 +62067,7 @@ Kau^kaz/a:【PIV】Rilata al Kau^kazo: la Kau^kazaj lingvoj.
 Kazimir/o:【PIV】Vira nomo, i.a. (interalie, inter aliaj) de pluraj reg^oj de Pollando.
 ##重複語Kejns/ism/o:【PIV】La ekonomikaj teorioj k programoj de Kejnso, pli specife pledado por monaj k fiskaj programoj, difinitaj de registaro por pligrandigi la dungatecon.
 kipr/o:【PIV】Fis^o, precipe haringo, malfermita per tranc^o c^e la dorsa rando k poste salita k fumaj^ita. Vd gado.
-klement/in/o:【植】【PIV】Frukto tre simila al mandarino, sed malfrue maturig^inta, kun orang^e rug^a s^elo.##偽分解(衝突語)
+klementin/o:【植】【PIV】Frukto tre simila al mandarino, sed malfrue maturig^inta, kun orang^e rug^a s^elo.
 Knid/o:【史】【PIV】Urbo en Kario, kun templo de Afrodito (27°24′E, 36°41′N).
 Knut/o:【PIV】Vira nomo, i.a. (interalie, inter aliaj) de pluraj reg^oj de Danlando.
 kobe/o:【植】【PIV】G. (Genro) (Cobaea el polemoniacoj) de grimpaj tufarbustoj kun plume kunmetaj, unuc^iraj folioj, kun unuope akselaj, grandaj floroj, karakterizataj de folieca kaliko k de klos^forma korolo 5-loba; c^. (c^irkau^) 10 sp-oj (specioj) el tropika Ameriko, i.a. (interalie, inter aliaj) la grimpa kobeo (C. scandens) kun unue verdaj, poste violbluaj floroj, indig^ena en Meksiko, pororname kultivata i.a. en mezvarmaj landoj.
