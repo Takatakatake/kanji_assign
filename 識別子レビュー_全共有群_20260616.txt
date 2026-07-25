@@ -5383,8 +5383,8 @@
   uro            尿ᵁᴼ        F=3     piv     【医】尿
 
 【任】 3件
-  kapric         任          F=4     basic   
-  ajn            任ᴬ         F=0     func    
+  ajn            任          F=0     func    
+  kapric         任ᴷ         F=4     basic   
   investitur     任ᴵ         F=2     pejvo   
 
 【忍】 3件
@@ -5788,8 +5788,8 @@
   ingest         吞ᴵ         F=1     piv     
 
 【员】 3件
-  membr          员          F=19    basic   
-  an             员ᴬ         F=0     suf     
+  an             员          F=0     suf     
+  membr          员ᴹ         F=19    basic   
   komiz          员ᴷ         F=5     pejvo   
 
 【咕】 3件

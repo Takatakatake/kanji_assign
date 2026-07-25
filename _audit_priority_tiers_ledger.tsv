@@ -898,11 +898,13 @@ zoster	44092	草	False
 sargas	44187	藻	False
 montenegr	44359	山黑	True
 
-## [D] tier0内部: 機能形態素base(§5/§6確定) vs CSV2890 basic内容語衛星。従来[A]の盲点 = 全47件
-#   func_layer=47(§5/§6確定機能割当=意図的設計・誤読なし・違反でない) / NEW=0(集合外の新規=要点検・非fail)
+## [D] tier0内部: 機能形態素base(§5/§6確定) vs CSV2890 basic内容語衛星。従来[A]の盲点 = 全49件
+#   func_layer=47(§5/§6確定機能割当=意図的設計・誤読なし・違反でない) / NEW=2(集合外の新規=要点検・非fail)
 #   機能形態素(前置詞/接尾辞/接頭辞/相関/数詞/分詞)が固有字を所有しCSV2890内容語が識別子付き衛星=nun现と同型。
 #   base=bare機能形態素 / basic_satellites=識別子付きに落ちたCSV2890内容語(語根:Unified_Level)
 groupkey	base(接辞)	base_band	basic衛星(CSV2890内容語)	分類
+任	ajn	func	kapric(8.0)	NEW
+员	an	suf	membr(6.33)	NEW
 事	ke	func	afer(2.27);fakt(5.83);event(8.9)	func_layer
 代	anstataŭ	prep	agent(9.0);pronom(8.9);generaci(8.9)	func_layer
 份	da	prep	porci(8.9)	func_layer

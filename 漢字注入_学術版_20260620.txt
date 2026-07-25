@@ -510,7 +510,7 @@ afrank/i⟦贴ᴬᴿ/i⟧:{Ｂ}［他］切手を貼る,郵便料金を払う
 afrank/it/e⟦贴ᴬᴿ/受/e⟧:切手を貼って,郵便料金前納で
 afrank/o⟦贴ᴬᴿ/o⟧:切手を貼ること;郵便料金,郵税
 afrik/a:アフリカの
-afrik/an/o⟦afrik/员ᴬ/o⟧:アフリカ人
+afrik/an/o⟦afrik/员/o⟧:アフリカ人
 afrikans/o:【語】アフリカーンス語
 afrikat/o:【声】破擦音,=ekfrota sono
 Afrik/a Uni/o:（la 〜）アフリカ連合（2002年設立）
@@ -686,12 +686,12 @@ ajl/o⟦蒜/o⟧:{Ｂ}【植】ニンニク（葫）;《般》にんにく（球
 ajl/o/bulb/er/o⟦蒜/o/球ᴮ/粒/o⟧:にんにく片,=ajlero
 ajl/o/bulb/o⟦蒜/o/球ᴮ/o⟧:にんにく（球根）
 ajl/o/prem/il/o⟦蒜/o/压/具/o⟧:【料】ニンニク絞り器
-ajn⟦任ᴬ⟧:{Ｂ}［副］〜であっても（無差別を示す）
-ajn/a⟦任ᴬ/a⟧:どんな〜でも,任意の,=ia ajn
-ajn/ist/o⟦任ᴬ/家/o⟧:無原則な人
-ajn/o⟦任ᴬ/o⟧:何でも,=io ajn
+ajn⟦任⟧:{Ｂ}［副］〜であっても（無差別を示す）
+ajn/a⟦任/a⟧:どんな〜でも,任意の,=ia ajn
+ajn/ist/o⟦任/家/o⟧:無原則な人
+ajn/o⟦任/o⟧:何でも,=io ajn
 ajnu/a:=aina（アイヌの）
-ajn/ul/o⟦任ᴬ/者/o⟧:（任意の）ある人,誰か,某氏,>>sinjoro Ajnulo
+ajn/ul/o⟦任/者/o⟧:（任意の）ある人,誰か,某氏,>>sinjoro Ajnulo
 ajnu/o:=aino（アイヌ）
 Ajun/o:【地名】アイウン（西サハラの首都）
 ajut/o⟦喷嘴/o⟧:【機】噴射管,筒口,ノズル
@@ -706,7 +706,7 @@ Akab/a Golf/o:【地名】アカバ湾（紅海北端）
 Akab/o:【地名】アカバ（ヨルダン）
 akaci/o⟦金合欢/o⟧:{Ｏ}【植】アカシア（属）
 akademi/a⟦院ᴬ/a⟧:アカデミーの;アカデミックな,学術的な
-akademi/an/o⟦院ᴬ/员ᴬ/o⟧:アカデミー会員
+akademi/an/o⟦院ᴬ/员/o⟧:アカデミー会員
 akademi/o⟦院ᴬ/o⟧:{Ｂ}学士院,アカデミー
 Akademi/o:【Ｅ】=Akademio de Esperanto,エスペラント・アカデミーオ
 akademi/ul/o⟦院ᴬ/者/o⟧:学究
@@ -747,7 +747,7 @@ akcesor/a mineral/o⟦副ᴬᴷ/a 矿ᴹᴿ/o⟧:【地質】随伴鉱物
 akcesor/a palac/o⟦副ᴬᴷ/a 宫/o⟧:【日】添屋敷（そえやしき）【私家版】
 akci/a⟦股ᴬ/a⟧:株式の
 akci/a kompani/o⟦股ᴬ/a 伴ᴷᴹ/o⟧:【経】株式会社
-akci/an/o⟦股ᴬ/员ᴬ/o⟧:=akciulo（株主）
+akci/an/o⟦股ᴬ/员/o⟧:=akciulo（株主）
 akcident/a⟦祸/a⟧:事故の;偶発的な
 akcident/a mort/o⟦祸/a 死/o⟧:事故死
 akcident/o⟦祸/o⟧:{Ｂ}事故,災難;偶然の出来事
@@ -1126,14 +1126,14 @@ alg/o⟦藻/o⟧:{Ｂ}海藻,も（藻）
 alg/oj⟦藻/oj⟧:【植】藻類
 Algol/o:【天】アルゴル（ペルセウス座のベータ星）
 algoritm/o:{Ｏ}【数】【情】算法,アルゴリズム
-alg^eri/an/o⟦alg^eri/员ᴬ/o⟧:アルジェリア人
+alg^eri/an/o⟦alg^eri/员/o⟧:アルジェリア人
 Alg^eri/o:{Ｏ}【国名】アルジェリア（アフリカ）
 Alg^er/o:【地名】アルジェ（アルジェリアの首都）
 al/g^ust/ig/i⟦向/正/使/i⟧:［他］ぴったり合わせる,調整する,調節する
 alh^emi/o⟦炼金ᴬᴴ̂/o⟧:{Ｏ}錬金術,=alkemio
 ali/a⟦别/a⟧:{Ｂ}ほかの,別の,その他の;もう一つの
 ali/a⟦别/a⟧:［代］他の人
-alianc/an/o⟦盟ᴬ/员ᴬ/o⟧:同盟国,同盟者
+alianc/an/o⟦盟ᴬ/员/o⟧:同盟国,同盟者
 alianc/ig^/i⟦盟ᴬ/成/i⟧:［自］【政】同盟する
 alianc/o⟦盟ᴬ/o⟧:【政】（国家間の）同盟
 ali/a ol⟦别/a 比⟧:〜以外の,〜と異なる
@@ -1152,7 +1152,7 @@ ali/form/ig^/i⟦别/形/成/i⟧:［自］変形する
 ali/gam/ig/i⟦别/阶ᴳ/使/i⟧:［他］【楽】移調する,=transponi
 aligator/o⟦鳄ᴬ/o⟧:{Ｏ}【動】（アリゲーター科の）ワニ（鰐）（ヨウスコウワニ、ミシシッピワニなど）,>>krokodilo
 al/ig/i⟦向/使/i⟧:［他］加入させる
-al/ig/it/a membr/o⟦向/使/受/a 员/o⟧:【Ｅ】（ＵＥＡの）団体会員
+al/ig/it/a membr/o⟦向/使/受/a 员ᴹ/o⟧:【Ｅ】（ＵＥＡの）団体会員
 al/ig^/i⟦向/成/i⟧:［自］加入する,加わる
 al/ig^/i al sindikat/o⟦向/成/i 向 盟/o⟧:組合に加入する
 al/ig^/il/o⟦向/成/具/o⟧:参加申込書
@@ -1167,7 +1167,7 @@ ali/kolor/ig^/o⟦别/色/成/o⟧:変色
 ali/konstru/i⟦别/建/i⟧:［他］改築する
 ali/konstru/o⟦别/建/o⟧:改築
 ali/land/a⟦别/国/a⟧:他国の,外国の
-ali/land/an/o⟦别/国/员ᴬ/o⟧:外国人
+ali/land/an/o⟦别/国/员/o⟧:外国人
 ali/land/a student/o⟦别/国/a 学ˢ/o⟧:外国人学生,留学生
 ali/land/o⟦别/国/o⟧:外国,他国,>>eksterlando,>>fremdlando
 ali/land/ul/o⟦别/国/者/o⟧:外国人,=alilandano
@@ -1184,7 +1184,7 @@ ali/nom/o⟦别/名/o⟧:別名
 ali/o⟦别/o⟧:ほかの物
 al/ir/ebl/a⟦向/往/可/a⟧:近づきやすい;【情】アクセス可能な
 al/ir/ej/o⟦向/往/所/o⟧:近づく道,出入口
-ali/religi/an/o⟦别/宗/员ᴬ/o⟧:他宗教の信者,他教信徒,>>pagano
+ali/religi/an/o⟦别/宗/员/o⟧:他宗教の信者,他教信徒,>>pagano
 ali/religi/ul/o⟦别/宗/者/o⟧:他宗教者;他宗教の信徒,=alireligiano
 al/ir/i⟦向/往/i⟧:［自］近よる;［他］【情】アクセスする
 al/ir/i la inter/ret/on⟦向/往/i la 间/网/on⟧:インターネットにアクセスする
@@ -1489,7 +1489,7 @@ Amazoni/o:【地名】アマゾニア（アマゾン川流域地方）
 amazon/o:【神】アマゾン（女戦士）;《転》女傑
 Amazon/o:【地名】アマゾン川（南米）
 Amazon/oj:アマゾネス（ギリシア神話に登場する勇猛な女戦士の部族）
-ambasad/an/o⟦使ᴬ/员ᴬ/o⟧:大使館員
+ambasad/an/o⟦使ᴬ/员/o⟧:大使館員
 ambasad/ej/o⟦使ᴬ/所/o⟧:大使館,=ambasadorejo
 ambasad/o⟦使ᴬ/o⟧:{Ｂ}大使館,大使と随員
 ambasador/ej/o⟦使ᴬᴿ/所/o⟧:大使館
@@ -1641,7 +1641,7 @@ amuz/ist/o⟦娱/家/o⟧:道化師
 amuz/kvartal/o⟦娱/区ᴷ/o⟧:歓楽街,盛り場,>>prospera kvartalo
 amuz/o⟦娱/o⟧:娯楽
 amuz/park/o⟦娱/园ᴾ/o⟧:遊園地
--an-⟦员ᴬ⟧:{Ｂ}［接尾辞］（構成員・住民・信奉者を示す）,>>partiano,>>tokiano
+-an-⟦员⟧:{Ｂ}［接尾辞］（構成員・住民・信奉者を示す）,>>partiano,>>tokiano
 anafilaksi/o:【病】アナフィラキシー,過敏症
 anagal/o⟦草ᴬᴺ/o⟧:{Ｏ}【植】ルリハコベ（属）;=kampa anagalo
 anagram/o:{Ｏ}【文】アナグラム
@@ -1680,7 +1680,7 @@ anarki/o⟦无政ᴬᴵ/o⟧:無政府,無政府状態
 anarkism/o⟦无政主义/o⟧:=>anarkiismo
 anarkist/o⟦无政家/o⟧:=>anarkiisto
 anarki/ul/o⟦无政ᴬᴵ/者/o⟧:（既成秩序への）反逆者
-an/ar/o⟦员ᴬ/群/o⟧:集団,サークル,会
+an/ar/o⟦员/群/o⟧:集団,サークル,会
 anas/aj^/o⟦鸭/物/o⟧:【料】アヒルの肉
 anas/ir/i⟦鸭/往/i⟧:［自］（アヒルのように）よちよち歩く
 anas/o⟦鸭/o⟧:{Ｂ}【鳥】アヒル（家鴨）
@@ -1735,7 +1735,7 @@ angi/o⟦脉ᴬᴺ/o⟧:【解】脈管,>>arterio,>>vejno,>>limfangio;【植】�
 angl/a:イギリス（人）の;（la 〜）英語の
 angl/a brand/o⟦angl/a 酒ᴮᴺ/o⟧:ブランデー
 angl/a/lingv/a⟦angl/a/语/a⟧:英語の
-angl/a/lingv/an/o⟦angl/a/语/员ᴬ/o⟧:英語話者
+angl/a/lingv/an/o⟦angl/a/语/员/o⟧:英語話者
 angl/a lingv/o⟦angl/a 语/o⟧:（la 〜）英語
 Angl/a Mar/kol/o:【地名】イギリス海峡（＝ラ・マンシュ海峡）,=Manika Markolo
 angl/a tun/o⟦angl/a 吨/o⟧:【単】英トン,ロングトン（＝約1016kg）
@@ -1778,7 +1778,7 @@ anhel/o⟦喘ᴬᴺ/o⟧:息切れ,呼吸切迫
 anhidr/a⟦无水/a⟧:【化】無水の
 anhidr/a alkohol/o⟦无水/a 醇/o⟧:【化】無水アルコール
 Anhuj/o:【地名】アンホイ省（安徽省，中国）,=Anhejo
-an/ig^/i⟦员ᴬ/成/i⟧:［自］入会する
+an/ig^/i⟦员/成/i⟧:［自］入会する
 anilin/o:{Ｏ}【化】アニリン
 anim/a⟦魂/a⟧:魂の;=animita
 animal/a diet/o⟦兽ᴬ/a 节/o⟧:肉食療法
@@ -1816,7 +1816,7 @@ ankuz/o:【植】ウシノシタクサ（属）,アンチューサ,=bovlango
 Ann/et/o:（女子名）アネット
 ann/o:【料】あん（餡）,=dolc^a fabopasto
 Ann/o:{Ｏ}（女子名）アンナ,アンヌ
-an/o⟦员ᴬ/o⟧:会員
+an/o⟦员/o⟧:会員
 anobi/o⟦虫ᴬᴺ/o⟧:【虫】アノビウム（シバンムシ科の一属、幼虫が家具・建材の害虫）
 anod/o:【理】アノード,陽極,><katodo,>>elektrodo
 anofel/o⟦蚊ᴬ/o⟧:【虫】ハマダラカ（属）,>>moskito
@@ -2310,7 +2310,7 @@ arest/ordon/o⟦逮/令/o⟧:逮捕状
 argan/o:油井やぐら;【機】起重機,クレーン,=gruo
 argentan/o:=>arg^entano
 argentin/a:アルゼンチンの
-argentin/an/o⟦argentin/员ᴬ/o⟧:アルゼンチン人
+argentin/an/o⟦argentin/员/o⟧:アルゼンチン人
 Argentin/o:【国名】アルゼンチン（南アメリカ）
 argil/aj^/o⟦粘土/物/o⟧:粘土細工,土器,陶器
 argil/o⟦粘土/o⟧:{Ｏ}粘土,陶土,>>potargilo
@@ -2341,8 +2341,8 @@ arh^itektur/o⟦建筑ᴬᵀ/o⟧:{Ｏ}=arkitekturo
 arh^iv/o⟦档ᴬᴴ̂/o⟧:{Ｏ}=arkivo
 Ariadn/a faden/o⟦Ariadn/a 丝ᶠ/o⟧:アリアドネの糸（難問を解くかぎ）
 Ariadn/o:【神】アリアドネ（ギリシア神話、ミノス王の娘）
-ari/an/ism/o⟦ari/员ᴬ/主义/o⟧:【キ】アリウス主義（異端とされた教説）
-ari/an/o⟦ari/员ᴬ/o⟧:【キ】アリウス派教徒
+ari/an/ism/o⟦ari/员/主义/o⟧:【キ】アリウス主義（異端とされた教説）
+ari/an/o⟦ari/员/o⟧:【キ】アリウス派教徒
 arier/gard/o⟦后卫/守/o⟧:【軍】後衛
 arier/ul/o⟦后卫/者/o⟧:【運】後衛,バック
 Aries/o:【天】おひつじ座,=S^afo
@@ -2366,7 +2366,7 @@ aritmetik/a vic/o⟦算ᴬ/a 列/o⟧:【数】算術数列,等差数列
 aritmetik/o⟦算ᴬ/o⟧:{Ｏ}算数,算術
 Arizon/o:【地名】アリゾナ州（米国）
 arj/a:アーリア語族の,アーリア人の
-arj/an/ism/o⟦arj/员ᴬ/主义/o⟧:【史】（ナチスの）アーリア人至上主義
+arj/an/ism/o⟦arj/员/主义/o⟧:【史】（ナチスの）アーリア人至上主義
 arj/o:【史】アーリア人（インド・イラン系）;【史】（ナチスの言う）アーリア人
 arkad/ar/o⟦拱廊/群/o⟧:【建】アーケード（全体）
 Arkadi/o:【地名】アルカディア（ギリシア、ペロポネソス半島中央部の山岳地帯）;《転》牧歌的な理想郷
@@ -2417,7 +2417,7 @@ arm/a konflikt/o⟦武/a 冲ᴷ/o⟧:武力紛争
 armatur/i⟦配筋/i⟧:［他］【建】鉄筋を入れる
 armatur/o⟦配筋/o⟧:【建】骨組,鉄筋;【理】電機子;【理】（磁石の）接極子
 armatur/o de kondens/il/o⟦配筋/o 从 凝ᴷᴺ/具/o⟧:【理】コンデンサーの電極
-arme/an/o⟦军/员ᴬ/o⟧:軍隊構成員,軍人・軍属
+arme/an/o⟦军/员/o⟧:軍隊構成員,軍人・軍属
 Armen/i/o:【国名】アルメニア（アジア）
 armen/o:{Ｏ}アルメニア人
 Armen/uj/o:【国名】=Armenio（アルメニア）
@@ -2500,7 +2500,7 @@ artikol/et/o⟦文ᴬ/小/o⟧:小記事
 artikol/o⟦文ᴬ/o⟧:{Ｂ}記事;条項;【法】（法令の）条,>>paragrafo;【Ｇ】冠詞
 artik/tord/o⟦节ᴬ/拧/o⟧:（足首などの）ねんざ（捻挫）
 artik/ul/o⟦节ᴬ/者/o⟧:【動】節足動物
-artileri/an/o⟦炮兵/员ᴬ/o⟧:【軍】砲兵
+artileri/an/o⟦炮兵/员/o⟧:【軍】砲兵
 artileri/o⟦炮兵/o⟧:{Ｏ}【軍】砲,大砲;砲兵隊
 art/ism/o⟦艺/主义/o⟧:芸術性,芸術的感覚
 art/ist/o⟦艺/家/o⟧:芸術家,アーティスト
@@ -2578,7 +2578,7 @@ as/o:{Ｏ}【遊】（サイコロの）一,（トランプの）エース
 asoci/a⟦联ᴬ/a⟧:協会の
 asoci/ad/i⟦联ᴬ/行/i⟧:［他］【心】連想する
 asoci/ad/o⟦联ᴬ/行/o⟧:【心】連想
-asoci/an/o⟦联ᴬ/员ᴬ/o⟧:会員
+asoci/an/o⟦联ᴬ/员/o⟧:会員
 asoci/i⟦联ᴬ/i⟧:［他］協会を作る;結合させる,連想させる
 asoci/ig^/i⟦联ᴬ/成/i⟧:［自］結びつく,連想される
 asoci/it/o⟦联ᴬ/受/o⟧:協力者
@@ -2807,9 +2807,9 @@ Au^stral/a Kron/o:【天】みなみのかんむり座
 Au^stral/a Tri/angul/o:【天】みなみのさんかく座
 Au^stralazi/o:【地名】オーストララシア（オーストラリア・ニュージーランド及び南太平洋の島々を含む地域）
 au^strali/a:オーストラリアの
-au^strali/an/o⟦au^strali/员ᴬ/o⟧:オーストラリア人
+au^strali/an/o⟦au^strali/员/o⟧:オーストラリア人
 Au^strali/o:{Ｂ}【国名】オーストラリア（大洋州）
-au^str/i/an/o⟦au^str/i/员ᴬ/o⟧:オーストリア人,オーストリア国民
+au^str/i/an/o⟦au^str/i/员/o⟧:オーストリア人,オーストリア国民
 Au^str/i/o:【国名】オーストリア（欧州）
 Au^str/i/o-Hungar/i/o:【史】オーストリア・ハンガリー帝国
 au^str/o:オーストリア人
@@ -2972,10 +2972,10 @@ azen/ig/i⟦驴/使/i⟧:［他］だます,かつぐ
 azen/kard/o⟦驴/刺草/o⟧:【植】オオヒレアザミ,=onopordo
 azen/o⟦驴/o⟧:{Ｂ}【動】ロバ;《転》愚か者
 azen/pied/o⟦驴/足/o⟧:【植】フキタンポポ,=c^evalpiedo,=tusilago
-azerbajg^an/an/o⟦azerbajg^an/员ᴬ/o⟧:アゼルバイジャン人
+azerbajg^an/an/o⟦azerbajg^an/员/o⟧:アゼルバイジャン人
 Azerbajg^an/o:【国名】アゼルバイジャン（アジア）
 azi/a:アジアの
-azi/an/o⟦azi/员ᴬ/o⟧:アジア人
+azi/an/o⟦azi/员/o⟧:アジア人
 azi/ec/a⟦azi/性/a⟧:アジア的な,アジア風の
 azil/o⟦庇ᴬ/o⟧:{Ｏ}避難所,社会福祉施設
 azil/pet/ant/o⟦庇ᴬ/求/在/o⟧:（保護を求める）難民
@@ -3006,7 +3006,7 @@ Babilon/a salik/o⟦Babilon/a 柳/o⟧:【植】シダレヤナギ（枝垂柳�
 Babiloni/o:【史】バビロニア（古代メソポタミアの国）
 Babilon/o:【史】バビロン（古代バビロニアの首都）
 babirus/o:【動】バビルサ,シカイノシシ
-babord/an/o⟦船左/员ᴬ/o⟧:【海】左舷当直
+babord/an/o⟦船左/员/o⟧:【海】左舷当直
 babord/e⟦船左/e⟧:左舷に
 babord/o⟦船左/o⟧:【海】左舷,><tribordo
 babus^/o:バブーシュ（中東〜北アフリカで使われる革製の室内履き）,>>pantoflo
@@ -3024,7 +3024,7 @@ bagatel/ig/i⟦琐/使/i⟧:［他］ささいなこととして扱う
 bagatel/o⟦琐/o⟧:{Ｂ}つまらないこと,ささいなこと
 Bagavadgit/o:【文】バガバッド・ギーター（古代インドの宗教的詩編）
 Bagdad/o:【地名】バグダッド（イラクの首都）
-baha/an/o⟦baha/员ᴬ/o⟧:【宗】バハイ教徒
+baha/an/o⟦baha/员/o⟧:【宗】バハイ教徒
 baha/ism/o⟦baha/主义/o⟧:【宗】バハイ教
 Baham/oj:【国名】バハマ（北アメリカ）
 Baham/oj:【地名】バハマ諸島（中央アメリカ）
@@ -3194,7 +3194,7 @@ bank/a kont/o⟦银ᴮ/a 账/o⟧:銀行口座
 ban/kalson/o⟦浴/裤ᴷ/o⟧:水泳パンツ
 bank/bilet/o⟦银ᴮ/票/o⟧:銀行券
 bank/c^ek/o⟦银ᴮ/票ᶜ̂/o⟧:【商】銀行小切手
-banked/an/o⟦宴ᴮ/员ᴬ/o⟧:会食者
+banked/an/o⟦宴ᴮ/员/o⟧:会食者
 banked/i⟦宴ᴮ/i⟧:［自］宴会に参加する;会食する
 banked/o⟦宴ᴮ/o⟧:{Ｏ}宴会;会食会
 bank/estr/o⟦银ᴮ/长ᴱ/o⟧:銀行頭取,=bankiero
@@ -3231,7 +3231,7 @@ bantu/oj:バントゥー族
 ban/uj/o⟦浴/器/o⟧:湯船,浴槽,=bankuvo
 ban/urb/o⟦浴/市/o⟧:温泉町,湯治場
 baobab/o⟦木ᴮᴮ/o⟧:【植】バオバブ
-bapt/an/o⟦洗ᴮ/员ᴬ/o⟧:洗礼立会人
+bapt/an/o⟦洗ᴮ/员/o⟧:洗礼立会人
 bapt/at/o⟦洗ᴮ/被/o⟧:洗礼を受ける人,受洗者
 bapt/i⟦洗ᴮ/i⟧:{Ｂ}［他］【宗】洗礼を施す;《転》名付ける
 bapt/ig^/i⟦洗ᴮ/成/i⟧:［自］【宗】洗礼を受ける
@@ -3414,7 +3414,7 @@ Bazik/o:【情】ベーシック,BASIC（プログラミング言語）
 bazilik/o:{Ｏ}【史】バジリカ;【カ】バジリカ聖堂
 bazilisk/o:{Ｏ}【神】バジリスク（伝説上の怪蛇、毒気が強く、ひとにらみで人を殺す）;【動】バシリスク,セビレトカゲ
 baz/it/a⟦基/受/a⟧:（〜に）基礎をおいた
-baz/lern/ej/an/o⟦基/学/所/员ᴬ/o⟧:初等学校生徒,小学生
+baz/lern/ej/an/o⟦基/学/所/员/o⟧:初等学校生徒,小学生
 baz/lern/ej/o⟦基/学/所/o⟧:初等学校,小学校,=elementa lernejo
 baz/o⟦基/o⟧:{Ｂ}土台,基礎,礎石;《転》基盤,根拠;【生】基部;【化】塩基;【数】基数;【数】基底;【数】底辺;【軍】基地
 baz/o/pilk/o⟦基/o/球/o⟧:【運】野球,=basbalo
@@ -3524,8 +3524,8 @@ bend/i⟦带ᴮ/i⟧:［他］（ひも・テープで）しばる,束ねる,巻
 bend/o⟦带ᴮ/o⟧:{Ｂ}ひも,テープ,帯,バンド;【車】タイヤ;【建】帯飾り
 bend/o/spektr/o⟦带ᴮ/o/谱/o⟧:【理】バンドスペクトル
 bend/seg/il/o⟦带ᴮ/锯/具/o⟧:【機】帯鋸（おびのこ）
-benedikt/an/a labor/o⟦benedikt/员ᴬ/a 劳/o⟧:《転》根気のいる仕事
-benedikt/an/o⟦benedikt/员ᴬ/o⟧:【キ】ベネディクト会修道士
+benedikt/an/a labor/o⟦benedikt/员/a 劳/o⟧:《転》根気のいる仕事
+benedikt/an/o⟦benedikt/员/o⟧:【キ】ベネディクト会修道士
 benefic/o⟦益ᴮ/o⟧:慈善興行;【法】（法律で認められた）特典,特権
 benefic/o de dub/o⟦益ᴮ/o 从 疑/o⟧:【法】「疑わしきは罰せず」の原則
 Beneluks/o:【地名】ベネルクス（ベルギー・オランダ・ルクセンブルク３国の総称）
@@ -3944,7 +3944,7 @@ boac/o⟦鹿ᴮ/o⟧:{Ｏ}【動】トナカイ,カリブー,馴鹿（じゅん�
 boa/o:{Ｏ}【動】ボア;【服】ボア（女性用襟巻きの一種）
 board/i⟦迎风/i⟧:［自］【海】まぎる,ジグザグに帆走する;《転》回り道をする,遠回しの手段をとる
 board/o⟦迎风/o⟧:【海】（帆船が）方向を変えずに進んだ区間
-boat/an/o⟦舟/员ᴬ/o⟧:乗組員,水夫
+boat/an/o⟦舟/员/o⟧:乗組員,水夫
 boat/estr/o⟦舟/长ᴱ/o⟧:【海】甲板長,水夫長
 boat/ist/o⟦舟/家/o⟧:漕ぎ手,船頭,水夫
 boat/konkur/o⟦舟/竞/o⟧:ボート競漕
@@ -4134,7 +4134,7 @@ bo/patr/o⟦姻/父/o⟧:しゅうと
 bor/ad/o⟦钻/行/o⟧:穿孔,ボーリング
 borag/o⟦草ᴮᴿ/o⟧:【植】ルリジサ
 boraks/o:{Ｏ}【化】ホウ砂（しゃ）
-bordel/an/in/o⟦妓院/员ᴬ/女/o⟧:=prostituitino
+bordel/an/in/o⟦妓院/员/女/o⟧:=prostituitino
 bordel/ist/o⟦妓院/家/o⟧:売春宿の主人
 bordel/o⟦妓院/o⟧:{Ｏ}売春宿,=prostituejo,=malc^astejo
 border/i⟦缘/i⟧:{Ｏ}［他］縁取る
@@ -4163,7 +4163,7 @@ Bors/o de Novjork/o⟦Bors/o 从 Novjork/o⟧:（la 〜）ニューヨーク証�
 bor/tru/o⟦钻/穴/o⟧:穿孔,ボーリング孔;発破孔
 bosk/et/o⟦林ᴮ/小/o⟧:（数本の木から成る）木立
 bosk/o⟦林ᴮ/o⟧:{Ｏ}（公園などの）植込み,木立
-bosn/i/an/o⟦bosn/i/员ᴬ/o⟧:ボスニア人
+bosn/i/an/o⟦bosn/i/员/o⟧:ボスニア人
 Bosn/i/o:【地名】ボスニア地方（ボスニア・ヘルツェゴビナ）
 Bosn/i/o-Hercegovin/o:=>Bosnio kaj Hercegovino（ボスニア・ヘルツェゴビナ）
 Bosn/i/o kaj Hercegovin/o⟦Bosn/i/o 和ᴷ Hercegovin/o⟧:【国名】ボスニア・ヘルツェゴビナ（欧州）
@@ -4286,7 +4286,7 @@ brav/o/kri/o⟦勇ᴮ/o/叫/o⟧:喝采（かっさい）
 brav/ul/o⟦勇ᴮ/者/o⟧:勇者,勇士
 Brazavil/o:【地名】ブラザビル（コンゴ共和国の首都）
 brazil/a:ブラジルの
-brazil/an/o⟦brazil/员ᴬ/o⟧:ブラジル人
+brazil/an/o⟦brazil/员/o⟧:ブラジル人
 Brazili/o:【地名】=>Braziljo（ブラジリア）
 brazilj/a:ブラジリアの
 Brazilj/o:【地名】ブラジリア（ブラジルの首都）
@@ -4540,9 +4540,9 @@ budapes^t/a:ブダペストの
 Budapes^t/o:【地名】ブダペスト（ハンガリーの首都）
 Budd/o:【仏】=>Budho（仏陀）
 budg^et/o⟦预算ᴮᴰ/o⟧:{Ｂ}=>bug^eto（予算）
-budh/an/a nom/o⟦佛/员ᴬ/a 名/o⟧:【仏】戒名,法名
-budh/an/a templ/o⟦佛/员ᴬ/a 庙/o⟧:仏教寺院,寺
-budh/an/o⟦佛/员ᴬ/o⟧:【仏】仏教徒
+budh/an/a nom/o⟦佛/员/a 名/o⟧:【仏】戒名,法名
+budh/an/a templ/o⟦佛/员/a 庙/o⟧:仏教寺院,寺
+budh/an/o⟦佛/员/o⟧:【仏】仏教徒
 budh/a statu/o⟦佛/a 像ˢ/o⟧:仏像
 budh/ec/o⟦佛/性/o⟧:【仏】仏性
 budh/ism/o⟦佛/主义/o⟧:【仏】仏教
@@ -4647,7 +4647,7 @@ burokrat/ar/o⟦官ᴮ/群/o⟧:【政】官僚（全体）
 burokrat/ism/o⟦官ᴮ/主义/o⟧:【政】官僚制;《転》官僚主義
 burokrat/o⟦官ᴮ/o⟧:{Ｏ}【政】官僚,役人;《転》官僚主義者,しゃくし定規な役人
 Buro/o pri Medi/oj⟦Buro/o 于 Medi/oj⟧:【政】環境庁
-burund/an/o⟦burund/员ᴬ/o⟧:ブルンジ人
+burund/an/o⟦burund/员/o⟧:ブルンジ人
 Burundi/o:=>Burundo（ブルンジ）
 Burund/o:【国名】ブルンジ（アフリカ）
 Busan/o:【地名】プサン（釜山，韓国）,=Pusano
@@ -5155,13 +5155,13 @@ civil/iz/it/ec/o⟦民ᶜ/化/受/性/o⟧:文明度;開化した状態
 civil/iz/it/o⟦民ᶜ/化/受/o⟧:文明人
 civil/iz/o⟦民ᶜ/化/o⟧:教化,開化;=civiliziteco
 civil/ul/o⟦民ᶜ/者/o⟧:一般市民,民間人
-civit/an/a⟦市ᶜ/员ᴬ/a⟧:市民の,公民の,国民の
-civit/an/a dom/o⟦市ᶜ/员ᴬ/a 屋/o⟧:公民館
-civit/an/a hal/o⟦市ᶜ/员ᴬ/a 厅/o⟧:市民会館,=urba halo
-civit/an/a mov/ad/o⟦市ᶜ/员ᴬ/a 动/行/o⟧:市民運動
-civit/an/a rajt/o⟦市ᶜ/员ᴬ/a 权/o⟧:（〜aj 〜oj）市民権（市民としての権利）,人権
-civit/an/ec/o⟦市ᶜ/员ᴬ/性/o⟧:市民権（市民としての身分）,国籍
-civit/an/o⟦市ᶜ/员ᴬ/o⟧:市民,公民,国民
+civit/an/a⟦市ᶜ/员/a⟧:市民の,公民の,国民の
+civit/an/a dom/o⟦市ᶜ/员/a 屋/o⟧:公民館
+civit/an/a hal/o⟦市ᶜ/员/a 厅/o⟧:市民会館,=urba halo
+civit/an/a mov/ad/o⟦市ᶜ/员/a 动/行/o⟧:市民運動
+civit/an/a rajt/o⟦市ᶜ/员/a 权/o⟧:（〜aj 〜oj）市民権（市民としての権利）,人権
+civit/an/ec/o⟦市ᶜ/员/性/o⟧:市民権（市民としての身分）,国籍
+civit/an/o⟦市ᶜ/员/o⟧:市民,公民,国民
 civit/ism/o⟦市ᶜ/主义/o⟧:公民精神,市民としての自覚;公共心
 civit/o⟦市ᶜ/o⟧:{Ｂ}【史】自治都市;市民（全体）,公民（全体）
 cizel/ad/o⟦雕ᶜ/行/o⟧:打ち出し細工
@@ -5506,7 +5506,7 @@ c^ic^eron/o⟦导ᶜ̂/o⟧:観光ガイド,名所案内人
 c^i c^io⟦此 全o⟧:［代］これらすべて
 c^ie⟦全e⟧:{Ｂ}［副］いたる所に,どこでも
 c^ie/a⟦全e/a⟧:いたる所の
-c^ie ajn⟦全e 任ᴬ⟧:［副］どこもかしこも
+c^ie ajn⟦全e 任⟧:［副］どこもかしこも
 c^ie/est/a⟦全e/是/a⟧:どこにでもある;【情】ユビキタスの
 c^iel⟦全样⟧:{Ｂ}［副］いろいろと
 c^iel/a⟦天ᶜ̂/a⟧:空の,天の
@@ -5559,7 +5559,7 @@ c^ikan/o⟦刁/o⟧:難癖,言いがかり,揚げ足取り;詭弁
 c^i-kun/e⟦此-共/e⟧:同封して,添付して
 c^i-land/a⟦此-国/a⟧:この国の
 c^i last/a⟦此 末/a⟧:後者（の）
-c^ili/an/o⟦c^ili/员ᴬ/o⟧:チリ人
+c^ili/an/o⟦c^ili/员/o⟧:チリ人
 C^ilia salpetr/o⟦C^ilia 硝/o⟧:チリ硝石,=natria nitrato
 C^ili/o:【国名】チリ（南アメリカ）
 c^il/o:【医】乳糜（にゅうび）
@@ -6008,7 +6008,7 @@ defend/a milit/o⟦防/a 战/o⟧:防衛戦争,自衛戦争
 defend/ant/o⟦防/在/o⟧:守護者,擁護者;【法】弁護人;【法】=plendito,（民事の）被告
 defend/i⟦防/i⟧:{Ｂ}［他］守る,防御する,防衛する;【法】弁護する
 defend/i konstituci/on⟦防/i 宪/on⟧:憲法を擁護する
-defend/korpus/an/o⟦防/军团/员ᴬ/o⟧:自衛官,自衛隊員
+defend/korpus/an/o⟦防/军团/员/o⟧:自衛官,自衛隊員
 defend/korpus/o⟦防/军团/o⟧:自衛隊
 defend/o⟦防/o⟧:防御,防衛;【法】弁護
 defend/rajt/o⟦防/权/o⟧:自衛権
@@ -6626,7 +6626,7 @@ dev/ont/ig/i⟦应/将/使/i⟧:{Ｂ}［他］（履行を）約束させる
 dev/o/sent/o⟦应/o/感/o⟧:義務感
 dezert/a⟦漠/a⟧:砂漠の;荒れはてた;人けのない,無人の
 dezert/a insul/o⟦漠/a 岛/o⟧:無人島,=senhoma insulo
-dezert/an/o⟦漠/员ᴬ/o⟧:砂漠の民
+dezert/an/o⟦漠/员/o⟧:砂漠の民
 dezert/ec/o⟦漠/性/o⟧:荒れはてた様子,荒廃
 dezert/ig/i⟦漠/使/i⟧:［他］荒れはてさせる
 dezert/ig^/i⟦漠/成/i⟧:［自］砂漠化する,荒廃する
@@ -6744,7 +6744,7 @@ dierez/i⟦分音/i⟧:［他］二重母音を分けて発音する
 dierez/o⟦分音/o⟧:【Ｇ】分音（二重母音を分けて発音すること）;【Ｇ】=tremao
 dies/o⟦升ᴰ/o⟧:{Ｏ}【楽】シャープ,嬰記号（♯）,><bemolo;【情】シャープ（＃）
 diet/a⟦节/a⟧:【医】食餌療法の
-diet/an/o⟦节/员ᴬ/o⟧:（日本の）国会議員,>>parlamentano
+diet/an/o⟦节/员/o⟧:（日本の）国会議員,>>parlamentano
 diet/ist/o⟦节/家/o⟧:（食餌療法を処方する）栄養士
 diet/o⟦节/o⟧:{Ｂ}【医】食餌療法,ダイエット;【医】規定食
 Diet/o:【政】国会（日本・ドイツなど）,>>parlamento
@@ -7096,9 +7096,9 @@ dis/lok/i⟦散/处/i⟧:［他］配置する,分散して置く
 dis/mas^/ig/i⟦散/眼/使/i⟧:［他］編み目をほどく
 dis/mas^/ig^/i⟦散/眼/成/i⟧:［自］（ストッキングが）伝線する
 dis/mas^/ig^/o⟦散/眼/成/o⟧:（ストッキングの）伝線
-dis/membr/ig/i⟦散/员/使/i⟧:［他］解体する,分割する,分解する,ばらばらにする
-dis/membr/ig^/i⟦散/员/成/i⟧:［自］解体される,分割される,分解する,ばらばらになる
-dis/membr/ig^/o⟦散/员/成/o⟧:解体,分割,分解
+dis/membr/ig/i⟦散/员ᴹ/使/i⟧:［他］解体する,分割する,分解する,ばらばらにする
+dis/membr/ig^/i⟦散/员ᴹ/成/i⟧:［自］解体される,分割される,分解する,ばらばらになる
+dis/membr/ig^/o⟦散/员ᴹ/成/o⟧:解体,分割,分解
 dis/met/i⟦散/置/i⟧:［他］ばらばらに置く,分解する;【海】〜の排水量を持つ
 dis/met/o⟦散/置/o⟧:【海】（船の）排水量
 dis/miks/i⟦散/混/i⟧:［他］【料】（液体で）溶く
@@ -7410,7 +7410,7 @@ Domag^/e!:［間］惜しい！
 domag^/i⟦惜/i⟧:［他］惜しむ,大事にする,いたわる
 domag^/o⟦惜/o⟧:{Ｂ}惜しいこと,残念なこと
 dom/aj s^u/oj⟦屋/aj 鞋/oj⟧:上履き
-dom/an/o⟦屋/员ᴬ/o⟧:家人
+dom/an/o⟦屋/员/o⟧:家人
 dom/best/o⟦屋/兽/o⟧:家畜
 dom/blok/a kvartal/o⟦屋/块/a 区ᴷ/o⟧:住宅団地
 dom/blok/a ras/o⟦屋/块/a 种ᴿ/o⟧:団地族
@@ -7433,7 +7433,7 @@ domin/ant/o⟦治ᴰ/在/o⟧:支配者,優位者
 domin/em/a⟦治ᴰ/倾/a⟧:横柄な,威圧的な,>>regema
 Doming/o:【国名】ドミニカ共和国（通称）,=Dominika Respubliko
 domin/i⟦治ᴰ/i⟧:［他］優越する,=superi;圧倒する,=superregi,=superpotenci
-dominik/an/o⟦dominik/员ᴬ/o⟧:【キ】ドミニコ会修道士
+dominik/an/o⟦dominik/员/o⟧:【キ】ドミニコ会修道士
 Dominik/a Respublik/o:【国名】ドミニカ共和国（首都Santo-Domingo，大アンティル諸島，北アメリカ）
 Dominik/o:【国名】ドミニカ国（首都Roseo，小アンティル諸島，北アメリカ）
 Dominik/o:【人名】ドミニク
@@ -7486,7 +7486,7 @@ dop/ad/o⟦dop/行/o⟧:【医】【運】ドーピング
 dop/aj^/o⟦dop/物/o⟧:【薬】【運】ドーピング剤
 dop/i:［他］【医】【運】ドーピングする（運動能力を高めるために薬剤を与えること）
 Dopler/o:【人名】ドップラー（オーストリアの物理学者，1803-1853）
-dori/an/o⟦dori/员ᴬ/o⟧:【史】ドリス人（＝ドーリア人，古代ギリシア人の一派）
+dori/an/o⟦dori/员/o⟧:【史】ドリス人（＝ドーリア人，古代ギリシア人の一派）
 dorik/a kapitel/o⟦dorik/a 柱头/o⟧:【建】ドリス式（＝ドーリア式）柱頭
 Dori/o:【地名】ドリス地方（ギリシア）
 dorlot/ad/o⟦宠/行/o⟧:甘やかし
@@ -7797,7 +7797,7 @@ dum/temp/e⟦期ᴰᴹ/时/e⟧:一時的に,しばらく;その間に
 dum/viv/a⟦期ᴰᴹ/活/a⟧:終身の,生涯の,>>vivdau^ra
 dum/viv/a lern/ad/o⟦期ᴰᴹ/活/a 学/行/o⟧:生涯学習
 dum/viv/a mal/liber/ig/o⟦期ᴰᴹ/活/a 反/自由/使/o⟧:終身刑
-dum/viv/a membr/o⟦期ᴰᴹ/活/a 员/o⟧:終身会員
+dum/viv/a membr/o⟦期ᴰᴹ/活/a 员ᴹ/o⟧:終身会員
 dum/voj/e⟦期ᴰᴹ/路/e⟧:道々,途中で
 du/nadl/a cirkel/o⟦二/针/a 规ᶜ/o⟧:【機】ディバイダー
 du/nask/it/oj⟦二/生/受/oj⟧:=g^emelo（双子）
@@ -7927,7 +7927,7 @@ du/ovol/aj g^emel/oj⟦二/卵ᴼᴸ/aj 双胎/oj⟧:二卵性双生児
 du/parti/a⟦二/党/a⟧:【政】二大政党制の
 dupleks/a:【通】同時送受信方式の,二重通信方式の
 duplikat/o⟦副本/o⟧:副本,写し;【法】謄本
-duplikat/o pri civit/an/ec/o⟦副本/o 于 市ᶜ/员ᴬ/性/o⟧:戸籍謄本
+duplikat/o pri civit/an/ec/o⟦副本/o 于 市ᶜ/员/性/o⟧:戸籍謄本
 du/polus/a momant/o⟦二/极ᴾ/a 矩/o⟧:【理】双極子モーメント
 du/polus/o⟦二/极ᴾ/o⟧:【理】双極子
 du/punkt/o⟦二/点/o⟧:【印】【情】コロン（：）;【数】除算記号（：）
@@ -8142,7 +8142,7 @@ eg/ec/o⟦巨/性/o⟧:巨大さ,重大さ,>>kulmino
 egid/o:{Ｏ}【神】アイギス（ゼウスがアテナに与えた盾）;《転》保護,後援
 egipt/a civilizaci/o⟦egipt/a 民化态/o⟧:（la 〜）【史】エジプト文明
 egipt/a lotus/o⟦egipt/a 莲/o⟧:【植】スイレン（睡蓮）,>>nimfeo
-egipt/an/o⟦egipt/员ᴬ/o⟧:=>egipto（エジプト人）
+egipt/an/o⟦egipt/员/o⟧:=>egipto（エジプト人）
 Egipt/i/o:【国名】エジプト（アフリカ）
 egipt/o:エジプト人
 Egipt/o:【国名】=>Egiptio（エジプト）
@@ -8251,7 +8251,7 @@ ek/lern/i⟦始/学/i⟧:［他］学習を始める
 eklezi/a⟦教ᴱ/a⟧:【キ】教会の
 eklezi/a hierarki/o⟦教ᴱ/a 级ᴴ/o⟧:聖職位階制
 eklezi/a muzik/o⟦教ᴱ/a 乐/o⟧:教会音楽
-eklezi/an/o⟦教ᴱ/员ᴬ/o⟧:【キ】（教会の）信徒,教会員
+eklezi/an/o⟦教ᴱ/员/o⟧:【キ】（教会の）信徒,教会員
 eklezi/o⟦教ᴱ/o⟧:{Ｂ}【キ】（団体としての）教会,>>preg^ejo,>>kirko
 eklezi/ul/o⟦教ᴱ/者/o⟧:【キ】聖職者,牧師,>>pastro
 eklips/a⟦食ᴱ/a⟧:【天】食の
@@ -8526,7 +8526,7 @@ ekster/kutim/a⟦外ᴱ/习/a⟧:まれに見る,例外的な,並はずれた
 ekster/land/a⟦外ᴱ/国/a⟧:外国の,国外の,海外の
 ekster/land/a en/migr/int/o⟦外ᴱ/国/a 内/迁/过/o⟧:外国人移民
 ekster/land/aj afer/oj⟦外ᴱ/国/aj 事ᴬ/oj⟧:外務,対外業務,外交問題
-ekster/land/an/o⟦外ᴱ/国/员ᴬ/o⟧:外国人
+ekster/land/an/o⟦外ᴱ/国/员/o⟧:外国人
 ekster/land/a politik/o⟦外ᴱ/国/a 政/o⟧:外交政策
 ekster/land/a student/o⟦外ᴱ/国/a 学ˢ/o⟧:外国人学生,留学生
 ekster/land/a s^uld/o⟦外ᴱ/国/a 欠/o⟧:対外債務
@@ -8563,7 +8563,7 @@ ekster/skrib/it/a⟦外ᴱ/书ˢ/受/a⟧:【数】傍接した
 ekster/star/ant/o⟦外ᴱ/立/在/o⟧:部外者,局外者,第三者
 ekster/tem/a⟦外ᴱ/题/a⟧:本題を外れた
 ekster/ter/a⟦外ᴱ/地/a⟧:地球外の
-ekster/ter/an/o⟦外ᴱ/地/员ᴬ/o⟧:異星人,宇宙人
+ekster/ter/an/o⟦外ᴱ/地/员/o⟧:異星人,宇宙人
 ekster/teritori/a⟦外ᴱ/领/a⟧:【法】治外法権的な
 ekster/teritori/ec/o⟦外ᴱ/领/性/o⟧:【法】治外法権
 ekster/ul/o⟦外ᴱ/者/o⟧:部外者;（寄宿生に対して）通学生
@@ -9554,7 +9554,7 @@ en/kurs/ig/il/o⟦内/课/使/具/o⟧:【情】ルーター,>>loka reto
 en/lad/ig/i⟦内/板ᴸ/使/i⟧:［他］缶詰にする
 en/lad/ig/it/a⟦内/板ᴸ/使/受/a⟧:缶詰の
 en/land/a⟦内/国/a⟧:国内の
-en/land/an/o⟦内/国/员ᴬ/o⟧:内国人,内国民
+en/land/an/o⟦内/国/员/o⟧:内国人,内国民
 en/land/e⟦内/国/e⟧:国内で,国内に
 en/las/i⟦内/留/i⟧:［他］勝手に入らせる,入れてやる
 en/list/ig/i⟦内/表ᴸ/使/i⟧:［他］表に載せる
@@ -9744,7 +9744,7 @@ epigraf/o⟦表记/o⟧:{Ｏ}碑銘,碑文;題辞,銘句
 epigram/o⟦表字/o⟧:{Ｏ}【文】警句,エピグラム
 epikarp/o:【植】外果皮,>>endokarpo
 epikur/a:快楽的な;エピクロスの
-epikur/an/o⟦epikur/员ᴬ/o⟧:快楽主義者;【哲】エピクロス学派（の人）
+epikur/an/o⟦epikur/员/o⟧:快楽主義者;【哲】エピクロス学派（の人）
 epikur/ism/o⟦epikur/主义/o⟧:快楽主義;【哲】エピクロス哲学
 Epikur/o:【人名】エピクロス（古代ギリシアの哲学者）
 epilepsi/o:{Ｏ}【病】てんかん（癲癇）
@@ -9753,7 +9753,7 @@ epilog/o⟦后话/o⟧:{Ｏ}【芸】（小説などの）跋（ばつ）;終章
 epiornit/o⟦隆鸟/o⟧:【鳥】エピオルニス（絶滅した大型の走鳥類の鳥）
 Epir/o:【地名】エピロス地方（ギリシア）
 episkop/a eklezi/o⟦主教/a 教ᴱ/o⟧:【キ】聖公会
-episkop/an/o⟦主教/员ᴬ/o⟧:【キ】聖公会員
+episkop/an/o⟦主教/员/o⟧:【キ】聖公会員
 episkop/ar/o⟦主教/群/o⟧:【カ】司教団
 episkop/land/o⟦主教/国/o⟧:【キ】=episkopujo;【史】司教国
 episkop/o⟦主教/o⟧:{Ｏ}【キ】（カトリックの）司教,（ギリシア正教・英国国教会の）主教,（プロテスタントの）監督
@@ -9996,7 +9996,7 @@ estrad/o⟦讲台/o⟧:{Ｏ}=podio（演壇）
 estr/ad/o⟦长ᴱ/行/o⟧:統率,采配（さいはい）
 estragon/o:《Ｎ》【植】エストラゴン,タラゴン,>>drakunkolo
 estr/ar/a⟦长ᴱ/群/a⟧:役員会の
-estr/ar/an/o⟦长ᴱ/群/员ᴬ/o⟧:役員,理事
+estr/ar/an/o⟦长ᴱ/群/员/o⟧:役員,理事
 estr/ar/kun/sid/o⟦长ᴱ/群/共/坐/o⟧:役員会（会合）
 estr/ar/o⟦长ᴱ/群/o⟧:幹部,役員会（機関）,理事会
 estr/ec/o⟦长ᴱ/性/o⟧:（長としての）威信
@@ -10067,7 +10067,7 @@ etn/a⟦族ᴱ/a⟧:民族（集団）の
 etn/a konflikt/o⟦族ᴱ/a 冲ᴷ/o⟧:民族紛争
 etn/a lingv/o⟦族ᴱ/a 语/o⟧:民族語,>>nacia lingvo
 etn/a minoritat/o⟦族ᴱ/a 少数/o⟧:少数民族
-etn/an/o⟦族ᴱ/员ᴬ/o⟧:民族の一員
+etn/an/o⟦族ᴱ/员/o⟧:民族の一員
 etn/a pur/ig/ad/o⟦族ᴱ/a 纯/使/行/o⟧:【政】民族浄化,>>genocido
 etn/o⟦族ᴱ/o⟧:{Ｏ}民族（集団）;エスニックグループ
 Etn/o:【地名】エトナ山（イタリア）
@@ -10112,9 +10112,9 @@ Eu^rop/a Bank/o por Dis/volv/ig^/o⟦Eu^rop/a Bank/o 为 Dis/volv/ig^/o⟧:（la
 Eu^rop/a bizon/o⟦Eu^rop/a 野牛/o⟧:【動】ヨーロッパバイソン,ヨーロッパヤギュウ
 Eu^rop/a Konsili/o:【政】欧州理事会（ＥＵの首脳会議）
 Eu^rop/a larik/o⟦Eu^rop/a 落松/o⟧:【植】ヨーロッパカラマツ（種）
-eu^rop/an/o⟦eu^rop/员ᴬ/o⟧:ヨーロッパ人
+eu^rop/an/o⟦eu^rop/员/o⟧:ヨーロッパ人
 Eu^rop/a Parlament/o:【政】欧州議会（ＥＵの立法府）
-eu^roparlament/an/o⟦欧议/员ᴬ/o⟧:欧州議会議員
+eu^roparlament/an/o⟦欧议/员/o⟧:欧州議会議員
 Eu^roparlament/o:欧州議会
 Eu^rop/a Uni/o:【政】ヨーロッパ連合（EU）
 eu^rop/ec/a⟦eu^rop/性/a⟧:ヨーロッパ的な,ヨーロッパ風の
@@ -10136,7 +10136,7 @@ evaku/it/o⟦疏散/受/o⟧:疎開者,引き揚げ者
 evaku/o⟦疏散/o⟧:【軍】撤退,撤収,撤兵;退去,疎開
 evangeli/a⟦福音/a⟧:福音の,福音の教えにかなった;福音主義の,プロテスタントの
 evangeli/a eklezi/o⟦福音/a 教ᴱ/o⟧:【キ】福音教会
-evangeli/an/o⟦福音/员ᴬ/o⟧:【キ】福音派（信者）
+evangeli/an/o⟦福音/员/o⟧:【キ】福音派（信者）
 evangeli/i⟦福音/i⟧:［他］福音を説く
 evangeli/ist/o⟦福音/家/o⟧:【キ】福音書著者;福音伝道者
 evangeli/libr/o⟦福音/书/o⟧:【キ】（典礼用）福音集
@@ -10304,7 +10304,7 @@ fajr/ig/i⟦火/使/i⟧:［他］燃え上がらせる
 fajr/il/o⟦火/具/o⟧:点火器,火打ち石,ライター
 fajr/o⟦火/o⟧:{Ｂ}火;火事;《転》情熱,熱中
 fajr/o/bird/o⟦火/o/鸟/o⟧:火の鳥,=fenikso
-fajr/o/brigad/an/o⟦火/o/旅ᴮ/员ᴬ/o⟧:消防隊員,消防士,=fajrobrigadisto
+fajr/o/brigad/an/o⟦火/o/旅ᴮ/员/o⟧:消防隊員,消防士,=fajrobrigadisto
 fajr/o/brigad/ist/o⟦火/o/旅ᴮ/家/o⟧:消防士,消防隊員,=fajrobrigadano
 fajr/o/brigad/o⟦火/o/旅ᴮ/o⟧:消防隊
 fajr/o/fung/o⟦火/o/菌/o⟧:【菌】=tindrofungo（ツリガネタケ）
@@ -10434,7 +10434,7 @@ famili/a⟦家ᶠ/a⟧:家族の,家庭の;家族的な,水入らずの
 famili/a c^ambr/o⟦家ᶠ/a 室/o⟧:居間
 famili/a instituci/o⟦家ᶠ/a 构ᴵ/o⟧:家族制度
 famili/a medi/o⟦家ᶠ/a 境/o⟧:家庭環境
-famili/an/o⟦家ᶠ/员ᴬ/o⟧:家族（の一員）
+famili/an/o⟦家ᶠ/员/o⟧:家族（の一員）
 famili/a nom/o⟦家ᶠ/a 名/o⟧:姓,>>persona nomo
 familiar/a⟦熟ᶠ/a⟧:{Ｂ}親しい,慣れ親しんだ,心安い,くだけた,平俗な,>>intima,>>senceremonia
 familiar/a esprim/o⟦熟ᶠ/a 表ᴱˢ/o⟧:くだけた表現
@@ -11008,7 +11008,7 @@ filik/oj⟦羊齿/oj⟧:【植】シダ類
 fil/in/et/o⟦儿/女/小/o⟧:娘や（娘への愛称）
 fil/in/o⟦儿/女/o⟧:娘
 fili/o⟦支ᶠ/o⟧:{Ｏ}支部,支店,支所
-filipin/an/o⟦filipin/员ᴬ/o⟧:フィリピン人
+filipin/an/o⟦filipin/员/o⟧:フィリピン人
 Filipin/oj:【国名】フィリピン（アジア）
 Filipin/oj:【地名】フィリピン諸島（東南アジア）
 filistr/a⟦俗ᶠ/a⟧:俗物的な,教養に欠けた,芸術に理解がない
@@ -11982,11 +11982,11 @@ franc/a lingv/o⟦franc/a 语/o⟧:（la 〜）フランス語
 franc/a unc/o:【単】トロイオンス（1oz＝28.35g）
 franc/a versi/o⟦franc/a 版/o⟧:（映画・書籍などの）フランス語版
 Franc/i/o:【国名】フランス（欧州）
-francisk/an/o⟦francisk/员ᴬ/o⟧:【キ】フランシスコ会修道士
+francisk/an/o⟦francisk/员/o⟧:【キ】フランシスコ会修道士
 Francisk/o:（男子名）フランシスコ,フランシス,フランソワ;（女子名）フランチェスカ
 Franc-Jozef/a Insul/ar/o:【地名】ゼムリャフランツァイオシファ（北極海の群島）
 franc/lingv/a⟦franc/语/a⟧:フランス語の
-franc/lingv/an/o⟦franc/语/员ᴬ/o⟧:フランス語話者
+franc/lingv/an/o⟦franc/语/员/o⟧:フランス語話者
 franc/o:{Ｏ}フランス人
 franc/stil/a⟦franc/风ˢ/a⟧:フランス式の
 Franc/uj/o:【国名】=Francio（フランス）
@@ -12068,7 +12068,7 @@ fremd/ec/o⟦异/性/o⟧:疎遠さ;物珍しさ
 fremd/ig^/i⟦异/成/i⟧:［自］疎遠になる,疎外される
 fremd/ig^/o⟦异/成/o⟧:疎遠,疎外
 fremd/land/a⟦异/国/a⟧:外国の,異国の
-fremd/land/an/o⟦异/国/员ᴬ/o⟧:外国人,異国人
+fremd/land/an/o⟦异/国/员/o⟧:外国人,異国人
 fremd/land/o⟦异/国/o⟧:異国,外国,>>eksterlando,>>alilando
 fremd/lingv/a⟦异/语/a⟧:外国語の
 Fremd/ul/a Legi/o:（la 〜）（特にフランス軍の）外人部隊
@@ -12608,7 +12608,7 @@ garn/i⟦装ᴳ/i⟧:{Ｂ}［他］補強する,取り付ける,飾り付ける
 garnitur/i⟦饰ᴳ/i⟧:［他］飾り付ける
 garnitur/o⟦饰ᴳ/o⟧:{Ｏ}（装飾品・備品などの）一式,一揃え
 garnizon/ad/o⟦守ᴳᴺ/行/o⟧:【軍】駐屯
-garnizon/an/o⟦守ᴳᴺ/员ᴬ/o⟧:【軍】守備隊員,駐屯兵
+garnizon/an/o⟦守ᴳᴺ/员/o⟧:【軍】守備隊員,駐屯兵
 garnizon/ej/o⟦守ᴳᴺ/所/o⟧:【軍】駐屯地
 garnizon/i⟦守ᴳᴺ/i⟧:［自］【軍】駐屯する
 garnizon/o⟦守ᴳᴺ/o⟧:{Ｏ}【軍】守備隊,駐屯部隊
@@ -12847,7 +12847,7 @@ ge/patr/a lingv/o⟦双/父/a 语/o⟧:母語
 ge/patr/oj⟦双/父/oj⟧:両親
 gerani/o⟦花ᴳ/o⟧:{Ｏ}【植】フウロソウ（属）;【園】=>pelargonio（ゼラニウム）
 gerbil/o:【動】アレチネズミ（属）,ジャービル
-geril/an/o⟦游击/员ᴬ/o⟧:【軍】ゲリラ隊員
+geril/an/o⟦游击/员/o⟧:【軍】ゲリラ隊員
 geril/i⟦游击/i⟧:［自］【軍】ゲリラ戦をする
 geril/o⟦游击/o⟧:【軍】ゲリラ戦
 gerlen/o:【海】もやい綱,太綱
@@ -12909,7 +12909,7 @@ gimnast/ik/ist/o⟦操ᴳᴵ/学ᴵ/家/o⟧:=gimnasto（体操教師）
 gimnast/ik/o⟦操ᴳᴵ/学ᴵ/o⟧:{Ｏ}体操,体育;【運】体操競技
 gimnast/o⟦操ᴳᴵ/o⟧:体操教師,体育家
 gimnazi/a diplom/it/o⟦校ᴳ/a 证ᴰ/受/o⟧:=abituriento
-gimnazi/an/o⟦校ᴳ/员ᴬ/o⟧:ギムナジウム生徒
+gimnazi/an/o⟦校ᴳ/员/o⟧:ギムナジウム生徒
 gimnazi/estr/o⟦校ᴳ/长ᴱ/o⟧:ギムナジウム校長
 gimnazi/o⟦校ᴳ/o⟧:{Ｏ}ギムナジウム（大学進学のための中等学校）,>>liceo
 gimnosperm/a⟦裸子/a⟧:【植】裸子の,裸子植物の
@@ -13498,7 +13498,7 @@ gru/o⟦鹤/o⟧:【機】クレーン,起重機
 Gru/o:【天】つる座
 grup/a⟦团/a⟧:グループの;集団的な,>>kolektiva
 grup/ac^/o⟦团/劣/o⟧:徒党,一味
-grup/an/o⟦团/员ᴬ/o⟧:グループの一員
+grup/an/o⟦团/员/o⟧:グループの一員
 grup/e⟦团/e⟧:グループで;集団的に,>>kolektiva
 grup/et/o⟦团/小/o⟧:小集団,小グループ
 grup/ig/i⟦团/使/i⟧:［他］グループにする,まとめる
@@ -13519,7 +13519,7 @@ guberni/a⟦省ᴳ/a⟧:県の,県営の
 guberni/a c^ef/urb/o⟦省ᴳ/a 首/市/o⟧:県庁所在地,県都
 guberni/a deput/it/ar/o⟦省ᴳ/a 派/受/群/o⟧:県会
 guberni/a deput/it/o⟦省ᴳ/a 派/受/o⟧:県会議員
-guberni/an/o⟦省ᴳ/员ᴬ/o⟧:県民
+guberni/an/o⟦省ᴳ/员/o⟧:県民
 guberni/a ofic/ej/o⟦省ᴳ/a 职/所/o⟧:県庁,=guberniestrejo
 guberni/estr/ej/o⟦省ᴳ/长ᴱ/所/o⟧:県庁,=gubernia oficejo
 guberni/estr/o⟦省ᴳ/长ᴱ/o⟧:（都道府県の）知事,>>prefekto
@@ -13590,7 +13590,7 @@ Gvajan/o:【国名】=Gujano（ガイアナ）
 gval/o:=kimro（ウェールズ人）
 Gvandung/o:【地名】コワントン省（広東省，中国）,=Gu^angdongo
 Gvans^i/o:【地名】コワンシーチョワンツー自治区（広西壮族自治区，中国）,=Gu^angs^jio
-gvardi/an/o⟦卫/员ᴬ/o⟧:【軍】親衛隊員,近衛兵
+gvardi/an/o⟦卫/员/o⟧:【軍】親衛隊員,近衛兵
 gvardi/ej/o⟦卫/所/o⟧:【軍】衛兵所,近衛隊詰所
 gvardi/o⟦卫/o⟧:{Ｂ}【軍】親衛隊,近衛連隊
 gvat/aparat/o⟦监/器ᴬ/o⟧:監視装置
@@ -13622,7 +13622,7 @@ gvid/o⟦导/o⟧:指導,案内
 gvid/organ/o⟦导/器ᴼ/o⟧:指導機関
 gvid/rimen/o⟦导/带ᴿ/o⟧:（馬の）手綱
 Gvine/a Golf/o:【地名】ギニア湾（アフリカ中西部）
-gvine/an/o⟦gvine/员ᴬ/o⟧:ギニア人
+gvine/an/o⟦gvine/员/o⟧:ギニア人
 Gvine/o:{Ｏ}【国名】ギニア（アフリカ）
 Gvine/o-Bisau^/o:【国名】ギニアビサウ（アフリカ）
 G^akart/o:【地名】ジャカルタ（インドネシアの首都）
@@ -13688,7 +13688,7 @@ G^engg^ou^/o:【地名】チェンチョウ（鄭州，中国）
 g^en/i⟦扰/i⟧:{Ｂ}［他］邪魔する,厄介をかける,気を使わせる
 g^en/i si/n⟦扰/i 己/n⟧:気をつかう,気兼ねする,遠慮する,困る,=sing^eni
 g^en/o⟦扰/o⟧:邪魔,迷惑,厄介
-g^enov/an/ec/o⟦g^enov/员ᴬ/性/o⟧:ジェノバ出身であること
+g^enov/an/ec/o⟦g^enov/员/性/o⟧:ジェノバ出身であること
 G^enov/o:【地名】ジェノバ（イタリア）
 g^enr/o:【芸】ジャンル,様式;【美】風俗画
 g^entil/a⟦礼ᴳ̂/a⟧:{Ｂ}礼儀正しい,丁寧な
@@ -14534,9 +14534,9 @@ hom/a pedik/o⟦人/a 虫ᴾ/o⟧:【虫】ヒトジラミ（人虱）（属）
 hom/a pens/o⟦人/a 思/o⟧:人間の思考
 hom/a pul/o⟦人/a 蚤/o⟧:【動】ヒトノミ（人蚤）（種）
 hom/a rajt/o⟦人/a 权/o⟧:（一つの）人権,>>homaj rajtoj
-hom/ar/an/ism/o⟦人/群/员ᴬ/主义/o⟧:【Ｅ】人類人主義,ホマラニスモ
-hom/ar/an/ist/o⟦人/群/员ᴬ/家/o⟧:【Ｅ】ホマラニスト
-hom/ar/an/o⟦人/群/员ᴬ/o⟧:【Ｅ】人類人
+hom/ar/an/ism/o⟦人/群/员/主义/o⟧:【Ｅ】人類人主義,ホマラニスモ
+hom/ar/an/ist/o⟦人/群/员/家/o⟧:【Ｅ】ホマラニスト
+hom/ar/an/o⟦人/群/员/o⟧:【Ｅ】人類人
 hom/ar/o⟦人/群/o⟧:人類
 hom/a s^ild/o⟦人/a 盾/o⟧:【政】人間の盾
 hom/a viv/o⟦人/a 活/o⟧:人命;人の一生;人間生活
@@ -14597,12 +14597,12 @@ Honkong/o:【地名】ホンコン（香港，中国）,=Hongkongo
 Honolul/o:【地名】ホノルル（ハワイの中心都市）,=Honoluluo
 Honolulu/o:【地名】ホノルル（ハワイの中心都市）,=Honolulo
 honor/a⟦誉/a⟧:名誉の,名誉ある,尊敬すべき
-honor/a civit/an/o⟦誉/a 市ᶜ/员ᴬ/o⟧:名誉市民
+honor/a civit/an/o⟦誉/a 市ᶜ/员/o⟧:名誉市民
 honor/a gast/o⟦誉/a 客/o⟧:来賓
-honor/a gvardi/an/o⟦誉/a 卫/员ᴬ/o⟧:儀仗（ぎじょう）兵（個人）
+honor/a gvardi/an/o⟦誉/a 卫/员/o⟧:儀仗（ぎじょう）兵（個人）
 honor/a gvardi/o⟦誉/a 卫/o⟧:儀仗（ぎじょう）兵（集団）
 Honor/a Legi/o:（la 〜）レジオン・ドヌール（フランス最高の勲章）
-honor/a membr/o⟦誉/a 员/o⟧:名誉会員
+honor/a membr/o⟦誉/a 员ᴹ/o⟧:名誉会員
 honor/a menci/o⟦誉/a 提/o⟧:選外佳作
 honor/am/o⟦誉/爱/o⟧:名誉欲,野心
 honor/a prezid/ant/o⟦誉/a 主ᴾ/在/o⟧:名誉会長
@@ -14839,7 +14839,7 @@ ia/foj/e⟦某a/次/e⟧:{Ｂ}ある時
 ial⟦某因⟧:{Ｂ}［副］ある理由で,なぜか
 iam⟦某时⟧:{Ｂ}［副］ある時,いつか（過去・未来）
 iam/a⟦某时/a⟧:いつかの（主に過去の）,かつての
-iam ajn⟦某时 任ᴬ⟧:［副］いつでも
+iam ajn⟦某时 任⟧:［副］いつでも
 ia/manier/e⟦某a/式/e⟧:何かの方法で,なんとかして,>>iel
 iam kaj iam⟦某时 和ᴷ 某时⟧:［副］ときどき,=de tempo al tempo
 ibeks/o:【動】アイベックス（野生ヤギの一種）
@@ -14851,7 +14851,7 @@ ic/o:【情】ＩＣ,=integra cirkvito
 -id-⟦子⟧:{Ｂ}［接尾辞］（子・子孫を示す）,>>reg^ido,>>kokido
 -id-⟦子⟧:［学術接尾辞］（化合物を示す）,>>cianido,>>klorido
 Idah/o:【地名】アイダホ州（米国）
-id/ar/an/o⟦子/群/员ᴬ/o⟧:子孫（の一人）,末裔（まつえい）
+id/ar/an/o⟦子/群/员/o⟧:子孫（の一人）,末裔（まつえい）
 id/ar/o⟦子/群/o⟧:子孫（全体）,後裔（こうえい）
 ide/a⟦意/a⟧:観念の,観念的な
 ideal/a⟦想ᴵᴰ/a⟧:理想の,理想的な,完璧な
@@ -14893,7 +14893,7 @@ idiotism/o⟦愚主义/o⟧:{Ｏ}【語】慣用語法,=idiomaj^o
 idiot/o⟦愚ᴵ/o⟧:{Ｏ}【医】重度知的障害者,白痴;《転》愚か者
 id/o⟦子/o⟧:子ども;子孫（一人）;《転》信奉者,弟子
 Id/o:イド語
-idol/an/o⟦偶像/员ᴬ/o⟧:【宗】偶像崇拝者
+idol/an/o⟦偶像/员/o⟧:【宗】偶像崇拝者
 idol/kult/o⟦偶像/拜ᴷ/o⟧:【宗】偶像崇拝
 idol/o⟦偶像/o⟧:{Ｏ}【宗】偶像,神像;《転》崇拝の的,アイドル
 idol/serv/o⟦偶像/务/o⟧:=idolkulto（偶像崇拝）
@@ -14951,7 +14951,7 @@ ilici/o:【植】シキミ（属）
 Ilinojs/o:【地名】イリノイ州（米国）
 -ilion-:［学術接尾辞］（数名詞を作る，１０の６×ｎ乗を示す）,>>duiliono
 iliri/a:イリュリアの
-iliri/an/o⟦iliri/员ᴬ/o⟧:【史】イリュリア人
+iliri/an/o⟦iliri/员/o⟧:【史】イリュリア人
 Iliri/o:【古地名】イリュリア（古代ローマ，アドリア海北東岸）
 ilium/o:【解】腸骨
 il/kest/o⟦具/箱/o⟧:道具箱
@@ -15200,7 +15200,7 @@ indig/o/kolor/a⟦蓝ᴵ/o/色/a⟧:=indiga（藍色の）
 indig/o/plant/o⟦蓝ᴵ/o/植/o⟧:【植】インジゴ（通称）,キアイ（木藍）,インドアイ,>>indigofero
 indig/uj/o⟦蓝ᴵ/器/o⟧:【植】=indigoplanto（インジゴ）
 indig^en/a⟦土著/a⟧:土着の;【生】自生の
-indig^en/a amerik/an/o⟦土著/a amerik/员ᴬ/o⟧:アメリカ先住民,>>indiano
+indig^en/a amerik/an/o⟦土著/a amerik/员/o⟧:アメリカ先住民,>>indiano
 indig^en/a plant/o⟦土著/a 植/o⟧:【生】自生植物
 indig^en/a popol/o⟦土著/a 民/o⟧:先住民族
 indig^en/o⟦土著/o⟧:{Ｏ}土着民,原住民,先住民;【生】自生種
@@ -15219,7 +15219,7 @@ individu/a gust/o⟦个/a 味/o⟧:個人的趣味
 individu/a liber/ec/o⟦个/a 自由/性/o⟧:個人の自由
 individualism/o⟦个主义/o⟧:=individuismo（個人主義）
 individualist/o⟦个家/o⟧:=individuisto（個人主義者）
-individu/a membr/o⟦个/a 员/o⟧:【Ｅ】（ＵＥＡの）個人会員
+individu/a membr/o⟦个/a 员ᴹ/o⟧:【Ｅ】（ＵＥＡの）個人会員
 individu/e⟦个/e⟧:個人的に;個々に,個別に
 individu/ec/o⟦个/性/o⟧:個性,>>personeco
 individu/genez/o⟦个/源ᴳ/o⟧:【生】個体発生,=ontogenezo
@@ -15229,7 +15229,7 @@ individu/o⟦个/o⟧:{Ｂ}個人,個;【生】個体
 ind/o⟦值/o⟧:価値,品位,とりえ
 Indoc^in/a Du/on/insul/o:【地名】=Hindoc^ina Duoninsulo
 indonezi/a lingv/o⟦indonezi/a 语/o⟧:（la 〜）インドネシア語
-indonezi/an/o⟦indonezi/员ᴬ/o⟧:インドネシア人
+indonezi/an/o⟦indonezi/员/o⟧:インドネシア人
 Indonezi/o:【国名】インドネシア（アジア）
 Indr/o:【神】インドラ（インド神話の最高神）;【仏】帝釈天（たいしゃくてん）
 induk/elektr/a generator/o⟦感ᴵ/电/a 发电ᴳ/o⟧:【理】誘導起電機
@@ -15313,7 +15313,7 @@ infan/seg^/o⟦童/椅/o⟧:（座面の高い）子供用いす,ハイチェア
 infan/seks/em/o⟦童/性ˢ/倾/o⟧:小児性愛,ペドフィリア,=pedofilio
 infan/s^tel/i⟦童/偷/i⟧:［自］子どもを誘拐する,>>kidnapi
 infan/s^tel/o⟦童/偷/o⟧:幼児誘拐,児童誘拐
-infanteri/an/o⟦步兵/员ᴬ/o⟧:【軍】歩兵,=piedsoldato
+infanteri/an/o⟦步兵/员/o⟧:【軍】歩兵,=piedsoldato
 infanteri/o⟦步兵/o⟧:{Ｏ}【軍】歩兵隊
 infan/vart/ej/o⟦童/养ⱽ/所/o⟧:保育園,=infanejo
 infekt/a⟦染/a⟧:感染の,感染性の
@@ -15569,8 +15569,8 @@ instru/o⟦教/o⟧:=instruado（指導）;=instruaj^o（教え）
 instru/plan/o⟦教/划/o⟧:授業計画,教案;教育計画,カリキュラム
 instru/program/o⟦教/程/o⟧:教育課程,カリキュラム
 insul/a⟦岛/a⟧:島の
-insul/an/ism/o⟦岛/员ᴬ/主义/o⟧:島国根性
-insul/an/o⟦岛/员ᴬ/o⟧:島民
+insul/an/ism/o⟦岛/员/主义/o⟧:島国根性
+insul/an/o⟦岛/员/o⟧:島民
 insul/ar/o⟦岛/群/o⟧:群島;列島,>>arkipelago
 insul/et/o⟦岛/小/o⟧:小島
 insulin/o⟦胰岛素/o⟧:{Ｏ}【生】インシュリン,インスリン
@@ -15991,7 +15991,7 @@ iom post iom⟦某量 后 某量⟧:少しずつ,次第に
 iom/post/iom/a⟦某量/后/某量/a⟧:少しずつの,漸進的な
 iom/post/iom/e⟦某量/后/某量/e⟧:少しずつ,次第に
 Ioni/a Mar/o:【地名】イオニア海（ギリシア西方）
-ioni/an/o⟦ioni/员ᴬ/o⟧:【史】イオニア人（古代ギリシア人の一派）
+ioni/an/o⟦ioni/员/o⟧:【史】イオニア人（古代ギリシア人の一派）
 ionik/a kapitel/o⟦ionik/a 柱头/o⟧:【建】イオニア式柱頭
 Ioni/o:【史】イオニア（小アジア西岸中部地方）
 Iova/o:【地名】アイオワ州（米国）
@@ -15999,10 +15999,10 @@ iperit/o⟦芥气/o⟧:【軍】イペリット（毒ガスの一種）,マス�
 ipsilon/o:{Ｏ}ワイ（ラテン文字Ｙ，ｙ）;ユプシロン（ギリシア文字Υ，υ）
 ir/ad/i⟦往/行/i⟧:［自］通う
 ir/ad/o⟦往/行/o⟧:進行,成り行き,経過;作動
-irak/an/o⟦irak/员ᴬ/o⟧:イラク人
+irak/an/o⟦irak/员/o⟧:イラク人
 Irak/o:{Ｏ}【国名】イラク（アジア）
 iran/a:イランの
-iran/an/o⟦iran/员ᴬ/o⟧:イラン人
+iran/an/o⟦iran/员/o⟧:イラン人
 Iran/o:{Ｏ}【国名】イラン（アジア）
 Iravad/o:【地名】イラワジ川（ビルマ）
 ir/ebl/a⟦往/可/a⟧:行ける,通れる
@@ -16028,7 +16028,7 @@ iriz/o⟦虹/o⟧:虹色効果,虹色の輝き
 IRK:［略］=internacia respondo-kupono,国際返信切手券
 Irkutsk/o:【地名】イルクーツク（ロシア）
 irland/a:アイルランド（人）の;（la 〜）アイルランド語の
-irland/an/o⟦irland/员ᴬ/o⟧:アイルランド人
+irland/an/o⟦irland/员/o⟧:アイルランド人
 Irland/o:{Ｏ}【国名】アイルランド（欧州）
 ir/o⟦往/o⟧:行き,動き
 ironi/a⟦反ᴵ/a⟧:皮肉な
@@ -16052,7 +16052,7 @@ islam/a kalendar/o⟦islam/a 历/o⟧:イスラム暦
 islam/a komun/um/o⟦islam/a 共ᴷᴹ/um/o⟧:イスラム共同体
 Islam/a Kred/komun/um/o en Au^str/i/o⟦Islam/a Kred/komun/um/o 内 Au^str/i/o⟧:オーストリア・イスラム信仰共同体【私家版】
 islam/a land/o⟦islam/a 国/o⟧:イスラム教国
-islam/an/o⟦islam/员ᴬ/o⟧:イスラム教徒,ムスリム,回教徒
+islam/an/o⟦islam/员/o⟧:イスラム教徒,ムスリム,回教徒
 islam/ig/i⟦islam/使/i⟧:［他］イスラム化する
 islam/ig^/o⟦islam/成/o⟧:イスラム化
 islam/ism/o⟦islam/主义/o⟧:=islamo（イスラム教）;【政】イスラム主義
@@ -16060,12 +16060,12 @@ islam/ist/o⟦islam/家/o⟧:=islamano（イスラム教徒）;【政】イス�
 islam/o:【宗】イスラム教,回教
 island/a:アイスランドの
 island/a lingv/o⟦island/a 语/o⟧:（la 〜）アイスランド語
-island/an/o⟦island/员ᴬ/o⟧:アイスランド人
+island/an/o⟦island/员/o⟧:アイスランド人
 Island/o:{Ｏ}【国名】アイスランド（欧州）
 -ism-⟦主义⟧:{Ｂ}［接尾辞］（主義・教義・学説などを示す）,>>marksismo,>>budhismo
 ism/o⟦主义/o⟧:主義,学説
 israel/a:イスラエルの
-israel/an/o⟦israel/员ᴬ/o⟧:イスラエル人
+israel/an/o⟦israel/员/o⟧:イスラエル人
 Israel/o:{Ｏ}【国名】イスラエル（アジア）
 -ist-⟦家⟧:{Ｂ}［接尾辞］（職業的従事者・主義者・信奉者を示す）,>>kuracisto,>>marksisto
 Istanbul/o:【地名】イスタンブール（トルコ）
@@ -16201,11 +16201,11 @@ japan/de/ven/a⟦japan/从/来/a⟧:日系の,日本起源の
 japan/ec/a⟦japan/性/a⟧:日本的な
 japan/esk/a⟦japan/风ᴱ/a⟧:日本趣味の;日本風の,=japanstila
 japan/esk/o⟦japan/风ᴱ/o⟧:日本趣味;【文】（短歌・俳句などの形式をまねた）日本風の作品
-japan/i/an/o⟦japan/i/员ᴬ/o⟧:日本国民
+japan/i/an/o⟦japan/i/员/o⟧:日本国民
 Japan/i/o:【国名】日本（アジア）
 japan/ism/o⟦japan/主义/o⟧:日本風;【Ｇ】日本語的語法;【美】ジャポニスム
 japan/lingv/a⟦japan/语/a⟧:日本語の
-japan/lingv/an/o⟦japan/语/员ᴬ/o⟧:日本語話者,日本語を話す人
+japan/lingv/an/o⟦japan/语/员/o⟧:日本語話者,日本語を話す人
 japan/o:{Ｏ}日本人
 japan/stil/a⟦japan/风ˢ/a⟧:日本風の,和式の
 Japan/uj/o:【国名】=Japanio（日本）
@@ -16294,7 +16294,7 @@ jodid/o⟦碘化/o⟧:【化】ヨウ化物
 jod/indic/o⟦碘/指ᴵᶜ/o⟧:【化】ヨウ素価,ヨード数
 jod/o⟦碘/o⟧:{Ｏ}【化】ヨウ素（原子番号５３の非金属元素）;ヨード
 jodoform/o⟦碘形/o⟧:【化】ヨードホルム
-jog/an/o⟦jog/员ᴬ/o⟧:【宗】ヨーガ行者
+jog/an/o⟦jog/员/o⟧:【宗】ヨーガ行者
 jog/o:【宗】ヨーガ
 jogurt/o⟦酸乳/o⟧:【料】ヨーグルト,ヤクルト,>>jahurto
 Johanesburg/o:【地名】ヨハネスバーグ（南アフリカ共和国）
@@ -16539,7 +16539,7 @@ j^uras/o:【地質】ジュラ紀;ジュラ系
 J^uras/oj:【地名】ジュラ山脈（フランス・スイス）
 j^ur/deklar/o⟦誓/宣ᴰ/o⟧:【法】【商】宣誓供述書
 j^ur/i⟦誓/i⟧:{Ｂ}［他］（神・神聖なものにかけて）誓う,誓約する;宣誓する
-j^uri/an/o⟦陪审/员ᴬ/o⟧:【法】陪審員,>>laika jug^isto;《転》審査員,=jug^anto
+j^uri/an/o⟦陪审/员/o⟧:【法】陪審員,>>laika jug^isto;《転》審査員,=jug^anto
 j^uri/o⟦陪审/o⟧:【法】陪審;《転》（コンテストなどの）審査員団,=jug^antaro
 j^ur/lig/i⟦誓/结/i⟧:［他］誓約で縛る
 j^urnal/a dosier/o⟦记ᴶ̂/a 档/o⟧:【情】ログファイル
@@ -16818,7 +16818,7 @@ kalvari/a voj/o⟦受难/a 路/o⟧:【キ】（キリストの歩いた）十�
 kalvari/o⟦受难/o⟧:【キ】キリストはりつけの像;【解】頭蓋冠
 Kalvari/o:【地名】カルバリ（キリストはりつけの地，ゴルゴタのラテン名から）
 kalv/ig^/i⟦秃/成/i⟧:［自］（頭が）はげる
-kalvin/an/o⟦kalvin/员ᴬ/o⟧:{Ｏ}カルバン派信徒,カルバン主義者
+kalvin/an/o⟦kalvin/员/o⟧:{Ｏ}カルバン派信徒,カルバン主義者
 kalvin/ism/o⟦kalvin/主义/o⟧:カルバン主義,カルビニズム
 Kalvin/o:【人名】カルバン（フランス出身の宗教改革者）
 kalv/ul/o⟦秃/者/o⟧:頭のはげた人
@@ -16832,7 +16832,7 @@ kambi/agent/ej/o⟦汇ᴷ/代ᴬᴳ/所/o⟧:【経】割引銀行;手形割引�
 kambi/i⟦汇ᴷ/i⟧:［自］手形を割引く
 kambi/ist/o⟦汇ᴷ/家/o⟧:手形仲買人,手形割引業者
 kambi/o⟦汇ᴷ/o⟧:{Ｏ}【経】為替手形
-kambog^/an/o⟦kambog^/员ᴬ/o⟧:カンボジア人
+kambog^/an/o⟦kambog^/员/o⟧:カンボジア人
 Kambog^/o:【国名】カンボジア（アジア）
 kambri/o:【地質】カンブリア紀;カンブリア系
 Kamc^atk/o:【地名】カムチャツカ半島（ロシア）
@@ -16882,8 +16882,8 @@ kampanj/i⟦役ᴷ/i⟧:［自］キャンペーンを張る
 kampanj/o⟦役ᴷ/o⟧:{Ｏ}キャンペーン,（社会的・政治的な）運動,活動;【軍】戦役,〜方面作戦
 kampanul/o:【植】カンパニュラ,ホタルブクロ（属）
 kamp/a profund/o⟦田/a 深/o⟧:【写】被写界深度
-kamp/ar/an/a sindikat/o⟦田/群/员ᴬ/a 盟/o⟧:農民組合
-kamp/ar/an/o⟦田/群/员ᴬ/o⟧:農民,いなかの人,>>kampulo
+kamp/ar/an/a sindikat/o⟦田/群/员/a 盟/o⟧:農民組合
+kamp/ar/an/o⟦田/群/员/o⟧:農民,いなかの人,>>kampulo
 kamp/ar/o⟦田/群/o⟧:田園,いなか
 kamp/artileri/o⟦田/炮兵/o⟧:【軍】野戦砲
 kamp/a voj/et/o⟦田/a 路/小/o⟧:野道
@@ -16911,7 +16911,7 @@ kanab/o⟦麻/o⟧:{Ｏ}【植】アサ（麻）,タイマ（大麻）
 kanab/tol/o⟦麻/布/o⟧:麻布
 kanacikad/o⟦蝉ᴷ/o⟧:《Ｎ》【虫】ヒグラシ（speco de cikadoj，_Tanna japonensis_）
 kanad/a:カナダの
-kanad/an/o⟦kanad/员ᴬ/o⟧:カナダ人
+kanad/an/o⟦kanad/员/o⟧:カナダ人
 Kanad/o:{Ｏ}【国名】カナダ（北アメリカ）
 kanajl/aj^/o⟦恶棍/物/o⟧:乱暴,悪事,卑劣な行為
 kanajl/ar/o⟦恶棍/群/o⟧:ごろつきの群れ
@@ -16931,7 +16931,7 @@ kan/ar/o⟦苇/群/o⟧:葦（あし）の茂み
 Kanazav/o:【地名】金沢
 Kanber/o:【地名】キャンベラ（オーストラリアの首都）
 kan/boat/o⟦苇/舟/o⟧:葦舟（あしぶね）
-kancelari/an/o⟦办公/员ᴬ/o⟧:官房職員,事務局職員
+kancelari/an/o⟦办公/员/o⟧:官房職員,事務局職員
 kancelari/o⟦办公/o⟧:{Ｏ}【政】官房;（大使館などの）事務局,記録保管室
 kancelier/o⟦首相/o⟧:{Ｏ}【史】大法官,国璽尚書;【政】（ドイツの）首相;（団体の印章を管理する）事務局長
 kancer/a c^el/o⟦癌/a 胞/o⟧:がん細胞
@@ -17045,7 +17045,7 @@ kap/au^skult/il/oj⟦头/听ᴬˢ/具/oj⟧:ヘッドホン
 kap/dolor/o⟦头/痛/o⟧:【病】頭痛
 kape/i⟦停ᴷ/i⟧:［自］【海】漂ちゅうする,ライツーする（荒天時に船首を風上に向けて洋上で停船すること）
 kape/ig/i⟦停ᴷ/使/i⟧:［他］【海】漂ちゅうさせる,ライツーさせる
-kapel/an/o⟦祈堂/员ᴬ/o⟧:礼拝堂付き司祭
+kapel/an/o⟦祈堂/员/o⟧:礼拝堂付き司祭
 kapel/et/o⟦祈堂/小/o⟧:小礼拝堂
 kapel/o⟦祈堂/o⟧:{Ｏ}【キ】チャペル,礼拝堂;礼拝室
 kaper/ad/o⟦劫/行/o⟧:【史】私掠（しりゃく）行為（国の許可を得て交戦中の敵国商船を略奪すること）
@@ -17109,10 +17109,10 @@ kapot/o:{Ｏ}【服】フード付きの長い外套（がいとう）;【車】
 kapr/aj^/o⟦羊ᴷ/物/o⟧:【料】ヤギの肉
 Kapre/o:【地名】カプリ島（イタリア）
 kapreol/o⟦鹿ᴷ/o⟧:{Ｏ}【動】ノロ（シカ科の動物の一種）
-kapric/a⟦任/a⟧:気まぐれな,移り気な;予測できない
-kapric/e⟦任/e⟧:気まぐれに,不規則に
-kapric/i⟦任/i⟧:［自］気まぐれである
-kapric/o⟦任/o⟧:{Ｂ}気まぐれ,移り気,むら気;（ものごとの）急変
+kapric/a⟦任ᴷ/a⟧:気まぐれな,移り気な;予測できない
+kapric/e⟦任ᴷ/e⟧:気まぐれに,不規則に
+kapric/i⟦任ᴷ/i⟧:［自］気まぐれである
+kapric/o⟦任ᴷ/o⟧:{Ｂ}気まぐれ,移り気,むら気;（ものごとの）急変
 kapr/id/aj^/o⟦羊ᴷ/子/物/o⟧:【料】子ヤギの肉
 kapr/id/led/o⟦羊ᴷ/子/革/o⟧:子ヤギのなめし革,キッド
 kapr/id/o⟦羊ᴷ/子/o⟧:子ヤギ
@@ -17325,7 +17325,7 @@ karit/o:【キ】=>karitato（カリタス）
 Karkonos^/o:【地名】クルコノシェ山脈（＝リーゼンゲビルゲ，チェコ・ポーランド）
 karlin/o:【植】チャボアザミ（属）
 Karl/o:（男子名）カルロ,カール
-karmel/an/o⟦karmel/员ᴬ/o⟧:【カ】カルメル会修道士
+karmel/an/o⟦karmel/员/o⟧:【カ】カルメル会修道士
 Karmel/o:【地名】カルメル山（イスラエル）;【カ】カルメル修道会
 kar/memor/a⟦亲/记/a⟧:なつかしい;（故人について）哀悼される
 Karmen/o:（女子名）カルメン
@@ -17384,8 +17384,8 @@ kartel/o⟦盟ᴷ/o⟧:【経】カルテル（企業連合）,>>trusto;【政�
 kart/et/o⟦卡/小/o⟧:名刺;ラベル
 kartezi/a:【哲】デカルトの,デカルト哲学の;【数】デカルト座標の
 kartezi/aj koordinat/oj⟦kartezi/aj 坐标/oj⟧:【数】デカルト座標
-kartezi/an/ism/o⟦kartezi/员ᴬ/主义/o⟧:【哲】デカルト哲学,=karteziismo
-kartezi/an/o⟦kartezi/员ᴬ/o⟧:デカルト学派（の人）
+kartezi/an/ism/o⟦kartezi/员/主义/o⟧:【哲】デカルト哲学,=karteziismo
+kartezi/an/o⟦kartezi/员/o⟧:デカルト学派（の人）
 kartezi/ism/o⟦kartezi/主义/o⟧:【哲】デカルト哲学,=kartezianismo
 Kartezi/o:【人名】デカルト（フランスの哲学者，1596-1650）
 kartilag/a⟦软骨/a⟧:【解】軟骨の,軟骨性の
@@ -17409,8 +17409,8 @@ karton/skatol/o⟦板ᴷ/盒/o⟧:紙箱,ボール箱
 kart/o/tru/ist/o⟦卡/o/穴/家/o⟧:キーパンチャー
 Kartum/o:【地名】=H^artumo
 kartus^/o:{Ｏ}【建】カルトゥーシュ（長方形の装飾板）;【印】カルトゥーシュ（長方形の装飾枠）
-kartuzi/an/a likvor/o⟦kartuzi/员ᴬ/a 酒ᴸ/o⟧:【料】シャルトルーズ（リキュールの高級銘柄）
-kartuzi/an/o⟦kartuzi/员ᴬ/o⟧:【カ】カルトジオ会修道士
+kartuzi/an/a likvor/o⟦kartuzi/员/a 酒ᴸ/o⟧:【料】シャルトルーズ（リキュールの高級銘柄）
+kartuzi/an/o⟦kartuzi/员/o⟧:【カ】カルトジオ会修道士
 kartuzi/o:【カ】カルトジオ会修道院
 Kartvel/i/o:【国名】グルジア（アジア）
 kartvel/o:グルジア人
@@ -17620,7 +17620,7 @@ kav/a⟦洞/a⟧:中空の,空洞の,くぼんだ
 kav/a dent/o⟦洞/a 齿/o⟧:穴のあいた虫歯
 kav/aj okul/oj⟦洞/aj 目/oj⟧:落ちくぼんだ目
 kav/aj vang/oj⟦洞/aj 颊/oj⟧:こけた頬
-kavaleri/an/o⟦骑ᴷ/员ᴬ/o⟧:【軍】騎兵
+kavaleri/an/o⟦骑ᴷ/员/o⟧:【軍】騎兵
 kavaleri/o⟦骑ᴷ/o⟧:{Ｏ}【軍】騎兵隊;【経】融通手形
 kavalir/a⟦士/a⟧:騎士の
 kavalir/aj^/o⟦士/物/o⟧:騎士道的行動
@@ -17734,7 +17734,7 @@ kemi/gist/o⟦化学/酵母/o⟧:【料】ふくらし粉,ベーキングパウ�
 kemi/ist/o⟦化学/家/o⟧:化学者
 kemi/o⟦化学/o⟧:{Ｂ}化学
 Kenigsberg/o:【地名】ケーニヒスベルク（カリーニングラードの旧称，ロシア）,=Kaliningrado
-kenj/an/o⟦kenj/员ᴬ/o⟧:ケニア人
+kenj/an/o⟦kenj/员/o⟧:ケニア人
 Kenj/o:【国名】ケニア（アフリカ）
 Kenj/o:【地名】ケニア山（ケニア）
 ken/o:{Ｏ}樹脂材
@@ -18122,7 +18122,7 @@ klos^/form/a⟦罩ᴷᴸ/形/a⟧:釣鐘形の
 klos^/form/a korol/o⟦罩ᴷᴸ/形/a 花冠/o⟧:【植】鐘形花冠（しょうけいかかん）
 klos^/o⟦罩ᴷᴸ/o⟧:{Ｏ}（食物を覆う）鐘形ガラス器;釣鐘形のもの
 klozone/o:【芸】有線七宝（しっぽう）,=c^elemajlo
-klub/an/o⟦社ᴷ/员ᴬ/o⟧:クラブ員,会員
+klub/an/o⟦社ᴷ/员/o⟧:クラブ員,会員
 klub/ej/o⟦社ᴷ/所/o⟧:クラブ室,クラブ集会所,会館
 klub/o⟦社ᴷ/o⟧:{Ｂ}クラブ,会,結社
 Klub/o de Rom/o⟦Klub/o 从 Rom/o⟧:（la 〜）【環】ローマ・クラブ
@@ -18385,7 +18385,7 @@ kolokv/o⟦会ᴷᴸ/o⟧:専門家会議,討論集会
 kolomb/ed/oj⟦鸽/科ᴱ/oj⟧:【鳥】ハト科
 kolomb/ej/o⟦鸽/所/o⟧:ハト小屋,鳩舎（きゅうしゃ）
 kolomb/et/o⟦鸽/小/o⟧:小鳩
-kolombi/an/o⟦kolombi/员ᴬ/o⟧:コロンビア人
+kolombi/an/o⟦kolombi/员/o⟧:コロンビア人
 kolomb/id/o⟦鸽/子/o⟧:子鳩,若鳩
 Kolombin/o:【劇】コロンビーナ（イタリア仮面劇の登場人物、快活な若い女中）
 kolomb/in/o⟦鸽/女/o⟧:雌鳩
@@ -18567,13 +18567,13 @@ komisi/it/ar/o⟦委ᴷ/受/群/o⟧:委員会,=komitato,=komisiono
 komisi/it/e de⟦委ᴷ/受/e 从⟧:〜の委託を受けて
 komisi/it/o⟦委ᴷ/受/o⟧:（委託を受けた）委員;代理人
 komisi/o⟦委ᴷ/o⟧:委託,委任
-komision/an/o⟦委ᴷᴺ/员ᴬ/o⟧:委員会委員
+komision/an/o⟦委ᴷᴺ/员/o⟧:委員会委員
 komision/o⟦委ᴷᴺ/o⟧:{Ｂ}（調査・審議する）委員会
 komisi/pag/o⟦委ᴷ/付/o⟧:【商】委託手数料,口銭,コミッション
 komisi/ul/o⟦委ᴷ/者/o⟧:代理人
 komisur/o:【解】交連;【植】（心皮などの）接合面
 komitat/a⟦委ᴷᵀ/a⟧:委員会の
-komitat/an/o⟦委ᴷᵀ/员ᴬ/o⟧:委員会委員
+komitat/an/o⟦委ᴷᵀ/员/o⟧:委員会委員
 komitat/kun/sid/o⟦委ᴷᵀ/共/坐/o⟧:（委員会の）会合,会議
 komitat/o⟦委ᴷᵀ/o⟧:{Ｂ}（実行）委員会
 komiz/o⟦员ᴷ/o⟧:{Ｏ}店員,社員,銀行員
@@ -18589,7 +18589,7 @@ kompakt/a disk/o⟦密ᴷ/a 盘ᴰ/o⟧:【情】コンパクトディスク（C
 kompakt/a grund/o⟦密ᴷ/a 土/o⟧:かたく締まった地盤
 kompakt/ec/o⟦密ᴷ/性/o⟧:緻密さ
 kompakt/ig/i⟦密ᴷ/使/i⟧:［他］ぎっしりつめる
-kompani/an/o⟦伴ᴷᴹ/员ᴬ/o⟧:共同出資者;会社員
+kompani/an/o⟦伴ᴷᴹ/员/o⟧:共同出資者;会社員
 kompani/o⟦伴ᴷᴹ/o⟧:{Ｂ}会社;（集合的に）仲間,一同,（同伴者）一行
 kompani/ul/o⟦伴ᴷᴹ/者/o⟧:仲間
 kompar/a⟦较/a⟧:比較の
@@ -19014,8 +19014,8 @@ konform/ist/o⟦合ᴷᴺ/家/o⟧:順応主義者;【史】（英国の）国�
 konfront/i⟦对质/i⟧:［他］【法】（法廷で）対質させる;《般》対決させる,=kontrau^starigi
 konfront/o⟦对质/o⟧:【法】対質,対質尋問
 Konfuce/a Institut/o:孔子学院（中華人民共和国が海外に設立した中国語の語学教育機関）
-konfuce/an/ism/o⟦konfuce/员ᴬ/主义/o⟧:【哲】儒教,儒学
-konfuce/an/o⟦konfuce/员ᴬ/o⟧:儒者,儒学者
+konfuce/an/ism/o⟦konfuce/员/主义/o⟧:【哲】儒教,儒学
+konfuce/an/o⟦konfuce/员/o⟧:儒者,儒学者
 Konfuce/o:【人名】孔子（古代中国の思想家、前551-前479）
 konfuz/a⟦乱/a⟧:雑然とした,混乱させる,不明瞭（めいりょう）な
 konfuz/aj^/o⟦乱/物/o⟧:混乱したもの
@@ -19037,7 +19037,7 @@ kongres/a⟦会/a⟧:大会の
 kongres/a flag/o⟦会/a 旗/o⟧:大会旗
 kongres/a karavan/o⟦会/a 队ᴷ/o⟧:大会旅行団
 kongres/a libr/o⟦会/a 书/o⟧:大会次第書
-kongres/an/o⟦会/员ᴬ/o⟧:大会参加者
+kongres/an/o⟦会/员/o⟧:大会参加者
 kongres/a rezoluci/o⟦会/a 决ᴿ/o⟧:大会決議
 kongres/a tem/o⟦会/a 题/o⟧:大会テーマ
 kongres/ej/o⟦会/所/o⟧:大会会場
@@ -19183,14 +19183,14 @@ konsider/i⟦虑/i⟧:{Ｂ}［他］考慮する,考察する;考慮に入れる
 konsider/ind/a⟦虑/值/a⟧:考慮すべき,重要な;相当な,かなりの
 konsider/ind/e⟦虑/值/e⟧:かなり,相当に
 konsider/o⟦虑/o⟧:考慮,考察
-konsil/an/ar/o⟦议/员ᴬ/群/o⟧:=konsilio（評議会）
-konsil/an/o⟦议/员ᴬ/o⟧:=konsilisto（参事官）;=konsiliano（評議員）
+konsil/an/ar/o⟦议/员/群/o⟧:=konsilio（評議会）
+konsil/an/o⟦议/员/o⟧:=konsilisto（参事官）;=konsiliano（評議員）
 konsil/ant/ar/o⟦议/在/群/o⟧:顧問団;=konsilio（評議会）
 Konsil/ant/ar/o pri Eduk/ad/o⟦Konsil/ant/ar/o 于 Eduk/ad/o⟧:（la 〜）教育審議会
 konsil/ant/o⟦议/在/o⟧:助言者,顧問;=konsiliano（評議員）
 konsil/ebl/a⟦议/可/a⟧:聞く耳を持った
 konsil/i⟦议/i⟧:{Ｂ}［他］助言する,勧める,忠告する
-konsili/an/o⟦议ᴷᴵ/员ᴬ/o⟧:評議員
+konsili/an/o⟦议ᴷᴵ/员/o⟧:評議員
 konsil/ig^/i⟦议/成/i⟧:［自］助言を求める,相談する,審議する
 konsil/ig^/o⟦议/成/o⟧:相談,審議
 konsil/il/o⟦议/具/o⟧:【情】エキスパートシステム
@@ -19476,7 +19476,7 @@ kontrau^/koncip/il/o⟦对/孕ᴷ/具/o⟧:避妊具
 kontrau^/koncip/o⟦对/孕ᴷ/o⟧:避妊
 kontrau^/konstituci/a⟦对/宪/a⟧:違憲の
 kontrau^/konvulsi/a medikament/o⟦对/抽风/a 药/o⟧:【薬】抗けいれん剤
-kontrau^/krist/an/a⟦对/krist/员ᴬ/a⟧:反キリスト教の
+kontrau^/krist/an/a⟦对/krist/员/a⟧:反キリスト教の
 kontrau^/kutim/a⟦对/习/a⟧:習慣に反した,習わしに反した
 kontrau^/leg^/a⟦对/律/a⟧:違法な,非合法の
 kontrau^/leg^/e⟦对/律/e⟧:違法に
@@ -19605,7 +19605,7 @@ konven/a⟦适ᴷ/a⟧:{Ｂ}適切な,ふさわしい,向いている;礼儀に�
 konvenci/a⟦约ᴷⱽ/a⟧:取決めの;慣例の,慣習的な,因習的な
 konvenci/a arm/il/o⟦约ᴷⱽ/a 武/具/o⟧:（核兵器に対して）通常兵器
 konvenci/a fraz/o⟦约ᴷⱽ/a 句/o⟧:決まり文句
-konvenci/an/o⟦约ᴷⱽ/员ᴬ/o⟧:【史】国民公会議員
+konvenci/an/o⟦约ᴷⱽ/员/o⟧:【史】国民公会議員
 konvenci/a sign/o⟦约ᴷⱽ/a 符/o⟧:取り決められた記号,慣用記号
 konvenci/o⟦约ᴷⱽ/o⟧:{Ｏ}（国家間の）協定,取決め;慣例,慣習,（暗黙の）約束事;（米国の大統領候補指名の）党大会
 Konvenci/o:【史】（フランス革命時の）国民公会
@@ -19658,7 +19658,7 @@ kooper/ant/o⟦协ᴷᴼ/在/o⟧:=kooperativano（協同組合員）
 kooper/a regi/o⟦协ᴷᴼ/a 治ᴿᴵ/o⟧:公社
 kooper/a societ/o⟦协ᴷᴼ/a 社ˢᵀ/o⟧:=kooperativo（協同組合）
 kooperativ/a⟦协/a⟧:協同組合の
-kooperativ/an/o⟦协/员ᴬ/o⟧:協同組合員
+kooperativ/an/o⟦协/员/o⟧:協同組合員
 kooperativ/a vend/ej/o⟦协/a 卖/所/o⟧:（生協や農協の）協同組合小売店
 kooperativ/ism/o⟦协/主义/o⟧:協同組合運動
 kooperativ/o⟦协/o⟧:{Ｏ}協同組合
@@ -19848,14 +19848,14 @@ korsaj^/o:{Ｏ}【服】（婦人服の）胴部,身ごろ;胴着,コルサー�
 korsar/o⟦劫ᴷᴿ/o⟧:{Ｏ}【史】私掠船船長,私掠船乗組員,=kaperisto,>>pirato;=korsars^ipo（私掠船）
 korsar/s^ip/o⟦劫ᴷᴿ/船/o⟧:【史】私掠船（しりゃくせん）
 korset/o⟦束腰/o⟧:{Ｏ}【服】コルセット
-korsik/an/o⟦korsik/员ᴬ/o⟧:コルシカ人（フランス，コルシカ島）
+korsik/an/o⟦korsik/员/o⟧:コルシカ人（フランス，コルシカ島）
 Korsik/o:【地名】コルシカ島（地中海西部）
 kors/o:散歩道,大通り,>>avenuo,>>promenejo
 kor/stimul/il/o⟦心/激ˢ/具/o⟧:（心臓の）ペースメーカー
 kor/s^ir/a⟦心/裂/a⟧:胸を引き裂くような,悲痛な
 kor/s^ir/i⟦心/裂/i⟧:［他］心を引き裂く,激しい心痛を与える
-kort/eg/an/in/o⟦院/巨/员ᴬ/女/o⟧:（宮廷の）女官
-kort/eg/an/o⟦院/巨/员ᴬ/o⟧:廷臣,宮内官
+kort/eg/an/in/o⟦院/巨/员/女/o⟧:（宮廷の）女官
+kort/eg/an/o⟦院/巨/员/o⟧:廷臣,宮内官
 kort/eg/o⟦院/巨/o⟧:{Ｏ}宮廷
 kort/ist/o⟦院/家/o⟧:門番,=pordisto
 kort/o⟦院/o⟧:{Ｂ}中庭
@@ -19875,7 +19875,7 @@ korupt/ec/o⟦贿/性/o⟧:汚職体質
 korupt/i⟦贿/i⟧:{Ｏ}［他］（賄賂で）買収する,=subac^eti;堕落させる,腐敗させる
 korupt/it/a⟦贿/受/a⟧:買収された;堕落した,腐敗した
 korupt/o⟦贿/o⟧:=koruptado（買収）
-korus/an/o⟦合唱ᴷ/员ᴬ/o⟧:合唱団員
+korus/an/o⟦合唱ᴷ/员/o⟧:合唱団員
 korus/ej/o⟦合唱ᴷ/所/o⟧:合唱団席
 korus/o⟦合唱ᴷ/o⟧:合唱,合唱団,=h^oro
 kor/valv/o⟦心/阀/o⟧:【解】心臓弁
@@ -20226,12 +20226,12 @@ kristalografi/a⟦晶志/a⟧:結晶学の
 kristalografi/o⟦晶志/o⟧:【学】結晶学
 kristalograf/o⟦晶记/o⟧:結晶学者
 kristal/sistem/o⟦晶/系/o⟧:【鉱】結晶系
-krist/an/a⟦krist/员ᴬ/a⟧:キリスト教徒の
-krist/an/a era/o⟦krist/员ᴬ/a 代ᴱ/o⟧:キリスト紀元
-krist/an/ar/o⟦krist/员ᴬ/群/o⟧:【宗】キリスト教徒（全体）
-krist/an/ig/i⟦krist/员ᴬ/使/i⟧:［他］キリスト教化する
-krist/an/ism/o⟦krist/员ᴬ/主义/o⟧:【宗】キリスト教
-krist/an/o⟦krist/员ᴬ/o⟧:【宗】キリスト教徒
+krist/an/a⟦krist/员/a⟧:キリスト教徒の
+krist/an/a era/o⟦krist/员/a 代ᴱ/o⟧:キリスト紀元
+krist/an/ar/o⟦krist/员/群/o⟧:【宗】キリスト教徒（全体）
+krist/an/ig/i⟦krist/员/使/i⟧:［他］キリスト教化する
+krist/an/ism/o⟦krist/员/主义/o⟧:【宗】キリスト教
+krist/an/o⟦krist/员/o⟧:【宗】キリスト教徒
 krist/arb/o⟦krist/树/o⟧:クリスマス・ツリー
 Kristiani/o:【地名】クリスチャニア（オスロの旧称、ノルウェー）,=Oslo
 Kristin/o:（女子名）クリスティーヌ
@@ -20467,7 +20467,7 @@ kub/a⟦方ᴷ/a⟧:立方体の,立方形の;立方の
 kub/a dilat/o⟦方ᴷ/a 膨/o⟧:【理】体膨張
 kub/a ekvaci/o⟦方ᴷ/a 方程/o⟧:【数】三次方程式
 kub/a metr/o⟦方ᴷ/a 米/o⟧:【単】立方メートル
-kub/an/o⟦kub/员ᴬ/o⟧:キューバ人
+kub/an/o⟦kub/员/o⟧:キューバ人
 kub/a radik/o⟦方ᴷ/a 根/o⟧:【数】立方根
 kub/ig/i⟦方ᴷ/使/i⟧:［他］【数】三乗する;立方形にする
 kub/ism/o⟦方ᴷ/主义/o⟧:【芸】キュビスム,立体派
@@ -20699,7 +20699,7 @@ kun/labor/e⟦共/劳/e⟧:共同して,協力して
 kun/labor/e kun⟦共/劳/e 共⟧:〜と協力して
 kun/labor/i⟦共/劳/i⟧:［自］共同する,協力する,共に働く,協業する
 kun/labor/o⟦共/劳/o⟧:共同,協力,協同,協業
-kun/land/an/o⟦共/国/员ᴬ/o⟧:=samlandano（同国人）
+kun/land/an/o⟦共/国/员/o⟧:=samlandano（同国人）
 kun/lern/ant/o⟦共/学/在/o⟧:学友,同級生,相弟子
 kun/lern/int/o⟦共/学/过/o⟧:同窓生
 kun/lig/a energi/o⟦共/结/a 能ᴱ/o⟧:【理】結合エネルギー
@@ -20903,7 +20903,7 @@ kurkum/o⟦姜ᴷ/o⟧:【植】ウコン（属）（鬱金）
 Kurland/o:【地名】クルランド地方（ラトビア）
 kur/o⟦跑/o⟧:ひと走り;【情】（プログラムやジョブの）走行
 kurs/ad/i⟦课/行/i⟧:［自］（列車・路線バスが）運行している;（貨幣が）通用している
-kurs/an/o⟦课/员ᴬ/o⟧:受講者,講習生
+kurs/an/o⟦课/员/o⟧:受講者,講習生
 kurs/gvid/ant/o⟦课/导/在/o⟧:講習指導者
 kursiv/a⟦斜ᴷᴿ/a⟧:【印】イタリックの
 kursiv/e⟦斜ᴷᴿ/e⟧:【印】イタリックで
@@ -21047,7 +21047,7 @@ kvar/kord/a⟦四/弦/a⟧:【楽】四弦の
 kvar/later/o⟦四/边ᴸ/o⟧:【数】四辺形
 kvar/lit/a c^ambr/o⟦四/床/a 室/o⟧:（ホテルなど）四人部屋
 kvar/mast/ul/o⟦四/柱/者/o⟧:【海】４本マストの船
-kvar membr/oj⟦四 员/oj⟧:四肢,手足
+kvar membr/oj⟦四 员ᴹ/oj⟧:四肢,手足
 kvar mil⟦四 千⟧:［数詞］四千
 kvar/nask/it/oj⟦四/生/受/oj⟧:四つ子,=kvarg^emeloj
 kvar/o⟦四/o⟧:四;四人組
@@ -21243,7 +21243,7 @@ labor/rajt/o⟦劳/权/o⟧:【法】労働権
 labor/regul/oj⟦劳/规/oj⟧:就業規則
 labor/semajn/o⟦劳/周/o⟧:週労働時間;週労働日数
 labor/sesi/o⟦劳/会ˢ/o⟧:（会期を限定した）作業部会,会合
-labor/sindikat/an/o⟦劳/盟/员ᴬ/o⟧:労働組合員
+labor/sindikat/an/o⟦劳/盟/员/o⟧:労働組合員
 labor/sindikat/o⟦劳/盟/o⟧:労働組合
 labor/tabl/a⟦劳/桌/a⟧:【情】デスクトップの
 labor/tabl/a medi/o⟦劳/桌/a 境/o⟧:【情】デスクトップ環境
@@ -21426,7 +21426,7 @@ lanc^/i s^ip/on⟦发/i 船/on⟧:船を進水させる
 lanc^/o⟦发/o⟧:打ち上げ,発射;【海】進水;【情】起動
 lanc^/o/ceremoni/o⟦发/o/式ᶜ/o⟧:【海】進水式
 land/a⟦国/a⟧:国の
-land/an/o⟦国/员ᴬ/o⟧:国民,住民
+land/an/o⟦国/员/o⟧:国民,住民
 land/graf/o⟦国/伯/o⟧:【史】（中世ドイツの）方伯
 land/id/o⟦国/子/o⟧:土地の人,土着の人
 land/intern/o⟦国/内ᴵ/o⟧:内陸部,内陸地方
@@ -21480,7 +21480,7 @@ lanug/kusen/eg/o⟦绒ᴸ/垫/巨/o⟧:羽毛ぶとん
 lanug/o⟦绒ᴸ/o⟧:{Ｏ}（鳥の）綿羽（わたばね）,>>plumo;うぶ毛,にこ毛,>>vilo;（タンポポ・桃の）綿毛
 Laoci/o:【人名】老子（古代中国の思想家）,>>taoismo
 laos/a lingv/o⟦laos/a 语/o⟧:（la 〜）ラオス語
-laos/an/o⟦laos/员ᴬ/o⟧:ラオス人
+laos/an/o⟦laos/员/o⟧:ラオス人
 Laos/o:【国名】ラオス（アジア）
 laparotomi/o⟦腹切/o⟧:【医】開腹術
 La-Paz/o:【地名】ラパス（ボリビアの首都）
@@ -21755,7 +21755,7 @@ leg/ebl/a⟦读/可/a⟧:読める,読み取れる
 legend/a⟦传ᴸ/a⟧:伝説の,伝説的な
 legend/o⟦传ᴸ/o⟧:{Ｏ}伝説,言い伝え
 leg/i⟦读/i⟧:{Ｂ}［他］読む,音読する;読み取る,解読する;【情】読み取る
-legi/an/o⟦legi/员ᴬ/o⟧:（軍団・部隊の）兵士
+legi/an/o⟦legi/员/o⟧:（軍団・部隊の）兵士
 leg/il/o⟦读/具/o⟧:【情】読取り装置
 leg/ind/a⟦读/值/a⟧:読む価値のある
 legi/o:{Ｏ}【史】軍団,レギオン;軍隊,部隊;《転》多数,大勢
@@ -21863,7 +21863,7 @@ lern/ej/a⟦学/所/a⟧:学校の
 lern/ej/a kamarad/o⟦学/所/a 伴ᴷᴿ/o⟧:学友
 lern/ej/a kort/o⟦学/所/a 院/o⟧:校庭
 lern/ej/amik/o⟦学/所/友/o⟧:学校友達,学友
-lern/ej/an/o⟦学/所/员ᴬ/o⟧:児童,生徒
+lern/ej/an/o⟦学/所/员/o⟧:児童,生徒
 lern/ej/estr/o⟦学/所/长ᴱ/o⟧:校長
 lern/ej/o⟦学/所/o⟧:学校;《転》学習の場
 lern/em/a⟦学/倾/a⟧:勉強好きの,勉強熱心な,>>diligenta
@@ -21966,7 +21966,7 @@ Li/a Princ/a Mos^t/o:（三人称）皇太子殿下
 lias/o:【地質】ライアス統（ジュラ系の最下層）
 Liau^ning/o:【地名】=Ljau^ningo（遼寧省）
 Liau^/o:【地名】リャオ川（遼河，中国）
-liban/an/o⟦liban/员ᴬ/o⟧:レバノン人
+liban/an/o⟦liban/员/o⟧:レバノン人
 Liban/o:{Ｏ}【国名】レバノン（アジア）
 libel/o⟦虫ᴸᴮ/o⟧:{Ｏ}【虫】トンボ（蜻蛉）
 liber/a⟦自由/a⟧:{Ｂ}自由な;独立の,束縛されない,免れた;ひまな,空いている,広々した
@@ -21994,14 +21994,14 @@ liber/a traduk/o⟦自由/a 译/o⟧:意訳
 liber/a vers/o⟦自由/a 句ⱽ/o⟧:【文】自由詩句
 liber/brigad/o⟦自由/旅ᴮ/o⟧:義勇軍,>>partizano
 liber/e⟦自由/e⟧:自由に,好き勝手に,遠慮なく;自在に,とらわれずに
-liber/ec/an/o⟦自由/性/员ᴬ/o⟧:絶対自由主義者,>>anarkiisto
+liber/ec/an/o⟦自由/性/员/o⟧:絶対自由主義者,>>anarkiisto
 liber/ec/grad/o⟦自由/性/度/o⟧:【理】自由度
 liber/ec/o⟦自由/性/o⟧:自由さ;=libero（自由）
 liber/ec/o de esprim/ad/o⟦自由/性/o 从 表ᴱˢ/行/o⟧:表現の自由
 liber/foli/o⟦自由/叶/o⟧:ルーズリーフ用紙
 liber/form/a⟦自由/形/a⟧:自由形式の
 liber/form/a poem/o⟦自由/形/a 诗/o⟧:【文】自由詩,><fiksforma
-liberi/an/o⟦liberi/员ᴬ/o⟧:リベリア人
+liberi/an/o⟦liberi/员/o⟧:リベリア人
 liber/ig/ant/o⟦自由/使/在/o⟧:解放者
 liber/ig/a rapid/o⟦自由/使/a 速/o⟧:【理】脱出速度
 liber/ig/i⟦自由/使/i⟧:［他］解き放す,解放する,免除する,自由化する;空ける
@@ -22030,7 +22030,7 @@ liber/viv/ul/o⟦自由/活/者/o⟧:放蕩（ほうとう）者,道楽者
 liber/vol/a⟦自由/愿/a⟧:自由意志の
 liber/vol/e⟦自由/愿/e⟧:自由意志で
 Libi/a Dezert/o:【地名】リビア砂漠（アフリカ北部）
-libi/an/o⟦libi/员ᴬ/o⟧:リビア人
+libi/an/o⟦libi/员/o⟧:リビア人
 libid/o:【心】リビドー;性的衝動
 Libi/o:{Ｏ}【国名】リビア（アフリカ）
 libr/a⟦书/a⟧:本の,本による
@@ -22072,7 +22072,7 @@ libr/o/vend/ad/o⟦书/o/卖/行/o⟧:書籍販売
 libr/o/vend/ej/o⟦书/o/卖/所/o⟧:書店,本屋
 libr/o/verm/o⟦书/o/虫ⱽ/o⟧:【動】シミ（紙魚）;《転》本の虫
 libr/uj/o⟦书/器/o⟧:本箱;（教科書を入れる）学生かばん,ランドセル
-lice/an/o⟦校/员ᴬ/o⟧:リセーの生徒
+lice/an/o⟦校/员/o⟧:リセーの生徒
 lice/estr/o⟦校/长ᴱ/o⟧:リセーの校長
 licenc/i⟦许ᴸ/i⟧:［他］認可する,免許を与える
 licenci/at/o⟦士ᴸ/被/o⟧:学士,=licenciulo
@@ -22097,7 +22097,7 @@ lig/a⟦结/a⟧:結合の
 lig/ad/o⟦结/行/o⟧:連結,結合
 lig/aj^/o⟦结/物/o⟧:束（たば）;【印】合字,リガチャー
 ligament/o:【解】靭帯（じんたい）
-lig/an/o⟦结/员ᴬ/o⟧:連盟員,連盟会員
+lig/an/o⟦结/员/o⟧:連盟員,連盟会員
 lig/e al⟦结/e 向⟧:〜に結びつけて
 lig/e kun⟦结/e 共⟧:〜に関連して
 lig/fort/o⟦结/强/o⟧:【理】凝集力,=koheriga forto
@@ -22188,7 +22188,7 @@ lilak/o⟦丁香ᴸ/o⟧:【植】=siringo（ライラック）
 lili/ac/oj⟦百合/科ᴬ/oj⟧:【植】ユリ科
 lili/o⟦百合/o⟧:{Ｂ}【植】ユリ（属）（百合）
 liliput/a⟦微ᴸ/a⟧:小人の,ちっぽけな,卑小な
-liliput/an/o⟦微ᴸ/员ᴬ/o⟧:リリパット人,小人
+liliput/an/o⟦微ᴸ/员/o⟧:リリパット人,小人
 Liliput/o:【文】リリパット（ガリバー旅行記の小人国）
 Lilongv/o:【地名】リロングウェ（マラウイの首都）
 lim/a⟦界/a⟧:境界の
@@ -22480,7 +22480,7 @@ lok/a gazet/o⟦处/a 报/o⟧:地方新聞,地元紙
 lok/a kolor/o⟦处/a 色/o⟧:地方色,郷土色
 lok/a leg^/o⟦处/a 律/o⟧:その地方の法律
 lokaliz/i⟦位ᴸ/i⟧:［他］局限する,広がるのを食い止める;場所をつきとめる,位置を見きわめる
-lok/an/o⟦处/员ᴬ/o⟧:地元の人
+lok/an/o⟦处/员/o⟧:地元の人
 lok/a reg/ist/ar/o⟦处/a 治/家/群/o⟧:地方政府,地方自治体,地方行政当局
 lok/a ret/o⟦处/a 网/o⟧:【情】ローカルエリアネットワーク（LAN）
 lok/ar/o⟦处/群/o⟧:【数】軌跡,=lokuso
@@ -22775,8 +22775,8 @@ lustr/o:{Ｏ}シャンデリア
 lut/ad/o⟦焊/行/o⟧:ハンダ付け,鑞付け,>>veldado
 lut/aj^/o⟦焊/物/o⟧:ハンダ
 luteci/o⟦金ᴸᶜ/o⟧:【化】ルテチウム（原子番号７１の希土類元素）
-luter/an/ism/o⟦luter/员ᴬ/主义/o⟧:【キ】ルター派の教義
-luter/an/o⟦luter/员ᴬ/o⟧:【キ】ルター派信者
+luter/an/ism/o⟦luter/员/主义/o⟧:【キ】ルター派の教義
+luter/an/o⟦luter/员/o⟧:【キ】ルター派信者
 Luter/o:{Ｏ}【人名】ルター（ドイツの宗教改革者、1483-1546）,ルーテル
 lut/i⟦焊/i⟧:{Ｏ}［他］ハンダ付けする,鑞付けする,>>veldi
 lut/il/o⟦焊/具/o⟧:ハンダこて
@@ -22800,7 +22800,7 @@ mac^/o⟦嚼/o⟧:【運】=>matc^o（試合）
 mac^/o/stomak/o⟦嚼/o/胃/o⟧:【動】砂嚢（さのう）;【料】（鳥の）砂袋,砂肝
 mac^/tabak/o⟦嚼/烟ᵀ/o⟧:噛みたばこ
 madagaskar/a:マダガスカル（人）の
-madagaskar/an/o⟦madagaskar/员ᴬ/o⟧:マダガスカル人
+madagaskar/an/o⟦madagaskar/员/o⟧:マダガスカル人
 Madagaskar/a vink/o⟦Madagaskar/a 蔓春/o⟧:【植】ニチニチソウ（日々草）（種）
 Madagaskar/o:【国名】マダガスカル（アフリカ）
 Madagaskar/o:【地名】マダガスカル島（アフリカ南東部）
@@ -22828,7 +22828,7 @@ magi/e⟦魔ᴹ/e⟧:魔法で,魔法のように
 magi/ist/o⟦魔ᴹ/家/o⟧:魔術師,魔法使い,呪術師
 magi/o⟦魔ᴹ/o⟧:{Ｏ}魔術,魔法,呪術（じゅじゅつ）;《転》不思議な力,魅力
 magistr/a disert/aj^/o⟦硕/a 论ᴰᴿ/物/o⟧:修士論文
-magistrat/an/o⟦官ᴹ/员ᴬ/o⟧:市当局者,市会議員
+magistrat/an/o⟦官ᴹ/员/o⟧:市当局者,市会議員
 magistrat/ej/o⟦官ᴹ/所/o⟧:市役所
 magistrat/estr/o⟦官ᴹ/长ᴱ/o⟧:市長
 magistrat/o⟦官ᴹ/o⟧:（自治都市の）市当局
@@ -22900,7 +22900,7 @@ Mahabharat/o:=Mahabarato（マハーバーラタ）
 mahagon/o⟦木ᴹᴴ/o⟧:{Ｏ}【植】マホガニー（種）;マホガニー（属）;マホガニー材
 mahajan/o:【仏】大乗,>>teravado,>>hinajano
 Maharas^tr/o:【地名】マハラシュトラ州（インド）
-mahomet/an/o⟦mahomet/员ᴬ/o⟧:《廃》=>islamano（イスラム教徒）
+mahomet/an/o⟦mahomet/员/o⟧:《廃》=>islamano（イスラム教徒）
 Mahomet/o:【人名】マホメット,=Mohamedo
 mahoni/o:【植】ヒイラギナンテン
 mah^inaci/o:《稀》陰謀,奸策,悪巧み,>>intrigo,>>komploto
@@ -23032,7 +23032,7 @@ mal/ag^i/o⟦反/升水/o⟧:【商】為替損
 Malaj/a Du/on/insul/o:【地名】マレー半島（東南アジア）
 malaj/a lingv/o⟦malaj/a 语/o⟧:（la 〜）マレー語
 malaj/o:マレー人
-malajzi/an/o⟦malajzi/员ᴬ/o⟧:マレーシア人
+malajzi/an/o⟦malajzi/员/o⟧:マレーシア人
 Malajzi/o:【国名】マレーシア（アジア）
 Malak/a Mar/kol/o:【地名】マラッカ海峡（マレーシア・インドネシア）
 mal/akcel/ad/o⟦反/促/行/o⟧:【理】減速
@@ -23086,7 +23086,7 @@ mal/avar/e⟦反/吝/e⟧:気前よく,惜しみなく
 mal/avar/i⟦反/吝/i⟧:［他］気前よく与える,大盤ぶるまいする
 mal/avar/o⟦反/吝/o⟧:気前のよいこと,大盤ぶるまい
 Malavi/a Lag/o:【地名】マラウイ湖（アフリカ中部）
-malavi/an/o⟦malavi/员ᴬ/o⟧:マラウイ人
+malavi/an/o⟦malavi/员/o⟧:マラウイ人
 Malavi/o:【国名】マラウイ（アフリカ）
 mal/bel/a⟦反/美/a⟧:醜い,見苦しい;ひどい,卑劣な;（天気が）悪い
 mal/bel/e⟦反/美/e⟧:醜く
@@ -23209,7 +23209,7 @@ mal/diligent/ec/o⟦反/勤/性/o⟧:怠惰
 mal/diligent/ul/o⟦反/勤/者/o⟧:怠け者,不精者
 mal/diskret/a⟦反/谨/a⟧:口の軽い,でしゃばりな
 mal/disting/i⟦反/辨/i⟧:［他］=konfuzi,混同する
-maldiv/an/o⟦maldiv/员ᴬ/o⟧:モルジブ人
+maldiv/an/o⟦maldiv/员/o⟧:モルジブ人
 Maldiv/oj:【国名】モルジブ,モルディブ（アジア）
 mal/dolc^/a⟦反/甘/a⟧:苦い;つらい;きびしい;=amara
 mal/dolc^/aj^/o⟦反/甘/物/o⟧:苦いもの
@@ -23425,7 +23425,7 @@ mal/honor/o⟦反/誉/o⟧:不名誉,不面目
 mal/human/a⟦反/仁/a⟧:非人間的な,非人道的な
 mal/humil/a⟦反/谦/a⟧:高慢な,思い上がった,傲慢（ごうまん）な
 mal/humil/ec/o⟦反/谦/性/o⟧:高慢,思い上がり,傲慢
-mali/an/o⟦mali/员ᴬ/o⟧:マリ人
+mali/an/o⟦mali/员/o⟧:マリ人
 malic/a⟦恶/a⟧:{Ｂ}悪意の,意地悪な,邪悪な,腹黒い
 malic/aj^/o⟦恶/物/o⟧:意地悪な仕打ち
 malic/e⟦恶/e⟧:悪意で,意地悪に
@@ -24044,8 +24044,8 @@ mal/trankvil/o⟦反/静/o⟧:不安,心配
 mal/trans⟦反/越⟧:［前］〜のこちらに
 mal/trik/i⟦反/织ᵀᴿ/i⟧:［他］（編物を）ほどく
 mal/trust/ig/o⟦反/垄断/使/o⟧:【経】トラスト解体
-maltus/an/a⟦maltus/员ᴬ/a⟧:【経】マルサス学派の
-maltus/an/ism/o⟦maltus/员ᴬ/主义/o⟧:【経】マルサス主義（人口制限論）
+maltus/an/a⟦maltus/员/a⟧:【経】マルサス学派の
+maltus/an/ism/o⟦maltus/员/主义/o⟧:【経】マルサス主義（人口制限論）
 maltusianism/o:=maltusanismo（マルサス主義）
 Maltus/o:【人名】マルサス（英国の経済学者）
 malt/viski/o⟦麦芽/viski/o⟧:【料】モルトウイスキー
@@ -24686,10 +24686,10 @@ matur/ig/i⟦熟/使/i⟧:［他］熟成させる,成熟させる,発達させ�
 matur/ig^/i⟦熟/成/i⟧:［自］熟する,成熟する,十分発達する;《転》練り上げられる;【商】（手形などが）満期になる
 matur/ul/o⟦熟/者/o⟧:成人,=plenkreskulo
 matutin/o:【キ】朝課,早朝の祈り,>>diservo
-mau^rici/an/o⟦mau^rici/员ᴬ/o⟧:モーリシャス人
+mau^rici/an/o⟦mau^rici/员/o⟧:モーリシャス人
 Mau^rici/o:【国名】モーリシャス（アフリカ）
 Mau^r/i/o:【史】マウレタニア（アフリカ北西部の古王国）
-mau^ritani/an/o⟦mau^ritani/员ᴬ/o⟧:モーリタニア人
+mau^ritani/an/o⟦mau^ritani/员/o⟧:モーリタニア人
 Mau^ritani/o:【国名】モーリタニア（アフリカ）
 mau^r/o:ムーア人（北西アフリカのイスラム教徒）
 mau^zole/o:{Ｏ}壮大な墓,霊廟（びょう）,陵墓
@@ -24829,7 +24829,7 @@ Mekk/o:【地名】メッカ（サウジアラビア）
 Meklenburgi/o:【地名】メクレンブルク地方（ドイツ北東部の旧地方名）
 Mekong/o:【地名】メコン川（東南アジア）
 Meksik/a Golf/o:【地名】メキシコ湾（メキシコ東方）
-meksik/an/o⟦meksik/员ᴬ/o⟧:メキシコ人
+meksik/an/o⟦meksik/员/o⟧:メキシコ人
 Meksik/i/o:【国名】=>Meksiko（メキシコ）
 Meksik/o:{Ｏ}【国名】メキシコ（北アメリカ）
 Meksik/o:【地名】=Meksikurbo（メキシコシティ）
@@ -24878,17 +24878,17 @@ mem/biografi/o⟦自/生志/o⟧:自伝,=au^tobiografio
 membran/a⟦膜/a⟧:膜の,膜質の,膜状の
 membran/et/o⟦膜/小/o⟧:（液体表面の）薄い膜,（牛乳の）皮膜
 membran/o⟦膜/o⟧:{Ｏ}【解】【生】膜;薄膜;（マイク等の）振動板
-membr/ar/o⟦员/群/o⟧:全会員,全構成員;四肢,手足全部
-membr/ec/o⟦员/性/o⟧:会員資格,会員の身分
+membr/ar/o⟦员ᴹ/群/o⟧:全会員,全構成員;四肢,手足全部
+membr/ec/o⟦员ᴹ/性/o⟧:会員資格,会員の身分
 mem/brems/il/o⟦自/刹/具/o⟧:【車】自動ブレーキ
-membr/ig^/i⟦员/成/i⟧:［自］入会する
-membr/ig^/o⟦员/成/o⟧:入会
-membr/o⟦员/o⟧:{Ｂ}会員,一員,構成員,メンバー;（構成）要素,部分;【解】肢（手または足）;（人・動植物の）体の一部器官（肢，手，足，脚，舌，翼，羽，枝，葉，茎，根など）
-membr/o/abon/ant/o⟦员/o/订ᴬ/在/o⟧:購読会員
-membr/o/kart/o⟦员/o/卡/o⟧:会員証
-membr/o/kotiz/o⟦员/o/纳/o⟧:会費
-membr/o/nombr/o⟦员/o/数/o⟧:会員数
-membr/o/s^tat/o⟦员/o/国ˢ̂/o⟧:加盟国
+membr/ig^/i⟦员ᴹ/成/i⟧:［自］入会する
+membr/ig^/o⟦员ᴹ/成/o⟧:入会
+membr/o⟦员ᴹ/o⟧:{Ｂ}会員,一員,構成員,メンバー;（構成）要素,部分;【解】肢（手または足）;（人・動植物の）体の一部器官（肢，手，足，脚，舌，翼，羽，枝，葉，茎，根など）
+membr/o/abon/ant/o⟦员ᴹ/o/订ᴬ/在/o⟧:購読会員
+membr/o/kart/o⟦员ᴹ/o/卡/o⟧:会員証
+membr/o/kotiz/o⟦员ᴹ/o/纳/o⟧:会費
+membr/o/nombr/o⟦员ᴹ/o/数/o⟧:会員数
+membr/o/s^tat/o⟦员ᴹ/o/国ˢ̂/o⟧:加盟国
 mem/centr/ism/o⟦自/央/主义/o⟧:自己中心主義
 mem/cenzur/o⟦自/审ᶜ/o⟧:自己検閲,自己規制
 mem/cert/a⟦自/确/a⟧:自信がある
@@ -25130,7 +25130,7 @@ merop/o:【鳥】ハチクイ（蜂喰）（科の総称）,=abelmang^ulo
 mesag^/i⟦信ᴹ/i⟧:［他］伝言する,言づける
 mesag^/ist/o⟦信ᴹ/家/o⟧:使者,メッセンジャー
 mesag^/o⟦信ᴹ/o⟧:{Ｏ}伝言,ことづて,メッセージ;お告げ,託宣;教書
-mesi/an/ism/o⟦救世/员ᴬ/主义/o⟧:【宗】メシア信仰
+mesi/an/ism/o⟦救世/员/主义/o⟧:【宗】メシア信仰
 Mesin/o:【地名】メッシーナ（イタリア）
 Mesi/o:{Ｏ}【宗】救世主,メシア;【キ】イエス・キリスト;《転》救済者,救世主
 meskalin/o:【化】メスカリン
@@ -25275,7 +25275,7 @@ mez/kresk/a⟦中/育/a⟧:中背の
 mez/kvalit/a⟦中/质ᴷ/a⟧:並の,中質の
 mez/kvant/o⟦中/量/o⟧:平均（量）
 mez/latitud/o⟦中/纬/o⟧:【地理】中分緯度
-mez/lern/ej/an/o⟦中/学/所/员ᴬ/o⟧:中学生,高校生
+mez/lern/ej/an/o⟦中/学/所/员/o⟧:中学生,高校生
 mez/lern/ej/o⟦中/学/所/o⟧:中学校,高校;中等教育学校,=meza lernejo
 mez/nokt/o⟦中/夜/o⟧:=noktomezo（真夜中）
 mez/nombr/e⟦中/数/e⟧:平均して
@@ -25394,7 +25394,7 @@ mikrokok/o⟦微菌/o⟧:【生】球菌,ミクロコッカス（属）
 mikrokosm/o⟦微宇/o⟧:小宇宙;（宇宙の縮図として）人間,><makrokosmo
 mikrokredit/o⟦微信受/o⟧:《Ｎ》【経】マイクロクレジット,小規模金融
 mikrometr/o⟦微米/o⟧:{Ｏ}【理】マイクロメーター
-mikronezi/an/o⟦mikronezi/员ᴬ/o⟧:ミクロネシア人
+mikronezi/an/o⟦mikronezi/员/o⟧:ミクロネシア人
 Mikronezi/o:【国名】ミクロネシア連邦（大洋州）
 Mikronezi/o:【地名】ミクロネシア（太平洋北西部の島々）
 mikron/o:【理】ミクロン（長さの単位，μ，百万分の一メートル）;ミクロン（微粒子）
@@ -25440,7 +25440,7 @@ mili/amper/o⟦毫ᴹᴵ/amper/o⟧:【電】ミリアンペア（mA）
 miliard/o⟦十亿/o⟧:{Ｂ}十億
 miliard/ul/o⟦十亿/者/o⟧:億万長者
 mili/bar/o⟦毫ᴹᴵ/压ᴮ/o⟧:【気】ミリバール（mbar）
-milic/an/o⟦民兵/员ᴬ/o⟧:民兵
+milic/an/o⟦民兵/员/o⟧:民兵
 milici/o:=milico（民兵隊）
 milic/o⟦民兵/o⟧:民兵隊,義勇軍,国民軍
 miligram/o⟦毫克/o⟧:{Ｏ}【単】ミリグラム（mg）
@@ -25962,9 +25962,9 @@ Mond/a Organ/iz/aj^/o pri Meteologi/o⟦Mond/a Organ/iz/aj^/o 于 Meteologi/o⟧
 Mond/a Organ/iz/aj^/o pri San/o⟦Mond/a Organ/iz/aj^/o 于 San/o⟧:世界保健機関（WHO／MOS）
 mond/a rekord/o⟦界ᴹ/a 记ᴿ/o⟧:世界記録
 mond/bild/o⟦界ᴹ/画/o⟧:世界像
-mond/civit/an/ec/o⟦界ᴹ/市ᶜ/员ᴬ/性/o⟧:世界市民権
-mond/civit/an/ism/o⟦界ᴹ/市ᶜ/员ᴬ/主义/o⟧:世界市民主義
-mond/civit/an/o⟦界ᴹ/市ᶜ/员ᴬ/o⟧:世界市民
+mond/civit/an/ec/o⟦界ᴹ/市ᶜ/员/性/o⟧:世界市民権
+mond/civit/an/ism/o⟦界ᴹ/市ᶜ/员/主义/o⟧:世界市民主義
+mond/civit/an/o⟦界ᴹ/市ᶜ/员/o⟧:世界市民
 mond/fam/a⟦界ᴹ/名ᶠ/a⟧:世界的に有名な
 Mond/feder/ist/a Mov/ad/o:（la 〜）世界連邦運動（ＷＦＭ）
 mond/feder/ist/o⟦界ᴹ/联ᶠᴱ/家/o⟧:世界連邦運動家
@@ -26078,9 +26078,9 @@ Montajn/o:【人名】=Montanjo（モンテーニュ）
 mont/a klimat/o⟦山/a 气候/o⟧:山岳気候
 Montanj/o:【人名】モンテーニュ（フランスの思想家、1533-1592）
 Montan/o:【地名】モンタナ州（米国）
-mont/an/o⟦山/员ᴬ/o⟧:山地民
+mont/an/o⟦山/员/o⟧:山地民
 mont/ar/a gvid/ist/o⟦山/群/a 导/家/o⟧:山岳ガイド,山案内人
-mont/ar/an/o⟦山/群/员ᴬ/o⟧:山地の住民,山地民
+mont/ar/an/o⟦山/群/员/o⟧:山地の住民,山地民
 mont/ar/a region/o⟦山/群/a 区/o⟧:山岳地方
 mont/ar/motacil/o⟦山/群/鸟ᴹᵀ/o⟧:【鳥】キセキレイ（黄鶺鴒）（種）
 mont/ar/o⟦山/群/o⟧:山脈,山塊,山岳地帯,>>montoc^eno,>>masivo
@@ -26089,7 +26089,7 @@ mont/eg/o⟦山/巨/o⟧:岳（たけ）
 mont/eg^/o⟦山/棱/o⟧:尾根,稜線（りょうせん）,>>montkresto
 Montekarl/o:【地名】モンテカルロ（モナコ）
 Montekrist/o:【地名】モンテクリスト島（イタリア西方）
-montenegr/an/o⟦山黑/员ᴬ/o⟧:モンテネグロ人
+montenegr/an/o⟦山黑/员/o⟧:モンテネグロ人
 Montenegr/o:【国名】モンテネグロ（欧州）
 mont/et/a zon/o⟦山/小/a 带/o⟧:丘陵地帯
 mont/et/o⟦山/小/o⟧:丘,小山,丘陵
@@ -26292,7 +26292,7 @@ motor/o⟦动ᴹᵀ/o⟧:{Ｂ}【機】原動機,モーター,エンジン;《�
 motor/vetur/il/o⟦动ᴹᵀ/乘/具/o⟧:自動車（広義の）,>>au^to
 mov/a⟦动/a⟧:運動の,運動を起こさせる
 mov/ad/a⟦动/行/a⟧:運動の
-mov/ad/an/o⟦动/行/员ᴬ/o⟧:運動員
+mov/ad/an/o⟦动/行/员/o⟧:運動員
 mov/ad/ekvaci/o⟦动/行/方程/o⟧:【理】運動方程式
 mov/ad/o⟦动/行/o⟧:運動,移動;【理】運動;《転》（社会的な）運動
 mov/a fort/o⟦动/a 强/o⟧:動力,原動力
@@ -26585,10 +26585,10 @@ naci/a lingv/o⟦族/a 语/o⟧:民族語;国語
 naci/a literatur/o⟦族/a 文ᴸ/o⟧:民族文学,国民文学
 naci/a mal/pli/mult/o⟦族/a 反/更/多/o⟧:少数民族
 naci/a mem/decid/o⟦族/a 自/决/o⟧:民族自決
-naci/an/ec/o⟦族/员ᴬ/性/o⟧:国籍
-naci/an/ig/i⟦族/员ᴬ/使/i⟧:［他］【法】帰化させる,=naturalizi
-naci/an/ig^/o⟦族/员ᴬ/成/o⟧:【法】帰化
-naci/an/o⟦族/员ᴬ/o⟧:国民（一人）;【聖】異邦人（ユダヤ人以外をさす）
+naci/an/ec/o⟦族/员/性/o⟧:国籍
+naci/an/ig/i⟦族/员/使/i⟧:［他］【法】帰化させる,=naturalizi
+naci/an/ig^/o⟦族/员/成/o⟧:【法】帰化
+naci/an/o⟦族/员/o⟧:国民（一人）;【聖】異邦人（ユダヤ人以外をさす）
 naci/a park/o⟦族/a 园ᴾ/o⟧:国立公園
 naci/a parlament/o⟦族/a 议ᴾᴸ/o⟧:国会
 naci/a pensi/o⟦族/a 养老/o⟧:国民年金
@@ -26609,7 +26609,7 @@ naci/ist/o⟦族/家/o⟧:民族主義者,国民主義者,国家主義者
 naci/liber/ig/a⟦族/自由/使/a⟧:民族解放の
 naci/liber/ig/a mov/ad/o⟦族/自由/使/a 动/行/o⟧:民族解放運動
 naci/lingv/a⟦族/语/a⟧:民族語の
-naci/lingv/an/o⟦族/语/员ᴬ/o⟧:民族語話者
+naci/lingv/an/o⟦族/语/员/o⟧:民族語話者
 naci/o⟦族/o⟧:{Ｂ}民族;国民（全体）;国,=regno
 nacionalism/o:《古》=naciismo（民族主義）
 naci/pensi/ul/o⟦族/养老/者/o⟧:国民年金受給者
@@ -26668,7 +26668,7 @@ najl/o/tir/il/o⟦钉/o/拉/具/o⟧:くぎ抜き
 Najrobi/o:【地名】ナイロビ（ケニアの首都）
 najtingal/o⟦夜莺/o⟧:{Ｂ}【鳥】ナイチンゲール,サヨナキドリ（小夜鳴鳥）
 Naks/o:【地名】ナクソス島（ギリシア，キクラデス諸島）
-namibi/an/o⟦namibi/员ᴬ/o⟧:ナミビア人
+namibi/an/o⟦namibi/员/o⟧:ナミビア人
 Namibi/o:【国名】ナミビア（アフリカ）
 Namib/o:【地名】ナミブ砂漠（ナミビア）
 Namur/o:【地名】ナミュール（ベルギー）
@@ -26949,9 +26949,9 @@ ne/demonstr/ebl/a⟦不/证ᴰᴹ/可/a⟧:証明できない
 nederland/a:オランダの
 Nederland/aj Antil/oj:【国名】オランダ領アンティル（オランダの自治領）
 nederland/a lingv/o⟦nederland/a 语/o⟧:（la 〜）オランダ語
-nederland/an/o⟦nederland/员ᴬ/o⟧:オランダ人
+nederland/an/o⟦nederland/员/o⟧:オランダ人
 nederland/lingv/a⟦nederland/语/a⟧:オランダ語の
-nederland/lingv/an/o⟦nederland/语/员ᴬ/o⟧:オランダ語話者
+nederland/lingv/an/o⟦nederland/语/员/o⟧:オランダ語話者
 Nederland/o:{Ｏ}【国名】オランダ（欧州）
 ne/determin/a⟦不/定ᴰᵀ/a⟧:不確定の
 ne/determin/ebl/a⟦不/定ᴰᵀ/可/a⟧:確定できない,決定不能の
@@ -27265,7 +27265,7 @@ ne/pag/i/pov/a⟦不/付/i/能/a⟧:支払能力のない
 ne/pag/i/pov/o⟦不/付/i/能/o⟧:支払不能
 ne/pag/o/kapabl/a⟦不/付/o/能ᴷ/a⟧:支払能力のない,=nesolventa
 nepal/a lingv/o⟦nepal/a 语/o⟧:（la 〜）ネパール語
-nepal/an/o⟦nepal/员ᴬ/o⟧:ネパール人
+nepal/an/o⟦nepal/员/o⟧:ネパール人
 Nepal/o:【国名】ネパール（アジア）
 ne/par/a⟦不/偶/a⟧:【数】奇数の
 ne/par/a nombr/o⟦不/偶/a 数/o⟧:【数】奇数
@@ -27540,9 +27540,9 @@ nigr/o/har/a⟦黑/o/毛/a⟧:黒髪の
 nigr/okul/a⟦黑/目/a⟧:黒い瞳の
 nigr/ul/o⟦黑/者/o⟧:黒人,=negro
 nigr/um/i⟦黑/um/i⟧:［他］【軍】灯火管制する
-nig^er/an/o⟦nig^er/员ᴬ/o⟧:ニジェール人
+nig^er/an/o⟦nig^er/员/o⟧:ニジェール人
 Nig^er/delt/o:【地理】ニジェール・デルタ（ナイジェリア）
-nig^eri/an/o⟦nig^eri/员ᴬ/o⟧:ナイジェリア人
+nig^eri/an/o⟦nig^eri/员/o⟧:ナイジェリア人
 Nig^eri/o:【国名】ナイジェリア（アフリカ）
 Nig^er/land/o:【国名】=>Nig^ero（ニジェール）,
 Nig^er/o:【国名】ニジェール（アフリカ）
@@ -27584,7 +27584,7 @@ nimfomani/o⟦精狂/o⟧:【病】ニンフォマニア,女子色情症,>>satir
 ni/n⟦我们/n⟧:私達を,われわれを
 Ninev/o:【聖】ニネベ（古代アッシリアの首都）
 Nins^a/o:【地名】ニンシアホイツー自治区（寧夏回族自治区，中国）
-nipon/an/o⟦nipon/员ᴬ/o⟧:《稀》=japano（日本人）
+nipon/an/o⟦nipon/员/o⟧:《稀》=japano（日本人）
 Nipon/o:《稀》【地名】=Japanio（日本）
 nirvan/o:【仏】涅槃（ねはん）
 Nis/o:【地名】ナイセ川（ドイツ・ポーランド国境）
@@ -27737,7 +27737,7 @@ nord/a cerv/o⟦北/a 鹿/o⟧:《般》トナカイ,=boaco
 nord/a hemisfer/o⟦北/a 半球/o⟧:北半球
 Nord/a Mar/o:【地名】北海（イギリス東方）
 Nord/amerik/o:【地名】北アメリカ
-nord/an/o⟦北/员ᴬ/o⟧:北部の人,=nordulo
+nord/an/o⟦北/员/o⟧:北部の人,=nordulo
 nord/a polus/o⟦北/a 极ᴾ/o⟧:（la 〜）【地理】北極;【理】Ｎ極
 Nord/a Teritori/o:【地名】ノーザンテリトリー,北部特別地域（オーストラリア）
 Nord-Atlantik/a Traktat-Organ/iz/aj^/o:【政】北大西洋条約機構（NATO）
@@ -27752,7 +27752,7 @@ Nord-Irland/o:【地名】北アイルランド（イギリス）
 Nord-Karolin/o:【地名】ノース・カロライナ州（米国）
 Nord-Kore/i/o:【国名】北朝鮮（アジア）
 Nord-Kore/uj/o:【国名】=Nord-Koreio（北朝鮮）
-nord/land/an/o⟦北/国/员ᴬ/o⟧:北国人;北部の人,=nordulo
+nord/land/an/o⟦北/国/员/o⟧:北国人;北部の人,=nordulo
 nord/land/o⟦北/国/o⟧:北国
 nord/lum/o⟦北/光/o⟧:【気】北極光,オーロラ,>>polusa lumo
 nord/o⟦北/o⟧:{Ｂ}北;北部,北方,><sudo
@@ -27864,7 +27864,7 @@ nov/jar/a donac/o⟦新/年/a 礼/o⟧:お年玉;新年の贈り物
 nov/jar/a salut/kart/o⟦新/年/a 问ˢ/卡/o⟧:年賀状
 nov/jar/o⟦新/年/o⟧:新年
 novjork/a:ニューヨークの
-novjork/an/o⟦novjork/员ᴬ/o⟧:ニューヨーク市民
+novjork/an/o⟦novjork/员/o⟧:ニューヨーク市民
 Nov-Jorki/o:【地名】ニューヨーク州（米国）
 Novjork/o:【地名】=Nov-Jorko（ニューヨーク）
 Nov-Jork/o:{Ｏ}【地名】ニューヨーク（米国）
@@ -28223,7 +28223,7 @@ okcident/a eduk/ad/o⟦西/a 育ᴱ/行/o⟧:西洋式教育
 okcident/afrik/a⟦西/afrik/a⟧:西アフリカの
 Okcident/aj Indi/oj:【地名】西インド諸島（中央アメリカ東方）
 okcident/aj vent/oj⟦西/aj 风/oj⟧:【気】偏西風
-okcident/an/o⟦西/员ᴬ/o⟧:西洋人
+okcident/an/o⟦西/员/o⟧:西洋人
 Okcident/a Sahar/o:【国名】西サハラ（アフリカ）
 Okcident/a Samo/o:【国名】西サモア（大洋州）
 Okcident-Au^strali/o:【地名】西オーストラリア州（オーストラリア）
@@ -28474,7 +28474,7 @@ Ontari/o:【地名】オンタリオ州（カナダ）
 ontogenez/o⟦在源/o⟧:【生】個体発生,=individugenezo
 ontogeni/o:【生】=individugenezo（個体発生）
 ontologi/o⟦存在学/o⟧:【哲】存在論
-oomot/an/o⟦oomot/员ᴬ/o⟧:大本信徒
+oomot/an/o⟦oomot/员/o⟧:大本信徒
 Oomot/o:【宗】大本教
 -op-⟦组⟧:{Ｂ}［接尾辞］（集合を示す）,>>duope
 op/a⟦组/a⟧:連れだった
@@ -28530,7 +28530,7 @@ oportun/o⟦便/o⟧:好機,好都合
 oposum/o⟦鼠ᴼᴾ/o⟧:【服】オポッサムの毛皮;【動】=didelfo
 opozici/a⟦对ᴼ/a⟧:（政治的に）反対の,対立する
 opozici/a kandidat/o⟦对ᴼ/a 候/o⟧:対立候補
-opozici/an/o⟦对ᴼ/员ᴬ/o⟧:反対派の人,野党員,=opoziciulo
+opozici/an/o⟦对ᴼ/员/o⟧:反対派の人,野党員,=opoziciulo
 opozici/ant/ar/o⟦对ᴼ/在/群/o⟧:反対派,野党
 opozici/a parti/o⟦对ᴼ/a 党/o⟧:野党,反対党
 opozici/i⟦对ᴼ/i⟧:［自］（政治的に）反対する,対立する,>>oponi,>>kontrau^stari
@@ -28708,14 +28708,14 @@ Orient/a Eu^rop/o:【地名】東欧
 orient/afrik/a⟦东/afrik/a⟧:東アフリカの,アフリカ東部の
 orientalism/o⟦东主义/o⟧:東洋趣味;東洋学,>>orientologio
 orientalist/o⟦东家/o⟧:東洋通;東洋学者,>>orientologo
-orient/an/o⟦东/员ᴬ/o⟧:東洋人
+orient/an/o⟦东/员/o⟧:東洋人
 orient/a pice/o⟦东/a 云杉/o⟧:【植】コーカサストウヒ（種）
 Orient/a Timor/o:【国名】東チモール（アジア）
 orient/a tuj/o⟦东/a 侧柏/o⟧:【植】コノテガシワ（種）
 orient/a turt/o⟦东/a 鸽ᵀ/o⟧:【鳥】キジバト（雉鳩）（種）
 orient/a vent/o⟦东/a 风/o⟧:東風
 orient/azi/a⟦东/azi/a⟧:東アジアの
-orient/azi/an/o⟦东/azi/员ᴬ/o⟧:東アジア人
+orient/azi/an/o⟦东/azi/员/o⟧:東アジア人
 Orient-C^in/a Mar/o:【地名】東シナ海
 orient/e⟦东/e⟧:東に,東方に
 orient/eu^rop/a⟦东/eu^rop/a⟧:東欧の
@@ -28953,7 +28953,7 @@ pac/procez/o⟦和/程ᴾᶻ/o⟧:和平プロセス
 pac/propon/o⟦和/议ᴾ/o⟧:和平案
 pac/soldat/o⟦和/兵/o⟧:（国連の）平和維持軍兵士,=blukaskulo
 pac/traktat/o⟦和/条约/o⟧:平和条約,講和条約
-pac/trup/an/o⟦和/团ᵀ/员ᴬ/o⟧:平和維持部隊員,>>pacsoldato,>>blukaskulo
+pac/trup/an/o⟦和/团ᵀ/员/o⟧:平和維持部隊員,>>pacsoldato,>>blukaskulo
 pac/trup/o⟦和/团ᵀ/o⟧:（国連などの）平和維持部隊
 pac^j/o:パパ,とうちゃん,>>patro
 pac^ul/o:{Ｏ}【植】パチョリ（種）;パチョリ（香料）
@@ -29038,7 +29038,7 @@ pak/et/o⟦包/小/o⟧:小荷物,小包
 pak/i⟦包/i⟧:［他］包む,包装する,荷造りする;【情】（ファイルを）圧縮する
 pakiderm/oj:《古》【動】厚皮動物（ゾウ・サイなど）,=dikhau^tuloj
 pak/il/o⟦包/具/o⟧:【情】アーカイバー
-pakistan/an/o⟦pakistan/员ᴬ/o⟧:パキスタン人
+pakistan/an/o⟦pakistan/员/o⟧:パキスタン人
 Pakistan/o:{Ｏ}【国名】パキスタン（アジア）
 pak/it/a lunc^/o⟦包/受/a lunc^/o⟧:弁当
 pak/material/o⟦包/材/o⟧:包装材料,=pakumo
@@ -29380,7 +29380,7 @@ par/ig^/i⟦偶/成/i⟧:［自］つがいになる;つがう
 pari/o:パリア（インドの最下層民）;《転》のけ者;=>parieto（内壁）
 Paris/o:【神】パリス（ギリシア神話でトロイアの王子）
 pariz/a:パリの
-pariz/an/o⟦pariz/员ᴬ/o⟧:パリ市民
+pariz/an/o⟦pariz/员/o⟧:パリ市民
 Pariz/o:{Ｏ}【地名】パリ（フランスの首都）
 park/ad/o⟦园ᴾ/行/o⟧:【車】駐車
 park/ej/o⟦园ᴾ/所/o⟧:駐車場
@@ -29399,7 +29399,7 @@ par/kre/o⟦偶/创/o⟧:【理】対生成（ついせいせい）
 park/um/ej/o⟦园ᴾ/um/所/o⟧:駐車場
 parlament/a⟦议ᴾᴸ/a⟧:議会の,国会の
 parlament/a demokrat/i/a s^tat/o⟦议ᴾᴸ/a 民ᴰᴱ/i/a 国ˢ̂/o⟧:議会制民主主義国家
-parlament/an/o⟦议ᴾᴸ/员ᴬ/o⟧:議員,国会議員,>>deputito
+parlament/an/o⟦议ᴾᴸ/员/o⟧:議員,国会議員,>>deputito
 parlament/a reg^im/o⟦议ᴾᴸ/a 制/o⟧:議会制
 parlament/a seg^/o⟦议ᴾᴸ/a 椅/o⟧:議席
 parlament/a vic/ministr/o⟦议ᴾᴸ/a 列/臣/o⟧:【政】大臣政務官;政務次官
@@ -29417,7 +29417,7 @@ parodi/i⟦戏仿/i⟧:［他］パロディー化する,もじる
 parodi/o⟦戏仿/o⟧:{Ｏ}【文】パロディー,もじり詩文;《転》こっけいな模倣
 paroh^/o⟦堂区ᴾᴴ̂/o⟧:{Ｏ}=paroko（小教区）
 parok/a⟦堂区/a⟧:小教区の
-parok/an/o⟦堂区/员ᴬ/o⟧:【キ】小教区の信徒,教区民
+parok/an/o⟦堂区/员/o⟧:【キ】小教区の信徒,教区民
 parok/estr/ej/o⟦堂区/长ᴱ/所/o⟧:【キ】（主任）司祭館,牧師館
 parok/estr/o⟦堂区/长ᴱ/o⟧:【キ】（小教区を預かる）主任司祭,教区牧師
 parok/ism/o⟦堂区/主义/o⟧:【キ】教区制;《転》地域根性,偏狭,排他性
@@ -29462,7 +29462,7 @@ Partenon/o:【史】パルテノン（古代ギリシアの神殿）
 parter/o:{Ｏ}【劇】（劇場の）一階席,平土間;《古》=>teretag^o;【園】（庭園の）大花壇
 parti/a⟦党/a⟧:党の;=partieca（党派的な）
 parti/a kongres/o⟦党/a 会/o⟧:党大会
-parti/an/o⟦党/员ᴬ/o⟧:党員,仲間;信奉者,支持者
+parti/an/o⟦党/员/o⟧:党員,仲間;信奉者,支持者
 particip/o⟦分词/o⟧:{Ｏ}【Ｇ】分詞
 parti/ec/a⟦党/性/a⟧:党派的な,党派色のある,偏った,不公平な
 parti/ec/o⟦党/性/o⟧:党派性
@@ -29657,7 +29657,7 @@ patr/o/flank/a⟦父/o/侧/a⟧:父方の
 patr/o/flank/a parenc/o⟦父/o/侧/a 亲ᴾ/o⟧:父方の親類
 patrol/ad/o⟦巡ᴾ/行/o⟧:巡回警備,パトロール
 patr/o/land/o⟦父/o/国/o⟧:祖国,=patrujo
-patrol/an/o⟦巡ᴾ/员ᴬ/o⟧:=patrolisto（巡回警備員）
+patrol/an/o⟦巡ᴾ/员/o⟧:=patrolisto（巡回警備員）
 patrol/au^t/o⟦巡ᴾ/车/o⟧:パトロールカー
 patrol/i⟦巡ᴾ/i⟧:［自］巡回警備する,パトロールする
 patrol/ist/o⟦巡ᴾ/家/o⟧:巡回警備員;パトロール警官;【軍】偵察兵
@@ -30104,7 +30104,7 @@ per/s^ip/i⟦以/船/i⟧:［他］船で運ぶ
 perturb/i⟦扰ᴾ/i⟧:［他］混乱させる,調子を狂わす,>>malordigi
 perturb/ig^/i⟦扰ᴾ/成/i⟧:［自］混乱する,調子を狂わす
 perturb/o⟦扰ᴾ/o⟧:混乱,動揺,=malordo;【医】障害;【環】（生態系の）撹乱（かくらん）;【気】擾乱（じょうらん）;【天】摂動;【電】外乱（雑音信号）;【通】妨害（雑音信号や混信）
-peru/an/o⟦peru/员ᴬ/o⟧:ペルー人
+peru/an/o⟦peru/员/o⟧:ペルー人
 Perug^/o:【地名】ペルージア（イタリア）
 peruk/hav/a⟦假发/有/a⟧:かつらを着けた
 peruk/ist/o⟦假发/家/o⟧:かつら師
@@ -30574,7 +30574,7 @@ plau^d/et/o⟦溅/小/o⟧:【医】（胃・腸内の）波動音
 plau^d/i⟦溅/i⟧:{Ｏ}［自］バシャリと音を立てる,水音を立てる;パタパタと音を立てる
 plau^d/ig/i⟦溅/使/i⟧:［他］（水を）バシャバシャいわせる
 plau^d/o⟦溅/o⟧:バシャリという音,水音（ピチャン，ジャブン，ドボン）
-pleb/an/o⟦民ᴾᴸ/员ᴬ/o⟧:平民,>>popolano
+pleb/an/o⟦民ᴾᴸ/员/o⟧:平民,>>popolano
 plebiscit/o⟦公投/o⟧:【政】（居住地の帰属・統治者の選択に関する）国民投票,住民投票,プレビシット,>>referendumo
 pleb/o⟦民ᴾᴸ/o⟧:{Ｏ}【史】（古代ローマの）平民階級;《転》庶民,下層民（全体）
 pled/ad/o⟦辩/行/o⟧:=pledo（弁護）
@@ -30961,7 +30961,7 @@ podagr/ul/o⟦痛风/者/o⟧:痛風患者
 po/detal/e⟦每/细ᴰᵀ/e⟧:=pomalgrande,小売りで
 podi/a⟦台/a⟧:演壇の,ステージの
 podi/a diskut/o⟦台/a 论/o⟧:パネルディスカッション
-podi/an/o⟦台/员ᴬ/o⟧:登壇者,パネリスト
+podi/an/o⟦台/员/o⟧:登壇者,パネリスト
 podi/o⟦台/o⟧:{Ｏ}演壇,ひな壇,高座,ステージ;【建】（闘技場・円形劇場の）ひな壇式観覧席
 podkast/o:《Ｎ》【情】ポッドキャスト（インターネット上で音声ファイルなどを公開する方法）,=abonsonaj^o
 Pod/o:【地名】ル・ピュイ（フランス）
@@ -31037,7 +31037,7 @@ poliandri/o:一妻多夫,=pluredzeco;【動】一雌多雄
 polic/a⟦警/a⟧:警察の
 polic/a enket/o⟦警/a 查/o⟧:警察の捜査
 polic/a komisar/o⟦警/a 专员/o⟧:【日】与力（よりき）【私家版】
-polic/an/o⟦警/员ᴬ/o⟧:巡査
+polic/an/o⟦警/员/o⟧:巡査
 polic/au^t/o⟦警/车/o⟧:パトカー
 polic/ej/o⟦警/所/o⟧:交番,巡査派出所;警察署,=policoficejo
 polic/estr/o⟦警/长ᴱ/o⟧:警察署長
@@ -31062,7 +31062,7 @@ polikromi/o⟦彩ᴾ/o⟧:【美】多色装飾,多色画法,ポリクロミー
 polimer/ig/i⟦多链节/使/i⟧:［他］【化】重合させる
 polimer/ig^/i⟦多链节/成/i⟧:［自］【化】重合する
 polimer/o⟦多链节/o⟧:【化】重合体,ポリマー
-polinezi/an/o⟦polinezi/员ᴬ/o⟧:ポリネシア人
+polinezi/an/o⟦polinezi/员/o⟧:ポリネシア人
 Polinezi/o:{Ｏ}【地名】ポリネシア（太平洋中南部の島々）
 polinom/o:【数】多項式
 Pol/i/o:【国名】=Pollando（ポーランド）
@@ -31218,7 +31218,7 @@ popol/ad/o⟦民/行/o⟧:入植,植民,>>koloniado
 popol/a front/o⟦民/a 前ᶠ/o⟧:【史】人民戦線
 popol/a kvartal/o⟦民/a 区ᴷ/o⟧:下町
 popol/amas/o⟦民/堆/o⟧:群集,大衆
-popol/an/o⟦民/员ᴬ/o⟧:人民（の一人）,一庶民
+popol/an/o⟦民/员/o⟧:人民（の一人）,一庶民
 popol/a suveren/ec/o⟦民/a 权ˢ/性/o⟧:【法】主権在民
 popol/danc/o⟦民/舞/o⟧:フォークダンス,民俗舞踊
 popol/demokrat/i/o⟦民/民ᴰᴱ/i/o⟧:【政】人民民主制
@@ -31602,7 +31602,7 @@ prajm/i⟦引爆/i⟧:［他］雷管を装着する;《転》口火を切る
 prajm/o⟦引爆/o⟧:【軍】雷管;信管
 Praj/o:【地名】プライア（カーボベルデの首都）
 pra/kau^z/o⟦原/因ᴷ/o⟧:【哲】第一原因
-pra/krist/an/ism/o⟦原/krist/员ᴬ/主义/o⟧:【宗】原始キリスト教
+pra/krist/an/ism/o⟦原/krist/员/主义/o⟧:【宗】原始キリスト教
 praktik/a⟦践/a⟧:実地の,実践的な;実際的な,実用的な;実用向きの,便利な,役に立つ
 praktik/a demand/o⟦践/a 问/o⟧:実際問題
 praktik/a ekzamen/o⟦践/a 检ᴱ/o⟧:実地試験
@@ -32458,8 +32458,8 @@ providenc/o⟦神ᴾ/o⟧:{Ｏ}【宗】（神の）摂理,神意
 Providenc/o:【キ】神,=Dio
 prov/il/o⟦试/具/o⟧:試験器具,試金石
 provinc/a⟦省ᴾ/a⟧:州の;地方の,いなか風の
-provinc/an/ism/o⟦省ᴾ/员ᴬ/主义/o⟧:田舎気質,=provincismo
-provinc/an/o⟦省ᴾ/员ᴬ/o⟧:州民;地方人,いなか者
+provinc/an/ism/o⟦省ᴾ/员/主义/o⟧:田舎気質,=provincismo
+provinc/an/o⟦省ᴾ/员/o⟧:州民;地方人,いなか者
 provinc/estr/o⟦省ᴾ/长ᴱ/o⟧:州知事
 provincialism/o⟦省主义/o⟧:【語】=provincismo（地方なまり）
 provinc/ism/o⟦省ᴾ/主义/o⟧:田舎気質,地方性;【語】地方なまり,お国なまり
@@ -33420,7 +33420,7 @@ reglament/i⟦规ᴿᴹ/i⟧:［他］規制する,=reguligi
 reglament/o⟦规ᴿᴹ/o⟧:=regularo（規則）
 regn/a⟦国ᴿ/a⟧:国の,国家の
 regn/a kas/o⟦国ᴿ/a 库/o⟧:国庫
-regn/an/o⟦国ᴿ/员ᴬ/o⟧:国民,>>civitano
+regn/an/o⟦国ᴿ/员/o⟧:国民,>>civitano
 regn/a sigel/il/o⟦国ᴿ/a 印ˢᴳ/具/o⟧:国璽（こくじ）
 regn/estr/o⟦国ᴿ/长ᴱ/o⟧:元首
 regn/o⟦国ᴿ/o⟧:{Ｂ}【法】（国際関係上の主権を有する）国,国家,>>s^tato,>>lando,>>nacio;【生】（分類学上の）界
@@ -33650,7 +33650,7 @@ religi/a atent/o⟦宗/a 注/o⟧:（kun 〜）細心の注意（を払って）
 religi/a konflikt/o⟦宗/a 冲ᴷ/o⟧:宗教紛争
 religi/a milit/o⟦宗/a 战/o⟧:宗教戦争
 religi/a muzik/o⟦宗/a 乐/o⟧:宗教音楽
-religi/an/o⟦宗/员ᴬ/o⟧:信者,信徒
+religi/an/o⟦宗/员/o⟧:信者,信徒
 religi/a orden/o⟦宗/a 修会/o⟧:修道会
 religi/a organ/iz/o⟦宗/a 器ᴼ/化/o⟧:宗教団体
 religi/ec/o⟦宗/性/o⟧:宗教性;宗教心
@@ -33851,7 +33851,7 @@ respons/a⟦责ᴿˢ/a⟧:=respondeca（責任のある）
 respons/i⟦责ᴿˢ/i⟧:［自］=respondeci（責任を負う）
 respons/o⟦责ᴿˢ/o⟧:=respondeco（責任）
 respons/ul/o⟦责ᴿˢ/者/o⟧:=respondeculo（責任者）
-respublik/an/o⟦共和/员ᴬ/o⟧:共和国民;共和党員
+respublik/an/o⟦共和/员/o⟧:共和国民;共和党員
 respublik/a parti/o⟦共和/a 党/o⟧:【政】共和党
 respublik/estr/o⟦共和/长ᴱ/o⟧:【政】共和国大統領
 respublik/ism/o⟦共和/主义/o⟧:【政】共和主義
@@ -34457,8 +34457,8 @@ rom/a cifer/o⟦rom/a 数ᶜ/o⟧:ローマ数字
 rom/a jur/o⟦rom/a 法/o⟧:【法】ローマ法
 Rom/a kamomil/o⟦Rom/a 甘菊/o⟧:【植】ローマカミルレ（_Anthemis nobilis_）
 roman/a⟦小说/a⟧:小説の
-rom/an/a⟦rom/员ᴬ/a⟧:ローマ人の
-rom/an/a cifer/o⟦rom/员ᴬ/a 数ᶜ/o⟧:=>roma cifero（ローマ数字）
+rom/an/a⟦rom/员/a⟧:ローマ人の
+rom/an/a cifer/o⟦rom/员/a 数ᶜ/o⟧:=>roma cifero（ローマ数字）
 romanc/o⟦曲ᴿ/o⟧:{Ｏ}【楽】ロマンス（叙情的な歌曲）
 romanc^/a lingv/o⟦romanc^/a 语/o⟧:（la 〜）ロマンシュ語（スイス）
 romanc^/o:ロマンシュ人（スイス）
@@ -34470,7 +34470,7 @@ romanik/stil/a⟦romanik/风ˢ/a⟧:ロマネスク様式の
 Romani/o:=>Romio（ローマ帝国）
 roman/ist/o⟦小说/家/o⟧:小説家,ロマン作家
 roman/o⟦小说/o⟧:{Ｂ}小説,長編小説,ロマン;【史】ロマンス（中世の騎士物語）
-rom/an/o⟦rom/员ᴬ/o⟧:【史】ローマ人;ローマ市民
+rom/an/o⟦rom/员/o⟧:【史】ローマ人;ローマ市民
 Roman/o pri la Tri Regn/oj⟦Roman/o 于 la Tri Regn/oj⟧:【文】『三国志演義』（中国の長編小説）
 romantik/a⟦浪漫/a⟧:{Ｏ}ロマン主義の,ロマン派の;ロマンチックな
 romantik/ism/o⟦浪漫/主义/o⟧:ロマン主義
@@ -34485,7 +34485,7 @@ Rome/o:（男子名）ロメオ,ロミオ
 Rome/o kaj Juliet/o⟦Rome/o 和ᴷ Juliet/o⟧:【文】『ロミオとジュリエット』（シェークスピアの悲劇）
 Romi/a Imperi/o:【史】ローマ帝国
 romi/a kod/o⟦romi/a 码/o⟧:【法】ローマ法
-romi/an/o⟦romi/员ᴬ/o⟧:【史】ローマ帝国民
+romi/an/o⟦romi/员/o⟧:【史】ローマ帝国民
 Romi/o:【史】ローマ帝国
 rom/katolik/a:ローマカトリックの
 Rom-Katolik/a Eklezi/o:【キ】ローマカトリック教会
@@ -34586,7 +34586,7 @@ rotaci/rapid/o⟦旋ᴿ/速/o⟧:【理】回転速度
 rotaci/senc/o⟦旋ᴿ/意ˢ/o⟧:【理】回転の向き
 rotaci/ul/oj⟦旋ᴿ/者/oj⟧:【動】ワムシ類,輪形動物
 rotang/o:【植】トウ
-rotari/an/o⟦rotari/员ᴬ/o⟧:ロータリークラブ会員
+rotari/an/o⟦rotari/员/o⟧:ロータリークラブ会員
 Rotari/o:ロータリークラブ
 rotator/o:【理】回転体
 Roterdam/o:【地名】ロッテルダム（オランダ）
@@ -34764,10 +34764,10 @@ Rus/a-Japan/a Milit/o:（la 〜）【史】日露戦争
 rus/a lingv/o⟦rus/a 语/o⟧:（la 〜）ロシア語
 Rus/a Ortodoks/a Eklezi/o:（la 〜）【キ】ロシア正教会
 Rus/i/a:ロシア（国）の
-rus/i/an/o⟦rus/i/员ᴬ/o⟧:ロシア国民,ロシア市民
+rus/i/an/o⟦rus/i/员/o⟧:ロシア国民,ロシア市民
 Rus/i/o:【国名】ロシア（欧州）
 Rus/land/a:=Rusia（ロシアの）
-rus/land/an/o⟦rus/国/员ᴬ/o⟧:ロシア国民,ロシア市民,=rusiano
+rus/land/an/o⟦rus/国/员/o⟧:ロシア国民,ロシア市民,=rusiano
 Rus/land/o:=Rusio（ロシア）
 rus/o:{Ｏ}ロシア人
 rust/aj^/o⟦锈/物/o⟧:さびのようなもの,染み
@@ -34779,7 +34779,7 @@ rust/imun/a s^tal/o⟦锈/免/a 钢/o⟧:ステンレス・スチール
 rust/kolor/a⟦锈/色/a⟧:さび色の
 rust/o⟦锈/o⟧:{Ｂ}さび;【植】さび病
 rust/o/rezist/a⟦锈/o/抗ᴿ/a⟧:さびを防ぐ,さび止めの
-rus/uj/an/o⟦rus/器/员ᴬ/o⟧:=rusiano（ロシア国民）
+rus/uj/an/o⟦rus/器/员/o⟧:=rusiano（ロシア国民）
 Rus/uj/o:【国名】=Rusio（ロシア）
 rus^/o:【服】（婦人服の襟や袖口の）ひだ飾り,ルーシュ
 Ruten/i/o:【史】ルテニア（ウクライナ西部の古称）
@@ -34898,7 +34898,7 @@ sakrilegi/a⟦辱ˢ/a⟧:冒涜的な,神聖を汚す;無礼な,罰当たりな
 sakrilegi/i⟦辱ˢ/i⟧:［自］涜聖をはたらく,冒涜を行う,神聖を汚す,>>profani
 sakrilegi/o⟦辱ˢ/o⟧:【宗】（聖物・聖所に対する意図的な）冒涜（ぼうとく）,涜聖（とくせい）;不敬な行為,無礼
 sakrilegi/ul/o⟦辱ˢ/者/o⟧:冒涜者;無礼者,罰当たり
-sakristi/an/o⟦圣器/员ᴬ/o⟧:【キ】聖具係
+sakristi/an/o⟦圣器/员/o⟧:【キ】聖具係
 sakristi/o⟦圣器/o⟧:{Ｏ}【キ】（教会の）聖具室
 sakr/o⟦荐ˢ/o⟧:{Ｏ}【解】仙骨（せんこつ）
 saksifrag/o:【植】ユキノシタ（雪下）（属）
@@ -35006,10 +35006,10 @@ Samar/o:【地名】サマーラ（旧クイビシェフ，ロシア）
 sambuk/o⟦接骨/o⟧:{Ｏ}【植】ニワトコ（接骨木）（属）
 sam/centr/a⟦同/央/a⟧:【数】同心の
 sam/centr/aj cirkl/oj⟦同/央/aj 圆ᶜ/oj⟧:【数】同心円
-sam/civit/an/o⟦同/市ᶜ/员ᴬ/o⟧:同じ市の人,同じ国の人
-sam/c^ambr/an/o⟦同/室/员ᴬ/o⟧:同室者,ルームメイト
+sam/civit/an/o⟦同/市ᶜ/员/o⟧:同じ市の人,同じ国の人
+sam/c^ambr/an/o⟦同/室/员/o⟧:同室者,ルームメイト
 sam/direkt/a bild/o⟦同/方/a 画/o⟧:【光】正立像
-sam/dom/an/o⟦同/屋/员ᴬ/o⟧:同居人
+sam/dom/an/o⟦同/屋/员/o⟧:同居人
 sam/e⟦同/e⟧:同様に,同じく
 sam/ec/o⟦同/性/o⟧:同一,同一性
 same/o:サーミ人（スカンジナビア地方に住む民族）,>>lapono
@@ -35017,18 +35017,18 @@ sam/epok/a⟦同/纪/a⟧:同時代の
 sam/faz/a⟦同/相ᶠ/a⟧:【電】同位相の
 sam/foj/e⟦同/次/e⟧:同時に,いちどきに
 samg/o:【仏】僧伽（そうぎゃ）,仏教修行者の集団
-sam/ide/an/a⟦同/意/员ᴬ/a⟧:同志的な
-sam/ide/an/e⟦同/意/员ᴬ/e⟧:同志的に
-sam/ide/an/o⟦同/意/员ᴬ/o⟧:【Ｅ】同志,サミデアーノ
+sam/ide/an/a⟦同/意/员/a⟧:同志的な
+sam/ide/an/e⟦同/意/员/e⟧:同志的に
+sam/ide/an/o⟦同/意/员/o⟧:【Ｅ】同志,サミデアーノ
 sam/kiel⟦同/何样⟧:［接］〜と同様に
-sam/klas/an/o⟦同/级/员ᴬ/o⟧:同級生,クラスメイト
+sam/klas/an/o⟦同/级/员/o⟧:同級生,クラスメイト
 sam/land/a⟦同/国/a⟧:同国の
-sam/land/an/o⟦同/国/员ᴬ/o⟧:同国人,同胞
-sam/lingv/an/o⟦同/语/员ᴬ/o⟧:同じ言葉を話す人
+sam/land/an/o⟦同/国/员/o⟧:同国人,同胞
+sam/lingv/an/o⟦同/语/员/o⟧:同じ言葉を話す人
 sam/manier/e⟦同/式/e⟧:同じやり方で
 sam/moment/a⟦同/刻/a⟧:同時の
 sam/moment/e⟦同/刻/e⟧:同時に
-sam/naci/an/o⟦同/族/员ᴬ/o⟧:同国人,同民族人
+sam/naci/an/o⟦同/族/员/o⟧:同国人,同民族人
 sam/nivel/a⟦同/平ᴺ/a⟧:同一水準の,同程度の
 sam/nom/a⟦同/名/a⟧:同名の
 sam/o⟦同/o⟧:同じ事,同じ物
@@ -35040,13 +35040,13 @@ sam/opini/i⟦同/想/i⟧:［自］同じ意見である
 Samos/o:【地名】サモス島（エーゲ海）
 Samotrac/o:【地名】サモトラキ島（ギリシア）
 samovar/o:{Ｏ}【料】サモワール,=temas^ino
-sam/patr/uj/an/o⟦同/父/器/员ᴬ/o⟧:同国人,同胞
+sam/patr/uj/an/o⟦同/父/器/员/o⟧:同国人,同胞
 sam/posten/ul/o⟦同/岗/者/o⟧:同じ役職の人,同格者
-sam/profesi/an/o⟦同/职ᴾ/员ᴬ/o⟧:同業者
+sam/profesi/an/o⟦同/职ᴾ/员/o⟧:同業者
 sam/rang/a⟦同/级ᴿ/a⟧:同じ身分の,同格の,同位の
 sam/rang/ul/o⟦同/级ᴿ/者/o⟧:同じ身分の人,同格者,同位者
-sam/regn/an/o⟦同/国ᴿ/员ᴬ/o⟧:同国人,同胞
-sam/religi/an/o⟦同/宗/员ᴬ/o⟧:同宗者
+sam/regn/an/o⟦同/国ᴿ/员/o⟧:同国人,同胞
+sam/religi/an/o⟦同/宗/员/o⟧:同宗者
 sam/sang/a⟦同/血/a⟧:血族の,血のつながった
 sam/sang/ec/o⟦同/血/性/o⟧:血縁
 sam/sang/ul/o⟦同/血/者/o⟧:血族,血縁
@@ -35059,7 +35059,7 @@ sam/senc/a⟦同/意ˢ/a⟧:同義の,同じ意味の
 sam/signif/a⟦同/意ˢᴳ/a⟧:【Ｇ】同義の,>>sinonima
 Samson/o:【聖】=S^ims^ono（サムソン）
 sam/sort/a⟦同/命/a⟧:同じ運命の
-sam/sort/an/o⟦同/命/员ᴬ/o⟧:運命を共にする人
+sam/sort/an/o⟦同/命/员/o⟧:運命を共にする人
 sam/sort/ul/o⟦同/命/者/o⟧:運命を共にする人
 sam/spec/a⟦同/种ˢᴾ/a⟧:同種の
 sam/sukces/e⟦同/成ˢ/e⟧:同様にうまく,同じように首尾よく
@@ -35072,7 +35072,7 @@ Samuel/o:（男子名）サムエル;【聖】サムエル記
 samum/o:【気】シムーン（アフリカやアラビアの砂漠に吹く砂混じりの熱風）
 samuraj/ism/o⟦武士/主义/o⟧:【日】武士道
 samuraj/o⟦武士/o⟧:【日】武士,侍（さむらい）
-sam/urb/an/o⟦同/市/员ᴬ/o⟧:同じ市の人
+sam/urb/an/o⟦同/市/员/o⟧:同じ市の人
 sam/uter/a⟦同/宫ᵁ/a⟧:同腹の,同じ母親から生まれた
 sam/valor/a⟦同/值ⱽ/a⟧:同じ価値の,等価の
 san/a⟦健/a⟧:{Ｂ}健康な,健やかな,丈夫な,元気な;《転》健全な
@@ -35536,7 +35536,7 @@ sekst/o:【楽】=sesto（六度音程）;【カ】六時課
 seks/um/ad/o⟦性ˢ/um/行/o⟧:性行為
 seks/um/i⟦性ˢ/um/i⟧:［自］性交する,セックスする,=koiti
 sekt/a⟦派ˢ/a⟧:宗派の,党派の;《転》偏狭な,セクト的な
-sekt/an/o⟦派ˢ/员ᴬ/o⟧:宗派の人;党派の人,分派の人
+sekt/an/o⟦派ˢ/员/o⟧:宗派の人;党派の人,分派の人
 sekt/ec/o⟦派ˢ/性/o⟧:宗派性;党派性,=sektismo
 sekt/ism/o⟦派ˢ/主义/o⟧:宗派主義;セクト主義,=sekteco
 sekt/o⟦派ˢ/o⟧:{Ｏ}【宗】宗派,教派;学派;【政】党派,派閥;《転》分派,セクト
@@ -35662,7 +35662,7 @@ sen/arm/ig/i⟦无/武/使/i⟧:［他］武装解除する,=malarmi
 sen/art/a⟦无/艺/a⟧:素朴な,技巧のない
 sen/artifik/a⟦无/诈ᴬ/a⟧:誠実な,ごまかしのない
 senat/a⟦上院/a⟧:上院の;参議院の
-senat/an/o⟦上院/员ᴬ/o⟧:【政】上院議員;参議院議員
+senat/an/o⟦上院/员/o⟧:【政】上院議員;参議院議員
 senat/ej/o⟦上院/所/o⟧:上院議事堂;参議院議事堂
 sen/atent/a⟦无/注/a⟧:不注意な
 sen/atent/e⟦无/注/e⟧:うっかり
@@ -35928,7 +35928,7 @@ sen/kredit/ig/i⟦无/贷/使/i⟧:［他］【商】信用を失わせる
 sen/krem/a lakt/o⟦无/酪/a 乳/o⟧:脱脂乳
 sen/krem/ig/i⟦无/酪/使/i⟧:［他］脱脂する
 sen/krim/a⟦无/罪ᴷᴿ/a⟧:無罪の,無実の,潔白な
-sen/krist/an/ig/i⟦无/krist/员ᴬ/使/i⟧:［他］非キリスト教化する
+sen/krist/an/ig/i⟦无/krist/员/使/i⟧:［他］非キリスト教化する
 sen/kritik/a⟦无/评ᴷ/a⟧:無批判な
 sen/kron/ig/i⟦无/冠/使/i⟧:［他］冠をはぎとる,退位させる
 sen/kudr/a⟦无/缝/a⟧:縫い目のない
@@ -36451,7 +36451,7 @@ si/a/temp/e⟦己/a/时/e⟧:その当時に;ちょうど良い時に,=g^ustatem
 si/a/vic/e⟦己/a/列/e⟧:自分の番になると,今度は
 sibarit/ism/o⟦享乐/主义/o⟧:享楽趣味
 sibarit/o⟦享乐/o⟧:軟弱な道楽者
-siberi/an/o⟦siberi/员ᴬ/o⟧:シベリア住民
+siberi/an/o⟦siberi/员/o⟧:シベリア住民
 Siberi/o:【地名】シベリア
 sibl/a⟦嘶ˢ/a⟧:シューッと（長く鋭い）音を立てる
 sibl/i⟦嘶ˢ/i⟧:{Ｏ}［自］シューシュー（長く鋭い）音を立てる,（風が）ヒューヒュー鳴る
@@ -36680,7 +36680,7 @@ si/n/de/ten/o⟦己/n/从/持/o⟧:自制,遠慮;棄権
 si/n/dev/ig/e⟦己/n/应/使/e⟧:（気の進まないことを）無理に;窮屈そうに,気兼ねして
 si/n/dev/ig/o⟦己/n/应/使/o⟧:（気の進まないことを）無理にすること;遠慮,気兼ね
 sindikat/a⟦盟/a⟧:組合の
-sindikat/an/o⟦盟/员ᴬ/o⟧:組合員
+sindikat/an/o⟦盟/员/o⟧:組合員
 sindikat/ism/o⟦盟/主义/o⟧:組合運動;組合主義;【史】サンディカリズム
 sindikat/ist/o⟦盟/家/o⟧:組合活動家;【史】サンディカリスト
 sindikat/o⟦盟/o⟧:{Ｂ}組合,労働組合;【経】シンジケート
@@ -36788,7 +36788,7 @@ sirfed/oj:《Ｎ》【虫】ハナアブ科（_Syrphidae_）,=flormus^o
 siri/a:シリアの
 Siri/a Dezert/o:【地名】シリア砂漠（アラビア北部）
 siri/a hibisk/o⟦siri/a 芙蓉/o⟧:【植】ムクゲ（木槿）
-siri/an/o⟦siri/员ᴬ/o⟧:シリア人
+siri/an/o⟦siri/员/o⟧:シリア人
 siring/o⟦丁香/o⟧:{Ｏ}【植】ライラック,ハシドイ（属）
 siring/o/kolor/a⟦丁香/o/色/a⟧:ふじ色の,ライラック色の（赤みがかった藤色）,=lila
 siring/viol/a⟦丁香/紫花/a⟧:ふじ色の,うす紫色の,=lila
@@ -36914,7 +36914,7 @@ skip/estr/o⟦队ˢ/长ᴱ/o⟧:（作業）班長
 skip/o⟦队ˢ/o⟧:（作業などの）班,チーム
 ski-semajn/o⟦滑ˢ-周/o⟧:スキー週間
 skism/a⟦裂ˢ/a⟧:分離的な,分裂の
-skism/an/o⟦裂ˢ/员ᴬ/o⟧:分離派の人
+skism/an/o⟦裂ˢ/员/o⟧:分離派の人
 skism/i⟦裂ˢ/i⟧:［自］分裂する,分離する,分立する
 skism/o⟦裂ˢ/o⟧:{Ｏ}（団体の）分裂,分離,分立;【キ】教会分裂,シスマ
 skism/ul/o⟦裂ˢ/者/o⟧:分離派の人
@@ -36951,7 +36951,7 @@ sklav/o/s^ip/o⟦奴/o/船/o⟧:奴隷船
 skler/a⟦硬ˢ/a⟧:【医】（組織が）硬化した
 skler/o/protein/o⟦硬ˢ/o/蛋白/o⟧:【化】硬タンパク質
 skleroz/o⟦硬症/o⟧:【病】硬化症,>>malmolig^o
-skol/an/o⟦派ˢᴸ/员ᴬ/o⟧:学派の人,門下生
+skol/an/o⟦派ˢᴸ/员/o⟧:学派の人,門下生
 skolastik/a⟦经院/a⟧:スコラ哲学の;《転》形式主義の,煩瑣な
 skolastik/o⟦经院/o⟧:{Ｏ}【哲】スコラ哲学
 skol/o⟦派ˢᴸ/o⟧:{Ｏ}学派,流派,門下
@@ -37125,12 +37125,12 @@ social/ig/i⟦社ˢᴸ/使/i⟧:［他］社会主義化する;共有化する
 social/ism/a⟦社ˢᴸ/主义/a⟧:社会主義の
 social/ism/o⟦社ˢᴸ/主义/o⟧:【政】社会主義
 social/ist/o⟦社ˢᴸ/家/o⟧:社会主義者
-soci/an/o⟦社/员ᴬ/o⟧:社会の一員,市民
+soci/an/o⟦社/员/o⟧:社会の一員,市民
 soci/a rol/o⟦社/a 角ᴿ/o⟧:社会的役割
 soci/a scienc/o⟦社/a 科/o⟧:（〜aj 〜oj）社会科学
 soci/a viv/o⟦社/a 活/o⟧:社会生活
 societ/a⟦社ˢᵀ/a⟧:会の,団体の,仲間内の;社交界の
-societ/an/o⟦社ˢᵀ/员ᴬ/o⟧:会員,社員
+societ/an/o⟦社ˢᵀ/员/o⟧:会員,社員
 societ/em/a⟦社ˢᵀ/倾/a⟧:社交的な,人づきあいのよい
 societ/em/o⟦社ˢᵀ/倾/o⟧:社交性
 societ/o⟦社ˢᵀ/o⟧:{Ｂ}会,協会,団体,仲間;社交界;会社
@@ -37279,7 +37279,7 @@ solv/it/aj^/o⟦解ˢ/受/物/o⟧:【化】溶質
 solv/o⟦解ˢ/o⟧:解答,解決;【化】溶解;【数】解
 solv/o/foli/o⟦解ˢ/o/叶/o⟧:解答用紙
 Somal/i/a Du/on/insul/o:【地名】ソマリア半島（アフリカ東部）
-somal/i/an/o⟦somal/i/员ᴬ/o⟧:ソマリア人,ソマリア国民
+somal/i/an/o⟦somal/i/员/o⟧:ソマリア人,ソマリア国民
 Somal/i/o:【国名】ソマリア（アフリカ）
 somal/o:ソマリ人
 Somal/uj/o:【国名】=Somalio（ソマリア）
@@ -37453,9 +37453,9 @@ sovag^/kat/o⟦野/猫/o⟧:【動】ヤマネコ
 sovag^/roz/o⟦野/玫/o⟧:野バラ,>>eglanterio
 sovag^/ul/o⟦野/者/o⟧:野蛮人;乱暴者
 sovet/a:ソビエトの
-sovet/an/o⟦sovet/员ᴬ/o⟧:ソビエト評議員
+sovet/an/o⟦sovet/员/o⟧:ソビエト評議員
 soveti/a:ソ連の
-soveti/an/o⟦soveti/员ᴬ/o⟧:ソ連人
+soveti/an/o⟦soveti/员/o⟧:ソ連人
 Soveti/o:【史】ソビエト連邦,ソ連,=Sovet-Unio
 sovet/o:【史】ソビエト,労農評議会
 Sovet/uj/o:【史】=>Sovetio（ソ連）
@@ -37759,7 +37759,7 @@ Sri-J^ajavardanepur/o:【地名】スリジャヤワルダナプラコッテ（�
 Srilank/o:【国名】スリランカ（アジア）
 Sri-Lank/o:=>Srilanko（スリランカ）
 s-ro⟦s-木ᴿ⟧:［略］=sinjoro,（男子の敬称）〜さん
-stab/an/o⟦参/员ᴬ/o⟧:【軍】参謀,幕僚;幹部,スタッフ（個人）
+stab/an/o⟦参/员/o⟧:【軍】参謀,幕僚;幹部,スタッフ（個人）
 stab/estr/o⟦参/长ᴱ/o⟧:【軍】幕僚長,参謀長
 stabil/a⟦稳/a⟧:{Ｏ}安定した,永続する;【理】安定な,>>metastabila,>>nestabila,>>labila
 stabil/a ekvilibr/o⟦稳/a 衡/o⟧:【理】安定なつり合い
@@ -38462,10 +38462,10 @@ sud/a hemisfer/o⟦南/a 半球/o⟧:南半球
 Sud/a Kruc/o:【天】みなみじゅうじ座
 Sud/amerik/o:【地名】南アメリカ
 Sudan/a:スーダンの
-sudan/an/o⟦sudan/员ᴬ/o⟧:スーダン人
+sudan/an/o⟦sudan/员/o⟧:スーダン人
 Sudan/o:{Ｏ}【国名】スーダン（アフリカ）
 Sudan/o:【地名】スーダン（アフリカ大陸を東西に横切る大サバンナ地帯）
-sud/an/o⟦南/员ᴬ/o⟧:=sudulo（南部の人）
+sud/an/o⟦南/员/o⟧:=sudulo（南部の人）
 sud/a polus/o⟦南/a 极ᴾ/o⟧:（la 〜）【地理】南極;【理】Ｓ極
 Sud-Au^strali/o:【地名】サウスオーストラリア州（オーストラリア）
 sud/a vent/o⟦南/a 风/o⟧:南風,>>au^strala vento,>>notoso
@@ -38479,7 +38479,7 @@ sud/hemisfer/a⟦南/半球/a⟧:南半球の
 Sud-Karolin/o:【地名】サウス・カロライナ州（米国）
 Sud-Kore/i/o:【国名】韓国（アジア）
 Sud-Kore/uj/o:【国名】=Sud-Koreio（韓国）
-sud/land/an/o⟦南/国/员ᴬ/o⟧:南国人;南部の人,=sudulo
+sud/land/an/o⟦南/国/员/o⟧:南国人;南部の人,=sudulo
 sud/land/o⟦南/国/o⟧:南国
 sud/o⟦南/o⟧:{Ｂ}南;南部,南方,><nordo
 sud/okcident/a⟦南/西/a⟧:南西の,南西部の
@@ -38872,7 +38872,7 @@ sur/fund/aj^/o⟦上/底/物/o⟧:沈殿物,澱（おり）
 sur/genu/e⟦上/膝/e⟧:ひざまずいて
 sur/genu/i⟦上/膝/i⟧:=genui（ひざまずいている）
 sur/hav/i⟦上/有/i⟧:［他］身にまとっている,着用する
-surinam/an/o⟦surinam/员ᴬ/o⟧:スリナム人
+surinam/an/o⟦surinam/员/o⟧:スリナム人
 Surinam/o:【国名】スリナム（南アメリカ）
 sur/ir/i⟦上/往/i⟧:［自］（〜の上に）登る,上がる
 sur/j^et/i⟦上/投/i⟧:［他］（〜の上に）投げかける
@@ -39256,8 +39256,8 @@ s^into/ism/o⟦神道/主义/o⟧:=s^intoo（神道）
 s^into/ist/o⟦神道/家/o⟧:【宗】神官,神職
 s^into/o⟦神道/o⟧:【宗】（日本の）神道
 s^ip/a⟦船/a⟧:船の
-s^ip/an/ar/o⟦船/员ᴬ/群/o⟧:乗組員（全員）
-s^ip/an/o⟦船/员ᴬ/o⟧:船員,乗組員
+s^ip/an/ar/o⟦船/员/群/o⟧:乗組員（全員）
+s^ip/an/o⟦船/员/o⟧:船員,乗組員
 s^ip/ar/o⟦船/群/o⟧:船団;艦隊
 s^ip/bek/o⟦船/嘴/o⟧:船首,へさき,みよし,=pruo;【軍】衝角
 s^ip/c^arpent/ist/o⟦船/架ᶜ̂/家/o⟧:船大工
@@ -39507,8 +39507,8 @@ s^tat/a interes/o⟦国ˢ̂/a 趣/o⟧:国益
 s^tat/a leg^/o⟦国ˢ̂/a 律/o⟧:国法
 s^tat/a lingv/o⟦国ˢ̂/a 语/o⟧:国家語
 s^tat/a ministr/o⟦国ˢ̂/a 臣/o⟧:国務大臣
-s^tat/an/ec/o⟦国ˢ̂/员ᴬ/性/o⟧:国籍,=civitaneco,=nacianeco
-s^tat/an/o⟦国ˢ̂/员ᴬ/o⟧:=regnano（国民）,=civitano（国民）
+s^tat/an/ec/o⟦国ˢ̂/员/性/o⟧:国籍,=civitaneco,=nacianeco
+s^tat/an/o⟦国ˢ̂/员/o⟧:=regnano（国民）,=civitano（国民）
 s^tat/a obligaci/o⟦国ˢ̂/a 务ᴼ/o⟧:国債（債券）
 s^tat/a sekret/o⟦国ˢ̂/a 秘/o⟧:国家機密
 s^tat/a s^uld/o⟦国ˢ̂/a 欠/o⟧:国債（負債）
@@ -39637,7 +39637,7 @@ s^uld/atest/o⟦欠/证ᴬ/o⟧:借用証書
 s^uld/at/o⟦欠/被/o⟧:=>kreditoro（債権者）
 s^uld/i⟦欠/i⟧:{Ｂ}［他］借りがある;【商】債務を負う;（精神的）義務がある;恩義を受けている,おかげである
 s^uld/i al iu mil frank/ojn⟦欠/i 向 某u 千 frank/ojn⟧:ある人に千フランの借りがある
-s^uld/i al la membr/oj detal/an klar/ig/on⟦欠/i 向 la 员/oj 细ᴰᵀ/an 清/使/on⟧:会員に詳しく説明しなければならない
+s^uld/i al la membr/oj detal/an klar/ig/on⟦欠/i 向 la 员ᴹ/oj 细ᴰᵀ/an 清/使/on⟧:会員に詳しく説明しなければならない
 s^uld/i al s^i ni/an sukces/on⟦欠/i 向 她 我们/an 成ˢ/on⟧:我々の成功は彼女のおかげである
 s^uld/ig/i⟦欠/使/i⟧:［他］債務を負わせる;（精神的）義務を負わせる,貸しをつくる
 s^uld/ig^/i⟦欠/成/i⟧:［自］（精神的）義務を負う,借りをつくる
@@ -39799,7 +39799,7 @@ tajfun/o⟦风ᵀ/o⟧:【気】台風
 Tajhang/o:【地名】タイハン山脈（太行山脈，中国）
 Tajjuan/o:【地名】タイユワン（太原，中国）,=Tajju^ano
 Tajju^an/o:【地名】タイユワン（太原，中国）,=Tajjuano
-taj/land/an/o⟦taj/国/员ᴬ/o⟧:タイ国民
+taj/land/an/o⟦taj/国/员/o⟧:タイ国民
 Taj/land/o:【国名】タイ（アジア）
 tajl/i⟦裁/i⟧:{Ｂ}［他］（形を整えて）切る,削る,カットする,切り抜く;【服】裁断する
 tajl/o⟦裁/o⟧:切削;【服】裁断
@@ -39816,7 +39816,7 @@ tajp/i⟦打ᵀ/i⟧:{Ｂ}［他］タイプする
 tajp/il/o⟦打ᵀ/具/o⟧:タイプライター
 tajp/ist/o⟦打ᵀ/家/o⟧:タイピスト
 tajp/montr/il/o⟦打ᵀ/示/具/o⟧:【情】（文字入力の）キャレット,カーソル,>>kursoro
-tajvan/an/o⟦tajvan/员ᴬ/o⟧:台湾人
+tajvan/an/o⟦tajvan/员/o⟧:台湾人
 Tajvan/o:【地名】台湾,>>Formozo
 takel/o:【機】滑車装置,=puliaro
 Taklamakan/o:【地名】タクラマカン砂漠（中央アジア）
@@ -39916,10 +39916,10 @@ tank/o⟦战车/o⟧:{Ｏ}【軍】戦車,タンク
 tank/o/trup/o⟦战车/o/团ᵀ/o⟧:【軍】戦車隊
 tantal/o⟦金ᵀᴺ/o⟧:【化】タンタル（原子番号73の金属元素）
 tantiem/o⟦红利/o⟧:【商】利益配当,役員配当;著作権使用料,印税
-tanzani/an/o⟦tanzani/员ᴬ/o⟧:タンザニア人
+tanzani/an/o⟦tanzani/员/o⟧:タンザニア人
 Tanzani/o:【国名】タンザニア（アフリカ）
 Ta/o:【宗】（道教の）道,タオ
-taoism/an/o⟦道主义/员ᴬ/o⟧:【宗】道士
+taoism/an/o⟦道主义/员/o⟧:【宗】道士
 taoism/o⟦道主义/o⟧:【宗】道教
 ta/o/ist/o⟦ta/o/家/o⟧:【宗】道士
 tapet/i⟦壁纸/i⟧:［他］壁紙・壁布を張る
@@ -40526,7 +40526,7 @@ Tiberiad/o:【地名】ティベリアス（イスラエル）
 Tiber/o:【地名】テベレ川（イタリア）
 Tibesti/o:【地名】ティベスティ山地（チャド・リビア）
 Tibet/a Alt/eben/ej/o:【地名】チベット高原（中国）
-tibet/an/o⟦tibet/员ᴬ/o⟧:チベット人
+tibet/an/o⟦tibet/员/o⟧:チベット人
 Tibet/o:【地名】チベット,チベット自治区（中国）
 tibi/ing/o⟦tibi/座/o⟧:（長靴などの）胴,すね当て,=kruringo
 tibi/karn/o⟦tibi/肉ᴷ/o⟧:【解】ふくらはぎ,=suro
@@ -40712,15 +40712,15 @@ tofu/o:【料】豆腐
 tog/o:{Ｏ}【史】トーガ（古代ローマのゆるやかな外衣）
 togol/a:=>togolanda（トーゴの）
 togoland/a:トーゴの
-togoland/an/o⟦togoland/员ᴬ/o⟧:トーゴ人
+togoland/an/o⟦togoland/员/o⟧:トーゴ人
 Togoland/o:【国名】トーゴ（アフリカ）
-togol/an/o⟦togol/员ᴬ/o⟧:=>togolandano（トーゴ人）
+togol/an/o⟦togol/员/o⟧:=>togolandano（トーゴ人）
 Togol/o:【国名】=>Togolando（トーゴ）
 tohu/o:【料】豆腐（とうふ）,=tofuo
 Tokaj/o:【地名】トカイ（ハンガリー，貴腐ワインの産地）
 Tokantinz/o:【地名】トカンティンス川（ブラジル）
 Toki/a Bors/o:（la 〜）東京証券取引所
-toki/an/o⟦toki/员ᴬ/o⟧:東京都民
+toki/an/o⟦toki/员/o⟧:東京都民
 Toki/o:【地名】東京（日本の首都）
 toks/a⟦毒ᵀ/a⟧:毒の,有毒な,>>venena
 toks/ad/o⟦毒ᵀ/行/o⟧:中毒（させること）
@@ -40788,7 +40788,7 @@ tonel/ar/o⟦吨ᵀᴸ/群/o⟧:【海】（船の）トン数
 tonel/o⟦吨ᵀᴸ/o⟧:{Ｏ}【海】（船の）容積トン（2.83ｍ3）
 ton/fork/o⟦调/叉/o⟧:【楽】音叉（おんさ）,=agordoforko
 tong/a:トンガ（人）の;（la 〜）トンガ語の
-tong/an/o⟦tong/员ᴬ/o⟧:トンガ人
+tong/an/o⟦tong/员/o⟧:トンガ人
 Tong/o:【国名】トンガ（大洋州）
 ton/ig/a ban/o⟦调/使/a 浴/o⟧:【写】調色浴
 ton/ig/i⟦调/使/i⟧:［他］調子をつける;【写】調色する
@@ -40951,7 +40951,7 @@ trafik/insul/o⟦交/岛/o⟧:【交】安全地帯
 trafik/lum/o⟦交/光/o⟧:交通信号
 trafik/lum/oj⟦交/光/oj⟧:【交】交通信号
 trafik/o⟦交/o⟧:{Ｂ}交通,往来;輸送,交通運輸;交通量,輸送量
-trafik/polic/an/o⟦交/警/员ᴬ/o⟧:交通巡査
+trafik/polic/an/o⟦交/警/员/o⟧:交通巡査
 trafik/polic/o⟦交/警/o⟧:交通警察
 trafik/signal/o⟦交/号ˢ/o⟧:交通信号
 trafik/sign/o⟦交/符/o⟧:交通標識,道路標識
@@ -41199,7 +41199,7 @@ trans/viol/aj radi/oj⟦越/紫花/aj 射ᴿ/oj⟧:【理】紫外線
 trans/viv/ant/o⟦越/活/在/o⟧:生存者,=postvivanto
 trans/viv/i⟦越/活/i⟧:［他］生き残る,生きのびる,=postvivi,=supervivi
 tra/paf/i⟦穿/射/i⟧:［他］撃ちぬく,射ぬく
-trap/an/o⟦trap/员ᴬ/o⟧:【カ】トラピスト修道会員
+trap/an/o⟦trap/员/o⟧:【カ】トラピスト修道会員
 tra/pas/i⟦穿/过ᴾ/i⟧:［他］通り抜ける,くぐり抜ける;《転》経る,経験する
 tra/pas/i ekzamen/on⟦穿/过ᴾ/i 检ᴱ/on⟧:試験を受ける（注：「合格する」の意味で使われることもあるが誤用とされる）
 tra/pas/int/o⟦穿/过ᴾ/过/o⟧:（講習会などの）修了者
@@ -41332,10 +41332,10 @@ tri/a premi/o⟦三/a 奖/o⟧:三等賞
 trias/o:【地質】三畳紀;三畳系
 tri/a tag/dek/o⟦三/a 日/十/o⟧:（la 〜）下旬
 trib/a⟦族ᵀ/a⟧:部族の,種族の
-trib/an/o⟦族ᵀ/员ᴬ/o⟧:部族民,部族員
+trib/an/o⟦族ᵀ/员/o⟧:部族民,部族員
 trib/estr/o⟦族ᵀ/长ᴱ/o⟧:部族長,酋長,首長
 trib/o⟦族ᵀ/o⟧:{Ｏ}部族,種族;【聖】（十二）支族;【動】（分類学上の）族;【植】（分類学上の）連
-tribord/an/o⟦右边/员ᴬ/o⟧:【海】右舷当直
+tribord/an/o⟦右边/员/o⟧:【海】右舷当直
 tribord/e⟦右边/e⟧:右舷に
 tribord/o⟦右边/o⟧:【海】右舷,><babordo
 tribunal/o⟦法院/o⟧:{Ｂ}【法】裁判所;《転》法廷,裁きの場,>>jug^ejo
@@ -41514,7 +41514,7 @@ tro/ig/i⟦太/使/i⟧:［他］誇張する
 tro/ig/o⟦太/使/o⟧:誇張
 Troj/a c^eval/o⟦Troj/a 马/o⟧:トロイの木馬
 Troj/a milit/o⟦Troj/a 战/o⟧:トロイア戦争
-troj/an/o⟦troj/员ᴬ/o⟧:トロイア人
+troj/an/o⟦troj/员/o⟧:トロイア人
 Troj/o:【史】トロイ,トロイア（古代小アジアの都市）
 troke/a⟦扬抑/a⟧:長短格の;強弱格の,揚抑格の
 troke/o⟦扬抑/o⟧:【文】長短格;強弱格,揚抑格,><jambo
@@ -41669,7 +41669,7 @@ trunk/et/o⟦干ᵀ/小/o⟧:【植】（低木の）細目の幹;《古》=tigo
 trunk/i⟦干ᵀ/i⟧:［他］【数】（円錐などの）上部を切り捨てる
 trunk/o⟦干ᵀ/o⟧:{Ｂ}【植】幹（みき）;【解】体幹,胴体;【解】幹（かん）;【数】（円錐台などの）台;【建】柱身;【海】錨幹（びょうかん）
 tru/o⟦穴/o⟧:{Ｂ}穴,孔;（動物の）巣穴;【運】（ゴルフの）ホール;《転》欠陥
-trup/an/o⟦团ᵀ/员ᴬ/o⟧:【劇】座員;【軍】隊員
+trup/an/o⟦团ᵀ/员/o⟧:【劇】座員;【軍】隊員
 trup/estr/o⟦团ᵀ/长ᴱ/o⟧:【劇】座長;【軍】部隊長
 tru/plen/a⟦穴/满/a⟧:穴だらけの
 trup/o⟦团ᵀ/o⟧:{Ｂ}（劇団・楽団の）一座;一隊,一団;【軍】部隊
@@ -41787,7 +41787,7 @@ tunel/o⟦隧/o⟧:{Ｂ}トンネル,隧道（すいどう）;地下道
 tungsten/o⟦金ᵀᴳ/o⟧:《古》【化】=volframo（タングステン）
 tunguz/oj:ツングース族（エベンキ族の旧称，シベリア）
 tunik/o⟦袍ᵀ/o⟧:{Ｏ}【服】チュニック（古代ローマの寛衣、女性用上着、軍服の上着）;【解】膜,層;【植】包膜,外皮
-tunizi/an/o⟦tunizi/员ᴬ/o⟧:チュニジア人
+tunizi/an/o⟦tunizi/员/o⟧:チュニジア人
 Tunizi/o:{Ｏ}【国名】チュニジア（アフリカ）
 Tuniz/o:【地名】チュニス（チュニジアの首都）
 tun/o⟦吨/o⟧:{Ｂ}【単】トン（1t=1000kg）
@@ -41919,7 +41919,7 @@ tut/jar/e⟦整/年/e⟧:一年を通じて,通年で
 tut/kor/a⟦整/心/a⟧:心からの
 tut/kor/e⟦整/心/e⟧:心から
 tut/korp/a skan/il/o⟦整/体/a 扫ˢ/具/o⟧:（空港などの通過式の）ボディーチェック用金属探知機
-tut/krist/an/ar/a⟦整/krist/员ᴬ/群/a⟧:【キ】全キリスト教会の
+tut/krist/an/ar/a⟦整/krist/员/群/a⟧:【キ】全キリスト教会の
 tut/lan/a⟦整/毛ᴸ/a⟧:純毛の
 tut/land/a⟦整/国/a⟧:全国の,全国的な
 tut/lern/i⟦整/学/i⟧:［他］=ellerni（習得する）
@@ -41961,7 +41961,7 @@ ukrain/a:ウクライナの
 Ukrain/i/o:【国名】ウクライナ（欧州）
 ukrain/o:ウクライナ人
 Ukrain/uj/o:【国名】ウクライナ（欧州）
-ukrajn/an/o⟦ukrajn/员ᴬ/o⟧:=>ukraino（ウクライナ人）
+ukrajn/an/o⟦ukrajn/员/o⟧:=>ukraino（ウクライナ人）
 Ukrajn/o:【国名】=>Ukrainio（ウクライナ）
 -ul-⟦者⟧:{Ｂ}［接尾辞］（人・動物を示す）,>>junulo,>>vertebrulo
 ul/ac^/o⟦者/劣/o⟧:やつ（奴）
@@ -42068,7 +42068,7 @@ universal/ec/o⟦普ᵁ/性/o⟧:普遍性
 universal/ig/i⟦普ᵁ/使/i⟧:［他］普遍化する,広く普及させる
 universal/ism/o⟦普ᵁ/主义/o⟧:【キ】普遍救済説;【哲】普遍主義
 universitat/a⟦学ᵁ/a⟧:大学の
-universitat/an/o⟦学ᵁ/员ᴬ/o⟧:大学人（教職員・学生）
+universitat/an/o⟦学ᵁ/员/o⟧:大学人（教職員・学生）
 universitat/a profesor/o⟦学ᵁ/a 授/o⟧:大学教授
 universitat/a sistem/o⟦学ᵁ/a 系/o⟧:大学制度
 universitat/nivel/a⟦学ᵁ/平ᴺ/a⟧:大学レベルの
@@ -42166,7 +42166,7 @@ unu/kotiledon/a⟦一/子叶/a⟧:【植】単子葉の
 unu/kotiledon/ul/oj⟦一/子叶/者/oj⟧:【植】単子葉植物,単子葉類
 unu la ali/an⟦一 la 别/an⟧:お互いに
 unu/lingv/a⟦一/语/a⟧:単一言語の,一言語だけを用いる
-unu/lingv/an/o⟦一/语/员ᴬ/o⟧:単一言語話者,一言語だけを用いる人
+unu/lingv/an/o⟦一/语/员/o⟧:単一言語話者,一言語だけを用いる人
 unu/lingv/ul/o⟦一/语/者/o⟧:単一言語話者,一言語だけを用いる人
 unu/lit/a c^ambr/o⟦一/床/a 室/o⟧:（ホテルなど）シングルの部屋,一人部屋
 unu/lok/a lit/o⟦一/处/a 床/o⟧:シングルベッド
@@ -42224,7 +42224,7 @@ urb/a hal/o⟦市/a 厅/o⟧:市民ホール,市民会館,=civitana halo
 urb/a hospital/o⟦市/a 医ᴴ/o⟧:市立病院
 urb/a legend/o⟦市/a 传ᴸ/o⟧:都市伝説
 urb/a magistrat/o⟦市/a 官ᴹ/o⟧:【日】町奉行（まちぶぎょう）【私家版】
-urb/an/o⟦市/员ᴬ/o⟧:市民,町民
+urb/an/o⟦市/员/o⟧:市民,町民
 urb/a park/o⟦市/a 园ᴾ/o⟧:市立公園
 urb/a parlament/o⟦市/a 议ᴾᴸ/o⟧:市議会,市会
 urb/eg/o⟦市/巨/o⟧:大都市
@@ -42305,7 +42305,7 @@ urtikari/o:【病】じんましん（蕁麻疹）
 urtik/ec/a⟦痒ᵁ/性/a⟧:チクチクする
 urtik/i⟦痒ᵁ/i⟧:［自］（イラクサで刺すように）チクチクさせる,掻痒感を生じる
 urtik/o⟦痒ᵁ/o⟧:{Ｏ}【植】イラクサ（刺草）（属）
-urugvaj/an/o⟦urugvaj/员ᴬ/o⟧:ウルグアイ人
+urugvaj/an/o⟦urugvaj/员/o⟧:ウルグアイ人
 Urugvaj/a River/o:【地名】ウルグアイ川（南米）
 Urugvaj/o:{Ｏ}【国名】ウルグアイ（南アメリカ）
 Urugvaj/o:【地名】ウルグアイ川,=Urugvaja Rivero
@@ -42320,7 +42320,7 @@ uson/a:アメリカ（合衆国）の
 uson/a dolar/o:【経】米ドル,USドル
 uson/a futbal/o⟦uson/a 球ᶠ/o⟧:【運】アメリカンフットボール
 uson/a milit/baz/o⟦uson/a 战/基/o⟧:米軍基地
-uson/an/o⟦uson/员ᴬ/o⟧:アメリカ人,米国人
+uson/an/o⟦uson/员/o⟧:アメリカ人,米国人
 uson/a rev/o⟦uson/a 幻/o⟧:アメリカンドリーム
 uson/a tun/o⟦uson/a 吨/o⟧:米トン,ショートトン（＝約907kg）
 Uson/o:{Ｏ}【国名】アメリカ合衆国,米国（北アメリカ）
@@ -42357,8 +42357,8 @@ util/insekt/o⟦益/虫/o⟧:益虫
 util/ism/o⟦益/主义/o⟧:【哲】功利主義
 util/o⟦益/o⟧:効用,有用;実益,有益
 utopi/a:ユートピアの,空想的な,非現実的な
-utopi/an/ism/o⟦utopi/员ᴬ/主义/o⟧:=utopiismo（ユートピア思想）
-utopi/an/o⟦utopi/员ᴬ/o⟧:ユートピアン,=utopiulo
+utopi/an/ism/o⟦utopi/员/主义/o⟧:=utopiismo（ユートピア思想）
+utopi/an/o⟦utopi/员/o⟧:ユートピアン,=utopiulo
 utopi/ism/o⟦utopi/主义/o⟧:ユートピア思想;空想的理想主義
 utopi/ist/o⟦utopi/家/o⟧:ユートピア思想家;空想家,=utopiulo
 utopi/o:{Ｏ}ユートピア,理想郷
@@ -42821,7 +42821,7 @@ veget/aj^/a c^el/o⟦茂/物/a 胞/o⟧:植物細胞
 veget/aj^/a fibrin/o⟦茂/物/a 纤蛋白/o⟧:【植】麩素（ふそ）,=gluteno
 veget/aj^/a fibr/o⟦茂/物/a 纤/o⟧:植物繊維
 veget/aj^/a margarin/o⟦茂/物/a 人造油/o⟧:【料】植物性マーガリン
-veget/aj^/an/o⟦茂/物/员ᴬ/o⟧:完全菜食家,ヴィーガン
+veget/aj^/an/o⟦茂/物/员/o⟧:完全菜食家,ヴィーガン
 veget/aj^/a regn/o⟦茂/物/a 国ᴿ/o⟧:【植】植物界
 veget/aj^/ar/o⟦茂/物/群/o⟧:【植】植物相,フロラ,=flau^ro,>>bestaro;植生
 veget/aj^/ec/o⟦茂/物/性/o⟧:植物性
@@ -42836,7 +42836,7 @@ vegetal/ism/o⟦植ⱽ/主义/o⟧:=vegetaj^ismo（菜食主義）
 vegetal/o⟦植ⱽ/o⟧:{Ｂ}植物,=vegetaj^o
 vegetar/a⟦素ⱽ/a⟧:{Ｂ}菜食の
 vegetar/a diet/o⟦素ⱽ/a 节/o⟧:【医】菜食（療法）
-vegetar/an/o⟦素ⱽ/员ᴬ/o⟧:菜食家
+vegetar/an/o⟦素ⱽ/员/o⟧:菜食家
 vegetar/ism/o⟦素ⱽ/主义/o⟧:菜食主義（卵、乳、蜂蜜は食べる）,>>vegetaj^ismo
 veget/i⟦茂/i⟧:{Ｏ}［自］【植】（植物が）生育する,生い茂る;《転》細々と暮らす,無為に過ごす
 Veg/o:【天】ベガ（こと座のアルファ星）,織女星
@@ -42929,7 +42929,7 @@ venen/o⟦毒/o⟧:{Ｂ}毒,毒物,毒薬,>>tokso;《転》害毒
 vener/a⟦性病/a⟧:【病】性病の,=seksmalsana
 vener/a mal/san/o⟦性病/a 反/健/o⟧:【病】=seksmalsano（性病）
 Vener/o:【神】=Venuso（ビーナス）
-venezuel/an/o⟦venezuel/员ᴬ/o⟧:ベネズエラ人
+venezuel/an/o⟦venezuel/员/o⟧:ベネズエラ人
 Venezuel/o:{Ｏ}【国名】ベネズエラ（南アメリカ）
 veng^/a⟦仇/a⟧:報復の,復讐の
 veng^/ant/o⟦仇/在/o⟧:復讐者
@@ -43172,7 +43172,7 @@ vesper/ig^/o⟦晚/成/o⟧:宵の口
 vesper/kostum/o⟦晚/装ᴷ/o⟧:【服】（特に男子の）夜会服
 vesper/krepusk/o⟦晚/昏ᴷ/o⟧:（夕暮れの）薄明,たそがれ（黄昏）
 vesper/kun/ven/o⟦晚/共/来/o⟧:夜会,（夜の）パーティー
-vesper/lern/ej/an/o⟦晚/学/所/员ᴬ/o⟧:夜学生
+vesper/lern/ej/an/o⟦晚/学/所/员/o⟧:夜学生
 vesper/mang^/i⟦晚/食/i⟧:［自］夕食をとる,晩ご飯を食べる
 vesper/mang^/o⟦晚/食/o⟧:夕食,夕飯,晩ご飯
 vesper/o⟦晚/o⟧:{Ｂ}夕方,夕べ,夕暮れ,日暮れ,宵（よい）,晩
@@ -43387,7 +43387,7 @@ vikun/lan/o⟦小羊驼/毛ᴸ/o⟧:【織】ビクーニャの毛織物（高�
 vikun/o⟦小羊驼/o⟧:【動】ビクーニャ（ラマに似たアンデス産の偶蹄類）
 vil/a⟦蓬/a⟧:毛で覆われた,毛むくじゃらの,けば立った
 vilag^/a⟦村/a⟧:村の,いなか風の
-vilag^/an/o⟦村/员ᴬ/o⟧:村民
+vilag^/an/o⟦村/员/o⟧:村民
 vilag^/estr/o⟦村/长ᴱ/o⟧:村長
 vilag^/o⟦村/o⟧:{Ｂ}村
 vilag^/ul/o⟦村/者/o⟧:いなか者,>>kamparano
@@ -43714,7 +43714,7 @@ vizon/pelt/a mantel/o⟦鼠ⱽ/皮ᴾ/a 披/o⟧:ミンクのコート
 viz/o/pet/o⟦证/o/求/o⟧:ビザ申請,査証申請
 Vjentjan/o:【地名】ビエンチャン（ラオスの首都）
 vjetnam/a lingv/o⟦vjetnam/a 语/o⟧:（la 〜）ベトナム語
-vjetnam/an/o⟦vjetnam/员ᴬ/o⟧:=>vjetnamo（ベトナム人）
+vjetnam/an/o⟦vjetnam/员/o⟧:=>vjetnamo（ベトナム人）
 Vjetnam/i/o:【国名】ベトナム（アジア）
 vjetnam/o:ベトナム人
 Vjetnam/o:【国名】=>Vjetnamio（ベトナム）
@@ -43992,7 +43992,7 @@ Zairi/o:【国名】ザイール（コンゴ民主共和国の旧称）,>>Kongo
 Zair/o:【地名】ザイール川（アフリカ中部）
 Zakint/o:【地名】ザキントス島（ギリシア，イオニア諸島）
 Zambez/o:【地名】ザンベジ川（アフリカ南部）
-zambi/an/o⟦zambi/员ᴬ/o⟧:ザンビア人
+zambi/an/o⟦zambi/员/o⟧:ザンビア人
 Zambi/o:【国名】ザンビア（アフリカ）
 Zamenhof:{Ｏ}【人名】ザメンホフ
 Zamenhof/a:ザメンホフの
@@ -44163,7 +44163,7 @@ karib/o:{Ｏ}カリブ人,>>c^eftera karibo,>>insula karibo
 karier/ad/i⟦职ᴷ/行/i⟧:［自］出世を目指す
 kartvel/a:{Ｏ}グルジアの;グルジア人の;グルジア語の
 labor/dau^r/o⟦劳/续/o⟧:労働時間
-lesb/an/in/o⟦lesb/员ᴬ/女/o⟧:{Ｏ}《転》レズビアン（女性の同性愛者）,=samseksemulino
+lesb/an/in/o⟦lesb/员/女/o⟧:{Ｏ}《転》レズビアン（女性の同性愛者）,=samseksemulino
 majstr/i⟦师/i⟧:［自］秀でている;［他］マスターしている,巧みに使いこなす
 majstr/ig^/i⟦师/成/i⟧:［自］親方になる;一流になる
 makedon/a:{Ｏ}マケドニアの;マケドニア人の;マケドニア語の
@@ -44230,24 +44230,24 @@ acid/fend/ig^/o⟦酸/裂ᶠ/成/o⟧:【化】=acida fendig^o（酸分解）
 aer/voj/o⟦气/路/o⟧:空路
 afgan/a:{Ｏ}アフガニスタン人の,アフガニスタンの
 akad/a:{Ｏ}アッカドの;アッカド人の;アッカド語の
-akad/an/o⟦akad/员ᴬ/o⟧:{Ｏ}【史】アッカド人
+akad/an/o⟦akad/员/o⟧:{Ｏ}【史】アッカド人
 akv/o/botel/o⟦水/o/瓶/o⟧:水筒,水用ボトル
 al/ter/ig^/o⟦向/地/成/o⟧:【空】着陸
 alt/prez/e⟦高/价/e⟧:高値で,高価に
 alt/risk/a⟦高/险/a⟧:危険性の高い,ハイリスクの
 alzac/a:{Ｏ}アルザスの;アルザス人の;アルザス語の
-alzac/an/o⟦alzac/员ᴬ/o⟧:{Ｏ}アルザス人
+alzac/an/o⟦alzac/员/o⟧:{Ｏ}アルザス人
 asiri/a:{Ｏ}アッシリアの;アッシリア人の;アッシリア語の
-asiri/an/o⟦asiri/员ᴬ/o⟧:{Ｏ}アッシリア人
+asiri/an/o⟦asiri/员/o⟧:{Ｏ}アッシリア人
 au^stronezi/a:{Ｏ}オーストロネシア人の;オーストロネシア語族の
 azerbajg^an/a:{Ｏ}アゼルバイジャンの;アゼルバイジャン人の;アゼルバイジャン語の
 aztek/a:{Ｏ}アステカ族の;アステカ文化の
 babilon/a:{Ｏ}バビロンの;バビロン人の
-babilon/an/o⟦babilon/员ᴬ/o⟧:{Ｏ}バビロン人
+babilon/an/o⟦babilon/员/o⟧:{Ｏ}バビロン人
 balkan/a:{Ｏ}バルカン山脈の;バルカン半島の
 bangl/a:ベンガル語の,バングラ語の,=bengala
 bank/au^tomat/o⟦银ᴮ/动ᴬ/o⟧:現金自動預払機,ATM
-barat/an/o⟦barat/员ᴬ/o⟧:インド人;インド国民;>>hindo
+barat/an/o⟦barat/员/o⟧:インド人;インド国民;>>hindo
 bas^kir/a:{Ｏ}バシキール人の;バシキール語の;バシコルトスタンの
 bavar/a:{Ｏ}バイエルン人の;バイエルン語の;バイエルン州の
 bengal/a:{Ｏ}ベンガル人の;ベンガル語の;ベンガル地方の
@@ -44260,7 +44260,7 @@ botel/c^ap/o⟦瓶/帽ᶜ̂ᴬ/o⟧:（ビンの）王冠,キャップ,=kapsulo
 brajl/ig/i⟦brajl/使/i⟧:［他］点訳する
 brit/el/ir/o⟦brit/出/往/o⟧:【政】ブレグジット,英国のEU離脱
 brunej/a:{Ｏ}ブルネイの;ブルネイ人の
-brunej/an/o⟦brunej/员ᴬ/o⟧:{Ｏ}ブルネイ人
+brunej/an/o⟦brunej/员/o⟧:{Ｏ}ブルネイ人
 c^ec^en/a:{Ｏ}チェチェンの;チェチェン人の;チェチェン語の
 c^ef/ter/o⟦首/地/o⟧:（周辺の島嶼部に対して）本土
 c^uvas^/a:{Ｏ}チュバシの;チュバシ人の;チュバシ語の
@@ -44275,43 +44275,43 @@ dravid/a:{Ｏ}ドラビダ人の;ドラビダ語の
 du/direkt/a⟦二/方/a⟧:双方向の
 eksterm/ej/o⟦歼/所/o⟧:【史】絶滅収容所（ナチスの強制収容所の一種）,>>koncentrejo,>>holokau^sto
 elam/a:{Ｏ}エラムの;エラム人の;エラム語の
-elam/an/o⟦elam/员ᴬ/o⟧:{Ｏ}エラム人
+elam/an/o⟦elam/员/o⟧:{Ｏ}エラム人
 ese/i⟦论ᴱ/i⟧:［自］小論を書く;エッセーを書く
 esplor/objekt/o⟦探/物ᴼ/o⟧:研究対象
 esplor/vojag^/ant/o⟦探/旅/在/o⟧:探検家
 fenic/a:{Ｏ}フェニキアの;フェニキア人の;フェニキア語の
 fer/voj/pont/o⟦铁/路/桥/o⟧:（鉄道の）鉄橋
 fig^i/a:{Ｏ}フィジーの;フィジー人の;フィジー語の
-fig^i/an/o⟦fig^i/员ᴬ/o⟧:{Ｏ}フィジー人
+fig^i/an/o⟦fig^i/员/o⟧:{Ｏ}フィジー人
 filipin/a:{Ｏ}フィリピンの;フィリピン人の;フィリピン語の
 friul/a:{Ｏ}フリウリの;フリウリ人の;フリウリ語の
-friul/an/o⟦friul/员ᴬ/o⟧:{Ｏ}フリウリ人
+friul/an/o⟦friul/员/o⟧:{Ｏ}フリウリ人
 fru/ig^/i⟦早/成/i⟧:［自］早まる
 gau^l/a:{Ｏ}ガリアの;ガリア人の;ガリア語の
 gronland/a:{Ｏ}グリーンランドの;グリーンランド人の;グリーンランド語の
-gronland/an/o⟦gronland/员ᴬ/o⟧:{Ｏ}グリーンランド人
+gronland/an/o⟦gronland/员/o⟧:{Ｏ}グリーンランド人
 gug^arat/a:{Ｏ}グジャラートの;グジャラート人の;グジャラート語の
 gvadelup/a:{Ｏ}グアドループの;グアドループ人の;グアドループ・クレオール語の
-gvadelup/an/o⟦gvadelup/员ᴬ/o⟧:{Ｏ}グアドループ人
+gvadelup/an/o⟦gvadelup/员/o⟧:{Ｏ}グアドループ人
 haiti/a:{Ｏ}ハイチの;ハイチ人の;ハイチ・クレオール語の
-haiti/an/o⟦haiti/员ᴬ/o⟧:{Ｏ}ハイチ人
+haiti/an/o⟦haiti/员/o⟧:{Ｏ}ハイチ人
 hanafism/o:【イ】ハナフィー学派（イスラム法学の一学派）
 hav/ant/o⟦有/在/o⟧:持っている人;持てる者（富者）
-havaj/an/o⟦havaj/员ᴬ/o⟧:{Ｏ}ハワイ人
+havaj/an/o⟦havaj/员/o⟧:{Ｏ}ハワイ人
 impost/paradiz/o⟦税/天/o⟧:税金天国;タックスヘイブン,租税回避地
 indonezi/a:{Ｏ}インドネシアの;インドネシア人の;インドネシア語の
 instru/tem/o⟦教/题/o⟧:授業テーマ
 jamajk/a:{Ｏ}ジャマイカの;ジャマイカ人の;ジャマイカ・クレオール語の
-jamajk/an/o⟦jamajk/员ᴬ/o⟧:{Ｏ}ジャマイカ人
+jamajk/an/o⟦jamajk/员/o⟧:{Ｏ}ジャマイカ人
 jav/a:{Ｏ}ジャワの;ジャワ人の;ジャワ語の
 jorub/a:{Ｏ}ヨルバの;ヨルバ人の;ヨルバ語の
 jorub/o:{Ｏ}ヨルバ人
 kab/o/verd/a⟦kab/o/绿/a⟧:{Ｏ}カーボベルデの;カーボベルデ人の;カーボベルデ・クレオール語の
-kab/o/verd/an/o⟦kab/o/绿/员ᴬ/o⟧:{Ｏ}カーボベルデ人
+kab/o/verd/an/o⟦kab/o/绿/员/o⟧:{Ｏ}カーボベルデ人
 karib/oj:カリブ族
 kas^/bar/il/o⟦藏/障/具/o⟧:目隠し柵,目隠しフェンス
 kas^mir/a:{Ｏ}カシミールの;カシミール人の;カシミール語の
-kas^mir/an/o⟦kas^mir/员ᴬ/o⟧:{Ｏ}カシミール人
+kas^mir/an/o⟦kas^mir/员/o⟧:{Ｏ}カシミール人
 kau^kaz/a:{Ｏ}カフカスの;カフカス語の
 kazah^/a:{Ｏ}カザフスタンの;カザフ人の;カザフ語の
 kirgiz/a:{Ｏ}キルギスの;キルギス人の;キルギス語の
@@ -44319,10 +44319,10 @@ koktel/miks/il/o⟦鸡尾酒/混/具/o⟧:シェーカー
 koktel/miks/ist/o⟦鸡尾酒/混/家/o⟧:バーテンダー
 kolor/ig/it/a⟦色/使/受/a⟧:彩色された,色の塗られた
 komor/a:{Ｏ}コモロの;コモロ人の;コモロ語の
-komor/an/o⟦komor/员ᴬ/o⟧:{Ｏ}コモロ人
+komor/an/o⟦komor/员/o⟧:{Ｏ}コモロ人
 kor/bat/frekvenc/o⟦心/打/频/o⟧:心拍数
 kor/frekvenc/o⟦心/频/o⟧:心拍数
-kornval/an/o⟦kornval/员ᴬ/o⟧:{Ｏ}コーンウォール人
+kornval/an/o⟦kornval/员/o⟧:{Ｏ}コーンウォール人
 korsik/a:{Ｏ}コルシカの;コルシカ人の;コルシカ語の
 kosm/o/sond/il/o⟦宇/o/探ˢ/具/o⟧:宇宙探査機
 kron/virus/o⟦冠/毒ⱽᴿ/o⟧:【医】コロナウイルス
@@ -44339,7 +44339,7 @@ libr/o/merkat/o⟦书/o/市ᴹ/o⟧:書籍市場
 lingv/o/famili/o⟦语/o/家ᶠ/o⟧:【語】語族
 lingv/o/kod/aj^/o⟦语/o/码/物/o⟧:言語コード（ISO 639-1など）
 luksemburg/a:{Ｏ}ルクセンブルクの;ルクセンブルク人の;ルクセンブルク語の
-luksemburg/an/o⟦luksemburg/员ᴬ/o⟧:{Ｏ}ルクセンブルク人
+luksemburg/an/o⟦luksemburg/员/o⟧:{Ｏ}ルクセンブルク人
 magistr/ig^/o⟦硕/成/o⟧:修士号取得
 maja/a:{Ｏ}マヤ人の;マヤ語の
 makro/ekonomik/o⟦宏ᴹ/经济ᴱᴷ/o⟧:【経】マクロ経済学
@@ -44348,11 +44348,11 @@ mal/i⟦反/i⟧:［自］逆である
 mal/mend/o⟦反/订/o⟧:注文取消
 maldiv/a:{Ｏ}モルディブの;モルディブ人の;モルディブ語（＝ディベヒ語）の
 malt/a⟦麦芽/a⟧:{Ｏ}マルタの;マルタ人の;マルタ語の
-malt/an/o⟦麦芽/员ᴬ/o⟧:{Ｏ}マルタ人
+malt/an/o⟦麦芽/员/o⟧:{Ｏ}マルタ人
 mars^al/a:{Ｏ}マーシャルの;マーシャル人の;マーシャル語の
-mars^al/an/o⟦mars^al/员ᴬ/o⟧:{Ｏ}マーシャル人
+mars^al/an/o⟦mars^al/员/o⟧:{Ｏ}マーシャル人
 martinik/a:{Ｏ}マルティニークの;マルティニーク人の;マルティニーク・クレオール語の
-martinik/an/o⟦martinik/员ᴬ/o⟧:{Ｏ}マルティニーク人
+martinik/an/o⟦martinik/员/o⟧:{Ｏ}マルティニーク人
 mau^rici/a:{Ｏ}モーリシャスの;モーリシャス人の;モーリシャス・クレオール語の
 mis/i⟦误/i⟧:［自］誤る,間違う,>>erari
 moldav/a:{Ｏ}モルドバの;モルドバ人の;モルドバ語の
@@ -44361,9 +44361,9 @@ mort/kondamn/it/o⟦死/判ᴷ/受/o⟧:死刑囚
 motiv/leter/o⟦由/信ᴸ/o⟧:志望理由書
 naft/o/tub/o⟦原油/o/管/o⟧:石油パイプライン
 napol/a:{Ｏ}ナポリの；ナポリ市民の；ナポリ語の
-napol/an/o⟦napol/员ᴬ/o⟧:{Ｏ}ナポリ市民
+napol/an/o⟦napol/员/o⟧:{Ｏ}ナポリ市民
 naur/a:{Ｏ}ナウルの;ナウル人の;ナウル語の
-naur/an/o⟦naur/员ᴬ/o⟧:{Ｏ}ナウル人
+naur/an/o⟦naur/员/o⟧:{Ｏ}ナウル人
 ne/hav/ant/o⟦不/有/在/o⟧:持たない人;持たざる者（貧者）
 ne/ism/o⟦不/主义/o⟧:否定論,否定主義
 ne/ist/o⟦不/家/o⟧:否定論者,否定主義者
@@ -44371,9 +44371,9 @@ neg^/plug/vetur/il/o⟦雪/耕ᴾ/乘/具/o⟧:除雪車
 nepal/a:{Ｏ}ネパールの;ネパール人の;ネパール語の
 nov/generaci/a⟦新/代ᴳ/a⟧:新世代の
 okinav/a:{Ｏ}沖縄の;沖縄人の;沖縄語の
-okinav/an/o⟦okinav/员ᴬ/o⟧:{Ｏ}沖縄人;沖縄県民
+okinav/an/o⟦okinav/员/o⟧:{Ｏ}沖縄人;沖縄県民
 palau^/a:{Ｏ}パラオの;パラオ人の;パラオ語の
-palau^/an/o⟦palau^/员ᴬ/o⟧:{Ｏ}パラオ人
+palau^/an/o⟦palau^/员/o⟧:{Ｏ}パラオ人
 paralel/i⟦并/i⟧:［自］平行している
 pas/log^/ant/o⟦过ᴾ/住/在/o⟧:短期滞在者
 pend/o/g^arden/o⟦挂/o/园/o⟧:空中庭園
@@ -44387,25 +44387,25 @@ ret/um/i⟦网/um/i⟧:［自］【情】インターネットする（インタ
 retro/nombr/ad/o⟦逆/数/行/o⟧:カウントダウン
 retro/nombr/i⟦逆/数/i⟧:［自］カウントダウンする
 reuni/a:{Ｏ}レユニオンの;レユニオン人の;レユニオン・クレオール語の
-reuni/an/o⟦reuni/员ᴬ/o⟧:{Ｏ}レユニオン人
+reuni/an/o⟦reuni/员/o⟧:{Ｏ}レユニオン人
 rohinj/o:ロヒンギャ（ミャンマーの少数者集団）
 s^em/id/a⟦s^em/子/a⟧:{Ｏ}セム族の;セム語系の
 s^em/id/o⟦s^em/子/o⟧:{Ｏ}セム人（ノアの第一子セムに由来するとされる諸民族の人；セム語系諸族の人）
 s^tat/social/ism/o⟦国ˢ̂/社ˢᴸ/主义/o⟧:【政】国家社会主義
 sam/seks/em/ul/in/o⟦同/性ˢ/倾/者/女/o⟧:女性の同性愛者,=lesbanino
 samo/a:{Ｏ}サモアの;サモア人の;サモア語の
-samo/an/o⟦samo/员ᴬ/o⟧:{Ｏ}サモア人
+samo/an/o⟦samo/员/o⟧:{Ｏ}サモア人
 san/protekt/ad/o⟦健/护ᴾ/行/o⟧:健康保護
 san/protekt/o⟦健/护ᴾ/o⟧:健康保護
 sankt/a/luci/a⟦圣/a/luci/a⟧:{Ｏ}セントルシアの;セントルシア人の;セントルシア・クレオール語の
-sankt/a/luci/an/o⟦圣/a/luci/员ᴬ/o⟧:{Ｏ}セントルシア人
+sankt/a/luci/an/o⟦圣/a/luci/员/o⟧:{Ｏ}セントルシア人
 saud/a:{Ｏ}サウード家の;サウジアラビアの;サウジアラビア国民の
-saud/arab/uj/an/o⟦saud/arab/器/员ᴬ/o⟧:{Ｏ}サウジアラビア国民
+saud/arab/uj/an/o⟦saud/arab/器/员/o⟧:{Ｏ}サウジアラビア国民
 serb/o/kroat/a:{Ｏ}セルビア・クロアチア語の
 sicili/a:{Ｏ}シチリアの;シチリア人の;シチリア語の
-sicili/an/o⟦sicili/员ᴬ/o⟧:{Ｏ}シチリア人;シチリア住民
+sicili/an/o⟦sicili/员/o⟧:{Ｏ}シチリア人;シチリア住民
 silezi/a:{Ｏ}シレジアの;シレジア人の;シレジア語の
-silezi/an/o⟦silezi/员ᴬ/o⟧:{Ｏ}シレジア人（＝シレジア住民）
+silezi/an/o⟦silezi/员/o⟧:{Ｏ}シレジア人（＝シレジア住民）
 somal/a:{Ｏ}ソマリアの;ソマリ人の;ソマリ語の
 spir/frekvenc/o⟦息/频/o⟧:（１分間の）呼吸数
 sport/s^u/o⟦体ˢ/鞋/o⟧:運動靴（片方）
@@ -44413,7 +44413,7 @@ stud/grup/o⟦研/团/o⟧:研究グループ
 sub/sahar/a⟦下/sahar/a⟧:サハラ砂漠以南の,サブサハラの
 sukces/plen/a⟦成ˢ/满/a⟧:成功した,上できの,盛況の
 sumer/a:{Ｏ}【史】シュメールの;シュメール人の;シュメール語の
-sumer/an/o⟦sumer/员ᴬ/o⟧:{Ｏ}【史】シュメール人
+sumer/an/o⟦sumer/员/o⟧:{Ｏ}【史】シュメール人
 super/komput/il/o⟦上ˢᴾ/算ᴷᴹ/具/o⟧:スーパーコンピュータ
 sur/ter/e/n⟦上/地/e/n⟧:地上へ
 svazi/a:{Ｏ}スワジの,エスワティニの;スワジ人の;スワジ語の
@@ -44425,14 +44425,14 @@ ter/glit/o⟦地/滑/o⟧:【地質】地すべり
 tibet/a:{Ｏ}チベットの;チベット人の;チベット語の
 turkmen/a:{Ｏ}トルクメンの,トルクメニスタンの;トルクメン人の,トルクメニスタン人の;トルクメン語の
 tuval/a:{Ｏ}ツバルの;ツバル人の;ツバル語の
-tuval/an/o⟦tuval/员ᴬ/o⟧:{Ｏ}ツバル人
+tuval/an/o⟦tuval/员/o⟧:{Ｏ}ツバル人
 ujgur/a:{Ｏ}ウイグル人の;ウイグル語の
 urb/o/s^tat/o⟦市/o/国ˢ̂/o⟧:都市国家
 uzbek/a:{Ｏ}ウズベクの,ウズベキスタンの;ウズベク人の,ウズベキスタン人の;ウズベク語の
 varm/akv/o⟦暖/水/o⟧:熱水
 varm/energi/o⟦暖/能ᴱ/o⟧:熱エネルギー
 veneci/a:{Ｏ}ベネチアの;ベネチア人の;ベネチア語（ベネト語）の
-veneci/an/o⟦veneci/员ᴬ/o⟧:{Ｏ}ベネチア人,ベネチア市民
+veneci/an/o⟦veneci/员/o⟧:{Ｏ}ベネチア人,ベネチア市民
 vent/rapid/o⟦风/速/o⟧:【気】風速
 viking/a:{Ｏ}バイキングの
 viv/o/voj/o⟦活/o/路/o⟧:人生行路
@@ -44572,7 +44572,7 @@ aha!:【PIV】Interj. (Interjekcio), esprimanta la konstaton de io atendata au^ 
 Ahasver/o:【PIV】Nomo de la mita «eterne migranta judo».
 ahims/o⟦不害/o⟧:【PIV】Principo de multaj hindaj kulturaj k ideaj sistemoj, lau^ kiu la homoj devas vivi sen perforto al aliaj vivantoj.
 ahims/a⟦不害/a⟧:【PIV】Konforma al ahimso: ahimsa lukto kontrau^ la imperiismo.
-ahims/an/o⟦不害/员ᴬ/o⟧:【PIV】Adepto de ahimso: multaj ahimsanoj estas vegetaranoj.
+ahims/an/o⟦不害/员/o⟧:【PIV】Adepto de ahimso: multaj ahimsanoj estas vegetaranoj.
 ah^!:【PIV】Interj. (Interjekcio), esprimanta fortan surprizon, bedau^ron: la poet' similas iam al monah^' kiu malgrau^ multaj ho! k multaj ah^! skribas sanktan libron P.
 ah^/i:【PIV】(ntr (netransitiva)) Eldiri «ah^», g^emi.
 Ah^ab/o:【聖】【PIV】Reg^o de Izraelo en Samario (874−853). -> Izebel, Naboto.
@@ -44897,8 +44897,8 @@ amenore/o:【医】【PIV】Manko de menstruado ekster gravedeco.
 ament/o⟦穗ᴬ/o⟧:【植】【PIV】Infloresko, densa spiko ofte konussimila, kies unuseksaj floroj defalas unubloke.
 ament/ul/oj⟦穗ᴬ/者/oj⟧:【PIV】Grupo de lignecaj angiospermoj, sistematike nenatura, kies floroj, almenau^ la virseksaj, formig^as en amentoj, ekz. (ekzemple) saliko k betulo.
 americi/o⟦金ᴬ/o⟧:【化】【PIV】Transurania elemento, Am, atomnumero 95, atommaso 243,06.
-amerik/an/o⟦amerik/员ᴬ/o⟧:【PIV】Log^anto de Ameriko: se la Amerikanoj mem ec^ malbone pretigos la kongreson . Rim. (Rimarko) Oni ne uzu Amerikano en la senco de Usonano.
-amerik/an/ism/o⟦amerik/员ᴬ/主义/o⟧:【PIV】Aparta maniero de parolo, pensado au^ vivado de la Amerikanoj.
+amerik/an/o⟦amerik/员/o⟧:【PIV】Log^anto de Ameriko: se la Amerikanoj mem ec^ malbone pretigos la kongreson . Rim. (Rimarko) Oni ne uzu Amerikano en la senco de Usonano.
+amerik/an/ism/o⟦amerik/员/主义/o⟧:【PIV】Aparta maniero de parolo, pensado au^ vivado de la Amerikanoj.
 ametist/a⟦紫晶/a⟧:【PIV】Havanta la koloron de ametisto: ametistaj okuloj.
 ametrop/a⟦屈光/a⟧:【医】【PIV】(pp (se paroli pri) okulo) Trafita de ametropeco.
 ametrop/ec/o⟦屈光/性/o⟧:【PIV】Kn (Kolektiva nomo) de c^iuj optikaj difektoj de la okulo rigardanta malproksimen; tiuj difektoj estas korekteblaj per tau^gaj okulvitroj. Vd miopa, hipermetropa, astigmata.
@@ -45475,7 +45475,7 @@ au^git/o:【地質】【PIV】Mineralo, fera-magnezia monoklina pirokseno, g^ene
 au^gment/o:【語】【PIV】Pref. (Prefikso) uzata, en kelkaj lingvoj de la hindeu^ropa familio, por formi preteritajn verbajn formojn.
 au^gmentativ/o:【語】【PIV】Vorto, formita el alia vorto per speciala suf. (sufikso), kiu esprimas la saman ideon en pliigita, fortigita grado; ekz. (ekzemple) domego, dikega, dormegi, rilate al domo, dika, dormi. Vd diminutivo.
 au^gur/ist/in/o⟦占ᴬ/家/女/o⟧:【PIV】Ina au^guristo.
-au^gusten/an/o⟦au^gusten/员ᴬ/o⟧:【キ】【PIV】Monah^o de unu el la ordenoj gardantaj Au^gustenecan regularon.
+au^gusten/an/o⟦au^gusten/员/o⟧:【キ】【PIV】Monah^o de unu el la ordenoj gardantaj Au^gustenecan regularon.
 au^k/o⟦鸟ᴬᵁ̆/o⟧:【動】【PIV】G. (Genro) (Alca) de N-Atlantikaj nag^birdoj el la ordo de karadriformaj, kun alta beko, pinta vosteto k kruroj malantau^e lokig^intaj; la individuoj log^as amase sur klifoj. Vd urio. -> pingveno.
 au^k/ed/oj⟦鸟ᴬᵁ̆/科ᴱ/oj⟧:【動】【PIV】Fam. (Familio) (Alcidae) de karadriformaj birdoj, al kiu apartenas au^ko, fraterkulo k urio.
 au^ksin/o:【植】【化】【PIV】(kn (kolektiva nomo)) Vegetaj^a hormono (kun ducikla, nitrogenohava molekulo), kiu reguligas la kreskon de la plantoj: indolacetata acido (IAA), C 10 H 9 NO 2, estas la plej grava au^ksino. Vd giberelino.
@@ -45567,7 +45567,7 @@ b:【PIV】Konsonanto, voc^a ploziva labialo.
 ba!:【PIV】Interj. (Interjekcio), uzata por esprimi iom mals^atan senzorgecon: mia kuzino sciis, sed ba! c^iufoje, kiam mi demandis s^in pri la adreso ; la kulo diris al la tau^r' kompleze: «Se mi s^arg^as vin tro peze, k vi volas, ke mi iru for de via korno, diru!» K la tau^ro diris: « ba! Mi vin ne rimarkas ja!» .
 Baal/o:【PIV】Titolo («Sinjoro») de feniciaj dioj, precipe de Hadad.
 babil/o⟦聊/o⟧:【PIV】Diroj de tiu, kiu babilas: c^e tablo malplena babilo ne fluas ; ne timu tranc^ilon, timu babilon ; vian babilon vi jam ne povos repreni ; babilbruanta amaso .
-babord/an/oj⟦船左/员ᴬ/oj⟧:【PIV】S^ipanoj, kiuj apartenas al la baborda dej^oro.
+babord/an/oj⟦船左/员/oj⟧:【PIV】S^ipanoj, kiuj apartenas al la baborda dej^oro.
 bac!:【PIV】Onomatopeo, esprimanta la kunfrapig^on de du pezaj objektoj.
 bac/i⟦响ᴮ/i⟧:【PIV】Fari tian bruon.
 bac/o⟦币ᴮ/o⟧:【PIV】Iama germana monero (= 4 krejceroj).
@@ -45650,7 +45650,7 @@ banus/o⟦督ᴮ/o⟧:【史】【PIV】Vicreg^o, komandanta en milito (en Hunga
 banus/ej/o⟦督ᴮ/所/o⟧:【PIV】Regiono, regata de banuso: la banusejo de Temes^varo.
 banus/land/o⟦督ᴮ/国/o⟧:【PIV】Regiono, regata de banuso: la banusejo de Temes^varo.
 bapt/a⟦洗ᴮ/a⟧:【PIV】Rilata al bapto: bapta ceremonio, festeno.
-bapt/an/in/o⟦洗ᴮ/员ᴬ/女/o⟧:【PIV】Ina baptano (virino, kiun oni baptas au^ kiu estas baptita).
+bapt/an/in/o⟦洗ᴮ/员/女/o⟧:【PIV】Ina baptano (virino, kiun oni baptas au^ kiu estas baptita).
 bapt/ej/o⟦洗ᴮ/所/o⟧:【PIV】Parto de preg^ejo, au^ iafoje aparta konstruaj^o, destinita al la baptoj.
 bapt/ist/o⟦洗ᴮ/家/o⟧:【キ】【PIV】1 Praktikanto de baptado: Johano la Baptisto. 2 Ano de kristana komunumo (precipe en Usono), kiu baptas nur la plenkreskulojn. Vd anabaptisto.
 bapt/uj/o⟦洗ᴮ/器/o⟧:【PIV】Kuvo, destinita por baptoj.
@@ -45768,7 +45768,7 @@ Benjamen/o:【PIV】1 Vira nomo, i.a. (interalie, inter aliaj) de la plej juna f
 benjet/o⟦炸糕/o⟧:【PIV】Pastobulo, fritita k entenanta delikataj^on (legoman, viandan au^ dolc^an), foje sukerita au^ sukerglazurita: ringoforma benjeto; benjeto kun prunoj, marmelado, kazeo au^ sukerita papavo. Sin. (sinonimo) fritkuko. Vd tempuro.
 bent/o⟦底栖/o⟧:【生態】【PIV】Vivularo de la fundo de maro au^ lago. Vd pelago.
 bent/a⟦底栖/a⟧:【PIV】Rilata al bento: benta fau^no, flau^ro; benta biotopo.
-bent/an/o⟦底栖/员ᴬ/o⟧:【PIV】Benta vivulo.
+bent/an/o⟦底栖/员/o⟧:【PIV】Benta vivulo.
 bent/ul/o⟦底栖/者/o⟧:【PIV】Benta vivulo.
 benzidin/o:【PIV】= diamina bifenilo.
 benzil/o:【化】【PIV】1 Radiko C 6 H 5 CH 2 -. 2 Radikalo C 6 H 5-CH 2 ·.
@@ -45787,7 +45787,7 @@ Bering/a:【PIV】Nomepiteto de la maro situanta norde de Pacifiko, inter Azio k
 berkeli/o⟦金ᴮᴷ/o⟧:【化】【PIV】Transurania elemento, Bk, atomnumero 97, atommaso 247,02.
 berm/o:【技】【PIV】Mallarg^a irejo inter parapeto au^ eskarpo k fosaj^o, au^ inter kanalo k randa taluso, au^ inter fervoja trako k taluso.
 Bernard/o:【PIV】Vira nomo, i.a. (interalie, inter aliaj) de fama kristana teologo, Sankta Bernardo (1091−1153).
-bernard/an/oj⟦bernard/员ᴬ/oj⟧:【PIV】Anoj de monah^a ordeno, fondita de Sankta Bernardo. Vd San-Bernardo.
+bernard/an/oj⟦bernard/员/oj⟧:【PIV】Anoj de monah^a ordeno, fondita de Sankta Bernardo. Vd San-Bernardo.
 bernikl/o⟦鸟ᴮᴿ/o⟧:【動】【PIV】Sp. (Specio) (Branta bernicla) de relative malgranda, arkta birdo el la ordo de anseroformaj, kies kapo, kolo k brusto estas nigraj, dum c^irkau^ la kolo estas nekompleta blanka ringo.
 berserk/o:【PIV】Skandinava sagaa heroo, batalanta kun freneza furiozo. Vd amoko.
 bertoleti/o⟦木ᴮᴿ/o⟧:【植】【PIV】G. (Genro) (Bertholletia el lecitidacoj) de nur unu sp. (B. excelsa) de arbo el tropika S Ameriko, kiu produktas la Brazilan nukson. Vd lecitido.
@@ -45926,7 +45926,7 @@ bobolink/o⟦鸟ᴮᴮ/o⟧:【動】【PIV】Sp. (Specio) (Dolichonyx oryzivoru
 bodoni/o:【PIV】Unu el la stiloj de tipdesegno. Vd elzeviro.
 Bofront/a:【PIV】Rilata al Bofronto: la Bofronta skolo .
 Bogomil/o:【宗】【PIV】Legenda fondinto de religio dualisma, aperinta en Bulgario k disvastig^inta en Balkanaj landoj k Bizancio (10−17a jc (jarcento)).
-bogomil/an/o⟦bogomil/员ᴬ/o⟧:【PIV】Adepto de tiu religio.
+bogomil/an/o⟦bogomil/员/o⟧:【PIV】Adepto de tiu religio.
 bogomil/ism/o⟦bogomil/主义/o⟧:【PIV】Doktrino de la bogomilanoj.
 bohemian/o:【PIV】Artisto au^ pseu^doartisto, vivanta bohemie.
 boj/ad/o⟦吠/行/o⟧:【PIV】Krio de hundo.
@@ -45971,7 +45971,7 @@ borat/o⟦矿盐/o⟧:【化】【PIV】Salo de borata acido, H 3 BO 3.
 borag/ac/oj⟦草ᴮᴿ/科ᴬ/oj⟧:【植】【PIV】Fam. (Familio) (Boraginaceae) de dukotiledonaj plantoj - plejparte herboj, sed ankau^ arboj, arbustoj k lianoj - g^enerale haraj, kun floroj cume arig^intaj, unuope konsistantaj el 5 sepaloj, 5 kunig^intaj petaloj, 5 stamenoj k 2 karpeloj, k kun fruktoj akenecaj (4-nukulaj), pli malofte drupecaj au^ kapsulecaj; c^. (c^irkau^) 2 300 sp-oj (specioj) el 130 g-oj (genroj), i.a. (interalie, inter aliaj) borago, ankuzo, ekio, heliotropo, miozoto, pulmonario k simfito.
 borborigm/o:【生】【医】【PIV】Bruo, estigata de la movig^o de gasoj k likvoj en la stomako k intestoj.
 bord/oj⟦岸/oj⟧:【PIV】Lando, kus^anta apud akvaro: niaj faraonoj eternigis sian nomon g^is la bordoj de Eu^frato .
-bord/an/o⟦岸/员ᴬ/o⟧:【PIV】Tiu, kiu log^as c^e la bordo de rivero ks (kaj simile, kaj similaj).
+bord/an/o⟦岸/员/o⟧:【PIV】Tiu, kiu log^as c^e la bordo de rivero ks (kaj simile, kaj similaj).
 border/it/a⟦缘/受/a⟧:【PIV】C^irkau^igita per bordero 2.
 Bordozi/o:【PIV】Regiono c^irkau^ Bordozo, kun multaj vitejoj. Vd Bordoza likvo, Bordoza vino.
 bordun/o⟦低音/o⟧:【楽】【PIV】Plej basa sonorilo, kordo au^ orgentubo.
@@ -46459,7 +46459,7 @@ c^eviot/o:【農】【PIV】a) Raso de s^afo kun abunda k fajna lano, origina el
 c^evron/um/it/a⟦梁ᶜ̂/um/受/a⟧:【PIV】Dividita per egalaj c^evronformaj strioj.
 c^ibuk/o:【PIV】Turka pipo kun longa tubo.
 c^ic^eron/i⟦导ᶜ̂/i⟧:【PIV】Labori kiel c^ic^erono.
-c^iel/an/o⟦天ᶜ̂/员ᴬ/o⟧:【PIV】Spirito, dio, log^anta en la c^ielo.
+c^iel/an/o⟦天ᶜ̂/员/o⟧:【PIV】Spirito, dio, log^anta en la c^ielo.
 c^ies/ul/o⟦全之/者/o⟧:【PIV】Amorist(in)o. Vd g^igolo, putino.
 c^ifc^af/o⟦鸟ᶜ̂ᶠ/o⟧:【動】【PIV】Sp. (Specio) de filoskopo (Phylloscopus collybita), birdo distingebla disde fitiso pro kanto k malhelkoloraj kruroj.
 c^ifon/ar/o⟦破ᶜ̂/群/o⟧:【PIV】Kolekto de ne plu utiligeblaj s^tofpecoj, c^ifonoj ks (kaj simile, kaj similaj).
@@ -46889,7 +46889,7 @@ dolman/o:【PIV】Husara jako, ornamita per s^nurgalonoj.
 dolomit/o:【地質】【PIV】Mineralo, konsistanta el romboedra kalcia k magnezia karbonato, MgCa(CO 3) 2, ordinare vendata sub formo de blanka pulvoro. Vd kalcito.
 dolomit/petr/o⟦dolomit/岩ᴾ/o⟧:【PIV】Sedimenta petro konsistanta el dolomito (50−100%) k kalcito (0−50%).
 dolor/ig/e⟦痛/使/e⟧:【PIV】Tiel, ke doloras: dolorige surtreti la piedojn de iu ; la knaboj kaptis la birdon k dolorige premis g^in en la manoj ; mi dolorige vin frapos . Vd kruela.
-dom/an/ar/o⟦屋/员ᴬ/群/o⟧:【PIV】C^iuj, kiuj log^as en la sama domo: la domanaro de reg^o; s^ia tuta domanaro estas vestita per .
+dom/an/ar/o⟦屋/员/群/o⟧:【PIV】C^iuj, kiuj log^as en la sama domo: la domanaro de reg^o; s^ia tuta domanaro estas vestita per .
 domani/o:【生】【PIV】La plej supera sistematika unuo (dominium), ampleksanta parencajn regnojn: prokariota, eu^kariota domanio.
 Domician/o:【PIV】Vira nomo.
 domin/ec/o⟦治ᴰ/性/o⟧:【生】【PIV】Eco de domina geno au^ karaktero: domineco de alelo A kontrau^ alelo B.
@@ -47038,7 +47038,7 @@ ekinops/o⟦菊ᴱ/o⟧:【植】【PIV】G. (Genro) (Echinops el asteracoj) de 
 ekip/ad/o⟦备ᴱ/行/o⟧:【PIV】Ago de ekipanto.
 eklektik/ul/o⟦折衷/者/o⟧:【PIV】Iu, kiu pensas au^ agas lau^ eklektika maniero.
 eklektik/ist/o⟦折衷/家/o⟧:【PIV】Iu, kiu konstruas teorion el eklektika pensmaniero.
-eklezi/an/ec/o⟦教ᴱ/员ᴬ/性/o⟧:【PIV】Aparteneco al eklezio (Vd konfesio).
+eklezi/an/ec/o⟦教ᴱ/员/性/o⟧:【PIV】Aparteneco al eklezio (Vd konfesio).
 ekonometrik/o:【PIV】Branc^o de ekonomiko, kiu konstruas modelojn per la metodo statistika por klarigi la funkciadon de ekonomio k testi hipotezojn.
 ekonomi/ig/i⟦经济/使/i⟧:【PIV】(tr (transitiva)) Igi tia, ke oni plej efike atingu la celojn: nian laboron k materialajn rimedojn ni devas nun reguligi, centrigi k ekonomiigi .
 ekran/um/i⟦屏/um/i⟧:【PIV】(tr (transitiva)) Provizi (mas^inon, lampon ktp (kaj tiel plu)) per ekrano.
@@ -47259,7 +47259,7 @@ enkliz/o⟦附ᴱ/o⟧:【語】【PIV】Kunfandig^o de morfemo kun la antau^a v
 enkliz/aj^/o⟦附ᴱ/物/o⟧:【PIV】Morfemo, kunfandig^anta kun la antau^a vorto (je en la unua k que en la dua ekz. (ekzemple)). Vd proklizo.
 enolog/o:【PIV】= vinologo.
 enoter/ac/oj⟦花ᴱ/科ᴬ/oj⟧:【PIV】= onagracoj.
-ensembl/an/o⟦套ᴱ/员ᴬ/o⟧:【PIV】Membro de ensemblo 1.
+ensembl/an/o⟦套ᴱ/员/o⟧:【PIV】Membro de ensemblo 1.
 ensifer/oj:【動】【PIV】Subordo (Ensifera) de insektoj el la ordo de ortopteroj, kun longaj, maldikaj antenoj k kies ino portas c^e la fino de abdomeno glavoforman organon de ovdemeto: griloj k glavsaltuloj estas ensiferoj. Vd keliferoj.
 entel/o⟦猴ᴱ/o⟧:【動】【PIV】Sp. (Specio) de presbito (Presbytis entellus), brunflava, kun nigraj vizag^o, manoj k piedoj, k kun longa vosto; la sankta simio de la hindoj. Sin. (sinonimo) hulmano.
 enteleki/o:【哲】【PIV】Lau^ Aristotelo, tiu aktiva principo de naturo, per kiu la materio estig^as el potencialo al aktuala perfekteco: animo estas la entelekio de korpo.
@@ -47420,7 +47420,7 @@ espart/i⟦茅/i⟧:【PIV】Plekti esparton.
 espart/ad/o⟦茅/行/o⟧:【PIV】Fabrikado de espartaj^oj.
 espart/aj^/o⟦茅/物/o⟧:【PIV】C^ia plektita laboraj^o el esparto, kiel s^nuro, mato, korbo ks (kaj simile, kaj similaj).
 esper/ebl/a⟦望/可/a⟧:【PIV】Povanta esti esperata: rapida resanigo estas esperebla en tiaj kazoj.
-esperant/an/o⟦esperant/员ᴬ/o⟧:【PIV】Aprobanto de Esperanto 2.
+esperant/an/o⟦esperant/员/o⟧:【PIV】Aprobanto de Esperanto 2.
 esplanad/o:【PIV】1 Libera spaco, apartiganta citadelon disde la urbo. 2 Vasta ebena loko antau^ monumentoj, por publika promenado.
 esplor/a⟦探/a⟧:【PIV】Rilata al esploroj: esplora rigardo , komitato, metodo.
 espoz/i⟦展ᴱˢ/i⟧:【PIV】= eksponi.
@@ -47598,7 +47598,7 @@ falus/a⟦阳具ᶠ/a⟧:【PIV】Havanta formon de faluso: falusa amanito (Aman
 falus/ec/a⟦阳具ᶠ/性/a⟧:【PIV】Havanta formon de faluso: falusa amanito (Amanita phalloides).
 falv/a:【PIV】Tre hele flava, preskau^ senkolora (pp (se paroli pri) bestoj).
 fam/eg/a⟦名ᶠ/巨/a⟧:【PIV】Treege fama.
-famili/an/ar/o⟦家ᶠ/员ᴬ/群/o⟧:【PIV】Tuto de la parencaro: grandnombra familianaro, kies c^iuj membroj rigardadis la rabenon kiel familiestron .
+famili/an/ar/o⟦家ᶠ/员/群/o⟧:【PIV】Tuto de la parencaro: grandnombra familianaro, kies c^iuj membroj rigardadis la rabenon kiel familiestron .
 familiar/aj^/oj⟦熟ᶠ/物/oj⟧:【PIV】Tro seng^enaj manieroj (ekz. (ekzemple) karesoj).
 fanariot/o:【史】【PIV】Membro de la greka alta klaso en Konstantinopolo, kiam Grekio estis sub la turka regado.
 fanatik/ig/i⟦狂ᶠᴺ/使/i⟧:【PIV】Fari, ke iu ig^u fanatika: liaj furiozaj paroladoj fanatikigis la amasojn.
@@ -48004,7 +48004,7 @@ frame/o:【史】【PIV】J^etlanco de la antikvaj Frankoj.
 franc/ig/i⟦franc/使/i⟧:【PIV】Doni al io francan karakteron: francigi modon, vorton.
 franc/ism/o⟦franc/主义/o⟧:【PIV】Apartaj^o de la franca lingvo.
 Franc/lingv/i/o:【PIV】Tuto de la teritorioj au^ medioj, en kiuj estas uzata la franca lingvo.
-francisk/an/ism/o⟦francisk/员ᴬ/主义/o⟧:【PIV】Tuto de la reguloj, ideoj k moroj de la franciskana ordeno.
+francisk/an/ism/o⟦francisk/员/主义/o⟧:【PIV】Tuto de la reguloj, ideoj k moroj de la franciskana ordeno.
 francium/o:【PIV】= francio.
 Franc-Jozef/a:【PIV】Nomepiteto de insularo en Arkta Oceano, oriente de Spicbergo (55E, 80°30′N).
 franc^/i:【PIV】= frandzi.
@@ -48732,7 +48732,7 @@ handspek/o:【PIV】Levstangego.
 Hanovri/o:【史】【PIV】Iama reg^olando, poste Prusa provinco c^irkau^ tiu urbo.
 Hanovr/an/o:【PIV】Log^anto de Hanovro.
 hans/a:【PIV】Rilata al hanso: la hansaj urboj; la hansa Ligo.
-hans/an/o⟦hans/员ᴬ/o⟧:【PIV】Ano de hanso.
+hans/an/o⟦hans/员/o⟧:【PIV】Ano de hanso.
 hant/i⟦缠ᴴ/i⟧:【PIV】(tr (transitiva)) Vizitadi (pp (se paroli pri) fantomo): hantata domo, kastelo; (f (figurasence)) tiu sceno hantas lian memoron. Vd fantomi, obsedi.
 haom/o:【宗】【PIV】Sankta trinkaj^o, preparita el la tigoj de iu specio de vegetaj^o kun aliaj ingrediencoj, k oferata en mazdaisma kulto.
 haor/o:【服】【PIV】Superkimono, pli mallonga ol la kimono, uzata por plivarmigo au^ en ceremonioj.
@@ -49068,7 +49068,7 @@ hirund/a⟦燕/a⟧:【PIV】Rilata al hirundo(j): hirunda nesto (salangannesto)
 hirund/ed/oj⟦燕/科ᴱ/oj⟧:【動】【PIV】Fam. (Familio) (Hirundinidae) de paseroformaj birdoj, al kiu apartenas i.a. (interalie, inter aliaj) la hirundoj.
 hiskiamin/o:【化】【PIV】Alkaloido el la nigra hiskiamo, C 17 H 23 NO 3. Sin. (sinonimo) hiosciamino.
 hispan/ism/o⟦hispan/主义/o⟧:【PIV】Apartaj^o de la hispana lingvo.
-hispan-amerik/an/a⟦hispan-amerik/员ᴬ/a⟧:【PIV】Rilata al la lingvo au^ civilizacio de la hispandevenaj regnoj en Ameriko.
+hispan-amerik/an/a⟦hispan-amerik/员/a⟧:【PIV】Rilata al la lingvo au^ civilizacio de la hispandevenaj regnoj en Ameriko.
 hispan/o/mau^r/a:【PIV】Rilata al la civilizacio au^ arto de mau^roj, log^intaj en Hispanio. Vd mozarabo, mudeh^aro.
 Hispaniol/o:【PIV】Unu el la grandaj Antiloj, entenanta la regnojn Haitio (okcidente) k Domingo (oriente).
 hist/a⟦织ᴴ/a⟧:【動】【PIV】Rilata al histo: hista animalo (histohava animalo; Sin. (sinonimo) metazoo, plurc^ela animalo).
@@ -49202,7 +49202,7 @@ hura!:【PIV】Interj. (Interjekcio) 1 de g^oja au^ aproba aklamo; 2 de batalins
 hurl/ad/o⟦嚎/行/o⟧:【PIV】Agado de hurlanto.
 huron/o:【PIV】Ano de unu el la kvar indianaj triboj de Ontario.
 Hus/o:【PIV】C^eh^a reformisto de katolikismo, ekzekutita lau^ koncilia decido (J. Hus, 1369−1415).
-hus/an/o⟦hus/员ᴬ/o⟧:【PIV】Ano de la Husa reformo.
+hus/an/o⟦hus/员/o⟧:【PIV】Ano de la Husa reformo.
 hus^!:【PIV】Interj, uzata por fortimigi malgrandajn bestojn (kortobirdojn, hundeton ktp (kaj tiel plu)). Vd fr! hot!
 hus^/i:【PIV】Eldiri tian interj-on (interjekcion).
 hu-u-u!⟦吓-u-u!⟧:【PIV】Onomatopeo, imitanta la bruon de la vento.
@@ -49250,7 +49250,7 @@ h^ondroste/oj:【PIV】= kondrosteoj.
 h^ondrostom/o⟦鱼ᴴ̂/o⟧:【PIV】= kondrostomo.
 h^or/a⟦合唱/a⟧:【PIV】Rilata al h^oro: h^ora kantado; h^oraj popolaj societoj.
 h^or/e⟦合唱/e⟧:【PIV】Kiel h^oro: h^ore bruu niaj kantoj por la karaj! .
-h^or/an/o⟦合唱/员ᴬ/o⟧:【PIV】Ano de h^oro 1.
+h^or/an/o⟦合唱/员/o⟧:【PIV】Ano de h^oro 1.
 h^or/ist/o⟦合唱/家/o⟧:【PIV】Ano de h^oro 3.
 h^oral/o:【楽】【PIV】Malrapida himno, unisone kantata, origine en luterana kulto: la h^oraloj de J.S. Bah^o.
 h^ord/o⟦脊索/o⟧:【動】【PIV】(chorda dorsalis) Kartilageca kordo, formanta la bazon por la spino c^e vertebruloj, ekzistanta ankau^ c^e kelkaj primitivaj animaloj. -> kordo.
@@ -49385,7 +49385,7 @@ indigozidaz/o:【化】【PIV】Enzimo, kiu malkomponas indigozidon.
 indik/a⟦指ᴵ/a⟧:【数】【PIV】Liveranta indikon: indika fosto, simptomo, indika funkcio de aro.
 indik/aj^/oj⟦指ᴵ/物/oj⟧:【法】【PIV】Konstatitaj faktoj, kiuj probabligas la realecon de la c^efa fakto k estus malfacile klarigeblaj per alia supozo: la pruvo per la indikaj^oj estas la plej malforta. Vd atestaj^oj, konfeso.
 indium/o⟦金ᴵᴹ/o⟧:【PIV】= indio.
-individu/ism/an/o⟦个/主义/员ᴬ/o⟧:【PIV】Partiano de individuismo.
+individu/ism/an/o⟦个/主义/员/o⟧:【PIV】Partiano de individuismo.
 Indoc^in/a:【PIV】Hindoc^inia.
 indol/o:【化】【PIV】Hetero-ducikla substanco, C 8 H 7 N, bazo de indigo k g^iaj derivaj^oj, k de la aminacido triptofano k g^iaj derivaj^oj. Vd skatolo ②.
 indri/o⟦猴ᴵ/o⟧:【動】【PIV】G. (Genro) (Indri) de prasimioj, vivantaj en Madagaskaro, kun malgranda, pinta kapo, malgrandaj oreloj k preskau^ sen vosto. Vd galago, lemuro, lorio, tarsio.
@@ -49561,9 +49561,9 @@ iskemi/o:【医】【PIV】Loka sangomanko. Vd infarkto.
 iski/a⟦坐骨/a⟧:【PIV】Rilata al iskio: iskia tubero; iskia nervo (N. ischiadicus, sciaticus; Sin. (sinonimo) iskiato).
 iskiat/o⟦坐神/o⟧:【解】【PIV】Grava miksa nervo, sendanta motorajn fibrojn al muskoloj de femuro, kruro k piedo, k ricevanta sensorajn fibrojn de la krura hau^to. Sin. (sinonimo) iskia nervo.
 iskiatalgi/o⟦坐神痛/o⟧:【医】【PIV】Sindromo, karakterizata precipe de tre vigla doloro lau^longe de la iskiato k g^iaj branc^oj: iskiatalgio povas rezulti de tre diversaj kau^zoj kiel ekz. (ekzemple) reu^mato, hernio de intervertebra disko, tuberkulozo, sifiliso k.a. (kaj aliaj).
-islam/an/ig/i⟦islam/员ᴬ/使/i⟧:【PIV】Konverti al Islamo, submeti al la Islamaj moroj.
+islam/an/ig/i⟦islam/员/使/i⟧:【PIV】Konverti al Islamo, submeti al la Islamaj moroj.
 Ismail/o:【PIV】Araba vira nomo, i.a. (interalie, inter aliaj) de s^ahoj, imamoj k.a. (kaj aliaj).
-ismail/an/o⟦ismail/员ᴬ/o⟧:【イスラム】【PIV】Ano de ekstrema s^ijaismo.
+ismail/an/o⟦ismail/员/o⟧:【イスラム】【PIV】Ano de ekstrema s^ijaismo.
 isolep/o⟦草ᴵᴼ/o⟧:【PIV】= izolepido.
 Israfil/o:【イスラム】【PIV】C^efang^elo, komisiita pri la resurekto.
 Iss/o:【史】【PIV】Antikva urbo en Cilicio, c^e kiu Aleksandro venkobatis Darion III-an (36°09′E, 36°53′N). = Is/o
@@ -49921,7 +49921,7 @@ kamizard/o:【史】【PIV】Ano de kalvinana ribelo en Cevenoj (1702−1710).
 Kamoens/o:【PIV】Portugala poeto, au^toro de «La Luzidoj» (L. de Camões, 1524−1580).
 kamp/a⟦田/a⟧:【PIV】Rilata al kampo.
 kamp/ad/ism/o⟦田/行/主义/o⟧:【PIV】Sporta maniero vivi k kus^i en libera aero.
-kamp/ar/an/a⟦田/群/员ᴬ/a⟧:【PIV】Rilata al kamparanoj: kamparana unuig^o, sindikato, kooperativo, komunumo.
+kamp/ar/an/a⟦田/群/员/a⟧:【PIV】Rilata al kamparanoj: kamparana unuig^o, sindikato, kooperativo, komunumo.
 kamp/ist/o⟦田/家/o⟧:【PIV】Kamparano: Esav farig^is lerta c^asisto, kampisto .
 kampan/o:【PIV】Log^anto de Kampanio.
 Kampuc^e/o:【PIV】= Kambog^o.
@@ -50098,7 +50098,7 @@ karism/o:【宗】【PIV】Aparta kapablo influi homojn, kiun la graco donas al 
 karite/o⟦木ᴷᵀ/o⟧:【植】【PIV】Falfolia arbo (el la unuspecia g. (genro) Vitellaria paradoxa el sapotacoj) hejma en N tropika Afriko; el la brunaj, oleoric^aj semoj oni ekstraktas grasan substancon (karitea butero) mang^eblan k uzatan kiel kosmetikaj^on.
 karj/o⟦山核桃/o⟧:【植】【PIV】G. (Genro) (Carya el juglandacoj) de falfoliaj, monoikaj arboj kun folioj, virseksaj amentoj k drupoj similaj al tiuj de juglando; 14 sp-oj (specioj) el C k NE Ameriko k E Azio, kelkaj kultivataj por mang^ebla drupo («nukso»), enhavanta bongustan, oleoric^an semon, au^ por blanka ligno, varmoformebla, uzata por farado de mebloj, tenisrakedoj, skioj ks (kaj simile, kaj similaj). Sin. (sinonimo) hikorio.
 karmanjol/o:【史】【PIV】Franca revolucia kanto k danco.
-karmel/an/in/o⟦karmel/员ᴬ/女/o⟧:【PIV】Anino de analoga ordeno por virinoj, fondita en la 15a jc (jarcento), reformita, kun aparte severaj reguloj, en la 16a, de Terezo el Avila.
+karmel/an/in/o⟦karmel/员/女/o⟧:【PIV】Anino de analoga ordeno por virinoj, fondita en la 15a jc (jarcento), reformita, kun aparte severaj reguloj, en la 16a, de Terezo el Avila.
 karminativ/a:【PIV】(ark. (arkaismo, arkaisme)) (pp (se paroli pri) medikamento) Estiganta elpelon de intestaj gasoj. -> furzi.
 karn/aj^/oj⟦肉ᴷ/物/oj⟧:【PIV】Nudaj partoj de pentritaj personoj.
 karn/ej/o⟦肉ᴷ/所/o⟧:【PIV】Putrejo.
@@ -50313,7 +50313,7 @@ kirl/ig^/o⟦涡/成/o⟧:【PIV】Farig^o de kirlo: estis vera kirlig^o de urba
 kirmes/o:【PIV】1 Rug^a tinkturo, devenanta el sp. de koc^ulo (Kermococcus vermilio), parazitanta sur kverkoj, precipe la kirmeskverko. 2 = kirmesito.
 kirmesit/o:【地質】【PIV】Mineralo, diantimonia oksido-disulfido (Sb 2 S 2 O), medicine pasintece uzata, sub formo de bruna pulvoro, pro antitusaj ecoj. Sin. (sinonimo) minerala kirmeso.
 kiromanci/o⟦手相/o⟧:【PIV】Au^gurado surbaze de la formo k la linioj de mano.
-kiromanci/an/o⟦手相/员ᴬ/o⟧:【PIV】Praktikanto de kiromancio.
+kiromanci/an/o⟦手相/员/o⟧:【PIV】Praktikanto de kiromancio.
 kiromanci/ist/o⟦手相/家/o⟧:【PIV】Praktikanto de kiromancio.
 Kiron/o:【PIV】Unu el la centau^roj, kiu edukis Ah^ilon.
 kironekt/o⟦兽ᴷᵀ/o⟧:【動】【PIV】G. (Genro) (Chironectes) de S-Amerikaj mamuloj el la ordo de marsupiuloj, fam. (familio) de didelfedoj, kun nag^hau^to inter la piedfingroj de la malantau^aj piedoj k kun parte skvamkovrita vosto.
@@ -50414,7 +50414,7 @@ kloak/pur/ig/a⟦沟ᴷ/纯/使/a⟧:【生態】【PIV】Karakterizanta instala
 Klodovald/o:【PIV】G^ermana vira nomo.
 Klodvig/o:【PIV】G^ermana vira nomo, i.a. (interalie, inter aliaj) de la reg^o de la Frankoj (466−511), kiu konvertig^is al kristanismo k pri kiu la franca naciismo kreis la miton de la «unua reg^o de Francujo».
 klon/aj^/o⟦klon/物/o⟧:【PIV】Individuo ricevita per klonado.
-klon/an/o⟦klon/员ᴬ/o⟧:【PIV】Individuo ricevita per klonado.
+klon/an/o⟦klon/员/o⟧:【PIV】Individuo ricevita per klonado.
 klon/ul/o⟦klon/者/o⟧:【PIV】Individuo ricevita per klonado.
 klonus/o:【生】【医】【PIV】Serio de mallongdau^raj rapidaj k senvolaj muskolaj kontrahig^oj, esence rolantaj en movig^oj. Vd tonio 1. -> klono.
 klorat/o⟦氯盐/o⟧:【化】【PIV】Salo de klorata acido, HClO 3: klorplatenato (salo de klorplatenata acido, H 2 PtCl 6).
@@ -50542,7 +50542,7 @@ kolerik/a⟦怒ᴷᴷ/a⟧:【医】【PIV】Apartenanta al unu el la kvar tempe
 kolerik/ul/o⟦怒ᴷᴷ/者/o⟧:【PIV】Homo jen melankolia, jen galhumora, kolerema k montranta dispozicion por digestaj k hepataj perturboj.
 kolesterin/o⟦胆醇ᴷᴺ/o⟧:【PIV】= kolesterolo (Vd (vidu) sterolo).
 Kolh^id/o:【PIV】= Kolc^ido.
-kolh^oz/an/o⟦农社/员ᴬ/o⟧:【PIV】Membro de kolh^ozo.
+kolh^oz/an/o⟦农社/员/o⟧:【PIV】Membro de kolh^ozo.
 kolibacil/o:【PIV】= kojlobacilo.
 kolibi/o⟦菌ᴷᴮ/o⟧:【植】【PIV】G. (Genro) (Collybia el marasmiacoj) de lamenohavaj ombrelfungoj kun kartilageca au^ fibra stipo sen ringo k sen stipingo, k kun sporaro rozeta au^ blanka; kosmopolita g. (genro) de c^. (c^irkau^) 70 sp-oj (specioj).
 kolikl/o:【解】【PIV】(colliculus) Iu ajn el la kvar rondaj elstaraj^oj pare situantaj sur la dorsa faco de la mezencefalo: supraj, malsupraj kolikloj.
@@ -50557,7 +50557,7 @@ kolokazi/o⟦草ᴷᶻ/o⟧:【植】【PIV】G. (Genro) (Colocasia el arumacoj)
 Koloman/o:【PIV】Vira nomo de skota origino, nun hungara, i.a. (interalie, inter aliaj) de Kaloc^ajo.
 kolomb/a⟦鸽/a⟧:【PIV】Rilata al kolombo: la maljunaj kolombaj patrinoj ; viaj okuloj estas kolombaj malantau^ via vualo ; kolombaj kisoj.
 kolomb/o/form/aj⟦鸽/o/形/aj⟧:【動】【PIV】Ordo de birdoj, al kiu apartenas la kolombedoj k kelkaj ekstermitaj specoj (Columbiformes).
-koloni/an/o⟦殖/员ᴬ/o⟧:【PIV】Ano de kolonio 4.
+koloni/an/o⟦殖/员/o⟧:【PIV】Ano de kolonio 4.
 kolor/oj⟦色/oj⟧:【PIV】1 Rubandoj, vestpartoj ktp (kaj tiel plu) kun apartaj koloroj k portataj kiel simbolo de aneco al partio, klubo ks (kaj simile, kaj similaj), k, mezepoke, de servado al damo: mi havu la rajton nomi min via kavaliro k porti viajn kolorojn ; vi devas alkudri al via mantelo flavajn ringojn au^ c^irkau^ligi vin per blustria skarpo, c^ar tio estas la koloroj de mia domo ; (f (figurasence)) homoj de c^iuj politikaj koloroj. 2 Distinga elekto de koloroj k de markoj, elektitaj de regno au^ alia komunumo k montritaj de ties flago: la naciaj koloroj; hisi, flirtigi siajn kolorojn.
 kolor/konserv/a⟦色/存ᴷ/a⟧:【PIV】Lumrezista.
 kolormetr/o⟦色计/o⟧:【PIV】Aparato por mezuri diversajn parametrojn de koloro, i.a. (interalie, inter aliaj) intenson, helon, puron, komponantojn.
@@ -50633,11 +50633,11 @@ komput/ist/o⟦算ᴷᴹ/家/o⟧:【PIV】1 Homo, kiu profesie okupig^as pri ko
 komput/o/pret/a⟦算ᴷᴹ/o/备/a⟧:【PIV】Prezentita en formo tau^ga por komputado, komputile legebla: komputopreta dokumento.
 komputor/o:【PIV】= komputilo.
 Komsomol/o:【史】【PIV】Organizaj^o de la Sovetia komunista junularo.
-komsomol/an/o⟦komsomol/员ᴬ/o⟧:【PIV】Ano de Komsomolo.
+komsomol/an/o⟦komsomol/员/o⟧:【PIV】Ano de Komsomolo.
 komtang/o:【PIV】Koredevena buljono el bovoostoj krura au^ kapa kun hau^to sen haroj, sen aliaj aldonaj^oj.
 komun/on/aj⟦共ᴷᴹ/分/aj⟧:【数】【PIV】(pp (se paroli pri) du nombroj) Havantaj racionalan kvocienton.
-komun/an/o⟦共ᴷᴹ/员ᴬ/o⟧:【史】【PIV】Ano de la Pariza revolucia Komun(um)o.
-komun/um/an/o⟦共ᴷᴹ/um/员ᴬ/o⟧:【史】【PIV】Ano de la Pariza revolucia Komun(um)o.
+komun/an/o⟦共ᴷᴹ/员/o⟧:【史】【PIV】Ano de la Pariza revolucia Komun(um)o.
+komun/um/an/o⟦共ᴷᴹ/um/员/o⟧:【史】【PIV】Ano de la Pariza revolucia Komun(um)o.
 komuni/help/ant/o⟦圣餐/助/在/o⟧:【PIV】Akolito au^ kredanto, komisiita de la episkopo por helpi al la ordinara komunianto en disdono de la eu^karistio.
 komunik/a⟦传/a⟧:【PIV】Rilata al komunikado: komunika vojo, linio.
 komut/a⟦换/a⟧:【数】【PIV】(pp (se paroli pri) duloka operacio) Tia, ke du ajnaj elementoj estas komuteblaj.
@@ -51330,7 +51330,7 @@ lav/o⟦洗/o⟧:【PIV】lavado
 lav/ist/in/o⟦洗/家/女/o⟧:【PIV】Persono, kies metio estas lavadi, k ankau^ ordinare gladi, la tolaj^ojn: c^ina lavisto.
 lavandul/o⟦草ᴸⱽ/o⟧:【植】【PIV】Lavendo.
 lavsoni/o⟦木ᴸⱽ/o⟧:【植】【PIV】G. (Genro) (Lawsonia el litrumacoj) de nur unu sp. (L. inermis), trunkarbusto hejma en N Afriko k la tropika Malnova Mondo, kultivata por ornamaj apeksaj grapoloj el odoraj, blankaj au^ rozetaj floroj, k por produktado de henao el la sekigitaj k pulvorigitaj folioj. Sin. (sinonimo) henaarbusto. see kofero.
-lazar/an/o⟦lazar/员ᴬ/o⟧:【PIV】Ano de iu ordeno de misiistoj. -> Eliezero.
+lazar/an/o⟦lazar/员/o⟧:【PIV】Ano de iu ordeno de misiistoj. -> Eliezero.
 lazar/ist/o⟦lazar/家/o⟧:【PIV】Ano de iu ordeno de misiistoj. -> Eliezero.
 lazaron/o:【PIV】Mallaboremulo, vivanta c^efe de almozpetado.
 le/o⟦背风/o⟧:【PIV】Tiu flanko de s^ipo, kiu estas s^irmita kontrau^ la vento.
@@ -51672,10 +51672,10 @@ makabr/a:【PIV】(pp (se paroli pri) sceno 3, etoso, s^erco k.a. (kaj aliaj)) E
 makaon/o⟦虫ᴹᴷ/o⟧:【動】【PIV】Sp. (Specio) de papiliono (Papilio machaon) kun sulfurkoloraj flugiloj kun nigraj makuloj k vejnoj, kun blua rubando k rustkolora makulo sur la postaj flugiloj; g^i vivas en Eu^ropo k N Afriko. Sin. (sinonimo) hirundvostulo, hirundvosta papilio.
 Makaronezi/o:【生態】【PIV】Biogeografia regiono, konsistanta el Acoroj, Madejro k Kanarioj.
 makaroni/oj⟦管面/oj⟧:【PIV】Pastaj^oj el tritika faruno, muldita en formo de pli-malpli longaj au^ dikaj tuboj, glataj au^ sulketitaj: gratenitaj, bakitaj makaronioj. Vd nudeloj, pastaj^o.
-makedon/i/an/o⟦makedon/i/员ᴬ/o⟧:【PIV】Civitano de Makedonio 2.
+makedon/i/an/o⟦makedon/i/员/o⟧:【PIV】Civitano de Makedonio 2.
 makeri/o⟦木ᴹᴷ/o⟧:【植】【PIV】G. (Genro) (Machaerium el fabacoj) de lianoj k kelkaj arboj, c^i tiuj uzataj por palisandro; c^. (c^irkau^) 120 sp-oj (specioj), precipe el tropika Ameriko.
 maket/o:【PIV】1 Malgranda modelo, el vakso, argilo k.a. (kaj aliaj), de skulptaj^o. 2 Reprodukto, je malgrandigita skalo, de aparato, konstruaj^o, dekoracio ks (kaj simile, kaj similaj).
-makis/an/o⟦丛ᴹ/员ᴬ/o⟧:【PIV】Partizano, aganta en makiso 3.
+makis/an/o⟦丛ᴹ/员/o⟧:【PIV】Partizano, aganta en makiso 3.
 makram/o:【服】【PIV】Ornama punto el noditaj s^nuroj.
 makro/⟦宏ᴹ/⟧:【PIV】Pref. (Prefikso), montranta: 1 grandegecon au^ grandskalecon: makromolekulo, makrokosmo, makroanalizo, makrofotado. 2【生】【地質】 (precipe ) ion nudokule videblan (makroskopan): makrofau^no, makroorganismo. Vd mikro/.
 makrobiotik/o:【PIV】Azidevena, speciala vivomaniero k dietsistemo, precipe bazita sur legomoj k grenoj, sen kemiaj aldonaj^oj, k klasifikanta nutraj^ojn lau^ la principoj de jino k jango.
@@ -52390,7 +52390,7 @@ nektari/o:【植】【PIV】Nektarujo.
 nektarin/o:【PIV】Glathau^ta persiko kun fandig^anta karno ne adhera al la kerno. Vd brunjono.
 nekton/o⟦自游/o⟧:【生態】【PIV】Tuto de la pelagaj vivuloj aktive nag^antaj, sendependaj de la akvofluoj. Vd planktono.
 nekton/a⟦自游/a⟧:【PIV】Rilata al nektono.
-nekton/an/o⟦自游/员ᴬ/o⟧:【PIV】Nektona vivulo.
+nekton/an/o⟦自游/员/o⟧:【PIV】Nektona vivulo.
 nekton/ul/o⟦自游/者/o⟧:【PIV】Nektona vivulo.
 nelg/e⟦不长/e⟧:【PIV】Antau^ nelonge: en la tombejo, nelge, vi parolis kun oldulineto. Vd j^us.
 nelg/a⟦不长/a⟧:【PIV】Okazinta nelge.
@@ -52440,8 +52440,8 @@ Nes/o:【PIV】Centau^ro, kiu provis forporti Dejaniran, k kies venenita tuniko 
 nest/ac^/o⟦巢/劣/o⟧:【PIV】Malric^a, senkomforta log^ejeto: alta, nuda k malvarma nestac^o, kiu estis s^ia log^ejo .
 Nestor/o:【PIV】Vira nomo, i.a. (interalie, inter aliaj) de Homera heroo, personiganta profundag^an sag^on.
 Nestori/o:【キ】【PIV】Vira nomo, i.a. (interalie, inter aliaj) de Konstantinopola patriarko.
-nestori/an/o⟦nestori/员ᴬ/o⟧:【PIV】Ano de la doktrino de Nestorio, lau^ kiu la du naturoj de Kristo estas apartigitaj.
-nestori/an/ism/o⟦nestori/员ᴬ/主义/o⟧:【PIV】Tiu doktrino, kondamnita kiel hereza, sed vaste disvastig^inta en Oriento.
+nestori/an/o⟦nestori/员/o⟧:【PIV】Ano de la doktrino de Nestorio, lau^ kiu la du naturoj de Kristo estas apartigitaj.
+nestori/an/ism/o⟦nestori/员/主义/o⟧:【PIV】Tiu doktrino, kondamnita kiel hereza, sed vaste disvastig^inta en Oriento.
 nett/e:【PIV】Nete 3, pp (se paroli pri) pezo.
 neu^m/o:【楽】【PIV】Plejnkanta signo, montranta noton au^ notgrupon unusilabe kantotan.
 neu^r/o⟦神经ᴺᵁ̆/o⟧:【生】【PIV】Nervo, nerva histo (en kunmetaj^oj).
@@ -52779,7 +52779,7 @@ orangutan/o⟦猴ᴼ/o⟧:【動】【PIV】Sp. (Specio) (Pongo pygmaeus) de gra
 orang^/a⟦橙/a⟧:【PIV】1 Konsistanta el orang^o(j): orang^a siropo, marmelado. 2 Rug^e flava: orang^a rubando.
 Orang^i/o:【史】【PIV】Provinco de Sud-Afriko (26°E, 29°S).
 oratori/o⟦清唱剧/o⟧:【楽】【PIV】Verko, kutime religia, analoga al opero, sed sen agado, scenaj^o k kostumoj.
-oratori/an/o⟦清唱剧/员ᴬ/o⟧:【PIV】Pastro, apartenanta al tiu kongregacio.
+oratori/an/o⟦清唱剧/员/o⟧:【PIV】Pastro, apartenanta al tiu kongregacio.
 orbikul/o:【解】【PIV】Nomo de cirklaj muskoloj: orbikula muskolo de bus^o (M. orbicularis oris) , de okulo.
 orbit/a⟦轨ᴼ/a⟧:【PIV】Rilata al la orbito.
 orbit/ig/i⟦轨ᴼ/使/i⟧:【PIV】Rivoluigi en orbito c^irkau^.
@@ -53082,7 +53082,7 @@ Parnas/an/o:【PIV】Membro de tiu skolo.
 Parnas/ism/o:【PIV】Tendenco en la E-literaturo, kies majstroj estis Kaloc^ajo k Varengjeno, au^toroj de « Parnasa Gvidlibro».
 parodi/a⟦戏仿/a⟧:【PIV】Rilata al parodio.
 paroh^/a⟦堂区ᴾᴴ̂/a⟧:【PIV】Rilata al paroh^o: paroh^a gazeto, kermeso.
-paroh^/an/o⟦堂区ᴾᴴ̂/员ᴬ/o⟧:【PIV】Membro de paroh^o.
+paroh^/an/o⟦堂区ᴾᴴ̂/员/o⟧:【PIV】Membro de paroh^o.
 paroh^/estr/o⟦堂区ᴾᴴ̂/长ᴱ/o⟧:【PIV】Pastro, kiu gvidas paroh^on. Vd vikario.
 paroh^/estr/ej/o⟦堂区ᴾᴴ̂/长ᴱ/所/o⟧:【PIV】Domo, en kiu log^as la paroh^estro.
 paroh^/ism/o⟦堂区ᴾᴴ̂/主义/o⟧:【PIV】(f (figurasence)) Mallarg^a pensmaniero, influata nur de la interesoj de malvasta regiono.
@@ -53102,8 +53102,8 @@ part/ig^/o⟦部/成/o⟧:【PIV】Statos^ang^o de io, kio estig^as en partojn: 
 parteni/o⟦菊ᴾᴺ/o⟧:【植】【PIV】Sp. (Specio) de tanaceto (Tanacetum parthenium) el SE Eu^ropo k SU Azio, unu el la kamomiloj 2.
 partenocis/o⟦草ᴾᴬᴿᵀ/o⟧:【植】【PIV】G. (Genro) (Parthenocissus el vitacoj) de grimpaj lianoj au^ de arbustoj parencaj al ampelopso, sed kun c^iroj plume branc^aj k ofte finig^antaj per alfiksig^aj disketoj; 10 sp-oj (specioj) el Azio k N Ameriko, kelkaj pororname kultivataj.
 partenogenez/o:【生】【PIV】Reproduktig^o el nefekundigita inseksa gameto: partenogenezo okazas c^e animaloj (ekz. (ekzemple) rotaciuloj, afidoj, fasmuloj, iuj fis^oj, iuj lacertoj) k vegetaj^oj (ekz. (ekzemple) iuj algoj, iuj fungoj, iuj semplantoj).
-parti/an/ec/o⟦党/员ᴬ/性/o⟧:【PIV】Stato de iu, kiu estas membro de partio.
-parti/an/ig^/i⟦党/员ᴬ/成/i⟧:【PIV】Ig^i ies partiano: partianig^i en disputo.
+parti/an/ec/o⟦党/员/性/o⟧:【PIV】Stato de iu, kiu estas membro de partio.
+parti/an/ig^/i⟦党/员/成/i⟧:【PIV】Ig^i ies partiano: partianig^i en disputo.
 partikular/aj^/o⟦私ᴾᵀ/物/o⟧:【PIV】Partikulara detalo.
 partitiv/a:【語】【PIV】Esprimanta parton el tutaj^o au^ kolektivo: partitiva artikolo (en la franca lingvo); partitiva genitivo (en la rusa); partitiva prepozicio (da en E.).
 paru/ed/oj⟦鸟ᴾ/科ᴱ/oj⟧:【動】【PIV】Fam. (Familio) (Paridae) de paseroformaj birdoj, al kiu apartenas i.a. (interalie, inter aliaj) la paruoj.
@@ -53195,11 +53195,11 @@ pel/ad/i⟦驱/行/i⟧:【PIV】Ripete peli: li peladis sin kun strataj buboj s
 pel/ad/o⟦驱/行/o⟧:【PIV】Ago de tiu, kiu pelas: li estis okupita nur de la pelado de tiuj vagemaj s^afoj; la strato bolis per vivo k pelado ; s^i decidis en ia maniero meti finon al tiu terura pelado .
 pelag/o⟦浮ᴾ/o⟧:【生態】【PIV】Vivularo de la akvomaso de maro au^ de lago, sed ne de ties fundo. Vd bento, nektono, planktono.
 pelag/a⟦浮ᴾ/a⟧:【PIV】Rilata al pelago: pelaga fau^no, flau^ro; pelaga biotopo.
-pelag/an/o⟦浮ᴾ/员ᴬ/o⟧:【PIV】Pelaga vivulo.
+pelag/an/o⟦浮ᴾ/员/o⟧:【PIV】Pelaga vivulo.
 pelag/ul/o⟦浮ᴾ/者/o⟧:【PIV】Pelaga vivulo.
 Pelagi/o:【PIV】Teologo, kiu emfazis, ke la Dia graco neniel forprenas la homan respondecon (Pelagius, c^. (c^irkau^) 360 − c^. (c^irkau^) 422).
 pelagi/ism/o⟦pelagi/主义/o⟧:【キ】【PIV】Doktrino de Pelagio, deklarita hereza.
-pelagi/an/ism/o⟦pelagi/员ᴬ/主义/o⟧:【キ】【PIV】Doktrino de Pelagio, deklarita hereza.
+pelagi/an/ism/o⟦pelagi/员/主义/o⟧:【キ】【PIV】Doktrino de Pelagio, deklarita hereza.
 pelagr/o:【医】【PIV】Afekcio pro manko de vitamino PP, karakterizata de hau^taj, nervaj k digestaj perturboj: antipelagra vitamino (vitamino PP).
 Pele/o:【PIV】Reg^o, edzo de Tetiso.
 Pele/id/o:【PIV】Kromnomo de Ah^ilo.
@@ -53511,7 +53511,7 @@ pland/a⟦足底/a⟧:【PIV】Rilata al la plando: planda doloro, veruko.
 pland/ul/o⟦足底/者/o⟧:【動】【PIV】Animalo, kiu mars^as sur la plando, ekz. (ekzemple) homo, urso.
 planetari/o:【PIV】Konstruaj^o enhavanta aparaton, kiu projekcias al interno de duonsfero bildojn de Suno, luno, planedoj k de la steloj por demonstracii la orbitojn de tiuj c^ielaj korpoj.
 planimetr/o⟦平计/o⟧:【技】【数】【PIV】Instrumento por mezuri areojn en desegnaj^o.
-plankton/an/o⟦浮游/员ᴬ/o⟧:【PIV】Planktona vivulo.
+plankton/an/o⟦浮游/员/o⟧:【PIV】Planktona vivulo.
 plankton/ul/o⟦浮游/者/o⟧:【PIV】Planktona vivulo.
 plant/it/aj^/o⟦植/受/物/o⟧:【PIV】Juna planto, fres^e plantita, au^ tau^ga por esti plantita: vita plantaj^o; (f (figurasence)) Jehuda estas lia plej amata plantaj^o .
 plant/il/o⟦植/具/o⟧:【PIV】Ilo kurba k pinta, uzata por formi la truon, en kiu oni plantos.
@@ -53802,7 +53802,7 @@ presuriz/il/o⟦压ᴾˢ/具/o⟧:【PIV】Sistemo por presurizi.
 preterici/o:【PIV】Retorika figuro, konsistanta en la reliefigo de temo per la s^ajna anonco, ke oni ne pritraktos g^in; ekz. (ekzemple): «mi ne volas insisti pri la meritoj de tiu homo, kiu… k kiu… ktp (kaj tiel plu) ».
 pretor/o⟦法官/o⟧:【史】【PIV】C^e la Romanoj, c^iu neelektita altranga oficisto, kiu helpis la konsulojn, precipe en la administrado de la jug^ado.
 pretor/a⟦法官/a⟧:【PIV】Rilata al pretoroj: la pretora juro; pretora gvardio.
-pretor/an/o⟦法官/员ᴬ/o⟧:【PIV】Unu el la korpogardistoj de pretoro, poste de la imperiestro.
+pretor/an/o⟦法官/员/o⟧:【PIV】Unu el la korpogardistoj de pretoro, poste de la imperiestro.
 pretor/ec/o⟦法官/性/o⟧:【PIV】Stato de pretoro: akiri la pretorecon.
 pretor/ej/o⟦法官/所/o⟧:【PIV】Tendo au^ loko, kie la pretoroj jug^is.
 prevent/a⟦防ᴾ/a⟧:【PIV】Tia, ke g^i preventas: preventa kuracmetodo, preventa medicino (celanta malhelpi la aperon de malsano).
@@ -54230,7 +54230,7 @@ reciprok/o⟦互/o⟧:【PIV】(pp (se paroli pri) nombro) = la inversa nombro.
 recit/o⟦再引/o⟧:【PIV】Ago reciti.
 recit/ad/o⟦再引/行/o⟧:【PIV】Ago reciti.
 recit/aj^/o⟦再引/物/o⟧:【PIV】Teksto por recito.
-redakci/an/o⟦部ᴿ/员ᴬ/o⟧:【PIV】Homo laboranta en redakcio: ankau^ la fotistoj estas redakcianoj .
+redakci/an/o⟦部ᴿ/员/o⟧:【PIV】Homo laboranta en redakcio: ankau^ la fotistoj estas redakcianoj .
 redakt/o⟦编ᴿ/o⟧:【PIV】Ago de tiu, kiu redaktas: verkoj, kiuj aperis sub mia redaktado k portis la surskribon «Kolekto Aprobita de L.L.Z.» ; komisii al iu la redaktadon de memuaro.
 redaktor/i⟦编ᴿᴿ/i⟧:【PIV】Labori kiel redaktoro. Sin. (sinonimo) redakti 2.
 redempt/i:【キ】【PIV】(tr (transitiva)) Elac^eti ies pekojn.
@@ -55182,7 +55182,7 @@ Socin/ism/o:【キ】【PIV】Movado, fondita de Socinanoj, el kiu en la 19a jc 
 Socin/an/ism/o:【キ】【PIV】Movado, fondita de Socinanoj, el kiu en la 19a jc (jarcento) originis la unitariismo.
 sodoku/o:【医】【PIV】Infekta malsano, estigata de ratmordoj, komuna en C^inio k Japanio k kau^zata de la spiroketo Spirillum minus.
 Sodom/an/o:【PIV】Log^anto de Sodomo.
-sodomi/an/o⟦肛交/员ᴬ/o⟧:【PIV】Praktikanto de sodomio.
+sodomi/an/o⟦肛交/员/o⟧:【PIV】Praktikanto de sodomio.
 sodomi/ant/o⟦肛交/在/o⟧:【PIV】Praktikanto de sodomio.
 sofist/ik/o⟦sofist/学ᴵ/o⟧:【PIV】La arto de la sofistoj 1.
 sofit/o:【建】【PIV】Malsupra faco de elstara arkitektura elemento: sofito de kornico, balkono, arko.
@@ -55729,7 +55729,7 @@ s^ik/i⟦雅ˢ̂/i⟧:【PIV】Aspekti s^ika: Paula s^ikas K.
 s^ik/o⟦雅ˢ̂/o⟧:【PIV】Tuto de la ecoj k manifestig^oj de tio, kio estas s^ika: la pariza s^iko.
 s^im/ig/i⟦霉/使/i⟧:【PIV】Fari, ke io s^imu: s^imigi fromag^on en speciala kelo.
 s^ink/et/o⟦火腿/小/o⟧:【PIV】Salita k fumaj^ita subgenuaj^o de porko.
-s^into/an/o⟦神道/员ᴬ/o⟧:【PIV】Ano de tiu religio.
+s^into/an/o⟦神道/员/o⟧:【PIV】Ano de tiu religio.
 s^iokar/o:【PIV】Entreo el salitaj frajo, tripoj, fis^pecetoj k sepio.
 s^ir/o⟦裂/o⟧:【PIV】s^irado / s^iraj^o. Tiu parto de io, kiu estis s^irita: fliki la s^irojn de pantalono.
 s^ir/ad/o⟦裂/行/o⟧:【PIV】Ago s^iri; dau^ra au^ ripeta s^iro.
@@ -56060,7 +56060,7 @@ tensimetr/o⟦压计ᵀ/o⟧:【医】【PIV】Aparato por mezuri tension: arter
 tensimetri/o⟦压测/o⟧:【医】【PIV】Mezuro de diversaj tensioj: vejna tensimetrio.
 tent/ig^/o⟦诱/成/o⟧:【PIV】Stato de iu, kiu estas tentata: la tentig^o de Evo.
 tenur/o⟦封ᵀ/o⟧:【史】【PIV】Unu el la tri formoj de Mezepoka proprieto: bieno, kies fruktuzo estas koncedita al servutulo au^ farmanto k kiu estas s^arg^ita per feu^daj impostoj. Vd alodo, feu^do.
-tenur/an/o⟦封ᵀ/员ᴬ/o⟧:【PIV】Tiu, kiu prilaboras tenuron. Vd vasalo.
+tenur/an/o⟦封ᵀ/员/o⟧:【PIV】Tiu, kiu prilaboras tenuron. Vd vasalo.
 teobrom/o⟦木ᵀᴮ/o⟧:【植】【PIV】G. (Genro) (Theobroma, sin. (sinonimo (de latinscienca nomo)) Cacao, el sterkuliacoj) de arboj k trunkarbustoj kun floroj kreskantaj senpere sur la trunko au^ branc^oj k kun fruktoj (kapsuloj) pinte ovoidaj, lignecs^elaj, kies 5 kameroj enhavas semojn po pluraj; 20 sp-oj (specioj) el tropika Ameriko, kelkaj (precipe T. cacao) kultivataj en tropikaj landoj por semoj uzataj en la fabrikado de c^okolado. Sin. (sinonimo) kakaoarbo.
 teobromin/o:【化】【PIV】Alkaloido, C 7 H 8 O 2 N 4, trovig^anta precipe en kakao, kune kun kafeino k teofilino.
 Teodice/o:【PIV】Metafizika verko de Lejbnico, pri la rilatoj inter la justeco de Dio k la ekzisto de la malbono.
@@ -56417,7 +56417,7 @@ triad/o:【楽】【PIV】Trinota akordo kun radiko, trito k kvinto: la tonika t
 triakontan/o:【化】【PIV】Saturita hidrokarbono, C 30 H 62.
 tribadism/o:【PIV】(ark. (arkaismo, arkaisme)) = sapfismo.
 tribometri/o:【PIV】Tiu parto de la fiziko, kiu esploras k kalkulas la frotfortojn, k ties efikojn.
-tribord/an/oj⟦右边/员ᴬ/oj⟧:【PIV】S^ipanoj, kiuj apartenas al la triborda dej^oro.
+tribord/an/oj⟦右边/员/oj⟧:【PIV】S^ipanoj, kiuj apartenas al la triborda dej^oro.
 tribrak/o:【PIV】Verspiedo, konsistanta el tri mallongaj silaboj.
 tribunus/o⟦官ᵀ/o⟧:【史】【PIV】1 C^iu el la du (origine) g^is dek (lastatempe) Romaj oficistoj, elektitaj de la plebo, por defendi ties rajtojn k liberecon kontrau^ la senato k la konsuloj (pleba tribunuso). 2 Alta oficiro (milita tribunuso).
 tribunus/a⟦官ᵀ/a⟧:【PIV】Rilata al la tribunusoj 1: la tribunusa povo (de nearestebleco) farig^is la bazo de la imperiestra au^toritato.
@@ -56605,7 +56605,7 @@ ung/ost/o⟦爪/骨/o⟧:【PIV】= lakrimalo.
 ungol/o:【植】【PIV】Mallarg^a, limboportanta parto de petalo au^ sepalo.
 unikorn/o:【PIV】Unukornulo 1.
 unitari/a⟦一神/a⟧:【キ】【PIV】Apartenanta al tiu skolo de kristanismo, kiu emfazas la unuecon de Dio.
-unitari/an/o⟦一神/员ᴬ/o⟧:【PIV】Ano de tiu skolo: la unitarianoj konsideras la doktrinon pri la Triunuo kiel herezaj^on.
+unitari/an/o⟦一神/员/o⟧:【PIV】Ano de tiu skolo: la unitarianoj konsideras la doktrinon pri la Triunuo kiel herezaj^on.
 unitari/ism/o⟦一神/主义/o⟧:【PIV】La doktrino de tiu skolo. Vd Socino.
 unkt/i:【キ】【PIV】(tr (transitiva)) Sanktolei: papo lin unktis .
 unu/obl/e⟦一/倍/e⟧:【PIV】Multiplikite per unu: unuoble du estas du.
@@ -56629,10 +56629,10 @@ Ural/a:【PIV】1 Rilata al Uralo: la Urala regiono estas unu el la c^efaj indus
 uranil/o:【化】【PIV】La jono UO 2 ^2− au^ la radiko UO 2 ≺: uranila klorido.
 uraninit/o:【地質】【PIV】Mineralo bruna au^ nigra, tre densa, kuba urania oksido, UO 2 (parte oksidita, i.a. (interalie, inter aliaj) al UO 3), la plej grava k ric^a el la ercoj de uranio. Sin. (sinonimo) pec^erco.
 uranism/o:【PIV】(ark. (arkaismo, arkaisme)) Vira samseksemo.
-urb/an/ec/o⟦市/员ᴬ/性/o⟧:【PIV】Eco de urbano; (ss (striktasence)) g^entileco propra al urbanoj.
-urb/an/iz/i⟦市/员ᴬ/化/i⟧:【PIV】(tr (transitiva)) Fari urbon el log^regiono, provizante g^in per akvo, elektro, gaso, difinante la zonojn por konstruado k por parkoj, pretigante la trafikvojojn ktp (kaj tiel plu).
-urb/an/iz/ad/o⟦市/员ᴬ/化/行/o⟧:【PIV】Tia entrepreno: sindikato por la urbanizado de la Baleara marbordo.
-urb/an/iz/ist/o⟦市/员ᴬ/化/家/o⟧:【PIV】Arkitekto, specialigita en la urbanizado.
+urb/an/ec/o⟦市/员/性/o⟧:【PIV】Eco de urbano; (ss (striktasence)) g^entileco propra al urbanoj.
+urb/an/iz/i⟦市/员/化/i⟧:【PIV】(tr (transitiva)) Fari urbon el log^regiono, provizante g^in per akvo, elektro, gaso, difinante la zonojn por konstruado k por parkoj, pretigante la trafikvojojn ktp (kaj tiel plu).
+urb/an/iz/ad/o⟦市/员/化/行/o⟧:【PIV】Tia entrepreno: sindikato por la urbanizado de la Baleara marbordo.
+urb/an/iz/ist/o⟦市/员/化/家/o⟧:【PIV】Arkitekto, specialigita en la urbanizado.
 ureaz/o:【化】【PIV】Enzimo de iuj bakterioj, kiu malkomponas ureon al karbondioksido k amoniako.
 ureemi/o⟦尿素血/o⟧:【生】【PIV】Enesto de ureo en la sango, uzata por taksi uremion.
 ured/o⟦锈ᵁ/o⟧:【植】【PIV】1 Eksa formgenro (Uredo), nomenklature ne legitima. 2 Grupo de neperfektaj uredaloj, karakterizataj de uredujo produktanta uredosporojn; precipe tropika grupo de c^. (c^irkau^) 500 sp-oj (specioj).
@@ -56968,7 +56968,7 @@ voltametr/o:【電】【PIV】Aparato por mezuri la kvanton de elektro per la kv
 volte/o:【PIV】Rondira turno, kiun rajdanto trudas al sia c^evalo.
 Volter/a:【PIV】1 Rilata al Voltero: la Volteraj noveloj. 2 (min. (minuskle)) Vigla k pikanta: voltera stilo, ironio.
 Volter/an/o:【PIV】Tiu, kiu sekvas la vojon de Voltero, k montras ironian dubon pri kristanismo k konservativismo: tiel arang^is jam Dio mem, k la Volteranoj vane kontrau^ tio c^i parolas .
-volter/an/ism/o⟦volter/员ᴬ/主义/o⟧:【PIV】Sprita, ofte supraj^a kritiko de la religiaj tradicioj.
+volter/an/ism/o⟦volter/员/主义/o⟧:【PIV】Sprita, ofte supraj^a kritiko de la religiaj tradicioj.
 volupt/ig/i⟦色ⱽ/使/i⟧:【PIV】Havigi volupton: min voluptigos vice inar' senstrika B.
 volupt/avid/a⟦色ⱽ/贪/a⟧:【PIV】Amanta la volupton: voluptama temperamento; via voluptavida brusto .
 volv/a⟦卷/a⟧:【PIV】Rilata al volvo(j): volva movo, linio.
@@ -57161,7 +57161,7 @@ Kajafas:【聖】【PIV】C^efpastro, kiu influis, por ke la Sinedrio kondamnu J
 kalend/oj⟦初一/oj⟧:【PIV】Nomo de la unua tago de la monato c^e la Romanoj: formeti g^is la grekaj kalendoj Z (prokrasti la aferon g^is la tago de sankta Neniamo: ne ekzistis kalendoj en la greka kalendaro). Vd j^au^do.
 Kaleval/a:【文】【PIV】La finna epopeo.
 kancelari/ul/o⟦办公/者/o⟧:【PIV】Z. Oficisto de kancelario.
-kanti/an/ism/o⟦kanti/员ᴬ/主义/o⟧:【PIV】Doktrino de Kantio, kiu starigas la bazojn de kritiko de la homa racio.
+kanti/an/ism/o⟦kanti/员/主义/o⟧:【PIV】Doktrino de Kantio, kiu starigas la bazojn de kritiko de la homa racio.
 dis/karn/ig/i⟦散/肉ᴷ/使/i⟧:【PIV】Z 1 S^iri ies karnon: sebo de besto diskarnita.
 ##重複語kartus^/o:【考古】【PIV】1 Kadro, kun rondaj finoj, entenanta la hieroglifajn nomojn k titolojn de la egiptaj reg^oj.
 katekumen/o:【キ】【PIV】En la protoeklezio: disc^iplo, kiu estis instruata por ricevi la bapton; nun en la evangelia eklezio: konfirmacioto, kiu lernas precipe kateh^ismon. Vd neofito.
@@ -58156,7 +58156,7 @@ vir/ekip/i⟦男/备ᴱ/i⟧:【PIV】Provizi s^ipon per s^ipanoj.
 ekster/eklezi/a⟦外ᴱ/教ᴱ/a⟧:【PIV】Ne rilata, ne apartenanta al eklezio. Vd civila, laika, profana, sekulara.
 pra/eklezi/o⟦原/教ᴱ/o⟧:【キ】【PIV】La unua kristana komunumo en Jerusalemo.
 proto/eklezi/o⟦原ᴾᵀ/教ᴱ/o⟧:【PIV】Eklezio de la unuaj jc (jarcento).
-sam/eklezi/an/o⟦同/教ᴱ/员ᴬ/o⟧:【PIV】Ano de la sama eklezio.
+sam/eklezi/an/o⟦同/教ᴱ/员/o⟧:【PIV】Ano de la sama eklezio.
 pale/o/ekolog/o⟦古ᴾᴬ/o/境学家/o⟧:【生態】【PIV】Specialisto pri paleo ekologio.
 pale/o/ekologi/o⟦古ᴾᴬ/o/态ᴱ/o⟧:【PIV】Ekologio de la biosfero en la pasinteco, ekde la apero de la vivo sur Tero.
 radi/o/ekologi/o⟦射ᴿ/o/态ᴱ/o⟧:【生態】【PIV】Scienco pri la efikoj de la jonigaj radiadoj al la ekosistemoj, i.a. (interalie, inter aliaj) pri la radioaktiva poluado.
@@ -58295,7 +58295,7 @@ mal/fals/a⟦反/伪/a⟧:【PIV】Au^tentika, vera.
 grand/fam/a⟦大/名ᶠ/a⟧:【PIV】G^uanta grandan famon: oni ne demandas, c^u li estas homo grand fama au^ ne .
 mal/bon/fam/a⟦反/良/名ᶠ/a⟧:【PIV】G^uanta malfavoran famon.
 mis/fam/o⟦误/名ᶠ/o⟧:【PIV】Maljuste diskonigita famo pri iu.
-sam/famili/an/o⟦同/家ᶠ/员ᴬ/o⟧:【PIV】Membro de la sama familio.
+sam/famili/an/o⟦同/家ᶠ/员/o⟧:【PIV】Membro de la sama familio.
 sub/famili/o⟦下/家ᶠ/o⟧:【生】【PIV】Sistematika unuo (subfamilia) ampleksanta tre parencajn genrojn de la sama familio, montrata en zoologio per la suf. (sufikso) en, en botaniko per la suf. (sufikso) oide: subfamilio de malusoideoj, de lutrenoj.
 super/famili/o⟦上ˢᴾ/家ᶠ/o⟧:【動】【PIV】Sistematika unuo (superfamilia), ampleksanta tre parencajn familiojn de la sama ordo, montrata per la suf. (sufikso) oide: super familio de homoideoj.
 vort/famili/o⟦词/家ᶠ/o⟧:【語】【PIV】Tuto de la vortoj formeblaj el unu rad. (radiko), au^ (en etnaj lingvoj) devenantaj de unu sola vorto en la pralingvo: en fino de la Ekzercaro trovig^as tipa vort familio de la radiko san.
@@ -58747,9 +58747,9 @@ inter/gent/a⟦间/族ᴳ/a⟧:【PIV】Okazanta inter la gentoj: herede nutri i
 sen/gent/a⟦无/族ᴳ/a⟧:【PIV】Ne plu konanta gentan disecon: sengenta komunumo de liberkredanoj .
 sen/gent/ec/o⟦无/族ᴳ/性/o⟧:【PIV】Eco de io sengenta: la principo de la sengenteco de la tero . Vd sennacieca.
 ali/gent/a⟦别/族ᴳ/a⟧:【PIV】Venanta de alia gento, fremda: vi faris krimon, prenante aligentajn edzinojn .
-ali/gent/an/o⟦别/族ᴳ/员ᴬ/o⟧:【PIV】Homo de alia gento.
+ali/gent/an/o⟦别/族ᴳ/员/o⟧:【PIV】Homo de alia gento.
 ali/gent/ul/o⟦别/族ᴳ/者/o⟧:【PIV】Homo de alia gento.
-sam/gent/an/o⟦同/族ᴳ/员ᴬ/o⟧:【PIV】Homo apartenanta al la sama gento, kiel alia: ili tiel kutimig^is vidi c^irkau^ si nur samgentanojn .
+sam/gent/an/o⟦同/族ᴳ/员/o⟧:【PIV】Homo apartenanta al la sama gento, kiel alia: ili tiel kutimig^is vidi c^irkau^ si nur samgentanojn .
 ek/genu/i⟦始/膝/i⟧:【PIV】Genuig^i: ili ekgenuis vizag^altere sur la pavimo, adorklinig^is, kaj dankis la Eternulon .
 g^is/genu/a⟦至/膝/a⟧:【PIV】Atinganta g^is la genuoj: g^isgenua jupo, pantaloneto.
 inter/genu/aj^/o⟦间/膝/物/o⟧:【PIV】Parto de la robo au^ jupo de sidanta virino, inter la genuoj.
@@ -58930,7 +58930,7 @@ ali/hejm/ul/o⟦别/家ᴴ/者/o⟧:【PIV】Fremdulo: malamo kontrau^ alihejmul
 ekster/hejm/e⟦外ᴱ/家ᴴ/e⟧:【PIV】For de la hejmo: resti ekster hejme .
 kvazau^/hejm/a⟦如/家ᴴ/a⟧:【植】【動】【PIV】Kvazau^indig^ena: glekomo estas hejma en Eu^ropo k Azio, kvazau^ hejma en N Ameriko.
 re/hejm/ig^/i⟦再/家ᴴ/成/i⟧:【PIV】Reveni hejmen.
-sam/hejm/an/o⟦同/家ᴴ/员ᴬ/o⟧:【PIV】Ano de la sama hejmo: patriotismo mi nomas la servadon al la bono de c^iuj miaj samhejmanoj .
+sam/hejm/an/o⟦同/家ᴴ/员/o⟧:【PIV】Ano de la sama hejmo: patriotismo mi nomas la servadon al la bono de c^iuj miaj samhejmanoj .
 akv/o/hejt/ad/o⟦水/o/热/行/o⟧:【PIV】Centra hejtado, en kiu oni cirkuligas en la radiatoroj varmigatan akvon.
 ban/hejt/il/o⟦浴/热/具/o⟧:【PIV】Mura aparato por hejti la akvon de bano.
 cikl/o/heksanon/o⟦环ᶜ/o/heksanon/o⟧:【化】【PIV】C 6 H 10 O, grava bazmaterialo por la fabrikado de multaj kemiaj^oj, i.a. (interalie, inter aliaj) nilono.
@@ -58993,7 +58993,7 @@ kort/hund/o⟦院/犬/o⟧:【PIV】Gardo hundo, tenata en domkorto.
 mar/hund/o⟦海/犬/o⟧:【PIV】1 Vulgara nomo de foko. 2 (f (figurasence)) Hardita maljuna s^ipano.
 spur/hund/o⟦迹/犬/o⟧:【PIV】1 Granda c^ashundo, per kiu c^ashelpanto eltrovas la vojon de c^asotaj^o. 2 (f (figurasence)) Detektivo.
 vulp/o/hund/o⟦狐/o/犬/o⟧:【PIV】C^as hundo, dresita por la vulpoc^aso.
-sam/ide/an/ar/o⟦同/意/员ᴬ/群/o⟧:【PIV】Tuto, de la E-istoj, kiuj dividas la saman ideon (internan) de E.
+sam/ide/an/ar/o⟦同/意/员/群/o⟧:【PIV】Tuto, de la E-istoj, kiuj dividas la saman ideon (internan) de E.
 fiks/ide/ul/o⟦定/意/者/o⟧:【心】【PIV】Psika malsanulo je fiksa ideo.
 sen/ikt/o⟦无/拍ᴵ/o⟧:【PIV】1 La parto de piedo, kiu ne estas la ikto. 2 Silabo sen akcento.
 sen/imit/a⟦无/仿/a⟧:【PIV】Tia, ke oni ne povas g^in imiti.
@@ -59922,7 +59922,7 @@ almoz/monah^/o⟦施/僧/o⟧:【PIV】Monah^o, observanta la plenan malric^econ
 lun/monat/o⟦月/月ᴹ/o⟧:【PIV】Luna monato.
 du/on/mond/um/o⟦二/分/界ᴹ/um/o⟧:【PIV】Kategorio de libermoraj virinoj, kiuj imitis la elegantan vivon de la altaj socitavoloj.
 pra/mond/o⟦原/界ᴹ/o⟧:【PIV】La primitiva mondo.
-trans/mont/an/o⟦越/山/员ᴬ/o⟧:【PIV】Log^anto trans la montoj.
+trans/mont/an/o⟦越/山/员/o⟧:【PIV】Log^anto trans la montoj.
 Erc/mont/ar/o:【PIV】Montaro ercoric^a, inter Bohemio k Saksio (13°E, 50°30′N).
 mam/mont/et/o⟦乳ᴹ/山/小/o⟧:【PIV】Monto kun proksimuma formo de mamo.
 pint/mont/o⟦尖/山/o⟧:【PIV】Monto, kun pinta supro.
@@ -60234,7 +60234,7 @@ kap/o/part/o⟦头/o/部/o⟧:【PIV】Tiu parto de lito, kie kus^as la kapo: la
 pied/part/o⟦足/部/o⟧:【PIV】Tiu parto de lito, kie trovig^as ordinare la piedoj: malkovru la pied parton de la kus^ejo .
 temp/o/part/ig/a⟦时/o/部/使/a⟧:【PIV】Aplikanta tempopartigon, au^ rilata al tempo partigo: tempopartiga mastruma sistemo.
 tranc^/part/o⟦切/部/o⟧:【PIV】Parto de libro, kie la folioj estis samnivele tranc^itaj por bindado: libroj en marokenaj bindoj k kun oraj tranc^ partoj .
-sam/parti/an/o⟦同/党/员ᴬ/o⟧:【PIV】Ano de la sama partio.
+sam/parti/an/o⟦同/党/员/o⟧:【PIV】Ano de la sama partio.
 sen/parti/ec/o⟦无/党/性/o⟧:【PIV】Eco de iu, io senpartia: oni povas nur admiri la konstantan senpartiecon de liaj jug^decidoj.
 tri/parti/a⟦三/党/a⟧:【PIV】Apartenanta al sociala sistemo, en kies organoj estas reprezentataj la salajruloj, la entreprenestroj k la registaro.
 preter/pas/o⟦过ᴾᴿ/过ᴾ/o⟧:【PIV】Ago de tiu, kiu preter pasas: la preter paso de la sovag^a armeo ; preter paso malpermesita en c^i tiu strato.
@@ -60265,7 +60265,7 @@ ge/patr/o⟦双/父/o⟧:【PIV】Patro au^ patrino.
 ge/bo/patr/oj⟦双/姻/父/oj⟧:【PIV】Bopatro k bopatrino.
 sam/patr/a⟦同/父/a⟧:【PIV】Havanta la saman patron, sed ne la saman patrinon, kiel alia infano.
 sam/patr/in/a⟦同/父/女/a⟧:【PIV】Havanta la saman patrinon, sed ne la saman patron, kiel alia infano. Sin. (sinonimo) samutera.
-sam/patri/an/o⟦同/父ᴾᴵ/员ᴬ/o⟧:【PIV】Ano de la sama patrujo.
+sam/patri/an/o⟦同/父ᴾᴵ/员/o⟧:【PIV】Ano de la sama patrujo.
 sen/patr/a⟦无/父/a⟧:【PIV】Ne havanta patron (pf (propra-kaj figura-sence)).
 patr/in/patr/o⟦父/女/父/o⟧:【PIV】Patro de la patrino: la tuta familio de la domo de lia patrinpatro .
 sol/patr/in/o⟦唯/父/女/o⟧:【PIV】Senedza patrino.

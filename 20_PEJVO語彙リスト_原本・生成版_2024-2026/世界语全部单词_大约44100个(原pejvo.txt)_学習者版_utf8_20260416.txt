@@ -15825,7 +15825,7 @@ inter/person/a:個人間の,対人の
 inter/person/a rilat/o:対人関係
 inter/planed/a:惑星間の
 inter/plekt/i:［他］からみ合わせる,組み合わせる
-interpol/i:［他］【数】補間する,内挿する;【文】（無断で）加筆する,改竄（かいざん）する
+inter/pol/i:［他］【数】補間する,内挿する;【文】（無断で）加筆する,改竄（かいざん）する##偽分解(PIV正式分解)
 inter/popol/a lingv/o:民際語,>>internacia lingvo
 interpret/ad/o:通訳;解釈,説明;演奏,演技
 interpret/ant/o:（臨時の）通訳者
@@ -49500,7 +49500,7 @@ interkom/o:【PIV】(evi (evitinda)) = interfono.
 interleu^kin/o:【生】【PIV】(kn (kolektiva nomo)) Mesag^anto de la imuna sistemo.
 intermez/o:【楽】【PIV】1 Mallonga malgravtona teatraj^o (baleto, dancoj, ceremonioj ktp (kaj tiel plu)), kiu estis iam ludata inter la aktoj de komedio, tragedio au^ opero. 2 Mallonga distra teatraj^o, kiun oni nun prezentas antau^ au^ post grava verko. 3 Liberforma muzika peco.
 intern/ul/ej/o:【PIV】Parto de instruejo, kie log^as la internuloj.
-interpol/aj^/o:【PIV】Parto tiel ens^ovita en tekston.
+inter/pol/aj^/o:【PIV】Parto tiel ens^ovita en tekston.##偽分解(PIV正式分解)
 interpozitiv/o:【語】【PIV】Cirkonstanca sintagmo, konsistanta en prep. (prepozicio) antau^ata k sekvata de la sama subst. (substantivo), ekz. (ekzemple) «mano en mano», «pas^o post pas^o»;. uzis la interpozitivojn preskau^ c^iam en la nominativa formo, sed estas konsilinde au^ akuzativigi la unuan subst-on (substantivon) («pas^on post pas^o») au^ formi cirkonstancan adv-on (adverbon) («manenmane»).
 interstic/o:【解】【PIV】Spaco, kiu trovig^as inter la esencaj elementoj de iu organo k estas plenigita de diversaj help-elementoj (c^efe konektivo k vaskuloj).
 interstic/a:【PIV】Koncernanta la subtenan histon c^irkau^ la esencaj elementoj de organo: interstica nefrito; interstica encefalito.
