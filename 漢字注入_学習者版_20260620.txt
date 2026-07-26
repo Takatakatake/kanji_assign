@@ -4044,23 +4044,23 @@ bon/aj^/o⟦良/物/o⟧:善行
 bon/a kolesterol/o⟦良/a 胆醇/o⟧:善玉コレステロール（HDL）
 bon/a konjunktur/o⟦良/a 景气/o⟧:【経】好況,好景気
 bon/a mal/nov/a temp/o⟦良/a 反/新/a 时/o⟧:（la 〜）古き良き時代
-Bon/an!:［間］やあ！（おはよう、こんにちは、こんばんは）
-Bon/an apetit/on!⟦Bon/an 欲ᴬ/on!⟧:どうぞ召しあがれ
-Bon/an maten/on!⟦Bon/an 晨/on!⟧:［間］おはよう！
-Bon/an nokt/on!⟦Bon/an 夜/on!⟧:［間］おやすみ！
-Bon/an tag/on!⟦Bon/an 日/on!⟧:［間］こんにちは！
-Bon/an vesper/on!⟦Bon/an 晚/on!⟧:［間］こんばんは！
+Bon/an!⟦良/an!⟧:［間］やあ！（おはよう、こんにちは、こんばんは）
+Bon/an apetit/on!⟦良/an 欲ᴬ/on!⟧:どうぞ召しあがれ
+Bon/an maten/on!⟦良/an 晨/on!⟧:［間］おはよう！
+Bon/an nokt/on!⟦良/an 夜/on!⟧:［間］おやすみ！
+Bon/an tag/on!⟦良/an 日/on!⟧:［間］こんにちは！
+Bon/an vesper/on!⟦良/an 晚/on!⟧:［間］こんばんは！
 Bonapart/o:【人名】ボナパルト
 bon/au^gur/a⟦良/占ᴬ/a⟧:縁起の良い,吉兆の
 bon/dezir/i⟦良/欲/i⟧:［自］（幸福を願って）あいさつをする
 bon/dezir/o⟦良/欲/o⟧:（幸福を願う）あいさつ
 bon/e⟦良/e⟧:良く
-Bon/e!:［間］よし！
+Bon/e!⟦良/e!⟧:［間］よし！
 bon/ec/o⟦良/性/o⟧:良さ,善良さ
 bon/eduk/it/ec/o⟦良/育ᴱ/受/性/o⟧:=edukiteco（しつけ）
 bon/eg/a⟦良/巨/a⟧:すばらしい
 bon/eg/e⟦良/巨/e⟧:すばらしく
-Bon/eg/e!:［間］すばらしい！
+Bon/eg/e!⟦良/巨/e!⟧:［間］すばらしい！
 bon/e instal/it/a⟦良/e 装ᴵ/受/a⟧:設備の整った
 Bon/esper/a Kab/o:（la 〜）【地名】喜望峰（南アフリカ共和国）,=Promontoro de Bona Espero
 Bon/esper/o:【地名】ゴットホープ（グリーンランドの主都）##偽分解
@@ -4119,7 +4119,7 @@ bon/ul/o⟦良/者/o⟧:善人
 bon/ven/a⟦良/来/a⟧:歓迎すべき
 bon/ven/ig/i⟦良/来/使/i⟧:［他］歓迎する
 bon/ven/o⟦良/来/o⟧:歓迎
-Bon/ven/on!:［間］ようこそ！
+Bon/ven/on!⟦良/来/on!⟧:［間］ようこそ！
 bon/vol/a⟦良/愿/a⟧:好意の,善意の,親切な
 bon/vol/e⟦良/愿/e⟧:好意で,善意で,親切に;どうぞ
 bon/vol/i⟦良/愿/i⟧:{Ｂ}［自］どうぞ〜する,好意をもって〜する
@@ -4280,7 +4280,7 @@ Bratislav/o:【地名】ブラチスラバ（スロバキアの首都）
 brav/a⟦勇ᴮ/a⟧:{Ｂ}勇敢な,勇ましい,りりしい;実直な,律義な;りっぱな
 brav/aj^/o⟦勇ᴮ/物/o⟧:勇敢な行為
 brav/e⟦勇ᴮ/e⟧:勇敢に
-Brav/e!:［間］ブラボー！,いいぞ！
+Brav/e!⟦勇ᴮ/e!⟧:［間］ブラボー！,いいぞ！
 bravisim/e:［間］最高！,世界一！
 brav/o/kri/o⟦勇ᴮ/o/叫/o⟧:喝采（かっさい）
 brav/ul/o⟦勇ᴮ/者/o⟧:勇者,勇士
@@ -5810,7 +5810,7 @@ Damask/o:【地名】ダマスカス（シリアの首都）
 dam/cerv/o⟦妃/鹿/o⟧:【動】ダマジカ,=damao
 dam/ig/i⟦妃/使/i⟧:［他］【遊】（チェスでポーンを）クイーンに成らせる;【遊】（チェッカーで駒を）キングに成らせる
 dam/lud/o⟦妃/玩/o⟧:【遊】チェッカー
-Damn/e!:［間］ちくしょう！,しまった！
+Damn/e!⟦咒ᴰ/e!⟧:［間］ちくしょう！,しまった！
 damn/i⟦咒ᴰ/i⟧:［他］【宗】地獄に落とす
 damn/ind/a⟦咒ᴰ/值/a⟧:【宗】地獄に落ちるべき
 damn/it/o⟦咒ᴰ/受/o⟧:【宗】地獄の亡者
@@ -5860,7 +5860,7 @@ dank/ind/a⟦谢/值/a⟧:感謝すべき,ありがたい
 dank/ind/e⟦谢/值/e⟧:［間］ありがたい！
 dank/leter/o⟦谢/信ᴸ/o⟧:感謝状,礼状
 dank/o⟦谢/o⟧:感謝,謝辞,謝意
-Dank/on!:［間］ありがとう！
+Dank/on!⟦谢/on!⟧:［間］ありがとう！
 dank/o/s^uld/o⟦谢/o/欠/o⟧:恩義,おかげ
 dank/vort/oj⟦谢/词/oj⟧:感謝の言葉
 dan/o:{Ｏ}デンマーク人
@@ -6652,7 +6652,7 @@ diabl/aj^/o⟦魔ᴰ/物/o⟧:悪辣な行い
 diabl/a kult/o⟦魔ᴰ/a 拜ᴷ/o⟧:悪魔崇拝
 diabl/a vir/in/o⟦魔ᴰ/a 男/女/o⟧:魔性の女
 diabl/e⟦魔ᴰ/e⟧:悪魔のように;悪辣に,ものすごく
-Diabl/e!:［間］畜生！
+Diabl/e!⟦魔ᴰ/e!⟧:［間］畜生！
 diabl/ec/o⟦魔ᴰ/性/o⟧:魔性
 diabl/et/o⟦魔ᴰ/小/o⟧:小悪魔
 diabl/id/o⟦魔ᴰ/子/o⟧:悪魔の申し子
@@ -7406,7 +7406,7 @@ dom/a⟦屋/a⟧:家の
 dom/ac^/o⟦屋/劣/o⟧:あばらや
 domag^/a⟦惜/a⟧:惜しむべき,遺憾な,残念な,>>bedau^rinda
 domag^/e⟦惜/e⟧:残念にも,>>bedau^rinde
-Domag^/e!:［間］惜しい！
+Domag^/e!⟦惜/e!⟧:［間］惜しい！
 domag^/i⟦惜/i⟧:［他］惜しむ,大事にする,いたわる
 domag^/o⟦惜/o⟧:{Ｂ}惜しいこと,残念なこと
 dom/aj s^u/oj⟦屋/aj 鞋/oj⟧:上履き
@@ -7534,7 +7534,7 @@ dors/apog/il/o⟦背/支/具/o⟧:背もたれ
 dors/direkt/e⟦背/方/e⟧:後ろへ
 dors/e⟦背/e⟧:背に,裏に
 dors/e/n⟦背/e/n⟧:後ろへ
-Dors/e/n!:［間］下がれ！,バック！
+Dors/e/n!⟦背/e/n!⟧:［間］下がれ！,バック！
 dors/flank/o⟦背/侧/o⟧:（貨幣・絵はがきなどの）裏面,裏側,背面,><antau^flanko
 dors/flos/i⟦背/筏/i⟧:［自］（水泳で）浮身をする
 dors/ir/i⟦背/往/i⟧:［自］後ずさりする,後退する
@@ -9578,7 +9578,7 @@ en/ofic/ig/i⟦内/职/使/i⟧:［他］（役職に）任じる,任命する
 en/ofic/ig^/i⟦内/职/成/i⟧:［自］就任する
 en/ofic/ig^/o⟦内/职/成/o⟧:就任
 en/ord/e⟦内/序/e⟧:順調に,うまく;［間］オーケー！
-En ord/o!⟦En 序/o!⟧:［間］オーケー！,よし！
+En ord/o!⟦内 序/o!⟧:［間］オーケー！,よし！
 enorm/a⟦巨ᴱᴺ/a⟧:《詩》=grandega（巨大な）
 enoter/o⟦花ᴱ/o⟧:【植】マツヨイグサ（属）;月見草,宵待草（よいまちぐさ）
 en/pag^/ig/i⟦内/页/使/i⟧:［他］組み付ける,ページに組む
@@ -10570,7 +10570,7 @@ fars/oper/o⟦剧ᶠ/歌剧/o⟧:【劇】喜歌劇
 fars/ul/o⟦剧ᶠ/者/o⟧:道化者,おどけ者
 fart/i⟦体ᶠ/i⟧:{Ｂ}［自］〜の健康状態である
 fart/o⟦体ᶠ/o⟧:健康状態
-Fart/u bon/e!⟦Fart/u 良/e!⟧:［間］お元気で！
+Fart/u bon/e!⟦体ᶠ/u 良/e!⟧:［間］お元気で！
 farun/aj^/o⟦粉/物/o⟧:【料】（小麦粉で作った）粥（かゆ）;（一般に）穀粉で作った食物
 farun/ej/o⟦粉/所/o⟧:製粉所
 farun/glu/o⟦粉/胶/o⟧:（小麦粉で作った）糊
@@ -10688,8 +10688,8 @@ feldspat/o⟦长石/o⟧:【鉱】長石
 felic^/a⟦幸/a⟧:{Ｂ}幸福な,幸せな;幸運な
 felic^/a fin/o⟦幸/a 终/o⟧:幸せな結末,ハッピーエンド
 felic^/a mien/o⟦幸/a 容/o⟧:うれしそうな表情
-Felic^/an nask/ig^/tag/on!⟦Felic^/an 生/成/日/on!⟧:［間］誕生日おめでとう！
-Felic^/an nov/jar/on!⟦Felic^/an 新/年/on!⟧:新年おめでとう！
+Felic^/an nask/ig^/tag/on!⟦幸/an 生/成/日/on!⟧:［間］誕生日おめでとう！
+Felic^/an nov/jar/on!⟦幸/an 新/年/on!⟧:新年おめでとう！
 felic^/a viv/o⟦幸/a 活/o⟧:幸福な生活
 felic^/e⟦幸/e⟧:幸福に,幸運にも
 felic^/eg/o⟦幸/巨/o⟧:至福
@@ -13342,7 +13342,7 @@ gratul/i⟦贺/i⟧:{Ｂ}［他］お祝いを言う
 gratul/ind/a⟦贺/值/a⟧:おめでたい,お祝いすべき
 gratul/mesag^/o⟦贺/信ᴹ/o⟧:祝辞
 gratul/o⟦贺/o⟧:祝詞,祝辞;祝賀,祝意
-Gratul/on!:［間］おめでとう！
+Gratul/on!⟦贺/on!⟧:［間］おめでとう！
 grat/vund/i⟦抓/伤/i⟧:［他］ひっかき傷をつける
 grat/vund/o⟦抓/伤/o⟧:かき傷
 grav/a⟦重ᴳ/a⟧:{Ｂ}重要な,重大な;深刻な
@@ -13746,7 +13746,7 @@ g^is⟦至⟧:{Ｂ}［前］〜まで,〜までに,〜までの
 G^is!:［間］じゃあ（また）！
 g^is-⟦至⟧:［接頭辞］（時間的・空間的な限界までの継続を示す）,>>g^isfunde,>>g^isnuna
 g^is/atend/i⟦至/待ᴬ/i⟧:［他］待ち受ける
-G^is baldau^/!⟦G^is 将ᴮ/!⟧:［間］また近いうちに！
+G^is baldau^/!⟦至 将ᴮ/!⟧:［間］また近いうちに！
 g^is/c^iel/e⟦至/全样/e⟧:空高く,天まで届くほどに
 g^is/dat/a⟦至/期/a⟧:現在までの,最新の
 g^is/dat/ig/i⟦至/期/使/i⟧:［他］【情】更新する,アップデートする
@@ -13755,14 +13755,14 @@ g^is/ir/i⟦至/往/i⟧:［他］行き着く
 g^is kiam⟦至 何时⟧:［疑問詞］いつまで
 g^is kiam⟦至 何时⟧:［接］〜するまで
 g^is/lim/i⟦至/界/i⟧:［他］（果てに）達する
-G^is morgau^/!⟦G^is 明/!⟧:［間］またあした！
+G^is morgau^/!⟦至 明/!⟧:［間］またあした！
 g^is/mort/a⟦至/死/a⟧:死ぬまでの,終生の
 g^is/mort/e⟦至/死/e⟧:死ぬまで
 g^is nun⟦至 现⟧:［副］今まで
 g^is/nun/a⟦至/现/a⟧:今までの
 g^is/ost/a⟦至/骨/a⟧:骨の髄までの,徹底した
 g^is/ost/ul/o⟦至/骨/者/o⟧:筋金入り,徹底的信奉者,（特定の主張に）凝り固まった人
-G^is re/vid/o!⟦G^is 再/见/o!⟧:［間］さようなら！,いずれまた！
+G^is re/vid/o!⟦至 再/见/o!⟧:［間］さようなら！,いずれまた！
 g^is/sat/e⟦至/饱/e⟧:満腹するまで,あきるほど
 g^is/tali/aj s^trump/oj⟦至/腰/aj 袜/oj⟧:パンティストッキング
 g^is/tali/e⟦至/腰/e⟧:腰まで
@@ -14157,11 +14157,11 @@ help/ist/o⟦助/家/o⟧:助手
 help/material/o⟦助/材/o⟧:援助物資,支援物資;補助教材
 help/mon/o⟦助/钱/o⟧:援助金,救援金
 help/o⟦助/o⟧:助力,手伝い,助け,介助;援助
-Help/on!:［間］助けて！
+Help/on!⟦助/on!⟧:［間］助けて！
 help/o/pet/o⟦助/o/求/o⟧:援助依頼
 help/o/trup/oj⟦助/o/团ᵀ/oj⟧:【軍】（後方の）予備軍,支援部隊
 help/reg^isor/o⟦助/导演/o⟧:【映】助監督
-Help/u!:［間］助けて！
+Help/u!⟦助/u!⟧:［間］助けて！
 help/verb/o⟦助/动ⱽ/o⟧:【Ｇ】補助動詞,助動詞
 Helsink/o:【地名】ヘルシンキ（フィンランドの首都）
 helvel/o⟦菌ᴴᴸ/o⟧:【菌】ノボリリュウ（属）
@@ -17774,7 +17774,7 @@ kia⟦何a⟧:{Ｂ}［形］どのような,どんな
 kial⟦何因⟧:{Ｂ}［接］なぜ〜かということ
 kial⟦何因⟧:{Ｂ}［副］なぜ,どうして
 kial/ig/i⟦何因/使/i⟧:［他］釈明する,理由づける
-Kial ne/!⟦Kial 不/!⟧:［間］（相手の発言に答えて）どうしていけないか,いいじゃないか,もちろん！
+Kial ne/!⟦何因 不/!⟧:［間］（相手の発言に答えて）どうしていけないか,いいじゃないか,もちろん！
 kial/o⟦何因/o⟧:理由,動機
 kiam⟦何时⟧:{Ｂ}［副］いつ
 kiam⟦何时⟧:［接］〜ときに
@@ -19156,7 +19156,7 @@ konsent/ebl/a⟦赞ᴷ/可/a⟧:同意できる,容認できる
 konsent/i⟦赞ᴷ/i⟧:{Ｂ}［自］同意見である,意見が一致している;［他］承諾する,容認する
 konsent/ig/i⟦赞ᴷ/使/i⟧:［他］同意させる,承諾させる
 konsent/ig^/i⟦赞ᴷ/成/i⟧:［自］同意する,意見が一致する
-Konsent/it/e!:［間］承知した！,賛成！
+Konsent/it/e!⟦赞ᴷ/受/e!⟧:［間］承知した！,賛成！
 konsent/o⟦赞ᴷ/o⟧:同意,合意,（意見の）一致;承諾,承認,容認
 konserv/ad/o⟦存ᴷ/行/o⟧:保存,保管,貯蔵;保持,維持
 konserv/a fort/o⟦存ᴷ/a 强/o⟧:【理】保存力
@@ -19696,7 +19696,7 @@ koral/serpent/o⟦虫ᴷ/蛇/o⟧:【動】サンゴヘビ（珊瑚蛇）（類�
 kor/amik/o⟦心/友/o⟧:心の友,親友
 kor/a muskol/o⟦心/a 筋/o⟧:【解】心筋
 koran/a:コーランの
-Kor/an dank/on!⟦Kor/an 谢/on!⟧:［間］どうもありがとう！
+Kor/an dank/on!⟦心/an 谢/on!⟧:［間］どうもありがとう！
 kor/a ne/sufic^/ec/o⟦心/a 不/够/性/o⟧:【医】心不全
 Koran/o:{Ｏ}【宗】コーラン（イスラム教の聖典）
 kor/atak/o⟦心/攻/o⟧:【医】心臓発作,（特に）心筋梗塞
@@ -25623,7 +25623,7 @@ minut/a⟦分ᴹ/a⟧:一分間の;ちょっとの間の
 minut/e⟦分ᴹ/e⟧:一分間に;ちょっとの間に
 minut/montr/il/o⟦分ᴹ/示/具/o⟧:（時計の）長針,分針,>>hormontrilo
 minut/o⟦分ᴹ/o⟧:{Ｂ}（時間の）分;寸時,ごく短い時間;（角度の）分
-Minut/on!:［間］ちょっと待って！
+Minut/on!⟦分ᴹ/on!⟧:［間］ちょっと待って！
 min/vejn/o⟦矿/脉/o⟧:鉱脈
 miocen/o:【地質】中新世;中新統
 miogal/o⟦地鼠ᴹ/o⟧:{Ｏ}【動】デスマン（ヨーロッパにすむ水生のモグラ類）
@@ -25915,7 +25915,7 @@ moment/a rapid/ec/o⟦刻/a 速/性/o⟧:【理】瞬間の速さ
 moment/e⟦刻/e⟧:瞬間に,ちょっとの間に,たちまち;今のところ
 moment/fot/o⟦刻/拍/o⟧:【写】スナップ写真
 moment/o⟦刻/o⟧:{Ｂ}瞬間,短時間,ちょっとの間
-Moment/on!:［間］ちょっと！
+Moment/on!⟦刻/on!⟧:［間］ちょっと！
 mon/a⟦钱/a⟧:金銭の,通貨の
 monad/o:【哲】モナド,単子
 monah^/ej/o⟦僧/所/o⟧:【宗】修道院,僧院,=monakejo
@@ -26936,7 +26936,7 @@ ne/civil/iz/it/o⟦不/民ᶜ/化/受/o⟧:未開人
 ne/c^ef/a⟦不/首/a⟧:付随的な,副次的な
 ne/c^if/ebl/a⟦不/皱/可/a⟧:しわにならない
 ne/dank/em/a⟦不/谢/倾/a⟧:感謝知らずの
-Ne/dank/ind/e!:［間］どういたしまして！
+Ne/dank/ind/e!⟦不/谢/值/e!⟧:［間］どういたしまして！
 ne/dau^r/a⟦不/续/a⟧:続かない,一時的の
 ne/dec/a⟦不/宜/a⟧:不適切な,場違いの
 ne/decid/ebl/a⟦不/决/可/a⟧:（問題などが）解決不能な
@@ -27809,7 +27809,7 @@ not/libr/o⟦记ᴺ/书/o⟧:筆記帳,手帳,メモ帳
 not/lini/ar/o⟦记ᴺ/线/群/o⟧:【楽】五線譜
 not/o⟦记ᴺ/o⟧:{Ｂ}覚え書,メモ;（本の）注,注解;（学業の）評点;【楽】音符;《転》様子,調子
 Notos/o:【神】ノトス（ギリシア神話で南風の神）
-Not/u bon/e!⟦Not/u 良/e!⟧:注意！,=N.B.
+Not/u bon/e!⟦记ᴺ/u 良/e!⟧:注意！,=N.B.
 noumen/o:【哲】（カント哲学でいう）物自体,本体
 nov/a⟦新/a⟧:{Ｂ}新しい,新規の,最新の;新品の,できたばかりの
 nov/a au^t/o⟦新/a 车/o⟧:（買ったばかりの）新車,>>novmodela au^to
@@ -29348,7 +29348,7 @@ pardon/ebl/a⟦恕/可/a⟧:許され得る,容赦できる
 pardon/em/a⟦恕/倾/a⟧:寛大な,寛容な,>>tolerema,>>indulgema
 pardon/i⟦恕/i⟧:{Ｂ}［他］ゆるす,容赦する,勘弁する,大目に見る
 pardon/o⟦恕/o⟧:ゆるし,容赦,勘弁
-Pardon/on!:［間］失礼！
+Pardon/on!⟦恕/on!⟧:［間］失礼！
 pardon/pet/i⟦恕/求/i⟧:［他］ゆるしを請う,わびる,謝罪する
 pardon/pet/o⟦恕/求/o⟧:おわび,謝罪
 par/e⟦偶/e⟧:二つ一組で
@@ -30798,7 +30798,7 @@ plu/distribu/i⟦还/配/i⟧:［他］再配布する,転載する
 plu/e⟦还/e⟧:その上さらに,さらに引き続いて
 plu/ekzist/o⟦还/存/o⟧:存在し続けること
 plu/e/n⟦还/e/n⟧:（強調して）さらに先へ,もっと遠くへ
-Plu/e/n!:［間］続行！,もっと先へ！
+Plu/e/n!⟦还/e/n!⟧:［間］続行！,もっと先へ！
 plug/ad/o⟦耕ᴾ/行/o⟧:耕作,耕耘（こううん）
 plug/c^eval/o⟦耕ᴾ/马/o⟧:農耕馬
 plug/ebl/a⟦耕ᴾ/可/a⟧:耕せる,可耕の
@@ -32294,7 +32294,7 @@ promen/s^ip/o⟦步ᴾᴿ/船/o⟧:遊覧船
 promen/voj/o⟦步ᴾᴿ/路/o⟧:散歩道,遊歩道,散策路
 promes/i⟦诺/i⟧:{Ｂ}［他］約束する,（物を）与えることを約束する;期待させる,請け合う,予想させる
 promes/it/a⟦诺/受/a⟧:約束された
-Promes/it/e!:［間］承知した！,約束した！
+Promes/it/e!⟦诺/受/e!⟧:［間］承知した！,約束した！
 promes/kambi/o⟦诺/汇ᴷ/o⟧:【経】約束手形
 promes/o⟦诺/o⟧:約束;見込み,期待
 promes/plen/a⟦诺/满/a⟧:有望な,見込みのある,=multpromesa
@@ -33588,7 +33588,7 @@ rektif/o⟦整ᴿ/o⟧:【電】整流;【化】精留;【数】求長
 rekt/ig/i⟦直/使/i⟧:［他］まっすぐにする,直立させる
 rekt/ig/i dors/on⟦直/使/i 背/on⟧:背中を伸ばす,背筋をピンとする
 rekt/ig^/i⟦直/成/i⟧:［自］まっすぐになる,直立する
-Rekt/ig^/u!:［間］気をつけ！（号令）
+Rekt/ig^/u!⟦直/成/u!⟧:［間］気をつけ！（号令）
 rekt/il/o⟦直/具/o⟧:定規
 rekt/o⟦直/o⟧:【数】直線
 rektor/o:{Ｏ}（大学の）学長,総長;学園長,校長
@@ -34990,7 +34990,7 @@ salut/leter/o⟦问ˢ/信ᴸ/o⟧:挨拶状
 salut/mesag^/o⟦问ˢ/信ᴹ/o⟧:祝辞
 salut/nom/o⟦问ˢ/名/o⟧:【情】ログイン名,ログオン名
 salut/o⟦问ˢ/o⟧:挨拶,会釈,お辞儀,敬礼;《転》表敬,歓迎
-Salut/on!:［間］やあ、今日は！（親しいもの同士のあいさつ）
+Salut/on!⟦问ˢ/on!⟧:［間］やあ、今日は！（親しいもの同士のあいさつ）
 Salvador/o:【国名】エルサルバドル（北アメリカ）
 Salven/o:【地名】サルウィン川（中国・ビルマ）,>>Nu-Rivero
 Salvin/o:【地名】サルウィン川,=Salveno
@@ -39069,11 +39069,11 @@ S^akjamuni/o:【仏】釈迦牟尼（しゃかむに）,=Budho,>>tatagato
 s^ak/klub/o⟦棋/社ᴷ/o⟧:チェスクラブ
 s^ak/lud/ant/o⟦棋/玩/在/o⟧:【遊】チェスの競技者
 s^ak/lud/o⟦棋/玩/o⟧:【遊】チェスの勝負
-S^ak/mat!:［間］【遊】チェックメイト！（チェスで相手に詰みを告げる）
+S^ak/mat!⟦棋/mat!⟧:［間］【遊】チェックメイト！（チェスで相手に詰みを告げる）
 s^ak/mat/o⟦棋/席/o⟧:【遊】（チェスの）チェックメイト,王手詰
 s^ak/mov/o⟦棋/动/o⟧:【遊】（チェス・将棋の）一手
 s^ak/o⟦棋/o⟧:{Ｏ}【遊】チェス,将棋（=japana s^ako）;（チェス・将棋の）王手
-S^ak/on!:［間］（チェスで）王手！
+S^ak/on!⟦棋/on!⟧:［間］（チェスで）王手！
 s^ak/pec/o⟦棋/片/o⟧:【遊】チェスの駒,将棋の駒,=s^akfiguro
 s^akr/ad/o⟦贩ˢ̂/行/o⟧:闇取引,密売買
 s^akr/a prez/o⟦贩ˢ̂/a 价/o⟧:闇相場,闇値
@@ -39377,7 +39377,7 @@ s^ofor/i⟦驾/i⟧:［他］（職業的に）運転する,>>stiri
 s^ofor/o⟦驾/o⟧:{Ｂ}（職業的）運転手,>>au^tisto
 s^ok/a⟦震/a⟧:ショッキングな,衝撃的な
 s^ok/e⟦震/e⟧:衝撃的に
-S^ok/e!:［間］ショック！,ぎょっ！
+S^ok/e!⟦震/e!⟧:［間］ショック！,ぎょっ！
 s^ok/i⟦震/i⟧:{Ｏ}［他］精神的な衝撃を与える,ショックを与える,ぎょっとさせる
 s^ok/ig^/i⟦震/成/i⟧:［自］ショックを受ける,ぎょっとする
 s^ok/o⟦震/o⟧:（精神的な）ショック,衝撃;【医】ショック（症状）
@@ -40871,7 +40871,7 @@ Toskan/i/o:【地名】トスカナ州（イタリア）
 toskan/o:トスカナ人（イタリア）
 tost/i⟦祝ᵀ/i⟧:［自］乾杯する,祝杯をあげる
 tost/o⟦祝ᵀ/o⟧:{Ｏ}乾杯,祝杯;乾杯の音頭,乾杯の挨拶
-Tost/on!:［間］乾杯！
+Tost/on!⟦祝ᵀ/on!⟧:［間］乾杯！
 total/a⟦总ᵀ/a⟧:全体の,総計の,>>kompleta,>>tuta
 total/a prem/o⟦总ᵀ/a 压/o⟧:【理】全圧
 total/a reflekt/o⟦总ᵀ/a 反射/o⟧:【理】全反射
@@ -40931,7 +40931,7 @@ tra/fajl/i⟦穿/磨ᶠ/i⟧:［他］（やすりで）すり切る
 traf/are/o⟦击/面ᴬ/o⟧:【理】（散乱）断面積
 traf/distanc/o⟦击/距/o⟧:【軍】命中距離
 traf/e⟦击/e⟧:的中して,的確に,正確に,ずばり
-Traf/e!:［間］その通り！
+Traf/e!⟦击/e!⟧:［間］その通り！
 traf/e mal/traf/e⟦击/e 反/击/e⟧:あてずっぽうに,運任せで
 traf/i⟦击/i⟧:{Ｂ}［他］（人が）命中させる,当てる;（物が）命中する,当たる;（物に）ぶつかる;《転》（災いなどが）襲う;（偶然に）出くわす
 traf/i au^tobus/on⟦击/i 车ᴬᴮ/on⟧:バスに間に合う
@@ -43682,7 +43682,7 @@ viv/stil/o⟦活/风ˢ/o⟧:生活様式,ライフスタイル,=vivmaniero
 viv/ten/ad/o⟦活/持/行/o⟧:=vivteno（生計）
 viv/ten/i⟦活/持/i⟧:［他］〜の生活を維持する,生計を立てる;扶養する
 viv/ten/o⟦活/持/o⟧:生計;扶養
-Viv/u!:［間］万歳！
+Viv/u!⟦活/u!⟧:［間］万歳！
 viv/u/i⟦活/u/i⟧:［自］万歳を唱える
 viv/u/kri/o⟦活/u/叫/o⟧:万歳の叫び,=vivuo
 viv/ul/o⟦活/者/o⟧:生物,=vivaj^o;生者,=vivanto
@@ -52574,7 +52574,7 @@ nukle/az/o⟦核ᴺ/az/o⟧:【生】【化】【PIV】Enzimo, kiu hidrolizas nu
 nukle/gami/o⟦核ᴺ/配ᴳ/o⟧:【生】【PIV】Kunig^o de du nukleoj dum seksa procezo.##偽分解(PIV正式分解)
 nukle/o/gami/o⟦核ᴺ/o/配ᴳ/o⟧:【生】【PIV】Kunig^o de du nukleoj dum seksa procezo.##偽分解(PIV正式分解)
 nukle/o/liz/a⟦核ᴺ/o/解ᴸ/a⟧:【生】【PIV】(pp (se paroli pri) substanco) Detruanta la nukleon de iuj c^eloj, ekz. (ekzemple) kanceraj.
-nukleosom/o:【PIV】= kromatinero.
+nukle/o/som/o⟦核ᴺ/o/体ˢᴹ/o⟧:【PIV】= kromatinero.##偽分解(PIV正式分解)
 nukleotid/o:【生】【化】【PIV】Fosfatacida estero de nukleozido; kemia kombinaj^o, konsistanta el nukleobazo, pentozo (c^u ribozo au^ deoksiribozo) k fosfata acido.
 nukle/oz/id/o⟦核ᴺ/糖ᴼ/子/o⟧:【PIV】Vd (vidu) ozo.##偽分解(PIV正式分解)
 nukul/o:【植】【PIV】(nucula) Akeneca frukto, kies s^elo estas ege malmola, ekz. (ekzemple) c^e korilo k rozo.
@@ -54380,9 +54380,9 @@ rezidu/o⟦余ᴿᶻ/o⟧:【地質】【PIV】1 Restaj^o el petroj, pasintece e
 rezist/iv/o⟦抗ᴿ/能ᴵ/o⟧:【PIV】Fizika grando, egala al la rezistanco de drato el iu materialo, multiplikita per la kversekca areo de la drato k dividita per g^ia longo; simb. (simbolo): ρ (ro). Vd konduktivo.
 rezolut/a:【PIV】Firma en siaj projektoj; senhezita en la plenumado de siaj decidoj: rezoluta karaktero; rezolute apliki agitplanon.
 rezorcinol/o:【化】【PIV】Meta-dihidroksibenzeno, C 6 H 4 (OH) 2, uzata i.a. (interalie, inter aliaj) por fabriki eksplodaj^ojn k medikamentojn.
-rib/oz/o⟦醋栗/糖ᴼ/o⟧:【化】【PIV】Sukero (pentozo), eltrovita en beroj de ribo, CH 2 OH(CHOH) 3 CHO; parto de la molekulo de la ribonukleaj acidoj. Vd ribo II.##偽分解(PIV正式分解)
-ribosom/o⟦核糖体/o⟧:【生】【PIV】Enc^ela, submikroskopa grajneto, konsistanta el ribonuklea acido (RNA) k proteino, c^e kiu okazas la sintezo de proteinoj.
-ribosom/a⟦核糖体/a⟧:【PIV】Rilata al ribosomo: ribosoma RNA.
+rib/oz/o⟦核ᴿ/糖ᴼ/o⟧:【化】【PIV】Sukero (pentozo), eltrovita en beroj de ribo, CH 2 OH(CHOH) 3 CHO; parto de la molekulo de la ribonukleaj acidoj. Vd ribo II.##偽分解(PIV正式分解)
+rib/o/som/o⟦核ᴿ/o/体ˢᴹ/o⟧:【生】【PIV】Enc^ela, submikroskopa grajneto, konsistanta el ribonuklea acido (RNA) k proteino, c^e kiu okazas la sintezo de proteinoj.##偽分解(PIV正式分解)
+rib/o/som/a⟦核ᴿ/o/体ˢᴹ/a⟧:【PIV】Rilata al ribosomo: ribosoma RNA.##偽分解(PIV正式分解)
 ribek/o:【楽】【PIV】Mezepoka trikorda vjolo, ludata per arc^o.
 ribel/ig/i⟦叛/使/i⟧:【PIV】Instigi al ribelo: ankau^ tiun c^i ili jam ribeligis kontrau^ mi! ; morgau^ povos aperi aliaj ribeligantoj . Vd provoki.
 ricel/o⟦窝/o⟧:【PIV】Ago riceli.
@@ -58195,7 +58195,7 @@ sepult/entrepren/ist/o⟦葬/办ᴱ/家/o⟧:【PIV】Entreprenisto, kiu arang^a
 mal/envi/i⟦反/羡/i⟧:【PIV】Ne envii, volonte fordoni (ion al iu).
 sen/envi/e⟦无/羡/e⟧:【PIV】Sen ia bedau^ro, malavare, larg^akore.
 kun/enzim/o⟦共/酵素/o⟧:【PIV】Neproteina molekulo, necesa al iuj enzimoj kiel dua substrato, sed kiu estos tuj refarata per alia enzimo: kunenzimo A. Vd prosteto.
-rib/o/enzim/o⟦醋栗/o/酵素/o⟧:【生】【PIV】RNA kapabla katalizi biokemian reakcion.
+rib/o/enzim/o⟦核ᴿ/o/酵素/o⟧:【生】【PIV】RNA kapabla katalizi biokemian reakcion.
 nom/epitet/o⟦名/修饰/o⟧:【PIV】Adj., kiu, kunig^ante kun komuna nomo, formas kun g^i propran nomon, ekz. (ekzemple) la Blanka Monto, la Rug^a Maro ks (kaj simile, kaj similaj).
 for/erar/i⟦离/错/i⟧:【PIV】Forig^i konsekvence de eraro: c^iu iras sian vojon, ne foreraras de sia vojo .
 ne/erar/em/a⟦不/错/倾/a⟧:【PIV】Malofte eraranta.
@@ -58463,7 +58463,7 @@ c^irkau^/flat/ad/i⟦围/媚/行/i⟧:【PIV】Supers^uti iun per flataj^oj.
 el/flat/i⟦出/媚/i⟧:【PIV】Akiri per flatado.
 mikro/flau^r/o⟦微/植相/o⟧:【PIV】Flau^ro 2.##偽分解
 lakt/o/flav/in/o⟦乳/o/黄/in/o⟧:【PIV】= ribo flavino.##偽分解(PIV正式分解)
-rib/o/flav/in/o⟦醋栗/o/黄/in/o⟧:【化】【PIV】Flava, akvosolvebla substanco C 17 H 20 O 6 N 4 (vitamino B2), kies manko kau^zas i.a. (interalie, inter aliaj) lezojn de la hau^to k mukozoj: ribo flavino trovig^as libera en la naturo k ankau^ kiel konsistiga parto de kunenzimoj grave rolantaj en la c^ela metabolo. Vd flavnukleotido, flavoproteino.##偽分解(PIV正式分解)
+rib/o/flav/in/o⟦核ᴿ/o/黄/in/o⟧:【化】【PIV】Flava, akvosolvebla substanco C 17 H 20 O 6 N 4 (vitamino B2), kies manko kau^zas i.a. (interalie, inter aliaj) lezojn de la hau^to k mukozoj: ribo flavino trovig^as libera en la naturo k ankau^ kiel konsistiga parto de kunenzimoj grave rolantaj en la c^ela metabolo. Vd flavnukleotido, flavoproteino.##偽分解(PIV正式分解)
 pied/fleg/i⟦足/护ᶠ/i⟧:【PIV】Pedikuri.
 de/fleks/ig^/o⟦从/弯/成/o⟧:【技】【PIV】La eta kurbig^o de trabo sub troa s^arg^o.
 el/fleks/it/a⟦出/弯/受/a⟧:【PIV】(ark. (arkaismo, arkaisme)) Deformita per fleksig^o: fari kanalon rekta k ne elfleksita, kiel c^iuj riveroj naturaj .
@@ -60732,9 +60732,9 @@ esenc/rezin/o⟦质/脂ᴿ/o⟧:【植】【化】【PIV】Natura au^ artefarita
 gum/rezin/o⟦胶ᴳᴹ/脂ᴿ/o⟧:【PIV】Rezino, enhavanta gumon.
 ole/o/rezin/o⟦油/o/脂ᴿ/o⟧:【PIV】(evi (evitinda)) = esenc rezino.
 fleks/o/rezist/o⟦弯/o/抗ᴿ/o⟧:【技】【PIV】Rezisto kontrau^ fleksado, grava eco por materialprovado.
-de/oksi/rib/oz/o⟦从/氧/醋栗/糖ᴼ/o⟧:【化】【PIV】Sukero (pentozo), kiu diferencas de ribozo nur pro manko de unu atomo de oksigeno, CH 2 OH(CHOH) 2 CH 2 CHO; parto de la molekulo de la deoksi ribonukleaj acidoj. Vd ribo II, nukleo.##偽分解(PIV正式分解)
-plur/ribosom/o⟦多ᴾᴿ/核糖体/o⟧:【PIV】Aro de ribosomoj, kunigitaj de mesag^a RNA, k kiu sintezas proteinojn.
-poli/ribosom/o⟦多ᴾ/核糖体/o⟧:【PIV】Aro de ribosomoj, kunigitaj de mesag^a RNA, k kiu sintezas proteinojn.
+de/oksi/rib/oz/o⟦从/氧/核ᴿ/糖ᴼ/o⟧:【化】【PIV】Sukero (pentozo), kiu diferencas de ribozo nur pro manko de unu atomo de oksigeno, CH 2 OH(CHOH) 2 CH 2 CHO; parto de la molekulo de la deoksi ribonukleaj acidoj. Vd ribo II, nukleo.##偽分解(PIV正式分解)
+plur/rib/o/som/o⟦多ᴾᴿ/核ᴿ/o/体ˢᴹ/o⟧:【PIV】Aro de ribosomoj, kunigitaj de mesag^a RNA, k kiu sintezas proteinojn.##偽分解(PIV正式分解)
+poli/rib/o/som/o⟦多ᴾ/核ᴿ/o/体ˢᴹ/o⟧:【PIV】Aro de ribosomoj, kunigitaj de mesag^a RNA, k kiu sintezas proteinojn.##偽分解(PIV正式分解)
 ek/rid/i⟦始/笑/i⟧:【PIV】Subite ridi (eksplodi per rido ): tiam la gastoj lau^te ekridis .
 mal/rig/i⟦反/索ᴿ/i⟧:【PIV】(tr (transitiva)) Forigi la velojn de vels^ipo.
 inter/rigard/i⟦间/看/i⟧:【PIV】(ntr (netransitiva)) Rigardi unu la alian.

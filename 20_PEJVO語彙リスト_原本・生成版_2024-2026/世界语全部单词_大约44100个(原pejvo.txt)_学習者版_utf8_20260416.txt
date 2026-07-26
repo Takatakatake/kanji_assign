@@ -52574,7 +52574,7 @@ nukle/az/o:【生】【化】【PIV】Enzimo, kiu hidrolizas nuklean acidon: DNA
 nukle/gami/o:【生】【PIV】Kunig^o de du nukleoj dum seksa procezo.##偽分解(PIV正式分解)
 nukle/o/gami/o:【生】【PIV】Kunig^o de du nukleoj dum seksa procezo.##偽分解(PIV正式分解)
 nukle/o/liz/a:【生】【PIV】(pp (se paroli pri) substanco) Detruanta la nukleon de iuj c^eloj, ekz. (ekzemple) kanceraj.
-nukleosom/o:【PIV】= kromatinero.
+nukle/o/som/o:【PIV】= kromatinero.##偽分解(PIV正式分解)
 nukleotid/o:【生】【化】【PIV】Fosfatacida estero de nukleozido; kemia kombinaj^o, konsistanta el nukleobazo, pentozo (c^u ribozo au^ deoksiribozo) k fosfata acido.
 nukle/oz/id/o:【PIV】Vd (vidu) ozo.##偽分解(PIV正式分解)
 nukul/o:【植】【PIV】(nucula) Akeneca frukto, kies s^elo estas ege malmola, ekz. (ekzemple) c^e korilo k rozo.
@@ -54381,8 +54381,8 @@ rezist/iv/o:【PIV】Fizika grando, egala al la rezistanco de drato el iu materi
 rezolut/a:【PIV】Firma en siaj projektoj; senhezita en la plenumado de siaj decidoj: rezoluta karaktero; rezolute apliki agitplanon.
 rezorcinol/o:【化】【PIV】Meta-dihidroksibenzeno, C 6 H 4 (OH) 2, uzata i.a. (interalie, inter aliaj) por fabriki eksplodaj^ojn k medikamentojn.
 rib/oz/o:【化】【PIV】Sukero (pentozo), eltrovita en beroj de ribo, CH 2 OH(CHOH) 3 CHO; parto de la molekulo de la ribonukleaj acidoj. Vd ribo II.##偽分解(PIV正式分解)
-ribosom/o:【生】【PIV】Enc^ela, submikroskopa grajneto, konsistanta el ribonuklea acido (RNA) k proteino, c^e kiu okazas la sintezo de proteinoj.
-ribosom/a:【PIV】Rilata al ribosomo: ribosoma RNA.
+rib/o/som/o:【生】【PIV】Enc^ela, submikroskopa grajneto, konsistanta el ribonuklea acido (RNA) k proteino, c^e kiu okazas la sintezo de proteinoj.##偽分解(PIV正式分解)
+rib/o/som/a:【PIV】Rilata al ribosomo: ribosoma RNA.##偽分解(PIV正式分解)
 ribek/o:【楽】【PIV】Mezepoka trikorda vjolo, ludata per arc^o.
 ribel/ig/i:【PIV】Instigi al ribelo: ankau^ tiun c^i ili jam ribeligis kontrau^ mi! ; morgau^ povos aperi aliaj ribeligantoj . Vd provoki.
 ricel/o:【PIV】Ago riceli.
@@ -60733,8 +60733,8 @@ gum/rezin/o:【PIV】Rezino, enhavanta gumon.
 ole/o/rezin/o:【PIV】(evi (evitinda)) = esenc rezino.
 fleks/o/rezist/o:【技】【PIV】Rezisto kontrau^ fleksado, grava eco por materialprovado.
 de/oksi/rib/oz/o:【化】【PIV】Sukero (pentozo), kiu diferencas de ribozo nur pro manko de unu atomo de oksigeno, CH 2 OH(CHOH) 2 CH 2 CHO; parto de la molekulo de la deoksi ribonukleaj acidoj. Vd ribo II, nukleo.##偽分解(PIV正式分解)
-plur/ribosom/o:【PIV】Aro de ribosomoj, kunigitaj de mesag^a RNA, k kiu sintezas proteinojn.
-poli/ribosom/o:【PIV】Aro de ribosomoj, kunigitaj de mesag^a RNA, k kiu sintezas proteinojn.
+plur/rib/o/som/o:【PIV】Aro de ribosomoj, kunigitaj de mesag^a RNA, k kiu sintezas proteinojn.##偽分解(PIV正式分解)
+poli/rib/o/som/o:【PIV】Aro de ribosomoj, kunigitaj de mesag^a RNA, k kiu sintezas proteinojn.##偽分解(PIV正式分解)
 ek/rid/i:【PIV】Subite ridi (eksplodi per rido ): tiam la gastoj lau^te ekridis .
 mal/rig/i:【PIV】(tr (transitiva)) Forigi la velojn de vels^ipo.
 inter/rigard/i:【PIV】(ntr (netransitiva)) Rigardi unu la alian.

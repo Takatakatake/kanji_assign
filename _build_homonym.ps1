@@ -121,6 +121,18 @@ $existing=@(
  #   ant が分詞接尾 -ant-(在) で描画される誤友が露出。ここでの ant- は希 anti-(反対)なので 抗(=anti)へ。
  #   分詞接尾は disc外ゆえ不発火(在 を維持)。上の heli→日 と対で 抗ᴬ/日ᴴ = 反対側の太陽 と読める。
  @('ant','抗','ant/heli/o','','ant-(希 anti-=反対)→抗: antheli/o 対日像。分詞接尾 -ant-=在 は disc外で維持'),
+ # 2026-07-26 第10レンズ: 正本が ribosom/o → rib/o/som/o(##偽分解(PIV正式分解)) へ分割したため、
+ #   結合形masterの 核糖体 がオーファン化し、成分 rib が【植】スグリ属 Ribes の 醋栗 で描画され
+ #   `rib/o/som/o⟦醋栗/o/体ˢᴹ/o⟧`(=スグリの実の体)という偽の友になっていた。
+ #   ★PIV 自身が `ribo I`(スグリ) と `ribo II`(化学 ribo-) を別項目として立てており
+ #     (riboz/o・deoksi/riboz/o の語釈末尾 "Vd ribo II")、同綴別語であることは原典で確定。
+ #   ★割り当ては 核 ひとつに統一する(ユーザー方針=同綴多義でも可能な限り少ない種類で押し通す)。
+ #     rib/oz     → 核/糖ᴼ      = 核糖(ribose)     ・de/oksi/rib/oz → 从/氧/核/糖 = 脱氧核糖
+ #     rib/o/flav/in → 核/黄/in = 核黄素(riboflavin)・rib/o/enzim   → 核/酵素     = 核酶(ribozyme)
+ #     rib/o/som  → 核/体ˢᴹ                        (中国語 核糖体。核+体で「核の小体」と読める)
+ #     いずれも中国語の標準名と一致するか、透明に読める。2字熟語 核糖 を新設するより字種が増えない。
+ #   果実の rib/o(スグリ)・rib/uj/o・rib/o/ber/o・rib/likvor/o・nigr/a rib/o 等は disc外で 醋栗 を維持。
+ @('rib','核','rib/oz/o,de/oksi/rib/oz/o,rib/o/flav/in/o,rib/o/flavin/o,rib/o/enzim/o,rib/o/som/o,rib/o/som/a,plur/rib/o/som/o,poli/rib/o/som/o','','rib(化学 ribo- = PIV の ribo II)→核: 核糖/脱氧核糖/核黄素/核酶 と中国語標準名に一致。果実 Ribes(醋栗)は同綴別語で disc外維持'),
  # 2026-07-26 正本ドリフト是正: metencefal/o(後脳)が met/encefal/o へ分解され、met が meti(置く)=置 で
  #   描画される誤友が露出。ここでの met- は希 meta-(後方)なので 后(=post)へ。動詞 meti=置・化学 met=甲(天干)は
  #   いずれも disc外/別経路ゆえ不発火。后ᴹ/脑ᴱ = 後脳 と読める。

@@ -113,8 +113,16 @@ foreach($pair in $pairs){
       $sg=@($ww -split '/'); $midHit=$false; for($k=1;$k -lt $sg.Count;$k++){ if($chemMid -contains $sg[$k]){ $midHit=$true } }
       if((($sg -contains 'at') -or ($sg -contains 'it')) -and (($chemAcid -contains $sg[0]) -or $midHit)){ $chemSaltLine=$true }
     }
+    # 2026-07-26 第10レンズ: 感嘆符を含む見出し(挨拶・間投詞)は固有名ではないので、
+    #   §7の大文字ガードを **先頭語だけ** 解除する。文頭で大文字になっただけの普通名詞
+    #   (Bon/an tag/on! の Bon=良・Dank/on! の Dank=谢 等)が丸ごとラテンで残っていた。
+    #   対象46行は全て ［間］/挨拶で固有名は0件、語根も全て割当済み(大半 band=basic=CSV2890)。
+    #   非先頭語の大文字(S^ak/mat! の様な例は現状無いが将来の Bon/an ... Krist/o! 型)は
+    #   ガードを維持するので、固有名の誤漢字化リスクは増えない。
+    $isExclam = ($head -match '!')
+    $w0 = if($words.Count -gt 0){ $words[0] } else { '' }
     $kwords = foreach($w in $words){
-      if(($w -cmatch '^[A-ZĈĜĤĴŜŬ]') -and ($w -notmatch '^[A-ZĈĜĤĴŜŬ]-')){ $w; continue }   # 大文字始=固有名→一律未対応(latin)。Mal/i/o⟦反⟧・Liber/i/o⟦自由⟧・Kolomb⟦鸽⟧等の誤付与を防止(§7。2026-06-20)。※例外: 単一大文字+ハイフン(T-c^el/U-form/X-radi/H-bomb 等=型/略号接頭で固有名でない)はガードせず下のハイフン分解へ→T-胞/U-形/X-射(接頭字ラテン維持・内容形態素を漢字化。§3。2026-06-21)
+      if(($w -cmatch '^[A-ZĈĜĤĴŜŬ]') -and ($w -notmatch '^[A-ZĈĜĤĴŜŬ]-') -and -not ($isExclam -and $w -eq $w0)){ $w; continue }   # 大文字始=固有名→一律未対応(latin)。Mal/i/o⟦反⟧・Liber/i/o⟦自由⟧・Kolomb⟦鸽⟧等の誤付与を防止(§7。2026-06-20)。※例外: 単一大文字+ハイフン(T-c^el/U-form/X-radi/H-bomb 等=型/略号接頭で固有名でない)はガードせず下のハイフン分解へ→T-胞/U-形/X-射(接頭字ラテン維持・内容形態素を漢字化。§3。2026-06-21)
       $segs=@($w -split '/'); $nseg=$segs.Count
 # 化学アルコール -ol は【分節レベル】でラテン化(下の `$s -eq 'ol'` 分岐)。語全体ラテンを廃し偽分解尊重=他分節(ment薄荷/metan沼气/retin网膜/glik糖/mono单/tri三/poli多 等)を活かす(2026-06-22)。比較ol=比は単独語(nseg=1)のみ。di/ol→二・tetra/ol→四 は homonym sep で数詞化
       $firstContent=''; for($j=1;$j -lt $nseg;$j++){ if($segs[$j] -notmatch $endingRe){ $firstContent=$segs[$j]; break } }
