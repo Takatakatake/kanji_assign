@@ -124,6 +124,17 @@ foreach($ln in ($ns -split "`r?`n")){ if($ln -match '^\[K\]' -or $ln -match '★
 if($ns -notmatch '\[K\]'){ Say "[K] 新規露出分節: 実行不可(要 python + _audit_new_segments.py)"; $fail=1 }
 elseif($ns -match '★漢字描画=([1-9]\d*)'){ $fail=1; Say "    !! 漢字描画された新規分節あり → 同綴別語の字を拾っていないか語義照合。確認後 python _audit_new_segments.py --accept" }
 
+# --- L. 配信エクスポートの同期(2026-07-26 第14レンズで新設) ---
+# 正本(DICT)のドリフトは [D] が検出するのに、**配信面のドリフトには検出器が無かった**。
+# 2026-07-26、アプリ側から「注入版とエクスポートの食い違い17件」の報告があり、原因は
+# エクスポートが4時間古かっただけだった(注入を直したらエクスポートも再生成する、という
+# 人間の記憶に頼る運用が実際に破れた)。1行でも食い違えば fail させる。
+# 直し方: python _gen_export.py "コメント"
+$ex = & python "$dir\_audit_export_sync.py" *>&1 | Out-String
+foreach($ln in ($ex -split "`r?`n")){ if($ln -match '^\[L\]' -or $ln -match '^\s+#\d' -or $ln -match '^\s+\.\.\. 他'){ Say $ln } }
+if($ex -notmatch '\[L\]'){ Say "[L] 配信エクスポート同期: 実行不可(要 python + _audit_export_sync.py)"; $fail=1 }
+elseif($ex -match '★描画が食い違う行|行数不一致|存在しない'){ $fail=1; Say "    !! 配信エクスポートが古い → python _gen_export.py で再生成してからコミット" }
+
 # --- 総括 ---
 $verdict='全PASS(健全・同期も最新)'
 if($fail -ne 0){ $verdict='要対応(ハード違反あり)' } elseif($drift -ne 0){ $verdict='不変条件PASSだが WSL再同期推奨' } elseif($newInc -ne '0' -and $newInc -ne '?'){ $verdict='不変条件PASSだが 新規偽分解不整合の点検推奨' }
