@@ -4489,9 +4489,9 @@
   arh^iv         档ᴬᴴ̂       F=1     pejvo   
 
 【气学】 4件
-  aerologi       气学         F=1     piv     
+  meteologi      气学         F=1     piv     
+  aerologi       气学ᴬ        F=1     piv     
   atmosferologi  气学ᴬᵀ       F=1     piv     
-  meteologi      气学ᴹ        F=1     piv     
   meteorologi    气学ᴹᴿ       F=1     piv     
 
 【气计】 4件
@@ -5270,8 +5270,8 @@
   hips           高ᴴ         F=3     pejvo   
 
 【高计】 3件
-  altimetr       高计         F=1     piv     
-  altometr       高计ᴬᴼ       F=1     piv     
+  altometr       高计         F=1     piv     
+  altimetr       高计ᴬᴵ       F=1     piv     
   hipsometr      高计ᴴ        F=1     piv     
 
 【号】 3件
@@ -6060,8 +6060,8 @@
   arek           棕ᴬ         F=3     piv     【植】ビンロウジュ属
 
 【气学家】 3件
-  aerolog        气学家        F=1     piv     
-  meteolog       气学家ᴹ       F=1     piv     
+  meteolog       气学家        F=1     piv     
+  aerolog        气学家ᴬ       F=1     piv     
   meteorolog     气学家ᴹᴿ      F=1     piv     
 
 【爬】 3件
@@ -7677,8 +7677,8 @@
   pod            足ᴾᴼ        F=29    sci     
 
 【速计】 2件
-  takimetr       速计         F=1     piv     
-  rapidometr     速计ᴿ        F=1     piv     
+  rapidometr     速计         F=1     piv     
+  takimetr       速计ᵀ        F=1     piv     
 
 【属】 2件
   aparten        属          F=6     basic   
@@ -8801,12 +8801,12 @@
   deont          义ᴰ         F=2     piv     【哲】義務論・倫理学
 
 【乐家】 2件
-  hedonist       乐家         F=1     piv     
-  optimist       乐家ᴼ        F=1     piv     
+  optimist       乐家         F=1     piv     
+  hedonist       乐家ᴴ        F=1     piv     
 
 【乐主义】 2件
-  hedonism       乐主义        F=1     piv     
-  optimism       乐主义ᴼ       F=1     piv     
+  optimism       乐主义        F=1     piv     
+  hedonism       乐主义ᴴ       F=1     piv     
 
 【书】 2件
   libr           书          F=93    basic   
@@ -9361,8 +9361,8 @@
   penal          罚ᴾᴸ        F=3     pejvo   
 
 【肠炎】 2件
-  ileit          肠炎         F=1     piv     
-  enterit        肠炎ᴱ        F=1     piv     
+  enterit        肠炎         F=1     piv     
+  ileit          肠炎ᴵ        F=1     piv     
 
 【肾】 2件
   ren            肾          F=10    basic   

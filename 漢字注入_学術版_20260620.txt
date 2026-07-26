@@ -1380,7 +1380,7 @@ alt/nivel/a⟦高/平ᴺ/a⟧:水準の高い,程度の高い,高度な
 alt/o⟦高/o⟧:高さ,身長,>>larg^o,>>longo
 alt/o/fobi/o⟦高/o/症/o⟧:【病】高所恐怖症
 alt/o/kumulus/o⟦高/o/积ᴷ/o⟧:【気】高積雲
-altometr/o⟦高计ᴬᴼ/o⟧:【理】高度計
+altometr/o⟦高计/o⟧:【理】高度計
 alt/o/salt/i⟦高/o/跳/i⟧:［自］【運】高跳びをする
 alt/o/salt/o⟦高/o/跳/o⟧:【運】高跳び
 alt/o/stratus/o⟦高/o/层ˢ/o⟧:【気】高層雲
@@ -9654,7 +9654,7 @@ en/ten/i⟦内/持/i⟧:［他］（中に）含んでいる;内容としてい�
 en/ten/o⟦内/持/o⟧:【化】含有量,含有率
 en/ter/ig/a⟦内/地/使/a⟧:埋葬の
 en/ter/ig/i⟦内/地/使/i⟧:［他］埋める;埋葬する;《転》葬り去る
-enterit/o⟦肠炎ᴱ/o⟧:【病】腸炎,=intesta inflamo
+enterit/o⟦肠炎/o⟧:【病】腸炎,=intesta inflamo
 en/tir/i⟦内/拉/i⟧:［他］引き込む,引っ張り込む
 entjer/o⟦整ᴱ/o⟧:【数】整数
 ent/o:【哲】存在者;《般》存在（物）,実体
@@ -25186,13 +25186,13 @@ metatars/o⟦超足根/o⟧:【解】中足（ちゅうそく）;中足骨
 metatez/o:【声】音位転換
 metazo/oj⟦后生/oj⟧:【動】後生動物
 metempsikoz/o⟦轮回/o⟧:{Ｏ}【宗】輪廻（りんね）
-meteologi/a bulten/o⟦气学ᴹ/a 报ᴮ/o⟧:【気】気象通報
-meteologi/a observatori/o⟦气学ᴹ/a 天文台/o⟧:気象台
-meteologi/a radar/o⟦气学ᴹ/a radar/o⟧:【気】気象レーダー
-meteologi/a satelit/o⟦气学ᴹ/a 星ˢᵀ/o⟧:気象衛星
+meteologi/a bulten/o⟦气学/a 报ᴮ/o⟧:【気】気象通報
+meteologi/a observatori/o⟦气学/a 天文台/o⟧:気象台
+meteologi/a radar/o⟦气学/a radar/o⟧:【気】気象レーダー
+meteologi/a satelit/o⟦气学/a 星ˢᵀ/o⟧:気象衛星
 Meteologi/a Sub/ministeri/o:気象庁
-meteologi/o⟦气学ᴹ/o⟧:気象学,=meteorologio
-meteolog/o⟦气学家ᴹ/o⟧:気象学者,=meteorologo
+meteologi/o⟦气学/o⟧:気象学,=meteorologio
+meteolog/o⟦气学家/o⟧:気象学者,=meteorologo
 meteor/a dus^/o⟦陨/a 淋/o⟧:【天】流星雨
 meteorism/o⟦陨主义/o⟧:【医】鼓腸
 meteor/o⟦陨/o⟧:{Ｏ}【天】流星,=falstelo;【気】大気現象,=atmosfera fenomeno
@@ -28550,9 +28550,9 @@ optik/a voj/long/o⟦光学/a 路/长/o⟧:【光】光路,=optika distanco
 optik/a zom/o⟦光学/a 变焦/o⟧:【写】光学ズーム
 optik/ist/o⟦光学/家/o⟧:光学者;眼鏡屋
 optik/o⟦光学/o⟧:{Ｏ}光学
-optimism/a⟦乐主义ᴼ/a⟧:楽天的な,楽観的な
-optimism/o⟦乐主义ᴼ/o⟧:{Ｏ}【哲】オプティミズム,楽天主義;楽観,><pesimismo
-optimist/o⟦乐家ᴼ/o⟧:{Ｏ}オプティミスト,楽天主義者;楽天家,><pesimisto
+optimism/a⟦乐主义/a⟧:楽天的な,楽観的な
+optimism/o⟦乐主义/o⟧:{Ｏ}【哲】オプティミズム,楽天主義;楽観,><pesimismo
+optimist/o⟦乐家/o⟧:{Ｏ}オプティミスト,楽天主義者;楽天家,><pesimisto
 optimum/o⟦优ᴼ/o⟧:【学】最適条件
 or/a⟦金/a⟧:金の,黄金の,金製の;金色の;《転》（金のように）貴重な,すばらしい
 or/a agl/o⟦金/a 雕/o⟧:【鳥】=reg^a aglo（イヌワシ）
@@ -33085,7 +33085,7 @@ rapid/mang^/aj^/o⟦速/食/物/o⟧:ファストフード
 rapid/mang^/ej/o⟦速/食/所/o⟧:ファストフード店
 rapid/mov/a⟦速/动/a⟧:すばやい,敏捷な,機敏な
 rapid/o⟦速/o⟧:【理】速度;=rapidumo
-rapidometr/o⟦速计ᴿ/o⟧:【機】速度計,=rapidindikilo
+rapidometr/o⟦速计/o⟧:【機】速度計,=rapidindikilo
 rapid/pens/a⟦速/思/a⟧:頭の回転の早い,機転の利く
 rapid/pied/a⟦速/足/a⟧:足の速い
 rapid/s^ang^/il/o⟦速/变/具/o⟧:【機】変速装置
@@ -42777,7 +42777,7 @@ Vas^ington/o:{Ｏ}【人名】ワシントン
 Vas^ington/o:{Ｏ}【地名】ワシントン（米国の首都）
 vat/baston/et/o⟦棉/棒/小/o⟧:綿棒
 vat/bul/o⟦棉/团ᴮ/o⟧:（止血用）綿球
-Vaterlo:【地名】ワーテルロー（ベルギー）
+Vaterl/o:【地名】ワーテルロー（ベルギー）
 vat/hor/o⟦瓦ⱽ/钟/o⟧:【理】ワット時（電力量の単位，Wh）
 vathorometr/o⟦瓦钟计/o⟧:【理】積算電力量計,>>vatmetro
 vat/i⟦棉/i⟧:［他］綿を入れる
@@ -44526,8 +44526,8 @@ aerodin/o:【PIV】G^enerala nomo por iu ajn aviadilo, kiu estas pli peza ol la 
 aerofor/o:【技】【PIV】Aparato, ekipita per premaerujo (pneu^mata ujo), servanta por savado.
 aer/o/fram/o⟦气/o/框ᶠ/o⟧:【PIV】(ark. (arkaismo, arkaisme)) C^elo de aviadilo sen motoro k sen ekipaj^aro.
 aerogram/o⟦气图/o⟧:【PIV】1 Malpeza aerpos^ta letero, ekspedata je reduktita prezo. 2【気】Speciala diagramo de la rilato inter temperaturo k humideco en la atmosfero.
-aerolog/o⟦气学家/o⟧:【PIV】Spertulo pri aerologio.
-aerologi/o⟦气学/o⟧:【PIV】Scienco pri la esplorado de la altaj aertavoloj en la atmosfero.
+aerolog/o⟦气学家ᴬ/o⟧:【PIV】Spertulo pri aerologio.
+aerologi/o⟦气学ᴬ/o⟧:【PIV】Scienco pri la esplorado de la altaj aertavoloj en la atmosfero.
 aerometri/o⟦气测/o⟧:【PIV】Scienco pri la fizikaj ecoj de la aero.
 afanipter/oj:【動】【PIV】Ordo (Aphaniptera) de senflugilaj, saltantaj insektoj, kun suc^a au^ pika bus^o, k pasantaj tra pupa stadio; al tiu ordo apartenas ekz. (ekzemple) la puloj.
 Afar/o:【PIV】Afrika kavig^ego, situanta c^efe en Etiopio: Afara au^stralopiteko.
@@ -44842,7 +44842,7 @@ altern/ec/o⟦替/性/o⟧:【PIV】Eco de io alterna: alterneco de kurento.
 altern/ig/i⟦替/使/i⟧:【PIV】Fari, ke iaj aferoj alternu: alternigi la blankajn k nigrajn s^tonkubojn en mozaiko; alternigi la virojn k virinojn c^irkau^ tablo.
 altern/il/o⟦替/具/o⟧:【電】【PIV】Aparato, kiu produktas alternan kurenton per elektromagneta indukto.
 alternativ/ul/o⟦替ᴬᵀ/者/o⟧:【PIV】Ano de alternativa idearo au^ movado: tiuj alternativuloj, inter ili ofte verduloj .
-altimetr/o⟦高计/o⟧:【PIV】= altometro.
+altimetr/o⟦高计ᴬᴵ/o⟧:【PIV】= altometro.
 altitud/a⟦高ᴬᵀ/a⟧:【医】【PIV】Rilata al altitudo: altituda malsano (malsano de personoj, kiuj rapide supreniras al altecoj ne kutimaj por ili).
 aluat/o⟦猴ᴬᵀ/o⟧:【動】【PIV】G. (Genro) (Alouatta) de Amerikaj simioj el la fam. (familio) de cebedoj, kun tre dika gorg^o k fortega voc^o, konataj pro sia blekado au^ kantado. Sin. (sinonimo) bleksimio.
 alumini/a⟦铝/a⟧:【PIV】Rilata al aluminio: aluminia klorido (AlCl 3); aluminia folio, stango, lado, anso de pordo.
@@ -48782,8 +48782,8 @@ hebre/in/o⟦hebre/女/o⟧:【PIV】Virino hebrea.
 hebre/ist/o⟦hebre/家/o⟧:【PIV】Studanto de la hebrea lingvo au^ religio.
 Nov-Hebrid/oj:【PIV】Eksa nomo de la insularo Vanuatuo. (168°E, 16°S).
 hedizar/o⟦豆ᴴᶻ/o⟧:【植】【PIV】G. (Genro) (Hedysarum el fabacoj) de plantoj - unu-k plur-jaraj herboj k arbustetoj - kun nepare plume kunmetaj folioj, kun floroj en akselaj grapoloj k kun gus^o el nedehiskaj, plataj segmentoj; c^. (c^irkau^) 100 sp-oj (specioj) el N hemisfero, iuj kultivataj por ornamo, aliaj por furag^o.
-hedonism/o⟦乐主义/o⟧:【哲】【PIV】Etika tendenco, vidanta celon k motivon de la homa agado en serc^o de la plezuro.
-hedonist/o⟦乐家/o⟧:【PIV】Adepto de hedonismo.
+hedonism/o⟦乐主义ᴴ/o⟧:【哲】【PIV】Etika tendenco, vidanta celon k motivon de la homa agado en serc^o de la plezuro.
+hedonist/o⟦乐家ᴴ/o⟧:【PIV】Adepto de hedonismo.
 Hedvig/o:【PIV】Virina nomo.
 Hegel/an/o:【PIV】Disc^iplo de Hegelo.
 hej!:【PIV】Interj. (Interjekcio) uzata por kurag^igi, por instigi al gajo ks (kaj simile, kaj similaj). Vd aj!
@@ -49314,7 +49314,7 @@ iktiosau^r/ul/oj⟦鱼龙/者/oj⟧:【PIV】Fis^osau^roj.
 iktioz/o:【医】【PIV】Sekeco de la hau^to kun senc^esa disskvamig^o, kio donas al g^i similecon kun la hau^to de fis^oj au^ reptilioj: iktiozo estas denaska misformig^o.
 il/aj^/o⟦具/物/o⟧:【情】【PIV】Ilprogramo.
 il/uj/o⟦具/器/o⟧:【PIV】Ujo, en kiu oni konservas ilo(j)n. Vd ilkesto.
-ileit/o⟦肠炎/o⟧:【医】【PIV】Inflamo de la ileo.
+ileit/o⟦肠炎ᴵ/o⟧:【医】【PIV】Inflamo de la ileo.
 ili/o⟦他们/o⟧:【解】【PIV】(os ilium) La plej granda el la tri au^ kvar ostoj, kiuj formas la pelvon de la vertebruloj; c^e la mamuloj, ilio formas la supran parton de la koksosto. Vd iskio, pubio.
 iliak/o⟦盆骨/o⟧:【解】【PIV】Koksosto.
 iliak/a⟦盆骨/a⟧:【PIV】Rilata al la iliako au^ najbara al g^i.
@@ -55873,7 +55873,7 @@ takeometr/o:【PIV】Speco de simpligita teodolito, servanta por rapide maldetal
 takeometri/o:【PIV】Tuto de la procedoj, per kiuj oni faras topografian mapon pere de takeometro. Vd teodolito.
 takigraf/o⟦速记/o⟧:【技】【PIV】Aparato kiu au^tomate registras la rapidon de veturilo sub formo de diagramo.
 takikardi/o⟦速心/o⟧:【生】【医】【PIV】Normala au^ nenormala akcelo de la kora pulsado.
-takimetr/o⟦速计/o⟧:【PIV】(evi (evitinda)) = rapidometro.
+takimetr/o⟦速计ᵀ/o⟧:【PIV】(evi (evitinda)) = rapidometro.
 takipne/o:【医】【PIV】Tre rapida spirado.
 taks/a⟦评/a⟧:【PIV】Rilata al taksado: taksa prezo, valoro.
 taks/il/o⟦评/具/o⟧:【PIV】Aparato por registri k kalkuli la koston de telefonaj komunikadoj.
@@ -57338,7 +57338,7 @@ ot/o⟦耳ᴼᵀ/o⟧:【医】【PIV】Orelo.
 Baal-Zebul:【聖】【PIV】Titolo («Sinjoro de la Sidejo») de Alijan, dio de la fontoj.
 dors/antau^/a⟦背/前/a⟧:【PIV】Tia, ke en tiu pozicio oni turnas la dorson al la irdirekto: veturadon sur la dors antau^a loko g^i ne povis traelporti .
 frog/al/o⟦辙叉/翼ᴬ/o⟧:【PIV】Vd (vidu) frogo.
-gastr/o/enterit/o⟦胃ᴳ/o/肠炎ᴱ/o⟧:【PIV】Vd (vidu) gastro.
+gastr/o/enterit/o⟦胃ᴳ/o/肠炎/o⟧:【PIV】Vd (vidu) gastro.
 gorg^/fund/o⟦喉/底/o⟧:【PIV】Vd (vidu) gorg^o.
 hak/funkci/o⟦砍/功/o⟧:【PIV】Vd (vidu) haki.
 hemianopsi/o⟦半盲/o⟧:【PIV】Anopsio en duono (dekstra au^ maldekstra) de la vidokampo.

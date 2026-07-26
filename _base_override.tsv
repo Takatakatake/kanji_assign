@@ -121,3 +121,22 @@
 # 禾群の基本形を廃用形 gramin(【PIV】evitinda=gramineo) から正規の gramine(イネ科・PEJVO層)へ。
 # 生物名369語根投入で禾群にPEJVO層3語根が加わり、[I]NEW_SYNONYM_REVERSAL として検出(2026-07-26 第27回続24)。
 禾	gramine
+# 【2026-07-26 第27回続28 第8レンズ】層順逆転7群を是正=無印をPIV層からPEJVO本体層へ移す。
+#   検出: 識別子コストの階層勾配を測る過程で、_p_work.csv の band 誤ラベル(PIV実体なのに band=pejvo、
+#   および両者とも band=piv)により band_rank が同着になり、P値(頻度・画数)だけで基本形が決まって
+#   PIV語根が無印を奪っていた群を発見。既存の [I] 逆転検査は band を層の代理に使うため原理的に見えない。
+#   層は【両版の見出し分節としての初出行】で独立判定(複合語・空白見出しも算入)。
+#   上記 禾→gramine(廃用形からの是正) と同型。漢字・分解・字種は不変で、動くのは無印の所在のみ。
+#   ★7群とも独立エージェントの敵対的反証を通過。churn は両版合計20行(学習者版はほぼ0)。
+#   速计: takimetr は PIV が (evi)=rapidometro と明示する非推奨形 → rapidometr(本体L33088)へ
+#   高计: altimetr は PIV 定義が「= altometro.」の相互参照のみ → altometr(本体L1383)へ
+#   气学/气学家: aerologi/aerolog(PIV L44530/44529) → meteologi/meteolog(本体L25189/25195)。対で移す
+#   肠炎: ileit(回腸炎=下位概念,PIV専用) → enterit(腸炎そのもの,本体L9657)
+#   乐主义/乐家: hedonism/hedonist(PIV専用・和訳なし) → optimism/optimist(本体L28553/28555)。対で移す
+速计	rapidometr
+高计	altometr
+气学	meteologi
+气学家	meteolog
+肠炎	enterit
+乐主义	optimism
+乐家	optimist

@@ -1,13 +1,11 @@
 # 優先順位(層順)包括監査 v3 台帳  CSV2890(t0)>PEJVO(t1)>PIV(t2) を独立ground-truthで検証
 # tier: CSV2890=CSVを独立照合 / PEJVO・PIV=学術版原本の行位置+【PIV】タグ (band非依存)
 # base=min band_rank は C=br*1000+P で構造保証。逆転はband誤ラベル/意図的override時のみ。
-# CSV2890照合: rows=2890 matched=2508(86.8%) 語根=2413 未照合rows=382
+# CSV2890照合: rows=2890 matched=2799(96.9%) 語根=2695 未照合rows=91
 
-## [A] 層順逆転(bare.tier より高優先=小tierのメンバーが非base) = 全44件
-#   NEW=0(0が必須=未説明の違反) / base_override=18(意図) / ratified現状維持=26(既知20群)
+## [A] 層順逆転(bare.tier より高優先=小tierのメンバーが非base) = 全37件
+#   NEW=0(0が必須=未説明の違反) / base_override=18(意図) / ratified現状維持=19(既知20群)
 groupkey	base	base_tier	高優先メンバー(逆転相手)	分類
-乐主义	hedonism	2=PIV	optimism(t1=PEJVO)	ratified
-乐家	hedonist	2=PIV	optimist(t1=PEJVO)	ratified
 傲	arog	1=PEJVO	arogant(t0=CSV2890)	base_override
 千足	kilopod	2=PIV	skolopendr(t1=PEJVO)	base_override
 厘	centi	1=PEJVO	centimetr(t0=CSV2890)	base_override
@@ -20,8 +18,6 @@ groupkey	base	base_tier	高優先メンバー(逆転相手)	分類
 架	rak	2=PIV	trus(t1=PEJVO);stabl(t1=PEJVO);c^arpent(t1=PEJVO);skafald(t1=PEJVO);c^asi(t1=PEJVO)	ratified
 梗	infarkt	2=PIV	pedunkl(t1=PEJVO)	ratified
 榕	fikus	2=PIV	sikomor(t1=PEJVO)	base_override
-气学	aerologi	2=PIV	meteologi(t1=PEJVO);meteorologi(t1=PEJVO)	ratified
-气学家	aerolog	2=PIV	meteolog(t1=PEJVO);meteorolog(t1=PEJVO)	ratified
 气计	gasmetr	2=PIV	aerometr(t1=PEJVO);gasometr(t1=PEJVO)	ratified
 水苏	staki	2=PIV	betonik(t1=PEJVO)	base_override
 渗计	osmozmetr	2=PIV	osmozometr(t1=PEJVO)	ratified
@@ -33,7 +29,6 @@ groupkey	base	base_tier	高優先メンバー(逆転相手)	分類
 硫	sulf	2=PIV	sulfur(t1=PEJVO)	ratified
 神经学	nervologi	2=PIV	neu^rologi(t1=PEJVO)	ratified
 秧鸡	ral	2=PIV	fulik(t1=PEJVO);galinol(t1=PEJVO);galinul(t1=PEJVO)	base_override
-肠炎	ileit	2=PIV	enterit(t1=PEJVO)	ratified
 胃炎	gastrit	2=PIV	stomakit(t1=PEJVO)	ratified
 胖	obez	2=PIV	korpulent(t1=PEJVO)	ratified
 胚源	embrigenez	2=PIV	embriogenez(t1=PEJVO)	ratified
@@ -45,22 +40,19 @@ groupkey	base	base_tier	高優先メンバー(逆転相手)	分類
 蔓	sarment	2=PIV	lian(t1=PEJVO)	base_override
 蛾	mote	2=PIV	hermini(t1=PEJVO);bombiks(t1=PEJVO)	base_override
 蠕	helmint	2=PIV	trikin(t1=PEJVO)	base_override
-速计	takimetr	2=PIV	rapidometr(t1=PEJVO)	ratified
 金丝燕	salangan	2=PIV	apus(t1=PEJVO);cipsel(t1=PEJVO)	base_override
 香脂	ladan	2=PIV	mirh(t1=PEJVO)	base_override
 高测	altometri	2=PIV	hipsometri(t1=PEJVO)	ratified
-高计	altimetr	2=PIV	altometr(t1=PEJVO);hipsometr(t1=PEJVO)	ratified
 
 ## [B] CSV2890語根の band誤ラベル(br0でない=優先度喪失の温床) = 39件(うち非bare=20)
 #   CSV2890は band∈basic/suf/pref/prep/correl/num/func(br0) が正。bare=True(単独/基本形)なら無害・
 #   bare=False(非基本形)は同綴群で下位語にbaseを譲っている可能性=要点検。
 root	band	tier	bare?	groupkey	Unified_Level
-c^asi	pejvo	PEJVO	False	架	5.83
 cigar	pejvo	PEJVO	False	烟	9.0
 citron	pejvo	PEJVO	False	果	7.9
+dimanĉ	cal	PEJVO	False	日	3.77
 gitar	pejvo	PEJVO	False	琴	8.79
 ju	pejvo	PEJVO	False	越	6.83
-kau^ri	piv	PIV	False	木	8.79
 kvi	piv	PIV	False	静	1.77
 lund	cal	PEJVO	False	月	3.77
 mard	cal	PEJVO	False	火	3.77
@@ -75,13 +67,14 @@ tam	piv	PIV	False	草	1.77
 ve	pejvo	PEJVO	False	哀	8.79
 vendred	cal	PEJVO	False	金	3.77
 violon	pejvo	PEJVO	False	琴	8.9
+ĵaŭd	cal	PEJVO	False	木	3.77
 april	cal	PEJVO	True	四月	3.77
+aŭgust	cal	PEJVO	True	八月	3.77
 bronz	pejvo	PEJVO	True	青铜	8.9
 decembr	cal	PEJVO	True	十二月	3.77
 februar	cal	PEJVO	True	二月	3.77
 ha	pejvo	PEJVO	True	啊	5.67
 ho	pejvo	PEJVO	True	喂	5.67
-j^uri	pejvo	PEJVO	True	陪审	8.4
 januar	cal	PEJVO	True	一月	3.77
 juli	cal	PEJVO	True	七月	3.77
 juni	cal	PEJVO	True	六月	3.77
@@ -122,7 +115,7 @@ alkaloid	1217	碱似	True
 alopati	1279	异病	True
 alsin	1309	草	False
 alternator	1359	替具	True
-altometr	1383	高计	False
+altometr	1383	高计	True
 altruism	1394	他主义	True
 altruist	1396	他家	True
 ameboid	1522	变形虫似	True
@@ -304,7 +297,7 @@ endoplasm	9422	内浆	True
 endoskop	9426	内镜	True
 endosmoz	9427	内渗	True
 endoterm	9428	内热	True
-enterit	9657	肠炎	False
+enterit	9657	肠炎	True
 entomologi	9663	虫学	True
 entomolog	9664	虫学家	True
 ependimit	9725	室膜炎	True
@@ -577,8 +570,8 @@ metamorfoz	25178	超形症	True
 metapsiki	25183	超心	True
 metastabil	25184	超稳	True
 metatars	25185	超足根	True
-meteologi	25194	气学	False
-meteolog	25195	气学家	False
+meteologi	25194	气学	True
+meteolog	25195	气学家	True
 meteorism	25197	陨主义	True
 meteorologi	25201	气学	False
 meteorolog	25202	气学家	False
@@ -660,8 +653,8 @@ oksigen	28273	氧生	True
 ondometr	28441	波计	True
 ontogenez	28474	在源	True
 ontologi	28476	存在学	True
-optimism	28553	乐主义	False
-optimist	28555	乐家	False
+optimism	28553	乐主义	True
+optimist	28555	乐家	True
 organism	28674	器主义	True
 orientalism	28709	东主义	True
 orientalist	28710	东家	True
@@ -767,7 +760,7 @@ radiolog	32941	射学家	True
 radiometr	32942	射计	True
 radioskopi	32947	射镜	True
 radioterapi	32955	射疗	True
-rapidometr	33088	速计	False
+rapidometr	33088	速计	True
 recit	33257	再引	True
 referat	33306	报被	True
 refleksologi	33319	反射学	True
@@ -933,12 +926,12 @@ groupkey	base(接辞)	base_band	basic衛星(CSV2890内容語)	分類
 前	antaŭ	prep	front(8.9)	func_layer
 加	plus	func	adici(8.4)	func_layer
 千	mil	num	kilometr(8.0)	func_layer
-单	mono	pref	menu(8.9);fraŭl(?);singular(9.0)	func_layer
+单	mono	pref	menu(8.9);fraŭl(2.77);singular(9.0)	func_layer
 原	pra	pref	original(6.83);primitiv(8.79)	func_layer
 反	mal	pref	opon(9.0);ironi(8.9)	func_layer
 受	it	suf	akcept(3.27)	func_layer
 器	uj	suf	organ(6.33);vaz(7.9);aparat(6.33);instrument(8.4)	func_layer
-因	ĉar	func	kaŭz(?);faktor(8.79)	func_layer
+因	ĉar	func	kaŭz(3.27);faktor(8.79)	func_layer
 女	in	suf	feminism(8.79)	func_layer
 始	ek	pref	komenc(2.27)	func_layer
 子	id	suf	atom(8.9)	func_layer
@@ -966,12 +959,11 @@ groupkey	base(接辞)	base_band	basic衛星(CSV2890内容語)	分類
 过	int	suf	pas(2.77)	func_layer
 逆	retro	pref	spit(8.79);invers(8.79)	func_layer
 
-## 未照合CSV行(参考) = 382件
+## 未照合CSV行(参考) = 91件
 #   [2026-07-21 WF検証=良性確定] 未照合=割当可能な語根を持たない項目(文法語尾/機能語/固有名§7/一级字なし借用語/複合)
 #   =baseを失いようがない=違反リスク0。caretはto_hsys既対応で低照合率は正規化バグでない(rootless項目が分母)。実被覆≈96.6%。
 ?	-a
 ?	-as
-?	-aĉ-
 ?	-e
 ?	-i
 ?	-is
@@ -992,40 +984,41 @@ groupkey	base(接辞)	base_band	basic衛星(CSV2890内容語)	分類
 ?	Eŭropo
 ?	Mediteraneo
 ?	Pacifiko
-?	adiaŭ
-?	afiŝo
-?	almenaŭ
-?	ambaŭ
-?	ankaŭ
-?	ankoraŭ
-?	anstataŭ
-?	antaŭ
-?	anĝelo
-?	apenaŭ
-?	aplaŭdi
-?	aranĝi
-?	arĝento
-?	aĉeti
-?	aĝo
-?	aŭ
-?	aŭdi
-?	aŭgusto
-?	aŭskulti
-?	aŭto
-?	aŭtobuso
-?	aŭtomato
-?	aŭtomobilo
-?	aŭtoritato
-?	aŭtoro
-?	aŭtuno
-?	baldaŭ
-?	bandaĝo
-?	bedaŭri
-?	branĉo
-?	broŝuro
-?	burĝono
-?	buĝeto
-?	buŝo
-?	danĝero
-?	dediĉi
-?	deĵori
+?	je
+?	kafo
+?	la
+?	nilono
+?	salato
+?	sofo
+?	ĉokolado
+?	-i-
+?	Biblio
+?	Budho
+?	Islamo
+?	Kristo
+?	Oceanio
+?	baleto
+?	brajlo
+?	eŭro
+?	japano
+?	k.t.p.
+?	katoliko
+?	latino
+?	majonezo
+?	mozaiko
+?	utopio
+?	viskio
+?	vitamino
+?	ĵazo
+?	aviad/ilo
+?	brak/umi
+?	daŭr/igi
+?	de/pendi
+?	de/teni (sin)
+?	dev/ont/igi
+?	el/doni
+?	el/turn/iĝi
+?	emajlo
+?	est/igi
+?	fi!
+?	for/esti

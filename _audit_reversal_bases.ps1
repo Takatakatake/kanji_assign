@@ -6,14 +6,17 @@
 $ErrorActionPreference='Stop'
 $dir=$PSScriptRoot
 # 群漢字 => @(基本形, partner語根...)
+# 2026-07-26 第27回続28(第8レンズ): 20群のうち★7群の期待基本形をPIV側→PEJVO本体側へ更新した。
+#   气学 气学家 高计 肠炎 速计 乐主义 乐家 = _base_override.tsv で無印を上位層へ移した群(学術版20行のみ変化・漢字不変)。
+#   残り13群は現状維持(据置理由は _base_override.tsv および方針書§14の続28項を参照)。
 $groups=[ordered]@{
-  '蛾'=@('mote','bombiks'); '气学家'=@('aerolog','meteolog'); '气学'=@('aerologi','meteologi')
-  '气计'=@('gasmetr','aerometr','gasometr'); '高计'=@('altimetr','altometr','hipsometr'); '高测'=@('altometri','hipsometri')
+  '蛾'=@('mote','bombiks'); '气学家'=@('meteolog','aerolog'); '气学'=@('meteologi','aerologi')
+  '气计'=@('gasmetr','aerometr','gasometr'); '高计'=@('altometr','altimetr','hipsometr'); '高测'=@('altometri','hipsometri')
   '脉炎'=@('flebit','vejnit'); '菌学'=@('mikologi','bakteriologi'); '苔植'=@('brifit','briofit')
   '胚源'=@('embrigenez','embriogenez'); '拍型'=@('fototip','fototipi'); '胃炎'=@('gastrit','stomakit')
-  '乐主义'=@('hedonism','optimism'); '乐家'=@('hedonist','optimist'); '肠炎'=@('ileit','enterit')
+  '乐主义'=@('optimism','hedonism'); '乐家'=@('optimist','hedonist'); '肠炎'=@('enterit','ileit')
   '色计'=@('kolormetr','kolorometr'); '神经学'=@('nervologi','neu^rologi'); '振具'=@('vibrator','oscilator')
-  '渗计'=@('osmozmetr','osmozometr'); '速计'=@('takimetr','rapidometr')
+  '渗计'=@('osmozmetr','osmozometr'); '速计'=@('rapidometr','takimetr')
 }
 # sidecar: groupkey別の無印基本形
 $bases=@{}

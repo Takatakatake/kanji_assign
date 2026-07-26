@@ -56,8 +56,16 @@ with io.open("_identifier_sidecar.tsv", encoding='utf-8') as f:
         p = [x.strip().strip('"') for x in line.rstrip('\n').split('\t')]
         if len(p) < 8: continue
         rows.append({'root': p[0], 'id': p[2], 'band': p[5], 'gk': p[7]})
-allroots = set(r['root'] for r in rows)          # sidecarの語根は既にx-convention
+allroots = set(r['root'] for r in rows)
 bandByRoot = {r['root']: r['band'] for r in rows}
+# 2026-07-26 第8レンズで是正: sidecarの語根は x-convention 統一ではなく
+#   Unicode表記298 / h-system表記508 の混在(basic層=CSV2890中核ほどUnicode表記)。
+#   照合側だけ to_hsys していたため CSV2890中核が当たらず(照合86.8%)、
+#   さらに同綴の別語根に流れる誤ヒット(c^asi=シャーシー/g^eni/j^uri/kau^ri)が出ていた。
+#   → 両表記が同一綴りに潰れる衝突は0件を確認済みなので、h-system正規形で索引する。
+hs2root = {}
+for r in allroots: hs2root.setdefault(to_hsys(r), r)
+hsroots = set(hs2root)
 
 # --- CSV2890 独立読み込み + 語根照合(band非依存) ---
 csv_roots = set(); csv_level = {}; csv_rows = 0; matched_rows = 0; unmatched = []
@@ -81,13 +89,14 @@ with io.open(CSVF, encoding='utf-8') as f:
                 stripped = None
                 for e in ENDINGS:
                     if t.endswith(e) and len(t) > len(e): stripped = t[:-len(e)]; break
-                if stripped and stripped in allroots: cands = [stripped]
-                elif t in allroots:                   cands = [t]
-                elif stripped:                        cands = [stripped]
+                if stripped and stripped in hsroots: cands = [stripped]
+                elif t in hsroots:                   cands = [t]
+                elif stripped:                       cands = [stripped]
             for c in cands:
-                if c in allroots:
-                    csv_roots.add(c); hit = True
-                    if lvl is not None and (c not in csv_level or lvl < csv_level[c]): csv_level[c] = lvl
+                if c in hsroots:
+                    r0 = hs2root[c]                   # sidecar実表記に解決してから登録
+                    csv_roots.add(r0); hit = True
+                    if lvl is not None and (r0 not in csv_level or lvl < csv_level[r0]): csv_level[r0] = lvl
         if hit: matched_rows += 1
         else: unmatched.append(rec[0])
 

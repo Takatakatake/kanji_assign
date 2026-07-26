@@ -42777,7 +42777,7 @@ Vas^ington/o:{Ｏ}【人名】ワシントン
 Vas^ington/o:{Ｏ}【地名】ワシントン（米国の首都）
 vat/baston/et/o⟦棉/棒/小/o⟧:綿棒
 vat/bul/o⟦棉/团ᴮ/o⟧:（止血用）綿球
-Vaterl/o:【地名】ワーテルロー（ベルギー）##偽分解(PIV正式分解)
+Vaterl/o:【地名】ワーテルロー（ベルギー）
 vat/hor/o⟦瓦ⱽ/钟/o⟧:【理】ワット時（電力量の単位，Wh）
 vat/hor/o/metr/o⟦瓦ⱽ/钟/o/计ᴹ/o⟧:【理】積算電力量計,>>vatmetro##偽分解
 vat/i⟦棉/i⟧:［他］綿を入れる
@@ -48423,7 +48423,7 @@ gluk/uri/o⟦糖ᴳᴸ/尿/o⟧:【医】【PIV】Glukozurio.##偽分解(PIV正�
 glukagon/o:【生】【PIV】Hormono, sekreciata de la pankreataj insuletoj, hiperglukemiiga, kontrau^efika al insulino.
 glukoz/amin/o⟦糖ᴳ/amin/o⟧:【化】【PIV】C 6 H 11 O 5-NH 2: n-acetil glukozamino estas monomero de kitino.##偽分解
 glukoz/emi/o⟦糖ᴳ/血ᴱ/o⟧:【生】【医】【PIV】Kvanto de glukozo en la sango: normala glukozemio varias c^e homo inter 0,90 k 1,10 g/l; reguligo de la glukozemio; hiperglukozemiigaj hormonoj (adrenalino, kortikosterono, tiroksino, glukagono, antau^hipofizaj hormonoj), hipoglukozemiiga hormono (insulino). Sin. (sinonimo) glukemio.##偽分解(PIV正式分解)
-gluk/oz/id/o⟦糖ᴳᴸ/糖ᴼ/子/o⟧:【PIV】Heterozido, kies sakarida parto estas glukozo.##偽分解(PIV正式分解)
+glukoz/id/o⟦糖ᴳ/子/o⟧:【PIV】Heterozido, kies sakarida parto estas glukozo.##偽分解(PIV正式分解)
 glukoz/uri/o⟦糖ᴳ/尿/o⟧:【医】【PIV】C^eesto au^ kvanto de glukozo en urino, pro perturbo de la sukera metabolo, ordinare okaze de diabeto. Sin. (sinonimo) glukurio.##偽分解(PIV正式分解)
 glum/et/o⟦颖/小/o⟧:【PIV】C^iu el la du brakteoj c^e la bazo de c^iu floro de la spiketo de poacoj: malsupra, supra glumeto. Sin. (sinonimo) glumelo. Vd lodiklo.
 glumel/o:【植】【PIV】Glumeto.
@@ -52339,8 +52339,8 @@ nau^krat/o⟦鱼ᴺ/o⟧:【動】【PIV】Pilotfis^o.
 nau^l/o⟦木ᴺ/o⟧:【植】【PIV】Sp. (Specio) de melaleu^ko (kvinripa melaleu^ko), Nov-Kaledonia arbo, el kiu oni ekstraktas gomenolon. Sin. (sinonimo) gomenolarbo.
 nau^pli/o⟦虾ᴺ/o⟧:【動】【PIV】Unua larvo de la krustacoj.
 nau^/t/o⟦九/t/o⟧:【楽】【PIV】Intervalo inter nau^ tonoj en diatona gamo.##偽分解(PIV正式分解)
-nau^tik/o⟦航ᴺᵁ̆/o⟧:【PIV】Arto de la navigacio.
-nau^tik/a⟦航ᴺᵁ̆/a⟧:【PIV】Rilata al nau^tiko: nau^tika almanako (jarlibro entenanta astronomiajn, tajdajn k.a. (kaj aliaj) informojn por navigantoj).
+nau^t/ik/o⟦航/学ᴵ/o⟧:【PIV】Arto de la navigacio.##偽分解
+nau^t/ik/a⟦航/学ᴵ/a⟧:【PIV】Rilata al nau^tiko: nau^tika almanako (jarlibro entenanta astronomiajn, tajdajn k.a. (kaj aliaj) informojn por navigantoj).##偽分解
 nau^til/oid/oj⟦鹦螺/似ᴼ/oj⟧:【動】【PIV】Ordo (Nautiloidea) de kvarbrankaj cefalopodoj ampleksanta nau^tilon k parencajn fosiliajn g-ojn.
 Navar/o:【史】【PIV】1 Reg^olando, kiu etendig^is c^iuflanke de Pireneoj (nun dividita inter Hispanio k Francio). 2 Hispania Au^tonoma Komunumo (Pamplono).
 Navar/an/o:【PIV】Log^anto de Navaro. Vd eu^sko.
