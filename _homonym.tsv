@@ -18,6 +18,7 @@ fil	爱	sep	bibli/o/fil/o,bibli/o/fil/i/o,pedo/fil/i/o,gastr/o/fil/o,gips/o/fil/
 per	过	sep	per/oksid/o,per/oksid/i,per/oksid/a,per/oksid/az/o,per/klor/at/o,per/sulf/at/o,per/sulf/at/oj,per/klorat/o,per/oksidaz/o,per/sulfat/oj,per/mangan/at/o	per-(化学:過酸化/過…)→过。前置詞per=以 は別。学術版粗分解 per/klorat/per/oksidaz/per/sulfat も过・per/mangan/at=過マンガン酸塩(両版)も过(2026-06-23 sep派生形網羅)
 oks	氧	sep	an/oks/emi/o,hipoks/emi/o,oks/oni/o	oxy-(酸素)→氧。牛oks/o=牛 は別。2026-07-26 正本ドリフトで oksoni/o→oks/oni/o に分解され oks が牛ᴼ(雄牛)で描画される誤友が露出→disc追加で氧に是正(oni=オニウムイオンはL148の化学ルールでlatin保持)
 herm	两	sep	herm/afrodit/a,herm/afrodit/ec/o,herm/afrodit/o,herm/afrodit/flor/a,pseu^do/herm/afrodit/ec/o	herm-(Hermes)→两: hermafrodit=両性具有 の分解鏡像 两/性。彫像 herm/o は disc外で latin 維持
+sol	胶	sep	aer/o/sol/o	sol(【化】ゾル=コロイド)→胶: 气溶胶(aerosol)。同綴 sol/a=唯一 は唯を維持。sol/o は amb(化学ゾルと独奏が同綴)ゆえ disc非掲載
 afrodit	性	sep	herm/afrodit/a,herm/afrodit/ec/o,herm/afrodit/o,herm/afrodit/flor/a,pseu^do/herm/afrodit/ec/o	afrodit-(Aphrodite)→性: 上記 herm=两 と対で 两性。同綴の【動】Aphrodita(ウロコムシ属)=虫ᴬᴰ は disc外で維持
 leu^k	白	sep	leu^k/emi/o,leu^k/oz/o	leuko-(白)→白(白血病·白血球增多症)。leu^ko=白ᴸ は別root。2026-07-19 正本ドリフト leukoz→leu^k/oz 露出で leu^k latin残([F]不整合)→白(白/富=白血球增多)で整合
 jul	划	sep	jul/o,jul/ad/i	【PIV】航海 jul/o=艫でひねる櫓(yuloh)・jul/ad/i=櫓で漕ぐ→漕ぐhub划。クリスマス系(jul/arb/o=圣诞/树・Jul/o=圣诞ユール祭)は別見出しで維持。2026-07-04ユーザー裁定sep分離
@@ -72,7 +73,9 @@ ur	尿	sep	ur/gener/a,ur/o/gener/a	uro-(尿)→尿。オーロックスur/o(原�
 an	无	sep	frid/an/estez/o	否定接頭an-(=a-,無-)→无。frid/an/estez(冷却麻酔=冷/无/感。anesthesia=無感覚)のanのみ。接尾辞-an-(員=member)は基本形员を維持(word-scoped限定)。2026-07-15 監査是正
 riz	根	sep	riz/o/morf/o,riz/o/pod/oj	rhizo-(根)→根。米riz/o(米)·稲riz/kamp/riz/o/spik等は維持。rizom=根茎
 akant	刺	sep	akant/o/cefal/oj,akant/o/pterig/oj	akanto-(希ἄκανθα=棘·刺)→刺。棘頭虫Acanthocephala(akant/o/cefal=刺/头)・棘鰭類Acanthopterygii(akant/o/pterig=刺/翅)の thorn 義のみ。植物アカンサスakant/o(草=Acanthus属は棘葉だが植物として草維持)・トゲザメakantias(鱼)は不変。刺はdorn/pik/spron等と同じ棘グリフ(新字ゼロ)。2026-07-18 偽友スイープ
-heli	日	sep	peri/heli/o,pir/heli/o/metr/o	helios(希ἥλιος=太陽)→日。近日点perihelio(peri/heli=围/日)・日射計pirheliometr。ヘリウム気体heli/o=气ᴴᴹは別。標準helio=日ᴴと整合。2026-07-18 偽友スイープR3
+heli	日	sep	peri/heli/o,pir/heli/o/metr/o,ant/heli/o	helios(希ἥλιος=太陽)→日。近日点perihelio(peri/heli=围/日)・日射計pirheliometr。ヘリウム気体heli/o=气ᴴᴹは別。標準helio=日ᴴと整合。2026-07-18 偽友スイープR3。2026-07-26 正本ドリフトで antheli/o→ant/heli/o が露出し heli が气ᴴ(ヘリウム)で描画→disc追加
+ant	抗	sep	ant/heli/o	ant-(希 anti-=反対)→抗: antheli/o 対日像。分詞接尾 -ant-=在 は disc外で維持
+met	后	sep	met/encefal/o	met-(希 meta-=後方)→后: metencefal/o 後脳。動詞 meti=置・系統化学 met=甲 は disc外で維持
 arke	原	sep	arke/tip/o	archē(希始まり·原型)→原。原型archetype(arke/tip=原/型)。ノアの箱船arke/o=方舟・考古arkeo/logi=古は別。2026-07-18 偽友スイープR3
 arh^eo	古	sep	arh^eo/logi/o,arh^eo/log/o	arĥeo-=arkeo-(archeo考古)異綴り→古。arkeo/logi=古と平行。arĥeologio/arĥeologo(=arkeologio/arkeologo変種綴り)。2026-07-19 被覆穴是正
 klor	绿	sep	klor/o/fic/o,klor/o/fic/oj,klor/o/fit/o,klor/o/fit/oj	chloro-(χλωρός緑)→绿。緑藻klorofic/klorofit(verdalgoj)。氯(塩素kloroform)はwrong-morpheme。klorofil叶绿と整合。2026-07-19

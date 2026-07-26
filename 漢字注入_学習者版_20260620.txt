@@ -424,7 +424,7 @@ aer/o/nau^t/o⟦气/o/航/o⟧:【空】軽気球操縦士,飛行船操縦士,=f
 aer/o/plan/o⟦气/o/划/o⟧:{Ｏ}【空】飛行機,=aviadilo##偽分解##過細分解 aer/o/p/l/a/n/o
 aer/o/prem/o⟦气/o/压/o⟧:【理】気圧
 aer/o/pur/ig/il/o⟦气/o/纯/使/具/o⟧:空気清浄機
-aer/o/sol/o⟦气/o/唯/o⟧:【環】エーロゾル,煙霧質##偽分解
+aer/o/sol/o⟦气/o/胶ˢ/o⟧:【環】エーロゾル,煙霧質##偽分解
 aer/o/statik/o⟦气/o/静ˢ/o⟧:【理】気体静力学,>>aerodinamiko
 aer/o/stat/o⟦气/o/态/o⟧:【空】軽航空機（気球・飛行船など）,=flugbalono,>>aers^ipo,>>balono##偽分解
 aer/paf/il/o⟦气/射/具/o⟧:空気銃
@@ -45024,7 +45024,7 @@ an/estez/a⟦无ᴬ/感ᴱ/a⟧:【PIV】Rilata al anestezo: anesteza substanco.
 an/estez/ant/o⟦无ᴬ/感ᴱ/在/o⟧:【PIV】Anesteza substanco.##偽分解##過細分解 a/n/estez/ant/o
 an/estez/ant/aj^/o⟦无ᴬ/感ᴱ/在/物/o⟧:【PIV】Anesteza substanco.##偽分解##過細分解 a/n/estez/ant/aj^/o
 anet/ol/o⟦伞ᴬ/ol/o⟧:【化】【PIV】Etero, 4-metoksi-alilbenzeno, CH 3-O-C 6 H 4-CH=CH-CH 3, abunda en stelanizo k anizo.##偽分解(PIV正式分解)##過細分解 anet/o/l/o
-aneu^ploid/a:【生】【PIV】1 (pp (se paroli pri) nukleo k c^elo) Havanta nenorman nombron de kromosomoj: unu, du au^ kelkajn kromajn au^ malkromajn. 2 (pp (se paroli pri) individuo) Konsistanta el aneu^ploidaj c^eloj.
+an/eu^/ploid/a⟦无ᴬ/良ᴱ/倍ᴾ/a⟧:【生】【PIV】1 (pp (se paroli pri) nukleo k c^elo) Havanta nenorman nombron de kromosomoj: unu, du au^ kelkajn kromajn au^ malkromajn. 2 (pp (se paroli pri) individuo) Konsistanta el aneu^ploidaj c^eloj.##偽分解(PIV正式分解)##過細分解 a/n/eu^/ploid/a
 Angel/o:【PIV】Vira nomo.
 Angel/in/o:【PIV】Virina nomo.
 angi/a⟦脉ᴬᴺ/a⟧:【PIV】Rilata al angio.
@@ -45101,7 +45101,7 @@ anten/ul/oj⟦触角/者/oj⟧:【動】【PIV】Subfilumo (Antennata) de artrop
 antenari/o⟦菊ᴬᵀ/o⟧:【植】【PIV】G. (Genro) (Antennaria el asteracoj) de plurjaraj, dioikaj, ofte lanugaj herboj kun malgrandaj kapituloj unuopaj au^ en korimbo; 71 sp-oj (specioj) el Eu^ropo, Azio k Ameriko.
 anteridi/o:【植】【PIV】Organo de la plantoj, tipa nur c^e la kriptogamoj, kiu produktas virseksajn gametojn (Vd anterozoido).
 anterozoid/o:【植】【PIV】Virseksa gameto de la plantoj. Vd oosfero, spermatozoo.
-antheli/o:【PIV】Optika aperaj^o, difuza bildo de Suno en la kontrau^a direkto.
+ant/heli/o⟦抗ᴬᴺ/日ᴴᴱ/o⟧:【PIV】Optika aperaj^o, difuza bildo de Suno en la kontrau^a direkto.##偽分解(PIV正式分解)##過細分解 a/n/t/heli/o
 anti/⟦抗ᴬ/⟧:【PIV】Pref. (Prefikso), signifanta «opozicie al», «malamike al»: antifas^isto, antifebra medikamento, antipartiklo, antimaterio, antineu^trino; antitoks(in)o, antitezo. Rim. (Rimarko) anti trovig^as en iuj neanalizeblaj vortoj: antiaro, antibiotiko, anticiklono, antikorpo k.a. (kaj aliaj). see kontrau^.
 antiar/o⟦木ᴬᵀ/o⟧:【植】【PIV】G. (Genro) (Antiaris el morusacoj) de nur unu sp. (A. toxicaria) el Afriko k Azio, tropika, dau^rafolia arbo kun venena laktosuko k kun senpetalaj floroj; incizo en la trunkos^elo elfluigas tre venenan laktosukon (Vd upaso). Sin. (sinonimo) upasarbo.
 anticip/o⟦预/o⟧:【PIV】Ago de tiu, kiu anticipas: g^ui per anticipo la estontan felic^on; romano de anticipo.
@@ -45290,7 +45290,7 @@ arke/tip/o⟦原ᴬ/型/o⟧:【哲】【PIV】1 Eterna ideo, modelo de la estaj
 arki/⟦首ᴬ/⟧:【PIV】= c^ef/: arkifripono; arkiang^elo; arkidiakono.
 Arkilok/o:【PIV】Helena satiristo de la 7a jc (jarcento) a.K. (antau^ Kristo). = Arh^iloh^/o
 arkimandrit/o:【キ】【PIV】Estro de monah^ejo en la ortodoksa eklezio.
-arkipter/oj:【動】【PIV】(ark. (arkaismo, arkaisme)) Grupo (eksa ordo Archiptera) de insektoj, kiu ampleksas i.a. (interalie, inter aliaj) la efemerojn, odonatojn, pedikojn, termitojn.
+arki/pter/oj⟦首ᴬ/翅/oj⟧:【動】【PIV】(ark. (arkaismo, arkaisme)) Grupo (eksa ordo Archiptera) de insektoj, kiu ampleksas i.a. (interalie, inter aliaj) la efemerojn, odonatojn, pedikojn, termitojn.##偽分解##エス的分解
 arkitektur/a⟦建筑ᴬᴿ/a⟧:【PIV】Rilata al la arkitekturo: grandiozo arkitektura.
 arkiteu^t/o⟦贝ᴬᴿ/o⟧:【動】【PIV】G. (Genro) (Architeuthis) de grandegaj, dekbrakaj cefalopodoj, kies brakoj povas atingi la longon de pluraj metroj. Vd kalmarego.
 arkivolt/o:【建】【PIV】Modluro, ornamanta la konturon de arko.
@@ -49821,7 +49821,7 @@ kal/aj^/o⟦茧/物/o⟧:【PIV】Hau^ta malmolig^o, malpli bone difinita ol kal
 kal/oz/o⟦茧/糖ᴼ/o⟧:【化】【PIV】Glucido, polimero de glukozo (C 6 H 10 O 5) n, parenca al celulozo, kiu konsistigas la kalon de la floemaj tuboj k parton de la membrano de iuj fungoj. -> kalozo.##偽分解(PIV正式分解)
 kal/oz/o⟦茧/oz/o⟧:【解】【PIV】(corpus callosum) Lameno de nerva blanka substanco, strec^ita inter la du cerbaj hemisferoj. -> kal/ozo.##偽分解(衝突語)
 kala/o⟦草ᴷᴬ/o⟧:【植】【PIV】G. (Genro) (Calla el arumacoj) de nur unu sp. (C. palustris), plurjara, marc^a herbo el la mezvarmaj regionoj de la N hemisfero, kun rampa rizomo, kun staraj, korformaj, longe petiolaj folioj, kun mallonga spadiko, kies bazo portas staran, platan spaton, k kun korale rug^aj beroj.
-kala-azar/o⟦草ᴷᴬ-草ᴬᶻᴬ/o⟧:【医】【PIV】Varmalanda malsano, kau^zata de protozoo el la g. (genro) lejs^manio transdonebla de diversaj parazitoj, k ankau^ nomata «nigra febro»: kala-azaro estas endemia en Hindio k Ekstrem-Oriento, g^i plioftig^as en la Mediteraneaj landoj.
+kala-azar/o:【医】【PIV】Varmalanda malsano, kau^zata de protozoo el la g. (genro) lejs^manio transdonebla de diversaj parazitoj, k ankau^ nomata «nigra febro»: kala-azaro estas endemia en Hindio k Ekstrem-Oriento, g^i plioftig^as en la Mediteraneaj landoj.
 kalabas/arb/o⟦葫芦/树/o⟧:【PIV】= kalabaso 1.
 kaladi/o⟦草ᴷᴰ/o⟧:【植】【PIV】G. (Genro) (Caladium el arumacoj) de plurjaraj herboj kun tubera rizomo k elbazaj folioj plejofte s^ilde sagformaj; 7 sp-oj (specioj) el tropika S Ameriko, pluraj (kiel multaj kf-oj (kultivoformoj)) pote kultivataj por ornamaj, diverskolore buntaj folioj.
 kalam/o⟦木ᴷᴬᴸᴬ/o⟧:【植】【PIV】1 G. (Genro) (Calamus el arekacoj) de grimpaj, dau^rafoliaj, dioikaj arboj kun longa, glata, maldika, dorna trunko k kun plume kunmetaj folioj, kies folieroj estas parte anstatau^itaj de hokformaj dornoj; c^. (c^irkau^) 400 sp-oj (specioj) – i.a. (interalie, inter aliaj) rotango – el la tropika Malnova Mondo, precipe Malajzio, iuj uzataj por rotango 2 au^ por medicino (pro hemostaza fruktosuko). 2 (evi (evitinda)) = kalam-akoro. 3【史】 Kano, uzata de la antikvuloj por skribi sur papiruso.
@@ -51961,7 +51961,7 @@ meta/staz/o⟦超ᴹ/滞ˢᶻ/o⟧:【医】【PIV】Kancerrecidivo en alia korp
 meta/tars/a⟦超ᴹ/足根/a⟧:【PIV】Rilata al metatarso. Vd metakarpo.##偽分解(PIV正式分解)
 meta/zo/o⟦超ᴹ/兽ᶻ/o⟧:【動】【PIV】Plurc^ela, hista animalo.##偽分解##エス的分解
 mete/o:【PIV】Atmosfera elemento au^ fenomeno, rilata al la klimato k vetero (ekz. (ekzemple): humido, nubo, vento k.a. (kaj aliaj)); meteobulteno, meteostacio.
-metencefal/o:【解】【PIV】Tiu antau^a parto de la rombencefalo (posta cerboveziko), kiu konsistigas la cerebelon k la ponton.
+met/encefal/o⟦后ᴹ/脑ᴱ/o⟧:【解】【PIV】Tiu antau^a parto de la rombencefalo (posta cerboveziko), kiu konsistigas la cerebelon k la ponton.##偽分解(PIV正式分解)##過細分解 m/e/t/encefal/o
 meteor/a⟦陨/a⟧:【PIV】Rilata al meteoro: meteora dus^o (apero de multaj meteoroj en la dau^ro de mallonga tempo, nomataj lau^ la konstelacio, el kies direkto ili s^ajne venas, ekz. (ekzemple) Leonidoj).
 meteorit/o:【天】【地質】【PIV】Postrestaj^o de meteoroido, falinta sur Teron: meteorito s^tona (Sin. (sinonimo) aerolito) , metala.
 meteor/oid/o⟦陨/似ᴼ/o⟧:【天】【PIV】C^iela korpo, movig^anta tra la spaco. Vd meteorito, falstelo.

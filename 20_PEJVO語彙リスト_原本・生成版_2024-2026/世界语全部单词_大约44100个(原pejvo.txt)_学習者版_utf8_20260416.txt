@@ -45024,7 +45024,7 @@ an/estez/a:【PIV】Rilata al anestezo: anesteza substanco.##偽分解##過細�
 an/estez/ant/o:【PIV】Anesteza substanco.##偽分解##過細分解 a/n/estez/ant/o
 an/estez/ant/aj^/o:【PIV】Anesteza substanco.##偽分解##過細分解 a/n/estez/ant/aj^/o
 anet/ol/o:【化】【PIV】Etero, 4-metoksi-alilbenzeno, CH 3-O-C 6 H 4-CH=CH-CH 3, abunda en stelanizo k anizo.##偽分解(PIV正式分解)##過細分解 anet/o/l/o
-aneu^ploid/a:【生】【PIV】1 (pp (se paroli pri) nukleo k c^elo) Havanta nenorman nombron de kromosomoj: unu, du au^ kelkajn kromajn au^ malkromajn. 2 (pp (se paroli pri) individuo) Konsistanta el aneu^ploidaj c^eloj.
+an/eu^/ploid/a:【生】【PIV】1 (pp (se paroli pri) nukleo k c^elo) Havanta nenorman nombron de kromosomoj: unu, du au^ kelkajn kromajn au^ malkromajn. 2 (pp (se paroli pri) individuo) Konsistanta el aneu^ploidaj c^eloj.##偽分解(PIV正式分解)##過細分解 a/n/eu^/ploid/a
 Angel/o:【PIV】Vira nomo.
 Angel/in/o:【PIV】Virina nomo.
 angi/a:【PIV】Rilata al angio.
@@ -45101,7 +45101,7 @@ anten/ul/oj:【動】【PIV】Subfilumo (Antennata) de artropodoj, al kiu aparte
 antenari/o:【植】【PIV】G. (Genro) (Antennaria el asteracoj) de plurjaraj, dioikaj, ofte lanugaj herboj kun malgrandaj kapituloj unuopaj au^ en korimbo; 71 sp-oj (specioj) el Eu^ropo, Azio k Ameriko.
 anteridi/o:【植】【PIV】Organo de la plantoj, tipa nur c^e la kriptogamoj, kiu produktas virseksajn gametojn (Vd anterozoido).
 anterozoid/o:【植】【PIV】Virseksa gameto de la plantoj. Vd oosfero, spermatozoo.
-antheli/o:【PIV】Optika aperaj^o, difuza bildo de Suno en la kontrau^a direkto.
+ant/heli/o:【PIV】Optika aperaj^o, difuza bildo de Suno en la kontrau^a direkto.##偽分解(PIV正式分解)##過細分解 a/n/t/heli/o
 anti/:【PIV】Pref. (Prefikso), signifanta «opozicie al», «malamike al»: antifas^isto, antifebra medikamento, antipartiklo, antimaterio, antineu^trino; antitoks(in)o, antitezo. Rim. (Rimarko) anti trovig^as en iuj neanalizeblaj vortoj: antiaro, antibiotiko, anticiklono, antikorpo k.a. (kaj aliaj). see kontrau^.
 antiar/o:【植】【PIV】G. (Genro) (Antiaris el morusacoj) de nur unu sp. (A. toxicaria) el Afriko k Azio, tropika, dau^rafolia arbo kun venena laktosuko k kun senpetalaj floroj; incizo en la trunkos^elo elfluigas tre venenan laktosukon (Vd upaso). Sin. (sinonimo) upasarbo.
 anticip/o:【PIV】Ago de tiu, kiu anticipas: g^ui per anticipo la estontan felic^on; romano de anticipo.
@@ -45290,7 +45290,7 @@ arke/tip/o:【哲】【PIV】1 Eterna ideo, modelo de la estaj^oj. 2 Originalo, 
 arki/:【PIV】= c^ef/: arkifripono; arkiang^elo; arkidiakono.
 Arkilok/o:【PIV】Helena satiristo de la 7a jc (jarcento) a.K. (antau^ Kristo). = Arh^iloh^/o
 arkimandrit/o:【キ】【PIV】Estro de monah^ejo en la ortodoksa eklezio.
-arkipter/oj:【動】【PIV】(ark. (arkaismo, arkaisme)) Grupo (eksa ordo Archiptera) de insektoj, kiu ampleksas i.a. (interalie, inter aliaj) la efemerojn, odonatojn, pedikojn, termitojn.
+arki/pter/oj:【動】【PIV】(ark. (arkaismo, arkaisme)) Grupo (eksa ordo Archiptera) de insektoj, kiu ampleksas i.a. (interalie, inter aliaj) la efemerojn, odonatojn, pedikojn, termitojn.##偽分解##エス的分解
 arkitektur/a:【PIV】Rilata al la arkitekturo: grandiozo arkitektura.
 arkiteu^t/o:【動】【PIV】G. (Genro) (Architeuthis) de grandegaj, dekbrakaj cefalopodoj, kies brakoj povas atingi la longon de pluraj metroj. Vd kalmarego.
 arkivolt/o:【建】【PIV】Modluro, ornamanta la konturon de arko.
@@ -51961,7 +51961,7 @@ meta/staz/o:【医】【PIV】Kancerrecidivo en alia korpoparto.##偽分解(PIV�
 meta/tars/a:【PIV】Rilata al metatarso. Vd metakarpo.##偽分解(PIV正式分解)
 meta/zo/o:【動】【PIV】Plurc^ela, hista animalo.##偽分解##エス的分解
 mete/o:【PIV】Atmosfera elemento au^ fenomeno, rilata al la klimato k vetero (ekz. (ekzemple): humido, nubo, vento k.a. (kaj aliaj)); meteobulteno, meteostacio.
-metencefal/o:【解】【PIV】Tiu antau^a parto de la rombencefalo (posta cerboveziko), kiu konsistigas la cerebelon k la ponton.
+met/encefal/o:【解】【PIV】Tiu antau^a parto de la rombencefalo (posta cerboveziko), kiu konsistigas la cerebelon k la ponton.##偽分解(PIV正式分解)##過細分解 m/e/t/encefal/o
 meteor/a:【PIV】Rilata al meteoro: meteora dus^o (apero de multaj meteoroj en la dau^ro de mallonga tempo, nomataj lau^ la konstelacio, el kies direkto ili s^ajne venas, ekz. (ekzemple) Leonidoj).
 meteorit/o:【天】【地質】【PIV】Postrestaj^o de meteoroido, falinta sur Teron: meteorito s^tona (Sin. (sinonimo) aerolito) , metala.
 meteor/oid/o:【天】【PIV】C^iela korpo, movig^anta tra la spaco. Vd meteorito, falstelo.

@@ -38,6 +38,10 @@ $existing=@(
  #   (herm=Hermes男神 + afrodit=Aphrodite女神 → 两/性 = 両性)。herm/o(【PIV】ヘルメス柱像)・Herm/o(固有名)は
  #   disc非掲載ゆえ不発火、afrodit/o(ウロコムシ)も虫ᴬᴰ を維持。
  @('herm','两','herm/afrodit/a,herm/afrodit/ec/o,herm/afrodit/o,herm/afrodit/flor/a,pseu^do/herm/afrodit/ec/o','','herm-(Hermes)→两: hermafrodit=両性具有 の分解鏡像 两/性。彫像 herm/o は disc外で latin 維持'),
+ # 2026-07-26 別AI監査の指摘: aer/o/sol/o が 气/o/唯 (=「空気だけ」)と誤描画。sol は【化】ゾル(コロイド)であり
+ #   同綴の sol/a=唯一(唯)とは別語。中国語 气溶胶 に合わせ 胶(既存 glu=胶)へ word-scoped sep。
+ #   sol/o は【化】ゾルと「ただ一人/独奏」が同一綴りの amb ゆえ disc に載せず、唯 を維持する。
+ @('sol','胶','aer/o/sol/o','','sol(【化】ゾル=コロイド)→胶: 气溶胶(aerosol)。同綴 sol/a=唯一 は唯を維持。sol/o は amb(化学ゾルと独奏が同綴)ゆえ disc非掲載'),
  @('afrodit','性','herm/afrodit/a,herm/afrodit/ec/o,herm/afrodit/o,herm/afrodit/flor/a,pseu^do/herm/afrodit/ec/o','','afrodit-(Aphrodite)→性: 上記 herm=两 と対で 两性。同綴の【動】Aphrodita(ウロコムシ属)=虫ᴬᴰ は disc外で維持'),
  @('leu^k','白','leu^k/emi/o,leu^k/oz/o','','leuko-(白)→白(白血病·白血球增多症)。leu^ko=白ᴸ は別root。2026-07-19 正本ドリフト leukoz→leu^k/oz 露出で leu^k latin残([F]不整合)→白(白/富=白血球增多)で整合'),
  # PIV航海語 jul/o(艫でひねって漕ぐ櫓=yuloh)・jul/ad/i(櫓で漕ぐ)→漕ぐhub划(=rem。パドルpagaj=划ᴾᴳと同型・新字ゼロ)。クリスマス系 jul/arb/o=圣诞/树 は別見出しで維持(2026-07-04ユーザー裁定sep分離)。※$hsepは大小無視だが Jul/o(大文字=ユール祭)は固有名ガードがhsepより先に捕捉し注釈なしで無影響=衝突せず。jul/arb/o は見出し文字列がjul/oと異なるため非該当で圣诞/树維持
@@ -112,7 +116,15 @@ $existing=@(
  @('an','无','frid/an/estez/o','','否定接頭an-(=a-,無-)→无。frid/an/estez(冷却麻酔=冷/无/感。anesthesia=無感覚)のanのみ。接尾辞-an-(員=member)は基本形员を維持(word-scoped限定)。2026-07-15 監査是正'),
  @('riz','根','riz/o/morf/o,riz/o/pod/oj','','rhizo-(根)→根。米riz/o(米)·稲riz/kamp/riz/o/spik等は維持。rizom=根茎'),
  @('akant','刺','akant/o/cefal/oj,akant/o/pterig/oj','','akanto-(希ἄκανθα=棘·刺)→刺。棘頭虫Acanthocephala(akant/o/cefal=刺/头)・棘鰭類Acanthopterygii(akant/o/pterig=刺/翅)の thorn 義のみ。植物アカンサスakant/o(草=Acanthus属は棘葉だが植物として草維持)・トゲザメakantias(鱼)は不変。刺はdorn/pik/spron等と同じ棘グリフ(新字ゼロ)。2026-07-18 偽友スイープ'),
- @('heli','日','peri/heli/o,pir/heli/o/metr/o','','helios(希ἥλιος=太陽)→日。近日点perihelio(peri/heli=围/日)・日射計pirheliometr。ヘリウム気体heli/o=气ᴴᴹは別。標準helio=日ᴴと整合。2026-07-18 偽友スイープR3'),
+ @('heli','日','peri/heli/o,pir/heli/o/metr/o,ant/heli/o','','helios(希ἥλιος=太陽)→日。近日点perihelio(peri/heli=围/日)・日射計pirheliometr。ヘリウム気体heli/o=气ᴴᴹは別。標準helio=日ᴴと整合。2026-07-18 偽友スイープR3。2026-07-26 正本ドリフトで antheli/o→ant/heli/o が露出し heli が气ᴴ(ヘリウム)で描画→disc追加'),
+ # 2026-07-26 正本ドリフト是正: antheli/o(対日像=太陽と反対側に見える光学現象)が ant/heli/o へ分解され、
+ #   ant が分詞接尾 -ant-(在) で描画される誤友が露出。ここでの ant- は希 anti-(反対)なので 抗(=anti)へ。
+ #   分詞接尾は disc外ゆえ不発火(在 を維持)。上の heli→日 と対で 抗ᴬ/日ᴴ = 反対側の太陽 と読める。
+ @('ant','抗','ant/heli/o','','ant-(希 anti-=反対)→抗: antheli/o 対日像。分詞接尾 -ant-=在 は disc外で維持'),
+ # 2026-07-26 正本ドリフト是正: metencefal/o(後脳)が met/encefal/o へ分解され、met が meti(置く)=置 で
+ #   描画される誤友が露出。ここでの met- は希 meta-(後方)なので 后(=post)へ。動詞 meti=置・化学 met=甲(天干)は
+ #   いずれも disc外/別経路ゆえ不発火。后ᴹ/脑ᴱ = 後脳 と読める。
+ @('met','后','met/encefal/o','','met-(希 meta-=後方)→后: metencefal/o 後脳。動詞 meti=置・系統化学 met=甲 は disc外で維持'),
  @('arke','原','arke/tip/o','','archē(希始まり·原型)→原。原型archetype(arke/tip=原/型)。ノアの箱船arke/o=方舟・考古arkeo/logi=古は別。2026-07-18 偽友スイープR3'),
  # arĥeo-(arh^eo)=arkeo-(archeo考古)の異綴り変種。arĥeologio/arĥeologo は arkeologio/arkeologo と同語(=別綴り)。arkeo/logi=古ᴬᴼと平行に arh^eo→古で被覆穴(latin残)を是正(2026-07-19)。arke原型/arke方舟とは別root。
  @('arh^eo','古','arh^eo/logi/o,arh^eo/log/o','','arĥeo-=arkeo-(archeo考古)異綴り→古。arkeo/logi=古と平行。arĥeologio/arĥeologo(=arkeologio/arkeologo変種綴り)。2026-07-19 被覆穴是正'),
