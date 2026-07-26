@@ -42777,7 +42777,7 @@ Vas^ington/o:{Ｏ}【人名】ワシントン
 Vas^ington/o:{Ｏ}【地名】ワシントン（米国の首都）
 vat/baston/et/o:綿棒
 vat/bul/o:（止血用）綿球
-Vaterlo:【地名】ワーテルロー（ベルギー）
+Vaterl/o:【地名】ワーテルロー（ベルギー）##偽分解(PIV正式分解)
 vat/hor/o:【理】ワット時（電力量の単位，Wh）
 vat/hor/o/metr/o:【理】積算電力量計,>>vatmetro##偽分解
 vat/i:［他］綿を入れる

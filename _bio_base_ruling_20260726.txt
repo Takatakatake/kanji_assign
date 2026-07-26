@@ -1,0 +1,169 @@
+=== 14群 裁定材料(両版合計) ===
+漢字       現行の無印          層    出現    変更後に無印           層    出現    判定の目安
+皮翅       dermapter      PIV  1     forfikul         PEJVO 2     拮抗
+蛾        mote           PIV  6     hermini          PEJVO 2     現状維持が有利(現行baseの方が3倍出現)
+榕        fikus          PIV  4     sikomor          PEJVO 2     やや現状維持
+爬虫       sau^r          PIV  15    reptili          PEJVO 2     現状維持が有利(現行baseの方が7倍出現)
+金丝燕      salangan       PIV  4     apus             PEJVO 2     やや現状維持
+千足       kilopod        PIV  1     skolopendr       PEJVO 2     拮抗
+眼镜蛇      kobr           PIV  4     aspid            PEJVO 2     やや現状維持
+蔓        sarment        PIV  4     lian             PEJVO 2     やや現状維持
+香脂       ladan          PIV  6     mirh             PEJVO 2     現状維持が有利(現行baseの方が3倍出現)
+蠕        helmint        PIV  7     trikin           PEJVO 2     現状維持が有利(現行baseの方が3倍出現)
+水苏       staki          PIV  3     betonik          PEJVO 2     やや現状維持
+秧鸡       ral            PIV  6     fulik            PEJVO 2     現状維持が有利(現行baseの方が3倍出現)
+猴        ceb            PIV  4     makak            PEJVO 2     やや現状維持
+茅        espart         PIV  8     alf              PEJVO 2     現状維持が有利(現行baseの方が4倍出現)
+
+=== 各群の詳細 ===
+── 皮翅 ──
+  現行の無印 dermapter    [2=PIV] 出現1語  【動】【PIV】Ordo (Dermaptera) de insektoj kun mallongaj 
+        術 dermapter/oj = 皮翅/oj
+  候補     forfikul     [t1=PEJVO] 出現2語  【虫】ハサミムシ（類）
+        学 forfikul/o = 皮翅ᶠ/o
+        術 forfikul/o = 皮翅ᶠ/o
+
+── 蛾 ──
+  現行の無印 mote         [2=PIV] 出現6語  【動】【PIV】Malgranda, malutila, grizeta papilio. Sin. (
+        学 mote/o = 蛾/o
+        学 dom/mote/o = 屋/蛾/o
+        学 lum/mote/o = 光/蛾/o
+        術 mote/o = 蛾/o
+  候補     hermini      [t1=PEJVO] 出現2語  【虫】アツバガの仲間（シラナミアツバなど）
+        学 hermini/o = 蛾ᴴ/o
+        術 hermini/o = 蛾ᴴ/o
+  候補     bombiks      [t1=PEJVO] 出現2語  【虫】カイコガ,カイコ（蚕）,>>silkrau^po
+        学 bombiks/o = 蛾ᴮ/o
+        術 bombiks/o = 蛾ᴮ/o
+
+── 榕 ──
+  現行の無印 fikus        [2=PIV] 出現4語  【植】【PIV】G. (Genro) (Ficus el morusacoj) de laktosuko
+        学 fikus/o = 榕/o
+        学 karik/fikus/o = 木瓜ᴷ/榕/o
+        術 fikus/o = 榕/o
+        術 karik/fikus/o = 木瓜ᴷ/榕/o
+  候補     sikomor      [t1=PEJVO] 出現2語  【植】エジプトイチジク（種）,イチジクグワ
+        学 sikomor/o = 榕ˢ/o
+        術 sikomor/o = 榕ˢ/o
+
+── 爬虫 ──
+  現行の無印 sau^r        [2=PIV] 出現15語  【動】【PIV】Kn (Kolektiva nomo) de reptilioj eksklude de
+        学 ih^tio/sau^r/o = 鱼ᴵᴴ̂/爬虫/o
+        学 iktio/sau^r/o = 鱼ᴵᴷ/爬虫/o
+        学 megalo/sau^r/o = 巨ᴹ/爬虫/o
+        学 iktio/sau^r/ul/oj = 鱼ᴵᴷ/爬虫/者/oj
+  候補     reptili      [t1=PEJVO] 出現2語  【動】爬虫類（はちゅうるい）
+        学 reptili/oj = 爬虫ᴿ/oj
+        術 reptili/oj = 爬虫ᴿ/oj
+
+── 金丝燕 ──
+  現行の無印 salangan     [2=PIV] 出現4語  【動】【PIV】G. (Genro) (Collocalia) de birdoj el la ordo
+        学 salangan/o = 金丝燕/o
+        学 salangan/nest/o = 金丝燕/巢/o
+        術 salangan/o = 金丝燕/o
+        術 salangan/nest/o = 金丝燕/巢/o
+  候補     apus         [t1=PEJVO] 出現2語  【鳥】アマツバメ（雨燕）（属）,=apodo
+        学 apus/o = 金丝燕ᴬ/o
+        術 apus/o = 金丝燕ᴬ/o
+  候補     cipsel       [t1=PEJVO] 出現2語  【鳥】=apuso（アマツバメ）
+        学 cipsel/o = 金丝燕ᶜ/o
+        術 cipsel/o = 金丝燕ᶜ/o
+
+── 千足 ──
+  現行の無印 kilopod      [2=PIV] 出現1語  【動】【PIV】Klaso (Chilopoda) de rapidkuraj miriapodoj, 
+        術 kilopod/oj = 千足/oj
+  候補     skolopendr   [t1=PEJVO] 出現2語  【動】オオムカデ（属）;《般》ムカデ（百足）
+        学 skolopendr/o = 千足ˢ/o
+        術 skolopendr/o = 千足ˢ/o
+
+── 眼镜蛇 ──
+  現行の無印 kobr         [2=PIV] 出現4語  【動】【PIV】Kn (Kolektiva nomo) de la venenaj serpentoj 
+        学 kobr/o = 眼镜蛇/o
+        学 krac^/kobr/o = 吐ᴷ/眼镜蛇/o
+        術 kobr/o = 眼镜蛇/o
+        術 krac^/kobr/o = 吐ᴷ/眼镜蛇/o
+  候補     aspid        [t1=PEJVO] 出現2語  {Ｏ}【動】エジプトコブラ
+        学 aspid/o = 眼镜蛇ᴬ/o
+        術 aspid/o = 眼镜蛇ᴬ/o
+
+── 蔓 ──
+  現行の無印 sarment      [2=PIV] 出現4語  【PIV】1 Ligna, tamen fleksebla tigo, kiun vito kreski
+        学 sarment/o = 蔓/o
+        学 sarment/a = 蔓/a
+        術 sarment/o = 蔓/o
+        術 sarment/a = 蔓/a
+  候補     lian         [t1=PEJVO] 出現2語  {Ｏ}【植】つる植物,つる（蔓）
+        学 lian/o = 蔓ᴸ/o
+        術 lian/o = 蔓ᴸ/o
+
+── 香脂 ──
+  現行の無印 ladan        [2=PIV] 出現6語  【植】【PIV】Aroma gumo, liverita de la folioj k tigoj de
+        学 ladan/o = 香脂/o
+        学 ladan/uj/o = 香脂/器/o
+        学 ladan/arbust/o = 香脂/灌木/o
+        術 ladan/o = 香脂/o
+  候補     mirh         [t1=PEJVO] 出現2語  {Ｏ}【植】ミルラ（芳香性の樹脂）,没薬（もつやく）
+        学 mirh/o = 香脂ᴹ/o
+        術 mirh/o = 香脂ᴹ/o
+
+── 蠕 ──
+  現行の無印 helmint      [2=PIV] 出現7語  【動】【PIV】Kn (Kolektiva nomo) de vermoj, kies plimulto
+        学 helmint/o = 蠕/o
+        学 helmint/oz/o = 蠕/症ᴼ/o
+        学 helmint/o/logi/o = 蠕/o/学ᴸᴳ/o
+        学 plat/helmint/oj = 扁/蠕/oj
+  候補     trikin       [t1=PEJVO] 出現2語  【動】センモウチュウ（旋毛虫）（属）
+        学 trikin/o = 蠕ᵀ/o
+        術 trikin/o = 蠕ᵀ/o
+
+── 水苏 ──
+  現行の無印 staki        [2=PIV] 出現3語  【植】【PIV】G. (Genro) (Stachys el lamiacoj) de plantoj 
+        学 staki/o = 水苏/o
+        学 staki/oz/o = 水苏/糖ᴼ/o
+        術 staki/o = 水苏/o
+  候補     betonik      [t1=PEJVO] 出現2語  【植】カッコウチョロギ
+        学 betonik/o = 水苏ᴮ/o
+        術 betonik/o = 水苏ᴮ/o
+
+── 秧鸡 ──
+  現行の無印 ral          [2=PIV] 出現6語  【動】【PIV】G. (Genro) (Rallus) de malgrandaj vadbirdoj 
+        学 ral/o = 秧鸡/o
+        学 ral/ed/oj = 秧鸡/科ᴱ/oj
+        学 akv/o/ral/o = 水/o/秧鸡/o
+        術 ral/o = 秧鸡/o
+  候補     fulik        [t1=PEJVO] 出現2語  【鳥】オオバン（属）
+        学 fulik/o = 秧鸡ᶠ/o
+        術 fulik/o = 秧鸡ᶠ/o
+  候補     galinol      [t1=PEJVO] 出現2語  【鳥】バン（鷭）（属）
+        学 galinol/o = 秧鸡ᴳ/o
+        術 galinol/o = 秧鸡ᴳ/o
+  候補     galinul      [t1=PEJVO] 出現2語  【鳥】=>galinolo（バン）
+        学 galinul/o = 秧鸡ᴳᵁ/o
+        術 galinul/o = 秧鸡ᴳᵁ/o
+
+── 猴 ──
+  現行の無印 ceb          [2=PIV] 出現4語  【動】【PIV】G. (Genro) (Cebus) de simioj, kun mezlonga, 
+        学 ceb/o = 猴/o
+        学 ceb/ed/oj = 猴/科ᴱ/oj
+        術 ceb/o = 猴/o
+        術 ceb/ed/oj = 猴/科ᴱ/oj
+  候補     makak        [t1=PEJVO] 出現2語  【動】マカク（属）（ニホンザルなどアジア・北アフリカ産のサルの多くを含む）
+        学 makak/o = 猴ᴹᴷ/o
+        術 makak/o = 猴ᴹᴷ/o
+  候補     pavian       [t1=PEJVO] 出現2語  {Ｏ}【動】ヒヒ（狒々）（属）
+        学 pavian/o = 猴ᴾⱽ/o
+        術 pavian/o = 猴ᴾⱽ/o
+  候補     orangutang   [t1=PEJVO] 出現2語  【動】オランウータン（種）
+        学 orangutang/o = 猴ᴼᴳ/o
+        術 orangutang/o = 猴ᴼᴳ/o
+
+── 茅 ──
+  現行の無印 espart       [2=PIV] 出現8語  【植】【PIV】Komuna nomo de diversaj herboj Mediteraneaj 
+        学 espart/o = 茅/o
+        学 espart/i = 茅/i
+        学 espart/ad/o = 茅/行/o
+        学 espart/aj^/o = 茅/物/o
+  候補     alf          [t1=PEJVO] 出現2語  【植】アフリカハネガヤ（イネ科）
+        学 alf/o = 茅ᴬ/o
+        術 alf/o = 茅ᴬ/o
+
