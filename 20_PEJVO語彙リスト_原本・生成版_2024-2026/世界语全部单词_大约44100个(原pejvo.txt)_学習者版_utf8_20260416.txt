@@ -14255,9 +14255,9 @@ herez/ul/o:異端者
 Herkul/aj kolon/oj:（la 〜）【史】ヘラクレスの柱（ジブラルタル海峡両岸の岬を指す）
 Herkul/o:【神】ヘルクレス（ギリシア神話の英雄のラテン名）,=Heraklo
 Herkul/o:【天】ヘルクレス座
-hermafrodit/a:=ambau^seksa,両性具有の,半陰陽の;【動】雌雄同体の;【植】両性花の
-hermafrodit/ec/o:両性具有,半陰陽;【動】雌雄同体現象
-hermafrodit/o:{Ｏ}両性具有者;【動】雌雄同体;【植】両性花
+herm/afrodit/a:=ambau^seksa,両性具有の,半陰陽の;【動】雌雄同体の;【植】両性花の##偽分解##エス的分解
+herm/afrodit/ec/o:両性具有,半陰陽;【動】雌雄同体現象##偽分解##エス的分解
+herm/afrodit/o:{Ｏ}両性具有者;【動】雌雄同体;【植】両性花##偽分解##エス的分解
 Hermes/o:【神】ヘルメス（ギリシア神話で商人と旅人の守護神）
 hermet/a:=hermetika（密封した）
 hermetik/a:密封した,密閉した;難解な
@@ -48884,7 +48884,7 @@ Herkul/a:【PIV】1 Rilata al Herkulo. 2 Rilata al fortegulo: Herkula laboro.
 Herkulan/o:【史】【PIV】Urbo en la antikva Italio, detruita de erupcio de Vezuvio (14°21′E, 40°48′N).
 Herkules/o:【PIV】= Herkulo.
 Herm/o:【PIV】= Hermeso.
-hermafrodit/flor/a:【PIV】(pp (se paroli pri) planto) Havanta c^iujn florojn hermafroditajn. Vd ambau^seksa, monoika, dioika, poligamia.
+herm/afrodit/flor/a:【PIV】(pp (se paroli pri) planto) Havanta c^iujn florojn hermafroditajn. Vd ambau^seksa, monoika, dioika, poligamia.##偽分解##エス的分解
 Herman/o:【PIV】Vira nomo, i.a. (interalie, inter aliaj) de la estro g^ermana, kiu batalis kontrau^ la Romiaj legioj en la komenco de la 1a jc (jarcento).
 hermeneu^tik/o:【哲】【PIV】1 Scienco pri interpretado de la tekstoj k simboloj (religiaj k filozofiaj) k, pli g^enerale, de la fenomenoj, konsiderataj kiel signoj. Vd semiologio 2. 2 Teorio pri interpretado kiel konsidero de kondic^oj k normoj de kompreno k g^ia lingva esprimado.
 Hermes/bust/o:【PIV】= hermo.
@@ -52170,7 +52170,7 @@ ro-monat/oj:【PIV】La monatoj, de Sept. g^is Apr., kiuj estas en S Eu^ropo la 
 monazit/o:【地質】【PIV】Mineralo, de flava g^is orang^e rug^a, el monoklina fosfato (k/au^ siliciato) de lantanidoj (k/au^ torio), (Ce,La,NdTh)(PO 4, SiO 4), akcesora en granitoidoj, kelkfoje koncentrig^inta en aluvioj.
 mond/aj^/oj:【PIV】La surteraj ric^aj^oj, vantaj^oj.
 monel/o:【技】【PIV】Alojo precipe el nikelo k kupro, tre rezista al mekanikaj fortoj k al korozio.
-monelmetal/o:【PIV】(evi (evitinda)) = monelo.
+monel/metal/o:【PIV】(evi (evitinda)) = monelo.##偽分解(PIV正式分解)
 monem/o:【PIV】Morfemo.
 mongol/ism/o:【医】【PIV】Denaska afekcio (sindromo de Down), en kiu la infano prezentas oblikvajn okulojn kun mongola faldo k epikanto, platajn (malaltajn) nazostojn, mallongajn fingrojn k diversajn gradojn de mensa nesufic^o: mongolismo estas genetika malsano, karakterizata de la c^eesto de unu plia (47a) kromosomo. see -som/ ① 2.
 monili/o:【植】【PIV】G. (Genro) (Monilia) de mikroskopaj fungoj (neperfekta formo de neu^rosporo), kies sporoj (konidioj) formig^as c^ene; c^. (c^irkau^) 10 sp-oj (specioj), tre disvastig^intaj, iuj kau^zantaj diversajn plantmalsanojn, ekz. (ekzemple) fruktoputron k s^osvelkon c^e pomo, piro k c^erizo.
@@ -52676,7 +52676,7 @@ oksiton/a:【語】【PIV】(pp (se paroli pri) vorto) Havanta akcenton sur la l
 oksiur/o:【動】【PIV】G. (Genro) (Enterobius, sin. (sinonimo (de latinscienca nomo)) Oxyuris) de malgrandaj nematodoj, kies ordinara k tre disvastig^inta sp. (E. vermicularis) parazitas en la intesto de homoj, precipe infanoj.
 oksiur/oz/o:【医】【PIV】Malsano pro oksiuroj.
 oksiur/icid/o:【PIV】Medikamento, mortiganta la oksiurojn.##偽分解(PIV正式分解)
-oksoni/o:【PIV】= oksionio (Vd (vidu) onio).
+oks/oni/o:【PIV】= oksionio (Vd (vidu) onio).
 ok/t/o:【楽】【PIV】Intervalo inter ok tonoj en diatona gamo (frekvencproporcio: 2).##偽分解(PIV正式分解)
 okt/:【化】【PIV】Pref. (Prefikso), montranta okkarbonan c^enon en la nomoj de hidrokarbonoj, de monosakaridoj k de ties derivaj^oj: oktano, okteno, oktino, oktilo ktp (kaj tiel plu) (Vd (vidu) alk/); oktozo.
 okta/:【化】【PIV】Pref. (Prefikso), montranta, ke substanco estas karakterizata de, au^ konsistas el, ok atomoj, funkcioj, molekuloj ks (kaj simile, kaj similaj): oktahidrato, oktapeptido. Vd mono/, hepta/, nona/, oligo/, poli/.
@@ -58952,7 +58952,7 @@ vat/herb/o:【植】【PIV】Nomo de diversaj sp-oj (specioj) de herboj el la fa
 vezik/herb/o:【PIV】Utrikulario.
 vund/o/herb/o:【PIV】Vundosaniga antilido.
 kun/hered/i:【PIV】Heredi divide kun iu, au^ iuj.
-pseu^do/hermafrodit/ec/o:【医】【PIV】Misformo de la generaj organoj, karakterizata de la c^eesto en unu individuo de kelkaj el la karakteroj de ambau^ seksoj.
+pseu^do/herm/afrodit/ec/o:【医】【PIV】Misformo de la generaj organoj, karakterizata de la c^eesto en unu individuo de kelkaj el la karakteroj de ambau^ seksoj.##偽分解##エス的分解
 super/heterodin/o:【PIV】Riceva aparato, en kiu la osciloj, produktitaj de la alvenaj ondoj, estas kombinataj kun tiuj de loka oscililo, tiel ke estig^as osciloj de intera frekvenco, kiuj estas amplifataj k tuj detektataj por la ricevado de la signalo.
 karbon/hidr/id/o:【化】【PIV】= hidrokarbono.##偽分解(PIV正式分解)##過細分解 karbon/h/i/d/r/id/o
 de/hidrat/ig/i:【PIV】= senhidratigi.
@@ -62012,7 +62012,7 @@ G^in/o:【宗】【PIV】Titolo de la fondinto de g^ainismo («Venkinto»).
 Henr/o:【PIV】Usona fizikisto (J. Henry, 1797−1878).
 Herc/o:【PIV】Germana fizikisto (H. Hertz, 1857−1894).
 herm/o:【PIV】Cipo, kun barba kapo k elstara peniso, ofta c^e la helenoj.
-##重複語Hermafrodit/o:【PIV】Filo de Hermeso k Afrodito, samtempe vira k virina.
+##重複語Herm/afrodit/o:【PIV】Filo de Hermeso k Afrodito, samtempe vira k virina.##偽分解##エス的分解
 Ho-C^i-Min-Urb/o:【PIV】S-Vjetnamia havenurbo (106°45′E, 10°44′N). Vd Sajgono.
 ##重複語Holokau^st/o:【史】【PIV】La amasa ekstermo de judoj (i.a. (interalie, inter aliaj) bruligitaj post gasumo) fare de la nazia reg^imo. Vd genocido.
 Hund/o:【天】【PIV】Kn (Kolektiva nomo) de du konstelacioj: 1) Granda Hundo = Au^strala konstelacio (Canis major), entenanta Siriuson; 2) Malgranda Hundo = Boreala konstelacio (Canis minor), entenanta Procionon.

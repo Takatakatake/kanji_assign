@@ -31,7 +31,14 @@ $existing=@(
  # ギリシャ結合形 同綴衝突(2026-06-21・列挙sep)。fon→声と同型だが多義のため見出し列挙。正当語(bo/fil息子・du/lit/aベッド・buter/te茶)は disc 不掲載で保護。全字一级。
  @('fil','爱','bibli/o/fil/o,bibli/o/fil/i/o,pedo/fil/i/o,gastr/o/fil/o,gips/o/fil/o,hidr/o/fil/a,nekr/o/fil/i/o,skop/o/fil/i/o,fil/antrop/o,fil/antrop/i/o,fil/o/logi/o,fil/o/logi/a,fil/o/logi/ist/o,fil/o/log/o','','-fil-(philos=愛/-phile)→爱。語頭philo-(filantrop博愛/filolog文献学=言葉への愛)も含む(2026-06-22)。filo=息子(儿)はbo/du-on/adopt-o/bapt-o/pra/sol/ge/sen-fil で維持(disc不掲載)。filogenez=phylon系統は別語源で対象外'),
  @('per','过','per/oksid/o,per/oksid/i,per/oksid/a,per/oksid/az/o,per/klor/at/o,per/sulf/at/o,per/sulf/at/oj,per/klorat/o,per/oksidaz/o,per/sulfat/oj,per/mangan/at/o','','per-(化学:過酸化/過…)→过。前置詞per=以 は別。学術版粗分解 per/klorat/per/oksidaz/per/sulfat も过・per/mangan/at=過マンガン酸塩(両版)も过(2026-06-23 sep派生形網羅)'),
- @('oks','氧','an/oks/emi/o,hipoks/emi/o','','oxy-(酸素)→氧。牛oks/o=牛 は別'),
+ @('oks','氧','an/oks/emi/o,hipoks/emi/o,oks/oni/o','','oxy-(酸素)→氧。牛oks/o=牛 は別。2026-07-26 正本ドリフトで oksoni/o→oks/oni/o に分解され oks が牛ᴼ(雄牛)で描画される誤友が露出→disc追加で氧に是正(oni=オニウムイオンはL148の化学ルールでlatin保持)'),
+ # 2026-07-26 正本ドリフト是正: hermafrodit(両性具有)が herm/afrodit へ##エス的分解され、
+ #   afrodit が同綴の【動】Aphrodita(ウロコムシ属)=虫ᴬᴰ で描画される誤友が露出(两性→herm/虫ᴬᴰ の品質後退)。
+ #   §3.1「同綴誤友の是正」に従い word-scoped sep で是正。従来の見た目 两性 を分解鏡像として維持する
+ #   (herm=Hermes男神 + afrodit=Aphrodite女神 → 两/性 = 両性)。herm/o(【PIV】ヘルメス柱像)・Herm/o(固有名)は
+ #   disc非掲載ゆえ不発火、afrodit/o(ウロコムシ)も虫ᴬᴰ を維持。
+ @('herm','两','herm/afrodit/a,herm/afrodit/ec/o,herm/afrodit/o,herm/afrodit/flor/a,pseu^do/herm/afrodit/ec/o','','herm-(Hermes)→两: hermafrodit=両性具有 の分解鏡像 两/性。彫像 herm/o は disc外で latin 維持'),
+ @('afrodit','性','herm/afrodit/a,herm/afrodit/ec/o,herm/afrodit/o,herm/afrodit/flor/a,pseu^do/herm/afrodit/ec/o','','afrodit-(Aphrodite)→性: 上記 herm=两 と対で 两性。同綴の【動】Aphrodita(ウロコムシ属)=虫ᴬᴰ は disc外で維持'),
  @('leu^k','白','leu^k/emi/o,leu^k/oz/o','','leuko-(白)→白(白血病·白血球增多症)。leu^ko=白ᴸ は別root。2026-07-19 正本ドリフト leukoz→leu^k/oz 露出で leu^k latin残([F]不整合)→白(白/富=白血球增多)で整合'),
  # PIV航海語 jul/o(艫でひねって漕ぐ櫓=yuloh)・jul/ad/i(櫓で漕ぐ)→漕ぐhub划(=rem。パドルpagaj=划ᴾᴳと同型・新字ゼロ)。クリスマス系 jul/arb/o=圣诞/树 は別見出しで維持(2026-07-04ユーザー裁定sep分離)。※$hsepは大小無視だが Jul/o(大文字=ユール祭)は固有名ガードがhsepより先に捕捉し注釈なしで無影響=衝突せず。jul/arb/o は見出し文字列がjul/oと異なるため非該当で圣诞/树維持
  @('jul','划','jul/o,jul/ad/i','','【PIV】航海 jul/o=艫でひねる櫓(yuloh)・jul/ad/i=櫓で漕ぐ→漕ぐhub划。クリスマス系(jul/arb/o=圣诞/树・Jul/o=圣诞ユール祭)は別見出しで維持。2026-07-04ユーザー裁定sep分離'),

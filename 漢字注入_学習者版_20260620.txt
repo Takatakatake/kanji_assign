@@ -14255,9 +14255,9 @@ herez/ul/o⟦异端/者/o⟧:異端者
 Herkul/aj kolon/oj⟦Herkul/aj 柱ᴷ/oj⟧:（la 〜）【史】ヘラクレスの柱（ジブラルタル海峡両岸の岬を指す）
 Herkul/o:【神】ヘルクレス（ギリシア神話の英雄のラテン名）,=Heraklo
 Herkul/o:【天】ヘルクレス座
-hermafrodit/a⟦两性/a⟧:=ambau^seksa,両性具有の,半陰陽の;【動】雌雄同体の;【植】両性花の
-hermafrodit/ec/o⟦两性/性/o⟧:両性具有,半陰陽;【動】雌雄同体現象
-hermafrodit/o⟦两性/o⟧:{Ｏ}両性具有者;【動】雌雄同体;【植】両性花
+herm/afrodit/a⟦两ᴴ/性ᴬᶠ/a⟧:=ambau^seksa,両性具有の,半陰陽の;【動】雌雄同体の;【植】両性花の##偽分解##エス的分解
+herm/afrodit/ec/o⟦两ᴴ/性ᴬᶠ/性/o⟧:両性具有,半陰陽;【動】雌雄同体現象##偽分解##エス的分解
+herm/afrodit/o⟦两ᴴ/性ᴬᶠ/o⟧:{Ｏ}両性具有者;【動】雌雄同体;【植】両性花##偽分解##エス的分解
 Hermes/o:【神】ヘルメス（ギリシア神話で商人と旅人の守護神）
 hermet/a⟦封ᴴᴱ/a⟧:=hermetika（密封した）
 hermetik/a⟦封ᴴ/a⟧:密封した,密閉した;難解な
@@ -48884,7 +48884,7 @@ Herkul/a:【PIV】1 Rilata al Herkulo. 2 Rilata al fortegulo: Herkula laboro.
 Herkulan/o:【史】【PIV】Urbo en la antikva Italio, detruita de erupcio de Vezuvio (14°21′E, 40°48′N).
 Herkules/o:【PIV】= Herkulo.
 Herm/o:【PIV】= Hermeso.
-hermafrodit/flor/a⟦两性/花/a⟧:【PIV】(pp (se paroli pri) planto) Havanta c^iujn florojn hermafroditajn. Vd ambau^seksa, monoika, dioika, poligamia.
+herm/afrodit/flor/a⟦两ᴴ/性ᴬᶠ/花/a⟧:【PIV】(pp (se paroli pri) planto) Havanta c^iujn florojn hermafroditajn. Vd ambau^seksa, monoika, dioika, poligamia.##偽分解##エス的分解
 Herman/o:【PIV】Vira nomo, i.a. (interalie, inter aliaj) de la estro g^ermana, kiu batalis kontrau^ la Romiaj legioj en la komenco de la 1a jc (jarcento).
 hermeneu^tik/o:【哲】【PIV】1 Scienco pri interpretado de la tekstoj k simboloj (religiaj k filozofiaj) k, pli g^enerale, de la fenomenoj, konsiderataj kiel signoj. Vd semiologio 2. 2 Teorio pri interpretado kiel konsidero de kondic^oj k normoj de kompreno k g^ia lingva esprimado.
 Hermes/bust/o:【PIV】= hermo.
@@ -50690,7 +50690,7 @@ konidi/uj/o⟦konidi/器/o⟧:【PIV】Konidiporta au^ konidienhava organo de iu
 konidi/don/a⟦konidi/给/a⟧:【PIV】Produktanta konidio(j)n: konididona c^elo.
 konidiofor/o:【植】【PIV】Simpla au^ branc^a hifo, kiu portas konididonajn c^elojn au^ senpereproduktas konidiojn.
 konik/oid/o⟦锥线/似ᴼ/o⟧:【PIV】Duagrada surfaco en tridimensia spaco. Vd sfero, elipsoido, paraboloido, hiperboloido.
-konioz/o:【医】【PIV】Malsano, estigata de polvo.
+konioz/o⟦尘症/o⟧:【医】【PIV】Malsano, estigata de polvo.
 koniz/o⟦菊ᴷᶻ/o⟧:【植】【PIV】G. (Genro) (Conyza el asteracoj), tre parenca al erigerono, de unu-k du-jaraj herboj k de kelkaj arbustoj; c^. (c^irkau^) 60 sp-oj (specioj) el la varmaj k mezvarmaj regionoj; multaj trudherboj.
 konjug/aj:【化】【PIV】(pp (se paroli pri) duoblaj ligoj) Partoprenantaj en komuna elektronnubo, ekz. (ekzemple) alternaj duoblaj k unuoblaj ligoj, kiuj kus^as en la sama ebeno: konjugaj duoblaj ligoj de benzeno.
 konjug/o:【数】【PIV】La operacio, kiu al kompleksa nombro a + ib asocias a − ib.
@@ -52170,7 +52170,7 @@ ro-monat/oj⟦木ᴿ-月ᴹ/oj⟧:【PIV】La monatoj, de Sept. g^is Apr., kiuj 
 monazit/o:【地質】【PIV】Mineralo, de flava g^is orang^e rug^a, el monoklina fosfato (k/au^ siliciato) de lantanidoj (k/au^ torio), (Ce,La,NdTh)(PO 4, SiO 4), akcesora en granitoidoj, kelkfoje koncentrig^inta en aluvioj.
 mond/aj^/oj⟦界ᴹ/物/oj⟧:【PIV】La surteraj ric^aj^oj, vantaj^oj.
 monel/o:【技】【PIV】Alojo precipe el nikelo k kupro, tre rezista al mekanikaj fortoj k al korozio.
-monelmetal/o:【PIV】(evi (evitinda)) = monelo.
+monel/metal/o⟦monel/金ᴹ/o⟧:【PIV】(evi (evitinda)) = monelo.##偽分解(PIV正式分解)
 monem/o:【PIV】Morfemo.
 mongol/ism/o⟦mongol/主义/o⟧:【医】【PIV】Denaska afekcio (sindromo de Down), en kiu la infano prezentas oblikvajn okulojn kun mongola faldo k epikanto, platajn (malaltajn) nazostojn, mallongajn fingrojn k diversajn gradojn de mensa nesufic^o: mongolismo estas genetika malsano, karakterizata de la c^eesto de unu plia (47a) kromosomo. see -som/ ① 2.
 monili/o⟦菌ᴹᴼ/o⟧:【植】【PIV】G. (Genro) (Monilia) de mikroskopaj fungoj (neperfekta formo de neu^rosporo), kies sporoj (konidioj) formig^as c^ene; c^. (c^irkau^) 10 sp-oj (specioj), tre disvastig^intaj, iuj kau^zantaj diversajn plantmalsanojn, ekz. (ekzemple) fruktoputron k s^osvelkon c^e pomo, piro k c^erizo.
@@ -52676,7 +52676,7 @@ oksiton/a:【語】【PIV】(pp (se paroli pri) vorto) Havanta akcenton sur la l
 oksiur/o⟦虫ᴼᴷ/o⟧:【動】【PIV】G. (Genro) (Enterobius, sin. (sinonimo (de latinscienca nomo)) Oxyuris) de malgrandaj nematodoj, kies ordinara k tre disvastig^inta sp. (E. vermicularis) parazitas en la intesto de homoj, precipe infanoj.
 oksiur/oz/o⟦虫ᴼᴷ/症ᴼ/o⟧:【医】【PIV】Malsano pro oksiuroj.
 oksiur/icid/o⟦虫ᴼᴷ/杀/o⟧:【PIV】Medikamento, mortiganta la oksiurojn.##偽分解(PIV正式分解)
-oksoni/o:【PIV】= oksionio (Vd (vidu) onio).
+oks/oni/o⟦氧ᴼᴷ/oni/o⟧:【PIV】= oksionio (Vd (vidu) onio).
 ok/t/o⟦八/t/o⟧:【楽】【PIV】Intervalo inter ok tonoj en diatona gamo (frekvencproporcio: 2).##偽分解(PIV正式分解)
 okt/⟦辛/⟧:【化】【PIV】Pref. (Prefikso), montranta okkarbonan c^enon en la nomoj de hidrokarbonoj, de monosakaridoj k de ties derivaj^oj: oktano, okteno, oktino, oktilo ktp (kaj tiel plu) (Vd (vidu) alk/); oktozo.
 okta/⟦八ᴼᵀ/⟧:【化】【PIV】Pref. (Prefikso), montranta, ke substanco estas karakterizata de, au^ konsistas el, ok atomoj, funkcioj, molekuloj ks (kaj simile, kaj similaj): oktahidrato, oktapeptido. Vd mono/, hepta/, nona/, oligo/, poli/.
@@ -53612,7 +53612,7 @@ pneu^mogastr/a:【PIV】= vaga.
 pneu^mon/o⟦肺ᴾᴺ/o⟧:【医】【PIV】Pulmo (en kunmetaj^oj).
 pneu^mon/it/o⟦肺ᴾᴺ/炎ᵀ/o⟧:【医】【PIV】Inflamo de unu pulmo (simpla pneu^monito), au^ de la du pulmoj (duobla pneu^monito), kau^zata de diversaj bakterioj, i.a. (interalie, inter aliaj) Streptococcus pneumoniae.##偽分解(PIV正式分解)
 pneu^mon/ektomi/o⟦肺ᴾᴺ/除ᴱᴷ/o⟧:【PIV】Parta au^ tuta ablacio de unu pulmo.##偽分解(PIV正式分解)
-pneu^mon/o/konioz/o⟦肺ᴾᴺ/o/konioz/o⟧:【PIV】Malsano, kau^zata de la fiksig^o de karbaj, silicaj ks (kaj simile, kaj similaj) polveroj en la pulmoj.##偽分解(PIV正式分解)
+pneu^mon/o/konioz/o⟦肺ᴾᴺ/o/尘症/o⟧:【PIV】Malsano, kau^zata de la fiksig^o de karbaj, silicaj ks (kaj simile, kaj similaj) polveroj en la pulmoj.##偽分解(PIV正式分解)
 pneu^mon/o/logi/o⟦肺ᴾᴺ/o/学ᴸᴳ/o⟧:【PIV】Studo pri la pulmoj k iliaj malsanoj.##偽分解
 pneu^mon/o/pati/o⟦肺ᴾᴺ/o/病ᴾ/o⟧:【PIV】Kn (Kolektiva nomo) de la pulmaj malsanoj.##偽分解(PIV正式分解)
 po/ac/oj⟦草/科ᴬ/oj⟧:【植】【PIV】Fam. (Familio) (Poaceae, sin. (sinonimo (de latinscienca nomo)) Gramineae, el unukotiledonoj) de herboj, pli malofte lignecaj plantoj (ekz. (ekzemple) bambuoj), kun artikaj, kavaj tigoj (escepte de la nodoj), kun mallarg^aj, g^enerale liniformaj folioj, havantaj cilindran, lau^longe fendan ingon, k kun spiketoj el ne tre videblaj, g^enerale duseksaj floroj kun tre malgranda perianto (see lodiklo) k c^irkau^itaj de karakterizaj brakteoj (see glumo); c^. (c^irkau^) 9 500 sp-oj (specioj) el 668 g-oj (genroj), el kiuj la plej multaj grenspecioj (i.a. (interalie, inter aliaj) aveno, hordeo, maizo, sekalo, tritiko) k kanoj (arundo, bambuoj, fragmito). see greso.
@@ -58952,7 +58952,7 @@ vat/herb/o⟦棉/草/o⟧:【植】【PIV】Nomo de diversaj sp-oj (specioj) de 
 vezik/herb/o⟦囊/草/o⟧:【PIV】Utrikulario.
 vund/o/herb/o⟦伤/o/草/o⟧:【PIV】Vundosaniga antilido.
 kun/hered/i⟦共/继/i⟧:【PIV】Heredi divide kun iu, au^ iuj.
-pseu^do/hermafrodit/ec/o⟦伪ᴾ/两性/性/o⟧:【医】【PIV】Misformo de la generaj organoj, karakterizata de la c^eesto en unu individuo de kelkaj el la karakteroj de ambau^ seksoj.
+pseu^do/herm/afrodit/ec/o⟦伪ᴾ/两ᴴ/性ᴬᶠ/性/o⟧:【医】【PIV】Misformo de la generaj organoj, karakterizata de la c^eesto en unu individuo de kelkaj el la karakteroj de ambau^ seksoj.##偽分解##エス的分解
 super/heterodin/o⟦上ˢᴾ/外差/o⟧:【PIV】Riceva aparato, en kiu la osciloj, produktitaj de la alvenaj ondoj, estas kombinataj kun tiuj de loka oscililo, tiel ke estig^as osciloj de intera frekvenco, kiuj estas amplifataj k tuj detektataj por la ricevado de la signalo.
 karbon/hidr/id/o⟦碳/水ᴴ/化ᴵᴰ/o⟧:【化】【PIV】= hidrokarbono.##偽分解(PIV正式分解)##過細分解 karbon/h/i/d/r/id/o
 de/hidrat/ig/i⟦从/水合/使/i⟧:【PIV】= senhidratigi.
@@ -62012,7 +62012,7 @@ G^in/o:【宗】【PIV】Titolo de la fondinto de g^ainismo («Venkinto»).
 Henr/o:【PIV】Usona fizikisto (J. Henry, 1797−1878).
 Herc/o:【PIV】Germana fizikisto (H. Hertz, 1857−1894).
 herm/o:【PIV】Cipo, kun barba kapo k elstara peniso, ofta c^e la helenoj.
-##重複語Hermafrodit/o:【PIV】Filo de Hermeso k Afrodito, samtempe vira k virina.
+##重複語Herm/afrodit/o:【PIV】Filo de Hermeso k Afrodito, samtempe vira k virina.##偽分解##エス的分解
 Ho-C^i-Min-Urb/o:【PIV】S-Vjetnamia havenurbo (106°45′E, 10°44′N). Vd Sajgono.
 ##重複語Holokau^st/o:【史】【PIV】La amasa ekstermo de judoj (i.a. (interalie, inter aliaj) bruligitaj post gasumo) fare de la nazia reg^imo. Vd genocido.
 Hund/o:【天】【PIV】Kn (Kolektiva nomo) de du konstelacioj: 1) Granda Hundo = Au^strala konstelacio (Canis major), entenanta Siriuson; 2) Malgranda Hundo = Boreala konstelacio (Canis minor), entenanta Procionon.

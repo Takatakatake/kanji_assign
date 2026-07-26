@@ -31751,7 +31751,7 @@ prem/marmit/o⟦压/锅ᴹ/o⟧:【料】圧力鍋,=prempoto
 prem/mas^in/o⟦压/机/o⟧:【機】圧搾機,プレス機
 prem/mort/ig/i⟦压/死/使/i⟧:［他］圧し殺す,圧死させる
 prem/o⟦压/o⟧:圧力,圧迫;【理】圧力
-premolar/o⟦臼ᴾ/o⟧:【解】小臼歯,=antau^molaro
+premolar/o⟦前臼/o⟧:【解】小臼歯,=antau^molaro
 prem/pens/o⟦压/思/o⟧:強迫観念,=obsedo
 prem/pingl/i⟦压/针ᴾ/i⟧:［他］押しピンで止める
 prem/pingl/o⟦压/针ᴾ/o⟧:押しピン,画鋲（がびょう）,=desegnonajlo
@@ -50690,7 +50690,7 @@ konidi/uj/o⟦konidi/器/o⟧:【PIV】Konidiporta au^ konidienhava organo de iu
 konidi/don/a⟦konidi/给/a⟧:【PIV】Produktanta konidio(j)n: konididona c^elo.
 konidiofor/o:【植】【PIV】Simpla au^ branc^a hifo, kiu portas konididonajn c^elojn au^ senpereproduktas konidiojn.
 konik/oid/o⟦锥线/似ᴼ/o⟧:【PIV】Duagrada surfaco en tridimensia spaco. Vd sfero, elipsoido, paraboloido, hiperboloido.
-konioz/o:【医】【PIV】Malsano, estigata de polvo.
+konioz/o⟦尘症/o⟧:【医】【PIV】Malsano, estigata de polvo.
 koniz/o⟦菊ᴷᶻ/o⟧:【植】【PIV】G. (Genro) (Conyza el asteracoj), tre parenca al erigerono, de unu-k du-jaraj herboj k de kelkaj arbustoj; c^. (c^irkau^) 60 sp-oj (specioj) el la varmaj k mezvarmaj regionoj; multaj trudherboj.
 konjug/aj:【化】【PIV】(pp (se paroli pri) duoblaj ligoj) Partoprenantaj en komuna elektronnubo, ekz. (ekzemple) alternaj duoblaj k unuoblaj ligoj, kiuj kus^as en la sama ebeno: konjugaj duoblaj ligoj de benzeno.
 konjug/o:【数】【PIV】La operacio, kiu al kompleksa nombro a + ib asocias a − ib.
@@ -52676,7 +52676,7 @@ oksiton/a:【語】【PIV】(pp (se paroli pri) vorto) Havanta akcenton sur la l
 oksiur/o⟦虫ᴼᴷ/o⟧:【動】【PIV】G. (Genro) (Enterobius, sin. (sinonimo (de latinscienca nomo)) Oxyuris) de malgrandaj nematodoj, kies ordinara k tre disvastig^inta sp. (E. vermicularis) parazitas en la intesto de homoj, precipe infanoj.
 oksiur/oz/o⟦虫ᴼᴷ/症ᴼ/o⟧:【医】【PIV】Malsano pro oksiuroj.
 oksiuricid/o⟦虫杀ᴼ/o⟧:【PIV】Medikamento, mortiganta la oksiurojn.
-oksoni/o:【PIV】= oksionio (Vd (vidu) onio).
+oks/oni/o⟦氧ᴼᴷ/oni/o⟧:【PIV】= oksionio (Vd (vidu) onio).
 okt/o⟦八度ᴼᴷ/o⟧:【楽】【PIV】Intervalo inter ok tonoj en diatona gamo (frekvencproporcio: 2).
 okt/⟦辛/⟧:【化】【PIV】Pref. (Prefikso), montranta okkarbonan c^enon en la nomoj de hidrokarbonoj, de monosakaridoj k de ties derivaj^oj: oktano, okteno, oktino, oktilo ktp (kaj tiel plu) (Vd (vidu) alk/); oktozo.
 okta/⟦八ᴼᵀ/⟧:【化】【PIV】Pref. (Prefikso), montranta, ke substanco estas karakterizata de, au^ konsistas el, ok atomoj, funkcioj, molekuloj ks (kaj simile, kaj similaj): oktahidrato, oktapeptido. Vd mono/, hepta/, nona/, oligo/, poli/.
@@ -53612,7 +53612,7 @@ pneu^mogastr/a:【PIV】= vaga.
 pneu^mon/o⟦肺ᴾᴺ/o⟧:【医】【PIV】Pulmo (en kunmetaj^oj).
 pneu^monit/o⟦肺炎ᴾᴺ/o⟧:【医】【PIV】Inflamo de unu pulmo (simpla pneu^monito), au^ de la du pulmoj (duobla pneu^monito), kau^zata de diversaj bakterioj, i.a. (interalie, inter aliaj) Streptococcus pneumoniae.
 pneu^monektomi/o⟦肺除/o⟧:【PIV】Parta au^ tuta ablacio de unu pulmo.
-pneu^monokonioz/o⟦肺ᴾᴷ/o⟧:【PIV】Malsano, kau^zata de la fiksig^o de karbaj, silicaj ks (kaj simile, kaj similaj) polveroj en la pulmoj.
+pneu^monokonioz/o⟦肺尘症/o⟧:【PIV】Malsano, kau^zata de la fiksig^o de karbaj, silicaj ks (kaj simile, kaj similaj) polveroj en la pulmoj.
 pneu^monologi/o⟦肺学/o⟧:【PIV】Studo pri la pulmoj k iliaj malsanoj.
 pneu^monopati/o⟦肺病/o⟧:【PIV】Kn (Kolektiva nomo) de la pulmaj malsanoj.
 po/ac/oj⟦草/科ᴬ/oj⟧:【植】【PIV】Fam. (Familio) (Poaceae, sin. (sinonimo (de latinscienca nomo)) Gramineae, el unukotiledonoj) de herboj, pli malofte lignecaj plantoj (ekz. (ekzemple) bambuoj), kun artikaj, kavaj tigoj (escepte de la nodoj), kun mallarg^aj, g^enerale liniformaj folioj, havantaj cilindran, lau^longe fendan ingon, k kun spiketoj el ne tre videblaj, g^enerale duseksaj floroj kun tre malgranda perianto (see lodiklo) k c^irkau^itaj de karakterizaj brakteoj (see glumo); c^. (c^irkau^) 9 500 sp-oj (specioj) el 668 g-oj (genroj), el kiuj la plej multaj grenspecioj (i.a. (interalie, inter aliaj) aveno, hordeo, maizo, sekalo, tritiko) k kanoj (arundo, bambuoj, fragmito). see greso.
@@ -58963,7 +58963,7 @@ hiper/hipofiz/ism/o⟦超/垂体/主义/o⟧:【医】【PIV】Troa au^ nesufic^
 hipo/hipofiz/ism/o⟦亚/垂体/主义/o⟧:【医】【PIV】Troa au^ nesufic^a funkciado de hipofizo.
 pale/o/histologi/o⟦古ᴾᴬ/o/织学/o⟧:【PIV】Scienco pri la fosiliaj histoj.
 antau^/histori/o⟦前/史/o⟧:【PIV】= prahistorio 2 k 3.
-prehistori/o⟦史ᴾ/o⟧:【PIV】= prahistorio 2 k 3.
+prehistori/o⟦前史/o⟧:【PIV】= prahistorio 2 k 3.
 proto/histori/o⟦原ᴾᵀ/史/o⟧:【PIV】1 Transira periodo inter prahistorio k historio, kiam ekzistis nur nerektaj skribaj dokumentoj pri la koncernaj homaj socioj. 2 La responda scienco.
 c^en/hok/o⟦链/钩/o⟧:【PIV】Hoko c^e la fino de c^eno (de gruo ekz. (ekzemple)).
 fajr/o/hok/o⟦火/o/钩/o⟧:【PIV】Noc^ostango.

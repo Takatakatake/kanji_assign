@@ -10033,8 +10033,8 @@ piv	elateri	瓜
 piv	hiskiam	茄
 piv	kantarid	虫
 piv	kinkon	木
-content	premolar	臼
-piv	prehistori	史
+content	premolar	前臼
+piv	prehistori	前史
 content	abrotan	艾
 content	adonid	草
 content	agapant	花
@@ -10404,4 +10404,5 @@ content	tuberos	龙舌兰
 content	urogal	野鸡
 content	vakcini	石南
 content	zizel	松鼠
-piv	pneu^monokonioz	肺
+piv	pneu^monokonioz	肺尘症
+piv	konioz	尘症
