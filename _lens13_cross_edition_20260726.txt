@@ -142,3 +142,46 @@
           [F]★新規0(是正7語根を理由付きで既知登録)・[G]61行・[H]基本形不一致0(活性19)・
           [I]CSV2890_LOSES_BASE=0 NEW_SYNONYM_REVERSAL=0 照合96.9% TIER0_FUNC_LAYER=49(new=0)・
           [J]★新規0(両版)・[K]★新規0・所有者監査★新規0/sep重複0・鏡像忠実度違反0・VERIFY_EXIT=0
+
+==========================================================================================
+★2026-07-26 ユーザー裁定による追記 —— [13-4]のラテン化はすべて撤回した
+==========================================================================================
+
+  ユーザー裁定:「基本的にはこの漢字割り当てのままでいい」
+  (fek/ul/o粪ᶠ/者・korv/et/o鸦/小・silvi/kultur/o莺/耕・lag/oftalm/o湖/目ᴼᶠ・
+   nefr/it/o肾ᴺ/炎ᵀ・roman/o小说・sud/an/o南/员 を名指し)
+
+  ★確定した是正線(以後これに従う):
+    衝突語であっても **『適切な既存字への置換ができる時だけ是正し、
+    できない時は現状(成分の素直な鏡像)を維持する』**。
+    **ラテン化(=既にある漢字を消すこと)は原則行わない**。
+      ① これらの描画は正本の分解を素直に写した faithful mirror であり、
+         ラテン化は偽分解尊重の設計そのものを壊す。
+      ② 語釈がすぐ隣にある以上、誤読リスクより
+         『読める行を読めなくする』被覆の後退のほうが害が大きい。
+    ※既存の $segLat 群(magnet/it・umbr/a・kub/an・agami/a 等)は語根自体が未割当か
+      固有名§7で元から漢字が無い/付けようがないケース=別クラス。従来どおり維持する。
+
+  撤回=30群(現状維持で正):
+    fek/ul/o・korv/et/o・estr/ad/o・halo/o・medi/o・nomad/o・sum/er/o・vel/ar/o・pak/tol/o・
+    parti/o・part/o・roman/o・roman/a・roman/a cifer/o・sud/an/o・rut/in/o・mar/i/o・
+    port/o/vin/o・far/ad/o・grenad/il/o・lag/oftalm/o(+ec)・silvi/kultur/o・ald/ol/o・
+    ald/oz/o・form/aldehid/o・fer/ik/a・man/o/metr/o・sfigm/o/man/o/metr/o・spion/it/o・
+    ar/en/o・nefr/it/o・klor/it/o・kord/it/o
+
+  残した是正=7件のみ(いずれも既存字への【置換】で被覆を落とさず字種も増やさない):
+    pir/o/gajl/ol/o  梨 → 火ᴾ         台帳キーが旧綴りで規則が不発火だった純粋なバグ
+    urin/at/o        尿/被 → 尿/盐ᴬ    = urato(尿酸塩)。兄弟 ur/at/o と一致
+    spor/o/trik/o+2  织ᵀᴿ → 毛ᵀ        Sporothrix=希 thrix 毛。台帳の語リストから漏れていた
+    de/bat/i(討論)    从/打 → 从/辩ᴮ    PIV k7342 debat 独立見出し。たたき落とす側は 打 維持
+    vulkan/iz/i+2    火山/化 → 硫ⱽ/化  PIV k49266=ゴムに硫黄を結合・中国語 硫化。火山義は維持
+    re/form/ator/o   具ᴬ → 员ᴬᵀ        -ator 人物義の語リストから漏れていた
+    lup/in/o(【植】)   狼/女 → 豆ᴸᵁ/in   PIV lupino=(evi)=lupeno 豆ᴸᴾ。【動】雌狼は 狼/女 維持
+
+  ★[13-1][13-2][13-3][13-5]の測定結果と教訓は有効なまま:
+    版間完全一致率 CSV2890 98.6% > PEJVO 96.4% > PIV 90.0% の単調性 /
+    学術版で漢字化が落ちる語は CSV2890層 0件 / §3.1分解鏡像 96.6% 一致 /
+    語釈scoped規則は $chemSaltLine・$medIt より前に置かないと dead code になる。
+    変わったのは『測って見つけたものをどう扱うか』の裁定だけである。
+
+  注入は 学習者版 52,230行/被覆92.7% と続33と同水準に復帰。VERIFY_EXIT=0。

@@ -21932,6 +21932,7 @@ H	学習	ald/a saksofon/o
 H	学習	ald/ist/o
 H	学習	ald/o
 H	学習	ald/o/violon/o
+H	学習	ald/ol/o
 H	学習	ald/oz/o
 H	学習	ald/ul/o
 H	学習	ale/o
@@ -23224,6 +23225,7 @@ H	学習	apud/voj/a
 H	学習	apus/o
 H	学習	ar/
 H	学習	ar/eg/o
+H	学習	ar/en/o
 H	学習	ar/et/o
 H	学習	ar/ig/i
 H	学習	ar/ig^/i
@@ -34557,6 +34559,7 @@ H	学習	form/a
 H	学習	form/ad/o
 H	学習	form/aj^/a
 H	学習	form/aj^/o
+H	学習	form/aldehid/o
 H	学習	form/ant/o
 H	学習	form/faktor/o
 H	学習	form/genr/o
@@ -49019,6 +49022,7 @@ H	学習	mar/herb/o
 H	学習	mar/herb/oj
 H	学習	mar/hirund/o
 H	学習	mar/hund/o
+H	学習	mar/i/o
 H	学習	mar/infanteri/o
 H	学習	mar/ist/ar/o
 H	学習	mar/ist/o
