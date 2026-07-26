@@ -56,7 +56,7 @@ for ed, path in INJ:
         hd = line.split(':', 1)[0]
         m = re.match(r'^([^⟦]*)⟦([^⟧]*)⟧$', hd)
         if not m: continue                       # 漢字描画のある見出しだけ追う
-        heads.add(ed[:1] + '\t' + m.group(1))
+        heads.add(ed[:2] + '\t' + m.group(1))   # 2026-07-26 是正: 従来 ed[:1] は学習者版/学術版がどちらも '学' に潰れ版の区別が消えていた
 
 known = set(); known_heads = set()
 if os.path.exists(BASE):

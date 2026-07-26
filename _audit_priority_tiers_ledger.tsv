@@ -3,8 +3,8 @@
 # base=min band_rank は C=br*1000+P で構造保証。逆転はband誤ラベル/意図的override時のみ。
 # CSV2890照合: rows=2890 matched=2799(96.9%) 語根=2695 未照合rows=91
 
-## [A] 層順逆転(bare.tier より高優先=小tierのメンバーが非base) = 全37件
-#   NEW=0(0が必須=未説明の違反) / base_override=18(意図) / ratified現状維持=19(既知20群)
+## [A] 層順逆転(bare.tier より高優先=小tierのメンバーが非base) = 全38件
+#   NEW=0(0が必須=未説明の違反) / base_override=19(意図) / ratified現状維持=19(既知20群)
 groupkey	base	base_tier	高優先メンバー(逆転相手)	分類
 傲	arog	1=PEJVO	arogant(t0=CSV2890)	base_override
 千足	kilopod	2=PIV	skolopendr(t1=PEJVO)	base_override
@@ -18,6 +18,7 @@ groupkey	base	base_tier	高優先メンバー(逆転相手)	分類
 架	rak	2=PIV	trus(t1=PEJVO);stabl(t1=PEJVO);c^arpent(t1=PEJVO);skafald(t1=PEJVO);c^asi(t1=PEJVO)	ratified
 梗	infarkt	2=PIV	pedunkl(t1=PEJVO)	ratified
 榕	fikus	2=PIV	sikomor(t1=PEJVO)	base_override
+毫	mili	1=PEJVO	milimetr(t0=CSV2890)	base_override
 气计	gasmetr	2=PIV	aerometr(t1=PEJVO);gasometr(t1=PEJVO)	ratified
 水苏	staki	2=PIV	betonik(t1=PEJVO)	base_override
 渗计	osmozmetr	2=PIV	osmozometr(t1=PEJVO)	ratified
@@ -905,14 +906,13 @@ sargas	44187	藻	False
 montenegr	44359	山黑	True
 
 ## [D] tier0内部: 機能形態素base(§5/§6確定) vs CSV2890 basic内容語衛星。従来[A]の盲点 = 全49件
-#   func_layer=47(§5/§6確定機能割当=意図的設計・誤読なし・違反でない) / NEW=2(集合外の新規=要点検・非fail)
+#   func_layer=49(§5/§6確定機能割当=意図的設計・誤読なし・違反でない) / NEW=0(集合外の新規=要点検・非fail)
 #   機能形態素(前置詞/接尾辞/接頭辞/相関/数詞/分詞)が固有字を所有しCSV2890内容語が識別子付き衛星=nun现と同型。
 #   base=bare機能形態素 / basic_satellites=識別子付きに落ちたCSV2890内容語(語根:Unified_Level)
 groupkey	base(接辞)	base_band	basic衛星(CSV2890内容語)	分類
-任	ajn	func	kapric(8.0)	NEW
-员	an	suf	membr(6.33)	NEW
 事	ke	func	afer(2.27);fakt(5.83);event(8.9)	func_layer
 代	anstataŭ	prep	agent(9.0);pronom(8.9);generaci(8.9)	func_layer
+任	ajn	func	kapric(8.0)	func_layer
 份	da	prep	porci(8.9)	func_layer
 使	ig	suf	ambasad(9.0);apostol(9.0);ambasador(8.9)	func_layer
 值	ind	suf	valor(2.77);merit(5.83)	func_layer
@@ -930,6 +930,7 @@ groupkey	base(接辞)	base_band	basic衛星(CSV2890内容語)	分類
 原	pra	pref	original(6.83);primitiv(8.79)	func_layer
 反	mal	pref	opon(9.0);ironi(8.9)	func_layer
 受	it	suf	akcept(3.27)	func_layer
+员	an	suf	membr(6.33)	func_layer
 器	uj	suf	organ(6.33);vaz(7.9);aparat(6.33);instrument(8.4)	func_layer
 因	ĉar	func	kaŭz(3.27);faktor(8.79)	func_layer
 女	in	suf	feminism(8.79)	func_layer

@@ -133,6 +133,18 @@ $existing=@(
  #     いずれも中国語の標準名と一致するか、透明に読める。2字熟語 核糖 を新設するより字種が増えない。
  #   果実の rib/o(スグリ)・rib/uj/o・rib/o/ber/o・rib/likvor/o・nigr/a rib/o 等は disc外で 醋栗 を維持。
  @('rib','核','rib/oz/o,de/oksi/rib/oz/o,rib/o/flav/in/o,rib/o/flavin/o,rib/o/enzim/o,rib/o/som/o,rib/o/som/a,plur/rib/o/som/o,poli/rib/o/som/o','','rib(化学 ribo- = PIV の ribo II)→核: 核糖/脱氧核糖/核黄素/核酶 と中国語標準名に一致。果実 Ribes(醋栗)は同綴別語で disc外維持'),
+ # 2026-07-26 正本ドリフト是正(第12レンズで[K]監査が検出): metakarp/o(掌骨) が meta/karp/o へ分解され、
+ #   karp が【魚】コイ=鲤 を拾って meta/karp/o⟦超ᴹ/鲤/o⟧「超えた鯉」の偽の友になった(rib→醋栗と同型)。
+ #   karp には既に解剖義 karpo(手根/手首)=腕 が amb 行で裁定済み(腕の基本形は pojn=手首)。
+ #   meta/karp は「手根を超えた部位=中手/掌骨」ゆえ 超ᴹ/腕ᴷ が分解鏡像として正しい(§3.1)。
+ #   コイ義の karp/o・karp/id/o(仔ゴイ)は disc外で 鲤 を維持。amb行と同一(groupkey,seg)ゆえ id も同一に揃う。
+ @('karp','腕','meta/karp/o,meta/karp/a','','karp(解剖 karpo=手根)→腕: 正本が metakarp→meta/karp へ分解した際に【魚】コイ 鲤 を拾う偽の友を是正。中手=手根を超えた部位。コイ義 karp/o・karp/id/o は disc外で鲤維持'),
+ # 2026-07-26 第12レンズ(学習順序シミュレーション)でSI接頭辞ファミリを実測中に露出した偽の友。
+ #   mili/o は SI接頭辞 milli- ではなく【植】Milium(雑穀・キビ属)。語釈自身が >>setario >>panico >>ekinoklo >>sorgo と
+ #   同じイネ科雑穀を相互参照しており、その一族は既に 粟 群(panic=粟・setari=粟ˢ・ekinokl=粟ᴱ)で揃っている。
+ #   mili/o⟦毫ᴹᴵ/o⟧(ミリ〜の物)は明白な誤読ゆえ 粟 群へ寄せる(新字ゼロ・既存群への合流=生物名割当5基準の①)。
+ #   SI接頭辞の mili/metr/o・mili/gram/o・mili/bar/o 等は disc外で 毫 を維持。
+ @('mili','粟','mili/o','','mili(【植】Milium=雑穀/キビ属)→粟: SI接頭辞 milli-(毫)の同綴別語。語釈の相互参照先 setario粟ˢ・panico粟・ekinoklo粟ᴱ と同じイネ科雑穀群へ合流。SI義 mili/metr・mili/gram・mili/bar・mili/amper・mili/sivert は disc外で毫維持'),
  # 2026-07-26 正本ドリフト是正: metencefal/o(後脳)が met/encefal/o へ分解され、met が meti(置く)=置 で
  #   描画される誤友が露出。ここでの met- は希 meta-(後方)なので 后(=post)へ。動詞 meti=置・化学 met=甲(天干)は
  #   いずれも disc外/別経路ゆえ不発火。后ᴹ/脑ᴱ = 後脳 と読める。

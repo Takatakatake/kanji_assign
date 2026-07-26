@@ -13,12 +13,15 @@ Import-Csv "$dir\_identifier_sidecar.tsv" -Encoding UTF8 -Delimiter "`t" | ForEa
 function DispHas([string]$k){ $disp.ContainsKey($k) -or $dispCI.ContainsKey($k) }
 function DispGet([string]$k){ if($disp.ContainsKey($k)){ $disp[$k] } elseif($dispCI.ContainsKey($k)){ $dispCI[$k] } }
 # --- homonym台帳(sep見出しのみ適用。amb=同一文字列は不採用) ---
-$hsep=@{}; $comb=@{}
+$hsep=@{}; $comb=@{}; $hsegDisp=@{}
 Get-Content "$dir\_homonym_disp.tsv" -Encoding UTF8 | Select-Object -Skip 1 | ForEach-Object {
-  $p=$_ -split "`t"; if($p.Count -lt 5){return}; $seg=$p[0];$type=$p[1];$disc=$p[2];$d=$p[4]
+  $p=$_ -split "`t"; if($p.Count -lt 5){return}; $seg=$p[0];$type=$p[1];$disc=$p[2];$ovk=$p[3];$d=$p[4]
   if($type -eq 'sep'){ foreach($hw in ($disc -split ',')){ $hw=$hw.Trim(); if(-not $hw){continue}; if(-not $hsep.ContainsKey($hw)){$hsep[$hw]=@{}}; $hsep[$hw][$seg]=$d } }
   elseif($type -eq 'comb'){ $comb[$seg]=$d }   # 結合形(ギリシャ): idx>0 の完全一致分節で適用(fon→声)
+  $hsegDisp[$seg+"`t"+$ovk]=$d   # (分節,第2義漢字)→識別子付きdisp。語釈scopedの inline ルールが台帳と同じ字を使うための引き(id変動に自動追随)
 }
+# 語釈scoped ルールで使う第2義disp(台帳から引く=識別子が再計算で変わっても自動追随。見つからなければ即throw=沈黙劣化を防ぐ)
+$karpAnat = $hsegDisp["karp`t腕"]; if(-not $karpAnat){ throw "[台帳不整合] karp→腕 の homonym 行が無い(_build_homonym.ps1 の meta/karp sep 行を確認)" }
 $chemAcid = @('acet','fosf','karbon','nitr','sulf','silik','silici','molibden','klor','brom','jod','krom','kromi','bor','arsen','fluor','volfram','vanad','selen','telur','antimon','tartr','sakar','cian','ur')  # 酸根(先頭分節判定用)。2026-07-23 WF round5: ur(尿酸uric acid)追加=ur/at/emi/o(尿酸血症)の -at→被(受動分詞)誤読を 盐 へ(兄弟fosf/at/emi/o=磷/盐ᴬ/血ᴱ と同型。ur/o=原牛は at/it無で不発火)。化学塩 X/at・X/it→酸根漢字+盐。tartr(酒石酸)/sakar(糖酸)は語釈に塩語が無い吐酒石(吐酒石のみ)等を取りこぼすため radical で確実化(2026-06-20)。kromi=クロム酸根/silici=ケイ酸根/cian=シアン酸根(di/kromi/at・silici/at・cian/at等。WSL細分解 2026-06-23)
 $chemMid  = @('acet','fosf','karbon','nitr','sulf','silik','silici','molibden','klor','brom','jod','krom','kromi','arsen','fluor','volfram','vanad','selen','telur','antimon','tartr','sakar','cian')  # 中位分節判定用=bor を除外(bor=钻ドリル動詞 と同綴。verm/bor/it=虫食い受動 の誤爆防止。boron塩 bor/at は先頭分節+homonymで処理)
 $saltAt = "盐$([char]0x1D2C)"   # 化学塩 -at(-ate)=盐ᴬ(sal=盐 と一意区別。AddSegId相当)
@@ -81,6 +84,7 @@ $segLat = @{ 'gram/negativ/a'=@('gram'); 'gram/pozitiv/a'=@('gram'); 'deci/bel/o
   'kod/on/o'=@('on'); 'anti/kod/on/o'=@('on'); 'kontrau^/kod/on/o'=@('on')   # コドン/アンチコドン(遺伝暗号の三つ組=単位・分数でない)→onラテン。码/密码子 母体維持
   'mi/on/o'=@('on'); 'nefr/on/o'=@('on'); 'neu^r/on/o'=@('on')   # ミオン(筋機能単位)/ネフロン(腎単位)/ニューロン(神経細胞)=希語-on単位接尾→onラテン。肌/肾ᴺ/神经ᴺᵁ̆ 母体維持(分数-onでない)
   'alk/an/on/o'=@('on'); 'but/an/on/o'=@('on'); 'cikl/o/heks/an/on/o'=@('on')   # ケトン-one(alkanone/butanone/cyclohexanone)→onラテン。分「分数」の誤読是正。alk/丁/己 母体維持
+  'karbaz/on/o'=@('on'); 'semi/karbaz/on/o'=@('on')   # 2026-07-26 正本ドリフト(karbazon→karbaz/on 分割)で露出。カルバゾン/セミカルバゾン=「ケトンまたはアルデヒドとカルバジドの反応生成物」(PIV語釈)=上のケトン-one と同一クラス→onラテン。分「分数」の誤読是正。正本自身が ##過細分解 karbaz/o/n/o と明記=onは形態素でない。分割前(karbazon/o)は全ラテンゆえ被覆の後退でもない
   # 2026-07-23 敵対監査(WF round2)で露出した tal(距骨talus)の叶状体thallus誤適用(第27回続2 talの取りこぼし):
   'tal/plant/oj'=@('tal')   # Talofitoj=叶状体植物Thallophyta→talラテン(距骨talus=距 でない)。植 母体維持。両版に存在=$segLatは両版適用ゆえ両版是正。tal/o=距(距骨【解】)は維持
   'nau^t/o'=@('nau^t')   # 2026-07-26 続29: nau^t/o=【楽】9音程(naŭ=9由来・学術版L52341)。航海者 nau^t(希ναύτης=航)とは同綴別語→この語だけラテン保持。nau^t/ik/o(航海術)・astr/o/nau^t 等は語根登録どおり 航+識別子
@@ -176,6 +180,7 @@ foreach($pair in $pairs){
         elseif(($s -eq 'di') -and $isSysChem -and ($idx+1 -lt $nseg) -and (($idx -eq 0 -and ($alkylStem.ContainsKey($segs[$idx+1]) -or $segs[$idx+1] -eq 'oksi')) -or ($idx -gt 0 -and $segs[$idx+1] -eq 'ol'))){ $tok='二'; $thisMapped=$true }   # 化学倍数接頭di-→二(dimetoksi二/甲/氧)。神(di/o)はアルキル隣接+化学タグで弁別(2026-07-17)。2026-07-23 WF round4: 語中di-も次分節=ol(diol二価アルコール)+化学タグ時に二化=et/an/di/ol の di→神(god)誤読を二へ是正(glycol系)
         elseif((($s -eq 'fen') -or ($s -eq 'alk')) -and $isSysChem){ $tok=$s }   # 芳香/総称の一级外語幹→ラテン: fen(苯 一级外)·alk(烷総称)。föhn焚风fen②·elk驼鹿alk の誤友回避(2026-07-17)
         elseif(($s -eq 'dur') -and ($rest -match '銀貨|ドゥーロ')){ $tok='币'; $thisMapped=$true }   # dur/o同綴の語釈scoped是正: PEJVO銀貨ドゥーロ(【史】)→币。硬度dur=硬(base・PIV L46963)は語釈非該当で不発火。原本更新で同綴dur/o(硬度)追加によりsep→amb降格し銀貨が硬に退行→gloss限定で復元(2026-07-17)
+        elseif(($s -eq 'karp') -and ($rest -match '手首|手根')){ $tok=$karpAnat; $thisMapped=$true }   # karp/o同綴二義の語釈scoped是正(2026-07-26 第12レンズ)。【解】karpo=手根/手首の骨→腕ᴷ(台帳のkarp→腕と同一の第2義)。【魚】コイ karp/o(第1義)・karp/id/o(仔ゴイ・語釈"Juna karpo")は語釈非該当で不発火=鲤維持。見出しが同綴2行ゆえ word-scoped の hsep では弁別不能で語釈scopedが必要(dur/kub と同型)
         elseif(($s -eq 'kat') -and $idx -eq 0 -and ($rest -match 'latero.*triangul|C\^eorta latero')){ $tok='股'; $thisMapped=$true }   # kat/et同綴の語釈scoped是正: cathetus(kateto=直角三角形の直角辺・希káthetos垂線)→股(中国数学 勾股=直角边)。子猫kat/et(猫/小・語釈「小猫」)は非該当で不発火=猫維持(2026-07-18)
         elseif(($s -eq 'torn') -and ($rest -match 'rotacianta')){ $tok='旋'; $thisMapped=$true }   # torn/ad同綴の語釈scoped是正: tornado(【気】Fortega rotacianta=激しい回転暴風=竜巻)→旋(旋回)。旋盤torn/ad(车/行・語釈「旋盤加工」)は非該当で不発火=车維持(2026-07-18)
         elseif(($s -eq 'kub') -and $idx -eq 0 -and ($rest -match 'キューバ')){ $tok='kub' }   # 2026-07-24 別AI round6: kub/a同一綴二義の語釈scoped是正。キューバの/キューバ人(固有名Kubo§7)→kubラテン。立方体kub/a(立方体の・立方の・立方根/方程式等)は語釈非該当で不発火=方ᴷ維持。兄弟kub/an/o(=員ᴬ)と一致。方ᴷ(cube)偽の友を除去

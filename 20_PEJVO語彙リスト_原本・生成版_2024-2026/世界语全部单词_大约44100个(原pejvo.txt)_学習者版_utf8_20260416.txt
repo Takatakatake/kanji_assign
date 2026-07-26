@@ -25151,8 +25151,8 @@ meta/fizik/o:{Ｏ}【哲】形而上学##偽分解(PIV正式分解)
 metafor/a:隠喩の,比喩の
 metafor/a senc/o:比喩的意味
 metafor/o:{Ｏ}【修】隠喩（いんゆ）
-metakarpe/o:【解】=metakarpo（中手）
-metakarp/o:【解】中手,掌部;中手骨,掌骨
+meta/karpe/o:【解】=metakarpo（中手）##偽分解(PIV正式分解)
+meta/karp/o:【解】中手,掌部;中手骨,掌骨##偽分解(PIV正式分解)
 metal/a:金属の,金属製の,金属質の,金属的な
 metal/aj^/o:金属製品
 metal/a kombin/aj^/o:【化】金属化合物
@@ -50032,8 +50032,8 @@ karb/o/stak/o:【PIV】Stako el ligno, por fari ligno karbon.
 karbam/o:【化】【PIV】Radiko de karbamata acido (en kunmetaj^oj).
 karbamid/o:【化】【PIV】(ark. (arkaismo, arkaisme)) = ureo.
 karbaz/o:【化】【PIV】Radiko de: karbazido = Dihidrazido de karbonata acido, O=C(NH-NH 2) 2; karbazono = Produkto de la reakcio inter ketono au^ aldehido k karbazido.
-karbazid/o:【化】【PIV】Dihidrazido de karbonata acido, O=C(NH-NH 2) 2.
-karbazon/o:【化】【PIV】Produkto de la reakcio inter ketono au^ aldehido k karbazido.
+karbaz/id/o:【化】【PIV】Dihidrazido de karbonata acido, O=C(NH-NH 2) 2.##偽分解(PIV正式分解)
+karbaz/on/o:【化】【PIV】Produkto de la reakcio inter ketono au^ aldehido k karbazido.##偽分解(PIV正式分解)##過細分解 karbaz/o/n/o
 karbazol/o:【化】【PIV】Tricikla hidrokarbono, dibenzopirolo, C 12 H 9 N, trovebla en karba gudro.
 karben/o:【化】【PIV】La tre reakciema radikalo CH 2:, kun du neparig^intaj elektronoj: karbenoj estas gravaj sintezreakciantoj.
 karbinol/o:【化】【PIV】La radikalo ⪫C-OH: substituitaj karbinoloj do povas esti rigardataj kiel derivaj^oj de metanolo.
@@ -51948,7 +51948,7 @@ metabol/ig/i:【PIV】Transformi substancon per la metabolo.
 metadon/o:【PIV】Sinteza analogo de morfino, uzata anst. (anstatau^) morfino en antidroga kuracado.
 meta/faz/o:【生】【PIV】Fazo de mitozo k mejozo, dum kiu la kromosomoj arang^ig^as c^e la ekvatoro de la c^elspindelo.##偽分解(PIV正式分解)
 metafoni/o:【語】【PIV】Modifo de vokalo sub la influo de najbara vokalo.
-metakarp/a:【PIV】Rilata al metakarpo. Vd metatarso.
+meta/karp/a:【PIV】Rilata al metakarpo. Vd metatarso.##偽分解(PIV正式分解)
 metal/i:【PIV】Tegi per maldika tavolo da metalo.
 metal/don/a:【PIV】Liveranta metalon: metaldona grundo, erco.
 metaldehid/o:【化】【PIV】Polimero de acetaldehido, (CH 3-CHO) n, blanka solida substanco, pasintece uzata kiel brulaj^o, nun por mortigi limakojn k helikojn en g^ardenoj.
@@ -56964,7 +56964,7 @@ vol/et/o:【PIV】Ne plenumita, pasema volo: li havis nur voletojn c^esigi la fu
 Volfgang/o:【PIV】Germana vira nomo.
 volovan/et/o:【PIV】Malgranda volovano.
 volta/a:【電】【PIV】Produktata de baterio au^ pilo: voltaa elektro.
-voltametr/o:【電】【PIV】Aparato por mezuri la kvanton de elektro per la kvanto de substanco, kiu estas elektrokemie liberigata c^e elektrodo en elektrolito.
+volta/metr/o:【電】【PIV】Aparato por mezuri la kvanton de elektro per la kvanto de substanco, kiu estas elektrokemie liberigata c^e elektrodo en elektrolito.##偽分解(PIV正式分解)
 volte/o:【PIV】Rondira turno, kiun rajdanto trudas al sia c^evalo.
 Volter/a:【PIV】1 Rilata al Voltero: la Volteraj noveloj. 2 (min. (minuskle)) Vigla k pikanta: voltera stilo, ironio.
 Volter/an/o:【PIV】Tiu, kiu sekvas la vojon de Voltero, k montras ironian dubon pri kristanismo k konservativismo: tiel arang^is jam Dio mem, k la Volteranoj vane kontrau^ tio c^i parolas .
@@ -59193,9 +59193,9 @@ si/n/kapt/ad/o:【PIV】Provado kapti sin reciproke: papilioj ludis unu kun la a
 divers/karakter/aj:【PIV】Prezentantaj diversajn karakterojn: kolekto da plej diverskarakteraj pecoj k artikoloj .
 fulg/o/karb/o:【PIV】Bitumhava karbo, donanta dikan fulgon.
 ost/o/karb/o:【PIV】Karbaj^o, ricevita per karbigo de ostoj k karno en fermita ujo.
-du/on/karbazid/o:【PIV】Semi karbazido.
-semi/karbazid/o:【化】【PIV】Hidrazido de karbamata acido, H 2 N-(CO)-NH-NH 2.
-semi/karbazon/o:【化】【PIV】Produkto de la reakcio de semi karbazido kun ketono au^ aldehido: semikarbazonoj estas gravaj derivaj^oj en organika analiza kemio.
+du/on/karbaz/id/o:【PIV】Semi karbazido.##偽分解(PIV正式分解)
+semi/karbaz/id/o:【化】【PIV】Hidrazido de karbamata acido, H 2 N-(CO)-NH-NH 2.##偽分解(PIV正式分解)
+semi/karbaz/on/o:【化】【PIV】Produkto de la reakcio de semi karbazido kun ketono au^ aldehido: semikarbazonoj estas gravaj derivaj^oj en organika analiza kemio.##偽分解(PIV正式分解)##過細分解 semi/karbaz/o/n/o
 poli/karbon/at/o:【PIV】Malmola travidebla plasto, uzata anstatau^ vitro.##偽分解(PIV正式分解)
 hidr/o/karbon/at/o:【PIV】Acida karbonato.##偽分解(PIV正式分解)##過細分解 h/i/d/r/o/karbon/at/o
 klor/fluor/karbon/o:【PIV】Kn (Kolektiva nomo) de alkanderivaj^oj, diferencaj pro la nombro de atomoj de kloro k fluoro, ekz. (ekzemple) CCl 3 F, CCl 2 F 2, C 2 Cl 2 F 4, k uzataj i.a. (interalie, inter aliaj) kiel malvarmigaj^o en fridujoj, pasintece kiel premgaso en s^prucflakonoj: klorfluor karbonoj estas tre persistaj k detruas la ozontavolon en stratosfero. Sin. (sinonimo) freono.

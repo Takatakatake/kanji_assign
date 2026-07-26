@@ -140,3 +140,11 @@
 肠炎	enterit
 乐主义	optimism
 乐家	optimist
+# 【2026-07-26 第27回続33 第12レンズ】SI接頭辞ファミリの無印/識別子の割当が 厘 と 毫 で逆だったのを揃える。
+#   厘群: centi=厘(無印・base_override 既定) / centimetr=厘ᶜᴹ  ← 分解に忠実な接頭辞側が無印
+#   毫群: milimetr=毫(無印)           / mili=毫ᴹᴵ            ← 逆になっていた
+#   実描画数(両版の見出し分節・F列でなく実測): mili 8回(mili/metr・mili/gram・mili/bar・mili/amper・mili/sivert)
+#   vs milimetr 1回(学術版の未分解形のみ)。CSV2890語 milimetro は学習者版では mili/metr/o と分解されるので、
+#   接頭辞側を無印にすると最優先層の語がそのまま 毫/米/o と読める(第27回続27の「語根分解に忠実な方を無印」と同じ判定基準)。
+#   動くのは無印の所在のみ=字種・分解・被覆は不変。改善7行(学習者5+学術2) / 後退1行(学術 milimetr/o)。
+毫	mili
