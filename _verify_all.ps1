@@ -147,6 +147,16 @@ foreach($ln in ($dk -split "`r?`n")){ if($ln -match '^\[M\]' -or $ln -match '^\s
 if($dk -notmatch '\[M\]'){ Say "[M] 台帳死にキー: 実行不可(要 python + _audit_ledger_deadkeys.py)"; $fail=1 }
 elseif($dk -match '!!'){ $fail=1 }
 
+# --- [N] 描画トークンの出典被覆(2026-07-27 第16レンズで新設) ---
+# 逆引き(漢字→語根)は §9 の一意復号契約の裏返し。第16レンズで、出力に現れる漢字トークンのうち
+# **sidecar にも台帳にも載らない字**が9種あった(炎ᵀ/盐ᴬ/盐ᴵ/丁戊庚壬癸辛=化学塩・医学-itis・アルキル語幹の
+# 文脈判定で _inject_final.ps1 が直接埋め込む定数)。配布表に載らないのでアプリは逆引き辞書を完成できない。
+# _inline_tokens.tsv に登録して0にした。新しい inline rule が未文書のトークンを持ち込んだらここで気付く。
+$tc = & python "$dir\_audit_token_coverage.py" 0 *>&1 | Out-String
+foreach($ln in ($tc -split "`r?`n")){ if($ln -match '^\[N\]' -or $ln -match '^\s+★' -or $ln -match '^\s+!!'){ Say $ln } }
+if($tc -notmatch '\[N\]'){ Say "[N] トークン出典被覆: 実行不可(要 python + _audit_token_coverage.py)"; $fail=1 }
+elseif($tc -match '!!'){ $fail=1 }
+
 # --- 総括 ---
 $verdict='全PASS(健全・同期も最新)'
 if($fail -ne 0){ $verdict='要対応(ハード違反あり)' } elseif($drift -ne 0){ $verdict='不変条件PASSだが WSL再同期推奨' } elseif($newInc -ne '0' -and $newInc -ne '?'){ $verdict='不変条件PASSだが 新規偽分解不整合の点検推奨' }

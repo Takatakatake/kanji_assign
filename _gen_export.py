@@ -125,3 +125,63 @@ kinds = defaultdict(int)
 for r in risk_rows:
     kinds[r.split('\t')[2]] += 1
 print("危険リスト -> %s rows=%d  %s" % (RISK, len(risk_rows), dict(kinds)))
+
+# ④ 逆引き表(2026-07-27 第16レンズで新設)
+#    第16レンズで「漢字描画→語根→エスペラント語」の復元率を測ったところ 学習者版99.68%/学術版99.98% だった。
+#    残る 0.32% は「字種を節約するため rare字を作らず既存hubへ合流させた」文脈共有(吞=glut/fag 等)で、
+#    字だけでは復元できない。アプリが逆引き辞書を作れるよう、3つの出典を統合した表を配る。
+REV = "_漢字割当エクスポート_逆引き表_20260727.tsv"
+rev = defaultdict(set)      # token -> {(segment, source)}
+with io.open("_identifier_sidecar.tsv", encoding='utf-8') as f:
+    f.readline()
+    for line in f:
+        p = [x.strip().strip('"') for x in line.rstrip('\n').split('\t')]
+        if len(p) >= 5 and p[4] and CJK.search(p[4]):
+            rev[p[4]].add((to_hsys(p[0]), '語根表'))
+for line in io.open("_homonym_disp.tsv", encoding='utf-8'):
+    p = line.rstrip('\n').split('\t')
+    if len(p) >= 5 and p[1] != 'type' and CJK.search(p[4]):
+        rev[p[4]].add((p[0], '同綴異義台帳(%s)' % p[1]))
+if os.path.exists('_inline_tokens.tsv'):
+    for line in io.open('_inline_tokens.tsv', encoding='utf-8'):
+        line = line.rstrip('\n')
+        if not line or line.startswith('#'):
+            continue
+        p = line.split('\t')
+        if len(p) >= 2 and p[0] != 'token':
+            rev[p[0]].add((p[1], '文脈トークン表'))
+# 実出力に現れる (トークン,分節) を足す = 文脈共有(hub合流)を明示
+seen_pair = defaultdict(set)
+for ed in allrows:
+    for n, head, d, g in allrows[ed]:
+        hw, rw = head.split(' '), d.split(' ')
+        if len(hw) != len(rw):
+            continue
+        for a, b in zip(hw, rw):
+            sa = a.strip('-').replace('-', '/').split('/')
+            sb = b.strip('-').replace('-', '/').split('/')
+            if len(sa) != len(sb):
+                continue
+            for s, tk in zip(sa, sb):
+                if CJK.search(tk):
+                    seen_pair[tk].add(to_hsys(s))
+for tk, segs in seen_pair.items():
+    known = set(s for s, _ in rev.get(tk, ()))
+    for s in segs:
+        if s not in known and s.lower() not in set(k.lower() for k in known):
+            rev[tk].add((s, '文脈共有(この字の表上の所有者は別語根)'))
+rev_rows = []
+for tk in sorted(rev):
+    v = sorted(rev[tk])
+    amb = '曖昧(候補複数)' if len(set(s for s, _ in v)) > 1 else ''
+    for s, srcname in v:
+        rev_rows.append('\t'.join((tk, s, srcname, amb)))
+hdr3 = ["# エスペラント漢字割当 逆引き表(漢字トークン→語根)  再生成: %s" % NOTE,
+        "# 出典3つを統合: 語根表(_identifier_sidecar) / 同綴異義台帳(_homonym_disp) / 文脈トークン表(_inline_tokens)",
+        "#   + 実出力に現れた文脈共有(字種を節約するため既存hubへ合流させた箇所。字だけでは一意に戻せない)",
+        "# ★復元率(第16レンズ実測): 学習者版 99.68% / 学術版 99.98%。残りは下の『文脈共有』行。",
+        "# 列: 描画トークン\t語根(分節)\t出典\t備考"]
+with open(REV, 'wb') as w:
+    w.write(('\r\n'.join(hdr3 + rev_rows) + '\r\n').encode('utf-8'))
+namb = sum(1 for r in rev_rows if r.endswith('曖昧(候補複数)'))
+print("逆引き表 -> %s rows=%d (トークン%d種 / 候補が複数の行=%d)" % (REV, len(rev_rows), len(rev), namb))

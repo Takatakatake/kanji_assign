@@ -27838,7 +27838,7 @@ nov/a trunk/lini/o:【鉄】新幹線
 nov/a vest/o:新調の服
 nov/a vort/o:新語,>>neologismo
 Nov/a Zemlj/o:【地名】ノバヤゼムリャ島（ロシア北方）
-Nova-Zeml/o:【地名】=Nova Zemljo
+Nov/a-Zeml/o:【地名】=Nova Zemljo##偽分解
 Nov-Brunsvik/o:【地名】ニュー・ブランズウィック州（カナダ）
 Nov-Delhi/o:【地名】ニューデリー（インドの首都）
 nov/e:新しく,最近
@@ -35170,19 +35170,19 @@ sankt/a:{Ｂ}【宗】神聖な,聖なる;《転》尊重すべき,神聖不可�
 sankt/a akv/o:【宗】聖水
 Sankt/a Alianc/o:【史】神聖同盟
 Sankt/a Bibli/o:（la 〜）【キ】『聖書』（キリスト教の聖典）
-Sankta-Deniz/o:【地名】サン・ドニ（フランス）
+Sankt/a-Deniz/o:【地名】サン・ドニ（フランス）##偽分解
 sankt/a Dominik/o:【キ】聖ドミニクス（1170-1221）
 sankt/afekt/a:信心家ぶった,=bigota
 Sankt/a Georg/o:【地名】セントジョージズ（グレナダの首都）
-Sankta-Helen/o:【地名】セントヘレナ島（南大西洋）
+Sankt/a-Helen/o:【地名】セントヘレナ島（南大西洋）##偽分解
 Sankt/a Johan/o:【地名】セントジョンズ（アンチグア・バーブーダの首都）
 sankt/aj^/o:【宗】聖物;《転》聖域（問題として触れてはならない事柄）
 Sankt/a Kristofor/o kaj Nevis/o:【国名】セントクリストファー・ネイビス（北アメリカ）
 sankt/akv/uj/o:【キ】聖水盤
-Sankta-Lau^renc/o:【地名】セントローレンス川（米国・カナダ国境）
+Sankt/a-Lau^renc/o:【地名】セントローレンス川（米国・カナダ国境）##偽分解
 Sankt/a Luci/o:【国名】セントルシア（北アメリカ）
-Sankta-Luiz/o:【地名】サンルイ（セネガル）
-Sankta-Luiz/o:【地名】セントルイス（米国）
+Sankt/a-Luiz/o:【地名】サンルイ（セネガル）##偽分解
+Sankt/a-Luiz/o:【地名】セントルイス（米国）##偽分解
 Sankt/a Mang^/o:（la 〜）【キ】最後の晩餐（ばんさん）
 Sankt/a Nikola/o:【キ】聖ニコラウス（４世紀小アジアのミラの司教）;《般》サンタクロース,=Avo Frosto
 sankt/a ole/o:【宗】聖油
@@ -57367,9 +57367,9 @@ probabl/o/kalkul/o:【PIV】Vd (vidu) probabla.
 pseu^do/cug/o:【植】【PIV】G. (Genro) (Pseudotsuga el pinacoj) de koniferaj arboj diferencaj de cugo i.a. (interalie, inter aliaj) pro grandaj konusoj; 4−7 sp-oj (specioj) el N Ameriko k E Azio, forstumataj por ligno uzata en c^arpentado.
 radik/propr/a:【植】【PIV】(pp (se paroli pri) arbo) Ne greftita, sed kreskanta el propraj radikoj.
 relikv/o/kest/o:【PIV】Vd (vidu) relikvo.
-Sankta-Georg/o:【地名】セントジョージズ（グレナダの首都）
-Sankta-Johan/o:【地名】セントジョンズ（アンチグア・バーブーダの首都）
-Sankta-Luci/o:【国名】セントルシア（北アメリカ）
+Sankt/a-Georg/o:【地名】セントジョージズ（グレナダの首都）##偽分解
+Sankt/a-Johan/o:【地名】セントジョンズ（アンチグア・バーブーダの首都）##偽分解
+Sankt/a-Luci/o:【国名】セントルシア（北アメリカ）##偽分解
 sens/organ/et/o:【PIV】Vd (vidu) senso.
 spor/polv/o:【PIV】Vd (vidu) sporo.
 steat/o/pug/a:【解】【PIV】(pp (se paroli pri) virinoj) Havanta nenormalan grasakumulig^on c^e la gluteoj: hotentotaj k bos^manaj virinoj estas steatopugaj; steatopugeco de prahistoriaj statuetoj.
