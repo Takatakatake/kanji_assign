@@ -1,0 +1,88 @@
+=== オーファン語根の実態調査 (2026-07-26) ===
+実出現 = 両版の注入出力の見出しに分節として現れた行数(重複込み)
+
+実出現0の語根 = 72件 / 全10396件
+(参考) F列=0 の語根 = 44件 … F列と実出現は一致しない
+        F列=0だが実出現あり / F列>0だが実出現0 = 94件
+
+--------------------------------------------------------------------------
+★実害あり: 実出現0の語根が、同群・同頭文字の【生きている】語根より短い識別子を占有
+--------------------------------------------------------------------------
+= 2件
+  群操      死=gimnastik      操ᴳ      (basic)   押し出された生: gimnast 操ᴳᴵ(実出現20)
+  群民      死=demokrati      民ᴰ      (basic)   押し出された生: demokrat 民ᴰᴱ(実出現48)
+
+--------------------------------------------------------------------------
+実出現0だが実害なし(同頭文字に生きた語根がいない / 既に自分の方が長い)
+--------------------------------------------------------------------------
+= 70件
+  trinitr          三硝         band=piv    群三硝     同頭文字の他メンバー: なし=単独
+  subjektiv        主ˢⱽ        band=basic  群主      同頭文字の他メンバー: subjekt(実出現14), senjor(実出現6)
+  homoteti         位似ᴴᴵ       band=piv    群位似     同頭文字の他メンバー: なし=単独
+  retorik          修辞         band=pejvo  群修辞     同頭文字の他メンバー: なし=単独
+  sinonimik        共名学        band=piv    群共名学    同頭文字の他メンバー: なし=単独
+  avangard         前卫         band=pejvo  群前卫     同頭文字の他メンバー: なし=単独
+  anatomi          剖ᴬᴵ        band=pejvo  群剖      同頭文字の他メンバー: なし=単独
+  dodekafoni       十二声ᴰᴵ      band=piv    群十二声    同頭文字の他メンバー: なし=単独
+  filantropi       博爱         band=piv    群博爱     同頭文字の他メンバー: なし=単独
+  transmutaci      变ᵀ         band=pejvo  群变      同頭文字の他メンバー: なし=単独
+  arh^e            古ᴬᴴ̂       band=pejvo  群古      同頭文字の他メンバー: arka(実出現7), arkeo(実出現6), arh^a(実出現1), arkaik(実出現2), arh^aik(実出現2)
+  homotopi         同伦ᴴᴵ       band=piv    群同伦     同頭文字の他メンバー: なし=単独
+  monarh^i         君主ᴹᴼ       band=pejvo  群君主     同頭文字の他メンバー: monarki(実出現0), monarh^(実出現4)
+  monarki          君主ᴹᴵ       band=pejvo  群君主     同頭文字の他メンバー: monarh^(実出現4), monarh^i(実出現0)
+  filozofi         哲ᶠᴵ        band=basic  群哲      同頭文字の他メンバー: なし=単独
+  geotermik        地热学        band=piv    群地热学    同頭文字の他メンバー: なし=単独
+  ekt              外ᴱᵀ        band=piv    群外      同頭文字の他メンバー: ekster(実出現154), ekzo(実出現12), ekto(実出現8)
+  kirurgi          外科ᴷᴵ       band=basic  群外科     同頭文字の他メンバー: なし=単独
+  uran             天王星        band=elem   群天王星    同頭文字の他メンバー: なし=単独
+  efektiv          实ᴱ         band=basic  群实      同頭文字の他メンバー: なし=単独
+  objektiv         客ᴼ         band=basic  群客      同頭文字の他メンバー: なし=単独
+  kapacitanc       容ᴷᴺ        band=pejvo  群容      同頭文字の他メンバー: kapacit(実出現14)
+  egoist           己ᴱ         band=basic  群己      同頭文字の他メンバー: なし=単独
+  balistik         弹道         band=pejvo  群弹道     同頭文字の他メンバー: なし=単独
+  difeomorfi       微分同胚ᴰᴵ     band=piv    群微分同胚   同頭文字の他メンバー: なし=単独
+  psikiatri        心医ᴾᴵ       band=pejvo  群心医     同頭文字の他メンバー: なし=単独
+  bonvol           愿ᴮ         band=basic  群愿      同頭文字の他メンバー: なし=単独
+  igx              成ᴵᴳ        band=pejvo  群成      同頭文字の他メンバー: なし=単独
+  rezistanc        抗ᴿᴺ        band=pejvo  群抗      同頭文字の他メンバー: rezist(実出現64)
+  fototipi         拍型ᶠᴵ       band=piv    群拍型     同頭文字の他メンバー: なし=単独
+  kladik           支学         band=piv    群支学     同頭文字の他メンバー: なし=単独
+  civiliz          教ᶜ         band=basic  群教      同頭文字の他メンバー: なし=単独
+  pedagogi         教ᴾᴵ        band=pejvo  群教      同頭文字の他メンバー: pedagog(実出現10)
+  neologismem      新话主义倾      band=piv    群新话主义倾  同頭文字の他メンバー: なし=単独
+  varianc          方差         band=piv    群方差     同頭文字の他メンバー: なし=単独
+  giro             旋ᴳᴼ        band=pejvo  群旋      同頭文字の他メンバー: なし=単独
+  eksplicit        明ᴱ         band=pejvo  群明      同頭文字の他メンバー: なし=単独
+  tektonik         构造         band=piv    群构造     同頭文字の他メンバー: なし=単独
+  loganber         果ᴸᴳ        band=piv    群果      同頭文字の他メンバー: lici(実出現2)
+  metodik          法ᴹᴷ        band=pejvo  群法      同頭文字の他メンバー: metod(実出現35)
+  desinfekt        消毒         band=pejvo  群消毒     同頭文字の他メンバー: なし=単独
+  deven            源ᴰ         band=pejvo  群源      同頭文字の他メンバー: なし=単独
+  termoreguligil   热规使具       band=piv    群热规使具   同頭文字の他メンバー: なし=単独
+  demagogi         煽动ᴰᴵ       band=pejvo  群煽动     同頭文字の他メンバー: なし=単独
+  karakteriz       特ᴷ         band=basic  群特      同頭文字の他メンバー: なし=単独
+  atletik          田径         band=pejvo  群田径     同頭文字の他メンバー: なし=単独
+  elektroprodukto  电产         band=piv    群电产     同頭文字の他メンバー: なし=単独
+  elektrodinamism  电力主义       band=piv    群电力主义   同頭文字の他メンバー: なし=単独
+  elektrotipi      电型ᴱᴵ       band=piv    群电型     同頭文字の他メンバー: なし=単独
+  induktanc        电感         band=pejvo  群电感     同頭文字の他メンバー: なし=単独
+  faradiz          电疗         band=pejvo  群电疗     同頭文字の他メンバー: なし=単独
+  strategi         略          band=pejvo  群略      同頭文字の他メンバー: なし=単独
+  koder            码元         band=piv    群码元     同頭文字の他メンバー: なし=単独
+  pederasti        童色         band=pejvo  群童色     同頭文字の他メンバー: なし=単独
+  organiz          组ᴼᴿ        band=basic  群组      同頭文字の他メンバー: なし=単独
+  bibliofili       经爱ᴮᴵ       band=piv    群经爱     同頭文字の他メンバー: なし=単独
+  sesdeknau^       舔吸ˢ        band=piv    群舔吸     同頭文字の他メンバー: なし=単独
+  dietik           节ᴰᴷ        band=piv    群节      同頭文字の他メンバー: なし=単独
+  signifikanc      著ˢᴺ        band=piv    群著      同頭文字の他メンバー: なし=単独
+  epigrafik        表记学        band=piv    群表记学    同頭文字の他メンバー: なし=単独
+  klimatiz         调ᴷ         band=basic  群调      同頭文字の他メンバー: なし=単独
+  transit          过ᵀ         band=piv    群过      同頭文字の他メンバー: なし=単独
+  progresi         进ᴾᴵ        band=pejvo  群进      同頭文字の他メンバー: なし=単独
+  telefoni         远声ᵀᴵ       band=piv    群远声     同頭文字の他メンバー: なし=単独
+  telekopi         远复         band=piv    群远复     同頭文字の他メンバー: なし=単独
+  tao              道ᵀ         band=pejvo  群道      同頭文字の他メンバー: なし=単独
+  taoist           道家         band=piv    群道家     同頭文字の他メンバー: なし=単独
+  interstel        间星         band=piv    群间星     同頭文字の他メンバー: なし=単独
+  kolektiv         集ᴷⱽ        band=basic  群集      同頭文字の他メンバー: koncentr(実出現24)
+  anchov           鱼ᴬᶜ        band=pejvo  群鱼      同頭文字の他メンバー: angil(実出現6), anc^ov(実出現4), aloz(実出現2), anarik(実出現2), akantias(実出現2), acipenser(実出現4), aland(実出現2)
