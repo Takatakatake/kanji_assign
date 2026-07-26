@@ -23,6 +23,49 @@ Get-Content "$dir\_homonym_disp.tsv" -Encoding UTF8 | Select-Object -Skip 1 | Fo
 # 語釈scoped ルールで使う第2義disp(台帳から引く=識別子が再計算で変わっても自動追随。見つからなければ即throw=沈黙劣化を防ぐ)
 $karpAnat = $hsegDisp["karp`t腕"]; if(-not $karpAnat){ throw "[台帳不整合] karp→腕 の homonym 行が無い(_build_homonym.ps1 の meta/karp sep 行を確認)" }
 $lupPlant = $hsegDisp["lup`t豆"]; if(-not $lupPlant){ throw "[台帳不整合] lup→豆 の homonym 行が無い" }
+# ================= 2026-07-27 第15レンズ「一語根多義の裁定線」: amb行の実現(表駆動) =================
+# 台帳の amb 行は「この綴りには全く別の第2義があり、この漢字を当てる」という**裁定済み**の記録で、
+# 識別子まで計算されている(=群のid空間を消費している)。ところが amb は設計上【注入非適用】のため、
+# 43行のうち実際に描画に届いていたのは karp/lup/bat/dur/po/vat/spin の一部だけ(実現率18.2%)だった。
+# 結果、chess mate=席(マット)・stalemate=锅(フライパン)・watt=棉(綿)・lux=奢(贅沢)・curie=廷(宮廷)・
+# roadstead=啃(かじる)・sine=洞(空洞)・bollard=位(ビット) など、配信面に偽の友が残っていた。
+#
+# ここでは「見出しが同綴2行あるため語リスト(sep)では弁別できない」ものだけを語釈scopedで実現する。
+#   ・漢字も識別子も台帳から引く($hsegDisp)ので **新字ゼロ・新規識別子ゼロ**。id再計算にも自動追随。
+#   ・1行の中に第1義と第2義が同居する行(plum/o 羽根;ペン・orkid/o 【植】ラン;【解】睾丸 等)は対象外=第1義を維持。
+#     トークンは1分節に1つしか出せないため、これを触ると第1義を壊す(角を矯めて牛を殺さない)。
+#   ・キーワードは実データで発火行を全数確認済み(誤爆0)。$rest は【コロンを含む語釈全体】である点に注意。
+# 形式: 分節 → @(@(語釈キーワード, 台帳の第2義漢字), ...)  ※先に一致したものを採用
+$ambRule=@{}
+foreach($r in @(
+  @('vat','ワット（仕事率','瓦'),          # watt(SI単位) ↔ 綿vat/o=棉
+  @('mat','チェックメイト','将'),          # チェス詰み ↔ 敷物mat/o=席
+  @('pat','ステールメイト','困'),          # 手詰まり ↔ フライパンpat/o=锅
+  @('kanon','聖書正典','典'),              # 正典/教会法/カノン ↔ 大砲kanon/o=炮
+  @('mark','マルク（ドイツ','币'),         # ドイツマルク ↔ しるしmark/o=标ᴹ
+  @('lir','リラ（イタリア','币'),          # イタリアリラ ↔ 竪琴lir/o=琴ᴸ
+  @('kron','クローネ（デンマーク','币'),   # 北欧クローネ ↔ 王冠kron/o=冠
+  @('ar','アール（面積の単位','亩'),       # 面積単位are ↔ 集合接尾-ar-=群
+  @('luks','ルクス（照度','照'),           # 照度単位lux ↔ ぜいたくluks/o=奢
+  @('stok','ストークス（動粘度','粘'),     # 動粘度単位stokes ↔ 在庫stok/o=储ˢ
+  @('kuri','キュリー（放射能','居'),       # 放射能単位curie ↔ 古代ローマのクリアkuri/o=廷
+  @('spin','【理】スピン','旋'),           # 物理スピン ↔ 背骨spin/o=脊(spin/momant/oは既に旋ˢᴺ=不変)
+  @('spat','仏炎包','苞'),                 # 仏炎苞spathe ↔ へげ石spat/o=石ˢ
+  @('sol','ゾル,>>koloido','溶'),          # コロイドのゾル ↔ 単独sol/a=唯(aer/o/sol/oは既に胶ˢ=不変)
+  @('bit','繋柱','桩'),                    # 繋柱bollard ↔ 情報bit/o=位ᴮ
+  @('pic^','tonalto（音高','调'),          # 音高pitch ↔ 俗語pic^/o=阴户
+  @('er','erao（紀元','纪'),               # 紀元era ↔ 構成要素er/o=粒
+  @('line','リンネソウ','草'),             # Linnaea(リンネソウ属) ↔ 線line/o=线ᴸᴱ
+  @('sinus','正弦','弦')                   # 正弦sine(sinus/o・sinus/ond/o) ↔ 解剖の洞sinus/o=洞ˢ
+)){
+  $seg=$r[0]; $kw=$r[1]; $kan=$r[2]
+  $d=$hsegDisp[$seg+"`t"+$kan]
+  if(-not $d){ throw ("[台帳不整合] amb実現表: 分節 "+$seg+" → "+$kan+" の homonym 行が無い(_build_homonym.ps1 を確認)") }
+  if($d -match '[0-9]'){ throw ("[識別子=数字禁止] amb実現表: "+$seg+"→"+$d+" は数字idを含むため注入できない") }
+  if(-not $ambRule.ContainsKey($seg)){ $ambRule[$seg]=New-Object System.Collections.ArrayList }
+  [void]$ambRule[$seg].Add(@($kw,$d))
+}
+function AmbTok([string]$seg,[string]$g){ if(-not $ambRule.ContainsKey($seg)){ return $null }; foreach($p in $ambRule[$seg]){ if($g.Contains($p[0])){ return $p[1] } }; return $null }
 # 【2026-07-26 第13レンズ ユーザー裁定=ラテン化は全部撤回】
 #   続34で「正本が ##偽分解(衝突語) と印を付けた行のうち語釈と別conceptになっているもの」を語釈scopedで
 #   ラテンへ退避させたが、ユーザー裁定により **撤回**。理由: これらは正本の分解を素直に写した faithful mirror で、
@@ -123,7 +166,7 @@ foreach($pair in $pairs){
   if(-not (Test-Path $dict)){ Write-Host ("skip(無): "+$pair[0]); continue }
   $lines = Get-Content $dict -Encoding UTF8
   $out = New-Object System.Collections.Generic.List[string]
-  $tot=0;$inj=0;$segTot=0;$segMap=0;$hsepN=0;$privN=0
+  $tot=0;$inj=0;$segTot=0;$segMap=0;$hsepN=0;$privN=0;$ambN=0
   foreach($line in $lines){
     $tot++
     $ci=$line.IndexOf(':'); if($ci -lt 1){ $out.Add($line); continue }
@@ -132,7 +175,7 @@ foreach($pair in $pairs){
     $words=$head -split ' '; $anyMapped=$false
     # 化学塩/酸 判定(行レベル): ①語釈に Sal[oj](Salo de/aŭ・Saloj de)・酸塩・酸盐 ②見出しに別語 acid/o(酸形 benzo/at/a acid/o) ③任意分節が酸根(中位は bor除外)。該当行の -at/-it→盐ᴬ/盐ᴵ。受動分詞-at(被)は非化学行で維持(am/at⟦爱/被⟧)
     $chemSaltLine = ($rest -match 'Sal[oj]+ ') -or ($rest -match '酸塩') -or ($rest -match '酸盐') -or ($rest -match 'Metal[a]?\s*deriva') -or ($rest -match 'Metal[a]?\s*kombina')   # Metalderivaĵo/Metalkombinaĵo de X = 金属誘導体/化合物=塩(sakar/at・etanol/at 等。Salo を含まない塩語釈)。2026-07-17: 分綴 "Metala kombinaĵo/derivaĵo"(空白入り)も捕捉=alk/an/ol/at(alkanolate=金属アルコキシド)の -at→被 誤描画を盐ᴬ に是正
-    $isSysChem = ($rest -match '【化】|hidrokarbon|[Aa]lkan|[Aa]lkil|[Aa]lken|alkohol|[Aa]ldehid|Ketono|keton|Saturita|Nesaturita|brulebl|brulem|monoterpen|monosakar|[Mm]olekul|polimer|estero|glikol|propandiol|etandiol|hidroksil|morfin|[Hh]eroin|Radiko|radikal|Radikal|C\s?\d|CH\s?\d|H-CHO|アルコール|アルカン|アルキル|メタン|プロパン|ブタン|オクタン|グリコール') -or ($head -match 'bi/fen/il/o$') -or ($head -match '^(di/met/oksi/fen/ol/o|diazo/met/an/o|met/an/bakteri/oj)$') -or ($head -match 'okt/an/nombr') -or ($head -match '^poli/et/en/')   # 2026-07-23 WF round4: エス語釈のみ(【化】/カタカナ無)の系統化学2語を追加=okt/an/nombr/o(オクタン価・八度→辛)・poli/et/en/o(ポリエチレン・小→乙)。   # 系統化学(IUPAC)行=天干/-il基/-anラテン のゲート。2026-07-23 WF round2追加: di/met/oksi/fen/ol/o(グアヤコール)/diazo/met/an/o/met/an/bakteri/oj を化学強制→di二/met甲/fen苯latin(神/置 god/place誤描画是正)。2026-07-22 追加: 学習者版 bi/fen/il/o(ビフェニル・語釈"Vd feno"に【化】タグ無)/poli/klor/bi/fen/il/o(PCB) を化学強制=fen苯latin/il基 発火(焚风föhn/具device誤描画是正・第27回続)(アルキル語幹の非化学義 met置/et小/okt八・器具-il具・数列dek十 との弁別)。化学式/カタカナ/PIV化学語も捕捉。2026-07-17
+    $isSysChem = ($rest -match '【化】|hidrokarbon|[Aa]lkan|[Aa]lkil|[Aa]lken|alkohol|[Aa]ldehid|Ketono|keton|Saturita|Nesaturita|brulebl|brulem|monoterpen|monosakar|[Mm]olekul|polimer|estero|glikol|propandiol|etandiol|hidroksil|morfin|[Hh]eroin|Radiko|radikal|Radikal|C\s?\d|CH\s?\d|H-CHO|アルコール|アルカン|アルキル|メタン|プロパン|ブタン|オクタン|グリコール') -or ($head -match 'bi/fen/il/o$') -or ($head -match '^(di/met/oksi/fen/ol/o|diazo/met/an/o|met/an/bakteri/oj|izo/prop/ol/o)$') -or ($head -match 'okt/an/nombr') -or ($head -match '^poli/et/en/')   # 2026-07-27 第15レンズ: izo/prop/ol/o(イソプロパノール)を追加。正本が izo/propol/o → izo/prop/ol/o と過細分解した結果、語釈が「【PIV】2-propanolo.」だけで化学ゲートに掛からず prop がラテン残りし、兄弟の izo/prop/il/o=等ᴵ/丙/基 と食い違って[F]★新規1件になっていた   # 2026-07-23 WF round4: エス語釈のみ(【化】/カタカナ無)の系統化学2語を追加=okt/an/nombr/o(オクタン価・八度→辛)・poli/et/en/o(ポリエチレン・小→乙)。   # 系統化学(IUPAC)行=天干/-il基/-anラテン のゲート。2026-07-23 WF round2追加: di/met/oksi/fen/ol/o(グアヤコール)/diazo/met/an/o/met/an/bakteri/oj を化学強制→di二/met甲/fen苯latin(神/置 god/place誤描画是正)。2026-07-22 追加: 学習者版 bi/fen/il/o(ビフェニル・語釈"Vd feno"に【化】タグ無)/poli/klor/bi/fen/il/o(PCB) を化学強制=fen苯latin/il基 発火(焚风föhn/具device誤描画是正・第27回続)(アルキル語幹の非化学義 met置/et小/okt八・器具-il具・数列dek十 との弁別)。化学式/カタカナ/PIV化学語も捕捉。2026-07-17
     foreach($ww in $words){
       if($ww -match '^acid/(o|a|oj|aj)$'){ $chemSaltLine=$true }
       $sg=@($ww -split '/'); $midHit=$false; for($k=1;$k -lt $sg.Count;$k++){ if($chemMid -contains $sg[$k]){ $midHit=$true } }
@@ -225,6 +268,7 @@ foreach($pair in $pairs){
         elseif(($s -eq 'oz') -and ($rest -match 'corpus callosum')){ $tok='oz' }   # 2026-07-24 別AI round9: 脳梁corpus callosum(kal/oz/o【解】)の-oz-はラテンcallosum「胼胝質callous」由来で-ose(糖)でも-osis(症)でもない→ozラテン=茧/oz(茧=kal胼胝callusは語源的に妥当で維持)。多糖callose(kal/oz/o【化】"Glucido polimero de glukozo")の糖ᴼは正で維持=語釈で弁別。oz既に[F]$known(新規侵食0)
         elseif(($s -eq 'temp' -or $s -eq 'er') -and ($rest -match 'テンペラ')){ $tok=$s }   # 2026-07-24 別AI round8: temp/er/o・temp/er/e(テンペラ=絵画技法・temperare「混ぜる」由来)の时/粒(time/grain)は偽の友→temp/er分節ラテン(学術版whole temper/oが既にlatin=版間整合)。一瞬/瞬時temp/er/o(語釈テンペラ無=时/粒は時=time由来で解釈可)は据置。[F]$known追加(temp/er)
         elseif(($s -eq 'lizin') -and ($rest -match 'estiganta hemo lizon')){ $tok='解'; $thisMapped=$true }   # 2026-07-24 別AI round7: hemo/lizin/o(溶血素hemolysin)の-lizin=溶解lysis→解。lizin/o=赖(アミノ酸リジンlysine)の偽の友を語釈scoped是正。学術版はwhole分節hemo/lizin(lizin→赖に漏出)・学習者版hemo/liz/inは既に血ᴴ/解ᴸで正=版間整合。lysine(赖)vs lysis(解)の同綴別義。lizin/o単独(リジン)は語釈"Aminacido"で非該当=赖維持
+        elseif($ambRule.ContainsKey($s) -and (AmbTok $s $rest)){ $tok=(AmbTok $s $rest); $thisMapped=$true; $ambN++ }   # 2026-07-27 第15レンズ: 台帳amb行(同綴だが全く別義)の語釈scoped実現。表は本ファイル冒頭の $ambRule。★この分岐は $hsep より【前】(=ここ)に置くこと: 語リストは同綴2行を弁別できないため、先に語リストが当たると第2義行まで第1義の字になる
         elseif($hsep.ContainsKey($w) -and $hsep[$w].ContainsKey($s)){ $tok=$hsep[$w][$s]; $thisMapped=$true; $hsepN++ }
         elseif($segLat.ContainsKey($w) -and ($segLat[$w] -contains $s)){ $tok=$s }   # 固有名分節(Gram染色)=ラテン保持・非mapped(§7)。disp(克)に落ちる前に捕捉
 
@@ -247,5 +291,5 @@ foreach($pair in $pairs){
   }
   [System.IO.File]::WriteAllLines($outp,$out,(New-Object System.Text.UTF8Encoding($true)))
   $diff=0; for($i=0;$i -lt $lines.Count;$i++){ $st=$out[$i] -replace '⟦[^⟧]*⟧',''; if($st -ne $lines[$i]){ $diff++ } }
-  Write-Host ("[{0}] 総行{1}/注入{2}/被覆{3}/{4}={5:P1}/homonym(sep){6}/priv{7}/原本diff {8} {9}" -f $pair[1],$tot,$inj,$segMap,$segTot,($segMap/[double]$segTot),$hsepN,$privN,$diff,$(if($diff -eq 0){'PASS'}else{'要調査!'}))
+  Write-Host ("[{0}] 総行{1}/注入{2}/被覆{3}/{4}={5:P1}/homonym(sep){6}/amb実現{10}/priv{7}/原本diff {8} {9}" -f $pair[1],$tot,$inj,$segMap,$segTot,($segMap/[double]$segTot),$hsepN,$privN,$diff,$(if($diff -eq 0){'PASS'}else{'要調査!'}),$ambN)
 }

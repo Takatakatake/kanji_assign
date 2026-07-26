@@ -1205,7 +1205,7 @@ ali/vest/it/a⟦别/衣/受/a⟧:変装した,仮装した
 ali/vort/e⟦别/词/e⟧:言い換えると
 aliz/arb/o⟦果ᴬᴸ/树/o⟧:【植】ナナカマド（七竈）の一種
 aliz/o⟦果ᴬᴸ/o⟧:【果】ナナカマド（の一種）の実
-al/jard/ig/i⟦向/码ᴶ/使/i⟧:［他］【海】（帆を）帆桁（ほげた）に結びつける
+al/jard/ig/i⟦向/杆ᴶ/使/i⟧:［他］【海】（帆を）帆桁（ほげた）に結びつける
 al/jug^/i⟦向/判/i⟧:［他］判決する,宣告する;裁定する;（賞などを）授与する
 al/jug^/it/a⟦向/判/受/a⟧:判決を受けた;（賞などを）授与された
 al/kadr/ig/i⟦向/框/使/i⟧:［他］【情】両端揃えする
@@ -2437,7 +2437,7 @@ Armorik/o:【地名】アルモリカ（ブルターニ地方ュの古称，フ�
 arnik/aj^/o⟦羊菊/物/o⟧:【薬】アルニカチンキ（外用鎮痛剤）
 arnik/o⟦羊菊/o⟧:{Ｏ}【植】ウサギギク（兎菊）（属）;アルニカ,=monta arniko
 Arn/o:【地名】アルノ川（イタリア）
-ar/o⟦群/o⟧:【単】アール（面積の単位，＝100平方メートル）
+ar/o⟦亩/o⟧:【単】アール（面積の単位，＝100平方メートル）
 ar/o⟦群/o⟧:集団;集合
 arog/aj^/o⟦傲/物/o⟧:越権行為
 arog/ant/a⟦傲/在/a⟧:{Ｏ}横柄な,尊大な,思い上がった##偽分解
@@ -3800,7 +3800,7 @@ bit/ar/a dosier/o⟦位ᴮ/群/a 档/o⟧:【情】バイナリファイル
 bit/bild/o⟦位ᴮ/画/o⟧:【情】ビットマップ
 bit/libr/o⟦位ᴮ/书/o⟧:電子書籍,=elektronika libro
 bit/o⟦位ᴮ/o⟧:{Ｏ}【情】ビット
-bit/o⟦位ᴮ/o⟧:【海】ビット,繋柱（けいちゅう）
+bit/o⟦桩ᴮ/o⟧:【海】ビット,繋柱（けいちゅう）
 bit/ok/o⟦位ᴮ/八/o⟧:【情】８ビットバイト,オクテット
 bitum/a karb/o⟦沥青ᴮ/a 炭/o⟧:瀝青炭
 bitum/i⟦沥青ᴮ/i⟧:［他］瀝青で舗装する
@@ -5929,7 +5929,7 @@ de antau^⟦从 前⟧:［前］〜前から
 debat/a klub/o⟦辩ᴰ/a 社ᴷ/o⟧:ディベートクラブ,討論研修クラブ
 debat/ebl/a⟦辩ᴰ/可/a⟧:議論の余地のある,異論のある
 debat/ej/o⟦辩ᴰ/所/o⟧:討論会場
-de/bat/i⟦从/打/i⟧:［他］討論する,討議する##偽分解(衝突語)
+de/bat/i⟦从/辩ᴮ/i⟧:［他］討論する,討議する##偽分解(衝突語)
 de/bat/i⟦从/打/i⟧:［他］たたき落とす
 debat/o⟦辩ᴰ/o⟧:{Ｏ}（公開の場での）討論,討議,論議,ディベート
 debet/a sald/o⟦欠ᴰ/a 余ˢ/o⟧:【商】借方残高;借越額
@@ -9513,7 +9513,7 @@ en/kadr/ig/i⟦内/框/使/i⟧:［他］枠にはめる,枠に入れる
 en/kag^/ig/i⟦内/笼/使/i⟧:［他］かごに入れる,おりに入れる
 en- kaj ekster-land/e⟦内 和ᴷ 外ᴱ-国/e⟧:国内外で
 en/kalkul/i⟦内/算/i⟧:［他］数に入れる,含む,>>inkludi
-en/kanon/ig/i⟦内/炮/使/i⟧:=kanonizi（聖列に加える）
+en/kanon/ig/i⟦内/典ᴷᴺ/使/i⟧:=kanonizi（聖列に加える）
 en/kapsul/ig/i⟦内/囊ᴷ/使/i⟧:［他］カプセルに詰める
 en/kapt/i⟦内/捕/i⟧:［他］わなにかける
 en/kapt/ig^/i⟦内/捕/成/i⟧:［自］わなに落ちる
@@ -9832,7 +9832,7 @@ ermit/ej/o⟦隐/所/o⟧:隠者の住まい,隠れ家,庵（いおり）
 ermit/lud/o⟦隐/玩/o⟧:【遊】ソリティア,ソリテール（一人で遊ぶゲームの総称）
 ermit/o⟦隐/o⟧:{Ｏ}【宗】隠者,隠修士;《転》世捨て人
 Ernest/o:{Ｏ}（男子名）エルネスト,アーネスト
-er/o⟦粒/o⟧:=>erao（紀元）
+er/o⟦纪ᴱᴿ/o⟧:=>erao（紀元）
 er/o⟦粒/o⟧:粒,構成要素
 erod/i⟦磨ᴱ/i⟧:［他］すり減らす,摩滅させる;（磨き粉で）研磨する;（機械部品を組み合わせるため）こすり合わせる
 erod/ig^/i⟦磨ᴱ/成/i⟧:［自］すり減る,摩滅する
@@ -11587,7 +11587,7 @@ font/indik/o⟦泉/指ᴵ/o⟧:出典表示
 font/lingv/o⟦泉/语/o⟧:【語】起点言語（翻訳の対象になる言語）,原語;【情】原始言語
 font/o⟦泉/o⟧:{Ｂ}泉,水源;源;《転》源泉,根源
 font/o/kod/o⟦泉/o/码/o⟧:【情】ソースコード
-font/o/plum/o⟦泉/o/羽/o⟧:万年筆
+font/o/plum/o⟦泉/o/笔ᴾᴸ/o⟧:万年筆
 font/program/o⟦泉/程/o⟧:【情】ソースプログラム,原始プログラム
 for⟦离⟧:{Ｂ}［副］遠くへ;離れて
 for⟦离⟧:［間］去れ！
@@ -16973,16 +16973,16 @@ kan/o⟦苇/o⟧:{Ｏ}《般》アシ,ヨシ,トウ,サトウキビの類,>>frag
 kanon/ad/i⟦炮/行/i⟧:［他］（続けて）砲撃する
 kanon/ad/o⟦炮/行/o⟧:砲撃
 kanon/boat/o⟦炮/舟/o⟧:砲艦
-kanon/ec/o⟦炮/性/o⟧:（聖書の）聖典性;（教会法上の）合法性
+kanon/ec/o⟦典ᴷᴺ/性/o⟧:（聖書の）聖典性;（教会法上の）合法性
 kanon/eg/o⟦炮/巨/o⟧:（巨大な）大砲,巨砲
 kanon/i⟦炮/i⟧:［他］砲撃する
-kanon/ig/i⟦炮/使/i⟧:=kanonizi（聖列に加える）
+kanon/ig/i⟦典ᴷᴺ/使/i⟧:=kanonizi（聖列に加える）
 kanonik/ar/o⟦会士/群/o⟧:【キ】教会参事会
 kanonik/o⟦会士/o⟧:{Ｏ}【キ】教会参事会員
 kanon/ist/o⟦炮/家/o⟧:砲手;【キ】教会法学者
 kanoniz/i⟦圣ᴷ/i⟧:［他］【カ】聖列に加える,=sanktuligi
 kanon/o⟦炮/o⟧:{Ｏ}【軍】大砲,砲
-kanon/o⟦炮/o⟧:【キ】聖書正典;教会法規;【カ】聖人表,聖列;【楽】カノン
+kanon/o⟦典ᴷᴺ/o⟧:【キ】聖書正典;教会法規;【カ】聖人表,聖列;【楽】カノン
 kanon/paf/o⟦炮/射/o⟧:（一発の）砲撃
 kanon/tub/o⟦炮/管/o⟧:砲身
 Kanos/o:【史】カノッサ（北イタリアの城）
@@ -17373,7 +17373,7 @@ karpen/o⟦木ᴷᴬᴿᴾ/o⟧:{Ｏ}【植】クマシデ（属）
 Karpentari/a Golf/o:【地名】カーペンタリア湾（オーストラリア北部）
 karpe/o:【解】手首の骨,手根骨,=karpo
 karp/o⟦鲤/o⟧:{Ｂ}【魚】コイ（鯉）
-karp/o⟦鲤/o⟧:【解】=karpeo（手首の骨）
+karp/o⟦腕ᴷ/o⟧:【解】=karpeo（手首の骨）
 Kartagen/o:【地名】カルタヘーナ（コロンビア）
 Kartagen/o:【地名】カルタヘーナ（スペイン）
 Kartag/o:【古地名】カルタゴ（古代北アフリカの都市）
@@ -20344,7 +20344,7 @@ kronik/i⟦慢/i⟧:［他］年代順に物語る
 kronik/ist/o⟦慢/家/o⟧:年代記作者
 kronik/o⟦慢/o⟧:{Ｏ}年代記,編年史;（新聞・雑誌の）欄
 kron/o⟦冠/o⟧:{Ｂ}冠,王冠;（栄誉の印としての）花冠,栄冠;王権,王位;冠状のもの
-kron/o⟦冠/o⟧:【貨】クローネ（デンマーク・スウェーデンなどの通貨）
+kron/o⟦币ᴷ/o⟧:【貨】クローネ（デンマーク・スウェーデンなどの通貨）
 Kron/o:【神】クロノス（ギリシア神話でゼウスの父）
 Kron/o:【天】かんむり座,>>Boreala,>>Au^strala
 kron/o/graf/i⟦时ᴷ/o/记ᴳ/i⟧:［他］（クロノグラフで）計時する,記録する##偽分解##過細分解 k/r/o/n/o/graf/i
@@ -20888,7 +20888,7 @@ kur/ig/i⟦跑/使/i⟧:［他］走らせる
 Kuril/aj Insul/oj:【地名】千島列島,=Kuriloj
 Kuril/oj:【地名】千島列島（クリル列島）
 kuri/o⟦廷/o⟧:【史】クリア（古代ローマの社会組織の一単位／クリア集会所／元老院議場）;【カ】教皇庁
-kuri/o⟦廷/o⟧:【理】キュリー（放射能の単位，Ci）
+kuri/o⟦居ᴷ/o⟧:【理】キュリー（放射能の単位，Ci）
 Kuri/o:【人名】キュリー（フランスの物理学者夫妻，ピエール1859-1906，マリー1867-1934）
 kurioz/a⟦奇ᴷ/a⟧:{Ｂ}珍しい,奇妙な,好奇心をそそる
 kurioz/a best/o⟦奇ᴷ/a 兽/o⟧:珍獣
@@ -22247,7 +22247,7 @@ lin/aj^/o⟦亚麻/物/o⟧:【織】リネン製品,リンネル製品
 linc^/ad/o⟦刑ᴸ/行/o⟧:リンチ,私刑
 linc^/i⟦刑ᴸ/i⟧:［他］リンチを加える,私刑にする
 linear/a ekvaci/o⟦线ᴸᴿ/a 方程/o⟧:【数】一次方程式
-line/o⟦线ᴸᴱ/o⟧:【植】リンネソウ（属）
+line/o⟦草ᴸᴵᴺ/o⟧:【植】リンネソウ（属）
 line/o⟦线ᴸᴱ/o⟧:細ひも;【電】電線,電話線;【情】回線,伝送路;【単】リーニュ（長さの単位、約2.26mm）
 Line/o:【人名】リンネ（スウェーデンの博物学者、1707-1778）
 lingv/a⟦语/a⟧:言語の
@@ -22327,7 +22327,7 @@ lirik/o⟦抒/o⟧:{Ｏ}叙情詩
 lirik/ul/o⟦抒/者/o⟧:感傷的な人
 lir/ism/o⟦琴ᴸ/主义/o⟧:=lirikismo（リリシズム）
 lir/o⟦琴ᴸ/o⟧:{Ｏ}【楽】リラ,たて琴
-lir/o⟦琴ᴸ/o⟧:【貨】リラ（イタリアの通貨）
+lir/o⟦币ᴸ/o⟧:【貨】リラ（イタリアの通貨）
 Lir/o:【天】こと（琴）座
 lir/vost/ul/o⟦琴ᴸ/尾/者/o⟧:【鳥】コトドリ（属）,=menuro
 Lisbon/o:【地名】リスボン（ポルトガルの首都）
@@ -22444,7 +22444,7 @@ logik/o⟦理ᴸ/o⟧:{Ｂ}論理学;論理,論法,道理;論理的必然,当然
 log/il/o⟦诱ᴸ/具/o⟧:囮（おとり）,罠（わな）,餌（えさ）
 log/libr/o⟦学家/书/o⟧:【海】航海日誌
 log/o⟦学家/o⟧:【海】（船の速力を測る）測程器
-log/o⟦学家/o⟧:魅力,魅惑,誘惑
+log/o⟦诱ᴸ/o⟧:魅力,魅惑,誘惑
 logogrif/o:{Ｏ}【遊】ロゴグリフ,語さがしなぞ（詩文の暗示する複数の語を言い当てるなぞなぞ）;《転》不可解な文章
 log^/ad/o⟦住/行/o⟧:居住;滞在
 log^/ant/a⟦住/在/a⟧:住んでいる;泊まっている
@@ -22646,7 +22646,7 @@ Luksemburg/o:【地名】ルクセンブルク（ルクセンブルクの首都�
 Luksemburg/uj/o:【国名】=>Luksemburgo（ルクセンブルク）
 luks/impost/o⟦奢/税/o⟧:奢侈税（しゃしぜい）
 luks/o⟦奢/o⟧:{Ｂ}ぜいたく,豪華,華美
-luks/o⟦奢/o⟧:【理】ルクス（照度の単位）
+luks/o⟦照ᴸ/o⟧:【理】ルクス（照度の単位）
 Luksor/o:【地名】ルクソール（エジプト，古代テーベの遺跡がある）
 lukt/art/o⟦搏/艺/o⟧:格闘技
 lukt/ej/o⟦搏/所/o⟧:【運】リング
@@ -22712,7 +22712,7 @@ lum/mikro/skop/o⟦光/微/镜ˢᴷ/o⟧:【理】光学顕微鏡##偽分解
 lum/o⟦光/o⟧:光,日光;明かり,輝き;光源,灯火,ライト;《転》指導的な人物
 lum/ond/o⟦光/波/o⟧:【理】光波
 lum/o/plen/a⟦光/o/满/a⟧:光に満ちた,照り輝いた
-lum/plum/o⟦光/羽/o⟧:【情】ライトペン
+lum/plum/o⟦光/笔ᴾᴸ/o⟧:【情】ライトペン
 lum/puls/i⟦光/脉ᴾ/i⟧:［自］（規則的に）点滅する,明滅する;【情】プリンクする
 lum/radi/i⟦光/射ᴿ/i⟧:［自］光を発する,光り輝く
 lum/radi/oj⟦光/射ᴿ/oj⟧:【理】光線
@@ -22761,7 +22761,7 @@ lupe/o⟦镜ᴸ/o⟧:ルーペ,虫めがね
 lup/fantom/o⟦狼/幽/o⟧:狼男,人狼（じんろう）
 lup/fis^/o⟦狼/鱼/o⟧:【魚】オオカミウオ（狼魚）（科）
 lup/hund/o⟦狼/犬/o⟧:オオカミ犬（オオカミに似た犬）
-lup/in/o⟦狼/女/o⟧:【植】ルピナス（属）,ハウチワマメ（羽団扇豆）,ノボリフジ（昇藤）##偽分解(衝突語)
+lup/in/o⟦豆ᴸᵁ/in/o⟧:【植】ルピナス（属）,ハウチワマメ（羽団扇豆）,ノボリフジ（昇藤）##偽分解(衝突語)
 lup/o⟦狼/o⟧:{Ｂ}【動】オオカミ（狼）（種）
 Lup/o:【天】おおかみ座
 lupol/a medikag/o⟦蛇麻/a 牧草ᴹ/o⟧:【植】コメツブウマゴヤシ（種）
@@ -24416,7 +24416,7 @@ markiz/in/o⟦侯ᴹ/女/o⟧:侯爵夫人
 markiz/o⟦侯ᴹ/o⟧:{Ｏ}侯爵
 Markiz/oj:【地名】マルキーズ（マルケサス）諸島（南太平洋中部）
 mark/o⟦标ᴹ/o⟧:{Ｂ}しるし（印）,標識,マーク,目印;コイン,チップ;【商】商標,ブランド;【運】スタートライン
-mark/o⟦标ᴹ/o⟧:【貨】マルク（ドイツ）,=100 pfenigoj
+mark/o⟦币ᴹ/o⟧:【貨】マルク（ドイツ）,=100 pfenigoj
 Mark/o:（男子名）マルコ,マルクス
 mark/o/c^as/a⟦标ᴹ/o/猎/a⟧:ブランド志向の
 mark/o/hav/a⟦标ᴹ/o/有/a⟧:商標の付いた,折紙付きの,良質の
@@ -24659,12 +24659,12 @@ materi/ism/o⟦质ᴹ/主义/o⟧:【哲】唯物論,>>materialismo
 materi/ist/o⟦质ᴹ/家/o⟧:【哲】唯物論者
 materi/o⟦质ᴹ/o⟧:{Ｂ}物質,物体;【哲】質料
 Materkorn/o:【地名】マッターホルン山（スイス・イタリア）
-mat/i⟦席/i⟧:［自］【遊】（チェス・将棋で）詰む
-mat/ig/i⟦席/使/i⟧:［他］【遊】（チェス・将棋で）詰める
-mat/ig/o⟦席/使/o⟧:【遊】（チェス・将棋で）詰め
+mat/i⟦将ᴹ/i⟧:［自］【遊】（チェス・将棋で）詰む
+mat/ig/i⟦将ᴹ/使/i⟧:［他］【遊】（チェス・将棋で）詰める
+mat/ig/o⟦将ᴹ/使/o⟧:【遊】（チェス・将棋で）詰め
 matine/o:マチネー,昼間興行,>>prezento
 mat/o⟦席/o⟧:{Ｂ}マット,むしろ,ござ,敷物,>>tapis^o,>>tatamo
-mat/o⟦席/o⟧:【遊】（チェス・将棋の）詰み,チェックメイト
+mat/o⟦将ᴹ/o⟧:【遊】（チェス・将棋の）詰み,チェックメイト
 Matogros/o:【地名】マットグロッソ台地（ブラジル）
 matrac/o⟦垫ᴹ/o⟧:{Ｂ}マットレス（寝床用の厚い敷物）
 matric/o⟦型ᴹᵀ/o⟧:{Ｏ}鋳型,金型,抜き型,母型;【数】行列;【地質】石基,基質;=gango
@@ -25151,8 +25151,8 @@ meta/fizik/o⟦超ᴹ/物理/o⟧:{Ｏ}【哲】形而上学##偽分解(PIV正�
 metafor/a⟦喻ᴹ/a⟧:隠喩の,比喩の
 metafor/a senc/o⟦喻ᴹ/a 意ˢ/o⟧:比喩的意味
 metafor/o⟦喻ᴹ/o⟧:{Ｏ}【修】隠喩（いんゆ）
-metakarpe/o⟦掌骨ᴹᴱ/o⟧:【解】=metakarpo（中手）
-metakarp/o⟦掌骨/o⟧:【解】中手,掌部;中手骨,掌骨
+meta/karpe/o⟦超ᴹ/karpe/o⟧:【解】=metakarpo（中手）##偽分解(PIV正式分解)
+meta/karp/o⟦超ᴹ/腕ᴷ/o⟧:【解】中手,掌部;中手骨,掌骨##偽分解(PIV正式分解)
 metal/a⟦金ᴹ/a⟧:金属の,金属製の,金属質の,金属的な
 metal/aj^/o⟦金ᴹ/物/o⟧:金属製品
 metal/a kombin/aj^/o⟦金ᴹ/a 合/物/o⟧:【化】金属化合物
@@ -25435,22 +25435,22 @@ mild/ec/o⟦柔/性/o⟧:優しさ,穏やかさ
 mild/ig/i⟦柔/使/i⟧:［他］和らげる,静める,軽減する
 mile/o⟦黄米/o⟧:《Ｎ》【植】キビ（黍）（種）,>>panico
 mil/foli/o⟦千/叶/o⟧:【植】セイヨウノコギリソウ（種）,>>akileo
-mili-⟦毫ᴹᴵ⟧:［接頭辞］【学】ミリ〜（補助単位，＝１０００分の１）
-mili/amper/o⟦毫ᴹᴵ/amper/o⟧:【電】ミリアンペア（mA）
+mili-⟦毫⟧:［接頭辞］【学】ミリ〜（補助単位，＝１０００分の１）
+mili/amper/o⟦毫/amper/o⟧:【電】ミリアンペア（mA）
 miliard/o⟦十亿/o⟧:{Ｂ}十億
 miliard/ul/o⟦十亿/者/o⟧:億万長者
-mili/bar/o⟦毫ᴹᴵ/压ᴮ/o⟧:【気】ミリバール（mbar）
+mili/bar/o⟦毫/压ᴮ/o⟧:【気】ミリバール（mbar）
 milic/an/o⟦民兵/员/o⟧:民兵
 milici/o:=milico（民兵隊）
 milic/o⟦民兵/o⟧:民兵隊,義勇軍,国民軍
-mili/gram/o⟦毫ᴹᴵ/克/o⟧:{Ｏ}【単】ミリグラム（mg）##偽分解
-mili/metr/o⟦毫ᴹᴵ/米/o⟧:{Ｂ}【単】ミリメートル（mm）##偽分解
-mili/o⟦毫ᴹᴵ/o⟧:{Ｏ}【植】雑穀（アワ，キビ，ヒエ，モロコシなど）,>>setario,>>panico,>>ekinoklo,>>sorgo;=>mileo（キビ）
+mili/gram/o⟦毫/克/o⟧:{Ｏ}【単】ミリグラム（mg）##偽分解
+mili/metr/o⟦毫/米/o⟧:{Ｂ}【単】ミリメートル（mm）##偽分解
+mili/o⟦粟ᴹ/o⟧:{Ｏ}【植】雑穀（アワ，キビ，ヒエ，モロコシなど）,>>setario,>>panico,>>ekinoklo,>>sorgo;=>mileo（キビ）
 milion/o⟦百万/o⟧:{Ｂ}百万
 milion/obl/a⟦百万/倍/a⟧:百万倍の
 milion/on/o⟦百万/分/o⟧:百万分の一
 milion/ul/o⟦百万/者/o⟧:百万長者
-mili/sivert/o⟦毫ᴹᴵ/sivert/o⟧:【理】ミリシーベルト（線量当量のSI単位，mSv）##偽分解
+mili/sivert/o⟦毫/sivert/o⟧:【理】ミリシーベルト（線量当量のSI単位，mSv）##偽分解
 milit/a⟦战/a⟧:戦争の;軍事の
 milit/ad/o⟦战/行/o⟧:戦争遂行
 milit/ag/o⟦战/办/o⟧:戦争行為
@@ -27432,7 +27432,7 @@ neu^r/oz/a⟦神经ᴺᵁ̆/症ᴼ/a⟧:ノイローゼの,神経症の##偽分�
 neu^r/oz/o⟦神经ᴺᵁ̆/症ᴼ/o⟧:【病】ノイローゼ,神経症##偽分解(PIV正式分解)
 neu^r/oz/ul/o⟦神经ᴺᵁ̆/症ᴼ/者/o⟧:ノイローゼ患者,神経症患者##偽分解(PIV正式分解)
 neu^ton/a mekanik/o⟦neu^ton/a 械/o⟧:【理】ニュートン力学
-neu^ton/metr/o⟦neu^ton/计ᴹ/o⟧:【理】ニュートン・メートル（力のモーメントの単位，N･m）
+neu^ton/metr/o⟦neu^ton/米/o⟧:【理】ニュートン・メートル（力のモーメントの単位，N･m）
 neu^ton/o:【理】ニュートン（力の単位，N）
 Neu^ton/o:【人名】ニュートン（イギリスの科学者）
 neu^tr/a⟦中ᴺᴱ/a⟧:{Ｏ}【Ｇ】【化】【電】中性の;【生】中性の,無性の
@@ -28402,7 +28402,7 @@ omnibus/o:{Ｏ}乗合馬車;【芸】オムニバス
 om/o:【電】オーム（電気抵抗の単位，Ω）
 Om/o:【人名】オーム（ドイツの物理学者，1789-1854）
 om/o/metr/o⟦om/o/计ᴹ/o⟧:【理】オーム計
-om/o/metr/o⟦om/o/计ᴹ/o⟧:【理】オーム・メートル（抵抗率の単位，Ω･m）
+om/o/metr/o⟦om/o/米/o⟧:【理】オーム・メートル（抵抗率の単位，Ω･m）
 -on-⟦分⟧:{Ｂ}［接尾辞］（分数を示す）,>>duono
 onan/ism/o⟦onan/主义/o⟧:【医】自慰,オナニー,=sinmasturbado##偽分解##強語根分解
 onc^j/o:おじちゃん,>>onklo
@@ -28764,7 +28764,7 @@ orkestr/i⟦乐ᴼ/i⟧:［他］管弦楽用に編曲する
 orkestrion/o:【楽】オーケストリオン（オーケストラ演奏を模倣する自動楽器）
 orkestr/o⟦乐ᴼ/o⟧:{Ｂ}【楽】オーケストラ,管弦楽団;（劇場の）オーケストラボックス
 orkide/o⟦兰ᴼᴱ/o⟧:{Ｏ}《般》【植】ラン（蘭）（科の総称）
-orkid/it/o⟦兰/炎ᵀ/o⟧:【病】精巣炎,睾丸炎,=testikinflamo##偽分解
+orkid/it/o⟦丸ᴼ/炎ᵀ/o⟧:【病】精巣炎,睾丸炎,=testikinflamo##偽分解
 orkid/o⟦兰/o⟧:【植】ハクサンチドリ（属）,オルキス;【解】精巣,睾丸（こうがん）,=testiko
 ork/o⟦虎鲸/o⟧:【動】シャチ（鯱）（種）
 or/kolor/a⟦金/色/a⟧:金色の,黄金色の
@@ -29614,12 +29614,12 @@ patent/o⟦特许/o⟧:{Ｏ}特許;特許証
 patent/ofic/ej/o⟦特许/职/所/o⟧:特許局
 patent/rajt/o⟦特许/权/o⟧:特許権
 patent/ul/o⟦特许/者/o⟧:特許権所有者
-pat/i⟦锅/i⟧:［自］【遊】（チェスで）ステールメイトである,手詰まりである
+pat/i⟦困/i⟧:［自］【遊】（チェスで）ステールメイトである,手詰まりである
 patin/o:（金属の）さび,緑青（ろくしょう）,（岩石の）風化面
 pat/kuk/o⟦锅/糕/o⟧:【料】ホットケーキ;=krespo（クレープ）
 Patm/o:【地名】パトモス島（ギリシア）
 pat/o⟦锅/o⟧:{Ｂ}【料】フライパン
-pat/o⟦锅/o⟧:【遊】（チェスの）ステールメイト,手詰まり
+pat/o⟦困/o⟧:【遊】（チェスの）ステールメイト,手詰まり
 pat/o/gen/a⟦病ᴾᴬ/o/生ᴳ/a⟧:【医】病原性の,=malsaniga##偽分解##過細分解 p/a/t/o/gen/a
 pat/o/logi/a⟦病ᴾᴬ/o/学ᴸᴳ/a⟧:病理学の;病的な##偽分解##過細分解 p/a/t/o/logi/a
 pat/o/logi/o⟦病ᴾᴬ/o/学ᴸᴳ/o⟧:{Ｏ}病理学##偽分解##過細分解 p/a/t/o/logi/o
@@ -30224,7 +30224,7 @@ pice/o⟦云杉/o⟧:{Ｂ}【植】トウヒ（唐檜）（属）
 pic/ist/o⟦饼ᴾ/家/o⟧:ピザ職人
 pic/o⟦饼ᴾ/o⟧:{Ｏ}【料】ピザ
 pic^/o⟦阴户/o⟧:《俗》=vulvo（陰門）
-pic^/o⟦阴户/o⟧:【楽】=tonalto（音高）
+pic^/o⟦调ᴾ/o⟧:【楽】=tonalto（音高）
 pi/e⟦敬ᴾ/e⟧:信心深く,敬虔（けいけん）に
 pi/ec/o⟦敬ᴾ/性/o⟧:信心,信仰心
 pied/a⟦足/a⟧:足の,下部の
@@ -30816,7 +30816,7 @@ plu/konstru/i⟦还/建/i⟧:［他］増築する
 plu/konstru/o⟦还/建/o⟧:増築
 plum/a⟦羽/a⟧:羽根の,羽根のような
 plum/a diant/o⟦羽/a 石ᴰ/o⟧:【植】タツタナデシコ
-plum/amik/o⟦羽/友/o⟧:ペンフレンド,=korespondamiko
+plum/amik/o⟦笔ᴾᴸ/友/o⟧:ペンフレンド,=korespondamiko
 plum/ar/o⟦羽/群/o⟧:（鳥の全身の）羽毛
 plumb/a⟦铅/a⟧:鉛の;鉛のような,重苦しい
 plumb/aj^/o⟦铅/物/o⟧:鉛製品,おもり;（封緘用）鉛
@@ -30833,18 +30833,18 @@ plumb/o/griz/a⟦铅/o/灰/a⟧:鉛灰色の
 plumb/o/kolor/a⟦铅/o/色/a⟧:鉛色の
 plumb/o/sond/il/o⟦铅/o/探ˢ/具/o⟧:【海】測鉛
 plum/e kun/met/it/a foli/o⟦羽/e 共/置/受/a 叶/o⟧:【植】羽状複葉
-plum/erar/o⟦羽/错/o⟧:筆の誤り,書き間違い
+plum/erar/o⟦笔ᴾᴸ/错/o⟧:筆の誤り,書き間違い
 plum/et/o⟦羽/小/o⟧:綿羽（わたばね）,=lanugero
 plum/i⟦羽/i⟧:［他］羽飾りをつける
-plum/ing/o⟦羽/座/o⟧:ペン軸
-plum/nom/o⟦羽/名/o⟧:筆名,ペンネーム,>>pseu^donomo
+plum/ing/o⟦笔ᴾᴸ/座/o⟧:ペン軸
+plum/nom/o⟦笔ᴾᴸ/名/o⟧:筆名,ペンネーム,>>pseu^donomo
 plum/o⟦羽/o⟧:{Ｂ}羽根,羽毛,>>lanugo;鵞ペン,羽根ペン;ペン,ペン先
 plump/a:《詩》ぶざまな,鈍重な,=malgracia,=malelegante pezac^a
 plum/pez/a⟦羽/重/a⟧:【運】フェザー級の
 plum/pilk/o⟦羽/球/o⟧:【運】（バドミントンの）シャトル,=volano
 plum/tig/o⟦羽/茎/o⟧:【鳥】羽軸（うじく）
 plum/tuf/o⟦羽/丛/o⟧:（帽子などの）羽飾;【鳥】冠羽,=egreto
-plum/uj/o⟦羽/器/o⟧:ペン入れ,筆箱
+plum/uj/o⟦笔ᴾᴸ/器/o⟧:ペン入れ,筆箱
 plum/vis^/il/o⟦羽/拭/具/o⟧:羽ぼうき
 plur/aj⟦多ᴾᴿ/aj⟧:{Ｂ}複数の;（１ではない）幾人かの,いくつかの,>>kelkaj
 plural/ism/o⟦复数/主义/o⟧:=plurismo（多元論）
@@ -33334,7 +33334,7 @@ re/foj/e⟦再/次/e⟧:再び,あらためて,>>denove
 re/fond/i⟦再/建ᶠ/i⟧:［他］再建する
 reformaci/a mov/ad/o⟦改革/a 动/行/o⟧:【史】宗教改革運動
 Reformaci/o:{Ｏ}【史】（１６世紀キリスト教の）宗教改革
-re/form/ator/o⟦再/形/具ᴬ/o⟧:=reformisto（改革論者）##偽分解(PIV正式分解)
+re/form/ator/o⟦再/形/员ᴬᵀ/o⟧:=reformisto（改革論者）##偽分解(PIV正式分解)
 re/form/i⟦再/形/i⟧:{Ｂ}［他］改造する,改革する
 re/form/ist/o⟦再/形/家/o⟧:改革論者;【Ｅ】改造論者
 re/form/o⟦再/形/o⟧:改造,改革
@@ -34421,7 +34421,7 @@ Rodezi/o:【地名】ローデシア（ザンビア・ジンバブエの植民�
 rod/i⟦啃/i⟧:［他］=>rong^i（かじる）
 Rod-Insul/o:【地名】ロードアイランド州（米国）
 Rodis/o:【地名】ロードス島（エーゲ海）,=Rodo
-rod/o⟦啃/o⟧:{Ｏ}【海】（港外の）停泊地,投錨地
+rod/o⟦泊/o⟧:{Ｏ}【海】（港外の）停泊地,投錨地
 Rod/o:【地名】ロードス島（エーゲ海）,=Rodiso
 rododendr/o⟦杜鹃ᴿ/o⟧:【植】ツツジ（躑躅）（属，シャクナゲ・サツキを含む）,>>azaleo
 Rodop/o:【地名】ロドピ山脈（ブルガリア）
@@ -36775,9 +36775,9 @@ sintez/o⟦合ˢ/o⟧:{Ｏ}総合,統合;【化】合成;【哲】総合,><anali
 si/n/tromp/o⟦己/n/骗/o⟧:自己欺瞞
 sinus/it/o⟦洞ˢ/炎ᵀ/o⟧:【病】副鼻腔炎;静脈洞炎
 sinus/o⟦洞ˢ/o⟧:【解】洞（どう）
-sinus/o⟦洞ˢ/o⟧:【数】サイン（正弦）,>>kosinuso,>>tangento
+sinus/o⟦弦ˢ/o⟧:【数】サイン（正弦）,>>kosinuso,>>tangento
 sinus/oid/a oscil/ad/o⟦洞ˢ/似ᴼ/a 振ᴼ/行/o⟧:【理】単振動
-sinus/ond/o⟦洞ˢ/波/o⟧:【理】正弦波
+sinus/ond/o⟦弦ˢ/波/o⟧:【理】正弦波
 Sinvij^u/o:【地名】シンウィジュ（新義州，北朝鮮）
 sion/ism/o⟦sion/主义/o⟧:=cionismo（シオニズム）##偽分解##強語根分解
 Sirakuz/o:【地名】シラクザ（＝シラクサ，イタリア）
@@ -37020,7 +37020,7 @@ skrib/o/c^ambr/o⟦书ˢ/o/室/o⟧:事務室;書斎
 skrib/o/kap/o⟦书ˢ/o/头/o⟧:【情】書込みヘッド
 skrib/o/tabl/o⟦书ˢ/o/桌/o⟧:事務机,勉強机
 skrib/o/var/o⟦书ˢ/o/货/o⟧:【商】文房具,事務用品
-skrib/plum/o⟦书ˢ/羽/o⟧:ペン
+skrib/plum/o⟦书ˢ/笔ᴾᴸ/o⟧:ペン
 skrib/rul/aj^/o⟦书ˢ/卷ᴿ/物/o⟧:巻物
 skrib/sistem/o⟦书ˢ/系/o⟧:書記体系
 skrib/sub/aj^/o⟦书ˢ/下/物/o⟧:下敷
@@ -37257,7 +37257,7 @@ soliter/o:（指輪など）ダイヤモンドを一つだけはめた装身具;
 sol/kant/i⟦唯/唱/i⟧:［他］独唱する
 sol/kant/o⟦唯/唱/o⟧:【楽】独唱,ソロ
 sol/lud/o⟦唯/玩/o⟧:【楽】ソロ演奏,独奏
-sol/o⟦唯/o⟧:【化】ゾル,>>koloido,>>g^elo
+sol/o⟦溶/o⟧:【化】ゾル,>>koloido,>>g^elo
 sol/o⟦唯/o⟧:ただ一人,ただ一つ;【楽】ソロ,独奏,独唱
 sol/parol/o⟦唯/话/o⟧:ひとりごと
 sol/parti/a⟦唯/党/a⟧:【政】一党制の,一党独裁の,>>totalismo
@@ -37503,7 +37503,7 @@ spatel/form/a⟦铲ˢ/形/a⟧:へら形の
 spatel/o⟦铲ˢ/o⟧:（調剤や油絵に用いる）へら,パレットナイフ,こて,=truleto
 spat/o⟦石ˢ/o⟧:{Ｏ}【鉱】へげ石,スパー
 spat/o⟦石ˢ/o⟧:{Ｏ}【動】=spavino（飛節内腫）
-spat/o⟦石ˢ/o⟧:【植】仏炎包（ぶつえんほう）
+spat/o⟦苞ˢ/o⟧:【植】仏炎包（ぶつえんほう）
 spavin/o⟦瘤ˢ/o⟧:【動】（馬の）飛節内腫（ひせつないしゅ）
 spec/ar/o⟦种ˢᴾ/群/o⟧:【生】=genro（属）
 speci/a⟦种ˢᴵ/a⟧:【生】種の
@@ -37627,7 +37627,7 @@ spindel/o⟦纺锤/o⟧:【機】スピンドル
 spindel/rad/o⟦纺锤/轮/o⟧:【機】（時計の）均力車,円錐滑車
 spin/momant/o⟦旋ˢᴺ/矩/o⟧:【理】スピンモーメント
 spin/o⟦脊/o⟧:{Ｏ}背骨,脊柱,=vertebraro;【解】棘（きょく）;《転》山稜
-spin/o⟦脊/o⟧:【理】スピン
+spin/o⟦旋ˢᴺ/o⟧:【理】スピン
 spinor/o:【理】スピノル,>>tensoro
 spinoz/ism/o⟦spinoz/主义/o⟧:【哲】スピノザ哲学
 Spinoz/o:【人名】スピノザ（オランダの哲学者、1632-1677）
@@ -38019,7 +38019,7 @@ stok/ej/o⟦储ˢ/所/o⟧:倉庫,貨物置場
 Stokholm/o:【地名】ストックホルム（スウェーデンの首都）
 stok/i⟦储ˢ/i⟧:［他］【商】ストックする,仕入れる;蓄える
 stok/o⟦储ˢ/o⟧:{Ｏ}【商】ストック,在庫品;蓄え,備蓄
-stok/o⟦储ˢ/o⟧:【理】ストークス（動粘度のCGS単位）,>>puazo
+stok/o⟦粘ˢ/o⟧:【理】ストークス（動粘度のCGS単位）,>>puazo
 stol/o:【キ】ストラ,頸垂帯（けいすいたい）（聖職者が肩からかける長い帯状の祭服）;【服】ストール（婦人用の肩掛け）
 stomak/a⟦胃/a⟧:胃の
 stomak/a kancer/o⟦胃/a 癌/o⟧:【病】胃がん（癌）
@@ -39070,7 +39070,7 @@ s^ak/klub/o⟦棋/社ᴷ/o⟧:チェスクラブ
 s^ak/lud/ant/o⟦棋/玩/在/o⟧:【遊】チェスの競技者
 s^ak/lud/o⟦棋/玩/o⟧:【遊】チェスの勝負
 S^ak/mat!⟦棋/mat!⟧:［間］【遊】チェックメイト！（チェスで相手に詰みを告げる）
-s^ak/mat/o⟦棋/席/o⟧:【遊】（チェスの）チェックメイト,王手詰
+s^ak/mat/o⟦棋/将ᴹ/o⟧:【遊】（チェスの）チェックメイト,王手詰
 s^ak/mov/o⟦棋/动/o⟧:【遊】（チェス・将棋の）一手
 s^ak/o⟦棋/o⟧:{Ｏ}【遊】チェス,将棋（=japana s^ako）;（チェス・将棋の）王手
 S^ak/on!⟦棋/on!⟧:［間］（チェスで）王手！
@@ -42789,7 +42789,7 @@ vat/it/a⟦棉/受/a⟧:綿入りの
 vat/it/a kimon/o⟦棉/受/a 和服/o⟧:綿入れ（の着物）
 vat/metr/o⟦瓦ⱽ/计ᴹ/o⟧:【理】電力計##偽分解
 vat/o⟦棉/o⟧:{Ｂ}（衣類や寝具などに詰める）綿（わた）,脱脂綿,>>kotono
-vat/o⟦棉/o⟧:【理】ワット（仕事率・電力のSI単位，W）
+vat/o⟦瓦ⱽ/o⟧:【理】ワット（仕事率・電力のSI単位，W）
 Vat/o:【人名】ワット（イギリスの技術者，1736-1819）
 vat/sekund/o⟦瓦ⱽ/秒/o⟧:【理】ワット秒（電力量の単位，Ws）
 vatt/o:【理】ワット,=vato
@@ -43951,9 +43951,9 @@ vulkan/a cindr/o⟦火山/a 灰ᶜ/o⟧:【地質】火山灰
 vulkan/a kamen/tub/o⟦火山/a 炉ᴷ/管/o⟧:【地質】火道
 vulkan/a konus/o⟦火山/a 锥/o⟧:【地質】火山円錐丘
 vulkan/bomb/o⟦火山/弹/o⟧:【地質】火山弾
-vulkan/iz/i⟦火山/化/i⟧:［他］【化】（ゴムに）加硫する##偽分解
-vulkan/iz/il/o⟦火山/化/具/o⟧:加硫装置##偽分解
-vulkan/iz/o⟦火山/化/o⟧:【化】加硫##偽分解
+vulkan/iz/i⟦硫ⱽ/化/i⟧:［他］【化】（ゴムに）加硫する##偽分解
+vulkan/iz/il/o⟦硫ⱽ/化/具/o⟧:加硫装置##偽分解
+vulkan/iz/o⟦硫ⱽ/化/o⟧:【化】加硫##偽分解
 vulkan/o⟦火山/o⟧:{Ｂ}【地質】火山
 Vulkan/o:【神】ウルカヌス,バルカン（ローマ神話の火と鍛冶の神）,>>Hefesto
 vulkan/polv/o⟦火山/尘/o⟧:【地質】火山塵;火山灰
@@ -47241,7 +47241,7 @@ endokrin/o/log/o⟦内分泌/o/学家/o⟧:【PIV】Specialisto pri endokrinolog
 endokrin/o/logi/o⟦内分泌/o/学ᴸᴳ/o⟧:【PIV】Studo de la endokrinaj glandoj, de iliaj perturboj k de la malsanoj kau^zataj de tiuj c^i.##偽分解
 endo/morfi/o⟦内ᴱᴰ/形ᴹᴵ/o⟧:【数】【PIV】Homomorfio de objekto al g^i mem.##偽分解(PIV正式分解)
 endorfin/o:【生】【PIV】Peptido, produktata de iuj neu^ronoj de encefalo, kiu inhibas la dolorsenton.
-endo/skop/i/o⟦内ᴱᴰ/镜ˢᴷ/i/o⟧:【PIV】Ekzamenado per endoskopo.
+endo/skop/i/o⟦内ᴱᴰ/镜ˢᴷ/i/o⟧:【PIV】Ekzamenado per endoskopo.##偽分解(PIV正式分解)
 endo/sperm/o⟦内ᴱᴰ/种ˢᴿ/o⟧:【植】【PIV】Nutraj^rezerva, unuploida histo de la semo de la gimnospermoj, kiu c^irkau^as k nutras la embrion dum la g^ermado, k kiu homologas al inseksa gametofito. Vd albumeno, perispermo.##偽分解(PIV正式分解)
 endoteli/o:【解】【PIV】Histo simila al epitelio, konsistanta el unu tavolo de plataj c^eloj k teganta la internon de la vaskuloj k serozoj.
 Ene/id/o:【PIV】Ido de Eneo.
@@ -50032,8 +50032,8 @@ karb/o/stak/o⟦炭/o/垛/o⟧:【PIV】Stako el ligno, por fari ligno karbon.
 karbam/o:【化】【PIV】Radiko de karbamata acido (en kunmetaj^oj).
 karbamid/o⟦尿素ᴷ/o⟧:【化】【PIV】(ark. (arkaismo, arkaisme)) = ureo.
 karbaz/o:【化】【PIV】Radiko de: karbazido = Dihidrazido de karbonata acido, O=C(NH-NH 2) 2; karbazono = Produkto de la reakcio inter ketono au^ aldehido k karbazido.
-karbazid/o:【化】【PIV】Dihidrazido de karbonata acido, O=C(NH-NH 2) 2.
-karbazon/o:【化】【PIV】Produkto de la reakcio inter ketono au^ aldehido k karbazido.
+karbaz/id/o⟦karbaz/子/o⟧:【化】【PIV】Dihidrazido de karbonata acido, O=C(NH-NH 2) 2.##偽分解(PIV正式分解)
+karbaz/on/o:【化】【PIV】Produkto de la reakcio inter ketono au^ aldehido k karbazido.##偽分解(PIV正式分解)##過細分解 karbaz/o/n/o
 karbazol/o:【化】【PIV】Tricikla hidrokarbono, dibenzopirolo, C 12 H 9 N, trovebla en karba gudro.
 karben/o:【化】【PIV】La tre reakciema radikalo CH 2:, kun du neparig^intaj elektronoj: karbenoj estas gravaj sintezreakciantoj.
 karbinol/o:【化】【PIV】La radikalo ⪫C-OH: substituitaj karbinoloj do povas esti rigardataj kiel derivaj^oj de metanolo.
@@ -51948,7 +51948,7 @@ metabol/ig/i⟦代谢/使/i⟧:【PIV】Transformi substancon per la metabolo.
 metadon/o:【PIV】Sinteza analogo de morfino, uzata anst. (anstatau^) morfino en antidroga kuracado.
 meta/faz/o⟦超ᴹ/相ᶠ/o⟧:【生】【PIV】Fazo de mitozo k mejozo, dum kiu la kromosomoj arang^ig^as c^e la ekvatoro de la c^elspindelo.##偽分解(PIV正式分解)
 metafoni/o:【語】【PIV】Modifo de vokalo sub la influo de najbara vokalo.
-metakarp/a⟦掌骨/a⟧:【PIV】Rilata al metakarpo. Vd metatarso.
+meta/karp/a⟦超ᴹ/腕ᴷ/a⟧:【PIV】Rilata al metakarpo. Vd metatarso.##偽分解(PIV正式分解)
 metal/i⟦金ᴹ/i⟧:【PIV】Tegi per maldika tavolo da metalo.
 metal/don/a⟦金ᴹ/给/a⟧:【PIV】Liveranta metalon: metaldona grundo, erco.
 metaldehid/o:【化】【PIV】Polimero de acetaldehido, (CH 3-CHO) n, blanka solida substanco, pasintece uzata kiel brulaj^o, nun por mortigi limakojn k helikojn en g^ardenoj.
@@ -52035,7 +52035,7 @@ miko/plasm/o⟦菌ᴹ/浆/o⟧:【生】【PIV】G. (Genro) (Mycoplasma el mikop
 miko/plasm/oj⟦菌ᴹ/浆/oj⟧:【PIV】Mikoplasmaloj k du parencaj ordoj.##偽分解##エス的分解
 miko/plasm/al/oj⟦菌ᴹ/浆/al/oj⟧:【PIV】Ordo (Mycoplasmatales) de tre malgrandaj, multformaj eu^bakterioj senmovaj, senmuraj, saprofitaj, kunvivaj au^ parazitaj, iuj patogenaj al homoj k bestoj.##偽分解##エス的分解##過細分解 miko/plasm/a/l/oj
 mikoriz/o⟦菌ᴹᶻ/o⟧:【植】【PIV】Simbioza, nepatogena au^ neforte patogena asocio de fungo kun la radikoj de planto.
-mikro/skop/i/o⟦微/镜ˢᴷ/i/o⟧:【PIV】Esploro pere de mikroskopo.
+mikro/skop/i/o⟦微/镜ˢᴷ/i/o⟧:【PIV】Esploro pere de mikroskopo.##偽分解
 mikrob/a⟦细菌/a⟧:【PIV】Rilata al mikroboj, kau^zata de ili: mikroba malsano, fermentado.
 mikrob/ism/o⟦细菌/主义/o⟧:【医】【PIV】Stato de la mikroba flau^ro en organismo au^ en organika medio.
 mikrob/o/logi/o⟦细菌/o/学ᴸᴳ/o⟧:【PIV】Studo pri la mikroboj k ilia agado. Sin. (sinonimo) mikrobiologio.##偽分解
@@ -52260,7 +52260,7 @@ mugil/oid/oj⟦鱼ᴹᴳ/似ᴼ/oj⟧:【動】【PIV】Subordo (Mugiloides) de 
 mug^/o⟦吼/o⟧:【PIV】Tia bleko au^ sono.
 mukor/o⟦菌ᴹᴿ/o⟧:【植】【PIV】G. (Genro) (Mucor el mukoracoj el zigomicetoj) de mikroskopaj fungoj, kies sporoj produktig^as en globforma sporujo portata de pedunkleto simpla au^ branc^a; kosmopolita g. (genro) de c^. (c^irkau^) 50 sp-oj (specioj) oftaj sur putrantaj substancoj, ekz. (ekzemple) plantpartoj, malnova pano ks (kaj simile, kaj similaj). see pans^imo.
 mukor/al/oj⟦菌ᴹᴿ/al/oj⟧:【菌】【PIV】Ordo (Mucorales el zigomicetoj) de mikroskopaj, g^enerale saprejaj fungoj; 170 sp-oj (specioj) el 49 g-oj (genroj).##偽分解(PIV正式分解)##過細分解 mukor/a/l/oj
-muk/oz/aj^/o⟦粘/症ᴼ/物/o⟧:【PIV】Amaso da viskeca substanco kiu tegas iujn mukozojn, k konsistas precipe el muko, sed ankau^ el deskvamig^intaj c^eloj k mikroboj.
+muk/oz/aj^/o⟦粘/症ᴼ/物/o⟧:【PIV】Amaso da viskeca substanco kiu tegas iujn mukozojn, k konsistas precipe el muko, sed ankau^ el deskvamig^intaj c^eloj k mikroboj.##偽分解
 mukr/o:【植】【PIV】(mucro) Mallonga, rigida pinto c^e la apekso de organo, i.a. (interalie, inter aliaj) folio, petalo au^ sepalo.
 muleta/o:【PIV】Rug^a tuko, ligita al bastono k uzata de matadoro dum tau^robatalo por instigi la tau^ron al difinitaj alkuroj.
 mult/eg/o⟦多/巨/o⟧:【PIV】Tre granda kvanto: multego da diamantoj , da kreditoroj .
@@ -52823,8 +52823,8 @@ Oris/i/o:【PIV】Unu el la s^tatoj de Hinda Unio (Bhubaneswar, 85°52′E, 20°
 oriz/o⟦草ᴼᴿ/o⟧:【植】【PIV】G. (Genro) (Oryza el poacoj) tropika de 18 sp-oj (specioj).
 orkestr/ad/o⟦乐ᴼ/行/o⟧:【PIV】Ago au^ arto orkestri.
 orkid/ac/oj⟦兰/科ᴬ/oj⟧:【植】【PIV】Fam. (Familio) (Orchidaceae) de plurjaraj, epifitaj au^ grundolog^aj herboj kun duseksaj (malofte unu-, esceptokaze sen-seksaj), epiginaj floroj, karakterizataj de 3 sepaloj ofte petalecaj, de 3 petaloj - la meza (Vd labelo) g^enerale pli granda ol la du flankaj -, de androceo (kun nur unu au^ du reproduktig^aj stamenoj; Vd retinaklo) kunig^inta kun la stiluso (Vd ginostemo) k de ovario 1-, malofte 3-kamera; kosmopolita fam. (familio) de c^. (c^irkau^) 18 500 sp-oj (specioj) el 788 g-oj (genroj), i.a. (interalie, inter aliaj) orkido, angreko, bletio, cipripedio, epidendro, katlejo, neotio, ofrio, spiranteso, vanilo. Sin. (sinonimo) orkideoj.
-orkid/ektomi/o⟦兰/除ᴱᴷ/o⟧:【PIV】Fortranc^o de testiko.##偽分解(PIV正式分解)
-orkid/o/terapi/o⟦兰/o/疗/o⟧:【PIV】Terapio per ekstraktoj el testikoj.##偽分解
+orkid/ektomi/o⟦丸ᴼ/除ᴱᴷ/o⟧:【PIV】Fortranc^o de testiko.##偽分解(PIV正式分解)
+orkid/o/terapi/o⟦丸ᴼ/o/疗/o⟧:【PIV】Terapio per ekstraktoj el testikoj.##偽分解
 Orleani/o:【PIV】Regiono c^irkau^ tiu urbo.
 orlon/o:【化】【PIV】Artefarita rezino, poliakrilonitrilo, uzata por fari lanosimilajn fadenojn por trikaj^oj, fibrojn por tapis^oj ks (kaj simile, kaj similaj). Vd nilono.
 orlop/o:【PIV】La plej malsupra ferdeko de kvarferdeka s^ipo.
@@ -55342,9 +55342,9 @@ spor/ar/o⟦胞子/群/o⟧:【植】【PIV】Tuto de la sporoj.
 spor/o/fit/o⟦胞子/o/植ᶠ/o⟧:【植】【PIV】(pp (se paroli pri) plantoj havantaj alternadon de generacioj) Duploida generacio de planto, kiu devenas el la zigoto k ofte produktas sporojn (mejozajn k ofte ankau^ mitozajn). Vd gametofito.##偽分解(PIV正式分解)
 spor/angi/o⟦胞子/脉ᴬᴺ/o⟧:【植】【PIV】Organo au^ c^elo, ene produktanta sporojn: plurc^ela sporangio (c^e la pteridofitoj), unuc^ela sporangio (c^e iuj kromistoj, malsuperaj plantoj k malsuperaj fungoj).##偽分解
 spor/o/goni/o⟦胞子/o/源ᴳᴼ/o⟧:【植】【PIV】Sporofito de la briofitoj (muskoj k hepatmuskoj), tipe konsistanta el pedunkleto portanta kapsulon, en kiu formig^as sporoj.##偽分解
-spor/o/trik/o⟦胞子/o/织ᵀᴿ/o⟧:【植】【PIV】G. (Genro) (Sporothrix) de neperfektaj fungoj; 23 tre disvastig^intaj sp-oj (specioj), el kiuj S. schenkii estigas sporotrikozon.##偽分解##エス的分解
-spor/o/trik/oz/o⟦胞子/o/织ᵀᴿ/症ᴼ/o⟧:【医】【PIV】Parazita malsano, kau^zata de sp. de sporotriko k karakterizata de etaj gumabscesoj.##偽分解##エス的分解
-spor/o/trik/um/o⟦胞子/o/织ᵀᴿ/um/o⟧:【植】【PIV】G. (Genro) (Sporotrichum) kosmopolita de c^. (c^irkau^) 40 sp-oj (specioj) de neperfektaj fungoj.##偽分解##エス的分解
+spor/o/trik/o⟦胞子/o/毛ᵀ/o⟧:【植】【PIV】G. (Genro) (Sporothrix) de neperfektaj fungoj; 23 tre disvastig^intaj sp-oj (specioj), el kiuj S. schenkii estigas sporotrikozon.##偽分解##エス的分解
+spor/o/trik/oz/o⟦胞子/o/毛ᵀ/症ᴼ/o⟧:【医】【PIV】Parazita malsano, kau^zata de sp. de sporotriko k karakterizata de etaj gumabscesoj.##偽分解##エス的分解
+spor/o/trik/um/o⟦胞子/o/毛ᵀ/um/o⟧:【植】【PIV】G. (Genro) (Sporotrichum) kosmopolita de c^. (c^irkau^) 40 sp-oj (specioj) de neperfektaj fungoj.##偽分解##エス的分解
 spor/o/zo/oj⟦胞子/o/兽ᶻ/oj⟧:【PIV】Vd (vidu) zoo ①.##偽分解(PIV正式分解)
 sport/ul/o⟦体ˢ/者/o⟧:【PIV】Tiu, kiu praktikas iun sporton: vera sportisto, k krome inteligenta.
 spot/o:【PIV】Malgranda lumj^etilo, produktanta luman makulon au^ radion sur apartan lokon de la scenejo.
@@ -56642,7 +56642,7 @@ uretan/o:【化】【PIV】NH 2-COO-R (en kiu R= radiko), estero de karbamata ac
 ureus/o:【史】【PIV】Kapvesto de egiptaj dioj k reg^oj, en formo de kobro.
 urg^/ist/oj⟦急/家/oj⟧:【医】【PIV】Kuracistoj, medicinistoj, flegistoj laborantaj en urg^ejo pri la kolektado, kuracado k tau^ga orientado (por post urg^a kuracado) de la viktimoj.
 uri/o⟦鸟ᵁᴿ/o⟧:【動】【PIV】G. (Genro) (Uria) de birdoj el la ordo de karadriformaj, fam. (familio) de au^kedoj, kun longa pinta beko.
-urin/at/o⟦尿/被/o⟧:【PIV】= urato.##偽分解(PIV正式分解)
+urin/at/o⟦尿/盐ᴬ/o⟧:【PIV】= urato.##偽分解(PIV正式分解)
 urin/o/logi/o⟦尿/o/学ᴸᴳ/o⟧:【医】【PIV】Studo de la urinoj.##偽分解
 urin/o/metr/o⟦尿/o/计ᴹ/o⟧:【医】【PIV】Ilo por mezuri la relativan denson de urino.##偽分解
 urin/ore/o⟦尿/ore/o⟧:【医】【PIV】Nenormala trourinado.##偽分解(PIV正式分解)
@@ -56964,7 +56964,7 @@ vol/et/o⟦愿/小/o⟧:【PIV】Ne plenumita, pasema volo: li havis nur voletoj
 Volfgang/o:【PIV】Germana vira nomo.
 volovan/et/o⟦酥盒/小/o⟧:【PIV】Malgranda volovano.
 volta/a:【電】【PIV】Produktata de baterio au^ pilo: voltaa elektro.
-voltametr/o:【電】【PIV】Aparato por mezuri la kvanton de elektro per la kvanto de substanco, kiu estas elektrokemie liberigata c^e elektrodo en elektrolito.
+volta/metr/o⟦volta/计ᴹ/o⟧:【電】【PIV】Aparato por mezuri la kvanton de elektro per la kvanto de substanco, kiu estas elektrokemie liberigata c^e elektrodo en elektrolito.##偽分解(PIV正式分解)
 volte/o:【PIV】Rondira turno, kiun rajdanto trudas al sia c^evalo.
 Volter/a:【PIV】1 Rilata al Voltero: la Volteraj noveloj. 2 (min. (minuskle)) Vigla k pikanta: voltera stilo, ironio.
 Volter/an/o:【PIV】Tiu, kiu sekvas la vojon de Voltero, k montras ironian dubon pri kristanismo k konservativismo: tiel arang^is jam Dio mem, k la Volteranoj vane kontrau^ tio c^i parolas .
@@ -58717,7 +58717,7 @@ mal/gaj/o⟦反/欢/o⟧:【PIV】Stato de iu, io malgaja: en tiaj okuloj malgaj
 mal/gaj/ig/i⟦反/欢/使/i⟧:【PIV】Fari iun, ion malgaja: la patrina malpermeso tuj malgajigis la infanon.
 kron/gajl/o⟦冠/树瘤/o⟧:【植】【PIV】Plantmalsano, karakterizata de la disvolvig^o de kancersimilaj s^velaj^oj, gajloj au^ tumoroj, estigataj de agrobakterio.
 pir/o/gajl/o⟦火ᴾ/o/树瘤/o⟧:【PIV】(evi (evitinda)) = pirogajlolo.##偽分解(PIV正式分解)##過細分解 p/i/r/o/gajl/o
-pir/o/gajl/ol/o⟦梨/o/树瘤/ol/o⟧:【化】【PIV】1,2,3-trihidroksi-benzeno, C 6 H 3 (OH) 3, produkto de la pirolizo de gajlata acido kun perdo de CO 2; g^i estas grava fotografia rivelanto.##偽分解(PIV正式分解)##過細分解 p/i/r/o/gajl/o/l/o
+pir/o/gajl/ol/o⟦火ᴾ/o/树瘤/ol/o⟧:【化】【PIV】1,2,3-trihidroksi-benzeno, C 6 H 3 (OH) 3, produkto de la pirolizo de gajlata acido kun perdo de CO 2; g^i estas grava fotografia rivelanto.##偽分解(PIV正式分解)##過細分解 p/i/r/o/gajl/o/l/o
 re/gajn/i⟦再/赢/i⟧:【PIV】Denove gajni: li regajnis c^iom, kiom li antau^e perdis; (f (figurasence)) tio c^i povus helpi al la regajno de Ostwald por nia afero .
 sen/gal/ec/o⟦无/胆/性/o⟧:【医】【PIV】Manko de galsekrecio pro perturbo de la hepata funkcio. Sin. (sinonimo) akolio.
 for/galop/i⟦离/驰/i⟧:【PIV】Forkuri galope.
@@ -59161,7 +59161,7 @@ h^or/kandel/o⟦合唱/烛/o⟧:【PIV】Kandelo 2.
 s^rau^b/in/kanel/o⟦螺/女/槽ᴷ/o⟧:【PIV】Helica kanelo de s^rau^bingo, s^rau^bino, juntmuflo ks (kaj simile, kaj similaj).
 s^rau^b/kanel/il/o⟦螺/槽ᴷ/具/o⟧:【PIV】Ilo por fari s^rau^b kanelon, au^ viran (Sin. (sinonimo) s^rau^bigilo) au^ inan (Sin. (sinonimo) s^rau^binigilo).
 gulas^/kanon/o⟦煮牛/炮/o⟧:【PIV】(fm (familiara, familiare)) Militira veturilkuirejo.
-du/a/kanon/a⟦二/a/炮/a⟧:【PIV】Rilata al libroj de la Malnova Testamento (ekz. (ekzemple) Makabeoj, Tobio, Sag^o…), kiuj ne apartenas al la kanono de judismo, k kiujn agnoskas ne c^iuj kristanaj eklezioj.
+du/a/kanon/a⟦二/a/典ᴷᴺ/a⟧:【PIV】Rilata al libroj de la Malnova Testamento (ekz. (ekzemple) Makabeoj, Tobio, Sag^o…), kiuj ne apartenas al la kanono de judismo, k kiujn agnoskas ne c^iuj kristanaj eklezioj.
 ek/kant/et/i⟦始/唱/小/i⟧:【PIV】Komenci kanti: la najtingalo denove ekkantis ; ekkanti himnon; k malfermante la pordon s^i ekkantetis ian francan kanton .
 kun/kant/i⟦共/唱/i⟧:【PIV】Kanti kun alia(j): la birdoj kantis k la konfirmitoj kunkantis .
 dank/o/kant/o⟦谢/o/唱/o⟧:【PIV】Religia kanto, por Dion danki.
@@ -59193,9 +59193,9 @@ si/n/kapt/ad/o⟦己/n/捕/行/o⟧:【PIV】Provado kapti sin reciproke: papili
 divers/karakter/aj⟦杂/格/aj⟧:【PIV】Prezentantaj diversajn karakterojn: kolekto da plej diverskarakteraj pecoj k artikoloj .
 fulg/o/karb/o⟦烟灰/o/炭/o⟧:【PIV】Bitumhava karbo, donanta dikan fulgon.
 ost/o/karb/o⟦骨/o/炭/o⟧:【PIV】Karbaj^o, ricevita per karbigo de ostoj k karno en fermita ujo.
-du/on/karbazid/o⟦二/分/karbazid/o⟧:【PIV】Semi karbazido.
-semi/karbazid/o⟦半ˢ/karbazid/o⟧:【化】【PIV】Hidrazido de karbamata acido, H 2 N-(CO)-NH-NH 2.
-semi/karbazon/o⟦半ˢ/karbazon/o⟧:【化】【PIV】Produkto de la reakcio de semi karbazido kun ketono au^ aldehido: semikarbazonoj estas gravaj derivaj^oj en organika analiza kemio.
+du/on/karbaz/id/o⟦二/分/karbaz/子/o⟧:【PIV】Semi karbazido.##偽分解(PIV正式分解)
+semi/karbaz/id/o⟦半ˢ/karbaz/子/o⟧:【化】【PIV】Hidrazido de karbamata acido, H 2 N-(CO)-NH-NH 2.##偽分解(PIV正式分解)
+semi/karbaz/on/o⟦半ˢ/karbaz/on/o⟧:【化】【PIV】Produkto de la reakcio de semi karbazido kun ketono au^ aldehido: semikarbazonoj estas gravaj derivaj^oj en organika analiza kemio.##偽分解(PIV正式分解)##過細分解 semi/karbaz/o/n/o
 poli/karbon/at/o⟦多ᴾ/碳/盐ᴬ/o⟧:【PIV】Malmola travidebla plasto, uzata anstatau^ vitro.##偽分解(PIV正式分解)
 hidr/o/karbon/at/o⟦水ᴴ/o/碳/盐ᴬ/o⟧:【PIV】Acida karbonato.##偽分解(PIV正式分解)##過細分解 h/i/d/r/o/karbon/at/o
 klor/fluor/karbon/o⟦氯/气ᶠ/碳/o⟧:【PIV】Kn (Kolektiva nomo) de alkanderivaj^oj, diferencaj pro la nombro de atomoj de kloro k fluoro, ekz. (ekzemple) CCl 3 F, CCl 2 F 2, C 2 Cl 2 F 4, k uzataj i.a. (interalie, inter aliaj) kiel malvarmigaj^o en fridujoj, pasintece kiel premgaso en s^prucflakonoj: klorfluor karbonoj estas tre persistaj k detruas la ozontavolon en stratosfero. Sin. (sinonimo) freono.
@@ -59323,7 +59323,7 @@ en/klostr/ig/i⟦内/修院/使/i⟧:【PIV】Enirigi en monah^(in)ejon.
 flug/o/klub/o⟦飞/o/社ᴷ/o⟧:【PIV】Centro de formado k trejnado por civilaj pilotoj.
 radi/o/klub/o⟦射ᴿ/o/社ᴷ/o⟧:【PIV】Klubo de radioamatoroj.
 kontrau^/knal/o⟦对/啪ᴷᴺ/o⟧:【PIV】Sonalterno.
-plum/knar/i⟦羽/吱/i⟧:【PIV】Fari knaran bruon per ferplumo sur papero: plumknaristoj! (neaprobindaj verkistoj).
+plum/knar/i⟦笔ᴾᴸ/吱/i⟧:【PIV】Fari knaran bruon per ferplumo sur papero: plumknaristoj! (neaprobindaj verkistoj).
 anti/koagul/ant/o⟦抗ᴬ/凝ᴷᴳ/在/o⟧:【生】【医】【PIV】Substanco, kiu malhelpas la sangokoagulig^on, ekz. (ekzemple) heparino.
 tro/koagul/ig^/em/o⟦太/凝ᴷᴳ/成/倾/o⟧:【医】【PIV】Troa emo de la sango al koagulig^ado. Vd hemofilio.
 krac^/kobr/o⟦吐ᴷ/眼镜蛇/o⟧:【PIV】Kn (Kolektiva nomo) de kelkaj sp-oj (specioj) de kobro (ekz. (ekzemple) Naja nigricollis), kiuj krac^as sian venenon g^is distanco de 2−3 m.
@@ -60443,8 +60443,8 @@ pri/pluk/i⟦于/摘/i⟧:【PIV】Eltiri per ruzo au^ trompo monon de iu: li pr
 pik/pluk/i⟦刺/摘/i⟧:【PIV】(tr (transitiva)) Pluki per rapidaj, sinsekvaj pikoj, kiel kokinoj, kolomboj.
 bek/plum/o⟦嘴/羽/o⟧:【動】【PIV】C^iu el la hirtaj plumoj c^e la bazo de la beko de iuj birdoj, ekz. (ekzemple) otido k gipaeto.
 faden/plum/o⟦丝ᶠ/羽/o⟧:【動】【PIV】C^iu el la hirtaj, harsimilaj (pro reduktig^o au^ malesto de plumeroj), sensivaj plumoj precipe c^e la bazo de la beko k apud la okuloj de diversaj birdoj. Sin. (sinonimo) vibriso 3.
-skrib/o/plum/o⟦书ˢ/o/羽/o⟧:【PIV】Plumo 4.
-tub/o/plum/o⟦管/o/羽/o⟧:【PIV】Skribo plumo kun tubeto anst. (anstatau^) pinto, ebliganta strekojn kun difinita regula larg^o: la plej simplaj tubo plumoj estis ekipitaj per funelformaj inkujetoj po unu.
+skrib/o/plum/o⟦书ˢ/o/笔ᴾᴸ/o⟧:【PIV】Plumo 4.
+tub/o/plum/o⟦管/o/笔ᴾᴸ/o⟧:【PIV】Skribo plumo kun tubeto anst. (anstatau^) pinto, ebliganta strekojn kun difinita regula larg^o: la plej simplaj tubo plumoj estis ekipitaj per funelformaj inkujetoj po unu.
 pri/pluv/i⟦于/雨/i⟧:【PIV】(tr (transitiva)) Akvumi per pluvo: unu kampo estis pripluvata, k alia, ne pripluvita, elsekig^is .
 neg^/o/pluv/o⟦雪/o/雨/o⟧:【PIV】Falado de malseka neg^o.
 or/pluv/o⟦金/雨/o⟧:【PIV】Laburno.
@@ -60563,7 +60563,7 @@ mal/proksim/o⟦反/近/o⟧:【PIV】Spaco au^ tempo mal proksima.
 mult/e/promes/a⟦多/e/诺/a⟧:【PIV】Tia, ke g^i entenas multajn promesojn: dikaj libroj kun plej lau^taj k multepromesaj frazoj ; promesplena elpensaj^o.
 felic^/promes/oj⟦幸/诺/oj⟧:【PIV】La ok promesoj de felic^o, en la evangelio (Mateo V, 3-11).
 izo/prop/il/o⟦等ᴵ/丙/基/o⟧:【化】【PIV】La radiko (CH 3) 2 CH-: izopropilbenzeno, C 6 H 5-CH(CH 3) 2.##偽分解(PIV正式分解)
-izo/propol/o⟦等ᴵ/propol/o⟧:【PIV】2-propanolo.##偽分解
+izo/prop/ol/o⟦等ᴵ/丙/ol/o⟧:【PIV】2-propanolo.##偽分解(PIV正式分解)##過細分解 izo/prop/o/l/o
 al/propr/ig/i⟦向/己ᴾ/使/i⟧:【PIV】Transigi posedaj^on de unu persono al alia.
 flav/o/protein/o⟦黄/o/蛋白/o⟧:【PIV】Enzimo, rolanta en la c^elaj oksido-reduktoj k enhavanta kunenzimon devenantan el riboflavino.
 glik/o/protein/o⟦糖ᴳᴵ/o/蛋白/o⟧:【PIV】Hetero proteino kun glucida parto.
@@ -60761,7 +60761,7 @@ kluc^/o/risort/o⟦合ᴷᴸ/o/弹簧/o⟧:【PIV】Risorto, kiu fiksotenas la d
 mis/ritm/o⟦误/律ᴿ/o⟧:【医】【PIV】Neregula korbatado.
 fis^/riz/aj^/o⟦鱼/米ᴿ/物/o⟧:【PIV】Hinddevena mang^aj^o el rizaj^o, bakitaj fis^pecoj k g^ismalmole boligitaj ovoj.
 tualet/rob/o⟦妆/袍/o⟧:【PIV】Malpeza surtuto, kiun virinoj surmetas, por s^irmi sian veston dum la tualetado.
-el/rod/ig^/i⟦出/啃/成/i⟧:【PIV】Esti forportata de la ventoj ekster rodo.
+el/rod/ig^/i⟦出/泊/成/i⟧:【PIV】Esti forportata de la ventoj ekster rodo.
 sen/rok/ig/i⟦无/岩/使/i⟧:【PIV】Forigi la rokpecojn el grundo au^ fluejo.
 sur/rok/a⟦上/岩/a⟧:【PIV】Farita sur roko: sur rokaj pentraj^oj.
 rok/o⟦岩/o⟧:【楽】【PIV】Popolmuziko usondevena, naskita el rokenrolo en la 60aj jaroj de la 20a jc (jarcento).
@@ -61481,8 +61481,8 @@ tro/mal/tim/a⟦太/反/怕/a⟧:【PIV】Temerara.
 di/o/tim/o⟦神/o/怕/o⟧:【PIV】Sento de respekto k obeemo al Dio: profunde enradikig^is la diotimo de la hebreoj de B. .
 mal/timid/a⟦反/怯/a⟧:【PIV】Havanta tro da seng^eneco, da au^daco en societo.
 ek/tint/i⟦始/鸣/i⟧:【PIV】Subite tinti: tia malbono, ke c^e c^iu, kiu tion au^dos, ektintos en ambau^ liaj oreloj .
-di/tionat/o⟦二ᴰᴵ/硫ᵀ/o⟧:【化】【PIV】Salo de ditionata acido, H 2 O 6 S 2, unu el la politionataj acidoj.##偽分解##過細分解 d/i/tionat/o
-tetra/tionat/o⟦四ᵀᴬ/硫ᵀ/o⟧:【化】【PIV】Salo de tetrationata acido, H 2 O 6 S 4.##偽分解
+di/tion/at/o⟦二ᴰᴵ/tion/盐ᴬ/o⟧:【化】【PIV】Salo de ditionata acido, H 2 O 6 S 2, unu el la politionataj acidoj.##偽分解(PIV正式分解)##過細分解 d/i/t/i/o/n/at/o
+tetra/tion/at/o⟦四ᵀᴬ/tion/盐ᴬ/o⟧:【化】【PIV】Salo de tetrationata acido, H 2 O 6 S 4.##偽分解(PIV正式分解)##過細分解 tetra/t/i/o/n/at/o
 norm/o/tip/o⟦范/o/型/o⟧:【PIV】= prototipo 2.
 pres/tip/o⟦印/型/o⟧:【PIV】= tipo 3, 4.
 ser/o/tip/o⟦血清/o/型/o⟧:【生】【PIV】Genotipo distingebla per aglutino au^ neaglutino de c^eloj au^ molekuloj fare de sera antikorpo.

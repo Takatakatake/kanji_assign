@@ -8614,8 +8614,8 @@
   vizier         檐ⱽ         F=3     pejvo   
 
 【毫】 2件
-  milimetr       毫          F=0     basic   
-  mili           毫ᴹᴵ        F=6     pejvo   
+  mili           毫          F=6     pejvo   
+  milimetr       毫ᴹᴹ        F=0     basic   
 
 【气管】 2件
   trake          气管         F=6     pejvo   

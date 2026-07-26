@@ -135,6 +135,18 @@ foreach($ln in ($ex -split "`r?`n")){ if($ln -match '^\[L\]' -or $ln -match '^\s
 if($ex -notmatch '\[L\]'){ Say "[L] 配信エクスポート同期: 実行不可(要 python + _audit_export_sync.py)"; $fail=1 }
 elseif($ex -match '★描画が食い違う行|行数不一致|存在しない'){ $fail=1; Say "    !! 配信エクスポートが古い → python _gen_export.py で再生成してからコミット" }
 
+# --- [M] 台帳の死にキー監査(2026-07-27 第15レンズで新設) ---
+# homonym台帳の sep 行は「見出し語リスト」で適用範囲を決めるので、**正本が分解を細かくして見出し綴りが
+# 変わると、語リストのキーだけが古いまま残り、規則が静かに不発火になる**。実際に3回起きている:
+#   pir/o/gajlol/o→pir/o/gajl/ol/o(火ᴾ→梨) / di/tionat/o→di/tion/at/o(二ᴰᴵ→神) / tetra/tionat/o→tetra/tion/at/o(四ᵀᴬ→野鸡)
+# 「スラッシュを除くと同じ綴りの生きた見出しがあり・その見出しが当該分節を持ち・まだ語リストに無い」
+# ものだけを報告する。基準4=別ルート(化学inline rule)で既に正しく描画されている既知の4件
+# (makro/fag/o=宏ᴹ/吞 は $fagEat、di/met/oksi/fen/ol/o=二/甲/氧 は化学di-/met-のinline ruleが担当)。
+$dk = & python "$dir\_audit_ledger_deadkeys.py" 4 *>&1 | Out-String
+foreach($ln in ($dk -split "`r?`n")){ if($ln -match '^\[M\]' -or $ln -match '^\s+★' -or $ln -match '^\s+!!'){ Say $ln } }
+if($dk -notmatch '\[M\]'){ Say "[M] 台帳死にキー: 実行不可(要 python + _audit_ledger_deadkeys.py)"; $fail=1 }
+elseif($dk -match '!!'){ $fail=1 }
+
 # --- 総括 ---
 $verdict='全PASS(健全・同期も最新)'
 if($fail -ne 0){ $verdict='要対応(ハード違反あり)' } elseif($drift -ne 0){ $verdict='不変条件PASSだが WSL再同期推奨' } elseif($newInc -ne '0' -and $newInc -ne '?'){ $verdict='不変条件PASSだが 新規偽分解不整合の点検推奨' }

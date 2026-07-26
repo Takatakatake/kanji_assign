@@ -60563,7 +60563,7 @@ mal/proksim/o:【PIV】Spaco au^ tempo mal proksima.
 mult/e/promes/a:【PIV】Tia, ke g^i entenas multajn promesojn: dikaj libroj kun plej lau^taj k multepromesaj frazoj ; promesplena elpensaj^o.
 felic^/promes/oj:【PIV】La ok promesoj de felic^o, en la evangelio (Mateo V, 3-11).
 izo/prop/il/o:【化】【PIV】La radiko (CH 3) 2 CH-: izopropilbenzeno, C 6 H 5-CH(CH 3) 2.##偽分解(PIV正式分解)
-izo/propol/o:【PIV】2-propanolo.##偽分解
+izo/prop/ol/o:【PIV】2-propanolo.##偽分解(PIV正式分解)##過細分解 izo/prop/o/l/o
 al/propr/ig/i:【PIV】Transigi posedaj^on de unu persono al alia.
 flav/o/protein/o:【PIV】Enzimo, rolanta en la c^elaj oksido-reduktoj k enhavanta kunenzimon devenantan el riboflavino.
 glik/o/protein/o:【PIV】Hetero proteino kun glucida parto.
@@ -61481,8 +61481,8 @@ tro/mal/tim/a:【PIV】Temerara.
 di/o/tim/o:【PIV】Sento de respekto k obeemo al Dio: profunde enradikig^is la diotimo de la hebreoj de B. .
 mal/timid/a:【PIV】Havanta tro da seng^eneco, da au^daco en societo.
 ek/tint/i:【PIV】Subite tinti: tia malbono, ke c^e c^iu, kiu tion au^dos, ektintos en ambau^ liaj oreloj .
-di/tionat/o:【化】【PIV】Salo de ditionata acido, H 2 O 6 S 2, unu el la politionataj acidoj.##偽分解##過細分解 d/i/tionat/o
-tetra/tionat/o:【化】【PIV】Salo de tetrationata acido, H 2 O 6 S 4.##偽分解
+di/tion/at/o:【化】【PIV】Salo de ditionata acido, H 2 O 6 S 2, unu el la politionataj acidoj.##偽分解(PIV正式分解)##過細分解 d/i/t/i/o/n/at/o
+tetra/tion/at/o:【化】【PIV】Salo de tetrationata acido, H 2 O 6 S 4.##偽分解(PIV正式分解)##過細分解 tetra/t/i/o/n/at/o
 norm/o/tip/o:【PIV】= prototipo 2.
 pres/tip/o:【PIV】= tipo 3, 4.
 ser/o/tip/o:【生】【PIV】Genotipo distingebla per aglutino au^ neaglutino de c^eloj au^ molekuloj fare de sera antikorpo.
