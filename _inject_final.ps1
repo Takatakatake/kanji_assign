@@ -22,7 +22,32 @@ Get-Content "$dir\_homonym_disp.tsv" -Encoding UTF8 | Select-Object -Skip 1 | Fo
 }
 # 語釈scoped ルールで使う第2義disp(台帳から引く=識別子が再計算で変わっても自動追随。見つからなければ即throw=沈黙劣化を防ぐ)
 $karpAnat = $hsegDisp["karp`t腕"]; if(-not $karpAnat){ throw "[台帳不整合] karp→腕 の homonym 行が無い(_build_homonym.ps1 の meta/karp sep 行を確認)" }
-$chemAcid = @('acet','fosf','karbon','nitr','sulf','silik','silici','molibden','klor','brom','jod','krom','kromi','bor','arsen','fluor','volfram','vanad','selen','telur','antimon','tartr','sakar','cian','ur')  # 酸根(先頭分節判定用)。2026-07-23 WF round5: ur(尿酸uric acid)追加=ur/at/emi/o(尿酸血症)の -at→被(受動分詞)誤読を 盐 へ(兄弟fosf/at/emi/o=磷/盐ᴬ/血ᴱ と同型。ur/o=原牛は at/it無で不発火)。化学塩 X/at・X/it→酸根漢字+盐。tartr(酒石酸)/sakar(糖酸)は語釈に塩語が無い吐酒石(吐酒石のみ)等を取りこぼすため radical で確実化(2026-06-20)。kromi=クロム酸根/silici=ケイ酸根/cian=シアン酸根(di/kromi/at・silici/at・cian/at等。WSL細分解 2026-06-23)
+$lupPlant = $hsegDisp["lup`t豆"]; if(-not $lupPlant){ throw "[台帳不整合] lup→豆 の homonym 行が無い" }
+# --- 語釈scopedのラテン退避表(2026-07-26 第13レンズ) ---
+# 正本が ##偽分解(衝突語) と明示した行のうち、**同一見出しに正しい別義が同居する**ため word-scoped($segLat)では
+# 弁別できず、かつ現行描画が語釈と【無関係な別concept】になっている行を、語釈で限定してラテンへ退避する。
+# 方針§14 L319「衝突語が実meaningと無関係な別conceptなら是正・解釈可能な近縁なら据置」/ L337ⓑ「語釈scopedゲートを
+# 一群ずつ個別に」に従う。断片に他語根の字を貼ると§9の一意復号が壊れる(klement裁定)ため、原則ラテン退避とする。
+# 書式: 見出し(空白区切りの語単位) = @(語釈regex, ラテン化する分節...)
+$glossLat = @{
+  'fek/ul/o'        = @('amelfarun|でんぷん', 'fek', 'ul')      # 【料】=amelfaruno(澱粉)。粪ᶠ/者「くそ野郎」の行(同綴)は不発火で維持
+  'korv/et/o'       = @('コルベット', 'korv', 'et')             # 【軍】コルベット艦。【鳥】Monedo(コクマルガラス)の行は 鸦/小 が正で不発火
+  'estr/ad/o'       = @('podio|演壇', 'estr', 'ad')            # =podio(演壇)。統率/采配の行は 长ᴱ/行 が正で不発火
+  'halo/o'          = @('もしもし', 'halo')                     # ［間］もしもし!(電話)。【気】かさ・【写】ハレーションの行は 晕 が正で不発火
+  'medi/o'          = @('メディア（イラン', 'medi')              # 【史】メディア王国=固有名§7。環境/媒体/培地の行は 境 が正で不発火
+  'nomad/o'         = @('^命名', 'nomad')                      # 命名(=nom/ad/o が nomad へ融合した衝突)。遊牧民の行は 牧ᴺ が正で不発火。1分節ゆえ 名/行 に割れず退避のみ可能
+  'sum/er/o'        = @('シュメール', 'sum', 'er')              # 【史】シュメール=固有名§7。項目(=termo)の行は 总/粒 が正で不発火
+  'vel/ar/o'        = @('velsono|軟口蓋', 'vel', 'ar')         # 【声】軟口蓋音。【海】総帆・【天】ほ座は 帆/群 が正で不発火
+  'pak/tol/o'       = @('パクトロス', 'pak', 'tol')             # 【地名】パクトロス川=固有名§7。包装/布の一般義は不発火
+  'parti/o'         = @('パルティア', 'parti')                  # 【史】パルティア王国=固有名§7。政党/当事者の行は 党 が正で不発火
+  'part/o'          = @('パルティア', 'part')                   # 【史】パルティア人=固有名§7。部分/声部の行は 部 が正で不発火
+  'roman/o'         = @('ローマ', 'roman')                      # 【史】ローマ人/ローマ市民=固有名§7。小説/ロマンスの行は 小说 が正で不発火(ロマン/ロマネスクは『ローマ』を含まない)
+  'roman/a'         = @('ローマ', 'roman')                      # ローマ人の / ローマ数字(roman/a cifer/o の第1語)。小説の の行は不発火
+  'sud/an/o'        = @('【国名】スーダン|【地名】スーダン', 'sud', 'an')   # 固有名§7。=sudulo(南部の人)の行は 南/员 が正で不発火。sudan/an/o⟦sudan/员/o⟧ は見出しが別で不変
+  'rut/in/o'        = @('型にはまった行動|熟練', 'rut', 'in')     # routine。草ᴿ/女(ヘンルーダの雌)の誤読を除去。【化】ルチン(ruto から抽出)の行は 草ᴿ/in が語源的に正で不発火
+}
+$batDebat = $hsegDisp["bat`t辩"]; if(-not $batDebat){ throw "[台帳不整合] bat→辩 の homonym 行が無い" }
+$chemAcid = @('acet','fosf','karbon','nitr','sulf','silik','silici','molibden','klor','brom','jod','krom','kromi','bor','arsen','fluor','volfram','vanad','selen','telur','antimon','tartr','sakar','cian','ur','urin')  # 酸根(先頭分節判定用)。2026-07-26 第13レンズ: urin 追加=urin/at/o(【PIV】"= urato."=尿酸塩)が受動分詞 -at→被 で「尿を出される者」と読めていた誤りを 尿/盐ᴬ へ。兄弟 ur/at/o⟦ur/盐ᴬ/o⟧ と一致。urin+at/it の見出しは両版でこの1語のみ(実測)ゆえ他への波及なし。2026-07-23 WF round5: ur(尿酸uric acid)追加=ur/at/emi/o(尿酸血症)の -at→被(受動分詞)誤読を 盐 へ(兄弟fosf/at/emi/o=磷/盐ᴬ/血ᴱ と同型。ur/o=原牛は at/it無で不発火)。化学塩 X/at・X/it→酸根漢字+盐。tartr(酒石酸)/sakar(糖酸)は語釈に塩語が無い吐酒石(吐酒石のみ)等を取りこぼすため radical で確実化(2026-06-20)。kromi=クロム酸根/silici=ケイ酸根/cian=シアン酸根(di/kromi/at・silici/at・cian/at等。WSL細分解 2026-06-23)
 $chemMid  = @('acet','fosf','karbon','nitr','sulf','silik','silici','molibden','klor','brom','jod','krom','kromi','arsen','fluor','volfram','vanad','selen','telur','antimon','tartr','sakar','cian')  # 中位分節判定用=bor を除外(bor=钻ドリル動詞 と同綴。verm/bor/it=虫食い受動 の誤爆防止。boron塩 bor/at は先頭分節+homonymで処理)
 $saltAt = "盐$([char]0x1D2C)"   # 化学塩 -at(-ate)=盐ᴬ(sal=盐 と一意区別。AddSegId相当)
 $saltIt = "盐$([char]0x1D35)"   # -it(-ite 亜…酸塩)=盐ᴵ
@@ -87,6 +112,18 @@ $segLat = @{ 'gram/negativ/a'=@('gram'); 'gram/pozitiv/a'=@('gram'); 'deci/bel/o
   'karbaz/on/o'=@('on'); 'semi/karbaz/on/o'=@('on')   # 2026-07-26 正本ドリフト(karbazon→karbaz/on 分割)で露出。カルバゾン/セミカルバゾン=「ケトンまたはアルデヒドとカルバジドの反応生成物」(PIV語釈)=上のケトン-one と同一クラス→onラテン。分「分数」の誤読是正。正本自身が ##過細分解 karbaz/o/n/o と明記=onは形態素でない。分割前(karbazon/o)は全ラテンゆえ被覆の後退でもない
   # 2026-07-23 敵対監査(WF round2)で露出した tal(距骨talus)の叶状体thallus誤適用(第27回続2 talの取りこぼし):
   'tal/plant/oj'=@('tal')   # Talofitoj=叶状体植物Thallophyta→talラテン(距骨talus=距 でない)。植 母体維持。両版に存在=$segLatは両版適用ゆえ両版是正。tal/o=距(距骨【解】)は維持
+  # 2026-07-26 第13レンズ(版間整合性)の多エージェント敵対監査で確定した偽の友。いずれも学術版が
+  #   whole-root で正しく描画しているのに学習者版の分節描画だけが同綴の別語根を拾っていた型。
+  'lag/oftalm/o'=@('lag'); 'lag/oftalm/ec/o'=@('lag')   # lagophthalmos=希 lagōs(野兎)+ophthalmos(眼)=兎眼(上眼瞼が短く閉じきらない眼)。同綴の lago(湖)=湖 を拾い「湖の目」になっていた。学術版 lagoftalm/o⟦兔眼/o⟧ が正。目ᴼᶠ は維持
+  'mar/i/o'=@('mar')   # mario=【PIV】Mariujo周辺に住む民族(マリ人)=固有名§7。同綴の maro(海)=海 を拾い「海の人」になっていた。大文字 Mar/i/o(人名)は§7ガードで既にラテン=小文字見出しだけが素通りしていた
+  'silvi/kultur/o'=@('silvi')   # silvikulturo=羅 silva(森)+kultivo=林業(語釈"= arbarkultivo")。同綴の silvi/o=【鳥】オナガムシクイ(Sylvia属)=莺 を拾い「ウグイスを耕す」になっていた。莺 は silvi/o・silvi/ed/oj で維持
+  'port/o/vin/o'=@('port')   # portovino=ポルトガルの都市ポルト(Oporto)由来のポートワイン=固有名§7。同綴の動詞語根 port(porti運ぶ)=运 を拾い「運ぶ酒」になっていた。酒(vin)は維持
+  'ald/ol/o'=@('ald'); 'ald/oz/o'=@('ald')   # aldolo/aldozo の ald- はアルデヒド(aldehido)の結合形。同綴の【楽】aldo(アルト)=中音 を拾い「アルトのol/アルト糖」になっていた。音楽義 ald/o・ald/ist/o 等は 中音 を維持。糖ᴼ(aldose=アルデヒド糖)は正
+  'spion/it/o'=@('it')   # spionito=【PIV】スパイが群がっていると疑い続ける偏執(Manio)。医学-itis を戯れに転用した語で、受動分詞-it=受 を当てると「スパイされた人」とほぼ正反対になる。谍(spion)は維持。magnet/it・fer/it と同型の -it ラテン化
+  'ar/en/o'=@('ar')   # 2026-07-26 第13レンズ: areno(闘技場)も【化】areno(芳香族分子)も ar=群(集合接尾)とは無関係=同綴2行とも偽ゆえ word-scoped で可。群/en/o(群れの中)の誤読を除去。en は既にラテン
+  'form/aldehid/o'=@('form') # formaldehido の form- は【化】formiata acido(ギ酸・羅 formica=アリ)の結合形(PIV k13188「formi/o ② Mll de formiko」)。同綴の form/o(形)=形 を拾い「かたちアルデヒド」になっていた。aldehid はもとよりラテン(醛は一级外)
+  'fer/ik/a'=@('ik')   # ferika=【化】第二鉄の(高位原子価をつくる化学接尾 -ik-。PIV k17748学術-ik と k17749化学-ik は別項目の同綴異義)。学術分野の -ik=学ᴵ を拾い「鉄学の」になっていた。兄弟 fer/oz/a も既に oz ラテンで一致。铁(fer)は維持
+  'man/o/metr/o'=@('man'); 'sfigm/o/man/o/metr/o'=@('man')   # manometro の man- は希 manos(希薄=気体圧)由来で「手」と無関係(語釈=圧力計/動脈血圧計)。同綴の man/o(手)=手 を拾い「手の計器」になっていた。计ᴹ(metr)・脉ˢ(sfigm)は維持。方針§14で既知の未処理案件として明記されていた箇所
   'nau^t/o'=@('nau^t')   # 2026-07-26 続29: nau^t/o=【楽】9音程(naŭ=9由来・学術版L52341)。航海者 nau^t(希ναύτης=航)とは同綴別語→この語だけラテン保持。nau^t/ik/o(航海術)・astr/o/nau^t 等は語根登録どおり 航+識別子
   # 2026-07-23 敵対監査(WF round2)で露出した pro(因果前置詞pro=因)の偽の友=percentと同型のper- loanword:
   'pro/lakt/in/o'=@('pro')   # 2026-07-25 DICT同期(prolaktin→pro/lakt/in): プロラクチン(催乳ホルモン)のpro-はラテン「前へ/先に」で因果前置詞でない→proラテン。乳(lakt)維持=pro/乳/in。因ᴾ/乳「原因-乳」の誤読是正(pro/cent/o・pro/mil/o と同型)。inは語釈hormonoで既latin・proは[F]$known登録済=侵食0
@@ -140,7 +177,8 @@ foreach($pair in $pairs){
         $tok=$null; $thisMapped=$false
         if($s.Contains('-') -and $segLat.ContainsKey($w) -and ($segLat[$w] -contains $s)){ $tok=$s }   # 2026-07-26: ハイフン複合分節を丸ごとラテン保持する word-scoped 指定。ハイフン分岐(下)は下位分節を個別に写像するため、$segLat(L177)まで到達せず効かなかった。ハイフンかつ$segLat登録済の時だけ先行させるので既存挙動は不変(現状 kala-azar/o のみ該当)
         elseif($s.Contains('-')){ $sub=$s -split '-'; $rp=@(); $anySub=$false; foreach($sp in $sub){ if($sp -eq ''){continue}; if($hsep.ContainsKey($w) -and $hsep[$w].ContainsKey($sp)){ $rp+=$hsep[$w][$sp]; $anySub=$true } elseif(($sp -eq 'al' -or $sp -eq 'ol') -and ($head -match '^-(al|ol)/$') -and ($rest -match 'Sufikso')){ $rp+=$sp } elseif(($sp -match '^(n|sek|ter|tert|izo|neo)$') -and $isSysChem -and ($sub | Where-Object { $alkylStem.ContainsKey(($_ -replace '^[0-9,]+-','')) -or $_ -match '^(met|et|prop|but|pent|heks|hept|okt|non|dek)(an|en|in|ol|il)' })){ $rp+=$sp } elseif($alkylStem.ContainsKey($sp) -and $isSysChem){ $rp+=$alkylStem[$sp]; $anySub=$true } elseif(DispHas $sp){ $rp+=(DispGet $sp); $anySub=$true } elseif($sp -match $endingRe){ $rp+=$sp } else { $rp+=$sp } }; $tok=($rp -join '-'); $thisMapped=$anySub }   # 2026-07-23 WF round4: ハイフン先頭にアルキル語幹が埋没した系統化学名(1-but/2-prop/1,2-et)を天干化。$isSysChemゲート内のみ=1-培/員(butter/member)誤読を1-丁/an へ是正。tri/di等の数量接頭はdisp(三)維持で無影響   # ハイフン複合は形態素分解(ĉi-jar→此-年・alfa-partikl→alfa-粒等。ĉi=此, jar=年)。下位分節もhomonym sep適用(- は / と同じ形態素境界。-gram/接尾辞定義→图等。既存はot/o-rin..のみで無影響)
-        elseif($chemSaltLine -and ($s -eq 'at' -or $s -eq 'it') -and $idx -gt 0){ $tok=$(if($s -eq 'at'){$saltAt}else{$saltIt}); $thisMapped=$true }   # 化学塩/酸 -at→盐ᴬ・-it→盐ᴵ(行レベル判定 $chemSaltLine)。酸根は下の hsep(krom/titan/bor=金/金/矿)/disp(acet=醋・fer=铁等)で。受動分詞-at(被)は非化学行で維持
+        elseif((($s -eq 'it') -or ($s -eq 'klor')) -and $idx -ge 0 -and ($rest -match 'Mineralo|amfibolo|Tre rompa')){ $tok=$s }   # 2026-07-26 第13レンズ: 鉱物-ite/爆薬-ite をラテンへ。★この分岐は必ず下の $chemSaltLine(-it→盐ᴵ)と $medIt(-itis→炎ᵀ)より【前】に置くこと。klor は $chemAcid に、nefr/kord は $medStem に入っているため、後ろに置くと上流で食われて不発火になる(初回実装で実際に dead code だった)。発火するのは学習者版のちょうど3行のみ(両版実測): nefr/it/o(【地質】ネフライト=amfibolo・双子の【医】腎炎は不発火で 肾ᴺ/炎ᵀ 維持)・klor/it/o(【地質】緑泥石=Mineralo・塩素を含まない鉱物ゆえ klor もラテン。双子の【化】亜塩素酸塩は不発火で 氯/盐ᴵ 維持)・kord/it/o(【軍】コルダイト="Tre rompa eksplodaĵo"・双子の【医】声帯炎は不発火で 弦/炎ᵀ 維持)。鉱物-ite→ラテンは magnet/it・fer/it の既存裁定と同型で、兄弟鉱物 alunit/anhidrit の全ラテン描画とも揃う
+        elseif($chemSaltLine -and ($s -eq 'at' -or $s -eq 'it') -and $idx -gt 0){ $tok=$(if($s -eq 'at'){$saltAt}else{$saltIt}); $thisMapped=$true } # 化学塩/酸 -at→盐ᴬ・-it→盐ᴵ(行レベル判定 $chemSaltLine)。酸根は下の hsep(krom/titan/bor=金/金/矿)/disp(acet=醋・fer=铁等)で。受動分詞-at(被)は非化学行で維持
         elseif(($s -eq 'it') -and $idx -gt 0 -and ($medSeen -or $medItWord.ContainsKey($w))){ $tok=$medIt; $thisMapped=$true }   # 医学-it-(-itis 炎症)→炎ᵀ: 前方に体部位/医学語幹($medStem)がある時、または語単位override($medItWord=mitr/it/o等)。受動分詞-it(動詞語幹・far/it=做/受、mitr/it/a=ミトラ授与/受 等)は非該当で 受 維持。化学塩-it(盐)は上で先取
         elseif(($s -eq 'ol') -and $nseg -gt 1){ $tok='ol' }   # 化学アルコール -ol(多分節)=ラテン保持(opaque)。比較ol=比(disp)は単独語のみ。他分節は通常どおり漢字化(偽分解尊重・2026-06-22)
         elseif(($s -eq 'tio') -and $nseg -gt 1){ $tok='tio' }   # チオ(thio=硫黄)結合形(多分節)→ラテン保持。相関詞tio=那o(disp)は単独語(nseg=1)のみ。-ol同型の根治ルール。過細分解(izotio→izo/tio・tio/fosf/at→tio/fosfat等)でsegLat個別キーが外れる脆弱性を解消=上の$segLat tio群を包摂(2026-06-25)
@@ -180,6 +218,15 @@ foreach($pair in $pairs){
         elseif(($s -eq 'di') -and $isSysChem -and ($idx+1 -lt $nseg) -and (($idx -eq 0 -and ($alkylStem.ContainsKey($segs[$idx+1]) -or $segs[$idx+1] -eq 'oksi')) -or ($idx -gt 0 -and $segs[$idx+1] -eq 'ol'))){ $tok='二'; $thisMapped=$true }   # 化学倍数接頭di-→二(dimetoksi二/甲/氧)。神(di/o)はアルキル隣接+化学タグで弁別(2026-07-17)。2026-07-23 WF round4: 語中di-も次分節=ol(diol二価アルコール)+化学タグ時に二化=et/an/di/ol の di→神(god)誤読を二へ是正(glycol系)
         elseif((($s -eq 'fen') -or ($s -eq 'alk')) -and $isSysChem){ $tok=$s }   # 芳香/総称の一级外語幹→ラテン: fen(苯 一级外)·alk(烷総称)。föhn焚风fen②·elk驼鹿alk の誤友回避(2026-07-17)
         elseif(($s -eq 'dur') -and ($rest -match '銀貨|ドゥーロ')){ $tok='币'; $thisMapped=$true }   # dur/o同綴の語釈scoped是正: PEJVO銀貨ドゥーロ(【史】)→币。硬度dur=硬(base・PIV L46963)は語釈非該当で不発火。原本更新で同綴dur/o(硬度)追加によりsep→amb降格し銀貨が硬に退行→gloss限定で復元(2026-07-17)
+        # --- 2026-07-26 第13レンズ: 正本が ##偽分解(衝突語) と明示した行のうち、語釈と【無関係な別concept】になっていた群を
+        #     語釈scopedゲートで是正(方針§14 L319の是正線・L337ⓑ「語釈scopedゲートを一群ずつ個別に」に従う)。
+        #     いずれも同一見出しに正しい別義が同居するため word-scoped($segLat)では弁別できない。
+        elseif($glossLat.ContainsKey($w) -and ($rest -match $glossLat[$w][0]) -and (@($glossLat[$w])[1..(@($glossLat[$w]).Count-1)] -contains $s)){ $tok=$s }   # 語釈scopedのラテン退避表(上部 $glossLat)
+        elseif(($s -eq 'bat') -and ($idx -eq 1) -and ($segs[0] -eq 'de') -and ($rest -match '討論|討議')){ $tok=$batDebat; $thisMapped=$true }   # debati=PIV独立見出し debat(Oficiale diskuti)。同綴の bat/i(打つ)=打 を拾い「从/打=たたき落とす」と読めていた。もう一方の de/bat/i(たたき落とす)は語釈非該当で 打 維持
+        elseif(($s -eq 'lup') -and ($rest -match 'ルピナス|ハウチワマメ')){ $tok=$lupPlant; $thisMapped=$true }   # 【植】ルピナス(PIV k27302 lupino=(evi)=lupeno=豆ᴸᴾ)。狼/女(雌狼)の偽の友を是正。【動】Ino de lupo の行は非該当で 狼/女 維持
+        elseif(($s -eq 'in') -and ($rest -match 'ルピナス|ハウチワマメ')){ $tok='in' }   # 上と対。植物名なので女性接尾-in=女 は付けずラテン保持(ar/in/o アライン と同型)
+        elseif((($s -eq 'grenad') -or ($s -eq 'il')) -and ($rest -match 'パッションフルーツ|クダモノトケイソウ')){ $tok=$s }   # 【植】パッションフルーツ(PIV k15489 grenadil/o=Passiflora edulis・西 granadilla)。手雷/具(てき弾筒)の偽の友を是正。【軍】てき弾筒の行は非該当で 手雷/具 維持
+        elseif((($s -eq 'far') -or ($s -eq 'ad')) -and ($rest -match 'ファラド')){ $tok=$s }   # 【理】ファラド(Faraday由来の単位=固有名§7)。做/行(行うこと)の偽の友を是正。製造/行動の far/ad/o は非該当で 做/行 維持。兄弟 mikro/farad/o は既にラテンで一致
         elseif(($s -eq 'karp') -and ($rest -match '手首|手根')){ $tok=$karpAnat; $thisMapped=$true }   # karp/o同綴二義の語釈scoped是正(2026-07-26 第12レンズ)。【解】karpo=手根/手首の骨→腕ᴷ(台帳のkarp→腕と同一の第2義)。【魚】コイ karp/o(第1義)・karp/id/o(仔ゴイ・語釈"Juna karpo")は語釈非該当で不発火=鲤維持。見出しが同綴2行ゆえ word-scoped の hsep では弁別不能で語釈scopedが必要(dur/kub と同型)
         elseif(($s -eq 'kat') -and $idx -eq 0 -and ($rest -match 'latero.*triangul|C\^eorta latero')){ $tok='股'; $thisMapped=$true }   # kat/et同綴の語釈scoped是正: cathetus(kateto=直角三角形の直角辺・希káthetos垂線)→股(中国数学 勾股=直角边)。子猫kat/et(猫/小・語釈「小猫」)は非該当で不発火=猫維持(2026-07-18)
         elseif(($s -eq 'torn') -and ($rest -match 'rotacianta')){ $tok='旋'; $thisMapped=$true }   # torn/ad同綴の語釈scoped是正: tornado(【気】Fortega rotacianta=激しい回転暴風=竜巻)→旋(旋回)。旋盤torn/ad(车/行・語釈「旋盤加工」)は非該当で不発火=车維持(2026-07-18)

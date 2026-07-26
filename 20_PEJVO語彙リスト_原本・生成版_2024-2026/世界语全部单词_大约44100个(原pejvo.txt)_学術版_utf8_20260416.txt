@@ -47241,7 +47241,7 @@ endokrinolog/o:【PIV】Specialisto pri endokrinologio.
 endokrinologi/o:【PIV】Studo de la endokrinaj glandoj, de iliaj perturboj k de la malsanoj kau^zataj de tiuj c^i.
 endomorfi/o:【数】【PIV】Homomorfio de objekto al g^i mem.
 endorfin/o:【生】【PIV】Peptido, produktata de iuj neu^ronoj de encefalo, kiu inhibas la dolorsenton.
-endo/skop/i/o:【PIV】Ekzamenado per endoskopo.
+endoskopi/o:【PIV】Ekzamenado per endoskopo.
 endosperm/o:【植】【PIV】Nutraj^rezerva, unuploida histo de la semo de la gimnospermoj, kiu c^irkau^as k nutras la embrion dum la g^ermado, k kiu homologas al inseksa gametofito. Vd albumeno, perispermo.
 endoteli/o:【解】【PIV】Histo simila al epitelio, konsistanta el unu tavolo de plataj c^eloj k teganta la internon de la vaskuloj k serozoj.
 Ene/id/o:【PIV】Ido de Eneo.
@@ -52035,7 +52035,7 @@ mikoplasm/o:【生】【PIV】G. (Genro) (Mycoplasma el mikoplasmaloj) de tre ma
 mikoplasm/oj:【PIV】Mikoplasmaloj k du parencaj ordoj.
 mikoplasmal/oj:【PIV】Ordo (Mycoplasmatales) de tre malgrandaj, multformaj eu^bakterioj senmovaj, senmuraj, saprofitaj, kunvivaj au^ parazitaj, iuj patogenaj al homoj k bestoj.
 mikoriz/o:【植】【PIV】Simbioza, nepatogena au^ neforte patogena asocio de fungo kun la radikoj de planto.
-mikro/skop/i/o:【PIV】Esploro pere de mikroskopo.
+mikroskopi/o:【PIV】Esploro pere de mikroskopo.
 mikrob/a:【PIV】Rilata al mikroboj, kau^zata de ili: mikroba malsano, fermentado.
 mikrob/ism/o:【医】【PIV】Stato de la mikroba flau^ro en organismo au^ en organika medio.
 mikrobologi/o:【PIV】Studo pri la mikroboj k ilia agado. Sin. (sinonimo) mikrobiologio.
@@ -52260,7 +52260,7 @@ mugil/oid/oj:【動】【PIV】Subordo (Mugiloides) de teleosteaj fis^oj, amplek
 mug^/o:【PIV】Tia bleko au^ sono.
 mukor/o:【植】【PIV】G. (Genro) (Mucor el mukoracoj el zigomicetoj) de mikroskopaj fungoj, kies sporoj produktig^as en globforma sporujo portata de pedunkleto simpla au^ branc^a; kosmopolita g. (genro) de c^. (c^irkau^) 50 sp-oj (specioj) oftaj sur putrantaj substancoj, ekz. (ekzemple) plantpartoj, malnova pano ks (kaj simile, kaj similaj). see pans^imo.
 mukoral/oj:【菌】【PIV】Ordo (Mucorales el zigomicetoj) de mikroskopaj, g^enerale saprejaj fungoj; 170 sp-oj (specioj) el 49 g-oj (genroj).
-muk/oz/aj^/o:【PIV】Amaso da viskeca substanco kiu tegas iujn mukozojn, k konsistas precipe el muko, sed ankau^ el deskvamig^intaj c^eloj k mikroboj.
+mukoz/aj^/o:【PIV】Amaso da viskeca substanco kiu tegas iujn mukozojn, k konsistas precipe el muko, sed ankau^ el deskvamig^intaj c^eloj k mikroboj.
 mukr/o:【植】【PIV】(mucro) Mallonga, rigida pinto c^e la apekso de organo, i.a. (interalie, inter aliaj) folio, petalo au^ sepalo.
 muleta/o:【PIV】Rug^a tuko, ligita al bastono k uzata de matadoro dum tau^robatalo por instigi la tau^ron al difinitaj alkuroj.
 mult/eg/o:【PIV】Tre granda kvanto: multego da diamantoj , da kreditoroj .

@@ -47,7 +47,7 @@ $existing=@(
  # PIV航海語 jul/o(艫でひねって漕ぐ櫓=yuloh)・jul/ad/i(櫓で漕ぐ)→漕ぐhub划(=rem。パドルpagaj=划ᴾᴳと同型・新字ゼロ)。クリスマス系 jul/arb/o=圣诞/树 は別見出しで維持(2026-07-04ユーザー裁定sep分離)。※$hsepは大小無視だが Jul/o(大文字=ユール祭)は固有名ガードがhsepより先に捕捉し注釈なしで無影響=衝突せず。jul/arb/o は見出し文字列がjul/oと異なるため非該当で圣诞/树維持
  @('jul','划','jul/o,jul/ad/i','','【PIV】航海 jul/o=艫でひねる櫓(yuloh)・jul/ad/i=櫓で漕ぐ→漕ぐhub划。クリスマス系(jul/arb/o=圣诞/树・Jul/o=圣诞ユール祭)は別見出しで維持。2026-07-04ユーザー裁定sep分離'),
  # -ator両義対応(2026-07-04): 装置義(=X-ilo)=具ᴬ(既定)、人物義(-anto/-isto/-ulo相当)=员(an=员hub合流・新字ゼロ)。PIV正式分解波(##偽分解マーカー)で露出。
- @('ator','员','administr/ator/o,spekt/ator/o,uzurp/ator/o,prestidigit/ator/o','','-ator人物義→员。administranto管理者/spektanto観客/uzurpulo簒奪者/prestidigitisto手品師。装置義ator=具ᴬは既定のまま(altern/gener/kondens等)。numer/ator(数学分子)は号具のまま=PIV語源合成(要裁定なら変更)'),
+ @('ator','员','administr/ator/o,spekt/ator/o,uzurp/ator/o,prestidigit/ator/o,re/form/ator/o','','-ator人物義→员。2026-07-26 第13レンズ: re/form/ator/o(=reformisto 改革論者=純粋な人物義)が語リストから漏れて器具義 具ᴬ になり「改革の道具」と読めていたため追加。器具義 re/son/ator/o=共振器 等は具ᴬ のまま。administranto管理者/spektanto観客/uzurpulo簒奪者/prestidigitisto手品師。装置義ator=具ᴬは既定のまま(altern/gener/kondens等)。numer/ator(数学分子)は号具のまま=PIV語源合成(要裁定なら変更)'),
  @('astat','卤','astat/o','','-astat-(元素アスタチンAt=halogeno)→卤(液体ハロゲンbrom=卤と同カテゴリ§4.6)。astat/a=astatic(無定位)=无定 はmaster維持(disc不掲載)。astaten(=astato)はmaster卤'),
  @('lit','石','aer/o/lit/o,mega/lit/a,mega/lit/o,mono/lit/a,mono/lit/o,neo/lit/ik/o,paleo/lit/ik/o,epi/paleo/lit/ik/o,mez/o/lit/ik/o,mikro/lit/a,mikro/lit/o,piz/o/lit/o,fot/o/lit/o/grafi/o,krom/o/lit/o/grafi/o,lit/o/graf/o,lit/o/graf/i,lit/o/grafi/o,lit/o/graf/aj^/o,lit/o/graf/ist/o,lit/o/logi/o,lit/o/sfer/o,lit/o/skop/o,lit/o/tomi/o','','-lit-(lithos=石/-lith)→石。lito=寝台(床)はdu/kvar/tri/unu-lit/a・klap/krad/pend/port/ter/sof-o/pajl-o-lit で維持。elektrolit=-lyte(別形態素)は別sep lit→解(2026-06-23ユーザー裁定)。2026-07-18偽友スイープ: 石版印刷litograf系5形・岩石学litologi・岩石圏litosfer・膀胱結石litoskop/litotomi(医)を追加(床=寝台の誤友是正)'),
  # electrolyte の -lyte(溶解/分解。-lith石とは別形態素)→解。中国語「电解质」と一致(2026-06-23ユーザー裁定)。
@@ -106,7 +106,7 @@ $existing=@(
  @('sin','自','sin/kon/o,sin/asekur/o,sin/dev/ig/ad/o,sin/g^en/o,sin/g^en/ad/o,sin/kapt/ad/o,sin/mem/kulp/ig/o,sin/masturb/o,sin/nutr/ad/o,sin/pel/ad/o,sin/venen/ad/o','','再帰代名詞sin(si対格=自己oneself)→自。syn-(共)·胸sin/o(怀)は別義で維持(disc別記)。sin/mem/kulp/ig=自/自(mem=自と重複もR1衝突歓迎)。両版同11見出し'),
  @('trop','向','helio/trop/o,helio/trop/kolor/a,helio/trop/ism/o,izo/trop/a,izo/trop/ec/o,ne/izo/trop/a,ne/izo/trop/ec/o,an/izo/trop/a,trop/ism/o,cito/trop/a,enantio/trop/a,enantio/trop/ec/o,enantio/trop/ism/o,fot/o/trop/ism/o,geo/trop/ism/o,kortik/o/trop/a,neu^r/o/trop/a,tikso/trop/a,tikso/trop/ec/o,tiro/trop/a,-trop/','','-tropos(向·屈性)→向。修辞trop/o(喻)は維持。tropik热带/antrop人は別セグメント。2026-07-07 正本波で foto/trop/ism→fot/o/trop/ism・kortiko/trop→kortik/o/trop に-o境界正規化されたため語形更新(被覆漏れ是正=喻に化けるのを防ぐ)。2026-07-24 別AI round6被覆漏れ是正: tiro/trop/a(甲状腺刺激thyrotropic=甲状腺への向性)+接尾定義見出し -trop/(=havanta afinecon「向性」・-gram/と同型のハイフン分岐hsep適用)を追加=喻(修辞)に化けるのを防ぐ。既存向ᵀ使用で字種増やさず'),
  @('kard','心','endo/kard/it/o,endo/kard/o,peri/kard/o','','cardio-(心)→心。アザミkard/o(刺草)·梳毛kard/adは維持。kardi/o(-i付)は既に心ᴷᴰ。endo/kard/o=心内膜・peri/kard/o=心膜(WSL同期2026-06-27)'),
- @('pir','火','pir/heli/o/metr/o,pir/geo/metr/o,pir/o/elektr/a,pir/o/magnet/a,pir/o/teknik/aj^/o,pir/o/teknik/ist/o,pir/o/teknik/o,pir/o/liz/i,pir/o/liz/o,pir/o/metr/o,pir/o/fosf/at/o,pir/o/gajl/o,pir/o/gajlol/o,pir/o/sulf/at/o,pir/o/sulf/it/o,pir/o/fosfat/o,pir/oz/o','','pyro-(火·熱)→火。pir/o/fosfat=学術版粗分解(2026-06-23)。胸やけpirozo=火/症(pyrosis灼熱感。2026-07-19正本ドリフト piroz→pir/oz 露出)。洋ナシpir/o(梨)·pir/arb/pir/uj/pir/vinは維持'),
+ @('pir','火','pir/heli/o/metr/o,pir/geo/metr/o,pir/o/elektr/a,pir/o/magnet/a,pir/o/teknik/aj^/o,pir/o/teknik/ist/o,pir/o/teknik/o,pir/o/liz/i,pir/o/liz/o,pir/o/metr/o,pir/o/fosf/at/o,pir/o/gajl/o,pir/o/gajlol/o,pir/o/gajl/ol/o,pir/o/sulf/at/o,pir/o/sulf/it/o,pir/o/fosfat/o,pir/oz/o','','pyro-(火·熱)→火。pir/o/fosfat=学術版粗分解(2026-06-23)。胸やけpirozo=火/症(pyrosis灼熱感。2026-07-19正本ドリフト piroz→pir/oz 露出)。洋ナシpir/o(梨)·pir/arb/pir/uj/pir/vinは維持'),
  @('bar','压','izo/bar/o,mili/bar/o,bar/o/graf/o,bar/o/metr/o,bar/o/skop/o','','baro-(気圧)→压。障害bar/i/bar/il/o(障)は維持。bar/o単独=障/圧二義はamb的に障維持'),
  @('fot','光','fot/on/o,fot/o/sfer/o,fot/o/sintez/o,fot/o/c^el/o,fot/o/kemi/o,fot/o/kemi/a,fot/o/metri/o,fot/o/metr/o,flagr/o/fot/o/metr/o,fot/o/metri/i,fot/o/jon/ig/i,fot/o/kondukt/iv/a,fot/o/liz/i,fot/o/terapi/o,fot/o/volta/a,fot/on/mikro/skop/o,fot/o/trop/ism/o','','photo-(光)→光(物理·化学·生物)。写真fot/o/fot/i/fot/o/graf等は拍維持。2026-07-07 正本波でfoto/trop/ism→fot/o/trop/ism露出→fot/o/trop/ism/o追加(Lumtropismo=光屈性ゆえ光。拍=写真は誤友)。複合語内の光物理/光化学派生も光へ網羅(2026-06-25 接尾辞悉皆監査の派生メモから: fot/o/kemi/a光化学[スモッグ/酸化剤句もカバー]・fot/o/jon/ig光電離・fot/o/kondukt/iv光伝導・fot/o/liz光解・fot/o/terapi光線療法・fot/o/volta光起電・fot/on/mikro/skop光子顕微鏡。hsep whole-word盲点の補完=al/翼と同型)'),
  @('ot','耳','ot/o,ot/it/o,ot/algi/o,ot/o/logi/o,ot/o/skop/o,ot/o/skop/i/o,ot/o-rin/o-laring/o/log/o,ot/o/rin/o/laring/o/logi/o,ot/o/salping/o,ot/o/salping/it/o,ot/o-rin/o-laringolog/o,ot/o/salpingit/o,ot/a','','oto-(耳)→耳。未来受動分詞-ot-(待。nask/ot/vend/ot/a等)は維持。2026-07-15 監査是正: 学術版の融合語形 ot/o-rin/o-laringolog/o(耳鼻喉科医)・ot/o/salpingit/o(耳管炎)を追加(待の取りこぼし是正)。ot/a(耳の)は旧$new重複を統合'),
@@ -144,6 +144,11 @@ $existing=@(
  #   同じイネ科雑穀を相互参照しており、その一族は既に 粟 群(panic=粟・setari=粟ˢ・ekinokl=粟ᴱ)で揃っている。
  #   mili/o⟦毫ᴹᴵ/o⟧(ミリ〜の物)は明白な誤読ゆえ 粟 群へ寄せる(新字ゼロ・既存群への合流=生物名割当5基準の①)。
  #   SI接頭辞の mili/metr/o・mili/gram/o・mili/bar/o 等は disc外で 毫 を維持。
+ # 2026-07-26 第13レンズ(多エージェント敵対監査で確定): vulkaniz は PIV が vulkan/o とは別の独立見出し
+ #   (k49266「Kombini kauĉukon kun sulfuro」=ゴムに硫黄を結合させる)。火山とは無関係で、
+ #   中国語の標準名も「硫化」。火山/化(火山化する)の偽の友を、既存字 硫 の識別子付きで是正する。
+ #   火山義 vulkan/o・vulkan/a・vulkan/ism/o 等は disc外で 火山 を維持。
+ @('vulkan','硫','vulkan/iz/i,vulkan/iz/o,vulkan/iz/il/o','','vulkaniz(PIV独立見出し k49266=ゴムに硫黄を結合)→硫: 中国語標準名 硫化 と一致。火山 vulkan/o は同綴別語で disc外維持'),
  @('mili','粟','mili/o','','mili(【植】Milium=雑穀/キビ属)→粟: SI接頭辞 milli-(毫)の同綴別語。語釈の相互参照先 setario粟ˢ・panico粟・ekinoklo粟ᴱ と同じイネ科雑穀群へ合流。SI義 mili/metr・mili/gram・mili/bar・mili/amper・mili/sivert は disc外で毫維持'),
  # 2026-07-26 正本ドリフト是正: metencefal/o(後脳)が met/encefal/o へ分解され、met が meti(置く)=置 で
  #   描画される誤友が露出。ここでの met- は希 meta-(後方)なので 后(=post)へ。動詞 meti=置・化学 met=甲(天干)は
@@ -214,7 +219,7 @@ $new=@(
  @('dur','币','dur/o','ドゥーロ','ドゥーロ銀貨。dur=硬と別'),@('tak','币','tak/o','タカ','タカ通貨。tak=倾と別'),@('bac','币','bac/o','硬貨','古独貨。bac=响と別'),
  @('ar','亩','ar/o','アール','アール面積。ar=群と別行'),@('luks','照','luks/o','ルクス','ルクス照度。luks=奢と別行'),@('stok','粘','stok/o','ストークス','ストークス粘度。stok=储と別行'),
  @('kuri','居','kuri/o','キュリー','キュリー。kuri=廷と別行'),@('fon','响','fon/o','ホン','ホン音量。fon=底と別'),
- @('trik','毛','trik/o,trik/oz/o,poli/trik/o,trik/o/pati/o,trik/o/plazi/o,trik/o/pter/oj,trik/o/micet/oz/o','毛','毛(tricho-)。trik=织(編む)と別。tricho-毛の複合(trichosis毛症/Polytrichum多毛コケ/trichopathy毛病/trichoplasia毛増生/Trichoptera毛翅/trichomycosis毛/菌/症)も毛へ(2026-06-23/27 sep派生形網羅)'),   # ot/mi は $existing(耳/肌)へ統合し重複解消(2026-06-21)
+ @('trik','毛','trik/o,trik/oz/o,poli/trik/o,trik/o/pati/o,trik/o/plazi/o,trik/o/pter/oj,trik/o/micet/oz/o,spor/o/trik/o,spor/o/trik/oz/o,spor/o/trik/um/o','毛','毛(tricho-)。trik=织(編む)と別。2026-07-26 第13レンズ: Sporothrix/Sporotrichum(spor/o/trik 系3語)を追加=-trik- は希 thrix(毛)で編む(triki)でない。従来この3語だけ毛リストから漏れ 织ᵀᴿ を拾って「胞子-編む」と読めていた。tricho-毛の複合(trichosis毛症/Polytrichum多毛コケ/trichopathy毛病/trichoplasia毛増生/Trichoptera毛翅/trichomycosis毛/菌/症)も毛へ(2026-06-23/27 sep派生形網羅)'),   # ot/mi は $existing(耳/肌)へ統合し重複解消(2026-06-21)
  @('spin','旋','spin/o','スピン','物理スピン。spin=脊と別行'),@('var','内','var/a','内反','内反varus。var=货と別'),@('orkid','丸','orkid/o','睾丸','睾丸。orkid=兰と別'),
  @('spat','苞','spat/o','仏炎','仏炎苞。spat=石と別行'),@('sol','溶','sol/o','ゾル','ゾル。sol=唯と別行'),@('siren','牛','siren/o','海牛','海牛類。siren=警笛と別行'),
  @('ergot','距','ergot/o','蹴爪','蹴爪。ergot=麦角と別'),@('sor','胞','sor/o','胞子','胞子嚢群。sor=腾と別'),@('panikl','脂','panikl/o','皮下','皮下脂肪。panikl=圆锥と別'),
@@ -224,6 +229,11 @@ $new=@(
  @('file','线','file/o','罫線','罫線。file=里脊と別'),@('peon','佃','peon/o','隷農','隷農。peon=卒と別'),@('tang','舞','tang/o','タンゴ','タンゴ。tang=颠と別行'),
  @('klik','派','klik/o','徒党','徒党。klik=爪と別'),@('topik','敷','topik/o','外用','外用薬。topik=题と別'),@('er','纪','er/o','紀元','紀元。er=粒と別行'),
  @('po','草','po/o','Poa','Poa属。po=每と別行'),@('line','草','line/o','リンネ','リンネ草。line=线と別行'),@('tof','瘤','tof/o','痛風','痛風結節。tof=凝灰と別'),
+ # 2026-07-26 第13レンズ: 下2行は【識別子を算出させるためだけ】の行(見出しが同綴2行あるため自動的にamb=注入非適用に落ちる)。
+ #   実際の適用は _inject_final.ps1 の語釈scopedインライン規則が $hsegDisp 経由でこの disp を引いて行う。
+ #   lup: 【植】ルピナス(=lupeno豆ᴸᴾ)が 狼/女(雌狼)になっていた / bat: debati(討論)が 从/打(たたき落とす)になっていた。
+ @('lup','豆','lup/in/o','ルピナス','【植】ルピナス(lupino=(evi)=lupeno 豆ᴸᴾ)→豆。【動】雌狼 lup/in/o(Ino de lupo)は語釈非該当で 狼/女 を維持'),
+ @('bat','辩','de/bat/i','討論','debati(PIV k7342 debat独立見出し=Oficiale diskuti)の bat 分節→辩。たたき落とす de/bat/i は語釈非該当で 打 を維持'),
  @('male','疫','male/o','鼻疽','馬鼻疽。male=锤ᴹᴸと別行'),@('sinus','弦','sinus/o','正弦','正弦sine。sinus=洞と別行'),
  @('mung','草','mung/o,mung/id/oj','緑豆','緑豆(Vigna radiata=マメ科)+豆もやし→草(§4.6最近一级字)。動詞mung/i=擦鼻(洟をかむ)と別行(2026-06-26 全コーパス監査)'),@('sed','草','sed/o','マンネングサ','Sedum=ベンケイソウ科の観賞植物属→草。接続詞/動詞sed・sed/i=但と別行'),@('ke','鸟','ke/o','ケア','Nestor notabilis=ケア(NZのオウム,鳥)→鸟。接続詞ke=事と別行') )
 $rows=New-Object System.Collections.ArrayList
