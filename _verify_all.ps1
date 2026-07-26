@@ -105,6 +105,16 @@ if($psLine){ Say ("[I] 優先順位構造(CSV2890照合" + $csvCov + "%): " + $p
 Say "    (NEW_SYNONYM_REVERSAL/CSV_MISLABEL=advisory=要裁定・非fail / 詳細 _audit_priority_tiers_ledger.tsv)"
 if($csvLoss -ne '0' -and $csvLoss -ne '?' -and $csvLoss -ne ''){ $fail=1; Say "    !! CSV2890中核語がbaseを失う層順違反 → 要即対応" }
 
+# --- J. 描画の一意性(語レベルの同形異義。2026-07-26 第9レンズで新設) ---
+# §9契約は【字+識別子→語根】=分節1個の一意復号を保証するが、読者が読むのは『語』。
+# 異なる語が完全に同じ漢字列に描画されていないかは [A]id重複0 でも [E][F] でも捕捉できない。
+# 同一形態素の二重見出し(接辞定義行 -ism- と語根行 ism/o 等)は自動除外し、真の同形異義のみ検査。
+$dc = & python "$dir\_audit_display_collisions.py" *>&1 | Out-String
+$dcNew = ([regex]::Match($dc,'\[J\] ★新規合計=(\d+)')).Groups[1].Value
+foreach($ln in ($dc -split "`r?`n")){ if($ln -match '^\[J\] (学習者版|学術版):' -or $ln -match '★新規の同形異義' -or $ln -match '^\s+L\d'){ Say $ln } }
+if($dcNew -eq ''){ Say "[J] 描画の一意性: 実行不可(要 python + _audit_display_collisions.py)"; $fail=1 }
+elseif($dcNew -ne '0'){ $fail=1; Say ("    !! 新規の同形異義=" + $dcNew + "種 → 異なる語が同じ漢字列に描画されている。語義照合のうえ識別子付与か既知登録を判断") }
+
 # --- 総括 ---
 $verdict='全PASS(健全・同期も最新)'
 if($fail -ne 0){ $verdict='要対応(ハード違反あり)' } elseif($drift -ne 0){ $verdict='不変条件PASSだが WSL再同期推奨' } elseif($newInc -ne '0' -and $newInc -ne '?'){ $verdict='不変条件PASSだが 新規偽分解不整合の点検推奨' }

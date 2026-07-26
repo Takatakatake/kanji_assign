@@ -32925,7 +32925,7 @@ radi/o/amator/o:アマチュア無線家
 radi/o/aparat/o:ラジオ受信機;放射線装置
 radi/o/astr/o/nomi/o:【天】電波天文学##偽分解
 radi/o/el/send/o:ラジオ放送
-radi/o/foni/o:ラジオ放送,=radioelsendo;【通】無線電話##偽分解
+radi/o/fon/i/o:ラジオ放送,=radioelsendo;【通】無線電話##偽分解
 radi/o/fon/o:=radioricevilo（ラジオ受信機）##偽分解(PIV正式分解)
 radi/o/fot/o/grafi/o:=radiografio（Ｘ線写真術）##偽分解
 radi/o/galaksi/o:【天】電波銀河
