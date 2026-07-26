@@ -3098,6 +3098,13 @@
   dur            硬ᴰ         F=3     pejvo   
   ciroz          硬ᶜ         F=2     pejvo   
 
+【航】 5件
+  aviad          航          F=30    basic   
+  navig          航ᴺ         F=10    pejvo   
+  nau^t          航ᴺᴬ        F=8     pejvo   
+  navigaci       航ᴺᶜ        F=2     pejvo   
+  nau^tik        航ᴺᵁ̆       F=2     piv     航海術
+
 【香】 5件
   spic           香          F=12    basic   
   parfum         香ᴾ         F=6     basic   
@@ -3977,12 +3984,6 @@
   agres          攻ᴬᴳ        F=10    pejvo   
   ofensiv        攻ᴼ         F=3     pejvo   
   razi           攻ᴿ         F=2     piv     【史】略奪遠征・手入れ
-
-【航】 4件
-  aviad          航          F=30    basic   
-  navig          航ᴺ         F=10    pejvo   
-  navigaci       航ᴺᶜ        F=2     pejvo   
-  nau^tik        航ᴺᵁ̆       F=2     piv     航海術
 
 【昏】 4件
   sven           昏          F=10    basic   

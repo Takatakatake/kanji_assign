@@ -32461,7 +32461,7 @@ provinc/a:州の;地方の,いなか風の
 provinc/an/ism/o:田舎気質,=provincismo
 provinc/an/o:州民;地方人,いなか者
 provinc/estr/o:州知事
-provincial/ism/o:【語】=provincismo（地方なまり）##偽分解(PIV正式分解)
+provincialism/o:【語】=provincismo（地方なまり）
 provinc/ism/o:田舎気質,地方性;【語】地方なまり,お国なまり
 provinc/o:{Ｂ}（国の行政区画としての）州;（中国の）省;（首都に対して）地方,いなか
 proviz/a:予備の

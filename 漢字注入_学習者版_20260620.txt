@@ -419,8 +419,8 @@ aer/o/fobi/o⟦气/o/症/o⟧:【病】空気恐怖症,嫌気症
 aer/o/glit/a boat/o⟦气/o/滑/a 舟/o⟧:【海】ホバークラフト
 aer/o/lit/o⟦气/o/石ᴸᵀ/o⟧:{Ｏ}【鉱】【天】隕石（いんせき）,=meteors^tono##偽分解##過細分解 aer/o/l/i/t/o
 aer/o/metr/o⟦气/o/计ᴹ/o⟧:【理】気量計,空気計##偽分解
-aer/o/nau^t/ik/o⟦气/o/航/学ᴵ/o⟧:【空】航空学,航空術,>>aerveturado##偽分解
-aer/o/nau^t/o⟦气/o/航/o⟧:【空】軽気球操縦士,飛行船操縦士,=flugbalonisto##偽分解
+aer/o/nau^t/ik/o⟦气/o/航ᴺᴬ/学ᴵ/o⟧:【空】航空学,航空術,>>aerveturado##偽分解
+aer/o/nau^t/o⟦气/o/航ᴺᴬ/o⟧:【空】軽気球操縦士,飛行船操縦士,=flugbalonisto##偽分解
 aer/o/plan/o⟦气/o/划/o⟧:{Ｏ}【空】飛行機,=aviadilo##偽分解##過細分解 aer/o/p/l/a/n/o
 aer/o/prem/o⟦气/o/压/o⟧:【理】気圧
 aer/o/pur/ig/il/o⟦气/o/纯/使/具/o⟧:空気清浄機
@@ -2620,7 +2620,7 @@ astr/o/fizik/o⟦星ᴬ/o/物理/o⟧:天体物理学,宇宙物理学
 astrolab/o:【天】アストロラーベ（天体観測儀）
 astr/o/logi/o⟦星ᴬ/o/学ᴸᴳ/o⟧:{Ｏ}占星術,=stelau^gurado##偽分解
 astr/o/log/o⟦星ᴬ/o/学家/o⟧:{Ｏ}占星術師,=stelau^guristo##偽分解
-astr/o/nau^t/o⟦星ᴬ/o/航/o⟧:宇宙飛行士,=kosmonau^to##偽分解
+astr/o/nau^t/o⟦星ᴬ/o/航ᴺᴬ/o⟧:宇宙飛行士,=kosmonau^to##偽分解
 astr/o/nomi/a⟦星ᴬ/o/学ᴺ/a⟧:天文学の;《転》天文学的な##偽分解
 astr/o/nomi/a almanak/o⟦星ᴬ/o/学ᴺ/a 历书/o⟧:天文年鑑##偽分解
 astr/o/nomi/aj cifer/oj⟦星ᴬ/o/学ᴺ/aj 数ᶜ/oj⟧:天文学的数字（日常的な範囲を超えた大きな数）##偽分解
@@ -19899,7 +19899,7 @@ kosm/o/graf/o⟦宇/o/记ᴳ/o⟧:{Ｏ}《古》宇宙形状誌学者##偽分解
 kosm/o/kemi/o⟦宇/o/化学/o⟧:宇宙化学
 kosm/o/logi/o⟦宇/o/学ᴸᴳ/o⟧:宇宙論##偽分解
 kosm/o/log/o⟦宇/o/学家/o⟧:宇宙論学者##偽分解
-kosm/o/nau^t/o⟦宇/o/航/o⟧:宇宙飛行士,=astronau^to##偽分解
+kosm/o/nau^t/o⟦宇/o/航ᴺᴬ/o⟧:宇宙飛行士,=astronau^to##偽分解
 kosm/o/naved/o⟦宇/o/梭/o⟧:【空】=kosmopramo（スペースシャトル）
 kosmopolit/a⟦泛/a⟧:コスモポリタン的な;【環】汎存種の,全世界に広く分布する
 kosmopolit/a speci/o⟦泛/a 种ˢᴵ/o⟧:【環】汎存（はんぞん）種,広布種,普遍種,>>endemia specio
@@ -32461,7 +32461,7 @@ provinc/a⟦省ᴾ/a⟧:州の;地方の,いなか風の
 provinc/an/ism/o⟦省ᴾ/员/主义/o⟧:田舎気質,=provincismo
 provinc/an/o⟦省ᴾ/员/o⟧:州民;地方人,いなか者
 provinc/estr/o⟦省ᴾ/长ᴱ/o⟧:州知事
-provincial/ism/o⟦省ᴾᴸ/主义/o⟧:【語】=provincismo（地方なまり）##偽分解(PIV正式分解)
+provincialism/o⟦省主义/o⟧:【語】=provincismo（地方なまり）
 provinc/ism/o⟦省ᴾ/主义/o⟧:田舎気質,地方性;【語】地方なまり,お国なまり
 provinc/o⟦省ᴾ/o⟧:{Ｂ}（国の行政区画としての）州;（中国の）省;（首都に対して）地方,いなか
 proviz/a⟦供ᴾ/a⟧:予備の
@@ -45416,7 +45416,7 @@ Astianaks/o:【PIV】Mita filo de Hektoro k Andromako, en Iliado.
 astilb/o⟦草ᴬˢᵀ/o⟧:【植】【PIV】G. (Genro) (Astilbe el saksifragacoj) de plurjaraj herboj kun multegaj, malgrandaj floroj en pinta, kunmeta paniklo; 12 sp-oj (specioj) el E Azio k NU Ameriko, pluraj pororname kultivataj.
 astrakant/o⟦木ᴬˢᵀ/o⟧:【植】【PIV】G. (Genro) (Astracantha el fabacoj) parenca al astragalo, de dornaj, ofte kusenformaj arbustoj; c^. (c^irkau^) 250 sp-oj (specioj) el SU Azio, pluraj.
 astre/o⟦菌ᴬ/o⟧:【植】【PIV】G. (Genro) (Astraeus el astreacoj el gasteromicetoj) de fungoj, aspektantaj kiel geastroj, kies ekstera parieto de bazidiujo humidastate stelforme sternig^as k sekastate bule fermig^as c^irkau^ la interna parieto; 2 sp-oj (specioj), tre disvastig^intaj, el kiuj A. hygrometricus; unu el la tersteloj. see geastro.
-astr/o/nau^t/ik/o⟦星ᴬ/o/航/学ᴵ/o⟧:【PIV】Kosmonau^tiko.##偽分解
+astr/o/nau^t/ik/o⟦星ᴬ/o/航ᴺᴬ/学ᴵ/o⟧:【PIV】Kosmonau^tiko.##偽分解
 as^ar/o:【PIV】Kondimento el fruktoj k legomoj, konfititaj en vinagro; ankau^ uzata kiel almang^aj^o. Vd c^atnio, relis^o.
 As^mode/o:【聖】【PIV】Malbonfarema demono en la libro de Tobio.
 atak/at/o⟦攻/被/o⟧:【PIV】Tiu, kiun iu atakas: diri almenau^ kelkajn vortojn pri viaj atakatoj, Cart k Bourlet .
@@ -50879,7 +50879,7 @@ korupt/il/o⟦贿/具/o⟧:【PIV】Io, uzata por korupti: la spiritaj k korpaj 
 korv/ed/oj⟦鸦/科ᴱ/oj⟧:【動】【PIV】Fam. (Familio) (Corvidae) el la ordo de paseroformaj birdoj, al kiu apartenas la g-oj (genroj) korvo, nucifrago, pigo, garolo k.a. (kaj aliaj).
 korv/et/o⟦鸦/小/o⟧:【鳥】【PIV】Monedo.
 kos/o:【PIV】= gus^o.
-kosm/o/nau^t/ik/o⟦宇/o/航/学ᴵ/o⟧:【PIV】Scienco pri la kondic^oj k pretigo de la rimedoj por vojag^oj inter la planedoj au^ la steloj. Sin. (sinonimo) astronau^tiko.##偽分解
+kosm/o/nau^t/ik/o⟦宇/o/航ᴺᴬ/学ᴵ/o⟧:【PIV】Scienco pri la kondic^oj k pretigo de la rimedoj por vojag^oj inter la planedoj au^ la steloj. Sin. (sinonimo) astronau^tiko.##偽分解
 kos^i/a:【数】【PIV】1 (pp (se paroli pri) vico) Tia, ke la distanco inter du viceroj estas ajne malgranda por grandaj indicoj. 2 (pp (se paroli pri) serio) Tia, ke la vico de la partaj sumoj estas kos^ia.
 kos^mar/o:【PIV】Inkubsong^o.
 kot/o/petr/o⟦泥/o/岩ᴾ/o⟧:【地質】【PIV】Sedimenta, kohera petro devenanta el koto 3.
@@ -52339,8 +52339,8 @@ nau^krat/o⟦鱼ᴺ/o⟧:【動】【PIV】Pilotfis^o.
 nau^l/o⟦木ᴺ/o⟧:【植】【PIV】Sp. (Specio) de melaleu^ko (kvinripa melaleu^ko), Nov-Kaledonia arbo, el kiu oni ekstraktas gomenolon. Sin. (sinonimo) gomenolarbo.
 nau^pli/o⟦虾ᴺ/o⟧:【動】【PIV】Unua larvo de la krustacoj.
 nau^/t/o⟦九/t/o⟧:【楽】【PIV】Intervalo inter nau^ tonoj en diatona gamo.##偽分解(PIV正式分解)
-nau^t/ik/o⟦航/学ᴵ/o⟧:【PIV】Arto de la navigacio.##偽分解
-nau^t/ik/a⟦航/学ᴵ/a⟧:【PIV】Rilata al nau^tiko: nau^tika almanako (jarlibro entenanta astronomiajn, tajdajn k.a. (kaj aliaj) informojn por navigantoj).##偽分解
+nau^t/ik/o⟦航ᴺᴬ/学ᴵ/o⟧:【PIV】Arto de la navigacio.##偽分解
+nau^t/ik/a⟦航ᴺᴬ/学ᴵ/a⟧:【PIV】Rilata al nau^tiko: nau^tika almanako (jarlibro entenanta astronomiajn, tajdajn k.a. (kaj aliaj) informojn por navigantoj).##偽分解
 nau^til/oid/oj⟦鹦螺/似ᴼ/oj⟧:【動】【PIV】Ordo (Nautiloidea) de kvarbrankaj cefalopodoj ampleksanta nau^tilon k parencajn fosiliajn g-ojn.
 Navar/o:【史】【PIV】1 Reg^olando, kiu etendig^is c^iuflanke de Pireneoj (nun dividita inter Hispanio k Francio). 2 Hispania Au^tonoma Komunumo (Pamplono).
 Navar/an/o:【PIV】Log^anto de Navaro. Vd eu^sko.

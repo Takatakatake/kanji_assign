@@ -83,6 +83,7 @@ $segLat = @{ 'gram/negativ/a'=@('gram'); 'gram/pozitiv/a'=@('gram'); 'deci/bel/o
   'alk/an/on/o'=@('on'); 'but/an/on/o'=@('on'); 'cikl/o/heks/an/on/o'=@('on')   # ケトン-one(alkanone/butanone/cyclohexanone)→onラテン。分「分数」の誤読是正。alk/丁/己 母体維持
   # 2026-07-23 敵対監査(WF round2)で露出した tal(距骨talus)の叶状体thallus誤適用(第27回続2 talの取りこぼし):
   'tal/plant/oj'=@('tal')   # Talofitoj=叶状体植物Thallophyta→talラテン(距骨talus=距 でない)。植 母体維持。両版に存在=$segLatは両版適用ゆえ両版是正。tal/o=距(距骨【解】)は維持
+  'nau^t/o'=@('nau^t')   # 2026-07-26 続29: nau^t/o=【楽】9音程(naŭ=9由来・学術版L52341)。航海者 nau^t(希ναύτης=航)とは同綴別語→この語だけラテン保持。nau^t/ik/o(航海術)・astr/o/nau^t 等は語根登録どおり 航+識別子
   # 2026-07-23 敵対監査(WF round2)で露出した pro(因果前置詞pro=因)の偽の友=percentと同型のper- loanword:
   'pro/lakt/in/o'=@('pro')   # 2026-07-25 DICT同期(prolaktin→pro/lakt/in): プロラクチン(催乳ホルモン)のpro-はラテン「前へ/先に」で因果前置詞でない→proラテン。乳(lakt)維持=pro/乳/in。因ᴾ/乳「原因-乳」の誤読是正(pro/cent/o・pro/mil/o と同型)。inは語釈hormonoで既latin・proは[F]$known登録済=侵食0
   'pro/mil/o'=@('pro')   # パーミル‰(promilo=羅pro mille「千につき」のpro=per)→proラテン。千(mil)維持=pro/千。因ᴾ/千「原因-千」の誤読是正(pro/cent/o percent族と同型・第27回続3)
@@ -138,7 +139,11 @@ foreach($pair in $pairs){
         elseif(($s -eq 'end') -and $idx -eq 0 -and $nseg -ge 2 -and $segs[1] -eq 'osmoz'){ $tok='内'; $thisMapped=$true }   # endo-osmosis: end/osmoz(内方浸透endosmosis)→内/渗。上流がendo→end+osmozと過細分解した結果、endが-end接尾(须=義務・end/i)に化けるのを是正。endo=内(endo/kard内/心膜等)と整合。義務-end接尾(idx>0・leg/end等)は内向き接頭でなく须維持。両者漢字で[F]監査非該当(2026-06-29)
         elseif(($s -eq 'meso') -and $idx -eq 0){ $tok='中'; $thisMapped=$true }   # meso-(希mesos=中): 解剖meso/o(腹膜ひだ peritonea refaldo)·meso/enter/o(腸間膜)→中。Esperanto固有のmez=中(中央)と同源で統一。3字mes=祭(ミサ)とは別綴(meso=4字)につき誤友なし。2026-06-29 WSL同期で mesoentero→meso/enter 露出
         elseif(($s -eq 'mes') -and $idx -eq 0 -and $nseg -ge 2 -and $segs[1] -eq 'enter'){ $tok='中'; $thisMapped=$true }   # mesentero(腸間膜): mes=meso-(中)≠祭(ミサ)。上流の過細分解(mesentero→mes/enter)でmesがmes/o=祭(ミサ)に化けるのを是正→中/肠。宗教義 mes/o祭·mes/libr祭/书·mes/ofer祭/献 は segs[1]≠enterで祭維持。同源mez=中と整合。両者漢字で[F]非該当(2026-06-29)
-        elseif(($s -eq 'nau^t') -and ($idx -gt 0 -or ($nseg -ge 2 -and $segs[1] -eq 'ik'))){ $tok='航'; $thisMapped=$true }   # -naut(航海者): astr/o/nau^t宇宙飛行士・aer/o/nau^t気球乗り・kosm/o/nau^t → 航(aviad航/navig航/nau^tik航 series)。標準nau^t/o(楽=9音程・naŭ由来)はidx0かつsegs[1]≠ikで不発火→latin維持。宇航員(astronaut)と一致(2026-06-29 WSL偽分解同期)   # 2026-07-26 正本が nau^tik/o→nau^t/ik/o(##偽分解)へ分割したため語頭も対象化。ガードは segs[1]='ik' 限定=met/oksi・mes/enter と同型で、9音程 nau^t/o(segs[1]='o')には不発火。学術版は nau^tik/o のまま=航ᴺᵁ̆ で不変
+        # 2026-07-26 続29: -naut(航海者)のインライン規則を撤去し、nau^t を正式な語根(k=航・band=pejvo・P=5)として登録した。
+        #   旧規則は $tok='航' と **無印の航** を直書きしていたが、無印の航の所有者は aviad(CSV2890/basic・F=30)であり、
+        #   §9 の逆復号が aviad に着地する所有者違反だった(_audit_identifier_ownership.py の既知リストに ('nau^t','航') として計上)。
+        #   語根登録により識別子が自動で払い出され、契約が回復する(astr/o/nau^t → 星ᴬ/o/航ᴺᵁ̆ 等)。
+        #   同綴別語の 9音程 nau^t/o(【楽】naŭ=9由来・学術版L52341)は下の $segLat 'nau^t/o' で latin 保持。
         elseif(($s -eq 'hipo') -and $idx -eq 0 -and (($segs -contains 'drom') -or ($segs -contains 'kas^tan') -or ($segs -contains 'kastan') -or ($segs -contains 'potam') -or ($segs -contains 'grif'))){ $tok='马'; $thisMapped=$true }   # hippo-(馬): hipo/drom競馬場・hipo/potam河馬・hipo/kas^tanマロニエ・hipo/grifヒッポグリフ → 马(ĉeval=马)。接頭hypo-(下/亜)=hipo/tez仮説・hipo/derm皮下 等は馬語幹(drom/potam/kas^tan/kastan/grif)を含まずidx0で不発火→亚(disp)維持(2026-06-29)
         elseif(($s -eq 'himen') -and $idx -eq 0 -and (($segs -contains 'pter') -or ($segs -contains 'micet'))){ $tok='膜'; $thisMapped=$true }   # himen/o/pter(膜翅類Hymenoptera): himen=膜(hymen=membrane)→膜(membran=膜)。標準himen/o(処女膜hymen)はpter無で处女膜(disp)維持。膜/翅=膜翅と一致(2026-06-29)
         elseif($s -eq 'kastan'){ $tok='栗'; $thisMapped=$true }   # PIV変種hipo/kastan(s^無し綴り Hippocastanum)=栗。学習版kas^tan(=栗 disp)と別綴のため明示(2026-06-29)
