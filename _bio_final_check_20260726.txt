@@ -1,0 +1,107 @@
+=== 確定案の機械検証(既存表示のみ) ===
+総数 384件
+  既存の単字master        :  323件
+  既存の熟語master を再利用 :   46件
+  ★新しい組み合わせ         :    6件 (方針上は原則禁止。個別判断)
+  未割当                  :    9件
+  既に_p_work.csvに存在     :    0件
+
+=== ★新しい組み合わせ(全件。採否をここで判断する) ===
+語根               案        理由                       語釈
+endokarp         内果皮      内(en)果(frukt)皮の透明な鏡像。術語  【植】内果皮,>>epikarpo
+epikarp          外果皮      外(ekster)果皮の鏡像。endokarpと 【植】外果皮,>>endokarpo
+ginece           雌蕊       既存熟語雄蕊(stamen)の対語。雌=fema （古代ギリシアの）婦人部屋;【植】雌ずい（群）,=pistilo
+herbari          草集       語釈=herbokolektoの鏡像。草+集(k 【植】植物標本集,=herbokolekto
+perikarp         果皮       果+皮で果皮。既存熟語になく例外扱い       【植】果皮,>>s^elo
+stilus           花柱       花柱。花冠/花序系列で各字明快(例外)      【植】（めしべの）花柱
+
+=== 未割当に倒した語根(全件) ===
+arist            芒の字が非在。穗/针/颖は別義で不適、未割当         【植】（稲・麦などの実の先端にある）のぎ（芒）;【虫】触鬚（しょくしゅ）
+diklin           単性花。性=ecで単性が成立せず未割当            【植】雌雄異花の
+epigin           子房下位。適合する既存表示なし                【植】子房下位の
+fanerogam        顕花植物。花植は合成語と衝突し未割当             【植】顕花植物,><kriptogamoj
+ginostem         ラン科の蕊柱。適合する既存単字・熟語なし           【植】合着めしべ,ずい柱
+mandibl          顎の字が全マスターに不在。牙/齿は別義            【解】下あご,下顎骨（かがくこつ）;【虫】大顎（おおあご）
+poliandri        一雌多雄の抽象概念。適合する既存表示なし           一妻多夫,=pluredzeco;【動】一雌多雄
+poligini         一雄多雌の抽象概念。適合する既存表示なし           一夫多妻,=pluredzineco;【動】一雄多雌
+spirant          spir=息+antで描画。植物義はspirantes=兰が 【声】=frikativo;【植】ネジバナ
+
+=== 既存表示への追加(上位30) ===
+  草      +58   (現在 328 → 386)
+  木      +21   (現在 249 → 270)
+  菊      +18   (現在 51 → 69)
+  豆      +17   (現在 18 → 35)
+  鱼      +13   (現在 93 → 106)
+  花      +12   (現在 8 → 20)
+  鸟      +11   (現在 132 → 143)
+  伞      +10   (現在 25 → 35)
+  兽      +9    (現在 69 → 78)
+  鼠      +9    (現在 29 → 38)
+  虫      +8    (現在 99 → 107)
+  犬      +7    (現在 4 → 11)
+  菜      +6    (現在 8 → 14)
+  龙      +4    (現在 19 → 23)
+  果      +4    (現在 20 → 24)
+  雀      +4    (現在 6 → 10)
+  艾      +3    (現在 1 → 4)
+  菌      +3    (現在 87 → 90)
+  禾      +3    (現在 1 → 4)
+  猪      +3    (現在 3 → 6)
+  芹      +3    (現在 2 → 5)
+  鸭      +3    (現在 1 → 4)
+  杯      +3    (現在 4 → 7)
+  甲      +3    (現在 4 → 7)
+  藻      +3    (現在 20 → 23)
+  瓜      +3    (現在 14 → 17)
+  贝      +3    (現在 19 → 22)
+  猴      +3    (現在 29 → 32)
+  比目鱼    +3    (現在 1 → 4)
+  秧鸡     +3    (現在 1 → 4)
+
+=== 熟語の再利用(全件) ===
+  apus             金丝燕      (既存: salangan)  【鳥】アマツバメ（雨燕）（属）,=apodo
+  arbed            灌木       (既存: arbust)  低木;【植】低木
+  aspid            眼镜蛇      (既存: kobr)  {Ｏ}【動】エジプトコブラ
+  betonik          水苏       (既存: staki)  【植】カッコウチョロギ
+  cikori           苦菜       (既存: endivi)  {Ｏ}【植】チコリー,キクニガナ,>>endivio
+  cipsel           金丝燕      (既存: salangan)  【鳥】=apuso（アマツバメ）
+  fles             比目鱼      (既存: pleu^ronekt)  【魚】ニシカワガレイ（ヌマガレイの一種）
+  forfikul         皮翅       (既存: dermapter, dermopter)  【虫】ハサミムシ（類）
+  fulik            秧鸡       (既存: ral)  【鳥】オオバン（属）
+  galinol          秧鸡       (既存: ral)  【鳥】バン（鷭）（属）
+  galinul          秧鸡       (既存: ral)  【鳥】=>galinolo（バン）
+  hisop            香草       (既存: lavend, rosmaren, origan)  {Ｏ}【植】ヒソップ,ヤナギハッカ;【聖】ヒソップ（その小枝を清めに
+  jonkvil          水仙       (既存: narcis)  【植】キズイセン（種）,>>narciso,>>dafodilo
+  juka             龙舌兰      (既存: agav)  【植】ユッカ,イトラン（糸蘭）（属）
+  kalandra         象甲       (既存: kurkuli)  【虫】コクゾウムシ（属）
+  konvolvul        旋花       (既存: kalistegi)  {Ｏ}【植】セイヨウヒルガオ（属）;《般》ヒルガオ（の類）,>>ka
+  langust          龙虾       (既存: omar)  【動】イセエビ（伊勢海老）（類の俗称）,=palinuro
+  limand           比目鱼      (既存: pleu^ronekt)  【魚】マガレイ（属）（真鰈）;ニシマガレイ（種）
+  lonicer          忍冬       (既存: kaprifoli)  {Ｏ}【植】スイカズラ（属）（忍冬）
+  luzern           牧草       (既存: gres, medikag)  【植】ムラサキウマゴヤシ（種）,アルファルファ,>>medikago
+  mahoni           天竹       (既存: nandin)  【植】ヒイラギナンテン
+  majoran          香草       (既存: lavend, rosmaren, origan)  【植】マヨラナ（種）,マージョラム,ハナハッカ（花薄荷）
+  miogal           地鼠       (既存: talp)  {Ｏ}【動】デスマン（ヨーロッパにすむ水生のモグラ類）
+  mirh             香脂       (既存: ladan)  {Ｏ}【植】ミルラ（芳香性の樹脂）,没薬（もつやく）
+  noktu            猫头鹰      (既存: strig)  {Ｏ}【鳥】コキンメフクロウ（小金目梟）（種）
+  nufar            睡莲       (既存: nimfe)  【植】コウホネ（河骨）（属）
+  osmund           羊齿       (既存: filik, aspleni, psilot)  【植】ゼンマイ（属）,オスマンダ,=reg^ofiliko
+  otus             猫头鹰      (既存: strig)  【鳥】=orelstrigo（ミミズク）
+  pac^ul           香草       (既存: lavend, rosmaren, origan)  {Ｏ}【植】パチョリ（種）;パチョリ（香料）
+  palinur          龙虾       (既存: omar)  {Ｏ}【動】イセエビ（伊勢海老）（属）,=langusto,>>om
+  pentatom         臭虫       (既存: cim)  【虫】カメムシ（亀虫）（科の総称）
+  plates           比目鱼      (既存: pleu^ronekt)  【魚】プレイス（ツノガレイ属の一種）,>>pleu^ronekto
+  pteridi          羊齿       (既存: filik, aspleni, psilot)  《Ｎ》【植】ワラビ（蕨）（属，_Pteridium_）,=aglof
+  reptili          爬虫       (既存: sau^r)  【動】爬虫類（はちゅうるい）
+  rododendr        杜鹃       (既存: azale)  【植】ツツジ（躑躅）（属，シャクナゲ・サツキを含む）,>>azale
+  rosmar           海豹       (既存: fok)  {Ｏ}【動】セイウチ（海象）（種）,=marc^evalo
+  semperviv        厚叶       (既存: krasul)  【植】センペルビブム（属）（多肉質の高山植物）
+  skabioz          续断       (既存: dipsak)  【植】マツムシソウ（属）
+  skarol           苦菜       (既存: endivi)  【植】エスカロール,ヒロハキクヂシャ,=larg^folia end
+  skolopendr       千足       (既存: kilopod)  【動】オオムカデ（属）;《般》ムカデ（百足）
+  stigm            柱头       (既存: kapitel)  【植】（めしべの）柱頭;【動】気門
+  tripanosom       原兽       (既存: protozo)  【動】トリパノソーマ（属）（寄生性原虫）
+  tuberos          龙舌兰      (既存: agav)  【植】チューベロース
+  urogal           野鸡       (既存: tetra, fazan)  {Ｏ}【鳥】ヨーロッパオオライチョウ（種）;《般》オオライチョウ（大
+  vakcini          石南       (既存: erik)  {Ｏ}【植】スノキ（属）,コケモモ（属）,>>mirtelo,>>o
+  zizel            松鼠       (既存: sciur)  {Ｏ}【動】ジリス（地栗鼠）（属）;ハタリス（畑栗鼠）（種）,>>m

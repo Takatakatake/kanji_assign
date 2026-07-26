@@ -3,12 +3,13 @@
 # base=min band_rank は C=br*1000+P で構造保証。逆転はband誤ラベル/意図的override時のみ。
 # CSV2890照合: rows=2890 matched=2508(86.8%) 語根=2413 未照合rows=382
 
-## [A] 層順逆転(bare.tier より高優先=小tierのメンバーが非base) = 全31件
-#   NEW=0(0が必須=未説明の違反) / base_override=4(意図) / ratified現状維持=27(既知20群)
+## [A] 層順逆転(bare.tier より高優先=小tierのメンバーが非base) = 全44件
+#   NEW=0(0が必須=未説明の違反) / base_override=18(意図) / ratified現状維持=26(既知20群)
 groupkey	base	base_tier	高優先メンバー(逆転相手)	分類
 乐主义	hedonism	2=PIV	optimism(t1=PEJVO)	ratified
 乐家	hedonist	2=PIV	optimist(t1=PEJVO)	ratified
 傲	arog	1=PEJVO	arogant(t0=CSV2890)	base_override
+千足	kilopod	2=PIV	skolopendr(t1=PEJVO)	base_override
 厘	centi	1=PEJVO	centimetr(t0=CSV2890)	base_override
 咏	c^ant	2=PIV	psalm(t1=PEJVO);kantik(t1=PEJVO)	ratified
 哲	filozof	1=PEJVO	filozofi(t0=CSV2890)	base_override
@@ -18,13 +19,20 @@ groupkey	base	base_tier	高優先メンバー(逆転相手)	分類
 旋	gir	2=PIV	pivot(t1=PEJVO);spiral(t1=PEJVO);rotaci(t1=PEJVO);turb(t1=PEJVO);giro(t1=PEJVO);ciklon(t1=PEJVO);piruet(t1=PEJVO)	ratified
 架	rak	2=PIV	trus(t1=PEJVO);stabl(t1=PEJVO);c^arpent(t1=PEJVO);skafald(t1=PEJVO);c^asi(t1=PEJVO)	ratified
 梗	infarkt	2=PIV	pedunkl(t1=PEJVO)	ratified
+榕	fikus	2=PIV	sikomor(t1=PEJVO)	base_override
 气学	aerologi	2=PIV	meteologi(t1=PEJVO);meteorologi(t1=PEJVO)	ratified
 气学家	aerolog	2=PIV	meteolog(t1=PEJVO);meteorolog(t1=PEJVO)	ratified
 气计	gasmetr	2=PIV	aerometr(t1=PEJVO);gasometr(t1=PEJVO)	ratified
+水苏	staki	2=PIV	betonik(t1=PEJVO)	base_override
 渗计	osmozmetr	2=PIV	osmozometr(t1=PEJVO)	ratified
+爬虫	sau^r	2=PIV	reptili(t1=PEJVO)	base_override
+猴	ceb	2=PIV	makak(t1=PEJVO);pavian(t1=PEJVO);orangutang(t1=PEJVO)	base_override
+皮翅	dermapter	2=PIV	forfikul(t1=PEJVO)	base_override
 相关	korelaci	2=PIV	korelativ(t1=PEJVO)	ratified
+眼镜蛇	kobr	2=PIV	aspid(t1=PEJVO)	base_override
 硫	sulf	2=PIV	sulfur(t1=PEJVO)	ratified
 神经学	nervologi	2=PIV	neu^rologi(t1=PEJVO)	ratified
+秧鸡	ral	2=PIV	fulik(t1=PEJVO);galinol(t1=PEJVO);galinul(t1=PEJVO)	base_override
 肠炎	ileit	2=PIV	enterit(t1=PEJVO)	ratified
 胃炎	gastrit	2=PIV	stomakit(t1=PEJVO)	ratified
 胖	obez	2=PIV	korpulent(t1=PEJVO)	ratified
@@ -32,9 +40,14 @@ groupkey	base	base_tier	高優先メンバー(逆転相手)	分類
 脉炎	flebit	2=PIV	vejnit(t1=PEJVO)	ratified
 色计	kolormetr	2=PIV	kolorometr(t1=PEJVO)	ratified
 苔植	brifit	2=PIV	briofit(t1=PEJVO)	ratified
+茅	espart	2=PIV	alf(t1=PEJVO)	base_override
 菌学	mikologi	2=PIV	bakteriologi(t1=PEJVO)	ratified
-蛾	mote	2=PIV	bombiks(t1=PEJVO)	ratified
+蔓	sarment	2=PIV	lian(t1=PEJVO)	base_override
+蛾	mote	2=PIV	hermini(t1=PEJVO);bombiks(t1=PEJVO)	base_override
+蠕	helmint	2=PIV	trikin(t1=PEJVO)	base_override
 速计	takimetr	2=PIV	rapidometr(t1=PEJVO)	ratified
+金丝燕	salangan	2=PIV	apus(t1=PEJVO);cipsel(t1=PEJVO)	base_override
+香脂	ladan	2=PIV	mirh(t1=PEJVO)	base_override
 高测	altometri	2=PIV	hipsometri(t1=PEJVO)	ratified
 高计	altimetr	2=PIV	altometr(t1=PEJVO);hipsometr(t1=PEJVO)	ratified
 

@@ -4062,7 +4062,7 @@ bon/eg/a:すばらしい
 bon/eg/e:すばらしく
 Bon/eg/e!:［間］すばらしい！
 bon/e instal/it/a:設備の整った
-Bonesper/a Kab/o:（la 〜）【地名】喜望峰（南アフリカ共和国）,=Promontoro de Bona Espero
+Bon/esper/a Kab/o:（la 〜）【地名】喜望峰（南アフリカ共和国）,=Promontoro de Bona Espero
 Bonesper/o:【地名】ゴットホープ（グリーンランドの主都）
 bon/far/a:善行の;慈善の
 bon/far/ad/o:慈善
@@ -53612,7 +53612,7 @@ pneu^mogastr/a:【PIV】= vaga.
 pneu^mon/o:【医】【PIV】Pulmo (en kunmetaj^oj).
 pneu^monit/o:【医】【PIV】Inflamo de unu pulmo (simpla pneu^monito), au^ de la du pulmoj (duobla pneu^monito), kau^zata de diversaj bakterioj, i.a. (interalie, inter aliaj) Streptococcus pneumoniae.
 pneu^monektomi/o:【PIV】Parta au^ tuta ablacio de unu pulmo.
-pneu^monokoni/oz/o:【PIV】Malsano, kau^zata de la fiksig^o de karbaj, silicaj ks (kaj simile, kaj similaj) polveroj en la pulmoj.
+pneu^monokonioz/o:【PIV】Malsano, kau^zata de la fiksig^o de karbaj, silicaj ks (kaj simile, kaj similaj) polveroj en la pulmoj.
 pneu^monologi/o:【PIV】Studo pri la pulmoj k iliaj malsanoj.
 pneu^monopati/o:【PIV】Kn (Kolektiva nomo) de la pulmaj malsanoj.
 po/ac/oj:【植】【PIV】Fam. (Familio) (Poaceae, sin. (sinonimo (de latinscienca nomo)) Gramineae, el unukotiledonoj) de herboj, pli malofte lignecaj plantoj (ekz. (ekzemple) bambuoj), kun artikaj, kavaj tigoj (escepte de la nodoj), kun mallarg^aj, g^enerale liniformaj folioj, havantaj cilindran, lau^longe fendan ingon, k kun spiketoj el ne tre videblaj, g^enerale duseksaj floroj kun tre malgranda perianto (see lodiklo) k c^irkau^itaj de karakterizaj brakteoj (see glumo); c^. (c^irkau^) 9 500 sp-oj (specioj) el 668 g-oj (genroj), el kiuj la plej multaj grenspecioj (i.a. (interalie, inter aliaj) aveno, hordeo, maizo, sekalo, tritiko) k kanoj (arundo, bambuoj, fragmito). see greso.

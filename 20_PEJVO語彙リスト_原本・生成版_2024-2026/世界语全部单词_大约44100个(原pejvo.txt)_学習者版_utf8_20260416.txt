@@ -4062,7 +4062,7 @@ bon/eg/a:すばらしい
 bon/eg/e:すばらしく
 Bon/eg/e!:［間］すばらしい！
 bon/e instal/it/a:設備の整った
-Bon/esper/a Kab/o:（la 〜）【地名】喜望峰（南アフリカ共和国）,=Promontoro de Bona Espero##偽分解
+Bon/esper/a Kab/o:（la 〜）【地名】喜望峰（南アフリカ共和国）,=Promontoro de Bona Espero
 Bon/esper/o:【地名】ゴットホープ（グリーンランドの主都）##偽分解
 bon/far/a:善行の;慈善の
 bon/far/ad/o:慈善
@@ -54862,7 +54862,7 @@ sept/i:【PIV】(tr (transitiva)) Provizi, dividi per septo: septi salonon en du
 sept/ig^/o:【PIV】Formig^o de septoj: septig^o de sporo.
 Septuagint/o:【PIV】La greklingva traduko de la hebrea Biblio, legende atribuita al 72 tradukintoj (c^. (c^irkau^) 280 a.K. (antau^ Kristo)).
 ser/o/logi/o:【PIV】1 Studo de la modifoj de la sero sub la influo de diversaj malsanoj. 2 Serumologio.##偽分解
-serum/o/logi/o:【PIV】Studo de la diversaj serumoj k de ties ecoj.##偽分解##強語根分解
+ser/um/o/logi/o:【PIV】Studo de la diversaj serumoj k de ties ecoj.##偽分解##強語根分解
 ser/o/negativ/a:【PIV】(pp (se paroli pri) iu) Havanta serodiagnozon negativan, resp. (respektive) pozitivan.
 ser/o/pozitiv/a:【PIV】(pp (se paroli pri) iu) Havanta serodiagnozon negativan, resp. (respektive) pozitivan.
 seraf/a:【PIV】Rilata al serafo(j): (f (figurasence)) serafa amo (plej arda k pura). Vd platona.

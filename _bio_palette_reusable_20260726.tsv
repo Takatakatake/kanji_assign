@@ -1,0 +1,986 @@
+# ★このファイルに載っている表示だけが使用可能。新しい組み合わせを作ってはいけない。
+
+## [1] 既存の単字master = 2091字 (生物に使われているものを先頭に)
+字	語根数	既に何に割り当てられているか
+草	328	herb={Ｂ}草;牧草,芝草;【植】草本 / sued=【植】【PIV】G. (Genro) (Suae / kenopodi=【植】アカザ（属） / ciper=【植】【PIV】G. (Genro) (Cype / rut={Ｏ}【植】ヘンルーダ（属） / eu^forbi=【植】トウダイグサ（属）
+木	249	koril=【植】【PIV】G. (Genro) (Cory / sorp={Ｏ}【植】ナナカマド（実） / kornus=【植】ミズキ（属）;サンシュユ,ミズキ / tili={Ｏ}【植】ボダイジュ（菩提樹）,シナノキ（科木 / muskat={Ｏ}【植】ナツメグ,ニクズク（の種子） / kola=【料】コーラ（飲料）,=kolaaj^o;【植】
+鸟	132	motacil=【鳥】セキレイ（鶺鴒）（属）,=vostskua / perdrik={Ｏ}【鳥】ヤマウズラ（属）;イワシャコ（属）, / kivi=【鳥】キウイ / majn=【鳥】キュウカンチョウ（九官鳥）（種） / pelikan={Ｏ}【鳥】ペリカン（属） / skolop={Ｏ}【鳥】ヤマシギ（属）
+虫	99	akar={Ｏ}《般》ダニ（壁蝨）;【動】コナダニ（粉ダニ / alcioni=【動】【PIV】G. (Genro) (Alcy / demodeks=【動】【PIV】G. (Genro) (Demo / argonau^t=【動】タコブネ（属） / trombidi=【動】【PIV】G. (Genro) (Trom / lau^s=【動】【PIV】Insekto nesaltan
+鱼	93	ezok={Ｂ}【魚】カワカマス / gobi={Ｂ}【魚】タイリクスナモグリ（属）,川ハゼ（通 / raj={Ｏ}【魚】ガンギエイ（属）;《般》エイ（総称） / mugil=【魚】ボラ（鯔）（科の総称） / kalmar=【動】【PIV】Kn (Kolektiva no / bram={Ｏ}【魚】ブリーム（コイ科の淡水魚）
+菌	87	fung={Ｂ}【植】キノコ / kandid=【植】【PIV】G. (Genro) (Cand / armilari=【植】【PIV】G. (Genro) (Armi / astre=【植】【PIV】G. (Genro) (Astr / au^rikulari=【植】【PIV】G. (Genro) (Auri / botrit=【植】【PIV】G. (Genro) (Botr
+兽	69	teri=【動】【PIV】Subklaso (Theria / dazipod=【動】【PIV】G. (Genro) (Dasy / mirmekofag=【動】オオアリクイ（大蟻喰）,=formikur / falanger=【動】【PIV】G. (Genro) (Phal / lutr={Ｏ}【動】カワウソ（属）（川獺） / viver=【動】【PIV】G. (Genro) (Vive
+菊	51	krizantem={Ｏ}【植】キク（の類）（菊）;《般》菊 / kompozit=【植】=asteracoj（キク科） / aster=【植】シオン（紫苑）（属） / lekant={Ｏ}【植】マーガレット,モクシュンギク（種） / agerat=【植】【PIV】G. (Genro) (Ager / ajapan=【植】【PIV】G. (Genro) (Ayap
+猴	29	resus=【動】【PIV】Sp. (Specio) de  / ceb=【動】【PIV】G. (Genro) (Cebu / kalitriks=【動】【PIV】G. (Genro) (Call / kolob=【動】【PIV】G. (Genro) (Colo / cerkopitek=【動】【PIV】G. (Genro) (Cerc / aluat=【動】【PIV】G. (Genro) (Alou
+鼠	29	mus={Ｂ}【動】ハツカネズミ（二十日鼠）（属）;《般 / rat={Ｂ}【動】クマネズミ（熊鼠）（属）,ドブネズミ / mel={Ｏ}【動】アナグマ（属）（穴熊） / vizon=【動】ミンク,（特に）アメリカミンク / ermen={Ｏ}【動】オコジョ,エゾイタチ,アーミン;=e / mefit=【動】シマスカンク（属）;（一般に）スカンク
+伞	25	umbel=【植】散形花序 / angelik={Ｏ}【植】アンゼリカ;シシウド（属） / anet=【料】ディル;【植】イノンド,ヒメウイキョウ / umbelifer=【植】散形科（セリ科の古称）,=apiacoj / ami=【植】【PIV】G. (Genro) (Ammi / antrisk=【植】【PIV】G. (Genro) (Anth
+藻	20	bangi=【植】【PIV】G. (Genro) (Bang / fuk={Ｏ}【植】ヒバマタ（属） / ulv=【植】【PIV】G. (Genro) (Ulva / sargas={Ｏ}【植】ホンダワラ属（の海藻） / cerami=【植】【PIV】G. (Genro) (Cera / gonidi=【植】【PIV】(ark. (arkaismo,
+豆	18	fab={Ｂ}【植】ソラマメ（空豆）;《般》豆（まめ） / fazeol={Ｂ}【植】インゲンマメ（隠元豆）（属） / legumen=【植】=gus^o（さや） / antilid=【植】【PIV】G. (Genro) (Anth / apios=【植】【PIV】G. (Genro) (Apio / fazeolus=【植】【PIV】G. (Genro) (Phas
+贝	19	konk={Ｏ}【動】貝殻,（カタツムリの）殻;《転》貝殻 / folad=【貝】ニオガイ（属） / arkiteu^t=【動】【PIV】G. (Genro) (Arch / dorid=【動】【PIV】Nudbranka mara g / eledon=【動】【PIV】G. (Genro) (Eled / gujdak=【動】【PIV】Kn (Kolektiva no
+虾	19	kankr={Ｂ}【動】ザリガニ（の類） / leandr=【動】【PIV】G. (Genro) (Lean / salikok={Ｏ}【動】コエビ（類）;《般》エビ（海老，蝦） / pandal=【動】【PIV】G. (Genro) (Pand / pene=【動】【PIV】G. (Genro) (Pena / armadilidi=【動】【PIV】G. (Genro) (Arma
+果	20	nuks={Ｂ}【植】堅果,木の実,ナッツ,>>jugla / frag={Ｂ}【果】オランダイチゴ（実）;《般》イチゴ（ / mirtel={Ｂ}【植】ビルベリー（コケモモの類）;《般》ブ / kurm=【植】【PIV】Speco de pirform / mespil={Ｏ}【果】セイヨウカリン（の実） / lici=【植】クコ（属）（枸杞）
+龙	19	drak={Ｏ}竜,ドラゴン;【動】トビトカゲ（属）;《廃 / varan=【動】オオトカゲ（科） / igvan=【動】イグアナ（属） / agam=【動】【PIV】G. (Genro) (Agam / scink=【動】【PIV】G. (Genro) (Scin / akonti=【動】【PIV】G. (Genro) (Acon
+兰	15	orkid=【植】ハクサンチドリ（属）,オルキス;【解】精巣 / orkide={Ｏ}《般》【植】ラン（蘭）（科の総称） / angrek=【植】【PIV】G. (Genro) (Angr / bleti=【植】【PIV】G. (Genro) (Blet / cimbidi=【植】【PIV】G. (Genro) (Cymb / cipripedi=【植】【PIV】G. (Genro) (Cypr
+瓜	14	melon={Ｂ}【果】メロン;【植】メロン（種） / kukum={Ｂ}【植】キュウリ（種）;キュウリの果実 / kukurb={Ｂ}【植】カボチャ（属） / brioni=【植】【PIV】G. (Genro) (Bryo / citrol=【植】【PIV】G. (Genro) (Citr / ekbali=【植】【PIV】G. (Genro) (Ecba
+蛇	14	kolubr={Ｏ}【動】コルブラ,ムチヘビ（ナミヘビ科の無毒 / elap=【動】【PIV】G. (Genro) (Elap / akroh^ord=【動】【PIV】Reptilio (g. (ge / anakond=【動】【PIV】Grandega sufokse / botrop=【動】【PIV】G. (Genro) (Both / bungar=【動】【PIV】G. (Genro) (Bung
+茄	10	solan=【植】ナス（茄子）（属） / alkekeng=【植】【PIV】Sp. (Specio) de  / fizalid=【植】【PIV】G. (Genro) (Phys / hiosciam=【植】【PIV】Hiskiamo. / likopersik=【植】【PIV】G. (Genro) (Lyco / petuni=【植】【PIV】G. (Genro) (Petu
+蛙	10	ran={Ｂ}【動】トノサマガエル（殿様蛙）（属）;《般 / batrak=【動】無尾類,=senvostuloj / hil=【動】アマガエル（雨蛙）（属）,=verda r / salamandr={Ｏ}【動】サンショウウオ（山椒魚）の類;サラマ / aksolotl=【動】【PIV】La larvo de la M / alit=【動】【PIV】G. (Genro) (Alyt
+姜	9	alpini=【植】【PIV】G. (Genro) (Alpi / amom=【植】【PIV】G. (Genro) (Amom / eletari=【植】【PIV】G. (Genro) (Elet / etlinger=【植】【PIV】G. (Genro) (Etli / galang=【植】【PIV】1 (ss (striktase / kardamom=【植】【PIV】1 (ss (striktase
+蛛	8	arane={Ｂ}【動】クモ（蜘蛛） / terafoz=【動】【PIV】G. (Genro) (Ther / argiop=【動】【PIV】G. (Genro) (Argi / argironet=【動】【PIV】Araneulo (unuspe / avikulari=【動】【PIV】G. (Genro) (Avic / falangi=【動】【PIV】G. (Genro) (Phal
+花	8	irid={Ｏ}【植】アヤメ（属、カキツバタ・ハナショウブ / gerani={Ｏ}【植】フウロソウ（属）;【園】=>pela / amarilid=【植】アマリリス / balzamin={Ｏ}【植】ホウセンカ（鳳仙花） / enoter=【植】マツヨイグサ（属）;月見草,宵待草（よいま / ciklamen=【植】シクラメン（属）
+菜	8	brasik={Ｂ}【植】キャベツ,=kapobrasiko; / lap={Ｂ}【植】ゴボウ（種）（牛蒡）;ゴボウの実（と / artis^ok={Ｏ}【植】アーティチョーク,チョウセンアザミ; / amarant=【植】アマランサス,ハゲイトウ（葉鶏頭）,ヒユ / sabelik=【植】チリメンキャベツ,=krispa bras / brokol={Ｏ}【植】ブロッコリー
+雀	6	kanari={Ｏ}【鳥】カナリア（種） / paser={Ｂ}【鳥】スズメ（雀）（属） / emberiz=【鳥】ホオジロ（属） / pirol={Ｏ}【鳥】ウソ（鷽） / kardel={Ｏ}【鳥】ゴシキヒワ（種）
+鹿	5	cerv={Ｂ}【動】シカ（鹿，属）;シカ（科） / dama=【動】ダマジカ,=damcervo / kapreol={Ｏ}【動】ノロ（シカ科の動物の一種） / tragol=【動】【PIV】G. (Genro) (Trag / boac={Ｏ}【動】トナカイ,カリブー,馴鹿（じゅんろく
+鹰	5	falk={Ｏ}【鳥】ハヤブサ（隼）（属） / akcipitr={Ｏ}《般》タカ（鷹）,>>falko,>>ag / bute=【鳥】ノスリ / niz={Ｏ}【鳥】ハイタカ（鷂）（種）,>>akcip / milv={Ｏ}【鳥】トビ（鳶）（属）,トンビ
+麦	5	horde={Ｂ}【植】オオムギ（属） / fagopir=【植】ソバ（蕎麦）（属）;ソバの実 / elim=【植】エゾムギ（属） / spelt=【植】スペルト小麦（家畜飼料）
+蜂	5	vesp={Ｂ}【虫】スズメバチ（雀蜂）（科の総称）;《般 / cinip=【動】【PIV】G. (Genro) (Cyni / krabr={Ｏ}【虫】モンスズメバチ,>>vespo / burd={Ｏ}【虫】マルハナバチ
+葱	5	cep={Ｂ}【料】玉ネギ;【植】タマネギ / alium=【植】【PIV】G. (Genro) (Alli / ampelopraz=【植】【PIV】1 Kf. (Kultivofo / pore={Ｏ}【植】リーキ（種）,ニラネギ（韮葱）,ポロ
+龟	5	testud={Ｂ}【動】カメ（亀）;【史】（古代ローマの）亀 / emid=【動】【PIV】Testudulo (Emys  / keloni=【動】ウミガメ（科の総称）,=martestud / karet=【動】【PIV】Mara testudulo (
+蝉	5	cikad={Ｂ}【虫】セミ（蝉） / cukcukcikad=《Ｎ》【虫】ツクツクボウシ（speco de c / kanacikad=《Ｎ》【虫】ヒグラシ（speco de cika / mincikad=《Ｎ》【虫】ミンミンゼミ（speco de ci
+茶	4	te={Ｂ}茶,紅茶（茶葉および飲料）;【植】チャ（種 / kameli={Ｏ}【植】ツバキ（椿，属） / mate={Ｏ}【植】マテチャ;【料】マテ茶 / sazank=《Ｎ》【植】サザンカ（山茶花）（specio d
+鲸	4	balen={Ｏ}【動】クジラ;セミクジラ / cetac=【動】クジラ類,>>baleno,>>makro / narval=【動】イッカク（一角） / kac^alot=【動】マッコウクジラ（抹香鯨，種）,=makro
+鸦	4	korv={Ｂ}【鳥】カラス（属）（鴉、烏）,>>kora / kornik={Ｂ}【鳥】ハシボソガラス / frugileg={Ｏ}【鳥】ミヤマガラス / moned={Ｏ}【鳥】コクマルガラス（種）,>>korvo
+豹	4	leopard={Ｏ}【動】ヒョウ（豹）,=pantero / panter={Ｏ}【動】ヒョウ（豹）（種）=leopardo / gepard=【動】チーター,=c^asleopardo / jaguar={Ｏ}【動】ジャガー
+羊	6	kapr={Ｂ}【動】ヤギ（山羊） / ovi=【動】【PIV】G. (Genro) (Ovis / muflon=【動】ムフロン（種）（野生ヒツジの一種）
+苔	5	bri=【植】【PIV】G. (Genro) (Bryu / hipn=【植】【PIV】G. (Genro) (Hypn / sfagn=【植】【PIV】G. (Genro) (Spha
+树	4	arb={Ｂ}木,樹木;【植】高木 / fag={Ｂ}【植】ブナ（属） / notofag=【植】【PIV】G. (Genro) (Noth
+叶	4	lob={Ｏ}【解】葉（よう）;【植】裂片 / frond=【植】（地衣類の）葉状体;（シダ類・ヤシ・シュロ / limb=【植】葉身;【機】分度弧,目盛り縁
+鹦	4	kakatu=【鳥】バタンインコ,オウム（属）,>>papag / konur=【鳥】=papageto（インコ）;（特に）クサ / ara=【鳥】コンゴウインコ（属）
+鳄	4	aligator={Ｏ}【動】（アリゲーター科の）ワニ（鰐）（ヨウ / kajman=【動】カイマン（中南米産のワニ）,>>aliga / gavial=【動】ガビアル,ガンジスワニ,>>krokodi
+蚊	3	moskit={Ｂ}《般》【虫】蚊（か）,>>kulo / kul={Ｏ}【虫】カ（蚊）;（特に）イエカ（属）,>> / anofel=【虫】ハマダラカ（属）,>>moskito
+蟹	3	krab={Ｏ}【動】カニ（類）（蟹） / pagur=【動】ヤドカリ（宿借） / limul=【動】カブトガニ
+柳	3	salik={Ｂ}【植】ヤナギ（柳）（属） / vimen=【植】タイリクキヌヤナギ（大陸絹柳）（種）;《般 / popl={Ｏ}【植】ポプラ,ハコヤナギ（箱柳）（属）
+枣	3	daktil={Ｂ}【果】ナツメヤシ;【文】長短短格,強弱弱格 / jujub=【果】ナツメ;【菓】（ナツメの香りを付けた）キャ / zizif=【植】ナツメ（属）,>>jujubarbo
+鸽	3	kolomb={Ｂ}【鳥】ハト（鳩）（ハト科の鳥の総称） / turt={Ｏ}【鳥】コキジバト（小雉鳩）（種）;【鳥】キ / livi=【鳥】カワラバト（河原鳩）（種）,=rokkol
+鲤	3	karp={Ｂ}【魚】コイ（鯉） / ciprin=【動】コイ（属）,>>karpo / karas={Ｏ}【魚】フナ（鮒，属）;ヨーロッパブナ
+羚	3	c^am={Ｏ}【動】シャモア,>>antilopo / antilop={Ｏ}【動】レイヨウ,アンテロープ（総称） / gazel={Ｏ}【動】ガゼル（属）,>>antilopo
+柿	3	kakinok=【植】【PIV】1 Sp. (Specio) d / diospir=【植】【PIV】G. (Genro) (Dios / persimon=【植】カキ;【果】カキ（柿）
+蝠	3	filostom=【動】【PIV】G. (Genro) (Phyl / vespertilion=【動】【PIV】G. (Genro) (Vesp / vespert={Ｏ}【動】コウモリ（蝙蝠）（翼手目の総称）
+精	7	nimf={Ｏ}【神】ニンフ（ギリシア神話の水の精）;【虫 / spermati=【植】【PIV】Seksa c^elo, nem
+囊	6	ask=【植】【PIV】Fungoc^elo ofte  / folikl=【植】袋果（たいか）;【解】小胞,濾胞（ろほう）
+麻	5	kanab={Ｏ}【植】アサ（麻）,タイマ（大麻） / ricin={Ｏ}【植】ヒマ（蓖麻）,トウゴマ（唐胡麻）
+犬	4	dog={Ｏ}【動】マスチフ;《転》大型の番犬,>>bu / kanis=【動】【PIV】G. (Genro) (Cani
+叉	4	bifid=【植】【解】【医】【PIV】Duparte di / dikotom=【植】【PIV】Forkece disbranc
+蝶	4	papilion=【虫】アゲハチョウ（揚羽蝶）（属） / pierid=【動】【PIV】G. (Genro) (Pier
+猪	3	apr={Ｂ}【動】イノシシ（猪）（種）,=sovag^ / su=【動】【PIV】Apro.
+樱	3	meriz={Ｏ}【果】サクランボ（の実）,=dolc^a  / sakur=【植】サクラ
+穗	3	spik={Ｂ}【植】穂（ほ）;【植】穂状花序（すいじょう / ament=【植】【PIV】Infloresko, dens
+鸡	2	kok={Ｂ}【鳥】ニワトリ（鶏）;【生】=mikrok / galin=【動】【PIV】G. (Genro) (Gall
+松	2	pin={Ｂ}【植】マツ（松）（属） / pini={Ｏ}【植】イタリアカサマツ（種）,>>pino
+橡	2	kverk={Ｂ}【植】ナラ（楢）,カシ（樫）,オーク;【植 / glan={Ｏ}【植】カシの実,どんぐり;【解】亀頭
+蕉	2	banan={Ｂ}【果】バナナ / pizang=【植】バナナの一種,>>banano
+鸥	2	mev={Ｏ}【鳥】カモメ（鴎）（科） / lar=【鳥】カモメ（属）,>>mevo
+茎	2	tig={Ｂ}【植】茎（くき）;（ピストンなどの）棒,軸 / kulm=【植】（麦などの）茎,>>tigo;《詩》=>k
+蝗	2	akrid={Ｂ}（一般に）バッタ（蝗虫）;【虫】ショウリョ / lokust=【虫】トノサマバッタ（属）,>>akrido;飛
+棕	2	palm={Ｂ}【植】ヤシ（椰子）,シュロ（棕櫚）（ヤシ科 / arek=【植】【PIV】G. (Genro) (Arec
+莲	2	lotus={Ｂ}【植】ハス（蓮）,スイレン（睡蓮）;【建】 / nelumb=【植】【PIV】G. (Genro) (Nelu
+李	2	prun={Ｂ}【果】西洋すもも,すもも（李）,プラム / prunus=【植】【PIV】G. (Genro) (Prun
+芹	2	celeri={Ｏ}【植】セロリ,オランダミツバ / api={Ｏ}【植】オランダミツバ（属）,>>celer
+蚌	2	ostr={Ｏ}《般》カキ（牡蠣）;【貝】イタボガキ（板甫 / mitul={Ｏ}【貝】イガイ（貽貝）（属）,ムール貝
+榴	2	granat={Ｏ}【果】ザクロ / punik=【植】【PIV】G. (Genro) (Puni
+莺	2	silvi={Ｏ}【鳥】オナガムシクイ（尾長虫喰）（属） / ugvis=【鳥】ウグイス
+蛾	2	mote=【動】【PIV】Malgranda, malut / bombiks=【虫】カイコガ,カイコ（蚕）,>>silkrau
+萤	2	lampir={Ｏ}【虫】ツチボタル（属）,>>lumverm / luciol=【虫】ゲンジボタル（属）,>>lampiro
+蛤	2	meretrik=《Ｎ》【貝】ハマグリ（mang^ebla duv / ruditap=《Ｎ》【貝】アサリ（mang^ebla duva
+偶	8	pup={Ｂ}人形;指人形,=gantopupo;【虫】
+冠	8	krest={Ｂ}【動】（鳥の）とさか;（鳥の）羽冠;《転》
+裂	7	dehisk=【植】裂開性の
+球	7	bulb={Ｂ}【植】球根,りん茎;【料】玉ねぎ,=>ce
+脉	7	angi=【解】脈管,>>arterio,>>vejno,
+原	6	pamp=【植】【生態】【地理】【PIV】S-Amerik
+静	6	kvi=【動】【PIV】Estanta en kviec
+皮	6	kortik=【解】【植】【PIV】(cortex) 1 Su
+药	6	oficin=【植】（分類名で）薬用の;【薬】薬局方の,=ap
+心	5	kardi=【貝】ヨーロッパザルガイ（食用の二枚貝）;【解】
+壳	5	karapac=【動】（カメ・カニなどの）甲羅（こうら）,甲皮,
+槽	5	alveol=【植】【解】（蜂の巣状の）小孔;【解】歯槽,>>
+事	4	ke=【動】【PIV】Sp. (Specio) (Ne
+蓝	4	vajd=【植】【PIV】1 Tinktura izati
+杯	4	kalik={Ｏ}（脚のついた広口の）杯;【カ】聖杯;【植】
+鼻	4	rostr={Ｏ}【動】（象の）鼻,>>muzelo;【虫】
+线	4	line=【植】リンネソウ（属）
+胸	4	torak=【解】胸郭;【虫】（昆虫の）胸部
+丝	4	filament=【電】フィラメント;【植】花糸;【解】線条組織
+烟	4	tabak={Ｂ}たばこ（煙草）;【植】タバコ,=nikot
+植	4	fit=【植】【PIV】Planto vs (vasta
+粉	4	polen=［他］【植】受粉させる,授粉する
+配	4	kopulaci=［自］【動】交尾する;【生】接合する
+索	4	funikl=【植】珠柄;【解】帯（たい）,索,束
+鞭	4	flagel=【植】【動】【PIV】Vipoforma fil
+甲	4	skarab={Ｏ}【虫】タマオシコガネ,スカラベ（属）;《般
+抑	4	inhib=【植】【生】【化】【PIV】(tr (trans
+水	3	hidr={Ｏ}【動】ヒドラ;【神】ヒドラ（九つの頭をもつ
+缺	3	lakun=【植】【解】【PIV】1 (lacuna) Ma
+石	3	diant={Ｂ}【植】ナデシコ（属）,カーネーション,セキ
+马	3	onagr=【動】【PIV】Sp. (Specio) de 
+牛	3	bov={Ｂ}【動】ウシ（牛）（属）
+卵	3	ovol=【動】卵子;【植】胚珠（はいしゅ）
+袋	3	marsupi=【動】【PIV】(marsupium) Vent
+唇	3	labi=【植】（花冠の）上唇,下唇;【解】唇形のもの
+尖	3	apeks=【解】【植】【天】【PIV】1 Konusfor
+谷	3	cereal=【植】穀草,穀物,>>greno
+腹	3	abdomen=【解】腹部,=ventro;【虫】（昆虫の）腹部
+爬	3	ramp=這う;【植】匍匐性の;《転》卑屈な
+郁	3	tulip={Ｏ}【植】チューリップ（属）
+沟	3	kloak={Ｏ}下水道,下水管;《転》掃きだめ,巣窟（そう
+漆	3	urus^i=【植】【PIV】1 Sp. (Specio) d
+丛	3	makis=【植】（地中海沿岸の）潅木密生地帯,マキ,>>a
+瘤	3	veruk={Ｂ}【医】いぼ;【植】こぶ,小隆起
+锥	3	strobil=【植】球果（きゅうか）,=konuso
+钳	3	h^elicer=【動】【PIV】La unua para mem
+舰	3	fregat={Ｏ}【軍】フリゲート艦;【鳥】グンカンドリ（属
+落	2	decidu=【植】【動】【PIV】Defalema.
+猫	2	felis=【動】ネコ属（の動物）,>>kato
+轮	2	verticil=【植】【PIV】Aro, almenau^ tr
+米	2	riz={Ｂ}【植】イネ（稲）（種）;《般》米（粒）;【
+根	2	radik=根の;《転》根本的な,根源的な;【植】根生の;【
+针	2	pingl={Ｂ}ピン,留め針;【植】針葉
+兔	2	kunikl={Ｂ}【動】カイウサギ,イエウサギ（家兎）,>>
+师	2	divizi={Ｏ}【軍】師団;【植】（分類学上の）門,>>k
+毫	2	mili={Ｏ}【植】雑穀（アワ，キビ，ヒエ，モロコシなど
+癌	2	kancer={Ｏ}【病】がん（癌）,>>tumoro;【植】
+竹	2	bambuz=【植】【PIV】Tipa g. (genro) 
+芥	2	sinap={Ｏ}【植】カラシ（芥子）（属）,>>musta
+鲨	2	skval=【魚】ツノザメ（角鮫）（属）
+蜜	2	nektar={Ｏ}【神】ネクタル（酒）;《転》甘露,美酒;【
+椒	2	piper=【植】【PIV】G. (Genro) (Pipe
+杏	2	anzu=【植】【PIV】1 Var. (Vari(aj^
+轴	2	aks={Ｂ}軸,軸線;【植】軸;【数】軸;【天】自転軸
+桂	2	lau^r={Ｏ}【植】ゲッケイジュ（属）（月桂樹）
+栗	2	maron=【果】（栽培された）栗,大栗,>>kas^tan
+茧	2	kokon={Ｏ}【虫】繭（まゆ）;（クモの）卵嚢（らんのう
+锈	2	ured=【植】【PIV】1 Eksa formgenro
+翅	2	pterig=【動】【PIV】Permuskole movat
+瓣	2	petal={Ｏ}【植】花弁,花びら,=korolfolio
+菱	2	romb={Ｏ}【数】菱形（ひしがた）;【魚】=rombo
+臀	2	grop=【動】【PIV】1 La posta parto
+辣	2	kapsik={Ｏ}【植】トウガラシ（唐辛子）（属）,>>pa
+垛	2	krenel=銃眼のついた;【植】（葉の縁が）鈍鋸歯状の
+梅	2	ume=【果】ウメ（梅）の実;【植】ウメ（梅）,=ume
+梗	2	pedunkl=【植】花柄;【解】脳脚
+蠕	2	helmint=【動】【PIV】Kn (Kolektiva no
+颠	2	atrop=【植】【PIV】G. (Genro) (Atro
+柄	2	stip={Ｏ}【植】ハネガヤ（羽茅）（属）;【植】（キノ
+寄	2	visk={Ｏ}【植】ヤドリギ（宿木）（属）
+杉	1	abi={Ｂ}【植】モミ（樅）（属）
+燕	1	hirund={Ｂ}【鳥】ツバメ（属）;=domhirundo
+豌	1	piz={Ｂ}【植】エンドウ（豌豆）（属）;《般》えんど
+桦	1	betul={Ｂ}【植】カバノキ（属）,シラカバ（白樺）
+蹄	1	huf={Ｂ}【動】ひづめ（蹄）
+鹃	1	kukol={Ｂ}【鳥】カッコウ（属）
+葡	1	vit={Ｂ}【植】ブドウ（葡萄）（属）,=vinber
+鸭	1	anas={Ｂ}【鳥】アヒル（家鴨）
+象	1	elefant={Ｂ}【動】ゾウ（象）
+肋	1	rip={Ｂ}【解】肋骨（ろっこつ）,あばら骨;【植】葉
+梨	1	pir={Ｂ}【果】ナシ（梨）,洋ナシ
+粟	1	panic=《Ｎ》【植】キビ（黍）（属）,>>mileo
+桃	1	persik={Ｂ}【果】モモ（桃）
+虎	1	tigr={Ｂ}【動】トラ（虎）
+鹅	1	anser={Ｂ}【鳥】ガチョウ（鵞鳥）;《転》まぬけ者
+鹤	1	gru={Ｂ}【鳥】ツル
+驼	1	kamel={Ｂ}【動】ラクダ（属）
+椰	1	kokos={Ｂ}【果】ヤシの実,ココナッツ;【植】=kok
+蝎	1	skorpi={Ｂ}【動】サソリ（蠍）（目の総称）;【聖】さそ
+阀	1	valv=【機】弁,バルブ;（タイヤの）チューブバルブ;【
+蚤	1	pul={Ｏ}【動】ノミ（蚤）（ノミ目の総称）,>>ci
+蔗	1	sakar=【植】【PIV】G. (Genro) (Sacc
+串	1	grapol=（花や果実の）房;【植】総状花序
+蟋	1	gril={Ｏ}【虫】コオロギ
+蜕	1	mud=【動】【PIV】S^ang^ig^o de ha
+桑	1	morus={Ｏ}【果】桑（くわ）の実;【植】=morusa
+腋	1	aksel={Ｏ}【解】腋（わき）の下;【植】葉腋（ようえき
+茅	1	espart=【植】【PIV】Komuna nomo de d
+薯	1	maniok={Ｏ}【植】キャッサバ,マニオク,>>tapio
+菇	1	bolet=【菌】イグチ（アミタケ科のキノコの総称）,=tu
+枫	1	acer={Ｏ}【植】カエデ（楓）（属）
+葛	1	arorut=【植】クズウコン;【料】アロールートデンプン;（
+柑	1	citrus=【植】かんきつ（柑橘）類（の樹木、ミカン・ダイダ
+猩	1	goril={Ｏ}【動】ゴリラ
+橘	1	mandarin={Ｏ}【果】マンダリン,ミカン（蜜柑）,>>or
+荔	1	lic^i=【植】【PIV】1 G. (Genro) (Li
+榕	1	fikus=【植】【PIV】G. (Genro) (Ficu
+胎	1	fet=【動】胎児（妊娠３ヶ月以降）,>>embrio
+砰	1	pum=【動】ピューマ
+颖	1	glum=【植】包穎（ほうえい）
+猬	1	erinac={Ｏ}【動】ハリネズミ
+苞	1	brakte=【植】【PIV】Folio, aksele de
+柏	1	cipres={Ｏ}【植】イトスギ（ヨーロッパでは喪の象徴）
+藤	1	heder={Ｏ}【植】キヅタ（属）,ヘデラ,アイビー
+
+### [1b] 生物以外の単字master(参考・解剖/器官などに使える)
+金(vendred) 气(aer) 带(zon) 团(grup) 车(aŭt) 复(ripet) 鸣(blek) 异(fremd) 顶(supr) 幻(rev) 生(okaz) 帽(ĉapel)
+糖(suker) 射(radi) 脂(gras) 秘(sekret) 镜(spegul) 狂(frenez) 辩(advokat) 古(antikv) 矿(min) 队(karavan) 琴(pian) 无(nenio)
+分(on) 散(dis) 转(turn) 报(gazet) 主(precip) 板(plank) 酒(vin) 俗(mor) 极(ekstrem) 装(munt) 饼(biskvit) 节(silab)
+隔(izol) 旋(spiral) 全(ĉio) 代(anstataŭ) 巨(eg) 使(ig) 信(kred) 学(lern) 动(mov) 整(tut) 市(urb) 风(vent)
+封(kovert) 热(hejt) 印(pres) 骗(tromp) 表(esprim) 滑(glat) 会(kongres) 雕(agl) 炉(forn) 管(tub) 魔(diabl) 证(atest)
+浸(tremp) 概(probabl) 合(konform) 台(podi) 废(rub) 丑(skandal) 膏(cir) 凸(ĝib) 套(jung) 架(c^arpent) 外(ekster) 粒(er)
+现(nun) 减(minus) 形(form) 名(nom) 压(prem) 感(sent) 结(lig) 切(tranĉ) 存(ekzist) 教(instru) 乐(plezur) 斜(klin)
+严(serioz) 伴(koleg) 划(strek) 适(taŭg) 伪(fals) 册(kajer) 字(liter) 刺(pik) 敬(respekt) 特(special) 论(diskut) 检(ekzamen)
+情(humor) 洞(kav) 省(ŝpar) 舟(boat) 剧(teatr) 调(ton) 械(meĥanik) 操(operaci) 棚(bud) 面(surfac) 排(ekskluziv) 肠(kolbas)
+徽(insign) 缩(ful) 穿(tra) 因(pro) 内(en) 前(antaŭ) 期(dum) 过(preter) 成(iĝ) 器(uj) 女(in) 确(ja)
+族(naci) 能(pov) 同(sam) 地(ter) 色(kolor) 议(konsil) 记(memor) 部(part) 民(popol) 治(reg) 注(atent) 方(direkt)
+导(konduk) 赞(konsent) 体(korp) 中(mez) 护(zorg) 级(klas) 推(puŝ) 卷(volv) 角(angul) 测(mezur) 令(ordon) 诉(plend)
+理(prav) 种(spec) 创(kre) 式(manier) 星(stel) 宣(anonc) 坚(firm) 磨(polur) 文(artikol) 电(elektr) 展(evolu) 折(fald)
+闪(fulm) 升(litr) 抗(protest) 环(ring) 题(tem) 联(asoci) 库(bibliotek) 官(oficial) 诗(poem) 胶(glu) 编(redakt) 香(spic)
+锅(kaserol) 委(komitat) 叛(ribel) 摇(balanc) 钻(bor) 淋(duŝ) 柱(fost) 袍(rob) 毒(venen) 弹(bomb) 栓(kran) 位(pozici)
+谐(humur) 喷(jet) 冲(konflikt) 夹(kramp) 禁(tabu) 悲(aflikt) 派(deput) 退(emerit) 否(negativ) 栏(rubrik) 暴(ŝtorm) 审(revizi)
+硬(rigid) 吸(sorb) 荡(vag) 泡(ampol) 虚(fikci) 补(flik) 梁(trab) 填(rembur) 偏(devi) 妓(prostitu) 督(prefekt) 营(kazern)
+晕(halo) 垂(perpendikular) 赏(aprez) 何(kio) 某(io) 那(tio) 对(kontraŭ) 倾(em) 具(il) 值(ind) 反(mal) 日(dimanĉ)
+才(apenaŭ) 连(eĉ) 和(kaj) 人(oni) 己(si) 余(rest) 良(bon) 室(ĉambr) 大(grand) 解(kompren) 认(kon) 集(kolekt)
+口(buŝ) 指(fingr) 单(fraŭl) 片(pec) 权(rajt) 觉(rimark) 变(ŝanĝ) 声(son) 标(cel) 选(elekt) 正(ĝust) 意(ide)
+亲(kar) 商(komerc) 乳(lakt) 定(fiks) 验(spert) 停(halt) 院(kort) 法(rimed) 庆(fest) 血(sang) 实(efektiv) 判(juĝ)
+律(leĝ) 包(pak) 王(reĝ) 盘(teler) 拍(fot) 接(kontakt) 录(registr) 响(sonor) 支(apog) 攻(atak) 障(bar) 瓶(botel)
+防(defend) 密(dens) 博(doktor) 客(gast) 仿(imit) 服(jak) 箱(kest) 游(naĝ) 价(prez) 进(progres) 规(regul) 圣(sankt)
+科(scienc) 奇(strang) 布(tol) 损(difekt) 层(etaĝ) 传(komunik) 涉(koncern) 质(kvalit) 租(lu) 养(nutr) 源(origin) 饰(ornam)
+场(plac) 轨(rel) 社(soci) 空(spac) 欠(ŝuld) 评(taks) 图(map) 厅(salon) 系(sistem) 档(dokument) 音(prononc) 视(televid)
+桶(kuv) 边(rand) 命(sort) 坡(dekliv) 砍(hak) 侍(kelner) 钩(kroĉ) 曲(kurb) 钉(najl) 牧(pastr) 织(teks) 道(bulvard)
+寓(apartament) 保(asekur) 冷(indiferent) 技(inĝenier) 昏(sven) 径(trotuar) 替(alternativ) 航(aviad) 乱(konfuz) 约(kontrakt) 贵(nobl) 称(pretend)
+程(proces) 段(epizod) 皱(grimac) 灾(katastrof) 拜(ador) 芽(burĝon) 胞(ĉel) 微(nuanc) 缀(prefiks) 瘫(pane) 塑(plast) 相(relativ)
+盟(sindikat) 林(ale) 颂(himn) 狱(infer) 媚(koket) 撞(kolizi) 廊(koridor) 签(lot) 渣(feĉ) 硫(sulf) 远(tele) 胀(puf)
+沉(merg) 僧(monah^) 巡(kroz) 纹(frang^) 谋(konspir) 煮(stuf) 偿(amortiz) 逐(ekzil) 缓(lant) 附(incident) 玉(jasp) 喘(astm)
+出(el) 至(ĝis) 下(sub) 围(ĉirkaŭ) 千(mil) 百(cent) 六(ses) 十(dek) 员(an) 小(et) 群(ar) 性(ec)
+座(ing) 长(estr) 家(ist) 组(op) 双(ge) 土(sabat) 月(lund) 任(ajn) 将(baldaŭ) 明(morgaŭ) 比(ol) 喂(he)
+高(alt) 终(fin) 强(fort) 喜(ĝoj) 重(grav) 童(infan) 头(kap) 清(klar) 国(land) 处(lok) 战(milit) 界(mond)
+示(montr) 死(mort) 多(mult) 新(nov) 求(pet) 速(rapid) 收(ricev) 红(ruĝ) 知(sci) 活(viv) 路(voj) 愿(vol)
+打(bat) 白(blank) 惊(mir) 黑(nigr) 占(okup) 思(pens) 许(permes) 门(pord) 点(punkt) 简(simpl) 拉(tir) 真(ver)
+颜(vizaĝ) 旅(vojaĝ) 亮(bril) 齿(dent) 疑(dub) 史(histori) 算(kalkul) 烹(kuir) 宽(larĝ) 洗(lav) 想(opini) 备(pret)
+务(serv) 办(ag) 邮(poŝt) 智(saĝ) 似(simil) 访(vizit) 公(publik) 刻(moment) 数(nombr) 步(paŝ) 圆(rond) 态(stat)
+玻(vitr) 礼(donac) 效(efik) 等(egal) 灰(griz) 罪(kulp) 医(kurac) 号(numer) 职(ofic) 影(ombr) 普(ordinar) 区(region)
+干(sek) 偷(ŝtel) 阶(ŝtup) 总(sum) 剪(tond) 神(di) 含(inkluziv) 获(akir) 警(avert) 枝(branĉ) 扣(buton) 旗(flag)
+扰(ĝen) 告(inform) 耕(kultur) 容(mien) 忍(pacienc) 网(ret) 责(riproĉ) 列(seri) 符(sign) 盒(skatol) 渴(soif) 突(subit)
+显(aspekt) 票(bilet) 利(favor) 馆(hotel) 格(karakter) 粗(krud) 量(kvant) 柔(mild) 咕(murmur) 胃(stomak) 堵(ŝtop) 愚(stult)
+墓(tomb) 徒(van) 基(baz) 让(ced) 脑(cerb) 衡(ekvilibr) 除(escept) 献(ofer) 温(temperatur) 型(tip) 货(var) 照(fotograf)
+块(blok) 素(element) 句(fraz) 典(klasik) 改(korekt) 讲(preleg) 交(trafik) 刷(bros) 额(frunt) 铲(ŝovel) 妆(tualet) 尾(vost)
+庄(bien) 距(distanc) 猜(diven) 厌(enu) 笛(fajf) 束(fask) 霜(frost) 雅(graci) 炎(katar) 供(ofert) 剃(raz) 翻(renvers)
+庇(ŝirm) 诱(tent) 罩(kitel) 烤(bak) 醉(ebri) 杰(eminent) 谜(enigm) 嗅(flar) 吞(glut) 帝(imperi) 阁(kabinet) 款(regal)
+弃(rezign) 驾(ŝofor) 螺(ŝraŭb) 条(stri) 裁(tajl) 虐(turment) 帆(vel) 析(analiz) 傲(arogant) 竞(konkur) 泥(kot) 残(kripl)
+梯(lift) 迁(migr) 观(observ) 悔(pent) 肺(pulm) 腐(putr) 股(femur) 怪(grotesk) 好(hobi) 开(inaŭgur) 逆(invers) 碳(karbon)
+类(klasifik) 殖(koloni) 哀(kondolenc) 鼓(tambur) 尿(urin) 老(veteran) 暗(alud) 驳(refut) 震(ŝok) 样(specimen) 痒(tikl) 吐(vom)
+痘(akn) 优(avantaĝ) 贩(brokant) 屠(buĉ) 执(ekzekut) 逃(eskap) 剑(glav) 克(gram) 卫(higien) 缠(implik) 染(infekt) 券(kupon)
+恶(malic) 碱(lesiv) 粪(sterk) 绒(velur) 超(hiper) 硅(silici) 磷(fosfor) 喻(trop) 振(oscil) 涡(kirl) 淫(porn) 凝(kondens)
+蚀(kau^stik) 渗(osmoz) 奸(adult) 滞(staz) 汇(konverg^) 脊(spin) 症(fobi) 淡(fad) 臭(haladz) 轰(detonaci) 隐(ermit) 咏(psalm)
+衰(atenu) 敌(rival) 倒(kusp) 刀(sabr) 敷(foment) 墩(sokl) 卤(halogen) 降(kapitulac) 初(debut) 弱(asteni) 彩(bunt) 插(stik)
+嘶(sibl) 疹(tif) 痴(demenc) 嵌(marketr) 释(ekzegez) 峡(istm) 咒(anatem) 罐(amfor) 青(livid) 后(post) 上(sur) 越(trans)
+在(ĉe) 共(kun) 份(da) 四(kvar) 三(tri) 八(ok) 五(kvin) 七(sep) 行(ad) 倍(obl) 子(id) 所(ej)
+物(aĵ) 卑(fi) 首(ĉef) 再(re) 始(ek) 火(mard) 还(ankoraŭ) 或(aŭ) 离(for) 他(li) 我(mi) 即(tuj)
+加(plus) 问(demand) 欲(dezir) 次(foj) 有(hav) 助(help) 幼(jun) 田(kamp) 举(lev) 手(man) 话(parol) 父(patr)
+满(plen) 运(port) 近(proksim) 富(riĉ) 笑(rid) 像(ŝajn) 送(send) 书(skrib) 乘(vetur) 词(vort) 续(daŭr) 艺(art)
+待(atend) 听(aŭd) 燃(brul) 睡(dorm) 窗(fenestr) 毛(har) 钟(hor) 投(ĵet) 建(konstru) 费(kost) 育(kresk) 勇(kuraĝ)
+语(lingv) 食(manĝ) 钱(mon) 壁(mur) 必(neces) 目(okul) 足(pied) 述(rakont) 寻(serĉ) 唯(sol) 怕(tim) 饮(trink)
+用(uz) 晚(vesper) 快(agrabl) 受(akcept) 杂(divers) 痛(dolor) 望(esper) 忘(forges) 欢(gaj) 园(ĝarden) 怒(koler) 玩(lud)
+云(nub) 河(river) 破(romp) 健(san) 饱(sat) 触(tuŝ) 益(util) 决(decid) 流(flu) 悦(plaĉ) 作(verk) 混(miks)
+独(apart) 噪(bru) 例(ekzempl) 铁(fer) 颈(kol) 序(ord) 羽(plum) 跳(salt) 苦(sufer) 厢(vagon) 醒(vek) 产(produkt)
+银(arĝent) 凳(benk) 褐(brun) 止(ĉes) 危(danĝer) 背(dors) 尊(estim) 黄(flav) 底(fund) 守(gard) 墨(ink) 笔(krajon)
+腿(krur) 勺(kuler) 宁(prefer) 直(rekt) 锁(ŝlos) 灵(spirit) 广(vast) 储(rezerv) 锐(akr) 属(aparten) 吹(blov) 猎(ĉas)
+衫(ĉemiz) 舞(danc) 细(delikat) 平(eben) 避(evit) 忠(fidel) 诚(honest) 舒(komfort) 较(kompar) 恒(konstant) 通(korespond) 灯(lamp)
+课(lecion) 机(maŝin) 熟(matur) 订(mend) 西(okcident) 油(ole) 东(orient) 骨(ost) 裤(pantalon) 糊(past) 描(pentr) 准(preciz)
+祈(preĝ) 奖(premi) 罚(pun) 关(rilat) 柜(ŝrank) 南(sud) 肉(viand) 拭(viŝ) 伤(vund) 掘(fos) 军(arme) 盲(blind)
+魅(ĉarm) 央(centr) 愈(des) 勤(diligent) 探(esplor) 伸(etend) 假(feri) 婚(fianĉ) 度(grad) 味(gust) 谦(humil) 缝(kudr)
+仓(magazen) 披(mantel) 雾(nebul) 政(politik) 力(potenc) 私(privat) 骑(rajd) 餐(restoraci) 汁(suk) 肩(ŝultr) 设(supoz) 汗(ŝvit)
+译(traduk) 塔(tur) 辨(disting) 厂(fabrik) 景(pejzaĝ) 互(reciprok) 刊(revu) 拧(tord) 拖(tren) 资(burĝ) 谈(konversaci) 提(menci)
+臣(ministr) 率(procent) 况(situaci) 扫(bala) 酪(fromaĝ) 炭(karb) 壶(pot) 逗(ŝerc) 刮(skrap) 爪(ung) 砖(brik) 激(ekscit)
+喉(gorĝ) 框(kadr) 棉(koton) 革(led) 污(makul) 锤(martel) 材(material) 垫(matrac) 迫(persekut) 岩(rok) 铺(stern) 姿(gest)
+荣(glor) 雹(hajl) 塞(kork) 酬(rekompenc) 桩(stump) 贴(afiŝ) 促(akcel) 醇(alkohol) 弧(ark) 祝(ben) 顽(bub) 恼(ĉagren)
+链(ĉen) 引(cit) 夸(fanfaron) 烧(febr) 宴(festen) 碎(frakas) 炸(frit) 烫(glad) 湾(golf) 湿(humid) 税(impost) 侮(insult)
+誓(ĵur) 宝(juvel) 哼(ronk) 敏(sagac) 涂(ŝmir) 槛(sojl) 构(struktur) 窒(sufok) 烦(ted) 覆(teg) 寡(vidv) 德(virt)
+纱(vual) 抽(abstrakt) 志(ambici) 天(astronomi) 佛(budh) 映(kin) 揉(kned) 栅(krad) 陡(krut) 帘(kurten) 模(model) 筋(muskol)
+朴(naiv) 宫(palac) 延(prokrast) 账(faktur) 败(fiask) 哲(filozofi) 版(format) 坛(forum) 校(gimnazi) 横(horizontal) 艇(jakt) 牢(karcer)
+讽(karikatur) 码(kod) 辅(konsonant) 贡(kontribu) 协(kooperativ) 嘱(testament) 宇(univers) 募(varb) 元(vokal) 副(adverb) 幕(akt) 断(asert)
+当(deĵor) 矛(lanc) 发(lanĉ) 腰(lumb) 磁(magnet) 赛(matĉ) 境(medi) 核(nukle) 并(paralel) 被(pasiv) 盆(pelv) 丸(pilol)
+统(prezident) 参(referenc) 稳(stabil) 计(statistik) 迷(superstiĉ) 碑(monument) 忽(neglekt) 拼(ortografi) 侯(princ) 授(profesor) 案(projekt) 谚(proverb)
+肾(ren) 韵(rim) 训(trejn) 隆(tuber) 吨(tun) 仇(venĝ) 积(volumen) 孔(apertur) 摆(bask) 辱(blasfem) 勒(brid) 厘(centimetr)
+棺(ĉerk) 揭(denunc) 疫(epidemi) 宏(grandioz) 孕(graved) 个(individu) 启(inspir) 渠(kanal) 胆(gal) 轧(grinc) 纬(latitud) 吼(muĝ)
+潜(plonĝ) 脓(pus) 露(ros) 媒(svat) 疗(terapi) 氮(nitr) 炮(kanon) 纤(fibr) 钠(natri) 兆(bilion) 膨(dilat) 缆(kabl)
+霉(s^im) 啪(krak) 圈(boben) 农(agr) 粘(muk) 半(hemi) 跷(baskul) 胚(embri) 怖(teror) 士(kavalir) 浆(plasm) 腺(gland)
+髓(medol) 盔(kask) 经(bibli) 祭(mes) 换(komut) 焊(lut) 杀(icid) 醋(vinagr) 役(kampanj) 销(stift) 陨(meteor) 贯(koher)
+害(atenc) 累(akumul) 泻(laks) 惯(inerci) 义(justic) 慢(kronik) 刑(kriminal) 炫(parad) 蓬(hirt) 张(toni) 诈(artifik) 廓(profil)
+秃(kalv) 监(gvat) 矾(vitriol) 侦(skolt) 劫(kaper) 低(bas) 漏(lik) 疮(ulcer) 牌(medal) 枪(pistol) 梭(naved) 匕(ponard)
+粮(proviant) 谨(diskret) 浮(bu) 短(efemer) 诲(kateh^iz) 扩(amplif) 疟(malari) 稀(dilu) 胰(pankreat) 冻(krio) 钝(obtuz) 摘(pluk)
+预(anticip) 缘(afin) 囤(stapl) 缎(saten) 批(ratifik) 颁(dekret) 剖(anatomi) 淤(aluvi) 窝(ricel) 耙(rast) 啃(rod) 朱(cinabr)
+檐(kornic) 歌(uta) 臼(molar) 限(fini) 滩(plag^) 踢(kalcitr) 堤(g^et) 胖(obez) 托(korbel) 贬(deprec) 割(serp) 嚎(hurl)
+归(atribu) 绞(strangol) 屎(merd) 叙(ordin) 福(elize) 炼(kupel) 著(signifikanc) 赦(amnesti) 邪(pervers) 镑(sterling) 啼(grak) 锣(tamtam)
+堡(burg) 怯(timid) 癣(skabi) 此(cis) 巫(s^aman) 冗(redund) 腮(mumps) 厕(klozet) 隙(interstic) 垒(rempar) 卡(kart) 于(pri)
+每(po) 间(inter) 以(per) 向(al) 为(por) 按(laŭ) 旁(apud) 从(de) 九(naŭ) 二(du) 一(unu) 劣(aĉ)
+者(ul) 可(ebl) 须(end) 误(mis) 姻(bo) 旧(eks) 两(ambaŭ) 也(ankaŭ) 吗(ĉu) 故(do) 它(ĝi) 昨(hieraŭ)
+今(hodiaŭ) 已(jam) 这(jen) 刚(ĵus) 虽(kvankam) 如(kvazaŭ) 自(mem) 不(ne) 仅(nur) 最(plej) 更(pli) 几(preskaŭ)
+若(se) 但(sed) 她(ŝi) 却(tamen) 很(tre) 太(tro) 你(vi) 别(ali) 爱(am) 友(amik) 美(bel) 应(dev)
+说(dir) 给(don) 是(est) 易(facil) 做(far) 幸(feliĉ) 侧(flank) 往(ir) 年(jar) 些(kelk) 劳(labor) 末(last)
+读(leg) 住(loĝ) 置(met) 拿(pren) 答(respond) 随(sekv) 坐(sid) 君(sinjor) 立(star) 时(temp) 持(ten) 来(ven)
+见(vid) 男(vir) 零(nul) 买(aĉet) 需(bezon) 画(bild) 谢(dank) 右(dekstr) 甘(dolĉ) 屋(dom) 夫(edz) 闭(ferm)
+儿(fil) 飞(flug) 兄(frat) 趣(interes) 唱(kant) 郎(knab) 叫(kri) 跑(kur) 留(las) 床(lit) 光(lum) 海(mar)
+晨(maten) 山(mont) 付(pag) 失(perd) 呈(prezent) 试(prov) 纯(pur) 遇(renkont) 看(rigard) 周(semajn) 阳(sun) 桌(tabl)
+暖(varm) 衣(vest) 早(fru) 岁(aĝ) 堆(amas) 秋(aŭtun) 厚(dik) 错(erar) 捕(kapt) 藏(kaŝ) 盖(kovr) 躺(kuŝ)
+疲(lac) 然(natur) 雪(neĝ) 夜(nokt) 叔(onkl) 耳(orel) 纸(paper) 恕(pardon) 哭(plor) 雨(pluv) 春(printemp) 休(ripoz)
+椅(seĝ) 默(silent) 船(ŝip) 夏(somer) 街(strat) 够(sufiĉ) 卖(vend) 绿(verd) 冬(vintr) 呼(vok) 到(ating) 浴(ban)
+邀(invit) 软(mol) 页(paĝ) 挂(pend) 研(stud) 憾(bedaŭr) 找(trov) 胜(venk) 善(afabl) 爷(av) 岸(bord) 臂(brak)
+敲(frap) 赢(gajn) 习(kutim) 努(pen) 深(profund) 玫(roz) 站(staci) 村(vilaĝ) 借(prunt) 址(adres) 娱(amuz) 魂(anim)
+泉(font) 鲜(freŝ) 膝(genu) 冰(glaci) 怜(kompat) 糕(kuk) 堂(kuz) 湖(lag) 舌(lang) 巧(lert) 嘲(mok) 诺(promes)
+宗(religi) 息(spir) 恐(terur) 击(traf) 穴(tru) 汽(vapor) 纳(kotiz) 篇(novel) 武(arm) 棒(baston) 沸(bol) 章(ĉapitr)
+绘(desegn) 灭(esting) 专(fak) 骄(fier) 滴(gut) 誉(honor) 耻(hont) 业(industri) 岛(insul) 吻(kis) 件(kondiĉ) 谎(mensog)
+胁(minac) 邻(najbar) 孙(nep) 侄(nev) 常(oft) 北(nord) 波(ond) 驱(pel) 苹(pom) 桥(pont) 践(praktik) 荐(rekomend)
+拒(rifuz) 修(ripar) 盐(sal) 皂(sap) 救(sav) 季(sezon) 兵(soldat) 兑(spez) 紧(streĉ) 袜(ŝtrump) 鞋(ŝu) 汤(sup)
+颤(trem) 巾(tuk) 颊(vang) 载(ŝarĝ) 祸(akcident) 聊(babil) 毁(detru) 练(ekzerc) 窘(embaras) 纪(epok) 永(etern) 熔(fand)
+焰(flam) 享(ĝu) 港(haven) 犹(hezit) 裙(jup) 虑(konsider) 慰(konsol) 奢(luks) 惨(mizer) 哑(mut) 巢(nest) 裸(nud)
+便(oportun) 橙(oranĝ) 苍(pal) 慎(prudent) 狡(ruz) 沙(sabl) 秒(sekund) 梦(sonĝ) 肿(ŝvel) 雷(tondr) 急(urĝ) 浇(verŝ)
+佩(admir) 店(butik) 弯(fleks) 功(funkci) 贺(gratul) 完(perfekt) 抢(rab) 野(sovaĝ) 撒(ŝut) 驴(azen) 篮(korb) 酸(acid)
+靴(bot) 惜(domaĝ) 刃(kling) 砌(mason) 固(solid) 绝(absolut) 演(aktor) 宜(dec) 拙(fuŝ) 尽(klopod) 吝(avar) 胡(barb)
+嘴(bek) 窖(kel) 梳(komb) 蝇(muŝ) 扁(plat) 尘(polv) 绳(ŝnur) 聋(surd) 咳(tus) 丰(abund) 柴(alumet) 冒(aventur)
+漠(dezert) 溺(dron) 筏(flos) 锻(forĝ) 品(frand) 擦(frot) 呻(ĝem) 本(instinkt) 跛(lam) 泪(larm) 狮(leon) 袖(manik)
+咬(mord) 党(parti) 皿(plad) 拳(pugn) 井(put) 薪(salajr) 毯(tapiŝ) 呢(drap) 磅(funt) 惠(komplez) 挤(melk) 孤(orf)
+歇(paŭz) 镐(pioĉ) 罢(strik) 劝(admon) 施(almoz) 贪(avid) 挣(barakt) 婴(beb) 吠(boj) 刹(brems) 眉(brov) 舀(ĉerp)
+融(degel) 争(disput) 雇(dung) 爆(eksplod) 羡(envi) 财(financ) 飘(flirt) 丧(funebr) 继(hered) 唆(instig) 聪(inteligent) 妒(ĵaluz)
+历(kalendar) 险(risk) 酱(saŭc) 锯(seg) 猿(simi) 奴(sklav) 慕(sopir) 钢(ŝtal) 杆(stang) 挥(sving) 帐(tend) 熊(urs)
+枯(velk) 坎(veŝt) 狐(vulp) 宾(akuzativ) 逮(arest) 敢(aŭdac) 晓(aŭror) 陶(ceramik) 言(dialekt) 歧(diskriminaci) 跟(kalkan) 烛(kandel)
+抚(kares) 城(kastel) 奏(koncert) 弦(kord) 肘(kubut) 铜(kupr) 舔(lek) 狼(lup) 嚼(maĉ) 沼(marĉ) 呕(naŭz) 掐(pinĉ)
+铅(plumb) 岗(posten) 泵(pump) 查(enket) 伦(etik) 幽(fantom) 肥(fekund) 滤(filtr) 威(impon) 烈(intens) 蹲(kaŭr) 谣(klaĉ)
+键(klav) 询(konsult) 陆(kontinent) 翔(ŝveb) 潮(tajd) 术(taktik) 庙(templ) 币(valut) 茂(veget) 竖(vertikal) 谬(absurd) 蒜(ajl)
+闻(anekdot) 擅(arbitr) 琐(bagatel) 消(digest) 维(dimensi) 回(eĥ) 屏(ekran) 采(ekspluat) 吵(kverel) 稿(manuskript) 摩(masaĝ) 里(mejl)
+咪(miaŭ) 垄(monopol) 由(motiv) 范(norm) 慌(panik) 悖(paradoks) 括(parentez) 宿(pension) 暂(provizor) 紫(purpur) 各(respektiv) 棋(ŝak)
+沐(ŝampu) 席(mat) 洋(ocean) 摸(palp) 亡(pere) 珠(perl) 拓(pionir) 众(popular) 肖(portret) 则(princip) 制(reĝim) 矢(sag)
+沫(ŝaŭm) 安(sekur) 迹(spur) 锡(stan) 领(teritori) 闹(tumult) 隧(tunel) 赌(vet) 牺(viktim) 贞(virg) 锌(zink) 嗡(zum)
+戒(abstin) 搅(agit) 铝(alumini) 舶(bark) 碗(bovl) 畜(brut) 疤(cikatr) 俏(dand) 宠(dorlot) 驯(dres) 赤(ekvator) 悄(flustr)
+抓(grat) 肝(hepat) 仁(human) 免(imun) 惹(incit) 愤(indign) 饶(indulg) 淹(inund) 庐(kaban) 粥(kaĉ) 朽(kaduk) 笼(kaĝ)
+谤(kalumni) 候(kandidat) 宪(konstituci) 耗(konsum) 颅(krani) 贷(kredit) 晶(kristal) 搏(lukt) 斋(fast) 毡(felt) 蚁(formik) 饲(furaĝ)
+篱(heĝ) 陷(insid) 舱(kajut) 诊(klinik) 尉(leŭtenant) 液(likv) 葵(malv) 躁(nervoz) 项(nuk) 鹊(pig) 瓷(porcelan) 挑(provok)
+瞳(pupil) 耘(sark) 怀(sin) 戏(spektakl) 纺(ŝpin) 起(start) 瓦(tegol) 蜡(vaks) 裹(vind) 化(iz) 氧(oksi) 氯(klor)
+亚(hipo) 频(frekvenc) 锰(mangan) 钙(kalci) 钾(kali) 碘(jod) 栽(kultiv) 洁(c^ast) 尸(kadavr) 鞍(sel) 谱(spektr) 馏(distil)
+锚(ankr) 苇(kan) 膜(membran) 盾(s^ild) 酵(ferment) 鳞(skvam) 眼(mas^) 堕(abort) 峰(alp) 绣(brod) 势(potencial) 贿(korupt)
+灼(kau^ter) 铸(gis) 承(lagr) 崇(sublim) 凹(konkav) 絮(flok) 棱(eg^) 捣(pist) 矩(momant) 闸(kluz) 拱(volb) 吾(ego)
+孵(kov) 歼(eksterm) 凯(triumf) 妃(dam) 播(propag) 刨(rabot) 砾(gruz) 谍(spion) 漂(driv) 筛(kribr) 彻(radikal) 瓤(pulp)
+砂(smirg) 抵(hipotek) 溅(plau^d) 扬(ekzalt) 乌(ebon) 矮(nan) 池(cistern) 诵(deklam) 炬(torc^) 篡(uzurp) 踏(tret) 唾(saliv)
+椎(vertebr) 舵(rudr) 焚(incendi) 透(diafan) 伏(embusk) 违(delikt) 抒(lirik) 滥(eksces) 泛(kosmopolit) 殉(martir) 羞(pudor) 爵(baron)
+礁(rif) 棍(klab) 荧(luminesk) 猛(drast) 拦(dig) 肚(trip) 渡(pram) 放(emancip) 汞(hidrarg) 肛(anus) 圃(bed) 泌(sekreci)
+匆(hast) 蛮(barbar) 泽(glace) 庶(bastard) 脐(umbilik) 谓(predikat) 移(translaci) 驻(rezid) 催(kataliz) 悬(suspensi) 灌(klister) 勃(erekt)
+葬(sepult) 仪(rit) 未(futur) 耍(j^ongl) 尔(ci) 略(strategi) 拥(svarm) 樟(kamfor) 屈(fleksi) 咽(faring) 糠(bran) 忧(angor)
+廷(kuri) 介(makler) 差(aberaci) 俯(pron) 艾(moks) 阵(falang) 芯(mec^) 侵(invad) 州(kanton) 削(frez) 籍(matrikul) 万(miria)
+辉(efluv) 摄(kamera) 仰(supin) 驰(galop) 输(transfuz) 抛(parabol) 匿(inkognit) 劲(verv) 啊(ha) 屑(klast) 坑(krater) 病(morb)
+懒(pigr) 吱(knar) 阴(katod) 硕(magistr) 呆(gap) 惰(inert) 迎(lof) 矫(ortopedi) 饺(raviol) 涩(adstring) 茬(stopl) 锦(brok)
+腾(sor) 骂(sakr) 氨(amoniak) 缸(urn) 眠(somnol) 都(metropol) 枕(s^pal) 赚(lukr) 卿(lord) 碧(turkis) 霸(hegemoni) 顾(retrospektiv)
+患(infest) 绕(haspel) 痕(stigmat) 虹(iriz) 氛(etos) 居(setl) 掌(polm) 培(but) 蒸(transpir) 奋(streb) 渊(abism) 讹(c^antag^)
+援(sponsor) 杠(vekt) 嘹(klarion) 造(manufaktur) 脏(viscer) 娇(lind) 朝(dinasti) 慷(prodig) 脾(lien) 均(averag^) 蔑(disdegn) 豪(pomp)
+域(sektor) 迂(pedant) 浊(turbid) 佐(kondiment) 崩(kolaps) 涨(flus) 拟(simul) 刁(c^ikan) 嘿(nu) 畸(terat) 聘(engag^) 翼(plane)
+顺(rezignaci) 乡(rur) 鉴(ekspertiz) 漱(gargar) 驮(ferut) 窃(plagiat) 牡(bok) 锄(rastr) 倦(langvor) 卒(peon) 先(aprior) 估(stim)
+坠(kras^) 讥(rikan) 辞(demisi) 取(retrat) 逼(kompuls) 罗(groc) 腕(pojn) 弓(arc^) 恩(grac) 匠(virtuoz) 绊(stumbl) 丙(propil)
+凤(feniks) 硝(salpetr) 禀(temperament) 禅(zen) 帷(drapir) 状(adjekt) 贫(povr) 辐(spok) 煎(dekokt) 拨(plektr) 迟(tard) 脱(secesi)
+珍(delic) 疆(marki) 凿(gug^) 轿(palanken) 崖(klif) 拐(kidnap) 屁(furz) 挫(frustr) 窄(stret) 簧(anc^) 踱(ambl) 撑(steg)
+乙(etil) 赖(lizin) 左(liv) 叹(suspir) 痢(disenteri) 蔓(sarment) 荒(noval) 洒(asperg) 吓(hu) 础(plint) 雌(femal) 嘻(hihi)
+祖(atav) 焦(koaks) 铭(deviz) 洪(diluv) 灿(splend) 熏(bukan) 尺(uln) 雄(maskl) 溪(roj) 禾(gramin) 犀(rinocer) 薄(minc)
+旱(arid) 脆(fragil) 轻(leg^er) 瘦(magr)
+
+## [2] 既存の多字master(熟語) = 3271種 ★新しい熟語は作れない。使うならこの中から
+熟語	語根数	既に何に割り当てられているか
+羊齿	16	filik={Ｏ}【植】シダ（羊歯） / aspleni=【植】【PIV】G. (Genro) (Aspl / psilot=【植】【PIV】G. (Genro) (Psil / azol=【植】【PIV】G. (Genro) (Azol
+潜鸟	4	gavi=【鳥】=kolimbo（アビ） / greb=【動】【PIV】Podicipo k paren / podicip=【動】【PIV】G. (Genro) (Podi / kolimb={Ｏ}【鳥】アビ（属）,=gavio
+大豆	3	soj=【植】ダイズ（大豆、マメ科の植物）,=sojfa / glicin=【植】ダイズ属;【化】グリシン（アミノ酸の一）; / glicine=【植】=glicino（ダイズ属）
+木瓜	3	cidoni={Ｏ}【植】マルメロ / papaj=【植】パパイア / karik=【植】パパイヤ（属）,>>papajo;【植】=
+香草	3	lavend={Ｏ}【植】ラベンダー（属） / rosmaren={Ｏ}【植】マンネンロウ（万年蝋）（属）;ローズ / origan=【植】ハナハッカ（花薄荷）（属）,オレガノ
+丁香	3	kariofil={Ｏ}【料】チョウジ（丁子）,クローブ / siring={Ｏ}【植】ライラック,ハシドイ（属） / lilak=【植】=siringo（ライラック）
+企鹅	3	sfenisk=【動】【PIV】G. (Genro) (Sphe / pingven={Ｏ}【鳥】ペンギン（科の総称） / pingvin==>pingveno（ペンギン）
+山核桃	2	pekan=【植】【PIV】Speco de nukso,  / karj=【植】【PIV】G. (Genro) (Cary
+愈疮木	2	gajak=【植】=gvajako（ユソウボク） / gvajak=【植】ユソウボク（属）,グアヤク
+木棉	2	kapok=【植】カポック,パンヤ綿（クッション・救命胴衣の / bombak=【植】【PIV】G. (Genro) (Bomb
+杜松	2	juniper={Ｏ}【植】ビャクシン（属）;セイヨウネズ / sabin=【植】【PIV】Sp. (Specio) de 
+毒蛇	2	vipur={Ｏ}【動】クサリヘビ（鎖蛇）（属）;《般》マム / viper={Ｏ}【動】=vipuro（マムシ）
+气管	2	trake=【解】気管,>>bronko;【虫】気管;【植】 / trah^e={Ｏ}【解】気管,>>bronko;【虫】気管;
+油菜	2	nap={Ｏ}【農】カブ,カブラ（蕪）,=rapo;【植 / kolz={Ｏ}【植】（セイヨウ）アブラナ,=oleona
+猴桃	2	kiv=《Ｎ》【果】キウイ / aktinidi=【植】【PIV】G. (Genro) (Acti
+甘薯	2	batat=【植】サツマイモ（薩摩芋）（種）,甘藷（かんしょ / patat=【植】=batato（サツマイモ）
+百里香	2	timian={Ｏ}【植】タチジャコウソウ（立麝香草）（属）, / serpil=【植】イブキジャコウソウ（伊吹麝香草）（種）,=
+立葵	2	alte={Ｏ}【植】タチアオイ（立葵）（属） / alce=【植】【PIV】G. (Genro) (Alce
+红树	2	mangl=【果】マングローブ（の実） / rizofor=【植】【PIV】G. (Genro) (Rhiz
+药瓜	2	kolocint=【植】コロシントウリ（種） / kolokint=【植】=kolocinto（コロシントウリ）
+萝卜	2	rafan={Ｂ}【植】ダイコン（大根）（種）;【植】ダイコ / rap={Ｏ}【植】カブ,カブラ（蕪）（種）
+袋鼠	2	makrop=【動】カンガルー（属）,>>kanguruo / kanguru={Ｏ}【動】カンガルー（一般名）,>>makro
+辣根	2	kren={Ｏ}【植】セイヨウワサビ,ワサビダイコン;【料 / vasabi=【植】ワサビ
+醋栗	2	rib={Ｂ}【植】スグリ（酸塊）（属）;《般》スグリの / gros={Ｏ}【植】=grosujo;【果】グーズベリー
+野鸡	2	tetra={Ｏ}【鳥】エゾライチョウ（蝦夷雷鳥）（種）,= / fazan={Ｏ}【鳥】キジ（雉）（科の総称）
+香柑	2	bergamot=【植】ベルガモット（オレンジの一種） / cedrat=【果】シトロン,ブシュカン（仏手柑）
+鹤鸵	2	kazuar=【鳥】ヒクイドリ（属） / kasuar=【鳥】=kazuaro（ヒクイドリ）
+两性	1	hermafrodit==ambau^seksa,両性具有の,半陰陽の;
+乳香	1	oliban=【植】乳香
+云杉	1	pice={Ｂ}【植】トウヒ（唐檜）（属）
+五色梅	1	lentan=【植】【PIV】1 G. (Genro) (La
+亚麻	1	lin={Ｂ}【植】アマ（属）（亜麻）
+人心果	1	sapot=【植】【PIV】1 Alia, nelegiti
+仙人掌	1	kakt={Ｂ}【植】サボテン（科）
+体腔	1	celom=【動】【PIV】Korpa kavo c^e l
+假虎刺	1	karis=【植】【PIV】G. (Genro) (Cari
+兽相	1	fau^n=【動】動物相,ファウナ,=bestaro
+内壳	1	pale=【植】【PIV】(pp (se paroli p
+冠羽	1	egret=【鳥】冠羽（かんう）;【服】（帽子の）羽根飾り;
+冠鸡	1	kraks=【動】【PIV】G. (Genro) (Crax
+冬青	1	ileks={Ｏ}【植】モチノキ（属）;セイヨウヒイラギ,=
+决明	1	sena=【植】【PIV】G. (Genro) (Senn
+刺背	1	notakant=【動】【PIV】G. (Genro) (Nota
+刺胞	1	knid=【動】【PIV】Speco de c^elo, 
+刺鱼	1	gasteroste=【魚】イトヨ（属）;トゲウオ,=dornfis^
+包虫	1	hidatid=【動】【PIV】Larvo de ekinoko
+单峰驼	1	dromedar={Ｏ}【動】ヒトコブラクダ,=unug^iba 
+单眼	1	ocel=【動】【PIV】1 Simpla okulo d
+卵巢	1	ovari=【解】卵巣;【植】子房
+卷须	1	c^ir=【植】【PIV】1 Maldika, volva
+厚叶	1	krasul=【植】クラッスラ（属）（ベンケイソウ科の多肉植物
+原基	1	primordi=【植】【PIV】Junega au^ juna 
+原牛	1	ur={Ｏ}【動】オーロックス（17世紀に絶滅したヨー
+变色龙	2	kameleon=カメレオンの;《転》無節操な,変わりやすい / h^ameleon=【動】=kameleono（カメレオン）
+叶柄	1	petiol=【植】葉柄,=folitigo
+叶绿	1	klorofil=【植】葉緑素
+吐根	2	ipek=【植】【PIV】1 Sp. (Specio) ( / ipekakuan=【PIV】= ipeko.
+向日葵	1	heliant=【植】ヒマワリ（向日葵）（属）,=sunflor
+含羞	1	mimoz={Ｏ}【植】ミモザ,オジギソウ（属）,>>aka
+吸血虫	1	hirud={Ｏ}【動】ヒル
+吸血鬼	1	vampir={Ｏ}吸血鬼;【動】チスイコウモリモドキ,>>d
+吻合	1	anastomoz=【解】【植】【PIV】Kunig^a punkt
+咬虫	1	psok=【動】【PIV】G. (Genro) (Psoc
+咬鹃	1	trogon=【動】【PIV】G. (Genro) (Trog
+啄木	1	peg={Ｏ}【鳥】キツツキ（啄木鳥）（科の総称）;アオ
+囊尾虫	1	cisticerk=【動】【PIV】Larvo de iuj ten
+回虫	1	askarid=【動】回虫
+圆虫	1	strongil=【動】【PIV】G. (Genro) (Stro
+圆锥	1	panikl=【解】皮下脂肪;【植】円錐花序
+地衣	1	liken={Ｏ}【植】地衣;【病】苔蘚（たいせん）
+坚果	1	avel={Ｏ}【果】ハシバミの実,ヘーゼルナッツ
+墨鱼	1	sepi={Ｏ}【動】コウイカ（類）;《般》イカ（烏賊）,
+壁虎	1	lacert={Ｂ}【動】トカゲ（類）;【動】コモチカナヘビ（
+多角	1	poligon={Ｏ}【植】タデ（蓼）（属）;【数】多角形,=p
+夜莺	1	najtingal={Ｂ}【鳥】ナイチンゲール,サヨナキドリ（小夜鳴
+夜鹰	1	kaprimulg=【鳥】ヨタカ（属）
+大潮	1	sizigi=【天】【植】【PIV】1 Konjunkcio 
+大黄	1	rabarb={Ｏ}【植】ダイオウ（大黄）（属）;【料】ルバー
+天竹	1	nandin=《Ｎ》【植】ナンテン（南天）（specio el
+天蛾	1	sfing=【動】【PIV】1 G. (Genro) (Sp
+天鹅	1	cign={Ｂ}【鳥】ハクチョウ（白鳥）;《転》詩聖
+头甲	1	cefalaspid=【動】【PIV】G. (Genro) (Ceph
+女贞	1	ligustr=【植】イボタノキ（属）
+宝贝	1	cipre=【動】【PIV】G. (Genro) (Cypr
+小羊驼	1	vikun=【動】ビクーニャ（ラマに似たアンデス産の偶蹄類）
+山柑	1	kapor={Ｏ}【植】フウチョウボク（属）,ケーパー（種）
+山梅花	1	filadelf=【植】バイカウツギ（属）
+山猫	1	link={Ｏ}【動】オオヤマネコ（属）（大山猫）
+巨嘴鸟	2	tukan={Ｏ}【鳥】オオハシ（大嘴）（科） / ramfast=【PIV】= tukano.
+巨蛇	1	piton=【動】ニシキヘビ（錦蛇）（属）
+巩膜	1	sklerot=【解】【植】【PIV】1 (sclera) Fi
+帝王花	1	prote=【植】【PIV】1 G. (Genro) (Pr
+幼虫	1	larv={Ｂ}【虫】幼虫;【動】幼生,>>imagino
+开心果	1	pistak={Ｏ}【果】ピスタチオ（果実・種子）
+心皮	1	karpel=【植】【PIV】Florfolio, sur k
+忍冬	1	kaprifoli=【植】スイカズラ（科）;=lonicero
+总苞	1	involukr=【植】総苞
+息肉	1	polip={Ｏ}【動】ポリプ;【医】ポリープ,茸腫（じょう
+悬铃木	1	platan={Ｂ}【植】プラタナス,スズカケノキ（篠懸の木）
+成虫	1	imagin=【虫】成虫,成体,>>larvo,>>pupo
+扁桃	2	migdal={Ｏ}【果】アーモンド / tonsil={Ｏ}【解】扁桃腺（へんとうせん）
+担子	1	bazidi=【植】【PIV】Cilindra, klabfo
+接骨	1	sambuk={Ｏ}【植】ニワトコ（接骨木）（属）
+斑马	1	zebr={Ｏ}【動】シマウマ（縞馬）
+旋花	1	kalistegi=【植】ヒルガオ（属）,>>konvolvulo
+无花果	1	fig={Ｂ}【果】イチジク
+春化	2	vernaliz=【植】【PIV】(tr (transitiva) / jaroviz=【PIV】= vernalizi.
+月鱼	1	lamprid=【動】【PIV】Granda mara fis^
+木栓	1	suber=【植】【PIV】Histo de vaskulp
+杜鹃	1	azale=【植】アザレア;ツツジ（躑躅）,>>rodode
+条虫	1	teni={Ｏ}【動】ジョウチュウ（条虫）,サナダムシ（真
+松鸦	1	garol={Ｏ}【鳥】カケス（属）
+松鼠	1	sciur={Ｂ}【動】リス（栗鼠）（科の総称）
+极乐鸟	1	paradize=【鳥】フウチョウ（風鳥）,ゴクラクチョウ（極楽鳥
+柠檬	1	limon=【果】レモン,>>citrono
+树瘤	1	gajl={Ｏ}【植】虫こぶ,ふし,没食子（もっしょくし）
+核果	1	drup=【植】石果（せきか）（ウメ、モモなど堅い核をもつ
+核桃	1	jugland={Ｏ}【果】クルミ（胡桃）;【植】クルミ（属）,
+根芽	1	draj^=【植】【PIV】S^oso, kiu kresk
+根茎	1	rizom=【植】根茎,地下茎
+植相	1	flau^r=【植】植物相,フロラ,=vegetaj^aro
+椰干	1	kopr=【植】コプラ（ココヤシの胚乳を乾燥したもの）
+橄榄	1	oliv={Ｂ}【果】オリーブ
+毒参	1	koni=【植】ドクニンジン（属）
+毒芹	1	cikut={Ｏ}【植】ドクゼリ（属）;ドクニンジンの毒
+毒苹	1	mancinel=【植】マンチニール（有毒な樹液を分泌する熱帯アメ
+毒麦	1	lol={Ｏ}【植】ドクムギ（属）,ライグラス
+比目鱼	1	pleu^ronekt={Ｏ}【魚】ツノガレイ（属）,>>platfis
+毛癣菌	2	trikofit=【植】【医】【PIV】G. (Genro) (T / trih^ofit=【PIV】= trikofito.
+水仙	1	narcis={Ｏ}【植】スイセン（水仙）（属）
+水母	1	meduz={Ｏ}【動】クラゲ（海月・水母）
+水牛	1	bubal={Ｏ}【動】スイギュウ（水牛）
+水苏	1	staki=【植】【PIV】G. (Genro) (Stac
+河狸	1	kastor={Ｏ}【動】ビーバー（属）;ビーバーの毛皮
+泽泻	1	alism=【植】【PIV】G. (Genro) (Alis
+浆果	1	ber={Ｂ}（イチゴ・ブドウなど汁気の多い）実;【植】
+海参	1	holoturi=【動】ナマコ（海鼠）（綱の総称）,=markol
+海星	1	asteri=【動】ヒトデ,=marstelo
+海月	1	au^reli=【動】【PIV】G. (Genro) (Aure
+海桶	1	salp=【動】【PIV】G. (Genro) (Salp
+海燕	1	procelari=【動】【PIV】G. (Genro) (Proc
+海胆	2	ekin=【動】ウニ,=markas^tano / eh^in=【PIV】= ekino.
+海葵	1	aktini=【動】【化】【PIV】1 Rozosimila 
+海豚	1	delfen={Ｏ}【動】イルカ
+海豹	1	fok={Ｏ}【動】ゴマフアザラシ（属）;《般》アザラシ
+渡鸦	1	korak=【鳥】ワタリガラス
+滑鱼	1	bleni=【動】【PIV】G. (Genro) (Blen
+灌木	1	arbust={Ｏ}低木,小低木;【植】小低木
+火烈鸟	1	flameng=【動】【PIV】Fenikoptero. -> 
+火鸡	1	meleagr={Ｏ}【鳥】シチメンチョウ（属）（七面鳥）
+灵长	1	primat=【動】霊長類（の動物）
+熊猫	1	pand=【動】パンダ
+燕雀	1	fring={Ｏ}【鳥】アトリ（属）
+燕麦	1	aven={Ｂ}【植】カラスムギ（烏麦）（属）;【植】エン
+爬虫	1	sau^r=【動】【PIV】Kn (Kolektiva no
+牡丹	1	peoni={Ｏ}【植】ボタン（牡丹）（属）,シャクヤク（芍
+牡牛	1	tau^r=《稀》雄牛,種牛,=virbovo;【動】ウシ（
+牧草	2	gres=牧草,芝草,>>herbo / medikag=【植】ウマゴヤシ（属）,>>luzerno
+狮鹰	1	grif=【神】グリュプス,グリフォン（頭と翼が鷲で胴体が
+猪牙花	1	eritroni=【植】【PIV】G. (Genro) (Eryt
+猫头鹰	1	strig={Ｂ}【鳥】フクロウ（梟）（の類）
+玉米	1	maiz={Ｂ}【植】トウモロコシ（種）;トウモロコシの実
+球虫	1	kokcidi=【動】【PIV】Subklaso (Coccid
+琴鸡	1	tetr={Ｏ}【鳥】クロライチョウ（黒雷鳥）（種）
+瑞香	1	dafn=【植】ジンチョウゲ（属）
+甘草	1	gliciriz={Ｏ}【植】カンゾウ（甘草）（属）
+甘菊	1	kamomil={Ｏ}【植】カミツレ,カミルレ（_Matrica
+甜柠	2	limed=【植】【PIV】1 Sp. (Specio) d / limet=【PIV】(evi (evitinda)) = 
+甜菜	1	bet={Ｂ}【植】ビート,テンサイ（甜菜）,サトウダイ
+生菜	1	laktuk={Ｏ}【植】レタス,チシャ;【植】アキノノゲシ（
+电鱼	1	gimnot=【動】ギムノートゥス（属）（デンキウナギ目の電気
+疮疤	1	skab=【植】【PIV】Plantmalsano, ka
+瘦果	1	aken=【植】【PIV】1 (ss (striktase
+白蚁	1	termit={Ｏ}【虫】シロアリ（白蟻）（目の総称）
+白鱼	1	alburn=【魚】ブリーク（ヨーロッパ産のコイ科の淡水魚）
+百合	1	lili={Ｂ}【植】ユリ（属）（百合）
+盘尾	1	onkocerk=【動】【PIV】G. (Genro) (Onch
+盲蛛	1	opilion=【動】【PIV】G. (Genro) (Opil
+眼镜蛇	1	kobr=【動】【PIV】Kn (Kolektiva no
+睡莲	1	nimfe=【植】スイレン（睡蓮）（属）,=akvolili
+睡鼠	1	glir=【動】オオヤマネ,=dormomuso
+矛尾鱼	1	celakant=【魚】シーラカンス
+石南	1	erik={Ｏ}【植】エリカ（属）,ヒース
+石松	1	likopodi=【植】ヒカゲノカズラ（属）
+硬木	1	tekton=【植】【PIV】1 G. (Genro) (Te
+硬翅	1	elitr=【虫】（甲虫類の）翅鞘（ししょう）,さやばね
+磷虾	1	eu^fau^zi=【動】【PIV】G. (Genro) (Euph
+秃鹰	1	vultur={Ｂ}【鳥】コンドル（種）,=kondoro;《
+秋水仙	1	kolc^ik=【植】コルチカム（属）,イヌサフラン
+秧鸡	1	ral=【動】【PIV】G. (Genro) (Rall
+穿山甲	1	manis=【動】【PIV】G. (Genro) (Mani
+竹节虫	1	fasm=【動】【PIV】Vulgara nomo (Ph
+红果	1	arbut=【果】アルブツスの実（ヘビイチゴに似た赤く丸い果
+红虫	1	koc^=【動】【PIV】1 Sp. (Specio) (
+纤毛	1	cili=【動】繊毛;【植】細毛
+纸草	2	papir=【解】【PIV】Papiruso (en kun / papirus={Ｏ}【植】パピルス（種）;【史】パピルス紙;パ
+绒膜	1	kori=【解】【動】【PIV】1 Ekstera par
+续断	1	dipsak=【植】ナベナ（属）
+绵枣儿	1	scil=【植】【PIV】G. (Genro) (Scil
+羊菊	1	arnik={Ｏ}【植】ウサギギク（兎菊）（属）;アルニカ,
+美洲鸵	1	rea=【動】【PIV】G. (Genro) (Rhea
+翠鸟	1	alcion={Ｏ}【鳥】カワセミ
+翼展	1	envergur=【海】帆幅;【空】翼幅;【鳥】翼幅
+翼甲	1	pteraspid=【動】【PIV】G. (Genro) (Pter
+耳猫	1	karakal=【動】【PIV】Sp. (Specio) de 
+聚伞	2	cum=【植】【PIV】(cyma) Decentra  / kim=【PIV】= cumo.
+肝草	1	hepatik=【植】スハマソウ（属）,=hepatherbo
+胎盘	1	placent=【解】胎盤;【植】胎座
+胡萝卜	1	karot={Ｂ}【植】ニンジン（人参）
+脆樱	1	bigarel=【植】【PIV】Rug^a k blanka c
+脊索	1	h^ord=【動】【PIV】(chorda dorsalis
+腊肠树	1	kasi=【植】【PIV】G. (Genro) (Cass
+腔肠	1	celenter=【動】【PIV】Interna kavo de 
+腰果	1	akaj^u=【果】カシューの果実
+自发	2	spontane={Ｏ}自発的な,自然に起こる,自然発生的な;【植 / spontan=自発的な,自然に起こる,=spontanea
+臭虫	1	cim={Ｏ}【虫】ナンキンムシ（南京虫）;カメムシ（亀
+芒果	1	mang={Ｏ}【果】マンゴー（の実）
+芙蓉	1	hibisk=【植】ハイビスカス,フヨウ（属）
+芝麻	1	sezam=【植】ゴマ（胡麻）（属）;【料】ごま（ゴマの種子
+花冠	1	korol={Ｏ}【植】花冠（かかん）,=petalaro
+花序	1	infloresk=【植】花序
+花生	1	arakid=【植】ラッカセイ（落花生）（属）,>>ternu
+苦艾	1	absint={Ｏ}【植】ニガヨモギ（苦艾）（種）;=absi
+苦菜	1	endivi={Ｏ}【植】キクヂシャ,エンダイブ
+茎叶体	1	korm=【植】【PIV】1 Vegeta korpo d
+菌丝	1	hif=【植】【PIV】Fadenforma eleme
+菠菜	1	spinac={Ｂ}【植】ホウレンソウ（菠薐草）（属）
+菠萝	1	ananas={Ｏ}【果】パイナップル
+菠萝蜜	1	jakv=【植】【PIV】Frukto (s^ajnfru
+落松	1	larik={Ｏ}【植】カラマツ（属）
+葫芦	1	kalabas=【植】ヒョウタンノキ,フクベノキ;【植】ヒョウタ
+蓝菊	1	cejan={Ｏ}【植】ヤグルマギク（矢車菊）
+蔓春	1	vink={Ｏ}【植】ツルニチニチソウ（蔓日々草）（属）
+薄荷	1	ment={Ｏ}【植】ハッカ（属）（薄荷）,ミント
+藤壶	1	balan=【動】【PIV】1 G. (Genro) (Ba
+虎鲸	1	ork=【動】シャチ（鯱）（種）
+虾虎	1	gobius=【魚】ハゼ（科の総称）;ゴビウス（属）
+蛇尾	1	ofiur=【動】【PIV】G. (Genro) (Ophi
+蛇麻	1	lupol={Ｏ}【植】ホップ（種）
+蛤蟆	1	buf={Ｏ}【動】ヒキガエル（蟇蛙）（属）,ガマ（蝦蟇
+蛤蟆鱼	1	lofi=【動】【PIV】G. (Genro) (Loph
+蜂斗菜	1	petazit=《Ｎ》【植】フキ（蕗）（genro _Petas
+蜂草	1	melis={Ｏ}【植】メリッサ,セイヨウヤマハッカ（属）
+蜡蝉	1	fulgor=【動】【PIV】G. (Genro) (Fulg
+蝇子草	1	silen=【植】【PIV】G. (Genro) (Sile
+蝎鱼	1	skorpen=【動】【PIV】G. (Genro) (Scor
+血虫	2	bilharzi=【PIV】(ark. (arkaismo, ar / skistosom=【動】【PIV】G. (Genro) (Schi
+裸子	1	gimnosperm=【植】裸子の,裸子植物の
+西番莲	1	barbaden=【植】【PIV】1 Sp. (Specio) d
+角豆	1	karob={Ｏ}【果】イナゴマメ（の実）
+触手	1	tentakl=【動】触手,触腕
+触角	1	anten={Ｏ}【虫】触角;【通】アンテナ
+警笛	1	siren=【機】サイレン;【動】カイギュウ（海牛）類
+象甲	1	kurkuli=【虫】ゾウムシ（科）,=bekskarabo;シ
+贝母	1	fritilari=【植】バイモ（貝母）（属）;ヨウラクユリ
+质体	1	plastid=【生】【植】【PIV】Organeto de v
+足根	1	tars=【解】足根骨;【虫】ふ節
+蹄兔	2	prokavi=【動】【PIV】G. (Genro) (Proc / hirak=【聖】【PIV】= prokavio.
+车前	1	plantag={Ｏ}【植】オオバコ（大葉子）（属）
+软体	1	molusk={Ｏ}【動】軟体動物
+酸模	1	okzal={Ｏ}【植】スイバ（酸葉）（種）
+酸橙	1	bigarad=【植】【PIV】1 Subsp. de citr
+野李	1	prunel={Ｏ}【果】スピノサスモモの実
+野牛	1	bizon={Ｏ}【動】バイソン,ヤギュウ（野牛）,>>Am
+野芝麻	1	lami=【植】オドリコソウ（属）;【神】ラミア（ギリシア
+野豌豆	1	vici=【植】ソラマメ（空豆）（属）（ソラマメ、カラスノ
+金丝燕	1	salangan=【動】【PIV】G. (Genro) (Coll
+金合欢	1	akaci={Ｏ}【植】アカシア（属）
+针鱼	1	belon=【動】【PIV】G. (Genro) (Belo
+钩虫	1	ancilostom=【動】【PIV】G. (Genro) (Ancy
+钱虫	1	numulit=【動】【PIV】G. (Genro) (Numm
+铁杉	1	cug=【植】【PIV】G. (Genro) (Tsug
+铁线草	1	adiant=【植】クジャクシダ（属）,アジアンタム,=har
+铃兰	1	konval={Ｂ}【植】スズラン（属）（鈴蘭）,>>majf
+银莲	1	anemon={Ｏ}【植】アネモネ
+锹甲	1	lukan=【虫】クワガタムシ（属）,=cervskarab
+闭花	1	klejstogam=【植】【PIV】(pp (se paroli p
+问荆	1	ekvizet=【植】スギナ（属）,>>mang^ebla ek
+隆鸟	1	epiornit=【鳥】エピオルニス（絶滅した大型の走鳥類の鳥）
+雄蕊	1	stamen={Ｂ}【植】おしべ,雄蕊（ゆうずい）,>>pis
+雌雄	1	androgin=【植】（同一花序に）雌雄両花のある
+雪松	1	cedr={Ｏ}【植】ヒマラヤスギ属;セイヨウスギ,シーダ
+雪铃	1	soldanel=【植】【PIV】G. (Genro) (Sold
+青柠	1	lime=【植】【PIV】1 Sp. (Specio) d
+鞭草	1	verben={Ｏ}【植】クマツヅラ（熊葛）（属）;【園】バー
+颈卵器	1	arkegoni=【植】【PIV】Inseksa reproduk
+颈鹿	1	g^iraf={Ｏ}【動】キリン
+颗石	1	kokolit=【植】【PIV】1 G. (Genro) Coc
+风信子	1	hiacint={Ｏ}【植】ヒアシンス（属）
+食袋	1	krop={Ｏ}【鳥】そ嚢（のう）;【病】=strumo（
+香桃	1	mirt={Ｏ}【植】ギンバイカ（銀梅花）（属）,ミルテ（
+香脂	1	ladan=【植】【PIV】Aroma gumo, live
+香茅	1	citronel=【植】【PIV】Sp. (Specio) de 
+香菜	1	koriandr=【植】コエンドロ（属）;コリアンダー
+香豌豆	1	latir=【植】レンリソウ（属）
+马车	2	fiakr={Ｏ}辻馬車,>>dros^ko,>>kales / faeton=フェートン（無蓋 の軽四輪馬車）;【鳥】ネッタイ
+驯鹿	1	rangifer=【動】=boaco（トナカイ）
+驼鹿	1	alk={Ｏ}【動】オオシカ
+高粱	1	sorg={Ｂ}【植】モロコシ（蜀黍）（属）;《般》コウリ
+魔芋	1	amorfofal=【植】コンニャク（蒟蒻）
+鳄梨	1	avokad={Ｏ}【果】アボカド（の実）
+鸟巢兰	1	neoti=【植】【PIV】G. (Genro) (Neot
+鸡油菌	1	kantarel=【菌】アンズタケ（属）
+鹅膏	1	amanit=【菌】テングタケ（天狗茸）,ベニテングタケ
+鹦螺	1	nau^til=【動】オウムガイ（属）
+鹦鹉	1	psitak=【動】【PIV】Papago (unuspeci
+麦草	1	kvik=【植】【PIV】1 (ss (striktase
+麦角	1	ergot=【植】麦角（ばっかく）;【鳥】蹴爪（けづめ）,=
+黄昏鸟	1	hesperornit=【動】【PIV】G. (Genro) (Hesp
+黄杨	1	buks={Ｏ}【植】ツゲ（黄楊）
+黄米	1	mile=《Ｎ》【植】キビ（黍）（種）,>>panico
+黄麻	1	jut=【織】ジュート;【植】=jutplanto（ツナ
+黑穗病	1	smut=【植】黒穂病
+黑麦	1	sekal={Ｂ}【植】ライムギ（属）;ライ麦（穀物）
+鼠尾草	1	salvi={Ｏ}【植】サルビア（属）,アキギリ（属）;セー
+龙胆	1	gencian={Ｏ}【植】リンドウ（属）
+龙虾	1	omar={Ｏ}【動】ウミザリガニ（属）,オマールエビ,ロ
+龙血树	1	dracen=【植】【PIV】G. (Genro) (Drac
+
+### [2b] 生物以外の多字master(参考)
+金盐(bismutat) 脉炎(arteriit) 建筑(arkitekt) 君主(monark) 压计(manometr) 气学(aerologi) 气计(aerometr) 菌学(bakteriologi) 担子菌(bazidimicet) 矿盐(selenat)
+藻藻(bangific) 外科(kirurgi) 抽筋(spasm) 沥青(pec^) 糖尿(diabet) 无政(anarki) 查封(sekvestr) 专制(despot) 甘油(glicerin) 信风(trad)
+毒疮(s^ankr) 帆船(skun) 气学家(aerolog) 高计(altimetr) 古学家(arh^eolog) 古学(arh^eologi) 菌学家(bakteriolog) 心病(kardiopati) 髓病(medolopati) 中肠(mesenter)
+硫盐(sulfinat) 百万(milion) 经济(ekonomi) 化学(ĥemi) 暴风(tempest) 天使(anĝel) 物理(fizik) 神经(nerv) 预算(buĝet) 制服(uniform)
+直升机(helikopter) 合唱(ĥor) 花环(girland) 黄铜(latun) 椭圆(oval) 无产(prolet) 反射(reflekt) 雪车(sled) 赛场(stadion) 离子(jon)
+数据(daten) 特许(patent) 精液(sperm) 发电(generator) 蛋白(protein) 甲状(tiroid) 硅盐(siliciat) 堂区(parok) 耻骨(pub) 催眠(hipnot)
+尿素(ure) 自治(au^tonom) 鸦片(opi) 柴油(dizel) 介电(dielektrik) 短裤(kulot) 龙骨(karen) 修院(klostr) 霍乱(h^oler) 草原(step)
+院长(abat) 结核(ftiz) 游击(geril) 软骨(kondr) 肛交(sodomi) 偏执(bigot) 驱魔(ekzorc) 圣餐(komuni) 阳具(kac) 性病(vener)
+酸乳(jogurt) 八度(oktav) 地铁(metro) 主祭(pontifik) 红胞(eritrocit) 相关(korelativ) 戏仿(travesti) 地籍(katastr) 饰带(pasament) 三角(trigonometri)
+胆醇(kolesterol) 垂体(hipofiz) 时效(preskript) 微风(zefir) 异形(alotrop) 脓疮(impetig) 心医(psikiatri) 火枪(musked) 递归(rikur) 多色(pleokro)
+草坪(gazon) 摄氏(celsius) 史诗(epik) 煽动(demagog) 咽炎(angin) 鱼龙(iktiosau^r) 舔吸(sesdeknau^) 位似(homotet) 激素(stimulin) 结石(kalkulus)
+混乱(kaos) 长椅(divan) 亚甲(metilen) 蛋白霜(mering) 微分同胚(difeomorf) 同伦(homotopi) 等分(mitoz) 正视(eu^metrop) 尿酸盐(urat) 帆索(bras)
+电疗(faradiz) 击倒(nokau^t) 短长短(amfibrak) 群岛(arkipelag) 石棉(asbest) 先例(precedenc) 掌骨(metakarp) 白喉(difteri) 潮解(likvesk) 炼金(alkemi)
+肾盆(pjel) 疑病(hipokondri) 批文(pamflet) 寡头(oligark) 腺病(adenpati) 农学(agronom) 射计(aktinometr) 射疗(aktinoterapi) 高测(altometri) 抗粒(antikorpuskl)
+树学(arbologi) 古主义(arh^aism) 原型(arketip) 矿化(arsenid) 节炎(artrit) 囊菌(askomicet) 星学(astrologi) 菌杀(baktericid) 菌吞(bakteriofag) 经爱(bibliofil)
+苔植(brifit) 支镜(bronkoskop) 囊炎(bursit) 胞学(c^elologi) 青植(cianfit) 神主义(deism) 神家(deist) 皮翅(dermapter) 皮炎(dermatit) 十二声(dodekafoni)
+电解(elektrolit) 电计(elektrometr) 电镜(elektroskop) 电型(elektrotip) 栓症(emboloz) 胚植(embrifit) 胚源(embrigenez) 胚切(embriotomi) 食管镜(ezofagoskop) 咽镜(faringoskop)
+声计(fonometr) 光疗(fototerapi) 拍型(fototip) 气生(gasogen) 胃炎(gastrit) 胃镜(gastroskop) 地记(geograf) 地学家(geolog) 地学(geologi) 地测(geometri)
+糖血(glukemi) 土学家(grundolog) 卤化(halogenid) 乐主义(hedonism) 乐家(hedonist) 超感(hiperestez) 同形(homomorf) 鱼学家(ih^tiolog) 肠炎(ileit) 虫杀(insekticid)
+等形(izomorfi) 心学家(kardiolog) 斜计(klinometr) 色计(kolormetr) 色测(kolormetri) 冠炎(koronariit) 木植(magnolifit) 械疗(meh^anoterapi) 髓炎(mjelit) 神经学(nervologi)
+核配(nuklegami) 目镜(oftalmoskop) 振具(oscilator) 渗计(osmozmetr) 骨病(osteopati) 耳镜(otoskop) 卵源(ovogenez) 围心(perikard) 火硫盐(pirosulfat) 铅盐(plumbat)
+雨计(pluvmetr) 肺炎(pneu^monit) 政学家(politikolog) 政学(politikologi) 射声(radiofon) 速计(rapidometr) 直肠镜(rektumoskop) 震记(seismograf) 震学(seismologi) 谱镜(spektroskop)
+锡盐(stanat) 立体声(stereofon) 立体镜(stereoskop) 口镜(stomatoskop) 闪镜(stroboskop) 神治(teokrat) 毒学家(toksolog) 毒学(toksologi) 气管炎(trah^eit) 气管切(trah^eotomi)
+侧柏(tujan) 尿学(urinologi) 无感(anestez) 磷盐(fosfat) 全形(holomorf) 心记(kardiograf) 氯盐(klorat) 中子(mezon) 氮盐(nitrat) 远声(telefon)
+无时(neniam) 无量(neniom) 无之(nenies) 无因(nenial) 无样(neniel) 何时(kiam) 何量(kiom) 何之(kies) 何因(kial) 何样(kiel)
+全时(ĉiam) 全量(ĉiom) 全之(ĉies) 全因(ĉial) 全样(ĉiel) 某时(iam) 某量(iom) 某之(ies) 某因(ial) 某样(iel)
+那时(tiam) 那量(tiom) 那之(ties) 那因(tial) 那样(tiel) 不顾(malgraŭ) 学家(log) 主义(ism) 四月(april) 八月(aŭgust)
+十月(oktobr) 一月(januar) 十一月(novembr) 十二月(decembr) 三月(mart) 九月(septembr) 五月(maj) 七月(juli) 二月(februar) 六月(juni)
+他们(ili) 也不(nek) 我们(ni) 再见(adiaŭ) 自由(liber) 面包(pan) 黄油(buter) 十字(kruc) 干草(fojn) 烟斗(pip)
+小说(roman) 领带(kravat) 下巴(menton) 护照(pasport) 马棚(stal) 紫花(viol) 烟灰(fulg) 直角(ort) 法院(tribunal) 汽油(benzin)
+水泥(cement) 手套(gant) 共和(respublik) 疫苗(vakcin) 白石(kret) 十亿(miliard) 借口(pretekst) 散文(proz) 火药(pulv) 热带(tropik)
+结巴(balbut) 野餐(piknik) 数学(matematik) 最小(minimum) 目皮(palpebr) 大衣(palt) 拖鞋(pantofl) 教皇(pap) 养老(pensi) 火腿(ŝink)
+牛排(bifstek) 嫁妆(dot) 双胎(ĝemel) 语法(gramatik) 庆典(jubile) 气候(klimat) 口顶(palat) 陶土(fajenc) 收割(falĉ) 正面(fasad)
+妖精(fe) 流体(fluid) 喷泉(fontan) 扶椅(fotel) 燕尾(frak) 漏斗(funel) 套鞋(galoŝ) 明胶(gelaten) 宪兵(ĝendarm) 流感(grip)
+焦油(gudr) 棚库(hangar) 公顷(hektar) 当局(instanc) 质询(interpelaci) 残疾(invalid) 束缚(jug) 瓷砖(kahel) 狂欢(karnaval) 上校(kolonel)
+专员(komisar) 和合(konkord) 领事(konsul) 异议(kontest) 电流(kurent) 实验室(laboratori) 灯笼(lantern) 蜗牛(limak) 机车(lokomotiv) 经度(longitud)
+润滑(lubrik) 庄严(majest) 脚腕(maleol) 果酱(marmelad) 冶金(metalurgi) 口鼻(muzel) 军官(oficir) 歌剧(oper) 演说(orator) 孔雀(pav)
+盐浸(pekl) 领航(pilot) 足底(pland) 复数(plural) 先知(profet) 花边(punt) 散热(radiator) 沙哑(raŭk) 毛虫(raŭp) 反应(reakci)
+胡狼(ŝakal) 讽刺(satir) 上院(senat) 海绵(spong) 圆木(ŝtip) 鸵鸟(strut) 精细(subtil) 沙响(susur) 壁纸(tapet) 激流(torent)
+条约(traktat) 电车(tram) 小号(trumpet) 旱桥(viadukt) 火山(vulkan) 氧化(oksid) 天王星(uran) 胞子(spor) 弹簧(risort) 星系(galaksi)
+麦芽(malt) 光学(optik) 链节(mer) 石膏(gips) 刺草(kard) 血清(ser) 粘土(argil) 量子(kvantum) 挂饰(mobil) 臭氧(ozon)
+圆柱(cilindr) 甲板(ferdek) 月经(menstru) 焦点(fokus) 主教(episkop) 方程(ekvaci) 立体(stereo) 酵母(gist) 信使(kurier) 混凝(beton)
+子叶(kotiledon) 对数(logaritm) 踏板(pedal) 有机(organik) 投资(invest) 圣像(ikon) 水合(hidrat) 拳击(boks) 细菌(mikrob) 嫁接(greft)
+系数(koeficient) 寄生(parazit) 贪食(vor) 神话(mit) 战车(tank) 抽风(konvulsi) 抑扬(jamb) 大理石(marmor) 多尿(diurez) 结肠(kojl)
+正统(ortodoks) 安息香(benzo) 福音(evangeli) 中音(ald) 突变(mutaci) 神道(s^into) 离心(centrifug) 变形虫(ameb) 教条(dogm) 固醇(sterol)
+手淫(masturb) 蛀牙(kari) 征募(rekrut) 坐标(koordinat) 缓冲(bufr) 单位(unit) 枢机(kardinal) 句法(sintaks) 扬抑(troke) 独裁(diktator)
+通量(fluks) 球门(gol) 殷勤(galant) 假肢(protez) 不育(steril) 虹膜(iris) 反应堆(reaktor) 象牙(ebur) 军团(korpus) 提督(admiral)
+偶像(idol) 破产(bankrot) 酵素(enzim) 出血(hemoragi) 台球(bilard) 击剑(skerm) 白热(inkandesk) 制革(tan) 火箭(raket) 矢量(vektor)
+放肆(impertinent) 临界(krit) 衍射(difrakt) 乌银(niel) 外阴(vulv) 鱼雷(torped) 梅毒(sifilis) 消毒(desinfekt) 珠蛋白(globin) 恶棍(kanajl)
+网膜(retin) 背带(s^elk) 竖井(s^akt) 液压(hidrau^lik) 决斗(duel) 手雷(grenad) 龙卷(tromb) 鱼卵(fraj) 鸡尾酒(koktel) 小跑(trot)
+即兴(improviz) 风湿(reu^mat) 上诉(apelaci) 轻浮(frivol) 片岩(skist) 地方(endemi) 假正(prud) 船渠(dok) 异端(herez) 泥灰(marn)
+火花(spark) 罗盘(kompas) 伪善(hipokrit) 办公(kancelari) 皱绸(krep) 预测(prognoz) 阴道(vagin) 修会(orden) 特权(privilegi) 国库(fisk)
+皮重(tar) 酒石(tartr) 土著(indig^en) 代数(algebr) 暗示(sugesti) 荧光(fluoresk) 墓窖(kript) 海盗(pirat) 虹吸(sifon) 仓鼠(hamstr)
+指数(eksponent) 会士(kanonik) 讲价(marc^and) 基金(fondus) 急救(sukur) 压力(stres) 民俗(folklor) 公爵(duk) 黄道(zodiak) 沮丧(deprim)
+共济会(framason) 高利(uzur) 龙舌兰(agav) 曲棍球(hoke) 泻湖(lagun) 内分泌(endokrin) 自然(natural) 食管(ezofag) 引信(fuze) 挑战(defi)
+信管(fuz) 代谢(metabol) 坏死(gangren) 种姓(kast) 滑翔(glis) 催情(afrodizi) 哑铃(halter) 男高音(tenor) 词汇(leksik) 积分(integral)
+挫伤(kontuz) 助祭(diakon) 曲柄(krank) 安乐死(eu^tanazi) 直觉(intuici) 黄癣(fav) 直肠(rektum) 变焦(zom) 导演(reg^isor) 青春(adolesk)
+女高音(sopran) 石蜡(parafin) 岩浆(magm) 染色体(kromosom) 化石(fosili) 云母(glim) 疏散(evaku) 毛细(kapilar) 间隔(interval) 垄断(trust)
+柱头(kapitel) 核糖体(ribosom) 便秘(konstip) 鼓室(timpan) 压光(kalandr) 卯眼(mortez) 沼气(metan) 贫血(anemi) 两栖(amfibi) 遗传(genetik)
+石英(kvarc) 地鼠(talp) 精灵(kobold) 美学(estetik) 共生(simbioz) 石墨(grafit) 挖泥(drag) 桨船(galer) 汇编(asembl) 方块(karo)
+右边(tribord) 大提琴(violonc^el) 光圈(diafragm) 晕染(stomp) 触轮(trole) 帆楼(top) 纵欲(orgi) 车杆(timon) 换行(aline) 三角洲(delt)
+传真(faks) 成衣(konfekci) 船左(babord) 坏血(skorbut) 脱衣舞(striptiz) 腐土(hum) 绿玉(smerald) 风化(efloresk) 公证(notari) 火葬(kremaci)
+汞齐(amalgam) 阴蒂(klitor) 杂耍(variete) 脉膜(koroid) 白蛋白(albumin) 祈堂(kapel) 方舟(arke) 脉石(gang) 胰岛素(insulin) 分列(defil)
+虫垂(apendic) 前列腺(prostat) 透析(dializ) 向心(centripet) 迷宫(labirint) 修辞(retorik) 透空(aj^ur) 圣饼(hosti) 原油(naft) 压舱(balast)
+演绎(dedukt) 儿茶(katec^u) 棉塞(tampon) 圣诞(jul) 焦糖(karamel) 杂技(akrobat) 拖网(trol) 配筋(armatur) 受难(kalvari) 结核素(tuberkulin)
+人造油(margarin) 合成(anabol) 步兵(infanteri) 救世(mesi) 波纹(muar) 法官(pretor) 粉丝(vermic^el) 分词(particip) 破坏(sabot) 巧合(koincid)
+声门(glot) 异构(izomer) 走私(kontraband) 阴户(pic^) 窖藏(insil) 蛋白石(opal) 长号(trombon) 脑膜(mening) 教士(klerik) 炮兵(artileri)
+配子(gamet) 滑轮(puli) 刺刀(bajonet) 发球(servir) 机枪(mitral) 教义(doktrin) 低领(dekolt) 棱镜(prism) 景气(konjunktur) 冷笑(cinik)
+周边(periferi) 教化(edif) 色素(pigment) 倾析(dekant) 浪漫(romantik) 内缘(konkub) 柔道(j^ud) 编纹(gilos^) 半径(radius) 十二(dodeka)
+分流(s^unt) 无差(aplanat) 血球(globul) 去势(kastr) 卵管(salping) 势利(snob) 托盘(paled) 折衷(eklektik) 冰川(glac^er) 皱胃(lab)
+天文台(observatori) 前提(premis) 板岩(ardez) 诊断(diagnoz) 遗物(relikv) 拱架(cintr) 不可知(agnostik) 香兰(vanil) 蛛膜(araknoid) 纺锤(spindel)
+二度(dut) 牙肉(gingiv) 自流(artez) 玛瑙(oniks) 初一(kalend) 刮匙(kuret) 密码子(kodon) 轴线(trace) 脓泡(pustul) 书法(kaligraf)
+断层(fau^lt) 二头肌(biceps) 假发(peruk) 谷氨(glutam) 穿刺(punkci) 花岗岩(granit) 碎石(makadam) 缝合(sutur) 电感(induktanc) 棒球(basbal)
+清教(puritan) 包皮(prepuci) 肿瘤(onk) 壁凹(nic^) 审判(inkvizici) 农药(pesticid) 活塞(pis^t) 围猎(batu) 粗粉(s^rot) 复兴(renesanc)
+万向(kardan) 十二指肠(duoden) 萝卜素(karoten) 物神(fetic^) 螺菌(spiril) 鲨皮(s^agrin) 熔锅(krisol) 王牌(atut) 脑弓(forniks) 潜衣(skafandr)
+座屈(knik) 拖车(remork) 侍臣(c^ambelan) 铜绿(verdigr) 侧头(tempi) 行李(bagag^) 内省(introspekt) 双帆船(brig) 脊髓病(tabet) 盲肠(cekum)
+互变(tau^tomer) 腮腺(parotid) 针线(mercer) 囊肿(kist) 消旋(racem) 铸版(klis^) 凝油(napalm) 阴茎(penis) 轰动(sensaci) 待收(iredent)
+藤黄(gumigut) 肉瘤(sarkom) 淋菌(gonokok) 担架(brankard) 苗条(svelt) 短诗(hajk) 附身(tranc) 同位素(izotop) 妓院(bordel) 球蛋白(globulin)
+悍妇(meger) 戏法(prestidigit) 黑话(j^argon) 交配(kopul) 异位(ektopi) 钻颅(trepan) 三硝(trinitr) 刻面(facet) 底栖(bent) 蛇纹石(serpenten)
+梦游(somnambul) 鼓膜(miring) 随机(stokast) 住所(domicil) 子午(meridian) 瓷土(kaolin) 反磁(diamagnet) 眼板(tarz) 导弹(misil) 哈喇(ranc)
+水渠(irigaci) 洋红(karmin) 弹药(munici) 肉排(stek) 挥发(volatil) 尖拱(ogiv) 麻风(lepr) 白胞(leu^kocit) 助学(stipendi) 高汤(buljon)
+欢呼(aklam) 密螺旋体(treponem) 腻子(mastik) 冲浪(surf) 丝虫(filari) 星座(konstelaci) 感伤(sentimental) 铁磁(feromagnet) 坐骨(iski) 管面(makaroni)
+仁糖(pralin) 结膜(konjunktiv) 主脉(aort) 爱国(patriot) 安神(neu^rolept) 辩证(dialektik) 羊膜(amni) 制裁(sankci) 冲压(s^tanc) 二色(dikro)
+原核(prokariot) 原兽(protozo) 品类(sortiment) 板障(diplo) 发音(artikulaci) 堆肥(kompos^t) 香芹(petrosel) 顺磁(paramagnet) 男中音(bariton) 游说(lobi)
+尿道(uretr) 散光(astigmat) 教养(guvern) 脓肿(absces) 教权(klerikal) 白金(platen) 摇琴(gurd) 接力(stafet) 发育(puber) 圣公(anglikan)
+开除(ekskomunik) 导师(mentor) 圣行(suna) 交响(simfoni) 真核(eu^kariot) 资源(resurs) 效率(rendiment) 西米(sagu) 圆舞(vals) 木馏(kreozot)
+载体(vehikl) 胃门(kardj) 万花筒(kalejdoskop) 检察(prokuror) 前卫(avangard) 自游(nekton) 标点(interpunkci) 气肿(emfizem) 阳台(balkon) 割礼(cirkumcid)
+斗牛(tore) 螺旋体(spiroket) 交感(simpat) 监护(kurator) 胆碱(kolin) 青霉素(penicilin) 线脚(modlur) 一神(unitari) 美甲(manikur) 氢化(hidrid)
+擦鼻(mung) 蚀变(alteraci) 斑岩(porfir) 族长(patriark) 共振(mezomer) 绞痛(kolik) 字节(bajt) 藏红花(safran) 和服(kimon) 逆气(singult)
+不害(ahims) 磷光(fosforesk) 补贴(subvenci) 合子(zigot) 纤蛋白(fibrin) 厌女(mizogin) 凸轮(kam) 拍卖(au^kci) 高潮(orgasm) 园艺(hortikultur)
+财务官(kvestor) 贝岩(falun) 浮游(plankton) 水彩(akvarel) 设计(dezajn) 背风(le) 缆路(telfer) 人质(ostag^) 测地(geodezi) 优生(eu^genik)
+铁床(ambos) 万岁(hura) 帆杆(bum) 沙丘(dun) 质子(prot) 抵制(bojkot) 易变(labil) 玉雕(gliptik) 熔岩(laf) 狮面(sfinks)
+唱名(solfeg^) 柿涩(s^ibu) 光环(au^reol) 保单(polis) 无定(astat) 圣礼(sakrament) 铜盘(cimbal) 铃鼓(tamburin) 咬舌(lisp) 欧议(eu^roparlament)
+僵病(muskardin) 菌症(mikoz) 石榴(grenat) 产科(obstetrik) 烤包(toast) 分音(dierez) 羊神(satirus) 母系(matriark) 修脚(pedikur) 碎粒(gri)
+激光(laser) 念珠(rozari) 相扑(sumo) 痛风(podagr) 失速(stau^l) 半球(hemisfer) 算子(operator) 嗜睡(letargi) 议堂(kapitol) 特征(ejgen)
+神灵(dajmon) 章程(statut) 遗尿(enurez) 石蕊(lakmus) 引爆(prajm) 酥盒(volovan) 梦魔(inkub) 乳头瘤(papilom) 链球菌(streptokok) 重晶石(barit)
+变形(anamorfoz) 一性(monofizit) 送气(aspiraci) 多血(pletor) 皇院(rota) 分裂(skizoid) 胸骨(sternum) 风箱(balg) 焦疤(eskar) 歧义(ambigu)
+书体(uncial) 千年(mileni) 副本(duplikat) 探矿(prospektor) 整脊(kiropraktik) 同时(simultan) 诡辩(sofism) 环氧(epoksi) 重氮(diazoni) 吊袜(j^artel)
+清唱剧(oratori) 地主(junkr) 后卫(arier) 风琴(harmonium) 农社(kolh^oz) 足数(kvorum) 兽医(veterinar) 兔眼(lagoftalm) 财魔(mamon) 提花(j^akard)
+炸糕(benjet) 深红(karmezin) 准直(kolimat) 葡萄球菌(stafilokok) 二重(duet) 增补(koopt) 小夜曲(serenad) 军团菌(legionel) 缺席(kontumac) 朝拜(hag^)
+舱底(bilg^) 减分(mejoz) 坐神(iskiat) 短号(kornet) 对质(konfront) 散音(arpeg^) 富养(eu^trof) 失读(aleksi) 合金(aloj) 十四行诗(sonet)
+离婚(divorc) 长老(presbiterian) 浆膜(seroz) 精丘(verumontan) 压花(gofr) 苦僧(s^raman) 调车(rang^) 关节强直(ankiloz) 齿质(dentin) 滴定(titr)
+毒木(upas) 语素(morfem) 补马(remont) 讲师(docent) 随员(atas^e) 上皮(epiteli) 反流(regurgit) 蛋奶酥(sufle) 协同作用(sinergi) 驻官(rezident)
+弹道(balistik) 毒气(miasm) 过敏(alergi) 威望(prestig^) 军士(serg^ent) 护舰(korvet) 浅海(neritik) 秘会(konklav) 少数(minoritat) 腹膜(peritone)
+马枪(karaben) 麻黄碱(efedrin) 绞盘(kapstan) 信委(fideikomis) 焚风(fen) 干尸(mumi) 半人马(centau^r) 引理(lem) 违规(fau^l) 公理(aksiom)
+外推(ekstrapol) 垂死(agoni) 编译(kompiler) 阴囊(skrot) 糖蜜(melas) 里脊(file) 破伤风(tetanos) 辙叉(frog) 副祭(vikari) 日光环(koron)
+影射(insinu) 终端(terminal) 系部(pastern) 老花(presbiop) 摄政(regent) 退休金(emeritur) 末启(apokalips) 百日咳(koklus^) 凝胶(g^el) 奶冻(puding)
+等势(ekvipotencial) 招魂(nekromanci) 浮世绘(ukij) 吊带(suspensori) 遗赠(legac) 肚肠(anduj) 黄铁矿(pirit) 挂轴(kakemon) 头巾(turban) 巨象(mamut)
+多香果(piment) 暗渠(kulvert) 彩窗(vitral) 后脑(okcipit) 恐龙(dinosau^r) 性腺(gonad) 腊肠(salam) 束腰(korset) 黄瘤(ksantom) 复活(resurekt)
+桥牌(brig^) 没收(konfisk) 室膜(ependim) 外差(heterodin) 牙骨质(c^ement) 八分(oktant) 高压锅(au^toklav) 质数(prim) 路障(barikad) 斜角(skalen)
+水粉(guas^) 词典(leksikon) 失语(afazi) 低音(bordun) 蜡画(enkau^stik) 天顶(zenit) 粉砂(silt) 炭疮(antraks) 对流(konvekt) 纤素(celuloz)
+桶板(dau^b) 钉头锤(madz) 对流层(troposfer) 论文(disertaci) 苦行(asket) 屈光(ametrop) 航向(kapus) 柱廊(portik) 凝灰(tof) 支学(kladik)
+肌瘤(miom) 调色板(paletr) 蜂群(esamen) 葡萄(uv) 贫窟(slum) 后生(metazo) 四重(kvartet) 山花(fronton) 记者(reporter) 百队(centuri)
+切分(sinkop) 征用(rekvizici) 闲职(sinekur) 滴答(tiktak) 炮架(afust) 面子(puntili) 内向(introvertit) 军帽(kep) 梅花(tref) 膝窝(poplit)
+散瞳(midriaz) 百叶窗(s^utr) 厌人(mizantrop) 啰音(rasl) 空铅(kadrat) 葡萄膜(uve) 龙香(ambr) 磨蚀(abrazi) 机器人(robot) 报复(reprezali)
+羊皮纸(pergamen) 烧炭党(karbonar) 双驼(baktri) 烟碱(nikotin) 退位(abdik) 泪囊(dakriocist) 耳蜗(kokle) 纵标(ordinat) 乐迷(meloman) 菊石(amonit)
+挽歌(elegi) 马球(polo) 研讨(seminari) 疑难(kazu) 箭毒(kurar) 蛋黄(vitel) 偏心(ekscentrik) 新星(nova) 象形(hieroglif) 首柱(steven)
+向斜(sinklinal) 单杠(rek) 夹板(splint) 预科(propedeu^tik) 失望(desapont) 钟琴(kariljon) 哑剧(pantomim) 豆酱(miso) 军需(furier) 软革(maroken)
+修饰(epitet) 盆骨(iliak) 粒瘤(granulom) 幽门(pilor) 武士(samuraj) 赤褐(ruf) 二极管(diod) 检疫院(lazaret) 田园(idili) 体感(propriocept)
+芥气(iperit) 长石(feldspat) 白膜(albugine) 脱臼(luksaci) 顺势(homeopati) 萎黄(kloroz) 庙奴(hierodul) 鹿皮(s^am) 假声(jodl) 背书(aval)
+格言(maksim) 无液(aneroid) 性无能(impotent) 网纱(tul) 神化(apoteoz) 断头(gilotin) 古生(paleozoik) 串联(tandem) 二进(binar) 紫晶(ametist)
+拱廊(arkad) 树懒(ake) 无生(azo) 号角(fanfar) 囊室(divertikul) 六角(heksagon) 手相(kiromanci) 历书(almanak) 口水(bav) 白汁(bes^amel)
+妥协(kompromis) 小脑(cerebel) 选手(atlet) 夹头(c^uk) 食人(kanibal) 胸膜(pleu^r) 卒中(apopleksi) 乳石(stalaktit) 圣器(sakristi) 钾碱(potas)
+二项(binom) 宫伯(palatin) 颈毛(krin) 干肉(pemikan) 扫星(komet) 检尸(nekropsi) 印象(impresion) 翘嘴(pau^t) 陪审(j^uri) 童色(pederasti)
+搅炼(pudl) 平流层(stratosfer) 泡疹(herpet) 五角(pentagon) 碎麻(til) 染色质(kromatin) 土黄(kaki) 梯队(eskalon) 忧虑(anksi) 实习(stag^)
+发情(oestr) 电传(teleks) 星云(nebuloz) 无罪(inocent) 剪影(siluet) 驯马(maneg^) 乳突(mastoid) 蛋奶(flan) 欣快(eu^fori) 延展(duktil)
+码元(koder) 红土(sien) 不长(nelg) 毛绒(flanel) 同谋(komplic) 便袍(neglig^) 粘液(mucilag) 弱视(ambliop) 矮马(pone) 改革(reformaci)
+项链(kolier) 石笔(grifel) 氨硫(sulfam) 俗语(slang) 陶片(ostrak) 雪花石膏(alabastr) 前奏(prelud) 开胃酒(aperitiv) 凸眼(ekzoftalmi) 硬式飞艇(zepelin)
+六分仪(sekstant) 配比(stekio) 迎风(board) 小舌(uvul) 车身(karoseri) 糖浆(sirop) 锥线(konik) 变位(konjugaci) 珠层(perlamot) 柴束(fasc^in)
+经院(skolastik) 柠檬水(limonad) 商舶(karak) 垃圾(spam) 纵隔(mediastin) 面筋(gluten) 分解(katabol) 尖叫(kric^) 改宗(prozelit) 蚀刻(akvafort)
+白袍(alb) 鱼际(tenar) 烤肉(kebab) 沉箱(kason) 学士(bakalau^r) 坚信礼(konfirmaci) 多嘴(kibic) 鲸须(bart) 算盘(abak) 色情(eroto)
+碎屑(detrit) 统觉(apercept) 面团(knedlik) 怀旧(nostalgi) 泻块根(jalap) 甜椒(paprik) 精神分裂(skizofreni) 头皮(skalp) 礼拜(liturgi) 松鼠皮(vajr)
+骨牌(domen) 弓炮(balist) 准尉(adjudant) 恐鸟(dinornit) 宗会(koncili) 灵猫香(cibet) 氯形(kloroform) 鱼苗(alvus) 横档(rung) 披肩(s^al)
+处理器(procesor) 泥炭(torf) 猩红热(skarlatin) 强直(tetan) 信任(akredit) 产后(puerper) 分形(frakt) 劝愈(pitiat) 作战(operac) 加餐(kolazion)
+白血病(leu^kemi) 后殿(absid) 头癣(tini) 火砾(lapil) 未完(imperfekt) 铸排(linotip) 女低(kontralt) 定理(teorem) 远征(ekspedici) 不谐(disonanc)
+结扎(ligatur) 餐具(servic) 构造(tektonik) 情歌(madrigal) 同性(gej) 蜡纸(stencil) 缩瞳(mioz) 无散光(anastigmat) 阴部(pudend) 共鸣(resonanc)
+方铅矿(galen) 祭司(sacerdot) 赛驼(mehar) 圆顶(kupol) 歌舞剧(vodevil) 丘脑(talam) 输尿管(ureter) 引流(seton) 红利(tantiem) 蓄电(akumulator)
+中微子(neu^trin) 政变(puc^) 享乐(sibarit) 红外(infrarug^) 拱座(impos^t) 移液(pipet) 牛锅(sukijak) 插孔(j^ak) 甲氧(metoksi) 硬骨(holoste)
+首相(kancelier) 天冬(aspart) 角膜(korne) 大管(fagot) 暴躁(brusk) 升水(ag^i) 投机(spekulaci) 聚变(fuzi) 滑石(talk) 求积(kvadratur)
+血管瘤(angiom) 宗议(sinod) 糖煮(kompot) 方差(varianc) 船壁(pavez) 音位(fonem) 红宝(ruben) 道具(rekvizit) 肠线(katgut) 残船(vrak)
+糖原(glikogen) 白内障(katarakt) 约数(divizor) 咳痰(ekspektor) 骨端(epifiz) 下指(katafor) 角砾岩(brec^i) 煮牛(gulas^) 处女膜(himen) 迷幻(psikedel)
+松香(kolofon) 午睡(siest) 震荡(komoci) 头韵(aliteraci) 引渡(ekstradici) 猪油(s^malc) 含片(pastel) 脓漏(piore) 城堡(kreml) 海角(promontor)
+标量(skalar) 拉链(zip) 分王(tetrark) 氧减(redoks) 颤歌(tril) 擦伤(ekskori) 民兵(milic) 硅铝(sial) 雪崩(lavang) 替身(sozi)
+火绒(tindr) 游学(goliard) 缝边(orl) 艺妓(gejs^) 晶体(kristalin) 丹毒(erizipel) 青铜(bronz) 背斜(antiklinal) 剧作(dramaturg) 神智(teozof)
+儿医(pediatr) 老医(geriatr) 分类(taksonom) 命名(nomenklatur) 雪暴(blizard) 环礁(atol) 星号(asterisk) 化身(avatar) 棱堡(bastion) 田径(atletik)
+停战(armistic) 讲堂(au^ditori) 礼堂(au^l) 自学(au^todidakt) 接见(au^dienc) 乱伦(incest) 初乳(kolostr) 果园(hort) 自杀(suicid) 凸窗(oriel)
+坡道(rampl) 门廊(porc^) 佛塔(pagod) 副官(adjutant) 教官(instruktor) 肩章(epolet) 齐射(salv) 征兵(konskripci) 占领(okupaci) 后勤(log^istik)
+击锤(c^an) 军使(parlamentari) 堡垒(fortres) 轮回(metempsikoz) 护符(talisman) 硬膜(duramatr) 软膜(piamatr) 筋膜(fasci) 皮质(korteks) 船尾(pou^p)
+航道(s^anel) 货舱(hold) 缩帆(ref) 抗辩(ekscepci) 裁量(diskreci) 调解(mediaci) 判例(jurisprudenc) 灭族(genocid) 音色(tembr) 乐章(moviment)
+夜曲(nokturn) 序曲(uvertur) 总谱(partitur) 副歌(refren) 变奏(variaci) 谱号(kle) 指挥(dirigent) 越位(ofsajd) 回合(rau^nd) 平局(remi)
+划界(demarkaci) 备忘(memorand) 公投(plebiscit) 假植(j^os) 喷嘴(ajut) 转子(rotor) 凹雕(intajl) 台钳(vajc) 雨云(nimbus) 养费(aliment)
+原住(au^tokton) 峡湾(fjord) 烛台(kandelabr) 肋板(varang) 旅程(itiner) 分母(denominator) 斜边(hipotenuz) 天底(nadir) 胸腺(timus) 锁骨(klavikl)
+再生(regeneraci) 重油(mazut) 民化态(civilizaci) 器化(organizaci) 半胞糖(hemiceluloz) 无生源(abiogenez) 醋盐(acetat) 酸计(acidimetr) 适测(adaptometri) 腺似炎(adenoidit)
+腺瘤(adenom) 脂源(adipogenez) 管员(administrator) 气血(aeremi) 气道(aerodrom) 气图(aerogram) 气石(aerolit) 气测(aerometri) 气航(aeronau^t) 气航学(aeronau^tik)
+气划(aeroplan) 气态(aerostat) 无声(afoni) 办须(agend) 场症(agorafobi) 无志(agrafi) 刺头(akantocefal) 无动(akinezi) 气候化(aklimatiz) 锐头(akrocefal)
+锐青症(akrocianoz) 无色(akromat) 锐名(akronim) 轴计(aksiometr) 产学(akus^ologi) 白膜炎(albugineit) 白蛋白尿(albuminuri) 痛学家(algiolog) 痛学(algiologi) 藻学家(algolog)
+藻学(algologi) 碱似(alkaloid) 碱测(alkalometri) 醇盐(alkoholat) 醇血(alkoholemi) 醇计(alkoholometr) 异声(alofon) 异病(alopati) 异养(alotrofi) 替具(alternator)
+他主义(altruism) 他家(altruist) 铝盐(aluminiat) 变形虫似(ameboid) 扩具(amplifikator) 无气生(anaerobi) 无政主义(anarkism) 无政家(anarkist) 并炎(aneksit) 风图(anemogram)
+风计(anemometr) 风测(anemometri) 脉学(angiologi) 脉种(angiosperm) 无水(anhidr) 无等向(anizotrop) 无氧血(anoksemi) 无氧(anoksi) 敌主义(antagonism) 敌家(antagonist)
+抗生布(antibiotik) 抗旋(anticiklon) 抗声(antifon) 抗句(antifraz) 抗原(antigen) 抗体(antikorp) 抗中微子(antineu^trin) 抗律(antinomi) 抗情(antipati) 抗节(antistrof)
+抗题(antitez) 抗毒(antitoksin) 反名(antonim) 人央(antropocentr) 人似(antropoid) 人学家(antropolog) 人学(antropologi) 人测(antropometri) 人形(antropomorf) 人形主义(antropomorfism)
+无尿(anuri) 主脉炎(aortit) 虫垂除(apendicektomi) 虫垂炎(apendicit) 无瓣(apetal) 蛛膜炎(araknoidit) 脉除(arteriektomi) 节痛(artralgi) 节炎主义(artritism) 节学(artrologi)
+节足(artropod) 节症(artroz) 无腐(aseps) 天冬盐(aspartat) 散光主义(astigmatism) 星学家(astrolog) 星航(astronau^t) 星航学(astronau^tik) 祖主义(atavism) 无神主义(ateism)
+无神家(ateist) 气志(atmosferografi) 无张(atoni) 听计(au^dometr) 自生志(au^tobiografi) 自生(au^togen) 自记(au^tograf) 自志(au^tografi) 自解(au^toliz) 氮血(azotemi)
+氮尿(azoturi) 藤壶炎(balanit) 蛮主义(barbarism) 压记(barograf) 压镜(baroskop) 深计(batometr) 深测(batometri) 汽油计(benzinometr) 安息香基(benzoil) 经记(bibliograf)
+经志(bibliografi) 经狂(bibliomani) 二齿(bident) 二金(bimetal) 二金主义(bimetalism) 生物理(biofizik) 生源(biogenez) 生地志(biogeografi) 生记(biograf) 生化学(biokemi)
+生学家(biolog) 生团(biomas) 生测(biometri) 生将(biont) 生在学(biontologi) 生球(biosfer) 生疗(bioterapi) 生境(biotop) 胚皮(blastoderm) 沸计(bolometr)
+卤形(bromoform) 支炎(bronkit) 黄油被(buterat) 黄油计(buterometr) 头甲形(cefalaspidomorf) 头足(cefalopod) 头脊(cefalospin) 头胸(cefalotorak) 盲肠炎(cekumit) 胞炎(celulit)
+百叶(centifoli) 厘度(centigrad) 厘克(centigram) 厘升(centilitr) 央链节(centromer) 央体(centrosom) 青盐(cianat) 青化(cianid) 蝉形(cikadomorf) 环计(ciklometr)
+环测(ciklometri) 胞学家(citolog) 胞浆(citoplasm) 胞骨(citoskelet) 胞液(citosol) 胞向(citotrop) 柑盐(citrat) 泪囊炎(dakriocistit) 指记(daktilograf) 指镜(daktiloskopi)
+分克(decigram) 分升(decilitr) 分米(decimetr) 从花(deflor) 十克(dekagram) 十升(dekalitr) 十戒(dekalog) 十米(dekametr) 十足(dekapod) 三角洲似(deltoid)
+魔学(demonologi) 魔狂(demonomani) 证被能(demonstrativ) 树时学家(dendrokronolog) 树时学(dendrokronologi) 密测(densometri) 义学(deontologi) 皮学家(dermatolog) 皮学(dermatologi) 皮症(dermatoz)
+透照(diafanoskopi) 通源(diagenez) 通时(diakron) 言学家(dialektolog) 言学(dialektologi) 通镜(diaskop) 通热(diaterm) 通温(diatermi) 二氮(diazot) 二氮盐(diazotat)
+介电计(dielektrikmetr) 二字(digram) 二氯化(diklorid) 二子叶(dikotiledon) 二金盐(dikromiat) 述声(diktafon) 膨具(dilatator) 二链节(dimer) 力主义(dinamism) 二倍(diploid)
+双菌(diplokok) 证学(diplomologi) 双足(diplopod) 二翅(dipter) 二蔗子(disakarid) 盘菌(diskomicet) 散信受(diskredit) 二体(disom) 二硫化(disulfid) 二硫(ditionat)
+二价(divalent) 囊室除(divertikulektomi) 分须(dividend) 十二面(dodekaedr) 甘苦(dolc^amar) 量学(dozologi) 量计(dozometr) 龙头(drakocefal) 短翅(efemeropter) 海胆皮(eh^inoderm)
+展计(eksponometr) 表主义(ekspresionism) 表家(ekspresionist) 外皮(ektoderm) 外浆(ektoplasm) 存主义(ekzistencialism) 存家(ekzistencialist) 外配(ekzogami) 外生(ekzogen) 外热(ekzoterm)
+弹链节(elastomer) 电声(elektrofon) 电价(elektrovalent) 胚学家(embriolog) 胚学(embriologi) 验主义(empirism) 验家(empirist) 脑痛(encefalalgi) 脑志(encefalografi) 脑图(encefalogram)
+脑病(encefalopati) 内皮(endoderm) 内配(endogami) 内生(endogen) 内心(endokard) 内心炎(endokardit) 内分泌学(endokrinologi) 内形(endomorfi) 内浆(endoplasm) 内镜(endoskop)
+内渗(endosmoz) 内种(endosperm) 内热(endoterm) 肠痛(enteralgi) 虫学家(entomolog) 虫学(entomologi) 酵素学(enzimologi) 室膜炎(ependimit) 表央(epicentr) 疫学(epidemiologi)
+表皮(epiderm) 表通镜(epidiaskop) 副现象(epifenomen) 表植(epifit) 骨端炎(epifizit) 表胃(epigastr) 表源(epigenez) 表声门(epiglot) 后话(epilog) 表形(epimorfi)
+后古石学(epipaleolitik) 上皮瘤(epiteliom) 红胚(eritroblast) 红生(eritropoez) 红生素(eritropoezin) 色生(erotogen) 色情学(erotologi) 色情狂(erotomani) 梯具(eskalator) 感计(estezometr)
+讲台(estrad) 源学家(etimolog) 源学(etimologi) 因学家(etiolog) 因学(etiologi) 族记(etnograf) 族志(etnografi) 族学家(etnolog) 族学(etnologi) 乙氧(etoksi)
+良律(eu^ritm) 食管炎(ezofagit) 收割具(falc^ator) 药学家(farmakolog) 药学(farmakologi) 淀粉(fekul) 女家(feminist) 现学(fenomenologi) 现型(fenotip) 铁青(ferocian)
+纤蛋白生(fibrinogen) 纤瘤(fibrom) 纤镜(fibroskop) 博爱者(filantrop) 博爱(filantropi) 系源(filogenez) 爱学家(filolog) 植地志(fitogeografi) 植疗(fitoterapi) 物理志(fiziografi)
+生理学家(fiziolog) 脉切(flebotomi) 流计(fluometr) 气化(fluorid) 焦点疗(fokusterapi) 音主义(fonetism) 音家(fonetist) 声字(fonogram) 声学(fonologi) 声测(fonometri)
+声子(fonon) 声镜(fonoskop) 形盐(formiat) 形基(formiil) 磷盐血(fosfatemi) 磷盐尿(fosfaturi) 磷化(fosfid) 光胞(fotoc^el) 拍玉雕(fotogliptik) 拍志(fotografi)
+拍刻(fotogravur) 光化学(fotokemi) 拍色(fotokromi) 拍石志(fotolitografi) 光测(fotometri) 光球(fotosfer) 光合(fotosintez) 拍态(fotostat) 拍远记(fototelegraf) 光向主义(fototropism)
+频计(frekvencometr) 冷疗(fridoterapi) 果学家(fruktolog) 果学(fruktologi) 结核学家(ftizolog) 结核学(ftizologi) 蜡蝉形(fulgoromorf) 未学家(futurolog) 未学(futurologi) 电塑(galvanoplastik)
+配子植(gametofit) 胃菌(gasteromicet) 胃痛(gastralgi) 胃除(gastrektomi) 胃肠炎(gastrenterit) 胃爱(gastrofil) 胃室(gastrokamer) 胃学(gastronom) 胃足(gastropod) 胃抽筋(gastrospasm)
+胃漏(gastrostomi) 胃切(gastrotomi) 系学家(genealog) 系学(genealogi) 生型(genotip) 地央(geocentr) 地力(geodinamik) 地物理(geofizik) 地化学(geokemi) 地时学(geokronologi)
+地形学(geomorfologi) 地政(geopolitik) 地球(geosfer) 地向斜(geosinklinal) 地技(geoteknik) 地热学(geotermik) 地向主义(geotropism) 女学家(ginekolog) 女学(ginekologi) 牙肉炎(gingivit)
+石膏爱(gipsofil) 旋磁(giromagnet) 旋计(girometr) 旋镜(giroskop) 冰学家(glaciolog) 冰学(glaciologi) 糖原源(glikogenogenez) 糖原解(glikogenoliz) 球镜(globoskop) 舌除(glosektomi)
+舌炎(glosit) 谷氨盐(glutamat) 角测(goniometri) 淋菌血(gonokokemi) 记主义(grafism) 记学家(grafolog) 记学(grafologi) 记抽筋(grafospasm) 粒胞(granulocit) 重测(gravimetri)
+引计(gravitometr) 引测(gravitometri) 土源(grundgenez) 土学(grundologi) 圣记(hagiograf) 圣志(hagiografi) 六面(heksaedr) 六米(heksametr) 百记(hektograf) 百克(hektogram)
+百升(hektolitr) 百米(hektometr) 日央(heliocentr) 日光镜(heliograf) 日光信(heliografi) 日刻(heliogravur) 日镜(helioskop) 日态(heliostat) 日疗(helioterapi) 日向主义(heliotropism)
+蠕学(helmintologi) 血足(hematopod) 血症(hematoz) 半盲(hemianopsi) 半颅(hemikrani) 半瘫(hemiplegi) 半翅(hemipter) 血解(hemoliz) 血滞(hemostaz) 肝炎(hepatit)
+草杀(herbicid) 异配子(heterogamet) 他律(heteronomi) 异翅(heteropter) 异合子(heterozigot) 水酸(hidracid) 水气划(hidroaeroplan) 水力(hidrodinamik) 水电(hidroelektr) 水爱(hidrofil)
+水怕(hidrofob) 水症(hidrofobi) 水声(hidrofon) 水地学家(hidrogeolog) 水地学(hidrogeologi) 水记(hidrograf) 水志(hidrografi) 水炭子(hidrokarbid) 水碳(hidrokarbon) 水氧(hidroksi)
+水氧化(hidroksid) 水解(hidroliz) 水学家(hidrolog) 水学(hidrologi) 水计(hidrometr) 水测(hidrometri) 水划(hidroplan) 水球(hidrosfer) 水静(hidrostatik) 水硫盐(hidrosulfit)
+水疗(hidroterapi) 湿记(higrograf) 湿计(higrometr) 湿测(higrometri) 湿镜(higroskop) 膜菌(himenomicet) 膜翅(himenopter) 超血(hiperemi) 超临界(hiperkrit) 超名(hiperonim)
+超压(hipertensi) 超养(hipertrofi) 催眠疗(hipnototerapi) 亚央(hipocentr) 亚皮(hipoderm) 马道(hipodrom) 亚感(hipoestez) 亚胃(hipogastr) 亚舌(hipoglos) 马狮鹰(hipogrif)
+马栗(hipokas^tan) 亚软骨(hipokondr) 亚名(hiponim) 马河(hipopotam) 亚滞(hipostaz) 亚丘脑(hipotalam) 亚鱼际(hipotenar) 亚压(hipotensi) 亚题(hipotez) 高图(hipsogram)
+织源(histogenez) 织学家(histolog) 史记(historiograf) 史志(historiografi) 全头(holocefal) 全记(holograf) 全志(holografi) 全图(hologram) 同声(homofon) 同色(homokromi)
+同名(homonim) 同翅(homopter) 同合子(homozigot) 钟镜(horoskop) 意字(ideogram) 意学家(ideolog) 愚主义(idiotism) 圣像志(ikonografi) 圣像屑(ikonoklast) 圣像学(ikonologi)
+圣像镜(ikonoskop) 圣像滞(ikonostaz) 鱼学(iktiologi) 印象主义(impresionism) 印象家(impresionist) 冲计(impulsometr) 免学(imunologi) 个主义(individualism) 个家(individualist) 梗生(infarktogen)
+胰岛素疗(insulinoterapi) 间面(interfac) 涉计(interferometr) 涉测(interferometri) 间声(interfon) 间语家(interlingvist) 间学(interlingvistik) 虹膜除(irisektomi) 虹膜炎(irisit) 虹膜切(irisotomi)
+坐神痛(iskiatalgi) 等压(izobar) 等青盐(izocianat) 等力(izodinam) 等电(izoelektr) 等语(izoglos) 等斜(izoklin) 等亮(izoleu^cin) 隔计(izolmetr) 等米(izometr)
+等测(izometri) 等足(izopod) 等翅(izopter) 等分流(izos^unt) 等旋(izospin) 等滞(izostaz) 等热(izoterm) 碘盐(jodat) 碘化(jodid) 碘基(jodil)
+碘形(jodoform) 碘测(jodometri) 离子球(jonosfer) 缆图(kablogram) 劣志(kakografi) 算计(kalkulmetr) 渠化(kanaliz) 癌生(kancerogen) 癌学(kancerologi) 格学(karakterologi)
+炭化(karbid) 碳化(karbonid) 碳基(karbonil) 碳具(karburator) 心肌病(kardimiopati) 心似(kardioid) 心学(kardiologi) 心切(kardiotomi) 胃门痛(kardjalgi) 胃门切(kardjotomi)
+卡记(kartograf) 卡志(kartografi) 疑难家(kazuist) 化学疗(kemiterapi) 角炎(keratit) 千字节(kilobajt) 千位(kilobit) 千环(kilocikl) 千升(kilolitr) 千足(kilopod)
+动病(kinezopati) 映镜(kinoskop) 支源(kladogenez) 气候学家(klimatolog) 气候疗(klimatoterapi) 阴蒂除(klitorektomi) 氯血(kloremi) 绿藻(klorofic) 绿植(klorofit) 结肠除(kojlektomi)
+结肠漏(kojlostomi) 股痛(koksalgi) 股炎(koksit) 股病(koksopati) 崩疗(kolapsoterapi) 胆囊炎(kolecistit) 胆血(koleemi) 胆醇血(kolesterolemi) 昏生(komatogen) 补具(kompensator)
+换具(komutator) 凝具(kondensator) 软骨除(kondrektomi) 软骨炎(kondrit) 软骨瘤(kondrom) 结膜炎(konjunktivit) 贝学(konkologi) 抽风疗(konvulsiterapi) 弦炎(kordit) 茎叶体植(kormofit)
+皮疗(kortikoterapi) 皮向(kortikotrop) 宇源(kosmogoni) 宇记(kosmograf) 宇志(kosmografi) 宇学家(kosmolog) 宇学(kosmologi) 宇航(kosmonau^t) 宇航学(kosmonau^tik) 颅学(kraniologi)
+颅测(kraniometri) 酪计(kremometr) 罪学家(krimolog) 罪学(krimologi) 冻生学(kriogenik) 冻测(kriometri) 冻镜(krioskopi) 冻态(kriostat) 冻疗(krioterapi) 墓窖名(kriptonim)
+晶记(kristalograf) 晶志(kristalografi) 色志(kromatografi) 金黄(kromiflav) 色拍志(kromofotografi) 色石志(kromolitografi) 色球(kromosfer) 时记(kronograf) 时学(kronologi) 时测(kronometri)
+时层志(kronostratigrafi) 外怕(ksenofob) 外症(ksenofobi) 干皮(kseroderm) 干植(kserofit) 干目(kseroftalmi) 干志(kserografi) 木声(ksilofon) 木记(ksilograf) 木志(ksilografi)
+栽具(kultivator) 木盐(kumarat) 廷疗(kuriterapi) 腹镜(laparoskopi) 腹切(laparotomi) 喉炎(laringit) 喉学家(laringolog) 喉学(laringologi) 喉镜(laringoskopi) 喉切(laringotomi)
+词汇记(leksikograf) 词汇志(leksikografi) 词汇学家(leksikolog) 词汇学(leksikologi) 镜计(lensometr) 白生(leu^kopoez) 举具(levator) 脾除(lienektomi) 脾炎(lienit) 淋主义(limfatism)
+淋胞(limfocit) 脂解(lipoliz) 脂瘤(lipom) 脂蛋白(lipoprotein) 石志(litografi) 石学(litologi) 石球(litosfer) 石镜(litoskop) 石切(litotomi) 解体(lizosom)
+处动(lokomobil) 腰痛(lumbalgi) 磁计(magnetometr) 磁子(magneton) 磁球(magnetosfer) 磁镜(magnetoskop) 磁勒(magnetostring) 宏头(makrocefal) 宏吞(makrofag) 宏宇(makrokosm)
+宏计(makrometr) 宏足(makropod) 宏镜(makroskop) 疟学(malariologi) 疟疗(malarioterapi) 乳痛(mamalgi) 乳除(mamektomi) 乳志(mamografi) 操具(manipulator) 图包(mapotek)
+乳突炎(mastoidit) 纵隔炎(mediastinit) 境学(mediologi) 髓除(medolektomi) 巨声(megafon) 巨石(megalit) 兆计(megommetr) 械家(meh^anist) 械化(meh^aniz) 械记(meh^anograf)
+械志(meh^anografi) 黑血(melanemi) 黑瘤(melanom) 脑膜炎(meningit) 超央(metacentr) 超相(metafaz) 金志(metalografi) 超心(metapsiki) 超稳(metastabil) 超滞(metastaz)
+超足根(metatars) 陨主义(meteorism) 方法学(metodologi) 米学(metrologi) 计律(metronom) 中头(mezocefal) 中皮(mezoderm) 中石学(mezolitik) 肌炎(miit) 菌浆(mikoplasm)
+细菌杀(mikrobicid) 微生学(mikrobiologi) 细菌学(mikrobologi) 微角砾岩(mikrobrec^i) 微影(mikrofilm) 微植相(mikroflau^r) 微声(mikrofon) 微粒(mikrograjn) 微槽(mikrokanel) 微菌(mikrokok)
+微宇(mikrokosm) 微信受(mikrokredit) 微晶(mikrokristal) 微石(mikrolit) 微米(mikrometr) 微测具(mikromezuril) 微动(mikromov) 微波(mikroond) 微器主义(mikroorganism) 微移液(mikropipet)
+微切(mikrotom) 毫克(miligram) 印记(mimeograf) 矿学家(mineralog) 矿学(mineralogi) 分具(minutator) 肌病(miopati) 万米(miriametr) 万足(miriapod) 鼓膜炎(miringit)
+鼓膜切(miringotomi) 神话学家(mitolog) 神话学(mitologi) 适具(moderator) 单主义(monism) 单家(monist) 单配(monogami) 单志(monografi) 单字(monogram) 单斜(monoklin)
+单子叶(monokotiledon) 单晶(monokristal) 单石(monolit) 单话(monolog) 单狂(monomani) 单链节(monomer) 单形(monomorfi) 单氧化(monooksid) 单瓣(monopetal) 单划(monoplan)
+单蔗子(monosakarid) 单体(monosom) 单神主义(monoteism) 单神家(monoteist) 单型(monotip) 山黑(montenegr) 形源(morfogenez) 形学(morfologi) 粘症(mukoz) 筋症(muskoloz)
+自然主义(naturalism) 自然家(naturalist) 云计(nefometr) 云镜(nefoskop) 肾除(nefrektomi) 肾学(nefrologi) 肾病(nefropati) 死爱(nekrofili) 死症(nekroz) 新石学(neolitik)
+新话(neolog) 新浆(neoplasm) 新生(neoplazi) 神经痛(neu^ralgi) 神经弱(neu^rasteni) 神经外科(neu^rokirurgi) 神经学家(neu^rolog) 神经瘤(neu^rom) 神经病(neu^ropati) 神经翅(neu^ropter)
+神经胞子(neu^rospor) 神经向(neu^rotrop) 无主义(nihilism) 无家(nihilist) 精狂(nimfomani) 氮化(nitrid) 核子(nukleon) 号具(numerator) 堵具(obturator) 洋志(oceanografi)
+洋学家(oceanolog) 洋学(oceanologi) 目炎(oftalmit) 目学家(oftalmolog) 目学(oftalmologi) 目计(oftalmometr) 八面(oktaedr) 油计(oleometr) 油体(oleosom) 寡素(oligoelement)
+寡链节(oligomer) 寡疗(oligoterapi) 波计(ondometr) 肿瘤生(onkogen) 肿瘤学(onkologi) 在源(ontogenez) 存在学(ontologi) 视计(optometr) 视测(optometri) 器主义(organism)
+东主义(orientalism) 东家(orientalist) 东学家(orientolog) 东学(orientologi) 兰除(orkidektomi) 兰炎(orkidit) 兰疗(orkidoterapi) 鸟学家(ornitolog) 鸟学(ornitologi) 鸟足(ornitopod)
+鸟嘴(ornitorink) 直源(ortogenez) 直图(ortogram) 直翅(ortopter) 直角菱(ortoromb) 振记(oscilograf) 振镜(osciloskop) 骨痛(ostalgi) 骨除(ostektomi) 骨炎(ostit)
+骨生(ostogen) 骨源(ostogenez) 骨学(ostologi) 骨瘤(ostom) 骨切(ostotomi) 陶片皮(ostrakoderm) 耳痛(otalgi) 耳炎(otit) 耳学(otologi) 耳鼻喉学(otorinolaringologi)
+卵巢除(ovariektomi) 卵巢炎(ovariit) 卵胞(ovocit) 臭氧计(ozonometr) 臭氧疗(ozonterapi) 和主义(pacifism) 和家(pacifist) 口顶炎(palatit) 古记(paleograf) 古志(paleografi)
+古石学(paleolitik) 目皮炎(palpebrit) 圆锥炎(paniklit) 胰除(pankreatektomi) 胰炎(pankreatit) 全色(pankromat) 全神主义(panteism) 全神家(panteist) 纸草学家(papirolog) 纸草学(papirologi)
+并图(paralelogram) 寄生杀(paraziticid) 寄生学(parazitologi) 极主义(paroksism) 腮腺炎(parotidit) 病生(patogen) 病源(patogenez) 病学家(patolog) 父学(patrologi) 童爱(pedofili)
+童学(pedologi) 盆测(pelvometri) 青霉素疗(penicilinoterapi) 阴茎炎(penisit) 五图(pentagram) 五米(pentametr) 围环(pericikl) 围句(perifraz) 围冰(periglaci) 围日(periheli)
+围心炎(perikardiit) 围测(perimetr) 围镜(periskop) 围种(perisperm) 围灵(perispirit) 浸被(perkolat) 浸具(perkolator) 过锰盐(permanganat) 过氧化(peroksid) 扰记(perturbograf)
+悲主义(pesimism) 悲家(pesimist) 岩志(petrografi) 岩学家(petrolog) 岩学(petrologi) 岩伞(petroselin) 敬主义(pietism) 敬家(pietist) 松植(pinofit) 脓血(pioemi)
+脓生(piogen) 火地计(pirgeometr) 火日计(pirheliometr) 火电(piroelektr) 火树瘤(pirogajl) 火解(piroliz) 火磁(piromagnet) 火计(pirometr) 捣具(pistil) 豌石(pizolit)
+肾盆炎(pjelit) 板皮(plakoderm) 平计(planimetr) 平测(planimetri) 植学家(plantolog) 植学(plantologi) 浆配(plasmogami) 胸膜炎(pleu^rit) 肺除(pneu^monektomi) 肺学(pneu^monologi)
+肺病(pneu^monopati) 极计(polarimetr) 极记(polarograf) 极志(polarografi) 战学家(polemolog) 战学(polemologi) 粉学家(polenolog) 粉学(polenologi) 粉症(polenoz) 多面(poliedr)
+多声(polifoni) 多诊(poliklinik) 多核(polinukle) 灰髓炎(poliomjelit) 多倍(poliploid) 多足(polipodi) 息肉症(polipoz) 多神主义(politeism) 多神家(politeist) 多技(politeknik)
+多毛(politrik) 苹学家(pomolog) 苹学(pomologi) 求被(postulat) 谓能(predikativ) 戏法员(prestidigitator) 灵长学(primatologi) 前相(profaz) 射具(projekciator) 前话(prolog)
+前列腺除(prostatektomi) 前列腺炎(prostatit) 原恶棍(protokanajl) 原浆(protoplasm) 原翅(protopter) 谚学家(proverbolog) 谚学(proverbologi) 省主义(provincialism) 前毒(provirus) 伪节(pseu^doartr)
+伪名(pseu^donim) 伪足(pseu^dopod) 心症(psikoz) 咬虫翅(psokopter) 翼甲形(pteraspidmorf) 羊齿植(pteridofit) 翅足(pteropod) 耻骨切(pubiotomi) 瓤炎(pulpit) 刨具(rabotator)
+根炎(radiklit) 射拍志(radiofotografi) 射志(radiografi) 射图(radiogram) 射学家(radiolog) 射学(radiologi) 射镜(radioskopi) 脊痛(rakialgi) 报被(referat) 反射学(refleksologi)
+折计(refraktometr) 规具(regulator) 流学(reologi) 流态(reostat) 网膜炎(retinit) 网膜病(retinopati) 再触(retus^) 风湿学家(reu^matolog) 风湿学(reu^matologi) 鼻炎(rinit)
+鼻学(rinologi) 鼻塑(rinoplasti) 鼻镜(rinoskopi) 根形(rizomorf) 根足(rizopod) 王主义(rojalism) 王党者(rojalist) 菱面(romboedr) 露计(rosometr) 载具(s^arg^ator)
+蔗盐(sakarat) 蔗计(sakarometr) 蔗测(sakarometri) 蔗菌(sakaromicet) 柳盐(salikat) 腐植(saprofit) 腐兽(saprozo) 闪志(scintilografi) 闪图(scintilogram) 闪计(scintilometr)
+沉学家(sedimentolog) 沉学(sedimentologi) 震图(seismogram) 震学家(seismolog) 性学家(seksolog) 性学(seksologi) 符学(semiologi) 感测(sensometri) 腐血(sepsemi) 血清学(serologi)
+蛇学家(serpentolog) 蛇学(serpentologi) 球计(sferometr) 脉记(sfigmograf) 脉志(sfigmografi) 天蛾脂(sfinglipid) 唾生(sialogen) 硅化(siliciid) 硅症(silikoz) 论主义(silogism)
+交感除(simpatektomi) 症学(simptomologi) 混主义(sinkretism) 共时镜(sinkronoskop) 共名学(sinonimik) 滑炎(sinoviit) 扫记(skanograf) 扫志(skanografi) 肩痛(skapolalgi) 划具(skarifikator)
+裂菌(skizomicet) 巩膜炎(sklerotit) 镜爱(skopofili) 刮具(skrapator) 社学家(sociolog) 体配(somatogami) 观员(spektator) 谱图(spektrogram) 谱计(spektrometr) 谱测(spektrometri)
+洞学家(speleolog) 洞学(speleologi) 精胞(spermatocit) 精植(spermatofit) 精源(spermatogenez) 精液杀(spermicid) 精液源(spermogoni) 灵主义(spiritualism) 灵家(spiritualist) 息计(spirometr)
+息测(spirometri) 胞子植(sporofit) 胞子源(sporogoni) 配比测(stekiometri) 立体志(stereografi) 立体测(stereometri) 立体划记(stereoplanigraf) 立体切(stereotomi) 不育化具(sterilizator) 胸镜(stetoskop)
+口炎(stomatit) 口学家(stomatolog) 口学(stomatologi) 斜切(strabotomi) 层记(stratigraf) 层志(stratigrafi) 填毛(stuphar) 崇被(sublimat) 糖盐(sukerat) 氨硫盐(sulfamat)
+硫青盐(sulfcianat) 硫化(sulfid) 阳疗(sunterapi) 上位(superpozici) 速记(takigraf) 速心(takikardi) 车计(taksimetr) 道主义(taoism) 道家(taoist) 足根痛(tarsalgi)
+眼板炎(tarzit) 技学(teknikologi) 远影(telefilm) 远拍记(telefotograf) 远动(telekinez) 远令(telekomand) 远复(telekopi) 远计(telemetr) 远测(telemetri) 远情(telepati)
+筋炎(tendenit) 筋切(tendenotomi) 条虫杀(teniicid) 压测(tensimetri) 神源(teogoni) 神学家(teolog) 畸生(teratogen) 畸学(teratologi) 畸瘤(teratom) 词学家(terminolog)
+词学(terminologi) 热浴(termoban) 热瓶(termobotel) 热力(termodinamik) 热电子(termoelektron) 热素(termoelement) 热泉(termofont) 热生(termogen) 热源(termogenez) 热记(termograf)
+热灼(termokau^ter) 热连(termokupl) 热学(termologi) 热测(termometri) 热核(termonukle) 热偶(termopar) 热规使(termoregulig) 热规使具(termoreguligil) 热转(termorelajs) 热虹吸(termosifon)
+热镜(termoskop) 热态(termostat) 热静(termostatik) 热疗(termoterapi) 丸炎(testikit) 四字(tetragram) 四链节(tetramer) 四硫(tetrationat) 疹似(tifoid) 鼓室炎(timpanit)
+型记(tipograf) 型记艺(tipografart) 型学(tipologi) 型计(tipometr) 甲状切(tireotomi) 甲状除(tiroidektomi) 甲状炎(tiroidit) 扁桃除(tonsilektomi) 扁桃炎(tonsilit) 地志(topografi)
+拧计(tordometr) 气管植(trakeofit) 越形具(transformator) 创学(trau^matologi) 颤计(tremometr) 毛病(trikopati) 毛生(trikoplazi) 毛翅(trikopter) 三叶受(trilobit) 三链节(trimer)
+三蔗子(trisakarid) 三体(trisom) 栓除(trombektomi) 栓胞(trombocit) 向主义(tropism) 极海(ultramar) 尿酸盐血(uratemi) 尿素盐(ureat) 尿素血(ureemi) 尿计(urinometr)
+尿镜(urinoskopi) 尿志(urografi) 尿学家(urolog) 宫炎(uterit) 葡萄膜炎(uveit) 篡员(uzurpator) 阴道痛(vaginalgi) 套炎(vaginalit) 阴道主义(vaginism) 阴道炎(vaginit)
+荡狂(vagomani) 荡切(vagotomi) 空计(vakumetr) 汽计(vapormetr) 变在(variant) 变计(variometr) 瓦钟计(vathorometr) 瓦计(vatmetr) 旗学(veksilologi) 性病学(venerologi)
+精丘炎(verumontanit) 振声(vibrafon) 振计(vibrometr) 酒学家(vinolog) 酒学(vinologi) 粘计(viskozometr) 葡学(vitologi) 活切(vivisekci) 活者杀(vivulicid) 积计(volumenometr)
+火山学家(vulkanolog) 火山学(vulkanologi) 外阴炎(vulvit) 锌盐(zinkat) 兽植(zoofit) 兽地志(zoogeografi) 兽学家(zoolog) 兽形(zoomorf) 自旋(au^togir) 自配(au^togami)
+自催(au^tokataliz) 自形(au^tomorfi) 腺炎(adenit) 射菌(aktinomicet) 无形(amorf) 无字(analfabet) 无名(anonim) 抗足(antipod) 抗腐(antiseps) 人吞(antropofag)
+无情(apati) 无足(apod) 古翅(arkeopterig) 无养(atrofi) 自主义(au^tism) 鲸翅(balenopter) 二配(bigami) 生志(biografi) 胚菌(blastomicet) 从德化(demoraliz)
+密计(densometr) 从氧(deoksi) 通测(diametr) 二形(dimorf) 二氧化(dioksid) 二足(dipod) 渴狂(dipsomani) 治在(dominant) 境学家(ekolog) 电子(elektron)
+映形(enantiomorf) 映向(enantiotrop) 脑炎(encefalit) 表记(epigraf) 表记学(epigrafik) 表字(epigram) 吞胞(fagocit) 铁盐(ferat) 物理疗(fizioterapi) 磷基(fosforil)
+光计(fotometr) 光子(foton) 句学(frazeologi) 地热(geoterm) 糖解(glukoliz) 角计(goniometr) 日向(heliotrop) 半脊索(hemih^ord) 异生(heterogen) 水头(hidrocefal)
+水热(hidroterm) 织学(histologi) 全面(holoedr) 同生(homogen) 同学(homologi) 等时(izokron) 等丙(izopropil) 等调(izoton) 等向(izotrop) 碳盐(karbonat)
+心图(kardiogram) 灼化(kau^teriz) 千克(kilogram) 千瓦(kilovat) 动疗(kinezoterapi) 偷狂(kleptomani) 气候学(klimatologi) 氯化(klorid) 氯化血(kloridemi) 结肠炎(kojlit)
+脉膜炎(koroidit) 时计(kronometr) 巨狂(megalomani) 百万瓦(megavat) 超物理(metafizik) 超形(metamorf) 微镜(mikroskop) 微胞子(mikrospor) 军主义(militarism) 军家(militarist)
+神话狂(mitomani) 动化(mobiliz) 单色(monokromat) 单调(monoton) 肾炎(nefrit) 神经炎(neu^rit) 神经症(neu^roz) 直声(ortofon) 直色(ortokromat) 病学(patologi)
+围骨(periost) 火技(piroteknik) 白金盐(platenat) 极化(polariz) 多配(poligami) 多链节(polimer) 多形(polimorf) 多翅(polipter) 多蔗子(polisakarid) 淫记(pornograf)
+淫志(pornografi) 伪形(pseu^domorf) 射感(radiestez) 射活(radioaktiv) 射记(radiograf) 再引(recit) 再名(renom) 风湿主义(reu^matism) 果被(rezultat) 卵管炎(salpingit)
+共时(sinkron) 共名(sinonim) 硬症(skleroz) 社学(sociologi) 谱记(spektrograf) 胞子脉(sporangi) 酒石盐(tartrat) 神学(teologi) 热电(termoelektr) 触向(tiksotrop)
+型志(tipografi) 毒狂(toksomani) 结症(tuberkuloz) 远志(telegrafi) 水生(hidrogen) 氧生(oksigen) 氮生(nitrogen) 通图(diagram) 图声(gramofon) 自然化(naturaliz)
+令受(komandit) 生理学(fiziologi) 爱学(filologi) 表意(ideografi) 超形症(metamorfoz) 死志(nekrolog) 质子子(proton) 抗质子子(antiproton) 菌菌(mikobakteri) 不可知主义(agnostikism)
+十二指肠炎(duodenit) 内分泌学家(endokrinolog) 密螺旋体杀(treponemicid) 新话主义倾(neologismem) 力计(dinamometr) 电力主义(elektrodinamism) 六氯(heksaklor) 乳糖(laktoz) 麦芽糖(maltoz) 蔗糖(sakaroz)
+糊糖(ameloz) 果糖(fruktoz) 木糖(ksiloz) 精糖(rafinoz) 水苏糖(stakioz) 从氧糖(deoksioz) 金基(kromiil) 表环(epicikl) 亚环(hipocikl) 间星(interstel)
+息具(spirator) 洞具(kavator) 毛菌(trikomicet) 配子源(gametogenez) 红胞血(eritrocitemi) 粒胞血(granulocitemi) 血球血(globulemi) 糖源(glukogenez) 色力(kromodinamik) 纤炎(fibrit)
+球炎(bulbit) 电产(elektroprodukto) 磁铁矿(magnetit)

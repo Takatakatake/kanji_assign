@@ -92,3 +92,24 @@
 神家	teist
 任	ajn
 员	an
+# 2026-07-26 第27回続24: 生物名369語根(§4.6 最近縁字による隙間充填)を投入した際、
+# band=pejvo(br=1)の新規語根が band=piv(br=2)の先在basicを band_rank で追い越し、
+# 下記14群の基本形が入れ替わった(churn)。神主义/神家 と完全に同型の事象ゆえ同じ処方=
+# 先在の語根を bare に固定して現状維持し、新規側に識別子を付与する(出力不変)。
+皮翅	dermapter
+蛾	mote
+榕	fikus
+爬虫	sau^r
+金丝燕	salangan
+千足	kilopod
+眼镜蛇	kobr
+蔓	sarment
+香脂	ladan
+蠕	helmint
+水苏	staki
+秧鸡	ral
+猴	ceb
+茅	espart
+# 禾群の基本形を廃用形 gramin(【PIV】evitinda=gramineo) から正規の gramine(イネ科・PEJVO層)へ。
+# 生物名369語根投入で禾群にPEJVO層3語根が加わり、[I]NEW_SYNONYM_REVERSAL として検出(2026-07-26 第27回続24)。
+禾	gramine
