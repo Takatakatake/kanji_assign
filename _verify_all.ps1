@@ -115,6 +115,15 @@ foreach($ln in ($dc -split "`r?`n")){ if($ln -match '^\[J\] (学習者版|学術
 if($dcNew -eq ''){ Say "[J] 描画の一意性: 実行不可(要 python + _audit_display_collisions.py)"; $fail=1 }
 elseif($dcNew -ne '0'){ $fail=1; Say ("    !! 新規の同形異義=" + $dcNew + "種 → 異なる語が同じ漢字列に描画されている。語義照合のうえ識別子付与か既知登録を判断") }
 
+# --- K. 新規露出分節/見出し(2026-07-26 第11レンズで新設) ---
+# 正本の分解変更で結合形が分割されると、成分が **同綴別語の既存割当をそのまま拾う** ことがある。
+# 2026-07-26 の1日で2回発生(nau^tik→nau^t/ik / ribosom→rib/o/som で rib が【植】醋栗 を拾った)。
+# [A][F][J] はいずれも「今の状態が壊れているか」しか見ず、この露出の瞬間を捕捉できない。
+$ns = & python "$dir\_audit_new_segments.py" *>&1 | Out-String
+foreach($ln in ($ns -split "`r?`n")){ if($ln -match '^\[K\]' -or $ln -match '★漢字描画された新規分節' -or $ln -match '新規見出し\(要点検\)' -or $ln -match '^\s+※' -or $ln -match '^\s+\(2026'){ Say $ln } }
+if($ns -notmatch '\[K\]'){ Say "[K] 新規露出分節: 実行不可(要 python + _audit_new_segments.py)"; $fail=1 }
+elseif($ns -match '★漢字描画=([1-9]\d*)'){ $fail=1; Say "    !! 漢字描画された新規分節あり → 同綴別語の字を拾っていないか語義照合。確認後 python _audit_new_segments.py --accept" }
+
 # --- 総括 ---
 $verdict='全PASS(健全・同期も最新)'
 if($fail -ne 0){ $verdict='要対応(ハード違反あり)' } elseif($drift -ne 0){ $verdict='不変条件PASSだが WSL再同期推奨' } elseif($newInc -ne '0' -and $newInc -ne '?'){ $verdict='不変条件PASSだが 新規偽分解不整合の点検推奨' }
