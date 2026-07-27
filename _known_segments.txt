@@ -8721,6 +8721,7 @@ fototip
 fototropism
 fove
 fr!
+fra
 frac^j
 frag
 fragari
@@ -15142,6 +15143,7 @@ p.
 p.K.
 pH
 pK
+pa
 pa!
 pac
 pac^ini
@@ -34775,6 +34777,8 @@ H	学習	fot/on/o
 H	学習	fotel/o
 H	学習	fove/et/o
 H	学習	fove/o
+H	学習	fra/c^j/o
+H	学習	fra/nj/o
 H	学習	frag/a konfit/aj^/o
 H	学習	frag/a marmelad/o
 H	学習	frag/arb/o
@@ -53187,6 +53191,7 @@ H	学習	nutr/o/valor/o
 H	学習	nutr/o/var/o
 H	学習	nutr/o/var/oj
 H	学習	o-vort/o
+H	学習	o/nj/o
 H	学習	obe/ad/o
 H	学習	obe/em/a
 H	学習	obe/i
@@ -53609,6 +53614,7 @@ H	学習	ombr/um/i
 H	学習	ombrel/fung/o
 H	学習	ombrel/o
 H	学習	ombrel/uj/o
+H	学習	on/c^j/o
 H	学習	on/ec/o
 H	学習	on/ig/i
 H	学習	on/o
@@ -54239,6 +54245,8 @@ H	学習	ozon/o/metr/o
 H	学習	ozon/tavol/a tru/o
 H	学習	ozon/tavol/o
 H	学習	ozon/terapi/o
+H	学習	pa/c^j/o
+H	学習	pa/nj/o
 H	学習	pac/a
 H	学習	pac/am/a
 H	学習	pac/defend/a

@@ -231,7 +231,14 @@ $existing=@(
  @('mat','将','mat/i,mat/ig/i,mat/ig/o','','mat(チェス/将棋の詰み checkmate)→将。詰むmat/i・詰めるmat/ig/i・詰めmat/ig/o。敷物義(mus/mat マウスパッド・pord/mat ドアマット・pajl/mat むしろ 等)は席維持。同綴2行の mat/o と s^ak/mat/o は語釈scoped(『チェックメイト』)で是正'),
  @('kanon','典','kanon/ec/o,kanon/ig/i,en/kanon/ig/i,du/a/kanon/a','','kanon(希kanon=規範→聖書正典/教会法/カノン)→典。聖典性kanon/ec・列聖kanon/ig/i・en/kanon/ig/i・第二正典du/a/kanon/a。大砲義(kanon/ad砲撃・kanon/boat砲艦・kanon/tub砲身 等)は炮維持。kanon/ist(砲手/教会法学者)・kanon/a(PIV=砲列)は混在/砲義ゆえ炮維持。同綴2行の kanon/o は語釈scoped(『聖書正典』)で是正'),
  @('orkid','丸','orkid/it/o,orkid/ektomi/o,orkid/o/terapi/o','','orkid(希orkhis=睾丸。ラン科の塊茎が睾丸状であることに由来)→丸。精巣炎orkid/it(丸ᴼ/炎ᵀ)・精巣摘出orkid/ektomi・精巣製剤療法orkid/o/terapi。ラン義(orkid/ac/oj ラン科)は兰維持。bare orkid/o は「【植】ハクサンチドリ;【解】精巣,睾丸」の混在行ゆえ $forceAmb で兰を維持'),
- @('jard','杆','al/jard/ig/i','','jard(帆桁yard-arm)→杆。帆を帆桁に結ぶal/jard/ig/i。bare jard/o は「【単】ヤード;【海】ヤード,帆桁」の混在行ゆえ $forceAmb で码ᴶ(ヤード)を維持') )
+ @('jard','杆','al/jard/ig/i','','jard(帆桁yard-arm)→杆。帆を帆桁に結ぶal/jard/ig/i。bare jard/o は「【単】ヤード;【海】ヤード,帆桁」の混在行ゆえ $forceAmb で码ᴶ(ヤード)を維持'),
+ # --- 2026-07-28 続43: 正本が親愛接尾辞 -c^j-/-nj- を偽分解展開した際に露出した切り詰め語幹 ---
+ #   正本更新(07-27 21:59)で pa/c^j/o(パパ)・fra/nj/o(姉ちゃん)・on/c^j/o(おじちゃん)等7行が
+ #   fra//pa//o//on + c^j//nj に分解された。母体語根の字を当てるのは既存の
+ #   av/c^j/o⟦爷/c^j/o⟧(おじいちゃん)と同型で、nj=女ᴺ は既に割当済み。新字ゼロ。
+ @('on','叔','on/c^j/o','','on(onklo の切り詰め)→叔。★これを入れないと分数接尾 -on-=分 を拾って on/c^j/o⟦分/c^j/o⟧(おじちゃん→「分」)と誤描画される。accusative の -on は語尾扱いでラテンのまま=無関係。同義の o/c^j/o は語頭 o が語尾トークン扱いのためラテン据置'),
+ @('fra','兄','fra/c^j/o,fra/nj/o','','fra(frato の切り詰め)→兄。fra/c^j/o=兄ちゃん・fra/nj/o⟦兄/女ᴺ/o⟧=姉ちゃん。既存の frat/in/o⟦兄/女/o⟧ の完全な鏡像。分節 fra は両版でこの2語にしか現れない'),
+ @('pa','父','pa/c^j/o,pa/nj/o','','pa(patro の切り詰め)→父。pa/c^j/o=パパ・pa/nj/o⟦父/女ᴺ/o⟧=ママ。既存の patr/in/o⟦父/女/o⟧ の完全な鏡像。分節 pa は両版でこの2語にしか現れない') )
 # 新54(root,override,headwordForm,2nd義キーワード(amb判別用),note)
 $new=@(
  @('al','翼','al/o,helic/al/o,c^irkau^/al/a,frog/al/o,al/et/o,al/et/s^rau^b/ing/o','翼','翼(alo=翼/羽根)。前置詞al=向と別。複合語内al/o=翼も翼へ(helic/al/o=プロペラ羽根・c^irkau^/al/a=翼に囲まれた・frog/al/o=フログ翼部・al/et/o=蝶ナットのつまみ・al/et/s^rau^b/ing/o=蝶ねじ受け=aleto小翼。hsepはwhole-wordキーのため複合を明示列挙=2026-06-25 接尾辞悉皆監査WF・2026-07-04 aleto向誤適用是正)'),@('por','孔','por/o,por/a','孔','気孔。前置詞por=为と別'),@('sur','腿','sur/o','ふくらはぎ','ふくらはぎ。前置詞sur=上と別'),

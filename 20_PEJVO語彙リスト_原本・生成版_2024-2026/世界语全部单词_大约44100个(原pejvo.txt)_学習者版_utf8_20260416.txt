@@ -11929,7 +11929,7 @@ fot/o/sintez/o:【植】光合成##偽分解
 fot/o/stat/o:【機】フォトスタット（商標名）,写真複写機,=fotokopiilo##偽分解
 fot/o/tele/graf/i:［他］【通】写真電送する,>>faksi##偽分解(PIV正式分解)
 fot/o/tip/i/o:【印】写真凸版術,フォトタイプ術##偽分解
-frac^j/o:兄弟（親愛の呼びかけ）,=frateto
+fra/c^j/o:兄弟（親愛の呼びかけ）,=frateto##偽分解
 frag/a konfit/aj^/o:【料】イチゴのプレザーブ,イチゴジャム
 frag/a marmelad/o:【料】イチゴジャム
 frag/bed/o:イチゴ畑
@@ -12000,7 +12000,7 @@ frand/i:{Ｂ}［他］好んで食べる,好きである,賞味する,味わう
 frangol/o:{Ｏ}【植】ラムヌス・フラングラ（クロウメモドキの一種）,セイヨウクロウメモドキ
 frang^/i:［他］【服】房飾りを付ける
 frang^/o:{Ｏ}【服】房飾り;【理】干渉縞（じま）
-franj/o:姉妹（親愛の呼びかけ）,=fratineto
+fra/nj/o:姉妹（親愛の呼びかけ）,=fratineto##偽分解
 Frankfurt/o:【地名】フランクフルト（ドイツ）
 Frank/i/o:【史】フランク王国
 frank/o:{Ｏ}【貨】フラン（フランス・スイスなど）,=100 centimoj
@@ -28110,7 +28110,7 @@ Oceani/o:【地名】オセアニア
 ocean/o:{Ｂ}【地理】大洋,大海,海洋
 Ocean/o:【神】オケアノス（ギリシア神話で大洋の神）
 ocean/o/grafi/o:海洋学,=marscienco##偽分解
-oc^j/o:おじちゃん,おっちゃん,>>onklo
+o/c^j/o:おじちゃん,おっちゃん,>>onklo##偽分解
 odalisk/o:【史】オダリスク（オスマントルコのスルタンの後宮に仕える女奴隷）
 Odens/o:【地名】オーセンセ（＝オーデンセ，デンマーク）
 Oder/o:【地名】=Odro
@@ -28405,7 +28405,7 @@ om/o/metr/o:【理】オーム計
 om/o/metr/o:【理】オーム・メートル（抵抗率の単位，Ω･m）
 -on-:{Ｂ}［接尾辞］（分数を示す）,>>duono
 onan/ism/o:【医】自慰,オナニー,=sinmasturbado##偽分解##強語根分解
-onc^j/o:おじちゃん,>>onklo
+on/c^j/o:おじちゃん,>>onklo##偽分解##過細分解 o/n/c^j/o
 ond/a:波の,波状の
 ond/ad/i:=ondi（波打つ）
 ond/ad/o:波動
@@ -28462,7 +28462,7 @@ on/ig/i:［他］（数学的に）割る,分ける
 oniks/o:{Ｏ}【鉱】シマメノウ（縞瑪瑙）,オニックス
 oni/n:（一般・不特定の）人を
 onisk/o:【動】ワラジムシ（草鞋虫）（の類）
-onj/o:おばちゃん,>>onklino
+o/nj/o:おばちゃん,>>onklino##偽分解
 onkl/in/o:おば（親の姉妹、親の兄弟の妻）,>>onjo
 onkl/o:{Ｂ}おじ（親の兄弟、親の兄弟の夫）,>>oc^jo
 on/o:=frakcio（分数）
@@ -28955,7 +28955,7 @@ pac/soldat/o:（国連の）平和維持軍兵士,=blukaskulo
 pac/traktat/o:平和条約,講和条約
 pac/trup/an/o:平和維持部隊員,>>pacsoldato,>>blukaskulo
 pac/trup/o:（国連などの）平和維持部隊
-pac^j/o:パパ,とうちゃん,>>patro
+pa/c^j/o:パパ,とうちゃん,>>patro##偽分解
 pac^ul/o:{Ｏ}【植】パチョリ（種）;パチョリ（香料）
 padel/i:［自］（泥や水の中を）歩く,動き回る;（泥や水の中で）暴れる,パチャパチャする;=>pagaji（かいでこぐ）
 padel/o:（スクリュー・プロペラの）羽根板;（オールの）水かき,櫂（かい）;（水車の）水かき板
@@ -29154,7 +29154,7 @@ panikl/o:【解】皮下脂肪;【植】円錐花序
 panik/o:{Ｏ}恐慌,パニック;【経】恐慌
 panik/o:【植】=>panico（キビ）
 pan/ist/o:パン職人,パン屋
-panj/o:ママ,かあちゃん,>>patrino
+pa/nj/o:ママ,かあちゃん,>>patrino##偽分解
 pan/kac^/o:【料】パンがゆ
 pankrac/o:パンクラチオン（古代ギリシアの格闘競技）
 pankreas/o:【解】=>pankreato（すい臓）
