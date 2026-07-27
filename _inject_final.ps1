@@ -13,12 +13,13 @@ Import-Csv "$dir\_identifier_sidecar.tsv" -Encoding UTF8 -Delimiter "`t" | ForEa
 function DispHas([string]$k){ $disp.ContainsKey($k) -or $dispCI.ContainsKey($k) }
 function DispGet([string]$k){ if($disp.ContainsKey($k)){ $disp[$k] } elseif($dispCI.ContainsKey($k)){ $dispCI[$k] } }
 # --- homonym台帳(sep見出しのみ適用。amb=同一文字列は不採用) ---
-$hsep=@{}; $comb=@{}; $hsegDisp=@{}
+$hsep=@{}; $comb=@{}; $hsegDisp=@{}; $hsegNote=@{}
 Get-Content "$dir\_homonym_disp.tsv" -Encoding UTF8 | Select-Object -Skip 1 | ForEach-Object {
   $p=$_ -split "`t"; if($p.Count -lt 5){return}; $seg=$p[0];$type=$p[1];$disc=$p[2];$ovk=$p[3];$d=$p[4]
   if($type -eq 'sep'){ foreach($hw in ($disc -split ',')){ $hw=$hw.Trim(); if(-not $hw){continue}; if(-not $hsep.ContainsKey($hw)){$hsep[$hw]=@{}}; $hsep[$hw][$seg]=$d } }
   elseif($type -eq 'comb'){ $comb[$seg]=$d }   # 結合形(ギリシャ): idx>0 の完全一致分節で適用(fon→声)
   $hsegDisp[$seg+"`t"+$ovk]=$d   # (分節,第2義漢字)→識別子付きdisp。語釈scopedの inline ルールが台帳と同じ字を使うための引き(id変動に自動追随)
+  $hsegNote[$seg+"`t"+$ovk]=($(if($p.Count -ge 6){$p[5]}else{''}))   # 2026-07-27 続39: 台帳の note を保持($ambRule の封印チェック用)
 }
 # 語釈scoped ルールで使う第2義disp(台帳から引く=識別子が再計算で変わっても自動追随。見つからなければ即throw=沈黙劣化を防ぐ)
 $karpAnat = $hsegDisp["karp`t腕"]; if(-not $karpAnat){ throw "[台帳不整合] karp→腕 の homonym 行が無い(_build_homonym.ps1 の meta/karp sep 行を確認)" }
@@ -48,20 +49,34 @@ foreach($r in @(
   @('ar','アール（面積の単位','亩'),       # 面積単位are ↔ 集合接尾-ar-=群
   @('luks','ルクス（照度','照'),           # 照度単位lux ↔ ぜいたくluks/o=奢
   @('stok','ストークス（動粘度','粘'),     # 動粘度単位stokes ↔ 在庫stok/o=储ˢ
-  @('kuri','キュリー（放射能','居'),       # 放射能単位curie ↔ 古代ローマのクリアkuri/o=廷
+  # ★kuri(キュリー)→居 は 2026-07-27 続39 で撤回。居里=Curie の部分音訳で方針R4「音訳は部分音訳も含め
+  #   絶対禁止」に反する(§14続13にも『kuritherapy(居礼=音訳で方針違反)』の記録があった)。kuri/o【理】は
+  #   廷 に戻す。放射能の単位にふさわしい意味字は未確定=要ユーザー裁定。
   @('spin','【理】スピン','旋'),           # 物理スピン ↔ 背骨spin/o=脊(spin/momant/oは既に旋ˢᴺ=不変)
   @('spat','仏炎包','苞'),                 # 仏炎苞spathe ↔ へげ石spat/o=石ˢ
-  @('sol','ゾル,>>koloido','溶'),          # コロイドのゾル ↔ 単独sol/a=唯(aer/o/sol/oは既に胶ˢ=不変)
+  @('sol','ゾル,>>koloido','胶'),          # コロイドのゾル ↔ 単独sol/a=唯。★続39: 続37は新字 溶 を当てたが 胶ˢ(aerosol)に統一=字種を増やさない
   @('bit','繋柱','桩'),                    # 繋柱bollard ↔ 情報bit/o=位ᴮ
   @('pic^','tonalto（音高','调'),          # 音高pitch ↔ 俗語pic^/o=阴户
   @('er','erao（紀元','纪'),               # 紀元era ↔ 構成要素er/o=粒
-  @('line','リンネソウ','草'),             # Linnaea(リンネソウ属) ↔ 線line/o=线ᴸᴱ
-  @('sinus','正弦','弦')                   # 正弦sine(sinus/o・sinus/ond/o) ↔ 解剖の洞sinus/o=洞ˢ
+  @('line','リンネソウ','草')              # Linnaea(リンネソウ属) ↔ 線line/o=线ᴸᴱ
+  # ★sinus(正弦)→弦 は 2026-07-27 続39 で撤回。2026-07-23 続6 の据置記録
+  #   「faithful mirror/固定形態素ゆえ据置: sinus/ond洞ˢ/波」に反していたうえ、
+  #   sinus は解剖の洞も数学の正弦も同じラテン語 sinus(湾曲)由来の**意味拡張**で、
+  #   mat(敷物/詰み)・kanon(大砲/正典)のような別語源の同綴異義ではない。
+  #   さらに続37は sinus/o と sinus/ond/o だけを変え ko/sinus/o・ark/o/sinus/o・are/o/sinus/o・
+  #   sinus/ark/o を洞ˢのまま残していた=**同一形態素が語によって割れる**という最悪の状態だった。
+  #   洞ˢ に統一して解消する(数学義に別字を当てるかは要ユーザー裁定)。
 )){
   $seg=$r[0]; $kw=$r[1]; $kan=$r[2]
   $d=$hsegDisp[$seg+"`t"+$kan]
   if(-not $d){ throw ("[台帳不整合] amb実現表: 分節 "+$seg+" → "+$kan+" の homonym 行が無い(_build_homonym.ps1 を確認)") }
   if($d -match '[0-9]'){ throw ("[識別子=数字禁止] amb実現表: "+$seg+"→"+$d+" は数字idを含むため注入できない") }
+  # ★2026-07-27 続39 再発防止: 台帳に第2義の字が書いてあっても、方針書§14で「据置」「要ユーザー裁定」
+  #   「方針違反」と判断済みの行がある(実例=kuri→居 は居里=Curieの部分音訳でR4違反と§14続13に記録済みだったのに
+  #   続37でこれを実現してしまった)。台帳の note に封印マーカーがある行は実現を拒否して即throwする。
+  if($hsegNote[$seg+"`t"+$kan] -match '使用禁止|実現禁止|撤回・封印'){
+    throw ("[封印された第2義] amb実現表: 分節 "+$seg+" → "+$kan+" は台帳noteで実現を禁じられている。"+
+           "方針書§14の該当記録を確認すること: "+$hsegNote[$seg+"`t"+$kan]) }
   if(-not $ambRule.ContainsKey($seg)){ $ambRule[$seg]=New-Object System.Collections.ArrayList }
   [void]$ambRule[$seg].Add(@($kw,$d))
 }

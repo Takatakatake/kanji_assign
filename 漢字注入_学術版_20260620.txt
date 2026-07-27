@@ -6612,7 +6612,7 @@ devi/i⟦偏/i⟧:［自］それる,外れる;かたよる;《転》逸脱す�
 devi/ig/a plat/o⟦偏/使/a 扁/o⟧:【理】（ブラウン管の）偏向板
 devi/ig/i⟦偏/使/i⟧:［他］そらす,まげる;かたよらせる;逸脱させる
 devi/o⟦偏/o⟧:ふれ,かたより;《転》逸脱;【海】（磁針の）自差;【統】偏差
-deviz/kurz/o⟦铭/价ᴷ/o⟧:【経】為替相場,>>valuto
+deviz/kurz/o⟦汇ᴰ/价ᴷ/o⟧:【経】為替相場,>>valuto
 deviz/o⟦铭/o⟧:{Ｏ}標語,モットー,座右の銘;（紋章の）題銘;【経】外国為替
 dev/liber/a⟦应/自由/a⟧:義務を免除された
 dev/o⟦应/o⟧:義務,責務
@@ -11587,7 +11587,7 @@ font/indik/o⟦泉/指ᴵ/o⟧:出典表示
 font/lingv/o⟦泉/语/o⟧:【語】起点言語（翻訳の対象になる言語）,原語;【情】原始言語
 font/o⟦泉/o⟧:{Ｂ}泉,水源;源;《転》源泉,根源
 font/o/kod/o⟦泉/o/码/o⟧:【情】ソースコード
-font/o/plum/o⟦泉/o/笔ᴾᴸ/o⟧:万年筆
+font/o/plum/o⟦泉/o/羽/o⟧:万年筆
 font/program/o⟦泉/程/o⟧:【情】ソースプログラム,原始プログラム
 for⟦离⟧:{Ｂ}［副］遠くへ;離れて
 for⟦离⟧:［間］去れ！
@@ -15013,8 +15013,8 @@ imperativ/a⟦令ᴵ/a⟧:【Ｇ】命令法の;《転》避けられない,強�
 imperativ/o⟦令ᴵ/o⟧:{Ｏ}【Ｇ】命令法;《転》（至上）命令
 imperfekt/o⟦未完/o⟧:{Ｏ}【Ｇ】半過去,未完了時制
 imperi/a⟦帝/a⟧:帝国の
-imperial/ism/o⟦顶ᴵ/主义/o⟧:{Ｏ}=imperiismo（帝国主義）
-imperial/ist/o⟦顶ᴵ/家/o⟧:=imperiisto（帝国主義者）
+imperialism/o:{Ｏ}=imperiismo（帝国主義）
+imperialist/o:=imperiisto（帝国主義者）
 imperial/o⟦顶ᴵ/o⟧:{Ｏ}（バス・電車などの）屋上席;（馬車の屋根の）荷物置き場
 imperi/estr/a famili/o⟦帝/长ᴱ/a 家ᶠ/o⟧:皇室
 imperi/estr/a fritilari/o⟦帝/长ᴱ/a 贝母/o⟧:【植】ヨウラクユリ（瓔珞百合）
@@ -20888,7 +20888,7 @@ kur/ig/i⟦跑/使/i⟧:［他］走らせる
 Kuril/aj Insul/oj:【地名】千島列島,=Kuriloj
 Kuril/oj:【地名】千島列島（クリル列島）
 kuri/o⟦廷/o⟧:【史】クリア（古代ローマの社会組織の一単位／クリア集会所／元老院議場）;【カ】教皇庁
-kuri/o⟦居ᴷ/o⟧:【理】キュリー（放射能の単位，Ci）
+kuri/o⟦廷/o⟧:【理】キュリー（放射能の単位，Ci）
 Kuri/o:【人名】キュリー（フランスの物理学者夫妻，ピエール1859-1906，マリー1867-1934）
 kurioz/a⟦奇ᴷ/a⟧:{Ｂ}珍しい,奇妙な,好奇心をそそる
 kurioz/a best/o⟦奇ᴷ/a 兽/o⟧:珍獣
@@ -22712,7 +22712,7 @@ lum/mikroskop/o⟦光/微镜/o⟧:【理】光学顕微鏡
 lum/o⟦光/o⟧:光,日光;明かり,輝き;光源,灯火,ライト;《転》指導的な人物
 lum/ond/o⟦光/波/o⟧:【理】光波
 lum/o/plen/a⟦光/o/满/a⟧:光に満ちた,照り輝いた
-lum/plum/o⟦光/笔ᴾᴸ/o⟧:【情】ライトペン
+lum/plum/o⟦光/羽/o⟧:【情】ライトペン
 lum/puls/i⟦光/脉ᴾ/i⟧:［自］（規則的に）点滅する,明滅する;【情】プリンクする
 lum/radi/i⟦光/射ᴿ/i⟧:［自］光を発する,光り輝く
 lum/radi/oj⟦光/射ᴿ/oj⟧:【理】光線
@@ -30816,7 +30816,7 @@ plu/konstru/i⟦还/建/i⟧:［他］増築する
 plu/konstru/o⟦还/建/o⟧:増築
 plum/a⟦羽/a⟧:羽根の,羽根のような
 plum/a diant/o⟦羽/a 石ᴰ/o⟧:【植】タツタナデシコ
-plum/amik/o⟦笔ᴾᴸ/友/o⟧:ペンフレンド,=korespondamiko
+plum/amik/o⟦羽/友/o⟧:ペンフレンド,=korespondamiko
 plum/ar/o⟦羽/群/o⟧:（鳥の全身の）羽毛
 plumb/a⟦铅/a⟧:鉛の;鉛のような,重苦しい
 plumb/aj^/o⟦铅/物/o⟧:鉛製品,おもり;（封緘用）鉛
@@ -30833,18 +30833,18 @@ plumb/o/griz/a⟦铅/o/灰/a⟧:鉛灰色の
 plumb/o/kolor/a⟦铅/o/色/a⟧:鉛色の
 plumb/o/sond/il/o⟦铅/o/探ˢ/具/o⟧:【海】測鉛
 plum/e kun/met/it/a foli/o⟦羽/e 共/置/受/a 叶/o⟧:【植】羽状複葉
-plum/erar/o⟦笔ᴾᴸ/错/o⟧:筆の誤り,書き間違い
+plum/erar/o⟦羽/错/o⟧:筆の誤り,書き間違い
 plum/et/o⟦羽/小/o⟧:綿羽（わたばね）,=lanugero
 plum/i⟦羽/i⟧:［他］羽飾りをつける
-plum/ing/o⟦笔ᴾᴸ/座/o⟧:ペン軸
-plum/nom/o⟦笔ᴾᴸ/名/o⟧:筆名,ペンネーム,>>pseu^donomo
+plum/ing/o⟦羽/座/o⟧:ペン軸
+plum/nom/o⟦羽/名/o⟧:筆名,ペンネーム,>>pseu^donomo
 plum/o⟦羽/o⟧:{Ｂ}羽根,羽毛,>>lanugo;鵞ペン,羽根ペン;ペン,ペン先
 plump/a:《詩》ぶざまな,鈍重な,=malgracia,=malelegante pezac^a
 plum/pez/a⟦羽/重/a⟧:【運】フェザー級の
 plum/pilk/o⟦羽/球/o⟧:【運】（バドミントンの）シャトル,=volano
 plum/tig/o⟦羽/茎/o⟧:【鳥】羽軸（うじく）
 plum/tuf/o⟦羽/丛/o⟧:（帽子などの）羽飾;【鳥】冠羽,=egreto
-plum/uj/o⟦笔ᴾᴸ/器/o⟧:ペン入れ,筆箱
+plum/uj/o⟦羽/器/o⟧:ペン入れ,筆箱
 plum/vis^/il/o⟦羽/拭/具/o⟧:羽ぼうき
 plur/aj⟦多ᴾᴿ/aj⟧:{Ｂ}複数の;（１ではない）幾人かの,いくつかの,>>kelkaj
 plural/ism/o⟦复数/主义/o⟧:=plurismo（多元論）
@@ -36775,9 +36775,9 @@ sintez/o⟦合ˢ/o⟧:{Ｏ}総合,統合;【化】合成;【哲】総合,><anali
 si/n/tromp/o⟦己/n/骗/o⟧:自己欺瞞
 sinus/it/o⟦洞ˢ/炎ᵀ/o⟧:【病】副鼻腔炎;静脈洞炎
 sinus/o⟦洞ˢ/o⟧:【解】洞（どう）
-sinus/o⟦弦ˢ/o⟧:【数】サイン（正弦）,>>kosinuso,>>tangento
+sinus/o⟦洞ˢ/o⟧:【数】サイン（正弦）,>>kosinuso,>>tangento
 sinus/oid/a oscil/ad/o⟦洞ˢ/似ᴼ/a 振ᴼ/行/o⟧:【理】単振動
-sinus/ond/o⟦弦ˢ/波/o⟧:【理】正弦波
+sinus/ond/o⟦洞ˢ/波/o⟧:【理】正弦波
 Sinvij^u/o:【地名】シンウィジュ（新義州，北朝鮮）
 sionism/o:=cionismo（シオニズム）
 Sirakuz/o:【地名】シラクザ（＝シラクサ，イタリア）
@@ -37020,7 +37020,7 @@ skrib/o/c^ambr/o⟦书ˢ/o/室/o⟧:事務室;書斎
 skrib/o/kap/o⟦书ˢ/o/头/o⟧:【情】書込みヘッド
 skrib/o/tabl/o⟦书ˢ/o/桌/o⟧:事務机,勉強机
 skrib/o/var/o⟦书ˢ/o/货/o⟧:【商】文房具,事務用品
-skrib/plum/o⟦书ˢ/笔ᴾᴸ/o⟧:ペン
+skrib/plum/o⟦书ˢ/羽/o⟧:ペン
 skrib/rul/aj^/o⟦书ˢ/卷ᴿ/物/o⟧:巻物
 skrib/sistem/o⟦书ˢ/系/o⟧:書記体系
 skrib/sub/aj^/o⟦书ˢ/下/物/o⟧:下敷
@@ -37257,7 +37257,7 @@ soliter/o:（指輪など）ダイヤモンドを一つだけはめた装身具;
 sol/kant/i⟦唯/唱/i⟧:［他］独唱する
 sol/kant/o⟦唯/唱/o⟧:【楽】独唱,ソロ
 sol/lud/o⟦唯/玩/o⟧:【楽】ソロ演奏,独奏
-sol/o⟦溶/o⟧:【化】ゾル,>>koloido,>>g^elo
+sol/o⟦胶ˢ/o⟧:【化】ゾル,>>koloido,>>g^elo
 sol/o⟦唯/o⟧:ただ一人,ただ一つ;【楽】ソロ,独奏,独唱
 sol/parol/o⟦唯/话/o⟧:ひとりごと
 sol/parti/a⟦唯/党/a⟧:【政】一党制の,一党独裁の,>>totalismo
@@ -45280,7 +45280,7 @@ arka/aj^/o⟦古ᴬᴿ/物/o⟧:【PIV】Io arkaa, i.a. (interalie, inter aliaj)
 arka/ig^/i⟦古ᴬᴿ/成/i⟧:【PIV】Ig^i arkaa.
 arkan/o⟦秘ᴬ/o⟧:【宗】【PIV】1 Sekreta instruo au^ rito, rezervita al inicitoj. 2 Taroka karto: maj^ora arkano (unu el la 22 simbolaj bildoj), minora arkano (unu el la ceteraj 56 kartoj). 3 (f (figurasence)) Sekreto, mistero. Vd kripto.
 arke/a⟦方舟/a⟧:【数】【PIV】Rilata al arkeo: arkea funkcio (Vd (vidu) funkcio).
-arke/oj⟦方舟/oj⟧:【生】【PIV】Prabakterioj.
+arke/oj⟦菌ᴬᴷ/oj⟧:【生】【PIV】Prabakterioj.
 arkean/o:【地質】【PIV】La unua tempodividaj^o de antau^kambrio, iam taksita kiel periodo. Vd proterozoiko, hadeano.
 arkebuz/o:【史】【PIV】Malnova formo de fusilo, kiun oni, por la uzo, devis apogi sur forko au^ tripiedo. -> muskedo, pafilo, arbalesto.
 arkegoni/o⟦颈卵器/o⟧:【植】【PIV】Inseksa reproduktorgano de la briofitoj k vaskulplantoj, tipe konsistanta el botelforma c^elaro entenanta gameton (Vd oosfero), sed tre reduktig^inta c^e la semplantoj.
@@ -45855,7 +45855,7 @@ biskutel/o⟦草ᴮᵁ/o⟧:【植】【PIV】G. (Genro) (Biscutella el brasikac
 bismutat/o⟦金盐ᴮ/o⟧:【化】【PIV】Salo de bismuta acido, HBiO 3 au^ H 3 BiO 4.
 bismut/ism/o⟦金ᴮˢ/主义/o⟧:【医】【PIV】Toksig^o per bismuto.
 bistort/o⟦草ᴮᵀ/o⟧:【植】【PIV】Sp. (Specio) de poligono vs (vastasence) (Persicaria bistorta, sin. (sinonimo (de latinscienca nomo)) Polygonum b.) el Eu^ropo k Azio, plurjara herbo kun supraj folioj senpetiolaj k long-ingaj, la malsupraj larg^e oblongaj, c^ebaze abrupte mallarg^ig^intaj k dekure petiolaj, kun hele rug^aj floroj k kun adstringa rizomo medicine uzata.
-bit/et/o⟦位ᴮ/小/o⟧:【PIV】Paro da fostetoj arang^ita je la boatrando, servanta por fiksi al g^i s^nuregojn.
+bit/et/o⟦桩ᴮ/小/o⟧:【PIV】Paro da fostetoj arang^ita je la boatrando, servanta por fiksi al g^i s^nuregojn.
 bit/ig/i⟦位ᴮ/使/i⟧:【情】【PIV】Konverti al ciferecaj datenoj. Sin. (sinonimo) ciferecigi: bitigi bildon, sonon.
 bit/ig/il/o⟦位ᴮ/使/具/o⟧:【情】【PIV】Aparato por bitigi. Sin. (sinonimo) ciferecigilo: bild bitigilo; sonbitigilo. Vd legilo, skanilo.
 biter/o:【PIV】Amara likvoro farata per macerado en juniperbrando, au^ senalkohola trinkaj^o aromigita per ekstrakto de amaraj substancoj kiel radiko de genciano, kinkono ktp (kaj tiel plu); trinkata kiel aperitivo au^ digestigaj^o. Vd vermuto.
@@ -55061,7 +55061,7 @@ sinu/i⟦湾ˢ/i⟧:【PIV】(ntr (netransitiva)) Esti sinua: la akvoflueto sinu
 sipaj/o:【史】【PIV】Hinda soldato, kiu servadis sub eu^ropaj oficiroj.
 Sir/o:【PIV】1 Reg^a, estra, ordona mos^to. 2 Senjoro (alparole).
 sirapt/o⟦鸟ˢᴾ/o⟧:【動】【PIV】G. (Genro) (Syrrhaptes) de kolomboformaj birdoj kun longaj pintaj flugiloj k plumkovritaj tarsoj k piedfingroj, vivantaj en C Azio k konataj pro siaj migradoj. Vd stepkoko.
-siren/oj⟦警笛/oj⟧:【動】【PIV】Ordo (Sirenia) de herbomang^antaj mamuloj, vivantaj en akvo c^e marbordo au^ en riveroj k lagoj, kun balensimila vosto, sed kun plataj dentoj, parencaj al la elefantoj, k al kiu apartenas manato k dugongo.
+siren/oj⟦牛ˢ/oj⟧:【動】【PIV】Ordo (Sirenia) de herbomang^antaj mamuloj, vivantaj en akvo c^e marbordo au^ en riveroj k lagoj, kun balensimila vosto, sed kun plataj dentoj, parencaj al la elefantoj, k al kiu apartenas manato k dugongo.
 sirinks/o:【楽】【PIV】1 Pajnos^almo. 2【動】 (syrinx) La voc^organo de la birdoj, trovig^anta sub la laringo, c^e la loko, kie la trakeo dividig^as en la bronkojn.
 Sirt/oj:【史】【PIV】Antikva nomo de la du N-Afrikaj golfoj, sur la bordo de Libio (19°E, 31°N) k de Tunizio (11°E, 31°N).
 sisal/o:【服】【PIV】Fibro el folioj de sp. de agavo (sisala agavo), uzata por fari s^nuregojn ks (kaj simile, kaj similaj).
@@ -55193,7 +55193,7 @@ soj/plant/id/oj⟦大豆/植/子/oj⟧:【PIV】(evi (evitinda)) = mungidoj.
 Sokotr/o:【PIV】Insulo de la NU Hinda Oceano (54°E, 12°30′N).
 Sokrat/a:【PIV】Rilata al la instruo de Sokrato: Sokrata metodo.
 sol/ec/ig/i⟦唯/性/使/i⟧:【PIV】Fari, ke iu, io estu soleca: la urbo estos solecigita k forlasita .
-sol/ig/i⟦唯/使/i⟧:【PIV】Transformi al solo: soligi g^elon.
+sol/ig/i⟦胶ˢ/使/i⟧:【PIV】Transformi al solo: soligi g^elon.
 soldanel/o⟦雪铃/o⟧:【植】【PIV】G. (Genro) (Soldanella el primolacoj) de malaltaj, plurjaraj herboj kun baza rozeto el integraj, larg^aj au^ rondaj folioj k kun unu-au^ kelk-opaj floroj funelformaj, bluaj au^ violetaj, malofte blankaj, aperantaj en la degelanta neg^o; 10 sp-oj (specioj) el la Eu^ropaj montaroj.
 soldat/a⟦兵/a⟧:【PIV】1 Rilata al soldato: soldata vesto, servado, trinkejo. 2 Havanta aspekton de soldato: soldata mieno, krudeco.
 soldat/i⟦兵/i⟧:【PIV】(ntr (netransitiva)) Esti soldato.
@@ -59323,7 +59323,7 @@ en/klostr/ig/i⟦内/修院/使/i⟧:【PIV】Enirigi en monah^(in)ejon.
 flug/o/klub/o⟦飞/o/社ᴷ/o⟧:【PIV】Centro de formado k trejnado por civilaj pilotoj.
 radi/o/klub/o⟦射ᴿ/o/社ᴷ/o⟧:【PIV】Klubo de radioamatoroj.
 kontrau^/knal/o⟦对/啪ᴷᴺ/o⟧:【PIV】Sonalterno.
-plum/knar/i⟦笔ᴾᴸ/吱/i⟧:【PIV】Fari knaran bruon per ferplumo sur papero: plumknaristoj! (neaprobindaj verkistoj).
+plum/knar/i⟦羽/吱/i⟧:【PIV】Fari knaran bruon per ferplumo sur papero: plumknaristoj! (neaprobindaj verkistoj).
 anti/koagul/ant/o⟦抗ᴬ/凝ᴷᴳ/在/o⟧:【生】【医】【PIV】Substanco, kiu malhelpas la sangokoagulig^on, ekz. (ekzemple) heparino.
 tro/koagul/ig^/em/o⟦太/凝ᴷᴳ/成/倾/o⟧:【医】【PIV】Troa emo de la sango al koagulig^ado. Vd hemofilio.
 krac^/kobr/o⟦吐ᴷ/眼镜蛇/o⟧:【PIV】Kn (Kolektiva nomo) de kelkaj sp-oj (specioj) de kobro (ekz. (ekzemple) Naja nigricollis), kiuj krac^as sian venenon g^is distanco de 2−3 m.
@@ -60071,7 +60071,7 @@ lau^/norm/ig/i⟦按/范/使/i⟧:【理】【技】【PIV】Kontroli la valoron
 ne/norm/a⟦不/范/a⟧:【PIV】Nekonforma al normo.
 sam/norm/ig/i⟦同/范/使/i⟧:【PIV】Arang^i, ke c^iuj produktoj, laboriloj ks (kaj simile, kaj similaj) estu lau^ la sama normo.
 unu/norm/ig/i⟦一/范/使/i⟧:【PIV】Normumi.
-pic^/norm/o⟦阴户/范/o⟧:【楽】【PIV】G^enerale akceptita frekvenco de tono: 440 estas la pic^normo de A super meza C.
+pic^/norm/o⟦调ᴾ/范/o⟧:【楽】【PIV】G^enerale akceptita frekvenco de tono: 440 estas la pic^normo de A super meza C.
 paranormal/a:【PIV】(pp (se paroli pri) fenomeno, pruvita au^ ne) Ne klarigebla per la objektivaj scioj, klarigita de iuj per nekonataj fortoj i.a. (interalie, inter aliaj) psikaj. Vd levitacio, telekinezo, telepatio, -> parapsikologio.
 paranormal/o:【PIV】Tia fenomeno.
 memor/not/oj⟦记/记ᴺ/oj⟧:【PIV】Dokumento, prezentanta neoficiale la staton de demando, la enhavon de kontrakto, la c^efajn punktojn de komerca letero ktp (kaj tiel plu).
@@ -60443,8 +60443,8 @@ pri/pluk/i⟦于/摘/i⟧:【PIV】Eltiri per ruzo au^ trompo monon de iu: li pr
 pik/pluk/i⟦刺/摘/i⟧:【PIV】(tr (transitiva)) Pluki per rapidaj, sinsekvaj pikoj, kiel kokinoj, kolomboj.
 bek/plum/o⟦嘴/羽/o⟧:【動】【PIV】C^iu el la hirtaj plumoj c^e la bazo de la beko de iuj birdoj, ekz. (ekzemple) otido k gipaeto.
 faden/plum/o⟦丝ᶠ/羽/o⟧:【動】【PIV】C^iu el la hirtaj, harsimilaj (pro reduktig^o au^ malesto de plumeroj), sensivaj plumoj precipe c^e la bazo de la beko k apud la okuloj de diversaj birdoj. Sin. (sinonimo) vibriso 3.
-skrib/o/plum/o⟦书ˢ/o/笔ᴾᴸ/o⟧:【PIV】Plumo 4.
-tub/o/plum/o⟦管/o/笔ᴾᴸ/o⟧:【PIV】Skribo plumo kun tubeto anst. (anstatau^) pinto, ebliganta strekojn kun difinita regula larg^o: la plej simplaj tubo plumoj estis ekipitaj per funelformaj inkujetoj po unu.
+skrib/o/plum/o⟦书ˢ/o/羽/o⟧:【PIV】Plumo 4.
+tub/o/plum/o⟦管/o/羽/o⟧:【PIV】Skribo plumo kun tubeto anst. (anstatau^) pinto, ebliganta strekojn kun difinita regula larg^o: la plej simplaj tubo plumoj estis ekipitaj per funelformaj inkujetoj po unu.
 pri/pluv/i⟦于/雨/i⟧:【PIV】(tr (transitiva)) Akvumi per pluvo: unu kampo estis pripluvata, k alia, ne pripluvita, elsekig^is .
 neg^/o/pluv/o⟦雪/o/雨/o⟧:【PIV】Falado de malseka neg^o.
 or/pluv/o⟦金/雨/o⟧:【PIV】Laburno.
@@ -61674,7 +61674,7 @@ c^il/vaskul/o⟦c^il/脉ⱽˢ/o⟧:【解】【PIV】Limfo vaskulo, tra kiu flua
 dis/vast/ig/ad/o⟦散/广/使/行/o⟧:【PIV】Ago de iu, kiu disvastigas: zorgi pri la disvastigado de nia lingvo ; la disvastigado de la novaj^oj estas la celo mem de la gazetoj k radioelsendoj.
 mal/vast/ig/o⟦反/广/使/o⟧:【数】【PIV】La operacio malvastigi funkcion.
 mal/vast/ig/aj^/o⟦反/广/使/物/o⟧:【数】【PIV】La funkcio, kiu rezultas de malvastigo. -> restrikto.
-sen/vat/a⟦无/棉/a⟧:【PIV】(pp (se paroli pri) kurento) = neaga.
+sen/vat/a⟦无/瓦ⱽ/a⟧:【PIV】(pp (se paroli pri) kurento) = neaga.
 intra/vejn/a⟦内ᴵᴿ/脉/a⟧:【医】【PIV】Tia, ke g^i enig^as en vejnon: intra vejna injekto.
 timon/vekt/o⟦车杆/杠/o⟧:【PIV】Stango, kiu estas alkroc^ita per sia mezo al la framo de veturilo, k al kiu oni ligas la tirbestojn au^ per rimenoj au^ per timonparo.
 antau^/vel/o⟦前/帆/o⟧:【PIV】Velo fiksita c^e la antau^a masto.

@@ -15013,8 +15013,8 @@ imperativ/a:【Ｇ】命令法の;《転》避けられない,強制的な
 imperativ/o:{Ｏ}【Ｇ】命令法;《転》（至上）命令
 imperfekt/o:{Ｏ}【Ｇ】半過去,未完了時制
 imperi/a:帝国の
-imperial/ism/o:{Ｏ}=imperiismo（帝国主義）
-imperial/ist/o:=imperiisto（帝国主義者）
+imperialism/o:{Ｏ}=imperiismo（帝国主義）
+imperialist/o:=imperiisto（帝国主義者）
 imperial/o:{Ｏ}（バス・電車などの）屋上席;（馬車の屋根の）荷物置き場
 imperi/estr/a famili/o:皇室
 imperi/estr/a fritilari/o:【植】ヨウラクユリ（瓔珞百合）

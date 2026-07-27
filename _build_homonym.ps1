@@ -41,7 +41,7 @@ $existing=@(
  # 2026-07-26 別AI監査の指摘: aer/o/sol/o が 气/o/唯 (=「空気だけ」)と誤描画。sol は【化】ゾル(コロイド)であり
  #   同綴の sol/a=唯一(唯)とは別語。中国語 气溶胶 に合わせ 胶(既存 glu=胶)へ word-scoped sep。
  #   sol/o は【化】ゾルと「ただ一人/独奏」が同一綴りの amb ゆえ disc に載せず、唯 を維持する。
- @('sol','胶','aer/o/sol/o','','sol(【化】ゾル=コロイド)→胶: 气溶胶(aerosol)。同綴 sol/a=唯一 は唯を維持。sol/o は amb(化学ゾルと独奏が同綴)ゆえ disc非掲載'),
+ @('sol','胶','aer/o/sol/o,sol/ig/i','','sol(【化】ゾル=コロイド)→胶: 气溶胶(aerosol)。同綴 sol/a=唯一 は唯を維持。sol/o は同綴2行ゆえ語釈scoped(『ゾル,>>koloido』)で是正。2026-07-27 続39: sol/ig/i(【PIV】Transformi al solo=ゾル化する)を追加=唯/使「独りにする」の偽の友を解消。★化学solの字は 胶 に統一する(続37で 溶 を新設したが、既に 胶ˢ=aerosol があるのに字種を増やすのはユーザー原則に反するため撤回)'),
  @('afrodit','性','herm/afrodit/a,herm/afrodit/ec/o,herm/afrodit/o,herm/afrodit/flor/a,pseu^do/herm/afrodit/ec/o','','afrodit-(Aphrodite)→性: 上記 herm=两 と対で 两性。同綴の【動】Aphrodita(ウロコムシ属)=虫ᴬᴰ は disc外で維持'),
  @('leu^k','白','leu^k/emi/o,leu^k/oz/o','','leuko-(白)→白(白血病·白血球增多症)。leu^ko=白ᴸ は別root。2026-07-19 正本ドリフト leukoz→leu^k/oz 露出で leu^k latin残([F]不整合)→白(白/富=白血球增多)で整合'),
  # PIV航海語 jul/o(艫でひねって漕ぐ櫓=yuloh)・jul/ad/i(櫓で漕ぐ)→漕ぐhub划(=rem。パドルpagaj=划ᴾᴳと同型・新字ゼロ)。クリスマス系 jul/arb/o=圣诞/树 は別見出しで維持(2026-07-04ユーザー裁定sep分離)。※$hsepは大小無視だが Jul/o(大文字=ユール祭)は固有名ガードがhsepより先に捕捉し注釈なしで無影響=衝突せず。jul/arb/o は見出し文字列がjul/oと異なるため非該当で圣诞/树維持
@@ -193,7 +193,7 @@ $existing=@(
  @('dinam','力','dinam/ism/o,dinam/o/metr/o,elektr/o/dinam/ism/o,elektr/o/dinam/o/metr/o,izo/dinam/o','','希dynamis(力·動力)の力義→力。dynamism力動説/dynamometer力計/electrodynamism電気力学/isodynamic等力線。発電機dinam/o(dynamo)=发电は基本形維持(word-scoped)。dinamik=力(別root力学)と整合。2026-07-15ユーザー裁定=发电の力義取りこぼしを是正'),
  # ギリシャ接頭pro-(前)·ワットwatt(瓦)の同綴是正(2026-06-21追補。/goal監査の据置項目をmerit判断で是正)
  @('pro','前','pro/log/o,pro/faz/o,pro/virus/o,pro/gnat/a,pro/gnat/ec/o','','ギリシャ接頭pro-(前·fore)→前。prologue序言(pro/log⟦前/话⟧)·prophase前相(pro/faz⟦前/相⟧)·provirus前駆ウイルス(pro/virus⟦前/毒⟧)·prognathous前突顎(pro/gnat⟦前/gnat⟧)。epi=后と対。エス前置詞pro=因(pro tio因此·proparol代弁·pro/pek贖罪·pro/mort等)は維持(disc不掲載)。2026-07-18 正本過細分解 prognat→pro/gnat 露出→追加(pro→因理由の偽友是正)'),
- @('vat','瓦','giga/vat/o,kilo/vat/o,mega/vat/o,vat/hor/o,vat/hor/o/metr/o,vat/metr/o,vat/sekund/o,kilo/vat/hor/o,mega/vat/hor/o,tera/vat/hor/o','','ワットwatt(瓦)→瓦。kilo/vat/hor=キロワット時・mega/vat/hor=メガワット時(2026-06-23 sep派生形網羅)。kilovat/megavat/gigavat/vatmetr電力計/vathor瓦時/vatsekund 等の電力複合。tera/vat/hor=テラワット時(2026-07-20 正本同期 teravat/hor→tera/vat/hor 露出で追加=vat棉誤適用是正・giga/kilo/megaと整合)。綿vat/o(棉)·suker/vat綿菓子·vat/baston綿棒·vat/it綿入 等は維持(disc不掲載)。bare vat/o=棉&瓦はamb(基本義 棉維持)'),
+ @('vat','瓦','giga/vat/o,kilo/vat/o,mega/vat/o,vat/hor/o,vat/hor/o/metr/o,vat/metr/o,vat/sekund/o,kilo/vat/hor/o,mega/vat/hor/o,tera/vat/hor/o,sen/vat/a','','ワットwatt(瓦)→瓦。2026-07-27 続39: sen/vat/a(【PIV】(pp kurento)=neaga=電流に関し「ワットなし/無効の」)を追加=无/棉「綿なし」の偽の友を解消。kilo/vat/hor=キロワット時・mega/vat/hor=メガワット時(2026-06-23 sep派生形網羅)。kilovat/megavat/gigavat/vatmetr電力計/vathor瓦時/vatsekund 等の電力複合。tera/vat/hor=テラワット時(2026-07-20 正本同期 teravat/hor→tera/vat/hor 露出で追加=vat棉誤適用是正・giga/kilo/megaと整合)。綿vat/o(棉)·suker/vat綿菓子·vat/baston綿棒·vat/it綿入 等は維持(disc不掲載)。bare vat/o=棉&瓦はamb(基本義 棉維持)'),
  @('ar','亩','centi/ar/o','','centiaro(1/100 are=1平方メートル)の ar=亩(are面積単位)→厘/亩。正本同期(2026-07-20)で centiar/o→centi/ar/o 露出。集合接尾-ar-(群)・bare ar/o(amb アール面積)とは別=word-scoped(centi/ar/o のみ)。hektar/o=公顷(whole)と整合'),
  # メトロノーム metronomo の同綴是正(2026-06-21。米/名は誤り→计/律。merit判断)。metr語頭idx0でcomb非適用→sepで计(計器)。nom=ギリシャnomos(法/掟)→律(leĝ=律と整合・かつ音律/拍節で楽器に二重適切)
  @('metr','计','metr/o/nom/o','','メトロノームmetr(計器·measure)→计。idx0でcomb metr→计 非適用のためsep明示。長さ単位等の非計器metrは上の米sepで処理'),
@@ -214,7 +214,20 @@ $existing=@(
  #    「第1義と第2義の同居行」だと、その語根の派生語(plum/amik/o=ペンフレンド 等)まで丸ごと注入非適用に落ちていた。
  #    第2義漢字と識別子は amb 行で既に確定済み(=新字ゼロ・新規識別子ゼロ)なので、ここでは語リストを与えるだけ。
  #    bare見出し(混在行)は従来どおり $forceAmb で第1義を維持する。
- @('plum','笔','font/o/plum/o,lum/plum/o,plum/amik/o,plum/erar/o,plum/ing/o,plum/knar/i,plum/nom/o,plum/uj/o,skrib/plum/o,skrib/o/plum/o,tub/o/plum/o','','plum(羽ペンから転じた筆記具pen)→笔。万年筆font/o/plum・ライトペンlum/plum・ペンフレンドplum/amik・筆の誤りplum/erar・ペン軸plum/ing・ペンの走る音plum/knar・筆名plum/nom・ペン入れplum/uj・ペンskrib/plum(+PIV skrib/o/plum・tub/o/plum)。羽毛義(plum/ar羽毛・plum/tig羽軸・plum/pilkシャトル・sag/plum矢羽根 等)は羽維持。bare plum/o は「羽根,羽毛;鵞ペン,ペン,ペン先」の混在行ゆえ $forceAmb で羽を維持'),
+ # ★2026-07-27 続39で撤回: plum→笔(11語) は 2026-07-23 続6 の据置記録
+ #   「faithful mirror/固定形態素ゆえ据置: plum/nom羽/名(nom de plume=plum master羽)」に反していた。
+ #   plum は別語源の同綴異義ではなく **同一語の意味拡張**(羽根→羽ペン→ペン)なので、
+ #   ユーザー原則「可能な限り解釈を頑張って割り当て漢字の種類を増やさない」に従い 羽 に統一する。
+ #   (mat=敷物/詰み・kanon=大砲/正典 のような別語源の同綴異義とは扱いが違う)
+ # 2026-07-27 続39: 台帳に第2義字があるのに派生語へ届いていなかった取りこぼし(別AI指摘・全件実データ確認)。
+ #   いずれも見出しが一意で語釈が明確・新字ゼロ・識別子は台帳が既に確保済み。
+ @('deviz','汇','deviz/kurz/o','','deviz(【経】外国為替)→汇。為替相場 deviz/kurz/o=汇ᴰ/价ᴷ。標語/座右の銘 deviz/o は「標語;【経】外国為替」の混在行ゆえ 铭 を維持'),
+ @('bit','桩','bit/et/o','','bit(【海】繋柱bollard)→桩。小繋柱 bit/et/o(【PIV】舷側に並ぶ小杭でロープを留める)=桩ᴮ/小。情報のビット(bit/ar/bit/bild/kilo/bit 等)は 位ᴮ 維持。同綴2行の bit/o は語釈scoped(『繋柱』)で是正済み'),
+ @('siren','牛','siren/oj','','siren(【動】Sirenia=カイギュウ目)→牛。siren/oj=牛ˢ/oj。bare siren/o は「【機】サイレン;【動】カイギュウ類」の混在行ゆえ $forceAmb で 警笛 を維持'),
+ @('pic^','调','pic^/norm/o','','pic^(【楽】音高pitch)→调。標準音高 pic^/norm/o=调ᴾ/范。俗語の陰門 pic^/lek/i 等は 阴户 維持。同綴2行の pic^/o は語釈scoped(『tonalto（音高』)で是正済み'),
+ # === 2026-07-27 続39 ユーザー裁定「3件とも第2義の字を当てる」で保留解除(§14続13で『要ユーザー裁定』だった2件+続12の1件) ===
+ @('panikl','脂','panikl/it/o','','panikl(【解】皮下脂肪 panniculus)→脂。皮下脂肪炎 panikl/it/o(【医】Inflamo de la paniklo 1)=脂ᴾ/炎ᵀ。bare panikl/o は「【解】皮下脂肪;【植】円錐花序」の混在行ゆえ 圆锥 を維持(第1義)。2026-07-27 ユーザー裁定で保留解除'),
+ @('arke','菌','arke/oj','','arke(【生】Archaea=古細菌)→菌。arke/oj(【PIV】Prabakterioj)=菌ᴬᴷ/oj。ノアの箱船 arke/o は 方舟 維持、数学 arke/a(arkea funkcio)は適切字未確定ゆえ 方舟 のまま据置。2026-07-27 ユーザー裁定で保留解除'),
  @('mat','将','mat/i,mat/ig/i,mat/ig/o','','mat(チェス/将棋の詰み checkmate)→将。詰むmat/i・詰めるmat/ig/i・詰めmat/ig/o。敷物義(mus/mat マウスパッド・pord/mat ドアマット・pajl/mat むしろ 等)は席維持。同綴2行の mat/o と s^ak/mat/o は語釈scoped(『チェックメイト』)で是正'),
  @('kanon','典','kanon/ec/o,kanon/ig/i,en/kanon/ig/i,du/a/kanon/a','','kanon(希kanon=規範→聖書正典/教会法/カノン)→典。聖典性kanon/ec・列聖kanon/ig/i・en/kanon/ig/i・第二正典du/a/kanon/a。大砲義(kanon/ad砲撃・kanon/boat砲艦・kanon/tub砲身 等)は炮維持。kanon/ist(砲手/教会法学者)・kanon/a(PIV=砲列)は混在/砲義ゆえ炮維持。同綴2行の kanon/o は語釈scoped(『聖書正典』)で是正'),
  @('orkid','丸','orkid/it/o,orkid/ektomi/o,orkid/o/terapi/o','','orkid(希orkhis=睾丸。ラン科の塊茎が睾丸状であることに由来)→丸。精巣炎orkid/it(丸ᴼ/炎ᵀ)・精巣摘出orkid/ektomi・精巣製剤療法orkid/o/terapi。ラン義(orkid/ac/oj ラン科)は兰維持。bare orkid/o は「【植】ハクサンチドリ;【解】精巣,睾丸」の混在行ゆえ $forceAmb で兰を維持'),
@@ -228,10 +241,10 @@ $new=@(
  @('mark','币','mark/o','マルク','マルク。mark=标と別行'),@('lir','币','lir/o','リラ','リラ通貨。lir=琴と別行'),@('kron','币','kron/o','クローネ','クローネ。kron=冠と別行'),
  @('dur','币','dur/o','ドゥーロ','ドゥーロ銀貨。dur=硬と別'),@('tak','币','tak/o','タカ','タカ通貨。tak=倾と別'),@('bac','币','bac/o','硬貨','古独貨。bac=响と別'),
  @('ar','亩','ar/o','アール','アール面積。ar=群と別行'),@('luks','照','luks/o','ルクス','ルクス照度。luks=奢と別行'),@('stok','粘','stok/o','ストークス','ストークス粘度。stok=储と別行'),
- @('kuri','居','kuri/o','キュリー','キュリー。kuri=廷と別行'),@('fon','响','fon/o','ホン','ホン音量。fon=底と別'),
+ @('kuri','居','kuri/o','【削除済ダミー・発火しない】','★2026-07-27 続39で撤回・使用禁止: 居里=Curie の部分音訳で方針R4「音訳は部分音訳も含め絶対禁止」に反する。§14続13の記録「kuritherapy(居礼=音訳で方針違反)」も同じ判断。続37でこの amb 行を語釈scopedで実現してしまったが撤回し kuri/o【理】キュリーは 廷 に戻した(放射能の単位にふさわしい意味字は未確定=要ユーザー裁定)。語釈キーを潰して不発火にしてある'),@('fon','响','fon/o','ホン','ホン音量。fon=底と別'),
  @('trik','毛','trik/o,trik/oz/o,poli/trik/o,trik/o/pati/o,trik/o/plazi/o,trik/o/pter/oj,trik/o/micet/oz/o,spor/o/trik/o,spor/o/trik/oz/o,spor/o/trik/um/o','毛','毛(tricho-)。trik=织(編む)と別。2026-07-26 第13レンズ: Sporothrix/Sporotrichum(spor/o/trik 系3語)を追加=-trik- は希 thrix(毛)で編む(triki)でない。従来この3語だけ毛リストから漏れ 织ᵀᴿ を拾って「胞子-編む」と読めていた。tricho-毛の複合(trichosis毛症/Polytrichum多毛コケ/trichopathy毛病/trichoplasia毛増生/Trichoptera毛翅/trichomycosis毛/菌/症)も毛へ(2026-06-23/27 sep派生形網羅)'),   # ot/mi は $existing(耳/肌)へ統合し重複解消(2026-06-21)
  @('spin','旋','spin/o','スピン','物理スピン。spin=脊と別行'),@('var','内','var/a','内反','内反varus。var=货と別'),@('orkid','丸','orkid/o','睾丸','睾丸。orkid=兰と別'),
- @('spat','苞','spat/o','仏炎','仏炎苞。spat=石と別行'),@('sol','溶','sol/o','ゾル','ゾル。sol=唯と別行'),@('siren','牛','siren/o','海牛','海牛類。siren=警笛と別行'),
+ @('spat','苞','spat/o','仏炎','仏炎苞。spat=石と別行'),@('sol','胶','sol/o','ゾル','ゾル。sol=唯と別行。★2026-07-27 続39: 続37で新字 溶 を当てたが、既に sep で 胶ˢ(aerosol=气溶胶)があり字種を増やす必要がない→胶 に統一(溶は未使用に戻る)'),@('siren','牛','siren/o','海牛','海牛類。siren=警笛と別行'),
  @('ergot','距','ergot/o','蹴爪','蹴爪。ergot=麦角と別'),@('sor','胞','sor/o','胞子','胞子嚢群。sor=腾と別'),@('panikl','脂','panikl/o','皮下','皮下脂肪。panikl=圆锥と別'),
  @('rod','泊','rod/o,el/rod/ig^/i','停泊','停泊地。rod=啃と別行。2026-07-27 第15レンズ: -cmatch 是正で本行が amb→sep に復帰(従来は Rod/o=ロードス島 を同綴2行目と誤数)。派生 el/rod/ig^/i(【PIV】風で停泊地の外へ流される)も追加=出/啃/成「かじり出される」の偽の友を解消'),@('bit','桩','bit/o','繋柱','繋柱。bit=位と別行'),@('jard','杆','jard/o','帆桁','帆桁。jard=码と別'),
  @('prot','匠','prot/o','組版','組版長。prot=质子と別'),@('prim','祷','prim/o','一時課','一時課。prim=质数と同行'),@('pic^','调','pic^/o','音高','音高。pic^=阴户と別行'),
