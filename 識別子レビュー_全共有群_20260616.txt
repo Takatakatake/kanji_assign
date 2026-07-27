@@ -4399,6 +4399,12 @@
   sordin         抑ˢ         F=1     pejvo   
   inhib          抑ᴵᴺ        F=7     piv     抑制
 
+【螺】 4件
+  ŝraŭb          螺          F=46    basic   
+  limak          螺ᴸ         F=4     basic   
+  helik          螺ᴴ         F=8     pejvo   
+  helic          螺ᴴᶜ        F=7     pejvo   
+
 【乱】 4件
   konfuz         乱          F=14    basic   
   turbul         乱ᵀ         F=6     pejvo   
@@ -5904,11 +5910,6 @@
   mien           容          F=16    basic   
   kapacit        容ᴷ         F=5     pejvo   
   kapacitanc     容ᴷᴺ        F=2     pejvo   
-
-【螺】 3件
-  ŝraŭb          螺          F=46    basic   
-  helik          螺ᴴ         F=8     pejvo   
-  helic          螺ᴴᶜ        F=7     pejvo   
 
 【卵】 3件
   ov             卵          F=41    basic   

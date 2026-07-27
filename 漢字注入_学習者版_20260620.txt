@@ -22192,8 +22192,8 @@ liliput/an/o⟦微ᴸ/员/o⟧:リリパット人,小人
 Liliput/o:【文】リリパット（ガリバー旅行記の小人国）
 Lilongv/o:【地名】リロングウェ（マラウイの首都）
 lim/a⟦界/a⟧:境界の
-limak/a⟦蜗牛/a⟧:ナメクジの;《転》のろのろした
-limak/o⟦蜗牛/o⟧:{Ｂ}【動】コウラナメクジ,キイロナメクジ（属）;（一般に）ナメクジ（蛞蝓）
+limak/a⟦螺ᴸ/a⟧:ナメクジの;《転》のろのろした
+limak/o⟦螺ᴸ/o⟧:{Ｂ}【動】コウラナメクジ,キイロナメクジ（属）;（一般に）ナメクジ（蛞蝓）
 limand/o⟦比目鱼ᴸ/o⟧:【魚】マガレイ（属）（真鰈）;ニシマガレイ（種）
 lima/o⟦蚌ᴸ/o⟧:【貝】ミノガイ（属）（蓑貝）
 limb/o⟦叶ᴸᴹ/o⟧:【植】葉身;【機】分度弧,目盛り縁
@@ -51450,7 +51450,7 @@ likvidambar/o⟦木ᴸᴷ/o⟧:【植】【PIV】G. (Genro) (Liquidambar el hama
 lil/a:【PIV】Hele malva: lila bluzo.
 lili/a⟦百合/a⟧:【PIV】Delikate blanka, kiel lilio: c^irkau^preni vian lilian koleton! .
 lili/opsid/oj⟦百合/opsid/oj⟧:【植】【PIV】Klaso (Liliopsida) de angiospermoj. Sin. unukotiledonoj.##偽分解(PIV正式分解)
-limak/i⟦蜗牛/i⟧:【PIV】(ntr (netransitiva)) Malrapide iri, kiel limako.
+limak/i⟦螺ᴸ/i⟧:【PIV】(ntr (netransitiva)) Malrapide iri, kiel limako.
 lime/o⟦青柠/o⟧:【植】【PIV】1 Sp. (Specio) de citruso (Citrus aurantiifolia), arbeto hejma en E Azio, parenca al limono (citronujo), kun malgrandaj, ovalaj, dau^re verdaj, nur finevolue hele flavaj fruktoj, havantaj acidetan sukon, uzatan en la tropiklandoj k Usono same kiel citronsuko. Sin. (sinonimo) verda citrono. Vd limedo. 2 Frukto de limeo 1. Sin. (sinonimo) verda citrono.
 lime/uj/o⟦青柠/器/o⟧:【PIV】= limeo 1.
 limed/o⟦甜柠/o⟧:【植】【PIV】1 Sp. (Specio) de citruso (Citrus limetta), arbo kun fruktoj similaj al citronoj, sed pli globaj, unuope havantaj grandan mametaj^on, c^irkau^itan de okulfrapa malaltaj^o; pulpo dolc^a au^ acida. Vd limeo. 2 Frukto de limedo 1.
@@ -59667,7 +59667,7 @@ altitud/lim/o⟦高ᴬᵀ/界/o⟧:【PIV】Altitudo, c^e kiu la altig^rapido es
 ced/lim/o⟦让/界/o⟧:【技】【PIV】Maksimuma punkto, c^e kiu iu materialo c^esas rezisti al la almetataj fortoj k plilongig^as ec^ sub ago de etig^anta forto.
 kurent/o/lim/ig/il/o⟦电流/o/界/使/具/o⟧:【電】【PIV】Organo au^ aparato, ekz. (ekzemple) rezistilo au^ interuptoro, por limigi la kurenton en cirkvito je antau^difinita valoro.
 silab/o/lim/o⟦节ˢ/o/界/o⟧:【PIV】Limo, kiu apartigas du silabojn, antau^ konsonanto, kiam la vokaloj estas apartigitaj per unu konsonanto (a-mo) au^ per unu konsonanto plus likvido (e-blo, ne-pre), post la unua el c^iu alia grupo de konsonantoj, kiam la vokaloj estas apartigitaj per pli ol unu konsonanto (ar-mi, es-tro, tem-plo). Vd fermita.
-mar/limak/o⟦海/蜗牛/o⟧:【PIV】Grupo de senkonkaj, maraj moluskoj supraj^e similaj al limakoj, responda al la ordo Nudibranchia.
+mar/limak/o⟦海/螺ᴸ/o⟧:【PIV】Grupo de senkonkaj, maraj moluskoj supraj^e similaj al limakoj, responda al la ordo Nudibranchia.
 kondukt/o/line/ar/o⟦导ᴷᵀ/o/线ᴸᴱ/群/o⟧:【PIV】= reto de lineoj.
 kontakt/o/line/o⟦接/o/线ᴸᴱ/o⟧:【PIV】Elektra supertera lineo (nuda drato) por provizi kurenton al trakveturilo au^ trolebuso per kurentodeprenilo.
 du/linear/a⟦二/线ᴸᴿ/a⟧:【PIV】(matematiko) Lineara rilate al du variabloj; bilineara.
