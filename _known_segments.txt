@@ -4124,7 +4124,15 @@ Zoil
 Zoroastr
 Zulu
 Zurik
+a-Deniz
+a-Georg
+a-Helen
 a-Japan
+a-Johan
+a-Lau^renc
+a-Luci
+a-Luiz
+a-Zeml
 a-cifer
 a-komik
 a-vort
@@ -10302,6 +10310,8 @@ imperator
 imperfekt
 imperi
 imperial
+imperialism
+imperialist
 imperium
 impertinent
 impet
@@ -16432,7 +16442,6 @@ propil
 propile
 propion
 propionlakton
-propol
 propolis
 propon
 proporci
@@ -19233,7 +19242,6 @@ tioketon
 tiol
 tiom
 tion
-tionat
 tionil
 tioure
 tip
@@ -28374,7 +28382,7 @@ H	学習	di/serv/o
 H	学習	di/skarab/o
 H	学習	di/som/a
 H	学習	di/sulf/id/o
-H	学習	di/tionat/o
+H	学習	di/tion/at/o
 H	学習	di/valent/a
 H	学習	dia/genez/o
 H	学習	dia/gram/o
@@ -38447,9 +38455,9 @@ H	学習	imperi/i
 H	学習	imperi/ism/o
 H	学習	imperi/ist/o
 H	学習	imperi/o
-H	学習	imperial/ism/o
-H	学習	imperial/ist/o
 H	学習	imperial/o
+H	学習	imperialism/o
+H	学習	imperialist/o
 H	学習	impertinent/a
 H	学習	impertinent/a hom/o
 H	学習	impertinent/a leter/o
@@ -39679,7 +39687,7 @@ H	学習	izo/morfi/o
 H	学習	izo/pod/oj
 H	学習	izo/prop/il/benzen/o
 H	学習	izo/prop/il/o
-H	学習	izo/propol/o
+H	学習	izo/prop/ol/o
 H	学習	izo/pter/oj
 H	学習	izo/s^unt/o
 H	学習	izo/spin/o
@@ -45134,7 +45142,6 @@ H	学習	kuret/i
 H	学習	kuret/o
 H	学習	kuri/o
 H	学習	kuri/terapi/o
-H	学習	kuri/um/o
 H	学習	kurier/a
 H	学習	kurier/a serv/o
 H	学習	kurier/aviad/il/o
@@ -68227,7 +68234,7 @@ H	学習	tetra/gram/o
 H	学習	tetra/mer/o
 H	学習	tetra/o
 H	学習	tetra/ol/o
-H	学習	tetra/tionat/o
+H	学習	tetra/tion/at/o
 H	学習	tetragon/a
 H	学習	tetragoni/o
 H	学習	tetraklin/o
@@ -90306,9 +90313,9 @@ H	学術	imperi/i
 H	学術	imperi/ism/o
 H	学術	imperi/ist/o
 H	学術	imperi/o
-H	学術	imperial/ism/o
-H	学術	imperial/ist/o
 H	学術	imperial/o
+H	学術	imperialism/o
+H	学術	imperialist/o
 H	学術	impertinent/a
 H	学術	impertinent/a hom/o
 H	学術	impertinent/a leter/o
@@ -96926,7 +96933,6 @@ H	学術	kuret/ad/o
 H	学術	kuret/i
 H	学術	kuret/o
 H	学術	kuri/o
-H	学術	kuri/um/o
 H	学術	kurier/a
 H	学術	kurier/a serv/o
 H	学術	kurier/aviad/il/o

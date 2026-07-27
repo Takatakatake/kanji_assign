@@ -15013,8 +15013,8 @@ imperativ/a⟦令ᴵ/a⟧:【Ｇ】命令法の;《転》避けられない,強�
 imperativ/o⟦令ᴵ/o⟧:{Ｏ}【Ｇ】命令法;《転》（至上）命令
 imperfekt/o⟦未完/o⟧:{Ｏ}【Ｇ】半過去,未完了時制
 imperi/a⟦帝/a⟧:帝国の
-imperialism/o:{Ｏ}=imperiismo（帝国主義）
-imperialist/o:=imperiisto（帝国主義者）
+imperialism/o⟦帝主义/o⟧:{Ｏ}=imperiismo（帝国主義）
+imperialist/o⟦帝家/o⟧:=imperiisto（帝国主義者）
 imperial/o⟦顶ᴵ/o⟧:{Ｏ}（バス・電車などの）屋上席;（馬車の屋根の）荷物置き場
 imperi/estr/a famili/o⟦帝/长ᴱ/a 家ᶠ/o⟧:皇室
 imperi/estr/a fritilari/o⟦帝/长ᴱ/a 贝母/o⟧:【植】ヨウラクユリ（瓔珞百合）
@@ -20888,7 +20888,7 @@ kur/ig/i⟦跑/使/i⟧:［他］走らせる
 Kuril/aj Insul/oj:【地名】千島列島,=Kuriloj
 Kuril/oj:【地名】千島列島（クリル列島）
 kuri/o⟦廷/o⟧:【史】クリア（古代ローマの社会組織の一単位／クリア集会所／元老院議場）;【カ】教皇庁
-kuri/o⟦廷/o⟧:【理】キュリー（放射能の単位，Ci）
+kuri/o:【理】キュリー（放射能の単位，Ci）
 Kuri/o:【人名】キュリー（フランスの物理学者夫妻，ピエール1859-1906，マリー1867-1934）
 kurioz/a⟦奇ᴷ/a⟧:{Ｂ}珍しい,奇妙な,好奇心をそそる
 kurioz/a best/o⟦奇ᴷ/a 兽/o⟧:珍獣
@@ -51115,7 +51115,7 @@ kurd/o:【PIV】Ano de iranlingva gento, log^anta en Kurdio k diaspore en Eu^rop
 kuret/o⟦刮匙/o⟧:【医】【PIV】Speco de akra kulero, uzata en kirurgio por praktiki skrapadon de diversaj organoj.
 kuret/i⟦刮匙/i⟧:【PIV】(tr (transitiva)) Fari skrapadon per kureto.
 kuret/ad/o⟦刮匙/行/o⟧:【PIV】Skrapado per kureto: utera kuretado.
-kuri/um/o⟦廷/um/o⟧:【PIV】Transurania elemento, Cm, atomnumero 96, atommaso 247,07.
+kuri/um/o:【PIV】Transurania elemento, Cm, atomnumero 96, atommaso 247,07.
 kurier/a⟦信使/a⟧:【PIV】1 Rilata al kuriero: kuriera sako, ofico. 2 Rilata al la pos^ta stacioreto: kuriere veturi (plej rapide).
 kurkumin/o:【化】【PIV】Flava kolorilo, C 21 H 20 O 6, ekstraktata el la radiko de kurkumo, pasintece uzata i.a. (interalie, inter aliaj) por tinkturi vestojn.
 kurl/o⟦鸟ᴷᵁᴿ/o⟧:【PIV】= numenio.
