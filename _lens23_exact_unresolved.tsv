@@ -1,0 +1,167 @@
+判定	根拠	層A	語A	層B	語B	面
+同義(無害)	同一形態素の別見出し	CSV2890	-ac^-	PEJVO	ac^a	劣
+同義(無害)	同一形態素の別見出し	CSV2890	-ad-	PEJVO	ade	行
+同義(無害)	同一形態素の別見出し	CSV2890	formo	PEJVO	-forma	形
+同義(無害)	同一形態素の別見出し	CSV2890	-ig^-	PEJVO	ig^i	成
+同義(無害)	同一形態素の別見出し	PIV	miceto	PIV	-micet	菌ᴹᶜ
+同義(無害)	同一形態素の別見出し	CSV2890	-aj^-	PEJVO	aj^o	物
+同義(無害)	同一形態素の別見出し	CSV2890	g^is	PEJVO	g^is-	至
+同義(無害)	同一形態素の別見出し	CSV2890	-ig-	PEJVO	igi	使
+同義(無害)	同一形態素の別見出し	CSV2890	-ec-	PEJVO	eca	性
+同義(無害)	同一形態素の別見出し	CSV2890	-an-	PEJVO	ano	员
+同義(無害)	同一形態素の別見出し	CSV2890	-uj-	PEJVO	ujo	器
+同義(無害)	同一形態素の別見出し	CSV2890	post	PEJVO	post-	后
+同義(無害)	同一形態素の別見出し	PEJVO	tut-	CSV2890	tuta	整
+同義(無害)	相互参照(=/>>)	PEJVO	asterio	PEJVO	marstelo	海星
+同義(無害)	同一形態素の別見出し	CSV2890	-ot-	PIV	ote	待
+同義(無害)	同一形態素の別見出し	CSV2890	-id-	PEJVO	ido	子
+同義(無害)	訳語が重複	PEJVO	au^tonomeco	PEJVO	memregeco	自治性
+同義(無害)	相互参照(=/>>)	PEJVO	bestkuraca	PEJVO	veterinara	兽医
+同義(無害)	同一形態素の別見出し	PEJVO	-skop-	PIV	skopo	镜ˢᴷ
+同義(無害)	同一形態素の別見出し	PEJVO	gena	PIV	-gen	生ᴳ
+同義(無害)	同一形態素の別見出し	CSV2890	re-	PEJVO	rea	再
+同義(無害)	同一形態素の別見出し	PEJVO	bo	CSV2890	bo-	姻
+同義(無害)	同一形態素の別見出し	PIV	fito	PIV	-fit	植ᶠ
+同義(無害)	訳語が重複	PEJVO	brustosto	PEJVO	sternumo	胸骨
+同義(無害)	相互参照(=/>>)	PEJVO	imperialismo	PEJVO	imperiismo	帝主义
+同義(無害)	同一形態素の別見出し	CSV2890	-eg-	PEJVO	ega	巨
+同義(無害)	同一形態素の別見出し	CSV2890	pro	PEJVO	pro-	因ᴾ
+同義(無害)	同一形態素の別見出し	CSV2890	c^ef-	PEJVO	c^efa	首
+同義(無害)	相互参照(=/>>)	PEJVO	c^evalkas^tano	PEJVO	hipokas^tano	马栗
+同義(無害)	訳語が重複	PEJVO	hipokas^tano	PIV	hipokastano	马栗
+同義(無害)	同一形態素の別見出し	CSV2890	-on-	PEJVO	ono	分
+同義(無害)	相互参照(=/>>)	PEJVO	dekduedro	PIV	dodekaedro	十二面ᴱ
+同義(無害)	同一形態素の別見出し	CSV2890	dis-	PEJVO	disa	散
+同義(無害)	同一形態素の別見出し	CSV2890	ge-	PEJVO	gea	双
+同義(無害)	同一形態素の別見出し	PEJVO	duon-	PEJVO	duona	二分
+同義(無害)	同一形態素の別見出し	CSV2890	-ebl-	PEJVO	ebla	可
+同義(無害)	相互参照(=/>>)	PEJVO	egalpotenciala	PIV	ekvipotenciala	等势
+同義(無害)	同一形態素の別見出し	CSV2890	-ej-	PEJVO	ejo	所
+同義(無害)	同一形態素の別見出し	PEJVO	ek	CSV2890	ek-	始
+同義(無害)	同一形態素の別見出し	CSV2890	eks-	PEJVO	eksa	旧
+同義(無害)	訳語が重複	PEJVO	ekskorii	PEJVO	frotvundi	擦伤
+同義(無害)	同一形態素の別見出し	CSV2890	el	PEJVO	el-	出
+同義(無害)	同一形態素の別見出し	CSV2890	krom	PEJVO	krom-	外
+同義(無害)	同一形態素の別見出し	CSV2890	-em-	PEJVO	ema	倾
+同義(無害)	同一形態素の別見出し	CSV2890	en	PEJVO	en-	内
+同義(無害)	同一形態素の別見出し	CSV2890	en	PIV	-en	内
+同義(無害)	同一形態素の別見出し	PEJVO	en-	PIV	-en	内
+同義(無害)	同一形態素の別見出し	CSV2890	-end-	PEJVO	endi	须
+同義(無害)	同一形態素の別見出し	PEJVO	-pov-	CSV2890	povi	能
+同義(無害)	同一形態素の別見出し	CSV2890	-estr-	PEJVO	estri	长ᴱ
+同義(無害)	同一形態素の別見出し	CSV2890	-et-	PEJVO	eta	小
+同義(無害)	同一形態素の別見出し	PIV	somo	PIV	-som	体ˢᴹ
+同義(無害)	同一形態素の別見出し	CSV2890	fi	PEJVO	fi-	卑
+同義(無害)	同一形態素の別見出し	CSV2890	-in-	PEJVO	ina	女
+同義(無害)	相互参照(=/>>)	CSV2890	fontano	PEJVO	s^prucfonto	喷泉
+同義(無害)	同一形態素の別見出し	CSV2890	for	PEJVO	for-	离
+同義(無害)	同一形態素の別見出し	PEJVO	-metri-	PIV	metrio	测ᴹᵀ
+同義(無害)	訳語が重複	PEJVO	greso	PEJVO	pas^therbo	牧草
+同義(無害)	同一形態素の別見出し	PEJVO	-hava	CSV2890	havi	有
+同義(無害)	相互参照(=/>>)	PEJVO	hepatherbo	PEJVO	hepatiko	肝草
+同義(無害)	同一形態素の別見出し	CSV2890	-il-	PEJVO	ilo	具
+同義(無害)	相互参照(=/>>)	PEJVO	imperialisto	PEJVO	imperiisto	帝家
+同義(無害)	同一形態素の別見出し	CSV2890	-ind-	PEJVO	inda	值
+同義(無害)	同一形態素の別見出し	CSV2890	-ing-	PEJVO	ingi	座
+同義(無害)	相互参照(=/>>)	PEJVO	inocenta	PEJVO	senkulpa	无罪
+同義(無害)	同一形態素の別見出し	CSV2890	preter	PEJVO	preter-	过ᴾᴿ
+同義(無害)	同一形態素の別見出し	CSV2890	inter	PEJVO	inter-	间
+同義(無害)	同一形態素の別見出し	PEJVO	retro-	PEJVO	retroe	逆
+同義(無害)	同一形態素の別見出し	CSV2890	mal-	PEJVO	mala	反
+同義(無害)	同一形態素の別見出し	CSV2890	-ism-	PEJVO	ismo	主义
+同義(無害)	同一形態素の別見出し	CSV2890	jaro	PEJVO	-jara	年
+同義(無害)	同一形態素の別見出し	PEJVO	-jarag^a	PIV	jarag^a	年岁
+同義(無害)	同一形態素の別見出し	CSV2890	kontrau^	PEJVO	kontrau^-	对
+同義(無害)	同一形態素の別見出し	CSV2890	trans	PEJVO	trans-	越
+同義(無害)	同一形態素の別見出し	CSV2890	kapo	PEJVO	-kapa	头
+同義(無害)	相互参照(=/>>)	PEJVO	kaphau^to	PEJVO	skalpi	头皮
+同義(無害)	同一形態素の別見出し	CSV2890	-op-	PEJVO	opa	组
+同義(無害)	同一形態素の別見出し	CSV2890	kun	PEJVO	kun-	共
+同義(無害)	同一形態素の別見出し	CSV2890	kvazau^	PEJVO	kvazau^-	如
+同義(無害)	相互参照(=/>>)	PEJVO	kvinangulo	PEJVO	pentagono	五角
+同義(無害)	同一形態素の別見出し	CSV2890	lau^	PEJVO	lau^-	按
+同義(無害)	同一形態素の別見出し	PEJVO	mang^ado	PIV	-mang^ado	食行
+同義(無害)	相互参照(=/>>)	PEJVO	marhirundo	PIV	procelario	海燕
+同義(無害)	同一形態素の別見出し	CSV2890	mem	PEJVO	mem-	自
+同義(無害)	同一形態素の別見出し	PEJVO	-metr-	CSV2890	metro	米
+同義(無害)	同一形態素の別見出し	CSV2890	mis-	PEJVO	misa	误
+同義(無害)	訳語が重複	PEJVO	multangula	PEJVO	poligono	多角
+同義(無害)	訳語が重複	PEJVO	murpapero	CSV2890	tapeto	壁纸
+同義(無害)	相互参照(=/>>)	PEJVO	nimbuso	PEJVO	pluvnubo	雨云
+同義(無害)	相互参照(=/>>)	PEJVO	novstelo	PIV	novao	新星
+同義(無害)	同一形態素の別見出し	CSV2890	-obl-	CSV2890	-obla	倍
+同義(無害)	同一形態素の別見出し	CSV2890	-obl-	PEJVO	oblo	倍
+同義(無害)	同一形態素の別見出し	CSV2890	-obla	PEJVO	oblo	倍
+同義(無害)	同一形態素の別見出し	CSV2890	pra-	PEJVO	praa	原
+同義(無害)	相互参照(=/>>)	CSV2890	orta	PEJVO	rektangula	直角
+同義(無害)	同一形態素の別見出し	CSV2890	tra	PEJVO	tra-	穿
+同義(無害)	同一形態素の別見出し	CSV2890	per	PEJVO	per-	以
+同義(無害)	同一形態素の別見出し	CSV2890	pli	PEJVO	pli-	更
+同義(無害)	同一形態素の別見出し	CSV2890	po	PEJVO	po-	每
+同義(無害)	相互参照(=/>>)	PEJVO	postgvardio	PIV	ariero	后卫
+同義(無害)	相互参照(=/>>)	PEJVO	pou^po	PEJVO	s^ipvosto	船尾
+同義(無害)	同一形態素の別見出し	CSV2890	pri	PEJVO	pri-	于
+同義(無害)	同一形態素の別見出し	PEJVO	vic-	CSV2890	vico	列
+同義(無害)	相互参照(=/>>)	PEJVO	samtempeco	PEJVO	simultaneco	同时性
+同義(無害)	相互参照(=/>>)	PEJVO	sesangulo	PIV	heksagono	六角
+同義(無害)	相互参照(=/>>)	PEJVO	skorpifis^o	PIV	skorpeno	蝎鱼
+同義(無害)	同一形態素の別見出し	PEJVO	sol-	CSV2890	sola	唯
+同義(無害)	同一形態素の別見出し	PEJVO	sovag^-	CSV2890	sovag^a	野
+同義(無害)	同一形態素の別見出し	CSV2890	sub	PEJVO	sub-	下
+同義(無害)	同一形態素の別見出し	CSV2890	super	PEJVO	super-	上ˢᴾ
+同義(無害)	同一形態素の別見出し	CSV2890	sur	PEJVO	sur-	上
+同義(無害)	相互参照(=/>>)	PEJVO	trenreto	PEJVO	trolo	拖网
+同義(無害)	同一形態素の別見出し	CSV2890	tro	PEJVO	tro-	太
+同義(無害)	同一形態素の別見出し	CSV2890	-ul-	PEJVO	ulo	者
+同義(無害)	同一形態素の別見出し	PEJVO	vir-	CSV2890	viro	男
+同義(無害)	訳語が重複	PIV	mesentero	PIV	mesoentero	中肠ᴱ
+同義(無害)	訳語が重複	PIV	mesentero	PIV	mezentero	中肠ᴱ
+同義(無害)	相互参照(=/>>)	PIV	mesoentero	PIV	mezentero	中肠ᴱ
+異義の可能性		CSV2890	adiau^	PEJVO	revidi	再见
+異義の可能性		PEJVO	aertubo	PEJVO	trakeo	气管
+異義の可能性		PEJVO	alburno	PIV	blankfis^o	白鱼
+異義の可能性		PEJVO	alinei	PEJVO	komutado	换行
+異義の可能性		PEJVO	lavendo	PEJVO	spicherbo	香草
+異義の可能性		PEJVO	asketo	PEJVO	suferado	苦行
+異義の可能性		PEJVO	au^todidakto	PEJVO	memlerni	自学
+異義の可能性		PEJVO	bumo	PEJVO	velstango	帆杆
+異義の可能性		PEJVO	c^efmasto	PEJVO	steveno	首柱
+異義の可能性		PEJVO	c^evalkas^tano	PIV	hipokastano	马栗
+異義の可能性		PEJVO	domicilo	PEJVO	log^ejo	住所
+異義の可能性		PEJVO	dukolora	PIV	dikroa	二色
+異義の可能性		PEJVO	endosmozo	PIV	enosmozo	内渗
+異義の可能性		PIV	paleo	PIV	ens^ele	内壳
+異義の可能性		PEJVO	florkrono	PEJVO	korolo	花冠
+異義の可能性		PEJVO	fraji	PIV	fis^ovoj	鱼卵
+異義の可能性		PEJVO	frakulo	PIV	hirundvostulo	燕尾者
+異義の可能性		PEJVO	fritkuko	PIV	benjeto	炸糕
+異義の可能性		PEJVO	glits^tono	PEJVO	talki	滑石
+異義の可能性		PEJVO	skuno	PEJVO	vels^ipa	帆船
+異義の可能性		PEJVO	hipotenuzo	PEJVO	klinrando	斜边
+異義の可能性		PEJVO	sameco	PIV	gejo	同性
+異義の可能性		PEJVO	interpunkcii	PIV	celpunkto	标点
+異義の可能性		PEJVO	kaptuko	PEJVO	turbano	头巾
+異義の可能性		PEJVO	klinangulo	PIV	skaleno	斜角
+異義の可能性		PEJVO	kolharoj	PIV	krino	颈毛
+異義の可能性		PEJVO	kombinig^i	PIV	anabolo	合成
+異義の可能性		PEJVO	kredigi	PEJVO	kuriero	信使
+異義の可能性		PEJVO	konvekti	PIV	kontrau^flue	对流
+異義の可能性		CSV2890	mezo	PIV	mesoo	中
+異義の可能性		PEJVO	miljara	PIV	milenio	千年
+異義の可能性		PEJVO	talpa	PEJVO	termuso	地鼠
+異義の可能性		PEJVO	multkolora	PIV	pleokroa	多色
+異義の可能性		PEJVO	multkoloreco	PIV	pleokroeco	多色性
+異義の可能性		PEJVO	nelonga	PIV	nelge	不长
+異義の可能性		CSV2890	neniam	PIV	sentempa	无时
+異義の可能性		PEJVO	okono	PEJVO	oktanto	八分
+異義の可能性		PEJVO	pavezo	PIV	s^ipmuro	船壁
+異義の可能性		CSV2890	si	PIV	heks	己
+異義の可能性		PEJVO	tripanosomo	PIV	praterioj	原兽ᵀ
+異義の可能性		PEJVO	punkcii	PEJVO	trapiki	穿刺
+異義の可能性		PEJVO	reakciigi	PIV	maldevigi	反应使
+異義の可能性		PEJVO	samtempa	PIV	simultana	同时
+異義の可能性		PEJVO	tripkolbaso	PIV	andujo	肚肠
+異義の可能性		PEJVO	unudiismo	PIV	unitariismo	一神主义
+異義の可能性		PEJVO	unueca	PIV	monofizito	一性
+異義の可能性		PIV	lamprido	PIV	lunfis^o	月鱼
+異義の可能性		PIV	sinklinalo	PIV	alklini	向斜

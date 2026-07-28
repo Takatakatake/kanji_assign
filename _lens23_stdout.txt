@@ -1,0 +1,114 @@
+﻿====================================================================================================
+第23レンズ「近傍衝突 — 最重要語ほど見分けやすいか」
+====================================================================================================
+  レキシーム(内容形態素列) 総数 = 47,666 / 全内容形態素が漢字描画 = 33,418 (70.1%)
+  類型1(完全衝突)の母集団 = 33,418 全件 / 類型2・3の母集団 = 26,771 (漢字2字以上)
+
+■ 描画面の長さは層ごとにどう違うか(短いほど日常語として good)
+   層              レキシーム     平均字数       1字       2字       3字     4字以上
+   CSV2890        2,692     1.10    91.0%     8.4%     0.5%     0.0%
+   PEJVO         21,891     2.16    11.3%    64.5%    21.5%     2.8%
+   PIV            8,835     2.15    19.6%    50.6%    25.5%     4.3%
+
+====================================================================================================
+■ 3つの混同類型(全体)
+   類型1 完全衝突      157316 対  → 識別子で解決済み 157150 対 / 未解決 166 対
+        ★識別子層は完全衝突の 99.9% を解消している
+        レキシーム単位で見ると: 漢字列だけでは 10,191 件(30.5%)が他と同一面 →
+        識別子を付けた正式な面では 320 件(0.96%)だけが残る
+        未解決 166 対の内訳: 同義で無害 118 対 / **異義の可能性 48 対**
+   類型2 転置衝突         173 対  うち形態素を共有しない(恣意的) 53 対
+   類型3 高重複近傍     82289 対  うち形態素を共有しない(恣意的) 1150 対
+        (1字違い・長さ3以上=2/3以上共有。2字語どうしの1字違いは共有率50%で
+         CJKでは実用上区別できるため危険とみなさない。参考値は後段)
+
+■ ★層別の危険度(その層のレキシーム全件を分母に。1字面は転置も高重複も構造的に起こり得ない
+     ＝『短い面をもらえること』自体が保護なので、分母から外さず一緒に数えるのが正しい)
+   層               全件          異義の完全衝突           恣意的な転置          恣意的な高重複
+   CSV2890      2,692     4 ( 0.15%)     1 ( 0.04%)     5 ( 0.19%)
+   PEJVO       21,891    59 ( 0.27%)    85 ( 0.39%)   428 ( 1.96%)
+   PIV          8,835    33 ( 0.37%)    11 ( 0.12%)   218 ( 2.47%)
+
+   (参考)漢字2字以上のレキシームだけに絞った条件付き率 — 効果が『面の短さ』を
+          経由していることを見るための副次表。CSV2890 は 2字以上が 242 件しか無く小標本
+   層             2字以上           恣意的な転置          恣意的な高重複
+   CSV2890        242     1 ( 0.41%)     5 ( 2.07%)
+   PEJVO       19,428    85 ( 0.44%)   428 ( 2.20%)
+   PIV          7,101    11 ( 0.15%)   218 ( 3.07%)
+
+■【対照A】同じ語集合のラテン綴り面(漢字化前の状態)
+   完全衝突 10 対 / 転置衝突 1074 対 / 高重複近傍 8062 対
+   → 漢字化で **新たに生じた** 完全衝突 = 157306 対(うち識別子未解決 166 対)
+   ※ ラテン面は平均 8.2 文字、漢字面は平均 2.3 文字。面が短いほど衝突しやすいのは
+      構造的な性質であり、この比較は『漢字化が衝突を増やすか』ではなく
+      『増えた分が識別子で処理されているか』を見るためのものである
+
+■【対照B】形態素→漢字列を長さ保存で無作為に入れ替えた面(5回平均・識別子なし)
+                              実際          無作為
+   完全衝突                   157316       168025  → 実際は 0.94 倍
+   恣意的な転置                     53         3915  → 実際は 0.01 倍
+   恣意的な高重複                  1150         2083  → 実際は 0.55 倍
+
+■ 参考: 2字面どうしで1字を共有する対 = 2,409,054 対(2字面 18,808 個)
+   共有率50%%にすぎず、電車/電話 を混同しないのと同様、危険とはみなさない。
+   これを危険に数えると数値が10万対規模に膨らむが、実質を反映しない(初版の誤り)。
+
+====================================================================================================
+■ ★両方とも最優先層(CSV2890)の混同対 = 0 対
+
+■ 未解決の完全衝突のうち【異義の可能性】= 48 対(全件・目視確認用)
+   CSV2890  adiau^             ⇔ PEJVO    revidi             面=再见      {Ｂ}［間］さようなら 別れの ［他］別れを告げる;【情】ログアウト ／ ［他］再会する,見なおす 再会
+   CSV2890  mezo               ⇔ PIV      mesoo              面=中       まん中の,中央の;中くらいの,中間の;並の,平均的な まん中に;中間 ／ 【PIV】Tiu peritonea refaldo.
+   CSV2890  neniam             ⇔ PIV      sentempa           面=无时      {Ｂ}［副］（いつでも）決して〜ない ／ 【PIV】Tia, ke g^i ne konas tempon, 
+   CSV2890  si                 ⇔ PIV      heks               面=己       {Ｂ}［代］自分 自分自身の 【Ｅ】［略］=Semajno de I ／ 【化】【PIV】Pref. (Prefikso), montrant
+   PEJVO    aertubo            ⇔ PEJVO    trakeo             面=气管      【車】（タイヤの）チューブ ／ 【解】気管,>>bronko;【虫】気管;【植】導管;=trah^e
+   PEJVO    alburno            ⇔ PIV      blankfis^o         面=白鱼      【魚】ブリーク（ヨーロッパ産のコイ科の淡水魚） 【植】白太（しらた） ／ 【動】【PIV】Alburno 2.
+   PEJVO    alinei             ⇔ PEJVO    komutado           面=换行      ［自］【印】改行する {Ｏ}【印】（改行して）字下げになった行;（改 ／ 切り替え,転換
+   PEJVO    asketo             ⇔ PEJVO    suferado           面=苦行      苦行者;禁欲主義者 ／ 苦難,苦悩,受難
+   PEJVO    au^todidakto       ⇔ PEJVO    memlerni           面=自学      独学者,独習者 ／ ［他］自習する;独学する
+   PEJVO    bumo               ⇔ PEJVO    velstango          面=帆杆      【海】ブーム,帆げた ／ 【海】帆桁（ほげた）,ヤード,=jardo
+   PEJVO    c^efmasto          ⇔ PEJVO    steveno            面=首柱      【海】メインマスト,大檣（だいしょう） ／ 【海】船首材
+   PEJVO    c^evalkas^tano     ⇔ PIV      hipokastano        面=马栗      【果】マロニエの実,ウマグリ ／ 【植】【PIV】1 (ark. (arkaismo, arkaism
+   PEJVO    domicilo           ⇔ PEJVO    log^ejo            面=住所      【法】（登録された）住所;本籍 ／ 住みか;住居;宿泊所,宿舎
+   PEJVO    dukolora           ⇔ PIV      dikroa             面=二色      二色の,二色刷の ／ 【地質】【理】【PIV】(pp (se paroli pri) ne
+   PEJVO    endosmozo          ⇔ PIV      enosmozo           面=内渗      【生】内方浸透##偽分解(PIV正式分解)##過細分解 e/n/d/ ／ 【PIV】Osmozo al la interna medio.
+   PEJVO    florkrono          ⇔ PEJVO    korolo             面=花冠      花の冠 ／ {Ｏ}【植】花冠（かかん）,=petalaro
+   PEJVO    fraji              ⇔ PIV      fis^ovoj           面=鱼卵      ［自］【生】産卵する,>>ovumi {Ｏ}【生】（魚類・両生類の） ／ 【PIV】Kungluig^intaj ovoj de fis^o:
+   PEJVO    frakulo            ⇔ PIV      hirundvostulo      面=燕尾者     燕尾服を着た人 ／ 【PIV】Hirund vosta papilio. Sin. (s
+   PEJVO    fritkuko           ⇔ PIV      benjeto            面=炸糕      【菓】揚げ菓子 ／ 【PIV】Pastobulo, fritita k entenant
+   PEJVO    glits^tono         ⇔ PEJVO    talki              面=滑石      【運】（カーリングの）石,ストーン ／ ［他］滑石粉を塗る {Ｏ}【鉱】滑石;タルカムパウダー
+   PEJVO    hipotenuzo         ⇔ PEJVO    klinrando          面=斜边      【数】（直角三角形の）斜辺 ／ 斜断面,>>bevelo
+   PEJVO    interpunkcii       ⇔ PIV      celpunkto          面=标点      ［他］句読点を打つ {Ｏ}【Ｇ】句読法;=interpunkciaj ／ 【PIV】La preciza punkto, kiun oni c
+   PEJVO    kaptuko            ⇔ PEJVO    turbano            面=头巾      ずきん（頭巾）,（頭にかぶる）スカーフ ／ {Ｏ}【服】ターバン
+   PEJVO    klinangulo         ⇔ PIV      skaleno            面=斜角      【理】傾斜角,=klino ／ 【解】【PIV】Nomo de pluraj oblikvaj mu
+   PEJVO    kolharoj           ⇔ PIV      krino              面=颈毛      （ライオン・ウマなどの）たてがみ ／ 【PIV】C^iu el la longaj haroj de c^
+   PEJVO    kombinig^i         ⇔ PIV      anabolo            面=合成      ［自］結合する,組み合わさる;【化】化合する ／ 【生】【PIV】Tuto de la procezoj de kon
+   PEJVO    konvekti           ⇔ PIV      kontrau^flue       面=对流      ［他］【理】対流させる 【理】（熱）対流 ／ 【PIV】En direkto kontrau^a al tiu d
+   PEJVO    kredigi            ⇔ PEJVO    kuriero            面=信使      ［他］信じさせる,信用させる ／ {Ｏ}急使;【史】飛脚;【遊】（チェスの）ビショップ,（将棋の）角行
+   PEJVO    lavendo            ⇔ PEJVO    spicherbo          面=香草      {Ｏ}【植】ラベンダー（属） ／ 【料】香辛料用野菜,香草,>>aromherbo
+   PEJVO    miljara            ⇔ PIV      milenio            面=千年      千年の =>jarmilo（千年紀） ／ 【PIV】1 Miljara dau^ro au^ datreven
+   PEJVO    multkolora         ⇔ PIV      pleokroa           面=多色      多色の,多色刷りの,=multekolora ／ 【地質】【理】【PIV】(pp (se paroli pri) ne
+   PEJVO    multkoloreco       ⇔ PIV      pleokroeco         面=多色性     多色性;《転》多彩さ ／ 【PIV】Eco de kristalo pleokroa.
+   PEJVO    nelonga            ⇔ PIV      nelge              面=不长      長くない,短めの 長くなく,少しの間 ／ 【PIV】Antau^ nelonge: en la tombejo
+   PEJVO    okono              ⇔ PEJVO    oktanto            面=八分      八分の一;【楽】八分音符 ／ 【数】八分円;【天】八分儀
+   PEJVO    pavezo             ⇔ PIV      s^ipmuro           面=船壁      【海】舷墻（げんしょう）（上甲板舷側上の防壁） ／ 【PIV】La vertikala parto de la s^ip
+   PEJVO    punkcii            ⇔ PEJVO    trapiki            面=穿刺      ［他］【医】穿刺（せんし）する 【医】穿刺（せんし）法 ／ ［他］刺し通す,突き通す
+   PEJVO    reakciigi          ⇔ PIV      maldevigi          面=反应使     ［他］反応させる ／ 【PIV】Fari, ke iu ne devu.
+   PEJVO    sameco             ⇔ PIV      gejo               面=同性      同一,同一性 ／ 【PIV】(fm (familiara, familiare)) S
+   PEJVO    samtempa           ⇔ PIV      simultana          面=同时      同時の;同時代の 同時に;一斉に ／ 【PIV】Samtempe, sammomente okazanta
+   PEJVO    skuno              ⇔ PEJVO    vels^ipa           面=帆船      【海】スクーナー（二本以上のマストをもつ縦帆船） ／ 帆船の 【海】帆船
+   PEJVO    talpa              ⇔ PEJVO    termuso            面=地鼠      モグラの;モグラのような {Ｏ}【動】モグラ（土竜）（科の総称）;《 ／ 《般》野ネズミ,=kampomuso
+   PEJVO    tripanosomo        ⇔ PIV      praterioj          面=原兽ᵀ     【動】トリパノソーマ（属）（寄生性原虫） ／ 【動】【PIV】Subklaso (Prototheria) de 
+   PEJVO    tripkolbaso        ⇔ PIV      andujo             面=肚肠      【料】アンドゥイユ（臓物のソーセージ） ／ 【PIV】Porka tripkolbaso: fumaj^ita 
+   PEJVO    unudiismo          ⇔ PIV      unitariismo        面=一神主义    【宗】一神論,一神教,=monoteismo ／ 【PIV】La doktrino de tiu skolo. Vd 
+   PEJVO    unueca             ⇔ PIV      monofizito         面=一性      統一的な,一致した,一貫した 統一性,一致,一貫性;単一性 ／ 【キ】【PIV】Homo, kiu kredas, ke estas
+   PIV      lamprido           ⇔ PIV      lunfis^o           面=月鱼      【動】【PIV】Granda mara fis^o (unuspec ／ 【動】【PIV】Vulgara kn (kolektiva nomo
+   PIV      paleo              ⇔ PIV      ens^ele            面=内壳      【植】【PIV】(pp (se paroli pri) spiket ／ 【PIV】Interne de la s^elo: en s^ele
+   PIV      sinklinalo         ⇔ PIV      alklini            面=向斜      【地質】【PIV】Konkava parto de falto. V ／ 【PIV】Klini al: la knabo kriante al
+
+■ 未解決だが同義と判定した 118 対の根拠内訳
+     同一形態素の別見出し       86 対
+     相互参照(=/>>)       23 対
+     訳語が重複            9 対
+
+出力: _lens23_near_collision.tsv / _lens23_risk_pairs.tsv

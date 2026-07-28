@@ -6850,6 +6850,10 @@
   pilol          丸          F=3     basic   
   testik         丸ᵀ         F=6     pejvo   
 
+【丸炎】 2件
+  orkidit        丸炎         F=1     piv     
+  testikit       丸炎ᵀ        F=1     piv     
+
 【玩】 2件
   lud            玩          F=87    basic   
   petol          玩ᴾ         F=11    basic   
