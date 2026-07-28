@@ -157,6 +157,7 @@
 2-prop
 2-propanol
 2-propenil
+A
 ADP
 AIS
 AMP
@@ -252,6 +253,7 @@ Alcino
 Alcion
 Aldebaran
 Aldernej
+Ale
 Alec^j
 Alegan
 Aleksandr
@@ -1037,6 +1039,7 @@ Elzac
 Emanuel
 Emaus
 Emerik
+Emi
 Emil
 Emili
 Emilian
@@ -1493,6 +1496,7 @@ Havaj
 Havan
 Haven
 Havr
+He
 Heb
 Hebej
 Hebrid
@@ -1511,6 +1515,7 @@ Hekl
 Hektor
 Hekub
 Helas
+Hele
 Helen
 Helenistik
 Helenj
@@ -1732,7 +1737,9 @@ J^erom
 J^erzej
 J^ul
 J^uras
+Ja
 Jac^j
+Jadvi
 Jadvig
 Jadvinj
 Jaf
@@ -1789,6 +1796,7 @@ Jez
 Jezu
 Jiftah^
 Jis^aj
+Jo
 Joab
 Joakim
 Job
@@ -1954,6 +1962,7 @@ Karmen
 Karnak
 Karnatak
 Karnaval
+Karo
 Karol
 Karolin
 Karon
@@ -2036,6 +2045,7 @@ Kitakius^u
 Kius^u
 Kjongj^u
 Kju
+Kla
 Klanj
 Klar
 Klau^d
@@ -2415,6 +2425,7 @@ MHz
 MONAT
 MONATO
 MOS
+Ma
 Madagaskar
 Madan
 Madejr
@@ -3045,6 +3056,7 @@ Pau^zani
 Pav
 Pavi
 Pazifa
+Pe
 Pec^j
 Pegaz
 Pejpus
@@ -3590,6 +3602,7 @@ Slavoni
 Slovak
 Sloven
 Smirn
+So
 Soci
 Societ
 Socin

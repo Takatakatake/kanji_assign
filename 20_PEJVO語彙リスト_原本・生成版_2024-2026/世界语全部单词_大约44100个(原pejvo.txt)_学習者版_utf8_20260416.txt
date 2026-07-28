@@ -44717,7 +44717,7 @@ ald/a:【PIV】(pp (se paroli pri) registro de instrumento) Inter soprana k teno
 ald/ol/o:【化】【PIV】1 Substanco, CH 3-CHOH-CH 2-CHO, estig^inta per kombinado de du molekuloj de acetaldehido (etanalo) katalizita de alkalo. 2 Kn (Kolektiva nomo) de molekuloj kun g^enerala formulo R-CH 2-CHOH-CH(R’)-CHO. / Vd (vidu) aldo ②.##偽分解(PIV正式分解)##過細分解 ald/o/l/o
 aldosteron/o:【生】【PIV】Kortikosurrena hormono, efikanta al la reno k rolanta en la minerala ekvilibro: aldosterono estigas retenon de natrio k forigon de kalio.
 aleator/a:【PIV】Rilata al hazardo; loteca.
-Alec^j/o:【PIV】Karesformo de Aleksandro.
+Ale/c^j/o:【PIV】Karesformo de Aleksandro.##偽分解
 alegori/a:【PIV】Prezentanta alegorion: alegoria parolo, rakonto.
 Aleksandri/an/ism/o:【PIV】Tre rafinitaj poezio k kulturo el la Ptolemea epoko, poste imitita en Romo de la Aleksandriaj verkistoj, ekz. (ekzemple) Katulo. Vd helenismo.
 aleksi/o:【医】【PIV】Organika perturbo de la kapablo legi. -> agnozio, agrafio.
@@ -45064,7 +45064,7 @@ anizokori/o:【医】【PIV】Neegaleco de la pupiloj.
 anizometropi/o:【医】【PIV】Neegaleco de la refrakto en la du okuloj.
 anizosfigmi/o:【医】【PIV】Neegaleco de la pulsoj en simetriaj arterioj, ekz. (ekzemple) en la du radiusaj arterioj.
 an/izo/trop/a:【PIV】(evi (evitinda)) = neizotropa.##偽分解##過細分解 a/n/izo/trop/a
-Anj/o:【PIV】Karesformo de Anno.
+A/nj/o:【PIV】Karesformo de Anno.##偽分解
 ankilostom/o:【PIV】= ancilostomo.
 ankone/o:【解】【PIV】(M. anconeus) Muskolo, fiksita al epikondilo k al ulno, ekstensanta la antau^brakon rilate al la brako.
 ankorau^/a:【PIV】Okazanta ankorau^ en la priparolata momento au^ denove: la ankorau^a diskutado.
@@ -47198,7 +47198,7 @@ emigraci/o:【PIV】1 Emigrado. 2 Emigrintaro.
 Emili/a:【PIV】Rilata al Emilio 2: la Emilia vojo.
 Emilian/o:【PIV】Vira nomo.
 eminent/ig/i:【PIV】Fari eminentulo: la reg^o eminentigis Hamanon .
-Eminj/o:【PIV】Karesformo de Emilio.
+Emi/nj/o:【PIV】Karesformo de Emilio.##偽分解
 emitor/o:【電】【PIV】Regiono sur transistoro, el kiu s^argportantoj originas k fluas en la bazon.
 Empedokl/o:【PIV】Helena filozofo (5a jc (jarcento) a.K. (antau^ Kristo))
 empetr/o:【植】【PIV】G. (Genro) (Empetrum el empetracoj) de malaltaj, monoikaj au^ dioikaj tufarbustoj kun pingloformaj, vintrodau^raj folioj, kun akselaj floroj k kun berecaj drupoj; 2 sp-oj (specioj) el Arkto k altaj montaroj de Eu^ropo, Azio k Ameriko.
@@ -48803,7 +48803,7 @@ hel/ig/o:【PIV】Procedo por malpliigi la kontrastojn de negativo.
 helen/ec/o:【PIV】La karaktero de la helenoj.
 helen/ig/i:【PIV】Transformi, per la partopreno en la helena civilizacio: la tuta Proksim-Oriento g^is Hindujo estis profunde helenigita.
 Helenistik/o:【PIV】Epoko de la Helena historio inter Aleksandro la Granda k la 30aj jaroj antau^ la kristana erao: la Helenistika arto, literaturo.
-Helenj/o:【PIV】Karesformo de Heleno.
+Hele/nj/o:【PIV】Karesformo de Heleno.##偽分解
 heler/o:【史】【PIV】Tre malgranda germana iama monero: neniun mi iam konscie trompis ec^ pri la valoro de unu helero .
 heli/o:【化】【PIV】Heliumo.
 helic/a:【PIV】1 Lau^ formo de helico 1. 2 Movata per helico(j): helica s^ipo. Vd rada.
@@ -48859,7 +48859,7 @@ hena/o:【PIV】Rug^a tinkturo por haroj, eltirita el la folioj de lavsonio.
 hena/arbust/o:【PIV】Lavsonio.
 hendiad/o:【PIV】Retorika figuro, c^e kiu oni esprimas rilaton de subordigo per du kunordigitaj vortoj; ekz. (ekzemple) «en pokaloj k oro ili trinkis la s^au^mantan vinon». = hendiadin/o
 henikoz/:【化】【PIV】Pref. (Prefikso), montranta 21-karbonan c^enon en la nomoj de hidrokarbonoj: henikozano (C 21 H 44) , henikozeno (C 21 H 42) , henikozino (C 21 H 40) , henikozilo. Vd (vidu) alk/.
-Henj/o:【PIV】Karesformo de Henrieto k de Heleno.
+He/nj/o:【PIV】Karesformo de Henrieto k de Heleno.##偽分解
 heparin/o:【化】【生】【PIV】Antikoagula substanco, sulfata glukozamina polisakarido, produktata i.a. (interalie, inter aliaj) en hepato, pulmoj k intestoj.
 hepat/o/pankreat/o:【動】【PIV】Organo de iuj senvertebruloj, kiu rolas kiel k hepato k pankreato.
 hept/:【化】【PIV】Pref. (Prefikso), montranta sepkarbonan c^enon en la nomoj de: 1 hidrokarbonoj: heptano (Vd (vidu) poste) , hepteno (C 7 H 14) , heptino (C 7 H 12), heptilo (C 7 H 15 -) ktp (kaj tiel plu) (vidu alk/) 2 monosakaridoj k derivaj^oj: heptozo (C 7 H 14 O 7 au^ (C 7 H 14 O 5-6 c^e deoksi heptozoj), heptitolo (C 7 H 14 O 7).
@@ -49613,11 +49613,11 @@ Izrael/id/o:【PIV】1 Deveninto de Izraelo 1: = hebreo. Vd Semido. 2 Ano de la 
 jabiru/o:【動】【PIV】Tropika birdo (Jabiru k parencaj g-oj (genroj)) el la ordo de cikoniformaj, kun granda kolora beko, vivanta en S Ameriko, tropika Afriko k SE Azio.
 jaborand/o:【植】【PIV】1 Sp. (Specio) de pilokarpo (Pilocarpus jaborandi). 2 Pilokarpo. 3 Farmaciaj^o ekstraktata el pilokarpinohavaj sp-oj (specioj) de jaborando 1 k 2.
 jacint/o:【地質】【PIV】Mineralo, var. (vari(aj^)o) de zirkono, orang^e rug^a gemo: la unua fundamento estis jaspiso; la dek-unua jacinto .
-Jac^j/o:【PIV】Karesformo de Jakobo.
+Ja/c^j/o:【PIV】Karesformo de Jakobo.##偽分解
 jadeit/o:【地質】【PIV】Mineralo el monoklina alkala pirokseno, NaAl(Si 2 O 6), c^efa konsistaj^o de jadeitito.
 jadeitit/o:【地質】【PIV】Metamorfa petro, konsistanta c^efe el jadeito.
 Jadvig/o:【PIV】= Hedvigo.
-Jadvinj/o:【PIV】Karesa formo de Jadvigo. Vd Janjo.
+Jadvi/nj/o:【PIV】Karesa formo de Jadvigo. Vd Janjo.##偽分解
 Jafet/id/a:【PIV】(pp (se paroli pri) lingvo) Apartenanta al la grupo de tre diversaj lingvoj, parolataj en la Kau^kaza regiono.
 Jagelon/oj:【PIV】Dinastio de polaj reg^oj (14a−16a jc (jarcento)).
 jakarand/o:【植】【PIV】G. (Genro) (Jacaranda el bignoniacoj) de arboj k trunkarbustoj kun kontrau^e duopaj, plume kunmetaj folioj k kun akselaj au^ apeksaj tirsoj el funelformaj floroj g^enerale okulfrape koloraj; c^. (c^irkau^) 35 sp-oj (specioj) el tropika Ameriko, i.a. (interalie, inter aliaj) la mimozfolia jakarando (J. mimosifolia) origina el NU Argentino, kultivata en la varmaj regionoj por ornamo k ligno uzata en c^arpentado k meblofarado.
@@ -49634,7 +49634,7 @@ jalap/rezin/o:【PIV】Jalapo 2.
 jamb/in/o:【PIV】(fm (familiara, familiare)) Jamba verso, post kies fina akcenta silabo trovig^as kroma, senakcenta: la jambinoj estas la regula formo de la jambaj versoj en E.
 jambos/o:【植】【PIV】Sp. (Specio) de sizigio (Syzygium jambos) el SE Azio, malgranda arbo kun mang^eblaj beroj ovoidaj, hele flavaj, rozodoraj.
 jang/o:【宗】【PIV】Praa c^ina koncepto, kiu signifas virecon, aktivecon, varmecon, lumecon ks (kaj simile, kaj similaj). Vd jino. -> Tao.
-Janj/o:【PIV】Virina nomo, kiu povas esti la karesformo de nomo, komencig^anta per Ja- (Jadvigo, Jakobino k.a. (kaj aliaj))
+Ja/nj/o:【PIV】Virina nomo, kiu povas esti la karesformo de nomo, komencig^anta per Ja- (Jadvigo, Jakobino k.a. (kaj aliaj))##偽分解
 janki/o:【PIV】(fm (familiara, familiare)) Usonano.
 Jansen/o:【PIV】Nederlanda katolika teologo (C. Jansen, 1585−1638).
 jansen/ism/o:【キ】【PIV】Doktrino de Janseno, kiu, opone al la jezuitoj, emfazis la neliberecon de la homo pro la Adama peko k la rolon de la Dia graco.
@@ -49670,7 +49670,7 @@ Jis^aj/o:【聖】【PIV】Patro de Davido.
 Joab/o:【聖】【PIV】Nevo k generalo de Davido.
 Joakim/o:【PIV】Vira nomo.
 Job/o:【PIV】= Ijobo.
-Joc^j/o:【PIV】Karesformo de Johano au^ Jozefo.
+Jo/c^j/o:【PIV】Karesformo de Johano au^ Jozefo.##偽分解
 jod/i:【PIV】(tr (transitiva)) Enkonduki jodon: jodi duoblan ligon.
 jod/at/o:【化】【PIV】Salo de jodata acido.##偽分解(PIV正式分解)
 jod/il/o:【化】【PIV】Radiko (IO): jodila sulfato, (IO) 2 SO 4. Vd jodozo.##偽分解(PIV正式分解)
@@ -50110,7 +50110,7 @@ karnalit/o:【地質】【PIV】Mineralo el ortoromba magnezia k kalia klorido, 
 karneol/o:【地質】【PIV】Rug^a au^ orang^e rug^a var. (vari(aj^)o) de kalcedono, uzata kiel juvels^tono.
 Karol/id/oj:【PIV】Anoj de la franka dinastio, fondita de Karol-Martelo. Vd Karlo.
 Karol/in/o:【PIV】Virina nomo (karesformo: Karonjo).
-Karonj/o:【PIV】Karesformo de Karolino.
+Karo/nj/o:【PIV】Karesformo de Karolino.##偽分解
 karoseri/ist/o:【PIV】Tiu, kiu fabrikas au^ riparas karoseriojn. Vd kales^aj^o.
 karot/et/o:【PIV】Kf. (Kultivoformo) de karoto 1, kun malgranda radiko sube stumpig^inta.
 karot/en/o:【化】【PIV】Orang^kolora lipido, C 40 H 56, tetraterpeno, tre ofta en la naturo, aparte abunda en kelkaj nutraj^oj vegetaj^aj (karotoj, orang^oj, verdaj legomoj, kukurboj ktp (kaj tiel plu)) au^ animalaj (ovoflavo), en la flava korpo; g^i povas transformig^i en la organismo al vitamino A.##偽分解(PIV正式分解)##過細分解 karot/e/n/o
@@ -50347,7 +50347,7 @@ klamid/o:【史】【PIV】Helena mantelo.
 klamidi/o:【生】【PIV】G. (Genro) (Chlamydia) de globaj, tre malgrandaj eu^bakterioj, enc^elaj parazitoj patogenaj al la homo, muso au^ birdoj: klamidioj kau^zas gravajn, i.a. (interalie, inter aliaj) venerajn malsanojn. -> psitakozo.
 klamidomonad/o:【植】【動】【PIV】G. (Genro) (Chlamydomonas) de dolc^akvaj duflagelaj protozooj klorofilohavaj.
 klamidosperm/oj:【植】【PIV】Gnetopsidoj.
-Klanj/o:【PIV】Karesformo de Klaro.
+Kla/nj/o:【PIV】Karesformo de Klaro.##偽分解
 klap/form/a:【PIV】Havanta la formon de klapo: la klapforma epigloto.
 klar/ig/a:【PIV】Tia, ke g^i klarigas: g^i j^etos sur vian vojon lumon tre helan, tre klarigan ; klariga letero pri la cirkulero .
 klar/ig/ist/o:【PIV】Interpretisto.
@@ -51742,7 +51742,7 @@ manilkar/o:【植】【PIV】G. (Genro) (Manilkara, sin Achras k Sapota, el sapo
 manis/o:【動】【PIV】G. (Genro) (Manis) de sendentaj mamuloj el Afriko k S Azio, kies korpo estas kovrita de kornecaj skvamoj.
 manis/ul/oj:【PIV】Ordo de mamuloj (Pholidota), ampleksanta la g-on maniso.
 Manitu/o:【宗】【PIV】Bona au^ malbona spirito, dio, c^e N-amerikaj indianoj.
-Manj/o:【PIV】Karesformo de Mario.
+Ma/nj/o:【PIV】Karesformo de Mario.##偽分解
 mank/o/lok/o:【PIV】Loko, kie io mankas: s^topi mankolokon. Vd truo, brec^o, fendo.
 manovr/ist/o:【PIV】Laboristo, kiu efektivigas manovrotaskojn.
 Mansi/o:【PIV】Regiono c^irkau^ Manso. -> Majno.
@@ -53164,7 +53164,7 @@ pazi/grafi/o:【PIV】Sistemo de universala skribo, kies signoj esprimas ne vort
 pecaj/o:【植】【PIV】Pekina brasiko.
 pec^/o/s^ton/o:【地質】【PIV】Speco de riolito tute vitreca, bruneta, pec^aspekta, enhavanta c^. (c^irkau^) 10% da akvo. Vd obsidiano. -> uraninito.
 pec^/blend/o:【PIV】Vd (vidu) blendo k uraninito.
-Pec^j/o:【PIV】Karesformo de Petro.
+Pe/c^j/o:【PIV】Karesformo de Petro.##偽分解
 pedali/o:【植】【PIV】G. (Genro) (Pedalium el pedaliacoj) de nur unu sp. (P. murex) el Afriko, Madagaskaro k Azio, tropika herbo moskodora, kies folioj estas medicine uzataj.
 pederast/o:【PIV】1 Homo, kies seksimpulso direktig^as al homoj nepuberaj: se plenkreskulo havas seksan rilaton kun infano, oni nomas la koncernan personon pederasto ^AZ. 2 Viro, kies seksimpulso direktig^as al junaj knaboj au^ (evi (evitinda)) al viroj g^enerale.
 pedicel/o:【PIV】= pedunkleto.
@@ -55229,7 +55229,7 @@ son/ant/a:【PIV】Tia, ke g^i impresas per sia sono: edzig^o pro amo flamanta a
 dent/alveol-son/o:【PIV】Alveolaro.
 lip/dent/o-son/o:【PIV】Labiodentalo.
 sond/o:【PIV】Ago de iu, kiu sondas.
-Sonj/o:【PIV】Karesformo de Sofio.
+So/nj/o:【PIV】Karesformo de Sofio.##偽分解
 sonk/o:【植】【PIV】G. (Genro) (Sonchus el asteracoj) de plantoj - unu-, du-k plur-jaraj herboj k arbustoj - laktosukohavaj, kun langetfloraj kapituloj; c^. (c^irkau^) 60 sp-oj (specioj) el la Malnova Mondo, el kiuj pluraj trudherboj.
 sonor/il/ist/o:【PIV】Tiu, kiu profesie sonorigas la preg^ejajn sonorilojn.
 sopor/o:【医】【PIV】Profunda konscio-manko, malpli profunda ol komato, kun resto de minimuma reago al doloro k parta vekebleco.

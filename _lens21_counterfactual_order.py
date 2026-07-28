@@ -187,6 +187,14 @@ for name, order in orders.items():
     csvHist = collections.Counter()
     allHist = collections.Counter()
     for isCSV, need, pure in words:
+        # ★2026-07-28 訂正(別AI監査の指摘が正しかった): 当初は need(漢字描画された形態素)だけを見て
+        #   「全部覚えたら完読」と数えていたが、それでは **ラテンのまま残る内容形態素を持つ語**まで
+        #   完読に算入してしまい、曲線が 100% に到達する見かけの上限が出ていた。
+        #   ラテン残りのある語はどの順序でも永久に完読できないので、分子から外し分母には残す。
+        #   → 真の天井は CSV2890語 2,831/2,832=99.96% / 全辞書語 50,044/52,079=96.1%。
+        #   順序間の比較は同じ母集団に対して行うので、**結論(節約語根数・逆転点・面積差)は不変**。
+        if not pure:
+            continue
         r = max(rank[s] for s in need)      # 最後に覚える語根の順位でその語が読めるようになる
         allHist[r] += 1
         if isCSV:

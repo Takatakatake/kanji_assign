@@ -242,7 +242,7 @@ $existing=@(
 # 新54(root,override,headwordForm,2nd義キーワード(amb判別用),note)
 $new=@(
  @('al','翼','al/o,helic/al/o,c^irkau^/al/a,frog/al/o,al/et/o,al/et/s^rau^b/ing/o','翼','翼(alo=翼/羽根)。前置詞al=向と別。複合語内al/o=翼も翼へ(helic/al/o=プロペラ羽根・c^irkau^/al/a=翼に囲まれた・frog/al/o=フログ翼部・al/et/o=蝶ナットのつまみ・al/et/s^rau^b/ing/o=蝶ねじ受け=aleto小翼。hsepはwhole-wordキーのため複合を明示列挙=2026-06-25 接尾辞悉皆監査WF・2026-07-04 aleto向誤適用是正)'),@('por','孔','por/o,por/a','孔','気孔。前置詞por=为と別'),@('sur','腿','sur/o','ふくらはぎ','ふくらはぎ。前置詞sur=上と別'),
- @('el','酒','el/o','エール','エール。前置詞el=出と別'),@('plum','笔','plum/o','ペン','ペン。plum=羽と同綴'),@('mat','将','mat/o,mat/i','詰','チェス詰み。mat=席と別行'),
+ @('el','酒','el/o','エール','エール。前置詞el=出と別'),@('plum','笔','plum/o','ペン','★§14.2.1で【羽に統一】と確定裁定済み(続6据置・続39撤回)。羽根→羽ペン→ペンは同一語の意味拡張で別語源ではない。本行はamb=注入非適用の履歴記録であり、笔を実現してよいという記録ではない。再提案不要'),@('mat','将','mat/o,mat/i','詰','チェス詰み。mat=席と別行'),
  @('pat','困','pat/o','手詰','ステールメイト。pat=锅と別行'),@('vat','瓦','vat/o,vat/hor/o','ワット','ワット。vat=棉と別行'),@('kanon','典','kanon/o,kanon/a','典','正典/カノン。kanon=炮と別行'),
  @('karp','腕','karp/o','手首','手根。karp=鲤と別行'),@('sakr','荐','sakr/o,sakr/a','仙骨','仙骨。sakr=骂と別'),@('deviz','汇','deviz/o','外貨','外貨。deviz=铭と同綴'),
  @('mark','币','mark/o','マルク','マルク。mark=标と別行'),@('lir','币','lir/o','リラ','リラ通貨。lir=琴と別行'),@('kron','币','kron/o','クローネ','クローネ。kron=冠と別行'),
@@ -264,7 +264,7 @@ $new=@(
  #   lup: 【植】ルピナス(=lupeno豆ᴸᴾ)が 狼/女(雌狼)になっていた / bat: debati(討論)が 从/打(たたき落とす)になっていた。
  @('lup','豆','lup/in/o','ルピナス','【植】ルピナス(lupino=(evi)=lupeno 豆ᴸᴾ)→豆。【動】雌狼 lup/in/o(Ino de lupo)は語釈非該当で 狼/女 を維持'),
  @('bat','辩','de/bat/i','討論','debati(PIV k7342 debat独立見出し=Oficiale diskuti)の bat 分節→辩。たたき落とす de/bat/i は語釈非該当で 打 を維持'),
- @('male','疫','male/o','鼻疽','馬鼻疽。male=锤ᴹᴸと別行'),@('sinus','弦','sinus/o','正弦','正弦sine。sinus=洞と別行'),
+ @('male','疫','male/o','鼻疽','馬鼻疽。male=锤ᴹᴸと別行'),@('sinus','弦','sinus/o','正弦','★§14.2.1で【洞ˢに統一】と確定裁定済み(続6据置・続40ユーザー裁定)。解剖の洞も数学の正弦も同じラテン語sinus(湾曲)由来。本行はamb=注入非適用の履歴記録であり、弦を実現してよいという記録ではない。再提案不要'),
  @('mung','草','mung/o,mung/id/oj','緑豆','緑豆(Vigna radiata=マメ科)+豆もやし→草(§4.6最近一级字)。動詞mung/i=擦鼻(洟をかむ)と別行(2026-06-26 全コーパス監査)'),@('sed','草','sed/o','マンネングサ','Sedum=ベンケイソウ科の観賞植物属→草。接続詞/動詞sed・sed/i=但と別行'),@('ke','鸟','ke/o','ケア','Nestor notabilis=ケア(NZのオウム,鳥)→鸟。接続詞ke=事と別行') )
 $rows=New-Object System.Collections.ArrayList
 [void]$rows.Add("segment`toverride`ttype`tdisc`tnote")

@@ -28764,7 +28764,7 @@ orkestr/i⟦乐ᴼ/i⟧:［他］管弦楽用に編曲する
 orkestrion/o:【楽】オーケストリオン（オーケストラ演奏を模倣する自動楽器）
 orkestr/o⟦乐ᴼ/o⟧:{Ｂ}【楽】オーケストラ,管弦楽団;（劇場の）オーケストラボックス
 orkide/o⟦兰ᴼᴱ/o⟧:{Ｏ}《般》【植】ラン（蘭）（科の総称）
-orkidit/o⟦兰炎/o⟧:【病】精巣炎,睾丸炎,=testikinflamo
+orkidit/o⟦丸炎/o⟧:【病】精巣炎,睾丸炎,=testikinflamo
 orkid/o⟦兰/o⟧:【植】ハクサンチドリ（属）,オルキス;【解】精巣,睾丸（こうがん）,=testiko
 ork/o⟦虎鲸/o⟧:【動】シャチ（鯱）（種）
 or/kolor/a⟦金/色/a⟧:金色の,黄金色の
@@ -52823,8 +52823,8 @@ Oris/i/o:【PIV】Unu el la s^tatoj de Hinda Unio (Bhubaneswar, 85°52′E, 20°
 oriz/o⟦草ᴼᴿ/o⟧:【植】【PIV】G. (Genro) (Oryza el poacoj) tropika de 18 sp-oj (specioj).
 orkestr/ad/o⟦乐ᴼ/行/o⟧:【PIV】Ago au^ arto orkestri.
 orkid/ac/oj⟦兰/科ᴬ/oj⟧:【植】【PIV】Fam. (Familio) (Orchidaceae) de plurjaraj, epifitaj au^ grundolog^aj herboj kun duseksaj (malofte unu-, esceptokaze sen-seksaj), epiginaj floroj, karakterizataj de 3 sepaloj ofte petalecaj, de 3 petaloj - la meza (Vd labelo) g^enerale pli granda ol la du flankaj -, de androceo (kun nur unu au^ du reproduktig^aj stamenoj; Vd retinaklo) kunig^inta kun la stiluso (Vd ginostemo) k de ovario 1-, malofte 3-kamera; kosmopolita fam. (familio) de c^. (c^irkau^) 18 500 sp-oj (specioj) el 788 g-oj (genroj), i.a. (interalie, inter aliaj) orkido, angreko, bletio, cipripedio, epidendro, katlejo, neotio, ofrio, spiranteso, vanilo. Sin. (sinonimo) orkideoj.
-orkidektomi/o⟦兰除/o⟧:【PIV】Fortranc^o de testiko.
-orkidoterapi/o⟦兰疗/o⟧:【PIV】Terapio per ekstraktoj el testikoj.
+orkidektomi/o⟦丸除/o⟧:【PIV】Fortranc^o de testiko.
+orkidoterapi/o⟦丸疗/o⟧:【PIV】Terapio per ekstraktoj el testikoj.
 Orleani/o:【PIV】Regiono c^irkau^ tiu urbo.
 orlon/o:【化】【PIV】Artefarita rezino, poliakrilonitrilo, uzata por fari lanosimilajn fadenojn por trikaj^oj, fibrojn por tapis^oj ks (kaj simile, kaj similaj). Vd nilono.
 orlop/o:【PIV】La plej malsupra ferdeko de kvarferdeka s^ipo.
@@ -52990,7 +52990,7 @@ pandemoni/o:【PIV】Log^ejo de c^iuj diabloj; (f (figurasence)) loko de senbrid
 Pandu/o:【PIV】Reg^o, kies filoj c^efrolas en la Mahabharato.
 Pang^ab/i/o:【PIV】Lando, trafluata de Induso, k dividita inter Hinda Unio k Pakistano (73°E, 31°N).
 panhas/o:【PIV】Rejnlanda k Vestfalia mang^aj^o, konsistanta el kolbasa brogaj^o kun fagopira faruno.
-paniklit/o⟦圆锥炎/o⟧:【医】【PIV】Inflamo de la paniklo 1.
+paniklit/o⟦脂炎/o⟧:【医】【PIV】Inflamo de la paniklo 1.
 pankraci/o⟦草ᴾᴬᴺ/o⟧:【PIV】= pankratio.
 pankrati/o⟦草ᴾᴷ/o⟧:【植】【PIV】G. (Genro) (Pancratium el amarilidacoj) de plurjaraj herboj kun tunika bulbo k kun densa umbelo el 3−15 blankaj floroj; 16 sp-oj (specioj) el la Mediteranea regiono, Kanarioj k Afriko, kelkaj pororname kultivataj.
 pankreat/a⟦胰/a⟧:【PIV】Rilata al la pankreato.
@@ -56123,7 +56123,7 @@ Tertulian/o:【PIV】N-Afrika kristana verkisto (S. Tertullianus, c^. (c^irkau^)
 Tespis/o:【PIV】Helena poeto, rigardata kiel kreinto de la teatro: la c^aro de Tespiso (c^aro de migranta trupo de aktoroj).
 testacel/o⟦贝ᵀˢ/o⟧:【動】【PIV】G. (Genro) (Testacella) de surteraj moluskoj el la klaso de gastropodoj, aspektantaj kiel limakoj, sed kun malgranda konko malantau^e sur la korpo, sin nutrantaj per tervermoj.
 testament/a⟦嘱/a⟧:【PIV】Rilata al testamento: testamentaj arang^oj, malpermesoj; testamenta interpretado; testamenta registrado.
-testikit/o⟦丸炎/o⟧:【医】【PIV】Orkidito.
+testikit/o⟦丸炎ᵀ/o⟧:【医】【PIV】Orkidito.
 testosteron/o:【生】【PIV】Hormono, produktata de la testikoj k efikanta precipe al la disvolvig^o de la virseksaj reproduktorganoj k de la sekundaraj virseksaj karakteroj.
 testud/ul/oj⟦龟/者/oj⟧:【動】【PIV】Ordo (Testudinata) de reptilioj, al kiu apartenas testudoj, kelonio k kareto k.a. (kaj aliaj)
 tetan/ig/i⟦强直/使/i⟧:【PIV】Estigi tetanon 1 c^e muskolo (pp (se paroli pri) fiziologia procezo, efiko de drogo ktp (kaj tiel plu)).
