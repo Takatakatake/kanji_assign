@@ -1,0 +1,71 @@
+非接地数	分節	層	単独接地率	合成接地率	例(見出し 字→訳語)
+40	ven	tier0_CSV2890	0.50	0.07	alt/e/de/ven/a 来→名門の | al/ven/punkt/o 来→到着点 | amas/kun/ven/o 来→大衆集会
+35	ric^	tier0_CSV2890	0.62	0.12	akv/a ric^/font/o 富→水資源 | dekoraci/ric^/a 富→大仕掛けな演出の | el/c^erp/ig^/o de ric^/font/oj 富→資源の枯渇
+31	kultur	tier0_CSV2890	0.71	0.03	abel/kultur/o 耕→（養蜂） | agr/o/kultur/ist/o 耕→農民, | agr/o/kultur/o 耕→農業,
+25	pov	tier0_CSV2890	0.86	0.19	ac^et/pov/o 能→購買力 | ag/a pov/um/o 能→有効電力 | c^eval/pov/o 能→馬力（仕事率の単位）
+25	brul	tier0_CSV2890	0.57	0.17	brul/alarm/il/o 燃→火災報知器 | brul/bomb/o 燃→焼夷弾（しょういだん） | brul/brun/ig/i 燃→きつね色にこがす
+23	font	tier0_CSV2890	0.50	0.12	akv/a ric^/font/o 泉→水資源 | altern/at/iv/a energi/font/o 泉→代替エネルギー源 | el/c^erp/ig^/o de ric^/font/oj 泉→資源の枯渇
+21	film	tier0_CSV2890	0.50	0.00	desegn/o/film/o 影→アニメーション映画,漫画映画 | dokument/a film/o 影→記録映画,ドキュメンタリー | dokument/film/o 影→記録映画,ドキュメンタリー
+19	ber	tier0_CSV2890	0.67	0.00	cidoni/ber/o 浆果→マルメロ（の実） | grapol/o de vin/ber/o 浆果→ぶどうの房 | gros/ber/o 浆果→グーズベリーの実,スグリの実,
+18	kav	tier0_CSV2890	0.75	0.00	aksel/kav/o 洞→腋窩（えきか） | bus^/a kav/o 洞→口腔（こうこう） | epi/gastr/a kav/o 洞→みずおち,みぞおち（鳩尾）
+18	aviad	tier0_CSV2890	0.50	0.05	amfibi/a aviad/il/o 航→水陸両用機 | aviad/il/akcident/o 航→飛行機事故 | batal/aviad/il/o 航→戦闘機,
+14	facil	tier0_CSV2890	0.60	0.00	facil/a akus^/o 易→安産 | facil/a dorm/o 易→浅い眠り | facil/a labor/o 易→軽労働
+13	konsum	tier0_CSV2890	0.75	0.07	amas/a konsum/ad/o 耗→大量消費 | amas/konsum/a 耗→大量消費の | amas/konsum/ad/o 耗→大量消費
+13	glit	tier0_CSV2890	1.00	0.13	flug/glit/i 滑→（空中にただよう） | glit/eksponent/a prezent/ad/o 滑→浮動小数点表記 | glit/fal/i 滑→すべって転ぶ
+13	krud	tier0_CSV2890	0.60	0.07	krud/a fort/o 粗→荒々しい力 | krud/a kau^c^uk/o 粗→生ゴム | krud/a kolor/o 粗→けばけばしい色
+12	pentr	tier0_CSV2890	0.50	0.08	abstrakt/a pentr/aj^/o 描→（個々の）抽象画（作品） | abstrakt/a pentr/o/art/o 描→（集合的に）抽象絵画,抽象画 | mar/pentr/aj^/o 描→海洋画
+12	central	tier0_CSV2890	1.00	0.00	akv/o/central/o 央→水力発電所 | akv/o/energi/a central/o 央→水力発電所 | atom/central/o 央→原子力発電所
+12	dik	tier0_CSV2890	0.71	0.20	dik/a fingr/o 厚→親指 | dik/a intest/o 厚→大腸 | dik/a liter/o 厚→太字
+11	fend	tier0_CSV2890	0.60	0.15	aer/fend/o 裂→空隙（くうげき）,エアギャップ | cel/fend/o 裂→（銃の）照門 | fal/fend/o 裂→断層
+11	kvartal	tier0_CSV2890	0.83	0.08	amuz/kvartal/o 区→歓楽街,盛り場, | centr/a kvartal/o 区→中心街 | dom/blok/a kvartal/o 区→住宅団地
+11	figur	tier0_CSV2890	0.67	0.08	bel/figur/a 形→姿のよい | c^ifon/figur/o 形→かかし（案山子） | figur/a senc/o 形→転義,比喩的意味,
+10	ordinar	tier0_CSV2890	0.75	0.09	ekster/ordinar/a bug^et/o 普→特別予算 | ekster/ordinar/a kun/ven/o 普→特別会合,臨時会合 | ekster/ordinar/a spert/o 普→並外れた経験
+10	esplor	tier0_CSV2890	0.55	0.17	epidemi/o/logi/a esplor/o 探→疫学的調査 | esplor/centr/o 探→研究機関,研究センター | esplor/kamp/o 探→研究分野
+9	galaksi	tier1_PEJVO本体	0.67	0.00	aktiv/a galaksi/o 星系→活動銀河 | elips/a galaksi/o 星系→楕円銀河 | galaksi/a amas/o 星系→銀河団
+9	mekanik	tier0_CSV2890	0.71	0.00	aplik/at/a mekanik/o 械→応用力学 | fluid/o/mekanik/o 械→流体力学, | klasik/a mekanik/o 械→古典力学
+9	mens	tier0_CSV2890	1.00	0.10	mens/a aktiv/ad/o 心→精神活動 | mens/ag^/o 心→精神年齢 | mens/a kalkul/ad/o 心→暗算
+8	kampanj	tier1_PEJVO本体	0.50	0.00	balot/kampanj/o 役→選挙運動 | elekt/o/kampanj/o 役→選挙運動 | gazet/kampanj/o 役→プレス・キャンペーン（新聞による世論喚起）
+8	brasik	tier0_CSV2890	0.50	0.00	blank/a brasik/o 菜→白キャベツ | brasik/ac/oj 菜→アブラナ科 | brasik/kap/o 菜→キャベツの頭
+8	kurier	tier1_PEJVO本体	1.00	0.11	kurier/a serv/o 信使→宅配便 | kurier/aviad/il/o 信使→郵便機 | kurier/kolomb/o 信使→伝書鳩,
+8	mani	tier0_CSV2890	0.60	0.20	kontrau^/mani/a medikament/o 狂→抗そう剤,気分安定剤 | mani/a depresi/o 狂→躁鬱病（そううつびょう） | megalo/mani/o 狂→誇大妄想
+7	bi	tier1_PEJVO本体	0.50	0.12	aer/o/bi/a 生→好気性の, | bi/gami/ul/o 二→重婚者 | bi/konkav/a 二→（両凹の）
+7	akcel	tier0_CSV2890	0.67	0.00	akcel/at/a mov/ad/o 促→加速度運動 | angul/a akcel/o 促→角加速度 | centripet/a akcel/o 促→向心加速度
+7	mes	tier1_PEJVO本体	1.00	0.00	alt/a mes/o 祭→大ミサ,盛式ミサ, meso | far/i mes/on 祭→ミサを行う | maten/mes/o 祭→朝のミサ,読誦ミサ
+7	infekt	tier0_CSV2890	1.00	0.12	des/infekt/ad/o 染→消毒, | des/infekt/aj^/o 染→消毒薬, | des/infekt/i 染→消毒する,
+7	lert	tier0_CSV2890	0.83	0.12	lert/a hom/o 巧→ホモ・ハビリス（最古のヒト属） | lert/a kat/o 巧→すばしこい猫 | lert/a kirurg/o 巧→腕のよい外科医
+6	prezid	tier0_CSV2890	0.50	0.00	ag^/o/prezid/ant/o 主→長老議長（集会などで最年長者が一時的に務める | honor/a prezid/ant/o 主→名誉会長 | prezid/ant/a balot/o 主→大統領選挙, elekto
+6	amator	tier0_CSV2890	1.00	0.00	amator/a fot/ist/o 好→アマチュア写真家 | amator/a radi/o 好→アマチュア無線 | amator/a teatr/o 好→アマチュア演劇
+6	skarab	tier1_PEJVO本体	0.50	0.00	bek/skarab/o 甲→ゾウムシ（類）,, | bombard/skarab/o 甲→ホソクビゴミムシ（類）,;（俗に）ヘッピリム | foli/skarab/o 甲→ハムシ（科，_Chrysomelidae_）
+6	cerv	tier0_CSV2890	0.75	0.14	cerv/ed/oj 鹿→シカ科 | cerv/o/c^as/o 鹿→しか狩 | cerv/o/hund/o 鹿→しか猟犬
+6	cilindr	tier1_PEJVO本体	0.67	0.00	cilindr/a kapacit/o 圆柱→シリンダー容積,排気量 | du/cilindr/a motor/o 圆柱→二気筒エンジン | ink/o/cilindr/o 圆柱→（印刷機の）インク・ローラー
+6	ink	tier0_CSV2890	0.50	0.00	ink/a kartoc^/o 墨→（万年筆などの）インクカートリッジ | ink/o/cilindr/o 墨→（印刷機の）インク・ローラー | ink/sorb/il/o 墨→吸取紙
+6	raz	tier0_CSV2890	0.50	0.00	elektr/a raz/il/o 剃→電気かみそり | kling/o de raz/il/o 剃→かみそりの刃 | raz/kap/ul/o 剃→スキンヘッド（反社会的思想を持つ坊主刈の若者
+6	gravur	tier1_PEJVO本体	0.67	0.14	fot/o/gravur/i 刻→写真製版する,グラビア印刷にする | fot/o/gravur/o 刻→写真製版術,写真凹版術,グラビア印刷 | kupr/o/gravur/aj^/o 刻→銅版画
+6	s^torm	tier0_CSV2890	0.67	0.14	furioz/a s^torm/o 暴→荒れ狂う嵐 | sabl/o/s^torm/o 暴→砂嵐 | s^torm/a tajd/o 暴→高潮（たかしお）
+6	gravit	tier1_PEJVO本体	0.67	0.14	gravit/a akcel/o 引→重力加速度 | gravit/a kamp/o 引→重力場 | gravit/a konstant/o 引→重力定数
+6	tuber	tier0_CSV2890	0.67	0.00	har/tuber/o 隆→まげ（髷）;巻き髪,シニョン | lig/o/tuber/o 隆→結び目,結節 | tiroid/a tuber/o 隆→甲状腺結節
+6	lamen	tier0_CSV2890	0.83	0.00	lamen/a flu/o 片→層流 | lamen/fung/o 片→マッシュルームなどハラタケ科のキノコの総称 | lamen/instrument/o 片→リード楽器,
+6	praktik	tier0_CSV2890	0.50	0.00	praktik/a demand/o 践→実際問題 | praktik/a ekzamen/o 践→実地試験 | praktik/a ekzerc/o 践→実習,演習
+6	van	tier0_CSV2890	0.50	0.00	van/a el/spez/o 徒→浪費,無駄遣い | van/a esper/o 徒→むなしい希望,はかない望み | van/a parti/o 徒→（チェスの）引き分け,ドロー
+6	virtual	tier1_PEJVO本体	1.00	0.14	virtual/a adres/o 虚→仮想アドレス | virtual/a aparat/o 虚→仮想デバイス | virtual/a labor/o 虚→仮想仕事
+5	g^ust	tier0_CSV2890	0.71	0.17	g^ust/a esprim/o 正→適切な表現 | g^ust/a horlog^/o 正→狂いのない時計 | g^ust/a/temp/a 正→時機を得た
+5	arang^	tier0_CSV2890	0.60	0.17	bankrot/arang^/o 整→強制和議 | skvam/arang^/a 整→うろこ状に重なり合った | teks/arang^/o 整→（織物の）織り方,織り目
+5	cistern	tier1_PEJVO本体	1.00	0.00	benzin/cistern/o 池→ガソリンタンク（貯蔵用） | cistern/o/kamion/o 池→タンクローリー,タンク車 | cistern/o/vagon/o 池→タンク車
+5	brigad	tier1_PEJVO本体	0.67	0.00	fajr/o/brigad/an/o 旅→消防隊員,消防士, | fajr/o/brigad/ist/o 旅→消防士,消防隊員, | fajr/o/brigad/o 旅→消防隊
+5	muk	tier1_PEJVO本体	0.75	0.17	c^el/muk/o 粘→原形質, | naz/muk/o 粘→鼻汁,鼻水 | naz/muk/ul/o 粘→はなたれ小僧
+5	komenc	tier0_CSV2890	0.69	0.00	komenc/a kondic^/o 始→初期条件 | komenc/a rapid/o 始→初速度 | milit/komenc/o 始→開戦
+5	sond	tier1_PEJVO本体	0.67	0.17	eh^/o/sond/il/o 探→音響測深器 | opini/sond/o 探→世論調査, | plumb/o/sond/il/o 探→測鉛
+5	fikci	tier0_CSV2890	0.67	0.00	fikci/a hero/o 虚→空想の英雄 | fikci/a kont/o 虚→架空口座 | scienc/a fikci/o 虚→空想科学;空想科学小説,サイエンスフィクショ
+5	societ	tier0_CSV2890	1.00	0.17	fond/i societ/on 社→会を設立する | kooper/a societ/o 社→（協同組合） | likvid/i societ/on 社→会を解散する
+5	intermit	tier1_PEJVO本体	0.75	0.00	intermit/a febr/o 断→間欠熱 | intermit/a font/o 断→間欠泉 | intermit/a g^ir/lum/o 断→（点滅式の）方向指示器,ウインカー
+5	vand	tier1_PEJVO本体	1.00	0.00	lign/a vand/o 隔→板壁（間仕切り） | rok/vand/o 隔→岩壁 | vand/o de c^ambr/o 隔→部屋の仕切り壁
+5	net	tier0_CSV2890	1.00	0.00	net/a pez/o 清→正味重量 | net/a prez/o 清→正価 | net/a profit/o 清→純益
+5	origin	tier0_CSV2890	0.75	0.00	origin/a form/o 源→原形 | origin/aj log^/ant/oj 源→（移住者に対して）原住民 | origin/a pek/o 源→（la 〜）原罪,
+4	ekvivalent	tier1_PEJVO本体	1.00	0.20	akv/a ekvivalent/o 等→水当量 | doz/ekvivalent/o 等→線量当量 | kemi/a ekvivalent/o 等→化学当量
+4	takt	tier0_CSV2890	0.86	0.20	takt/o/baston/o 拍→指揮棒 | takt/o/plen/a 拍→機転の利く,如才のない | takt/o/plen/e 拍→機転を利かせて,如才なく
+4	gorg^	tier0_CSV2890	0.50	0.20	gorg^/dolor/o 喉→のどの痛み | gorg^/o/s^irm/il/o 喉→（甲冑の）のど当て | plen/gorg^/e 喉→大声で
+4	kamer	tier1_PEJVO本体	1.00	0.20	gastr/o/kamer/o 室→胃カメラ | jon/ig/a kamer/o 室→電離箱 | lift/kamer/o 室→（エレベーターの）昇降かご
+4	rigid	tier0_CSV2890	0.71	0.20	rigid/a korp/o 硬→剛体 | rigid/a s^ultr/o 硬→肩こり | rigid/mien/a 硬→こわばった顔つきの
+4	likvid	tier1_PEJVO本体	0.83	0.20	likvid/i entrepren/on 清→事業を整理する | likvid/i hered/aj^/on 清→遺産を処分する | likvid/i societ/on 清→会を解散する
+4	pent	tier0_CSV2890	1.00	0.20	pent/o/c^emiz/o 悔→シリス,苦行衣（修道僧が着た硬い毛織りのシャ | pent/o/far/ant/o 悔→贖罪者（しょくざいしゃ） | pent/o/far/o 悔→贖罪（しょくざい）
+4	ran	tier0_CSV2890	1.00	0.20	ran/ed/oj 蛙→アカガエル科 | ran/hom/o 蛙→フロッグマン,潜水工作員 | ran/mord/o 蛙→トチカガミ（水鼈）（浮遊性の水草）
