@@ -330,6 +330,13 @@ for a, b in E_unres:
     kind = syn_kind(a, b)
     (E_syn if kind else E_amb).append((a, b, kind))
 
+# ★2026-07-29 精密化: 同義フィルタは当初 類型1 にしか掛けていなかったが、
+#   転置・高重複にも同義対が混じる。cerb/et/o⟦脑/小/o⟧ の語釈には文字どおり
+#   「=cerebelo」と書いてあり、cerebel/o⟦小脑/o⟧ との転置は **同じ語の2通りの描画** で無害。
+#   3類型に同じ基準を適用しないと、転置・高重複だけ過大に数えることになる。
+T_risk = [(a, b) for a, b in T_arb if not syn_kind(a, b)]
+N_risk = [(a, b) for a, b in N_arb if not syn_kind(a, b)]
+
 print("\n" + "=" * 100)
 print("■ 3つの混同類型(全体)")
 print("   類型1 完全衝突      %6d 対  → 識別子で解決済み %d 対 / 未解決 %d 対"
@@ -344,8 +351,10 @@ print("        レキシーム単位で見ると: 漢字列だけでは %s 件(%
 print("        識別子を付けた正式な面では %s 件(%.2f%%)だけが残る" % (format(_b2, ','), 100.0 * _b2 / len(keys_all)))
 print("        未解決 %d 対の内訳: 同義で無害 %d 対 / **異義の可能性 %d 対**"
       % (len(E_unres), len(E_syn), len(E_amb)))
-print("   類型2 転置衝突      %6d 対  うち形態素を共有しない(恣意的) %d 対" % (len(T), len(T_arb)))
-print("   類型3 高重複近傍    %6d 対  うち形態素を共有しない(恣意的) %d 対" % (len(N), len(N_arb)))
+print("   類型2 転置衝突      %6d 対  恣意的 %d 対 → **同義を除いた要注意 %d 対**"
+      % (len(T), len(T_arb), len(T_risk)))
+print("   類型3 高重複近傍    %6d 対  恣意的 %d 対 → **同義を除いた要注意 %d 対**"
+      % (len(N), len(N_arb), len(N_risk)))
 print("        (1字違い・長さ3以上=2/3以上共有。2字語どうしの1字違いは共有率50%で")
 print("         CJKでは実用上区別できるため危険とみなさない。参考値は後段)")
 
@@ -358,7 +367,7 @@ for k in keys:
     n2[pure[k]['tier']] += 1
 hit = {'amb': collections.defaultdict(set), 'transp': collections.defaultdict(set),
        'near': collections.defaultdict(set)}
-for nm, pairs in (('amb', [(a, b) for a, b, _ in E_amb]), ('transp', T_arb), ('near', N_arb)):
+for nm, pairs in (('amb', [(a, b) for a, b, _ in E_amb]), ('transp', T_risk), ('near', N_risk)):
     for a, b in pairs:
         hit[nm][pure[a]['tier']].add(a)
         hit[nm][pure[b]['tier']].add(b)
@@ -427,17 +436,19 @@ for _ in range(TRIALS):
         if len(sf[k]) >= 2:
             ok.append(k)
     rE, rT, rN = analyze_surface(ok, sf, keys_exact=okA)
+    # ★同義フィルタは実際側と同じ基準で掛ける(syn_kind は語釈に依存し面には依存しないので
+    #   入れ替え後の面にもそのまま適用できる)。片側だけ掛けると比が不当に有利になる。
     acc['E'] += len(rE)
-    acc['T'] += len([p for p in rT if not share_morph(*p)])
-    acc['N'] += len([p for p in rN if not share_morph(*p)])
+    acc['T'] += len([p for p in rT if not share_morph(*p) and not syn_kind(*p)])
+    acc['N'] += len([p for p in rN if not share_morph(*p) and not syn_kind(*p)])
 print("\n■【対照B】形態素→漢字列を長さ保存で無作為に入れ替えた面(%d回平均・識別子なし)" % TRIALS)
 print("   %-16s %12s %12s" % ("", "実際", "無作為"))
 print("   %-16s %12d %12.0f  → 実際は %.2f 倍" % ("完全衝突", len(E), acc['E'] / TRIALS,
                                                 len(E) / max(1.0, acc['E'] / TRIALS)))
-print("   %-16s %12d %12.0f  → 実際は %.2f 倍" % ("恣意的な転置", len(T_arb), acc['T'] / TRIALS,
-                                                len(T_arb) / max(1.0, acc['T'] / TRIALS)))
-print("   %-16s %12d %12.0f  → 実際は %.2f 倍" % ("恣意的な高重複", len(N_arb), acc['N'] / TRIALS,
-                                                len(N_arb) / max(1.0, acc['N'] / TRIALS)))
+print("   %-16s %12d %12.0f  → 実際は %.2f 倍" % ("要注意な転置", len(T_risk), acc['T'] / TRIALS,
+                                                len(T_risk) / max(1.0, acc['T'] / TRIALS)))
+print("   %-16s %12d %12.0f  → 実際は %.2f 倍" % ("要注意な高重複", len(N_risk), acc['N'] / TRIALS,
+                                                len(N_risk) / max(1.0, acc['N'] / TRIALS)))
 
 # ---------- 7. 参考値: 2字語どうしの1字違い ----------
 two = [k for k in keys if len(surf[k]) == 2]
@@ -456,7 +467,7 @@ print("   これを危険に数えると数値が10万対規模に膨らむが�
 # ---------- 8. 書き出し ----------
 rows = []
 for nm, pairs in (('完全衝突(異義)', [(a, b) for a, b, _ in E_amb]),
-                  ('転置(恣意的)', T_arb), ('高重複(恣意的)', N_arb)):
+                  ('転置(要注意)', T_risk), ('高重複(要注意)', N_risk)):
     for a, b in pairs:
         ta, tb = pure[a]['tier'], pure[b]['tier']
         rows.append((max(ta, tb), min(ta, tb), nm, TN[ta], pure[a]['sample'], surf_full[a],
@@ -498,8 +509,10 @@ with io.open("_lens23_near_collision.tsv", 'w', encoding='utf-8', newline='') as
     f.write("全体\t類型1_未解決かつ異義_対\t%d\n" % len(E_amb))
     f.write("全体\t類型2_転置衝突_対\t%d\n" % len(T))
     f.write("全体\t類型2_恣意的_対\t%d\n" % len(T_arb))
+    f.write("全体\t類型2_要注意(同義除く)_対\t%d\n" % len(T_risk))
     f.write("全体\t類型3_高重複近傍_対\t%d\n" % len(N))
     f.write("全体\t類型3_恣意的_対\t%d\n" % len(N_arb))
+    f.write("全体\t類型3_要注意(同義除く)_対\t%d\n" % len(N_risk))
     for t in (0, 1, 2, 3):
         if nA[t]:
             m = max(1, n2[t])
