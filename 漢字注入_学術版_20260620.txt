@@ -61459,7 +61459,7 @@ kolapsoterapi/o⟦崩疗/o⟧:【PIV】(ark. (arkaismo, arkaisme)) Tuto de la te
 konvulsiterapi/o⟦抽风疗/o⟧:【PIV】Traktado de diversaj psikozoj per konvulsiaj s^okoj.
 kortikoterapi/o⟦皮疗/o⟧:【PIV】Terapio per kortikosteroidoj (kortizono k parencaj hormonoj k iliaj derivaj^oj).
 kortizonterapi/o:【PIV】Terapio per kortikosteroidoj (kortizono k parencaj hormonoj k iliaj derivaj^oj).
-kuriterapi/o⟦廷疗/o⟧:【PIV】(ark. (arkaismo, arkaisme)) Terapio per radiumo k artefaritaj radioelementoj.
+kuriterapi/o⟦kuri疗/o⟧:【PIV】(ark. (arkaismo, arkaisme)) Terapio per radiumo k artefaritaj radioelementoj.
 lumterapi/o⟦光疗/o⟧:【PIV】Foto terapio.
 mekanikoterapi/o⟦械疗ᴹᴷ/o⟧:【PIV】Uzo de specialaj mekanikaj aparatoj por kuracocele movi la artikojn ktp (kaj tiel plu).
 ozonterapi/o⟦臭氧疗/o⟧:【PIV】Terapio per miksaj^o el oksigeno k ozono.
