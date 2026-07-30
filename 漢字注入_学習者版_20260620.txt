@@ -47691,7 +47691,7 @@ fenik/o⟦木ᶠᴺ/o⟧:【植】【PIV】G. (Genro) (Phoenix el arekacoj) de d
 fenik/ac/oj⟦木ᶠᴺ/科ᴬ/oj⟧:【PIV】(Phoenicaceae) = arekacoj.
 fenikur/o⟦鸟ᶠᴺ/o⟧:【動】【PIV】G. (Genro) (Phoenicurus) de birdoj el la ordo de paseroformaj, fam. (familio) de turdedoj, kun rustrug^a vosto k vigla kanto. Sin. (sinonimo) rug^vostulo.
 fenotiazin/o:【PIV】(kn (kolektiva nomo)) Neu^rolepta medikamento, uzata i.a. (interalie, inter aliaj) kontrau^ nervo-k psiko-malsanoj pro ecoj anti-ekscitaj, -maniaj, -deliraj k -angoraj.
-fen/o/tip/o⟦现ᶠᴱ/o/型/o⟧:【生】【PIV】Tuto au^ parto de la videblaj au^ konstateblaj karakteroj de individuo, kiuj rezultas el la interago inter g^ia genaro k la medio. Vd diatezo, genotipo, heredo, temperamento.##偽分解
+fen/o/tip/o⟦现ᶠᴱ/o/型/o⟧:【生】【PIV】Tuto au^ parto de la videblaj au^ konstateblaj karakteroj de individuo, kiuj rezultas el la interago inter g^ia genaro k la medio. Vd diatezo, genotipo, heredo, temperamento.##偽分解##過細分解 f/e/n/o/tip/o
 fenugrek/o⟦豆ᶠᴺ/o⟧:【植】【PIV】Sp. (Specio) de trigonelo (Trigonella foenum-graecum el fabacoj), unujara herbo sekastate forte aroma, kun blankaj au^ flavete blankaj floroj unu-au^ du-opaj; hejma en S Eu^ropo, U Azio k N Afriko, kultivata por furag^o k por semoj medicine uzataj.
 feofit/oj:【植】【PIV】Filumo (Phaeophyta) de multac^elaj brunalgoj tre diversformaj sed g^enerale grandaj; c^. (c^irkau^) 1 500 sp-oj (specioj) el c^. (c^irkau^) 250 g-oj (genroj), i.a. (interalie, inter aliaj) fuko, laminario. Vd fukoficoj, kromistoj.
 feofitin/o:【化】【PIV】Malkombinig^a produkto de klorofilo, sen magnezio, sen fotosintezaj ecoj c^e la klorofilohavaj vegetaj^oj: alfafeofitino, C 55 H 74 N 4 O 5; betafeofitino, C 55 H 72 N 4 O 6.
@@ -57385,8 +57385,8 @@ trake/o/plant/oj⟦气管/o/植/oj⟧:【植】【PIV】Vaskul plantoj.
 tri/kuspid/a⟦三/尖ᴷ/a⟧:【医】【PIV】Havanta tri kuspidojn: trikuspida valvo (Sin. (sinonimo) dekstra atrio-ventrikla valvo); trikuspida nesufic^eco. Vd mitra 2.
 tri/ploid/a⟦三/倍ᴾ/a⟧:【PIV】(pp (se paroli pri) nukleo) Kun 3-n kromosomoj, ktp (kaj tiel plu) (Vd (vidu) duploida).
 turbid/tavol/o⟦浊/层ᵀ/o⟧:【PIV】Vd (vidu) turbido.
-ur/gener/a⟦尿ᵁᴿ/生ᴳᴿ/a⟧:【解】【PIV】Rilata k al la genera k al la urina aparatoj.
-uro/gener/a⟦尿ᵁᴼ/生ᴳᴿ/a⟧:【解】【PIV】Rilata k al la genera k al la urina aparatoj.
+ur/gener/a⟦尿ᵁᴿ/生ᴳᴿ/a⟧:【解】【PIV】Rilata k al la genera k al la urina aparatoj.##偽分解##強語根分解##過細分解 u/r/gener/a
+uro/gener/a⟦尿ᵁᴼ/生ᴳᴿ/a⟧:【解】【PIV】Rilata k al la genera k al la urina aparatoj.##偽分解##強語根分解
 ured/o/spor/o⟦锈ᵁ/o/胞子/o⟧:【PIV】Vd (vidu) uredo.
 vet/ofic/ej/o⟦赌/职/所/o⟧:【PIV】S^tata oficejo, kiu en kelkaj landoj anstatau^as la vetperistojn.
 vin/ber/branc^/o⟦酒/浆果/枝/o⟧:【PIV】Vd (vidu) vino.

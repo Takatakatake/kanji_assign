@@ -1,0 +1,7 @@
+区分	指標	コーパス	ρ	件数	母数
+相関	Unified_Level	A_ユーザー原文(実文)	-0.540	719	2793
+相関	F_negated	A_ユーザー原文(実文)	-0.356	2747	2747
+相関	Unified_Level	B_PIV用例句	-0.754	2775	2793
+相関	F_negated	B_PIV用例句	-0.741	2747	2747
+相関	Unified_Level	A+B(=実質B)	-0.758	2775	2793
+相関	F_negated	A+B(=実質B)	-0.741	2747	2747

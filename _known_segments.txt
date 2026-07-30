@@ -19813,6 +19813,7 @@ ureter
 uretr
 ureus
 urg^
+urgener
 uri
 urin
 urinat
@@ -19825,6 +19826,7 @@ urn
 uro
 urodel
 urogal
+urogener
 urografi
 urolog
 urologi
@@ -121831,7 +121833,6 @@ H	学術	upas/arb/o
 H	学術	upas/o
 H	学術	upup/ed/oj
 H	学術	upup/o
-H	学術	ur/gener/a
 H	学術	ur/o
 H	学術	uragan/a
 H	学術	uragan/i
@@ -121924,7 +121925,6 @@ H	学術	urinometr/o
 H	学術	urinoskopi/o
 H	学術	urli/o
 H	学術	urn/o
-H	学術	uro/gener/a
 H	学術	urogal/o
 H	学術	urografi/o
 H	学術	urolog/o

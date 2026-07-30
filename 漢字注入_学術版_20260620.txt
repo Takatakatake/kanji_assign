@@ -57385,8 +57385,8 @@ trake/o/plant/oj⟦气管/o/植/oj⟧:【植】【PIV】Vaskul plantoj.
 tri/kuspid/a⟦三/尖ᴷ/a⟧:【医】【PIV】Havanta tri kuspidojn: trikuspida valvo (Sin. (sinonimo) dekstra atrio-ventrikla valvo); trikuspida nesufic^eco. Vd mitra 2.
 tri/ploid/a⟦三/倍ᴾ/a⟧:【PIV】(pp (se paroli pri) nukleo) Kun 3-n kromosomoj, ktp (kaj tiel plu) (Vd (vidu) duploida).
 turbid/tavol/o⟦浊/层ᵀ/o⟧:【PIV】Vd (vidu) turbido.
-ur/gener/a⟦尿ᵁᴿ/生ᴳᴿ/a⟧:【解】【PIV】Rilata k al la genera k al la urina aparatoj.
-uro/gener/a⟦尿ᵁᴼ/生ᴳᴿ/a⟧:【解】【PIV】Rilata k al la genera k al la urina aparatoj.
+urgener/a:【解】【PIV】Rilata k al la genera k al la urina aparatoj.
+urogener/a:【解】【PIV】Rilata k al la genera k al la urina aparatoj.
 ured/o/spor/o⟦锈ᵁ/o/胞子/o⟧:【PIV】Vd (vidu) uredo.
 vet/ofic/ej/o⟦赌/职/所/o⟧:【PIV】S^tata oficejo, kiu en kelkaj landoj anstatau^as la vetperistojn.
 vin/ber/branc^/o⟦酒/浆果/枝/o⟧:【PIV】Vd (vidu) vino.
