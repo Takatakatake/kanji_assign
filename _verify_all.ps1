@@ -157,6 +157,23 @@ foreach($ln in ($tc -split "`r?`n")){ if($ln -match '^\[N\]' -or $ln -match '^\s
 if($tc -notmatch '\[N\]'){ Say "[N] トークン出典被覆: 実行不可(要 python + _audit_token_coverage.py)"; $fail=1 }
 elseif($tc -match '!!'){ $fail=1 }
 
+# --- [O] 版間ラテン維持センチネル(2026-07-30 続54で新設) ---
+# 確定裁定が **片方の版にしか届かない** 事故が2度起きている:
+#   続49 orkid/panikl 4件 … §14.2.1 の裁定が学術版whole-root master に未反映
+#   続53 kuriterapi 1件  … 語釈gated規則は分節 kuri には届くが学術版の融合語根には原理的に届かず
+#                          学術版だけ 廷疗(廷はCuria専用)のまま6日間残っていた
+# [A]は原本との一致・[F]は偽分解の整合・[J]は描画の衝突・[K]は新規露出しか見ないので、
+# **版間で片方だけ漢字が付いている状態**はどの検査の視野にも入っていなかった。
+# 「学術版の融合分節に漢字があり、それが覆う学習者版分節にラテンのままのものがある」箇所を
+# 全数抽出し、受理台帳 _known_latin_sentinel.txt に無いものだけを ★新規 として報告する。
+# 受理済84件は融合語根の正当な全体割当(urat=尿酸盐/dentin=齿质/penicilin=青霉素/procent=率 等)で、
+# §4.6 が版間の粒度差を明示的に許容し klement(続16 ユーザー裁定A案)の前例どおり揃えない。
+# 直し方: 内容を点検して正当と確認できたら python _audit_latin_sentinel_crossversion.py --accept
+$ls = & python "$dir\_audit_latin_sentinel_crossversion.py" *>&1 | Out-String
+foreach($ln in ($ls -split "`r?`n")){ if($ln -match '^\[O\]' -or $ln -match '^\s+★' -or $ln -match '^\s+!!' -or $ln -match '^\s+\(参考\)'){ Say $ln } }
+if($ls -notmatch '\[O\]'){ Say "[O] 版間ラテン維持: 実行不可(要 python + _audit_latin_sentinel_crossversion.py)"; $fail=1 }
+elseif($ls -match '!!'){ $fail=1 }
+
 # --- 総括 ---
 $verdict='全PASS(健全・同期も最新)'
 if($fail -ne 0){ $verdict='要対応(ハード違反あり)' } elseif($drift -ne 0){ $verdict='不変条件PASSだが WSL再同期推奨' } elseif($newInc -ne '0' -and $newInc -ne '?'){ $verdict='不変条件PASSだが 新規偽分解不整合の点検推奨' }

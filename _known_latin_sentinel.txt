@@ -1,0 +1,96 @@
+# [O] 版間ラテン維持センチネル監査 受理台帳。
+# 列: 見出し語<TAB>学習者版でラテンのまま残る分節<TAB>学術版が当てている漢字(識別子除去)
+#
+# ここにある行は「融合語根に独自の全体割当がある正当な粒度差」として受理済み。
+# §4.6 が版間の粒度差を明示的に許容しており、klement(続16 ユーザー裁定A案)の
+# 前例どおり **揃えない** のが方針。infrarug^=红外 / papilom=乳头瘤 / procent=率 の類。
+#
+# 台帳に無い行が現れたら [O] が ★新規 として報告する。**確定裁定(方針書§14.2.1)で
+# ラテン維持と決めた語根に学術版だけ漢字が付いていないか** を必ず確認すること。
+# 実例(続53): kuriterapi が 廷疗 と描かれていた(廷はCuria専用でCurie義に使えない)。
+# 点検後に python _audit_latin_sentinel_crossversion.py --accept で更新する。
+# 無条件に更新しないこと(確定裁定違反の見落としに直結する)。
+anodonto	odont	贝
+biliono	lion	兆
+dentino	in	齿质
+diodonto	odont	鱼
+diskontaprocento	pro	率
+ditionato	tion	二硫
+duonduto	t	二度
+duto	t	二度
+dutonaleco	al	调
+efedrino	in	麻黄碱
+ekzoftalmia	ekz	凸眼
+ekzoftalmio	ekz	凸眼
+eritropoezino	in	红生素
+erudito	erud	博
+fibrino	in	纤蛋白
+fibrinogeno	in	纤蛋白生
+flavino	in	黄
+glikolo	ol	醇
+globino	in	珠蛋白
+gonadostimulino	in	激素
+granulomozo	om	粒瘤
+hemolizino	in	解
+heteroglobino	in	珠蛋白
+homeopatia	homeo	顺势
+homeopatio	homeo	顺势
+infrarug^a	infra	红外
+infrarug^ajradioj	infra	红外
+interezprocento	pro	率
+klementino	in	木
+klementino	klement	木
+kordakvarteto	tet	四重
+kvarteto	tet	四重
+laktoflavino	in	黄
+limfangiomo	om	血管瘤
+maj^oratonalo	al	调
+metakarpeo	karpe	掌骨
+metilglikolo	ol	醇
+minoratonalo	al	调
+mioglobino	in	珠蛋白
+multtonaleco	al	调
+muskolglobino	in	珠蛋白
+netonala	al	调
+okto	t	八度
+papilomo	papil	乳头瘤
+papilomozo	om	乳头瘤
+papilomozo	papil	乳头瘤
+paramagneta	para	顺磁
+paramagnetakorpo	para	顺磁
+paramagnetismo	para	顺磁
+penicilino	in	青霉素
+penicilinoterapio	in	青霉素疗
+pentametilenglikolo	ol	醇
+plenduto	t	二度
+procentege	pro	率
+procentegisto	pro	率
+procentego	pro	率
+procento	pro	率
+prognata	gnat	凸
+prognateco	gnat	凸
+pseu^doefedrino	in	麻黄碱
+pteranodonto	odont	龙
+riboflavino	in	黄
+riparprocento	pro	率
+sangoglobino	in	珠蛋白
+sentonala	al	调
+sporotrikumo	um	菌
+stimulino	in	激素
+taoismano	ta	道主义
+taoismo	ta	道主义
+terapeu^tika	terapeu^t	疗
+terapeu^tiko	terapeu^t	疗
+tetrationato	tion	四硫
+tiroidstimulino	in	激素
+tonala	al	调
+tonaleco	al	调
+tonalo	al	调
+tuberkulinaekzameno	in	结核素
+tuberkulinareakcio	in	结核素
+tuberkulinizado	in	结核素
+tuberkulino	in	结核素
+uratemio	ur	尿酸盐血
+urato	ur	尿酸盐
+vegetaj^afibrino	in	纤蛋白
+vitrodentino	in	齿质
