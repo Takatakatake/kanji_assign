@@ -34457,8 +34457,8 @@ rom/a cifer/o⟦rom/a 数ᶜ/o⟧:ローマ数字
 rom/a jur/o⟦rom/a 法/o⟧:【法】ローマ法
 Rom/a kamomil/o⟦Rom/a 甘菊/o⟧:【植】ローマカミルレ（_Anthemis nobilis_）
 roman/a⟦小说/a⟧:小説の
-roman/a⟦小说/a⟧:ローマ人の##偽分解(衝突語)
-roman/a cifer/o⟦小说/a 数ᶜ/o⟧:=>roma cifero（ローマ数字）##偽分解(衝突語)
+roman/a:ローマ人の##偽分解(衝突語)
+roman/a cifer/o⟦roman/a 数ᶜ/o⟧:=>roma cifero（ローマ数字）##偽分解(衝突語)
 romanc/o⟦曲ᴿ/o⟧:{Ｏ}【楽】ロマンス（叙情的な歌曲）
 romanc^/a lingv/o⟦romanc^/a 语/o⟧:（la 〜）ロマンシュ語（スイス）
 romanc^/o:ロマンシュ人（スイス）
@@ -34470,7 +34470,7 @@ romanik/stil/a⟦romanik/风ˢ/a⟧:ロマネスク様式の
 Roman/i/o:=>Romio（ローマ帝国）##偽分解
 roman/ist/o⟦小说/家/o⟧:小説家,ロマン作家
 roman/o⟦小说/o⟧:{Ｂ}小説,長編小説,ロマン;【史】ロマンス（中世の騎士物語）
-roman/o⟦小说/o⟧:【史】ローマ人;ローマ市民##偽分解(衝突語)
+roman/o:【史】ローマ人;ローマ市民##偽分解(衝突語)
 Roman/o pri la Tri Regn/oj⟦Roman/o 于 la Tri Regn/oj⟧:【文】『三国志演義』（中国の長編小説）
 romantik/a⟦浪漫/a⟧:{Ｏ}ロマン主義の,ロマン派の;ロマンチックな
 romantik/ism/o⟦浪漫/主义/o⟧:ロマン主義
