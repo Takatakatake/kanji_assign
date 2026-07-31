@@ -8489,8 +8489,8 @@ eks/reg^/o⟦旧/王/o⟧:先王
 eks/sklav/o⟦旧/奴/o⟧:解放奴隷
 eks/social/ism/a land/o⟦旧/社ˢᴸ/主义/a 国/o⟧:旧社会主義国
 eks/soldat/o⟦旧/兵/o⟧:退役軍人,>>veterano
-eks/sovet/i/a⟦旧/sovet/i/a⟧:旧ソ連の
-eks/sovet/i/aj land/oj⟦旧/sovet/i/aj 国/oj⟧:旧ソ連諸国
+eks/sovet/i/a⟦旧/sovet/i/a⟧:旧ソ連の##偽分解
+eks/sovet/i/aj land/oj⟦旧/sovet/i/aj 国/oj⟧:旧ソ連諸国##偽分解
 ek/star/i⟦始/立/i⟧:（急に）立ち上がる,>>starig^i
 ekstaz/a⟦醉ᴱᴷ/a⟧:うっとりとした,有頂天になった
 ekstaz/i⟦醉ᴱᴷ/i⟧:［自］うっとりしている
@@ -31446,7 +31446,7 @@ post/sin/kron/ig/o⟦后/共ˢ/时ᴷ/使/o⟧:【映】アフレコ##偽分解#
 post/skrib/o⟦后/书ˢ/o⟧:あとがき;（手紙の）追伸
 post/son/i⟦后/声/i⟧:［自］響く,=sonori
 post/sonor/o⟦后/响/o⟧:【理】残響
-post/sovet/i/a⟦后/sovet/i/a⟧:ソ連以後の
+post/sovet/i/a⟦后/sovet/i/a⟧:ソ連以後の##偽分解
 post/stri/o⟦后/条/o⟧:（船の）航跡;（流星の）尾;（筋状の）痕跡
 post/tag/mez/a dorm/et/o⟦后/日/中/a 睡/小/o⟧:午睡,昼寝
 post/tag/mez/e⟦后/日/中/e⟧:午後に

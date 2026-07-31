@@ -8489,8 +8489,8 @@ eks/reg^/o:先王
 eks/sklav/o:解放奴隷
 eks/social/ism/a land/o:旧社会主義国
 eks/soldat/o:退役軍人,>>veterano
-eks/sovet/i/a:旧ソ連の
-eks/sovet/i/aj land/oj:旧ソ連諸国
+eks/sovet/i/a:旧ソ連の##偽分解
+eks/sovet/i/aj land/oj:旧ソ連諸国##偽分解
 ek/star/i:（急に）立ち上がる,>>starig^i
 ekstaz/a:うっとりとした,有頂天になった
 ekstaz/i:［自］うっとりしている
@@ -31446,7 +31446,7 @@ post/sin/kron/ig/o:【映】アフレコ##偽分解##過細分解 post/s/i/n/k/r
 post/skrib/o:あとがき;（手紙の）追伸
 post/son/i:［自］響く,=sonori
 post/sonor/o:【理】残響
-post/sovet/i/a:ソ連以後の
+post/sovet/i/a:ソ連以後の##偽分解
 post/stri/o:（船の）航跡;（流星の）尾;（筋状の）痕跡
 post/tag/mez/a dorm/et/o:午睡,昼寝
 post/tag/mez/e:午後に
