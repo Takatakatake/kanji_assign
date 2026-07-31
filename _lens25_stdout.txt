@@ -1,0 +1,175 @@
+﻿sidecar 語根 = 10397 / マーク付き = 5014 / 無印 = 5383
+  ※h-system正規化で衝突した表記対 = 1 (先勝ち): 'iĝ'⇔'igx'(成/成ᴵᴳ)
+  ※Zamenhof式ch等は正規化対象外のため anchov⇔anc^ov 型の併存は検出されない(両者とも後段の母集団検査にかかる)
+★母集団 = disp が両版いずれかの⟦⟧内に分節として出現する語根(辞書閲覧面の実露出)
+  除外 72 件: 綴り分節も無い(オーファン=旧: civiliz/organiz型) 70 / 綴りはあるがdispが⟦⟧に出ない 2
+     dispが⟦⟧不出現: Leandr     disp=虾ᴸᴱ      band=piv    (見出しは⟦⟧無し行のみ)
+     dispが⟦⟧不出現: uran       disp=天王星      band=elem   (見出しは⟦⟧無し行のみ)
+  ※除外語根も _kanji_map_master.tsv には現存し、配信アプリの裸根置換面では露出しうる
+    (map=裸根authoritative)。本レンズのスコープは辞書閲覧面。
+学習順序(モデルA): 文法層 224 → tier0 2525 (うちCSV照合不能でband=basic採用・lv欠測=64) → tier1 3745 → tier2 3831
+家族: 単独 3780 / 2人以上 1578
+
+====================================================================================================
+■ A. 無印(bare)の配分方向 — 優先順位が定める順序で先に来る側が無印か
+====================================================================================================
+   2人以上の家族 1578 の内訳:
+      無印が家族の最小層に居る(適合)              = 1447 (うち同層(tier1/2)内順序は未定義のため不問 434)
+      層またぎ逆転(無印がより後の層に居る)         =   43
+      ★tier0内逆転(無印のUnified_Levelが厳密に難) =   88
+      無印が1人でない家族                         =    0 
+
+   層またぎ逆転の内訳:
+      文法層            が先にマーク、無印は tier0(CSV2890) :  26 件
+      tier1(PEJVO)   が先にマーク、無印は tier2(PIV)     :  14 件
+      tier0(CSV2890) が先にマーク、無印は tier1(PEJVO)   :   3 件
+   層またぎ 43 件のうち無印保持者が override 台帳に載る = 30 件(残りは台帳記録の無い解釈)
+   ※tier1→tier2 型(生物学名の属中心種)は §14.2.1「生物14逆転群=現状維持」で裁定済み
+
+   ★tier0内逆転 88 件(override台帳に載るのは 3 件のみ)の全件:
+      重    無印=pez         (lv3.77 F=50)  易しい側がマーク=grav        (lv2.27 disp=重ᴳ)  override=N
+      界    無印=lim         (lv5.33 F=68)  易しい側がマーク=mond        (lv2.27 disp=界ᴹ)  override=N
+      生    無印=nask        (lv2.77 F=68)  易しい側がマーク=okaz        (lv2.27 disp=生ᴼ)  override=Y
+      书    無印=libr        (lv2.77 F=93)  易しい側がマーク=skrib       (lv2.27 disp=书ˢ)  override=N
+      主    無印=mastr       (lv5.33 F=37)  易しい側がマーク=precip      (lv2.54 disp=主ᴾᶜ)  override=N
+      觉    無印=konsci      (lv5.83 F=27)  易しい側がマーク=rimark      (lv2.77 disp=觉ᴿ)  override=N
+      月    無印=lun         (lv5.33 F=35)  易しい側がマーク=monat       (lv3.27 disp=月ᴹ)  override=N
+      亮    無印=hel         (lv4.83 F=27)  易しい側がマーク=bril        (lv3.27 disp=亮ᴮ)  override=N
+      导    無印=gvid        (lv4.27 F=29)  易しい側がマーク=konduk      (lv3.27 disp=导ᴷ)  override=N
+      赞    無印=laŭd        (lv6.33 F=11)  易しい側がマーク=konsent     (lv3.27 disp=赞ᴷ)  override=N
+      金    無印=or          (lv5.83 F=61)  易しい側がマーク=vendred     (lv3.77 disp=金ⱽ)  override=N
+      火    無印=fajr        (lv4.83 F=61)  易しい側がマーク=mard        (lv3.77 disp=火ᴹ)  override=N
+      木    無印=lign        (lv4.83 F=51)  易しい側がマーク=ĵaŭd        (lv3.77 disp=木ᴶ̂)  override=N
+      土    無印=grund       (lv7.90 F=23)  易しい側がマーク=sabat       (lv3.77 disp=土ˢ)  override=N
+      法    無印=jur         (lv8.40 F=19)  易しい側がマーク=rimed       (lv4.33 disp=法ᴿ)  override=N
+      独    無印=unik        (lv8.90 F=7)  易しい側がマーク=apart       (lv4.83 disp=独ᴬ)  override=N
+      乐    無印=muzik       (lv5.33 F=48)  易しい側がマーク=plezur      (lv4.83 disp=乐ᴾ)  override=N
+      种    無印=sem         (lv5.83 F=33)  易しい側がマーク=spec        (lv4.83 disp=种ˢᴾ)  override=N
+      笔    無印=penik       (lv8.40 F=9)  易しい側がマーク=krajon      (lv5.33 disp=笔ᴷ)  override=N
+      宁    無印=seren       (lv8.40 F=9)  易しい側がマーク=prefer      (lv5.33 disp=宁ᴾ)  override=N
+      射    無印=paf         (lv5.83 F=46)  易しい側がマーク=radi        (lv5.33 disp=射ᴿ)  override=N
+      严    無印=sever       (lv6.33 F=7)  易しい側がマーク=serioz      (lv5.33 disp=严ˢᴿ)  override=N
+      裂    無印=ŝir         (lv5.83 F=24)  易しい側がマーク=fend        (lv5.67 disp=裂ᶠ)  override=N
+      划    無印=plan        (lv6.33 F=43)  易しい側がマーク=strek       (lv5.67 disp=划ˢ)  override=N
+      丝    無印=silk        (lv8.40 F=22)  易しい側がマーク=faden       (lv5.83 disp=丝ᶠ)  override=N
+      课    無印=kurs        (lv6.33 F=26)  易しい側がマーク=lecion      (lv5.83 disp=课ᴸ)  override=N
+      忍    無印=toler       (lv6.33 F=20)  易しい側がマーク=pacienc     (lv5.83 disp=忍ᴾ)  override=N
+      磨    無印=muel        (lv7.90 F=26)  易しい側がマーク=polur       (lv6.00 disp=磨ᴾ)  override=N
+      检    無印=kontrol     (lv6.83 F=33)  易しい側がマーク=ekzamen     (lv6.33 disp=检ᴱ)  override=N
+      滑    無印=glit        (lv7.40 F=45)  易しい側がマーク=glat        (lv6.33 disp=滑ᴳᴬ)  override=N
+      涉    無印=vad         (lv9.00 F=7)  易しい側がマーク=koncern     (lv6.33 disp=涉ᴷ)  override=N
+      质    無印=esenc       (lv6.83 F=11)  易しい側がマーク=kvalit      (lv6.33 disp=质ᴷ)  override=N
+      联    無印=uni         (lv8.79 F=5)  易しい側がマーク=asoci       (lv6.83 disp=联ᴬ)  override=N
+      厅    無印=hal         (lv8.90 F=5)  易しい側がマーク=salon       (lv6.83 disp=厅ˢ)  override=Y
+      资    無印=kapital     (lv8.40 F=26)  易しい側がマーク=burĝ        (lv7.00 disp=资ᴮ)  override=N
+      档    無印=dosier      (lv8.79 F=21)  易しい側がマーク=dokument    (lv7.33 disp=档ᴰᴷ)  override=N
+      编    無印=plekt       (lv8.40 F=18)  易しい側がマーク=redakt      (lv7.33 disp=编ᴿ)  override=N
+      酪    無印=krem        (lv7.90 F=19)  易しい側がマーク=fromaĝ      (lv7.40 disp=酪ᶠ)  override=N
+      针    無印=nadl        (lv8.40 F=8)  易しい側がマーク=pingl       (lv7.40 disp=针ᴾ)  override=Y
+      逗    無印=kom         (lv8.40 F=9)  易しい側がマーク=ŝerc        (lv7.40 disp=逗ˢ̂)  override=N
+      狂    無印=mani        (lv8.79 F=28)  易しい側がマーク=frenez      (lv7.90 disp=狂ᶠ)  override=N
+      爬    無印=ramp        (lv8.40 F=11)  易しい側がマーク=grimp       (lv7.90 disp=爬ᴳ)  override=N
+      锅    無印=pat         (lv8.40 F=21)  易しい側がマーク=kaserol     (lv7.90 disp=锅ᴷˢ)  override=N
+      委    無印=deleg       (lv8.40 F=8)  易しい側がマーク=komitat     (lv7.90 disp=委ᴷᵀ)  override=N
+      钩    無印=hok         (lv8.40 F=25)  易しい側がマーク=kroĉ        (lv7.90 disp=钩ᴷ)  override=N
+      垫    無印=kusen       (lv8.90 F=14)  易しい側がマーク=matrac      (lv7.90 disp=垫ᴹ)  override=N
+      牧    無印=paŝt        (lv8.40 F=14)  易しい側がマーク=pastr       (lv7.90 disp=牧ᴾˢ)  override=N
+      道    無印=avenu       (lv8.40 F=1)  易しい側がマーク=bulvard     (lv8.00 disp=道ᴮ)  override=N
+      魔    無印=sorĉ        (lv8.40 F=20)  易しい側がマーク=diabl       (lv8.00 disp=魔ᴰ)  override=N
+      化学   無印=kemi        (lv8.40 F=25)  易しい側がマーク=ĥemi        (lv8.00 disp=化学ᴴ̂)  override=N
+      罩    無印=mask        (lv8.79 F=21)  易しい側がマーク=kitel       (lv8.00 disp=罩ᴷ)  override=N
+      械    無印=mekanik     (lv8.40 F=18)  易しい側がマーク=meĥanik     (lv8.00 disp=械ᴹᴴ̂)  override=N
+      装    無印=ŝarg        (lv8.79 F=43)  易しい側がマーク=munt        (lv8.00 disp=装ᴹ)  override=N
+      暴风   無印=uragan      (lv8.79 F=3)  易しい側がマーク=tempest     (lv8.00 disp=暴风ᵀ)  override=N
+      辩    無印=pled        (lv8.79 F=6)  易しい側がマーク=advokat     (lv8.40 disp=辩ᴬ)  override=N
+      证    無印=viz         (lv8.79 F=9)  易しい側がマーク=atest       (lv8.40 disp=证ᴬ)  override=N
+      恼    無印=irit        (lv8.79 F=3)  易しい側がマーク=ĉagren      (lv8.40 disp=恼ᶜ̂)  override=N
+      技    無印=teknik      (lv8.90 F=26)  易しい側がマーク=inĝenier    (lv8.40 disp=技ᴵ)  override=N
+      侮    無印=ofend       (lv8.90 F=11)  易しい側がマーク=insult      (lv8.40 disp=侮ᴵ)  override=N
+      阁    無印=moŝt        (lv8.79 F=10)  易しい側がマーク=kabinet     (lv8.40 disp=阁ᴷ)  override=N
+      款    無印=fason       (lv9.00 F=5)  易しい側がマーク=regal       (lv8.40 disp=款ᴿ)  override=N
+      弹    無印=bomb        (lv8.79 F=26)  易しい側がマーク=kugl        (lv8.40 disp=弹ᴷ)  override=N
+      全    無印=integr      (lv8.79 F=19)  易しい側がマーク=komplet     (lv8.40 disp=全ᴷ)  override=N
+      位    無印=situ        (lv8.79 F=2)  易しい側がマーク=pozici      (lv8.40 disp=位ᴾ)  override=N
+      程    無印=program     (lv8.90 F=37)  易しい側がマーク=proces      (lv8.40 disp=程ᴾᶜ)  override=N
+      饼    無印=tort        (lv9.00 F=7)  易しい側がマーク=biskvit     (lv8.79 disp=饼ᴮ)  override=N
+      段    無印=etap        (lv9.00 F=2)  易しい側がマーク=epizod      (lv8.79 disp=段ᴱᴾ)  override=N
+      校    無印=lice        (lv8.90 F=5)  易しい側がマーク=gimnazi     (lv8.79 disp=校ᴳ)  override=N
+      皱    無印=ĉif         (lv9.00 F=5)  易しい側がマーク=grimac      (lv8.79 disp=皱ᴳ)  override=N
+      怪    無印=monstr      (lv8.90 F=5)  易しい側がマーク=grotesk     (lv8.79 disp=怪ᴳ)  override=N
+      好    無印=amator      (lv8.90 F=8)  易しい側がマーク=hobi        (lv8.79 disp=好ᴴ)  override=N
+      喷    無印=ŝpruc       (lv8.90 F=27)  易しい側がマーク=jet         (lv8.79 disp=喷ᴶ)  override=N
+      雀    無印=alaŭd       (lv9.00 F=6)  易しい側がマーク=kanari      (lv8.79 disp=雀ᴷ)  override=N
+      冲    無印=impuls      (lv9.00 F=11)  易しい側がマーク=konflikt    (lv8.79 disp=冲ᴷ)  override=N
+      合    無印=kombin      (lv8.90 F=19)  易しい側がマーク=konform     (lv8.79 disp=合ᴷᴺ)  override=N
+      辅    無印=asist       (lv9.00 F=7)  易しい側がマーク=konsonant   (lv8.79 disp=辅ᴷ)  override=N
+      宇    無印=kosm        (lv8.90 F=21)  易しい側がマーク=univers     (lv8.79 disp=宇ᵁ)  override=N
+      腰    無印=tali        (lv8.90 F=9)  易しい側がマーク=lumb        (lv8.79 disp=腰ᴸ)  override=N
+      核    無印=kern        (lv8.90 F=29)  易しい側がマーク=nukle       (lv8.79 disp=核ᴺ)  override=N
+      统    無印=tradici     (lv8.90 F=6)  易しい側がマーク=prezident   (lv8.79 disp=统ᴾ)  override=N
+      栏    無印=kolumn      (lv8.90 F=2)  易しい側がマーク=rubrik      (lv8.79 disp=栏ᴿ)  override=N
+      节    無印=diet        (lv9.00 F=10)  易しい側がマーク=silab       (lv8.79 disp=节ˢ)  override=N
+      琴    無印=pian        (lv8.90 F=12)  易しい側がマーク=gitar       (lv8.79 disp=琴ᴳ)  override=N
+      鸣    無印=tint        (lv9.00 F=12)  易しい側がマーク=blek        (lv8.90 disp=鸣ᴮ)  override=N
+      痒    無印=juk         (lv9.00 F=7)  易しい側がマーク=tikl        (lv8.90 disp=痒ᵀ)  override=N
+      虚    無印=vant        (lv9.00 F=11)  易しい側がマーク=fikci       (lv8.90 disp=虚ᶠ)  override=N
+      卫    無印=gvardi      (lv9.00 F=9)  易しい側がマーク=higien      (lv8.90 disp=卫ᴴ)  override=N
+      媚    無印=flat        (lv9.00 F=14)  易しい側がマーク=koket       (lv8.90 disp=媚ᴷ)  override=N
+
+====================================================================================================
+■ B. マークの機能開始時点 — 支払った識別子は『いつ』意味を持つか
+====================================================================================================
+   ※弁別機能(先客と見分ける)の開始時点。マークには先客未習でも『これは基本義ではない』と
+     伝える警告機能があり、それはここでゼロ評価している(死荷重=弁別機能の下界)。
+   [モデルA: 文法band一括最前] マーク 4968 / 取得時に既に機能 4633 (型 93.3% / F重み 84.9%)
+   死荷重 335 件の待ち時間(語根数): 中央値 335 / 90%点 1890 / 最大 6600 / 家族が二度と来ない 1
+      家族が来ない: galvanoterapi(电疗ᴳ) — 相手が母集団除外(辞書閲覧面に不出現)のためマークは現状何も区別しない
+   死荷重の内訳([B2]是正: 層内規範キーも比較する):
+      層内順序未定義(tier1/2)                          181
+      構造的(tier0内で規範キーが厳密に後)                      86
+      構造的(相手が後の層)                                39
+      同値タイブレーク依存(tier0内lv同値)                     24
+      構造的(文法層内でF規範が厳密に後)                          4
+      相手不在                                        1
+      → どの層内順序でも死荷重なのは 130 件(旧v3は36件と過小表示していた)
+   層別(モデルA):
+      文法層            支払い   39 / 即機能   10 (型  25.6% / F重み   7.8%)
+      tier0(CSV2890) 支払い  908 / 即機能  795 (型  87.6% / F重み  85.6%)
+      tier1(PEJVO)   支払い 2133 / 即機能 1994 (型  93.5% / F重み  94.7%)
+      tier2(PIV)     支払い 1888 / 即機能 1834 (型  97.1% / F重み  97.8%)
+   [モデルB: 接辞(suf/pref)を初出現の層へ] 即機能 93.5%(型) / 88.8%(F重み)
+     (接辞76語根の配置: tier0(CSV2890):55 tier1(PEJVO):20 tier2(PIV):1 / 独立検証は全順序仮定で 91.1〜94.9% と報告=質的結論は順序に頑健)
+
+====================================================================================================
+■ C. tier0 で学習を止める人の識別子負担 (※A節の系=独立検査ではない)
+====================================================================================================
+   文法層+tier0 の語根数 = 2749 / うちマーク付き = 947 (34.4%)
+      家族に文法層/tier0の相手が居る(自分が使う区別)                     944 件 (99.68%)
+      相手はtier1(PEJVO)のみ(将来のための前払い)                      3 件 (0.32%)
+        前払い: arogant(傲ᴬᴺ) 相手=arog,orgojl
+        前払い: centimetr(厘ᶜᴹ) 相手=centi
+        前払い: milimetr(毫ᴹᴹ) 相手=mili
+   (独立検証: 描画レベルでCSV2890の⟦⟧内マーク899型を直接検査しても、同base字が
+    CSV2890内に現れないもの=0型。inline rule由来でsidecar外のマーク11型も同様)
+   マーク長の前払い([C9]): 窓内(文法+tier0)マークのうち、窓内一意には短いidで足りるのに
+   長いidを持つ = 112 件 / 余分な文字数計 112 (窓外の家族との衝突回避=将来のための前払い)
+      eksport      disp=出ᴱᴷ      id=ek (窓内一意には1字で可 / 窓外の家族1人)
+      kontrast     disp=对ᴷˢ      id=ks (窓内一意には1字で可 / 窓外の家族0人)
+      super        disp=上ˢᴾ      id=sp (窓内一意には1字で可 / 窓外の家族0人)
+      komun        disp=共ᴷᴹ      id=km (窓内一意には1字で可 / 窓外の家族0人)
+      agent        disp=代ᴬᴳ      id=ag (窓内一意には1字で可 / 窓外の家族3人)
+      endo         disp=内ᴱᴰ      id=ed (窓内一意には1字で可 / 窓外の家族2人)
+      dum          disp=期ᴰᴹ      id=dm (窓内一意には1字で可 / 窓外の家族2人)
+      distr        disp=散ᴰᵀ      id=dt (窓内一意には1字で可 / 窓外の家族6人)
+
+====================================================================================================
+■ D. 反実仮想 (※A節から演繹される系=独立の裏付けではない)
+====================================================================================================
+   『bareが学習順最初でない かつ 両者がtier0境界を跨ぐ』家族 = 3 件 毫 傲 厘
+   → 無印を純学習順で機械的に配り直した場合、tier0学習者の支払いが減るのはこの家族数だけ。
+     該当はC節の前払い3件と同一(全て学術版専用の融合描画で、学習者版の読者には元々見えない)。
+     学習者版の読者に限れば削減 0 件=A節の逆転131件(層またぎ43+tier0内88)は全て境界の
+     同じ側で起きており、中心義curationの費用は『どの字が無印か』の入替であって
+     『初学者が払うマークの数』ではない。
+
+出力: _lens25_identifier_burden.tsv
