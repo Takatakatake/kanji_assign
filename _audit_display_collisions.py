@@ -71,10 +71,70 @@ for ed, path in INJ:
         for head, n, gl in v:
             lines_out.append("        L%-6d %-30s %s" % (n, head, gl))
 
+# ================================================================
+# 第2パス(2026-08-01 第26レンズで新設): 表面キー=スラッシュ除去の同形検査
+#
+# 上のパスは disp をスラッシュ込みで比較するため、粒度差の表面同形
+# (c^ia⟦全a⟧=1分節 vs integr/a⟦全/a⟧=2分節 → 配信面ではどちらも「全a」)を
+# 原理的に検出できない(第26レンズが同定したキー設計の盲点)。
+# ここでは単語見出し(空白なし)の disp からスラッシュを落とした「配信表面」で
+# 全数照合し、既知台帳 _known_surface_homographs.txt に無い新規が出たら fail。
+# 台帳の大半は第23レンズ類型1(完全衝突166対=同義対中心)で列挙・裁定済みの面。
+# ================================================================
+SURF_BASELINE = "_known_surface_homographs.txt"
+known_surf = set()
+if os.path.exists(SURF_BASELINE):
+    for line in io.open(SURF_BASELINE, encoding='utf-8-sig'):
+        line = line.split('#', 1)[0].strip()
+        if line:
+            p = line.split('\t')
+            if len(p) >= 2:
+                known_surf.add((p[0], p[1]))
+new_surf_total = 0
+surf_counts = {}
+gen_lines = []
+for ed, path in INJ:
+    d = defaultdict(dict)
+    for n, line in enumerate(io.open(path, encoding='utf-8'), 1):
+        line = line.rstrip('\n')
+        m = re.match(r'^([^⟦]*)⟦([^⟧]*)⟧:(.*)$', line)
+        if not m:
+            continue
+        head, disp, gloss = m.group(1), m.group(2), m.group(3)
+        if ' ' in head:
+            continue
+        if not any(CJK(c) for c in disp):
+            continue
+        surf = disp.replace('/', '')
+        d[surf].setdefault(morphkey(head), (head, n, gloss[:50]))
+    groups = {k: v for k, v in d.items() if len(v) >= 2}
+    surf_counts[ed] = len(groups)
+    new = [(k, v) for k, v in sorted(groups.items()) if (ed, k) not in known_surf]
+    new_surf_total += len(new)
+    for k, v in new:
+        lines_out.append("    ★新規の表面同形(%s): 「%s」" % (ed, k))
+        for head, n, gl in sorted(v.values(), key=lambda z: z[1]):
+            lines_out.append("        L%-6d %-26s %s" % (n, head, gl))
+    for k, v in sorted(groups.items()):
+        mem = ' / '.join(h for h, _, _ in sorted(v.values(), key=lambda z: z[1]))
+        gen_lines.append("%s\t%s\t# %s" % (ed, k, mem))
+lines_out.append("[J] 表面同形(スラッシュ除去キー): %s / ★新規=%d (0が正。台帳=%s)" %
+                 (' '.join('%s %d群' % (ed, surf_counts[ed]) for ed, _ in INJ),
+                  new_surf_total, SURF_BASELINE))
+if not os.path.exists(SURF_BASELINE) or os.environ.get('SURF_REGEN') == '1':
+    with io.open(SURF_BASELINE + ('.gen' if os.path.exists(SURF_BASELINE) else ''),
+                 'w', encoding='utf-8', newline='') as f:
+        f.write("# [J]第2パスの既知表面同形台帳(版\\t表面)。#以降はコメント\n")
+        f.write("# 初版 2026-08-01(続60): 第26レンズcensusを初期基線として登録。\n")
+        f.write("#   大半は第23レンズ類型1で列挙済みの同義対・裁定済み同形。\n")
+        f.write("#   全a/全o/无o(相関詞の語尾母音融合 vs integr/sen)は続60で新規同定・据置推奨。\n")
+        for gl in gen_lines:
+            f.write(gl + "\n")
+
 out = '\n'.join(lines_out)
-out += "\n[J] ★新規合計=%d (0が正)" % total_new
+out += "\n[J] ★新規合計=%d (0が正)" % (total_new + new_surf_total)
 try:
     sys.stdout.write(out + "\n")
 except Exception:
     sys.stdout.write(out.encode('ascii', 'replace').decode('ascii') + "\n")
-sys.exit(1 if total_new else 0)
+sys.exit(1 if (total_new or new_surf_total) else 0)

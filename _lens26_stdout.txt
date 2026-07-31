@@ -1,0 +1,231 @@
+﻿====================================================================================================
+■ 学習者版: 見出し 62111 (分節数不一致スキップ 0) / rawトークン 17377 / 描画トークン 17697 (CJK含み 8808・ラテン 8889)
+====================================================================================================
+   層          語数    素エス一意(B=1)  漢字化一意(K=1)  悪化(K>B) 改善(K<B)  ★CJK署名一意(S=1)   署名曖昧(S>1)  K=0
+   CSV2890     8099     194 (  2.4%)    7391 ( 91.3%)      0    7761 (95.8%)     7758 ( 95.79%)    341 (4.210%)    0
+   PEJVO      42623     996 (  2.3%)   32748 ( 76.8%)      0   40998 (96.2%)    38641 ( 90.66%)   3982 (9.342%)    0
+   追補           335      14 (  4.2%)     133 ( 39.7%)      0     298 (89.0%)      327 ( 97.61%)      8 (2.388%)    0
+   PIV        17618     454 (  2.6%)   10261 ( 58.2%)      0   16768 (95.2%)    15633 ( 88.73%)   1985 (11.267%)    0
+   全体         68675    1658 (  2.4%)   50533 ( 73.6%)      0   65825 (95.9%)    62359 ( 90.80%)   6316 (9.197%)    0
+
+   ★署名曖昧 6316 件(延べ)の復号重大度:
+     S0=全解析が同一語に復号(無害) / S1=代替は非語(語彙が自己修正) /
+     S2syn=代替は同義語(語釈相互参照・重複で機械判定=どちらに読んでも同概念) / S2adj=それ以外(要精査)
+      CSV2890   S0=5   S1=315   S2syn=5    ★S2adj=16
+      PEJVO     S0=49  S1=3807  S2syn=71   ★S2adj=55
+      追補        S0=0   S1=8     S2syn=0    ★S2adj=0
+      PIV       S0=58  S1=1888  S2syn=18   ★S2adj=21
+   ★S2adj 80 対(語型で重複除去) — 上位30対を表示・全対は _lens26_s2_full.tsv:
+      [PEJVO L258] adiau^/i ⟦再见/i⟧ → revidi
+      [PEJVO L259] adiau^/o ⟦再见/o⟧ → revido
+      [PEJVO L449] aer/tub/o ⟦气/管/o⟧ → trakeo
+      [PEJVO L862] log^/ej/o ⟦住/所/o⟧ → domicilo
+      [PEJVO L1181] aline/o ⟦换行/o⟧ → komutado
+      [PEJVO L2572] asket/o ⟦苦行/o⟧ → suferado
+      [PEJVO L2650] atas^e/o ⟦随员/o⟧ → sekvano
+      [PEJVO L5343] c^ef/mast/o ⟦首/柱/o⟧ → steveno
+      [CSV2890 L5490] c^ia ⟦全a⟧ → integra
+      [CSV2890 L5506] c^io ⟦全o⟧ → integro
+      [CSV2890 L5702] c^iu ⟦全u⟧ → integru
+      [PEJVO L5715] c^iu/j ⟦全u/j⟧ → integruj
+      [PEJVO L7428] domicil/o ⟦住所/o⟧ → log^ejo
+      [PEJVO L7765] du/kolor/a ⟦二/色/a⟧ → dikroa
+      [PEJVO L11968] frak/ul/o ⟦燕尾/者/o⟧ → hirundvostulo
+      [PEJVO L13067] glit/s^ton/o ⟦滑/石/o⟧ → talko
+      [PEJVO L14430] hipotenuz/o ⟦斜边/o⟧ → klinrando
+      [CSV2890 L15591] integr/a ⟦全/a⟧ → c^ia
+      [PEJVO L15841] interpunkci/o ⟦标点/o⟧ → celpunkto
+      [PEJVO L17158] kap/tuk/o ⟦头/巾/o⟧ → turbano
+      [PEJVO L18046] klin/angul/o ⟦斜/角/o⟧ → skaleno
+      [PEJVO L18071] klin/rand/o ⟦斜/边/o⟧ → hipotenuzo
+      [PEJVO L18355] kol/har/oj ⟦颈/毛/oj⟧ → krinoj
+      [PEJVO L18824] komut/ad/o ⟦换/行/o⟧ → alineo
+      [PEJVO L19603] konvekt/o ⟦对流/o⟧ → kontrau^fluo
+      [PEJVO L21707] lavend/o ⟦香草/o⟧ → spicherbo
+      [PEJVO L26370] mult/angul/a ⟦多/角/a⟧ → poligona
+      [PEJVO L26371] mult/angul/o ⟦多/角/o⟧ → poligono
+      [PEJVO L26408] mult/kolor/a ⟦多/色/a⟧ → pleokroa
+      [PEJVO L26409] mult/kolor/ec/o ⟦多/色/性/o⟧ → pleokroeco
+   (参考)S2syn 75 対 — 例10対:
+      [PEJVO L1037] alburn/o ⟦白鱼/o⟧ ≒ blankfis^o
+      [PEJVO L2605] asteri/o ⟦海星/o⟧ ≒ marstelo
+      [PEJVO L2869] au^tonom/ec/o ⟦自治/性/o⟧ ≒ memregeco
+      [PEJVO L3590] best/kurac/a ⟦兽/医/a⟧ ≒ veterinara
+      [PEJVO L4508] brust/ost/o ⟦胸/骨/o⟧ ≒ sternumo
+      [PEJVO L4620] bum/o ⟦帆杆/o⟧ ≒ velstango
+      [PEJVO L6117] dek/du/edr/o ⟦十/二/面ᴱ/o⟧ ≒ dodekaedro
+      [PEJVO L7781] korol/o ⟦花冠/o⟧ ≒ florkrono
+      [PEJVO L8130] egal/potencial/a ⟦等/势/a⟧ ≒ ekvipotenciala
+      [PEJVO L8380] ekskori/i ⟦擦伤/i⟧ ≒ frotvundi
+
+   ★S=1迂回層(署名一意でも意図トークンの多義=文脈共有トークンで別実在語に復号): 73 語型対
+     これは第16レンズの既知『意図的な文脈共有』(甲=kiras/met・基=baz/il・二=du/di等・是正ゼロ裁定)が
+     語面に現れたもの。重大度ファネル(S>1のみ検査)の管轄外なので件数を別掲する(新たな欠陥ではない):
+      [CSV2890 L1142] en ⟦内⟧ ⇄ end
+      [PEJVO L1868] du/on/o ⟦二/分/o⟧ ⇄ diono
+      [CSV2890 L2450] herb/o ⟦草/o⟧ ⇄ poo
+      [PEJVO L2740] a/toni/o ⟦无ᴬ/张/o⟧ ⇄ antonio
+      [PEJVO L3411] baz/i ⟦基/i⟧ ⇄ ili
+      [CSV2890 L3419] baz/o ⟦基/o⟧ ⇄ ilo
+      [CSV2890 L3697] si ⟦己⟧ ⇄ heks
+      [PEJVO L5132] citrus/o ⟦柑/o⟧ ⇄ citro
+      [PEJVO L5479] c^eval/kas^tan/o ⟦马/栗/o⟧ ⇄ hipokas^tano
+      [PEJVO L5479] c^eval/kas^tan/o ⟦马/栗/o⟧ ⇄ hipokastano
+      [CSV2890 L6115] du ⟦二⟧ ⇄ di
+      [PEJVO L6559] si/n ⟦己/n⟧ ⇄ heksn
+====================================================================================================
+■ 学術版: 見出し 62111 (分節数不一致スキップ 0) / rawトークン 19696 / 描画トークン 19912 (CJK含み 10452・ラテン 9460)
+====================================================================================================
+   層          語数    素エス一意(B=1)  漢字化一意(K=1)  悪化(K>B) 改善(K<B)  ★CJK署名一意(S=1)   署名曖昧(S>1)  K=0
+   CSV2890     8099     254 (  3.1%)    7443 ( 91.9%)      0    7709 (95.2%)     7750 ( 95.69%)    349 (4.309%)    0
+   PEJVO      42623    1298 (  3.0%)   32104 ( 75.3%)      0   40688 (95.5%)    37731 ( 88.52%)   4892 (11.477%)    0
+   追補           335      16 (  4.8%)     134 ( 40.0%)      0     300 (89.6%)      326 ( 97.31%)      9 (2.687%)    0
+   PIV        17618     592 (  3.4%)    9542 ( 54.2%)      0   16620 (94.3%)    14777 ( 83.87%)   2841 (16.126%)    0
+   全体         68675    2160 (  3.1%)   49223 ( 71.7%)      0   65317 (95.1%)    60584 ( 88.22%)   8091 (11.782%)    0
+
+   ★署名曖昧 8091 件(延べ)の復号重大度:
+     S0=全解析が同一語に復号(無害) / S1=代替は非語(語彙が自己修正) /
+     S2syn=代替は同義語(語釈相互参照・重複で機械判定=どちらに読んでも同概念) / S2adj=それ以外(要精査)
+      CSV2890   S0=5   S1=320   S2syn=9    ★S2adj=15
+      PEJVO     S0=83  S1=4563  S2syn=128  ★S2adj=118
+      追補        S0=0   S1=9     S2syn=0    ★S2adj=0
+      PIV       S0=80  S1=2666  S2syn=38   ★S2adj=57
+   ★S2adj 160 対(語型で重複除去) — 上位30対を表示・全対は _lens26_s2_full.tsv:
+      [PEJVO L258] adiau^/i ⟦再见/i⟧ → revidi
+      [PEJVO L259] adiau^/o ⟦再见/o⟧ → revido
+      [PEJVO L449] aer/tub/o ⟦气/管/o⟧ → trakeo
+      [PEJVO L815] akromat/a ⟦无色/a⟧ → senkolora
+      [PEJVO L862] log^/ej/o ⟦住/所/o⟧ → domicilo
+      [PEJVO L1181] aline/o ⟦换行/o⟧ → komutado
+      [PEJVO L1359] alternator/o ⟦替具/o⟧ → alternilo
+      [PEJVO L1587] amorf/a ⟦无形/a⟧ → senforma
+      [PEJVO L1616] amplifikator/o ⟦扩具/o⟧ → amplifilo
+      [PEJVO L1947] antau^/parol/o ⟦前/话/o⟧ → prologo
+      [PEJVO L2572] asket/o ⟦苦行/o⟧ → suferado
+      [PEJVO L2650] atas^e/o ⟦随员/o⟧ → sekvano
+      [PEJVO L5343] c^ef/mast/o ⟦首/柱/o⟧ → steveno
+      [CSV2890 L5490] c^ia ⟦全a⟧ → integra
+      [CSV2890 L5506] c^io ⟦全o⟧ → integro
+      [CSV2890 L5702] c^iu ⟦全u⟧ → integru
+      [PEJVO L5715] c^iu/j ⟦全u/j⟧ → integruj
+      [PEJVO L7428] domicil/o ⟦住所/o⟧ → log^ejo
+      [PEJVO L7431] dominant/o ⟦治在/o⟧ → reganto
+      [PEJVO L7765] du/kolor/a ⟦二/色/a⟧ → dikroa
+      [PEJVO L7820] du/obl/a ⟦二/倍/a⟧ → diploida
+      [PEJVO L8602] ekstrem/ism/o ⟦极/主义/o⟧ → paroksismo
+      [PEJVO L9427] endosmoz/o ⟦内渗/o⟧ → enosmozo
+      [PEJVO L9752] epilog/o ⟦后话/o⟧ → postparolo
+      [PEJVO L10365] falc^/il/o ⟦收割/具/o⟧ → falc^atoro
+      [PEJVO L11968] frak/ul/o ⟦燕尾/者/o⟧ → hirundvostulo
+      [PEJVO L13067] glit/s^ton/o ⟦滑/石/o⟧ → talko
+      [PEJVO L14430] hipotenuz/o ⟦斜边/o⟧ → klinrando
+      [CSV2890 L15591] integr/a ⟦全/a⟧ → c^ia
+      [PEJVO L15841] interpunkci/o ⟦标点/o⟧ → celpunkto
+   (参考)S2syn 151 対 — 例10対:
+      [PEJVO L420] aerolit/o ⟦气石/o⟧ ≒ aers^tono
+      [PEJVO L442] aer/s^ton/o ⟦气/石/o⟧ ≒ aerolito
+      [PEJVO L1037] alburn/o ⟦白鱼/o⟧ ≒ blankfis^o
+      [PEJVO L1778] anhidr/a ⟦无水/a⟧ ≒ senakva
+      [PEJVO L1833] anonim/a ⟦无名/a⟧ ≒ sennoma
+      [PEJVO L1942] antau^/molar/o ⟦前/臼/o⟧ ≒ premolaro
+      [PEJVO L2605] asteri/o ⟦海星/o⟧ ≒ marstelo
+      [PEJVO L2652] ateism/o ⟦无神主义/o⟧ ≒ sendiismo
+      [PEJVO L2654] ateist/o ⟦无神家/o⟧ ≒ sendiisto
+      [PEJVO L2740] atoni/o ⟦无张/o⟧ ≒ sentonio
+
+   ★S=1迂回層(署名一意でも意図トークンの多義=文脈共有トークンで別実在語に復号): 17 語型対
+     これは第16レンズの既知『意図的な文脈共有』(甲=kiras/met・基=baz/il・二=du/di等・是正ゼロ裁定)が
+     語面に現れたもの。重大度ファネル(S>1のみ検査)の管轄外なので件数を別掲する(新たな欠陥ではない):
+      [CSV2890 L2450] herb/o ⟦草/o⟧ ⇄ poo
+      [CSV2890 L3697] si ⟦己⟧ ⇄ heks
+      [PEJVO L6559] si/n ⟦己/n⟧ ⇄ heksn
+      [CSV2890 L7361] valut/o ⟦币/o⟧ ⇄ duro
+      [PEJVO L7938] dur/o ⟦币/o⟧ ⇄ valuto
+      [PEJVO L10543] si/an ⟦己/an⟧ ⇄ heksan
+      [PEJVO L17873] kiras/i ⟦甲/i⟧ ⇄ meti
+      [PEJVO L17874] kiras/o ⟦甲/o⟧ ⇄ meto
+      [PEJVO L18737] kompren/o ⟦解/o⟧ ⇄ lizino
+      [CSV2890 L25283] mez/o ⟦中/o⟧ ⇄ mesoo
+      [PEJVO L36440] si/a ⟦己/a⟧ ⇄ heksa
+      [PEJVO L42542] valut/a ⟦币/a⟧ ⇄ dura
+
+====================================================================================================
+■ 実配信テキスト(漢字化日記・随想集成): 読者が実際に見る語でのCJK署名一意性
+====================================================================================================
+   漢字を含む語トークン 7429 (メタデータ行 75 行を除外) /
+   CJK署名一意 7290 (98.13%) / 署名曖昧 106 (1.427%) / 解析不能 33 (0.44%)
+   ※このコーパスは辞書作成者自身が自分の辞書で書いた文章=生成器と検証器が同一なので
+     上限側バイアスを持つ(独立標本ではない)。独立検証の指摘により明記。
+   署名曖昧の語(全種・復号重大度付き):
+      同时e            ×10  同时·e | 同·时·e  [S1]
+      全u日a           ×9   全·u·日·a | 全u·日·a  [S1]
+      全u日e           ×9   全·u·日·e | 全u·日·e  [S1]
+      全时             ×8   全时 | 全·时  [S1]
+      住所o            ×6   住所·o | 住·所·o  [S2:log^ejo/domicilo]
+      四月o            ×4   四月·o | 四·月·o  [S1]
+      同时aj           ×4   同时·aj | 同·时·aj  [S2:samtempaj/simultanaj]
+      七月o            ×4   七月·o | 七·月·o  [S1]
+      自由e            ×3   自由·e | 自·由·e  [S1]
+      导师o            ×3   导师·o | 导·师·o  [S1]
+      自由a            ×3   自由·a | 自·由·a  [S1]
+      全ujn           ×3   全·ujn | 全u·jn  [S2:integrujn/c^iujn]
+      数学o            ×3   数·学·o | 数学·o  [S1]
+      酸乳on           ×2   酸乳·on | 酸·乳·on  [S1]
+      大豆豆oj          ×2   大·豆·豆·oj | 大豆·豆·oj  [S1]
+      不长e            ×2   不·长·e | 不长·e  [S2:nelge/nelonge]
+      全uj            ×2   全·uj | 全u·j  [S2:c^iuj/integruj]
+      全u日an          ×2   全·u·日·an | 全u·日·an  [S1]
+      全u日ajn         ×2   全·u·日·ajn | 全u·日·ajn  [S1]
+      五月o            ×1   五月·o | 五·月·o  [S1]
+      无时             ×1   无·时 | 无时  [S1]
+      自由性o           ×1   自由·性·o | 自·由·性·o  [S1]
+      全u晨e           ×1   全·u·晨·e | 全u·晨·e  [S1]
+      怀旧a            ×1   怀旧·a | 怀·旧·a  [S1]
+      全u日aj          ×1   全·u·日·aj | 全u·日·aj  [S1]
+      地铁o            ×1   地·铁·o | 地铁·o  [S1]
+      全u例ᴷe          ×1   全·u·例ᴷ·e | 全u·例ᴷ·e  [S1]
+      不顾             ×1   不顾 | 不·顾  [S1]
+      主脉a            ×1   主脉·a | 主·脉·a  [S1]
+      全o             ×1   全o | 全·o  [S2:c^io/integro]
+      全un            ×1   全·un | 全u·n  [S2:c^iun/integrun]
+      物理a            ×1   物·理·a | 物理·a  [S1]
+      全u生ᴼe          ×1   全·u·生ᴼ·e | 全u·生ᴼ·e  [S1]
+      再见i            ×1   再见·i | 再·见·i  [S2:revidi/adiau^i]
+      再见is           ×1   再见·is | 再·见·is  [S2:revidis/adiau^is]
+      数学on           ×1   数·学·on | 数学·on  [S1]
+      矢量o            ×1   矢·量·o | 矢量·o  [S1]
+      定理o            ×1   定·理·o | 定理·o  [S1]
+      气候化具o          ×1   气·候·化·具·o | 气候·化·具·o  [S1]
+      自由an           ×1   自由·an | 自·由·an  [S1]
+      厂制服on          ×1   厂·制服·on | 厂·制·服·on  [S1]
+      全u             ×1   全·u | 全u  [S2:integru/c^iu]
+      自学行o           ×1   自·学·行·o | 自学·行·o  [S1]
+      物理o            ×1   物·理·o | 物理·o  [S1]
+   解析不能(全種の上位12。頭字語複合・辞書⇔アプリ面の描画乖離を含む):
+      KER-检ᴱo              ×6
+      实ᴱe                  ×4
+      AI-模o                ×3
+      组ᴼᴿo                 ×2
+      Toĉigi-省ᴳo           ×2
+      千ᴷoj                 ×2
+      车ᴬᴹo                 ×2
+      表ᴿas                 ×1
+      射ᴿo-操ᴳo              ×1
+      OS-境o                ×1
+      Excel-档oj            ×1
+      OJT-导在o              ×1
+
+====================================================================================================
+■ 表面同形census(配信面の完全同形・両版) → _lens26_surface_homographs.tsv
+====================================================================================================
+   表面同形グループ: 学習者版 111群 / 学術版 183群
+   (第23レンズ類型1が学習者版の大半を列挙済み。真の増分=相関詞の語尾母音融合型
+    全a/全o/无o と学術版census。詳細は報告書)
+
+出力: _lens26_s2_full.tsv / _lens26_surface_homographs.tsv
+
+====================================================================================================
+■ 構造検査: 上付きマーク(識別子)が語頭に立つトークン(0が正=付着は構造的に一意)
+====================================================================================================
+   学習者版: マーク(Lm/Mn/Sk)語頭トークン = 0 種
+   学術版: マーク(Lm/Mn/Sk)語頭トークン = 0 種

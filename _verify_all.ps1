@@ -111,7 +111,7 @@ if($csvLoss -ne '0' -and $csvLoss -ne '?' -and $csvLoss -ne ''){ $fail=1; Say " 
 # 同一形態素の二重見出し(接辞定義行 -ism- と語根行 ism/o 等)は自動除外し、真の同形異義のみ検査。
 $dc = & python "$dir\_audit_display_collisions.py" *>&1 | Out-String
 $dcNew = ([regex]::Match($dc,'\[J\] ★新規合計=(\d+)')).Groups[1].Value
-foreach($ln in ($dc -split "`r?`n")){ if($ln -match '^\[J\] (学習者版|学術版):' -or $ln -match '★新規の同形異義' -or $ln -match '^\s+L\d'){ Say $ln } }
+foreach($ln in ($dc -split "`r?`n")){ if($ln -match '^\[J\] (学習者版|学術版):' -or $ln -match '^\[J\] 表面同形' -or $ln -match '★新規の同形異義' -or $ln -match '★新規の表面同形' -or $ln -match '^\s+L\d'){ Say $ln } }
 if($dcNew -eq ''){ Say "[J] 描画の一意性: 実行不可(要 python + _audit_display_collisions.py)"; $fail=1 }
 elseif($dcNew -ne '0'){ $fail=1; Say ("    !! 新規の同形異義=" + $dcNew + "種 → 異なる語が同じ漢字列に描画されている。語義照合のうえ識別子付与か既知登録を判断") }
 
