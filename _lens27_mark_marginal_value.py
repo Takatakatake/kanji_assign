@@ -168,18 +168,27 @@ for cp in CORPUS:
     for line in io.open(cp, encoding='utf-8', errors='replace'):
         if re.search(r'[ぁ-んァ-ヶ]', line) or line.startswith('#'):
             continue
-        for ch_run in re.finditer(r'[一-鿿][^\sA-Za-z]*', line):
-            pass
         for m in re.finditer(r'[一-鿿]', line):
             n_cjk += 1
         # マーク付きトークン(漢字+続く上付き列)
-        for m in re.finditer(r'([一-鿿])((?:[ʰ-˿ᴬ-ᵪ̀-ͯ⁰-₟])+)',
-                             line):
-            n_mark += 1
-            units = [c for c in m.group(2) if unicodedata.category(c) != 'Mn']
-            if len(units) >= 2:
-                n_mark2 += 1
-            mark_tokens[m.group(0)] += 1
+        # ★2026-08-01 続64で是正: 従来は文字クラス [ʰ-˿ᴬ-ᵪ̀-ͯ⁰-₟] で判定していたが、
+        #   ᶜ(U+1D9C)・ᶠ(U+1DA0)・ⱽ(U+2C7D) が範囲外で取りこぼされ 36件の過小計上になっていた
+        #   (1008→1044)。本ファイル冒頭の is_mark(Unicodeカテゴリ判定)と同一規範に統一する。
+        i = 0
+        while i < len(line):
+            if '一' <= line[i] <= '鿿':
+                j = i + 1
+                while j < len(line) and is_mark(line[j]):
+                    j += 1
+                if j > i + 1:
+                    n_mark += 1
+                    units = [c for c in line[i + 1:j] if unicodedata.category(c) != 'Mn']
+                    if len(units) >= 2:
+                        n_mark2 += 1
+                    mark_tokens[line[i:j]] += 1
+                i = j
+            else:
+                i += 1
 print("   本文の漢字 %d 字 / マーク付き漢字 %d 字 (%.1f%%) / うちマークが2単位以上 %d 字 (%.2f%%)" %
       (n_cjk, n_mark, 100.0 * n_mark / max(1, n_cjk), n_mark2, 100.0 * n_mark2 / max(1, n_cjk)))
 print("   ★実文では漢字の %.1f%% がマーク付き。マークを読まない読者はその分だけ家族の基本形に着地する。" %

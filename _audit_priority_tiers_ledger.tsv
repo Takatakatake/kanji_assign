@@ -47,7 +47,12 @@ groupkey	base	base_tier	高優先メンバー(逆転相手)	分類
 
 ## [B] CSV2890語根の band誤ラベル(br0でない=優先度喪失の温床) = 39件(うち非bare=20)
 #   CSV2890は band∈basic/suf/pref/prep/correl/num/func(br0) が正。bare=True(単独/基本形)なら無害・
-#   bare=False(非基本形)は同綴群で下位語にbaseを譲っている可能性=要点検。
+#   bare=False(非基本形)は同綴群で下位語にbaseを譲っている可能性。
+#   ★点検済(3回): 2026-07-19 第21回④ / 2026-07-21 第26回③ / 2026-08-01 第28レンズ。
+#     3回とも同一の分類に到達 = 無害bare19 / 中心義がbase側にある正常な従属9 /
+#     七曜7(日月火水木金土は day/moon/fire/water/wood/gold/earth に譲るのが正) /
+#     照合の誤マッチ3(kvi←kvin・tam←tamen・pseu^d←pseŭdo-) / 要検討1(ve=哀)。
+#     『要点検』の再掘り起こしは不要。ve/哀 のみ §14.2.1 の裁定対象。
 root	band	tier	bare?	groupkey	Unified_Level
 cigar	pejvo	PEJVO	False	烟	9.0
 citron	pejvo	PEJVO	False	果	7.9
@@ -89,7 +94,10 @@ oktobr	cal	PEJVO	True	十月	3.77
 septembr	cal	PEJVO	True	九月	3.77
 telefon	piv	PEJVO	True	远声	5.83
 
-## [C] band=piv だが真PEJVO(<=44440・PIVタグ無)の誤ラベル語(温床) = 824件
+## [C] band=piv だが真PEJVO(<=44440・PIVタグ無) = 824件 (★内訳: 隙間充填規約=P=5センチネル 818件 / 真の誤ラベル 6件)
+#   ★大半は『誤ラベル』ではない。仕様書L28『隙間充填で後から追加する語根は出典がPEJVO領域でも
+#     一律 band=piv』+ L29『P=5 を手動固定』という規約どおりの姿(2026-08-01 第28レンズで確定)。
+#   真の誤ラベル(P≠5)のみ: bari, ele, nomenklatur, ro, sargas, transit
 #   bare列=その語が漢字群のbare基本形か(Trueなら真PEJVO語が正しくbare保持=無害)
 root	行	groupkey	bareか
 acetat	173	醋盐	True

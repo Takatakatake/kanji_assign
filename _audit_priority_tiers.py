@@ -195,9 +195,25 @@ tier0_known = [x for x in tier0_rev if x[4] == 'func_layer']
 # --- CSV2890 band整合: CSV語根が br0でない=誤ラベル(優先度喪失の温床) ---
 csv_mislabel = [(r, bandByRoot.get(r, '?')) for r in sorted(csv_roots) if bandByRoot.get(r) not in BR0]
 
-# --- band=piv だが真PEJVO(温床。継続監視) ---
+# --- band=piv だが真PEJVO ---
+# 【2026-08-01 第27回続64・第28レンズで内訳確定】この824件の大半は「誤ラベル」ではない。
+#   仕様書 L28「隙間充填で後から追加する語根は、出典がPEJVO領域でも一律 band=piv に設定する」
+#   + L29「V を計算せず P=5 を手動固定(sentinel)」という【規約どおりの姿】である。
+#   実測: 824件中818件が P=5 センチネル / 真の誤ラベルは6件
+#         (bari, ele, nomenklatur, ro, sargas, transit — いずれも基本形を奪っていない)。
+#   さらに第28レンズの反実仮想で、規約を尊重して真の誤ラベルだけを正しても
+#   基本形が動く群は1群(哀)のみと確定済。よって本項は温床ではなく規約の可視化。
 piv_mislabel = [(r['root'], root_line[r['root']], r['gk'], r['id'] == '')
                 for r in rows if r['band'] == 'piv' and genuine(r['root']) == 'PEJVO']
+pv = {}
+try:
+    with io.open("_p_work.csv", encoding='utf-8-sig', newline='') as _f:
+        for _rec in _csv.DictReader(_f):
+            pv[_rec['root']] = _rec['P']
+except Exception:
+    pass
+piv_sentinel = [x for x in piv_mislabel if pv.get(x[0]) == '5']
+piv_genuine = [x for x in piv_mislabel if pv.get(x[0]) != '5']
 
 TIER_NAME = {0: 'CSV2890', 1: 'PEJVO', 2: 'PIV', None: '?'}
 def vfmt(viol): return ';'.join("%s(t%d=%s)" % (v[0], v[1], TIER_NAME[v[1]]) for v in viol)
@@ -222,12 +238,22 @@ csv_mislabel_notbare = [(r, b) for r, b in csv_mislabel if not root_isbare.get(r
 out.append("## [B] CSV2890語根の band誤ラベル(br0でない=優先度喪失の温床) = %d件(うち非bare=%d)" %
            (len(csv_mislabel), len(csv_mislabel_notbare)))
 out.append("#   CSV2890は band∈basic/suf/pref/prep/correl/num/func(br0) が正。bare=True(単独/基本形)なら無害・")
-out.append("#   bare=False(非基本形)は同綴群で下位語にbaseを譲っている可能性=要点検。")
+out.append("#   bare=False(非基本形)は同綴群で下位語にbaseを譲っている可能性。")
+out.append("#   ★点検済(3回): 2026-07-19 第21回④ / 2026-07-21 第26回③ / 2026-08-01 第28レンズ。")
+out.append("#     3回とも同一の分類に到達 = 無害bare19 / 中心義がbase側にある正常な従属9 /")
+out.append("#     七曜7(日月火水木金土は day/moon/fire/water/wood/gold/earth に譲るのが正) /")
+out.append("#     照合の誤マッチ3(kvi←kvin・tam←tamen・pseu^d←pseŭdo-) / 要検討1(ve=哀)。")
+out.append("#     『要点検』の再掘り起こしは不要。ve/哀 のみ §14.2.1 の裁定対象。")
 out.append("root\tband\ttier\tbare?\tgroupkey\tUnified_Level")
 for r, b in sorted(csv_mislabel, key=lambda x: root_isbare.get(x[0], True)):
     out.append("%s\t%s\t%s\t%s\t%s\t%s" % (r, b, TIER_NAME[tier(r)], root_isbare.get(r), root_gk.get(r, ''), csv_level.get(r, '')))
 out.append("")
-out.append("## [C] band=piv だが真PEJVO(<=44440・PIVタグ無)の誤ラベル語(温床) = %d件" % len(piv_mislabel))
+out.append("## [C] band=piv だが真PEJVO(<=44440・PIVタグ無) = %d件 "
+           "(★内訳: 隙間充填規約=P=5センチネル %d件 / 真の誤ラベル %d件)" %
+           (len(piv_mislabel), len(piv_sentinel), len(piv_genuine)))
+out.append("#   ★大半は『誤ラベル』ではない。仕様書L28『隙間充填で後から追加する語根は出典がPEJVO領域でも")
+out.append("#     一律 band=piv』+ L29『P=5 を手動固定』という規約どおりの姿(2026-08-01 第28レンズで確定)。")
+out.append("#   真の誤ラベル(P≠5)のみ: %s" % (', '.join(sorted(x[0] for x in piv_genuine)) or 'なし'))
 out.append("#   bare列=その語が漢字群のbare基本形か(Trueなら真PEJVO語が正しくbare保持=無害)")
 out.append("root\t行\tgroupkey\tbareか")
 for r, ln, gk, isbare in sorted(piv_mislabel, key=lambda x: x[1]):
@@ -262,8 +288,9 @@ print("VALIDATE prototip=%s(tier%s) arketip=%s(tier%s)" %
       (genuine('prototip'), tier('prototip'), genuine('arketip'), tier('arketip')))
 print("CSV2890: rows=%d matched=%d(%.1f%%) roots=%d unmatched=%d" %
       (csv_rows, matched_rows, 100.0 * matched_rows / max(csv_rows, 1), len(csv_roots), len(unmatched)))
-print("PRIORITY_STRUCT: CSV2890_LOSES_BASE=%d NEW_SYNONYM_REVERSAL=%d BASE_OVERRIDE=%d RATIFIED=%d CSV_MISLABEL=%d PIV_MISLABEL_PEJVO=%d TIER0_FUNC_LAYER=%d(new=%d)" %
-      (len(csv_loss), len(new_rev) - len(csv_loss), len(ovr_rev), len(rat_rev), len(csv_mislabel), len(piv_mislabel), len(tier0_known), len(tier0_new)))
+print("PRIORITY_STRUCT: CSV2890_LOSES_BASE=%d NEW_SYNONYM_REVERSAL=%d BASE_OVERRIDE=%d RATIFIED=%d CSV_MISLABEL=%d PIV_MISLABEL_PEJVO=%d(P5規約%d/真%d) TIER0_FUNC_LAYER=%d(new=%d)" %
+      (len(csv_loss), len(new_rev) - len(csv_loss), len(ovr_rev), len(rat_rev), len(csv_mislabel),
+       len(piv_mislabel), len(piv_sentinel), len(piv_genuine), len(tier0_known), len(tier0_new)))
 # hard-fail = CSV2890中核語のbase喪失のみ(0が必須)。同義語逆転/band誤ラベル/tier0機能層はadvisory(非fail)。
 # TIER0_FUNC_LAYER=§5/§6確定機能形態素割当(mal反/ig使/ist家/nun现/分詞-ot待 等47群)=意図的設計・違反でない。
 # new>0(集合外の新規に機能形態素が内容語からbareを奪取)が出たら要点検(現状 new=0)。

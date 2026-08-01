@@ -2,6 +2,9 @@
 $dir=$PSScriptRoot
 # GAS「識別子付与・最終完全版」忠実移植。C(優先順位)=band_rank*1000+P(層を優先、層内はP)。閾値1.0で文字数優先。
 $BR=@{ 'basic'=0;'suf'=0;'pref'=0;'prep'=0;'correl'=0;'num'=0;'func'=0;'pejvo'=1;'sci'=1;'elem'=1;'cal'=1;'rel'=1;'piv'=2;'proper'=2 }
+# ★_p_work.csv の `br` 列は【死列】。実効値は常にこの $BR を band から引き直したもので、
+#   列とは385行で食い違う(piv138/func55/suf48/correl45/prep32/pref26/basic26/num15)。
+#   2026-07-14 に「実害ゼロ=直す必要なし」と裁定済(第28レンズ/続64で再確認)。br列を読む分析は必ず誤る。
 $vowels=@('a','e','i','o','u')
 function EoLetters([string]$s){ $r=New-Object System.Collections.ArrayList; for($i=0;$i -lt $s.Length;$i++){ $ch=[string]$s[$i]; if($i+1 -lt $s.Length -and $s[$i+1] -eq '^'){ $null=$r.Add($ch+'^'); $i++ } else { $null=$r.Add($ch) } }; ,$r }
 function IsVowel([string]$c){ $vowels -contains $c }   # ĉ/c^/ŭ 等は子音

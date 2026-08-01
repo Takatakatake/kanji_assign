@@ -1,0 +1,1036 @@
+節	キー	項目1	項目2	項目3	項目4
+A1_br列ドリフト	piv	br列=1	実効br=2	138行	
+A1_br列ドリフト	func	br列=1	実効br=0	55行	
+A1_br列ドリフト	suf	br列=1	実効br=0	48行	
+A1_br列ドリフト	correl	br列=1	実効br=0	45行	
+A1_br列ドリフト	prep	br列=1	実効br=0	32行	
+A1_br列ドリフト	pref	br列=1	実効br=0	26行	
+A1_br列ドリフト	basic	br列=1	実効br=0	26行	
+A1_br列ドリフト	num	br列=1	実効br=0	15行	
+B_基本形交代	哀	現行=kondolenc	是正後=ve	員数3	
+B_基本形交代	气计	現行=gasmetr	是正後=aerometr	員数4	
+B_基本形交代	高测	現行=altometri	是正後=hipsometri	員数2	
+B_基本形交代	脉炎	現行=flebit	是正後=vejnit	員数5	
+B_基本形交代	菌学	現行=mikologi	是正後=bakteriologi	員数4	
+B_基本形交代	苔植	現行=brifit	是正後=briofit	員数2	
+B_基本形交代	胚源	現行=embrigenez	是正後=embriogenez	員数2	
+B_基本形交代	拍型	現行=fototip	是正後=fototipi	員数2	
+B_基本形交代	胃炎	現行=gastrit	是正後=stomakit	員数2	
+B_基本形交代	色计	現行=kolormetr	是正後=kolorometr	員数2	
+B_基本形交代	神经学	現行=nervologi	是正後=neu^rologi	員数2	
+B_基本形交代	振具	現行=vibrator	是正後=oscilator	員数2	
+B_基本形交代	渗计	現行=osmozmetr	是正後=osmozometr	員数2	
+C4_人手裁定が基本形を決めた群	代	式のまま=agent	裁定後=anstataŭ		
+C4_人手裁定が基本形を決めた群	内	式のまま=endo	裁定後=en		
+C4_人手裁定が基本形を決めた群	员	式のまま=membr	裁定後=an		
+C4_人手裁定が基本形を決めた群	分	式のまま=divid	裁定後=on		
+C4_人手裁定が基本形を決めた群	长	式のまま=estr	裁定後=long		
+C4_人手裁定が基本形を決めた群	任	式のまま=kapric	裁定後=ajn		
+C4_人手裁定が基本形を決めた群	喂	式のまま=he	裁定後=ho		
+C4_人手裁定が基本形を決めた群	问	式のまま=salut	裁定後=demand		
+C4_人手裁定が基本形を決めた群	清	式のまま=net	裁定後=klar		
+C4_人手裁定が基本形を決めた群	解	式のまま=liz	裁定後=kompren		
+C4_人手裁定が基本形を決めた群	信	式のまま=fid	裁定後=kred		
+C4_人手裁定が基本形を決めた群	学	式のまま=logi	裁定後=lern		
+C4_人手裁定が基本形を決めた群	能	式のまま=iv	裁定後=pov		
+C4_人手裁定が基本形を決めた群	富	式のまま=oz	裁定後=riĉ		
+C4_人手裁定が基本形を決めた群	建	式のまま=fond	裁定後=konstru		
+C4_人手裁定が基本形を決めた群	育	式のまま=eduk	裁定後=kresk		
+C4_人手裁定が基本形を決めた群	勇	式のまま=brav	裁定後=kuraĝ		
+C4_人手裁定が基本形を決めた群	记	式のまま=not	裁定後=memor		
+C4_人手裁定が基本形を決めた群	静	式のまま=kviet	裁定後=trankvil		
+C4_人手裁定が基本形を決めた群	颜	式のまま=farb	裁定後=vizaĝ		
+C4_人手裁定が基本形を決めた群	方	式のまま=kub	裁定後=direkt		
+C4_人手裁定が基本形を決めた群	痛	式のまま=algi	裁定後=dolor		
+C4_人手裁定が基本形を決めた群	园	式のまま=park	裁定後=ĝarden		
+C4_人手裁定が基本形を決めた群	杯	式のまま=tas	裁定後=glas		
+C4_人手裁定が基本形を決めた群	乳	式のまま=mam	裁定後=lakt		
+C4_人手裁定が基本形を決めた群	想	式のまま=imag	裁定後=opini		
+C4_人手裁定が基本形を決めた群	切	式のまま=tomi	裁定後=tranĉ		
+C4_人手裁定が基本形を決めた群	存	式のまま=depon	裁定後=ekzist		
+C4_人手裁定が基本形を決めた群	团	式のまま=mas	裁定後=grup		
+C4_人手裁定が基本形を決めた群	似	式のまま=oid	裁定後=simil		
+C4_人手裁定が基本形を決めた群	卷	式のまま=rul	裁定後=volv		
+C4_人手裁定が基本形を決めた群	角	式のまま=korn	裁定後=angul		
+C4_人手裁定が基本形を決めた群	帽	式のまま=ĉap	裁定後=ĉapel		
+C4_人手裁定が基本形を決めた群	例	式のまま=kaz	裁定後=ekzempl		
+C4_人手裁定が基本形を決めた群	板	式のまま=lad	裁定後=plank		
+C4_人手裁定が基本形を決めた群	诉	式のまま=akuz	裁定後=plend		
+C4_人手裁定が基本形を決めた群	银	式のまま=bank	裁定後=arĝent		
+C4_人手裁定が基本形を決めた群	危	式のまま=kriz	裁定後=danĝer		
+C4_人手裁定が基本形を決めた群	等	式のまま=izo	裁定後=egal		
+C4_人手裁定が基本形を決めた群	尊	式のまま=dign	裁定後=estim		
+C4_人手裁定が基本形を決めた群	底	式のまま=fon	裁定後=fund		
+C4_人手裁定が基本形を決めた群	虫	式のまま=verm	裁定後=insekt		
+C4_人手裁定が基本形を決めた群	罪	式のまま=pek	裁定後=kulp		
+C4_人手裁定が基本形を決めた群	式	式のまま=mod	裁定後=manier		
+C4_人手裁定が基本形を決めた群	影	式のまま=film	裁定後=ombr		
+C4_人手裁定が基本形を決めた群	复	式のまま=kopi	裁定後=ripet		
+C4_人手裁定が基本形を決めた群	盘	式のまま=disk	裁定後=teler		
+C4_人手裁定が基本形を決めた群	伴	式のまま=kompani	裁定後=koleg		
+C4_人手裁定が基本形を決めた群	响	式のまま=klak	裁定後=sonor		
+C4_人手裁定が基本形を決めた群	枝	式のまま=verg	裁定後=branĉ		
+C4_人手裁定が基本形を決めた群	细	式のまま=detal	裁定後=delikat		
+C4_人手裁定が基本形を決めた群	皮	式のまま=fel	裁定後=haŭt		
+C4_人手裁定が基本形を決めた群	热	式のまま=term	裁定後=hejt		
+C4_人手裁定が基本形を決めた群	订	式のまま=abon	裁定後=mend		
+C4_人手裁定が基本形を決めた群	裤	式のまま=kalson	裁定後=pantalon		
+C4_人手裁定が基本形を決めた群	球	式のまま=glob	裁定後=pilk		
+C4_人手裁定が基本形を決めた群	进	式のまま=import	裁定後=progres		
+C4_人手裁定が基本形を決めた群	敬	式のまま=pi	裁定後=respekt		
+C4_人手裁定が基本形を決めた群	盒	式のまま=kased	裁定後=skatol		
+C4_人手裁定が基本形を決めた群	特	式のまま=ekstr	裁定後=special		
+C4_人手裁定が基本形を決めた群	突	式のまま=impet	裁定後=subit		
+C4_人手裁定が基本形を決めた群	肉	式のまま=karn	裁定後=viand		
+C4_人手裁定が基本形を決めた群	票	式のまま=ĉek	裁定後=bilet		
+C4_人手裁定が基本形を決めた群	论	式のまま=teori	裁定後=diskut		
+C4_人手裁定が基本形を決めた群	表	式のまま=epi	裁定後=tabel		
+C4_人手裁定が基本形を決めた群	馆	式のまま=muze	裁定後=hotel		
+C4_人手裁定が基本形を決めた群	抗	式のまま=anti	裁定後=protest		
+C4_人手裁定が基本形を決めた群	空	式のまま=vak	裁定後=spac		
+C4_人手裁定が基本形を決めた群	愚	式のまま=idiot	裁定後=stult		
+C4_人手裁定が基本形を決めた群	衡	式のまま=pes	裁定後=ekvilibr		
+C4_人手裁定が基本形を決めた群	除	式のまま=ektomi	裁定後=escept		
+C4_人手裁定が基本形を決めた群	剧	式のまま=dram	裁定後=teatr		
+C4_人手裁定が基本形を決めた群	讲	式のまま=lekci	裁定後=preleg		
+C4_人手裁定が基本形を決めた群	供	式のまま=liver	裁定後=ofert		
+C4_人手裁定が基本形を決めた群	麦	式のまま=horde	裁定後=tritik		
+C4_人手裁定が基本形を決めた群	毫	式のまま=milimetr	裁定後=mili		
+C4_人手裁定が基本形を決めた群	傲	式のまま=arogant	裁定後=arog		
+C4_人手裁定が基本形を決めた群	哲	式のまま=filozofi	裁定後=filozof		
+C4_人手裁定が基本形を決めた群	厘	式のまま=centimetr	裁定後=centi		
+C4_人手裁定が基本形を決めた群	茅	式のまま=alf	裁定後=espart		
+C4_人手裁定が基本形を決めた群	蠕	式のまま=trikin	裁定後=helmint		
+C4_人手裁定が基本形を決めた群	爬虫	式のまま=reptili	裁定後=sau^r		
+C4_人手裁定が基本形を決めた群	香脂	式のまま=mirh	裁定後=ladan		
+C4_人手裁定が基本形を決めた群	蛾	式のまま=hermini	裁定後=mote		
+C4_人手裁定が基本形を決めた群	猴	式のまま=makak	裁定後=ceb		
+C4_人手裁定が基本形を決めた群	榕	式のまま=sikomor	裁定後=fikus		
+C4_人手裁定が基本形を決めた群	金丝燕	式のまま=apus	裁定後=salangan		
+C4_人手裁定が基本形を決めた群	眼镜蛇	式のまま=aspid	裁定後=kobr		
+C4_人手裁定が基本形を決めた群	水苏	式のまま=betonik	裁定後=staki		
+C4_人手裁定が基本形を決めた群	秧鸡	式のまま=fulik	裁定後=ral		
+C4_人手裁定が基本形を決めた群	蔓	式のまま=lian	裁定後=sarment		
+C4_人手裁定が基本形を決めた群	禾	式のまま=gramin	裁定後=gramine		
+C4_人手裁定が基本形を決めた群	气学家	式のまま=aerolog	裁定後=meteolog		
+C4_人手裁定が基本形を決めた群	气学	式のまま=aerologi	裁定後=meteologi		
+C4_人手裁定が基本形を決めた群	高计	式のまま=altimetr	裁定後=altometr		
+C4_人手裁定が基本形を決めた群	原型	式のまま=arketip	裁定後=prototip		
+C4_人手裁定が基本形を決めた群	神主义	式のまま=deism	裁定後=teism		
+C4_人手裁定が基本形を決めた群	神家	式のまま=deist	裁定後=teist		
+C4_人手裁定が基本形を決めた群	皮翅	式のまま=forfikul	裁定後=dermapter		
+C4_人手裁定が基本形を決めた群	地测	式のまま=geometr	裁定後=geometri		
+C4_人手裁定が基本形を決めた群	乐主义	式のまま=hedonism	裁定後=optimism		
+C4_人手裁定が基本形を決めた群	乐家	式のまま=hedonist	裁定後=optimist		
+C4_人手裁定が基本形を決めた群	肠炎	式のまま=ileit	裁定後=enterit		
+C4_人手裁定が基本形を決めた群	千足	式のまま=skolopendr	裁定後=kilopod		
+C4_人手裁定が基本形を決めた群	速计	式のまま=takimetr	裁定後=rapidometr		
+C3_Unified項で逆転しうる群	代	base=anstataŭ	迫るbasic員=agent		
+C3_Unified項で逆転しうる群	才	base=geni	迫るbasic員=apenaŭ		
+C3_Unified項で逆転しうる群	信	base=kred	迫るbasic員=leter		
+C3_Unified項で逆転しうる群	界	base=lim	迫るbasic員=mond		
+C3_Unified項で逆転しうる群	能	base=pov	迫るbasic員=energi		
+C3_Unified項で逆転しうる群	静	base=trankvil	迫るbasic員=kviet		
+C3_Unified項で逆転しうる群	推	base=puŝ	迫るbasic員=ŝov		
+C3_Unified項で逆転しうる群	法	base=jur	迫るbasic員=metod		
+C3_Unified項で逆転しうる群	诉	base=plend	迫るbasic員=akuz		
+C3_Unified項で逆転しうる群	理	base=prav	迫るbasic員=raci		
+C3_Unified項で逆転しうる群	危	base=danĝer	迫るbasic員=kriz		
+C3_Unified項で逆転しうる群	礼	base=donac	迫るbasic員=ĝentil		
+C3_Unified項で逆転しうる群	尊	base=estim	迫るbasic員=dign		
+C3_Unified項で逆転しうる群	灰	base=griz	迫るbasic員=kalk		
+C3_Unified項で逆転しうる群	虫	base=insekt	迫るbasic員=verm		
+C3_Unified項で逆転しうる群	罪	base=kulp	迫るbasic員=krim,pek		
+C3_Unified項で逆転しうる群	区	base=region	迫るbasic員=kvartal		
+C3_Unified項で逆転しうる群	复	base=ripet	迫るbasic員=kompleks		
+C3_Unified項で逆転しうる群	划	base=plan	迫るbasic員=strek		
+C3_Unified項で逆転しうる群	适	base=taŭg	迫るbasic員=moder		
+C3_Unified項で逆転しうる群	敬	base=respekt	迫るbasic員=pi		
+C3_Unified項で逆転しうる群	票	base=bilet	迫るbasic員=balot		
+C3_Unified項で逆転しうる群	检	base=kontrol	迫るbasic員=ekzamen		
+C3_Unified項で逆転しうる群	表	base=tabel	迫るbasic員=epi		
+C3_Unified項で逆転しうる群	展	base=evolu	迫るbasic員=ekspozici		
+C3_Unified項で逆転しうる群	质	base=esenc	迫るbasic員=substanc		
+C3_Unified項で逆転しうる群	评	base=taks	迫るbasic員=kritik		
+C3_Unified項で逆転しうる群	题	base=tem	迫るbasic員=titol		
+C3_Unified項で逆転しうる群	衡	base=ekvilibr	迫るbasic員=pes		
+C3_Unified項で逆転しうる群	景	base=pejzaĝ	迫るbasic員=panoram		
+C3_Unified項で逆転しうる群	委	base=deleg	迫るbasic員=mandat		
+C3_Unified項で逆転しうる群	牧	base=paŝt	迫るbasic員=pastr		
+C3_Unified項で逆転しうる群	叛	base=ribel	迫るbasic員=perfid		
+C3_Unified項で逆転しうる群	暴风	base=uragan	迫るbasic員=tempest		
+C3_Unified項で逆転しうる群	证	base=viz	迫るbasic員=pruv		
+C3_Unified項で逆転しうる群	股	base=koks	迫るbasic員=femur		
+C3_Unified項で逆転しうる群	类	base=klasifik	迫るbasic員=kategori		
+C3_Unified項で逆転しうる群	肠	base=kolbas	迫るbasic員=intest		
+C3_Unified項で逆転しうる群	拜	base=ador	迫るbasic員=kult		
+C3_Unified項で逆転しうる群	悲	base=aflikt	迫るbasic員=tragedi		
+C3_Unified項で逆転しうる群	统	base=tradici	迫るbasic員=prezident		
+C3_Unified項で逆転しうる群	参	base=stab	迫るbasic員=referenc		
+C3_Unified項で逆転しうる群	痒	base=juk	迫るbasic員=tikl		
+C3_Unified項で逆転しうる群	菌	base=fung	迫るbasic員=bakteri		
+C3_Unified項で逆転しうる群	虚	base=vant	迫るbasic員=fikci		
+C3_Unified項で逆転しうる群	补	base=flik	迫るbasic員=komplement		
+D_CSV誤ラベル	cigar	band=pejvo	bare=False	群=烟	Lv=9.0
+D_CSV誤ラベル	citron	band=pejvo	bare=False	群=果	Lv=7.9
+D_CSV誤ラベル	dimanĉ	band=cal	bare=False	群=日	Lv=3.77
+D_CSV誤ラベル	gitar	band=pejvo	bare=False	群=琴	Lv=8.79
+D_CSV誤ラベル	ju	band=pejvo	bare=False	群=越	Lv=6.83
+D_CSV誤ラベル	kvi	band=piv	bare=False	群=静	Lv=1.77
+D_CSV誤ラベル	lund	band=cal	bare=False	群=月	Lv=3.77
+D_CSV誤ラベル	mard	band=cal	bare=False	群=火	Lv=3.77
+D_CSV誤ラベル	merkred	band=cal	bare=False	群=水	Lv=3.77
+D_CSV誤ラベル	nj	band=pejvo	bare=False	群=女	Lv=7.33
+D_CSV誤ラベル	plur	band=pejvo	bare=False	群=多	Lv=5.83
+D_CSV誤ラベル	pseu^d	band=pejvo	bare=False	群=伪	Lv=8.79
+D_CSV誤ラベル	sabat	band=cal	bare=False	群=土	Lv=3.77
+D_CSV誤ラベル	sekc	band=sci	bare=False	群=切	Lv=9.0
+D_CSV誤ラベル	taksi	band=pejvo	bare=False	群=车	Lv=8.79
+D_CSV誤ラベル	tam	band=piv	bare=False	群=草	Lv=1.77
+D_CSV誤ラベル	ve	band=pejvo	bare=False	群=哀	Lv=8.79
+D_CSV誤ラベル	vendred	band=cal	bare=False	群=金	Lv=3.77
+D_CSV誤ラベル	violon	band=pejvo	bare=False	群=琴	Lv=8.9
+D_CSV誤ラベル	ĵaŭd	band=cal	bare=False	群=木	Lv=3.77
+D_CSV誤ラベル	april	band=cal	bare=True	群=四月	Lv=3.77
+D_CSV誤ラベル	aŭgust	band=cal	bare=True	群=八月	Lv=3.77
+D_CSV誤ラベル	bronz	band=pejvo	bare=True	群=青铜	Lv=8.9
+D_CSV誤ラベル	decembr	band=cal	bare=True	群=十二月	Lv=3.77
+D_CSV誤ラベル	februar	band=cal	bare=True	群=二月	Lv=3.77
+D_CSV誤ラベル	ha	band=pejvo	bare=True	群=啊	Lv=5.67
+D_CSV誤ラベル	ho	band=pejvo	bare=True	群=喂	Lv=5.67
+D_CSV誤ラベル	januar	band=cal	bare=True	群=一月	Lv=3.77
+D_CSV誤ラベル	juli	band=cal	bare=True	群=七月	Lv=3.77
+D_CSV誤ラベル	juni	band=cal	bare=True	群=六月	Lv=3.77
+D_CSV誤ラベル	kilogram	band=piv	bare=True	群=千克	Lv=6.0
+D_CSV誤ラベル	maj	band=cal	bare=True	群=五月	Lv=3.77
+D_CSV誤ラベル	mart	band=cal	bare=True	群=三月	Lv=3.77
+D_CSV誤ラベル	mikrofon	band=piv	bare=True	群=微声	Lv=8.79
+D_CSV誤ラベル	novembr	band=cal	bare=True	群=十一月	Lv=3.77
+D_CSV誤ラベル	nu	band=pejvo	bare=True	群=嘿	Lv=1.77
+D_CSV誤ラベル	oktobr	band=cal	bare=True	群=十月	Lv=3.77
+D_CSV誤ラベル	septembr	band=cal	bare=True	群=九月	Lv=3.77
+D_CSV誤ラベル	telefon	band=piv	bare=True	群=远声	Lv=5.83
+E_PIV誤ラベル	acetat	bare=True	群=醋盐	P=5	
+E_PIV誤ラベル	administrator	bare=True	群=管员	P=5	
+E_PIV誤ラベル	aerobi	bare=True	群=气生	P=5	
+E_PIV誤ラベル	aerodrom	bare=True	群=气道	P=5	
+E_PIV誤ラベル	aerolit	bare=True	群=气石	P=5	
+E_PIV誤ラベル	aerometr	bare=False	群=气计	P=5	
+E_PIV誤ラベル	aeronau^tik	bare=True	群=气航学	P=5	
+E_PIV誤ラベル	aeronau^t	bare=True	群=气航	P=5	
+E_PIV誤ラベル	aeroplan	bare=True	群=气划	P=5	
+E_PIV誤ラベル	aerosol	bare=True	群=气胶ˢ	P=5	
+E_PIV誤ラベル	aerostat	bare=True	群=气态	P=5	
+E_PIV誤ラベル	afoni	bare=True	群=无声	P=5	
+E_PIV誤ラベル	agend	bare=True	群=办须	P=5	
+E_PIV誤ラベル	agnostikism	bare=True	群=不可知主义	P=5	
+E_PIV誤ラベル	agorafobi	bare=True	群=场症	P=5	
+E_PIV誤ラベル	agronomi	bare=False	群=农学	P=5	
+E_PIV誤ラベル	agronom	bare=True	群=农学	P=5	
+E_PIV誤ラベル	akonit	bare=False	群=草	P=5	
+E_PIV誤ラベル	akromat	bare=True	群=无色	P=5	
+E_PIV誤ラベル	akvedukt	bare=True	群=水管ᴰ	P=5	
+E_PIV誤ラベル	albatros	bare=False	群=鸟	P=5	
+E_PIV誤ラベル	albuminuri	bare=True	群=白蛋白尿	P=5	
+E_PIV誤ラベル	alkaloid	bare=True	群=碱似	P=5	
+E_PIV誤ラベル	alopati	bare=True	群=异病	P=5	
+E_PIV誤ラベル	alsin	bare=False	群=草	P=5	
+E_PIV誤ラベル	alternator	bare=True	群=替具	P=5	
+E_PIV誤ラベル	altometr	bare=True	群=高计	P=5	
+E_PIV誤ラベル	altruism	bare=True	群=他主义	P=5	
+E_PIV誤ラベル	altruist	bare=True	群=他家	P=5	
+E_PIV誤ラベル	ameboid	bare=True	群=变形虫似	P=5	
+E_PIV誤ラベル	amorf	bare=True	群=无形	P=5	
+E_PIV誤ラベル	amplifikator	bare=True	群=扩具	P=5	
+E_PIV誤ラベル	analfabet	bare=True	群=无字	P=5	
+E_PIV誤ラベル	anarkism	bare=True	群=无政主义	P=5	
+E_PIV誤ラベル	anarkist	bare=True	群=无政家	P=5	
+E_PIV誤ラベル	anemometr	bare=True	群=风计	P=5	
+E_PIV誤ラベル	anestez	bare=True	群=无感	P=5	
+E_PIV誤ラベル	anhidr	bare=True	群=无水	P=5	
+E_PIV誤ラベル	anonim	bare=True	群=无名	P=5	
+E_PIV誤ラベル	antagonism	bare=True	群=敌主义	P=5	
+E_PIV誤ラベル	antagonist	bare=True	群=敌家	P=5	
+E_PIV誤ラベル	antibiotik	bare=True	群=抗生布	P=5	
+E_PIV誤ラベル	anticiklon	bare=True	群=抗旋	P=5	
+E_PIV誤ラベル	antifon	bare=True	群=抗声	P=5	
+E_PIV誤ラベル	antifraz	bare=True	群=抗句	P=5	
+E_PIV誤ラベル	antigen	bare=True	群=抗原	P=5	
+E_PIV誤ラベル	antikorp	bare=True	群=抗体	P=5	
+E_PIV誤ラベル	antikorpuskl	bare=False	群=抗粒	P=5	
+E_PIV誤ラベル	antineu^trin	bare=True	群=抗中微子	P=5	
+E_PIV誤ラベル	antinomi	bare=True	群=抗律	P=5	
+E_PIV誤ラベル	antipartikl	bare=True	群=抗粒	P=5	
+E_PIV誤ラベル	antipati	bare=True	群=抗情	P=5	
+E_PIV誤ラベル	antipod	bare=True	群=抗足	P=5	
+E_PIV誤ラベル	antiproton	bare=True	群=抗质子子	P=5	
+E_PIV誤ラベル	antiseps	bare=True	群=抗腐	P=5	
+E_PIV誤ラベル	antitez	bare=True	群=抗题	P=5	
+E_PIV誤ラベル	antitoksin	bare=True	群=抗毒	P=5	
+E_PIV誤ラベル	antonim	bare=True	群=反名	P=5	
+E_PIV誤ラベル	antropoid	bare=True	群=人似	P=5	
+E_PIV誤ラベル	antropologi	bare=True	群=人学	P=5	
+E_PIV誤ラベル	antropolog	bare=True	群=人学家	P=5	
+E_PIV誤ラベル	antropometri	bare=True	群=人测	P=5	
+E_PIV誤ラベル	antropomorfism	bare=True	群=人形主义	P=5	
+E_PIV誤ラベル	apati	bare=True	群=无情	P=5	
+E_PIV誤ラベル	apendicit	bare=True	群=虫垂炎	P=5	
+E_PIV誤ラベル	apod	bare=True	群=无足	P=5	
+E_PIV誤ラベル	ara	bare=False	群=鹦	P=5	
+E_PIV誤ラベル	arh^aism	bare=True	群=古主义	P=5	
+E_PIV誤ラベル	arh^eologi	bare=True	群=古学	P=5	
+E_PIV誤ラベル	arh^eolog	bare=True	群=古学家	P=5	
+E_PIV誤ラベル	arkaism	bare=False	群=古主义	P=5	
+E_PIV誤ラベル	arkeologi	bare=False	群=古学	P=5	
+E_PIV誤ラベル	arkeolog	bare=False	群=古学家	P=5	
+E_PIV誤ラベル	arkeopterig	bare=True	群=古翅	P=5	
+E_PIV誤ラベル	artritism	bare=True	群=节炎主义	P=5	
+E_PIV誤ラベル	artrit	bare=True	群=节炎	P=5	
+E_PIV誤ラベル	artropod	bare=True	群=节足	P=5	
+E_PIV誤ラベル	aseps	bare=True	群=无腐	P=5	
+E_PIV誤ラベル	asparag	bare=False	群=菜	P=5	
+E_PIV誤ラベル	astigmatism	bare=True	群=散光主义	P=5	
+E_PIV誤ラベル	astrologi	bare=False	群=星学	P=5	
+E_PIV誤ラベル	astrolog	bare=True	群=星学家	P=5	
+E_PIV誤ラベル	astronau^t	bare=True	群=星航	P=5	
+E_PIV誤ラベル	astronom	bare=True	群=星学	P=5	
+E_PIV誤ラベル	atavism	bare=True	群=祖主义	P=5	
+E_PIV誤ラベル	ateism	bare=True	群=无神主义	P=5	
+E_PIV誤ラベル	ateist	bare=True	群=无神家	P=5	
+E_PIV誤ラベル	atoni	bare=True	群=无张	P=5	
+E_PIV誤ラベル	atrofi	bare=True	群=无养	P=5	
+E_PIV誤ラベル	au^tism	bare=True	群=自主义	P=5	
+E_PIV誤ラベル	au^tobiografi	bare=True	群=自生志	P=5	
+E_PIV誤ラベル	au^togir	bare=True	群=自旋	P=5	
+E_PIV誤ラベル	au^tografi	bare=True	群=自志	P=5	
+E_PIV誤ラベル	au^tograf	bare=True	群=自记	P=5	
+E_PIV誤ラベル	au^tokrati	bare=False	群=专制	P=5	
+E_PIV誤ラベル	au^tokrat	bare=False	群=专制	P=5	
+E_PIV誤ラベル	azuki	bare=False	群=豆	P=5	
+E_PIV誤ラベル	bakteriofag	bare=True	群=菌吞	P=5	
+E_PIV誤ラベル	bakteriologi	bare=False	群=菌学	P=5	
+E_PIV誤ラベル	baobab	bare=False	群=木	P=5	
+E_PIV誤ラベル	barbarism	bare=True	群=蛮主义	P=5	
+E_PIV誤ラベル	bari	bare=False	群=金	P=-0.736	
+E_PIV誤ラベル	barograf	bare=True	群=压记	P=5	
+E_PIV誤ラベル	barometr	bare=False	群=压计	P=5	
+E_PIV誤ラベル	baroskop	bare=True	群=压镜	P=5	
+E_PIV誤ラベル	bibliofili	bare=False	群=经爱	P=5	
+E_PIV誤ラベル	bibliofil	bare=True	群=经爱	P=5	
+E_PIV誤ラベル	bibliografi	bare=True	群=经志	P=5	
+E_PIV誤ラベル	bibliograf	bare=True	群=经记	P=5	
+E_PIV誤ラベル	bigami	bare=True	群=二配	P=5	
+E_PIV誤ラベル	bikonkav	bare=True	群=二ᴮ凹	P=5	
+E_PIV誤ラベル	bikonveks	bare=True	群=二ᴮ凸ᴷ	P=5	
+E_PIV誤ラベル	bimetalism	bare=True	群=二金主义	P=5	
+E_PIV誤ラベル	biofizik	bare=True	群=生物理	P=5	
+E_PIV誤ラベル	biogeografi	bare=True	群=生地志	P=5	
+E_PIV誤ラベル	biografi	bare=True	群=生志	P=5	
+E_PIV誤ラベル	biograf	bare=True	群=生记	P=5	
+E_PIV誤ラベル	biokemi	bare=True	群=生化学	P=5	
+E_PIV誤ラベル	biolog	bare=True	群=生学家	P=5	
+E_PIV誤ラベル	biomas	bare=True	群=生团	P=5	
+E_PIV誤ラベル	biontologi	bare=True	群=生在学	P=5	
+E_PIV誤ラベル	biosfer	bare=True	群=生球	P=5	
+E_PIV誤ラベル	biotop	bare=True	群=生境	P=5	
+E_PIV誤ラベル	biplan	bare=True	群=二ᴮ划	P=5	
+E_PIV誤ラベル	bombiks	bare=False	群=蛾	P=5	
+E_PIV誤ラベル	bradip	bare=False	群=兽	P=5	
+E_PIV誤ラベル	briofit	bare=False	群=苔植	P=5	
+E_PIV誤ラベル	brokol	bare=False	群=菜	P=5	
+E_PIV誤ラベル	bromid	bare=True	群=卤化	P=5	
+E_PIV誤ラベル	bromoform	bare=True	群=卤形	P=5	
+E_PIV誤ラベル	bronkit	bare=True	群=支炎	P=5	
+E_PIV誤ラベル	burd	bare=False	群=蜂	P=5	
+E_PIV誤ラベル	cefalopod	bare=True	群=头足	P=5	
+E_PIV誤ラベル	cekumit	bare=True	群=盲肠炎	P=5	
+E_PIV誤ラベル	celulit	bare=True	群=胞炎	P=5	
+E_PIV誤ラベル	centiar	bare=True	群=厘亩	P=5	
+E_PIV誤ラベル	centigram	bare=True	群=厘克	P=5	
+E_PIV誤ラベル	centilitr	bare=True	群=厘升	P=5	
+E_PIV誤ラベル	cianid	bare=True	群=青化	P=5	
+E_PIV誤ラベル	ciklamen	bare=False	群=花	P=5	
+E_PIV誤ラベル	dali	bare=False	群=菊	P=5	
+E_PIV誤ラベル	dazip	bare=False	群=兽	P=5	
+E_PIV誤ラベル	decigram	bare=True	群=分克	P=5	
+E_PIV誤ラベル	decilitr	bare=True	群=分升	P=5	
+E_PIV誤ラベル	decimetr	bare=True	群=分米	P=5	
+E_PIV誤ラベル	deism	bare=False	群=神主义	P=5	
+E_PIV誤ラベル	deist	bare=False	群=神家	P=5	
+E_PIV誤ラベル	dekagram	bare=True	群=十克	P=5	
+E_PIV誤ラベル	dekalitr	bare=True	群=十升	P=5	
+E_PIV誤ラベル	dekalog	bare=True	群=十戒	P=5	
+E_PIV誤ラベル	dekametr	bare=True	群=十米	P=5	
+E_PIV誤ラベル	deltoid	bare=True	群=三角洲似	P=5	
+E_PIV誤ラベル	demonstrativ	bare=True	群=证被能	P=5	
+E_PIV誤ラベル	demoraliz	bare=True	群=从德化	P=5	
+E_PIV誤ラベル	densometr	bare=True	群=密计	P=5	
+E_PIV誤ラベル	dermatit	bare=False	群=皮炎	P=5	
+E_PIV誤ラベル	dermatologi	bare=True	群=皮学	P=5	
+E_PIV誤ラベル	dermatolog	bare=True	群=皮学家	P=5	
+E_PIV誤ラベル	dermatoz	bare=True	群=皮症	P=5	
+E_PIV誤ラベル	dermit	bare=True	群=皮炎	P=5	
+E_PIV誤ラベル	diagram	bare=True	群=通图	P=5	
+E_PIV誤ラベル	dialektologi	bare=True	群=言学	P=5	
+E_PIV誤ラベル	dialektolog	bare=True	群=言学家	P=5	
+E_PIV誤ラベル	diametr	bare=True	群=通测	P=5	
+E_PIV誤ラベル	diaskop	bare=True	群=通镜	P=5	
+E_PIV誤ラベル	diaterm	bare=True	群=通热	P=5	
+E_PIV誤ラベル	diatermi	bare=True	群=通温	P=5	
+E_PIV誤ラベル	digital	bare=False	群=草	P=5	
+E_PIV誤ラベル	diklorid	bare=True	群=二氯化	P=5	
+E_PIV誤ラベル	diktafon	bare=True	群=述声	P=5	
+E_PIV誤ラベル	dinamism	bare=True	群=力主义	P=5	
+E_PIV誤ラベル	dinamometr	bare=True	群=力计	P=5	
+E_PIV誤ラベル	dipter	bare=True	群=二翅	P=5	
+E_PIV誤ラベル	diskredit	bare=True	群=散信受	P=5	
+E_PIV誤ラベル	divalent	bare=True	群=二价	P=5	
+E_PIV誤ラベル	dividend	bare=True	群=分须	P=5	
+E_PIV誤ラベル	dolc^amar	bare=True	群=甘苦	P=5	
+E_PIV誤ラベル	dominant	bare=True	群=治在	P=5	
+E_PIV誤ラベル	dozologi	bare=True	群=量学	P=5	
+E_PIV誤ラベル	dozometr	bare=True	群=量计	P=5	
+E_PIV誤ラベル	duodenit	bare=True	群=十二指肠炎	P=5	
+E_PIV誤ラベル	ekolog	bare=True	群=境学家	P=5	
+E_PIV誤ラベル	eksponometr	bare=True	群=展计	P=5	
+E_PIV誤ラベル	ekspresionism	bare=True	群=表主义	P=5	
+E_PIV誤ラベル	ektoplasm	bare=True	群=外浆	P=5	
+E_PIV誤ラベル	ekzistencialism	bare=True	群=存主义	P=5	
+E_PIV誤ラベル	ekzistencialist	bare=True	群=存家	P=5	
+E_PIV誤ラベル	ekzoterm	bare=True	群=外热	P=5	
+E_PIV誤ラベル	elateri	bare=False	群=瓜	P=5	
+E_PIV誤ラベル	elektrodinamism	bare=True	群=电力主义	P=5	
+E_PIV誤ラベル	elektrolit	bare=True	群=电解	P=5	
+E_PIV誤ラベル	elektroliz	bare=False	群=电解	P=5	
+E_PIV誤ラベル	elektrometr	bare=True	群=电计	P=5	
+E_PIV誤ラベル	elektron	bare=True	群=电子	P=5	
+E_PIV誤ラベル	elektroskop	bare=True	群=电镜	P=5	
+E_PIV誤ラベル	elektrotip	bare=True	群=电型	P=5	
+E_PIV誤ラベル	elektrotipi	bare=False	群=电型	P=5	
+E_PIV誤ラベル	ele	bare=False	群=木	P=-0.518	
+E_PIV誤ラベル	emboloz	bare=True	群=栓症	P=5	
+E_PIV誤ラベル	embriogenez	bare=False	群=胚源	P=5	
+E_PIV誤ラベル	embriologi	bare=True	群=胚学	P=5	
+E_PIV誤ラベル	embriolog	bare=True	群=胚学家	P=5	
+E_PIV誤ラベル	empirism	bare=True	群=验主义	P=5	
+E_PIV誤ラベル	empirist	bare=True	群=验家	P=5	
+E_PIV誤ラベル	encefalit	bare=True	群=脑炎	P=5	
+E_PIV誤ラベル	encefalopati	bare=True	群=脑病	P=5	
+E_PIV誤ラベル	endokardit	bare=True	群=内心炎	P=5	
+E_PIV誤ラベル	endokard	bare=True	群=内心	P=5	
+E_PIV誤ラベル	endoplasm	bare=True	群=内浆	P=5	
+E_PIV誤ラベル	endoskop	bare=True	群=内镜	P=5	
+E_PIV誤ラベル	endosmoz	bare=True	群=内渗	P=5	
+E_PIV誤ラベル	endoterm	bare=True	群=内热	P=5	
+E_PIV誤ラベル	enterit	bare=True	群=肠炎	P=5	
+E_PIV誤ラベル	entomologi	bare=True	群=虫学	P=5	
+E_PIV誤ラベル	entomolog	bare=True	群=虫学家	P=5	
+E_PIV誤ラベル	ependimit	bare=True	群=室膜炎	P=5	
+E_PIV誤ラベル	epidemiologi	bare=True	群=疫学	P=5	
+E_PIV誤ラベル	epiderm	bare=True	群=表皮	P=5	
+E_PIV誤ラベル	epigastr	bare=True	群=表胃	P=5	
+E_PIV誤ラベル	epiglot	bare=True	群=表声门	P=5	
+E_PIV誤ラベル	epigraf	bare=True	群=表记	P=5	
+E_PIV誤ラベル	epigram	bare=True	群=表字	P=5	
+E_PIV誤ラベル	epilog	bare=True	群=后话	P=5	
+E_PIV誤ラベル	erotomani	bare=True	群=色情狂	P=5	
+E_PIV誤ラベル	eskalator	bare=True	群=梯具	P=5	
+E_PIV誤ラベル	estrad	bare=True	群=讲台	P=5	
+E_PIV誤ラベル	etimologi	bare=True	群=源学	P=5	
+E_PIV誤ラベル	etimolog	bare=True	群=源学家	P=5	
+E_PIV誤ラベル	etiologi	bare=True	群=因学	P=5	
+E_PIV誤ラベル	etiolog	bare=True	群=因学家	P=5	
+E_PIV誤ラベル	etnografi	bare=True	群=族志	P=5	
+E_PIV誤ラベル	etnograf	bare=True	群=族记	P=5	
+E_PIV誤ラベル	etnologi	bare=True	群=族学	P=5	
+E_PIV誤ラベル	etnolog	bare=True	群=族学家	P=5	
+E_PIV誤ラベル	ezofagit	bare=True	群=食管炎	P=5	
+E_PIV誤ラベル	fagocit	bare=True	群=吞胞	P=5	
+E_PIV誤ラベル	faringit	bare=False	群=咽炎	P=5	
+E_PIV誤ラベル	faringoskop	bare=True	群=咽镜	P=5	
+E_PIV誤ラベル	farmakologi	bare=True	群=药学	P=5	
+E_PIV誤ラベル	farmakolog	bare=True	群=药学家	P=5	
+E_PIV誤ラベル	fekul	bare=True	群=淀粉	P=5	
+E_PIV誤ラベル	feminist	bare=True	群=女家	P=5	
+E_PIV誤ラベル	fenikopter	bare=False	群=鸟	P=5	
+E_PIV誤ラベル	fenomenologi	bare=True	群=现学	P=5	
+E_PIV誤ラベル	fibrom	bare=True	群=纤瘤	P=5	
+E_PIV誤ラベル	fibroskop	bare=True	群=纤镜	P=5	
+E_PIV誤ラベル	filantropi	bare=True	群=博爱	P=5	
+E_PIV誤ラベル	filantrop	bare=True	群=博爱者	P=5	
+E_PIV誤ラベル	filologi	bare=True	群=爱学	P=5	
+E_PIV誤ラベル	filolog	bare=True	群=爱学家	P=5	
+E_PIV誤ラベル	fitogeografi	bare=True	群=植地志	P=5	
+E_PIV誤ラベル	fitoterapi	bare=True	群=植疗	P=5	
+E_PIV誤ラベル	fiziografi	bare=True	群=物理志	P=5	
+E_PIV誤ラベル	fiziologi	bare=True	群=生理学	P=5	
+E_PIV誤ラベル	fiziolog	bare=True	群=生理学家	P=5	
+E_PIV誤ラベル	fizioterapi	bare=True	群=物理疗	P=5	
+E_PIV誤ラベル	fluorid	bare=True	群=气化	P=5	
+E_PIV誤ラベル	fonetism	bare=True	群=音主义	P=5	
+E_PIV誤ラベル	fonogram	bare=True	群=声字	P=5	
+E_PIV誤ラベル	fonometr	bare=False	群=声计	P=5	
+E_PIV誤ラベル	fonon	bare=True	群=声子	P=5	
+E_PIV誤ラベル	fonoskop	bare=True	群=声镜	P=5	
+E_PIV誤ラベル	forsiti	bare=False	群=木	P=5	
+E_PIV誤ラベル	fosfat	bare=True	群=磷盐	P=5	
+E_PIV誤ラベル	fosfaturi	bare=True	群=磷盐尿	P=5	
+E_PIV誤ラベル	fosfit	bare=False	群=磷盐	P=5	
+E_PIV誤ラベル	fotoc^el	bare=True	群=光胞	P=5	
+E_PIV誤ラベル	fotogliptik	bare=True	群=拍玉雕	P=5	
+E_PIV誤ラベル	fotografi	bare=True	群=拍志	P=5	
+E_PIV誤ラベル	fotogravur	bare=True	群=拍刻	P=5	
+E_PIV誤ラベル	fotokemi	bare=True	群=光化学	P=5	
+E_PIV誤ラベル	fotokromi	bare=True	群=拍色	P=5	
+E_PIV誤ラベル	fotolitografi	bare=True	群=拍石志	P=5	
+E_PIV誤ラベル	fotometri	bare=True	群=光测	P=5	
+E_PIV誤ラベル	fotometr	bare=True	群=光计	P=5	
+E_PIV誤ラベル	foton	bare=True	群=光子	P=5	
+E_PIV誤ラベル	fotosfer	bare=True	群=光球	P=5	
+E_PIV誤ラベル	fotosintez	bare=True	群=光合	P=5	
+E_PIV誤ラベル	fotostat	bare=True	群=拍态	P=5	
+E_PIV誤ラベル	fototelegraf	bare=True	群=拍远记	P=5	
+E_PIV誤ラベル	fototipi	bare=False	群=拍型	P=5	
+E_PIV誤ラベル	frekvencometr	bare=True	群=频计	P=5	
+E_PIV誤ラベル	ftizologi	bare=True	群=结核学	P=5	
+E_PIV誤ラベル	ftizolog	bare=True	群=结核学家	P=5	
+E_PIV誤ラベル	galvanometr	bare=False	群=电计	P=5	
+E_PIV誤ラベル	galvanoplastik	bare=True	群=电塑	P=5	
+E_PIV誤ラベル	galvanoskop	bare=False	群=电镜	P=5	
+E_PIV誤ラベル	galvanoterapi	bare=False	群=电疗	P=5	
+E_PIV誤ラベル	ganglion	bare=False	群=节	P=5	
+E_PIV誤ラベル	gardeni	bare=False	群=木	P=5	
+E_PIV誤ラベル	gasometr	bare=False	群=气计	P=5	
+E_PIV誤ラベル	gastrokamer	bare=True	群=胃室	P=5	
+E_PIV誤ラベル	gastronom	bare=True	群=胃学	P=5	
+E_PIV誤ラベル	gastropod	bare=True	群=胃足	P=5	
+E_PIV誤ラベル	gastroskopi	bare=False	群=胃镜	P=5	
+E_PIV誤ラベル	gastroskop	bare=True	群=胃镜	P=5	
+E_PIV誤ラベル	gastrospasm	bare=True	群=胃抽筋	P=5	
+E_PIV誤ラベル	gastrostomi	bare=True	群=胃漏	P=5	
+E_PIV誤ラベル	gastrotomi	bare=True	群=胃切	P=5	
+E_PIV誤ラベル	genealogi	bare=True	群=系学	P=5	
+E_PIV誤ラベル	genealog	bare=True	群=系学家	P=5	
+E_PIV誤ラベル	geofizik	bare=True	群=地物理	P=5	
+E_PIV誤ラベル	geograf	bare=True	群=地记	P=5	
+E_PIV誤ラベル	geologi	bare=True	群=地学	P=5	
+E_PIV誤ラベル	geolog	bare=True	群=地学家	P=5	
+E_PIV誤ラベル	geometri	bare=True	群=地测	P=5	
+E_PIV誤ラベル	geometr	bare=False	群=地测	P=5	
+E_PIV誤ラベル	ginekologi	bare=True	群=女学	P=5	
+E_PIV誤ラベル	ginekolog	bare=True	群=女学家	P=5	
+E_PIV誤ラベル	gingivit	bare=True	群=牙肉炎	P=5	
+E_PIV誤ラベル	gink	bare=False	群=木	P=5	
+E_PIV誤ラベル	giroskop	bare=True	群=旋镜	P=5	
+E_PIV誤ラベル	grafism	bare=True	群=记主义	P=5	
+E_PIV誤ラベル	grafologi	bare=True	群=记学	P=5	
+E_PIV誤ラベル	grafolog	bare=True	群=记学家	P=5	
+E_PIV誤ラベル	grafospasm	bare=True	群=记抽筋	P=5	
+E_PIV誤ラベル	gramofon	bare=True	群=图声	P=5	
+E_PIV誤ラベル	guf	bare=False	群=鸟	P=5	
+E_PIV誤ラベル	halogenid	bare=False	群=卤化	P=5	
+E_PIV誤ラベル	haloo	bare=False	群=晕	P=5	
+E_PIV誤ラベル	heksaedr	bare=True	群=六面	P=5	
+E_PIV誤ラベル	heksametr	bare=True	群=六米	P=5	
+E_PIV誤ラベル	hektograf	bare=True	群=百记	P=5	
+E_PIV誤ラベル	hektogram	bare=True	群=百克	P=5	
+E_PIV誤ラベル	hektolitr	bare=True	群=百升	P=5	
+E_PIV誤ラベル	hektometr	bare=True	群=百米	P=5	
+E_PIV誤ラベル	heliostat	bare=True	群=日态	P=5	
+E_PIV誤ラベル	heliotrop	bare=True	群=日向	P=5	
+E_PIV誤ラベル	hemikrani	bare=True	群=半颅	P=5	
+E_PIV誤ラベル	hemipter	bare=True	群=半翅	P=5	
+E_PIV誤ラベル	hepatit	bare=True	群=肝炎	P=5	
+E_PIV誤ラベル	heterogen	bare=True	群=异生	P=5	
+E_PIV誤ラベル	hidroaeroplan	bare=True	群=水气划	P=5	
+E_PIV誤ラベル	hidrocefal	bare=True	群=水头	P=5	
+E_PIV誤ラベル	hidrodinamik	bare=True	群=水力	P=5	
+E_PIV誤ラベル	hidroelektr	bare=True	群=水电	P=5	
+E_PIV誤ラベル	hidrofobi	bare=True	群=水症	P=5	
+E_PIV誤ラベル	hidrogen	bare=True	群=水生	P=5	
+E_PIV誤ラベル	hidrokarbid	bare=True	群=水炭子	P=5	
+E_PIV誤ラベル	hidrokarbon	bare=True	群=水碳	P=5	
+E_PIV誤ラベル	hidroksid	bare=True	群=水氧化	P=5	
+E_PIV誤ラベル	hidrometri	bare=True	群=水测	P=5	
+E_PIV誤ラベル	hidrometr	bare=True	群=水计	P=5	
+E_PIV誤ラベル	hidroplan	bare=True	群=水划	P=5	
+E_PIV誤ラベル	hidrostatik	bare=True	群=水静	P=5	
+E_PIV誤ラベル	hidroterapi	bare=True	群=水疗	P=5	
+E_PIV誤ラベル	higrometr	bare=True	群=湿计	P=5	
+E_PIV誤ラベル	higroskop	bare=True	群=湿镜	P=5	
+E_PIV誤ラベル	himenopter	bare=True	群=膜翅	P=5	
+E_PIV誤ラベル	hiperemi	bare=True	群=超血	P=5	
+E_PIV誤ラベル	hiperonim	bare=True	群=超名	P=5	
+E_PIV誤ラベル	hipertensi	bare=True	群=超压	P=5	
+E_PIV誤ラベル	hipertrofi	bare=True	群=超养	P=5	
+E_PIV誤ラベル	hipodrom	bare=True	群=马道	P=5	
+E_PIV誤ラベル	hipokas^tan	bare=True	群=马栗	P=5	
+E_PIV誤ラベル	hiponim	bare=True	群=亚名	P=5	
+E_PIV誤ラベル	hipopotam	bare=True	群=马河	P=5	
+E_PIV誤ラベル	hipotensi	bare=True	群=亚压	P=5	
+E_PIV誤ラベル	hipotez	bare=True	群=亚题	P=5	
+E_PIV誤ラベル	hipsipet	bare=False	群=鸟	P=5	
+E_PIV誤ラベル	hipsometri	bare=False	群=高测	P=5	
+E_PIV誤ラベル	hipsometr	bare=False	群=高计	P=5	
+E_PIV誤ラベル	hiskiam	bare=False	群=茄	P=5	
+E_PIV誤ラベル	holografi	bare=True	群=全志	P=5	
+E_PIV誤ラベル	hologram	bare=True	群=全图	P=5	
+E_PIV誤ラベル	homogen	bare=True	群=同生	P=5	
+E_PIV誤ラベル	homonim	bare=True	群=同名	P=5	
+E_PIV誤ラベル	horoskop	bare=True	群=钟镜	P=5	
+E_PIV誤ラベル	ibis	bare=False	群=鸟	P=5	
+E_PIV誤ラベル	ideografi	bare=True	群=表意	P=5	
+E_PIV誤ラベル	ideogram	bare=True	群=意字	P=5	
+E_PIV誤ラベル	ideolog	bare=True	群=意学家	P=5	
+E_PIV誤ラベル	idiotism	bare=True	群=愚主义	P=5	
+E_PIV誤ラベル	impresionism	bare=True	群=印象主义	P=5	
+E_PIV誤ラベル	impresionist	bare=True	群=印象家	P=5	
+E_PIV誤ラベル	inciziv	bare=True	群=切ᴵ能ᴵ	P=5	
+E_PIV誤ラベル	individualism	bare=True	群=个主义	P=5	
+E_PIV誤ラベル	individualist	bare=True	群=个家	P=5	
+E_PIV誤ラベル	insekticid	bare=True	群=虫杀	P=5	
+E_PIV誤ラベル	interfac	bare=True	群=间面	P=5	
+E_PIV誤ラベル	interferometr	bare=True	群=涉计	P=5	
+E_PIV誤ラベル	interlingvistik	bare=True	群=间学	P=5	
+E_PIV誤ラベル	interlingvist	bare=True	群=间语家	P=5	
+E_PIV誤ラベル	izobar	bare=True	群=等压	P=5	
+E_PIV誤ラベル	izodinam	bare=True	群=等力	P=5	
+E_PIV誤ラベル	izokron	bare=True	群=等时	P=5	
+E_PIV誤ラベル	izomorf	bare=True	群=等形	P=5	
+E_PIV誤ラベル	izoterm	bare=True	群=等热	P=5	
+E_PIV誤ラベル	izotrop	bare=True	群=等向	P=5	
+E_PIV誤ラベル	jodid	bare=True	群=碘化	P=5	
+E_PIV誤ラベル	jodoform	bare=True	群=碘形	P=5	
+E_PIV誤ラベル	kanaliz	bare=True	群=渠化	P=5	
+E_PIV誤ラベル	kantarid	bare=False	群=虫	P=5	
+E_PIV誤ラベル	karas	bare=False	群=鲤	P=5	
+E_PIV誤ラベル	karbonat	bare=True	群=碳盐	P=5	
+E_PIV誤ラベル	karboni	bare=False	群=碳	P=5	
+E_PIV誤ラベル	kartografi	bare=True	群=卡志	P=5	
+E_PIV誤ラベル	kartograf	bare=True	群=卡记	P=5	
+E_PIV誤ラベル	kaset	bare=False	群=盒	P=5	
+E_PIV誤ラベル	kau^teriz	bare=True	群=灼化	P=5	
+E_PIV誤ラベル	kazuist	bare=True	群=疑难家	P=5	
+E_PIV誤ラベル	kilobajt	bare=True	群=千字节	P=5	
+E_PIV誤ラベル	kilobit	bare=True	群=千位	P=5	
+E_PIV誤ラベル	kilocikl	bare=True	群=千环	P=5	
+E_PIV誤ラベル	kilogram	bare=True	群=千克	P=5	
+E_PIV誤ラベル	kilolitr	bare=True	群=千升	P=5	
+E_PIV誤ラベル	kilovat	bare=True	群=千瓦	P=5	
+E_PIV誤ラベル	kinkon	bare=False	群=木	P=5	
+E_PIV誤ラベル	kinoskop	bare=True	群=映镜	P=5	
+E_PIV誤ラベル	klinometr	bare=True	群=斜计	P=5	
+E_PIV誤ラベル	klorid	bare=True	群=氯化	P=5	
+E_PIV誤ラベル	kojlit	bare=True	群=结肠炎	P=5	
+E_PIV誤ラベル	kokcinel	bare=False	群=虫	P=5	
+E_PIV誤ラベル	koksalgi	bare=True	群=股痛	P=5	
+E_PIV誤ラベル	kolokasi	bare=False	群=草	P=5	
+E_PIV誤ラベル	kolorometr	bare=False	群=色计	P=5	
+E_PIV誤ラベル	komandit	bare=True	群=令受	P=5	
+E_PIV誤ラベル	kompensator	bare=True	群=补具	P=5	
+E_PIV誤ラベル	komutator	bare=True	群=换具	P=5	
+E_PIV誤ラベル	kondensator	bare=True	群=凝具	P=5	
+E_PIV誤ラベル	kondor	bare=False	群=鸟	P=5	
+E_PIV誤ラベル	konjunktivit	bare=True	群=结膜炎	P=5	
+E_PIV誤ラベル	korbikul	bare=False	群=贝	P=5	
+E_PIV誤ラベル	kormoran	bare=False	群=鸟	P=5	
+E_PIV誤ラベル	kosmogoni	bare=True	群=宇源	P=5	
+E_PIV誤ラベル	kosmografi	bare=True	群=宇志	P=5	
+E_PIV誤ラベル	kosmograf	bare=True	群=宇记	P=5	
+E_PIV誤ラベル	kosmologi	bare=True	群=宇学	P=5	
+E_PIV誤ラベル	kosmolog	bare=True	群=宇学家	P=5	
+E_PIV誤ラベル	kosmonau^t	bare=True	群=宇航	P=5	
+E_PIV誤ラベル	kosmos	bare=False	群=菊	P=5	
+E_PIV誤ラベル	koturn	bare=False	群=鸟	P=5	
+E_PIV誤ラベル	kraniometri	bare=True	群=颅测	P=5	
+E_PIV誤ラベル	kriptomeri	bare=False	群=木	P=5	
+E_PIV誤ラベル	kristalografi	bare=True	群=晶志	P=5	
+E_PIV誤ラベル	kristalograf	bare=True	群=晶记	P=5	
+E_PIV誤ラベル	krokus	bare=False	群=花	P=5	
+E_PIV誤ラベル	kromofotografi	bare=True	群=色拍志	P=5	
+E_PIV誤ラベル	kromolitografi	bare=True	群=色石志	P=5	
+E_PIV誤ラベル	kronograf	bare=True	群=时记	P=5	
+E_PIV誤ラベル	kronologi	bare=True	群=时学	P=5	
+E_PIV誤ラベル	kronometr	bare=True	群=时计	P=5	
+E_PIV誤ラベル	kronometri	bare=True	群=时测	P=5	
+E_PIV誤ラベル	ksilofon	bare=True	群=木声	P=5	
+E_PIV誤ラベル	ksilograf	bare=True	群=木记	P=5	
+E_PIV誤ラベル	ksilografi	bare=True	群=木志	P=5	
+E_PIV誤ラベル	kurkum	bare=False	群=姜	P=5	
+E_PIV誤ラベル	labrak	bare=False	群=鱼	P=5	
+E_PIV誤ラベル	lagerstrom	bare=False	群=木	P=5	
+E_PIV誤ラベル	laktoz	bare=True	群=乳糖	P=5	
+E_PIV誤ラベル	laparotomi	bare=True	群=腹切	P=5	
+E_PIV誤ラベル	laringit	bare=True	群=喉炎	P=5	
+E_PIV誤ラベル	leksikologi	bare=True	群=词汇学	P=5	
+E_PIV誤ラベル	levkoj	bare=False	群=草	P=5	
+E_PIV誤ラベル	libel	bare=False	群=虫	P=5	
+E_PIV誤ラベル	limfatism	bare=True	群=淋主义	P=5	
+E_PIV誤ラベル	litografi	bare=True	群=石志	P=5	
+E_PIV誤ラベル	lokomobil	bare=True	群=处动	P=5	
+E_PIV誤ラベル	lumbalgi	bare=True	群=腰痛	P=5	
+E_PIV誤ラベル	macutak	bare=False	群=菌	P=5	
+E_PIV誤ラベル	magnetit	bare=True	群=磁铁矿	P=5	
+E_PIV誤ラベル	magnetometr	bare=True	群=磁计	P=5	
+E_PIV誤ラベル	magneton	bare=True	群=磁子	P=5	
+E_PIV誤ラベル	magnetostring	bare=True	群=磁勒	P=5	
+E_PIV誤ラベル	mahagon	bare=False	群=木	P=5	
+E_PIV誤ラベル	makrocefal	bare=True	群=宏头	P=5	
+E_PIV誤ラベル	makrokosm	bare=True	群=宏宇	P=5	
+E_PIV誤ラベル	makroskop	bare=True	群=宏镜	P=5	
+E_PIV誤ラベル	maltoz	bare=True	群=麦芽糖	P=5	
+E_PIV誤ラベル	mamografi	bare=True	群=乳志	P=5	
+E_PIV誤ラベル	manipulator	bare=True	群=操具	P=5	
+E_PIV誤ラベル	mant	bare=False	群=虫	P=5	
+E_PIV誤ラベル	medolit	bare=False	群=髓炎	P=5	
+E_PIV誤ラベル	megafon	bare=True	群=巨声	P=5	
+E_PIV誤ラベル	megalit	bare=True	群=巨石	P=5	
+E_PIV誤ラベル	megalomani	bare=True	群=巨狂	P=5	
+E_PIV誤ラベル	megavat	bare=True	群=百万瓦	P=5	
+E_PIV誤ラベル	melongen	bare=False	群=茄	P=5	
+E_PIV誤ラベル	meningit	bare=True	群=脑膜炎	P=5	
+E_PIV誤ラベル	metacentr	bare=True	群=超央	P=5	
+E_PIV誤ラベル	metafizik	bare=True	群=超物理	P=5	
+E_PIV誤ラベル	metamorf	bare=True	群=超形	P=5	
+E_PIV誤ラベル	metamorfoz	bare=True	群=超形症	P=5	
+E_PIV誤ラベル	metapsiki	bare=True	群=超心	P=5	
+E_PIV誤ラベル	metastabil	bare=True	群=超稳	P=5	
+E_PIV誤ラベル	metatars	bare=True	群=超足根	P=5	
+E_PIV誤ラベル	meteologi	bare=True	群=气学	P=5	
+E_PIV誤ラベル	meteolog	bare=True	群=气学家	P=5	
+E_PIV誤ラベル	meteorism	bare=True	群=陨主义	P=5	
+E_PIV誤ラベル	meteorologi	bare=False	群=气学	P=5	
+E_PIV誤ラベル	meteorolog	bare=False	群=气学家	P=5	
+E_PIV誤ラベル	metodologi	bare=True	群=方法学	P=5	
+E_PIV誤ラベル	metrologi	bare=True	群=米学	P=5	
+E_PIV誤ラベル	metronom	bare=True	群=计律	P=5	
+E_PIV誤ラベル	mezon	bare=True	群=中子	P=5	
+E_PIV誤ラベル	mikrobiologi	bare=True	群=微生学	P=5	
+E_PIV誤ラベル	mikrofilm	bare=True	群=微影	P=5	
+E_PIV誤ラベル	mikrofon	bare=True	群=微声	P=5	
+E_PIV誤ラベル	mikrokanel	bare=True	群=微槽	P=5	
+E_PIV誤ラベル	mikrokok	bare=True	群=微菌	P=5	
+E_PIV誤ラベル	mikrokosm	bare=True	群=微宇	P=5	
+E_PIV誤ラベル	mikrokredit	bare=True	群=微信受	P=5	
+E_PIV誤ラベル	mikrometr	bare=True	群=微米	P=5	
+E_PIV誤ラベル	mikroorganism	bare=True	群=微器主义	P=5	
+E_PIV誤ラベル	mikroskop	bare=True	群=微镜	P=5	
+E_PIV誤ラベル	mikrotom	bare=True	群=微切	P=5	
+E_PIV誤ラベル	miligram	bare=True	群=毫克	P=5	
+E_PIV誤ラベル	militarism	bare=True	群=军主义	P=5	
+E_PIV誤ラベル	militarist	bare=True	群=军家	P=5	
+E_PIV誤ラベル	milv	bare=False	群=鹰	P=5	
+E_PIV誤ラベル	mimeograf	bare=True	群=印记	P=5	
+E_PIV誤ラベル	mineralogi	bare=True	群=矿学	P=5	
+E_PIV誤ラベル	mineralog	bare=True	群=矿学家	P=5	
+E_PIV誤ラベル	miog	bare=False	群=姜	P=5	
+E_PIV誤ラベル	miriametr	bare=True	群=万米	P=5	
+E_PIV誤ラベル	miriapod	bare=True	群=万足	P=5	
+E_PIV誤ラベル	mitologi	bare=True	群=神话学	P=5	
+E_PIV誤ラベル	mitolog	bare=True	群=神话学家	P=5	
+E_PIV誤ラベル	mitomani	bare=True	群=神话狂	P=5	
+E_PIV誤ラベル	mitrit	bare=True	群=冠炎	P=5	
+E_PIV誤ラベル	mjelit	bare=True	群=髓炎	P=5	
+E_PIV誤ラベル	mobiliz	bare=True	群=动化	P=5	
+E_PIV誤ラベル	monism	bare=True	群=单主义	P=5	
+E_PIV誤ラベル	monogami	bare=True	群=单配	P=5	
+E_PIV誤ラベル	monografi	bare=True	群=单志	P=5	
+E_PIV誤ラベル	monogram	bare=True	群=单字	P=5	
+E_PIV誤ラベル	monokristal	bare=True	群=单晶	P=5	
+E_PIV誤ラベル	monokromat	bare=True	群=单色	P=5	
+E_PIV誤ラベル	monolit	bare=True	群=单石	P=5	
+E_PIV誤ラベル	monolog	bare=True	群=单话	P=5	
+E_PIV誤ラベル	monomani	bare=True	群=单狂	P=5	
+E_PIV誤ラベル	monoplan	bare=True	群=单划	P=5	
+E_PIV誤ラベル	monoteism	bare=True	群=单神主义	P=5	
+E_PIV誤ラベル	monoteist	bare=True	群=单神家	P=5	
+E_PIV誤ラベル	monoton	bare=True	群=单调	P=5	
+E_PIV誤ラベル	morfologi	bare=True	群=形学	P=5	
+E_PIV誤ラベル	morkel	bare=False	群=菌	P=5	
+E_PIV誤ラベル	mukoz	bare=True	群=粘症	P=5	
+E_PIV誤ラベル	muren	bare=False	群=鱼	P=5	
+E_PIV誤ラベル	naturalism	bare=True	群=自然主义	P=5	
+E_PIV誤ラベル	naturalist	bare=True	群=自然家	P=5	
+E_PIV誤ラベル	naturaliz	bare=True	群=自然化	P=5	
+E_PIV誤ラベル	nekrolog	bare=True	群=死志	P=5	
+E_PIV誤ラベル	neolitik	bare=True	群=新石学	P=5	
+E_PIV誤ラベル	neu^ralgi	bare=True	群=神经痛	P=5	
+E_PIV誤ラベル	neu^rasteni	bare=True	群=神经弱	P=5	
+E_PIV誤ラベル	neu^rokirurgi	bare=True	群=神经外科	P=5	
+E_PIV誤ラベル	neu^rologi	bare=False	群=神经学	P=5	
+E_PIV誤ラベル	neu^ropter	bare=True	群=神经翅	P=5	
+E_PIV誤ラベル	neu^roz	bare=True	群=神经症	P=5	
+E_PIV誤ラベル	neu^tron	bare=False	群=中子	P=5	
+E_PIV誤ラベル	nihilism	bare=True	群=无主义	P=5	
+E_PIV誤ラベル	nihilist	bare=True	群=无家	P=5	
+E_PIV誤ラベル	nimfomani	bare=True	群=精狂	P=5	
+E_PIV誤ラベル	nitrat	bare=True	群=氮盐	P=5	
+E_PIV誤ラベル	nitrid	bare=True	群=氮化	P=5	
+E_PIV誤ラベル	nitrit	bare=False	群=氮盐	P=5	
+E_PIV誤ラベル	nitrogen	bare=True	群=氮生	P=5	
+E_PIV誤ラベル	nomenklatur	bare=True	群=命名	P=-0.2	
+E_PIV誤ラベル	nukleon	bare=True	群=核子	P=5	
+E_PIV誤ラベル	numerator	bare=True	群=号具	P=5	
+E_PIV誤ラベル	oceanografi	bare=True	群=洋志	P=5	
+E_PIV誤ラベル	oftalmit	bare=True	群=目炎	P=5	
+E_PIV誤ラベル	oftalmologi	bare=True	群=目学	P=5	
+E_PIV誤ラベル	oftalmolog	bare=True	群=目学家	P=5	
+E_PIV誤ラベル	oksigen	bare=True	群=氧生	P=5	
+E_PIV誤ラベル	ondometr	bare=True	群=波计	P=5	
+E_PIV誤ラベル	ontogenez	bare=True	群=在源	P=5	
+E_PIV誤ラベル	ontologi	bare=True	群=存在学	P=5	
+E_PIV誤ラベル	optimism	bare=True	群=乐主义	P=5	
+E_PIV誤ラベル	optimist	bare=True	群=乐家	P=5	
+E_PIV誤ラベル	organism	bare=True	群=器主义	P=5	
+E_PIV誤ラベル	orientalism	bare=True	群=东主义	P=5	
+E_PIV誤ラベル	orientalist	bare=True	群=东家	P=5	
+E_PIV誤ラベル	orientologi	bare=True	群=东学	P=5	
+E_PIV誤ラベル	orientolog	bare=True	群=东学家	P=5	
+E_PIV誤ラベル	origan	bare=False	群=香草	P=5	
+E_PIV誤ラベル	orkidit	bare=True	群=丸炎	P=5	
+E_PIV誤ラベル	ornitologi	bare=True	群=鸟学	P=5	
+E_PIV誤ラベル	ornitolog	bare=True	群=鸟学家	P=5	
+E_PIV誤ラベル	ornitorink	bare=True	群=鸟嘴	P=5	
+E_PIV誤ラベル	ortogenez	bare=True	群=直源	P=5	
+E_PIV誤ラベル	ortokromat	bare=True	群=直色	P=5	
+E_PIV誤ラベル	ortopter	bare=True	群=直翅	P=5	
+E_PIV誤ラベル	oscilator	bare=False	群=振具	P=5	
+E_PIV誤ラベル	oscilograf	bare=True	群=振记	P=5	
+E_PIV誤ラベル	osciloskop	bare=True	群=振镜	P=5	
+E_PIV誤ラベル	osmozometr	bare=False	群=渗计	P=5	
+E_PIV誤ラベル	ostologi	bare=True	群=骨学	P=5	
+E_PIV誤ラベル	otit	bare=True	群=耳炎	P=5	
+E_PIV誤ラベル	otorinolaringologi	bare=True	群=耳鼻喉学	P=5	
+E_PIV誤ラベル	pacifism	bare=True	群=和主义	P=5	
+E_PIV誤ラベル	pacifist	bare=True	群=和家	P=5	
+E_PIV誤ラベル	pagr	bare=False	群=鱼	P=5	
+E_PIV誤ラベル	paleografi	bare=True	群=古志	P=5	
+E_PIV誤ラベル	paleograf	bare=True	群=古记	P=5	
+E_PIV誤ラベル	paleolitik	bare=True	群=古石学	P=5	
+E_PIV誤ラベル	paleontologi	bare=False	群=古学	P=5	
+E_PIV誤ラベル	paleontolog	bare=False	群=古学家	P=5	
+E_PIV誤ラベル	palisandr	bare=False	群=木	P=5	
+E_PIV誤ラベル	pankromat	bare=True	群=全色	P=5	
+E_PIV誤ラベル	panteism	bare=True	群=全神主义	P=5	
+E_PIV誤ラベル	panteist	bare=True	群=全神家	P=5	
+E_PIV誤ラベル	paralelogram	bare=True	群=并图	P=5	
+E_PIV誤ラベル	parazitologi	bare=True	群=寄生学	P=5	
+E_PIV誤ラベル	paroksism	bare=True	群=极主义	P=5	
+E_PIV誤ラベル	patogen	bare=True	群=病生	P=5	
+E_PIV誤ラベル	patologi	bare=True	群=病学	P=5	
+E_PIV誤ラベル	patolog	bare=True	群=病学家	P=5	
+E_PIV誤ラベル	patri	bare=False	群=父	P=5	
+E_PIV誤ラベル	pedofili	bare=True	群=童爱	P=5	
+E_PIV誤ラベル	pedologi	bare=True	群=童学	P=5	
+E_PIV誤ラベル	penicili	bare=False	群=菌	P=5	
+E_PIV誤ラベル	pentametr	bare=True	群=五米	P=5	
+E_PIV誤ラベル	periheli	bare=True	群=围日	P=5	
+E_PIV誤ラベル	perikardi	bare=False	群=围心	P=5	
+E_PIV誤ラベル	perikard	bare=True	群=围心	P=5	
+E_PIV誤ラベル	perimetr	bare=True	群=围测	P=5	
+E_PIV誤ラベル	periost	bare=True	群=围骨	P=5	
+E_PIV誤ラベル	periskop	bare=True	群=围镜	P=5	
+E_PIV誤ラベル	perkolat	bare=True	群=浸被	P=5	
+E_PIV誤ラベル	permanganat	bare=True	群=过锰盐	P=5	
+E_PIV誤ラベル	peroksid	bare=True	群=过氧化	P=5	
+E_PIV誤ラベル	pesimism	bare=True	群=悲主义	P=5	
+E_PIV誤ラベル	pesimist	bare=True	群=悲家	P=5	
+E_PIV誤ラベル	pietism	bare=True	群=敬主义	P=5	
+E_PIV誤ラベル	pirheliometr	bare=True	群=火日计	P=5	
+E_PIV誤ラベル	piroelektr	bare=True	群=火电	P=5	
+E_PIV誤ラベル	piromagnet	bare=True	群=火磁	P=5	
+E_PIV誤ラベル	piroteknik	bare=True	群=火技	P=5	
+E_PIV誤ラベル	piroz	bare=True	群=火ᴾ症ᴼ	P=5	
+E_PIV誤ラベル	pistil	bare=True	群=捣具	P=5	
+E_PIV誤ラベル	planimetri	bare=True	群=平测	P=5	
+E_PIV誤ラベル	pleu^rit	bare=True	群=胸膜炎	P=5	
+E_PIV誤ラベル	pneu^moni	bare=False	群=肺	P=5	
+E_PIV誤ラベル	polarimetr	bare=True	群=极计	P=5	
+E_PIV誤ラベル	polariz	bare=True	群=极化	P=5	
+E_PIV誤ラベル	polenoz	bare=True	群=粉症	P=5	
+E_PIV誤ラベル	polifoni	bare=True	群=多声	P=5	
+E_PIV誤ラベル	poligami	bare=True	群=多配	P=5	
+E_PIV誤ラベル	poliklinik	bare=True	群=多诊	P=5	
+E_PIV誤ラベル	polimer	bare=True	群=多链节	P=5	
+E_PIV誤ラベル	poliomjelit	bare=True	群=灰髓炎	P=5	
+E_PIV誤ラベル	polipoz	bare=True	群=息肉症	P=5	
+E_PIV誤ラベル	politeism	bare=True	群=多神主义	P=5	
+E_PIV誤ラベル	politeist	bare=True	群=多神家	P=5	
+E_PIV誤ラベル	politeknik	bare=True	群=多技	P=5	
+E_PIV誤ラベル	politolog	bare=True	群=政学家	P=5	
+E_PIV誤ラベル	pomologi	bare=True	群=苹学	P=5	
+E_PIV誤ラベル	popl	bare=False	群=柳	P=5	
+E_PIV誤ラベル	pore	bare=False	群=葱	P=5	
+E_PIV誤ラベル	pornografi	bare=True	群=淫志	P=5	
+E_PIV誤ラベル	postulat	bare=True	群=求被	P=5	
+E_PIV誤ラベル	predikativ	bare=True	群=谓能	P=5	
+E_PIV誤ラベル	prestidigitator	bare=True	群=戏法员	P=5	
+E_PIV誤ラベル	prolog	bare=True	群=前话	P=5	
+E_PIV誤ラベル	protokanajl	bare=True	群=原恶棍	P=5	
+E_PIV誤ラベル	proton	bare=True	群=质子子	P=5	
+E_PIV誤ラベル	protoplasm	bare=True	群=原浆	P=5	
+E_PIV誤ラベル	prototip	bare=True	群=原型	P=5	
+E_PIV誤ラベル	provincialism	bare=True	群=省主义	P=5	
+E_PIV誤ラベル	pseu^donim	bare=True	群=伪名	P=5	
+E_PIV誤ラベル	psikolog	bare=True	群=心学家	P=5	
+E_PIV誤ラベル	psikoz	bare=True	群=心症	P=5	
+E_PIV誤ラベル	radiestez	bare=True	群=射感	P=5	
+E_PIV誤ラベル	radioaktiv	bare=True	群=射活	P=5	
+E_PIV誤ラベル	radiofoni	bare=False	群=射声	P=5	
+E_PIV誤ラベル	radiofon	bare=True	群=射声	P=5	
+E_PIV誤ラベル	radiofotografi	bare=True	群=射拍志	P=5	
+E_PIV誤ラベル	radiograf	bare=True	群=射记	P=5	
+E_PIV誤ラベル	radiografi	bare=True	群=射志	P=5	
+E_PIV誤ラベル	radiogram	bare=True	群=射图	P=5	
+E_PIV誤ラベル	radiologi	bare=True	群=射学	P=5	
+E_PIV誤ラベル	radiolog	bare=True	群=射学家	P=5	
+E_PIV誤ラベル	radiometr	bare=True	群=射计	P=5	
+E_PIV誤ラベル	radioskopi	bare=True	群=射镜	P=5	
+E_PIV誤ラベル	radioterapi	bare=True	群=射疗	P=5	
+E_PIV誤ラベル	rapidometr	bare=True	群=速计	P=5	
+E_PIV誤ラベル	recit	bare=True	群=再引	P=5	
+E_PIV誤ラベル	referat	bare=True	群=报被	P=5	
+E_PIV誤ラベル	refleksologi	bare=True	群=反射学	P=5	
+E_PIV誤ラベル	reformator	bare=True	群=再形员ᴬᵀ	P=5	
+E_PIV誤ラベル	refraktometr	bare=True	群=折计	P=5	
+E_PIV誤ラベル	regulator	bare=True	群=规具	P=5	
+E_PIV誤ラベル	rektumoskopi	bare=False	群=直肠镜	P=5	
+E_PIV誤ラベル	rektumoskop	bare=True	群=直肠镜	P=5	
+E_PIV誤ラベル	renom	bare=True	群=再名	P=5	
+E_PIV誤ラベル	reologi	bare=True	群=流学	P=5	
+E_PIV誤ラベル	reostat	bare=True	群=流态	P=5	
+E_PIV誤ラベル	resonator	bare=True	群=再声具ᴬ	P=5	
+E_PIV誤ラベル	retus^	bare=True	群=再触	P=5	
+E_PIV誤ラベル	reu^matism	bare=True	群=风湿主义	P=5	
+E_PIV誤ラベル	rezultat	bare=True	群=果被	P=5	
+E_PIV誤ラベル	ro	bare=False	群=木	P=-0.849	
+E_PIV誤ラベル	rojalism	bare=True	群=王主义	P=5	
+E_PIV誤ラベル	rojalist	bare=True	群=王党者	P=5	
+E_PIV誤ラベル	rosmaren	bare=False	群=香草	P=5	
+E_PIV誤ラベル	ruditap	bare=False	群=蛤	P=5	
+E_PIV誤ラベル	sakaroz	bare=True	群=蔗糖	P=5	
+E_PIV誤ラベル	sakur	bare=False	群=樱	P=5	
+E_PIV誤ラベル	santal	bare=False	群=木	P=5	
+E_PIV誤ラベル	sekvoj	bare=False	群=木	P=5	
+E_PIV誤ラベル	seriol	bare=False	群=鱼	P=5	
+E_PIV誤ラベル	sferometr	bare=True	群=球计	P=5	
+E_PIV誤ラベル	silikoz	bare=True	群=硅症	P=5	
+E_PIV誤ラベル	silogism	bare=True	群=论主义	P=5	
+E_PIV誤ラベル	sinkretism	bare=True	群=混主义	P=5	
+E_PIV誤ラベル	sinkron	bare=True	群=共时	P=5	
+E_PIV誤ラベル	sinonim	bare=True	群=共名	P=5	
+E_PIV誤ラベル	sismograf	bare=True	群=震记	P=5	
+E_PIV誤ラベル	sismologi	bare=True	群=震学	P=5	
+E_PIV誤ラベル	skafark	bare=False	群=贝	P=5	
+E_PIV誤ラベル	skapolalgi	bare=True	群=肩痛	P=5	
+E_PIV誤ラベル	skleroz	bare=True	群=硬症	P=5	
+E_PIV誤ラベル	sociologi	bare=True	群=社学	P=5	
+E_PIV誤ラベル	sociolog	bare=True	群=社学家	P=5	
+E_PIV誤ラベル	sonmetr	bare=True	群=声计	P=5	
+E_PIV誤ラベル	spektator	bare=True	群=观员	P=5	
+E_PIV誤ラベル	spektrograf	bare=True	群=谱记	P=5	
+E_PIV誤ラベル	spektrogram	bare=True	群=谱图	P=5	
+E_PIV誤ラベル	spektrometri	bare=True	群=谱测	P=5	
+E_PIV誤ラベル	spektrometr	bare=True	群=谱计	P=5	
+E_PIV誤ラベル	spektroskopi	bare=False	群=谱镜	P=5	
+E_PIV誤ラベル	spektroskop	bare=True	群=谱镜	P=5	
+E_PIV誤ラベル	speleologi	bare=True	群=洞学	P=5	
+E_PIV誤ラベル	spiritualism	bare=True	群=灵主义	P=5	
+E_PIV誤ラベル	spiritualist	bare=True	群=灵家	P=5	
+E_PIV誤ラベル	stereofoni	bare=False	群=立体声	P=5	
+E_PIV誤ラベル	stereofon	bare=True	群=立体声	P=5	
+E_PIV誤ラベル	stereografi	bare=True	群=立体志	P=5	
+E_PIV誤ラベル	stereometri	bare=True	群=立体测	P=5	
+E_PIV誤ラベル	stereoskopi	bare=False	群=立体镜	P=5	
+E_PIV誤ラベル	stereoskop	bare=True	群=立体镜	P=5	
+E_PIV誤ラベル	stetoskop	bare=True	群=胸镜	P=5	
+E_PIV誤ラベル	stomakit	bare=False	群=胃炎	P=5	
+E_PIV誤ラベル	stroboskop	bare=True	群=闪镜	P=5	
+E_PIV誤ラベル	sturg	bare=False	群=鱼	P=5	
+E_PIV誤ラベル	sublimat	bare=True	群=崇被	P=5	
+E_PIV誤ラベル	sulfat	bare=True	群=硫盐	P=5	
+E_PIV誤ラベル	sulfid	bare=True	群=硫化	P=5	
+E_PIV誤ラベル	sulfit	bare=False	群=硫盐	P=5	
+E_PIV誤ラベル	superpozici	bare=True	群=上位	P=5	
+E_PIV誤ラベル	taksimetr	bare=True	群=车计	P=5	
+E_PIV誤ラベル	tamarind	bare=False	群=木	P=5	
+E_PIV誤ラベル	taoism	bare=True	群=道主义	P=5	
+E_PIV誤ラベル	taoist	bare=True	群=道家	P=5	
+E_PIV誤ラベル	tartrat	bare=True	群=酒石盐	P=5	
+E_PIV誤ラベル	teism	bare=True	群=神主义	P=5	
+E_PIV誤ラベル	teist	bare=True	群=神家	P=5	
+E_PIV誤ラベル	telefilm	bare=True	群=远影	P=5	
+E_PIV誤ラベル	telefon	bare=True	群=远声	P=5	
+E_PIV誤ラベル	telefotograf	bare=True	群=远拍记	P=5	
+E_PIV誤ラベル	telegrafi	bare=True	群=远志	P=5	
+E_PIV誤ラベル	telekomand	bare=True	群=远令	P=5	
+E_PIV誤ラベル	telekopi	bare=True	群=远复	P=5	
+E_PIV誤ラベル	telemetr	bare=True	群=远计	P=5	
+E_PIV誤ラベル	telemetri	bare=True	群=远测	P=5	
+E_PIV誤ラベル	telepati	bare=True	群=远情	P=5	
+E_PIV誤ラベル	tensiometr	bare=False	群=压计	P=5	
+E_PIV誤ラベル	teokrati	bare=False	群=神治	P=5	
+E_PIV誤ラベル	teokrat	bare=True	群=神治	P=5	
+E_PIV誤ラベル	teologi	bare=True	群=神学	P=5	
+E_PIV誤ラベル	teolog	bare=True	群=神学家	P=5	
+E_PIV誤ラベル	teratologi	bare=True	群=畸学	P=5	
+E_PIV誤ラベル	terminologi	bare=True	群=词学	P=5	
+E_PIV誤ラベル	termodinamik	bare=True	群=热力	P=5	
+E_PIV誤ラベル	termoelektr	bare=True	群=热电	P=5	
+E_PIV誤ラベル	termoelektron	bare=True	群=热电子	P=5	
+E_PIV誤ラベル	termokupl	bare=True	群=热连	P=5	
+E_PIV誤ラベル	termologi	bare=True	群=热学	P=5	
+E_PIV誤ラベル	termometri	bare=True	群=热测	P=5	
+E_PIV誤ラベル	termonukle	bare=True	群=热核	P=5	
+E_PIV誤ラベル	termopar	bare=True	群=热偶	P=5	
+E_PIV誤ラベル	termosifon	bare=True	群=热虹吸	P=5	
+E_PIV誤ラベル	termoskop	bare=True	群=热镜	P=5	
+E_PIV誤ラベル	termostatik	bare=True	群=热静	P=5	
+E_PIV誤ラベル	termostat	bare=True	群=热态	P=5	
+E_PIV誤ラベル	tifoid	bare=True	群=疹似	P=5	
+E_PIV誤ラベル	timpanit	bare=True	群=鼓室炎	P=5	
+E_PIV誤ラベル	tipografi	bare=True	群=型志	P=5	
+E_PIV誤ラベル	tipograf	bare=True	群=型记	P=5	
+E_PIV誤ラベル	tipometr	bare=True	群=型计	P=5	
+E_PIV誤ラベル	toksologi	bare=True	群=毒学	P=5	
+E_PIV誤ラベル	toksolog	bare=True	群=毒学家	P=5	
+E_PIV誤ラベル	tonsilit	bare=True	群=扁桃炎	P=5	
+E_PIV誤ラベル	topografi	bare=True	群=地志	P=5	
+E_PIV誤ラベル	topograf	bare=False	群=地记	P=5	
+E_PIV誤ラベル	trah^eit	bare=True	群=气管炎	P=5	
+E_PIV誤ラベル	trah^eotomi	bare=True	群=气管切	P=5	
+E_PIV誤ラベル	trakeit	bare=False	群=气管炎	P=5	
+E_PIV誤ラベル	trakeotomi	bare=False	群=气管切	P=5	
+E_PIV誤ラベル	transformator	bare=True	群=越形具	P=5	
+E_PIV誤ラベル	transit	bare=False	群=过	P=-1.136	
+E_PIV誤ラベル	tremometr	bare=True	群=颤计	P=5	
+E_PIV誤ラベル	trikromi	bare=True	群=三色ᴷᴵ	P=5	
+E_PIV誤ラベル	trirem	bare=True	群=三划ᴿ	P=5	
+E_PIV誤ラベル	tromboz	bare=False	群=栓症	P=5	
+E_PIV誤ラベル	tropism	bare=True	群=向主义	P=5	
+E_PIV誤ラベル	trut	bare=False	群=鱼	P=5	
+E_PIV誤ラベル	tuberkuloz	bare=True	群=结症	P=5	
+E_PIV誤ラベル	ugvis	bare=False	群=莺	P=5	
+E_PIV誤ラベル	ulm	bare=False	群=木	P=5	
+E_PIV誤ラベル	ultramar	bare=True	群=极海	P=5	
+E_PIV誤ラベル	ureat	bare=True	群=尿素盐	P=5	
+E_PIV誤ラベル	uzurpator	bare=True	群=篡员	P=5	
+E_PIV誤ラベル	vaginism	bare=True	群=阴道主义	P=5	
+E_PIV誤ラベル	vaginit	bare=True	群=阴道炎	P=5	
+E_PIV誤ラベル	vakumetr	bare=True	群=空计	P=5	
+E_PIV誤ラベル	vapormetr	bare=True	群=汽计	P=5	
+E_PIV誤ラベル	variant	bare=True	群=变在	P=5	
+E_PIV誤ラベル	vasabi	bare=False	群=辣根	P=5	
+E_PIV誤ラベル	vathorometr	bare=True	群=瓦钟计	P=5	
+E_PIV誤ラベル	vatmetr	bare=True	群=瓦计	P=5	
+E_PIV誤ラベル	vejnit	bare=False	群=脉炎	P=5	
+E_PIV誤ラベル	vibrometr	bare=True	群=振计	P=5	
+E_PIV誤ラベル	viskozometr	bare=True	群=粘计	P=5	
+E_PIV誤ラベル	vivisekci	bare=True	群=活切	P=5	
+E_PIV誤ラベル	volumenometr	bare=True	群=积计	P=5	
+E_PIV誤ラベル	zoofit	bare=True	群=兽植	P=5	
+E_PIV誤ラベル	zoogeografi	bare=True	群=兽地志	P=5	
+E_PIV誤ラベル	zoolog	bare=True	群=兽学家	P=5	
+E_PIV誤ラベル	zoster	bare=False	群=草	P=5	
+E_PIV誤ラベル	sargas	bare=False	群=藻	P=0.707	
+E_PIV誤ラベル	montenegr	bare=True	群=山黑	P=5	

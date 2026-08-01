@@ -1,0 +1,200 @@
+====================================================================================================
+■ 0. 前提検査 — ソートの Python 再実装が現行の基本形を再現するか
+====================================================================================================
+   ※これが100%でなければ以降の反実仮想は全て無意味。先に潰す。
+   漢字群 5398 / 現行出力と照合できた群 5398 / ★不一致 0 群
+   ★完全再現。反実仮想の土台が成立。
+   識別子まで完全移植して照合: 語根 10413 / ★id不一致 0 件
+
+====================================================================================================
+■ A. 連鎖の各リンクは意図どおりか
+====================================================================================================
+
+   [A1] `br` 列 vs 実効br(=BR[band]) の乖離 = 385行 / 全10413行
+        band=piv     br列=1 → 実効br=2  :  138行
+        band=func    br列=1 → 実効br=0  :   55行
+        band=suf     br列=1 → 実効br=0  :   48行
+        band=correl  br列=1 → 実効br=0  :   45行
+        band=prep    br列=1 → 実効br=0  :   32行
+        band=pref    br列=1 → 実効br=0  :   26行
+        band=basic   br列=1 → 実効br=0  :   26行
+        band=num     br列=1 → 実効br=0  :   15行
+        ※`_gas_identifier.ps1` も `_audit_priority.ps1` も band から br を引き直すので
+          この列を読む消費者は存在しない(実害0)。ただし『br列を信じた分析』は必ず誤る潜在トラップ。
+
+   [A2] 『|ΔC|<=1.0 なら綴り長を優先』という閾値ルールが層を跨ぐか
+        P の実測レンジ = -7.039 .. 5.000 (幅 12.039) → 異band間の |ΔC| の下限 = 987.961 > 1.0
+        実データでの異band かつ |ΔC|<=1.0 の対 = 0 対
+        → ★綴り長ルールは同band内でしか発火し得ない=層順は構造的に保護されている(実証)。
+
+   [A3] 台帳から読み込んだ常設advisory: CSV_MISLABEL=39件 / PIV_MISLABEL_PEJVO=824件
+        うち P=5 センチネル(隙間充填で意図的に band=piv を与えた行) = 818件 / 真の誤ラベル = 6件
+
+====================================================================================================
+■ B. ★中核 — 863件のラベルを正すと基本形は動くか(反実仮想)
+====================================================================================================
+   既存[A]逆転監査は『真層が逆転しているか』だけを見るので、同一真層内でラベル誤りが
+   基本形を決めている場合を原理的に検出できない。そこを直接測る。
+   ラベルを正した語根 = 860件(重複除去後)
+   誤ラベルを含む漢字群 = 770群 / うち複数員の群 = 133群
+   ★ラベルを正すと基本形が交代する群 = 13群
+     群=哀      員 3  現行base=kondolenc     (basic,P=-1.01,len=9) → 是正後=ve            (pejvo,P=-1.65,len=2)
+     群=气计     員 4  現行base=gasmetr       (piv,P=5.00,len=7) → 是正後=aerometr      (piv,P=5.00,len=8)
+     群=高测     員 2  現行base=altometri     (piv,P=5.00,len=9) → 是正後=hipsometri    (piv,P=5.00,len=10)
+     群=脉炎     員 5  現行base=flebit        (piv,P=5.00,len=6) → 是正後=vejnit        (piv,P=5.00,len=6)
+     群=菌学     員 4  現行base=mikologi      (piv,P=5.00,len=8) → 是正後=bakteriologi  (piv,P=5.00,len=12)
+     群=苔植     員 2  現行base=brifit        (piv,P=5.00,len=6) → 是正後=briofit       (piv,P=5.00,len=7)
+     群=胚源     員 2  現行base=embrigenez    (piv,P=5.00,len=10) → 是正後=embriogenez   (piv,P=5.00,len=11)
+     群=拍型     員 2  現行base=fototip       (piv,P=5.00,len=7) → 是正後=fototipi      (piv,P=5.00,len=8)
+     群=胃炎     員 2  現行base=gastrit       (piv,P=5.00,len=7) → 是正後=stomakit      (piv,P=5.00,len=8)
+     群=色计     員 2  現行base=kolormetr     (piv,P=5.00,len=9) → 是正後=kolorometr    (piv,P=5.00,len=10)
+     群=神经学    員 2  現行base=nervologi     (piv,P=5.00,len=9) → 是正後=neu^rologi    (piv,P=5.00,len=9)
+     群=振具     員 2  現行base=vibrator      (piv,P=5.00,len=8) → 是正後=oscilator     (piv,P=5.00,len=9)
+     群=渗计     員 2  現行base=osmozmetr     (piv,P=5.00,len=9) → 是正後=osmozometr    (piv,P=5.00,len=10)
+   → ★識別子の実変化 = 61件 (うち基本形が動いていない群での変化 = 34件)
+     例: berili 'br'→'bl', bari 'ba'→'br', diurn 'd'→'dr', dimanĉ 'dm'→'d', evonim 'e'→'ev', ele 'el'→'e', eŭkalipt 'et'→'el', fraksen 'fs'→'fk'
+
+   [B2] ★P=5センチネル818件は隙間充填の『規約』であって誤ラベルではない。
+        規約を尊重し真の誤ラベルだけ(42件=CSV側36+PIV側6)を正した場合の基本形交代 = 1群
+          群=哀      現行=kondolenc      → 是正後=ve
+        ★識別子の実変化 = 15件 / うち基本形が動いていない群 = 13件
+        berili 'br'→'bl', bari 'ba'→'br', diurn 'd'→'dr', dimanĉ 'dm'→'d', evonim 'e'→'ev', ele 'el'→'e', eŭkalipt 'et'→'el', poli 'p'→'po', plur 'pr'→'p', tragant 't'→'tr'
+        [B2'] 哀のみを `_base_override.tsv` の1行で解決した場合の churn = ★2件 (kondolenc ''→'k', ve 'v'→'')
+
+====================================================================================================
+■ C. ★層内で無印(基本形)を決めているのは何か — ソートキーの項別分解
+====================================================================================================
+   稼働中の P の式(`_audit_pvalue_consistency.ps1` L23 が正)は
+       P = -( ln(F+1) + 0.3*E - 0.1*st )
+   すなわち層内の勝敗は ①派生生産性F(大きいほど勝つ) ②E ③画数st(少ないほど勝つ) で決まる。
+   ★ユーザーが名指しした難易度指標 Unified_Level はこの式に入っていない(後述C3)。
+
+   [C0] 式が成り立つ行 = 7507 / 式外(P=5センチネル+旧P値) = 2906
+        ※以下の反実仮想は『式が成り立つ行の項だけ』を動かす。式外行の P は据え置く。
+
+   複数員の漢字群 = 1593群 を対象に、項を1つ外したときの基本形交代数を測る
+   ★注意(続64の独立検証で指摘): この drop検定は『項の決定力』ではなく『摂動の大きさ』を
+     一部反映する。群内中心化偏差のSDを併記して、比が分散比の写像であることを開示する。
+     派生生産性 -ln(F+1)       を外すと基本形が変わる群 =  132群 (8.3%)  群内偏差SD=0.7420 / 群内で値が割れる群=1414
+     圧縮率項 -0.3E           を外すと基本形が変わる群 =    8群 (0.5%)  群内偏差SD=0.0659 / 群内で値が割れる群=1327
+     画数項 +0.1st           を外すと基本形が変わる群 =    4群 (0.3%)  群内偏差SD=0.0543 / 群内で値が割れる群=62
+     ★画数項の『4群』は撤回する: st は k(漢字)の関数なので群内で割れる群は 62 しかなく、
+       4群のうち実際に st が割れるのは 诲/毒蛇 の2群だけ(残りは閾値レジーム変化の巻き添え)。
+     [C1] band(層)だけで基本形が一意に決まる群 = 554群 (34.8%)  ←第1の決定要因
+     [C2] 綴り長ルール(|ΔC|<=1.0)が基本形の決定に関与する群 = 548群 (34.4%) ←第2の決定要因
+
+   [C3] ★Unified_Level 項 0.01*(u-5) を稼働キーに入れたら基本形は動くか
+        (`_build_priority_work.ps1` L13/L227 に UnifiedWeight=0.01 の項が実装済だが稼働Pには未適用)
+        項の全振れ幅 = 0.01*(10-1) = 0.09
+        ★『|ΔC|<=0.09 の対しか逆転し得ない=厳密上界』という当初の主張は撤回する(続64の独立検証)。
+          比較器は |ΔC|<=1.0 のとき C を無視して綴り長で決めるので、微小な摂動が
+          『閾値レジームの跨ぎ』を起こして |ΔC| が 0.09 より大きい対でも逆転しうる。
+          近接群 = 46群 (参考値であって上界ではない)
+          群=代 base=anstataŭ 近接員=agent
+          群=才 base=geni 近接員=apenaŭ
+          群=信 base=kred 近接員=leter
+          群=界 base=lim 近接員=mond
+          群=能 base=pov 近接員=energi
+          群=静 base=trankvil 近接員=kviet
+          群=推 base=puŝ 近接員=ŝov
+          群=法 base=jur 近接員=metod
+          群=诉 base=plend 近接員=akuz
+          群=理 base=prav 近接員=raci
+          群=危 base=danĝer 近接員=kriz
+          群=礼 base=donac 近接員=ĝentil
+
+        [C3検算] Unified_Level 復元の妥当性(台帳[B]39行と照合): 一致=33 不一致=0 復元漏れ=6
+        復元できた語根 = 2685件
+        ★厳密値: Unified_Level 項を入れると基本形が交代する群 = 0群 / 1593群 (上界46)
+
+        [C3感度] 『0群』が重みの小ささだけの結果でないことを確かめる=重みを上げていく
+          UnifiedWeight=0.01 → 基本形交代   0群  ←プロジェクトが選んだ重み
+          UnifiedWeight=0.05 → 基本形交代   3群  ★うち近接群の外=3 ['射', '面', '外科']
+          UnifiedWeight=0.10 → 基本形交代   4群  ★うち近接群の外=4 ['赞', '射', '面', '外科']
+          UnifiedWeight=0.30 → 基本形交代  16群  ★うち近接群の外=14 ['觉', '赞', '独', '笔']
+          UnifiedWeight=0.50 → 基本形交代  21群  ★うち近接群の外=17 ['过', '现', '觉', '赞']
+          UnifiedWeight=1.00 → 基本形交代  49群  ★うち近接群の外=43 ['因', '过', '值', '始']
+          UnifiedWeight=2.00 → 基本形交代  72群  ★うち近接群の外=62 ['因', '共', '过', '值']
+          UnifiedWeight=5.00 → 基本形交代 104群  ★うち近接群の外=92 ['因', '共', '过', '成']
+
+   [C4] 人手裁定 `_base_override.tsv` = 110群に指定 / うち実際に基本形を動かしている群 = 105群
+        [C5] 4つの摂動(F/E/st/人手裁定)のいずれかで基本形が動く群 = 241群 (15.1%)
+             どれを外しても動かない(頑健に決まっている)群 = 1352群 (84.9%)
+          群=代      式のまま=agent          → 裁定後=anstataŭ
+          群=内      式のまま=endo           → 裁定後=en
+          群=员      式のまま=membr          → 裁定後=an
+          群=分      式のまま=divid          → 裁定後=on
+          群=长      式のまま=estr           → 裁定後=long
+          群=任      式のまま=kapric         → 裁定後=ajn
+          群=喂      式のまま=he             → 裁定後=ho
+          群=问      式のまま=salut          → 裁定後=demand
+          群=清      式のまま=net            → 裁定後=klar
+          群=解      式のまま=liz            → 裁定後=kompren
+          群=信      式のまま=fid            → 裁定後=kred
+          群=学      式のまま=logi           → 裁定後=lern
+          群=能      式のまま=iv             → 裁定後=pov
+          群=富      式のまま=oz             → 裁定後=riĉ
+          群=建      式のまま=fond           → 裁定後=konstru
+          群=育      式のまま=eduk           → 裁定後=kresk
+          群=勇      式のまま=brav           → 裁定後=kuraĝ
+          群=记      式のまま=not            → 裁定後=memor
+          群=静      式のまま=kviet          → 裁定後=trankvil
+          群=颜      式のまま=farb           → 裁定後=vizaĝ
+          ...(全105群は TSV に)
+
+====================================================================================================
+■ D. CSV2890語根の band誤ラベル 39件 — 全件
+====================================================================================================
+   ★『ここで初めて点検する』という当初の主張は【虚偽】だった(続64の独立検証)。実際は3度目:
+     ・作業ログ§14 L73 (2026-07-19 第21回④)『CSV誤ラベル39件=全件無害確定』
+       — bare=True 19件 / 七曜 / 楽器gitar,violon→琴 / kvi,tam の語尾剥がし幻 まで同一の分類
+     ・同 L91 (2026-07-21 第26回③) 敵対的反証WFで再点検『優先度喪失0』
+   本節は【3度目の独立再確認】であり、先行2回と分類が一致することを示すのが役割。
+   機械規則は誤分類を出した(lund→lun/mard→mar を『誤マッチ』と誤判定。曜日名は実在のCSV2890語)
+   ので、CSV原文を引いた人手判定に切替えた。
+
+   root         band   bare  群     Lv   分類                     現行base(band)
+   cigar        pejvo  False 烟     9.0  妥当(烟の中心義=fum/煙)        fum(basic,員5)
+   citron       pejvo  False 果     7.9  妥当(果の中心義=frukt/果物)     frukt(basic,員24)
+   dimanĉ       cal    False 日     3.77 七曜(日の中心義=tag/day に譲る=正) tag(basic,員4)
+   gitar        pejvo  False 琴     8.79 妥当(琴の中心義=pian、同じ楽器類)   pian(basic,員9)
+   ju           pejvo  False 越     6.83 妥当(越の中心義=trans/越える)    trans(prep,員2)
+   kvi          piv    False 静     1.77 誤マッチ(CSV=kvin五 Lv1.77と同値。kvi自体はPIV語) trankvil(basic,員6)
+   lund         cal    False 月     3.77 七曜(月の中心義=lun/moon に譲る=正) lun(basic,員3)
+   mard         cal    False 火     3.77 七曜(火の中心義=fajr/fire に譲る=正) fajr(basic,員2)
+   merkred      cal    False 水     3.77 七曜(水の中心義=akv/water に譲る=正) akv(basic,員3)
+   nj           pejvo  False 女     7.33 妥当(女の中心義=in/女性接尾)      in(suf,員5)
+   plur         pejvo  False 多     5.83 妥当(多の中心義=mult/多い)      mult(basic,員3)
+   pseu^d       pejvo  False 伪     8.79 誤マッチ(CSV=pseŭdo- L2298。正解語根 pseŭdo は band=pref で既存) fals(basic,員6)
+   sabat        cal    False 土     3.77 七曜(土の中心義=grund/earth に譲る=正) grund(basic,員3)
+   sekc         sci    False 切     9.0  妥当だが理由訂正(切のbaseは式でなく_base_override.tsv の人手裁定でtranĉ。式のままならtomi) tranĉ(basic,員6)
+   taksi        pejvo  False 车     8.79 妥当(车の中心義=aŭt/自動車。CSV=taksio Lv8.79で照合は正しい) aŭt(basic,員11)
+   tam          piv    False 草     1.77 誤マッチ(CSV=tamen Lv1.77と同値。tam自体はPIV語) herb(basic,員386)
+   ve           pejvo  False 哀     8.79 ★要検討(哀=kondolenc哀悼 vs ve=間投詞「ああ！」) kondolenc(basic,員3)
+   vendred      cal    False 金     3.77 七曜(金の中心義=or/gold に譲る=正) or(basic,員67)
+   violon       pejvo  False 琴     8.9  妥当(琴の中心義=pian、同じ楽器類)   pian(basic,員9)
+   ĵaŭd         cal    False 木     3.77 七曜(木の中心義=lign/wood に譲る=正) lign(basic,員270)
+   april        cal    True  四月    3.77 無害bare                 april(cal,員1)
+   aŭgust       cal    True  八月    3.77 無害bare                 aŭgust(cal,員1)
+   bronz        pejvo  True  青铜    8.9  無害bare                 bronz(pejvo,員1)
+   decembr      cal    True  十二月   3.77 無害bare                 decembr(cal,員1)
+   februar      cal    True  二月    3.77 無害bare                 februar(cal,員1)
+   ha           pejvo  True  啊     5.67 無害bare                 ha(pejvo,員1)
+   ho           pejvo  True  喂     5.67 無害bare                 ho(pejvo,員3)
+   januar       cal    True  一月    3.77 無害bare                 januar(cal,員1)
+   juli         cal    True  七月    3.77 無害bare                 juli(cal,員1)
+   juni         cal    True  六月    3.77 無害bare                 juni(cal,員1)
+   kilogram     piv    True  千克    6.0  無害bare                 kilogram(piv,員1)
+   maj          cal    True  五月    3.77 無害bare                 maj(cal,員1)
+   mart         cal    True  三月    3.77 無害bare                 mart(cal,員1)
+   mikrofon     piv    True  微声    8.79 無害bare                 mikrofon(piv,員1)
+   novembr      cal    True  十一月   3.77 無害bare                 novembr(cal,員1)
+   nu           pejvo  True  嘿     1.77 無害bare                 nu(pejvo,員1)
+   oktobr       cal    True  十月    3.77 無害bare                 oktobr(cal,員1)
+   septembr     cal    True  九月    3.77 無害bare                 septembr(cal,員1)
+   telefon      piv    True  远声    5.83 無害bare                 telefon(piv,員2)
+
+   分類の集計: 無害bare=19 / 妥当=8 / 七曜=7 / 誤マッチ=3 / 妥当だが理由訂正=1 / ★要検討=1
+   ★『要検討』に残ったものだけが実質の検討対象。
+
+出力: _lens28_priority_transmission.tsv
