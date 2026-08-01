@@ -27765,7 +27765,7 @@ nord/orient/e⟦北/东/e⟧:北東に
 nord/orient/o⟦北/东/o⟧:北東,東北;北東部,東北部
 Nord-Pacifik/o:【地名】北太平洋
 nord/polus/a⟦北/极ᴾ/a⟧:北極の,=arkta
-nord/teritori/o⟦北/领/o⟧:【地名】ノーザンテリトリー（オーストラリア）,=Norda Teritorio
+Nord/teritori/o:【地名】ノーザンテリトリー（オーストラリア）,=Norda Teritorio
 nord/ul/o⟦北/者/o⟧:北部の人;北国人,=nordlandano
 nori/o:【機】（バケツのついた）水汲み水車
 norm/a⟦范/a⟧:基準の,標準の,規格の;規格に準処した
