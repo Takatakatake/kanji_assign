@@ -9428,7 +9428,7 @@ end/osmoz/o:【生】内方浸透##偽分解(PIV正式分解)##過細分解 e/n/
 endo/term/a:【化】吸熱の,><ekzoterma##偽分解(PIV正式分解)##過細分解 endo/t/e/r/m/a
 endo/term/a reakci/o:【化】吸熱反応##偽分解(PIV正式分解)##過細分解 endo/t/e/r/m/a reakci/o
 en/e:内部で,なかで,>>interne
-Ene/ad/o:【文】『アエネーイス』（ウェルギリウス作の長編叙事詩）
+Ene/ad/o:【文】『アエネーイス』（ウェルギリウス作の長編叙事詩）##偽分解
 en/e de:〜の内部で（en の強調表現）
 Ene/o:【神】アイネイアス,アエネアス（トロイアの英雄）
 energetik/o:【理】エネルゲティーク,>>atomismo

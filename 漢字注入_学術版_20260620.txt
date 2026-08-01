@@ -424,7 +424,7 @@ aeronau^t/o⟦气航/o⟧:【空】軽気球操縦士,飛行船操縦士,=flugba
 aeroplan/o⟦气划/o⟧:{Ｏ}【空】飛行機,=aviadilo
 aer/o/prem/o⟦气/o/压/o⟧:【理】気圧
 aer/o/pur/ig/il/o⟦气/o/纯/使/具/o⟧:空気清浄機
-aerosol/o:【環】エーロゾル,煙霧質
+aerosol/o⟦气胶ˢ/o⟧:【環】エーロゾル,煙霧質
 aer/o/statik/o⟦气/o/静ˢ/o⟧:【理】気体静力学,>>aerodinamiko
 aerostat/o⟦气态/o⟧:【空】軽航空機（気球・飛行船など）,=flugbalono,>>aers^ipo,>>balono
 aer/paf/il/o⟦气/射/具/o⟧:空気銃
@@ -918,7 +918,7 @@ akv/a sport/o⟦水/a 体ˢ/o⟧:【運】水上競技
 akvatint/o:【美】アクアチント（腐食銅版画法の一つ）
 akv/a vapor/o⟦水/a 汽/o⟧:【理】水蒸気
 akv/ec/a⟦水/性/a⟧:水のような;水を含んだ,水っぽい
-akvedukt/o:【建】導水管,水道;水道橋,=akvodukto
+akvedukt/o⟦水管ᴰ/o⟧:【建】導水管,水道;水道橋,=akvodukto
 akv/er/o⟦水/粒/o⟧:水滴
 akv/i⟦水/i⟧:［他］水を注ぐ
 akvilegi/o⟦草ᴬⱽ/o⟧:{Ｏ}【植】オダマキ（苧環）,=aglofloro
@@ -3675,8 +3675,8 @@ bigot/i⟦偏执/i⟧:［自］信心家ぶる,信心に凝り固まる
 bigot/o⟦偏执/o⟧:{Ｏ}偽善者,信心に凝り固まった人
 Bihar/o:【地名】ビハール州（インド）
 Bikin/o:【地名】ビキニ島（中部太平洋）
-bikonkav/a:【理】=dukonkava（両凹の）
-bikonveks/a:【理】=dukonveksa（両凸の）
+bikonkav/a⟦二ᴮ凹/a⟧:【理】=dukonkava（両凹の）
+bikonveks/a⟦二ᴮ凸ᴷ/a⟧:【理】=dukonveksa（両凸の）
 biks^u/o:【仏】比丘（びく）
 bilanc/i⟦衡ᴮ/i⟧:［他］【商】貸借対照表を作る,差引勘定をする
 bilanc/o⟦衡ᴮ/o⟧:{Ｏ}【商】貸借対照表,>>inventaro,>>saldo
@@ -3758,7 +3758,7 @@ biomas/o⟦生团/o⟧:【環】生物量,バイオマス
 biontologi/o⟦生在学/o⟧:《廃》生物学,=>biologio
 biosfer/o⟦生球/o⟧:【環】生物圏,生活圏
 biotop/o⟦生境/o⟧:【環】ビオトープ,小生活圏
-biplan/o:【空】複葉機,>>monoplano
+biplan/o⟦二ᴮ划/o⟧:【空】複葉機,>>monoplano
 bird/a⟦鸟/a⟧:鳥の
 bird/a grip/o⟦鸟/a 流感/o⟧:【病】鳥インフルエンザ
 bird/aj^/o⟦鸟/物/o⟧:【料】鳥肉,鳥料理
@@ -4807,7 +4807,7 @@ cent/estr/o⟦百/长ᴱ/o⟧:【史】百人隊長,百人組長
 centezimal/a⟦百ᶜᶻ/a⟧:【数】百分法の,百進法の
 centezimal/a termometr/o⟦百ᶜᶻ/a 计ᵀ/o⟧:セ氏温度計,百分度温度計
 centi-⟦厘⟧:［接頭辞］【学】センチ〜（補助単位，＝１００分の１）
-centiar/o:【単】平方メートル,=kvadrata metro
+centiar/o⟦厘亩/o⟧:【単】平方メートル,=kvadrata metro
 centigram/o⟦厘克/o⟧:{Ｏ}【単】センチグラム
 centilitr/o⟦厘升/o⟧:{Ｏ}【単】センチリットル
 centimetr/o⟦厘ᶜᴹ/o⟧:{Ｂ}【単】センチメートル（cm）
@@ -9428,7 +9428,7 @@ endosmoz/o⟦内渗/o⟧:【生】内方浸透
 endoterm/a⟦内热/a⟧:【化】吸熱の,><ekzoterma
 endoterm/a reakci/o⟦内热/a 反应/o⟧:【化】吸熱反応
 en/e⟦内/e⟧:内部で,なかで,>>interne
-Ene/ad/o:【文】『アエネーイス』（ウェルギリウス作の長編叙事詩）
+Enead/o:【文】『アエネーイス』（ウェルギリウス作の長編叙事詩）
 en/e de⟦内/e 从⟧:〜の内部で（en の強調表現）
 Ene/o:【神】アイネイアス,アエネアス（トロイアの英雄）
 energetik/o:【理】エネルゲティーク,>>atomismo
@@ -15161,7 +15161,7 @@ incit/i⟦惹/i⟧:{Ｂ}［他］（刺激して）怒らせる,いらだたせ�
 incit/ig^/em/a⟦惹/成/倾/a⟧:怒りっぽい,短気な
 incit/ig^/o⟦惹/成/o⟧:いらだち,立腹,激高
 incit/o⟦惹/o⟧:怒らせること,挑発;=incitig^o（立腹）
-inciziv/o:【解】切歯,門歯,=tranc^odento
+inciziv/o⟦切ᴵ能ᴵ/o⟧:【解】切歯,門歯,=tranc^odento
 Inc^on/o:【地名】インチョン（仁川，韓国）
 -ind-⟦值⟧:{Ｂ}［接尾辞］（〜される価値がある）,>>aminda,>>lau^dinda
 ind/a⟦值/a⟧:（je）〜に値する,ふさわしい
@@ -24801,7 +24801,7 @@ megalit/a monument/o⟦巨石/a 碑/o⟧:巨石記念物
 megalit/o⟦巨石/o⟧:【考古】巨石
 megalomani/o⟦巨狂/o⟧:【病】誇大妄想
 megalomani/ul/o⟦巨狂/者/o⟧:【病】誇大妄想患者
-megalosau^r/o:【古生】メガロサウルス,斑竜（はんりゅう）
+megalosau^r/o⟦巨ᴹ爬虫/o⟧:【古生】メガロサウルス,斑竜（はんりゅう）
 mega/om/o⟦百万ᴹᴳ/om/o⟧:【電】メガオーム（MΩ）
 mega/tun/o⟦百万ᴹᴳ/吨/o⟧:【単】メガトン（Mt）
 megavat/hor/o⟦百万瓦/钟/o⟧:【電】メガワット時（MWh）
@@ -30411,7 +30411,7 @@ piromagnet/a⟦火磁/a⟧:【理】熱磁気の
 piroteknik/aj^/o⟦火技/物/o⟧:花火,=fajraj^o,=artfajraj^o
 piroteknik/ist/o⟦火技/家/o⟧:花火師,=fajraj^isto
 piroteknik/o⟦火技/o⟧:花火製造術
-piroz/o:{Ｏ}【病】胸やけ
+piroz/o⟦火ᴾ症ᴼ/o⟧:{Ｏ}【病】胸やけ
 piruet/i⟦旋ᴾᴿ/i⟧:［自］つま先で旋回する
 piruet/o⟦旋ᴾᴿ/o⟧:（バレエの）ピルエット,つま先旋回
 pir/uj/o⟦梨/器/o⟧:【植】ナシ（梨）,=pirarbo
@@ -33334,7 +33334,7 @@ re/foj/e⟦再/次/e⟧:再び,あらためて,>>denove
 re/fond/i⟦再/建ᶠ/i⟧:［他］再建する
 reformaci/a mov/ad/o⟦改革/a 动/行/o⟧:【史】宗教改革運動
 Reformaci/o:{Ｏ}【史】（１６世紀キリスト教の）宗教改革
-reformator/o:=reformisto（改革論者）
+reformator/o⟦再形员ᴬᵀ/o⟧:=reformisto（改革論者）
 re/form/i⟦再/形/i⟧:{Ｂ}［他］改造する,改革する
 re/form/ist/o⟦再/形/家/o⟧:改革論者;【Ｅ】改造論者
 re/form/o⟦再/形/o⟧:改造,改革
@@ -33816,7 +33816,7 @@ re/skrib/i⟦再/书ˢ/i⟧:［他］書き直す;返事を書く
 resolviv/o:【光】分解能,=apartigopovo
 resonanc/a kest/o⟦共鸣/a 箱/o⟧:【理】共鳴箱
 resonanc/o⟦共鸣/o⟧:【理】共鳴,共振
-resonator/o:【理】共振器,共鳴器
+resonator/o⟦再声具ᴬ/o⟧:【理】共振器,共鳴器
 re/son/i⟦再/声/i⟧:［自］反響する
 re/son/ig/i⟦再/声/使/i⟧:［他］反響させる
 re/son/o⟦再/声/o⟧:反響
@@ -39069,7 +39069,7 @@ S^akjamuni/o:【仏】釈迦牟尼（しゃかむに）,=Budho,>>tatagato
 s^ak/klub/o⟦棋/社ᴷ/o⟧:チェスクラブ
 s^ak/lud/ant/o⟦棋/玩/在/o⟧:【遊】チェスの競技者
 s^ak/lud/o⟦棋/玩/o⟧:【遊】チェスの勝負
-S^ak/mat!⟦棋/mat!⟧:［間］【遊】チェックメイト！（チェスで相手に詰みを告げる）
+S^ak/mat!⟦棋/将ᴹ!⟧:［間］【遊】チェックメイト！（チェスで相手に詰みを告げる）
 s^ak/mat/o⟦棋/将ᴹ/o⟧:【遊】（チェスの）チェックメイト,王手詰
 s^ak/mov/o⟦棋/动/o⟧:【遊】（チェス・将棋の）一手
 s^ak/o⟦棋/o⟧:{Ｏ}【遊】チェス,将棋（=japana s^ako）;（チェス・将棋の）王手
@@ -40508,9 +40508,9 @@ tez/o⟦题ᵀᶻ/o⟧:{Ｏ}主張,説;【論】命題,定立,提題;【政】�
 tia⟦那a⟧:{Ｂ}［形］そのような,そんな,あのような,あんな
 tia/aj^/o⟦那a/物/o⟧:そんなもの,そんなこと
 tial⟦那因⟧:{Ｂ}［副］それゆえ,だから
-tial, c^ar⟦tial, 因⟧:〜だから,〜ので
+tial, c^ar⟦那因, 因⟧:〜だから,〜ので
 tial/ig/i⟦那因/使/i⟧:=kialigi（釈明する）
-tial, ke⟦tial, 事⟧:〜だから,〜ので
+tial, ke⟦那因, 事⟧:〜だから,〜ので
 tial/o⟦那因/o⟧:=kialo（理由）
 tiam⟦那时⟧:{Ｂ}［副］その時,あの時;その場合,あの場合
 tiam/a⟦那时/a⟧:その時の,当時の
@@ -41387,7 +41387,7 @@ trikot/c^emiz/o⟦织ᵀᵀ/衫/o⟧:【服】ニットシャツ
 trikot/jak/o⟦织ᵀᵀ/服ᴶ/o⟧:【服】ニットジャケット
 trikot/o⟦织ᵀᵀ/o⟧:{Ｂ}【服】編地,ニット,=trikos^tofo
 trikot/ves^t/o⟦织ᵀᵀ/坎/o⟧:【服】ニットベスト
-trikromi/o:【写】三色写真法;【印】三色製版法
+trikromi/o⟦三色ᴷᴵ/o⟧:【写】三色写真法;【印】三色製版法
 triktrak/o:【遊】トリックトラック,バックギャモン（西洋すごろく）
 tri/kvar/on/e⟦三/四/分/e⟧:四分の三で;《転》大部分,おおかた
 tri/land/a⟦三/国/a⟧:三国の
@@ -41451,7 +41451,7 @@ triptik/o:【美】三連祭壇画,トリプティク
 tri/punkt/o⟦三/点/o⟧:【印】三点リーダ
 tri/rad/a⟦三/轮/a⟧:三輪の
 tri/rapid/um/a⟦三/速/um/a⟧:【機】三段変速の
-trirem/o:【史】三段櫂船（古代地中海で使用された軍船）
+trirem/o⟦三划ᴿ/o⟧:【史】三段櫂船（古代地中海で使用された軍船）
 tri/salt/o⟦三/跳/o⟧:【運】三段跳び
 tri/sekc/i⟦三/切ˢ/i⟧:［他］【数】三等分する
 tri/silab/a⟦三/节ˢ/a⟧:【Ｇ】三音節の
@@ -44800,7 +44800,7 @@ alkekeng/o⟦茄ᴬ/o⟧:【植】【PIV】Sp. (Specio) de fizalido (Physalis al
 alkemi/ist/o⟦炼金/家/o⟧:【PIV】Tiu, kiu praktikas alkemion.
 Alkmen/o:【PIV】La patrino de Heraklo.
 alkoholat/o⟦醇盐/o⟧:【化】【PIV】Metala salo de alkoholo 1.
-alkoholat/o⟦醇盐/o⟧:【薬】【PIV】Distilaj^o de alkoholaturo. -> alkohol/at/o.
+alkoholat/o⟦醇馏/o⟧:【薬】【PIV】Distilaj^o de alkoholaturo. -> alkohol/at/o.
 alkoholemi/o⟦醇血/o⟧:【PIV】C^eesto de etila alkoholo (etanolo) en la sango: la tolereco al etila alkoholo tre diversas lau^ la individuoj: g^enerale, de 1 g^is 2,5 ‰ g^i estigas eu^forian au^ ekscitan staton; ekde 2,5 ‰ aperas narkoza stato; komato estig^as c^. (c^irkau^) 4 au^ 5 ‰; risko de vojakcidento jam ekzistas kun alkoholemio je 0,3 ‰.
 alkoholometr/o⟦醇计/o⟧:【PIV】Mezurilo por taksi la enhavon je alkoholo.
 alkoholatur/o:【PIV】Alkohola maceraj^o de medicinaj plantoj: Kolonja akvo estas alkoholaturo. -> alkoholato.
@@ -47241,7 +47241,7 @@ endokrinolog/o⟦内分泌学家/o⟧:【PIV】Specialisto pri endokrinologio.
 endokrinologi/o⟦内分泌学/o⟧:【PIV】Studo de la endokrinaj glandoj, de iliaj perturboj k de la malsanoj kau^zataj de tiuj c^i.
 endomorfi/o⟦内形/o⟧:【数】【PIV】Homomorfio de objekto al g^i mem.
 endorfin/o:【生】【PIV】Peptido, produktata de iuj neu^ronoj de encefalo, kiu inhibas la dolorsenton.
-endoskopi/o:【PIV】Ekzamenado per endoskopo.
+endoskopi/o⟦内ᴱᴰ镜ˢᴷ/o⟧:【PIV】Ekzamenado per endoskopo.
 endosperm/o⟦内种/o⟧:【植】【PIV】Nutraj^rezerva, unuploida histo de la semo de la gimnospermoj, kiu c^irkau^as k nutras la embrion dum la g^ermado, k kiu homologas al inseksa gametofito. Vd albumeno, perispermo.
 endoteli/o:【解】【PIV】Histo simila al epitelio, konsistanta el unu tavolo de plataj c^eloj k teganta la internon de la vaskuloj k serozoj.
 Ene/id/o:【PIV】Ido de Eneo.
@@ -52035,7 +52035,7 @@ mikoplasm/o⟦菌浆/o⟧:【生】【PIV】G. (Genro) (Mycoplasma el mikoplasma
 mikoplasm/oj⟦菌浆/oj⟧:【PIV】Mikoplasmaloj k du parencaj ordoj.
 mikoplasmal/oj:【PIV】Ordo (Mycoplasmatales) de tre malgrandaj, multformaj eu^bakterioj senmovaj, senmuraj, saprofitaj, kunvivaj au^ parazitaj, iuj patogenaj al homoj k bestoj.
 mikoriz/o⟦菌ᴹᶻ/o⟧:【植】【PIV】Simbioza, nepatogena au^ neforte patogena asocio de fungo kun la radikoj de planto.
-mikroskopi/o:【PIV】Esploro pere de mikroskopo.
+mikroskopi/o⟦微镜ˢᴷ/o⟧:【PIV】Esploro pere de mikroskopo.
 mikrob/a⟦细菌/a⟧:【PIV】Rilata al mikroboj, kau^zata de ili: mikroba malsano, fermentado.
 mikrob/ism/o⟦细菌/主义/o⟧:【医】【PIV】Stato de la mikroba flau^ro en organismo au^ en organika medio.
 mikrobologi/o⟦细菌学/o⟧:【PIV】Studo pri la mikroboj k ilia agado. Sin. (sinonimo) mikrobiologio.

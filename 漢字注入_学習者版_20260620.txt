@@ -9428,7 +9428,7 @@ end/osmoz/o⟦内/渗/o⟧:【生】内方浸透##偽分解(PIV正式分解)##�
 endo/term/a⟦内ᴱᴰ/热ᵀ/a⟧:【化】吸熱の,><ekzoterma##偽分解(PIV正式分解)##過細分解 endo/t/e/r/m/a
 endo/term/a reakci/o⟦内ᴱᴰ/热ᵀ/a 反应/o⟧:【化】吸熱反応##偽分解(PIV正式分解)##過細分解 endo/t/e/r/m/a reakci/o
 en/e⟦内/e⟧:内部で,なかで,>>interne
-Ene/ad/o:【文】『アエネーイス』（ウェルギリウス作の長編叙事詩）
+Ene/ad/o:【文】『アエネーイス』（ウェルギリウス作の長編叙事詩）##偽分解
 en/e de⟦内/e 从⟧:〜の内部で（en の強調表現）
 Ene/o:【神】アイネイアス,アエネアス（トロイアの英雄）
 energetik/o:【理】エネルゲティーク,>>atomismo
@@ -39069,7 +39069,7 @@ S^akjamuni/o:【仏】釈迦牟尼（しゃかむに）,=Budho,>>tatagato
 s^ak/klub/o⟦棋/社ᴷ/o⟧:チェスクラブ
 s^ak/lud/ant/o⟦棋/玩/在/o⟧:【遊】チェスの競技者
 s^ak/lud/o⟦棋/玩/o⟧:【遊】チェスの勝負
-S^ak/mat!⟦棋/mat!⟧:［間］【遊】チェックメイト！（チェスで相手に詰みを告げる）
+S^ak/mat!⟦棋/将ᴹ!⟧:［間］【遊】チェックメイト！（チェスで相手に詰みを告げる）
 s^ak/mat/o⟦棋/将ᴹ/o⟧:【遊】（チェスの）チェックメイト,王手詰
 s^ak/mov/o⟦棋/动/o⟧:【遊】（チェス・将棋の）一手
 s^ak/o⟦棋/o⟧:{Ｏ}【遊】チェス,将棋（=japana s^ako）;（チェス・将棋の）王手
@@ -40508,9 +40508,9 @@ tez/o⟦题ᵀᶻ/o⟧:{Ｏ}主張,説;【論】命題,定立,提題;【政】�
 tia⟦那a⟧:{Ｂ}［形］そのような,そんな,あのような,あんな
 tia/aj^/o⟦那a/物/o⟧:そんなもの,そんなこと
 tial⟦那因⟧:{Ｂ}［副］それゆえ,だから
-tial, c^ar⟦tial, 因⟧:〜だから,〜ので
+tial, c^ar⟦那因, 因⟧:〜だから,〜ので
 tial/ig/i⟦那因/使/i⟧:=kialigi（釈明する）
-tial, ke⟦tial, 事⟧:〜だから,〜ので
+tial, ke⟦那因, 事⟧:〜だから,〜ので
 tial/o⟦那因/o⟧:=kialo（理由）
 tiam⟦那时⟧:{Ｂ}［副］その時,あの時;その場合,あの場合
 tiam/a⟦那时/a⟧:その時の,当時の
@@ -44800,7 +44800,7 @@ alkekeng/o⟦茄ᴬ/o⟧:【植】【PIV】Sp. (Specio) de fizalido (Physalis al
 alkemi/ist/o⟦炼金/家/o⟧:【PIV】Tiu, kiu praktikas alkemion.
 Alkmen/o:【PIV】La patrino de Heraklo.
 alkohol/at/o⟦醇/盐ᴬ/o⟧:【化】【PIV】Metala salo de alkoholo 1.##偽分解(PIV正式分解)
-alkohol/at/o⟦醇/被/o⟧:【薬】【PIV】Distilaj^o de alkoholaturo. -> alkohol/at/o.##偽分解(衝突語)
+alkohol/at/o⟦醇/馏/o⟧:【薬】【PIV】Distilaj^o de alkoholaturo. -> alkohol/at/o.##偽分解(衝突語)
 alkohol/emi/o⟦醇/血ᴱ/o⟧:【PIV】C^eesto de etila alkoholo (etanolo) en la sango: la tolereco al etila alkoholo tre diversas lau^ la individuoj: g^enerale, de 1 g^is 2,5 ‰ g^i estigas eu^forian au^ ekscitan staton; ekde 2,5 ‰ aperas narkoza stato; komato estig^as c^. (c^irkau^) 4 au^ 5 ‰; risko de vojakcidento jam ekzistas kun alkoholemio je 0,3 ‰.##偽分解(PIV正式分解)
 alkohol/o/metr/o⟦醇/o/计ᴹ/o⟧:【PIV】Mezurilo por taksi la enhavon je alkoholo.##偽分解
 alkoholatur/o:【PIV】Alkohola maceraj^o de medicinaj plantoj: Kolonja akvo estas alkoholaturo. -> alkoholato.

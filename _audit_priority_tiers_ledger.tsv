@@ -89,7 +89,7 @@ oktobr	cal	PEJVO	True	十月	3.77
 septembr	cal	PEJVO	True	九月	3.77
 telefon	piv	PEJVO	True	远声	5.83
 
-## [C] band=piv だが真PEJVO(<=44440・PIVタグ無)の誤ラベル語(温床) = 812件
+## [C] band=piv だが真PEJVO(<=44440・PIVタグ無)の誤ラベル語(温床) = 824件
 #   bare列=その語が漢字群のbare基本形か(Trueなら真PEJVO語が正しくbare保持=無害)
 root	行	groupkey	bareか
 acetat	173	醋盐	True
@@ -101,6 +101,7 @@ aerometr	421	气计	False
 aeronau^tik	422	气航学	True
 aeronau^t	423	气航	True
 aeroplan	424	气划	True
+aerosol	427	气胶ˢ	True
 aerostat	429	气态	True
 afoni	506	无声	True
 agend	552	办须	True
@@ -110,6 +111,7 @@ agronomi	644	农学	False
 agronom	646	农学	True
 akonit	785	草	False
 akromat	815	无色	True
+akvedukt	921	水管ᴰ	True
 albatros	1024	鸟	False
 albuminuri	1035	白蛋白尿	True
 alkaloid	1217	碱似	True
@@ -200,6 +202,8 @@ bibliofil	3632	经爱	True
 bibliografi	3634	经志	True
 bibliograf	3635	经记	True
 bigami	3670	二配	True
+bikonkav	3678	二ᴮ凹	True
+bikonveks	3679	二ᴮ凸ᴷ	True
 bimetalism	3721	二金主义	True
 biofizik	3737	生物理	True
 biogeografi	3740	生地志	True
@@ -211,6 +215,7 @@ biomas	3757	生团	True
 biontologi	3758	生在学	True
 biosfer	3759	生球	True
 biotop	3760	生境	True
+biplan	3761	二ᴮ划	True
 bombiks	4035	蛾	False
 bradip	4224	兽	False
 briofit	4351	苔植	False
@@ -222,6 +227,7 @@ burd	4625	蜂	False
 cefalopod	4731	头足	True
 cekumit	4739	盲肠炎	True
 celulit	4782	胞炎	True
+centiar	4810	厘亩	True
 centigram	4811	厘克	True
 centilitr	4812	厘升	True
 cianid	4951	青化	True
@@ -461,6 +467,7 @@ ideolog	14883	意学家	True
 idiotism	14892	愚主义	True
 impresionism	15102	印象主义	True
 impresionist	15103	印象家	True
+inciziv	15164	切ᴵ能ᴵ	True
 individualism	15220	个主义	True
 individualist	15221	个家	True
 insekticid	15486	虫杀	True
@@ -715,6 +722,7 @@ pirheliometr	30403	火日计	True
 piroelektr	30406	火电	True
 piromagnet	30410	火磁	True
 piroteknik	30413	火技	True
+piroz	30414	火ᴾ症ᴼ	True
 pistil	30429	捣具	True
 planimetri	30492	平测	True
 pleu^rit	30687	胸膜炎	True
@@ -765,6 +773,7 @@ rapidometr	33088	速计	True
 recit	33257	再引	True
 referat	33306	报被	True
 refleksologi	33319	反射学	True
+reformator	33337	再形员ᴬᵀ	True
 refraktometr	33352	折计	True
 regulator	33448	规具	True
 rektumoskopi	33597	直肠镜	False
@@ -772,6 +781,7 @@ rektumoskop	33598	直肠镜	True
 renom	33736	再名	True
 reologi	33761	流学	True
 reostat	33764	流态	True
+resonator	33819	再声具ᴬ	True
 retus^	33979	再触	True
 reu^matism	33991	风湿主义	True
 rezultat	34111	果被	True
@@ -876,6 +886,8 @@ trakeotomi	40993	气管切	False
 transformator	41093	越形具	True
 transit	41110	过	False
 tremometr	41285	颤计	True
+trikromi	41390	三色ᴷᴵ	True
+trirem	41454	三划ᴿ	True
 tromboz	41542	栓症	False
 tropism	41582	向主义	True
 trut	41684	鱼	False
