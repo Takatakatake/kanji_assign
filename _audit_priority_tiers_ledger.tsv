@@ -1,7 +1,7 @@
 # 優先順位(層順)包括監査 v3 台帳  CSV2890(t0)>PEJVO(t1)>PIV(t2) を独立ground-truthで検証
 # tier: CSV2890=CSVを独立照合 / PEJVO・PIV=学術版原本の行位置+【PIV】タグ (band非依存)
 # base=min band_rank は C=br*1000+P で構造保証。逆転はband誤ラベル/意図的override時のみ。
-# CSV2890照合: rows=2890 matched=2799(96.9%) 語根=2695 未照合rows=91
+# CSV2890照合: rows=2890 matched=2800(96.9%) 語根=2696 未照合rows=90
 
 ## [A] 層順逆転(bare.tier より高優先=小tierのメンバーが非base) = 全38件
 #   NEW=0(0が必須=未説明の違反) / base_override=19(意図) / ratified現状維持=19(既知20群)
@@ -45,7 +45,7 @@ groupkey	base	base_tier	高優先メンバー(逆転相手)	分類
 香脂	ladan	2=PIV	mirh(t1=PEJVO)	base_override
 高测	altometri	2=PIV	hipsometri(t1=PEJVO)	ratified
 
-## [B] CSV2890語根の band誤ラベル(br0でない=優先度喪失の温床) = 39件(うち非bare=20)
+## [B] CSV2890語根の band誤ラベル(br0でない=優先度喪失の温床) = 40件(うち非bare=20)
 #   CSV2890は band∈basic/suf/pref/prep/correl/num/func(br0) が正。bare=True(単独/基本形)なら無害・
 #   bare=False(非基本形)は同綴群で下位語にbaseを譲っている可能性。
 #   ★点検済(3回): 2026-07-19 第21回④ / 2026-07-21 第26回③ / 2026-08-01 第28レンズ。
@@ -91,10 +91,11 @@ mikrofon	piv	PEJVO	True	微声	8.79
 novembr	cal	PEJVO	True	十一月	3.77
 nu	pejvo	PEJVO	True	嘿	1.77
 oktobr	cal	PEJVO	True	十月	3.77
+panj	piv	PEJVO	True	父ᴾᴬ女ᴺ	8.0
 septembr	cal	PEJVO	True	九月	3.77
 telefon	piv	PEJVO	True	远声	5.83
 
-## [C] band=piv だが真PEJVO(<=44440・PIVタグ無) = 831件 (★内訳: 隙間充填規約=P=5センチネル 825件 / 真の誤ラベル 6件)
+## [C] band=piv だが真PEJVO(<=44440・PIVタグ無) = 835件 (★内訳: 隙間充填規約=P=5センチネル 829件 / 真の誤ラベル 6件)
 #   ★大半は『誤ラベル』ではない。仕様書L28『隙間充填で後から追加する語根は出典がPEJVO領域でも
 #     一律 band=piv』+ L29『P=5 を手動固定』という規約どおりの姿(2026-08-01 第28レンズで確定)。
 #   真の誤ラベル(P≠5)のみ: bari, ele, nomenklatur, ro, sargas, transit
@@ -373,7 +374,7 @@ fotografi	11902	拍志	True
 fotogravur	11905	拍刻	True
 fotokemi	11909	光化学	True
 fotokromi	11919	拍色	True
-fotolitografi	11920	拍石志	True
+fotolitografi	11920	拍石ᴸᵀ志ᴳ	True
 fotometri	11921	光测	True
 fotometr	11923	光计	True
 foton	11925	光子	True
@@ -382,6 +383,7 @@ fotosintez	11928	光合	True
 fotostat	11929	拍态	True
 fototelegraf	11930	拍远记	True
 fototipi	11931	拍型	False
+franj	12003	兄ᶠᴿ女ᴺ	True
 frekvencometr	12057	频计	True
 ftizologi	12249	结核学	True
 ftizolog	12250	结核学家	True
@@ -413,6 +415,7 @@ ginekolog	12920	女学家	True
 gingivit	12923	牙肉炎	True
 gink	12926	木	False
 giroskop	12940	旋镜	True
+glicerid	13028	甘油ᴳᶜ子	True
 grafism	13208	记主义	True
 grafologi	13214	记学	True
 grafolog	13215	记学家	True
@@ -540,7 +543,7 @@ kristalografi	20225	晶志	True
 kristalograf	20227	晶记	True
 krokus	20290	花	False
 kromofotografi	20317	色拍志	True
-kromolitografi	20318	色石志	True
+kromolitografi	20318	色ᴷᴹ石ᴸᵀ志ᴳ	True
 kronograf	20350	时记	True
 kronologi	20352	时学	True
 kronometr	20355	时计	True
@@ -559,7 +562,7 @@ levkoj	21950	草	False
 libel	21971	虫	False
 limfatism	22209	淋主义	True
 litograf	22372	石ᴸᵀ记ᴳ	True
-litografi	22373	石志	True
+litografi	22373	石ᴸᵀ志ᴳ	True
 lokomobil	22493	处动	True
 lumbalgi	22678	腰痛	True
 macutak	22795	菌	False
@@ -704,6 +707,7 @@ paleolitik	29073	古石学	True
 paleontologi	29074	古学	False
 paleontolog	29075	古学家	False
 palisandr	29089	木	False
+panj	29157	父ᴾᴬ女ᴺ	True
 pankromat	29162	全色	True
 panteism	29181	全神主义	True
 panteist	29182	全神家	True
@@ -855,6 +859,7 @@ taoist	39924	道家	True
 tartrat	39952	酒石盐	True
 teism	40044	神主义	True
 teist	40045	神家	True
+teleau^tograf	40091	远自ᴬ记ᴳ	True
 telefilm	40095	远影	True
 telefon	40096	远声	True
 telefotograf	40121	远拍记	True
@@ -987,7 +992,7 @@ groupkey	base(接辞)	base_band	basic衛星(CSV2890内容語)	分類
 过	int	suf	pas(2.77)	func_layer
 逆	retro	pref	spit(8.79);invers(8.79)	func_layer
 
-## 未照合CSV行(参考) = 91件
+## 未照合CSV行(参考) = 90件
 #   [2026-07-21 WF検証=良性確定] 未照合=割当可能な語根を持たない項目(文法語尾/機能語/固有名§7/一级字なし借用語/複合)
 #   =baseを失いようがない=違反リスク0。caretはto_hsys既対応で低照合率は正規化バグでない(rootless項目が分母)。実被覆≈96.6%。
 ?	-a
