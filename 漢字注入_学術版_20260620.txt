@@ -11917,7 +11917,7 @@ fot/o/kopi/i⟦拍/o/复ᴷ/i⟧:［他］写真複写する,フォトコピー�
 fot/o/kopi/il/o⟦拍/o/复ᴷ/具/o⟧:写真複写機,フォトコピー機
 fot/o/kopi/o⟦拍/o/复ᴷ/o⟧:写真複写（物）,フォトコピー;【写】印画,>>printaj^o
 fotokromi/o⟦拍色/o⟧:【写】天然色写真術
-fotolitografi/o⟦拍石志/o⟧:【印】写真石版術,写真平版術
+fotolitografi/o⟦拍石ᴸᵀ志ᴳ/o⟧:【印】写真石版術,写真平版術
 fotometri/i⟦光测/i⟧:［他］【理】測光する
 fotometri/o⟦光测/o⟧:【理】測光
 fotometr/o⟦光计/o⟧:【理】測光器,光度計;【写】露光計
@@ -20315,7 +20315,7 @@ krom/marg^en/o⟦外/边ᴹ/o⟧:【印】インデント
 krom/nom/o⟦外/名/o⟧:（本来の名前に付けて呼ばれる）異名,添え名,=alnomo
 krom/o⟦金ᴷᴹ/o⟧:【化】クロム（原子番号２４の金属元素）,=kromio
 kromofotografi/o⟦色拍志/o⟧:【写】天然色写真術
-kromolitografi/o⟦色石志/o⟧:【印】着色石版術
+kromolitografi/o⟦色ᴷᴹ石ᴸᵀ志ᴳ/o⟧:【印】着色石版術
 kromosom/o⟦染色体/o⟧:{Ｏ}【生】染色体
 kromosom/par/o⟦染色体/偶/o⟧:【生】染色体対
 krom/pag/o⟦外/付/o⟧:割増金
@@ -22370,7 +22370,7 @@ lit/kovr/il/o⟦床/盖/具/o⟧:掛け布団,掛け毛布;ベッドカバー
 lit/o⟦床/o⟧:{Ｂ}ベッド,寝台;寝床;（動物の）ねぐら
 litograf/aj^/o⟦石ᴸᵀ记ᴳ/物/o⟧:【印】=litografo（石版印刷物）
 litograf/i⟦石ᴸᵀ记ᴳ/i⟧:{Ｏ}［他］【印】石版印刷する,石版刷りにする
-litografi/o⟦石志/o⟧:{Ｏ}【印】石版印刷（術）,リトグラフィー
+litografi/o⟦石ᴸᵀ志ᴳ/o⟧:{Ｏ}【印】石版印刷（術）,リトグラフィー
 litograf/ist/o⟦石ᴸᵀ记ᴳ/家/o⟧:【印】石版工,石版師
 litograf/o⟦石ᴸᵀ记ᴳ/o⟧:【印】石版印刷物;石版画,リトグラフ
 litorin/o⟦贝ᴸᵀ/o⟧:【貝】タマキビガイ（属）（玉黍貝）
