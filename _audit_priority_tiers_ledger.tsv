@@ -94,7 +94,7 @@ oktobr	cal	PEJVO	True	十月	3.77
 septembr	cal	PEJVO	True	九月	3.77
 telefon	piv	PEJVO	True	远声	5.83
 
-## [C] band=piv だが真PEJVO(<=44440・PIVタグ無) = 829件 (★内訳: 隙間充填規約=P=5センチネル 823件 / 真の誤ラベル 6件)
+## [C] band=piv だが真PEJVO(<=44440・PIVタグ無) = 831件 (★内訳: 隙間充填規約=P=5センチネル 825件 / 真の誤ラベル 6件)
 #   ★大半は『誤ラベル』ではない。仕様書L28『隙間充填で後から追加する語根は出典がPEJVO領域でも
 #     一律 band=piv』+ L29『P=5 を手動固定』という規約どおりの姿(2026-08-01 第28レンズで確定)。
 #   真の誤ラベル(P≠5)のみ: bari, ele, nomenklatur, ro, sargas, transit
@@ -558,6 +558,7 @@ leksikologi	21813	词汇学	True
 levkoj	21950	草	False
 libel	21971	虫	False
 limfatism	22209	淋主义	True
+litograf	22372	石ᴸᵀ记ᴳ	True
 litografi	22373	石志	True
 lokomobil	22493	处动	True
 lumbalgi	22678	腰痛	True
@@ -923,6 +924,7 @@ vibrometr	43288	振计	True
 viskozometr	43574	粘计	True
 vivisekci	43648	活切	True
 volumenometr	43846	积计	True
+vulkaniz	43954	硫ⱽ化	True
 zoofit	44069	兽植	True
 zoogeografi	44070	兽地志	True
 zoolog	44075	兽学家	True

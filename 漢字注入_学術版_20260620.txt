@@ -22368,11 +22368,11 @@ lit/kap/o⟦床/头/o⟧:枕元
 lit/korb/o⟦床/篮/o⟧:ベビーかご,ベビーバスケット
 lit/kovr/il/o⟦床/盖/具/o⟧:掛け布団,掛け毛布;ベッドカバー
 lit/o⟦床/o⟧:{Ｂ}ベッド,寝台;寝床;（動物の）ねぐら
-litograf/aj^/o⟦litograf/物/o⟧:【印】=litografo（石版印刷物）
-litograf/i:{Ｏ}［他］【印】石版印刷する,石版刷りにする
+litograf/aj^/o⟦石ᴸᵀ记ᴳ/物/o⟧:【印】=litografo（石版印刷物）
+litograf/i⟦石ᴸᵀ记ᴳ/i⟧:{Ｏ}［他］【印】石版印刷する,石版刷りにする
 litografi/o⟦石志/o⟧:{Ｏ}【印】石版印刷（術）,リトグラフィー
-litograf/ist/o⟦litograf/家/o⟧:【印】石版工,石版師
-litograf/o:【印】石版印刷物;石版画,リトグラフ
+litograf/ist/o⟦石ᴸᵀ记ᴳ/家/o⟧:【印】石版工,石版師
+litograf/o⟦石ᴸᵀ记ᴳ/o⟧:【印】石版印刷物;石版画,リトグラフ
 litorin/o⟦贝ᴸᵀ/o⟧:【貝】タマキビガイ（属）（玉黍貝）
 lit/o/tabl/et/o⟦床/o/桌/小/o⟧:ベッドサイドテーブル,=noktotablo
 litot/o:【文】緩叙法,曲言法（控えめな言葉で効果を強める修辞法）
@@ -43951,9 +43951,9 @@ vulkan/a cindr/o⟦火山/a 灰ᶜ/o⟧:【地質】火山灰
 vulkan/a kamen/tub/o⟦火山/a 炉ᴷ/管/o⟧:【地質】火道
 vulkan/a konus/o⟦火山/a 锥/o⟧:【地質】火山円錐丘
 vulkan/bomb/o⟦火山/弹/o⟧:【地質】火山弾
-vulkaniz/i:［他］【化】（ゴムに）加硫する
-vulkaniz/il/o⟦vulkaniz/具/o⟧:加硫装置
-vulkaniz/o:【化】加硫
+vulkaniz/i⟦硫ⱽ化/i⟧:［他］【化】（ゴムに）加硫する
+vulkaniz/il/o⟦硫ⱽ化/具/o⟧:加硫装置
+vulkaniz/o⟦硫ⱽ化/o⟧:【化】加硫
 vulkan/o⟦火山/o⟧:{Ｂ}【地質】火山
 Vulkan/o:【神】ウルカヌス,バルカン（ローマ神話の火と鍛冶の神）,>>Hefesto
 vulkan/polv/o⟦火山/尘/o⟧:【地質】火山塵;火山灰
@@ -54380,7 +54380,7 @@ rezidu/o⟦余ᴿᶻ/o⟧:【地質】【PIV】1 Restaj^o el petroj, pasintece e
 rezist/iv/o⟦抗ᴿ/能ᴵ/o⟧:【PIV】Fizika grando, egala al la rezistanco de drato el iu materialo, multiplikita per la kversekca areo de la drato k dividita per g^ia longo; simb. (simbolo): ρ (ro). Vd konduktivo.
 rezolut/a:【PIV】Firma en siaj projektoj; senhezita en la plenumado de siaj decidoj: rezoluta karaktero; rezolute apliki agitplanon.
 rezorcinol/o:【化】【PIV】Meta-dihidroksibenzeno, C 6 H 4 (OH) 2, uzata i.a. (interalie, inter aliaj) por fabriki eksplodaj^ojn k medikamentojn.
-riboz/o:【化】【PIV】Sukero (pentozo), eltrovita en beroj de ribo, CH 2 OH(CHOH) 3 CHO; parto de la molekulo de la ribonukleaj acidoj. Vd ribo II.
+riboz/o⟦核ᴿ糖ᴼ/o⟧:【化】【PIV】Sukero (pentozo), eltrovita en beroj de ribo, CH 2 OH(CHOH) 3 CHO; parto de la molekulo de la ribonukleaj acidoj. Vd ribo II.
 ribosom/o⟦核糖体/o⟧:【生】【PIV】Enc^ela, submikroskopa grajneto, konsistanta el ribonuklea acido (RNA) k proteino, c^e kiu okazas la sintezo de proteinoj.
 ribosom/a⟦核糖体/a⟧:【PIV】Rilata al ribosomo: ribosoma RNA.
 ribek/o:【楽】【PIV】Mezepoka trikorda vjolo, ludata per arc^o.
@@ -60732,7 +60732,7 @@ esenc/rezin/o⟦质/脂ᴿ/o⟧:【植】【化】【PIV】Natura au^ artefarita
 gum/rezin/o⟦胶ᴳᴹ/脂ᴿ/o⟧:【PIV】Rezino, enhavanta gumon.
 ole/o/rezin/o⟦油/o/脂ᴿ/o⟧:【PIV】(evi (evitinda)) = esenc rezino.
 fleks/o/rezist/o⟦弯/o/抗ᴿ/o⟧:【技】【PIV】Rezisto kontrau^ fleksado, grava eco por materialprovado.
-deoksi/riboz/o⟦从氧/riboz/o⟧:【化】【PIV】Sukero (pentozo), kiu diferencas de ribozo nur pro manko de unu atomo de oksigeno, CH 2 OH(CHOH) 2 CH 2 CHO; parto de la molekulo de la deoksi ribonukleaj acidoj. Vd ribo II, nukleo.
+deoksi/riboz/o⟦从氧/核ᴿ糖ᴼ/o⟧:【化】【PIV】Sukero (pentozo), kiu diferencas de ribozo nur pro manko de unu atomo de oksigeno, CH 2 OH(CHOH) 2 CH 2 CHO; parto de la molekulo de la deoksi ribonukleaj acidoj. Vd ribo II, nukleo.
 plur/ribosom/o⟦多ᴾᴿ/核糖体/o⟧:【PIV】Aro de ribosomoj, kunigitaj de mesag^a RNA, k kiu sintezas proteinojn.
 poli/ribosom/o⟦多ᴾ/核糖体/o⟧:【PIV】Aro de ribosomoj, kunigitaj de mesag^a RNA, k kiu sintezas proteinojn.
 ek/rid/i⟦始/笑/i⟧:【PIV】Subite ridi (eksplodi per rido ): tiam la gastoj lau^te ekridis .
