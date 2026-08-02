@@ -139,6 +139,7 @@ $segLat = @{ 'gram/negativ/a'=@('gram'); 'gram/pozitiv/a'=@('gram'); 'deci/bel/o
   'jod/oz/o'=@('oz')   # iodoso基(grupo IO=ヨードソ価数接尾辞・nitrozo同系列)→-ozラテン。病-osis(症)でない。_build_homonymの$ozChemでoz-症 disc から除外し本segLatでlatin化
   'fer/oz/a'=@('oz')   # 第一鉄feroza(ferrous=Fe(II)価数接尾-oz=iodoso/nitrozo同系列)→-ozラテン。病-osis(症)でない=fer/oz/a⟦铁/症⟧の誤読是正(§6化学価数)。_build_homonymの$ozChemにも追加(2026-07-21 第27回)
   'trap/an/o'=@('trap')   # トラピスト修道会員(La Trappe修道会=固有名§7)→trapラテン。菱Trapa(trap/o=草)の偽の友=trap/an/o⟦草/员⟧の誤読是正(trap latin・an=员維持)。2026-07-21 第27回
+  'pi'=@('pi')   # 2026-08-02 続72(別AI監査の指摘を実データで確認): 見出し `pi` は【PIV】"La deksesa grafemo de la greka alfabeto (∏, π)" =ギリシャ文字パイの字名。敬虔な pi/a=敬ᴾ(信心深い)とは完全な別義で「敬虔なπ」という誤描画になっていた→piラテン。字名は alfa/beta/epsilon/jot/omeg/zeta/tau^ と同じくラテンが既定(★grafemo de la greka alfabeto を含む16見出しを悉皆走査し、漢字が付いていたのは本件のみ=クラスを1件で閉じた)。敬虔義 pi/a・pi/ec/o・pi/afekt/a 等は bare 見出しでないため無影響
   'rota'=@('rota');'rota/ism/o'=@('rota')   # 2026-08-02 DICT同期(rot/a→rota): ギリシャ文字ロー(Ρ,ρ)の字名と、その転化 rotaismo(ロタシズム=z→r音韻変化)→rotaラテン。教皇庁裁判所 Rota(rota/o=皇院【キ】"Eklezia tribunalo de la papo")の偽の友=rota⟦皇院⟧「ローマ教皇庁=ギリシャ文字ρ」の誤読是正。字名は alfa/beta と同じくラテンが既定の扱い。皇院義 rota/o は disc外で維持。※rota/ism/o は同期前から誤描画(皇院/主义)だったものを同根同理由で併せて是正
   'umbr/a'=@('umbr')   # ウンブリア語/派(Umbrian=固有名§7)→umbrラテン。魚Umbra(umbr/o=鱼)の偽の友=umbr/a⟦鱼⟧の誤読是正。umbr/o(魚義と歴史義が同綴amb)は§6.5据置。2026-07-21 第27回
   'agami/a'=@('agami')   # 無性の(agamia=希a-privative無配偶・生物学)→agamiラテン。ラッパチョウagami/o=鸟(Psophia)の偽の友=agami/a⟦鸟⟧(asexual≠bird)の誤読是正。正本がagami whole分解ゆえ理想の无配は不可・誤読除去優先。2026-07-21 第27回

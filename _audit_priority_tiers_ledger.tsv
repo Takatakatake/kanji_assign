@@ -94,7 +94,7 @@ oktobr	cal	PEJVO	True	十月	3.77
 septembr	cal	PEJVO	True	九月	3.77
 telefon	piv	PEJVO	True	远声	5.83
 
-## [C] band=piv だが真PEJVO(<=44440・PIVタグ無) = 824件 (★内訳: 隙間充填規約=P=5センチネル 818件 / 真の誤ラベル 6件)
+## [C] band=piv だが真PEJVO(<=44440・PIVタグ無) = 829件 (★内訳: 隙間充填規約=P=5センチネル 823件 / 真の誤ラベル 6件)
 #   ★大半は『誤ラベル』ではない。仕様書L28『隙間充填で後から追加する語根は出典がPEJVO領域でも
 #     一律 band=piv』+ L29『P=5 を手動固定』という規約どおりの姿(2026-08-01 第28レンズで確定)。
 #   真の誤ラベル(P≠5)のみ: bari, ele, nomenklatur, ro, sargas, transit
@@ -334,6 +334,7 @@ etnografi	10074	族志	True
 etnograf	10075	族记	True
 etnologi	10077	族学	True
 etnolog	10078	族学家	True
+eŭkalipt	10103	木	False
 ezofagit	10186	食管炎	True
 fagocit	10258	吞胞	True
 faringit	10537	咽炎	False
@@ -491,6 +492,7 @@ izoterm	16131	等热	True
 izotrop	16136	等向	True
 jodid	16293	碘化	True
 jodoform	16296	碘形	True
+ĵiĵicikad	16520	蝉	False
 kanaliz	16923	渠化	True
 kantarid	16999	虫	False
 karas	17201	鲤	False
@@ -576,6 +578,7 @@ medolit	24785	髓炎	False
 megafon	24797	巨声	True
 megalit	24799	巨石	True
 megalomani	24802	巨狂	True
+megalosaŭr	24804	巨ᴹ爬虫	True
 megavat	24808	百万瓦	True
 melongen	24868	茄	False
 meningit	25027	脑膜炎	True
@@ -842,6 +845,8 @@ sulfat	38579	硫盐	True
 sulfid	38580	硫化	True
 sulfit	38581	硫盐	False
 superpozici	38733	上位	True
+ŝalot	39090	葱	False
+ŝitak	39317	菌	False
 taksimetr	39827	车计	True
 tamarind	39871	木	False
 taoism	39923	道主义	True

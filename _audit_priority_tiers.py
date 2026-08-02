@@ -42,8 +42,17 @@ with io.open(ACAD, encoding='utf-8') as f:
         if r and r not in root_line:
             root_line[r] = n; root_piv[r] = ('【PIV】' in gloss)
 
+def rl(root):
+    # ★2026-08-02 続72(別AI監査の指摘を実データで確認): root_line は注入原本(h-system表記)から
+    #   作るが、sidecar の語根は Unicode表記298/h-system表記508 の【混在】(L61-65 と同じ罠)。
+    #   生キーだけで引くと eŭkalipt 等の Unicode表記語根が genuine()=None で静かに脱落し、
+    #   PIV_MISLABEL_PEJVO が 824 と過少計上されていた。正しくは 829。
+    #   ★増えた5件は全て P=5 センチネル(818→823)で、**真の誤ラベルは6件のまま不変**=結論は不変。
+    if root in root_line: return root_line[root]
+    return root_line.get(to_hsys(root))
+
 def genuine(root):
-    ln = root_line.get(root)
+    ln = rl(root)
     if ln is None: return None
     if ln >= 44441 or root_piv.get(root): return 'PIV'
     return 'PEJVO'
@@ -199,11 +208,11 @@ csv_mislabel = [(r, bandByRoot.get(r, '?')) for r in sorted(csv_roots) if bandBy
 # 【2026-08-01 第27回続64・第28レンズで内訳確定】この824件の大半は「誤ラベル」ではない。
 #   仕様書 L28「隙間充填で後から追加する語根は、出典がPEJVO領域でも一律 band=piv に設定する」
 #   + L29「V を計算せず P=5 を手動固定(sentinel)」という【規約どおりの姿】である。
-#   実測: 824件中818件が P=5 センチネル / 真の誤ラベルは6件
+#   実測: 829件中823件が P=5 センチネル / 真の誤ラベルは6件(2026-08-02 続72で表記正規化を是正=824→829)
 #         (bari, ele, nomenklatur, ro, sargas, transit — いずれも基本形を奪っていない)。
 #   さらに第28レンズの反実仮想で、規約を尊重して真の誤ラベルだけを正しても
 #   基本形が動く群は1群(哀)のみと確定済。よって本項は温床ではなく規約の可視化。
-piv_mislabel = [(r['root'], root_line[r['root']], r['gk'], r['id'] == '')
+piv_mislabel = [(r['root'], rl(r['root']), r['gk'], r['id'] == '')
                 for r in rows if r['band'] == 'piv' and genuine(r['root']) == 'PEJVO']
 pv = {}
 try:
