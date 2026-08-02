@@ -54522,7 +54522,7 @@ rost/ej/o⟦烤ᴿ/所/o⟧:【PIV】Butiko, en kiu oni rostas la viandojn.
 rost/ig/i⟦烤ᴿ/使/i⟧:【PIV】Fari, ke iu rostu: rostigi sian c^asaj^on en rostejo; (analoge) Cidkija k Ah^ab, kiujn la reg^o de Babel rostigis sur fajro (kiel torturo).
 rost/ig^/i⟦烤ᴿ/成/i⟧:【PIV】Ig^i rostita: sss! la pomoj komencis rostig^i .
 Rostr/oj:【史】【PIV】Tribuno sur la Roma forumo, ornamita de s^iprostroj.
-rota/ism/o⟦皇院/主义/o⟧:【PIV】Transformo de z al r (en historia fonetiko de L.) au^ de aliaj konsonantoj (d, precipe l) al r (ekz. (ekzemple) en italaj k provencaj dialektoj).
+rota/ism/o⟦rota/主义/o⟧:【PIV】Transformo de z al r (en historia fonetiko de L.) au^ de aliaj konsonantoj (d, precipe l) al r (ekz. (ekzemple) en italaj k provencaj dialektoj).
 rota/o⟦皇院/o⟧:【キ】【PIV】Eklezia tribunalo de la papo, i.a. (interalie, inter aliaj) pri geedzaj demandoj.
 rotenon/o:【化】【PIV】Insekt-k fis^-icido biomalkomponebla, ekstraktata el la radiko de kelkaj sp-oj (specioj) de fabacoj, precipe el la g. (genro) dero.
 rover/o:【PIV】Skolto pli ag^a ol deksepjara.
@@ -57086,12 +57086,12 @@ Debor/a:【聖】【PIV】Virina nomo, i.a. de profetino-jug^istino en la epoko 
 Dejanir/a:【PIV】Helena virina nomo, i.a. de la edzino de Heraklo. Vd Nesso.
 Delf/oj:【史】【PIV】Helena urbo, fama pro orakolodona templo de Apolono (22°30′E, 38°29′N): ilin sendis Apolono el Delfoj; mang^i herbon fremdan, k ec^ en Delfoj! X.
 Delil/a:【聖】【PIV】La amoristino, kiu perfidis S^ims^onon.
-delt/a⟦三角洲/a⟧:【PIV】Delto 1.
+delta:【PIV】Delto 1.
 Demeter:【神話】【PIV】Helena diino de Tero, patrino de Persefono. Vd Ceres.
 ##重複語depes^/o:【PIV】Urg^a sciigo, precipe oficiala komunikaj^o, sendita per plej rapida vojo: diplomatia depes^o. Vd mesag^o, telegramo. depes^i (tr) Sciigi per depes^o.
 Desdemon/a:【文】【PIV】Virina protagonisto de la S^ekspira dramo «Otelo».
 ##重複語dus^/o:【PIV】S^prucigo de akvo sur la korpon, ekstere au^ interne, por lavado au^ kuracado: preni dus^on; pluva, diss^pruca dus^o; naza, vagina, intesta dus^o. dus^i (tr) Submeti iun al dus^o: dus^i sin.
-dzet/a:【PIV】= zeta.
+dzeta:【PIV】= zeta.
 ek…:【PIV】Pref. signifanta, ke la procezo komencig^as subite au^ momente (= ek-).
 Elij/a:【聖】【PIV】Nomo de profeto: Elija en ventego suprenflugis en la c^ielon X.
 Elis^/a:【聖】【PIV】Profeto, disc^iplo de Elija.
@@ -57138,7 +57138,7 @@ Hipolit/e:【神話】【PIV】Reg^ino de la Amazonoj.
 Ho-C^i-Min:【PIV】Vjetnama poeto k politikisto (1890−1969), grava gvidanto de la batalo por sendependeco de Vjetnamio. Ho-C^i-Min-Urbo. S-Vjetnamia havenurbo (106°45′E, 10°44′N). Vd Sajgono.
 Hos^e/a:【聖】【PIV】La unua el la malgrandaj profetoj.
 Huj^/i:【PIV】= Fuj^i.
-h^/i:【PIV】La 22a grafemo de la greka alfabeto (Χ, χ), iam prononcata kh.
+h^i:【PIV】La 22a grafemo de la greka alfabeto (Χ, χ), iam prononcata kh.
 H^izkij/a:【聖】【PIV】Reg^o de Judujo.
 Idu/oj:【史】【PIV】En la latina kalendaro, la tago, kiu duonigis la monaton (la 15a en Marto, Majo, Jul., Okt., la 13a en la ceteraj): la Iduoj Martaj (tago de la murdo de Julio Cezaro). Vd Kalendoj, Nonoj.
 ilj/o:【PIV】= ilio.
@@ -57174,10 +57174,10 @@ si/n/kon/o⟦己/n/认/o⟧:【PIV】Konado pri sia propra karaktero.
 ##重複語korsaj^/o:【PIV】Parto de virina vesto, kiu kovras la supran parton de la korpo, de la s^ultroj g^is la koksoj: korsaj^o de balrobo; dekolta, altkoluma korsaj^o. Vd bluzo.
 Krass/o:【史】【PIV】Romana vira nomo, i.a. de triumviro, mortigita dum la Parta milito.
 Krizeis:【文】【PIV】La sklavino de Agamemnono.
-ks/i:【PIV】La 14a grafemo de la greka alfabeto (Ξ, ξ), prononcata ks. Vd ikso.
+ksi:【PIV】La 14a grafemo de la greka alfabeto (Ξ, ξ), prononcata ks. Vd ikso.
 Kus^:【聖】【PIV】Etiopio.
 lagopod/o⟦鸟ᴸᴰ/o⟧:【動】【PIV】G. (Lagopus) de birdoj el la ordo de galinoformaj, fam. de tetraonedoj, kun plumkovritaj piedfingroj k tre bongusta viando, i.a.: alpa lagopo (L. mutus).
-lambd/a:【解】【語】【PIV】La dekunua grafemo de la greka alfabeto (, λ), responda al l. lambdo Loko de la kunig^o de du suturoj c^e la supro de la okcipitosto: lambda fontanelo.
+lambda:【解】【語】【PIV】La dekunua grafemo de la greka alfabeto (, λ), responda al l. lambdo Loko de la kunig^o de du suturoj c^e la supro de la okcipitosto: lambda fontanelo.
 ##重複語lanc^/i:【PIV】(tr) 1 Forlasi unuafoje al la ago de fizikaj fortoj konstruaj^on (s^ipon, balonon, ponton ks), provante ties fortikecon k funkciivon.
 Laton/a:【神話】【PIV】La patrino de Apolono k Diano, kiujn s^i naskis de Jovo.
 Lau^z/i:【PIV】Laocio.
@@ -57213,7 +57213,7 @@ Obadj/a:【聖】【PIV】La kvara el la malgrandaj profetoj.
 Olg/a:【PIV】Virina nomo.
 ##重複語oligarh^/o:【PIV】Membro de oligarh^io = oligarko
 ##重複語omag^/o:【史】【PIV】Respekta promeso de fidela submetig^o, farita de vasalo al feu^destro.
-omikr/a:【PIV】La 15a grafemo de la greka alfabeto (Ο, ο), responda al mallonga o.
+omikra:【PIV】La 15a grafemo de la greka alfabeto (Ο, ο), responda al mallonga o.
 orikteropod/o⟦兽ᴼᴰ/o⟧:【動】【PIV】Afrika mamulo (unuspecia g. Orycteropus afer) el la ordo de tubetodentuloj, kun longaj kapo k oreloj, rubandforma lango k dentoj kvazau^ kunmetitaj el tubetoj; g^i mang^as termitojn.
 Os/o:【PIV】Montaro en Grekio (22°42′E, 39°47′N). Vd Peliono.
 Palas:【神話】【PIV】Kromnomo de Atena.
@@ -57222,20 +57222,20 @@ pi⟦敬ᴾ⟧:【PIV】1 La deksesa grafemo de la greka alfabeto (∏, π), res
 ##重複語pioc^/o:【PIV】Hakfosilo, konsistanta el ligna tenilo perpendikla al fera stango, de kiu unu ekstremo estas pinta k la alia plata, uzata por fosi tranc^eojn ks. pioc^i (tr) Prilabori per pioc^o: li pioc^is sian kampon.
 ##重複語plong^/i:【PIV】(ntr) 1 Lerte sin j^eti en akvon, por nag^i: li plong^is, tute nuda, por bani sin, al la river' apuda K; c^e la marc^o rifug^e plong^is rana greg' K; sporta plong^isto.
 ##重複語prestig^/o:【PIV】Imponeco, influo, akirita per antau^aj agoj, atingitaj rezultoj ks: la prestig^o de la s^tato perdis nenion B; (la Kongreso) forte levos la prestig^on de nia afero en la okuloj de la mondo. Vd au^toritato, kredito, s^atateco.
-ps/i:【PIV】La 23a grafemo de la greka alfabeto (Ψ, ψ), prononcata ps.
+psi:【PIV】La 23a grafemo de la greka alfabeto (Ψ, ψ), prononcata ps.
 pteropod/o⟦翅足/o⟧:【動】【PIV】G. (Pteropus) de mamuloj el la ordo de kiropteroj, grandaj fruktomang^antaj vespertoj, vivantaj en Afriko, Azio k Oceanio; «flughundoj».
 Rabb/i:【聖】【PIV】Alparola termino k g^entila titolo por rabeno («mia majstro»): la tiea rabeno, nomata Rabbi Abraham.
 Ragnarok:【神話】【PIV】En la skandinava mitologio, tago de la lasta jug^o, kiam c^io devas perei, ec^ la dioj.
 Rah^el:【PIV】Hebrea virina nomo: Rah^el priploras siajn filojn X.
 Rebek/a:【聖】【PIV】Virina nomo, i.a. de la edzino de Isaako.
 ##重複語rong^/i:【動】【PIV】(tr) Mordi, uzante la dentojn kiel c^izilon k forigante maldikajn pecojn: la ratoj rong^as meblojn; (f) la veng^emo rong^is lian koron. Sin. mordeti.
-rot/a⟦队ᴿ/a⟧:【PIV】La 17a grafemo de la greka alfabeto (Ρ, ρ), responda al r. rotaismo. Transformo de z al r (en historia fonetiko de L.) au^ de aliaj konsonantoj (d, precipe l) al r (ekz. en italaj k provencaj dialektoj).
+rota:【PIV】La 17a grafemo de la greka alfabeto (Ρ, ρ), responda al r. rotaismo. Transformo de z al r (en historia fonetiko de L.) au^ de aliaj konsonantoj (d, precipe l) al r (ekz. en italaj k provencaj dialektoj).
 ##重複語sandvic^/o:【食】【PIV】Mang^aj^o, konsistanta el ia nutraj^o metita inter du pantranc^oj: s^inka, ova, kaviara, kukuma sandvic^o. Vd buterpano, s^inkopano. sandvic^ejo. Budo, malgranda mang^ejo au^ parto de mang^ejo, kie oni vendas sandvic^ojn.
 Sar/a:【聖】【PIV】La edzino de Abrahamo. = Saraj
 Sar/aj:【聖】【PIV】La edzino de Abrahamo.
 c^io/sci/ant/a⟦全o/知/在/a⟧:【PIV】Havanta c^ian scion: Dio c^ioscianta X.
 hejm/o/sid/ul/o⟦家ᴴ/o/坐/者/o⟧:【PIV】Z. Homo, kiu emas resti hejme.
-sigm/a:【PIV】La 18a grafemo de la greka alfabeto (Σ, σ, ς), responda al s.
+sigma:【PIV】La 18a grafemo de la greka alfabeto (Σ, σ, ς), responda al s.
 sik/o:【宗】【PIV】Membro de hinda komunumo, fondita en Pang^abo c^. 1500 kiel monoteista sekto.
 Sit/a:【文】【PIV】Mita edzino de Ramo. Vd Ramajano.
 ##重複語skec^/o:【演】【PIV】En filmo, revuo ks, mallonga, ordinare komika sceno, formanta kompletaj^on. Vd gago.
@@ -57250,11 +57250,11 @@ tau^:【PIV】La 19a grafemo de la greka alfabeto (T, τ), responda al t.
 Teb/oj:【PIV】B. 1 Urbo en la antikva Egiptio, sur kies ruinoj staras nun la vilag^oj Karnako k Luksoro (32°40′E, 25°41′N): la centpordega Tebo.
 Temis:【PIV】Helena diino de la justeco.
 Teodor/a:【PIV】Virina nomo, i.a. de Bizanca imperiestrino.
-tet/a:【宗】【PIV】La oka grafemo de la greka alfabeto (, θ), prononcata kiel la angla senvoc^a th.
+teta:【宗】【PIV】La oka grafemo de la greka alfabeto (, θ), prononcata kiel la angla senvoc^a th.
 Titani/a:【神話】【PIV】Reg^ino de la feinoj, edzino de Oberono.
 tondr/as⟦雷/as⟧:【PIV】Au^dig^as tondro 1: se tondris en serena c^ielo, la Romanoj rigardis tion bona au^guro.
 Trock/i:【PIV】Rusa revoluciisto (1879−1940), kunlaboranto de Lenino. Trockiismo. Doktrino de la konstanta revolucio, kontrau^metita de Trocki al la stalinismo.
-upsil/a:【PIV】La 20a grafemo de la greka alfabeto (Υ, υ), prononcata kiel la franca u au^ la germana ü, ofte transskribata per y. Vd ipsilono.
+upsila:【PIV】La 20a grafemo de la greka alfabeto (Υ, υ), prononcata kiel la franca u au^ la germana ü, ofte transskribata per y. Vd ipsilono.
 ##重複語urg^/i:【PIV】(tr) Vigle plirapidigi, vive akceli: ne c^esu ilin urg^i k bone komprenigi al ili, ke estas tre grave, ke ili venu; la Egiptoj urg^is la popolon, por pli rapide elirigi ilin el la lando; la cirkonstancoj urg^as nin forlasi la landon.
 Urij/a:【聖】【PIV】Hitito, edzo de Bat-S^eba; lian pereon organizis Davido, amanto de Bat-S^eba.
 Ut-Napis^tim:【神話】【PIV】Akada nomo de la heroo de la «Poemo de l' Diluvo». Vd Noa, Utnoa.

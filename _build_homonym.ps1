@@ -139,6 +139,12 @@ $existing=@(
  #   meta/karp は「手根を超えた部位=中手/掌骨」ゆえ 超ᴹ/腕ᴷ が分解鏡像として正しい(§3.1)。
  #   コイ義の karp/o・karp/id/o(仔ゴイ)は disc外で 鲤 を維持。amb行と同一(groupkey,seg)ゆえ id も同一に揃う。
  @('karp','腕','meta/karp/o,meta/karp/a','','karp(解剖 karpo=手根)→腕: 正本が metakarp→meta/karp へ分解した際に【魚】コイ 鲤 を拾う偽の友を是正。中手=手根を超えた部位。コイ義 karp/o・karp/id/o は disc外で鲤維持'),
+ # 2026-08-02 正本ドリフト是正(第31レンズ回の同期で[K]監査が検出): glosofaring/a(舌咽神経の) が
+ #   glos/o/faring/a へ分解され、glos が【言】注釈=注ᴳ を拾って ⟦注ᴳ/o/咽/a⟧「注釈の咽頭」の偽の友になった
+ #   (rib→醋栗・karp→鲤 と同型)。この glos- は希 γλῶσσα=舌 であり、本プロジェクトは既に
+ #   glosektomi=舌除・glosit=舌炎・hipoglos=亚舌 と 舌 で描いている。舌咽神経は日中とも「舌咽」。
+ #   注釈義 glos/o・glos/ar/o(用語集) は disc外で 注ᴳ を維持。
+ @('glos','舌','glos/o/faring/a','','glos(希 glossa=舌)→舌: 正本が glosofaringa→glos/o/faring/a へ分解した際に【言】注釈 注ᴳ を拾う偽の友を是正。既存 glosektomi舌除/glosit舌炎/hipoglos亚舌 と一致。注釈義 glos/o・glos/ar/o は disc外で注ᴳ維持'),
  # 2026-07-26 第12レンズ(学習順序シミュレーション)でSI接頭辞ファミリを実測中に露出した偽の友。
  #   mili/o は SI接頭辞 milli- ではなく【植】Milium(雑穀・キビ属)。語釈自身が >>setario >>panico >>ekinoklo >>sorgo と
  #   同じイネ科雑穀を相互参照しており、その一族は既に 粟 群(panic=粟・setari=粟ˢ・ekinokl=粟ᴱ)で揃っている。
